@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Não rastrear áreas administrativas / API
+Disallow: /admin.html
+Disallow: /api/
+
+Sitemap: https://mangabankai.vercel.app/sitemap.xml

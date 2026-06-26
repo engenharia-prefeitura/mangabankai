@@ -11,8 +11,12 @@
   <meta id="ogTitle" property="og:title" content="MangaBankai">
   <meta id="ogDesc" property="og:description" content="Leia mangás e manhwas online.">
   <meta id="ogImage" property="og:image" content="">
+  <meta id="ogUrl" property="og:url" content="">
   <meta property="og:type" content="book">
+  <meta property="og:site_name" content="MangaBankai">
+  <meta id="twImage" name="twitter:image" content="">
   <meta name="twitter:card" content="summary_large_image">
+  <link id="canonical" rel="canonical" href="">
   <link rel="stylesheet" href="css/style.css">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📖</text></svg>">
 </head>
@@ -143,10 +147,17 @@
       try {
         const _d = (manga.description || manga.descriptionPt || '').slice(0, 160) || ('Leia ' + manga.title + ' online.');
         const _set = (id, val) => { const el = document.getElementById(id); if (el) el.setAttribute('content', val); };
+        // og:image precisa ser absoluta (capas via /api/img-proxy são relativas → crawlers não resolvem)
+        const _cover = manga.cover || '';
+        const _absCover = _cover && !/^https?:\/\//.test(_cover) ? (location.origin + _cover) : _cover;
+        const _url = location.origin + '/manga.html?id=' + encodeURIComponent(manga.id);
         _set('metaDesc', _d);
         _set('ogTitle', manga.title + ' — MangaBankai');
         _set('ogDesc', _d);
-        _set('ogImage', manga.cover || '');
+        _set('ogImage', _absCover);
+        _set('twImage', _absCover);
+        _set('ogUrl', _url);
+        const _can = document.getElementById('canonical'); if (_can) _can.setAttribute('href', _url);
       } catch (e) {}
 
       // Load chapters from chapters.json

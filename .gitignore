@@ -19,6 +19,7 @@ admin-progress.json
 js/data-lite.js
 js/home.json
 js/manga-search.json
+sitemap.xml
 
 # OS
 .DS_Store

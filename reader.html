@@ -5,8 +5,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="referrer" content="no-referrer">
   <title>Leitor — MangaBankai</title>
+  <meta name="description" id="metaDesc" content="Leia capítulos de mangá online no MangaBankai.">
   <meta name="theme-color" content="#000000">
   <link rel="manifest" href="manifest.json">
+  <meta id="ogTitle" property="og:title" content="MangaBankai">
+  <meta id="ogDesc" property="og:description" content="Leia capítulos de mangá online no MangaBankai.">
+  <meta id="ogImage" property="og:image" content="">
+  <meta id="ogUrl" property="og:url" content="">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="MangaBankai">
+  <meta id="twImage" name="twitter:image" content="">
+  <meta name="twitter:card" content="summary_large_image">
+  <link id="canonical" rel="canonical" href="">
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/reader.css">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📖</text></svg>">
@@ -115,6 +125,9 @@
         <button id="nextPageBtn" onclick="navPage(1)">Próxima ›</button>
         <button id="nextChapterBtn" onclick="navChapter(1)">Próximo Capítulo ›</button>
       </div>
+
+      <!-- Fim do capítulo: navegação em destaque + relacionados (mais páginas/sessão + SEO) -->
+      <div class="chapter-end" id="chapterEnd" style="display:none; max-width:1000px; margin:32px auto; padding:0 16px;"></div>
 
     </div>
   </div>
@@ -301,6 +314,24 @@
 
       const title = manga ? manga.title : slug;
       document.title = `${title} — Capítulo ${chapter.number} — MangaBankai`;
+
+      // SEO / Open Graph dinâmico do capítulo
+      try {
+        const _pageTitle = `${title} — Capítulo ${chapter.number}`;
+        const _desc = `Leia ${title} capítulo ${chapter.number} online em ${lang === 'pt' ? 'português' : 'inglês'} no MangaBankai.`;
+        const _cover = (manga && manga.cover) || '';
+        const _absCover = _cover && !/^https?:\/\//.test(_cover) ? (location.origin + _cover) : _cover;
+        const _url = `${location.origin}/reader.html?manga=${encodeURIComponent(slug)}&chapter=${encodeURIComponent(chapter.id)}&lang=${lang}`;
+        const _set = (id, attr, val) => { const el = document.getElementById(id); if (el) el.setAttribute(attr, val); };
+        _set('metaDesc', 'content', _desc);
+        _set('ogTitle', 'content', _pageTitle + ' — MangaBankai');
+        _set('ogDesc', 'content', _desc);
+        _set('ogImage', 'content', _absCover);
+        _set('twImage', 'content', _absCover);
+        _set('ogUrl', 'content', _url);
+        _set('canonical', 'href', _url);
+      } catch (e) {}
+
       document.getElementById('readerTitle').textContent = title;
       document.getElementById('readerChapter').textContent = `Capítulo ${chapter.number}`;
       document.getElementById('readerBackManga').href = `manga.html?id=${slug}`;
@@ -343,6 +374,9 @@
       const chIdx = chaptersList.findIndex(c => c.id === chapter.id);
       document.getElementById('prevChapterBtn').disabled = chIdx === 0;
       document.getElementById('nextChapterBtn').disabled = chIdx === chaptersList.length - 1;
+
+      // Bloco de fim de capítulo (navegação grande + relacionados)
+      renderChapterEnd(manga, slug, chIdx);
 
       renderPages();
       saveProgress(slug, chapter.id, 0, pages.length);
@@ -548,6 +582,62 @@
         const params = getParams();
         window.location.href = `reader.html?manga=${currentMangaSlug}&chapter=${ch.id}&lang=${params.lang}`;
       }
+    }
+
+    // Capas do MangaFreak precisam passar pelo proxy (hotlink protection)
+    function rdProxyCover(cover) {
+      if (!cover) return '';
+      if (cover.startsWith('https://images.mangafreak.me/')) return '/api/img-proxy?url=' + encodeURIComponent(cover);
+      if (cover.includes('placeholder.jpg')) return '';
+      return cover;
+    }
+
+    // Bloco no fim do capítulo: navegação grande + mangás relacionados.
+    // Aumenta páginas por sessão (mais anúncios) e cria links internos (SEO).
+    function renderChapterEnd(manga, slug, chIdx) {
+      const box = document.getElementById('chapterEnd');
+      if (!box) return;
+      const hasPrev = chIdx > 0;
+      const hasNext = chIdx < chaptersList.length - 1;
+
+      // Relacionados: mangás que compartilham ao menos um gênero
+      let related = [];
+      try {
+        if (manga && Array.isArray(manga.genres) && typeof MANGA_DATA !== 'undefined') {
+          const gset = new Set(manga.genres);
+          related = MANGA_DATA.filter(m => m && m.id !== manga.id && Array.isArray(m.genres) && m.genres.some(g => gset.has(g))).slice(0, 6);
+        }
+      } catch (e) {}
+
+      const navBtns = `
+        <div style="display:flex; gap:12px; justify-content:center; flex-wrap:wrap; margin-bottom:8px;">
+          <button onclick="navChapter(-1)" ${hasPrev ? '' : 'disabled'} style="padding:12px 22px; border-radius:12px; border:1px solid var(--border,#333); background:rgba(255,255,255,0.05); color:var(--text,#eee); font-weight:600; cursor:${hasPrev ? 'pointer' : 'not-allowed'}; opacity:${hasPrev ? '1' : '0.4'};">‹ Capítulo Anterior</button>
+          <a href="manga.html?id=${encodeURIComponent(slug)}" style="padding:12px 22px; border-radius:12px; border:1px solid var(--border,#333); background:rgba(255,255,255,0.05); color:var(--text,#eee); font-weight:600; text-decoration:none; display:inline-flex; align-items:center;">📚 Todos os capítulos</a>
+          <button onclick="navChapter(1)" ${hasNext ? '' : 'disabled'} style="padding:12px 26px; border-radius:12px; border:none; background:var(--accent,#6c63ff); color:#fff; font-weight:700; cursor:${hasNext ? 'pointer' : 'not-allowed'}; opacity:${hasNext ? '1' : '0.4'};">Próximo Capítulo ›</button>
+        </div>`;
+
+      let relHtml = '';
+      if (related.length) {
+        relHtml = `
+          <div style="margin-top:28px;">
+            <h3 style="font-size:1rem; margin-bottom:14px; color:var(--text,#eee);">Você também pode gostar</h3>
+            <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(110px, 1fr)); gap:14px;">
+              ${related.map(m => {
+                const cov = rdProxyCover(m.cover);
+                const img = cov
+                  ? `<img src="${cov}" alt="${(m.title||'').replace(/"/g,'&quot;')}" referrerPolicy="no-referrer" loading="lazy" style="width:100%; aspect-ratio:2/3; object-fit:cover; border-radius:8px;" onerror="this.style.visibility='hidden'">`
+                  : `<div style="width:100%; aspect-ratio:2/3; background:rgba(255,255,255,0.08); border-radius:8px;"></div>`;
+                return `<a href="manga.html?id=${encodeURIComponent(m.id)}" style="text-decoration:none; color:var(--text,#eee);">
+                  ${img}
+                  <div style="font-size:0.78rem; margin-top:6px; line-height:1.3; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;">${(m.title||'').replace(/</g,'&lt;')}</div>
+                </a>`;
+              }).join('')}
+            </div>
+          </div>`;
+      }
+
+      box.innerHTML = navBtns + relHtml;
+      box.style.display = 'block';
     }
 
     // ========== KEYBOARD ==========

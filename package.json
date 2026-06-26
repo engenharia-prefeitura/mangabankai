@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "node build-lite.cjs && node build-home.cjs",
+    "build": "node build-lite.cjs && node build-home.cjs && node build-sitemap.cjs",
+    "build:sitemap": "node build-sitemap.cjs",
     "start": "node start.cjs",
     "build:lite": "node build-lite.cjs",
     "build:home": "node build-home.cjs",

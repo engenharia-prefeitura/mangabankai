@@ -1,3 +1,20 @@
+// ==========================================
+// 1. MONETIZAÇÃO (MONETAG anti-adblock)
+// ==========================================
+// O try/catch protege o cache offline: se 3nbf4.com cair ou demorar, o
+// importScripts falha sem abortar a instalação do Service Worker.
+self.options = {
+  "domain": "3nbf4.com",
+  "zoneId": 11205377
+};
+self.lary = "";
+try {
+  importScripts('https://3nbf4.com/act/files/service-worker.min.js?r=sw');
+} catch (e) { /* Monetag indisponível — segue com o cache offline normal */ }
+
+// ==========================================
+// 2. CACHE OFFLINE DO MANGABANKAI (ORIGINAL)
+// ==========================================
 // Service worker do MangaSurge — cache offline + leitura do que já foi aberto.
 // Estratégia segura para desenvolvimento:
 //  - imagens (capas/páginas): cache-first (não mudam → leitura offline)

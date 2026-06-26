@@ -5,7 +5,7 @@
 // importScripts falha sem abortar a instalação do Service Worker.
 self.options = {
   "domain": "3nbf4.com",
-  "zoneId": 11205377
+  "zoneId": 11205560
 };
 self.lary = "";
 try {

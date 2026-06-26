@@ -517,15 +517,15 @@ function applyMsg(d) {
 
 function connect() {
   if (!SCRAPER_URL) {
-    // No Vercel: esconde tudo relacionado a scraping
+    // No Vercel: usa o scraper via GitHub Actions (seção scraperCloud).
+    // Esconde os controles do servidor local (cards de workers, log em tempo real, status de conexão).
     document.querySelector('.conn-status').style.display = 'none';
     document.getElementById('scraperCards').style.display = 'none';
     document.getElementById('logBox').style.display = 'none';
-    document.getElementById('notice').innerHTML =
-      '⚠️ O scraping de dados só funciona localmente. Execute <code>node admin-server.cjs</code> em sua máquina e abra o admin em <code>localhost:3000/admin.html</code>. A seção de visibilidade abaixo funciona normalmente.';
-    document.getElementById('notice').classList.add('show');
     return;
   }
+  // Local: usa admin-server.cjs; esconde a seção de scraping na nuvem.
+  document.getElementById('scraperCloud').style.display = 'none';
   if (es) { es.close(); es = null; }
   try {
     es = new EventSource(`${SCRAPER_URL}/events`);

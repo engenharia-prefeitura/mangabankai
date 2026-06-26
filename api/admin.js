@@ -5,7 +5,8 @@ const fs = require('fs');
 const path = require('path');
 
 const JWT_SECRET = process.env.JWT_SECRET || 'mangabankai-secret-default-key-12345';
-const GITHUB_PAT = process.env.GITHUB_PAT;
+// .trim() remove \r\n ou espaços acidentais (ex: token colado via PowerShell echo)
+const GITHUB_PAT = (process.env.GITHUB_PAT || '').trim();
 const GITHUB_OWNER = 'engenharia-prefeitura';
 const GITHUB_REPO = 'mangabankai';
 const WORKFLOW_FILE = 'update.yml';

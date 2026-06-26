@@ -256,10 +256,17 @@ function mangaDataBounds(content) {
   const marker = content.indexOf('MANGA_DATA = [');
   if (marker < 0) throw new Error('MANGA_DATA não encontrado em data.js');
   const startIdx = content.indexOf('[', marker);
-  let depth = 0, endIdx = startIdx;
+  // Parser string-aware: ignora [ e ] dentro de strings JSON (ex: título "Chii-chan ]")
+  let depth = 0, inStr = false, esc = false, endIdx = startIdx;
   for (let i = startIdx; i < content.length; i++) {
-    if (content[i] === '[') depth++;
-    if (content[i] === ']') { depth--; if (depth === 0) { endIdx = i + 1; break; } }
+    const c = content[i];
+    if (esc) { esc = false; continue; }
+    if (c === '\\') { esc = true; continue; }
+    if (c === '"') { inStr = !inStr; continue; }
+    if (!inStr) {
+      if (c === '[') depth++;
+      else if (c === ']') { depth--; if (depth === 0) { endIdx = i + 1; break; } }
+    }
   }
   return { startIdx, endIdx };
 }

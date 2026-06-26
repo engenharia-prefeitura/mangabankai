@@ -11,14 +11,17 @@ let genreSet = new Set();
 const marker = dataJs.indexOf('MANGA_DATA = [');
 if (marker < 0) throw new Error('MANGA_DATA não encontrado em data.js');
 const arrayStart = dataJs.indexOf('[', marker);
-// Find matching ] - count opening/closing brackets
-let depth = 0;
+// Find matching ] - parser string-aware: ignora [ e ] dentro de strings JSON
+let depth = 0, inStr = false, esc = false;
 let arrayEnd = arrayStart;
 for (let i = arrayStart; i < dataJs.length; i++) {
-  if (dataJs[i] === '[') depth++;
-  if (dataJs[i] === ']') {
-    depth--;
-    if (depth === 0) { arrayEnd = i + 1; break; }
+  const c = dataJs[i];
+  if (esc) { esc = false; continue; }
+  if (c === '\\') { esc = true; continue; }
+  if (c === '"') { inStr = !inStr; continue; }
+  if (!inStr) {
+    if (c === '[') depth++;
+    else if (c === ']') { depth--; if (depth === 0) { arrayEnd = i + 1; break; } }
   }
 }
 

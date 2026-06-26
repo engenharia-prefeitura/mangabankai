@@ -16,6 +16,10 @@ on:
   schedule:
     - cron: '0 4 * * *'  # 4h UTC = 1h BRT
 
+# Permite que o GITHUB_TOKEN faça push das atualizacoes de volta ao repo
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest

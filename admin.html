@@ -59,6 +59,20 @@
     .notice.show { display:block; }
     .notice code { background:rgba(0,0,0,.3); padding:2px 7px; border-radius:5px; }
 
+    /* Scraper remoto */
+    .scraper-cloud { background:var(--surface); border:1px solid var(--border); border-radius:16px; padding:24px; margin-bottom:28px; }
+    .scraper-cloud h2 { font-size:1rem; font-weight:600; margin-bottom:16px; }
+    .trigger-btns { display:flex; gap:10px; flex-wrap:wrap; margin-bottom:16px; }
+    .run-status { background:var(--surface2); border-radius:10px; padding:14px 16px; font-size:.85rem; display:none; }
+    .run-status.show { display:block; }
+    .run-status a { color:var(--accent); text-decoration:none; }
+    .run-status a:hover { text-decoration:underline; }
+    .run-dot { display:inline-block; width:8px; height:8px; border-radius:50%; margin-right:6px; background:var(--muted); }
+    .run-dot.queued { background:var(--yellow); }
+    .run-dot.in_progress { background:var(--green); animation:pulse 1.5s infinite; }
+    .run-dot.completed { background:var(--green); }
+    .run-dot.failed { background:var(--red); }
+
     /* Cards */
     .cards { display:grid; grid-template-columns:1fr 1fr; gap:20px; margin-bottom:28px; }
     .card { background:var(--surface); border:1px solid var(--border); border-radius:16px; padding:24px; position:relative; overflow:hidden; }
@@ -223,6 +237,17 @@
   </div>
   <div class="notice" id="notice">
     ⚠️ Servidor admin offline. Abra um terminal e execute: <code>node admin-server.cjs</code>
+  </div>
+
+  <!-- Scraper via GitHub Actions (funciona em qualquer lugar) -->
+  <div class="scraper-cloud" id="scraperCloud">
+    <h2>🔄 Atualizar Dados dos Mangás</h2>
+    <div class="trigger-btns">
+      <button class="btn btn-start" onclick="triggerScrape('all')">▶ Atualizar Tudo</button>
+      <button class="btn" style="background:var(--pt);color:#000" onclick="triggerScrape('pt-only')">🇧🇷 Só PT</button>
+      <button class="btn" style="background:var(--en);color:#fff" onclick="triggerScrape('en-only')">🇬🇧 Só EN</button>
+    </div>
+    <div class="run-status" id="runStatus"></div>
   </div>
 
   <div class="cards" id="scraperCards">
@@ -624,6 +649,58 @@ async function toggleHidden(id, hidden) {
     body: JSON.stringify({ id, hidden })
   }).catch(() => {});
   await visSearch();
+}
+
+// ── Scraper via GitHub Actions ─────────────────────────────────────────
+let _pollInterval = null;
+
+async function triggerScrape(target) {
+  const statusEl = document.getElementById('runStatus');
+  statusEl.className = 'run-status show';
+  statusEl.innerHTML = '<span class="run-dot queued"></span> Disparando workflow...';
+
+  try {
+    const res = await fetch('/api/admin/trigger-scrape', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ target })
+    });
+    const data = await res.json();
+    if (!data.ok) {
+      statusEl.innerHTML = `<span class="run-dot failed"></span> Erro: ${data.error || 'falha ao disparar'}`;
+      return;
+    }
+    showRunStatus({ status: data.status || 'queued', runUrl: data.runUrl, conclusion: null });
+    if (data.runId) startPolling(data.runId, data.runUrl);
+  } catch (e) {
+    statusEl.innerHTML = `<span class="run-dot failed"></span> Erro de rede: ${e.message}`;
+  }
+}
+
+function showRunStatus({ status, conclusion, runUrl }) {
+  const statusEl = document.getElementById('runStatus');
+  const dotCls = conclusion === 'failure' ? 'failed' : (status === 'completed' ? 'completed' : status);
+  let label;
+  if (status === 'queued') label = 'Na fila...';
+  else if (status === 'in_progress') label = 'Scraping em andamento...';
+  else if (status === 'completed' && conclusion === 'success') label = '✅ Concluído! O site será atualizado em breve.';
+  else if (status === 'completed') label = `⚠️ Finalizado com status: ${conclusion}`;
+  else label = status;
+
+  statusEl.className = 'run-status show';
+  statusEl.innerHTML = `<span class="run-dot ${dotCls}"></span> ${label} — <a href="${runUrl}" target="_blank">Ver progresso no GitHub Actions ↗</a>`;
+}
+
+function startPolling(runId, runUrl) {
+  if (_pollInterval) clearInterval(_pollInterval);
+  _pollInterval = setInterval(async () => {
+    try {
+      const res = await fetch(`/api/admin/scrape-status?runId=${runId}`);
+      const data = await res.json();
+      showRunStatus({ status: data.status, conclusion: data.conclusion, runUrl: data.runUrl || runUrl });
+      if (data.status === 'completed') clearInterval(_pollInterval);
+    } catch (_) {}
+  }, 15000); // verifica a cada 15s
 }
 
 // Load hidden list on page load

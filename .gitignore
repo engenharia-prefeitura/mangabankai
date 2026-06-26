@@ -1,5 +1,12 @@
 node_modules/
 
+# Claude Code (sessões e configurações locais)
+.claude/
+
+# Arquivos de backup e temporários
+*.bak
+admin-progress.json
+
 # Variáveis de ambiente
 .env
 .env.local

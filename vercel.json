@@ -2,5 +2,10 @@
   "buildCommand": "node build-lite.cjs && node build-home.cjs",
   "outputDirectory": ".",
   "framework": null,
-  "installCommand": "npm install"
+  "installCommand": "npm install",
+  "rewrites": [
+    { "source": "/api/auth/:action", "destination": "/api/auth?action=:action" },
+    { "source": "/api/admin/:action", "destination": "/api/admin?action=:action" },
+    { "source": "/api/manga/:action", "destination": "/api/manga?action=:action" }
+  ]
 }

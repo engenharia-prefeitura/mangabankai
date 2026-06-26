@@ -1,0 +1,1768 @@
+{
+  "en": [
+    {
+      "id": "witch-watch-1",
+      "number": "1",
+      "title": "Witch's Return",
+      "date": "2021/02/28",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-2",
+      "number": "2",
+      "title": "Magical Duo",
+      "date": "2021/02/28",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-3",
+      "number": "3",
+      "title": "A Giant Rookie",
+      "date": "2021/02/28",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-4",
+      "number": "4",
+      "title": "Let's Go to a Family Restaurant",
+      "date": "2021/02/28",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-5",
+      "number": "5",
+      "title": "The Flying Classroom",
+      "date": "2021/03/07",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-6",
+      "number": "6",
+      "title": "Fresh Spring Transparent Fashions",
+      "date": "2021/03/14",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-7",
+      "number": "7",
+      "title": "Witch's Delivery Service",
+      "date": "2021/03/21",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-8",
+      "number": "8",
+      "title": "Lost Dogs & the Patter of Rain",
+      "date": "2021/03/28",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-9",
+      "number": "9",
+      "title": "Kanshi Kazamatsuri the Tengu",
+      "date": "2021/04/04",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-10",
+      "number": "10",
+      "title": "A Flying Demon",
+      "date": "2021/04/11",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-11",
+      "number": "11",
+      "title": "A Friendly Scrum",
+      "date": "2021/04/18",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-12",
+      "number": "12",
+      "title": "Flutter Your Hair in the Hall",
+      "date": "2021/04/25",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-13",
+      "number": "13",
+      "title": "My Student Is My Favorite Fan Artist",
+      "date": "2021/05/09",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-14",
+      "number": "14",
+      "title": "My Tummy Is Tender Today",
+      "date": "2021/05/16",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-15",
+      "number": "15",
+      "title": "Cat Scout",
+      "date": "2021/05/23",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-16",
+      "number": "16",
+      "title": "Under the Lover's Tree, Part 1",
+      "date": "2021/05/30",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-17",
+      "number": "17",
+      "title": "Under the Lover's Tree, Part 2",
+      "date": "2021/06/06",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-18",
+      "number": "18",
+      "title": "Kanshi's Part Time Job Diaries ~ The Superhero Show ~",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-19",
+      "number": "19",
+      "title": "Dear Kara",
+      "date": "2021/06/20",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-20",
+      "number": "20",
+      "title": "Kan & Nico's Channel",
+      "date": "2021/06/27",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-21",
+      "number": "21",
+      "title": "A Stray Cat's Bubble of Bliss",
+      "date": "2021/07/04",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-22",
+      "number": "22",
+      "title": "Dogs and Raindrops: Part 1",
+      "date": "2021/07/11",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-23",
+      "number": "23",
+      "title": "Dogs and Raindrops: Part 2",
+      "date": "2021/07/18",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-24",
+      "number": "24",
+      "title": "Dogs and Raindrops: Part 3",
+      "date": "2021/08/01",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-25",
+      "number": "25",
+      "title": "Dogs and Raindrops: Part 4",
+      "date": "2021/08/09",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-26",
+      "number": "26",
+      "title": "Dogs and Raindrops: Part 5",
+      "date": "2021/08/22",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-27",
+      "number": "27",
+      "title": "Dogs and Raindrops: Part 6",
+      "date": "2021/08/29",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-28",
+      "number": "28",
+      "title": "Dogs and Raindrops: Part 7",
+      "date": "2021/09/05",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-29",
+      "number": "29",
+      "title": "Dogs and Raindrops: Part 8",
+      "date": "2021/09/12",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-30",
+      "number": "30",
+      "title": "Keigo Magami, the Werewolf",
+      "date": "2021/09/17",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-31",
+      "number": "31",
+      "title": "Release the Romance",
+      "date": "2021/09/26",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-32",
+      "number": "32",
+      "title": "The Tea Ceremony Is a Piece of Tea Cake",
+      "date": "2021/10/03",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-33",
+      "number": "33",
+      "title": "Kind Tiger, Proud Wolf",
+      "date": "2021/10/10",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-34",
+      "number": "34",
+      "title": "Diary of My Favorite Artist",
+      "date": "2021/10/17",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-35",
+      "number": "35",
+      "title": "New Friends",
+      "date": "2021/10/24",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-36",
+      "number": "36",
+      "title": "A Date With the Knight",
+      "date": "2021/10/31",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-37",
+      "number": "37",
+      "title": "Kanshi's Part Time Job Diaries ~The Side Job~",
+      "date": "2021/11/07",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-38",
+      "number": "38",
+      "title": "A Trope-tacular Student Council",
+      "date": "2021/11/14",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-39",
+      "number": "39",
+      "title": "The Student Council Introductions Video",
+      "date": "2021/11/21",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-40",
+      "number": "40",
+      "title": "Please, Morihito Sensei",
+      "date": "2021/11/28",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-41",
+      "number": "41",
+      "title": "I'm So Glad You're Here",
+      "date": "2021/12/05",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-42",
+      "number": "42",
+      "title": "Summer Monsters, Part 1",
+      "date": "2021/12/12",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-43",
+      "number": "43",
+      "title": "Summer Monsters, Part 2",
+      "date": "2021/12/19",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-44",
+      "number": "44",
+      "title": "Summer Monsters, Part 3",
+      "date": "2022/01/03",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-45",
+      "number": "45",
+      "title": "Miharu Kiryu, the Vampire",
+      "date": "2022/01/16",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-46",
+      "number": "46",
+      "title": "Box Body Boys",
+      "date": "2022/01/23",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-47",
+      "number": "47",
+      "title": "The Creative Spark",
+      "date": "2022/01/30",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-48",
+      "number": "48",
+      "title": "Uron Mirage",
+      "date": "2022/02/06",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-49",
+      "number": "49",
+      "title": "Missing Parasol",
+      "date": "2022/02/13",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-50",
+      "number": "50",
+      "title": "Moi's Denim Devotion",
+      "date": "2022/02/20",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-51",
+      "number": "51",
+      "title": "A Freshman Witch and…",
+      "date": "2022/02/27",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-52",
+      "number": "52",
+      "title": "Her Familiars",
+      "date": "2022/03/06",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-53",
+      "number": "53",
+      "title": "Peering into the Abyss of the Universe",
+      "date": "2022/03/13",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-54",
+      "number": "54",
+      "title": "Easy Spices for Enthralling Cooking",
+      "date": "2022/03/18",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-55",
+      "number": "55",
+      "title": "We Got Trapped in a Death Game, But It Sucked",
+      "date": "2022/03/27",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-56",
+      "number": "56",
+      "title": "Student Council President for a Day",
+      "date": "2022/04/03",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-57",
+      "number": "57",
+      "title": "Kanshi's Part-Time Diaries ~The Cafe~",
+      "date": "2022/04/10",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-58",
+      "number": "58",
+      "title": "The Lost Wolf and the Stray Cat, Part 1",
+      "date": "2022/04/17",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-59",
+      "number": "59",
+      "title": "The Lost Wolf and the Stray Cat, Part 2",
+      "date": "2022/04/24",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-60",
+      "number": "60",
+      "title": "Scramble Scrap Squad",
+      "date": "2022/05/08",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-61",
+      "number": "61",
+      "title": "Letter From a Friend, Part 1",
+      "date": "2022/05/15",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-62",
+      "number": "62",
+      "title": "Letter From a Friend, Part 2",
+      "date": "2022/05/22",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-63",
+      "number": "63",
+      "title": "Kara & Shiki",
+      "date": "2022/05/29",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-64",
+      "number": "64",
+      "title": "Mega Marble Mania Madness",
+      "date": "2022/06/05",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-65",
+      "number": "65",
+      "title": "Long Long a Go Go, Part 1",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-66",
+      "number": "66",
+      "title": "Long Long a Go Go, Part 2",
+      "date": "2022/06/19",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-67",
+      "number": "67",
+      "title": "Our First Offline Meetup",
+      "date": "2022/06/26",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-68",
+      "number": "68",
+      "title": "Immersion War",
+      "date": "2022/07/03",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-69",
+      "number": "69",
+      "title": "Mad Magic Making",
+      "date": "2022/07/10",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-70",
+      "number": "70",
+      "title": "Secret Urges",
+      "date": "2022/07/18",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-71",
+      "number": "71",
+      "title": "Lucky Birthday",
+      "date": "2022/07/24",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-72",
+      "number": "72",
+      "title": "Magically Mighty Momochi",
+      "date": "2022/07/31",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-73",
+      "number": "73",
+      "title": "While the Cat's Away, the Mice Will Play!",
+      "date": "2022/08/07",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-74",
+      "number": "74",
+      "title": "Jekyll Visits the Otogi House",
+      "date": "2022/08/21",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-75",
+      "number": "75",
+      "title": "The Incredible Shrinking Adventure",
+      "date": "2022/08/28",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-76",
+      "number": "76",
+      "title": "Moi's Denim Devotion, Part 2",
+      "date": "2022/09/11",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-77",
+      "number": "77",
+      "title": "The Hamazaki Fall Bread Festival",
+      "date": "2022/09/19",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-78",
+      "number": "78",
+      "title": "Pajama Party",
+      "date": "2022/09/25",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-79",
+      "number": "79",
+      "title": "Get a Geta!",
+      "date": "2022/10/02",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-80",
+      "number": "80",
+      "title": "",
+      "date": "2022/10/10",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-81",
+      "number": "81",
+      "title": "Fave Artist File Crazy Events Arc",
+      "date": "2022/10/16",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-82",
+      "number": "82",
+      "title": "Autumn Storms, Part 1",
+      "date": "2022/10/23",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-83",
+      "number": "83",
+      "title": "Autumn Storms, Part 2",
+      "date": "2022/10/30",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-84",
+      "number": "84",
+      "title": "Autumn Storms, Part 3",
+      "date": "2022/11/06",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-85",
+      "number": "85",
+      "title": "Autumn Storms, Part 4",
+      "date": "2022/11/13",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-86",
+      "number": "86",
+      "title": "Autumn Storms, Part 5",
+      "date": "2022/11/20",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-87",
+      "number": "87",
+      "title": "",
+      "date": "2022/11/27",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-88",
+      "number": "88",
+      "title": "",
+      "date": "2022/12/04",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-89",
+      "number": "89",
+      "title": "A Lady of Sorrow",
+      "date": "2022/12/11",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-90",
+      "number": "90",
+      "title": "",
+      "date": "2022/12/18",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-91",
+      "number": "91",
+      "title": "",
+      "date": "2022/12/25",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-92",
+      "number": "92",
+      "title": "",
+      "date": "2023/01/06",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-93",
+      "number": "93",
+      "title": "",
+      "date": "2023/01/22",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-94",
+      "number": "94",
+      "title": "",
+      "date": "2023/01/29",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-95",
+      "number": "95",
+      "title": "",
+      "date": "2023/02/05",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-96",
+      "number": "96",
+      "title": "Duet Dance, Part 2",
+      "date": "2023/02/12",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-97",
+      "number": "97",
+      "title": "",
+      "date": "2023/02/19",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-98",
+      "number": "98",
+      "title": "",
+      "date": "2023/02/26",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-99",
+      "number": "99",
+      "title": "",
+      "date": "2023/03/05",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-100",
+      "number": "100",
+      "title": "The Mist Mission, Part 9",
+      "date": "2023/03/12",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-101",
+      "number": "101",
+      "title": "",
+      "date": "2023/03/19",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-102",
+      "number": "102",
+      "title": "",
+      "date": "2023/03/26",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-103",
+      "number": "103",
+      "title": "",
+      "date": "2023/04/02",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-104",
+      "number": "104",
+      "title": "",
+      "date": "2023/04/09",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-105",
+      "number": "105",
+      "title": "",
+      "date": "2023/04/16",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-106",
+      "number": "106",
+      "title": "",
+      "date": "2023/04/23",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-107",
+      "number": "107",
+      "title": "",
+      "date": "2023/05/07",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-108",
+      "number": "108",
+      "title": "Collapse",
+      "date": "2023/05/14",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-109",
+      "number": "109",
+      "title": "",
+      "date": "2023/05/21",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-110",
+      "number": "110",
+      "title": "",
+      "date": "2023/05/28",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-111",
+      "number": "111",
+      "title": "",
+      "date": "2023/06/04",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-112",
+      "number": "112",
+      "title": "The Perfect Day for a Confession",
+      "date": "2023/06/11",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-113",
+      "number": "113",
+      "title": "",
+      "date": "2023/06/18",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-114",
+      "number": "114",
+      "title": "The Day of the Disaster, Part 1",
+      "date": "2023/06/25",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-115",
+      "number": "115",
+      "title": "",
+      "date": "2023/07/02",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-116",
+      "number": "116",
+      "title": "",
+      "date": "2023/07/09",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-117",
+      "number": "117",
+      "title": "",
+      "date": "2023/07/16",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-118",
+      "number": "118",
+      "title": "",
+      "date": "2023/07/23",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-119",
+      "number": "119",
+      "title": "",
+      "date": "2023/07/30",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-120",
+      "number": "120",
+      "title": "",
+      "date": "2023/08/06",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-121",
+      "number": "121",
+      "title": "",
+      "date": "2023/08/20",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-122",
+      "number": "122",
+      "title": "",
+      "date": "2023/08/27",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-123",
+      "number": "123",
+      "title": "",
+      "date": "2023/09/03",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-124",
+      "number": "124",
+      "title": "",
+      "date": "2023/09/10",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-125",
+      "number": "125",
+      "title": "",
+      "date": "2023/09/17",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-126",
+      "number": "126",
+      "title": "",
+      "date": "2023/09/24",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-127",
+      "number": "127",
+      "title": "",
+      "date": "2023/10/01",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-128",
+      "number": "128",
+      "title": "",
+      "date": "2023/10/08",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-129",
+      "number": "129",
+      "title": "",
+      "date": "2023/10/15",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-130",
+      "number": "130",
+      "title": "",
+      "date": "2023/10/22",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-131",
+      "number": "131",
+      "title": "",
+      "date": "2023/10/29",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-132",
+      "number": "132",
+      "title": "",
+      "date": "2023/11/12",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-133",
+      "number": "133",
+      "title": "",
+      "date": "2023/11/19",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-134",
+      "number": "134",
+      "title": "",
+      "date": "2023/11/26",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-135",
+      "number": "135",
+      "title": "",
+      "date": "2023/12/03",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-136",
+      "number": "136",
+      "title": "",
+      "date": "2023/12/10",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-137",
+      "number": "137",
+      "title": "",
+      "date": "2023/12/17",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-138",
+      "number": "138",
+      "title": "",
+      "date": "2023/12/24",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-139",
+      "number": "139",
+      "title": "",
+      "date": "2024/01/05",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-140",
+      "number": "140",
+      "title": "",
+      "date": "2024/01/21",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-141",
+      "number": "141",
+      "title": "",
+      "date": "2024/01/28",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-142",
+      "number": "142",
+      "title": "",
+      "date": "2024/02/04",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-143",
+      "number": "143",
+      "title": "",
+      "date": "2024/02/11",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-144",
+      "number": "144",
+      "title": "",
+      "date": "2024/02/18",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-145",
+      "number": "145",
+      "title": "",
+      "date": "2024/02/25",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-146",
+      "number": "146",
+      "title": "",
+      "date": "2024/03/03",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-147",
+      "number": "147",
+      "title": "",
+      "date": "2024/03/10",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-148",
+      "number": "148",
+      "title": "",
+      "date": "2024/03/17",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-149",
+      "number": "149",
+      "title": "",
+      "date": "2024/03/24",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-150",
+      "number": "150",
+      "title": "",
+      "date": "2024/03/31",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-151",
+      "number": "151",
+      "title": "",
+      "date": "2024/04/07",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-152",
+      "number": "152",
+      "title": "",
+      "date": "2024/04/14",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-153",
+      "number": "153",
+      "title": "",
+      "date": "2024/04/21",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-154",
+      "number": "154",
+      "title": "",
+      "date": "2024/04/28",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-155",
+      "number": "155",
+      "title": "",
+      "date": "2024/05/12",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-156",
+      "number": "156",
+      "title": "",
+      "date": "2024/05/19",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-157",
+      "number": "157",
+      "title": "",
+      "date": "2024/05/26",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-158",
+      "number": "158",
+      "title": "",
+      "date": "2024/06/02",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-159",
+      "number": "159",
+      "title": "",
+      "date": "2024/06/09",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-160",
+      "number": "160",
+      "title": "",
+      "date": "2024/06/16",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-161",
+      "number": "161",
+      "title": "",
+      "date": "2024/06/23",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-162",
+      "number": "162",
+      "title": "",
+      "date": "2024/06/30",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-163",
+      "number": "163",
+      "title": "",
+      "date": "2024/07/14",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-164",
+      "number": "164",
+      "title": "",
+      "date": "2024/07/21",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-165",
+      "number": "165",
+      "title": "",
+      "date": "2024/07/28",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-166",
+      "number": "166",
+      "title": "",
+      "date": "2024/08/04",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-167",
+      "number": "167",
+      "title": "",
+      "date": "2024/08/18",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-168",
+      "number": "168",
+      "title": "",
+      "date": "2024/08/25",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-169",
+      "number": "169",
+      "title": "",
+      "date": "2024/09/01",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-170",
+      "number": "170",
+      "title": "",
+      "date": "2024/09/08",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-171",
+      "number": "171",
+      "title": "",
+      "date": "2024/09/15",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-172",
+      "number": "172",
+      "title": "",
+      "date": "2024/09/22",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-173",
+      "number": "173",
+      "title": "",
+      "date": "2024/09/29",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-174",
+      "number": "174",
+      "title": "",
+      "date": "2024/10/06",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-175",
+      "number": "175",
+      "title": "",
+      "date": "2024/10/06",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-176",
+      "number": "176",
+      "title": "",
+      "date": "2024/10/20",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-177",
+      "number": "177",
+      "title": "",
+      "date": "2024/10/27",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-178",
+      "number": "178",
+      "title": "",
+      "date": "2024/11/10",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-179",
+      "number": "179",
+      "title": "",
+      "date": "2024/11/17",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-180",
+      "number": "180",
+      "title": "",
+      "date": "2024/11/24",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-181",
+      "number": "181",
+      "title": "",
+      "date": "2024/12/01",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-182",
+      "number": "182",
+      "title": "",
+      "date": "2024/12/08",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-183",
+      "number": "183",
+      "title": "",
+      "date": "2024/12/15",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-184",
+      "number": "184",
+      "title": "",
+      "date": "2024/12/22",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-185",
+      "number": "185",
+      "title": "",
+      "date": "2025/01/03",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-186",
+      "number": "186",
+      "title": "",
+      "date": "2025/01/19",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-187",
+      "number": "187",
+      "title": "",
+      "date": "2025/01/26",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-188",
+      "number": "188",
+      "title": "",
+      "date": "2025/02/02",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-189",
+      "number": "189",
+      "title": "",
+      "date": "2025/02/09",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-190",
+      "number": "190",
+      "title": "",
+      "date": "2025/02/16",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-191",
+      "number": "191",
+      "title": "",
+      "date": "2025/02/23",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-192",
+      "number": "192",
+      "title": "",
+      "date": "2025/03/02",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-193",
+      "number": "193",
+      "title": "",
+      "date": "2025/03/09",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-194",
+      "number": "194",
+      "title": "",
+      "date": "2025/03/16",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-195",
+      "number": "195",
+      "title": "",
+      "date": "2025/03/23",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-196",
+      "number": "196",
+      "title": "",
+      "date": "2025/03/30",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-197",
+      "number": "197",
+      "title": "",
+      "date": "2025/04/06",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-198",
+      "number": "198",
+      "title": "",
+      "date": "2025/04/13",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-199",
+      "number": "199",
+      "title": "",
+      "date": "2025/04/20",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-200",
+      "number": "200",
+      "title": "",
+      "date": "2025/04/27",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-201",
+      "number": "201",
+      "title": "",
+      "date": "2025/05/11",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-202",
+      "number": "202",
+      "title": "",
+      "date": "2025/05/18",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-203",
+      "number": "203",
+      "title": "",
+      "date": "2025/05/25",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-204",
+      "number": "204",
+      "title": "",
+      "date": "2025/06/01",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-205",
+      "number": "205",
+      "title": "",
+      "date": "2025/06/15",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-206",
+      "number": "206",
+      "title": "",
+      "date": "2025/06/22",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-207",
+      "number": "207",
+      "title": "",
+      "date": "2025/06/29",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-208",
+      "number": "208",
+      "title": "",
+      "date": "2025/07/06",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-209",
+      "number": "209",
+      "title": "",
+      "date": "2025/07/13",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-210",
+      "number": "210",
+      "title": "",
+      "date": "2025/07/20",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-211",
+      "number": "211",
+      "title": "",
+      "date": "2025/07/27",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-212",
+      "number": "212",
+      "title": "",
+      "date": "2025/08/03",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-213",
+      "number": "213",
+      "title": "",
+      "date": "2025/08/17",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-214",
+      "number": "214",
+      "title": "",
+      "date": "2025/08/24",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-215",
+      "number": "215",
+      "title": "",
+      "date": "2025/08/31",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-216",
+      "number": "216",
+      "title": "",
+      "date": "2025/09/07",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-217",
+      "number": "217",
+      "title": "",
+      "date": "2025/09/14",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-218",
+      "number": "218",
+      "title": "",
+      "date": "2025/09/21",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-219",
+      "number": "219",
+      "title": "",
+      "date": "2025/09/28",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-220",
+      "number": "220",
+      "title": "",
+      "date": "2025/10/05",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-221",
+      "number": "221",
+      "title": "",
+      "date": "2025/10/12",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-222",
+      "number": "222",
+      "title": "",
+      "date": "2025/10/19",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-223",
+      "number": "223",
+      "title": "",
+      "date": "2025/10/26",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-224",
+      "number": "224",
+      "title": "",
+      "date": "2025/11/02",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-225",
+      "number": "225",
+      "title": "",
+      "date": "2025/11/16",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-226",
+      "number": "226",
+      "title": "",
+      "date": "2025/11/23",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-227",
+      "number": "227",
+      "title": "",
+      "date": "2025/11/30",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-228",
+      "number": "228",
+      "title": "",
+      "date": "2025/12/07",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-229",
+      "number": "229",
+      "title": "",
+      "date": "2025/12/14",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-230",
+      "number": "230",
+      "title": "",
+      "date": "2025/12/21",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-231",
+      "number": "231",
+      "title": "",
+      "date": "2026/01/04",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-232",
+      "number": "232",
+      "title": "",
+      "date": "2026/01/18",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-233",
+      "number": "233",
+      "title": "",
+      "date": "2026/01/25",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-234",
+      "number": "234",
+      "title": "",
+      "date": "2026/02/01",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-235",
+      "number": "235",
+      "title": "",
+      "date": "2026/02/08",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-236",
+      "number": "236",
+      "title": "",
+      "date": "2026/02/15",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-237",
+      "number": "237",
+      "title": "",
+      "date": "2026/02/22",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-238",
+      "number": "238",
+      "title": "",
+      "date": "2026/03/01",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-239",
+      "number": "239",
+      "title": "",
+      "date": "2026/03/08",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-240",
+      "number": "240",
+      "title": "",
+      "date": "2026/03/15",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-241",
+      "number": "241",
+      "title": "",
+      "date": "2026/03/22",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-242",
+      "number": "242",
+      "title": "",
+      "date": "2026/03/29",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-243",
+      "number": "243",
+      "title": "",
+      "date": "2026/04/12",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-244",
+      "number": "244",
+      "title": "",
+      "date": "2026/04/19",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-245",
+      "number": "245",
+      "title": "",
+      "date": "2026/04/26",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-246",
+      "number": "246",
+      "title": "",
+      "date": "2026/05/10",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-247",
+      "number": "247",
+      "title": "",
+      "date": "2026/05/17",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-248",
+      "number": "248",
+      "title": "",
+      "date": "2026/05/24",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-249",
+      "number": "249",
+      "title": "",
+      "date": "2026/05/31",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-250",
+      "number": "250",
+      "title": "",
+      "date": "2026/06/07",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-251",
+      "number": "251",
+      "title": "",
+      "date": "2026/06/14",
+      "pages": []
+    },
+    {
+      "id": "witch-watch-252",
+      "number": "252",
+      "title": "",
+      "date": "2026/06/21",
+      "pages": []
+    }
+  ]
+}

@@ -1,0 +1,858 @@
+{
+  "en": [
+    {
+      "id": "black-lagoon-1",
+      "number": "1",
+      "title": "Chase for Ring-ding Ships",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-2",
+      "number": "2",
+      "title": "Rasta Blasta Part1",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-3",
+      "number": "3",
+      "title": "Rasta Blasta Part2",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-4",
+      "number": "4",
+      "title": "Rasta Blasta Part3",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-5",
+      "number": "5",
+      "title": "Das Wieder Erstephen Des Adlers Part 1",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-6",
+      "number": "6",
+      "title": "Das Wieder Erstephen Des Adlers Part 2",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-7",
+      "number": "7",
+      "title": "Das Wieder Erstephen Des Adlers Part 3",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-8",
+      "number": "8",
+      "title": "Das Wieder Erstephen Des Adlers Part 4",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-9",
+      "number": "9",
+      "title": "Calm Down, Two Men Part 1",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-10",
+      "number": "10",
+      "title": "Calm Down, Two Men Part 2",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-11",
+      "number": "11",
+      "title": "Bloodsport Fairy Tale Part 1",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-12",
+      "number": "12",
+      "title": "Bloodsport Fairy Tale Part 2",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-13",
+      "number": "13",
+      "title": "Bloodsport Fairy Tale Part 3",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-14",
+      "number": "14",
+      "title": "Bloodsport Fairy Tale Part 4",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-15",
+      "number": "15",
+      "title": "Bloodsport Fairy Tale Part 5",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-16",
+      "number": "16",
+      "title": "Goat, Jihad, Rock n Roll",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-17",
+      "number": "17",
+      "title": "Goat, Jihad, Rock n Roll 2",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-18",
+      "number": "18",
+      "title": "Goat, Jihad, Rock n Roll 3",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-19",
+      "number": "19",
+      "title": "Goat, Jihad, Rock n Roll 4",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-20",
+      "number": "20",
+      "title": "Goat, Jihad, Rock n Roll 5",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-21",
+      "number": "21",
+      "title": "Goat, Jihad, Rock n Roll 6",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-22",
+      "number": "22",
+      "title": "Fujiyama Gangsta Paradise 1",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-23",
+      "number": "23",
+      "title": "Fujiyama Gangsta Paradise 2",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-24",
+      "number": "24",
+      "title": "Fujiyama Gangsta Paradise 3",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-25",
+      "number": "25",
+      "title": "Fujiyama Gangsta Paradise 4",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-26",
+      "number": "26",
+      "title": "Fujiyama Gangsta Paradise 5",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-27",
+      "number": "27",
+      "title": "Fujiyama Gangsta Paradise 6",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-28",
+      "number": "28",
+      "title": "Fujiyama Gangsta Paradise 7",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-29",
+      "number": "29",
+      "title": "Fujiyama Gangsta Paradise 8",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-30",
+      "number": "30",
+      "title": "Fujiyama Gangsta Paradise 9",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-31",
+      "number": "31",
+      "title": "Fujiyama Gangsta Paradise 10",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-32",
+      "number": "32",
+      "title": "Fujiyama Gangsta Paradise 11",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-33",
+      "number": "33",
+      "title": "Fujiyama Gangsta Paradise 12",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-34",
+      "number": "34",
+      "title": "Fujiyama Gangsta Paradise 13",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-35",
+      "number": "35",
+      "title": "Fujiyama Gangsta Paradise 14",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-36",
+      "number": "36",
+      "title": "Fujiyama Gangsta Paradise 15",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-37",
+      "number": "37",
+      "title": "Fujiyama Gangsta Paradise 16",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-38",
+      "number": "38",
+      "title": "Greenback Jane 1",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-39",
+      "number": "39",
+      "title": "Greenback Jane 2",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-40",
+      "number": "40",
+      "title": "Greenback Jane 3",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-41",
+      "number": "41",
+      "title": "Greenback Jane 4",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-42",
+      "number": "42",
+      "title": "Greenback Jane 5",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-43",
+      "number": "43",
+      "title": "Greenback Jane 6",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-44",
+      "number": "44",
+      "title": "El Baile de la Muerte 1",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-45",
+      "number": "45",
+      "title": "El Baile de la Muerte 2",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-46",
+      "number": "46",
+      "title": "El Baile de la Muerte 3",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-47",
+      "number": "47",
+      "title": "El Baile de la Muerte 4",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-48",
+      "number": "48",
+      "title": "El Baile de la Muerte 5",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-49",
+      "number": "49",
+      "title": "El Baile de la Muerte 6",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-50",
+      "number": "50",
+      "title": "El Baile de la Muerte 7",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-51",
+      "number": "51",
+      "title": "El Baile de la Muerte 8",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-52",
+      "number": "52",
+      "title": "El Baile de la Muerte 9",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-53",
+      "number": "53",
+      "title": "El Baile de la Muerte 10",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-54",
+      "number": "54",
+      "title": "El Baile de la Muerte 11",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-55",
+      "number": "55",
+      "title": "El Baile de la Muerte 12",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-56",
+      "number": "56",
+      "title": "El Baile de la Muerte 13",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-57",
+      "number": "57",
+      "title": "El Baile de la Muerte 14",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-58",
+      "number": "58",
+      "title": "El Baile de la Muerte 15",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-59",
+      "number": "59",
+      "title": "El Baile de la Muerte 16",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-60",
+      "number": "60",
+      "title": "El Baile de la Muerte 17",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-61",
+      "number": "61",
+      "title": "El Baile de la Muerte 18",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-62",
+      "number": "62",
+      "title": "El Baile de la Muerte 19",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-63",
+      "number": "63",
+      "title": "El Baile de la Muerte 20",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-64",
+      "number": "64",
+      "title": "El Baile de la Muerte 21",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-65",
+      "number": "65",
+      "title": "El Baile De La Muerte 22",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-66",
+      "number": "66",
+      "title": "El Baile De La Muerte 23",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-67",
+      "number": "67",
+      "title": "El Baile De La Muerte Pt 24",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-68",
+      "number": "68",
+      "title": "El Baile de la Muerte 25",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-69",
+      "number": "69",
+      "title": "El Baile De La Muerte Pt 26",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-70",
+      "number": "70",
+      "title": "El Baile De La Muerte Pt 27",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-71",
+      "number": "71",
+      "title": "El Baile de la Muerte 28",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-72",
+      "number": "72",
+      "title": "El Baile de La Muerte 29",
+      "date": "2009/09/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-73",
+      "number": "73",
+      "title": "El Baile De La Muerte 30",
+      "date": "2009/09/29",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-74",
+      "number": "74",
+      "title": "El Baile De La Muerte 31",
+      "date": "2009/10/11",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-75",
+      "number": "75",
+      "title": "El Baile de La Muerte 32",
+      "date": "2009/10/16",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-76",
+      "number": "76",
+      "title": "El Baile De La Muerte 33",
+      "date": "2009/10/21",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-77",
+      "number": "77",
+      "title": "The Wired Red Wild Card 1",
+      "date": "2010/01/26",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-78",
+      "number": "78",
+      "title": "The Wired Red Wild Card 2",
+      "date": "2010/02/24",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-79",
+      "number": "79",
+      "title": "The Wired Red Wild Card 3",
+      "date": "2010/04/11",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-80",
+      "number": "80",
+      "title": "The Wired Red Wild Card 4",
+      "date": "2010/05/04",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-81",
+      "number": "81",
+      "title": "81",
+      "date": "2010/05/31",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-82",
+      "number": "82",
+      "title": "The Wired Red Wild Card PT.6",
+      "date": "2013/03/24",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-83",
+      "number": "83",
+      "title": "The Wired Red Wild Card Pt.7",
+      "date": "2013/06/08",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-84",
+      "number": "84",
+      "title": "The Wired Red Wild Card Pt.8",
+      "date": "2013/07/30",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-85",
+      "number": "85",
+      "title": "The Wired Red Wild Card Pt.9",
+      "date": "2013/09/30",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-86",
+      "number": "86",
+      "title": "The wired red wild card pt.10",
+      "date": "2013/12/02",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-87",
+      "number": "87",
+      "title": "The wired red wild card pt.11",
+      "date": "2017/05/21",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-88",
+      "number": "88",
+      "title": "The wired red wild card pt.12",
+      "date": "2017/05/21",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-89",
+      "number": "89",
+      "title": "The wired red wild card pt.13",
+      "date": "2017/06/21",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-90",
+      "number": "90",
+      "title": "The wired red wild card pt.14",
+      "date": "2017/07/17",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-91",
+      "number": "91",
+      "title": "The wired red wild card pt.15",
+      "date": "2017/08/22",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-92",
+      "number": "92",
+      "title": "",
+      "date": "2017/10/02",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-93",
+      "number": "93",
+      "title": "",
+      "date": "2018/02/04",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-94",
+      "number": "94",
+      "title": "",
+      "date": "2018/02/04",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-95",
+      "number": "95",
+      "title": "",
+      "date": "2018/02/04",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-96",
+      "number": "96",
+      "title": "The wired red wild card pt.20",
+      "date": "2018/02/24",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-97",
+      "number": "97",
+      "title": "",
+      "date": "2018/03/20",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-98",
+      "number": "98",
+      "title": "",
+      "date": "2018/05/29",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-99",
+      "number": "99",
+      "title": "The Wired Red Wild Card",
+      "date": "2018/06/21",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-100",
+      "number": "100",
+      "title": "",
+      "date": "2018/07/21",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-101",
+      "number": "101",
+      "title": "The Wired Red Card PT 25",
+      "date": "2018/08/25",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-102",
+      "number": "102",
+      "title": "",
+      "date": "2019/09/26",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-103",
+      "number": "103",
+      "title": "",
+      "date": "2019/12/06",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-104",
+      "number": "104",
+      "title": "",
+      "date": "2020/02/27",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-105",
+      "number": "105",
+      "title": "L'homme sombre Pt.4",
+      "date": "2020/06/24",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-106",
+      "number": "106",
+      "title": "L'homme sombre Pt.5",
+      "date": "2020/08/19",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-107",
+      "number": "107",
+      "title": "L'homme sombre Pt.6",
+      "date": "2020/10/28",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-108",
+      "number": "108",
+      "title": "L'homme sombre Pt.7",
+      "date": "2021/02/13",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-109",
+      "number": "109",
+      "title": "",
+      "date": "2021/04/08",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-110",
+      "number": "110",
+      "title": "L'homme Sombre PT.9",
+      "date": "2021/07/02",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-111",
+      "number": "111",
+      "title": "",
+      "date": "2021/10/20",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-112",
+      "number": "112",
+      "title": "L'homme sombre Pt.11",
+      "date": "2022/02/01",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-113",
+      "number": "113",
+      "title": "",
+      "date": "2022/05/31",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-114",
+      "number": "114",
+      "title": "",
+      "date": "2023/01/12",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-115",
+      "number": "115",
+      "title": "",
+      "date": "2023/05/19",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-116",
+      "number": "116",
+      "title": "",
+      "date": "2023/08/19",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-117",
+      "number": "117",
+      "title": "",
+      "date": "2024/05/18",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-118",
+      "number": "118",
+      "title": "",
+      "date": "2024/08/20",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-119",
+      "number": "119",
+      "title": "",
+      "date": "2024/12/19",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-120",
+      "number": "120",
+      "title": "",
+      "date": "2025/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-121",
+      "number": "121",
+      "title": "",
+      "date": "2025/11/19",
+      "pages": []
+    },
+    {
+      "id": "black-lagoon-122",
+      "number": "122",
+      "title": "",
+      "date": "2026/05/19",
+      "pages": []
+    }
+  ]
+}

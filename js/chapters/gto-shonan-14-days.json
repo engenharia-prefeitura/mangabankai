@@ -1,0 +1,515 @@
+{
+  "en": [
+    {
+      "id": "gto-shonan-14-days-1",
+      "number": "1",
+      "title": "Summer Tour",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-2",
+      "number": "2",
+      "title": "Ring",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-3",
+      "number": "3",
+      "title": "The Happiness Category",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-4",
+      "number": "4",
+      "title": "Father",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-5",
+      "number": "5",
+      "title": "Midnight Shuffle",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-6",
+      "number": "6",
+      "title": "Touch Me",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-7",
+      "number": "7",
+      "title": "Lonely Runaway",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-8",
+      "number": "8",
+      "title": "A Song for XX",
+      "date": "2009/08/04",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-9",
+      "number": "9",
+      "title": "A Sweet Trap",
+      "date": "2009/08/11",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-10",
+      "number": "10",
+      "title": "A Smile's Location",
+      "date": "2009/09/01",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-11",
+      "number": "11",
+      "title": "Friends",
+      "date": "2009/09/09",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-12",
+      "number": "12",
+      "title": "Thank You",
+      "date": "2009/10/06",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-13",
+      "number": "13",
+      "title": "Movin On",
+      "date": "2009/10/06",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-14",
+      "number": "14",
+      "title": "All That I Can Say",
+      "date": "2009/10/14",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-15",
+      "number": "15",
+      "title": "I Don't Wanna Miss a Thing",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-16",
+      "number": "16",
+      "title": "Love Today",
+      "date": "2009/11/13",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-17",
+      "number": "17",
+      "title": "Get Back In Love",
+      "date": "2009/12/11",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-18",
+      "number": "18",
+      "title": "Love and Truth",
+      "date": "2010/01/01",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-19",
+      "number": "19",
+      "title": "Sunday Bloody Sunday",
+      "date": "2010/01/02",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-20",
+      "number": "20",
+      "title": "Without You",
+      "date": "2010/01/12",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-21",
+      "number": "21",
+      "title": "Bad Boy",
+      "date": "2010/01/27",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-22",
+      "number": "22",
+      "title": "Dear Mama",
+      "date": "2010/07/25",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-23",
+      "number": "23",
+      "title": "So I Can Be Myself",
+      "date": "2010/07/25",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-24",
+      "number": "24",
+      "title": "Run Away",
+      "date": "2010/10/30",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-25",
+      "number": "25",
+      "title": "Vow In a Moon Light",
+      "date": "2010/10/30",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-26",
+      "number": "26",
+      "title": "Dark Tattoo Memory",
+      "date": "2010/11/02",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-27",
+      "number": "27",
+      "title": "Black Twin Sister",
+      "date": "2010/11/09",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-28",
+      "number": "28",
+      "title": "Wounded Angels",
+      "date": "2010/11/18",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-29",
+      "number": "29",
+      "title": "Good Bye And Good Luck",
+      "date": "2010/11/26",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-30",
+      "number": "30",
+      "title": "Help! Help! Help!",
+      "date": "2010/11/26",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-31",
+      "number": "31",
+      "title": "Trigger To Eternal Dreams",
+      "date": "2010/11/26",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-32",
+      "number": "32",
+      "title": "The Lost Half",
+      "date": "2010/12/03",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-33",
+      "number": "33",
+      "title": "Beyond Those Goodbyes",
+      "date": "2010/12/21",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-34",
+      "number": "34",
+      "title": "The Warrior's Rest",
+      "date": "2010/12/25",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-35",
+      "number": "35",
+      "title": "Oedipus Club",
+      "date": "2011/01/27",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-36",
+      "number": "36",
+      "title": "",
+      "date": "2011/01/30",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-37",
+      "number": "37",
+      "title": "Battle Without Honor Or Humanity",
+      "date": "2011/03/04",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-38",
+      "number": "38",
+      "title": "To Mother",
+      "date": "2011/03/11",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-39",
+      "number": "39",
+      "title": "Burn",
+      "date": "2011/03/18",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-40",
+      "number": "40",
+      "title": "Young Love",
+      "date": "2011/03/25",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-41",
+      "number": "41",
+      "title": "Just a Robber",
+      "date": "2011/04/01",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-42",
+      "number": "42",
+      "title": "Hold My Hand",
+      "date": "2011/04/09",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-43",
+      "number": "43",
+      "title": "Summer of Love",
+      "date": "2011/04/16",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-44",
+      "number": "44",
+      "title": "There's No Home For You Here",
+      "date": "2011/04/30",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-45",
+      "number": "45",
+      "title": "Betrayal",
+      "date": "2011/05/10",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-46",
+      "number": "46",
+      "title": "Game Of Death",
+      "date": "2011/06/12",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-47",
+      "number": "47",
+      "title": "Bad Dreamer",
+      "date": "2011/06/19",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-48",
+      "number": "48",
+      "title": "Escape",
+      "date": "2011/06/27",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-49",
+      "number": "49",
+      "title": "No Body Loves Me",
+      "date": "2011/07/24",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-50",
+      "number": "50",
+      "title": "Riko vs Miko, The Twins Face Of At Last!",
+      "date": "2011/08/10",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-51",
+      "number": "51",
+      "title": "Not Alone",
+      "date": "2011/09/06",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-52",
+      "number": "52",
+      "title": "Check Out Love",
+      "date": "2011/12/12",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-53",
+      "number": "53",
+      "title": "Feelings Of Love",
+      "date": "2011/12/28",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-54",
+      "number": "54",
+      "title": "Birdman",
+      "date": "2012/01/15",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-55",
+      "number": "55",
+      "title": "Sky High",
+      "date": "2012/01/29",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-56",
+      "number": "56",
+      "title": "Footsteps In The Dark",
+      "date": "2012/02/06",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-57",
+      "number": "57",
+      "title": "Bitter Memories",
+      "date": "2012/03/05",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-58",
+      "number": "58",
+      "title": "Fist of Anger",
+      "date": "2012/05/03",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-59",
+      "number": "59",
+      "title": "Bad Romance",
+      "date": "2012/07/03",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-60",
+      "number": "60",
+      "title": "The Map to the Future That Was Seized by These Hands",
+      "date": "2012/08/09",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-61",
+      "number": "61",
+      "title": "The Talk of the Town",
+      "date": "2014/07/18",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-62",
+      "number": "62",
+      "title": "Daddy's night of party",
+      "date": "2014/07/19",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-63",
+      "number": "63",
+      "title": "Scars",
+      "date": "2014/07/21",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-64",
+      "number": "64",
+      "title": "The Decision Day",
+      "date": "2014/07/21",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-65",
+      "number": "65",
+      "title": "I wish I was Superman",
+      "date": "2014/07/21",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-66",
+      "number": "66",
+      "title": "Declaration of War",
+      "date": "2014/07/21",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-67",
+      "number": "67",
+      "title": "Chase! Chase! Chase!",
+      "date": "2014/07/22",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-68",
+      "number": "68",
+      "title": "Road to Hell",
+      "date": "2014/07/24",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-69",
+      "number": "69",
+      "title": "",
+      "date": "2014/07/28",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-70",
+      "number": "70",
+      "title": "The end of Summer",
+      "date": "2014/07/29",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-70e",
+      "number": "70e",
+      "title": "",
+      "date": "2026/01/31",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-70f",
+      "number": "70f",
+      "title": "",
+      "date": "2026/01/31",
+      "pages": []
+    },
+    {
+      "id": "gto-shonan-14-days-70g",
+      "number": "70g",
+      "title": "",
+      "date": "2026/01/31",
+      "pages": []
+    }
+  ]
+}

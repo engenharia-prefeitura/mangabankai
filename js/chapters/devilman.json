@@ -1,0 +1,39 @@
+{
+  "en": [
+    {
+      "id": "devilman-1",
+      "number": "1",
+      "title": "Volume 1",
+      "date": "2011/04/29",
+      "pages": []
+    },
+    {
+      "id": "devilman-2",
+      "number": "2",
+      "title": "Volume 2",
+      "date": "2011/04/29",
+      "pages": []
+    },
+    {
+      "id": "devilman-3",
+      "number": "3",
+      "title": "Volume 3",
+      "date": "2011/04/29",
+      "pages": []
+    },
+    {
+      "id": "devilman-4",
+      "number": "4",
+      "title": "Volume 4",
+      "date": "2011/04/29",
+      "pages": []
+    },
+    {
+      "id": "devilman-5",
+      "number": "5",
+      "title": "Volume 5",
+      "date": "2011/04/29",
+      "pages": []
+    }
+  ]
+}

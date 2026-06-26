@@ -1,0 +1,809 @@
+{
+  "en": [
+    {
+      "id": "captain-tsubasa-0",
+      "number": "0",
+      "title": "Pilot",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-1",
+      "number": "1",
+      "title": "Soar Toward The Great Sky",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-2",
+      "number": "2",
+      "title": "Take Flight!",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-3",
+      "number": "3",
+      "title": "New Nankatsu Gradeschool Football Club, Start!",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-4",
+      "number": "4",
+      "title": "The Great Responsibility Of The Football Club",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-5",
+      "number": "5",
+      "title": "Tsubasa The Sweeper!",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-6",
+      "number": "6",
+      "title": "Fate's Long Shoot",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-7",
+      "number": "7",
+      "title": "I Am Misaki Taro",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-8",
+      "number": "8",
+      "title": "Invigorating Last Scene",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-9",
+      "number": "9",
+      "title": "Roberto's Surprising Request",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-10",
+      "number": "10",
+      "title": "Kojiro's Appearance",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-11",
+      "number": "11",
+      "title": "Everyone's New Trip",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-12",
+      "number": "12",
+      "title": "A Suprisingly Difficult Match",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-13",
+      "number": "13",
+      "title": "Game Maker Tsubasa",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-14",
+      "number": "14",
+      "title": "Who Is That Girl",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-15",
+      "number": "15",
+      "title": "Now It's The Entire Country!",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-16",
+      "number": "16",
+      "title": "The New Captain, Tsubasa",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-17",
+      "number": "17",
+      "title": "Drawing Of Lots' Mischief",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-18",
+      "number": "18",
+      "title": "Burn Nankatsu! To Beat Meiwa!!",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-19",
+      "number": "19",
+      "title": "The Fierce Tiger's Counterattack",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-20",
+      "number": "20",
+      "title": "You Must Not Fear Your, The Ball!",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-21",
+      "number": "21",
+      "title": "I Can't Lose Because It's My Dream",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-22",
+      "number": "22",
+      "title": "The Unexpected Ambush",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-23",
+      "number": "23",
+      "title": "Show Your Talent! Soccer Child",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-24",
+      "number": "24",
+      "title": "Ishizaki's Big Mistake!",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-25",
+      "number": "25",
+      "title": "Last 4 Minutes! Decisive Battle In The Air",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-26",
+      "number": "26",
+      "title": "Now Let's Go! The Decisive Tournament",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-27",
+      "number": "27",
+      "title": "Ace Of Glass Jun Misugi",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-28",
+      "number": "28",
+      "title": "Fierce Fighting! Meiwa Vs Furano",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-29",
+      "number": "29",
+      "title": "Dream Confrontation's Kick Off!",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-30",
+      "number": "30",
+      "title": "Musashi's Secret Plan",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-31",
+      "number": "31",
+      "title": "Tsubasa Can't Fly",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-32",
+      "number": "32",
+      "title": "Ace Rebirth",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-33",
+      "number": "33",
+      "title": "Challenge To His Life's Longevity!",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-34",
+      "number": "34",
+      "title": "It Won't Be My Farewell Match",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-35",
+      "number": "35",
+      "title": "Now To The Finals",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-36",
+      "number": "36",
+      "title": "Genius Keeper Returns",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-37",
+      "number": "37",
+      "title": "Unexpected Goal",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-38",
+      "number": "38",
+      "title": "Elimination Of An Ace",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-39",
+      "number": "39",
+      "title": "Half Time's End",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-40",
+      "number": "40",
+      "title": "Tenacity, Definitely Tenacity",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-41",
+      "number": "41",
+      "title": "We'll Do It!!",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-42",
+      "number": "42",
+      "title": "Blazing Counter Attack",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-43",
+      "number": "43",
+      "title": "The Last Of Last One Chance!",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-44",
+      "number": "44",
+      "title": "Extra Time's Kickoff",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-45",
+      "number": "45",
+      "title": "Will To Fight For Victory",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-46",
+      "number": "46",
+      "title": "Defend! Nankatsu",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-47",
+      "number": "47",
+      "title": "The Last Golden Combi Plan",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-48",
+      "number": "48",
+      "title": "Moment Of Glory",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-49",
+      "number": "49",
+      "title": "Sudden Goodbye",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-50",
+      "number": "50",
+      "title": "Everyone's Setting Off",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-51",
+      "number": "51",
+      "title": "Opening Ceremony",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-52",
+      "number": "52",
+      "title": "Ootomo's-Challenge",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-53",
+      "number": "53",
+      "title": "Summer's Start",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-54",
+      "number": "54",
+      "title": "Rivals' Burning Gaze",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-55",
+      "number": "55",
+      "title": "Hayabusa Versus Tsubasa",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-56",
+      "number": "56",
+      "title": "Hyuga Versus Misugi",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-57",
+      "number": "57",
+      "title": "Hyuga Versus Misugi 2",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-58",
+      "number": "58",
+      "title": "Meeting In A Foreign Land",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-59",
+      "number": "59",
+      "title": "Reborn In The Middle-Of The Storm",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-60",
+      "number": "60",
+      "title": "Kamisori Power Explosion",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-61",
+      "number": "61",
+      "title": "Ace's Specialty",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-62",
+      "number": "62",
+      "title": "Everyone's Decision",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-63",
+      "number": "63",
+      "title": "The New-Wondrous Air Combi Play",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-64",
+      "number": "64",
+      "title": "To The Battlefield Again!!",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-65",
+      "number": "65",
+      "title": "Furano Goes To The Front",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-66",
+      "number": "66",
+      "title": "The Fearful Dark Hourse",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-67",
+      "number": "67",
+      "title": "Phoenix Tsubasa",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-68",
+      "number": "68",
+      "title": "Undying Team Work",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-69",
+      "number": "69",
+      "title": "Semi Finals' Outbreaks",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-70",
+      "number": "70",
+      "title": "The Fierce-Tiger Encouragemenst",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-71",
+      "number": "71",
+      "title": "Number 10 Versus Number 10",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-72",
+      "number": "72",
+      "title": "Oath To Resverse The Score",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-73",
+      "number": "73",
+      "title": "Collective Attack",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-74",
+      "number": "74",
+      "title": "The Phoenix Flew",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-75",
+      "number": "75",
+      "title": "The Fierce Tiger's Written Challenga",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-76",
+      "number": "76",
+      "title": "Kickoff Of The Century",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-77",
+      "number": "77",
+      "title": "The New Destined Confrontation",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-78",
+      "number": "78",
+      "title": "The King Toho",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-79",
+      "number": "79",
+      "title": "At Last We Break Into The Second Half",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-80",
+      "number": "80",
+      "title": "Incandescent Fighters, The Fierce Tiger And Tsubasa",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-81",
+      "number": "81",
+      "title": "The Setting-Off Goal!",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-82",
+      "number": "82",
+      "title": "Miracle Drive Shoot",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-83",
+      "number": "83",
+      "title": "V1 Versus V3",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-84",
+      "number": "84",
+      "title": "Departure For Tomorrow",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-85",
+      "number": "85",
+      "title": "The Start Of A New Challenge",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-86",
+      "number": "86",
+      "title": "Greeting From An Old Enemy",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-87",
+      "number": "87",
+      "title": "A Pro Player",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-88",
+      "number": "88",
+      "title": "Starting Afresh From Zero",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-89",
+      "number": "89",
+      "title": "Another Strong Player",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-90",
+      "number": "90",
+      "title": "Big Gathering In Paris!!",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-91",
+      "number": "91",
+      "title": "The Great Setting Off",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-92",
+      "number": "92",
+      "title": "Perfect Comeback! Golden Combi",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-93",
+      "number": "93",
+      "title": "Oath In The Starry Sky",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-94",
+      "number": "94",
+      "title": "Never Give Up",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-95",
+      "number": "95",
+      "title": "The Young Noble's Comeback",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-96",
+      "number": "96",
+      "title": "True Colors Of The Fireball",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-97",
+      "number": "97",
+      "title": "Now, The Phantom",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-98",
+      "number": "98",
+      "title": "The War Starts!! Japan Vs France",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-99",
+      "number": "99",
+      "title": "Attack Of The Beautiful Beast",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-100",
+      "number": "100",
+      "title": "The Last Bet Of Misaki",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-101",
+      "number": "101",
+      "title": "A Bloodtained Desperate Defense",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-102",
+      "number": "102",
+      "title": "The Miraculous Fist",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-103",
+      "number": "103",
+      "title": "The Lions Of The Final",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-104",
+      "number": "104",
+      "title": "Flaming First Goal",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-105",
+      "number": "105",
+      "title": "The Strongest Shoot In Histroy",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-106",
+      "number": "106",
+      "title": "Answer The Message",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-107",
+      "number": "107",
+      "title": "The Best Of The World Is Appearing",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-108",
+      "number": "108",
+      "title": "An Oath Made To The Sky",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-109",
+      "number": "109",
+      "title": "Confessions",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-110",
+      "number": "110",
+      "title": "Everyone's New Start",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-111",
+      "number": "111",
+      "title": "Tsubasa's Dream",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-112",
+      "number": "112",
+      "title": "Towards A New Era",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-113",
+      "number": "113",
+      "title": "Fly Up With Your Wings",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "captain-tsubasa-114",
+      "number": "114",
+      "title": "Solitary Departure",
+      "date": "2009/08/03",
+      "pages": []
+    }
+  ]
+}

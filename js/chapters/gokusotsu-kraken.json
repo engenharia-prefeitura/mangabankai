@@ -1,0 +1,605 @@
+{
+  "en": [
+    {
+      "id": "gokusotsu-kraken-1",
+      "number": "1",
+      "title": "",
+      "date": "2025/04/19",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-2",
+      "number": "2",
+      "title": "",
+      "date": "2025/04/19",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-3",
+      "number": "3",
+      "title": "",
+      "date": "2025/04/19",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-4",
+      "number": "4",
+      "title": "",
+      "date": "2025/04/19",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-5",
+      "number": "5",
+      "title": "",
+      "date": "2025/04/19",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-5e",
+      "number": "5e",
+      "title": "",
+      "date": "2025/04/19",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-6",
+      "number": "6",
+      "title": "",
+      "date": "2025/04/19",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-7",
+      "number": "7",
+      "title": "",
+      "date": "2025/04/19",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-8",
+      "number": "8",
+      "title": "",
+      "date": "2025/04/19",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-9",
+      "number": "9",
+      "title": "",
+      "date": "2025/04/19",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-10",
+      "number": "10",
+      "title": "",
+      "date": "2025/04/22",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-11",
+      "number": "11",
+      "title": "",
+      "date": "2025/04/22",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-12",
+      "number": "12",
+      "title": "",
+      "date": "2025/04/22",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-13",
+      "number": "13",
+      "title": "",
+      "date": "2025/04/22",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-14",
+      "number": "14",
+      "title": "",
+      "date": "2025/04/22",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-15",
+      "number": "15",
+      "title": "",
+      "date": "2025/04/22",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-16",
+      "number": "16",
+      "title": "",
+      "date": "2025/04/22",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-17",
+      "number": "17",
+      "title": "",
+      "date": "2025/04/22",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-18",
+      "number": "18",
+      "title": "",
+      "date": "2025/04/22",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-19",
+      "number": "19",
+      "title": "",
+      "date": "2025/04/25",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-20",
+      "number": "20",
+      "title": "",
+      "date": "2025/04/25",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-21",
+      "number": "21",
+      "title": "",
+      "date": "2025/04/25",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-22",
+      "number": "22",
+      "title": "",
+      "date": "2025/04/25",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-23",
+      "number": "23",
+      "title": "",
+      "date": "2025/04/26",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-24b",
+      "number": "24b",
+      "title": "",
+      "date": "2025/04/26",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-25",
+      "number": "25",
+      "title": "",
+      "date": "2025/04/26",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-26",
+      "number": "26",
+      "title": "",
+      "date": "2025/04/26",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-27",
+      "number": "27",
+      "title": "",
+      "date": "2025/04/26",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-28",
+      "number": "28",
+      "title": "",
+      "date": "2025/04/26",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-29",
+      "number": "29",
+      "title": "",
+      "date": "2025/04/26",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-30",
+      "number": "30",
+      "title": "",
+      "date": "2025/05/01",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-31",
+      "number": "31",
+      "title": "",
+      "date": "2025/08/03",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-32",
+      "number": "32",
+      "title": "",
+      "date": "2025/08/05",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-33",
+      "number": "33",
+      "title": "",
+      "date": "2025/08/09",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-34",
+      "number": "34",
+      "title": "",
+      "date": "2025/08/21",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-35",
+      "number": "35",
+      "title": "",
+      "date": "2025/08/26",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-36",
+      "number": "36",
+      "title": "",
+      "date": "2025/09/01",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-37",
+      "number": "37",
+      "title": "",
+      "date": "2025/09/28",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-38",
+      "number": "38",
+      "title": "",
+      "date": "2025/11/01",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-39",
+      "number": "39",
+      "title": "",
+      "date": "2025/12/07",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-40",
+      "number": "40",
+      "title": "",
+      "date": "2026/01/17",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-41",
+      "number": "41",
+      "title": "",
+      "date": "2026/02/12",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-42",
+      "number": "42",
+      "title": "",
+      "date": "2026/03/12",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-43",
+      "number": "43",
+      "title": "",
+      "date": "2026/04/19",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-43b",
+      "number": "43b",
+      "title": "",
+      "date": "2026/05/26",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-44",
+      "number": "44",
+      "title": "",
+      "date": "2026/06/12",
+      "pages": []
+    },
+    {
+      "id": "gokusotsu-kraken-45",
+      "number": "45",
+      "title": "",
+      "date": "2026/06/23",
+      "pages": []
+    }
+  ],
+  "pt": [
+    {
+      "id": "gokusotsu-kraken-chapter-1",
+      "number": 1,
+      "title": "Gokusotsu Kraken – Capítulo 1 – Kuuma e Karama",
+      "date": "2025-04-25T14:05:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 598963
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-2",
+      "number": 2,
+      "title": "Gokusotsu Kraken – Capítulo 2 – A bastilha marítima",
+      "date": "2025-04-25T14:05:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 598962
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-3",
+      "number": 3,
+      "title": "Gokusotsu Kraken – Capítulo 3 – Zeina",
+      "date": "2025-04-25T14:05:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 598969
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-4",
+      "number": 4,
+      "title": "Gokusotsu Kraken – Capítulo 4 – Arena",
+      "date": "2025-04-25T14:05:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 598968
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-5",
+      "number": 5,
+      "title": "Gokusotsu Kraken – Capítulo 5 – Maryam",
+      "date": "2025-04-25T14:05:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 598966
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-6",
+      "number": 6,
+      "title": "Gokusotsu Kraken – Capítulo 6 – Rumo a caverna",
+      "date": "2025-04-25T14:05:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 598967
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-7",
+      "number": 7,
+      "title": "Gokusotsu Kraken – Capítulo 7 – Um embate cavernoso",
+      "date": "2025-04-25T14:05:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 598964
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-8",
+      "number": 8,
+      "title": "Gokusotsu Kraken – Capítulo 8 – Prêmio",
+      "date": "2025-04-25T14:05:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 598970
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-9",
+      "number": 9,
+      "title": "Gokusotsu Kraken – Capítulo 9 – Vencer",
+      "date": "2025-04-25T14:05:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 598965
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-10",
+      "number": 10,
+      "title": "Gokusotsu Kraken – Capítulo 10 – Corpo e alma",
+      "date": "2025-04-25T14:05:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 598971
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-11",
+      "number": 11,
+      "title": "Gokusotsu Kraken – Capítulo 11 – Ameaça alada",
+      "date": "2025-04-25T14:06:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 599267
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-12",
+      "number": 12,
+      "title": "Gokusotsu Kraken – Capítulo 12 – Confronto de dominância (Polina vs. Kuuma)",
+      "date": "2025-04-25T14:06:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 599263
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-13",
+      "number": 13,
+      "title": "Gokusotsu Kraken – Capítulo 13 – Ainda mais forte",
+      "date": "2025-04-25T14:06:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 599264
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-14",
+      "number": 14,
+      "title": "Gokusotsu Kraken – Capítulo 14 – Keket",
+      "date": "2025-04-25T14:06:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 599272
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-15",
+      "number": 15,
+      "title": "Gokusotsu Kraken – Capítulo 15 – A batalha contra Issel",
+      "date": "2025-04-25T14:06:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 599266
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-16",
+      "number": 16,
+      "title": "Gokusotsu Kraken – Capítulo 16 – Apoio",
+      "date": "2025-04-25T14:06:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 599270
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-17",
+      "number": 17,
+      "title": "Gokusotsu Kraken – Capítulo 17 – Uma garota chamada Issel",
+      "date": "2025-04-25T14:06:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 599269
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-18",
+      "number": 18,
+      "title": "Gokusotsu Kraken – Capítulo 18 – Uma garota chamada Issel (Parte 2)",
+      "date": "2025-04-25T14:06:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 599268
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-19",
+      "number": 19,
+      "title": "Gokusotsu Kraken – Capítulo 19 – Mü Tao",
+      "date": "2025-04-25T14:06:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 599265
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-20",
+      "number": 20,
+      "title": "Gokusotsu Kraken – Capítulo 20 – À beira da morte",
+      "date": "2025-04-25T14:06:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 599271
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-21",
+      "number": 21,
+      "title": "Gokusotsu Kraken – Capítulo 21 – Humildade",
+      "date": "2025-04-25T14:08:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 599598
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-22",
+      "number": 22,
+      "title": "Gokusotsu Kraken – Capítulo 22 – Determinação renovada",
+      "date": "2025-04-25T14:08:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 599592
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-23",
+      "number": 23,
+      "title": "Gokusotsu Kraken – Capítulo 23 – Celas de punição subaquáticas",
+      "date": "2025-04-25T14:08:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 599593
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-24",
+      "number": 24,
+      "title": "Gokusotsu Kraken – Capítulo 24 – Momone",
+      "date": "2025-04-25T14:08:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 599600
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-25",
+      "number": 25,
+      "title": "Gokusotsu Kraken – Capítulo 25 – Ruwaida",
+      "date": "2025-04-25T14:08:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 599597
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-26",
+      "number": 26,
+      "title": "Gokusotsu Kraken – Capítulo 26 – Louise vs. Kuuma",
+      "date": "2025-04-25T14:08:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 599601
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-27",
+      "number": 27,
+      "title": "Gokusotsu Kraken – Capítulo 27 – Encarnação de Deus",
+      "date": "2025-04-25T14:08:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 599596
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-28",
+      "number": 28,
+      "title": "Gokusotsu Kraken – Capítulo 28 – O desafio de Keket",
+      "date": "2025-04-25T14:10:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 599881
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-29",
+      "number": 29,
+      "title": "Gokusotsu Kraken – Capítulo 29 – Copa Interprisional",
+      "date": "2025-04-25T14:10:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 599880
+    },
+    {
+      "id": "gokusotsu-kraken-chapter-30",
+      "number": 30,
+      "title": "Gokusotsu Kraken – Capítulo 30 – Prelúdio do Caos",
+      "date": "2025-04-25T14:10:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 599882
+    }
+  ]
+}

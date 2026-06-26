@@ -1,0 +1,900 @@
+{
+  "en": [
+    {
+      "id": "barakamon-1",
+      "number": "1",
+      "title": "Baraka Kodon  Perky Kid",
+      "date": "2013/10/30",
+      "pages": []
+    },
+    {
+      "id": "barakamon-2",
+      "number": "2",
+      "title": "Yanawa!  Moving",
+      "date": "2013/10/30",
+      "pages": []
+    },
+    {
+      "id": "barakamon-3",
+      "number": "3",
+      "title": "Donkudon  Toadfrogs",
+      "date": "2013/10/30",
+      "pages": []
+    },
+    {
+      "id": "barakamon-4",
+      "number": "4",
+      "title": "Onnan Kodon  Girls",
+      "date": "2013/10/30",
+      "pages": []
+    },
+    {
+      "id": "barakamon-5",
+      "number": "5",
+      "title": "Sha  Side Dishes",
+      "date": "2013/10/30",
+      "pages": []
+    },
+    {
+      "id": "barakamon-6",
+      "number": "6",
+      "title": "Yosonmon  City Slickers",
+      "date": "2013/10/30",
+      "pages": []
+    },
+    {
+      "id": "barakamon-7",
+      "number": "7",
+      "title": "Hiton Mochi  Mocha (Rice Cakes) Thrown in Celebration",
+      "date": "2013/10/30",
+      "pages": []
+    },
+    {
+      "id": "barakamon-8",
+      "number": "8",
+      "title": "Moyo  Neighborhood",
+      "date": "2013/10/30",
+      "pages": []
+    },
+    {
+      "id": "barakamon-9",
+      "number": "9",
+      "title": "Konomon Pickles",
+      "date": "2013/10/30",
+      "pages": []
+    },
+    {
+      "id": "barakamon-10",
+      "number": "10",
+      "title": "Che!!",
+      "date": "2013/10/30",
+      "pages": []
+    },
+    {
+      "id": "barakamon-11",
+      "number": "11",
+      "title": "Kana Katakana",
+      "date": "2013/10/30",
+      "pages": []
+    },
+    {
+      "id": "barakamon-12",
+      "number": "12",
+      "title": "Miseya",
+      "date": "2013/10/30",
+      "pages": []
+    },
+    {
+      "id": "barakamon-13",
+      "number": "13",
+      "title": "Megane ba Kaketa Ko Glasses-wearing Girl",
+      "date": "2013/10/30",
+      "pages": []
+    },
+    {
+      "id": "barakamon-14",
+      "number": "14",
+      "title": "Memacchoru Rotten",
+      "date": "2013/10/30",
+      "pages": []
+    },
+    {
+      "id": "barakamon-15",
+      "number": "15",
+      "title": "Kengeramon Playing House",
+      "date": "2013/10/30",
+      "pages": []
+    },
+    {
+      "id": "barakamon-16",
+      "number": "16",
+      "title": "Chuu no Waruka Feeling Unwell",
+      "date": "2013/10/30",
+      "pages": []
+    },
+    {
+      "id": "barakamon-17",
+      "number": "17",
+      "title": "Osowa (Learning)",
+      "date": "2013/10/30",
+      "pages": []
+    },
+    {
+      "id": "barakamon-18",
+      "number": "18",
+      "title": "Un ni Oegii (Going to Swim at the Beach)",
+      "date": "2013/10/30",
+      "pages": []
+    },
+    {
+      "id": "barakamon-19",
+      "number": "19",
+      "title": "Mina to Gona (Whelks and Hermit Crabs)",
+      "date": "2013/10/30",
+      "pages": []
+    },
+    {
+      "id": "barakamon-20",
+      "number": "20",
+      "title": "Mina to Gona (Whelks and Hermit Crabs)",
+      "date": "2013/10/30",
+      "pages": []
+    },
+    {
+      "id": "barakamon-21",
+      "number": "21",
+      "title": "Tsukkyo (Moonlit Night)",
+      "date": "2013/10/30",
+      "pages": []
+    },
+    {
+      "id": "barakamon-22",
+      "number": "22",
+      "title": "Yakamashika (Fussy and Noisy)",
+      "date": "2013/10/30",
+      "pages": []
+    },
+    {
+      "id": "barakamon-23",
+      "number": "23",
+      "title": "Hisan-iwo (High-grade Fish)",
+      "date": "2013/10/30",
+      "pages": []
+    },
+    {
+      "id": "barakamon-24",
+      "number": "24",
+      "title": "",
+      "date": "2014/02/20",
+      "pages": []
+    },
+    {
+      "id": "barakamon-25",
+      "number": "25",
+      "title": "Puchi Mo Doshi",
+      "date": "2014/05/20",
+      "pages": []
+    },
+    {
+      "id": "barakamon-26",
+      "number": "26",
+      "title": "Okazen Kuzzo",
+      "date": "2014/08/20",
+      "pages": []
+    },
+    {
+      "id": "barakamon-27",
+      "number": "27",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-28",
+      "number": "28",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-29",
+      "number": "29",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-30",
+      "number": "30",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-31",
+      "number": "31",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-32",
+      "number": "32",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-33",
+      "number": "33",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-34",
+      "number": "34",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-35",
+      "number": "35",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-36",
+      "number": "36",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-37",
+      "number": "37",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-38",
+      "number": "38",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-39",
+      "number": "39",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-40",
+      "number": "40",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-41",
+      "number": "41",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-42",
+      "number": "42",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-43",
+      "number": "43",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-45",
+      "number": "45",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-46",
+      "number": "46",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-47",
+      "number": "47",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-48",
+      "number": "48",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-49",
+      "number": "49",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-50",
+      "number": "50",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-51",
+      "number": "51",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-52",
+      "number": "52",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-53",
+      "number": "53",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-54",
+      "number": "54",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-55",
+      "number": "55",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-56",
+      "number": "56",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-57",
+      "number": "57",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-58",
+      "number": "58",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-59",
+      "number": "59",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-60",
+      "number": "60",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-61",
+      "number": "61",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-62",
+      "number": "62",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-63",
+      "number": "63",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-64",
+      "number": "64",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-65",
+      "number": "65",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-66",
+      "number": "66",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-67",
+      "number": "67",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-68",
+      "number": "68",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-69",
+      "number": "69",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-70",
+      "number": "70",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-71",
+      "number": "71",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-72",
+      "number": "72",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-73",
+      "number": "73",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-74",
+      "number": "74",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-75",
+      "number": "75",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-76",
+      "number": "76",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-77",
+      "number": "77",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-78",
+      "number": "78",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-79",
+      "number": "79",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-80",
+      "number": "80",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-81",
+      "number": "81",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-82",
+      "number": "82",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-83",
+      "number": "83",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-84",
+      "number": "84",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-85",
+      "number": "85",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-86",
+      "number": "86",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-87",
+      "number": "87",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-88",
+      "number": "88",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-89",
+      "number": "89",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-90",
+      "number": "90",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-91",
+      "number": "91",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-92",
+      "number": "92",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-93",
+      "number": "93",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-94",
+      "number": "94",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-95",
+      "number": "95",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-96",
+      "number": "96",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-97",
+      "number": "97",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-98",
+      "number": "98",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-99",
+      "number": "99",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-100",
+      "number": "100",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-101",
+      "number": "101",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-102",
+      "number": "102",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-103",
+      "number": "103",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-104",
+      "number": "104",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-105",
+      "number": "105",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-106",
+      "number": "106",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-107",
+      "number": "107",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-108",
+      "number": "108",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-109",
+      "number": "109",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-110",
+      "number": "110",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-111",
+      "number": "111",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-112",
+      "number": "112",
+      "title": "",
+      "date": "2018/04/24",
+      "pages": []
+    },
+    {
+      "id": "barakamon-113",
+      "number": "113",
+      "title": "",
+      "date": "2018/04/27",
+      "pages": []
+    },
+    {
+      "id": "barakamon-114",
+      "number": "114",
+      "title": "",
+      "date": "2018/05/02",
+      "pages": []
+    },
+    {
+      "id": "barakamon-115",
+      "number": "115",
+      "title": "",
+      "date": "2018/10/11",
+      "pages": []
+    },
+    {
+      "id": "barakamon-116",
+      "number": "116",
+      "title": "",
+      "date": "2018/10/11",
+      "pages": []
+    },
+    {
+      "id": "barakamon-117",
+      "number": "117",
+      "title": "",
+      "date": "2018/10/11",
+      "pages": []
+    },
+    {
+      "id": "barakamon-118",
+      "number": "118",
+      "title": "",
+      "date": "2018/10/11",
+      "pages": []
+    },
+    {
+      "id": "barakamon-119",
+      "number": "119",
+      "title": "",
+      "date": "2018/10/11",
+      "pages": []
+    },
+    {
+      "id": "barakamon-120",
+      "number": "120",
+      "title": "",
+      "date": "2018/10/11",
+      "pages": []
+    },
+    {
+      "id": "barakamon-121",
+      "number": "121",
+      "title": "",
+      "date": "2018/10/11",
+      "pages": []
+    },
+    {
+      "id": "barakamon-122",
+      "number": "122",
+      "title": "",
+      "date": "2019/02/28",
+      "pages": []
+    },
+    {
+      "id": "barakamon-139",
+      "number": "139",
+      "title": "",
+      "date": "2023/04/19",
+      "pages": []
+    },
+    {
+      "id": "barakamon-140",
+      "number": "140",
+      "title": "",
+      "date": "2023/05/29",
+      "pages": []
+    },
+    {
+      "id": "barakamon-141",
+      "number": "141",
+      "title": "",
+      "date": "2023/05/30",
+      "pages": []
+    },
+    {
+      "id": "barakamon-142",
+      "number": "142",
+      "title": "",
+      "date": "2023/06/15",
+      "pages": []
+    },
+    {
+      "id": "barakamon-143",
+      "number": "143",
+      "title": "",
+      "date": "2023/07/13",
+      "pages": []
+    },
+    {
+      "id": "barakamon-144",
+      "number": "144",
+      "title": "",
+      "date": "2023/07/16",
+      "pages": []
+    },
+    {
+      "id": "barakamon-145",
+      "number": "145",
+      "title": "",
+      "date": "2023/07/16",
+      "pages": []
+    }
+  ]
+}

@@ -1,0 +1,2076 @@
+{
+  "en": [
+    {
+      "id": "rave-1",
+      "number": "1",
+      "title": "Opened Map",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-2",
+      "number": "2",
+      "title": "Guiding Bell",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-3",
+      "number": "3",
+      "title": "Red Signal",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-4",
+      "number": "4",
+      "title": "Stairway to the Unknown",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-5",
+      "number": "5",
+      "title": "Travel Trouble",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-6",
+      "number": "6",
+      "title": "Dead or Alive",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-7",
+      "number": "7",
+      "title": "Revenge as a Trio",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-8",
+      "number": "8",
+      "title": "The Magic of a Smile",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-9",
+      "number": "9",
+      "title": "The Legendary Blacksmith",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-10",
+      "number": "10",
+      "title": "The Wandering Fallen Angel",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-11",
+      "number": "11",
+      "title": "From the Broken Door",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-12",
+      "number": "12",
+      "title": "The Inheritance",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-13",
+      "number": "13",
+      "title": "The Bridge of Promises",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-14",
+      "number": "14",
+      "title": "Approaching Darkness",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-15",
+      "number": "15",
+      "title": "Shot to the Heart",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-16",
+      "number": "16",
+      "title": "Feel the Burn",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-17",
+      "number": "17",
+      "title": "Sweet Dreams and Bitter Kisses",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-18",
+      "number": "18",
+      "title": "Goodmorning Sunshine",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-19",
+      "number": "19",
+      "title": "Out of the Plue",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-20",
+      "number": "20",
+      "title": "The Coldest Rain",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-21",
+      "number": "21",
+      "title": "Gret Clouds Over My Heart",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-22",
+      "number": "22",
+      "title": "Haru Gets Down!",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-23",
+      "number": "23",
+      "title": "Bopping' with Elie!",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-24",
+      "number": "24",
+      "title": "Last Scene",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-25",
+      "number": "25",
+      "title": "Gentle Sunlight",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-26",
+      "number": "26",
+      "title": "Viva la Labyrinth",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-27",
+      "number": "27",
+      "title": "Fade to Black",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-28",
+      "number": "28",
+      "title": "Chameleon Panic",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-29",
+      "number": "29",
+      "title": "Open Sesame",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-30",
+      "number": "30",
+      "title": "Truth About Rave",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-31",
+      "number": "31",
+      "title": "Vow of the Soul",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-32",
+      "number": "32",
+      "title": "Break These Chains",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-33",
+      "number": "33",
+      "title": "Distant Promise",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-34",
+      "number": "34",
+      "title": "Fierce Pride",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-35",
+      "number": "35",
+      "title": "Sad Skies",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-36",
+      "number": "36",
+      "title": "An Iron Heart",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-37",
+      "number": "37",
+      "title": "Imperfect Future",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-38",
+      "number": "38",
+      "title": "Ripples of Fate",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-39",
+      "number": "39",
+      "title": "Elie and Resha",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-40",
+      "number": "40",
+      "title": "Catastrophe",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-41",
+      "number": "41",
+      "title": "The Sun in My Heart",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-42",
+      "number": "42",
+      "title": "Words of Life",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-43",
+      "number": "43",
+      "title": "The Knock of Despair",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-44",
+      "number": "44",
+      "title": "For Ellie's Sake",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-45",
+      "number": "45",
+      "title": "The Trigger of Destruction",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-46",
+      "number": "46",
+      "title": "The Final Risk",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-47",
+      "number": "47",
+      "title": "Hold Tight to the Moment",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-48",
+      "number": "48",
+      "title": "The Longest Day in Musica's Life",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-49",
+      "number": "49",
+      "title": "Go for it, Jiggle Butt Gang",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-50",
+      "number": "50",
+      "title": "City in the Holy Force Field",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-51",
+      "number": "51",
+      "title": "Steel Determination",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-52",
+      "number": "52",
+      "title": "Stupid Da",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-53",
+      "number": "53",
+      "title": "Wandering Bonds",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-54",
+      "number": "54",
+      "title": "Gale and Gale",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-55",
+      "number": "55",
+      "title": "The Day Time Intersects",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-56",
+      "number": "56",
+      "title": "Smoke Signals for a Bloody Battle",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-57",
+      "number": "57",
+      "title": "A Pair of Kings",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-58",
+      "number": "58",
+      "title": "Final Countdown",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-59",
+      "number": "59",
+      "title": "Infinite Resolve",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-60",
+      "number": "60",
+      "title": "Thoughts of Tomorrow",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-61",
+      "number": "61",
+      "title": "Unyielding Faith",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-62",
+      "number": "62",
+      "title": "Seeking The Light",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-63",
+      "number": "63",
+      "title": "Entrusted Future",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-64",
+      "number": "64",
+      "title": "King's Ultimate Goal",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-65",
+      "number": "65",
+      "title": "A Button in the Wrong Hole",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-66",
+      "number": "66",
+      "title": "At the Edge of Hate",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-67",
+      "number": "67",
+      "title": "A Reason to Fight",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-68",
+      "number": "68",
+      "title": "The Rave of Combat",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-69",
+      "number": "69",
+      "title": "Evil Runs Reckless",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-70",
+      "number": "70",
+      "title": "Judge of Time",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-71",
+      "number": "71",
+      "title": "Overflow",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-72",
+      "number": "72",
+      "title": "As a Dad",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-73",
+      "number": "73",
+      "title": "Eternal Bonds",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-74",
+      "number": "74",
+      "title": "Knight of the Kingdom Special + 74-A Brand New Start",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-75",
+      "number": "75",
+      "title": "The Side Roads are Full of Danger",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-76",
+      "number": "76",
+      "title": "The Dark's Oppresive Regime",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-77",
+      "number": "77",
+      "title": "Bad People",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-78",
+      "number": "78",
+      "title": "The Coming of the Storm",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-79",
+      "number": "79",
+      "title": "Busting Through",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-80",
+      "number": "80",
+      "title": "Footsteps of the Devil",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-81",
+      "number": "81",
+      "title": "Sound of Symphonia",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-82",
+      "number": "82",
+      "title": "Towards the Vortex of Chaos",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-83",
+      "number": "83",
+      "title": "Predestined Encounter",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-84",
+      "number": "84",
+      "title": "Because We're Friends",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-85",
+      "number": "85",
+      "title": "The Tragic Dragon Race",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-86",
+      "number": "86",
+      "title": "The Truth About Julia",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-87",
+      "number": "87",
+      "title": "Silver Ray",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-88",
+      "number": "88",
+      "title": "Silver Claimer Reminiscence",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-89",
+      "number": "89",
+      "title": "Pronouncement of Execution",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-90",
+      "number": "90",
+      "title": "Sacrifice, or Awakening",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-91",
+      "number": "91",
+      "title": "To The Limit of Chaos",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-92",
+      "number": "92",
+      "title": "Key to the Future",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-93",
+      "number": "93",
+      "title": "Dark Ascension",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-94",
+      "number": "94",
+      "title": "Memory Door",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-95",
+      "number": "95",
+      "title": "Twilight Vow",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-96",
+      "number": "96",
+      "title": "Search for Alice",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-97",
+      "number": "97",
+      "title": "The Future is Illuminated by Acappela Island",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-98",
+      "number": "98",
+      "title": "To Sazanberk",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-99",
+      "number": "99",
+      "title": "Rebirth of Darkness",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-100",
+      "number": "100",
+      "title": "Time to Synchronize",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-101",
+      "number": "101",
+      "title": "To the Endless Future",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-102",
+      "number": "102",
+      "title": "Moving Ambition",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-103",
+      "number": "103",
+      "title": "Dancing Fairy Sea",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-104",
+      "number": "104",
+      "title": "1 Gram of Peace",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-105",
+      "number": "105",
+      "title": "The Unjust Demons",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-106",
+      "number": "106",
+      "title": "Shaolan Infiltration",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-107",
+      "number": "107",
+      "title": "The Future is in Griff's Hands",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-108",
+      "number": "108",
+      "title": "Uncertain Dash",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-109",
+      "number": "109",
+      "title": "No One Will Die!!",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-110",
+      "number": "110",
+      "title": "The 2 Demons",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-111",
+      "number": "111",
+      "title": "Returning Sadness",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-112",
+      "number": "112",
+      "title": "Painful Magic",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-113",
+      "number": "113",
+      "title": "A Choice Between Thorns",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-114",
+      "number": "114",
+      "title": "Ultimate Darkness",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-115",
+      "number": "115",
+      "title": "The Marks of Light and Dark",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-116",
+      "number": "116",
+      "title": "Compensation for Life",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-117",
+      "number": "117",
+      "title": "Because They're My Friends",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-118",
+      "number": "118",
+      "title": "That's Mean Poyo!",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-119",
+      "number": "119",
+      "title": "A Mermaid in Love",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-120",
+      "number": "120",
+      "title": "The Path to Night",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-121",
+      "number": "121",
+      "title": "Spiral Emblem",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-122",
+      "number": "122",
+      "title": "The Death of Hope",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-123",
+      "number": "123",
+      "title": "Corrosion of Darkness",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-124",
+      "number": "124",
+      "title": "Change into Cruelty",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-125",
+      "number": "125",
+      "title": "The Two Silver Claimers",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-126",
+      "number": "126",
+      "title": "The Silver Ray",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-127",
+      "number": "127",
+      "title": "The Silver Bond",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-128",
+      "number": "128",
+      "title": "Reina's Heart",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-129",
+      "number": "129",
+      "title": "Life once more",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-130",
+      "number": "130",
+      "title": "Bond of Light",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-131",
+      "number": "131",
+      "title": "Nightmare Door",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-132",
+      "number": "132",
+      "title": "Black Heart",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-133",
+      "number": "133",
+      "title": "Torn Dream",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-134",
+      "number": "134",
+      "title": "Revived Demon's Voice",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-135",
+      "number": "135",
+      "title": "The Light Trump Card",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-136",
+      "number": "136",
+      "title": "Connect Your Heart",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-137",
+      "number": "137",
+      "title": "Believe in Rave",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-138",
+      "number": "138",
+      "title": "Power of Life",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-139",
+      "number": "139",
+      "title": "Touching Miracle",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-140",
+      "number": "140",
+      "title": "Facing a new Tomorrow",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-141",
+      "number": "141",
+      "title": "Will of Silver",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-142",
+      "number": "142",
+      "title": "Project DR",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-143",
+      "number": "143",
+      "title": "Are These Guys Stupid or What",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-144",
+      "number": "144",
+      "title": "Next Stop - The Jiggle Butt Zone",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-145",
+      "number": "145",
+      "title": "Inspecting the Horror",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-146",
+      "number": "146",
+      "title": "Fate of the Dragon Race",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-147",
+      "number": "147",
+      "title": "Let's Resolve",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-148",
+      "number": "148",
+      "title": "The Appointed Hour",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-149",
+      "number": "149",
+      "title": "Final Battle",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-150",
+      "number": "150",
+      "title": "Irreplaceable Heart",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-151",
+      "number": "151",
+      "title": "An Unjust World",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-152",
+      "number": "152",
+      "title": "Hapless Hero",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-153",
+      "number": "153",
+      "title": "Fist of Justice",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-154",
+      "number": "154",
+      "title": "Guiding Flame",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-155",
+      "number": "155",
+      "title": "A Matter of Pride",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-156",
+      "number": "156",
+      "title": "Fire and Water",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-157",
+      "number": "157",
+      "title": "The Forbidden Power",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-158",
+      "number": "158",
+      "title": "A Warrior's Pledge",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-159",
+      "number": "159",
+      "title": "Key to the World",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-160",
+      "number": "160",
+      "title": "Voice of the Star Vestige",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-161",
+      "number": "161",
+      "title": "Life of a Star",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-162",
+      "number": "162",
+      "title": "Haru vs Lucia",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-163",
+      "number": "163",
+      "title": "Souls, Determind unto Death",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-164",
+      "number": "164",
+      "title": "The Demon Sword Berserk",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-165",
+      "number": "165",
+      "title": "Homicide's Prelude",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-166",
+      "number": "166",
+      "title": "Demon Sacrifar",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-167",
+      "number": "167",
+      "title": "The Fist of Wrath",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-168",
+      "number": "168",
+      "title": "The Endless Beginning",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-169",
+      "number": "169",
+      "title": "Unkown Pathway",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-170",
+      "number": "170",
+      "title": "The Monster True Identity",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-171",
+      "number": "171",
+      "title": "The Betrayal of Time",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-172",
+      "number": "172",
+      "title": "The Winding Truth",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-173",
+      "number": "173",
+      "title": "The Betrayal of Light",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-174",
+      "number": "174",
+      "title": "The Infinite Goal",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-175",
+      "number": "175",
+      "title": "The Revolution of Time",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-176",
+      "number": "176",
+      "title": "Surpassing Infinite",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-177",
+      "number": "177",
+      "title": "Conclusion for Time",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-178",
+      "number": "178",
+      "title": "Behind the Smile",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-179",
+      "number": "179",
+      "title": "Let's Dance",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-180",
+      "number": "180",
+      "title": "The Shaking Heart",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-181",
+      "number": "181",
+      "title": "Time to Dance",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-182",
+      "number": "182",
+      "title": "Full Attendence",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-183",
+      "number": "183",
+      "title": "Dance of Solitude",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-184",
+      "number": "184",
+      "title": "Dance of Miracles",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-185",
+      "number": "185",
+      "title": "Julius' Decision",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-186",
+      "number": "186",
+      "title": "The Seed of Warth",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-187",
+      "number": "187",
+      "title": "Ribeyla's Spirit",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-188",
+      "number": "188",
+      "title": "Branch's Ambition",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-189",
+      "number": "189",
+      "title": "The Entrance to Hell",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-190",
+      "number": "190",
+      "title": "",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-191",
+      "number": "191",
+      "title": "Invincible Wrath",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-192",
+      "number": "192",
+      "title": "In the Night Skies Above",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-193",
+      "number": "193",
+      "title": "Rise of Determination",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-194",
+      "number": "194",
+      "title": "The Free Warrior's Home",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-195",
+      "number": "195",
+      "title": "BG's Trap",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-196",
+      "number": "196",
+      "title": "Defense at The Gates",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-197",
+      "number": "197",
+      "title": "An Awakening Winning Chance",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-198",
+      "number": "198",
+      "title": "A Woman's Fighting Spirit",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-199",
+      "number": "199",
+      "title": "Secret of the Hideout",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-200",
+      "number": "200",
+      "title": "Magical Ellie",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-201",
+      "number": "201",
+      "title": "As Humans",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-202",
+      "number": "202",
+      "title": "Runaway Staff",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-203",
+      "number": "203",
+      "title": "The Devil's Roar",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-204",
+      "number": "204",
+      "title": "The Uncertain Future",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-205",
+      "number": "205",
+      "title": "The Triangle of fate",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-206",
+      "number": "206",
+      "title": "Absolute Stronghold - Alabatross",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-207",
+      "number": "207",
+      "title": "Break In!! The Stronghold of Evil",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-208",
+      "number": "208",
+      "title": "Maze in the Skies",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-209",
+      "number": "209",
+      "title": "The Confusing Memory",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-210",
+      "number": "210",
+      "title": "Hardner's Scheme",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-211",
+      "number": "211",
+      "title": "Another World",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-212",
+      "number": "212",
+      "title": "Belnika's Tears",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-213",
+      "number": "213",
+      "title": "The Demon's Claw",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-214",
+      "number": "214",
+      "title": "The Future's Crossroad",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-215",
+      "number": "215",
+      "title": "The Achieved-Justice",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-216",
+      "number": "216",
+      "title": "The Price of Blasphemy",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-217",
+      "number": "217",
+      "title": "Reformation of Ambitions",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-218",
+      "number": "218",
+      "title": "Towards a World of No Future",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-219",
+      "number": "219",
+      "title": "Shield of Bonds",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-220",
+      "number": "220",
+      "title": "Those Who Believe",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-221",
+      "number": "221",
+      "title": "To Be Born on This World",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-222",
+      "number": "222",
+      "title": "Unreachable Souls",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-223",
+      "number": "223",
+      "title": "Desperation",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-224",
+      "number": "224",
+      "title": "Beyond the Boundries",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-225",
+      "number": "225",
+      "title": "Sword of Hope",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-226",
+      "number": "226",
+      "title": "Descent of the Demon",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-227",
+      "number": "227",
+      "title": "Accelerated Demise",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-228",
+      "number": "228",
+      "title": "Time to Counterattack",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-229",
+      "number": "229",
+      "title": "Our Wills, Now Bound Together",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-230",
+      "number": "230",
+      "title": "Heart Drop",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-231",
+      "number": "231",
+      "title": "Darkness Evolved",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-232",
+      "number": "232",
+      "title": "A Song of Life",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-233",
+      "number": "233",
+      "title": "Between Days of Battle",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-234",
+      "number": "234",
+      "title": "The Final Rave",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-235",
+      "number": "235",
+      "title": "Mountain Trail! Haru's Decision",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-236",
+      "number": "236",
+      "title": "Voice of the Labyrinth",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-237",
+      "number": "237",
+      "title": "About the Second Rave Master",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-238",
+      "number": "238",
+      "title": "The Sword Saint Resurrected",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-239",
+      "number": "239",
+      "title": "Between the Blades",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-240",
+      "number": "240",
+      "title": "The Weight of One's Sword",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-241",
+      "number": "241",
+      "title": "For Who's Sake",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-242",
+      "number": "242",
+      "title": "Inside of Resha",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-243",
+      "number": "243",
+      "title": "The Sword Saint's Baton",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-244",
+      "number": "244",
+      "title": "How this World Began",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-245",
+      "number": "245",
+      "title": "The Real Form of Dark Bring",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-246",
+      "number": "246",
+      "title": "Something to Hold",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-247",
+      "number": "247",
+      "title": "Return to Symphonia",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-248",
+      "number": "248",
+      "title": "In the Promised Land",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-249",
+      "number": "249",
+      "title": "The Door to Ellie...and the Truth",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-250",
+      "number": "250",
+      "title": "A Rift in Time",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-251",
+      "number": "251",
+      "title": "Symphonia, 0015",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-252",
+      "number": "252",
+      "title": "A Changing World",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-253",
+      "number": "253",
+      "title": "Race to the Future",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-254",
+      "number": "254",
+      "title": "Give Resha Back",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-255",
+      "number": "255",
+      "title": "Time at Cliff's Edge",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-256",
+      "number": "256",
+      "title": "The Worth Truth",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-257",
+      "number": "257",
+      "title": "On September 9th, All Began with the Rain",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-258",
+      "number": "258",
+      "title": "Lives Surpassing Time",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-259",
+      "number": "259",
+      "title": "The Guardian Linked to Time",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-260",
+      "number": "260",
+      "title": "Eternal Vow",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-261",
+      "number": "261",
+      "title": "Engraved Unto Sieg",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-262",
+      "number": "262",
+      "title": "The Trigger to Destruction",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-263",
+      "number": "263",
+      "title": "Combined Strength",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-264",
+      "number": "264",
+      "title": "Promise of the Souls",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-265",
+      "number": "265",
+      "title": "Devil's Feast",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-266",
+      "number": "266",
+      "title": "Trial of the Silverclaimer",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-267",
+      "number": "267",
+      "title": "Strength, Not Giving Up",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-268",
+      "number": "268",
+      "title": "10 Holy Sword, Drips of Life",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-269",
+      "number": "269",
+      "title": "The Mightest Bonds",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-270",
+      "number": "270",
+      "title": "The Final Light",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-271",
+      "number": "271",
+      "title": "Pure Hearts, Passing Each Other By",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-272",
+      "number": "272",
+      "title": "Sail Towards the Future",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-273",
+      "number": "273",
+      "title": "Engage the Enemies",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-274",
+      "number": "274",
+      "title": "For This Day",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-275",
+      "number": "275",
+      "title": "The Last Door",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-276",
+      "number": "276",
+      "title": "Shield of Soul",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-277",
+      "number": "277",
+      "title": "For the Future",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-278",
+      "number": "278",
+      "title": "Go Beyond the Lost Hope",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-279",
+      "number": "279",
+      "title": "Payment for Hope",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-280",
+      "number": "280",
+      "title": "Life's Scream",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-281",
+      "number": "281",
+      "title": "Surpassing the Immortality",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-282",
+      "number": "282",
+      "title": "Nobody Deserves to Die",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-283",
+      "number": "283",
+      "title": "Attack from the Whole World",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-284",
+      "number": "284",
+      "title": "Step Toward Destruction",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-285",
+      "number": "285",
+      "title": "Towards the Promise Way",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-286",
+      "number": "286",
+      "title": "Meaning of Life",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-287",
+      "number": "287",
+      "title": "Elie's Waiting",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-288",
+      "number": "288",
+      "title": "Mother's Will",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-289",
+      "number": "289",
+      "title": "Not Over Yet",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-290",
+      "number": "290",
+      "title": "Strength of Human",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-291",
+      "number": "291",
+      "title": "Holy Land of the Star",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-292",
+      "number": "292",
+      "title": "The Wrong World",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-293",
+      "number": "293",
+      "title": "The Finale Light",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-294",
+      "number": "294",
+      "title": "Decisions Toward the Future",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-295",
+      "number": "295",
+      "title": "The Couple's Answer",
+      "date": "2009/08/18",
+      "pages": []
+    },
+    {
+      "id": "rave-296",
+      "number": "296",
+      "title": "Endless Journey",
+      "date": "2009/08/18",
+      "pages": []
+    }
+  ]
+}

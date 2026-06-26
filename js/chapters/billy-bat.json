@@ -1,0 +1,1159 @@
+{
+  "en": [
+    {
+      "id": "billy-bat-1",
+      "number": "1",
+      "title": "Dreary Night Murders",
+      "date": "2009/08/25",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-2",
+      "number": "2",
+      "title": "A Sincere Night",
+      "date": "2009/08/25",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-3",
+      "number": "3",
+      "title": "Bat Search",
+      "date": "2009/08/25",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-4",
+      "number": "4",
+      "title": "The Bat and the Ancient Text",
+      "date": "2009/08/25",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-5",
+      "number": "5",
+      "title": "A Run Over Corpse",
+      "date": "2009/08/25",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-6",
+      "number": "6",
+      "title": "Black or White",
+      "date": "2009/08/25",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-7",
+      "number": "7",
+      "title": "The Beginning of a Labyrinth",
+      "date": "2009/08/25",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-8",
+      "number": "8",
+      "title": "Signs",
+      "date": "2009/08/25",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-9",
+      "number": "9",
+      "title": "Bat Boy's Great Adventure 1",
+      "date": "2009/08/25",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-10",
+      "number": "10",
+      "title": "A Continuation of the End",
+      "date": "2009/08/25",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-11",
+      "number": "11",
+      "title": "A Continuation Of The Beginning",
+      "date": "2009/08/25",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-12",
+      "number": "12",
+      "title": "A Myriad of Suspects",
+      "date": "2009/08/25",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-13",
+      "number": "13",
+      "title": "A Forced Destiny",
+      "date": "2009/08/25",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-14",
+      "number": "14",
+      "title": "Shape Of The Lord",
+      "date": "2009/08/25",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-15",
+      "number": "15",
+      "title": "Father, Son, or Holy Ghost",
+      "date": "2009/08/25",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-16",
+      "number": "16",
+      "title": "Before the Chapel",
+      "date": "2009/08/25",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-17",
+      "number": "17",
+      "title": "After The Church",
+      "date": "2009/09/23",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-18",
+      "number": "18",
+      "title": "The Scroll of Momochi [1]",
+      "date": "2009/11/02",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-19",
+      "number": "19",
+      "title": "The Scroll of Momochi [2]",
+      "date": "2009/11/02",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-20",
+      "number": "20",
+      "title": "The Scroll of Momochi [3]",
+      "date": "2009/11/02",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-21",
+      "number": "21",
+      "title": "The Scroll of Momochi [4]",
+      "date": "2009/11/02",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-22",
+      "number": "22",
+      "title": "The Scroll of Momochi 5",
+      "date": "2009/11/18",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-23",
+      "number": "23",
+      "title": "The Scroll of Momochi 6",
+      "date": "2009/12/11",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-24",
+      "number": "24",
+      "title": "The Scroll of Momochi 7",
+      "date": "2009/12/26",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-25",
+      "number": "25",
+      "title": "The Scroll of Momochi 8",
+      "date": "2010/03/01",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-26",
+      "number": "26",
+      "title": "The Scroll of Momochi 9",
+      "date": "2010/02/05",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-27",
+      "number": "27",
+      "title": "The Scroll of Momochi 10",
+      "date": "2010/02/05",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-28",
+      "number": "28",
+      "title": "The Bat's Innards",
+      "date": "2010/03/01",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-29",
+      "number": "29",
+      "title": "Lee's Lnnards",
+      "date": "2010/03/09",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-30",
+      "number": "30",
+      "title": "Thus Spoke Oswald",
+      "date": "2010/03/29",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-31",
+      "number": "31",
+      "title": "To the West, To the East",
+      "date": "2010/04/26",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-32",
+      "number": "32",
+      "title": "The Japanese Impression",
+      "date": "2010/04/26",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-33",
+      "number": "33",
+      "title": "The Japanese Authentication",
+      "date": "2010/12/14",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-34",
+      "number": "34",
+      "title": "Continuation of a Continuation",
+      "date": "2010/12/19",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-35",
+      "number": "35",
+      "title": "An Oswald Dose of Joy",
+      "date": "2010/12/19",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-36",
+      "number": "36",
+      "title": "An Annucation To Simpleton",
+      "date": "2010/12/19",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-37",
+      "number": "37",
+      "title": "The Decision at 20:10",
+      "date": "2010/12/19",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-38",
+      "number": "38",
+      "title": "The Return of The Real One",
+      "date": "2010/12/22",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-39",
+      "number": "39",
+      "title": "Fire in The Deep South",
+      "date": "2010/12/22",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-40",
+      "number": "40",
+      "title": "Heat of The Night",
+      "date": "2010/12/22",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-41",
+      "number": "41",
+      "title": "Deep South Dreams",
+      "date": "2010/12/22",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-42",
+      "number": "42",
+      "title": "Dallas, Three Years Later",
+      "date": "2010/12/22",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-43",
+      "number": "43",
+      "title": "A Hero's Deicision",
+      "date": "2010/12/22",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-44",
+      "number": "44",
+      "title": "Sacrifice",
+      "date": "2010/12/22",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-45",
+      "number": "45",
+      "title": "Replica",
+      "date": "2010/12/22",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-46",
+      "number": "46",
+      "title": "Blue Island Blues",
+      "date": "2010/12/23",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-47",
+      "number": "47",
+      "title": "The Two Chucks",
+      "date": "2011/01/11",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-48",
+      "number": "48",
+      "title": "Hands off Oswald",
+      "date": "2011/01/17",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-49",
+      "number": "49",
+      "title": "The Sought One",
+      "date": "2011/01/18",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-50",
+      "number": "50",
+      "title": "The Administrator of The Human Race",
+      "date": "2011/02/01",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-51",
+      "number": "51",
+      "title": "The Earth...",
+      "date": "2011/02/24",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-52",
+      "number": "52",
+      "title": "Something There Is About You...",
+      "date": "2011/03/04",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-53",
+      "number": "53",
+      "title": "The Continuation of a Dream...",
+      "date": "2011/03/12",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-54",
+      "number": "54",
+      "title": "Something On The Moon",
+      "date": "2011/05/22",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-55",
+      "number": "55",
+      "title": "Go Your Own Way",
+      "date": "2011/06/04",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-56",
+      "number": "56",
+      "title": "The Final Rabbit",
+      "date": "2011/06/07",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-57",
+      "number": "57",
+      "title": "The President's Parade",
+      "date": "2011/06/12",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-58",
+      "number": "58",
+      "title": "A Hot Autumn Day in Dallas",
+      "date": "2011/06/12",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-59",
+      "number": "59",
+      "title": "Successor",
+      "date": "2011/06/16",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-60",
+      "number": "60",
+      "title": "Half In A Dream",
+      "date": "2011/06/26",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-61",
+      "number": "61",
+      "title": "The Real Truth",
+      "date": "2011/07/08",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-62",
+      "number": "62",
+      "title": "Kevin And Kevin",
+      "date": "2011/07/25",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-63",
+      "number": "63",
+      "title": "Coincidence",
+      "date": "2011/08/24",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-64",
+      "number": "64",
+      "title": "Cartoon's Destination",
+      "date": "2011/09/04",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-65",
+      "number": "65",
+      "title": "Devivie",
+      "date": "2011/11/19",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-66",
+      "number": "66",
+      "title": "Japan Travel Diary",
+      "date": "2011/11/27",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-67",
+      "number": "67",
+      "title": "Beyond Point and Line.....",
+      "date": "2011/12/04",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-68",
+      "number": "68",
+      "title": "I am 8 Man",
+      "date": "2011/12/28",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-69",
+      "number": "69",
+      "title": "Two Simpleton",
+      "date": "2012/01/04",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-70",
+      "number": "70",
+      "title": "Opposing Billies",
+      "date": "2012/01/04",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-71",
+      "number": "71",
+      "title": "Time Travel And Infinite Earns",
+      "date": "2012/02/27",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-72",
+      "number": "72",
+      "title": "Various Lives",
+      "date": "2012/03/17",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-73",
+      "number": "73",
+      "title": "Everything Continues",
+      "date": "2012/03/22",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-74",
+      "number": "74",
+      "title": "Doodle",
+      "date": "2012/04/24",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-75",
+      "number": "75",
+      "title": "Abnormalities on a Moonlit Night",
+      "date": "2012/06/30",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-76",
+      "number": "76",
+      "title": "All Holes",
+      "date": "2012/06/30",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-77",
+      "number": "77",
+      "title": "Demon On The Moon",
+      "date": "2012/07/14",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-78",
+      "number": "78",
+      "title": "Serial Murder Case (1/8)",
+      "date": "2012/08/04",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-79",
+      "number": "79",
+      "title": "Serial Murder Case (2/8)",
+      "date": "2012/08/07",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-80",
+      "number": "80",
+      "title": "Late Night Confession (3/8)",
+      "date": "2012/08/13",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-81",
+      "number": "81",
+      "title": "Connecticut Lullaby [4/8]",
+      "date": "2012/08/26",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-82",
+      "number": "82",
+      "title": "From the Past to the Future [5/8]",
+      "date": "2012/09/02",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-83",
+      "number": "83",
+      "title": "From The Future to The Past [6/8]",
+      "date": "2012/09/12",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-84",
+      "number": "84",
+      "title": "The Truth About Gary [7/8]",
+      "date": "2012/09/16",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-85",
+      "number": "85",
+      "title": "Emperor of the New Country [8/8]",
+      "date": "2012/09/23",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-86",
+      "number": "86",
+      "title": "Serialization Suspended 1",
+      "date": "2012/10/03",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-87",
+      "number": "87",
+      "title": "Poshumous Work Of The Future [2/8]",
+      "date": "2012/10/17",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-88",
+      "number": "88",
+      "title": "Wish to The Bat [3/8]",
+      "date": "2012/10/21",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-89",
+      "number": "89",
+      "title": "I Am A Mangaka [4/8]",
+      "date": "2012/11/05",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-90",
+      "number": "90",
+      "title": "Incantation [5/8]",
+      "date": "2012/11/14",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-91",
+      "number": "91",
+      "title": "Scroll [6/8]",
+      "date": "2012/12/01",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-92",
+      "number": "92",
+      "title": "The Scroll's Code [7/8]",
+      "date": "2012/12/01",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-93",
+      "number": "93",
+      "title": "A New Journey [8/8]",
+      "date": "2012/12/20",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-94",
+      "number": "94",
+      "title": "Golden Bat (1/8)",
+      "date": "2013/03/31",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-95",
+      "number": "95",
+      "title": "The Whole Story",
+      "date": "2013/04/12",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-96",
+      "number": "96",
+      "title": "Partner",
+      "date": "2013/04/12",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-97",
+      "number": "97",
+      "title": "Top Secret (4/8)",
+      "date": "2013/04/18",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-98",
+      "number": "98",
+      "title": "Second Hands Goods 5/8",
+      "date": "2013/05/04",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-99",
+      "number": "99",
+      "title": "One Of The Three Great Urban Legends 6/8",
+      "date": "2013/05/16",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-100",
+      "number": "100",
+      "title": "Unfulfilled Dream",
+      "date": "2013/05/22",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-101",
+      "number": "101",
+      "title": "Moon Walking [8/8]",
+      "date": "2013/05/31",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-102",
+      "number": "102",
+      "title": "Adolf and Hitler",
+      "date": "2013/09/11",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-103",
+      "number": "103",
+      "title": "Spotlight 2/8",
+      "date": "2013/09/20",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-104",
+      "number": "104",
+      "title": "Fake 3/8",
+      "date": "2013/09/21",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-105",
+      "number": "105",
+      "title": "Fake",
+      "date": "2013/09/29",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-106",
+      "number": "106",
+      "title": "Talking Think",
+      "date": "2013/10/12",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-107",
+      "number": "107",
+      "title": "Stop",
+      "date": "2013/10/12",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-108",
+      "number": "108",
+      "title": "Depends On you",
+      "date": "2013/10/12",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-109",
+      "number": "109",
+      "title": "Final Chapter?",
+      "date": "2013/12/13",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-110",
+      "number": "110",
+      "title": "Prologue",
+      "date": "2013/12/22",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-111",
+      "number": "111",
+      "title": "The Truth of the Beginning",
+      "date": "2014/01/26",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-112",
+      "number": "112",
+      "title": "The Bat's Guidepost",
+      "date": "2014/01/26",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-113",
+      "number": "113",
+      "title": "Too Late",
+      "date": "2014/01/26",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-114",
+      "number": "114",
+      "title": "Ivan",
+      "date": "2014/03/16",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-115",
+      "number": "115",
+      "title": "Come in, ivan",
+      "date": "2014/03/16",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-116",
+      "number": "116",
+      "title": "The Fate Of The World",
+      "date": "2014/07/23",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-117",
+      "number": "117",
+      "title": "Last Scene",
+      "date": "2014/07/23",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-118",
+      "number": "118",
+      "title": "Golden Boy",
+      "date": "2014/07/23",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-119",
+      "number": "119",
+      "title": "Re-Energence",
+      "date": "2014/08/16",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-120",
+      "number": "120",
+      "title": "Last Numbers",
+      "date": "2014/08/16",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-121",
+      "number": "121",
+      "title": "Prediction of Run",
+      "date": "2014/08/16",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-122",
+      "number": "122",
+      "title": "Red",
+      "date": "2014/08/16",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-123",
+      "number": "123",
+      "title": "Kiyoshi's Life",
+      "date": "2014/08/16",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-124",
+      "number": "124",
+      "title": "Escape",
+      "date": "2014/09/01",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-125",
+      "number": "125",
+      "title": "Must not touch",
+      "date": "2014/09/01",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-126",
+      "number": "126",
+      "title": "The next artist [001008]",
+      "date": "2014/11/17",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-127",
+      "number": "127",
+      "title": "Conditions for genuinity [002008",
+      "date": "2014/11/17",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-128",
+      "number": "128",
+      "title": "",
+      "date": "2014/11/30",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-129",
+      "number": "129",
+      "title": "",
+      "date": "2014/11/30",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-130",
+      "number": "130",
+      "title": "Joint Work",
+      "date": "2014/12/12",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-131",
+      "number": "131",
+      "title": "Destination",
+      "date": "2014/12/12",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-132",
+      "number": "132",
+      "title": "Fantasy's Demise",
+      "date": "2014/12/16",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-133",
+      "number": "133",
+      "title": "A certain Procedure[008008]",
+      "date": "2015/01/24",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-134",
+      "number": "134",
+      "title": "The Person I Wanted To Meet",
+      "date": "2015/04/22",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-135",
+      "number": "135",
+      "title": "Spotlight",
+      "date": "2015/04/28",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-136",
+      "number": "136",
+      "title": "Coming and going",
+      "date": "2015/04/30",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-137",
+      "number": "137",
+      "title": "The Day He Met The Bat",
+      "date": "2015/07/24",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-138",
+      "number": "138",
+      "title": "The Liar's Truth",
+      "date": "2015/08/10",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-139",
+      "number": "139",
+      "title": "",
+      "date": "2015/08/28",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-140",
+      "number": "140",
+      "title": "",
+      "date": "2015/08/28",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-141",
+      "number": "141",
+      "title": "",
+      "date": "2015/09/02",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-142",
+      "number": "142",
+      "title": "",
+      "date": "2015/09/07",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-143",
+      "number": "143",
+      "title": "Castles Built Of Sands",
+      "date": "2015/10/05",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-144",
+      "number": "144",
+      "title": "",
+      "date": "2015/10/06",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-145",
+      "number": "145",
+      "title": "",
+      "date": "2015/10/13",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-146",
+      "number": "146",
+      "title": "",
+      "date": "2015/10/28",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-147",
+      "number": "147",
+      "title": "",
+      "date": "2015/11/03",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-148",
+      "number": "148",
+      "title": "",
+      "date": "2015/11/19",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-149",
+      "number": "149",
+      "title": "",
+      "date": "2015/11/19",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-150",
+      "number": "150",
+      "title": "",
+      "date": "2016/01/20",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-151",
+      "number": "151",
+      "title": "",
+      "date": "2016/01/20",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-152",
+      "number": "152",
+      "title": "",
+      "date": "2016/01/27",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-153",
+      "number": "153",
+      "title": "",
+      "date": "2016/02/07",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-154",
+      "number": "154",
+      "title": "",
+      "date": "2016/02/07",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-155",
+      "number": "155",
+      "title": "",
+      "date": "2016/02/28",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-156",
+      "number": "156",
+      "title": "",
+      "date": "2016/03/02",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-157",
+      "number": "157",
+      "title": "",
+      "date": "2016/03/04",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-158",
+      "number": "158",
+      "title": "",
+      "date": "2016/07/09",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-159",
+      "number": "159",
+      "title": "",
+      "date": "2016/07/20",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-160",
+      "number": "160",
+      "title": "",
+      "date": "2016/07/22",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-161",
+      "number": "161",
+      "title": "",
+      "date": "2016/08/01",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-162",
+      "number": "162",
+      "title": "",
+      "date": "2016/08/18",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-163",
+      "number": "163",
+      "title": "",
+      "date": "2016/08/18",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-164",
+      "number": "164",
+      "title": "",
+      "date": "2016/08/26",
+      "pages": []
+    },
+    {
+      "id": "billy-bat-165",
+      "number": "165",
+      "title": "",
+      "date": "2016/08/27",
+      "pages": []
+    }
+  ]
+}

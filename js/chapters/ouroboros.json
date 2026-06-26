@@ -1,0 +1,921 @@
+{
+  "en": [
+    {
+      "id": "ouroboros-1",
+      "number": "1",
+      "title": "Ryou The Dragon",
+      "date": "2011/07/01",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-2",
+      "number": "2",
+      "title": "Drug",
+      "date": "2011/07/01",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-3",
+      "number": "3",
+      "title": "Secret",
+      "date": "2011/07/01",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-4",
+      "number": "4",
+      "title": "Woman",
+      "date": "2011/07/01",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-5",
+      "number": "5",
+      "title": "Back",
+      "date": "2011/07/01",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-6",
+      "number": "6",
+      "title": "Trust",
+      "date": "2011/07/14",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-7",
+      "number": "7",
+      "title": "Loop",
+      "date": "2011/07/14",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-8",
+      "number": "8",
+      "title": "Fist",
+      "date": "2011/08/26",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-9",
+      "number": "9",
+      "title": "Connection",
+      "date": "2011/08/26",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-10",
+      "number": "10",
+      "title": "Mistake",
+      "date": "2011/09/05",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-11",
+      "number": "11",
+      "title": "Bond",
+      "date": "2011/09/14",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-12",
+      "number": "12",
+      "title": "Scar",
+      "date": "2012/01/11",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-13",
+      "number": "13",
+      "title": "Conceived",
+      "date": "2012/01/23",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-14",
+      "number": "14",
+      "title": "Kill",
+      "date": "2012/02/10",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-15",
+      "number": "15",
+      "title": "Seal",
+      "date": "2012/02/11",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-16",
+      "number": "16",
+      "title": "Treachery",
+      "date": "2012/05/13",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-17",
+      "number": "17",
+      "title": "Lost",
+      "date": "2012/05/20",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-18",
+      "number": "18",
+      "title": "Empty",
+      "date": "2012/07/05",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-19",
+      "number": "19",
+      "title": "Rescue",
+      "date": "2012/07/05",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-20",
+      "number": "20",
+      "title": "Abuse",
+      "date": "2012/07/05",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-21",
+      "number": "21",
+      "title": "Violence",
+      "date": "2012/07/07",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-22",
+      "number": "22",
+      "title": "Investigate",
+      "date": "2012/07/21",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-23",
+      "number": "23",
+      "title": "Trap",
+      "date": "2012/07/30",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-24",
+      "number": "24",
+      "title": "Flower",
+      "date": "2012/09/16",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-25",
+      "number": "25",
+      "title": "Alteration",
+      "date": "2012/09/19",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-26",
+      "number": "26",
+      "title": "Past",
+      "date": "2012/09/29",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-27",
+      "number": "27",
+      "title": "Ugly",
+      "date": "2012/10/09",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-28",
+      "number": "28",
+      "title": "End",
+      "date": "2012/10/19",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-29",
+      "number": "29",
+      "title": "Disguise",
+      "date": "2012/10/29",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-30",
+      "number": "30",
+      "title": "Infiltration",
+      "date": "2012/11/08",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-31",
+      "number": "31",
+      "title": "Public",
+      "date": "2012/11/18",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-32",
+      "number": "32",
+      "title": "Attack",
+      "date": "2012/12/08",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-33",
+      "number": "33",
+      "title": "Beast",
+      "date": "2012/12/08",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-34",
+      "number": "34",
+      "title": "Revolution",
+      "date": "2012/12/18",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-35",
+      "number": "35",
+      "title": "Abuse",
+      "date": "2012/12/30",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-36",
+      "number": "36",
+      "title": "Sin",
+      "date": "2013/01/09",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-37",
+      "number": "37",
+      "title": "Soar",
+      "date": "2013/01/19",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-38",
+      "number": "38",
+      "title": "Awakening",
+      "date": "2013/01/29",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-39",
+      "number": "39",
+      "title": "Smokescreen",
+      "date": "2013/02/27",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-40",
+      "number": "40",
+      "title": "Father",
+      "date": "2013/03/09",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-41",
+      "number": "41",
+      "title": "Unusual",
+      "date": "2013/05/17",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-42",
+      "number": "42",
+      "title": "New",
+      "date": "2013/05/17",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-43",
+      "number": "43",
+      "title": "Limbs",
+      "date": "2013/05/17",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-44",
+      "number": "44",
+      "title": "Sakura",
+      "date": "2013/06/21",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-45",
+      "number": "45",
+      "title": "Target",
+      "date": "2013/07/09",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-46",
+      "number": "46",
+      "title": "Assault",
+      "date": "2013/07/27",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-47",
+      "number": "47",
+      "title": "Portrait",
+      "date": "2013/08/13",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-48",
+      "number": "48",
+      "title": "Blade",
+      "date": "2013/09/23",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-49",
+      "number": "49",
+      "title": "Green",
+      "date": "2013/11/25",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-50",
+      "number": "50",
+      "title": "Seal",
+      "date": "2014/01/05",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-51",
+      "number": "51",
+      "title": "Twist",
+      "date": "2014/02/13",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-52",
+      "number": "52",
+      "title": "Punishment",
+      "date": "2014/03/28",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-53",
+      "number": "53",
+      "title": "Factions",
+      "date": "2014/05/30",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-54",
+      "number": "54",
+      "title": "Intuition",
+      "date": "2014/09/30",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-55",
+      "number": "55",
+      "title": "Investigation",
+      "date": "2014/11/01",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-56",
+      "number": "56",
+      "title": "Danger",
+      "date": "2014/12/01",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-57",
+      "number": "57",
+      "title": "Zero",
+      "date": "2014/12/16",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-58",
+      "number": "58",
+      "title": "White",
+      "date": "2014/12/19",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-59",
+      "number": "59",
+      "title": "Partner",
+      "date": "2014/12/20",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-60",
+      "number": "60",
+      "title": "Difference",
+      "date": "2014/12/23",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-61",
+      "number": "61",
+      "title": "Ridicule",
+      "date": "2014/12/29",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-62",
+      "number": "62",
+      "title": "Desire",
+      "date": "2015/01/03",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-63",
+      "number": "63",
+      "title": "Obsession",
+      "date": "2015/01/07",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-64",
+      "number": "64",
+      "title": "Act",
+      "date": "2015/01/07",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-65",
+      "number": "65",
+      "title": "Hook",
+      "date": "2015/02/22",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-66",
+      "number": "66",
+      "title": "Degrading",
+      "date": "2015/02/22",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-67",
+      "number": "67",
+      "title": "Ruin",
+      "date": "2015/02/22",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-68",
+      "number": "68",
+      "title": "Bare",
+      "date": "2015/02/22",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-69",
+      "number": "69",
+      "title": "Festival",
+      "date": "2015/03/08",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-70",
+      "number": "70",
+      "title": "Aiming",
+      "date": "2015/03/20",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-71",
+      "number": "71",
+      "title": "Seal",
+      "date": "2015/03/30",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-72",
+      "number": "72",
+      "title": "Patrolling",
+      "date": "2015/06/06",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-73",
+      "number": "73",
+      "title": "",
+      "date": "2015/06/28",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-74",
+      "number": "74",
+      "title": "Lull",
+      "date": "2015/07/01",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-75",
+      "number": "75",
+      "title": "Manouevring",
+      "date": "2015/08/31",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-76",
+      "number": "76",
+      "title": "",
+      "date": "2015/09/19",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-77",
+      "number": "77",
+      "title": "Unsightly",
+      "date": "2015/12/16",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-78",
+      "number": "78",
+      "title": "Link",
+      "date": "2015/12/18",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-79",
+      "number": "79",
+      "title": "Devil",
+      "date": "2016/01/12",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-80",
+      "number": "80",
+      "title": "",
+      "date": "2016/01/28",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-81",
+      "number": "81",
+      "title": "Avenging",
+      "date": "2016/01/31",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-82",
+      "number": "82",
+      "title": "",
+      "date": "2016/02/19",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-83",
+      "number": "83",
+      "title": "",
+      "date": "2016/04/16",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-84",
+      "number": "84",
+      "title": "",
+      "date": "2016/04/16",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-85",
+      "number": "85",
+      "title": "",
+      "date": "2016/04/16",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-86",
+      "number": "86",
+      "title": "",
+      "date": "2016/05/12",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-87",
+      "number": "87",
+      "title": "",
+      "date": "2016/05/30",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-88",
+      "number": "88",
+      "title": "",
+      "date": "2016/07/15",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-89",
+      "number": "89",
+      "title": "",
+      "date": "2016/07/15",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-90",
+      "number": "90",
+      "title": "",
+      "date": "2016/07/29",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-91",
+      "number": "91",
+      "title": "",
+      "date": "2016/08/21",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-92",
+      "number": "92",
+      "title": "",
+      "date": "2016/10/01",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-93",
+      "number": "93",
+      "title": "",
+      "date": "2016/10/26",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-94",
+      "number": "94",
+      "title": "",
+      "date": "2016/11/26",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-95",
+      "number": "95",
+      "title": "",
+      "date": "2016/11/26",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-96",
+      "number": "96",
+      "title": "",
+      "date": "2016/12/29",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-97",
+      "number": "97",
+      "title": "",
+      "date": "2017/02/04",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-98",
+      "number": "98",
+      "title": "",
+      "date": "2017/02/18",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-99",
+      "number": "99",
+      "title": "",
+      "date": "2017/03/05",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-100",
+      "number": "100",
+      "title": "",
+      "date": "2017/05/09",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-101",
+      "number": "101",
+      "title": "",
+      "date": "2017/05/10",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-102",
+      "number": "102",
+      "title": "",
+      "date": "2017/10/04",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-103",
+      "number": "103",
+      "title": "Knowing",
+      "date": "2017/10/04",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-104",
+      "number": "104",
+      "title": "Wish",
+      "date": "2017/10/04",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-105",
+      "number": "105",
+      "title": "Saint",
+      "date": "2017/10/04",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-106",
+      "number": "106",
+      "title": "Like",
+      "date": "2017/10/04",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-108",
+      "number": "108",
+      "title": "",
+      "date": "2017/12/24",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-109",
+      "number": "109",
+      "title": "",
+      "date": "2018/02/22",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-110",
+      "number": "110",
+      "title": "",
+      "date": "2018/04/27",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-111",
+      "number": "111",
+      "title": "",
+      "date": "2018/06/17",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-112",
+      "number": "112",
+      "title": "",
+      "date": "2018/07/16",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-113",
+      "number": "113",
+      "title": "",
+      "date": "2018/09/16",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-114",
+      "number": "114",
+      "title": "",
+      "date": "2018/10/03",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-115",
+      "number": "115",
+      "title": "",
+      "date": "2018/11/01",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-116",
+      "number": "116",
+      "title": "Boy",
+      "date": "2018/12/08",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-117",
+      "number": "117",
+      "title": "",
+      "date": "2019/02/04",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-118",
+      "number": "118",
+      "title": "",
+      "date": "2019/03/23",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-119",
+      "number": "119",
+      "title": "",
+      "date": "2019/04/07",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-120",
+      "number": "120",
+      "title": "Legitimate",
+      "date": "2019/05/09",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-121",
+      "number": "121",
+      "title": "Acknowledge",
+      "date": "2019/05/09",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-122",
+      "number": "122",
+      "title": "",
+      "date": "2019/07/24",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-123",
+      "number": "123",
+      "title": "",
+      "date": "2019/08/12",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-124",
+      "number": "124",
+      "title": "Style",
+      "date": "2019/09/03",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-125",
+      "number": "125",
+      "title": "",
+      "date": "2019/10/05",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-126",
+      "number": "126",
+      "title": "",
+      "date": "2019/11/15",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-127",
+      "number": "127",
+      "title": "Shade",
+      "date": "2019/12/17",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-128",
+      "number": "128",
+      "title": "Chain",
+      "date": "2020/01/27",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-129",
+      "number": "129",
+      "title": "",
+      "date": "2020/03/10",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-130",
+      "number": "130",
+      "title": "Arrest",
+      "date": "2020/04/12",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-131",
+      "number": "131",
+      "title": "",
+      "date": "2020/04/25",
+      "pages": []
+    },
+    {
+      "id": "ouroboros-132",
+      "number": "132",
+      "title": "Cessation",
+      "date": "2020/05/02",
+      "pages": []
+    }
+  ]
+}

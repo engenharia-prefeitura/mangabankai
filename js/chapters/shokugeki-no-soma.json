@@ -1,0 +1,2209 @@
+{
+  "en": [
+    {
+      "id": "shokugeki-no-soma-1",
+      "number": "1",
+      "title": "The Endless Wilderness",
+      "date": "2013/01/21",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-2",
+      "number": "2",
+      "title": "God's Tongue",
+      "date": "2013/01/21",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-3",
+      "number": "3",
+      "title": "\"Transforming\" Furikake",
+      "date": "2013/01/21",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-4",
+      "number": "4",
+      "title": "The Demon King Talks About \"Gems\"",
+      "date": "2013/01/21",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-5",
+      "number": "5",
+      "title": "The Chef That Doesn't Smile",
+      "date": "2013/01/21",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-6",
+      "number": "6",
+      "title": "Maria of the Polar Star",
+      "date": "2013/01/21",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-7",
+      "number": "7",
+      "title": "Lawless Area",
+      "date": "2013/01/21",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-8",
+      "number": "8",
+      "title": "A Dish that Calls for Spring",
+      "date": "2013/01/26",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-9",
+      "number": "9",
+      "title": "The Ice Queen and the Spring Storm",
+      "date": "2013/02/02",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-10",
+      "number": "10",
+      "title": "The Meat Invader",
+      "date": "2013/02/09",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-11",
+      "number": "11",
+      "title": "The Night Before The Showdown",
+      "date": "2013/02/17",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-12",
+      "number": "12",
+      "title": "Enter the Battlefield",
+      "date": "2013/02/24",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-13",
+      "number": "13",
+      "title": "Quiet Don, An Eloquent Don",
+      "date": "2013/03/04",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-14",
+      "number": "14",
+      "title": "Megumi's Garden",
+      "date": "2013/03/09",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-15",
+      "number": "15",
+      "title": "Friction and Elite",
+      "date": "2013/03/16",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-16",
+      "number": "16",
+      "title": "Concerto of Ideas and Creation",
+      "date": "2013/03/23",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-17",
+      "number": "17",
+      "title": "The Coating that Colors the Mountain",
+      "date": "2013/04/08",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-18",
+      "number": "18",
+      "title": "The Seed of Ideas",
+      "date": "2013/04/13",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-19",
+      "number": "19",
+      "title": "Sparkling Soul",
+      "date": "2013/04/15",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-20",
+      "number": "20",
+      "title": "Verdict",
+      "date": "2013/04/21",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-21",
+      "number": "21",
+      "title": "The Supreme Recette",
+      "date": "2013/04/26",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-22",
+      "number": "22",
+      "title": "Alumni",
+      "date": "2013/05/13",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-23",
+      "number": "23",
+      "title": "Proof of Existence",
+      "date": "2013/05/19",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-24",
+      "number": "24",
+      "title": "The Magician that Came from the East",
+      "date": "2013/05/28",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-25",
+      "number": "25",
+      "title": "Those Remnants",
+      "date": "2013/05/31",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-26",
+      "number": "26",
+      "title": "Memories of a Dish",
+      "date": "2013/06/10",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-27",
+      "number": "27",
+      "title": "The Bitterness of Defeat",
+      "date": "2013/06/15",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-28",
+      "number": "28",
+      "title": "Everyone Must Not Fall Asleep",
+      "date": "2013/06/21",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-29",
+      "number": "29",
+      "title": "The Eggs Before Dawn",
+      "date": "2013/06/29",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-30",
+      "number": "30",
+      "title": "A Set Trap",
+      "date": "2013/07/05",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-31",
+      "number": "31",
+      "title": "Metamorphose",
+      "date": "2013/07/12",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-32",
+      "number": "32",
+      "title": "Dancing Cook",
+      "date": "2013/07/19",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-33",
+      "number": "33",
+      "title": "To the People Who Will Eventually Fight",
+      "date": "2013/07/26",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-34",
+      "number": "34",
+      "title": "The Fate Surrounding Tootsuki",
+      "date": "2013/08/01",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-35",
+      "number": "35",
+      "title": "Sensual Karaage (1)",
+      "date": "2013/08/08",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-36",
+      "number": "36",
+      "title": "Sensual Kaarage (2)",
+      "date": "2013/08/22",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-37",
+      "number": "37",
+      "title": "Sensual Kaarage (3)",
+      "date": "2013/08/30",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-38",
+      "number": "38",
+      "title": "Sensual Kaarage (4)",
+      "date": "2013/09/08",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-39",
+      "number": "39",
+      "title": "The Chosen Ones",
+      "date": "2013/09/12",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-40",
+      "number": "40",
+      "title": "Return",
+      "date": "2013/09/19",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-41",
+      "number": "41",
+      "title": "The Man Who was Called an Asura",
+      "date": "2013/09/26",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-42",
+      "number": "42",
+      "title": "Wake Up Kiss",
+      "date": "2013/10/06",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-43",
+      "number": "43",
+      "title": "The Cook Who Has Travelled Thousands of Miles",
+      "date": "2013/10/11",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-44",
+      "number": "44",
+      "title": "An Unexpected Straight",
+      "date": "2013/10/21",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-45",
+      "number": "45",
+      "title": "The Accompanist of Aromas and Stimuli",
+      "date": "2013/10/27",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-46",
+      "number": "46",
+      "title": "The Dragon Lies Down and then Ascends to the Sky",
+      "date": "2013/11/01",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-47",
+      "number": "47",
+      "title": "Battle Memories",
+      "date": "2013/11/10",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-48",
+      "number": "48",
+      "title": "The Known Unknown",
+      "date": "2013/11/19",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-49",
+      "number": "49",
+      "title": "Wolf Pack",
+      "date": "2013/11/24",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-50",
+      "number": "50",
+      "title": "Those Beyond Ordinary",
+      "date": "2013/12/04",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-51",
+      "number": "51",
+      "title": "The Witch's Dining Table",
+      "date": "2013/12/10",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-52",
+      "number": "52",
+      "title": "Those Who Serve the Best",
+      "date": "2013/12/13",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-53",
+      "number": "53",
+      "title": "The Man Who Came From A Cold Country",
+      "date": "2013/12/30",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-54",
+      "number": "54",
+      "title": "A Recital of Blossoming Individuals",
+      "date": "2014/01/20",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-55",
+      "number": "55",
+      "title": "A Hole Drilled with Knowledge",
+      "date": "2014/02/03",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-56",
+      "number": "56",
+      "title": "Tuscan Moon",
+      "date": "2014/02/06",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-57",
+      "number": "57",
+      "title": "Her Memories",
+      "date": "2014/02/08",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-58",
+      "number": "58",
+      "title": "Holy Aroma",
+      "date": "2014/02/15",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-59",
+      "number": "59",
+      "title": "Their Respective Weapons",
+      "date": "2014/02/22",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-60",
+      "number": "60",
+      "title": "The Warriors' Banquet",
+      "date": "2014/03/01",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-61",
+      "number": "61",
+      "title": "Putting Your Heart into It",
+      "date": "2014/03/07",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-62",
+      "number": "62",
+      "title": "A Meeting of Strong People",
+      "date": "2014/03/16",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-63",
+      "number": "63",
+      "title": "Plan",
+      "date": "2014/03/22",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-64",
+      "number": "64",
+      "title": "On the Edge",
+      "date": "2014/03/29",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-65",
+      "number": "65",
+      "title": "The Theory of Bento Evolution",
+      "date": "2014/04/06",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-66",
+      "number": "66",
+      "title": "What Fills That Box",
+      "date": "2014/04/12",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-67",
+      "number": "67",
+      "title": "Blending Light and Shadow",
+      "date": "2014/04/20",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-68",
+      "number": "68",
+      "title": "The \"Port City\" Match",
+      "date": "2014/05/01",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-69",
+      "number": "69",
+      "title": "Kitchen's Dictator",
+      "date": "2014/05/11",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-70",
+      "number": "70",
+      "title": "Polar Opposites",
+      "date": "2014/05/19",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-71",
+      "number": "71",
+      "title": "\"Courage\" and \"Resolution\"",
+      "date": "2014/05/25",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-72",
+      "number": "72",
+      "title": "The \"Jewels\" Generation",
+      "date": "2014/06/03",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-73",
+      "number": "73",
+      "title": "Minding the Details",
+      "date": "2014/06/09",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-74",
+      "number": "74",
+      "title": "Sensitive Monste",
+      "date": "2014/06/17",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-75",
+      "number": "75",
+      "title": "Beneath the Mask",
+      "date": "2014/06/24",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-76",
+      "number": "76",
+      "title": "Duel Etiquette",
+      "date": "2014/07/01",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-77",
+      "number": "77",
+      "title": "Pursuer",
+      "date": "2014/07/08",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-78",
+      "number": "78",
+      "title": "A Paper-Thin Difference Between Offense and Defense",
+      "date": "2014/07/15",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-79",
+      "number": "79",
+      "title": "The Last \"Card\"",
+      "date": "2014/07/21",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-80",
+      "number": "80",
+      "title": "The Conditions for the Challenge",
+      "date": "2014/07/29",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-81",
+      "number": "81",
+      "title": "The Observer Arrives",
+      "date": "2014/08/05",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-82",
+      "number": "82",
+      "title": "Starting Line",
+      "date": "2014/08/11",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-83",
+      "number": "83",
+      "title": "The Chaser And The Chased",
+      "date": "2014/08/24",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-84",
+      "number": "84",
+      "title": "Hidden Assignment",
+      "date": "2014/09/06",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-85",
+      "number": "85",
+      "title": "The First Bite's Secret",
+      "date": "2014/09/10",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-86",
+      "number": "86",
+      "title": "Garniture",
+      "date": "2014/09/14",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-87",
+      "number": "87",
+      "title": "Secret Plan",
+      "date": "2014/09/26",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-88",
+      "number": "88",
+      "title": "~DREAMLAND~",
+      "date": "2014/10/01",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-89",
+      "number": "89",
+      "title": "Morning Will Come Again",
+      "date": "2014/10/09",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-90",
+      "number": "90",
+      "title": "Iron Will, Heart Of Steel",
+      "date": "2014/10/17",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-91",
+      "number": "91",
+      "title": "Beasts Eating Each Other",
+      "date": "2014/10/23",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-92",
+      "number": "92",
+      "title": "Firestarter",
+      "date": "2014/10/27",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-93",
+      "number": "93",
+      "title": "The \"Sword\" That Announces Autumn",
+      "date": "2014/11/05",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-94",
+      "number": "94",
+      "title": "Seizing the Season",
+      "date": "2014/11/13",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-95",
+      "number": "95",
+      "title": "A Battle Surrounding the \"Season\"",
+      "date": "2014/11/22",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-96",
+      "number": "96",
+      "title": "The Answer He Reached",
+      "date": "2014/11/28",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-97",
+      "number": "97",
+      "title": "Moonlight Memories",
+      "date": "2014/12/09",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-98",
+      "number": "98",
+      "title": "The \"Things\" They've Accumulated",
+      "date": "2014/12/15",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-99",
+      "number": "99",
+      "title": "A Fang to Spearhead the Attack",
+      "date": "2014/12/27",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-100",
+      "number": "100",
+      "title": "A Sharp Point",
+      "date": "2014/12/30",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-101",
+      "number": "101",
+      "title": "A Fine Tempered Sword",
+      "date": "2015/01/05",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-102",
+      "number": "102",
+      "title": "Souma's Strength",
+      "date": "2015/01/21",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-103",
+      "number": "103",
+      "title": "SPECIALTY",
+      "date": "2015/01/26",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-104",
+      "number": "104",
+      "title": "New \"Jewel\"",
+      "date": "2015/02/04",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-105",
+      "number": "105",
+      "title": "Stagiaire",
+      "date": "2015/02/11",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-106",
+      "number": "106",
+      "title": "A Busy Restaurant with Many Problems",
+      "date": "2015/02/18",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-107",
+      "number": "107",
+      "title": "Ideals and Distance",
+      "date": "2015/02/26",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-108",
+      "number": "108",
+      "title": "Choosing a Path",
+      "date": "2015/03/04",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-109",
+      "number": "109",
+      "title": "Those Who Shed Light",
+      "date": "2015/03/13",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-110",
+      "number": "110",
+      "title": "The Magician, Once Again---!!",
+      "date": "2015/03/18",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-111",
+      "number": "111",
+      "title": "Course Menu",
+      "date": "2015/03/24",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-112",
+      "number": "112",
+      "title": "The Guidepost For Growth",
+      "date": "2015/04/04",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-113",
+      "number": "113",
+      "title": "Forgotten Vegetables",
+      "date": "2015/04/06",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-114",
+      "number": "114",
+      "title": "Yukihira (Revamped)",
+      "date": "2015/04/18",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-115",
+      "number": "115",
+      "title": "Tear Through",
+      "date": "2015/04/20",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-116",
+      "number": "116",
+      "title": "The Fruit Called Growth",
+      "date": "2015/04/28",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-117",
+      "number": "117",
+      "title": "Imposingly",
+      "date": "2015/05/13",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-118",
+      "number": "118",
+      "title": "Tootsuki Elite Ten",
+      "date": "2015/05/18",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-119",
+      "number": "119",
+      "title": "The Distance from the Elite Ten",
+      "date": "2015/05/26",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-120",
+      "number": "120",
+      "title": "Monster Event",
+      "date": "2015/06/03",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-121",
+      "number": "121",
+      "title": "Spicy Flavor Worship",
+      "date": "2015/06/08",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-122",
+      "number": "122",
+      "title": "M� and L�",
+      "date": "2015/06/21",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-123",
+      "number": "123",
+      "title": "Without Fearing Spiciness",
+      "date": "2015/06/21",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-124",
+      "number": "124",
+      "title": "Singing the School Anthem in Unison",
+      "date": "2015/06/28",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-125",
+      "number": "125",
+      "title": "Moon Banquet Festival",
+      "date": "2015/07/05",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-126",
+      "number": "126",
+      "title": "Great Stall Operation!",
+      "date": "2015/07/13",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-127",
+      "number": "127",
+      "title": "Moonlight Whispers",
+      "date": "2015/07/18",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-128",
+      "number": "128",
+      "title": "Blind Spot",
+      "date": "2015/07/26",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-129",
+      "number": "129",
+      "title": "Lion and Lion",
+      "date": "2015/08/03",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-130",
+      "number": "130",
+      "title": "A Pride of Young Lions",
+      "date": "2015/08/09",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-131",
+      "number": "131",
+      "title": "Waiting Impatiently for That Person",
+      "date": "2015/08/23",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-132",
+      "number": "132",
+      "title": "The First Seat's Power",
+      "date": "2015/09/01",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-133",
+      "number": "133",
+      "title": "The Clouded Table",
+      "date": "2015/09/06",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-134",
+      "number": "134",
+      "title": "Dark Clouds Cover the Moon",
+      "date": "2015/09/14",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-135",
+      "number": "135",
+      "title": "The Nakiri Bloodline",
+      "date": "2015/09/17",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-136",
+      "number": "136",
+      "title": "The Captive Queen",
+      "date": "2015/09/26",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-137",
+      "number": "137",
+      "title": "Lampight of Hope",
+      "date": "2015/10/04",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-138",
+      "number": "138",
+      "title": "Erina Goes To The Polar Star Dorm",
+      "date": "2015/10/08",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-139",
+      "number": "139",
+      "title": "Crumbling Academy",
+      "date": "2015/10/17",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-140",
+      "number": "140",
+      "title": "Example",
+      "date": "2015/10/25",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-141",
+      "number": "141",
+      "title": "Memories",
+      "date": "2015/10/29",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-142",
+      "number": "142",
+      "title": "Extreme Foul Play",
+      "date": "2015/11/05",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-143",
+      "number": "143",
+      "title": "The Battle Has Begun",
+      "date": "2015/11/12",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-144",
+      "number": "144",
+      "title": "The True Strength of the Alquimista",
+      "date": "2015/11/20",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-145",
+      "number": "145",
+      "title": "True Gastronomy",
+      "date": "2015/11/27",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-146",
+      "number": "146",
+      "title": "Hidden Flavor",
+      "date": "2015/12/04",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-147",
+      "number": "147",
+      "title": "The Counterattack Begins!",
+      "date": "2015/12/12",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-148",
+      "number": "148",
+      "title": "Triumphant Return",
+      "date": "2015/12/19",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-149",
+      "number": "149",
+      "title": "Heaven and Hell",
+      "date": "2015/12/28",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-150",
+      "number": "150",
+      "title": "Board Game",
+      "date": "2016/01/15",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-151",
+      "number": "151",
+      "title": "The Outbreak of War",
+      "date": "2016/01/22",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-152",
+      "number": "152",
+      "title": "Reconnaissance",
+      "date": "2016/02/01",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-153",
+      "number": "153",
+      "title": "The Venue of Death",
+      "date": "2016/02/12",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-154",
+      "number": "154",
+      "title": "With Fangs Bared",
+      "date": "2016/02/12",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-155",
+      "number": "155",
+      "title": "Maximum Output",
+      "date": "2016/02/20",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-156",
+      "number": "156",
+      "title": "Absolute Thermal Sense",
+      "date": "2016/02/26",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-157",
+      "number": "157",
+      "title": "The Salmon Dances",
+      "date": "2016/03/04",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-158",
+      "number": "158",
+      "title": "That Difference",
+      "date": "2016/03/11",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-159",
+      "number": "159",
+      "title": "Growth",
+      "date": "2016/03/17",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-160",
+      "number": "160",
+      "title": "Alice's Feelings",
+      "date": "2016/04/02",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-161",
+      "number": "161",
+      "title": "Contest",
+      "date": "2016/04/02",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-162",
+      "number": "162",
+      "title": "I",
+      "date": "2016/04/15",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-163",
+      "number": "163",
+      "title": "The One Who Aims For The Summit",
+      "date": "2016/04/15",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-164",
+      "number": "164",
+      "title": "Master and Disciple",
+      "date": "2016/04/22",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-165",
+      "number": "165",
+      "title": "Two Faces",
+      "date": "2016/05/04",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-166",
+      "number": "166",
+      "title": "Overpower",
+      "date": "2016/05/14",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-167",
+      "number": "167",
+      "title": "Familiar and Forlorn Faces",
+      "date": "2016/05/20",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-168",
+      "number": "168",
+      "title": "The Day They Met",
+      "date": "2016/05/27",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-169",
+      "number": "169",
+      "title": "Revenge",
+      "date": "2016/06/03",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-170",
+      "number": "170",
+      "title": "Frozen Feelings",
+      "date": "2016/06/10",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-171",
+      "number": "171",
+      "title": "Follow Me (MS Version)",
+      "date": "2016/06/18",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-172",
+      "number": "172",
+      "title": "Now, To the Fields of Battle!",
+      "date": "2016/06/23",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-173",
+      "number": "173",
+      "title": "Inequality",
+      "date": "2016/07/01",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-174",
+      "number": "174",
+      "title": "Time-Traveling Salmon",
+      "date": "2016/07/08",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-175",
+      "number": "175",
+      "title": "The Tootsuki Train Moves On",
+      "date": "2016/07/13",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-176",
+      "number": "176",
+      "title": "Mischief on a Snowy Day",
+      "date": "2016/07/21",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-177",
+      "number": "177",
+      "title": "Joan of Arc Rising",
+      "date": "2016/07/28",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-178",
+      "number": "178",
+      "title": "The Shining City",
+      "date": "2016/08/04",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-179",
+      "number": "179",
+      "title": "Opponent",
+      "date": "2016/08/18",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-180",
+      "number": "180",
+      "title": "Revenge Match",
+      "date": "2016/08/25",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-181",
+      "number": "181",
+      "title": "Be Ingenious With Bear Meat!",
+      "date": "2016/09/01",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-182",
+      "number": "182",
+      "title": "Birth of a New Elite Ten",
+      "date": "2016/09/14",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-183",
+      "number": "183",
+      "title": "A New Approach",
+      "date": "2016/09/14",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-184",
+      "number": "184",
+      "title": "Debt",
+      "date": "2016/09/21",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-185",
+      "number": "185",
+      "title": "Rematch with a Rival",
+      "date": "2016/09/30",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-186",
+      "number": "186",
+      "title": "Walking the Tightrope of Deliciousness",
+      "date": "2016/10/06",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-187",
+      "number": "187",
+      "title": "Burst Forth, Mincemeat Katsu!",
+      "date": "2016/10/14",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-188",
+      "number": "188",
+      "title": "The First Round",
+      "date": "2016/10/21",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-189",
+      "number": "189",
+      "title": "The Second Round",
+      "date": "2016/10/27",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-190",
+      "number": "190",
+      "title": "For Someone's Sake",
+      "date": "2016/11/03",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-191",
+      "number": "191",
+      "title": "After the Heated Battle",
+      "date": "2016/11/10",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-192",
+      "number": "192",
+      "title": "Wild Dance",
+      "date": "2016/11/17",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-193",
+      "number": "193",
+      "title": "Declaration Of War",
+      "date": "2016/12/02",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-194",
+      "number": "194",
+      "title": "Compensation",
+      "date": "2016/12/02",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-195",
+      "number": "195",
+      "title": "He Who Opened A Path Through The Wasteland",
+      "date": "2016/12/08",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-196",
+      "number": "196",
+      "title": "He Who Leads the Charge",
+      "date": "2016/12/29",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-197",
+      "number": "197",
+      "title": "He Who is Covered in Scars",
+      "date": "2016/12/29",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-198",
+      "number": "198",
+      "title": "He Who Used Up.All His Strength",
+      "date": "2017/01/12",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-199",
+      "number": "199",
+      "title": "Souma's Strength",
+      "date": "2017/01/19",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-200",
+      "number": "200",
+      "title": "Special Training Begins!",
+      "date": "2017/01/26",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-201",
+      "number": "201",
+      "title": "Takumi's Tanacity",
+      "date": "2017/02/03",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-202",
+      "number": "202",
+      "title": "Erina's True Studies",
+      "date": "2017/02/09",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-203",
+      "number": "203",
+      "title": "Re-realization",
+      "date": "2017/02/17",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-204",
+      "number": "204",
+      "title": "The Tenth Seat's Resolve",
+      "date": "2017/02/23",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-205",
+      "number": "205",
+      "title": "The Creator of Happiness",
+      "date": "2017/03/03",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-206",
+      "number": "206",
+      "title": "Welcome to the site of the decisive battle",
+      "date": "2017/03/09",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-207",
+      "number": "207",
+      "title": "Bad Luck",
+      "date": "2017/03/16",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-208",
+      "number": "208",
+      "title": "Feet planted on the ground",
+      "date": "2017/03/23",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-209",
+      "number": "209",
+      "title": "How the drop-outs live",
+      "date": "2017/03/30",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-210",
+      "number": "210",
+      "title": "The rotten bonds of east and west",
+      "date": "2017/04/06",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-211",
+      "number": "211",
+      "title": "Absolutely fair judges",
+      "date": "2017/04/13",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-212",
+      "number": "212",
+      "title": "The might of tradition vs The power of innovation",
+      "date": "2017/04/21",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-213",
+      "number": "213",
+      "title": "The cup of possibility",
+      "date": "2017/05/02",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-214",
+      "number": "214",
+      "title": "",
+      "date": "2017/05/12",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-215",
+      "number": "215",
+      "title": "Thick is Justice",
+      "date": "2017/05/18",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-216",
+      "number": "216",
+      "title": "Taking the Polar Star Dorm on his shoulders",
+      "date": "2017/05/25",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-217",
+      "number": "217",
+      "title": "The 1st Bout Continues",
+      "date": "2017/06/01",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-218",
+      "number": "218",
+      "title": "2nd Bout",
+      "date": "2017/06/08",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-219",
+      "number": "219",
+      "title": "Proof of Existence",
+      "date": "2017/06/16",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-220",
+      "number": "220",
+      "title": "Rindou Cometh",
+      "date": "2017/06/22",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-221",
+      "number": "221",
+      "title": "The Battle of Spicy Tastes",
+      "date": "2017/06/29",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-222",
+      "number": "222",
+      "title": "What They Want To Protect",
+      "date": "2017/07/07",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-223",
+      "number": "223",
+      "title": "Surpass your field",
+      "date": "2017/07/13",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-224",
+      "number": "224",
+      "title": "The strobe light flashes",
+      "date": "2017/07/21",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-225",
+      "number": "225",
+      "title": "Steadfast Bushido",
+      "date": "2017/07/28",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-226",
+      "number": "226",
+      "title": "Lined up and ready to go",
+      "date": "2017/08/04",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-227",
+      "number": "227",
+      "title": "The Outcome Of The Second Bout",
+      "date": "2017/08/18",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-228",
+      "number": "228",
+      "title": "The Regiment of Hope",
+      "date": "2017/08/25",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-229",
+      "number": "229",
+      "title": "3rd Bout",
+      "date": "2017/08/31",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-230",
+      "number": "230",
+      "title": "Aim for Victory!",
+      "date": "2017/09/07",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-231",
+      "number": "231",
+      "title": "Full Throttle",
+      "date": "2017/09/13",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-232",
+      "number": "232",
+      "title": "All or nothing",
+      "date": "2017/09/22",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-233",
+      "number": "233",
+      "title": "Proof of Growth",
+      "date": "2017/09/29",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-234",
+      "number": "234",
+      "title": "Its Over! Youre Done for!",
+      "date": "2017/10/05",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-235",
+      "number": "235",
+      "title": "The Food Alchemist",
+      "date": "2017/10/13",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-236",
+      "number": "236",
+      "title": "From the start...",
+      "date": "2017/10/20",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-237",
+      "number": "237",
+      "title": "Doppio Mezzaluna Pizza; The Pizza of two Glittering Moons",
+      "date": "2017/10/27",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-238",
+      "number": "238",
+      "title": "The Queens Tart",
+      "date": "2017/11/02",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-239",
+      "number": "239",
+      "title": "Her Fighting Style",
+      "date": "2017/11/10",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-240",
+      "number": "240",
+      "title": "Cute",
+      "date": "2017/11/18",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-241",
+      "number": "241",
+      "title": "A Warrior Honor",
+      "date": "2017/11/23",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-242",
+      "number": "242",
+      "title": "A Single Blade",
+      "date": "2017/12/01",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-243",
+      "number": "243",
+      "title": "First Year Brat",
+      "date": "2017/12/08",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-244",
+      "number": "244",
+      "title": "4th Bout",
+      "date": "2017/12/22",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-245",
+      "number": "245",
+      "title": "The charisma of cuteness",
+      "date": "2017/12/29",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-246",
+      "number": "246",
+      "title": "The cute queen",
+      "date": "2018/01/13",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-247",
+      "number": "247",
+      "title": "The Ice Queen",
+      "date": "2018/01/22",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-248",
+      "number": "248",
+      "title": "Feeling of a mediocrity",
+      "date": "2018/01/28",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-249",
+      "number": "249",
+      "title": "Your face in profile",
+      "date": "2018/02/03",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-250",
+      "number": "250",
+      "title": "The man known as Tsukasa Eishi",
+      "date": "2018/02/09",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-251",
+      "number": "251",
+      "title": "Uninvinted Guests",
+      "date": "2018/02/17",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-252",
+      "number": "252",
+      "title": "Final Battle",
+      "date": "2018/02/24",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-253",
+      "number": "253",
+      "title": "True Gourmet",
+      "date": "2018/03/02",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-254",
+      "number": "254",
+      "title": "Feasts and Famines",
+      "date": "2018/03/09",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-255",
+      "number": "255",
+      "title": "",
+      "date": "2018/03/17",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-256",
+      "number": "256",
+      "title": "Armor of dazzling white",
+      "date": "2018/03/24",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-257",
+      "number": "257",
+      "title": "How to make deadly specialties",
+      "date": "2018/04/01",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-258",
+      "number": "258",
+      "title": "The Deadly Speciality",
+      "date": "2018/04/08",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-259",
+      "number": "259",
+      "title": "",
+      "date": "2018/04/14",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-260",
+      "number": "260",
+      "title": "Secret Main Course Technique",
+      "date": "2018/04/22",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-261",
+      "number": "261",
+      "title": "Rebel Angel",
+      "date": "2018/04/30",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-262",
+      "number": "262",
+      "title": "Song Of Hope",
+      "date": "2018/05/11",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-263",
+      "number": "263",
+      "title": "Tootsuki Academy Rebirth",
+      "date": "2018/05/18",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-264",
+      "number": "264",
+      "title": "From: Tadokoro Megumi",
+      "date": "2018/05/26",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-265",
+      "number": "265",
+      "title": "",
+      "date": "2018/06/01",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-266",
+      "number": "266",
+      "title": "The Shokugeki Scent is in the air",
+      "date": "2018/06/08",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-267",
+      "number": "267",
+      "title": "The Midnights Chef",
+      "date": "2018/06/15",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-268",
+      "number": "268",
+      "title": "Tootsuki Academy\"s tenth seat, Megumi Tadokoro",
+      "date": "2018/06/22",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-269",
+      "number": "269",
+      "title": "Megumi Hospitality",
+      "date": "2018/06/29",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-270",
+      "number": "270",
+      "title": "The real culprit",
+      "date": "2018/07/07",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-271",
+      "number": "271",
+      "title": "Son of the best of his generation",
+      "date": "2018/07/13",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-272",
+      "number": "272",
+      "title": "A Disturbing Visitor",
+      "date": "2018/07/20",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-273",
+      "number": "273",
+      "title": "My other son",
+      "date": "2018/07/27",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-274",
+      "number": "274",
+      "title": "Sensei vs First Seat",
+      "date": "2018/08/03",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-275",
+      "number": "275",
+      "title": "Go for the interesting option",
+      "date": "2018/08/17",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-276",
+      "number": "276",
+      "title": "War Breaks Out?! Love Battle",
+      "date": "2018/08/24",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-277",
+      "number": "277",
+      "title": "2nd year end-of-term exams",
+      "date": "2018/08/31",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-278",
+      "number": "278",
+      "title": "Wriggling in the night",
+      "date": "2018/09/07",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-279",
+      "number": "279",
+      "title": "Light the Beacon",
+      "date": "2018/09/13",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-280",
+      "number": "280",
+      "title": "The aroma of comeback",
+      "date": "2018/09/20",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-281",
+      "number": "281",
+      "title": "The Blue",
+      "date": "2018/09/28",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-282",
+      "number": "282",
+      "title": "The Place Known as Yukihira",
+      "date": "2018/10/05",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-283",
+      "number": "283",
+      "title": "Predator and Prey",
+      "date": "2018/10/12",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-284",
+      "number": "284",
+      "title": "A Dying Chef",
+      "date": "2018/10/19",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-285",
+      "number": "285",
+      "title": "A last supper",
+      "date": "2018/10/26",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-286",
+      "number": "286",
+      "title": "A Chefs Price",
+      "date": "2018/11/03",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-287",
+      "number": "287",
+      "title": "Conbini Wars",
+      "date": "2018/11/10",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-288",
+      "number": "288",
+      "title": "An Exceptional Set Menu",
+      "date": "2018/11/16",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-289",
+      "number": "289",
+      "title": "I Want to be You",
+      "date": "2018/11/23",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-290",
+      "number": "290",
+      "title": "Midnight Evolution",
+      "date": "2018/11/30",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-291",
+      "number": "291",
+      "title": "Superhuman Chefs",
+      "date": "2018/12/07",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-292",
+      "number": "292",
+      "title": "The Haves, and the Haves not",
+      "date": "2018/12/14",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-293",
+      "number": "293",
+      "title": "Armed to the teeth",
+      "date": "2018/12/20",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-294",
+      "number": "294",
+      "title": "Christmas in Midsummer",
+      "date": "2018/12/31",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-295",
+      "number": "295",
+      "title": "Yukihira Soumas Superhuman Ability",
+      "date": "2019/01/18",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-296",
+      "number": "296",
+      "title": "Cross Knives",
+      "date": "2019/01/25",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-297",
+      "number": "297",
+      "title": "An Ecliptic Half-Moon",
+      "date": "2019/02/01",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-298",
+      "number": "298",
+      "title": "For those two",
+      "date": "2019/02/07",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-299",
+      "number": "299",
+      "title": "Yin and Yang",
+      "date": "2019/02/16",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-300",
+      "number": "300",
+      "title": "Prayer Book",
+      "date": "2019/02/22",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-301",
+      "number": "301",
+      "title": "The Ice Witch",
+      "date": "2019/03/03",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-302",
+      "number": "302",
+      "title": "Claws Serving Evil",
+      "date": "2019/03/08",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-303",
+      "number": "303",
+      "title": "The God Tongue in Despair",
+      "date": "2019/03/16",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-304",
+      "number": "304",
+      "title": "The cursed of the God Tongue",
+      "date": "2019/03/21",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-305",
+      "number": "305",
+      "title": "Surpass Your Father",
+      "date": "2019/03/29",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-306",
+      "number": "306",
+      "title": "Two Birds One Stone",
+      "date": "2019/04/06",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-307",
+      "number": "307",
+      "title": "The Wizard s Magic",
+      "date": "2019/04/14",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-308",
+      "number": "308",
+      "title": "The Conqueror",
+      "date": "2019/04/22",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-309",
+      "number": "309",
+      "title": "The Heart Is",
+      "date": "2019/04/25",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-310",
+      "number": "310",
+      "title": "The fierce battle of flavor",
+      "date": "2019/05/10",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-311",
+      "number": "311",
+      "title": "The taste of failure",
+      "date": "2019/05/17",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-312",
+      "number": "312",
+      "title": "",
+      "date": "2019/05/24",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-313",
+      "number": "313",
+      "title": "",
+      "date": "2019/05/31",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-314",
+      "number": "314",
+      "title": "The finest stones",
+      "date": "2019/06/07",
+      "pages": []
+    },
+    {
+      "id": "shokugeki-no-soma-315",
+      "number": "315",
+      "title": "END",
+      "date": "2019/06/14",
+      "pages": []
+    }
+  ]
+}

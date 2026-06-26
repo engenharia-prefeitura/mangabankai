@@ -1,0 +1,900 @@
+{
+  "en": [
+    {
+      "id": "maken-ki-1",
+      "number": "1",
+      "title": "",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-2",
+      "number": "2",
+      "title": "Physical Examination",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-3",
+      "number": "3",
+      "title": "The Girls Are Strong Too",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-4",
+      "number": "4",
+      "title": "Madou Kenkei Kikou Moves Out!",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-5",
+      "number": "5",
+      "title": "Enemies in Tenbi High School",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-6",
+      "number": "6",
+      "title": "Tenbi's Strongest Maiden",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-7",
+      "number": "7",
+      "title": "Rainy Days in Tenbi",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-8",
+      "number": "8",
+      "title": "Mercenary Unit - Venus",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-9",
+      "number": "9",
+      "title": "A Day in Tenbi - Exchange Student Chapter",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-10",
+      "number": "10",
+      "title": "Water Arena",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-11",
+      "number": "11",
+      "title": "Boys are Perplexed By",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-12",
+      "number": "12",
+      "title": "Your Unchanging Wish",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-13",
+      "number": "13",
+      "title": "The Day When the Sky Breaks-Morning",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-14",
+      "number": "14",
+      "title": "The Day When the Sky Breaks-Afternoon",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-15",
+      "number": "15",
+      "title": "Because I'm Stupid",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-16",
+      "number": "16",
+      "title": "What God Left Behind",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-17",
+      "number": "17",
+      "title": "This is the Battlefield",
+      "date": "2009/10/10",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-18",
+      "number": "18",
+      "title": "The Maken`s Name is...",
+      "date": "2009/10/31",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-19",
+      "number": "19",
+      "title": "The Two Who Are Alike",
+      "date": "2009/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-20",
+      "number": "20",
+      "title": "The Swing That Splits The Heavens",
+      "date": "2009/12/07",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-21",
+      "number": "21",
+      "title": "Precious Memories",
+      "date": "2009/12/26",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-22",
+      "number": "22",
+      "title": "The Strong And The Weak",
+      "date": "2010/02/09",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-23",
+      "number": "23",
+      "title": "Maken Asakam",
+      "date": "2010/04/19",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-24",
+      "number": "24",
+      "title": "",
+      "date": "2010/04/26",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-25",
+      "number": "25",
+      "title": "Tenbi Gakuen's 1st Semester Ends",
+      "date": "2010/05/22",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-26",
+      "number": "26",
+      "title": "Makaroon's Special Service Day - 1",
+      "date": "2010/06/07",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-27",
+      "number": "27",
+      "title": "Makaroon`s Special Service Day - 2",
+      "date": "2010/07/22",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-28",
+      "number": "28",
+      "title": "Summer/Swimsuits/Training!!",
+      "date": "2010/08/13",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-29",
+      "number": "29",
+      "title": "Beware of Sea Monsters",
+      "date": "2010/10/18",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-30",
+      "number": "30",
+      "title": "Beware of Monsters in The Forest",
+      "date": "2010/10/18",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-31",
+      "number": "31",
+      "title": "The Right Hand That Protects Friends",
+      "date": "2010/11/27",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-32",
+      "number": "32",
+      "title": "The Flow Keeps Flowing",
+      "date": "2011/01/01",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-33",
+      "number": "33",
+      "title": "Wait for Me! My Paradise",
+      "date": "2011/01/01",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-34",
+      "number": "34",
+      "title": "The Ability User Without An Ability",
+      "date": "2011/04/09",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-35",
+      "number": "35",
+      "title": "The Clumsy Bunch",
+      "date": "2011/04/28",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-36",
+      "number": "36",
+      "title": "",
+      "date": "2011/05/13",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-37",
+      "number": "37",
+      "title": "Drink & Meet",
+      "date": "2011/05/24",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-38",
+      "number": "38",
+      "title": "Virgins And Cherries",
+      "date": "2011/06/21",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-39",
+      "number": "39",
+      "title": "The Enemy Has Come",
+      "date": "2011/07/20",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-40",
+      "number": "40",
+      "title": "Break Point",
+      "date": "2011/10/24",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-41",
+      "number": "41",
+      "title": "Koto Dama",
+      "date": "2012/02/22",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-42",
+      "number": "42",
+      "title": "Leave it to me",
+      "date": "2012/04/19",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-43",
+      "number": "43",
+      "title": "The Emperor Vs. The School Director",
+      "date": "2012/05/03",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-44",
+      "number": "44",
+      "title": "TESSHIN",
+      "date": "2012/05/27",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-45",
+      "number": "45",
+      "title": "Thank You",
+      "date": "2012/06/21",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-46",
+      "number": "46",
+      "title": "Regretful Memories",
+      "date": "2012/10/25",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-47",
+      "number": "47",
+      "title": "You can't avoid the things you can't see",
+      "date": "2013/01/27",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-48",
+      "number": "48",
+      "title": "Mami Habaya",
+      "date": "2013/02/24",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-49",
+      "number": "49",
+      "title": "That Kind of Person isn't Human",
+      "date": "2013/03/01",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-50",
+      "number": "50",
+      "title": "This Is A Story From Long Ago",
+      "date": "2013/03/11",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-51",
+      "number": "51",
+      "title": "Those Are Her Irreplaceable Memories",
+      "date": "2013/05/14",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-52",
+      "number": "52",
+      "title": "And Her Spinning Soul",
+      "date": "2013/07/09",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-53",
+      "number": "53",
+      "title": "Who Cares",
+      "date": "2013/08/19",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-54",
+      "number": "54",
+      "title": "Clone",
+      "date": "2013/09/02",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-55",
+      "number": "55",
+      "title": "The Resurrected And The Vanished",
+      "date": "2013/10/25",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-56",
+      "number": "56",
+      "title": "The Two Takerus",
+      "date": "2013/11/10",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-57",
+      "number": "57",
+      "title": "The Power Of Blood",
+      "date": "2013/11/27",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-58",
+      "number": "58",
+      "title": "A Small Promise",
+      "date": "2013/12/25",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-59",
+      "number": "59",
+      "title": "Scars And Promise",
+      "date": "2013/12/25",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-60",
+      "number": "60",
+      "title": "The Start Of The Festivities",
+      "date": "2014/01/05",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-61",
+      "number": "61",
+      "title": "With That, The Summer Ends",
+      "date": "2014/01/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-62",
+      "number": "62",
+      "title": "Now Is The Festival Of The Autumn Beginnings",
+      "date": "2014/02/22",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-63",
+      "number": "63",
+      "title": "A Student's Role",
+      "date": "2014/03/05",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-64",
+      "number": "64",
+      "title": "School Festival!",
+      "date": "2014/04/01",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-65",
+      "number": "65",
+      "title": "It's Too Late To Repent",
+      "date": "2014/05/31",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-66",
+      "number": "66",
+      "title": "Deluxe Pole Toppling",
+      "date": "2014/06/27",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-67",
+      "number": "67",
+      "title": "The Man Who Exchanged Fists",
+      "date": "2014/08/06",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-68",
+      "number": "68",
+      "title": "True Master",
+      "date": "2014/09/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-69",
+      "number": "69",
+      "title": "A Way To Enjoy The Festival",
+      "date": "2014/09/15",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-70",
+      "number": "70",
+      "title": "Dynamic Quiz Game",
+      "date": "2014/12/03",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-71",
+      "number": "71",
+      "title": "What in The World is That?",
+      "date": "2015/03/13",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-72",
+      "number": "72",
+      "title": "The one Who Perished",
+      "date": "2015/06/24",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-73",
+      "number": "73",
+      "title": "",
+      "date": "2015/10/25",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-74",
+      "number": "74",
+      "title": "",
+      "date": "2016/08/12",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-75",
+      "number": "75",
+      "title": "",
+      "date": "2016/08/12",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-76",
+      "number": "76",
+      "title": "",
+      "date": "2016/08/21",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-77",
+      "number": "77",
+      "title": "",
+      "date": "2016/09/02",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-78",
+      "number": "78",
+      "title": "",
+      "date": "2017/09/30",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-79",
+      "number": "79",
+      "title": "",
+      "date": "2017/09/30",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-80",
+      "number": "80",
+      "title": "",
+      "date": "2017/09/30",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-81",
+      "number": "81",
+      "title": "",
+      "date": "2017/09/30",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-82",
+      "number": "82",
+      "title": "",
+      "date": "2017/09/30",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-83",
+      "number": "83",
+      "title": "",
+      "date": "2017/09/30",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-84",
+      "number": "84",
+      "title": "",
+      "date": "2017/09/30",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-85",
+      "number": "85",
+      "title": "",
+      "date": "2017/09/30",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-86",
+      "number": "86",
+      "title": "",
+      "date": "2017/09/30",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-87",
+      "number": "87",
+      "title": "",
+      "date": "2017/09/30",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-88",
+      "number": "88",
+      "title": "",
+      "date": "2017/09/30",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-89",
+      "number": "89",
+      "title": "",
+      "date": "2017/09/30",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-90",
+      "number": "90",
+      "title": "",
+      "date": "2017/09/30",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-91",
+      "number": "91",
+      "title": "",
+      "date": "2017/09/30",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-92",
+      "number": "92",
+      "title": "",
+      "date": "2017/09/30",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-93",
+      "number": "93",
+      "title": "",
+      "date": "2017/09/30",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-94",
+      "number": "94",
+      "title": "",
+      "date": "2017/09/30",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-95",
+      "number": "95",
+      "title": "",
+      "date": "2017/09/30",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-96",
+      "number": "96",
+      "title": "",
+      "date": "2017/09/30",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-97",
+      "number": "97",
+      "title": "",
+      "date": "2017/09/30",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-98",
+      "number": "98",
+      "title": "",
+      "date": "2017/09/30",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-99",
+      "number": "99",
+      "title": "",
+      "date": "2017/09/30",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-100",
+      "number": "100",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-101",
+      "number": "101",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-102",
+      "number": "102",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-103",
+      "number": "103",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-103e",
+      "number": "103e",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-104",
+      "number": "104",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-105",
+      "number": "105",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-106",
+      "number": "106",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-107",
+      "number": "107",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-108",
+      "number": "108",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-109",
+      "number": "109",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-110",
+      "number": "110",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-111",
+      "number": "111",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-112",
+      "number": "112",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-113",
+      "number": "113",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-113e",
+      "number": "113e",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-114",
+      "number": "114",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-115",
+      "number": "115",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-116",
+      "number": "116",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-117",
+      "number": "117",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-118",
+      "number": "118",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-118e",
+      "number": "118e",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-119",
+      "number": "119",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-120",
+      "number": "120",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-121",
+      "number": "121",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-122",
+      "number": "122",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-123",
+      "number": "123",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-124",
+      "number": "124",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    },
+    {
+      "id": "maken-ki-125",
+      "number": "125",
+      "title": "",
+      "date": "2025/11/08",
+      "pages": []
+    }
+  ]
+}

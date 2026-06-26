@@ -1,0 +1,931 @@
+{
+  "pt": [
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-1",
+      "number": 1,
+      "title": "Kusuriya no Hitorigoto – Capítulo 1 – A Maldição do Harém",
+      "date": "2025-03-31T23:40:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 246170
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-2",
+      "number": 2,
+      "title": "Kusuriya no Hitorigoto – Capítulo 2 – Cientista Louca",
+      "date": "2025-03-31T23:40:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 246173
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-3",
+      "number": 3,
+      "title": "Kusuriya no Hitorigoto – Capítulo 3 – A Ninfa da Corte Imperial",
+      "date": "2025-03-31T23:40:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 246169
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-4",
+      "number": 4,
+      "title": "Kusuriya no Hitorigoto – Capítulo 4 – O Fantasma do Luar",
+      "date": "2025-03-31T23:40:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 246177
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-5",
+      "number": 5,
+      "title": "Kusuriya no Hitorigoto – Capítulo 5 – Sendo a Enfermeira",
+      "date": "2025-03-31T23:40:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 246179
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-6",
+      "number": 6,
+      "title": "Kusuriya no Hitorigoto – Capítulo 6 – Festa do Jardim (Parte 1)",
+      "date": "2025-03-31T23:40:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 246171
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-7",
+      "number": 7,
+      "title": "Kusuriya no Hitorigoto – Capítulo 7 – Festa do Jardim (Parte 2)",
+      "date": "2025-03-31T23:40:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 246176
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-8",
+      "number": 8,
+      "title": "Kusuriya no Hitorigoto – Capítulo 8 – Festa do Jardim (Parte 3)",
+      "date": "2025-03-31T23:40:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 246178
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-9",
+      "number": 9,
+      "title": "Kusuriya no Hitorigoto – Capítulo 9 – A perspicácia de Maomao",
+      "date": "2025-03-31T23:40:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 246172
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-10",
+      "number": 10,
+      "title": "Kusuriya no Hitorigoto – Capítulo 10 – O significado da presilha",
+      "date": "2025-03-31T23:40:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 246174
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-11",
+      "number": 11,
+      "title": "Kusuriya no Hitorigoto – Capítulo 11 – De volta  ao lar",
+      "date": "2025-03-31T23:42:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 246605
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-12",
+      "number": 12,
+      "title": "Kusuriya no Hitorigoto – Capítulo 12 – Canudo de Palha",
+      "date": "2025-03-31T23:42:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 246607
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-13",
+      "number": 13,
+      "title": "Kusuriya no Hitorigoto – Capítulo 13 – Desentendimento",
+      "date": "2025-03-31T23:42:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 246613
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-14",
+      "number": 14,
+      "title": "Kusuriya no Hitorigoto – Capítulo 14 – Saquê",
+      "date": "2025-03-31T23:42:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 246612
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-15",
+      "number": 15,
+      "title": "Kusuriya no Hitorigoto – Capítulo 15 – Um pedido para Maomao",
+      "date": "2025-03-31T23:42:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 246608
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-16",
+      "number": 16,
+      "title": "Kusuriya no Hitorigoto – Capítulo 16 – Mel parte 1",
+      "date": "2025-03-31T23:42:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 246606
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-17",
+      "number": 17,
+      "title": "Kusuriya no Hitorigoto – Capítulo 17 – Mel (parte 2)",
+      "date": "2025-03-31T23:42:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 246614
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-18",
+      "number": 18,
+      "title": "Kusuriya no Hitorigoto – Capítulo 18 – A companheira  Aaduo",
+      "date": "2025-03-31T23:42:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 246611
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-19",
+      "number": 19,
+      "title": "Kusuriya no Hitorigoto – Capítulo 19 – Encruzilhada",
+      "date": "2025-03-31T23:42:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 246610
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-20",
+      "number": 20,
+      "title": "Kusuriya no Hitorigoto – Capítulo 20 – O Eunuco e a Cortesã",
+      "date": "2025-03-31T23:42:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 246609
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-21",
+      "number": 21,
+      "title": "Kusuriya no Hitorigoto – Capítulo 21 – Cercada por irmãs&#8230;",
+      "date": "2025-03-31T23:43:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247041
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-22",
+      "number": 22,
+      "title": "Kusuriya no Hitorigoto – Capítulo 22 – Os Deveres do Pátio Exterior",
+      "date": "2025-03-31T23:43:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247040
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-23",
+      "number": 23,
+      "title": "Kusuriya no Hitorigoto – Capítulo 23 – Lições do Pátio Interior",
+      "date": "2025-03-31T23:43:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247043
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-24",
+      "number": 24,
+      "title": "Kusuriya no Hitorigoto – Capítulo 24 – Um Cachimbo",
+      "date": "2025-03-31T23:43:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247047
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-25",
+      "number": 25,
+      "title": "Kusuriya no Hitorigoto – Capítulo 25 – Namasu",
+      "date": "2025-03-31T23:43:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247042
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-26",
+      "number": 26,
+      "title": "Kusuriya no Hitorigoto – Capítulo 26 – O Principal",
+      "date": "2025-03-31T23:43:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247039
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-27",
+      "number": 27,
+      "title": "Kusuriya no Hitorigoto – Capítulo 27 – Cosméticos",
+      "date": "2025-03-31T23:43:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247048
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-28.1",
+      "number": 28.1,
+      "title": "Kusuriya no Hitorigoto – Capítulo 28.1 – Um Passeio pela Cidade – I",
+      "date": "2025-03-31T23:43:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247045
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-28.2",
+      "number": 28.2,
+      "title": "Kusuriya no Hitorigoto – Capítulo 28.2 – Um Passeio pela Cidade – II",
+      "date": "2025-03-31T23:43:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247044
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-29.1",
+      "number": 29.1,
+      "title": "Kusuriya no Hitorigoto – Capítulo 29.1 – Sífilis – I",
+      "date": "2025-03-31T23:43:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247046
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-29.2",
+      "number": 29.2,
+      "title": "Kusuriya no Hitorigoto – Capítulo 29.2 – Sífilis – II",
+      "date": "2025-03-31T23:45:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247443
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-30",
+      "number": 30,
+      "title": "Kusuriya no Hitorigoto – Capítulo 30 – Sui Rei",
+      "date": "2025-03-31T23:45:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247445
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-31",
+      "number": 31,
+      "title": "Kusuriya no Hitorigoto – Capítulo 31 – Coincidência ou Inevitável?",
+      "date": "2025-03-31T23:45:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247444
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-32",
+      "number": 32,
+      "title": "Kusuriya no Hitorigoto – Capítulo 32 – O Mestre de Rituais Médios",
+      "date": "2025-03-31T23:45:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247446
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-33",
+      "number": 33,
+      "title": "Kusuriya no Hitorigoto – Capítulo 33 – A Trombeta do Diabo",
+      "date": "2025-03-31T23:45:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247452
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-34",
+      "number": 34,
+      "title": "Kusuriya no Hitorigoto – Capítulo 34 – Gao Shun",
+      "date": "2025-03-31T23:45:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247451
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-35.1",
+      "number": 35.1,
+      "title": "Kusuriya no Hitorigoto – Capítulo 35.1 – De Volta ao Palácio Interior – I",
+      "date": "2025-03-31T23:45:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247449
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-35.2",
+      "number": 35.2,
+      "title": "Kusuriya no Hitorigoto – Capítulo 35.2 – De Volta ao Palácio Interior – II",
+      "date": "2025-03-31T23:45:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247453
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-36.1",
+      "number": 36.1,
+      "title": "Kusuriya no Hitorigoto – Capítulo 36.1 – Rosas e Esmaltes – I",
+      "date": "2025-03-31T23:45:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247448
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-36.2",
+      "number": 36.2,
+      "title": "Kusuriya no Hitorigoto – Capítulo 36.2 – Rosas e Esmaltes – II",
+      "date": "2025-03-31T23:45:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247447
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-36.3",
+      "number": 36.3,
+      "title": "Kusuriya no Hitorigoto – Capítulo 36.3 – Rosas e Esmaltes – III",
+      "date": "2025-03-31T23:47:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247818
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-37",
+      "number": 37,
+      "title": "Kusuriya no Hitorigoto – Capítulo 37 – Bálsamo e Oxalis – I",
+      "date": "2025-03-31T23:47:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247815
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-38",
+      "number": 38,
+      "title": "Kusuriya no Hitorigoto – Capítulo 38 – Bálsamo e Oxalis – II",
+      "date": "2025-03-31T23:47:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247816
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-39",
+      "number": 39,
+      "title": "Kusuriya no Hitorigoto – Capítulo 39 – Bálsamo e Oxalis – III",
+      "date": "2025-03-31T23:47:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247819
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-40",
+      "number": 40,
+      "title": "Kusuriya no Hitorigoto – Capítulo 40 – Despache",
+      "date": "2025-03-31T23:47:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247817
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-41",
+      "number": 41,
+      "title": "Kusuriya no Hitorigoto – Capítulo 41 – O Livro",
+      "date": "2025-03-31T23:47:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247820
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-42.1",
+      "number": 42.1,
+      "title": "Kusuriya no Hitorigoto – Capítulo 42.1 – Gato (parte 1)",
+      "date": "2025-03-31T23:47:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247821
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-42.2",
+      "number": 42.2,
+      "title": "Kusuriya no Hitorigoto – Capítulo 42.2 – Gato (parte 2)",
+      "date": "2025-03-31T23:47:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247824
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-43.1",
+      "number": 43.1,
+      "title": "Kusuriya no Hitorigoto – Capítulo 43.1 – Caravana (parte 1)",
+      "date": "2025-03-31T23:47:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247823
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-43.2",
+      "number": 43.2,
+      "title": "Kusuriya no Hitorigoto – Capítulo 43.2 – Caravana (parte 2)",
+      "date": "2025-03-31T23:47:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 247822
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-44.1",
+      "number": 44.1,
+      "title": "Kusuriya no Hitorigoto – Capítulo 44.1 – Cordyceps (parte 1)",
+      "date": "2025-03-31T23:48:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248070
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-44.2",
+      "number": 44.2,
+      "title": "Kusuriya no Hitorigoto – Capítulo 44.2 – Cordyceps humano (parte 2)",
+      "date": "2025-03-31T23:48:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248069
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-45.1",
+      "number": 45.1,
+      "title": "Kusuriya no Hitorigoto – Capítulo 45.1 – Cordyceps (epílogo)",
+      "date": "2025-03-31T23:48:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248072
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-45.2",
+      "number": 45.2,
+      "title": "Kusuriya no Hitorigoto – Capítulo 45.2 – Cordyceps (epílogo, parte 2)",
+      "date": "2025-03-31T23:48:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248076
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-46",
+      "number": 46,
+      "title": "Kusuriya no Hitorigoto – Capítulo 46 – Espelho",
+      "date": "2025-03-31T23:48:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248071
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-47",
+      "number": 47,
+      "title": "Kusuriya no Hitorigoto – Capítulo 47 – Fada da lua (parte 1)",
+      "date": "2025-03-31T23:48:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248074
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-48.1",
+      "number": 48.1,
+      "title": "Kusuriya no Hitorigoto – Capítulo 48.1 – Fada da lua (parte 2)",
+      "date": "2025-03-31T23:48:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248073
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-48.2",
+      "number": 48.2,
+      "title": "Kusuriya no Hitorigoto – Capítulo 48.2 – Fada da lua (parte 3)",
+      "date": "2025-03-31T23:48:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248075
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-49",
+      "number": 49,
+      "title": "Kusuriya no Hitorigoto – Capítulo 49 – A clínica",
+      "date": "2025-03-31T23:48:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248078
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-50",
+      "number": 50,
+      "title": "Kusuriya no Hitorigoto – Capítulo 50 – Na terceira vez dá certo (parte 1)",
+      "date": "2025-03-31T23:48:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248077
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-51",
+      "number": 51,
+      "title": "Kusuriya no Hitorigoto – Capítulo 51 – Na terceira vez dá certo (parte 2)",
+      "date": "2025-03-31T23:50:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248313
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-52.1",
+      "number": 52.1,
+      "title": "Kusuriya no Hitorigoto – Capítulo 52.1 – Na terceira vez dá certo (parte 3)",
+      "date": "2025-03-31T23:50:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248318
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-52.2",
+      "number": 52.2,
+      "title": "Kusuriya no Hitorigoto – Capítulo 52.2 – Na terceira vez dá certo (parte 4)",
+      "date": "2025-03-31T23:50:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248314
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-53",
+      "number": 53,
+      "title": "Kusuriya no Hitorigoto – Capítulo 53 – O Templo da Escolha (Parte 1)",
+      "date": "2025-03-31T23:50:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248322
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-54",
+      "number": 54,
+      "title": "Kusuriya no Hitorigoto – Capítulo 54 – O templo da escolha (parte 2)",
+      "date": "2025-03-31T23:50:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248317
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-55.1",
+      "number": 55.1,
+      "title": "Kusuriya no Hitorigoto – Capítulo 55.1 – Imperatriz Viúva (Parte 1)",
+      "date": "2025-03-31T23:50:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248321
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-55.2",
+      "number": 55.2,
+      "title": "Kusuriya no Hitorigoto – Capítulo 55.2 – Imperatriz Viúva (Parte 2)",
+      "date": "2025-03-31T23:50:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248316
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-56",
+      "number": 56,
+      "title": "Kusuriya no Hitorigoto – Capítulo 56",
+      "date": "2025-03-31T23:50:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248315
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-57",
+      "number": 57,
+      "title": "Kusuriya no Hitorigoto – Capítulo 57",
+      "date": "2025-03-31T23:50:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248320
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-58",
+      "number": 58,
+      "title": "Kusuriya no Hitorigoto – Capítulo 58",
+      "date": "2025-03-31T23:50:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248319
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-59.1",
+      "number": 59.1,
+      "title": "Kusuriya no Hitorigoto – Capítulo 59.1 – História de Terror (Parte 1)",
+      "date": "2025-03-31T23:52:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248573
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-60.1",
+      "number": 60.1,
+      "title": "Kusuriya no Hitorigoto – Capítulo 60.1 – Retiro de Verão (Parte 1)",
+      "date": "2025-03-31T23:52:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248576
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-60.2",
+      "number": 60.2,
+      "title": "Kusuriya no Hitorigoto – Capítulo 60.2 – Retiro de Verão (Parte 2)",
+      "date": "2025-03-31T23:52:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248574
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-61",
+      "number": 61,
+      "title": "Kusuriya no Hitorigoto – Capítulo 61 – A Caçada (Parte 1)",
+      "date": "2025-03-31T23:52:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248575
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-62",
+      "number": 62,
+      "title": "Kusuriya no Hitorigoto – Capítulo 62 – A Caçada (Parte 2)",
+      "date": "2025-03-31T23:52:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248579
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-63.1",
+      "number": 63.1,
+      "title": "Kusuriya no Hitorigoto – Capítulo 63.1 – A Caçada (Parte 3)",
+      "date": "2025-03-31T23:52:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248583
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-63.2",
+      "number": 63.2,
+      "title": "Kusuriya no Hitorigoto – Capítulo 63.2 – A Caçada (Parte 4)",
+      "date": "2025-03-31T23:52:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248578
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-64",
+      "number": 64,
+      "title": "Kusuriya no Hitorigoto – Capítulo 64 – O homem mascarado",
+      "date": "2025-03-31T23:52:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248580
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-65",
+      "number": 65,
+      "title": "Kusuriya no Hitorigoto – Capítulo 65 – O Banho",
+      "date": "2025-03-31T23:52:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248581
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-66",
+      "number": 66,
+      "title": "Kusuriya no Hitorigoto – Capítulo 66 – Sekiu",
+      "date": "2025-03-31T23:52:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248582
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-67",
+      "number": 67,
+      "title": "Kusuriya no Hitorigoto – Capítulo 67 – O Fantasma Dançarino",
+      "date": "2025-03-31T23:54:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248830
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-68",
+      "number": 68,
+      "title": "Kusuriya no Hitorigoto – Capítulo 68 – O Eunuco dos rumores e o Sorvete",
+      "date": "2025-03-31T23:54:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248827
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-69",
+      "number": 69,
+      "title": "Kusuriya no Hitorigoto – Capítulo 69 – Parto Pélvico",
+      "date": "2025-03-31T23:54:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248829
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-70",
+      "number": 70,
+      "title": "Kusuriya no Hitorigoto – Capítulo 70 – Malícia Repulsiva Parte 1",
+      "date": "2025-03-31T23:54:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248832
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-71",
+      "number": 71,
+      "title": "Kusuriya no Hitorigoto – Capítulo 71 – Malícia Repulsiva Parte 2",
+      "date": "2025-03-31T23:54:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248834
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-72",
+      "number": 72,
+      "title": "Kusuriya no Hitorigoto – Capítulo 72 – A Raposa e o Texugo se enfrentam",
+      "date": "2025-03-31T23:54:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 248835
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-73",
+      "number": 73,
+      "title": "Kusuriya no Hitorigoto – Capítulo 73 – Pegadas",
+      "date": "2025-03-31T23:55:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 249045
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-74.1",
+      "number": 74.1,
+      "title": "Kusuriya no Hitorigoto – Capítulo 74.1 – A vila da Raposa (1)",
+      "date": "2025-03-31T23:55:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 249047
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-74.2",
+      "number": 74.2,
+      "title": "Kusuriya no Hitorigoto – Capítulo 74.2 – A vila da Raposa (2)",
+      "date": "2025-03-31T23:55:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 249050
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-75",
+      "number": 75,
+      "title": "Kusuriya no Hitorigoto – Capítulo 75 – Physalis (Parte 1)",
+      "date": "2025-03-31T23:55:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 249049
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-75.1",
+      "number": 75.1,
+      "title": "Kusuriya no Hitorigoto – Capítulo 75.1 – Hozuki ①",
+      "date": "2025-03-31T23:55:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 249046
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-75.2",
+      "number": 75.2,
+      "title": "Kusuriya no Hitorigoto – Capítulo 75.2 – Physalis (Parte 2)",
+      "date": "2025-03-31T23:55:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 249051
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-76.1",
+      "number": 76.1,
+      "title": "Kusuriya no Hitorigoto – Capítulo 76.1 – Festival ①",
+      "date": "2025-03-31T23:57:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 249294
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-76.2",
+      "number": 76.2,
+      "title": "Kusuriya no Hitorigoto – Capítulo 76.2 – Festival (parte 2)",
+      "date": "2025-03-31T23:57:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 249295
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-77",
+      "number": 77,
+      "title": "Kusuriya no Hitorigoto – Capítulo 77 – Local da Transação",
+      "date": "2025-03-31T23:57:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 249299
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-77.1",
+      "number": 77.1,
+      "title": "Kusuriya no Hitorigoto – Capítulo 77.1 – Área de troca",
+      "date": "2025-03-31T23:57:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 249300
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-77.2",
+      "number": 77.2,
+      "title": "Kusuriya no Hitorigoto – Capítulo 77.2 – Local da Transação (Parte 2)",
+      "date": "2025-03-31T23:57:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 249298
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-78",
+      "number": 78,
+      "title": "Kusuriya no Hitorigoto – Capítulo 78 – A Fortaleza (Parte 1)",
+      "date": "2025-03-31T23:57:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 249296
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-78.1",
+      "number": 78.1,
+      "title": "Kusuriya no Hitorigoto – Capítulo 78.1 – Fortaleza ①",
+      "date": "2025-03-31T23:59:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 249571
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-78.2",
+      "number": 78.2,
+      "title": "Kusuriya no Hitorigoto – Capítulo 78.2 – Fortaleza (2)",
+      "date": "2025-03-31T23:59:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 249574
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-79.1",
+      "number": 79.1,
+      "title": "Kusuriya no Hitorigoto – Capítulo 79.1 – O Poço ①",
+      "date": "2025-03-31T23:59:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 249579
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-79.2",
+      "number": 79.2,
+      "title": "Kusuriya no Hitorigoto – Capítulo 79.2 – O poço (2)",
+      "date": "2025-03-31T23:59:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 249578
+    },
+    {
+      "id": "kusuriya-no-hitorigoto-chapter-80",
+      "number": 80,
+      "title": "Kusuriya no Hitorigoto – Capítulo 80 – Feifa",
+      "date": "2025-11-10T17:32:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 905851
+    }
+  ]
+}

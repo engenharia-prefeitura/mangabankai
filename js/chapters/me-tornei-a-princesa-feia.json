@@ -1,0 +1,961 @@
+{
+  "pt": [
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-0",
+      "number": 0,
+      "title": "Capítulo 0",
+      "date": "2026-06-23T20:15:32.952Z",
+      "pages": [
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/1/page-1.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/1/page-2.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/1/page-3.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/1/page-4.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/1/page-5.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/1/page-6.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/1/page-7.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/1/page-8.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/1/page-9.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/1/page-10.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/1/page-11.webp"
+      ]
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-1",
+      "number": 1,
+      "title": "Cap 1",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-2",
+      "number": 2,
+      "title": "Cap 2",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-3",
+      "number": 3,
+      "title": "Cap 3",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-4",
+      "number": 4,
+      "title": "Cap 4",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-5",
+      "number": 5,
+      "title": "Cap 5",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-6",
+      "number": 6,
+      "title": "Cap 6",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-7",
+      "number": 7,
+      "title": "Cap 7",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-8",
+      "number": 8,
+      "title": "Cap 8",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-9",
+      "number": 9,
+      "title": "Cap 9",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-10",
+      "number": 10,
+      "title": "Cap 10",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-11",
+      "number": 11,
+      "title": "Cap 11",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-12",
+      "number": 12,
+      "title": "Cap 12",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-13",
+      "number": 13,
+      "title": "Cap 13",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-14",
+      "number": 14,
+      "title": "Cap 14",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-15",
+      "number": 15,
+      "title": "Cap 15",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-16",
+      "number": 16,
+      "title": "Cap 16",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-17",
+      "number": 17,
+      "title": "Cap 17",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-18",
+      "number": 18,
+      "title": "Cap 18",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-19",
+      "number": 19,
+      "title": "Cap 19",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-20",
+      "number": 20,
+      "title": "Cap 20",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-21",
+      "number": 21,
+      "title": "Cap 21",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-22",
+      "number": 22,
+      "title": "Cap 22",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-23",
+      "number": 23,
+      "title": "Cap 23",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-24",
+      "number": 24,
+      "title": "Cap 24",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-25",
+      "number": 25,
+      "title": "Cap 25",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-26",
+      "number": 26,
+      "title": "Cap 26",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-27",
+      "number": 27,
+      "title": "Cap 27",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-28",
+      "number": 28,
+      "title": "Cap 28",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-29",
+      "number": 29,
+      "title": "Cap 29",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-30",
+      "number": 30,
+      "title": "Cap 30",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-31",
+      "number": 31,
+      "title": "Cap 31",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-32",
+      "number": 32,
+      "title": "Cap 32",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-33",
+      "number": 33,
+      "title": "Cap 33",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-34",
+      "number": 34,
+      "title": "Cap 34",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-35",
+      "number": 35,
+      "title": "Cap 35",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-36",
+      "number": 36,
+      "title": "Cap 36",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-37",
+      "number": 37,
+      "title": "Cap 37",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-38",
+      "number": 38,
+      "title": "Cap 38",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-39",
+      "number": 39,
+      "title": "Cap 39",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-40",
+      "number": 40,
+      "title": "Cap 40",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-41",
+      "number": 41,
+      "title": "Cap 41",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-42",
+      "number": 42,
+      "title": "Cap 42",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-43",
+      "number": 43,
+      "title": "Cap 43",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-44",
+      "number": 44,
+      "title": "Cap 44",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-45",
+      "number": 45,
+      "title": "Cap 45",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-46",
+      "number": 46,
+      "title": "Cap 46",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-47",
+      "number": 47,
+      "title": "Cap 47",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-48",
+      "number": 48,
+      "title": "Cap 48",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-49",
+      "number": 49,
+      "title": "Cap 49",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-50",
+      "number": 50,
+      "title": "Cap 50",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-51",
+      "number": 51,
+      "title": "Cap 51",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-52",
+      "number": 52,
+      "title": "Cap 52",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-53",
+      "number": 53,
+      "title": "Cap 53",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-54",
+      "number": 54,
+      "title": "Cap 54",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-55",
+      "number": 55,
+      "title": "Cap 55",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-56",
+      "number": 56,
+      "title": "Cap 56",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-57",
+      "number": 57,
+      "title": "Cap 57",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-58",
+      "number": 58,
+      "title": "Cap 58",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-59",
+      "number": 59,
+      "title": "Cap 59",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-60",
+      "number": 60,
+      "title": "Cap 60",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-61",
+      "number": 61,
+      "title": "Cap 61",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-62",
+      "number": 62,
+      "title": "Cap 62",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-63",
+      "number": 63,
+      "title": "Cap 63",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-64",
+      "number": 64,
+      "title": "Cap 64",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-65",
+      "number": 65,
+      "title": "Cap 65",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-66",
+      "number": 66,
+      "title": "Cap 66",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-67",
+      "number": 67,
+      "title": "Cap 67",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-68",
+      "number": 68,
+      "title": "Cap 68",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-69",
+      "number": 69,
+      "title": "Cap 69",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-70",
+      "number": 70,
+      "title": "Cap 70",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-71",
+      "number": 71,
+      "title": "Cap 71",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-72",
+      "number": 72,
+      "title": "Cap 72",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-73",
+      "number": 73,
+      "title": "Cap 73",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-74",
+      "number": 74,
+      "title": "Cap 74",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-75",
+      "number": 75,
+      "title": "Cap 75",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-76",
+      "number": 76,
+      "title": "Cap 76",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-77",
+      "number": 77,
+      "title": "Cap 77",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-78",
+      "number": 78,
+      "title": "Cap 78",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-79",
+      "number": 79,
+      "title": "Cap 79",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-80",
+      "number": 80,
+      "title": "Cap 80",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-81",
+      "number": 81,
+      "title": "Cap 81",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-82",
+      "number": 82,
+      "title": "Cap 82",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-83",
+      "number": 83,
+      "title": "Cap 83",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-84",
+      "number": 84,
+      "title": "Cap 84",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-85",
+      "number": 85,
+      "title": "Cap 85",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-86",
+      "number": 86,
+      "title": "Cap 86",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-87",
+      "number": 87,
+      "title": "Cap 87",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-88",
+      "number": 88,
+      "title": "Cap 88",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-89",
+      "number": 89,
+      "title": "Cap 89",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-90",
+      "number": 90,
+      "title": "Cap 90",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-91",
+      "number": 91,
+      "title": "Cap 91",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-92",
+      "number": 92,
+      "title": "Cap 92",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-93",
+      "number": 93,
+      "title": "Cap 93",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-94",
+      "number": 94,
+      "title": "Cap 94",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-95",
+      "number": 95,
+      "title": "Cap 95",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-96",
+      "number": 96,
+      "title": "Cap 96",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-97",
+      "number": 97,
+      "title": "Cap 97",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-98",
+      "number": 98,
+      "title": "Cap 98",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-99",
+      "number": 99,
+      "title": "Cap 99",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-100",
+      "number": 100,
+      "title": "Cap 100",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-101",
+      "number": 101,
+      "title": "Cap 101",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-102",
+      "number": 102,
+      "title": "Cap 102",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-103",
+      "number": 103,
+      "title": "Cap 103",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-104",
+      "number": 104,
+      "title": "Cap 104",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-105",
+      "number": 105,
+      "title": "Cap 105",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-106",
+      "number": 106,
+      "title": "Cap 106",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-107",
+      "number": 107,
+      "title": "Cap 107",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-108",
+      "number": 108,
+      "title": "Cap 108",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-109",
+      "number": 109,
+      "title": "Cap 109",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-110",
+      "number": 110,
+      "title": "Cap 110",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-111",
+      "number": 111,
+      "title": "Cap 111",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-112",
+      "number": 112,
+      "title": "Cap 112",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-113",
+      "number": 113,
+      "title": "Cap 113",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-114",
+      "number": 114,
+      "title": "Cap 114",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-115",
+      "number": 115,
+      "title": "Cap 115",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-116",
+      "number": 116,
+      "title": "Cap 116",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-117",
+      "number": 117,
+      "title": "Cap 117",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-118",
+      "number": 118,
+      "title": "Cap 118",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-119",
+      "number": 119,
+      "title": "Cap 119",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-120",
+      "number": 120,
+      "title": "Cap 120",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-121",
+      "number": 121,
+      "title": "Cap 121",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-122",
+      "number": 122,
+      "title": "Cap 122",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-123",
+      "number": 123,
+      "title": "Cap 123",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-124",
+      "number": 124,
+      "title": "Cap 124",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-125",
+      "number": 125,
+      "title": "Cap 125",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-126",
+      "number": 126,
+      "title": "Cap 126",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-127",
+      "number": 127,
+      "title": "Cap 127",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-128",
+      "number": 128,
+      "title": "Cap 128",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-129",
+      "number": 129,
+      "title": "Cap 129",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-130",
+      "number": 130,
+      "title": "Cap 130",
+      "date": "2024-10-31T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "me-tornei-a-princesa-feia-chapter-131",
+      "number": 131,
+      "title": "Capítulo 131",
+      "date": "2026-06-23T20:15:33.623Z",
+      "pages": [
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/cap-131/page-1.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/cap-131/page-2-1.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/cap-131/page-2-2.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/cap-131/page-3-1.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/cap-131/page-3-2.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/cap-131/page-4-1.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/cap-131/page-4-2.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/cap-131/page-5-1.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/cap-131/page-5-2.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/cap-131/page-6-1.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/cap-131/page-6-2.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/cap-131/page-7-1.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/cap-131/page-7-2.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/cap-131/page-8-1.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/cap-131/page-8-2.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/cap-131/page-9-1.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/cap-131/page-9-2.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/cap-131/page-10-1.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/cap-131/page-10-2.webp",
+        "https://cdn.leituramanga.net/me-tornei-a-princesa-feia/cap-131/page-11.webp"
+      ]
+    }
+  ]
+}

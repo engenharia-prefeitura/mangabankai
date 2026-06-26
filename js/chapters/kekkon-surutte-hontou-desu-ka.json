@@ -1,0 +1,823 @@
+{
+  "pt": [
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-1",
+      "number": 1,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 1",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290841
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-2",
+      "number": 2,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 2",
+      "date": "2025-04-02T20:31:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290840
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-3",
+      "number": 3,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 3",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290848
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-4",
+      "number": 4,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 4",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290871
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-6",
+      "number": 6,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 6 – Nós realmente precisamos de alianças?",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290878
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-7",
+      "number": 7,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 7 – O que casar&#8230; significa? (Parte 1)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290850
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-8",
+      "number": 8,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 8 – O que se casar&#8230; significa? (Parte 2)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290857
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-9",
+      "number": 9,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 9 – Você consegue dar uma boa impressão? (Parte 1)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290868
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-10",
+      "number": 10,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 10 – Você consegue dar uma boa impressão? (Parte 2)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290860
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-11",
+      "number": 11,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 11 – Você consegue dar uma boa impressão? (Parte 3)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290845
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-12",
+      "number": 12,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 12 – O que você pode compartilhar quando está em apuros? (Parte 1)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290861
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-13",
+      "number": 13,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 13 – O que você pode compartilhar quando está em apuros? (Parte 2)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290870
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-14",
+      "number": 14,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 14 – O que você pode compartilhar quando está em apuros? (Parte 3)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290852
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-15",
+      "number": 15,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 15 – O que você pode compartilhar quando está em apuros? (Parte 4)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290844
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-16",
+      "number": 16,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 16 – Você pode compartilhar a sua vida? (Parte 1)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290859
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-17",
+      "number": 17,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 17 – Você pode compartilhar a sua vida? (Parte 2)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290869
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-18",
+      "number": 18,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 18 – Você pode compartilhar a sua vida? (Parte 3)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290856
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-19",
+      "number": 19,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 19 – Você pode compartilhar a sua vida? (Parte 4)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290853
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-20",
+      "number": 20,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 20 – Você pode compartilhar a sua vida? (Parte 5)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290864
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-21",
+      "number": 21,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 21 – Você pode compartilhar a sua vida? (Parte 6)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290875
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-22",
+      "number": 22,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 22 – O que você pode compartilhar sua vida? (Parte 7)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290877
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-23",
+      "number": 23,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 23 – Vocês estão felizes estando juntos? (Parte 1)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290865
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-24",
+      "number": 24,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 24 – Vocês estão felizes estando juntos? (Parte 2)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290847
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-25",
+      "number": 25,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 25 – Vocês estão felizes estando juntos (Parte 3)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290876
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-26",
+      "number": 26,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 26 – Está feliz, mesmo só nós dois?",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290843
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-27",
+      "number": 27,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 27 – Vocês estão felizes por estarem juntos? (Parte 5)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290866
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-28",
+      "number": 28,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 28 – Vocês estão felizes por estarem juntos? (Parte 6)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290842
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-29",
+      "number": 29,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 29 – Vocês estão felizes por estarem juntos? (Parte 7)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290872
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-30",
+      "number": 30,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 30 – Você vai realmente confessar o seu amor? (Parte 1)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290858
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-31",
+      "number": 31,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 31 – Você vai realmente confessar o seu amor? (Parte 2)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290879
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-32",
+      "number": 32,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 32 – Você vai realmente confessar o seu amor? (Parte 3)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290846
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-33",
+      "number": 33,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 33 – Você vai realmente confessar o seu amor (Parte 4)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290862
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-34",
+      "number": 34,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 34 – Você está bem em ir a um encontro? Parte 1",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290854
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-35",
+      "number": 35,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 35 – Você está bem em ir a um encontro? Parte 2",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290855
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-36",
+      "number": 36,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 36 – Você está bem em ir a um encontro? (Parte 3)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290863
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-37",
+      "number": 37,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 37 – Você está bem em ir a um encontro? Part 4",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290873
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-38",
+      "number": 38,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 38 – Você está bem em ir a um encontro? (Parte 5)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290874
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-39",
+      "number": 39,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 39 – Você está bem em ir a um encontro? (Parte 6)",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290867
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-40",
+      "number": 40,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 40 – Vocês realmente estão sob o mesmo teto? Parte 1",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290851
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-41",
+      "number": 41,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 41 – Você realmente estão sob o mesmo teto? Parte 2",
+      "date": "2025-04-02T20:31:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 290849
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-42",
+      "number": 42,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 42 – Vocês realmente estão sob o mesmo teto? Parte 3",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291715
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-43",
+      "number": 43,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 43 – Vocês realmente estão sob o mesmo teto? Parte 4",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291723
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-44",
+      "number": 44,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 44 – Vocês realmente estão no mesmo teto? Parte 5",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291705
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-45",
+      "number": 45,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 45 – Vocês realmente estão no mesmo teto? Parte 6",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291713
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-46",
+      "number": 46,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 46 – É assim que vocês querem que termine? Parte 1",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291716
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-47",
+      "number": 47,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 47 – É assim que vocês querem que termine? Parte 2",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291711
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-48",
+      "number": 48,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 48 – É assim que vocês querem que termine? Parte 3",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291733
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-49",
+      "number": 49,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 49 – É assim que vocês querem que termine? Parte 4",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291731
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-50",
+      "number": 50,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 50 – É assim que vocês querem que termine? Parte 5",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291714
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-50.5",
+      "number": 50.5,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 50.5 – Extra",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291718
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-51",
+      "number": 51,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 51 – O que é preciso para se casar? Parte 1",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291709
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-52",
+      "number": 52,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 52 – O que é preciso para se casar? Parte 2",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291730
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-53",
+      "number": 53,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 53 – O que é preciso para se casar (Parte 3)",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291732
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-54",
+      "number": 54,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 54 – O que é preciso para se casar (Parte 4)",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291712
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-55",
+      "number": 55,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 55 – Precisa ser chato quando a vida não está indo bem? (Parte 1)",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291719
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-56",
+      "number": 56,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 56 – Precisa ser chato quando a vida não está indo bem? Parte 2",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291703
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-57",
+      "number": 57,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 57 – Precisa ser chato quando a vida não está indo bem? Parte 3",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291707
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-58",
+      "number": 58,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 58 – Precisa ser chato quando a vida não está indo bem? Parte 4",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291710
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-59",
+      "number": 59,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 59 – Precisa ser chato quando a vida não está indo bem? Parte 5",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291727
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-60",
+      "number": 60,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 60 – Precisa ser chato quando a vida não está indo bem? Parte 6",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291734
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-61",
+      "number": 61,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 61 – Precisa ser chato quando não está indo bem? Parte 7",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291742
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-62",
+      "number": 62,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 62 – Precisa ser chato quando a vida não está indo bem? Parte 8",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291726
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-63",
+      "number": 63,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 63 – Podemos conversar de mulher para mulher? Parte 1",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291704
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-64",
+      "number": 64,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 64 – Podemos conversar de mulher para mulher? Parte 2",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291721
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-65",
+      "number": 65,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 65 – Podemos conversar de mulher para mulher? Parte 3",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291717
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-66",
+      "number": 66,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 66 – Como é ser família? Parte 1",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291729
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-67",
+      "number": 67,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 67 – Como é ser família? Parte 2",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291735
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-68",
+      "number": 68,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 68 – Como é ser família? Parte 3",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291706
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-69",
+      "number": 69,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 69 – Como é ser família? Parte 4",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291728
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-70",
+      "number": 70,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 70 – Como é ser família? Parte 5",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291708
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-71",
+      "number": 71,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 71 – Como é ser uma família? Parte 6",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291738
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-72",
+      "number": 72,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 72 – Como é ser uma família? Parte 7",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291724
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-73",
+      "number": 73,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 73 – Como é ser uma família? Parte 8",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291725
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-74",
+      "number": 74,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 74 – Como é ser uma família? Parte 9",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291736
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-75",
+      "number": 75,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 75 – Como é ser uma família? Parte 10",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291739
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-76",
+      "number": 76,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 76 – Como você lida com os pais? Parte 5",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291737
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-77",
+      "number": 77,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 77 – Como você lida com os pais? Parte 6",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291741
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-78",
+      "number": 78,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 78 – Como você lida com os pais? Parte 7",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291720
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-79",
+      "number": 79,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 79 – Como você lida com os pais? Parte 8",
+      "date": "2025-04-02T20:32:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 291740
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-80",
+      "number": 80,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 80 – Não há mais decisões a tomar? Parte 1",
+      "date": "2025-04-02T20:34:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 292500
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-81",
+      "number": 81,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 81 – Não há mais decisões a tomar? Parte 2",
+      "date": "2025-04-02T20:34:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 292503
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-82",
+      "number": 82,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 82 – Não há mais decisões a tomar? Parte 3",
+      "date": "2025-04-02T20:34:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 292498
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-83",
+      "number": 83,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 83 – Não há mais decisões a tomar? Parte 4",
+      "date": "2025-04-02T20:34:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 292502
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-84",
+      "number": 84,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 84 – Não há mais decisões a tomar? Parte 5",
+      "date": "2025-04-02T20:34:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 292506
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-85",
+      "number": 85,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 85 – Não há mais decisões a tomar? Parte 6",
+      "date": "2025-04-02T20:34:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 292508
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-86",
+      "number": 86,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 86 – Não há mais decisões a tomar? Parte 7",
+      "date": "2025-04-02T20:34:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 292507
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-87",
+      "number": 87,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 87 – Não há mais decisões a tomar? Parte 8",
+      "date": "2025-04-02T20:34:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 292505
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-88",
+      "number": 88,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 88 – Não há mais decisões a tomar? Parte 9",
+      "date": "2025-04-02T20:34:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 292499
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-89",
+      "number": 89,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 89 – O que realmente é um casamento? Parte 1",
+      "date": "2025-04-02T20:34:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 292504
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-90",
+      "number": 90,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 90 – O que realmente é um casamento? Parte 2",
+      "date": "2025-04-02T20:34:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 292501
+    },
+    {
+      "id": "kekkon-surutte-hontou-desu-ka-chapter-91",
+      "number": 91,
+      "title": "Kekkon surutte, Hontou desu ka – Capítulo 91 – O que realmente é um casamento? Parte 3",
+      "date": "2025-04-02T20:34:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 292497
+    }
+  ]
+}

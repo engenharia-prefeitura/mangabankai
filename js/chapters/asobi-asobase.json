@@ -1,0 +1,928 @@
+{
+  "en": [
+    {
+      "id": "asobi-asobase-1",
+      "number": "1",
+      "title": "",
+      "date": "2016/07/15",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-2",
+      "number": "2",
+      "title": "",
+      "date": "2016/07/15",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-3",
+      "number": "3",
+      "title": "",
+      "date": "2018/09/12",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-4",
+      "number": "4",
+      "title": "",
+      "date": "2018/09/12",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-5",
+      "number": "5",
+      "title": "",
+      "date": "2018/09/12",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-6",
+      "number": "6",
+      "title": "Game of Friendship",
+      "date": "2018/09/15",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-7",
+      "number": "7",
+      "title": "",
+      "date": "2018/09/17",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-8",
+      "number": "8",
+      "title": "",
+      "date": "2018/09/18",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-9",
+      "number": "9",
+      "title": "Deafeat is not an Option",
+      "date": "2018/09/25",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-10",
+      "number": "10",
+      "title": "Marionette",
+      "date": "2019/04/12",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-11",
+      "number": "11",
+      "title": "Unlawful Occupation",
+      "date": "2019/06/14",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-12",
+      "number": "12",
+      "title": "Putting Their Lives on the Line",
+      "date": "2019/09/25",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-13",
+      "number": "13",
+      "title": "The Lower Body Beam",
+      "date": "2019/12/29",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-14",
+      "number": "14",
+      "title": "Devilish Sense",
+      "date": "2019/12/29",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-15",
+      "number": "15",
+      "title": "",
+      "date": "2020/01/13",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-16",
+      "number": "16",
+      "title": "",
+      "date": "2020/01/13",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-17",
+      "number": "17",
+      "title": "",
+      "date": "2020/01/13",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-18",
+      "number": "18",
+      "title": "Maedas Curse",
+      "date": "2020/01/22",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-19",
+      "number": "19",
+      "title": "Sex Ed",
+      "date": "2020/01/26",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-20",
+      "number": "20",
+      "title": "",
+      "date": "2020/02/06",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-21",
+      "number": "21",
+      "title": "Fierce Fight, Once Again",
+      "date": "2020/02/11",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-22",
+      "number": "22",
+      "title": "Phanton Thieves: Game Research Club",
+      "date": "2020/02/20",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-23",
+      "number": "23",
+      "title": "The Girl of Fear",
+      "date": "2020/03/01",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-24",
+      "number": "24",
+      "title": "",
+      "date": "2020/03/10",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-25",
+      "number": "25",
+      "title": "Studying For Tests",
+      "date": "2020/03/16",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-26",
+      "number": "26",
+      "title": "Saying Weird Things (Electro Waves, Go)",
+      "date": "2020/03/18",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-27",
+      "number": "27",
+      "title": "The Tragedy Of Tits",
+      "date": "2020/03/19",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-28",
+      "number": "28",
+      "title": "Gotta Catch Em Mold!",
+      "date": "2020/03/22",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-29",
+      "number": "29",
+      "title": "The Worries Of A Fake Foreigner",
+      "date": "2020/03/27",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-30",
+      "number": "30",
+      "title": "The Devil's Sugoroku",
+      "date": "2020/03/30",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-31",
+      "number": "31",
+      "title": "Kind Teacher",
+      "date": "2020/04/03",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-32",
+      "number": "32",
+      "title": "",
+      "date": "2020/04/13",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-33",
+      "number": "33",
+      "title": "Genetic Manipulation",
+      "date": "2020/04/21",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-34",
+      "number": "34",
+      "title": "Jumping Heart",
+      "date": "2020/04/28",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-35",
+      "number": "35",
+      "title": "Hanako's Shame Trial",
+      "date": "2020/05/07",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-36",
+      "number": "36",
+      "title": "Revelation From God",
+      "date": "2020/05/16",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-37",
+      "number": "37",
+      "title": "",
+      "date": "2020/05/22",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-38",
+      "number": "38",
+      "title": "",
+      "date": "2020/06/03",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-39",
+      "number": "39",
+      "title": "The Occult Club Witch Project",
+      "date": "2020/06/11",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-40",
+      "number": "40",
+      "title": "Lethal Face",
+      "date": "2020/06/18",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-41",
+      "number": "41",
+      "title": "Re:Zero: Starting from that Lethal Face",
+      "date": "2020/07/15",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-42",
+      "number": "42",
+      "title": "Daniel",
+      "date": "2020/07/24",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-43",
+      "number": "43",
+      "title": "Cosplay Marathon",
+      "date": "2020/08/04",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-44",
+      "number": "44",
+      "title": "Little Brother",
+      "date": "2020/08/12",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-45",
+      "number": "45",
+      "title": "Bra Conference",
+      "date": "2020/08/20",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-46",
+      "number": "46",
+      "title": "Marchen Battle Royale",
+      "date": "2020/08/30",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-47",
+      "number": "47",
+      "title": "The Occult Club Witch Project 2",
+      "date": "2020/09/02",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-48",
+      "number": "48",
+      "title": "To: Adult Me",
+      "date": "2020/09/06",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-49",
+      "number": "49",
+      "title": "Armstrong",
+      "date": "2020/09/08",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-50",
+      "number": "50",
+      "title": "A Goddess Is Born",
+      "date": "2020/09/15",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-51",
+      "number": "51",
+      "title": "Pandemic",
+      "date": "2020/09/26",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-52",
+      "number": "52",
+      "title": "Weaklings Of Life",
+      "date": "2020/10/07",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-53",
+      "number": "53",
+      "title": "Lucyferman",
+      "date": "2020/10/11",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-54",
+      "number": "54",
+      "title": "Cast With Magic",
+      "date": "2020/10/13",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-55",
+      "number": "55",
+      "title": "Brutal King",
+      "date": "2020/10/22",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-56",
+      "number": "56",
+      "title": "Brown Investigation",
+      "date": "2020/10/30",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-57",
+      "number": "57",
+      "title": "Curse",
+      "date": "2020/11/12",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-58",
+      "number": "58",
+      "title": "Rubbing Exercises",
+      "date": "2020/11/17",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-59",
+      "number": "59",
+      "title": "Red-Haired Illusionist.",
+      "date": "2020/11/30",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-60",
+      "number": "60",
+      "title": "To You In Full Nude",
+      "date": "2020/12/12",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-61",
+      "number": "61",
+      "title": "Friendship Destruction",
+      "date": "2020/12/19",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-62",
+      "number": "62",
+      "title": "Photograph Technology",
+      "date": "2020/12/22",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-63",
+      "number": "63",
+      "title": "Yorozuya Hana-chan",
+      "date": "2020/12/29",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-64",
+      "number": "64",
+      "title": "The Death Of Lucyferman",
+      "date": "2021/01/02",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-65",
+      "number": "65",
+      "title": "OP Order Mistake",
+      "date": "2021/01/05",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-66",
+      "number": "66",
+      "title": "Holding Back",
+      "date": "2021/01/13",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-67",
+      "number": "67",
+      "title": "Hanakopoint",
+      "date": "2021/01/20",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-68",
+      "number": "68",
+      "title": "Reverse-Hanako",
+      "date": "2021/01/26",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-69",
+      "number": "69",
+      "title": "",
+      "date": "2021/02/05",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-70",
+      "number": "70",
+      "title": "Romancing Saga",
+      "date": "2021/02/14",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-71",
+      "number": "71",
+      "title": "Time Traveller",
+      "date": "2021/02/19",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-72",
+      "number": "72",
+      "title": "Beth's Feelings",
+      "date": "2021/03/11",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-73",
+      "number": "73",
+      "title": "The power of the Four Heavenly Kings",
+      "date": "2021/03/16",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-74",
+      "number": "74",
+      "title": "",
+      "date": "2021/03/24",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-75",
+      "number": "75",
+      "title": "",
+      "date": "2021/04/06",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-76",
+      "number": "76",
+      "title": "",
+      "date": "2021/04/06",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-77",
+      "number": "77",
+      "title": "",
+      "date": "2021/04/06",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-78",
+      "number": "78",
+      "title": "",
+      "date": "2021/04/19",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-79",
+      "number": "79",
+      "title": "Who's Who?",
+      "date": "2021/05/02",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-80",
+      "number": "80",
+      "title": "Making Up Part 1",
+      "date": "2021/05/28",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-81",
+      "number": "81",
+      "title": "Making Up Part 2",
+      "date": "2021/05/28",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-82",
+      "number": "82",
+      "title": "The Background",
+      "date": "2021/06/18",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-83",
+      "number": "83",
+      "title": "I Want to Be Happy",
+      "date": "2021/08/22",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-84",
+      "number": "84",
+      "title": "Who Are You",
+      "date": "2021/09/12",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-85",
+      "number": "85",
+      "title": "The Day I Told A White Lie",
+      "date": "2021/09/12",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-86",
+      "number": "86",
+      "title": "",
+      "date": "2021/09/21",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-87",
+      "number": "87",
+      "title": "",
+      "date": "2021/09/21",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-88",
+      "number": "88",
+      "title": "A Clockwork Hanako's Place",
+      "date": "2021/09/26",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-89",
+      "number": "89",
+      "title": "",
+      "date": "2021/09/27",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-90",
+      "number": "90",
+      "title": "Legal High",
+      "date": "2021/09/30",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-91",
+      "number": "91",
+      "title": "Turing Test",
+      "date": "2021/10/01",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-92",
+      "number": "92",
+      "title": "Summer Vacation",
+      "date": "2021/10/07",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-93",
+      "number": "93",
+      "title": "Communicating With the Eyes",
+      "date": "2021/10/08",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-94",
+      "number": "94",
+      "title": "Bling-Bling",
+      "date": "2021/10/13",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-95",
+      "number": "95",
+      "title": "Patience Test",
+      "date": "2021/10/15",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-96",
+      "number": "96",
+      "title": "Battle Royale ①",
+      "date": "2021/10/22",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-97",
+      "number": "97",
+      "title": "Battle Royale ②",
+      "date": "2021/10/29",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-98",
+      "number": "98",
+      "title": "Battle Royale ③",
+      "date": "2021/11/06",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-99",
+      "number": "99",
+      "title": "Serial Killer",
+      "date": "2021/11/12",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-100",
+      "number": "100",
+      "title": "",
+      "date": "2021/11/19",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-101",
+      "number": "101",
+      "title": "Discussing Worries",
+      "date": "2021/11/25",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-102",
+      "number": "102",
+      "title": "Phone Number",
+      "date": "2021/12/09",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-103",
+      "number": "103",
+      "title": "Model",
+      "date": "2021/12/17",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-104",
+      "number": "104",
+      "title": "Dummy",
+      "date": "2021/12/23",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-105",
+      "number": "105",
+      "title": "Gigolo",
+      "date": "2021/12/31",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-106",
+      "number": "106",
+      "title": "Rivals",
+      "date": "2022/01/13",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-107",
+      "number": "107",
+      "title": "Bayside Shakedown",
+      "date": "2022/01/28",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-108",
+      "number": "108",
+      "title": "Multiverse Hanako",
+      "date": "2022/02/10",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-109",
+      "number": "109",
+      "title": "Psychopath Othello Part 1",
+      "date": "2022/02/25",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-110",
+      "number": "110",
+      "title": "Psychopath Othello Part 2",
+      "date": "2022/03/10",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-111",
+      "number": "111",
+      "title": "The A-Files",
+      "date": "2022/03/24",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-112",
+      "number": "112",
+      "title": "",
+      "date": "2022/04/07",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-113",
+      "number": "113",
+      "title": "Mr. MAtsuDo",
+      "date": "2022/04/21",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-114",
+      "number": "114",
+      "title": "Exor-shit-st",
+      "date": "2022/05/12",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-115",
+      "number": "115",
+      "title": "The Collage of That Day",
+      "date": "2022/05/26",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-116",
+      "number": "116",
+      "title": "Terrifying Children, Part I",
+      "date": "2022/06/09",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-117",
+      "number": "117",
+      "title": "Terrifying Children, Part II",
+      "date": "2022/06/23",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-118",
+      "number": "118",
+      "title": "What Happened to Kasumi?",
+      "date": "2022/07/07",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-119",
+      "number": "119",
+      "title": "Dissecting Friends",
+      "date": "2022/07/21",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-120",
+      "number": "120",
+      "title": "",
+      "date": "2023/02/09",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-121",
+      "number": "121",
+      "title": "",
+      "date": "2023/03/10",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-122",
+      "number": "122",
+      "title": "",
+      "date": "2023/03/24",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-123",
+      "number": "123",
+      "title": "",
+      "date": "2023/04/07",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-124",
+      "number": "124",
+      "title": "",
+      "date": "2023/04/21",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-125",
+      "number": "125",
+      "title": "",
+      "date": "2023/05/04",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-126",
+      "number": "126",
+      "title": "",
+      "date": "2023/05/18",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-127",
+      "number": "127",
+      "title": "",
+      "date": "2023/06/02",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-128",
+      "number": "128",
+      "title": "",
+      "date": "2023/08/13",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-129",
+      "number": "129",
+      "title": "",
+      "date": "2023/08/13",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-130",
+      "number": "130",
+      "title": "",
+      "date": "2023/08/13",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-131",
+      "number": "131",
+      "title": "",
+      "date": "2023/08/13",
+      "pages": []
+    },
+    {
+      "id": "asobi-asobase-132",
+      "number": "132",
+      "title": "",
+      "date": "2023/08/13",
+      "pages": []
+    }
+  ]
+}

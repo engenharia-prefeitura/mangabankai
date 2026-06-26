@@ -1,0 +1,2290 @@
+{
+  "en": [
+    {
+      "id": "under-ninja-1",
+      "number": "1",
+      "title": "",
+      "date": "2018/08/12",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-2",
+      "number": "2",
+      "title": "A Shinobis Job",
+      "date": "2018/09/10",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-3",
+      "number": "3",
+      "title": "",
+      "date": "2018/09/11",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-4",
+      "number": "4",
+      "title": "",
+      "date": "2018/09/26",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-5",
+      "number": "5",
+      "title": "",
+      "date": "2018/10/07",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-6",
+      "number": "6",
+      "title": "Apartment Ghost Stories",
+      "date": "2019/01/05",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-7",
+      "number": "7",
+      "title": "",
+      "date": "2020/02/03",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-8",
+      "number": "8",
+      "title": "Crayon Shin-Chan",
+      "date": "2020/04/13",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-9",
+      "number": "9",
+      "title": "Invisible",
+      "date": "2020/04/14",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-10",
+      "number": "10",
+      "title": "Midnight In Nerima",
+      "date": "2020/04/29",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-11a",
+      "number": "11a",
+      "title": "",
+      "date": "2022/07/18",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-11b",
+      "number": "11b",
+      "title": "",
+      "date": "2022/08/06",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-12a",
+      "number": "12a",
+      "title": "",
+      "date": "2022/08/07",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-12b",
+      "number": "12b",
+      "title": "",
+      "date": "2023/05/23",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-13",
+      "number": "13",
+      "title": "",
+      "date": "2023/05/24",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-14",
+      "number": "14",
+      "title": "The Stories Read to Yoshida",
+      "date": "2023/05/25",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-15",
+      "number": "15",
+      "title": "",
+      "date": "2023/05/26",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-16",
+      "number": "16",
+      "title": "",
+      "date": "2023/05/27",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-17",
+      "number": "17",
+      "title": "",
+      "date": "2023/05/28",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-18",
+      "number": "18",
+      "title": "Up on the Roof",
+      "date": "2023/05/29",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-19",
+      "number": "19",
+      "title": "",
+      "date": "2023/05/30",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-20",
+      "number": "20",
+      "title": "",
+      "date": "2023/05/31",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-21",
+      "number": "21",
+      "title": "Nerima's Rapper",
+      "date": "2023/06/01",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-22",
+      "number": "22",
+      "title": "",
+      "date": "2023/06/02",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-23",
+      "number": "23",
+      "title": "",
+      "date": "2023/06/03",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-24",
+      "number": "24",
+      "title": "",
+      "date": "2023/06/04",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-25",
+      "number": "25",
+      "title": "",
+      "date": "2023/06/05",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-26",
+      "number": "26",
+      "title": "",
+      "date": "2023/06/06",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-27",
+      "number": "27",
+      "title": "",
+      "date": "2023/06/07",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-28",
+      "number": "28",
+      "title": "",
+      "date": "2023/06/08",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-29",
+      "number": "29",
+      "title": "",
+      "date": "2023/06/09",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-30",
+      "number": "30",
+      "title": "",
+      "date": "2023/06/10",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-31",
+      "number": "31",
+      "title": "",
+      "date": "2023/06/11",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-32",
+      "number": "32",
+      "title": "",
+      "date": "2023/06/12",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-33",
+      "number": "33",
+      "title": "",
+      "date": "2023/06/13",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-34",
+      "number": "34",
+      "title": "",
+      "date": "2023/06/14",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-35",
+      "number": "35",
+      "title": "",
+      "date": "2023/06/15",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-36",
+      "number": "36",
+      "title": "",
+      "date": "2023/06/16",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-36e",
+      "number": "36e",
+      "title": "",
+      "date": "2023/06/16",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-37",
+      "number": "37",
+      "title": "",
+      "date": "2023/06/17",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-38",
+      "number": "38",
+      "title": "",
+      "date": "2023/06/18",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-39",
+      "number": "39",
+      "title": "",
+      "date": "2023/06/19",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-40",
+      "number": "40",
+      "title": "",
+      "date": "2023/06/20",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-41",
+      "number": "41",
+      "title": "Am I Not A Cat?",
+      "date": "2023/06/21",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-42",
+      "number": "42",
+      "title": "",
+      "date": "2023/06/22",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-43",
+      "number": "43",
+      "title": "",
+      "date": "2023/06/23",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-44",
+      "number": "44",
+      "title": "Old Lady Who Works At A Convenience Store",
+      "date": "2023/06/24",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-45",
+      "number": "45",
+      "title": "",
+      "date": "2023/06/25",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-45e",
+      "number": "45e",
+      "title": "",
+      "date": "2023/06/25",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-46",
+      "number": "46",
+      "title": "",
+      "date": "2023/06/26",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-47",
+      "number": "47",
+      "title": "",
+      "date": "2023/06/27",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-48",
+      "number": "48",
+      "title": "",
+      "date": "2023/06/28",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-49",
+      "number": "49",
+      "title": "Kato Is Under The Crotch",
+      "date": "2023/06/29",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-50",
+      "number": "50",
+      "title": "",
+      "date": "2023/06/30",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-51",
+      "number": "51",
+      "title": "",
+      "date": "2023/07/01",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-52",
+      "number": "52",
+      "title": "",
+      "date": "2023/07/02",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-53",
+      "number": "53",
+      "title": "",
+      "date": "2023/07/03",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-54",
+      "number": "54",
+      "title": "",
+      "date": "2023/07/04",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-55",
+      "number": "55",
+      "title": "",
+      "date": "2023/07/05",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-56",
+      "number": "56",
+      "title": "",
+      "date": "2023/07/06",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-57",
+      "number": "57",
+      "title": "",
+      "date": "2023/07/07",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-58",
+      "number": "58",
+      "title": "",
+      "date": "2023/07/08",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-59",
+      "number": "59",
+      "title": "",
+      "date": "2023/07/09",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-60",
+      "number": "60",
+      "title": "",
+      "date": "2023/07/10",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-61",
+      "number": "61",
+      "title": "",
+      "date": "2023/07/11",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-62",
+      "number": "62",
+      "title": "",
+      "date": "2023/07/12",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-63",
+      "number": "63",
+      "title": "",
+      "date": "2023/07/13",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-63e",
+      "number": "63e",
+      "title": "",
+      "date": "2023/07/13",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-64",
+      "number": "64",
+      "title": "Sword Of The Ring",
+      "date": "2023/07/14",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-65",
+      "number": "65",
+      "title": "",
+      "date": "2023/07/15",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-66",
+      "number": "66",
+      "title": "",
+      "date": "2023/07/16",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-67",
+      "number": "67",
+      "title": "",
+      "date": "2023/07/17",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-68",
+      "number": "68",
+      "title": "",
+      "date": "2023/07/18",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-69",
+      "number": "69",
+      "title": "",
+      "date": "2023/07/19",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-70",
+      "number": "70",
+      "title": "",
+      "date": "2023/07/20",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-71",
+      "number": "71",
+      "title": "",
+      "date": "2023/07/21",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-72",
+      "number": "72",
+      "title": "",
+      "date": "2023/07/22",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-72e",
+      "number": "72e",
+      "title": "",
+      "date": "2023/07/22",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-73",
+      "number": "73",
+      "title": "",
+      "date": "2023/07/23",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-74",
+      "number": "74",
+      "title": "",
+      "date": "2023/07/24",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-75",
+      "number": "75",
+      "title": "Operation Appeal",
+      "date": "2023/07/25",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-76",
+      "number": "76",
+      "title": "",
+      "date": "2023/07/26",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-77",
+      "number": "77",
+      "title": "",
+      "date": "2023/07/27",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-78",
+      "number": "78",
+      "title": "Together With Kato",
+      "date": "2023/07/28",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-79",
+      "number": "79",
+      "title": "",
+      "date": "2023/07/29",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-80",
+      "number": "80",
+      "title": "",
+      "date": "2023/07/30",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-81",
+      "number": "81",
+      "title": "",
+      "date": "2023/07/31",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-81e",
+      "number": "81e",
+      "title": "",
+      "date": "2023/07/31",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-82",
+      "number": "82",
+      "title": "",
+      "date": "2023/08/01",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-83",
+      "number": "83",
+      "title": "",
+      "date": "2023/08/02",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-84",
+      "number": "84",
+      "title": "",
+      "date": "2023/08/03",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-85",
+      "number": "85",
+      "title": "",
+      "date": "2023/08/04",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-86",
+      "number": "86",
+      "title": "",
+      "date": "2023/08/05",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-87",
+      "number": "87",
+      "title": "",
+      "date": "2023/08/06",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-88",
+      "number": "88",
+      "title": "",
+      "date": "2023/08/07",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-89",
+      "number": "89",
+      "title": "",
+      "date": "2023/08/08",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-90",
+      "number": "90",
+      "title": "Ninja VS. Ninjya",
+      "date": "2023/08/09",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-90e",
+      "number": "90e",
+      "title": "",
+      "date": "2023/08/09",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-91",
+      "number": "91",
+      "title": "Shake My Hand!",
+      "date": "2023/08/10",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-92",
+      "number": "92",
+      "title": "",
+      "date": "2023/08/11",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-93",
+      "number": "93",
+      "title": "",
+      "date": "2023/08/12",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-94",
+      "number": "94",
+      "title": "",
+      "date": "2023/08/13",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-95",
+      "number": "95",
+      "title": "",
+      "date": "2023/08/14",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-96",
+      "number": "96",
+      "title": "",
+      "date": "2023/08/15",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-97",
+      "number": "97",
+      "title": "",
+      "date": "2023/08/16",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-98",
+      "number": "98",
+      "title": "",
+      "date": "2023/08/17",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-99",
+      "number": "99",
+      "title": "Already At Peace",
+      "date": "2023/08/18",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-100",
+      "number": "100",
+      "title": "Leave The Earth",
+      "date": "2023/08/19",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-101",
+      "number": "101",
+      "title": "",
+      "date": "2023/08/21",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-102",
+      "number": "102",
+      "title": "",
+      "date": "2023/09/04",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-103",
+      "number": "103",
+      "title": "",
+      "date": "2023/09/15",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-104",
+      "number": "104",
+      "title": "Those Two Don't Get Along",
+      "date": "2023/10/02",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-105",
+      "number": "105",
+      "title": "",
+      "date": "2023/10/16",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-106",
+      "number": "106",
+      "title": "",
+      "date": "2023/10/30",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-107",
+      "number": "107",
+      "title": "",
+      "date": "2023/11/13",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-108",
+      "number": "108",
+      "title": "Undyin' Undyin' Granny!",
+      "date": "2023/11/27",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-109",
+      "number": "109",
+      "title": "",
+      "date": "2023/12/11",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-110",
+      "number": "110",
+      "title": "Kawado's Advice",
+      "date": "2024/01/05",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-111",
+      "number": "111",
+      "title": "",
+      "date": "2024/01/22",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-112",
+      "number": "112",
+      "title": "",
+      "date": "2024/02/05",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-113",
+      "number": "113",
+      "title": "",
+      "date": "2024/02/18",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-114",
+      "number": "114",
+      "title": "",
+      "date": "2024/03/03",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-115",
+      "number": "115",
+      "title": "",
+      "date": "2024/03/18",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-116",
+      "number": "116",
+      "title": "",
+      "date": "2024/04/01",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-117",
+      "number": "117",
+      "title": "",
+      "date": "2024/04/15",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-118",
+      "number": "118",
+      "title": "",
+      "date": "2024/05/07",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-119",
+      "number": "119",
+      "title": "",
+      "date": "2024/05/20",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-120",
+      "number": "120",
+      "title": "",
+      "date": "2024/06/03",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-121",
+      "number": "121",
+      "title": "",
+      "date": "2024/06/16",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-122",
+      "number": "122",
+      "title": "",
+      "date": "2024/07/01",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-123",
+      "number": "123",
+      "title": "",
+      "date": "2024/07/11",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-124",
+      "number": "124",
+      "title": "",
+      "date": "2024/07/28",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-125",
+      "number": "125",
+      "title": "",
+      "date": "2024/08/18",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-126",
+      "number": "126",
+      "title": "",
+      "date": "2024/09/02",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-127",
+      "number": "127",
+      "title": "",
+      "date": "2024/09/13",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-128",
+      "number": "128",
+      "title": "",
+      "date": "2024/09/30",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-129",
+      "number": "129",
+      "title": "",
+      "date": "2024/10/11",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-130",
+      "number": "130",
+      "title": "",
+      "date": "2024/10/28",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-131",
+      "number": "131",
+      "title": "",
+      "date": "2024/11/25",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-132",
+      "number": "132",
+      "title": "",
+      "date": "2024/12/08",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-133",
+      "number": "133",
+      "title": "",
+      "date": "2025/01/06",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-134",
+      "number": "134",
+      "title": "",
+      "date": "2025/01/20",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-135",
+      "number": "135",
+      "title": "",
+      "date": "2025/02/03",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-136",
+      "number": "136",
+      "title": "",
+      "date": "2025/02/17",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-137",
+      "number": "137",
+      "title": "",
+      "date": "2025/03/02",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-138",
+      "number": "138",
+      "title": "",
+      "date": "2025/03/17",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-139",
+      "number": "139",
+      "title": "",
+      "date": "2025/03/30",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-140",
+      "number": "140",
+      "title": "",
+      "date": "2025/04/28",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-141",
+      "number": "141",
+      "title": "",
+      "date": "2025/06/02",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-142",
+      "number": "142",
+      "title": "",
+      "date": "2025/06/16",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-143",
+      "number": "143",
+      "title": "",
+      "date": "2025/06/30",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-144",
+      "number": "144",
+      "title": "",
+      "date": "2025/07/14",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-145",
+      "number": "145",
+      "title": "",
+      "date": "2025/07/28",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-146",
+      "number": "146",
+      "title": "",
+      "date": "2025/08/19",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-147",
+      "number": "147",
+      "title": "",
+      "date": "2025/09/16",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-148",
+      "number": "148",
+      "title": "",
+      "date": "2025/09/28",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-149",
+      "number": "149",
+      "title": "",
+      "date": "2025/10/14",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-150",
+      "number": "150",
+      "title": "",
+      "date": "2025/10/26",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-151",
+      "number": "151",
+      "title": "",
+      "date": "2025/11/09",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-152",
+      "number": "152",
+      "title": "",
+      "date": "2025/11/24",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-153",
+      "number": "153",
+      "title": "",
+      "date": "2025/12/07",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-154",
+      "number": "154",
+      "title": "",
+      "date": "2026/01/04",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-155",
+      "number": "155",
+      "title": "",
+      "date": "2026/01/18",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-156",
+      "number": "156",
+      "title": "",
+      "date": "2026/02/01",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-157",
+      "number": "157",
+      "title": "",
+      "date": "2026/02/16",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-158",
+      "number": "158",
+      "title": "",
+      "date": "2026/03/02",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-159",
+      "number": "159",
+      "title": "",
+      "date": "2026/03/15",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-160",
+      "number": "160",
+      "title": "",
+      "date": "2026/03/30",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-161",
+      "number": "161",
+      "title": "",
+      "date": "2026/04/26",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-162",
+      "number": "162",
+      "title": "",
+      "date": "2026/05/18",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-163",
+      "number": "163",
+      "title": "",
+      "date": "2026/06/01",
+      "pages": []
+    },
+    {
+      "id": "under-ninja-164",
+      "number": "164",
+      "title": "",
+      "date": "2026/06/15",
+      "pages": []
+    }
+  ],
+  "pt": [
+    {
+      "id": "under-ninja-chapter-1",
+      "number": 1,
+      "title": "Under Ninja – Capítulo 1 – Ser Genin é Difícil",
+      "date": "2025-04-02T18:11:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270306
+    },
+    {
+      "id": "under-ninja-chapter-2",
+      "number": 2,
+      "title": "Under Ninja – Capítulo 2 – Trabalho de Shinobi",
+      "date": "2025-04-02T18:11:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270315
+    },
+    {
+      "id": "under-ninja-chapter-3",
+      "number": 3,
+      "title": "Under Ninja – Capítulo 3 – Esse homem, o homem trabalhador",
+      "date": "2025-04-02T18:11:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270311
+    },
+    {
+      "id": "under-ninja-chapter-4",
+      "number": 4,
+      "title": "Under Ninja – Capítulo 4 – Se Acostume com Ninja",
+      "date": "2025-04-02T18:11:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270309
+    },
+    {
+      "id": "under-ninja-chapter-5",
+      "number": 5,
+      "title": "Under Ninja – Capítulo 5 – O Garoto que quer ser um ninja e a garota que é xavecada por homens",
+      "date": "2025-04-02T18:11:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270314
+    },
+    {
+      "id": "under-ninja-chapter-6",
+      "number": 6,
+      "title": "Under Ninja – Capítulo 6 – Histórias de Fantasmas de Apartamento",
+      "date": "2025-04-02T18:11:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270308
+    },
+    {
+      "id": "under-ninja-chapter-7",
+      "number": 7,
+      "title": "Under Ninja – Capítulo 7 – Se foi com o vento",
+      "date": "2025-04-02T18:11:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270307
+    },
+    {
+      "id": "under-ninja-chapter-8",
+      "number": 8,
+      "title": "Under Ninja – Capítulo 8",
+      "date": "2025-04-02T18:11:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270313
+    },
+    {
+      "id": "under-ninja-chapter-9",
+      "number": 9,
+      "title": "Under Ninja – Capítulo 9",
+      "date": "2025-04-02T18:11:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270310
+    },
+    {
+      "id": "under-ninja-chapter-10",
+      "number": 10,
+      "title": "Under Ninja – Capítulo 10",
+      "date": "2025-04-02T18:11:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270316
+    },
+    {
+      "id": "under-ninja-chapter-11",
+      "number": 11,
+      "title": "Under Ninja – Capítulo 11",
+      "date": "2025-04-02T18:11:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270305
+    },
+    {
+      "id": "under-ninja-chapter-12",
+      "number": 12,
+      "title": "Under Ninja – Capítulo 12",
+      "date": "2025-04-02T18:11:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270317
+    },
+    {
+      "id": "under-ninja-chapter-13",
+      "number": 13,
+      "title": "Under Ninja – Capítulo 13",
+      "date": "2025-04-02T18:11:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270318
+    },
+    {
+      "id": "under-ninja-chapter-14",
+      "number": 14,
+      "title": "Under Ninja – Capítulo 14",
+      "date": "2025-04-02T18:11:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270322
+    },
+    {
+      "id": "under-ninja-chapter-15",
+      "number": 15,
+      "title": "Under Ninja – Capítulo 15",
+      "date": "2025-04-02T18:11:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270312
+    },
+    {
+      "id": "under-ninja-chapter-16",
+      "number": 16,
+      "title": "Under Ninja – Capítulo 16",
+      "date": "2025-04-02T18:11:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270324
+    },
+    {
+      "id": "under-ninja-chapter-17",
+      "number": 17,
+      "title": "Under Ninja – Capítulo 17",
+      "date": "2025-04-02T18:11:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270321
+    },
+    {
+      "id": "under-ninja-chapter-18",
+      "number": 18,
+      "title": "Under Ninja – Capítulo 18",
+      "date": "2025-04-02T18:11:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270320
+    },
+    {
+      "id": "under-ninja-chapter-19",
+      "number": 19,
+      "title": "Under Ninja – Capítulo 19",
+      "date": "2025-04-02T18:11:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270319
+    },
+    {
+      "id": "under-ninja-chapter-20",
+      "number": 20,
+      "title": "Under Ninja – Capítulo 20",
+      "date": "2025-04-02T18:11:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270323
+    },
+    {
+      "id": "under-ninja-chapter-21",
+      "number": 21,
+      "title": "Under Ninja – Capítulo 21",
+      "date": "2025-04-02T18:12:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270756
+    },
+    {
+      "id": "under-ninja-chapter-22",
+      "number": 22,
+      "title": "Under Ninja – Capítulo 22",
+      "date": "2025-04-02T18:12:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270767
+    },
+    {
+      "id": "under-ninja-chapter-23",
+      "number": 23,
+      "title": "Under Ninja – Capítulo 23",
+      "date": "2025-04-02T18:12:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270769
+    },
+    {
+      "id": "under-ninja-chapter-24",
+      "number": 24,
+      "title": "Under Ninja – Capítulo 24",
+      "date": "2025-04-02T18:12:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270765
+    },
+    {
+      "id": "under-ninja-chapter-25",
+      "number": 25,
+      "title": "Under Ninja – Capítulo 25",
+      "date": "2025-04-02T18:12:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270755
+    },
+    {
+      "id": "under-ninja-chapter-26",
+      "number": 26,
+      "title": "Under Ninja – Capítulo 26",
+      "date": "2025-04-02T18:12:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270761
+    },
+    {
+      "id": "under-ninja-chapter-27",
+      "number": 27,
+      "title": "Under Ninja – Capítulo 27",
+      "date": "2025-04-02T18:12:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270764
+    },
+    {
+      "id": "under-ninja-chapter-28",
+      "number": 28,
+      "title": "Under Ninja – Capítulo 28",
+      "date": "2025-04-02T18:12:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270758
+    },
+    {
+      "id": "under-ninja-chapter-29",
+      "number": 29,
+      "title": "Under Ninja – Capítulo 29",
+      "date": "2025-04-02T18:12:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270754
+    },
+    {
+      "id": "under-ninja-chapter-30",
+      "number": 30,
+      "title": "Under Ninja – Capítulo 30",
+      "date": "2025-04-02T18:12:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270759
+    },
+    {
+      "id": "under-ninja-chapter-31",
+      "number": 31,
+      "title": "Under Ninja – Capítulo 31",
+      "date": "2025-04-02T18:12:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270763
+    },
+    {
+      "id": "under-ninja-chapter-32",
+      "number": 32,
+      "title": "Under Ninja – Capítulo 32",
+      "date": "2025-04-02T18:12:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270750
+    },
+    {
+      "id": "under-ninja-chapter-33",
+      "number": 33,
+      "title": "Under Ninja – Capítulo 33",
+      "date": "2025-04-02T18:12:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270757
+    },
+    {
+      "id": "under-ninja-chapter-34",
+      "number": 34,
+      "title": "Under Ninja – Capítulo 34",
+      "date": "2025-04-02T18:12:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270766
+    },
+    {
+      "id": "under-ninja-chapter-35",
+      "number": 35,
+      "title": "Under Ninja – Capítulo 35",
+      "date": "2025-04-02T18:12:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270760
+    },
+    {
+      "id": "under-ninja-chapter-36",
+      "number": 36,
+      "title": "Under Ninja – Capítulo 36",
+      "date": "2025-04-02T18:12:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270768
+    },
+    {
+      "id": "under-ninja-chapter-37",
+      "number": 37,
+      "title": "Under Ninja – Capítulo 37",
+      "date": "2025-04-02T18:12:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270762
+    },
+    {
+      "id": "under-ninja-chapter-38",
+      "number": 38,
+      "title": "Under Ninja – Capítulo 38",
+      "date": "2025-04-02T18:12:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270752
+    },
+    {
+      "id": "under-ninja-chapter-39",
+      "number": 39,
+      "title": "Under Ninja – Capítulo 39",
+      "date": "2025-04-02T18:12:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270751
+    },
+    {
+      "id": "under-ninja-chapter-40",
+      "number": 40,
+      "title": "Under Ninja – Capítulo 40",
+      "date": "2025-04-02T18:12:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 270753
+    },
+    {
+      "id": "under-ninja-chapter-41",
+      "number": 41,
+      "title": "Under Ninja – Capítulo 41",
+      "date": "2025-04-02T18:12:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271175
+    },
+    {
+      "id": "under-ninja-chapter-42",
+      "number": 42,
+      "title": "Under Ninja – Capítulo 42",
+      "date": "2025-04-02T18:12:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271178
+    },
+    {
+      "id": "under-ninja-chapter-43",
+      "number": 43,
+      "title": "Under Ninja – Capítulo 43",
+      "date": "2025-04-02T18:12:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271184
+    },
+    {
+      "id": "under-ninja-chapter-44",
+      "number": 44,
+      "title": "Under Ninja – Capítulo 44",
+      "date": "2025-04-02T18:12:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271177
+    },
+    {
+      "id": "under-ninja-chapter-45",
+      "number": 45,
+      "title": "Under Ninja – Capítulo 45",
+      "date": "2025-04-02T18:12:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271179
+    },
+    {
+      "id": "under-ninja-chapter-46",
+      "number": 46,
+      "title": "Under Ninja – Capítulo 46",
+      "date": "2025-04-02T18:12:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271180
+    },
+    {
+      "id": "under-ninja-chapter-47",
+      "number": 47,
+      "title": "Under Ninja – Capítulo 47",
+      "date": "2025-04-02T18:12:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271174
+    },
+    {
+      "id": "under-ninja-chapter-48",
+      "number": 48,
+      "title": "Under Ninja – Capítulo 48",
+      "date": "2025-04-02T18:12:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271187
+    },
+    {
+      "id": "under-ninja-chapter-49",
+      "number": 49,
+      "title": "Under Ninja – Capítulo 49",
+      "date": "2025-04-02T18:12:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271185
+    },
+    {
+      "id": "under-ninja-chapter-50",
+      "number": 50,
+      "title": "Under Ninja – Capítulo 50",
+      "date": "2025-04-02T18:12:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271182
+    },
+    {
+      "id": "under-ninja-chapter-51",
+      "number": 51,
+      "title": "Under Ninja – Capítulo 51",
+      "date": "2025-04-02T18:12:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271181
+    },
+    {
+      "id": "under-ninja-chapter-52",
+      "number": 52,
+      "title": "Under Ninja – Capítulo 52",
+      "date": "2025-04-02T18:12:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271186
+    },
+    {
+      "id": "under-ninja-chapter-53",
+      "number": 53,
+      "title": "Under Ninja – Capítulo 53",
+      "date": "2025-04-02T18:12:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271183
+    },
+    {
+      "id": "under-ninja-chapter-54",
+      "number": 54,
+      "title": "Under Ninja – Capítulo 54",
+      "date": "2025-04-02T18:12:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271188
+    },
+    {
+      "id": "under-ninja-chapter-55",
+      "number": 55,
+      "title": "Under Ninja – Capítulo 55",
+      "date": "2025-04-02T18:12:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271192
+    },
+    {
+      "id": "under-ninja-chapter-56",
+      "number": 56,
+      "title": "Under Ninja – Capítulo 56",
+      "date": "2025-04-02T18:12:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271189
+    },
+    {
+      "id": "under-ninja-chapter-57",
+      "number": 57,
+      "title": "Under Ninja – Capítulo 57",
+      "date": "2025-04-02T18:12:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271191
+    },
+    {
+      "id": "under-ninja-chapter-58",
+      "number": 58,
+      "title": "Under Ninja – Capítulo 58",
+      "date": "2025-04-02T18:12:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271190
+    },
+    {
+      "id": "under-ninja-chapter-59",
+      "number": 59,
+      "title": "Under Ninja – Capítulo 59",
+      "date": "2025-04-02T18:12:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271193
+    },
+    {
+      "id": "under-ninja-chapter-60",
+      "number": 60,
+      "title": "Under Ninja – Capítulo 60",
+      "date": "2025-04-02T18:12:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271176
+    },
+    {
+      "id": "under-ninja-chapter-61",
+      "number": 61,
+      "title": "Under Ninja – Capítulo 61",
+      "date": "2025-04-02T18:13:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271612
+    },
+    {
+      "id": "under-ninja-chapter-62",
+      "number": 62,
+      "title": "Under Ninja – Capítulo 62",
+      "date": "2025-04-02T18:13:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271606
+    },
+    {
+      "id": "under-ninja-chapter-63",
+      "number": 63,
+      "title": "Under Ninja – Capítulo 63",
+      "date": "2025-04-02T18:13:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271617
+    },
+    {
+      "id": "under-ninja-chapter-64",
+      "number": 64,
+      "title": "Under Ninja – Capítulo 64",
+      "date": "2025-04-02T18:13:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271609
+    },
+    {
+      "id": "under-ninja-chapter-65",
+      "number": 65,
+      "title": "Under Ninja – Capítulo 65",
+      "date": "2025-04-02T18:13:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271613
+    },
+    {
+      "id": "under-ninja-chapter-66",
+      "number": 66,
+      "title": "Under Ninja – Capítulo 66",
+      "date": "2025-04-02T18:13:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271615
+    },
+    {
+      "id": "under-ninja-chapter-67",
+      "number": 67,
+      "title": "Under Ninja – Capítulo 67",
+      "date": "2025-04-02T18:13:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271608
+    },
+    {
+      "id": "under-ninja-chapter-68",
+      "number": 68,
+      "title": "Under Ninja – Capítulo 68",
+      "date": "2025-04-02T18:13:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271601
+    },
+    {
+      "id": "under-ninja-chapter-69",
+      "number": 69,
+      "title": "Under Ninja – Capítulo 69",
+      "date": "2025-04-02T18:13:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271618
+    },
+    {
+      "id": "under-ninja-chapter-70",
+      "number": 70,
+      "title": "Under Ninja – Capítulo 70",
+      "date": "2025-04-02T18:13:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271616
+    },
+    {
+      "id": "under-ninja-chapter-71",
+      "number": 71,
+      "title": "Under Ninja – Capítulo 71",
+      "date": "2025-04-02T18:13:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271602
+    },
+    {
+      "id": "under-ninja-chapter-72",
+      "number": 72,
+      "title": "Under Ninja – Capítulo 72",
+      "date": "2025-04-02T18:13:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271605
+    },
+    {
+      "id": "under-ninja-chapter-73",
+      "number": 73,
+      "title": "Under Ninja – Capítulo 73",
+      "date": "2025-04-02T18:13:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271607
+    },
+    {
+      "id": "under-ninja-chapter-74",
+      "number": 74,
+      "title": "Under Ninja – Capítulo 74",
+      "date": "2025-04-02T18:13:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271610
+    },
+    {
+      "id": "under-ninja-chapter-75",
+      "number": 75,
+      "title": "Under Ninja – Capítulo 75",
+      "date": "2025-04-02T18:13:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271603
+    },
+    {
+      "id": "under-ninja-chapter-76",
+      "number": 76,
+      "title": "Under Ninja – Capítulo 76",
+      "date": "2025-04-02T18:13:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271619
+    },
+    {
+      "id": "under-ninja-chapter-77",
+      "number": 77,
+      "title": "Under Ninja – Capítulo 77",
+      "date": "2025-04-02T18:13:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271604
+    },
+    {
+      "id": "under-ninja-chapter-78",
+      "number": 78,
+      "title": "Under Ninja – Capítulo 78",
+      "date": "2025-04-02T18:13:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271620
+    },
+    {
+      "id": "under-ninja-chapter-79",
+      "number": 79,
+      "title": "Under Ninja – Capítulo 79",
+      "date": "2025-04-02T18:13:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271611
+    },
+    {
+      "id": "under-ninja-chapter-80",
+      "number": 80,
+      "title": "Under Ninja – Capítulo 80",
+      "date": "2025-04-02T18:13:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 271614
+    },
+    {
+      "id": "under-ninja-chapter-81",
+      "number": 81,
+      "title": "Under Ninja – Capítulo 81",
+      "date": "2025-04-02T18:13:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272025
+    },
+    {
+      "id": "under-ninja-chapter-82",
+      "number": 82,
+      "title": "Under Ninja – Capítulo 82",
+      "date": "2025-04-02T18:13:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272029
+    },
+    {
+      "id": "under-ninja-chapter-83",
+      "number": 83,
+      "title": "Under Ninja – Capítulo 83",
+      "date": "2025-04-02T18:13:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272017
+    },
+    {
+      "id": "under-ninja-chapter-84",
+      "number": 84,
+      "title": "Under Ninja – Capítulo 84",
+      "date": "2025-04-02T18:13:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272022
+    },
+    {
+      "id": "under-ninja-chapter-85",
+      "number": 85,
+      "title": "Under Ninja – Capítulo 85",
+      "date": "2025-04-02T18:13:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272026
+    },
+    {
+      "id": "under-ninja-chapter-86",
+      "number": 86,
+      "title": "Under Ninja – Capítulo 86",
+      "date": "2025-04-02T18:13:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272035
+    },
+    {
+      "id": "under-ninja-chapter-87",
+      "number": 87,
+      "title": "Under Ninja – Capítulo 87",
+      "date": "2025-04-02T18:13:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272036
+    },
+    {
+      "id": "under-ninja-chapter-88",
+      "number": 88,
+      "title": "Under Ninja – Capítulo 88",
+      "date": "2025-04-02T18:13:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272018
+    },
+    {
+      "id": "under-ninja-chapter-89",
+      "number": 89,
+      "title": "Under Ninja – Capítulo 89",
+      "date": "2025-04-02T18:13:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272031
+    },
+    {
+      "id": "under-ninja-chapter-90",
+      "number": 90,
+      "title": "Under Ninja – Capítulo 90",
+      "date": "2025-04-02T18:13:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272027
+    },
+    {
+      "id": "under-ninja-chapter-91",
+      "number": 91,
+      "title": "Under Ninja – Capítulo 91 – Aperte minha mão",
+      "date": "2025-04-02T18:13:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272023
+    },
+    {
+      "id": "under-ninja-chapter-92",
+      "number": 92,
+      "title": "Under Ninja – Capítulo 92",
+      "date": "2025-04-02T18:13:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272021
+    },
+    {
+      "id": "under-ninja-chapter-93",
+      "number": 93,
+      "title": "Under Ninja – Capítulo 93 – Pedra Caindo",
+      "date": "2025-04-02T18:13:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272028
+    },
+    {
+      "id": "under-ninja-chapter-94",
+      "number": 94,
+      "title": "Under Ninja – Capítulo 94 – Pedra Caindo",
+      "date": "2025-04-02T18:13:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272019
+    },
+    {
+      "id": "under-ninja-chapter-95",
+      "number": 95,
+      "title": "Under Ninja – Capítulo 95 – Mentiras e venino",
+      "date": "2025-04-02T18:13:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272024
+    },
+    {
+      "id": "under-ninja-chapter-96",
+      "number": 96,
+      "title": "Under Ninja – Capítulo 96 – É o Ryuko!",
+      "date": "2025-04-02T18:13:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272020
+    },
+    {
+      "id": "under-ninja-chapter-97",
+      "number": 97,
+      "title": "Under Ninja – Capítulo 97 – Aah, os dias da juventude shinobi",
+      "date": "2025-04-02T18:13:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272033
+    },
+    {
+      "id": "under-ninja-chapter-98",
+      "number": 98,
+      "title": "Under Ninja – Capítulo 98 – Inimigo da Hime-chan",
+      "date": "2025-04-02T18:13:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272030
+    },
+    {
+      "id": "under-ninja-chapter-99",
+      "number": 99,
+      "title": "Under Ninja – Capítulo 99 – Já em paz",
+      "date": "2025-04-02T18:13:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272032
+    },
+    {
+      "id": "under-ninja-chapter-100",
+      "number": 100,
+      "title": "Under Ninja – Capítulo 100 – Deixar a terra",
+      "date": "2025-04-02T18:13:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272034
+    },
+    {
+      "id": "under-ninja-chapter-101",
+      "number": 101,
+      "title": "Under Ninja – Capítulo 101 – Alguém me molestou",
+      "date": "2025-04-02T18:14:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272443
+    },
+    {
+      "id": "under-ninja-chapter-102",
+      "number": 102,
+      "title": "Under Ninja – Capítulo 102 – Mesmo assim, você não fez?",
+      "date": "2025-04-02T18:14:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272447
+    },
+    {
+      "id": "under-ninja-chapter-103",
+      "number": 103,
+      "title": "Under Ninja – Capítulo 103 – O amor e reminiscência de Hibi",
+      "date": "2025-04-02T18:14:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272440
+    },
+    {
+      "id": "under-ninja-chapter-104",
+      "number": 104,
+      "title": "Under Ninja – Capítulo 104 – Aqueles dois não se dão bem",
+      "date": "2025-04-02T18:14:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272436
+    },
+    {
+      "id": "under-ninja-chapter-105",
+      "number": 105,
+      "title": "Under Ninja – Capítulo 105 – Ninja da mesma tira",
+      "date": "2025-04-02T18:14:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272448
+    },
+    {
+      "id": "under-ninja-chapter-106",
+      "number": 106,
+      "title": "Under Ninja – Capítulo 106 – Por cima do meu cadáver",
+      "date": "2025-04-02T18:14:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272435
+    },
+    {
+      "id": "under-ninja-chapter-107",
+      "number": 107,
+      "title": "Under Ninja – Capítulo 107 – Ataque kamikaze de Drones",
+      "date": "2025-04-02T18:14:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272439
+    },
+    {
+      "id": "under-ninja-chapter-108",
+      "number": 108,
+      "title": "Under Ninja – Capítulo 108 – Velha Imortal",
+      "date": "2025-04-02T18:14:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272441
+    },
+    {
+      "id": "under-ninja-chapter-109",
+      "number": 109,
+      "title": "Under Ninja – Capítulo 109 – Declaração Covarde",
+      "date": "2025-04-02T18:14:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272433
+    },
+    {
+      "id": "under-ninja-chapter-110",
+      "number": 110,
+      "title": "Under Ninja – Capítulo 110 – Conselho da Kawado",
+      "date": "2025-04-02T18:14:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272446
+    },
+    {
+      "id": "under-ninja-chapter-111",
+      "number": 111,
+      "title": "Under Ninja – Capítulo 111 – A loja Gyudon de muitos pedidos",
+      "date": "2025-04-02T18:14:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272438
+    },
+    {
+      "id": "under-ninja-chapter-112",
+      "number": 112,
+      "title": "Under Ninja – Capítulo 112",
+      "date": "2025-04-02T18:14:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272434
+    },
+    {
+      "id": "under-ninja-chapter-113",
+      "number": 113,
+      "title": "Under Ninja – Capítulo 113 – Trio Konin",
+      "date": "2025-04-02T18:14:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272450
+    },
+    {
+      "id": "under-ninja-chapter-114",
+      "number": 114,
+      "title": "Under Ninja – Capítulo 114 – Seus nomes",
+      "date": "2025-04-02T18:14:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272445
+    },
+    {
+      "id": "under-ninja-chapter-115",
+      "number": 115,
+      "title": "Under Ninja – Capítulo 115 – Diminuindo",
+      "date": "2025-04-02T18:14:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272442
+    },
+    {
+      "id": "under-ninja-chapter-116",
+      "number": 116,
+      "title": "Under Ninja – Capítulo 116 – Para onde o proprietário foi?",
+      "date": "2025-04-02T18:14:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272437
+    },
+    {
+      "id": "under-ninja-chapter-117",
+      "number": 117,
+      "title": "Under Ninja – Capítulo 117",
+      "date": "2025-04-02T18:14:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272451
+    },
+    {
+      "id": "under-ninja-chapter-118",
+      "number": 118,
+      "title": "Under Ninja – Capítulo 118 – Velho inesperado",
+      "date": "2025-04-02T18:14:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272452
+    },
+    {
+      "id": "under-ninja-chapter-119",
+      "number": 119,
+      "title": "Under Ninja – Capítulo 119 – O que eu faço!? Eu!!",
+      "date": "2025-04-02T18:14:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272444
+    },
+    {
+      "id": "under-ninja-chapter-120",
+      "number": 120,
+      "title": "Under Ninja – Capítulo 120 – Quando me tornar um Chunin",
+      "date": "2025-04-02T18:14:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 272449
+    }
+  ]
+}

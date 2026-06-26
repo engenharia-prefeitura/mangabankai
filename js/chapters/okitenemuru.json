@@ -1,0 +1,473 @@
+{
+  "en": [
+    {
+      "id": "okitenemuru-1",
+      "number": "1",
+      "title": "Awake and Asleep",
+      "date": "2015/01/20",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-2",
+      "number": "2",
+      "title": "Snake Women",
+      "date": "2015/01/20",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-3",
+      "number": "3",
+      "title": "A Day After The Tragedy",
+      "date": "2015/01/20",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-4",
+      "number": "4",
+      "title": "Restrained",
+      "date": "2015/01/20",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-5",
+      "number": "5",
+      "title": "Wanna Know A Secret",
+      "date": "2015/01/20",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-6",
+      "number": "6",
+      "title": "Whatever It Takes",
+      "date": "2015/01/20",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-7",
+      "number": "7",
+      "title": "Shiki Strikes",
+      "date": "2015/01/20",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-8",
+      "number": "8",
+      "title": "Could You See The Sign",
+      "date": "2015/01/20",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-9",
+      "number": "9",
+      "title": "What Did I Do To Deserve This",
+      "date": "2015/01/20",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-10",
+      "number": "10",
+      "title": "I‘ll Finish You",
+      "date": "2015/01/20",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-11",
+      "number": "11",
+      "title": "I Told You I'd Finish You",
+      "date": "2015/01/20",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-12",
+      "number": "12",
+      "title": "Kanata Has Disappeared From School!",
+      "date": "2015/01/20",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-13",
+      "number": "13",
+      "title": "Who the Heck Are These Guys",
+      "date": "2015/01/20",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-14",
+      "number": "14",
+      "title": "The Same Type of People As You",
+      "date": "2015/01/20",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-15",
+      "number": "15",
+      "title": "Whose Guinea Pig Will You Be",
+      "date": "2015/01/20",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-16",
+      "number": "16",
+      "title": "Because I'm An Okitenemuru",
+      "date": "2015/01/20",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-17",
+      "number": "17",
+      "title": "The Monster Fish Runs Amok",
+      "date": "2015/01/20",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-18",
+      "number": "18",
+      "title": "Heavenly Trasnfer Student",
+      "date": "2015/01/20",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-19",
+      "number": "19",
+      "title": "Dead In the Bathroom",
+      "date": "2015/01/20",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-20",
+      "number": "20",
+      "title": "",
+      "date": "2015/01/20",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-21",
+      "number": "21",
+      "title": "Sudden Savior",
+      "date": "2015/02/03",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-22",
+      "number": "22",
+      "title": "Cat and Cat Ear",
+      "date": "2015/04/08",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-23",
+      "number": "23",
+      "title": "Take It All Off",
+      "date": "2015/04/08",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-24",
+      "number": "24",
+      "title": "Black Cat Chronicles",
+      "date": "2015/04/08",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-25",
+      "number": "25",
+      "title": "Calm In The Rain",
+      "date": "2015/05/12",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-26",
+      "number": "26",
+      "title": "A Bitter Hunger",
+      "date": "2015/06/02",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-27",
+      "number": "27",
+      "title": "A Calm Cradle",
+      "date": "2015/06/16",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-28",
+      "number": "28",
+      "title": "Impossible to Conquer Or Control",
+      "date": "2015/07/09",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-31",
+      "number": "31",
+      "title": "A Big Present",
+      "date": "2015/09/01",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-32",
+      "number": "32",
+      "title": "Memories of A Manchine",
+      "date": "2015/10/21",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-33",
+      "number": "33",
+      "title": "An infinite Swarm",
+      "date": "2015/12/02",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-34",
+      "number": "34",
+      "title": "I Know You're Jealous",
+      "date": "2015/12/02",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-35",
+      "number": "35",
+      "title": "Counterstrike Decision",
+      "date": "2015/12/02",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-36",
+      "number": "36",
+      "title": "",
+      "date": "2016/01/06",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-37",
+      "number": "37",
+      "title": "",
+      "date": "2016/02/03",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-38",
+      "number": "38",
+      "title": "The Will to Keep on Living",
+      "date": "2016/03/02",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-39",
+      "number": "39",
+      "title": "Sisters On The Dead Line",
+      "date": "2016/03/02",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-40",
+      "number": "40",
+      "title": "",
+      "date": "2016/04/12",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-41",
+      "number": "41",
+      "title": "Believe It Or Not",
+      "date": "2016/05/04",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-42",
+      "number": "42",
+      "title": "",
+      "date": "2016/06/12",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-43",
+      "number": "43",
+      "title": "",
+      "date": "2016/08/17",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-44",
+      "number": "44",
+      "title": "",
+      "date": "2016/08/17",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-45",
+      "number": "45",
+      "title": "",
+      "date": "2016/09/21",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-46",
+      "number": "46",
+      "title": "",
+      "date": "2016/10/12",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-47",
+      "number": "47",
+      "title": "",
+      "date": "2016/10/19",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-48",
+      "number": "48",
+      "title": "",
+      "date": "2016/11/16",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-49",
+      "number": "49",
+      "title": "",
+      "date": "2016/12/21",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-50",
+      "number": "50",
+      "title": "",
+      "date": "2017/01/19",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-51",
+      "number": "51",
+      "title": "",
+      "date": "2017/05/04",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-52",
+      "number": "52",
+      "title": "",
+      "date": "2017/05/04",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-53",
+      "number": "53",
+      "title": "",
+      "date": "2017/05/04",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-54",
+      "number": "54",
+      "title": "",
+      "date": "2017/05/04",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-55",
+      "number": "55",
+      "title": "",
+      "date": "2017/05/04",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-56",
+      "number": "56",
+      "title": "",
+      "date": "2017/12/04",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-57",
+      "number": "57",
+      "title": "",
+      "date": "2017/12/04",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-58",
+      "number": "58",
+      "title": "",
+      "date": "2017/12/04",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-60",
+      "number": "60",
+      "title": "",
+      "date": "2017/12/04",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-61",
+      "number": "61",
+      "title": "",
+      "date": "2017/12/04",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-62",
+      "number": "62",
+      "title": "",
+      "date": "2017/12/04",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-63",
+      "number": "63",
+      "title": "",
+      "date": "2017/12/04",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-64",
+      "number": "64",
+      "title": "",
+      "date": "2017/12/04",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-65",
+      "number": "65",
+      "title": "",
+      "date": "2018/01/11",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-66",
+      "number": "66",
+      "title": "",
+      "date": "2018/01/11",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-67",
+      "number": "67",
+      "title": "",
+      "date": "2018/03/12",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-68",
+      "number": "68",
+      "title": "",
+      "date": "2018/03/14",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-69",
+      "number": "69",
+      "title": "",
+      "date": "2018/04/30",
+      "pages": []
+    },
+    {
+      "id": "okitenemuru-70",
+      "number": "70",
+      "title": "",
+      "date": "2019/08/26",
+      "pages": []
+    }
+  ]
+}

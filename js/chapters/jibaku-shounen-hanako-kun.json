@@ -1,0 +1,914 @@
+{
+  "en": [
+    {
+      "id": "jibaku-shounen-hanako-kun-1",
+      "number": "1",
+      "title": "",
+      "date": "2018/01/20",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-2",
+      "number": "2",
+      "title": "",
+      "date": "2018/11/15",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-3",
+      "number": "3",
+      "title": "",
+      "date": "2018/11/15",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-4",
+      "number": "4",
+      "title": "",
+      "date": "2018/11/15",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-5",
+      "number": "5",
+      "title": "",
+      "date": "2018/11/15",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-6",
+      "number": "6",
+      "title": "",
+      "date": "2018/11/15",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-7",
+      "number": "7",
+      "title": "",
+      "date": "2018/11/15",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-8",
+      "number": "8",
+      "title": "",
+      "date": "2018/11/15",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-9",
+      "number": "9",
+      "title": "",
+      "date": "2018/11/15",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-10",
+      "number": "10",
+      "title": "",
+      "date": "2018/11/15",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-11",
+      "number": "11",
+      "title": "",
+      "date": "2018/11/15",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-12",
+      "number": "12",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-13",
+      "number": "13",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-14",
+      "number": "14",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-15",
+      "number": "15",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-16",
+      "number": "16",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-17",
+      "number": "17",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-18",
+      "number": "18",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-19",
+      "number": "19",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-20",
+      "number": "20",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-21",
+      "number": "21",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-22",
+      "number": "22",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-23",
+      "number": "23",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-24",
+      "number": "24",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-25",
+      "number": "25",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-26",
+      "number": "26",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-27",
+      "number": "27",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-28",
+      "number": "28",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-29",
+      "number": "29",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-30",
+      "number": "30",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-31",
+      "number": "31",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-32",
+      "number": "32",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-33",
+      "number": "33",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-34",
+      "number": "34",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-35",
+      "number": "35",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-36",
+      "number": "36",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-37",
+      "number": "37",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-38",
+      "number": "38",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-39",
+      "number": "39",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-40",
+      "number": "40",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-41",
+      "number": "41",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-42",
+      "number": "42",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-43",
+      "number": "43",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-44",
+      "number": "44",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-45",
+      "number": "45",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-46",
+      "number": "46",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-47",
+      "number": "47",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-48",
+      "number": "48",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-49",
+      "number": "49",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-50",
+      "number": "50",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-51",
+      "number": "51",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-52",
+      "number": "52",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-53",
+      "number": "53",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-54",
+      "number": "54",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-55",
+      "number": "55",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-56",
+      "number": "56",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-57",
+      "number": "57",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-58",
+      "number": "58",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-59",
+      "number": "59",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-60",
+      "number": "60",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-61",
+      "number": "61",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-62",
+      "number": "62",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-63",
+      "number": "63",
+      "title": "",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-64",
+      "number": "64",
+      "title": "The Grim Reaper's Sacrifice Part 2",
+      "date": "2020/03/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-65",
+      "number": "65",
+      "title": "The Three's Overnight Study",
+      "date": "2020/04/17",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-66",
+      "number": "66",
+      "title": "",
+      "date": "2020/05/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-67",
+      "number": "67",
+      "title": "Sumire (Part 2)",
+      "date": "2020/06/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-68",
+      "number": "68",
+      "title": "Sumire (Part 3)",
+      "date": "2020/07/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-69",
+      "number": "69",
+      "title": "Aoi & Akane",
+      "date": "2020/08/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-70",
+      "number": "70",
+      "title": "Akane and Aoi, Part 2",
+      "date": "2020/09/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-71",
+      "number": "71",
+      "title": "Severance",
+      "date": "2020/10/16",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-72",
+      "number": "72",
+      "title": "Day Off",
+      "date": "2020/11/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-73",
+      "number": "73",
+      "title": "",
+      "date": "2021/01/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-74",
+      "number": "74",
+      "title": "",
+      "date": "2021/01/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-75",
+      "number": "75",
+      "title": "Encounter",
+      "date": "2021/02/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-76",
+      "number": "76",
+      "title": "The Red House",
+      "date": "2021/03/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-77",
+      "number": "77",
+      "title": "The Red House (Part 2)",
+      "date": "2021/04/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-78",
+      "number": "78",
+      "title": "",
+      "date": "2021/05/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-79",
+      "number": "79",
+      "title": "The Red House (Part 4)",
+      "date": "2021/06/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-80",
+      "number": "80",
+      "title": "",
+      "date": "2021/07/16",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-81",
+      "number": "81",
+      "title": "",
+      "date": "2021/08/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-82",
+      "number": "82",
+      "title": "The Red House (Part 7)",
+      "date": "2021/09/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-83",
+      "number": "83",
+      "title": "Pizza Party",
+      "date": "2021/10/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-84",
+      "number": "84",
+      "title": "To The Far Shore",
+      "date": "2021/11/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-85",
+      "number": "85",
+      "title": "To the Far Shore (Part 2)",
+      "date": "2021/12/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-86",
+      "number": "86",
+      "title": "To the Far Shore (Part 3)",
+      "date": "2022/01/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-87",
+      "number": "87",
+      "title": "To the Far Shore (Part 4)",
+      "date": "2022/02/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-88",
+      "number": "88",
+      "title": "Oni",
+      "date": "2022/03/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-89",
+      "number": "89",
+      "title": "",
+      "date": "2022/04/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-90",
+      "number": "90",
+      "title": "",
+      "date": "2022/05/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-91",
+      "number": "91",
+      "title": "",
+      "date": "2022/06/16",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-92",
+      "number": "92",
+      "title": "",
+      "date": "2022/07/14",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-93",
+      "number": "93",
+      "title": "",
+      "date": "2022/08/17",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-94",
+      "number": "94",
+      "title": "Dawn (Part 2)",
+      "date": "2022/09/15",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-95",
+      "number": "95",
+      "title": "",
+      "date": "2022/10/17",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-96",
+      "number": "96",
+      "title": "",
+      "date": "2022/11/17",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-97",
+      "number": "97",
+      "title": "",
+      "date": "2022/12/15",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-98",
+      "number": "98",
+      "title": "Night Out (Part 1)",
+      "date": "2023/01/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-99",
+      "number": "99",
+      "title": "Night Out (Part 2)",
+      "date": "2023/02/17",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-100",
+      "number": "100",
+      "title": "Night Out (Part 3)",
+      "date": "2023/03/17",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-101",
+      "number": "101",
+      "title": "",
+      "date": "2023/04/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-102",
+      "number": "102",
+      "title": "Omen (Part 2)",
+      "date": "2023/05/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-103",
+      "number": "103",
+      "title": "Omen (Part 3)",
+      "date": "2023/06/16",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-104",
+      "number": "104",
+      "title": "",
+      "date": "2023/07/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-105",
+      "number": "105",
+      "title": "School Festival (Part 2)",
+      "date": "2023/08/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-106",
+      "number": "106",
+      "title": "",
+      "date": "2023/09/15",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-107",
+      "number": "107",
+      "title": "",
+      "date": "2023/10/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-108",
+      "number": "108",
+      "title": "",
+      "date": "2023/11/17",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-109",
+      "number": "109",
+      "title": "The Trial of the Clock Keepers (Part 2)",
+      "date": "2023/12/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-110",
+      "number": "110",
+      "title": "The Trial of the Clock Keepers (Part 3)",
+      "date": "2024/01/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-111",
+      "number": "111",
+      "title": "The Trial of the Clock Keepers (Part 4)",
+      "date": "2024/02/17",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-112",
+      "number": "112",
+      "title": "",
+      "date": "2024/03/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-113",
+      "number": "113",
+      "title": "",
+      "date": "2024/04/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-114",
+      "number": "114",
+      "title": "",
+      "date": "2024/05/17",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-115",
+      "number": "115",
+      "title": "",
+      "date": "2024/06/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-116",
+      "number": "116",
+      "title": "",
+      "date": "2024/07/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-117",
+      "number": "117",
+      "title": "",
+      "date": "2024/08/17",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-118",
+      "number": "118",
+      "title": "",
+      "date": "2024/09/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-119",
+      "number": "119",
+      "title": "",
+      "date": "2024/10/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-120",
+      "number": "120",
+      "title": "",
+      "date": "2024/11/17",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-121",
+      "number": "121",
+      "title": "",
+      "date": "2024/12/19",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-122",
+      "number": "122",
+      "title": "",
+      "date": "2025/01/20",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-123",
+      "number": "123",
+      "title": "",
+      "date": "2025/02/24",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-124",
+      "number": "124",
+      "title": "",
+      "date": "2025/03/17",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-125",
+      "number": "125",
+      "title": "",
+      "date": "2025/04/21",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-126",
+      "number": "126",
+      "title": "",
+      "date": "2025/05/19",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-127",
+      "number": "127",
+      "title": "",
+      "date": "2025/06/25",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-128",
+      "number": "128",
+      "title": "",
+      "date": "2025/08/18",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-129",
+      "number": "129",
+      "title": "",
+      "date": "2025/10/02",
+      "pages": []
+    },
+    {
+      "id": "jibaku-shounen-hanako-kun-130",
+      "number": "130",
+      "title": "",
+      "date": "2025/10/27",
+      "pages": []
+    }
+  ]
+}

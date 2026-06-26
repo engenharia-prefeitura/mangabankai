@@ -1,0 +1,494 @@
+{
+  "en": [
+    {
+      "id": "yuureitou-1",
+      "number": "1",
+      "title": "The Ghost Tower",
+      "date": "2012/11/12",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-2",
+      "number": "2",
+      "title": "Tetsuo",
+      "date": "2012/11/12",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-3",
+      "number": "3",
+      "title": "Friends",
+      "date": "2012/12/26",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-4",
+      "number": "4",
+      "title": "The Threatening Mask",
+      "date": "2012/12/26",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-5",
+      "number": "5",
+      "title": "Inside",
+      "date": "2012/12/26",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-6",
+      "number": "6",
+      "title": "Hanazono-San",
+      "date": "2012/12/26",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-7",
+      "number": "7",
+      "title": "The Culprit's Name",
+      "date": "2012/12/26",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-8",
+      "number": "8",
+      "title": "Everywhere",
+      "date": "2012/12/26",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-9",
+      "number": "9",
+      "title": "A Photo of Rika",
+      "date": "2013/01/21",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-10",
+      "number": "10",
+      "title": "Lies and Confession",
+      "date": "2013/01/21",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-11",
+      "number": "11",
+      "title": "The Honjou Household",
+      "date": "2013/02/03",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-12",
+      "number": "12",
+      "title": "Persuasion to Freedom",
+      "date": "2013/02/19",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-13",
+      "number": "13",
+      "title": "Mother's Bones",
+      "date": "2013/02/25",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-14",
+      "number": "14",
+      "title": "Chains of Sorrow",
+      "date": "2013/03/05",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-15",
+      "number": "15",
+      "title": "Type - O",
+      "date": "2013/03/12",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-16",
+      "number": "16",
+      "title": "Humanity",
+      "date": "2013/04/02",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-17",
+      "number": "17",
+      "title": "Choosing a Sacrifice",
+      "date": "2013/04/08",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-18",
+      "number": "18",
+      "title": "The Value of Life",
+      "date": "2013/04/26",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-19",
+      "number": "19",
+      "title": "Tetsuo",
+      "date": "2013/05/04",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-20",
+      "number": "20",
+      "title": "True Face",
+      "date": "2013/05/11",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-21",
+      "number": "21",
+      "title": "The Trick",
+      "date": "2013/05/19",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-22",
+      "number": "22",
+      "title": "The Bizarre Cell",
+      "date": "2013/05/25",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-23",
+      "number": "23",
+      "title": "The Hellish Maze",
+      "date": "2013/06/02",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-24",
+      "number": "24",
+      "title": "Here",
+      "date": "2013/06/23",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-25",
+      "number": "25",
+      "title": "Do You Remember?",
+      "date": "2013/06/23",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-26",
+      "number": "26",
+      "title": "Final Moments",
+      "date": "2013/08/12",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-27",
+      "number": "27",
+      "title": "Only Me",
+      "date": "2013/08/12",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-28",
+      "number": "28",
+      "title": "Disguise",
+      "date": "2013/08/19",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-29",
+      "number": "29",
+      "title": "Man and Woman",
+      "date": "2013/09/14",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-30",
+      "number": "30",
+      "title": "The Flower at the Bottom of the Valley",
+      "date": "2013/09/14",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-31",
+      "number": "31",
+      "title": "Reducing the Number of Mouths to Feed",
+      "date": "2013/09/25",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-32",
+      "number": "32",
+      "title": "Manjis Suicide",
+      "date": "2013/10/24",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-33",
+      "number": "33",
+      "title": "The Sealed Room and the Motive",
+      "date": "2013/11/19",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-34",
+      "number": "34",
+      "title": "Reasoning and Motive",
+      "date": "2013/11/19",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-35",
+      "number": "35",
+      "title": "The One that Turned Back",
+      "date": "2013/12/09",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-36",
+      "number": "36",
+      "title": "Fuhenboku",
+      "date": "2013/12/09",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-37",
+      "number": "37",
+      "title": "Parent and Child",
+      "date": "2013/12/09",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-38",
+      "number": "38",
+      "title": "A Diffirent World",
+      "date": "2013/12/16",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-39",
+      "number": "39",
+      "title": "Paradise On Earth",
+      "date": "2013/12/22",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-40",
+      "number": "40",
+      "title": "Mama",
+      "date": "2013/12/26",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-41",
+      "number": "41",
+      "title": "The Two Monsters4",
+      "date": "2013/12/29",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-42",
+      "number": "42",
+      "title": "Sympathy",
+      "date": "2014/01/02",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-43",
+      "number": "43",
+      "title": "The Entrance",
+      "date": "2014/01/05",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-44",
+      "number": "44",
+      "title": "Hideo",
+      "date": "2014/01/13",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-45",
+      "number": "45",
+      "title": "Nails",
+      "date": "2014/01/20",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-46",
+      "number": "46",
+      "title": "Belly Button",
+      "date": "2014/02/03",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-47",
+      "number": "47",
+      "title": "Pairs",
+      "date": "2014/02/23",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-48",
+      "number": "48",
+      "title": "Handshake",
+      "date": "2014/02/23",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-49",
+      "number": "49",
+      "title": "Ceiling",
+      "date": "2014/03/04",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-50",
+      "number": "50",
+      "title": "Chair",
+      "date": "2014/03/18",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-51",
+      "number": "51",
+      "title": "Screams",
+      "date": "2014/06/02",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-52",
+      "number": "52",
+      "title": "Handcuffs",
+      "date": "2014/09/20",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-53",
+      "number": "53",
+      "title": "Climb",
+      "date": "2014/10/30",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-54",
+      "number": "54",
+      "title": "Crushed",
+      "date": "2015/05/04",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-55",
+      "number": "55",
+      "title": "Genuine",
+      "date": "2015/05/04",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-56",
+      "number": "56",
+      "title": "Chest",
+      "date": "2015/05/04",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-57",
+      "number": "57",
+      "title": "That Guy",
+      "date": "2015/05/04",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-58",
+      "number": "58",
+      "title": "010 Minutes",
+      "date": "2015/05/04",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-59",
+      "number": "59",
+      "title": "Willful Negligence",
+      "date": "2015/05/04",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-60",
+      "number": "60",
+      "title": "The Truth",
+      "date": "2015/05/04",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-61",
+      "number": "61",
+      "title": "Difference",
+      "date": "2015/05/04",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-62",
+      "number": "62",
+      "title": "Open",
+      "date": "2015/05/04",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-63",
+      "number": "63",
+      "title": "True Identity",
+      "date": "2015/05/04",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-64",
+      "number": "64",
+      "title": "The Meaning of Money",
+      "date": "2015/05/04",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-65",
+      "number": "65",
+      "title": "Condition",
+      "date": "2015/05/04",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-66",
+      "number": "66",
+      "title": "Escape",
+      "date": "2015/05/04",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-67",
+      "number": "67",
+      "title": "",
+      "date": "2015/08/21",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-68",
+      "number": "68",
+      "title": "",
+      "date": "2015/08/21",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-69",
+      "number": "69",
+      "title": "",
+      "date": "2015/08/21",
+      "pages": []
+    },
+    {
+      "id": "yuureitou-70",
+      "number": "70",
+      "title": "",
+      "date": "2015/08/21",
+      "pages": []
+    }
+  ]
+}

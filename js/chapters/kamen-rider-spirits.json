@@ -1,0 +1,676 @@
+{
+  "en": [
+    {
+      "id": "kamen-rider-spirits-1",
+      "number": "1",
+      "title": "Skyscraper's Gale",
+      "date": "2009/10/28",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-2",
+      "number": "2",
+      "title": "One Man Battle - Part 1",
+      "date": "2009/10/28",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-3",
+      "number": "3",
+      "title": "One Man Battle - Part 2",
+      "date": "2009/10/28",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-4",
+      "number": "4",
+      "title": "Pride of Hot Sand - Part 1",
+      "date": "2009/10/28",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-5",
+      "number": "5",
+      "title": "",
+      "date": "2009/10/28",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-6",
+      "number": "6",
+      "title": "Memories of the Right Arm",
+      "date": "2009/10/28",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-7",
+      "number": "7",
+      "title": "Ocean of Machine-Armor - Part 1",
+      "date": "2009/10/28",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-8",
+      "number": "8",
+      "title": "Ocean of Machine-Armor - Part 2",
+      "date": "2009/10/28",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-9",
+      "number": "9",
+      "title": "Destroyer of the Jungle - Part 1",
+      "date": "2009/10/28",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-10",
+      "number": "10",
+      "title": "Destroyer of the Jungle - Part 2",
+      "date": "2009/10/28",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-11",
+      "number": "11",
+      "title": "Roaming Thunderclap - Part 1",
+      "date": "2009/10/28",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-12",
+      "number": "12",
+      "title": "Roaming Thunderclap - Part 2",
+      "date": "2009/10/28",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-13",
+      "number": "13",
+      "title": "Blue Sky of Promise - Part 1",
+      "date": "2009/10/28",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-14",
+      "number": "14",
+      "title": "Blue Sky of Promise - Part 2",
+      "date": "2009/10/28",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-15",
+      "number": "15",
+      "title": "Mythology of the Shooting Star - Part 1",
+      "date": "2009/10/28",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-16",
+      "number": "16",
+      "title": "Mythology of the Shooting Star - Part 2",
+      "date": "2009/10/28",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-17",
+      "number": "17",
+      "title": "Mythology of the Shooting Star - Part 3",
+      "date": "2009/10/28",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-18",
+      "number": "18",
+      "title": "Assault",
+      "date": "2009/10/28",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-19",
+      "number": "19",
+      "title": "Encounter",
+      "date": "2009/10/28",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-20",
+      "number": "20",
+      "title": "Darkness",
+      "date": "2009/10/28",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-21",
+      "number": "21",
+      "title": "Escape",
+      "date": "2009/10/28",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-22",
+      "number": "22",
+      "title": "Rage",
+      "date": "2009/10/28",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-23",
+      "number": "23",
+      "title": "Rumi",
+      "date": "2009/10/28",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-24",
+      "number": "24",
+      "title": "Attack",
+      "date": "2009/10/28",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-25",
+      "number": "25",
+      "title": "Thorns of Death",
+      "date": "2009/10/29",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-26",
+      "number": "26",
+      "title": "Magic Circle",
+      "date": "2009/10/29",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-27",
+      "number": "27",
+      "title": "Contact",
+      "date": "2009/10/29",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-28",
+      "number": "28",
+      "title": "Atonement",
+      "date": "2009/10/29",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-29",
+      "number": "29",
+      "title": "Target",
+      "date": "2009/10/29",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-30",
+      "number": "30",
+      "title": "Flash",
+      "date": "2009/10/29",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-31",
+      "number": "31",
+      "title": "Henshi",
+      "date": "2009/10/29",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-32",
+      "number": "32",
+      "title": "Secrets",
+      "date": "2009/10/29",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-33",
+      "number": "33",
+      "title": "Deathmatch",
+      "date": "2009/10/29",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-34",
+      "number": "34",
+      "title": "Judo",
+      "date": "2009/10/29",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-35",
+      "number": "35",
+      "title": "Awaken",
+      "date": "2009/10/29",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-36",
+      "number": "36",
+      "title": "Parting",
+      "date": "2009/10/29",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-37",
+      "number": "37",
+      "title": "Lies",
+      "date": "2009/10/29",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-38",
+      "number": "38",
+      "title": "Revenge",
+      "date": "2009/10/29",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-39",
+      "number": "39",
+      "title": "Demon's Temple",
+      "date": "2009/10/29",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-40",
+      "number": "40",
+      "title": "Rescue",
+      "date": "2009/10/29",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-41",
+      "number": "41",
+      "title": "Conquest",
+      "date": "2009/10/29",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-42",
+      "number": "42",
+      "title": "Invasion",
+      "date": "2009/10/29",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-43",
+      "number": "43",
+      "title": "Coup",
+      "date": "2009/10/29",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-44",
+      "number": "44",
+      "title": "Shinjuku",
+      "date": "2009/10/30",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-45",
+      "number": "45",
+      "title": "Forget Memories",
+      "date": "2009/12/05",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-46",
+      "number": "46",
+      "title": "Appearance",
+      "date": "2010/04/01",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-47",
+      "number": "47",
+      "title": "Sacrifice",
+      "date": "2011/07/16",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-48",
+      "number": "48",
+      "title": "Clash",
+      "date": "2011/07/16",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-49",
+      "number": "49",
+      "title": "Alias",
+      "date": "2011/07/16",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-50",
+      "number": "50",
+      "title": "Prolouge",
+      "date": "2011/07/16",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-51",
+      "number": "51",
+      "title": "Syndrome",
+      "date": "2011/07/16",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-52",
+      "number": "52",
+      "title": "Participation",
+      "date": "2011/07/16",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-53",
+      "number": "53",
+      "title": "Participation 2",
+      "date": "2011/07/16",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-54",
+      "number": "54",
+      "title": "A United Front",
+      "date": "2012/01/08",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-55",
+      "number": "55",
+      "title": "Go Forth",
+      "date": "2012/01/08",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-56",
+      "number": "56",
+      "title": "Unit",
+      "date": "2012/01/08",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-57",
+      "number": "57",
+      "title": "Evil Capital",
+      "date": "2012/01/08",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-58",
+      "number": "58",
+      "title": "Shield",
+      "date": "2012/01/08",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-59",
+      "number": "59",
+      "title": "Formation of Spirits",
+      "date": "2015/10/19",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-60",
+      "number": "60",
+      "title": "The Fourth",
+      "date": "2015/10/19",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-61",
+      "number": "61",
+      "title": "Breaking in",
+      "date": "2015/10/19",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-62",
+      "number": "62",
+      "title": "Ice Fang",
+      "date": "2015/10/19",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-63",
+      "number": "63",
+      "title": "Graveyard",
+      "date": "2015/10/19",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-64",
+      "number": "64",
+      "title": "",
+      "date": "2019/04/03",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-65",
+      "number": "65",
+      "title": "",
+      "date": "2019/04/03",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-66",
+      "number": "66",
+      "title": "",
+      "date": "2019/04/03",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-67",
+      "number": "67",
+      "title": "",
+      "date": "2019/04/03",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-68",
+      "number": "68",
+      "title": "",
+      "date": "2019/04/03",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-69",
+      "number": "69",
+      "title": "",
+      "date": "2019/04/03",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-70",
+      "number": "70",
+      "title": "",
+      "date": "2019/04/03",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-71",
+      "number": "71",
+      "title": "The Battle",
+      "date": "2019/06/11",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-72",
+      "number": "72",
+      "title": "Belt of Life",
+      "date": "2020/05/01",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-73",
+      "number": "73",
+      "title": "The Immortal Man",
+      "date": "2020/05/02",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-74",
+      "number": "74",
+      "title": "Inheritance",
+      "date": "2020/05/04",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-75",
+      "number": "75",
+      "title": "Get Back",
+      "date": "2020/05/04",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-76",
+      "number": "76",
+      "title": "",
+      "date": "2020/05/07",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-77",
+      "number": "77",
+      "title": "",
+      "date": "2020/05/07",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-78",
+      "number": "78",
+      "title": "Re-Evolution",
+      "date": "2020/05/11",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-79",
+      "number": "79",
+      "title": "Final Evolution",
+      "date": "2020/05/11",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-80",
+      "number": "80",
+      "title": "Warrior's Essence",
+      "date": "2020/05/12",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-81",
+      "number": "81",
+      "title": "",
+      "date": "2020/05/20",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-82",
+      "number": "82",
+      "title": "",
+      "date": "2020/05/20",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-83",
+      "number": "83",
+      "title": "",
+      "date": "2020/05/20",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-84",
+      "number": "84",
+      "title": "",
+      "date": "2020/05/23",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-85",
+      "number": "85",
+      "title": "",
+      "date": "2020/05/23",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-86",
+      "number": "86",
+      "title": "",
+      "date": "2020/05/26",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-87",
+      "number": "87",
+      "title": "",
+      "date": "2020/05/26",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-88",
+      "number": "88",
+      "title": "",
+      "date": "2020/05/31",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-89",
+      "number": "89",
+      "title": "Friend",
+      "date": "2020/06/02",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-90",
+      "number": "90",
+      "title": "",
+      "date": "2020/06/06",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-91",
+      "number": "91",
+      "title": "",
+      "date": "2020/06/08",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-92",
+      "number": "92",
+      "title": "",
+      "date": "2020/06/10",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-93",
+      "number": "93",
+      "title": "Warrior of Justice",
+      "date": "2020/06/13",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-94",
+      "number": "94",
+      "title": "The One Who Leads",
+      "date": "2020/06/15",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-95",
+      "number": "95",
+      "title": "",
+      "date": "2020/06/17",
+      "pages": []
+    },
+    {
+      "id": "kamen-rider-spirits-96",
+      "number": "96",
+      "title": "Double-Headed Fang",
+      "date": "2020/07/15",
+      "pages": []
+    }
+  ]
+}

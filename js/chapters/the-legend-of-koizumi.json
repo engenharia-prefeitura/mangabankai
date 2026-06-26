@@ -1,0 +1,942 @@
+{
+  "en": [
+    {
+      "id": "the-legend-of-koizumi-1",
+      "number": "1",
+      "title": "Battle In The Southern Sea",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-2",
+      "number": "2",
+      "title": "Operation: Texas Shock",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-3",
+      "number": "3",
+      "title": "Victory In The Great Sea 1",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-4",
+      "number": "4",
+      "title": "Well? Did it Pass?",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-5",
+      "number": "5",
+      "title": "Attack Of The Baltic Fleet",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-6",
+      "number": "6",
+      "title": "Vladimir Putin",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-7",
+      "number": "7",
+      "title": "The Diet",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-8",
+      "number": "8",
+      "title": "The Approaching Threat",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-9",
+      "number": "9",
+      "title": "The Approaching Threat Episode 2",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-10",
+      "number": "10",
+      "title": "Mahjong!! And That Is",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-11",
+      "number": "11",
+      "title": "G8",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-12",
+      "number": "12",
+      "title": "Battle Of Ragnarok 2",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-13",
+      "number": "13",
+      "title": "Battle Of Ragnarok 3",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-14",
+      "number": "14",
+      "title": "To See To Medvedev",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-15",
+      "number": "15",
+      "title": "Battle Of Ragnarok 5",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-16",
+      "number": "16",
+      "title": "Battle Of Ragnarok 6",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-17",
+      "number": "17",
+      "title": "Hans Rudel!!!",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-18",
+      "number": "18",
+      "title": "A Shooting Star!",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-19",
+      "number": "19",
+      "title": "Ron!! Balkenkreuz!!",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-20",
+      "number": "20",
+      "title": "World War 2!!",
+      "date": "2010/06/14",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-21",
+      "number": "21",
+      "title": "Bring it On!",
+      "date": "2010/06/14",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-22",
+      "number": "22",
+      "title": "I Will Lead The 4th Reich To Victory!",
+      "date": "2010/06/14",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-23",
+      "number": "23",
+      "title": "The Greatest Despot of the 20th Century",
+      "date": "2010/06/14",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-24",
+      "number": "24",
+      "title": "Even In Death",
+      "date": "2010/06/14",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-25",
+      "number": "25",
+      "title": "What Will Become of Humanity?",
+      "date": "2010/06/14",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-26",
+      "number": "26",
+      "title": "Dont Make Me Laugh",
+      "date": "2010/06/14",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-27",
+      "number": "27",
+      "title": "Twilight of The Gods 14",
+      "date": "2010/06/14",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-28",
+      "number": "28",
+      "title": "Twilight of The Gods 15",
+      "date": "2010/06/14",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-29",
+      "number": "29",
+      "title": "Twilight of The Gods 16",
+      "date": "2010/06/14",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-30",
+      "number": "30",
+      "title": "Twilight of The Gods 17",
+      "date": "2010/06/14",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-31",
+      "number": "31",
+      "title": "31",
+      "date": "2010/06/15",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-32",
+      "number": "32",
+      "title": "",
+      "date": "2010/06/16",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-33",
+      "number": "33",
+      "title": "",
+      "date": "2010/12/08",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-34",
+      "number": "34",
+      "title": "",
+      "date": "2010/12/10",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-35",
+      "number": "35",
+      "title": "",
+      "date": "2010/12/12",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-36",
+      "number": "36",
+      "title": "",
+      "date": "2010/12/14",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-37",
+      "number": "37",
+      "title": "",
+      "date": "2010/12/14",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-38",
+      "number": "38",
+      "title": "",
+      "date": "2010/12/15",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-39",
+      "number": "39",
+      "title": "",
+      "date": "2010/12/16",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-40",
+      "number": "40",
+      "title": "",
+      "date": "2010/12/17",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-41",
+      "number": "41",
+      "title": "",
+      "date": "2011/01/05",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-46",
+      "number": "46",
+      "title": "",
+      "date": "2011/01/22",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-47",
+      "number": "47",
+      "title": "",
+      "date": "2011/01/22",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-48",
+      "number": "48",
+      "title": "",
+      "date": "2011/01/22",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-49",
+      "number": "49",
+      "title": "",
+      "date": "2011/01/28",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-50",
+      "number": "50",
+      "title": "",
+      "date": "2011/09/12",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-51",
+      "number": "51",
+      "title": "",
+      "date": "2011/10/09",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-52",
+      "number": "52",
+      "title": "",
+      "date": "2011/10/16",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-53",
+      "number": "53",
+      "title": "",
+      "date": "2011/10/24",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-54",
+      "number": "54",
+      "title": "",
+      "date": "2011/10/30",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-55",
+      "number": "55",
+      "title": "",
+      "date": "2012/02/15",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-56",
+      "number": "56",
+      "title": "",
+      "date": "2012/02/21",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-57",
+      "number": "57",
+      "title": "",
+      "date": "2012/03/06",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-58",
+      "number": "58",
+      "title": "",
+      "date": "2012/08/02",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-59",
+      "number": "59",
+      "title": "",
+      "date": "2012/08/24",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-60",
+      "number": "60",
+      "title": "",
+      "date": "2012/08/24",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-61",
+      "number": "61",
+      "title": "",
+      "date": "2012/08/24",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-62",
+      "number": "62",
+      "title": "",
+      "date": "2012/09/09",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-63",
+      "number": "63",
+      "title": "",
+      "date": "2012/09/28",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-64",
+      "number": "64",
+      "title": "",
+      "date": "2012/09/28",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-65",
+      "number": "65",
+      "title": "",
+      "date": "2012/10/13",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-66",
+      "number": "66",
+      "title": "",
+      "date": "2012/10/16",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-67",
+      "number": "67",
+      "title": "",
+      "date": "2013/06/07",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-68",
+      "number": "68",
+      "title": "",
+      "date": "2013/07/08",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-69",
+      "number": "69",
+      "title": "",
+      "date": "2013/08/29",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-70",
+      "number": "70",
+      "title": "",
+      "date": "2013/10/04",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-71",
+      "number": "71",
+      "title": "",
+      "date": "2015/12/05",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-72",
+      "number": "72",
+      "title": "",
+      "date": "2015/12/05",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-73",
+      "number": "73",
+      "title": "",
+      "date": "2015/12/05",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-74",
+      "number": "74",
+      "title": "",
+      "date": "2016/01/06",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-75",
+      "number": "75",
+      "title": "",
+      "date": "2016/01/18",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-76",
+      "number": "76",
+      "title": "",
+      "date": "2016/03/07",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-77",
+      "number": "77",
+      "title": "",
+      "date": "2016/03/13",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-78",
+      "number": "78",
+      "title": "",
+      "date": "2016/03/22",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-79",
+      "number": "79",
+      "title": "",
+      "date": "2016/03/26",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-80",
+      "number": "80",
+      "title": "",
+      "date": "2016/04/10",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-81",
+      "number": "81",
+      "title": "",
+      "date": "2016/04/10",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-82",
+      "number": "82",
+      "title": "",
+      "date": "2016/04/14",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-83",
+      "number": "83",
+      "title": "",
+      "date": "2016/04/20",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-84",
+      "number": "84",
+      "title": "",
+      "date": "2016/04/26",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-85",
+      "number": "85",
+      "title": "",
+      "date": "2016/05/11",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-86",
+      "number": "86",
+      "title": "",
+      "date": "2016/05/17",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-87",
+      "number": "87",
+      "title": "",
+      "date": "2016/05/18",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-88",
+      "number": "88",
+      "title": "",
+      "date": "2016/05/27",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-89",
+      "number": "89",
+      "title": "",
+      "date": "2016/05/27",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-90",
+      "number": "90",
+      "title": "",
+      "date": "2016/06/20",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-91",
+      "number": "91",
+      "title": "",
+      "date": "2016/06/20",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-92",
+      "number": "92",
+      "title": "",
+      "date": "2016/07/02",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-93",
+      "number": "93",
+      "title": "",
+      "date": "2016/07/24",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-94",
+      "number": "94",
+      "title": "",
+      "date": "2016/10/13",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-95",
+      "number": "95",
+      "title": "",
+      "date": "2016/10/13",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-96",
+      "number": "96",
+      "title": "",
+      "date": "2016/10/13",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-97",
+      "number": "97",
+      "title": "",
+      "date": "2017/10/20",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-98",
+      "number": "98",
+      "title": "",
+      "date": "2017/10/20",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-99",
+      "number": "99",
+      "title": "",
+      "date": "2017/10/20",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-100",
+      "number": "100",
+      "title": "",
+      "date": "2017/10/20",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-101",
+      "number": "101",
+      "title": "",
+      "date": "2017/10/20",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-102",
+      "number": "102",
+      "title": "",
+      "date": "2018/07/28",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-103",
+      "number": "103",
+      "title": "",
+      "date": "2019/09/17",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-104",
+      "number": "104",
+      "title": "",
+      "date": "2019/09/20",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-105",
+      "number": "105",
+      "title": "",
+      "date": "2019/09/22",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-106",
+      "number": "106",
+      "title": "",
+      "date": "2019/09/22",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-107",
+      "number": "107",
+      "title": "",
+      "date": "2019/09/25",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-108",
+      "number": "108",
+      "title": "",
+      "date": "2019/09/27",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-109",
+      "number": "109",
+      "title": "",
+      "date": "2019/09/30",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-110",
+      "number": "110",
+      "title": "",
+      "date": "2019/11/16",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-111",
+      "number": "111",
+      "title": "",
+      "date": "2020/05/13",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-112",
+      "number": "112",
+      "title": "",
+      "date": "2020/05/13",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-113",
+      "number": "113",
+      "title": "",
+      "date": "2021/08/01",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-114",
+      "number": "114",
+      "title": "",
+      "date": "2021/08/01",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-115",
+      "number": "115",
+      "title": "",
+      "date": "2021/08/02",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-116",
+      "number": "116",
+      "title": "",
+      "date": "2021/10/19",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-117",
+      "number": "117",
+      "title": "",
+      "date": "2022/01/06",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-118",
+      "number": "118",
+      "title": "",
+      "date": "2022/01/08",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-119",
+      "number": "119",
+      "title": "Bloody War!! High Waves At The Senkaku Islands!! 44",
+      "date": "2022/01/10",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-120",
+      "number": "120",
+      "title": "Bloody War!! High Waves at the Senkaku Islands!! 45",
+      "date": "2022/01/11",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-121",
+      "number": "121",
+      "title": "Bloody War!! High Waves at the Senkaku Islands!! 46",
+      "date": "2022/01/12",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-122",
+      "number": "122",
+      "title": "",
+      "date": "2022/01/13",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-123",
+      "number": "123",
+      "title": "Bloody War!! High Waves at the Senkaku Islands!! 48",
+      "date": "2022/01/14",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-124",
+      "number": "124",
+      "title": "",
+      "date": "2022/01/16",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-125",
+      "number": "125",
+      "title": "Bloody War!! High Waves at the Senkaku Islands!! 50",
+      "date": "2022/01/18",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-126",
+      "number": "126",
+      "title": "Bloody War!! High Waves at the Senkaku Islands!! 50",
+      "date": "2022/01/19",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-127",
+      "number": "127",
+      "title": "Bloody War!! High Waves at the Senkaku Islands!! 52",
+      "date": "2022/01/21",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-128",
+      "number": "128",
+      "title": "Bloody War!! High Waves at the Senkaku Islands!! 53",
+      "date": "2022/01/21",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-129",
+      "number": "129",
+      "title": "Bloody War!! High Waves At The Senkaku Islands!! 54",
+      "date": "2022/01/24",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-130",
+      "number": "130",
+      "title": "",
+      "date": "2022/02/11",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-131",
+      "number": "131",
+      "title": "Bloody War!! High Waves At The Senkaku Islands!! 56",
+      "date": "2022/02/26",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-132",
+      "number": "132",
+      "title": "",
+      "date": "2022/03/01",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-133",
+      "number": "133",
+      "title": "Bloody War!! High Waves at the Senkaku Islands!! 58",
+      "date": "2022/03/04",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-134",
+      "number": "134",
+      "title": "",
+      "date": "2022/03/07",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-135",
+      "number": "135",
+      "title": "",
+      "date": "2022/05/03",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-136",
+      "number": "136",
+      "title": "",
+      "date": "2022/05/12",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-137",
+      "number": "137",
+      "title": "",
+      "date": "2022/05/21",
+      "pages": []
+    },
+    {
+      "id": "the-legend-of-koizumi-138",
+      "number": "138",
+      "title": "",
+      "date": "2022/05/21",
+      "pages": []
+    }
+  ]
+}

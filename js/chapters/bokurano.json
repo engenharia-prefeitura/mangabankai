@@ -1,0 +1,459 @@
+{
+  "en": [
+    {
+      "id": "bokurano-1",
+      "number": "1",
+      "title": "Kokopelli 1",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-2",
+      "number": "2",
+      "title": "Kokopelli 2",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-3",
+      "number": "3",
+      "title": "Kokopelli 3",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-4",
+      "number": "4",
+      "title": "Takashi Waku 1",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-5",
+      "number": "5",
+      "title": "Takashi Waku 2",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-6",
+      "number": "6",
+      "title": "Masaru Kodaka 1",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-7",
+      "number": "7",
+      "title": "Masaru Kodaka 2",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-8",
+      "number": "8",
+      "title": "Daiichi Yamura 1",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-9",
+      "number": "9",
+      "title": "Daiichi Yamura 2",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-10",
+      "number": "10",
+      "title": "Mako Nakarai 1",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-11",
+      "number": "11",
+      "title": "Mako Nakarai 2",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-12",
+      "number": "12",
+      "title": "Mako Nakarai 3",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-13",
+      "number": "13",
+      "title": "Isao Kako 1",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-14",
+      "number": "14",
+      "title": "Isao Kako 2",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-15",
+      "number": "15",
+      "title": "Isao Kako 3",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-16",
+      "number": "16",
+      "title": "Isao Kako 4",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-17",
+      "number": "17",
+      "title": "Chizuru Honda 1",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-18",
+      "number": "18",
+      "title": "Chizuru Honda 2",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-19",
+      "number": "19",
+      "title": "Chizuru Honda 3",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-20",
+      "number": "20",
+      "title": "Chizuru Honda 4",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-21",
+      "number": "21",
+      "title": "Kunihiko Moji 1",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-22",
+      "number": "22",
+      "title": "Kunihiko Moji 2",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-23",
+      "number": "23",
+      "title": "Kunihiko Moji 3",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-24",
+      "number": "24",
+      "title": "Kunihiko Moji 4",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-25",
+      "number": "25",
+      "title": "Maki Ano 1",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-26",
+      "number": "26",
+      "title": "Maki Ano 2",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-27",
+      "number": "27",
+      "title": "Maki Ano 3",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-28",
+      "number": "28",
+      "title": "Maki Ano 4",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-29",
+      "number": "29",
+      "title": "Yosuke Kirie 1",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-30",
+      "number": "30",
+      "title": "Yosuke Kirie 2",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-31",
+      "number": "31",
+      "title": "Yosuke Kirie 3",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-32",
+      "number": "32",
+      "title": "Yosuke Kirie 4",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-33",
+      "number": "33",
+      "title": "Takami Komoda 1",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-34",
+      "number": "34",
+      "title": "Takami Komoda 2",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-35",
+      "number": "35",
+      "title": "Takami Komoda 3",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-36",
+      "number": "36",
+      "title": "Takami Komoda 4",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-37",
+      "number": "37",
+      "title": "Takami Komoda 5",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-38",
+      "number": "38",
+      "title": "Aiko Tokosumi 1",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-39",
+      "number": "39",
+      "title": "Aiko Tokosumi 2",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-40",
+      "number": "40",
+      "title": "Aiko Tokosumi 3",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-41",
+      "number": "41",
+      "title": "Aiko Tokosumi 4",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-42",
+      "number": "42",
+      "title": "Aiko Tokosumi 5",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-43",
+      "number": "43",
+      "title": "Kanji Yoshikawa 1",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-44",
+      "number": "44",
+      "title": "Kanji Yoshikawa 2",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-45",
+      "number": "45",
+      "title": "Kanji Yoshikawa 3",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-46",
+      "number": "46",
+      "title": "Kanji Yoshikawa 4",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-47",
+      "number": "47",
+      "title": "47",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-48",
+      "number": "48",
+      "title": "Kana Ushiro 1",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-49",
+      "number": "49",
+      "title": "Kana Ushiro 2",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-50",
+      "number": "50",
+      "title": "Kana Ushiro 3",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-51",
+      "number": "51",
+      "title": "Kana Ushiro 4",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-52",
+      "number": "52",
+      "title": "Kana Ushiro 5",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-53",
+      "number": "53",
+      "title": "Jun Ushiro 1",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-54",
+      "number": "54",
+      "title": "Machi Yoko 1",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-55",
+      "number": "55",
+      "title": "Machi Yoko 2",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-56",
+      "number": "56",
+      "title": "Machi Yoko 3",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-57",
+      "number": "57",
+      "title": "Machi Yoko 4",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-58",
+      "number": "58",
+      "title": "Machi Yoko 5",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-59",
+      "number": "59",
+      "title": "Machi Yoko 6",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-60",
+      "number": "60",
+      "title": "Ushiro Jun 2",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-61",
+      "number": "61",
+      "title": "Ushiro Jun 3",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-62",
+      "number": "62",
+      "title": "Ushiro Jun 4",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-63",
+      "number": "63",
+      "title": "Ushiro Jun 5",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-64",
+      "number": "64",
+      "title": "Ushiro Jun 6",
+      "date": "2009/07/23",
+      "pages": []
+    },
+    {
+      "id": "bokurano-65",
+      "number": "65",
+      "title": "Dung Beetle",
+      "date": "2009/07/23",
+      "pages": []
+    }
+  ]
+}

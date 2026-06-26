@@ -1,0 +1,809 @@
+{
+  "en": [
+    {
+      "id": "witch-craft-works-1",
+      "number": "1",
+      "title": "Takamiya-kun And The Fire Sorceress",
+      "date": "2010/06/21",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-2",
+      "number": "2",
+      "title": "Takamiya-kun And The Witch With Animal Ears",
+      "date": "2010/08/02",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-3",
+      "number": "3",
+      "title": "Takamiya-kun And The Ivory Quintet",
+      "date": "2010/09/21",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-4",
+      "number": "4",
+      "title": "Takamiya-kun And The Witch`s Feelings",
+      "date": "2010/10/29",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-5",
+      "number": "5",
+      "title": "Takamiya-kun And The Cronoir's Trap",
+      "date": "2011/02/24",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-6",
+      "number": "6",
+      "title": "Takamiya-kun And Kagari San's Afternoon Lessons",
+      "date": "2011/05/23",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-7",
+      "number": "7",
+      "title": "Takamiya-kun And 6 The Witches",
+      "date": "2011/06/15",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-8",
+      "number": "8",
+      "title": "Takamiya-kun And The Gorgon Witch",
+      "date": "2011/07/23",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-9",
+      "number": "9",
+      "title": "",
+      "date": "2011/09/08",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-10",
+      "number": "10",
+      "title": "Takamiya-Kun And The Tougetsu Academy Hierarchy",
+      "date": "2011/11/11",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-11",
+      "number": "11",
+      "title": "Takamiya-Kun And The Trial Of Love",
+      "date": "2011/11/11",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-12",
+      "number": "12",
+      "title": "Takamiya-kun And Ms. Bad End",
+      "date": "2012/01/25",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-13",
+      "number": "13",
+      "title": "Takamiya-Kun And The Obligation Of Nobility",
+      "date": "2012/03/29",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-14",
+      "number": "14",
+      "title": "Takamiya-Kun And Kagari-San's Wound",
+      "date": "2012/06/13",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-15",
+      "number": "15",
+      "title": "Takamiya-kun and the Strong Armed Witch",
+      "date": "2012/08/20",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-16",
+      "number": "16",
+      "title": "Takamiya-kun and Kagari Sans After School Lessons",
+      "date": "2012/10/24",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-17",
+      "number": "17",
+      "title": "Takamiya-kun and the witch of the en",
+      "date": "2012/12/28",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-18",
+      "number": "18",
+      "title": "Takamiya-kun vs. Weekend 1",
+      "date": "2012/12/29",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-19",
+      "number": "19",
+      "title": "",
+      "date": "2013/02/09",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-20",
+      "number": "20",
+      "title": "Takamiya-kun vs. Weekend 3",
+      "date": "2013/03/11",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-22",
+      "number": "22",
+      "title": "Takamiya-kun vs. Weekend 5",
+      "date": "2013/05/17",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-23",
+      "number": "23",
+      "title": "Takamiya-kun vs. Weekend 6",
+      "date": "2013/08/16",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-24",
+      "number": "24",
+      "title": "Takamiya-kun vs. Weekend - Part 7",
+      "date": "2013/11/06",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-25",
+      "number": "25",
+      "title": "Takamiya-kun vs. Weekend - Part 8",
+      "date": "2013/11/21",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-26",
+      "number": "26",
+      "title": "",
+      "date": "2014/02/17",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-27",
+      "number": "27",
+      "title": "",
+      "date": "2014/02/22",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-28",
+      "number": "28",
+      "title": "Takamiya-kun and the Ice Witch",
+      "date": "2014/03/06",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-29",
+      "number": "29",
+      "title": "Takamiya-Kun And The Little Sister's Evil Conspiarcy",
+      "date": "2014/03/08",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-30",
+      "number": "30",
+      "title": "Takamiya-kun and the Return of The Kmm-Squad",
+      "date": "2014/03/10",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-31",
+      "number": "31",
+      "title": "Takamiya-kun and Tanuma-san's Calamity",
+      "date": "2014/03/10",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-32",
+      "number": "32",
+      "title": "Takamiya-kun and Operation Penguin Subjugation",
+      "date": "2014/03/19",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-33",
+      "number": "33",
+      "title": "Takamiya-kun and the hot springs trip",
+      "date": "2014/04/13",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-34",
+      "number": "34",
+      "title": "Takaimiya Kun and the Kagari Clan's Estate",
+      "date": "2014/05/11",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-35",
+      "number": "35",
+      "title": "Takamiya-kun and Kagari-san's Key",
+      "date": "2014/06/14",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-36",
+      "number": "36",
+      "title": "Takamiya-san And Tanuma-san's Theater",
+      "date": "2014/07/11",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-37",
+      "number": "37",
+      "title": "Takamiya-kun and Mama's Old Scar",
+      "date": "2014/09/09",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-38",
+      "number": "38",
+      "title": "Takamiya-kun and the Mikage Family's Circumstances",
+      "date": "2014/10/09",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-39",
+      "number": "39",
+      "title": "Takamiya-Kun And The Training Periods",
+      "date": "2014/11/09",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-40",
+      "number": "40",
+      "title": "Takamiya-kun and Kasumi-chan's Pinata",
+      "date": "2015/03/12",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-41",
+      "number": "41",
+      "title": "Takamiya-kun and Kasumi-chan's World (Opening Act)",
+      "date": "2015/03/12",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-42",
+      "number": "42",
+      "title": "Takamiya-kun and Kasumi-chan's World (Middle Act)",
+      "date": "2015/04/09",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-43",
+      "number": "43",
+      "title": "Takamiya-kun and Kasumi-chans World (Final Act)",
+      "date": "2015/05/08",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-44",
+      "number": "44",
+      "title": "Takamiya-kun and Kasumi-chan's World (Epilogue)",
+      "date": "2015/06/06",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-45",
+      "number": "45",
+      "title": "Takamiya-kun & Kagari-san's Summer Break Lessons",
+      "date": "2015/08/08",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-46",
+      "number": "46",
+      "title": "Takamiya-kun & the Witches Vacation",
+      "date": "2015/09/08",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-47",
+      "number": "47",
+      "title": "Weekend and Chronoire's World",
+      "date": "2015/11/07",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-48",
+      "number": "48",
+      "title": "Takamiya-kun and the Spider Witch",
+      "date": "2016/01/07",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-49",
+      "number": "49",
+      "title": "",
+      "date": "2016/04/08",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-50",
+      "number": "50",
+      "title": "",
+      "date": "2016/06/07",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-51",
+      "number": "51",
+      "title": "",
+      "date": "2016/06/08",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-52",
+      "number": "52",
+      "title": "",
+      "date": "2016/07/07",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-53",
+      "number": "53",
+      "title": "",
+      "date": "2016/08/07",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-54",
+      "number": "54",
+      "title": "",
+      "date": "2016/09/08",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-55",
+      "number": "55",
+      "title": "",
+      "date": "2017/01/10",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-56",
+      "number": "56",
+      "title": "",
+      "date": "2017/01/10",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-57",
+      "number": "57",
+      "title": "Takamiya-kun and the World in the Pendant, Part 7",
+      "date": "2017/05/22",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-58",
+      "number": "58",
+      "title": "Takamiya-kun and the World in the Pendant, Part 8",
+      "date": "2017/05/26",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-59",
+      "number": "59",
+      "title": "",
+      "date": "2017/05/30",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-60",
+      "number": "60",
+      "title": "",
+      "date": "2017/10/08",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-61",
+      "number": "61",
+      "title": "",
+      "date": "2017/10/08",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-62",
+      "number": "62",
+      "title": "",
+      "date": "2017/10/08",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-63",
+      "number": "63",
+      "title": "",
+      "date": "2017/10/08",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-64",
+      "number": "64",
+      "title": "",
+      "date": "2017/10/08",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-65",
+      "number": "65",
+      "title": "",
+      "date": "2017/10/08",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-66",
+      "number": "66",
+      "title": "Takamiya-kun and the Curse-Lifting Spell",
+      "date": "2017/11/13",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-67",
+      "number": "67",
+      "title": "",
+      "date": "2017/11/21",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-68",
+      "number": "68",
+      "title": "Takamiya-kun and Alcinas Scenario",
+      "date": "2018/02/11",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-69",
+      "number": "69",
+      "title": "",
+      "date": "2018/12/31",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-70",
+      "number": "70",
+      "title": "",
+      "date": "2018/12/31",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-71",
+      "number": "71",
+      "title": "",
+      "date": "2018/12/31",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-72",
+      "number": "72",
+      "title": "",
+      "date": "2018/12/31",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-73",
+      "number": "73",
+      "title": "",
+      "date": "2018/12/31",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-74",
+      "number": "74",
+      "title": "",
+      "date": "2018/12/31",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-75",
+      "number": "75",
+      "title": "",
+      "date": "2019/01/06",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-76",
+      "number": "76",
+      "title": "",
+      "date": "2019/01/06",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-77",
+      "number": "77",
+      "title": "",
+      "date": "2019/01/09",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-78",
+      "number": "78",
+      "title": "",
+      "date": "2019/01/09",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-79",
+      "number": "79",
+      "title": "",
+      "date": "2019/09/02",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-80",
+      "number": "80",
+      "title": "",
+      "date": "2019/09/02",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-81",
+      "number": "81",
+      "title": "",
+      "date": "2019/09/02",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-82",
+      "number": "82",
+      "title": "",
+      "date": "2019/09/02",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-83",
+      "number": "83",
+      "title": "Takamiya-kun VS. Alcina, Part 7",
+      "date": "2019/09/12",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-84",
+      "number": "84",
+      "title": "Takamiya-kun VS. Alcina, Part 8",
+      "date": "2020/07/28",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-85",
+      "number": "85",
+      "title": "Takamiya-kun VS Alcina, Part 9 + Takamiya-kun and Kagara-san’s Morning",
+      "date": "2020/09/02",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-86",
+      "number": "86",
+      "title": "Takamiya-kun VS. Alcina, Part 10",
+      "date": "2020/09/12",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-87",
+      "number": "87",
+      "title": "Takamiya-kun VS. Kayou, Part 1 + Takamiya-kun and the photo of memories",
+      "date": "2020/09/25",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-88",
+      "number": "88",
+      "title": "Takamiya-kun VS. Kayou, Part 2",
+      "date": "2020/10/09",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-89",
+      "number": "89",
+      "title": "Takamiya-kun VS. Kayou, Part 4",
+      "date": "2020/11/13",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-90",
+      "number": "90",
+      "title": "Takamiya-kun VS. Kayou, Part 3",
+      "date": "2020/11/13",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-91",
+      "number": "91",
+      "title": "Takamiya-kun VS. Kayou, Part 5",
+      "date": "2020/12/25",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-92",
+      "number": "92",
+      "title": "Takamiya-kun VS. Kayou, Part 6 + Takamiya-kun and Kasumi-chan's bride training",
+      "date": "2021/01/15",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-93",
+      "number": "93",
+      "title": "Takamiya-kun VS. Kayou, Part 7",
+      "date": "2021/02/24",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-94",
+      "number": "94",
+      "title": "Takamiya-Kun Vs Kayou Part 8",
+      "date": "2021/05/19",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-95",
+      "number": "95",
+      "title": "Takamiya-Kun Vs Kayou Part 9",
+      "date": "2021/07/13",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-96",
+      "number": "96",
+      "title": "",
+      "date": "2021/10/24",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-97",
+      "number": "97",
+      "title": "Takamiya vs Kayou",
+      "date": "2021/10/27",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-98",
+      "number": "98",
+      "title": "Kasumi-chan and Kemonomimi's different world adventure tan/ Kasumi-chan's legend of another world overlord",
+      "date": "2021/11/08",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-99",
+      "number": "99",
+      "title": "The Melancholy of Takkamiya and Arsina",
+      "date": "2021/11/08",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-100",
+      "number": "100",
+      "title": "Takkamiya-kun and Kasumi-chan",
+      "date": "2021/11/08",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-101",
+      "number": "101",
+      "title": "The essence of Takkamiya and the witch",
+      "date": "2021/11/14",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-102",
+      "number": "102",
+      "title": "Takkamiya-kun and the Winter Moon Festival",
+      "date": "2021/11/26",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-103",
+      "number": "103",
+      "title": "",
+      "date": "2021/12/12",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-104",
+      "number": "104",
+      "title": "",
+      "date": "2021/12/25",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-105",
+      "number": "105",
+      "title": "",
+      "date": "2022/01/18",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-106",
+      "number": "106",
+      "title": "Takamiya-kun and the Decision of the Banquet",
+      "date": "2022/02/16",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-107",
+      "number": "107",
+      "title": "",
+      "date": "2022/03/16",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-108",
+      "number": "108",
+      "title": "",
+      "date": "2022/04/17",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-109",
+      "number": "109",
+      "title": "",
+      "date": "2022/07/04",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-109e",
+      "number": "109e",
+      "title": "",
+      "date": "2022/07/04",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-109f",
+      "number": "109f",
+      "title": "",
+      "date": "2022/08/23",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-109g",
+      "number": "109g",
+      "title": "",
+      "date": "2022/10/08",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-109h",
+      "number": "109h",
+      "title": "Extra Part 5: Takamiya-kun and Kagari-san's Dissatisfaction",
+      "date": "2022/12/02",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-109i",
+      "number": "109i",
+      "title": "",
+      "date": "2023/03/23",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-110",
+      "number": "110",
+      "title": "",
+      "date": "2024/01/28",
+      "pages": []
+    },
+    {
+      "id": "witch-craft-works-110a",
+      "number": "110a",
+      "title": "",
+      "date": "2024/02/07",
+      "pages": []
+    }
+  ]
+}

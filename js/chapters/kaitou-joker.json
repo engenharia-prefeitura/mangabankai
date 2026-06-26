@@ -1,0 +1,550 @@
+{
+  "en": [
+    {
+      "id": "kaitou-joker-1",
+      "number": "1",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-2",
+      "number": "2",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-3",
+      "number": "3",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-4",
+      "number": "4",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-5",
+      "number": "5",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-6",
+      "number": "6",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-7",
+      "number": "7",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-8",
+      "number": "8",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-9",
+      "number": "9",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-10",
+      "number": "10",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-11",
+      "number": "11",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-12",
+      "number": "12",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-13",
+      "number": "13",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-14",
+      "number": "14",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-15",
+      "number": "15",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-16",
+      "number": "16",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-17",
+      "number": "17",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-18",
+      "number": "18",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-19",
+      "number": "19",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-20",
+      "number": "20",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-21",
+      "number": "21",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-22",
+      "number": "22",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-23",
+      "number": "23",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-24",
+      "number": "24",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-25",
+      "number": "25",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-26",
+      "number": "26",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-27",
+      "number": "27",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-28",
+      "number": "28",
+      "title": "",
+      "date": "2016/03/14",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-29",
+      "number": "29",
+      "title": "",
+      "date": "2016/03/14",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-30",
+      "number": "30",
+      "title": "",
+      "date": "2016/03/14",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-31",
+      "number": "31",
+      "title": "",
+      "date": "2016/04/15",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-32",
+      "number": "32",
+      "title": "",
+      "date": "2016/04/15",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-33",
+      "number": "33",
+      "title": "",
+      "date": "2016/04/20",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-34",
+      "number": "34",
+      "title": "",
+      "date": "2016/05/23",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-35",
+      "number": "35",
+      "title": "",
+      "date": "2016/05/23",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-36",
+      "number": "36",
+      "title": "",
+      "date": "2016/05/31",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-37",
+      "number": "37",
+      "title": "",
+      "date": "2016/06/22",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-38",
+      "number": "38",
+      "title": "",
+      "date": "2016/06/22",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-39",
+      "number": "39",
+      "title": "",
+      "date": "2016/06/22",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-40",
+      "number": "40",
+      "title": "",
+      "date": "2016/07/12",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-41",
+      "number": "41",
+      "title": "",
+      "date": "2016/09/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-42",
+      "number": "42",
+      "title": "",
+      "date": "2016/09/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-43",
+      "number": "43",
+      "title": "",
+      "date": "2016/10/09",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-44",
+      "number": "44",
+      "title": "",
+      "date": "2017/01/12",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-45",
+      "number": "45",
+      "title": "",
+      "date": "2017/01/12",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-46",
+      "number": "46",
+      "title": "",
+      "date": "2017/02/06",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-47",
+      "number": "47",
+      "title": "",
+      "date": "2017/02/06",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-48",
+      "number": "48",
+      "title": "",
+      "date": "2017/02/17",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-49",
+      "number": "49",
+      "title": "",
+      "date": "2017/03/13",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-50",
+      "number": "50",
+      "title": "",
+      "date": "2017/04/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-51",
+      "number": "51",
+      "title": "",
+      "date": "2017/04/19",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-52",
+      "number": "52",
+      "title": "",
+      "date": "2017/05/24",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-53",
+      "number": "53",
+      "title": "",
+      "date": "2017/05/24",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-54",
+      "number": "54",
+      "title": "",
+      "date": "2017/06/09",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-55",
+      "number": "55",
+      "title": "",
+      "date": "2017/06/09",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-56",
+      "number": "56",
+      "title": "",
+      "date": "2017/08/15",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-57",
+      "number": "57",
+      "title": "",
+      "date": "2017/08/15",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-58",
+      "number": "58",
+      "title": "",
+      "date": "2017/08/15",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-59",
+      "number": "59",
+      "title": "",
+      "date": "2017/08/15",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-60",
+      "number": "60",
+      "title": "",
+      "date": "2017/08/15",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-61",
+      "number": "61",
+      "title": "A Phantom Lurking on Campus",
+      "date": "2017/08/29",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-62",
+      "number": "62",
+      "title": "The Guardian Cloak of Dreams",
+      "date": "2021/08/02",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-63",
+      "number": "63",
+      "title": "The Dangerous Gourmet Party",
+      "date": "2021/08/02",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-64",
+      "number": "64",
+      "title": "King of the Lost Island",
+      "date": "2021/08/02",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-65",
+      "number": "65",
+      "title": "Underwater Monster in the City of Fog",
+      "date": "2021/08/02",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-66",
+      "number": "66",
+      "title": "The Phantom Classroom Murder Case 1",
+      "date": "2021/08/02",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-67",
+      "number": "67",
+      "title": "The Phantom Classroom Murder Case 2",
+      "date": "2021/08/02",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-68",
+      "number": "68",
+      "title": "The Adventure of Billion Quest",
+      "date": "2021/08/02",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-69",
+      "number": "69",
+      "title": "Super Fast!! Fire Ball Grand Prix",
+      "date": "2021/08/02",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-70",
+      "number": "70",
+      "title": "The Evil Ninja's Seal",
+      "date": "2021/08/02",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-71",
+      "number": "71",
+      "title": "",
+      "date": "2022/05/22",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-72",
+      "number": "72",
+      "title": "",
+      "date": "2022/05/22",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-72e",
+      "number": "72e",
+      "title": "",
+      "date": "2022/05/22",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-73",
+      "number": "73",
+      "title": "",
+      "date": "2022/05/22",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-74",
+      "number": "74",
+      "title": "",
+      "date": "2022/05/22",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-75",
+      "number": "75",
+      "title": "",
+      "date": "2022/05/22",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-76",
+      "number": "76",
+      "title": "",
+      "date": "2022/05/29",
+      "pages": []
+    },
+    {
+      "id": "kaitou-joker-77",
+      "number": "77",
+      "title": "",
+      "date": "2022/06/01",
+      "pages": []
+    }
+  ]
+}

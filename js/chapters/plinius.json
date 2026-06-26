@@ -1,0 +1,620 @@
+{
+  "en": [
+    {
+      "id": "plinius-1",
+      "number": "1",
+      "title": "",
+      "date": "2019/09/17",
+      "pages": []
+    },
+    {
+      "id": "plinius-2",
+      "number": "2",
+      "title": "",
+      "date": "2019/09/17",
+      "pages": []
+    },
+    {
+      "id": "plinius-3",
+      "number": "3",
+      "title": "",
+      "date": "2019/09/21",
+      "pages": []
+    },
+    {
+      "id": "plinius-4",
+      "number": "4",
+      "title": "",
+      "date": "2019/09/21",
+      "pages": []
+    },
+    {
+      "id": "plinius-5",
+      "number": "5",
+      "title": "",
+      "date": "2019/09/23",
+      "pages": []
+    },
+    {
+      "id": "plinius-6",
+      "number": "6",
+      "title": "Puteoli",
+      "date": "2019/09/26",
+      "pages": []
+    },
+    {
+      "id": "plinius-7",
+      "number": "7",
+      "title": "Palatinus",
+      "date": "2019/09/28",
+      "pages": []
+    },
+    {
+      "id": "plinius-8",
+      "number": "8",
+      "title": "Cithara",
+      "date": "2019/09/30",
+      "pages": []
+    },
+    {
+      "id": "plinius-9",
+      "number": "9",
+      "title": "",
+      "date": "2019/10/03",
+      "pages": []
+    },
+    {
+      "id": "plinius-10",
+      "number": "10",
+      "title": "",
+      "date": "2019/10/03",
+      "pages": []
+    },
+    {
+      "id": "plinius-11",
+      "number": "11",
+      "title": "Germania",
+      "date": "2019/10/07",
+      "pages": []
+    },
+    {
+      "id": "plinius-12",
+      "number": "12",
+      "title": "Plautina",
+      "date": "2019/10/07",
+      "pages": []
+    },
+    {
+      "id": "plinius-13",
+      "number": "13",
+      "title": "",
+      "date": "2019/10/12",
+      "pages": []
+    },
+    {
+      "id": "plinius-14",
+      "number": "14",
+      "title": "",
+      "date": "2019/10/12",
+      "pages": []
+    },
+    {
+      "id": "plinius-15",
+      "number": "15",
+      "title": "Gæa",
+      "date": "2019/10/17",
+      "pages": []
+    },
+    {
+      "id": "plinius-16",
+      "number": "16",
+      "title": "Unicornus",
+      "date": "2019/10/17",
+      "pages": []
+    },
+    {
+      "id": "plinius-17",
+      "number": "17",
+      "title": "Burrus",
+      "date": "2019/10/23",
+      "pages": []
+    },
+    {
+      "id": "plinius-18",
+      "number": "18",
+      "title": "Anna",
+      "date": "2019/10/23",
+      "pages": []
+    },
+    {
+      "id": "plinius-19",
+      "number": "19",
+      "title": "Appia",
+      "date": "2019/10/31",
+      "pages": []
+    },
+    {
+      "id": "plinius-20",
+      "number": "20",
+      "title": "Campania",
+      "date": "2019/10/31",
+      "pages": []
+    },
+    {
+      "id": "plinius-21",
+      "number": "21",
+      "title": "Serinum",
+      "date": "2019/11/07",
+      "pages": []
+    },
+    {
+      "id": "plinius-22",
+      "number": "22",
+      "title": "Pompeii",
+      "date": "2019/12/30",
+      "pages": []
+    },
+    {
+      "id": "plinius-23",
+      "number": "23",
+      "title": "Pozzolana",
+      "date": "2019/12/30",
+      "pages": []
+    },
+    {
+      "id": "plinius-24",
+      "number": "24",
+      "title": "",
+      "date": "2023/03/11",
+      "pages": []
+    },
+    {
+      "id": "plinius-25",
+      "number": "25",
+      "title": "",
+      "date": "2023/03/18",
+      "pages": []
+    },
+    {
+      "id": "plinius-26",
+      "number": "26",
+      "title": "",
+      "date": "2023/03/27",
+      "pages": []
+    },
+    {
+      "id": "plinius-27",
+      "number": "27",
+      "title": "",
+      "date": "2023/04/13",
+      "pages": []
+    },
+    {
+      "id": "plinius-28",
+      "number": "28",
+      "title": "",
+      "date": "2023/04/15",
+      "pages": []
+    },
+    {
+      "id": "plinius-29",
+      "number": "29",
+      "title": "Larcius",
+      "date": "2023/04/18",
+      "pages": []
+    },
+    {
+      "id": "plinius-30",
+      "number": "30",
+      "title": "",
+      "date": "2023/04/21",
+      "pages": []
+    },
+    {
+      "id": "plinius-31",
+      "number": "31",
+      "title": "",
+      "date": "2023/04/26",
+      "pages": []
+    },
+    {
+      "id": "plinius-32",
+      "number": "32",
+      "title": "",
+      "date": "2023/04/28",
+      "pages": []
+    },
+    {
+      "id": "plinius-33",
+      "number": "33",
+      "title": "",
+      "date": "2023/05/02",
+      "pages": []
+    },
+    {
+      "id": "plinius-34",
+      "number": "34",
+      "title": "",
+      "date": "2023/05/08",
+      "pages": []
+    },
+    {
+      "id": "plinius-35",
+      "number": "35",
+      "title": "",
+      "date": "2023/05/10",
+      "pages": []
+    },
+    {
+      "id": "plinius-36",
+      "number": "36",
+      "title": "",
+      "date": "2023/05/19",
+      "pages": []
+    },
+    {
+      "id": "plinius-37",
+      "number": "37",
+      "title": "",
+      "date": "2023/05/21",
+      "pages": []
+    },
+    {
+      "id": "plinius-38",
+      "number": "38",
+      "title": "",
+      "date": "2023/05/28",
+      "pages": []
+    },
+    {
+      "id": "plinius-39",
+      "number": "39",
+      "title": "",
+      "date": "2023/06/03",
+      "pages": []
+    },
+    {
+      "id": "plinius-40",
+      "number": "40",
+      "title": "",
+      "date": "2023/06/11",
+      "pages": []
+    },
+    {
+      "id": "plinius-41",
+      "number": "41",
+      "title": "",
+      "date": "2023/06/18",
+      "pages": []
+    },
+    {
+      "id": "plinius-42",
+      "number": "42",
+      "title": "",
+      "date": "2023/06/25",
+      "pages": []
+    },
+    {
+      "id": "plinius-43",
+      "number": "43",
+      "title": "",
+      "date": "2023/07/03",
+      "pages": []
+    },
+    {
+      "id": "plinius-44",
+      "number": "44",
+      "title": "Silenos",
+      "date": "2023/07/09",
+      "pages": []
+    },
+    {
+      "id": "plinius-45",
+      "number": "45",
+      "title": "",
+      "date": "2023/07/13",
+      "pages": []
+    },
+    {
+      "id": "plinius-46",
+      "number": "46",
+      "title": "",
+      "date": "2023/07/19",
+      "pages": []
+    },
+    {
+      "id": "plinius-47",
+      "number": "47",
+      "title": "",
+      "date": "2023/08/04",
+      "pages": []
+    },
+    {
+      "id": "plinius-48",
+      "number": "48",
+      "title": "",
+      "date": "2023/08/17",
+      "pages": []
+    },
+    {
+      "id": "plinius-49",
+      "number": "49",
+      "title": "",
+      "date": "2023/09/24",
+      "pages": []
+    },
+    {
+      "id": "plinius-50",
+      "number": "50",
+      "title": "",
+      "date": "2023/10/16",
+      "pages": []
+    },
+    {
+      "id": "plinius-51",
+      "number": "51",
+      "title": "",
+      "date": "2023/11/07",
+      "pages": []
+    },
+    {
+      "id": "plinius-52",
+      "number": "52",
+      "title": "",
+      "date": "2023/11/07",
+      "pages": []
+    },
+    {
+      "id": "plinius-53",
+      "number": "53",
+      "title": "",
+      "date": "2023/11/07",
+      "pages": []
+    },
+    {
+      "id": "plinius-54",
+      "number": "54",
+      "title": "",
+      "date": "2024/04/15",
+      "pages": []
+    },
+    {
+      "id": "plinius-55",
+      "number": "55",
+      "title": "",
+      "date": "2024/04/17",
+      "pages": []
+    },
+    {
+      "id": "plinius-56",
+      "number": "56",
+      "title": "",
+      "date": "2024/08/06",
+      "pages": []
+    },
+    {
+      "id": "plinius-57",
+      "number": "57",
+      "title": "",
+      "date": "2024/08/06",
+      "pages": []
+    },
+    {
+      "id": "plinius-58",
+      "number": "58",
+      "title": "",
+      "date": "2024/10/16",
+      "pages": []
+    },
+    {
+      "id": "plinius-59",
+      "number": "59",
+      "title": "",
+      "date": "2024/12/04",
+      "pages": []
+    },
+    {
+      "id": "plinius-60",
+      "number": "60",
+      "title": "",
+      "date": "2025/08/04",
+      "pages": []
+    },
+    {
+      "id": "plinius-61",
+      "number": "61",
+      "title": "",
+      "date": "2025/08/04",
+      "pages": []
+    },
+    {
+      "id": "plinius-62",
+      "number": "62",
+      "title": "",
+      "date": "2025/08/05",
+      "pages": []
+    },
+    {
+      "id": "plinius-63",
+      "number": "63",
+      "title": "",
+      "date": "2025/08/06",
+      "pages": []
+    },
+    {
+      "id": "plinius-63e",
+      "number": "63e",
+      "title": "",
+      "date": "2025/08/06",
+      "pages": []
+    },
+    {
+      "id": "plinius-64",
+      "number": "64",
+      "title": "",
+      "date": "2025/08/07",
+      "pages": []
+    },
+    {
+      "id": "plinius-65",
+      "number": "65",
+      "title": "",
+      "date": "2025/08/08",
+      "pages": []
+    },
+    {
+      "id": "plinius-66",
+      "number": "66",
+      "title": "",
+      "date": "2025/08/09",
+      "pages": []
+    },
+    {
+      "id": "plinius-67",
+      "number": "67",
+      "title": "",
+      "date": "2025/08/10",
+      "pages": []
+    },
+    {
+      "id": "plinius-68",
+      "number": "68",
+      "title": "",
+      "date": "2025/08/11",
+      "pages": []
+    },
+    {
+      "id": "plinius-69",
+      "number": "69",
+      "title": "",
+      "date": "2025/08/12",
+      "pages": []
+    },
+    {
+      "id": "plinius-70",
+      "number": "70",
+      "title": "",
+      "date": "2025/08/13",
+      "pages": []
+    },
+    {
+      "id": "plinius-70e",
+      "number": "70e",
+      "title": "",
+      "date": "2025/08/13",
+      "pages": []
+    },
+    {
+      "id": "plinius-71",
+      "number": "71",
+      "title": "",
+      "date": "2025/08/14",
+      "pages": []
+    },
+    {
+      "id": "plinius-72",
+      "number": "72",
+      "title": "",
+      "date": "2025/08/15",
+      "pages": []
+    },
+    {
+      "id": "plinius-73",
+      "number": "73",
+      "title": "",
+      "date": "2025/08/16",
+      "pages": []
+    },
+    {
+      "id": "plinius-74",
+      "number": "74",
+      "title": "",
+      "date": "2025/08/17",
+      "pages": []
+    },
+    {
+      "id": "plinius-75",
+      "number": "75",
+      "title": "",
+      "date": "2025/08/18",
+      "pages": []
+    },
+    {
+      "id": "plinius-76",
+      "number": "76",
+      "title": "",
+      "date": "2025/08/19",
+      "pages": []
+    },
+    {
+      "id": "plinius-77",
+      "number": "77",
+      "title": "",
+      "date": "2025/08/22",
+      "pages": []
+    },
+    {
+      "id": "plinius-77e",
+      "number": "77e",
+      "title": "",
+      "date": "2025/08/20",
+      "pages": []
+    },
+    {
+      "id": "plinius-78",
+      "number": "78",
+      "title": "",
+      "date": "2025/08/22",
+      "pages": []
+    },
+    {
+      "id": "plinius-79",
+      "number": "79",
+      "title": "",
+      "date": "2025/08/22",
+      "pages": []
+    },
+    {
+      "id": "plinius-80",
+      "number": "80",
+      "title": "",
+      "date": "2025/08/23",
+      "pages": []
+    },
+    {
+      "id": "plinius-81",
+      "number": "81",
+      "title": "",
+      "date": "2025/08/24",
+      "pages": []
+    },
+    {
+      "id": "plinius-82",
+      "number": "82",
+      "title": "",
+      "date": "2025/08/25",
+      "pages": []
+    },
+    {
+      "id": "plinius-83",
+      "number": "83",
+      "title": "",
+      "date": "2025/08/26",
+      "pages": []
+    },
+    {
+      "id": "plinius-84",
+      "number": "84",
+      "title": "",
+      "date": "2025/08/27",
+      "pages": []
+    },
+    {
+      "id": "plinius-84e",
+      "number": "84e",
+      "title": "",
+      "date": "2025/08/27",
+      "pages": []
+    }
+  ]
+}

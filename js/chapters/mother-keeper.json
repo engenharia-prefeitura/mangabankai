@@ -1,0 +1,508 @@
+{
+  "en": [
+    {
+      "id": "mother-keeper-1",
+      "number": "1",
+      "title": "Eden",
+      "date": "2009/11/11",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-2",
+      "number": "2",
+      "title": "Mother",
+      "date": "2009/11/11",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-3",
+      "number": "3",
+      "title": "Open Combat",
+      "date": "2009/11/11",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-4",
+      "number": "4",
+      "title": "Open Combat 2",
+      "date": "2009/11/11",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-5",
+      "number": "5",
+      "title": "VS",
+      "date": "2009/11/11",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-6",
+      "number": "6",
+      "title": "Tears",
+      "date": "2009/11/11",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-7",
+      "number": "7",
+      "title": "Each Purpose",
+      "date": "2009/11/12",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-8",
+      "number": "8",
+      "title": "Difference",
+      "date": "2010/01/08",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-9",
+      "number": "9",
+      "title": "Chaos Tide",
+      "date": "2010/01/08",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-10",
+      "number": "10",
+      "title": "Distraction",
+      "date": "2010/01/21",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-11",
+      "number": "11",
+      "title": "",
+      "date": "2010/03/03",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-12",
+      "number": "12",
+      "title": "Adam",
+      "date": "2010/05/14",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-13",
+      "number": "13",
+      "title": "Insanity",
+      "date": "2010/07/08",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-14",
+      "number": "14",
+      "title": "Last Weapon",
+      "date": "2010/07/24",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-15",
+      "number": "15",
+      "title": "Garden",
+      "date": "2010/08/28",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-16",
+      "number": "16",
+      "title": "Cocytus",
+      "date": "2010/08/28",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-17",
+      "number": "17",
+      "title": "Dont You Get It?",
+      "date": "2010/09/10",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-18",
+      "number": "18",
+      "title": "Emperor",
+      "date": "2010/10/02",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-19",
+      "number": "19",
+      "title": "Code 499",
+      "date": "2010/10/18",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-20",
+      "number": "20",
+      "title": "Just Back",
+      "date": "2010/11/03",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-21",
+      "number": "21",
+      "title": "Zerik",
+      "date": "2011/01/01",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-22",
+      "number": "22",
+      "title": "",
+      "date": "2011/05/02",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-23",
+      "number": "23",
+      "title": "",
+      "date": "2011/05/02",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-24",
+      "number": "24",
+      "title": "",
+      "date": "2011/05/24",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-25",
+      "number": "25",
+      "title": "",
+      "date": "2011/06/23",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-26",
+      "number": "26",
+      "title": "",
+      "date": "2011/07/15",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-27",
+      "number": "27",
+      "title": "",
+      "date": "2011/08/12",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-28",
+      "number": "28",
+      "title": "",
+      "date": "2011/08/14",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-29",
+      "number": "29",
+      "title": "",
+      "date": "2011/08/24",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-30",
+      "number": "30",
+      "title": "",
+      "date": "2011/09/12",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-31",
+      "number": "31",
+      "title": "",
+      "date": "2011/12/06",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-32",
+      "number": "32",
+      "title": "",
+      "date": "2011/12/15",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-33",
+      "number": "33",
+      "title": "",
+      "date": "2011/12/25",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-34",
+      "number": "34",
+      "title": "",
+      "date": "2012/03/06",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-35",
+      "number": "35",
+      "title": "",
+      "date": "2012/04/30",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-36",
+      "number": "36",
+      "title": "",
+      "date": "2012/06/27",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-37",
+      "number": "37",
+      "title": "",
+      "date": "2013/08/22",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-38",
+      "number": "38",
+      "title": "",
+      "date": "2013/09/29",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-39",
+      "number": "39",
+      "title": "",
+      "date": "2013/10/16",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-40",
+      "number": "40",
+      "title": "",
+      "date": "2013/10/28",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-41",
+      "number": "41",
+      "title": "",
+      "date": "2013/11/29",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-42",
+      "number": "42",
+      "title": "",
+      "date": "2014/01/01",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-43",
+      "number": "43",
+      "title": "",
+      "date": "2014/01/01",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-44",
+      "number": "44",
+      "title": "",
+      "date": "2014/02/04",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-45",
+      "number": "45",
+      "title": "",
+      "date": "2014/05/28",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-46",
+      "number": "46",
+      "title": "",
+      "date": "2014/06/11",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-47",
+      "number": "47",
+      "title": "",
+      "date": "2014/07/22",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-48",
+      "number": "48",
+      "title": "",
+      "date": "2014/09/08",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-49",
+      "number": "49",
+      "title": "",
+      "date": "2014/09/30",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-50",
+      "number": "50",
+      "title": "",
+      "date": "2015/01/05",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-51",
+      "number": "51",
+      "title": "",
+      "date": "2015/03/18",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-52",
+      "number": "52",
+      "title": "",
+      "date": "2015/04/18",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-53",
+      "number": "53",
+      "title": "",
+      "date": "2015/06/30",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-54",
+      "number": "54",
+      "title": "",
+      "date": "2015/07/21",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-55",
+      "number": "55",
+      "title": "",
+      "date": "2015/08/13",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-56",
+      "number": "56",
+      "title": "",
+      "date": "2015/10/26",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-57",
+      "number": "57",
+      "title": "",
+      "date": "2015/10/26",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-58",
+      "number": "58",
+      "title": "",
+      "date": "2015/11/24",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-59",
+      "number": "59",
+      "title": "",
+      "date": "2015/12/26",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-60",
+      "number": "60",
+      "title": "",
+      "date": "2015/12/26",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-61",
+      "number": "61",
+      "title": "",
+      "date": "2016/03/08",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-62",
+      "number": "62",
+      "title": "",
+      "date": "2016/03/08",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-63",
+      "number": "63",
+      "title": "",
+      "date": "2016/03/08",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-64",
+      "number": "64",
+      "title": "",
+      "date": "2016/03/08",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-65",
+      "number": "65",
+      "title": "",
+      "date": "2016/03/08",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-66",
+      "number": "66",
+      "title": "",
+      "date": "2016/03/08",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-67",
+      "number": "67",
+      "title": "",
+      "date": "2016/03/12",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-68",
+      "number": "68",
+      "title": "",
+      "date": "2016/03/12",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-69",
+      "number": "69",
+      "title": "",
+      "date": "2016/03/12",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-70",
+      "number": "70",
+      "title": "",
+      "date": "2016/03/12",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-71",
+      "number": "71",
+      "title": "",
+      "date": "2016/03/12",
+      "pages": []
+    },
+    {
+      "id": "mother-keeper-72",
+      "number": "72",
+      "title": "",
+      "date": "2016/03/13",
+      "pages": []
+    }
+  ]
+}

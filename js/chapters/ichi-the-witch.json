@@ -1,0 +1,858 @@
+{
+  "en": [
+    {
+      "id": "ichi-the-witch-1",
+      "number": "1",
+      "title": "",
+      "date": "2024/12/17",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-2",
+      "number": "2",
+      "title": "",
+      "date": "2024/12/17",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-3",
+      "number": "3",
+      "title": "",
+      "date": "2024/12/17",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-4",
+      "number": "4",
+      "title": "",
+      "date": "2024/12/17",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-5",
+      "number": "5",
+      "title": "",
+      "date": "2024/12/17",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-6",
+      "number": "6",
+      "title": "",
+      "date": "2024/12/17",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-7",
+      "number": "7",
+      "title": "",
+      "date": "2024/12/17",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-8",
+      "number": "8",
+      "title": "",
+      "date": "2024/12/17",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-9",
+      "number": "9",
+      "title": "",
+      "date": "2024/12/17",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-10",
+      "number": "10",
+      "title": "",
+      "date": "2024/12/17",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-11",
+      "number": "11",
+      "title": "",
+      "date": "2024/12/17",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-12",
+      "number": "12",
+      "title": "",
+      "date": "2024/12/17",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-13",
+      "number": "13",
+      "title": "",
+      "date": "2024/12/17",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-14",
+      "number": "14",
+      "title": "",
+      "date": "2024/12/17",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-15",
+      "number": "15",
+      "title": "",
+      "date": "2024/12/17",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-16",
+      "number": "16",
+      "title": "",
+      "date": "2024/12/23",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-17",
+      "number": "17",
+      "title": "",
+      "date": "2025/01/03",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-18",
+      "number": "18",
+      "title": "",
+      "date": "2025/01/19",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-19",
+      "number": "19",
+      "title": "",
+      "date": "2025/01/26",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-20",
+      "number": "20",
+      "title": "",
+      "date": "2025/02/02",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-21",
+      "number": "21",
+      "title": "",
+      "date": "2025/02/09",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-22",
+      "number": "22",
+      "title": "",
+      "date": "2025/02/16",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-23",
+      "number": "23",
+      "title": "",
+      "date": "2025/02/23",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-24",
+      "number": "24",
+      "title": "",
+      "date": "2025/03/02",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-25",
+      "number": "25",
+      "title": "",
+      "date": "2025/03/09",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-26",
+      "number": "26",
+      "title": "",
+      "date": "2025/03/16",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-27",
+      "number": "27",
+      "title": "",
+      "date": "2025/03/23",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-28",
+      "number": "28",
+      "title": "",
+      "date": "2025/03/30",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-29",
+      "number": "29",
+      "title": "",
+      "date": "2025/04/06",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-30",
+      "number": "30",
+      "title": "",
+      "date": "2025/04/13",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-31",
+      "number": "31",
+      "title": "",
+      "date": "2025/04/20",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-32",
+      "number": "32",
+      "title": "",
+      "date": "2025/04/27",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-33",
+      "number": "33",
+      "title": "",
+      "date": "2025/05/11",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-34",
+      "number": "34",
+      "title": "",
+      "date": "2025/05/19",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-35",
+      "number": "35",
+      "title": "",
+      "date": "2025/05/25",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-36",
+      "number": "36",
+      "title": "",
+      "date": "2025/06/01",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-37",
+      "number": "37",
+      "title": "",
+      "date": "2025/06/08",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-38",
+      "number": "38",
+      "title": "",
+      "date": "2025/06/15",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-39",
+      "number": "39",
+      "title": "",
+      "date": "2025/06/22",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-40",
+      "number": "40",
+      "title": "",
+      "date": "2025/06/29",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-41",
+      "number": "41",
+      "title": "",
+      "date": "2025/07/06",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-42",
+      "number": "42",
+      "title": "",
+      "date": "2025/07/13",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-43",
+      "number": "43",
+      "title": "",
+      "date": "2025/07/20",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-44",
+      "number": "44",
+      "title": "",
+      "date": "2025/07/27",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-45",
+      "number": "45",
+      "title": "",
+      "date": "2025/08/03",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-46",
+      "number": "46",
+      "title": "",
+      "date": "2025/08/17",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-47",
+      "number": "47",
+      "title": "",
+      "date": "2025/08/24",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-48",
+      "number": "48",
+      "title": "",
+      "date": "2025/08/31",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-49",
+      "number": "49",
+      "title": "",
+      "date": "2025/09/07",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-50",
+      "number": "50",
+      "title": "",
+      "date": "2025/09/14",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-51",
+      "number": "51",
+      "title": "",
+      "date": "2025/09/21",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-52",
+      "number": "52",
+      "title": "",
+      "date": "2025/09/28",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-53",
+      "number": "53",
+      "title": "",
+      "date": "2025/10/05",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-54",
+      "number": "54",
+      "title": "",
+      "date": "2025/10/12",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-55",
+      "number": "55",
+      "title": "",
+      "date": "2025/10/19",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-56",
+      "number": "56",
+      "title": "",
+      "date": "2025/10/26",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-57",
+      "number": "57",
+      "title": "",
+      "date": "2025/11/02",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-58",
+      "number": "58",
+      "title": "",
+      "date": "2025/11/09",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-59",
+      "number": "59",
+      "title": "",
+      "date": "2025/11/16",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-60",
+      "number": "60",
+      "title": "",
+      "date": "2025/11/23",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-61",
+      "number": "61",
+      "title": "",
+      "date": "2025/11/30",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-62",
+      "number": "62",
+      "title": "",
+      "date": "2025/12/07",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-63",
+      "number": "63",
+      "title": "",
+      "date": "2025/12/14",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-64",
+      "number": "64",
+      "title": "",
+      "date": "2025/12/21",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-65",
+      "number": "65",
+      "title": "",
+      "date": "2026/01/04",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-66",
+      "number": "66",
+      "title": "",
+      "date": "2026/01/18",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-67",
+      "number": "67",
+      "title": "",
+      "date": "2026/01/25",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-68",
+      "number": "68",
+      "title": "",
+      "date": "2026/02/01",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-69",
+      "number": "69",
+      "title": "",
+      "date": "2026/02/08",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-70",
+      "number": "70",
+      "title": "",
+      "date": "2026/02/15",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-71",
+      "number": "71",
+      "title": "",
+      "date": "2026/02/22",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-72",
+      "number": "72",
+      "title": "",
+      "date": "2026/03/01",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-73",
+      "number": "73",
+      "title": "",
+      "date": "2026/03/08",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-74",
+      "number": "74",
+      "title": "",
+      "date": "2026/03/15",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-75",
+      "number": "75",
+      "title": "",
+      "date": "2026/03/22",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-76",
+      "number": "76",
+      "title": "",
+      "date": "2026/03/29",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-77",
+      "number": "77",
+      "title": "",
+      "date": "2026/04/05",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-78",
+      "number": "78",
+      "title": "",
+      "date": "2026/04/12",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-79",
+      "number": "79",
+      "title": "",
+      "date": "2026/04/19",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-80",
+      "number": "80",
+      "title": "",
+      "date": "2026/04/26",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-81",
+      "number": "81",
+      "title": "",
+      "date": "2026/05/10",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-82",
+      "number": "82",
+      "title": "",
+      "date": "2026/05/17",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-83",
+      "number": "83",
+      "title": "",
+      "date": "2026/05/24",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-84",
+      "number": "84",
+      "title": "",
+      "date": "2026/05/31",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-85",
+      "number": "85",
+      "title": "",
+      "date": "2026/06/07",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-86",
+      "number": "86",
+      "title": "",
+      "date": "2026/06/14",
+      "pages": []
+    },
+    {
+      "id": "ichi-the-witch-87",
+      "number": "87",
+      "title": "",
+      "date": "2026/06/21",
+      "pages": []
+    }
+  ],
+  "pt": [
+    {
+      "id": "ichi-the-witch-chapter-1",
+      "number": 1,
+      "title": "Madan no Ichi – Capítulo 1 – ª Caçada: Ichi",
+      "date": "2025-03-28T05:01:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 10296
+    },
+    {
+      "id": "ichi-the-witch-chapter-2",
+      "number": 2,
+      "title": "Madan no Ichi – Capítulo 2 – Magia Uroro",
+      "date": "2025-03-28T05:01:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 10323
+    },
+    {
+      "id": "ichi-the-witch-chapter-3",
+      "number": 3,
+      "title": "Madan no Ichi – Capítulo 3 – ª Caçada: A Magia Raiko",
+      "date": "2025-03-28T05:01:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 10516
+    },
+    {
+      "id": "ichi-the-witch-chapter-4",
+      "number": 4,
+      "title": "Madan no Ichi – Capítulo 4 – Capital Natalie",
+      "date": "2025-03-28T05:01:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 10530
+    },
+    {
+      "id": "ichi-the-witch-chapter-5",
+      "number": 5,
+      "title": "Madan no Ichi – Capítulo 5 – A Bruxa da Análise, Shirabe Donna",
+      "date": "2025-03-28T05:01:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 10610
+    },
+    {
+      "id": "ichi-the-witch-chapter-6",
+      "number": 6,
+      "title": "Madan no Ichi – Capítulo 6 – Equipe Death Crow",
+      "date": "2025-03-28T05:02:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 10684
+    },
+    {
+      "id": "ichi-the-witch-chapter-7",
+      "number": 7,
+      "title": "Madan no Ichi – Capítulo 7 – Magia Hisame (Parte 1)",
+      "date": "2025-03-28T05:02:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 10759
+    },
+    {
+      "id": "ichi-the-witch-chapter-8",
+      "number": 8,
+      "title": "Madan no Ichi – Capítulo 8 – Magia Hisame (Parte 2)",
+      "date": "2025-03-28T05:02:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 10858
+    },
+    {
+      "id": "ichi-the-witch-chapter-9",
+      "number": 9,
+      "title": "Madan no Ichi – Capítulo 9 – Magia Hisame (Parte 3)",
+      "date": "2025-03-28T05:03:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 10930
+    },
+    {
+      "id": "ichi-the-witch-chapter-10",
+      "number": 10,
+      "title": "Madan no Ichi – Capítulo 10 – Magia Hisame (Parte 4)",
+      "date": "2025-03-28T05:03:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 11007
+    },
+    {
+      "id": "ichi-the-witch-chapter-11",
+      "number": 11,
+      "title": "Madan no Ichi – Capítulo 11 – Reunião das Bruxas",
+      "date": "2025-03-28T05:03:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 11083
+    },
+    {
+      "id": "ichi-the-witch-chapter-12",
+      "number": 12,
+      "title": "Madan no Ichi – Capítulo 12 – Magia Kindake",
+      "date": "2025-03-28T05:03:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 11171
+    },
+    {
+      "id": "ichi-the-witch-chapter-13",
+      "number": 13,
+      "title": "Madan no Ichi – Capítulo 13 – A Bruxa da Neve Prateada",
+      "date": "2025-03-28T05:03:58Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 11253
+    },
+    {
+      "id": "ichi-the-witch-chapter-14",
+      "number": 14,
+      "title": "Madan no Ichi – Capítulo 14 – ª Caçada: ???",
+      "date": "2025-03-28T05:04:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 11405
+    },
+    {
+      "id": "ichi-the-witch-chapter-15",
+      "number": 15,
+      "title": "Madan no Ichi – Capítulo 15 – Alarme de Magia Suprema",
+      "date": "2025-03-28T05:04:36Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 11427
+    },
+    {
+      "id": "ichi-the-witch-chapter-16",
+      "number": 16,
+      "title": "Madan no Ichi – Capítulo 16 – ª Caçada: A Magia Anti-Mundo",
+      "date": "2025-03-28T05:05:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 11587
+    },
+    {
+      "id": "ichi-the-witch-chapter-17",
+      "number": 17,
+      "title": "Madan no Ichi – Capítulo 17 – Presunçoso",
+      "date": "2025-03-28T05:05:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 11597
+    },
+    {
+      "id": "ichi-the-witch-chapter-18",
+      "number": 18,
+      "title": "Madan no Ichi – Capítulo 18 – A Bruxa do Abismo, Death Crow",
+      "date": "2025-03-28T05:05:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 11677
+    },
+    {
+      "id": "ichi-the-witch-chapter-19",
+      "number": 19,
+      "title": "Madan no Ichi – Capítulo 19 – Círculo Mágico",
+      "date": "2025-03-28T05:05:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 11833
+    },
+    {
+      "id": "ichi-the-witch-chapter-20",
+      "number": 20,
+      "title": "Madan no Ichi – Capítulo 20 – A Bruxa da Profecia",
+      "date": "2025-03-28T05:06:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 11943
+    },
+    {
+      "id": "ichi-the-witch-chapter-21",
+      "number": 21,
+      "title": "Madan no Ichi – Capítulo 21 – Forma de Viver",
+      "date": "2025-03-28T05:06:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 12020
+    },
+    {
+      "id": "ichi-the-witch-chapter-22",
+      "number": 22,
+      "title": "Madan no Ichi – Capítulo 22 – Contrato de Sangue Entre Mestre e Discípulo",
+      "date": "2025-03-28T05:06:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 12101
+    },
+    {
+      "id": "ichi-the-witch-chapter-23",
+      "number": 23,
+      "title": "Madan no Ichi – Capítulo 23 – Gokuraku, o Torturador",
+      "date": "2025-03-28T05:07:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 12194
+    },
+    {
+      "id": "ichi-the-witch-chapter-24",
+      "number": 24,
+      "title": "Madan no Ichi – Capítulo 24 – O Bruxo e Gokuraku",
+      "date": "2025-03-28T05:07:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 12270
+    },
+    {
+      "id": "ichi-the-witch-chapter-25",
+      "number": 25,
+      "title": "Madan no Ichi – Capítulo 25 – O País da Felicidade",
+      "date": "2025-03-28T05:07:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 12358
+    },
+    {
+      "id": "ichi-the-witch-chapter-26",
+      "number": 26,
+      "title": "Madan no Ichi – Capítulo 26 – Bakugami-sama",
+      "date": "2025-03-28T05:08:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 12451
+    },
+    {
+      "id": "ichi-the-witch-chapter-27",
+      "number": 27,
+      "title": "Madan no Ichi – Capítulo 27 – Procurado",
+      "date": "2025-03-28T05:08:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 12526
+    }
+  ]
+}

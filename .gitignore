@@ -1,0 +1,22 @@
+node_modules/
+
+# Variáveis de ambiente
+.env
+.env.local
+.env.*.local
+
+# Vercel CLI (não necessário com integração GitHub)
+.vercel/
+
+# Arquivos gerados pelo build (a Vercel gera durante o deploy)
+js/data-lite.js
+js/home.json
+js/manga-search.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*

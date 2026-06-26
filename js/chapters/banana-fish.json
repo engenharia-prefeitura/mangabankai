@@ -1,0 +1,868 @@
+{
+  "pt": [
+    {
+      "id": "banana-fish-chapter-1",
+      "number": 1,
+      "title": "Banana Fish – Capítulo 1",
+      "date": "2025-05-23T23:14:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 606731
+    },
+    {
+      "id": "banana-fish-chapter-2",
+      "number": 2,
+      "title": "Banana Fish – Capítulo 2",
+      "date": "2025-05-23T23:14:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 606732
+    },
+    {
+      "id": "banana-fish-chapter-3",
+      "number": 3,
+      "title": "Banana Fish – Capítulo 3",
+      "date": "2025-05-23T23:14:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 606737
+    },
+    {
+      "id": "banana-fish-chapter-4",
+      "number": 4,
+      "title": "Banana Fish – Capítulo 4",
+      "date": "2025-05-23T23:14:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 606739
+    },
+    {
+      "id": "banana-fish-chapter-5",
+      "number": 5,
+      "title": "Banana Fish – Capítulo 5",
+      "date": "2025-05-23T23:14:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 606735
+    },
+    {
+      "id": "banana-fish-chapter-6",
+      "number": 6,
+      "title": "Banana Fish – Capítulo 6",
+      "date": "2025-05-23T23:14:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 606733
+    },
+    {
+      "id": "banana-fish-chapter-7",
+      "number": 7,
+      "title": "Banana Fish – Capítulo 7",
+      "date": "2025-05-23T23:14:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 606736
+    },
+    {
+      "id": "banana-fish-chapter-8",
+      "number": 8,
+      "title": "Banana Fish – Capítulo 8",
+      "date": "2025-05-23T23:14:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 606734
+    },
+    {
+      "id": "banana-fish-chapter-9",
+      "number": 9,
+      "title": "Banana Fish – Capítulo 9",
+      "date": "2025-05-23T23:14:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 606738
+    },
+    {
+      "id": "banana-fish-chapter-10",
+      "number": 10,
+      "title": "Banana Fish – Capítulo 10",
+      "date": "2025-05-23T23:14:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 606740
+    },
+    {
+      "id": "banana-fish-chapter-11",
+      "number": 11,
+      "title": "Banana Fish – Capítulo 11",
+      "date": "2025-05-23T23:15:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607162
+    },
+    {
+      "id": "banana-fish-chapter-12",
+      "number": 12,
+      "title": "Banana Fish – Capítulo 12",
+      "date": "2025-05-23T23:15:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607167
+    },
+    {
+      "id": "banana-fish-chapter-13",
+      "number": 13,
+      "title": "Banana Fish – Capítulo 13",
+      "date": "2025-05-23T23:15:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607169
+    },
+    {
+      "id": "banana-fish-chapter-14",
+      "number": 14,
+      "title": "Banana Fish – Capítulo 14",
+      "date": "2025-05-23T23:15:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607171
+    },
+    {
+      "id": "banana-fish-chapter-15",
+      "number": 15,
+      "title": "Banana Fish – Capítulo 15",
+      "date": "2025-05-23T23:15:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607163
+    },
+    {
+      "id": "banana-fish-chapter-16",
+      "number": 16,
+      "title": "Banana Fish – Capítulo 16",
+      "date": "2025-05-23T23:15:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607168
+    },
+    {
+      "id": "banana-fish-chapter-17",
+      "number": 17,
+      "title": "Banana Fish – Capítulo 17",
+      "date": "2025-05-23T23:15:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607166
+    },
+    {
+      "id": "banana-fish-chapter-18",
+      "number": 18,
+      "title": "Banana Fish – Capítulo 18",
+      "date": "2025-05-23T23:15:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607165
+    },
+    {
+      "id": "banana-fish-chapter-19",
+      "number": 19,
+      "title": "Banana Fish – Capítulo 19",
+      "date": "2025-05-23T23:15:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607170
+    },
+    {
+      "id": "banana-fish-chapter-20",
+      "number": 20,
+      "title": "Banana Fish – Capítulo 20",
+      "date": "2025-05-23T23:15:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607164
+    },
+    {
+      "id": "banana-fish-chapter-21",
+      "number": 21,
+      "title": "Banana Fish – Capítulo 21",
+      "date": "2025-05-23T23:16:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607480
+    },
+    {
+      "id": "banana-fish-chapter-22",
+      "number": 22,
+      "title": "Banana Fish – Capítulo 22",
+      "date": "2025-05-23T23:16:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607486
+    },
+    {
+      "id": "banana-fish-chapter-23",
+      "number": 23,
+      "title": "Banana Fish – Capítulo 23",
+      "date": "2025-05-23T23:16:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607479
+    },
+    {
+      "id": "banana-fish-chapter-24",
+      "number": 24,
+      "title": "Banana Fish – Capítulo 24",
+      "date": "2025-05-23T23:16:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607483
+    },
+    {
+      "id": "banana-fish-chapter-25",
+      "number": 25,
+      "title": "Banana Fish – Capítulo 25",
+      "date": "2025-05-23T23:16:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607488
+    },
+    {
+      "id": "banana-fish-chapter-26",
+      "number": 26,
+      "title": "Banana Fish – Capítulo 26",
+      "date": "2025-05-23T23:16:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607485
+    },
+    {
+      "id": "banana-fish-chapter-27",
+      "number": 27,
+      "title": "Banana Fish – Capítulo 27",
+      "date": "2025-05-23T23:16:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607484
+    },
+    {
+      "id": "banana-fish-chapter-28",
+      "number": 28,
+      "title": "Banana Fish – Capítulo 28",
+      "date": "2025-05-23T23:16:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607482
+    },
+    {
+      "id": "banana-fish-chapter-29",
+      "number": 29,
+      "title": "Banana Fish – Capítulo 29",
+      "date": "2025-05-23T23:16:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607487
+    },
+    {
+      "id": "banana-fish-chapter-30",
+      "number": 30,
+      "title": "Banana Fish – Capítulo 30",
+      "date": "2025-05-23T23:16:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607481
+    },
+    {
+      "id": "banana-fish-chapter-31",
+      "number": 31,
+      "title": "Banana Fish – Capítulo 31",
+      "date": "2025-05-23T23:16:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607792
+    },
+    {
+      "id": "banana-fish-chapter-32",
+      "number": 32,
+      "title": "Banana Fish – Capítulo 32",
+      "date": "2025-05-23T23:16:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607788
+    },
+    {
+      "id": "banana-fish-chapter-33",
+      "number": 33,
+      "title": "Banana Fish – Capítulo 33",
+      "date": "2025-05-23T23:16:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607789
+    },
+    {
+      "id": "banana-fish-chapter-34",
+      "number": 34,
+      "title": "Banana Fish – Capítulo 34",
+      "date": "2025-05-23T23:16:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607790
+    },
+    {
+      "id": "banana-fish-chapter-35",
+      "number": 35,
+      "title": "Banana Fish – Capítulo 35",
+      "date": "2025-05-23T23:16:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607795
+    },
+    {
+      "id": "banana-fish-chapter-36",
+      "number": 36,
+      "title": "Banana Fish – Capítulo 36",
+      "date": "2025-05-23T23:16:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607793
+    },
+    {
+      "id": "banana-fish-chapter-37",
+      "number": 37,
+      "title": "Banana Fish – Capítulo 37",
+      "date": "2025-05-23T23:16:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607791
+    },
+    {
+      "id": "banana-fish-chapter-38",
+      "number": 38,
+      "title": "Banana Fish – Capítulo 38",
+      "date": "2025-05-23T23:16:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607794
+    },
+    {
+      "id": "banana-fish-chapter-39",
+      "number": 39,
+      "title": "Banana Fish – Capítulo 39",
+      "date": "2025-05-23T23:16:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607796
+    },
+    {
+      "id": "banana-fish-chapter-40",
+      "number": 40,
+      "title": "Banana Fish – Capítulo 40",
+      "date": "2025-05-23T23:16:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 607797
+    },
+    {
+      "id": "banana-fish-chapter-41",
+      "number": 41,
+      "title": "Banana Fish – Capítulo 41",
+      "date": "2025-05-23T23:18:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608176
+    },
+    {
+      "id": "banana-fish-chapter-42",
+      "number": 42,
+      "title": "Banana Fish – Capítulo 42",
+      "date": "2025-05-23T23:18:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608177
+    },
+    {
+      "id": "banana-fish-chapter-43",
+      "number": 43,
+      "title": "Banana Fish – Capítulo 43",
+      "date": "2025-05-23T23:18:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608173
+    },
+    {
+      "id": "banana-fish-chapter-44",
+      "number": 44,
+      "title": "Banana Fish – Capítulo 44",
+      "date": "2025-05-23T23:18:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608178
+    },
+    {
+      "id": "banana-fish-chapter-45",
+      "number": 45,
+      "title": "Banana Fish – Capítulo 45",
+      "date": "2025-05-23T23:18:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608171
+    },
+    {
+      "id": "banana-fish-chapter-46",
+      "number": 46,
+      "title": "Banana Fish – Capítulo 46",
+      "date": "2025-05-23T23:18:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608175
+    },
+    {
+      "id": "banana-fish-chapter-47",
+      "number": 47,
+      "title": "Banana Fish – Capítulo 47",
+      "date": "2025-05-23T23:18:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608179
+    },
+    {
+      "id": "banana-fish-chapter-48",
+      "number": 48,
+      "title": "Banana Fish – Capítulo 48",
+      "date": "2025-05-23T23:18:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608174
+    },
+    {
+      "id": "banana-fish-chapter-49",
+      "number": 49,
+      "title": "Banana Fish – Capítulo 49",
+      "date": "2025-05-23T23:18:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608172
+    },
+    {
+      "id": "banana-fish-chapter-50",
+      "number": 50,
+      "title": "Banana Fish – Capítulo 50",
+      "date": "2025-05-23T23:18:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608180
+    },
+    {
+      "id": "banana-fish-chapter-51",
+      "number": 51,
+      "title": "Banana Fish – Capítulo 51",
+      "date": "2025-05-23T23:19:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608574
+    },
+    {
+      "id": "banana-fish-chapter-52",
+      "number": 52,
+      "title": "Banana Fish – Capítulo 52",
+      "date": "2025-05-23T23:19:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608578
+    },
+    {
+      "id": "banana-fish-chapter-53",
+      "number": 53,
+      "title": "Banana Fish – Capítulo 53",
+      "date": "2025-05-23T23:19:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608581
+    },
+    {
+      "id": "banana-fish-chapter-54",
+      "number": 54,
+      "title": "Banana Fish – Capítulo 54",
+      "date": "2025-05-23T23:19:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608575
+    },
+    {
+      "id": "banana-fish-chapter-55",
+      "number": 55,
+      "title": "Banana Fish – Capítulo 55",
+      "date": "2025-05-23T23:19:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608579
+    },
+    {
+      "id": "banana-fish-chapter-56",
+      "number": 56,
+      "title": "Banana Fish – Capítulo 56",
+      "date": "2025-05-23T23:19:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608582
+    },
+    {
+      "id": "banana-fish-chapter-57",
+      "number": 57,
+      "title": "Banana Fish – Capítulo 57",
+      "date": "2025-05-23T23:19:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608577
+    },
+    {
+      "id": "banana-fish-chapter-58",
+      "number": 58,
+      "title": "Banana Fish – Capítulo 58",
+      "date": "2025-05-23T23:19:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608576
+    },
+    {
+      "id": "banana-fish-chapter-59",
+      "number": 59,
+      "title": "Banana Fish – Capítulo 59",
+      "date": "2025-05-23T23:19:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608583
+    },
+    {
+      "id": "banana-fish-chapter-60",
+      "number": 60,
+      "title": "Banana Fish – Capítulo 60",
+      "date": "2025-05-23T23:19:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608580
+    },
+    {
+      "id": "banana-fish-chapter-61",
+      "number": 61,
+      "title": "Banana Fish – Capítulo 61",
+      "date": "2025-05-23T23:19:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608897
+    },
+    {
+      "id": "banana-fish-chapter-62",
+      "number": 62,
+      "title": "Banana Fish – Capítulo 62",
+      "date": "2025-05-23T23:19:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608895
+    },
+    {
+      "id": "banana-fish-chapter-63",
+      "number": 63,
+      "title": "Banana Fish – Capítulo 63",
+      "date": "2025-05-23T23:19:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608898
+    },
+    {
+      "id": "banana-fish-chapter-64",
+      "number": 64,
+      "title": "Banana Fish – Capítulo 64",
+      "date": "2025-05-23T23:19:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608890
+    },
+    {
+      "id": "banana-fish-chapter-65",
+      "number": 65,
+      "title": "Banana Fish – Capítulo 65",
+      "date": "2025-05-23T23:19:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608894
+    },
+    {
+      "id": "banana-fish-chapter-66",
+      "number": 66,
+      "title": "Banana Fish – Capítulo 66",
+      "date": "2025-05-23T23:19:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608892
+    },
+    {
+      "id": "banana-fish-chapter-67",
+      "number": 67,
+      "title": "Banana Fish – Capítulo 67",
+      "date": "2025-05-23T23:19:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608889
+    },
+    {
+      "id": "banana-fish-chapter-68",
+      "number": 68,
+      "title": "Banana Fish – Capítulo 68",
+      "date": "2025-05-23T23:19:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608893
+    },
+    {
+      "id": "banana-fish-chapter-69",
+      "number": 69,
+      "title": "Banana Fish – Capítulo 69",
+      "date": "2025-05-23T23:19:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608891
+    },
+    {
+      "id": "banana-fish-chapter-70",
+      "number": 70,
+      "title": "Banana Fish – Capítulo 70",
+      "date": "2025-05-23T23:19:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 608896
+    },
+    {
+      "id": "banana-fish-chapter-71",
+      "number": 71,
+      "title": "Banana Fish – Capítulo 71",
+      "date": "2025-05-23T23:20:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 609234
+    },
+    {
+      "id": "banana-fish-chapter-72",
+      "number": 72,
+      "title": "Banana Fish – Capítulo 72",
+      "date": "2025-05-23T23:20:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 609235
+    },
+    {
+      "id": "banana-fish-chapter-73",
+      "number": 73,
+      "title": "Banana Fish – Capítulo 73",
+      "date": "2025-05-23T23:20:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 609227
+    },
+    {
+      "id": "banana-fish-chapter-74",
+      "number": 74,
+      "title": "Banana Fish – Capítulo 74",
+      "date": "2025-05-23T23:20:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 609229
+    },
+    {
+      "id": "banana-fish-chapter-75",
+      "number": 75,
+      "title": "Banana Fish – Capítulo 75",
+      "date": "2025-05-23T23:20:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 609226
+    },
+    {
+      "id": "banana-fish-chapter-76",
+      "number": 76,
+      "title": "Banana Fish – Capítulo 76",
+      "date": "2025-05-23T23:20:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 609231
+    },
+    {
+      "id": "banana-fish-chapter-77",
+      "number": 77,
+      "title": "Banana Fish – Capítulo 77",
+      "date": "2025-05-23T23:20:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 609230
+    },
+    {
+      "id": "banana-fish-chapter-78",
+      "number": 78,
+      "title": "Banana Fish – Capítulo 78",
+      "date": "2025-05-23T23:20:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 609228
+    },
+    {
+      "id": "banana-fish-chapter-79",
+      "number": 79,
+      "title": "Banana Fish – Capítulo 79",
+      "date": "2025-05-23T23:20:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 609232
+    },
+    {
+      "id": "banana-fish-chapter-80",
+      "number": 80,
+      "title": "Banana Fish – Capítulo 80",
+      "date": "2025-05-23T23:20:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 609233
+    },
+    {
+      "id": "banana-fish-chapter-81",
+      "number": 81,
+      "title": "Banana Fish – Capítulo 81",
+      "date": "2025-05-23T23:21:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 609557
+    },
+    {
+      "id": "banana-fish-chapter-82",
+      "number": 82,
+      "title": "Banana Fish – Capítulo 82",
+      "date": "2025-05-23T23:21:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 609564
+    },
+    {
+      "id": "banana-fish-chapter-83",
+      "number": 83,
+      "title": "Banana Fish – Capítulo 83",
+      "date": "2025-05-23T23:21:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 609560
+    },
+    {
+      "id": "banana-fish-chapter-84",
+      "number": 84,
+      "title": "Banana Fish – Capítulo 84",
+      "date": "2025-05-23T23:21:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 609563
+    },
+    {
+      "id": "banana-fish-chapter-85",
+      "number": 85,
+      "title": "Banana Fish – Capítulo 85",
+      "date": "2025-05-23T23:21:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 609561
+    },
+    {
+      "id": "banana-fish-chapter-86",
+      "number": 86,
+      "title": "Banana Fish – Capítulo 86",
+      "date": "2025-05-23T23:21:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 609559
+    },
+    {
+      "id": "banana-fish-chapter-87",
+      "number": 87,
+      "title": "Banana Fish – Capítulo 87",
+      "date": "2025-05-23T23:21:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 609566
+    },
+    {
+      "id": "banana-fish-chapter-88",
+      "number": 88,
+      "title": "Banana Fish – Capítulo 88",
+      "date": "2025-05-23T23:21:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 609565
+    },
+    {
+      "id": "banana-fish-chapter-89",
+      "number": 89,
+      "title": "Banana Fish – Capítulo 89",
+      "date": "2025-05-23T23:21:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 609558
+    },
+    {
+      "id": "banana-fish-chapter-90",
+      "number": 90,
+      "title": "Banana Fish – Capítulo 90",
+      "date": "2025-05-23T23:21:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 609562
+    },
+    {
+      "id": "banana-fish-chapter-91",
+      "number": 91,
+      "title": "Banana Fish – Capítulo 91",
+      "date": "2025-05-23T23:22:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 609891
+    },
+    {
+      "id": "banana-fish-chapter-92",
+      "number": 92,
+      "title": "Banana Fish – Capítulo 92",
+      "date": "2025-05-23T23:22:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 609894
+    },
+    {
+      "id": "banana-fish-chapter-93",
+      "number": 93,
+      "title": "Banana Fish – Capítulo 93",
+      "date": "2025-05-23T23:22:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 609890
+    },
+    {
+      "id": "banana-fish-chapter-94",
+      "number": 94,
+      "title": "Banana Fish – Capítulo 94",
+      "date": "2025-05-23T23:22:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 609895
+    },
+    {
+      "id": "banana-fish-chapter-95",
+      "number": 95,
+      "title": "Banana Fish – Capítulo 95",
+      "date": "2025-05-23T23:22:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 609892
+    },
+    {
+      "id": "banana-fish-chapter-96",
+      "number": 96,
+      "title": "Banana Fish – Capítulo 96",
+      "date": "2025-05-23T23:22:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 609893
+    }
+  ]
+}

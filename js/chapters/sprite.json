@@ -1,0 +1,662 @@
+{
+  "en": [
+    {
+      "id": "sprite-1",
+      "number": "1",
+      "title": "Shaking",
+      "date": "2010/11/27",
+      "pages": []
+    },
+    {
+      "id": "sprite-2",
+      "number": "2",
+      "title": "Splash",
+      "date": "2010/11/27",
+      "pages": []
+    },
+    {
+      "id": "sprite-3",
+      "number": "3",
+      "title": "Full Moon",
+      "date": "2010/12/15",
+      "pages": []
+    },
+    {
+      "id": "sprite-4",
+      "number": "4",
+      "title": "",
+      "date": "2010/12/27",
+      "pages": []
+    },
+    {
+      "id": "sprite-5",
+      "number": "5",
+      "title": "Lost Children",
+      "date": "2011/01/16",
+      "pages": []
+    },
+    {
+      "id": "sprite-6",
+      "number": "6",
+      "title": "Sprite",
+      "date": "2011/02/04",
+      "pages": []
+    },
+    {
+      "id": "sprite-7",
+      "number": "7",
+      "title": "Transformed City",
+      "date": "2011/02/27",
+      "pages": []
+    },
+    {
+      "id": "sprite-8",
+      "number": "8",
+      "title": "",
+      "date": "2011/04/15",
+      "pages": []
+    },
+    {
+      "id": "sprite-9",
+      "number": "9",
+      "title": "Lawless World",
+      "date": "2011/05/08",
+      "pages": []
+    },
+    {
+      "id": "sprite-10",
+      "number": "10",
+      "title": "Wandering Children",
+      "date": "2011/05/23",
+      "pages": []
+    },
+    {
+      "id": "sprite-11",
+      "number": "11",
+      "title": "Rescue",
+      "date": "2011/06/25",
+      "pages": []
+    },
+    {
+      "id": "sprite-12",
+      "number": "12",
+      "title": "Angel",
+      "date": "2011/08/14",
+      "pages": []
+    },
+    {
+      "id": "sprite-13",
+      "number": "13",
+      "title": "The Unknown People",
+      "date": "2011/09/16",
+      "pages": []
+    },
+    {
+      "id": "sprite-14",
+      "number": "14",
+      "title": "Heaven's Punishment",
+      "date": "2011/09/30",
+      "pages": []
+    },
+    {
+      "id": "sprite-15",
+      "number": "15",
+      "title": "God Bless You",
+      "date": "2012/01/14",
+      "pages": []
+    },
+    {
+      "id": "sprite-16",
+      "number": "16",
+      "title": "",
+      "date": "2012/02/03",
+      "pages": []
+    },
+    {
+      "id": "sprite-17",
+      "number": "17",
+      "title": "Losses",
+      "date": "2012/03/08",
+      "pages": []
+    },
+    {
+      "id": "sprite-18",
+      "number": "18",
+      "title": "Souvenirs",
+      "date": "2012/04/22",
+      "pages": []
+    },
+    {
+      "id": "sprite-19",
+      "number": "19",
+      "title": "Correlation",
+      "date": "2012/04/30",
+      "pages": []
+    },
+    {
+      "id": "sprite-20",
+      "number": "20",
+      "title": "A Pitiful Nature",
+      "date": "2012/05/14",
+      "pages": []
+    },
+    {
+      "id": "sprite-21",
+      "number": "21",
+      "title": "Food",
+      "date": "2012/05/30",
+      "pages": []
+    },
+    {
+      "id": "sprite-22",
+      "number": "22",
+      "title": "Second Coming",
+      "date": "2012/06/14",
+      "pages": []
+    },
+    {
+      "id": "sprite-23",
+      "number": "23",
+      "title": "Hallucination",
+      "date": "2012/06/14",
+      "pages": []
+    },
+    {
+      "id": "sprite-24",
+      "number": "24",
+      "title": "A Friend In The Past",
+      "date": "2012/07/03",
+      "pages": []
+    },
+    {
+      "id": "sprite-25",
+      "number": "25",
+      "title": "Incoming Call",
+      "date": "2012/07/16",
+      "pages": []
+    },
+    {
+      "id": "sprite-26",
+      "number": "26",
+      "title": "Doubt",
+      "date": "2012/07/17",
+      "pages": []
+    },
+    {
+      "id": "sprite-27",
+      "number": "27",
+      "title": "The Night of Betrayal",
+      "date": "2012/08/24",
+      "pages": []
+    },
+    {
+      "id": "sprite-28",
+      "number": "28",
+      "title": "Abaddon",
+      "date": "2012/10/08",
+      "pages": []
+    },
+    {
+      "id": "sprite-29",
+      "number": "29",
+      "title": "The Verge Of Death",
+      "date": "2012/10/23",
+      "pages": []
+    },
+    {
+      "id": "sprite-30",
+      "number": "30",
+      "title": "Despair",
+      "date": "2012/10/27",
+      "pages": []
+    },
+    {
+      "id": "sprite-31",
+      "number": "31",
+      "title": "The Tower of Death",
+      "date": "2012/11/10",
+      "pages": []
+    },
+    {
+      "id": "sprite-32",
+      "number": "32",
+      "title": "The Stench Of Death",
+      "date": "2012/11/25",
+      "pages": []
+    },
+    {
+      "id": "sprite-33",
+      "number": "33",
+      "title": "Confession",
+      "date": "2013/01/07",
+      "pages": []
+    },
+    {
+      "id": "sprite-34",
+      "number": "34",
+      "title": "Babel System",
+      "date": "2013/01/21",
+      "pages": []
+    },
+    {
+      "id": "sprite-35",
+      "number": "35",
+      "title": "A.D. 2059",
+      "date": "2013/01/21",
+      "pages": []
+    },
+    {
+      "id": "sprite-36",
+      "number": "36",
+      "title": "Riot",
+      "date": "2013/01/28",
+      "pages": []
+    },
+    {
+      "id": "sprite-37",
+      "number": "37",
+      "title": "Pack of Beasts",
+      "date": "2013/02/14",
+      "pages": []
+    },
+    {
+      "id": "sprite-38",
+      "number": "38",
+      "title": "Hostilities",
+      "date": "2013/03/03",
+      "pages": []
+    },
+    {
+      "id": "sprite-39",
+      "number": "39",
+      "title": "Take Your Guns!",
+      "date": "2013/05/18",
+      "pages": []
+    },
+    {
+      "id": "sprite-40",
+      "number": "40",
+      "title": "That T?me Has Come",
+      "date": "2013/05/25",
+      "pages": []
+    },
+    {
+      "id": "sprite-41",
+      "number": "41",
+      "title": "Metamorphoses",
+      "date": "2013/05/30",
+      "pages": []
+    },
+    {
+      "id": "sprite-42",
+      "number": "42",
+      "title": "Farewell",
+      "date": "2013/06/11",
+      "pages": []
+    },
+    {
+      "id": "sprite-43",
+      "number": "43",
+      "title": "Unherad Voice",
+      "date": "2013/08/19",
+      "pages": []
+    },
+    {
+      "id": "sprite-44",
+      "number": "44",
+      "title": "Whereabouts of Resentment",
+      "date": "2013/08/24",
+      "pages": []
+    },
+    {
+      "id": "sprite-45",
+      "number": "45",
+      "title": "Return of the Evil Spirit",
+      "date": "2013/08/27",
+      "pages": []
+    },
+    {
+      "id": "sprite-46",
+      "number": "46",
+      "title": "For My Friends...",
+      "date": "2013/09/07",
+      "pages": []
+    },
+    {
+      "id": "sprite-47",
+      "number": "47",
+      "title": "New World",
+      "date": "2013/09/29",
+      "pages": []
+    },
+    {
+      "id": "sprite-48",
+      "number": "48",
+      "title": "A.D. 1575",
+      "date": "2015/04/07",
+      "pages": []
+    },
+    {
+      "id": "sprite-49",
+      "number": "49",
+      "title": "Dimly White 'Castle'",
+      "date": "2015/04/16",
+      "pages": []
+    },
+    {
+      "id": "sprite-50",
+      "number": "50",
+      "title": "Wrecked general",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "sprite-51",
+      "number": "51",
+      "title": "Raid by Takeda's Army",
+      "date": "2015/04/27",
+      "pages": []
+    },
+    {
+      "id": "sprite-52",
+      "number": "52",
+      "title": "Reason",
+      "date": "2015/05/01",
+      "pages": []
+    },
+    {
+      "id": "sprite-53",
+      "number": "53",
+      "title": "Meaning of Being Here",
+      "date": "2015/05/07",
+      "pages": []
+    },
+    {
+      "id": "sprite-54",
+      "number": "54",
+      "title": "Rising to Action",
+      "date": "2015/06/14",
+      "pages": []
+    },
+    {
+      "id": "sprite-55",
+      "number": "55",
+      "title": "Mortal Combat",
+      "date": "2015/07/17",
+      "pages": []
+    },
+    {
+      "id": "sprite-56",
+      "number": "56",
+      "title": "Hour when lives were lost",
+      "date": "2015/11/01",
+      "pages": []
+    },
+    {
+      "id": "sprite-57",
+      "number": "57",
+      "title": "",
+      "date": "2016/01/06",
+      "pages": []
+    },
+    {
+      "id": "sprite-58",
+      "number": "58",
+      "title": "",
+      "date": "2016/02/21",
+      "pages": []
+    },
+    {
+      "id": "sprite-59",
+      "number": "59",
+      "title": "",
+      "date": "2016/03/27",
+      "pages": []
+    },
+    {
+      "id": "sprite-60",
+      "number": "60",
+      "title": "",
+      "date": "2016/04/06",
+      "pages": []
+    },
+    {
+      "id": "sprite-61",
+      "number": "61",
+      "title": "",
+      "date": "2016/05/17",
+      "pages": []
+    },
+    {
+      "id": "sprite-62",
+      "number": "62",
+      "title": "",
+      "date": "2016/07/17",
+      "pages": []
+    },
+    {
+      "id": "sprite-63",
+      "number": "63",
+      "title": "",
+      "date": "2016/08/20",
+      "pages": []
+    },
+    {
+      "id": "sprite-64",
+      "number": "64",
+      "title": "",
+      "date": "2016/12/17",
+      "pages": []
+    },
+    {
+      "id": "sprite-65",
+      "number": "65",
+      "title": "",
+      "date": "2016/12/17",
+      "pages": []
+    },
+    {
+      "id": "sprite-66",
+      "number": "66",
+      "title": "",
+      "date": "2017/01/26",
+      "pages": []
+    },
+    {
+      "id": "sprite-67",
+      "number": "67",
+      "title": "",
+      "date": "2017/05/09",
+      "pages": []
+    },
+    {
+      "id": "sprite-68",
+      "number": "68",
+      "title": "",
+      "date": "2017/06/10",
+      "pages": []
+    },
+    {
+      "id": "sprite-69",
+      "number": "69",
+      "title": "",
+      "date": "2017/08/09",
+      "pages": []
+    },
+    {
+      "id": "sprite-70",
+      "number": "70",
+      "title": "",
+      "date": "2017/08/09",
+      "pages": []
+    },
+    {
+      "id": "sprite-71",
+      "number": "71",
+      "title": "",
+      "date": "2017/08/14",
+      "pages": []
+    },
+    {
+      "id": "sprite-72",
+      "number": "72",
+      "title": "World to Peacefully Live in",
+      "date": "2017/09/11",
+      "pages": []
+    },
+    {
+      "id": "sprite-73",
+      "number": "73",
+      "title": "",
+      "date": "2017/12/21",
+      "pages": []
+    },
+    {
+      "id": "sprite-74",
+      "number": "74",
+      "title": "",
+      "date": "2018/02/05",
+      "pages": []
+    },
+    {
+      "id": "sprite-75",
+      "number": "75",
+      "title": "",
+      "date": "2018/03/26",
+      "pages": []
+    },
+    {
+      "id": "sprite-76",
+      "number": "76",
+      "title": "",
+      "date": "2018/06/05",
+      "pages": []
+    },
+    {
+      "id": "sprite-77",
+      "number": "77",
+      "title": "",
+      "date": "2018/08/11",
+      "pages": []
+    },
+    {
+      "id": "sprite-78",
+      "number": "78",
+      "title": "",
+      "date": "2018/09/02",
+      "pages": []
+    },
+    {
+      "id": "sprite-79",
+      "number": "79",
+      "title": "",
+      "date": "2018/09/26",
+      "pages": []
+    },
+    {
+      "id": "sprite-80",
+      "number": "80",
+      "title": "",
+      "date": "2018/11/11",
+      "pages": []
+    },
+    {
+      "id": "sprite-81",
+      "number": "81",
+      "title": "",
+      "date": "2019/01/01",
+      "pages": []
+    },
+    {
+      "id": "sprite-82",
+      "number": "82",
+      "title": "",
+      "date": "2019/01/19",
+      "pages": []
+    },
+    {
+      "id": "sprite-83",
+      "number": "83",
+      "title": "",
+      "date": "2019/04/22",
+      "pages": []
+    },
+    {
+      "id": "sprite-84",
+      "number": "84",
+      "title": "",
+      "date": "2019/05/25",
+      "pages": []
+    },
+    {
+      "id": "sprite-85",
+      "number": "85",
+      "title": "Murder",
+      "date": "2020/01/17",
+      "pages": []
+    },
+    {
+      "id": "sprite-86",
+      "number": "86",
+      "title": "",
+      "date": "2020/07/26",
+      "pages": []
+    },
+    {
+      "id": "sprite-87",
+      "number": "87",
+      "title": "Brothers",
+      "date": "2020/10/09",
+      "pages": []
+    },
+    {
+      "id": "sprite-88",
+      "number": "88",
+      "title": "Top Floor",
+      "date": "2021/03/30",
+      "pages": []
+    },
+    {
+      "id": "sprite-89",
+      "number": "89",
+      "title": "Imprisonment",
+      "date": "2022/02/13",
+      "pages": []
+    },
+    {
+      "id": "sprite-90",
+      "number": "90",
+      "title": "Mission",
+      "date": "2022/02/13",
+      "pages": []
+    },
+    {
+      "id": "sprite-91",
+      "number": "91",
+      "title": "The boy who travels through time",
+      "date": "2022/02/13",
+      "pages": []
+    },
+    {
+      "id": "sprite-92",
+      "number": "92",
+      "title": "",
+      "date": "2024/10/29",
+      "pages": []
+    },
+    {
+      "id": "sprite-93",
+      "number": "93",
+      "title": "",
+      "date": "2025/12/23",
+      "pages": []
+    },
+    {
+      "id": "sprite-94",
+      "number": "94",
+      "title": "",
+      "date": "2026/01/08",
+      "pages": []
+    }
+  ]
+}

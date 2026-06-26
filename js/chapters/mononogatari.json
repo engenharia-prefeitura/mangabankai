@@ -1,0 +1,473 @@
+{
+  "en": [
+    {
+      "id": "mononogatari-1",
+      "number": "1",
+      "title": "",
+      "date": "2019/01/11",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-2",
+      "number": "2",
+      "title": "",
+      "date": "2019/01/11",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-3",
+      "number": "3",
+      "title": "",
+      "date": "2019/01/11",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-4",
+      "number": "4",
+      "title": "",
+      "date": "2019/01/11",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-5",
+      "number": "5",
+      "title": "",
+      "date": "2019/01/19",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-6",
+      "number": "6",
+      "title": "Secret Contract",
+      "date": "2019/02/08",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-7",
+      "number": "7",
+      "title": "Melting",
+      "date": "2019/02/25",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-8",
+      "number": "8",
+      "title": "",
+      "date": "2019/03/05",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-9",
+      "number": "9",
+      "title": "Doubt",
+      "date": "2019/04/30",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-10",
+      "number": "10",
+      "title": "",
+      "date": "2019/05/23",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-11",
+      "number": "11",
+      "title": "",
+      "date": "2019/06/19",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-12",
+      "number": "12",
+      "title": "",
+      "date": "2019/11/12",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-13",
+      "number": "13",
+      "title": "",
+      "date": "2019/11/12",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-14",
+      "number": "14",
+      "title": "Carnage",
+      "date": "2020/01/18",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-15",
+      "number": "15",
+      "title": "Mourning",
+      "date": "2020/05/20",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-16",
+      "number": "16",
+      "title": "",
+      "date": "2021/12/23",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-17",
+      "number": "17",
+      "title": "",
+      "date": "2022/01/04",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-18",
+      "number": "18",
+      "title": "",
+      "date": "2022/01/12",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-19",
+      "number": "19",
+      "title": "",
+      "date": "2024/01/19",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-20",
+      "number": "20",
+      "title": "",
+      "date": "2024/01/19",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-21",
+      "number": "21",
+      "title": "",
+      "date": "2024/01/19",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-22",
+      "number": "22",
+      "title": "",
+      "date": "2024/01/19",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-23",
+      "number": "23",
+      "title": "",
+      "date": "2024/01/19",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-24",
+      "number": "24",
+      "title": "",
+      "date": "2024/01/19",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-25",
+      "number": "25",
+      "title": "",
+      "date": "2024/01/19",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-26",
+      "number": "26",
+      "title": "",
+      "date": "2024/01/19",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-27",
+      "number": "27",
+      "title": "",
+      "date": "2024/01/19",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-28",
+      "number": "28",
+      "title": "",
+      "date": "2024/01/19",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-29",
+      "number": "29",
+      "title": "",
+      "date": "2024/01/19",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-30",
+      "number": "30",
+      "title": "",
+      "date": "2024/04/16",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-31",
+      "number": "31",
+      "title": "",
+      "date": "2025/08/18",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-32",
+      "number": "32",
+      "title": "",
+      "date": "2024/04/16",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-33",
+      "number": "33",
+      "title": "",
+      "date": "2024/04/16",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-34",
+      "number": "34",
+      "title": "",
+      "date": "2024/04/16",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-35",
+      "number": "35",
+      "title": "",
+      "date": "2024/08/03",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-36",
+      "number": "36",
+      "title": "",
+      "date": "2024/08/03",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-37",
+      "number": "37",
+      "title": "",
+      "date": "2024/08/03",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-38",
+      "number": "38",
+      "title": "",
+      "date": "2024/08/03",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-39",
+      "number": "39",
+      "title": "",
+      "date": "2024/08/03",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-40",
+      "number": "40",
+      "title": "",
+      "date": "2024/08/03",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-41",
+      "number": "41",
+      "title": "",
+      "date": "2024/08/03",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-42",
+      "number": "42",
+      "title": "",
+      "date": "2024/11/07",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-43",
+      "number": "43",
+      "title": "",
+      "date": "2024/11/07",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-44",
+      "number": "44",
+      "title": "",
+      "date": "2024/11/07",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-45",
+      "number": "45",
+      "title": "",
+      "date": "2024/11/07",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-46",
+      "number": "46",
+      "title": "",
+      "date": "2024/11/07",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-47",
+      "number": "47",
+      "title": "",
+      "date": "2024/11/07",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-48",
+      "number": "48",
+      "title": "",
+      "date": "2025/01/11",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-49",
+      "number": "49",
+      "title": "",
+      "date": "2025/01/11",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-50",
+      "number": "50",
+      "title": "",
+      "date": "2025/01/11",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-51",
+      "number": "51",
+      "title": "",
+      "date": "2025/01/11",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-52",
+      "number": "52",
+      "title": "",
+      "date": "2025/01/11",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-53",
+      "number": "53",
+      "title": "",
+      "date": "2025/01/11",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-54",
+      "number": "54",
+      "title": "",
+      "date": "2025/04/23",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-55",
+      "number": "55",
+      "title": "",
+      "date": "2025/04/23",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-56",
+      "number": "56",
+      "title": "",
+      "date": "2025/04/23",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-57",
+      "number": "57",
+      "title": "",
+      "date": "2025/04/23",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-58",
+      "number": "58",
+      "title": "",
+      "date": "2025/04/23",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-59",
+      "number": "59",
+      "title": "",
+      "date": "2025/04/23",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-60",
+      "number": "60",
+      "title": "",
+      "date": "2025/07/30",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-61",
+      "number": "61",
+      "title": "",
+      "date": "2025/08/02",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-62",
+      "number": "62",
+      "title": "",
+      "date": "2025/08/08",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-63",
+      "number": "63",
+      "title": "",
+      "date": "2025/08/18",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-64",
+      "number": "64",
+      "title": "",
+      "date": "2025/08/18",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-65",
+      "number": "65",
+      "title": "",
+      "date": "2025/08/18",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-66",
+      "number": "66",
+      "title": "",
+      "date": "2025/08/20",
+      "pages": []
+    },
+    {
+      "id": "mononogatari-67",
+      "number": "67",
+      "title": "",
+      "date": "2025/08/20",
+      "pages": []
+    }
+  ]
+}

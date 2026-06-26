@@ -1,0 +1,70 @@
+name: Atualizar Mangás
+
+on:
+  workflow_dispatch:
+    inputs:
+      target:
+        description: 'Scraper a executar'
+        required: false
+        default: 'all'
+        type: choice
+        options:
+          - all
+          - pt-only
+          - en-only
+  schedule:
+    - cron: '0 4 * * *'  # 4h UTC = 1h BRT
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Instalar dependências
+        run: npm install
+
+      - name: PT — LeituraManga
+        if: ${{ inputs.target != 'en-only' }}
+        run: node leituramanga-scraper.cjs || true
+        continue-on-error: true
+
+      - name: PT — MangaLivre
+        if: ${{ inputs.target != 'en-only' }}
+        run: node mangalivre-scraper.cjs || true
+        continue-on-error: true
+
+      - name: EN — MangaFreak (lista)
+        if: ${{ inputs.target != 'pt-only' }}
+        run: node mf-scraper.cjs --update || true
+        continue-on-error: true
+
+      - name: EN — MangaFreak (capítulos)
+        if: ${{ inputs.target != 'pt-only' }}
+        run: node mf-chapter-scraper.cjs || true
+        continue-on-error: true
+
+      - name: Mesclar metadados
+        run: node merge-meta.cjs || true
+        continue-on-error: true
+
+      - name: Commit e push das atualizações
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add js/data.js js/chapters/
+          if git diff --staged --quiet; then
+            echo "Nenhuma mudança nos dados."
+          else
+            git commit -m "chore: atualização automática de mangás"
+            git push
+          fi

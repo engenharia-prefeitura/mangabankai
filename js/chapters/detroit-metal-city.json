@@ -1,0 +1,718 @@
+{
+  "en": [
+    {
+      "id": "detroit-metal-city-1",
+      "number": "1",
+      "title": "DMC",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-2",
+      "number": "2",
+      "title": "PV",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-3",
+      "number": "3",
+      "title": "Sick Murderer",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-4",
+      "number": "4",
+      "title": "Real Legend",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-5",
+      "number": "5",
+      "title": "Satan",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-6",
+      "number": "6",
+      "title": "Drug",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-7",
+      "number": "7",
+      "title": "Pig",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-8",
+      "number": "8",
+      "title": "Good Song",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-9",
+      "number": "9",
+      "title": "Emperor 1",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-10",
+      "number": "10",
+      "title": "Emperor 2",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-11",
+      "number": "11",
+      "title": "Family",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-12",
+      "number": "12",
+      "title": "Frustration",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-13",
+      "number": "13",
+      "title": "Masochist",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-14",
+      "number": "14",
+      "title": "Punk 1",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-15",
+      "number": "15",
+      "title": "Punk 2",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-16",
+      "number": "16",
+      "title": "Confession",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-17",
+      "number": "17",
+      "title": "Tower",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-18",
+      "number": "18",
+      "title": "Promise",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-19",
+      "number": "19",
+      "title": "Alternation",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-20",
+      "number": "20",
+      "title": "Cinema 1",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-21",
+      "number": "21",
+      "title": "Cinema 2",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-22",
+      "number": "22",
+      "title": "Fake",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-23",
+      "number": "23",
+      "title": "Hip Hop 1",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-24",
+      "number": "24",
+      "title": "Hip Hop 2",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-25",
+      "number": "25",
+      "title": "Reception",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-26",
+      "number": "26",
+      "title": "Project",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-27",
+      "number": "27",
+      "title": "Patissier",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-28",
+      "number": "28",
+      "title": "Performance",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-29",
+      "number": "29",
+      "title": "Dog",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-30",
+      "number": "30",
+      "title": "Groupie",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-31",
+      "number": "31",
+      "title": "United",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-32",
+      "number": "32",
+      "title": "Satanic Emperor 1",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-33",
+      "number": "33",
+      "title": "Satanic Emperor 2",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-34",
+      "number": "34",
+      "title": "Satanic Emperor 3",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-35",
+      "number": "35",
+      "title": "Satanic Emperor 4",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-36",
+      "number": "36",
+      "title": "Satanic Emperor 5",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-37",
+      "number": "37",
+      "title": "Satanic Emperor 6",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-38",
+      "number": "38",
+      "title": "Satanic Emperor 7",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-39",
+      "number": "39",
+      "title": "Satanic Emperor 8",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-40",
+      "number": "40",
+      "title": "Satanic Emperor 9",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-41",
+      "number": "41",
+      "title": "Satanic Emperor 10",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-42",
+      "number": "42",
+      "title": "Satanic Emperor 11",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-43",
+      "number": "43",
+      "title": "Satanic Emperor 12",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-44",
+      "number": "44",
+      "title": "Bald",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-45",
+      "number": "45",
+      "title": "Hunting",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-46",
+      "number": "46",
+      "title": "Fortune-telling",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-47",
+      "number": "47",
+      "title": "Suicide",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-48",
+      "number": "48",
+      "title": "Camera",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-49",
+      "number": "49",
+      "title": "Sun",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-50",
+      "number": "50",
+      "title": "Radio",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-51",
+      "number": "51",
+      "title": "Wedding 1",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-52",
+      "number": "52",
+      "title": "Wedding 2",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-53",
+      "number": "53",
+      "title": "Concentration",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-54",
+      "number": "54",
+      "title": "Apology",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-55",
+      "number": "55",
+      "title": "Pride",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-56",
+      "number": "56",
+      "title": "Dark History 1",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-57",
+      "number": "57",
+      "title": "Dark History 2",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-58",
+      "number": "58",
+      "title": "Bathroom",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-59",
+      "number": "59",
+      "title": "Mail",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-60",
+      "number": "60",
+      "title": "Top",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-61",
+      "number": "61",
+      "title": "Police",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-62",
+      "number": "62",
+      "title": "Memory",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-63",
+      "number": "63",
+      "title": "Betrayer",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-64",
+      "number": "64",
+      "title": "Invitation",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-65",
+      "number": "65",
+      "title": "Grudge",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-66",
+      "number": "66",
+      "title": "Death",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-67",
+      "number": "67",
+      "title": "Resturant",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-68",
+      "number": "68",
+      "title": "Loser",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-69",
+      "number": "69",
+      "title": "Egg",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-70",
+      "number": "70",
+      "title": "New Comer",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-71",
+      "number": "71",
+      "title": "Touch",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-72",
+      "number": "72",
+      "title": "Documentry",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-73",
+      "number": "73",
+      "title": "Capacity",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-74",
+      "number": "74",
+      "title": "One Second",
+      "date": "2009/09/23",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-75",
+      "number": "75",
+      "title": "Propose",
+      "date": "2009/09/23",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-76",
+      "number": "76",
+      "title": "Teriyaki",
+      "date": "2009/09/23",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-77",
+      "number": "77",
+      "title": "Salon",
+      "date": "2009/09/23",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-78",
+      "number": "78",
+      "title": "Cherry",
+      "date": "2009/09/23",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-79",
+      "number": "79",
+      "title": "Block",
+      "date": "2009/09/23",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-80",
+      "number": "80",
+      "title": "Trip",
+      "date": "2009/12/16",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-81",
+      "number": "81",
+      "title": "Ecology",
+      "date": "2010/02/24",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-82",
+      "number": "82",
+      "title": "Old - Fashioned",
+      "date": "2010/02/24",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-83",
+      "number": "83",
+      "title": "Wrestling 1",
+      "date": "2010/02/24",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-84",
+      "number": "84",
+      "title": "Wrestling 2",
+      "date": "2010/07/13",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-85",
+      "number": "85",
+      "title": "Kyushu Boy",
+      "date": "2011/07/09",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-86",
+      "number": "86",
+      "title": "Ad-Lib",
+      "date": "2011/07/13",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-87",
+      "number": "87",
+      "title": "Faithful",
+      "date": "2012/08/30",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-88",
+      "number": "88",
+      "title": "Slump",
+      "date": "2012/09/18",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-89",
+      "number": "89",
+      "title": "Rebel!",
+      "date": "2012/11/22",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-90",
+      "number": "90",
+      "title": "Rebel.2",
+      "date": "2013/02/01",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-91",
+      "number": "91",
+      "title": "Expression",
+      "date": "2015/01/31",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-92",
+      "number": "92",
+      "title": "Corolla",
+      "date": "2015/01/31",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-93",
+      "number": "93",
+      "title": "Gorilla",
+      "date": "2015/01/31",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-94",
+      "number": "94",
+      "title": "BigBang",
+      "date": "2015/01/31",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-95",
+      "number": "95",
+      "title": "BigBang 2",
+      "date": "2015/01/31",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-96",
+      "number": "96",
+      "title": "The Houhi Line",
+      "date": "2015/01/31",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-97",
+      "number": "97",
+      "title": "The Combine",
+      "date": "2015/01/31",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-98",
+      "number": "98",
+      "title": "Removal",
+      "date": "2015/01/31",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-99",
+      "number": "99",
+      "title": "Creative",
+      "date": "2015/01/31",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-100",
+      "number": "100",
+      "title": "Model",
+      "date": "2015/01/31",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-101",
+      "number": "101",
+      "title": "God",
+      "date": "2015/01/31",
+      "pages": []
+    },
+    {
+      "id": "detroit-metal-city-102",
+      "number": "102",
+      "title": "Walking",
+      "date": "2015/01/31",
+      "pages": []
+    }
+  ]
+}

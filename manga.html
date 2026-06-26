@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="referrer" content="no-referrer">
+  <title>MangaBankai</title>
+  <meta name="description" id="metaDesc" content="Leia mangás e manhwas online.">
+  <meta name="theme-color" content="#6c63ff">
+  <link rel="manifest" href="manifest.json">
+  <meta id="ogTitle" property="og:title" content="MangaBankai">
+  <meta id="ogDesc" property="og:description" content="Leia mangás e manhwas online.">
+  <meta id="ogImage" property="og:image" content="">
+  <meta property="og:type" content="book">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📖</text></svg>">
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="logo">Manga<span class="accent">Bankai</span><span class="dot"></span></a>
+      <nav class="nav">
+        <a href="index.html">Início</a>
+        <a href="catalog.html">Catálogo</a>
+      </nav>
+      <div class="search-bar">
+        <input type="text" id="searchInput" placeholder="Pesquisar mangás..." autocomplete="off">
+        <button class="search-btn" onclick="const q=document.getElementById('searchInput').value.trim();if(q)window.location.href='catalog.html?q='+encodeURIComponent(q)">🔍</button>
+        <div class="search-dropdown" id="searchDropdown"></div>
+      </div>
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="index.html">Início</a>
+      <span class="sep">›</span>
+      <a href="catalog.html">Catálogo</a>
+      <span class="sep">›</span>
+      <span id="bcTitle">Carregando...</span>
+    </div>
+  </div>
+
+  <div class="manga-detail-hero" id="mangaHero">
+    <div class="hero-bg"></div>
+    <div class="container content" style="display:grid;grid-template-columns:220px 1fr;gap:32px;width:100%;z-index:2">
+      <div class="cover skeleton-card" style="height:300px"></div>
+      <div class="hero-info" style="display:flex;flex-direction:column;justify-content:flex-end;width:100%">
+        <div class="skeleton-title" style="height:32px;width:40%;margin-bottom:12px"></div>
+        <div class="skeleton-text short" style="height:14px;width:20%;margin-bottom:20px"></div>
+        <div style="display:flex;gap:8px;margin-bottom:20px">
+          <div class="skeleton" style="width:70px;height:24px;border-radius:14px"></div>
+          <div class="skeleton" style="width:70px;height:24px;border-radius:14px"></div>
+        </div>
+        <div style="display:flex;gap:12px">
+          <div class="skeleton" style="width:140px;height:38px;border-radius:24px"></div>
+          <div class="skeleton" style="width:140px;height:38px;border-radius:24px"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="detail-body container">
+    <div class="detail-tabs" id="detailTabs"></div>
+    <div id="tabOverview" class="detail-tab-content active">
+      <div class="skeleton-text" style="width:100%;height:14px;margin-bottom:10px"></div>
+      <div class="skeleton-text" style="width:95%;height:14px;margin-bottom:10px"></div>
+      <div class="skeleton-text" style="width:90%;height:14px;margin-bottom:10px"></div>
+    </div>
+    <div id="tabChapters" class="detail-tab-content"></div>
+    <div id="tabRelated" class="detail-tab-content"></div>
+  </div>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <div class="logo">Manga<span class="accent">Bankai</span><span class="dot"></span></div>
+          <p>Sua plataforma para ler mangás online. Todos os links são fornecidos por parceiros legais autorizados.</p>
+        </div>
+        <div>
+          <h4>Navegação</h4>
+          <ul>
+            <li><a href="index.html">Início</a></li>
+            <li><a href="catalog.html">Catálogo</a></li>
+            <li><a href="terms.html">Termos de Uso</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Gêneros</h4>
+          <ul>
+            <li><a href="catalog.html?genre=Ação">Ação</a></li>
+            <li><a href="catalog.html?genre=Comédia">Comédia</a></li>
+            <li><a href="catalog.html?genre=Fantasia">Fantasia</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Status</h4>
+          <ul>
+            <li><a href="catalog.html?status=ongoing">Em Andamento</a></li>
+            <li><a href="catalog.html?status=completed">Completo</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2026 MangaBankai. Lages-SC. Os links deste site são de fontes legais e autorizadas.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/data.js"></script>
+  <script src="js/main.js"></script>
+  <script>
+    (async function() {
+      const params = new URLSearchParams(window.location.search);
+      const mangaId = params.get('id');
+      const manga = getManga(mangaId);
+
+      if (!manga) {
+        document.getElementById('mangaHero').innerHTML = '<div style="text-align:center;padding:80px 20px"><h2>Mangá não encontrado</h2><p style="color:var(--text-muted);margin:12px 0">O mangá que você procura não existe.</p><a href="catalog.html" class="btn btn-primary">Ver Catálogo</a></div>';
+        return;
+      }
+
+      // Check if manga is adult and adult mode is off
+      const adultGenres = ['Adulto', 'Hentai', 'Ecchi', 'Mature', 'Smut'];
+      const isAdult = (manga.genres || []).some(g => adultGenres.includes(g));
+      const adultMode = LS.get('adult_mode', false);
+      if (isAdult && !adultMode) {
+        showAdultConfirmationModal(() => {
+          LS.set('adult_mode', true);
+          window.location.reload();
+        }, () => {
+          window.location.href = 'index.html';
+        });
+        return;
+      }
+
+      document.title = manga.title + ' — MangaBankai';
+      document.getElementById('bcTitle').textContent = manga.title;
+
+      // SEO / Open Graph dinâmico
+      try {
+        const _d = (manga.description || manga.descriptionPt || '').slice(0, 160) || ('Leia ' + manga.title + ' online.');
+        const _set = (id, val) => { const el = document.getElementById(id); if (el) el.setAttribute('content', val); };
+        _set('metaDesc', _d);
+        _set('ogTitle', manga.title + ' — MangaBankai');
+        _set('ogDesc', _d);
+        _set('ogImage', manga.cover || '');
+      } catch (e) {}
+
+      // Load chapters from chapters.json
+      var lang = params.get('lang');
+      await loadChapters(mangaId);
+
+      var availableLangs = Object.keys(chaptersData[mangaId] || {});
+      if (availableLangs.length === 0) availableLangs = ['en'];
+
+      // Default language determination based on global pref
+      if (!lang) {
+        var userLang = 'all';
+        try {
+          var val = localStorage.getItem('ms_global_lang');
+          if (val) userLang = JSON.parse(val);
+        } catch (e) {}
+        if (userLang !== 'all' && availableLangs.includes(userLang)) {
+          lang = userLang;
+        } else if (availableLangs.includes('pt')) {
+          lang = 'pt';
+        } else {
+          lang = 'en';
+        }
+      }
+
+      // Fallback if requested/selected lang is not available
+      if (!availableLangs.includes(lang)) {
+        lang = availableLangs.includes('pt') ? 'pt' : availableLangs[0];
+      }
+
+      var chs = getChapters(mangaId, lang);
+
+      // Sort a copy of chs ascending by chapter number float to find first and last chapters
+      var sortedChsAsc = [].concat(chs).sort(function(a, b) {
+        return (parseFloat(a.number) || 0) - (parseFloat(b.number) || 0);
+      });
+      var chCount = chs.length || manga.chaptersCount || 0;
+      var firstCh = sortedChsAsc.length > 0 ? sortedChsAsc[0] : null;
+      var lastCh = sortedChsAsc.length > 0 ? sortedChsAsc[sortedChsAsc.length - 1] : null;
+
+      var statusLabel = manga.status === 'ongoing' ? 'Em Andamento' : 'Completo';
+      var statusClass = manga.status === 'ongoing' ? 'status-ongoing' : 'status-completed';
+      var isFav = isFavorite(manga.id);
+
+      document.getElementById('mangaHero').innerHTML = `
+        <div class="hero-bg"></div>
+        <div class="container content">
+          <div class="cover">
+            <img src="${manga.cover}" alt="${manga.title}" referrerPolicy="no-referrer" onerror="this.src='https://placehold.co/300x400/1a1a1a/444?text=?'">
+          </div>
+          <div class="hero-info">
+            <h1>${manga.title}</h1>
+            <div class="alt-title">${manga.altTitle || ''}</div>
+            <div class="tags">
+              ${(manga.genres || ['Manga']).map(function(g) { return '<span class="tag" onclick="event.stopPropagation();window.location.href=\'catalog.html?genre=' + encodeURIComponent(g) + '\'">' + g + '</span>'; }).join('')}
+              <span class="tag ${statusClass}">${statusLabel}</span>
+            </div>
+            <div class="stats-row">
+              <div class="stat"><div class="value">★ ${manga.rating || 0}</div><div class="label">Avaliação</div></div>
+              <div class="stat"><div class="value">${chCount}</div><div class="label">Capítulos</div></div>
+              <div class="stat"><div class="value" id="mangaViewsCount">-</div><div class="label">Views</div></div>
+              <div class="stat"><div class="value">${manga.year || '-'}</div><div class="label">Ano</div></div>
+              <div class="stat"><div class="value">${manga.author || 'Desconhecido'}</div><div class="label">Autor</div></div>
+            </div>
+            <div class="actions" style="margin-top:20px; display:flex; flex-direction:column; gap:16px;">
+              ${availableLangs.length > 1 ? `
+              <div class="lang-selector" style="display:flex; align-items:center; gap:8px;">
+                <span style="font-size:0.85rem; color:var(--text-muted);">Ler em:</span>
+                ${availableLangs.map(function(l) {
+                  var isSel = l === lang;
+                  var label = l === 'pt' ? '🇵🇹 Português' : '🇬🇧 English';
+                  return `<button onclick="switchMangaLang('${l}')" style="padding:6px 12px; font-size:0.8rem; border-radius:14px; border:1px solid ${isSel ? 'var(--accent)' : 'var(--border)'}; background:${isSel ? 'var(--accent)' : 'rgba(255,255,255,0.05)'}; color:${isSel ? '#000' : 'var(--text)'}; font-weight:${isSel ? '600' : 'normal'}; cursor:pointer; transition:all 0.2s;">${label}</button>`;
+                }).join('')}
+              </div>
+              ` : ''}
+              <div style="display:flex; gap:12px; flex-wrap:wrap;">
+                ${firstCh ? '<a href="reader.html?manga=' + manga.id + '&chapter=' + firstCh.id + '&lang=' + lang + '" class="btn btn-primary">📖 Começar Leitura</a>' : ''}
+                ${lastCh ? '<a href="reader.html?manga=' + manga.id + '&chapter=' + lastCh.id + '&lang=' + lang + '" class="btn btn-secondary">Último Capítulo</a>' : ''}
+                <button class="btn btn-fav${isFav ? ' favorited' : ''}" onclick="toggleFavPage('${manga.id}')" id="favBtn">${isFav ? '♥ Favoritado' : '♡ Favoritar'}</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      `;
+
+      window.switchMangaLang = function(newLang) {
+        const url = new URL(window.location.href);
+        url.searchParams.set('lang', newLang);
+        window.location.href = url.toString();
+      };
+
+      window.toggleFavPage = function(id) {
+        var now = toggleFavorite(id);
+        var btn = document.getElementById('favBtn');
+        btn.textContent = now ? '♥ Favoritado' : '♡ Favoritar';
+        btn.classList.toggle('favorited', now);
+        showToast(now ? 'Adicionado aos <span class="toast-accent">favoritos</span>' : 'Removido dos <span class="toast-accent">favoritos</span>');
+      };
+
+      // Tabs
+      var tabs = lang === 'pt'
+        ? ['Visão Geral', 'Capítulos', 'Relacionados']
+        : ['Overview', 'Chapters', 'Related'];
+      var tabIds = ['tabOverview', 'tabChapters', 'tabRelated'];
+      var tabContainer = document.getElementById('detailTabs');
+      tabContainer.innerHTML = tabs.map(function(t, i) {
+        return '<button class="tab ' + (i === 0 ? 'active' : '') + '" onclick="switchTab(' + i + ')">' + t + '</button>';
+      }).join('');
+
+      window.switchTab = function(idx) {
+        document.querySelectorAll('.detail-tabs .tab').forEach(function(t, i) { t.classList.toggle('active', i === idx); });
+        tabIds.forEach(function(id, i) { document.getElementById(id).classList.toggle('active', i === idx); });
+      };
+
+      // Helper: replace external site name references with our brand name
+      var SITE_NAME = 'MangaBankai';
+      function cleanSynopsis(text) {
+        if (!text) return '';
+        return text
+          .replace(/,?\s*online\s+gr[aá]tis\s+no\s+Leitura\s+Manga\.?/gi, ' no ' + SITE_NAME + '.')
+          .replace(/\s*Acompanhe\s+cap[ií]tulos\s+atualizados\s+com\s+imagens\s+em\s+alta\s+qualidade\.?/gi, '')
+          .replace(/\s*no\s+Leitura\s+Manga\.?/gi, ' no ' + SITE_NAME + '.')
+          .replace(/Leitura\s+Manga/gi, SITE_NAME)
+          .replace(/leituramanga\.net/gi, 'mangabankai')
+          .replace(/\.{2,}/g, '.').trim();
+      }
+
+      // Tab 1: Overview
+      var rawSynopsis = (lang === 'pt' && manga.descriptionPt)
+        ? manga.descriptionPt
+        : (manga.description || (lang === 'pt' ? 'Sem descrição disponível.' : 'No description available.'));
+      var synopsis = cleanSynopsis(rawSynopsis);
+      document.getElementById('tabOverview').innerHTML = `
+        <div class="description">${synopsis}</div>
+        <div class="info-grid">
+          <div class="info-item"><label>Autor</label><span>${manga.author || 'Desconhecido'}</span></div>
+          <div class="info-item"><label>Artista</label><span>${manga.artist || manga.author || 'Desconhecido'}</span></div>
+          <div class="info-item"><label>Ano de Lançamento</label><span>${manga.year || '-'}</span></div>
+          <div class="info-item"><label>Status</label><span>${statusLabel}</span></div>
+          <div class="info-item"><label>Total de Capítulos</label><span>${chCount}</span></div>
+          <div class="info-item"><label>Avaliação</label><span>★ ${manga.rating || 0}</span></div>
+          <div class="info-item"><label>Idioma</label><span>${lang.toUpperCase()}</span></div>
+        </div>
+      `;
+
+      // Tab 2: Chapters
+      var chSection = document.getElementById('tabChapters');
+      chSection.innerHTML = `
+        <div class="chapter-section">
+          <div class="ch-toolbar">
+            <h2>Lista de Capítulos (${chCount})</h2>
+            <div class="ch-controls">
+              <select id="chSort" onchange="renderChapters()">
+                <option value="desc">Mais Recentes Primeiro</option>
+                <option value="asc">Mais Antigos Primeiro</option>
+              </select>
+            </div>
+          </div>
+          <div class="chapter-list" id="chList"></div>
+        </div>
+      `;
+
+      window.renderChapters = function() {
+        var sort = document.getElementById('chSort').value;
+        var list = [].concat(chs).sort(function(a, b) {
+          var numA = parseFloat(a.number) || 0;
+          var numB = parseFloat(b.number) || 0;
+          if (numA !== numB) {
+            return sort === 'desc' ? numB - numA : numA - numB;
+          }
+          var da = new Date(a.date || 0);
+          var db = new Date(b.date || 0);
+          return sort === 'desc' ? db - da : da - db;
+        });
+        var container = document.getElementById('chList');
+        container.innerHTML = '';
+        list.forEach(function(c) {
+          var item = document.createElement('a');
+          item.className = 'chapter-item';
+          item.href = 'reader.html?manga=' + manga.id + '&chapter=' + c.id + '&lang=' + lang;
+          item.innerHTML = '<div class="left"><span class="ch-num">Capítulo ' + c.number + '</span><span class="ch-title">' + (c.title || '') + '</span></div><div class="right"><span class="ch-date">' + (c.date ? c.date.substring(0, 10) : '') + '</span></div>';
+          container.appendChild(item);
+        });
+      };
+      window.renderChapters();
+
+      // Tab 3: Related
+      var hasRealGenres = manga.genres && manga.genres.length > 0 && !(manga.genres.length === 1 && manga.genres[0] === 'Manga');
+      var related = MANGA_DATA
+        .filter(function(m) { return m.id !== manga.id; })
+        .filter(function(m) {
+          if (hasRealGenres) return m.genres && m.genres.some(function(g) { return manga.genres.includes(g); });
+          return m.author && manga.author && m.author === manga.author;
+        })
+        .sort(function(a, b) {
+          var overlapA = a.genres ? a.genres.filter(function(g) { return manga.genres && manga.genres.includes(g); }).length : 0;
+          var overlapB = b.genres ? b.genres.filter(function(g) { return manga.genres && manga.genres.includes(g); }).length : 0;
+          return overlapB - overlapA;
+        })
+        .slice(0, 6);
+
+      document.getElementById('tabRelated').innerHTML = related.length > 0
+        ? '<h2 style="margin-bottom:16px;font-size:1.1rem">Mangás Relacionados</h2><div class="related-grid">' + related.map(function(m) {
+            return '<div class="manga-card" onclick="window.location.href=\'manga.html?id=' + m.id + '\'">' +
+              '<div class="cover"><img src="' + m.cover + '" alt="' + m.title + '" referrerPolicy="no-referrer" loading="lazy" onerror="this.src=\'https://placehold.co/300x400/1a1a1a/444?text=?\')"><span class="badge ' + (m.status === 'ongoing' ? 'ongoing' : 'completed') + '">' + (m.status === 'ongoing' ? 'Em andamento' : 'Completo') + '</span></div>' +
+              '<div class="info"><h3>' + m.title + '</h3><div class="meta"><span class="rating">★ ' + (m.rating || 0) + '</span></div></div>' +
+              '</div>';
+          }).join('') + '</div>'
+        : '<p style="color:var(--text-muted)">Nenhum mangá relacionado encontrado.</p>';
+
+      // Carregar views do mangá
+      try {
+        fetch(`/api/manga/views?mangaId=${encodeURIComponent(mangaId)}`)
+          .then(res => res.json())
+          .then(data => {
+            const countEl = document.getElementById('mangaViewsCount');
+            if (countEl) countEl.textContent = (data.count || 0).toLocaleString('pt-BR');
+          });
+      } catch (e) {}
+    })();
+  </script>
+</body>
+</html>

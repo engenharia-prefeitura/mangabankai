@@ -1,0 +1,1431 @@
+{
+  "pt": [
+    {
+      "id": "leviata-chapter-0",
+      "number": 0,
+      "title": "Capítulo 0",
+      "date": "2026-06-23T19:54:25.655Z",
+      "pages": [
+        "https://cdn.leituramanga.net/leviata/capitulo-0/page-1-1.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-0/page-1-2.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-0/page-2-1.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-0/page-2-2.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-0/page-3-1.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-0/page-3-2.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-0/page-4-1.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-0/page-4-2.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-0/page-5-1.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-0/page-5-2.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-0/page-6-1.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-0/page-6-2.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-0/page-7-1.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-0/page-7-2.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-0/page-8.webp"
+      ]
+    },
+    {
+      "id": "leviata-chapter-2",
+      "number": 2,
+      "title": "Capítulo 2",
+      "date": "2025-11-04T16:55:10.497Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-3",
+      "number": 3,
+      "title": "Capítulo 3",
+      "date": "2025-11-04T16:55:46.048Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-4",
+      "number": 4,
+      "title": "Capítulo 4",
+      "date": "2025-11-04T16:56:16.621Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-5",
+      "number": 5,
+      "title": "Capítulo 5",
+      "date": "2025-11-04T16:56:45.393Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-6",
+      "number": 6,
+      "title": "Capítulo 6",
+      "date": "2025-11-04T16:57:16.055Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-7",
+      "number": 7,
+      "title": "Capítulo 7",
+      "date": "2025-11-04T16:57:50.193Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-8",
+      "number": 8,
+      "title": "Capítulo 8",
+      "date": "2025-11-04T16:58:40.561Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-9",
+      "number": 9,
+      "title": "Capítulo 9",
+      "date": "2025-11-04T16:59:05.260Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-10",
+      "number": 10,
+      "title": "Capítulo 10",
+      "date": "2025-11-04T16:59:40.662Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-11",
+      "number": 11,
+      "title": "Capítulo 11",
+      "date": "2025-11-04T17:00:23.087Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-12",
+      "number": 12,
+      "title": "Capítulo 12",
+      "date": "2025-11-04T17:00:56.809Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-13",
+      "number": 13,
+      "title": "Capítulo 13",
+      "date": "2025-11-04T17:01:41.084Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-14",
+      "number": 14,
+      "title": "Capítulo 14",
+      "date": "2025-11-04T17:02:17.027Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-15",
+      "number": 15,
+      "title": "Capítulo 15",
+      "date": "2025-11-04T17:02:43.746Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-16",
+      "number": 16,
+      "title": "Capítulo 16",
+      "date": "2025-11-04T17:03:15.994Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-17",
+      "number": 17,
+      "title": "Capítulo 17",
+      "date": "2025-11-04T17:03:34.115Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-18",
+      "number": 18,
+      "title": "Capítulo 18",
+      "date": "2025-11-04T17:04:08.212Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-19",
+      "number": 19,
+      "title": "Capítulo 19",
+      "date": "2025-11-04T17:04:47.125Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-20",
+      "number": 20,
+      "title": "Capítulo 20",
+      "date": "2025-11-04T17:05:19.289Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-21",
+      "number": 21,
+      "title": "Capítulo 21",
+      "date": "2025-11-04T17:05:50.407Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-22",
+      "number": 22,
+      "title": "Capítulo 22",
+      "date": "2025-11-04T17:06:25.217Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-23",
+      "number": 23,
+      "title": "Capítulo 23",
+      "date": "2025-11-04T17:06:58.209Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-24",
+      "number": 24,
+      "title": "Capítulo 24",
+      "date": "2025-11-04T17:07:24.911Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-25",
+      "number": 25,
+      "title": "Capítulo 25",
+      "date": "2025-11-04T17:07:49.322Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-26",
+      "number": 26,
+      "title": "Capítulo 26",
+      "date": "2025-11-04T17:08:32.410Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-27",
+      "number": 27,
+      "title": "Capítulo 27",
+      "date": "2025-11-04T17:08:57.653Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-28",
+      "number": 28,
+      "title": "Capítulo 28",
+      "date": "2025-11-04T17:09:30.241Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-29",
+      "number": 29,
+      "title": "Capítulo 29",
+      "date": "2025-11-04T17:10:00.142Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-30",
+      "number": 30,
+      "title": "Capítulo 30",
+      "date": "2025-11-04T17:10:34.607Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-31",
+      "number": 31,
+      "title": "Capítulo 31",
+      "date": "2025-11-04T17:11:06.523Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-32",
+      "number": 32,
+      "title": "Capítulo 32",
+      "date": "2025-11-04T17:11:34.304Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-33",
+      "number": 33,
+      "title": "Capítulo 33",
+      "date": "2025-11-04T17:12:07.327Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-34",
+      "number": 34,
+      "title": "Capítulo 34",
+      "date": "2025-11-04T17:12:26.045Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-35",
+      "number": 35,
+      "title": "Capítulo 35",
+      "date": "2025-11-04T17:13:04.100Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-36",
+      "number": 36,
+      "title": "Capítulo 36",
+      "date": "2025-11-04T17:13:29.013Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-37",
+      "number": 37,
+      "title": "Capítulo 37",
+      "date": "2025-11-04T17:13:58.151Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-38",
+      "number": 38,
+      "title": "Capítulo 38",
+      "date": "2025-11-04T17:14:34.063Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-39",
+      "number": 39,
+      "title": "Capítulo 39",
+      "date": "2025-11-04T17:15:12.336Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-40",
+      "number": 40,
+      "title": "Capítulo 40",
+      "date": "2025-11-04T17:15:40.617Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-41",
+      "number": 41,
+      "title": "Capítulo 41",
+      "date": "2025-11-04T17:16:07.083Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-42",
+      "number": 42,
+      "title": "Capítulo 42",
+      "date": "2025-11-04T17:16:35.420Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-43",
+      "number": 43,
+      "title": "Capítulo 43",
+      "date": "2025-11-04T17:16:59.812Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-44",
+      "number": 44,
+      "title": "Capítulo 44",
+      "date": "2025-11-04T17:17:29.566Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-45",
+      "number": 45,
+      "title": "Capítulo 45",
+      "date": "2025-11-04T17:18:07.970Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-46",
+      "number": 46,
+      "title": "Capítulo 46",
+      "date": "2025-11-04T17:18:54.016Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-47",
+      "number": 47,
+      "title": "Capítulo 47",
+      "date": "2025-11-04T17:19:08.970Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-48",
+      "number": 48,
+      "title": "Capítulo 48",
+      "date": "2025-11-04T17:19:26.183Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-49",
+      "number": 49,
+      "title": "Capítulo 49",
+      "date": "2025-11-04T17:19:40.589Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-50",
+      "number": 50,
+      "title": "Capítulo 50",
+      "date": "2025-11-04T17:19:56.656Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-51",
+      "number": 51,
+      "title": "Capítulo 51",
+      "date": "2025-11-04T17:20:13.707Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-52",
+      "number": 52,
+      "title": "Capítulo 52",
+      "date": "2025-11-04T17:20:29.537Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-53",
+      "number": 53,
+      "title": "Capítulo 53",
+      "date": "2025-11-04T17:20:45.752Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-54",
+      "number": 54,
+      "title": "Capítulo 54",
+      "date": "2025-11-04T17:21:05.630Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-55",
+      "number": 55,
+      "title": "Capítulo 55",
+      "date": "2025-11-04T17:21:23.769Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-56",
+      "number": 56,
+      "title": "Capítulo 56",
+      "date": "2025-11-04T17:21:38.682Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-57",
+      "number": 57,
+      "title": "Capítulo 57",
+      "date": "2025-11-04T17:21:56.304Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-58",
+      "number": 58,
+      "title": "Capítulo 58",
+      "date": "2025-11-04T17:22:10.094Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-59",
+      "number": 59,
+      "title": "Capítulo 59",
+      "date": "2025-11-04T17:22:22.483Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-60",
+      "number": 60,
+      "title": "Capítulo 60",
+      "date": "2025-11-04T17:22:38.327Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-61",
+      "number": 61,
+      "title": "Capítulo 61",
+      "date": "2025-11-04T17:22:54.683Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-62",
+      "number": 62,
+      "title": "Capítulo 62",
+      "date": "2025-11-04T17:23:05.742Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-63",
+      "number": 63,
+      "title": "Capítulo 63",
+      "date": "2025-11-04T17:23:19.574Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-64",
+      "number": 64,
+      "title": "Capítulo 64",
+      "date": "2025-11-04T17:23:34.342Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-65",
+      "number": 65,
+      "title": "Capítulo 65",
+      "date": "2025-11-04T17:23:47.260Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-66",
+      "number": 66,
+      "title": "Capítulo 66",
+      "date": "2025-11-04T17:23:57.781Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-67",
+      "number": 67,
+      "title": "Capítulo 67",
+      "date": "2025-11-04T17:24:13.303Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-68",
+      "number": 68,
+      "title": "Capítulo 68",
+      "date": "2025-11-04T17:24:26.340Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-69",
+      "number": 69,
+      "title": "Capítulo 69",
+      "date": "2025-11-04T17:24:40.697Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-70",
+      "number": 70,
+      "title": "Capítulo 70",
+      "date": "2025-11-04T17:24:51.149Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-71",
+      "number": 71,
+      "title": "Capítulo 71",
+      "date": "2025-11-04T17:25:02.559Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-72",
+      "number": 72,
+      "title": "Capítulo 72",
+      "date": "2025-11-04T17:25:22.999Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-73",
+      "number": 73,
+      "title": "Capítulo 73",
+      "date": "2025-11-04T17:25:37.152Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-74",
+      "number": 74,
+      "title": "Capítulo 74",
+      "date": "2025-11-04T17:25:52.695Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-75",
+      "number": 75,
+      "title": "Capítulo 75",
+      "date": "2025-11-04T17:26:09.030Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-76",
+      "number": 76,
+      "title": "Capítulo 76",
+      "date": "2025-11-04T17:26:22.760Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-77",
+      "number": 77,
+      "title": "Capítulo 77",
+      "date": "2025-11-04T17:26:36.994Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-78",
+      "number": 78,
+      "title": "Capítulo 78",
+      "date": "2025-11-04T17:26:51.775Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-79",
+      "number": 79,
+      "title": "Capítulo 79",
+      "date": "2025-11-04T17:27:05.267Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-80",
+      "number": 80,
+      "title": "Capítulo 80",
+      "date": "2025-11-04T17:27:21.213Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-81",
+      "number": 81,
+      "title": "Capítulo 81",
+      "date": "2025-11-04T17:27:35.264Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-82",
+      "number": 82,
+      "title": "Capítulo 82",
+      "date": "2025-11-04T17:27:48.938Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-83",
+      "number": 83,
+      "title": "Capítulo 83",
+      "date": "2025-11-04T17:28:01.873Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-84",
+      "number": 84,
+      "title": "Capítulo 84",
+      "date": "2025-11-04T17:28:15.740Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-85",
+      "number": 85,
+      "title": "Capítulo 85",
+      "date": "2025-11-04T17:28:31.115Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-86",
+      "number": 86,
+      "title": "Capítulo 86",
+      "date": "2025-11-04T17:28:47.454Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-87",
+      "number": 87,
+      "title": "Capítulo 87",
+      "date": "2025-11-04T17:29:01.390Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-88",
+      "number": 88,
+      "title": "Capítulo 88",
+      "date": "2025-11-04T17:29:18.134Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-89",
+      "number": 89,
+      "title": "Capítulo 89",
+      "date": "2025-11-04T17:29:36.427Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-90",
+      "number": 90,
+      "title": "Capítulo 90",
+      "date": "2025-11-04T17:29:53.455Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-91",
+      "number": 91,
+      "title": "Capítulo 91",
+      "date": "2025-11-04T17:30:09.579Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-92",
+      "number": 92,
+      "title": "Capítulo 92",
+      "date": "2025-11-04T17:30:26.181Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-93",
+      "number": 93,
+      "title": "Capítulo 93",
+      "date": "2025-11-04T17:30:42.744Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-94",
+      "number": 94,
+      "title": "Capítulo 94",
+      "date": "2025-11-04T17:30:57.376Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-95",
+      "number": 95,
+      "title": "Capítulo 95",
+      "date": "2025-11-04T17:31:07.754Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-96",
+      "number": 96,
+      "title": "Capítulo 96",
+      "date": "2025-11-04T17:31:24.704Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-97",
+      "number": 97,
+      "title": "Capítulo 97",
+      "date": "2025-11-04T17:31:42.612Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-98",
+      "number": 98,
+      "title": "Capítulo 98",
+      "date": "2025-11-04T17:31:54.519Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-99",
+      "number": 99,
+      "title": "Capítulo 99",
+      "date": "2025-11-04T17:32:07.260Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-100",
+      "number": 100,
+      "title": "Capítulo 100",
+      "date": "2025-11-04T17:32:24.281Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-101",
+      "number": 101,
+      "title": "Capítulo 101",
+      "date": "2025-11-04T17:32:41.215Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-102",
+      "number": 102,
+      "title": "Capítulo 102",
+      "date": "2025-11-04T17:33:00.013Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-103",
+      "number": 103,
+      "title": "Capítulo 103",
+      "date": "2025-11-04T17:33:15.160Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-104",
+      "number": 104,
+      "title": "Capítulo 104",
+      "date": "2025-11-04T17:33:33.477Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-105",
+      "number": 105,
+      "title": "Capítulo 105",
+      "date": "2025-11-04T17:33:44.731Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-106",
+      "number": 106,
+      "title": "Capítulo 106",
+      "date": "2025-11-04T17:33:56.714Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-107",
+      "number": 107,
+      "title": "Capítulo 107",
+      "date": "2025-11-04T17:34:08.360Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-108",
+      "number": 108,
+      "title": "Capítulo 108",
+      "date": "2025-11-04T17:34:25.131Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-109",
+      "number": 109,
+      "title": "Capítulo 109",
+      "date": "2025-11-04T17:34:40.202Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-110",
+      "number": 110,
+      "title": "Capítulo 110",
+      "date": "2025-11-04T17:34:54.054Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-111",
+      "number": 111,
+      "title": "Capítulo 111",
+      "date": "2025-11-04T17:35:11.574Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-112",
+      "number": 112,
+      "title": "Capítulo 112",
+      "date": "2025-11-04T17:35:25.810Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-113",
+      "number": 113,
+      "title": "Capítulo 113",
+      "date": "2025-11-04T17:35:42.676Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-114",
+      "number": 114,
+      "title": "Capítulo 114",
+      "date": "2025-11-04T17:35:58.385Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-115",
+      "number": 115,
+      "title": "Capítulo 115",
+      "date": "2025-11-04T17:36:14.686Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-116",
+      "number": 116,
+      "title": "Capítulo 116",
+      "date": "2025-11-04T17:36:28.643Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-117",
+      "number": 117,
+      "title": "Capítulo 117",
+      "date": "2025-11-04T17:36:42.852Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-118",
+      "number": 118,
+      "title": "Capítulo 118",
+      "date": "2025-11-04T17:36:57.502Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-119",
+      "number": 119,
+      "title": "Capítulo 119",
+      "date": "2025-11-04T17:37:10.719Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-120",
+      "number": 120,
+      "title": "Capítulo 120",
+      "date": "2025-11-04T17:37:23.247Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-121",
+      "number": 121,
+      "title": "Capítulo 121",
+      "date": "2025-11-04T17:37:38.673Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-122",
+      "number": 122,
+      "title": "Capítulo 122",
+      "date": "2025-11-04T17:37:49.830Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-123",
+      "number": 123,
+      "title": "Capítulo 123",
+      "date": "2025-11-04T17:38:06.259Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-124",
+      "number": 124,
+      "title": "Capítulo 124",
+      "date": "2025-11-04T17:38:18.639Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-125",
+      "number": 125,
+      "title": "Capítulo 125",
+      "date": "2025-11-04T17:38:32.703Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-126",
+      "number": 126,
+      "title": "Capítulo 126",
+      "date": "2025-11-04T17:38:48.192Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-127",
+      "number": 127,
+      "title": "Capítulo 127",
+      "date": "2025-11-04T17:39:00.130Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-128",
+      "number": 128,
+      "title": "Capítulo 128",
+      "date": "2025-11-04T17:39:13.721Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-129",
+      "number": 129,
+      "title": "Capítulo 129",
+      "date": "2025-11-04T17:39:28.337Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-130",
+      "number": 130,
+      "title": "Capítulo 130",
+      "date": "2025-11-04T17:39:40.047Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-131",
+      "number": 131,
+      "title": "Capítulo 131",
+      "date": "2025-11-04T17:39:54.358Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-132",
+      "number": 132,
+      "title": "Capítulo 132",
+      "date": "2025-11-04T17:40:10.008Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-133",
+      "number": 133,
+      "title": "Capítulo 133",
+      "date": "2025-11-04T17:40:23.630Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-134",
+      "number": 134,
+      "title": "Capítulo 134",
+      "date": "2025-11-04T17:40:37.020Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-135",
+      "number": 135,
+      "title": "Capítulo 135",
+      "date": "2025-11-04T17:40:55.501Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-136",
+      "number": 136,
+      "title": "Capítulo 136",
+      "date": "2025-11-04T17:41:09.766Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-137",
+      "number": 137,
+      "title": "Capítulo 137",
+      "date": "2025-11-04T17:41:22.331Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-138",
+      "number": 138,
+      "title": "Capítulo 138",
+      "date": "2025-11-04T17:41:37.187Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-139",
+      "number": 139,
+      "title": "Capítulo 139",
+      "date": "2025-11-04T17:41:52.412Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-140",
+      "number": 140,
+      "title": "Capítulo 140",
+      "date": "2025-11-04T17:42:11.702Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-141",
+      "number": 141,
+      "title": "Capítulo 141",
+      "date": "2025-11-04T17:42:29.956Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-142",
+      "number": 142,
+      "title": "Capítulo 142",
+      "date": "2025-11-04T17:42:46.634Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-143",
+      "number": 143,
+      "title": "Capítulo 143",
+      "date": "2025-11-04T17:43:00.674Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-144",
+      "number": 144,
+      "title": "Capítulo 144",
+      "date": "2025-11-04T17:43:14.395Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-145",
+      "number": 145,
+      "title": "Capítulo 145",
+      "date": "2025-11-04T17:43:32.397Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-146",
+      "number": 146,
+      "title": "Capítulo 146",
+      "date": "2025-11-04T17:43:49.684Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-147",
+      "number": 147,
+      "title": "Capítulo 147",
+      "date": "2025-11-04T17:44:07.993Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-148",
+      "number": 148,
+      "title": "Capítulo 148",
+      "date": "2025-11-04T17:44:23.981Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-149",
+      "number": 149,
+      "title": "Capítulo 149",
+      "date": "2025-11-04T17:44:46.949Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-150",
+      "number": 150,
+      "title": "Capítulo 150",
+      "date": "2025-11-04T17:45:10.282Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-151",
+      "number": 151,
+      "title": "Capítulo 151",
+      "date": "2025-11-04T17:45:31.058Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-152",
+      "number": 152,
+      "title": "Capítulo 152",
+      "date": "2025-11-04T17:45:44.995Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-153",
+      "number": 153,
+      "title": "Capítulo 153",
+      "date": "2025-11-04T17:46:07.040Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-154",
+      "number": 154,
+      "title": "Capítulo 154",
+      "date": "2025-11-04T17:46:26.163Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-155",
+      "number": 155,
+      "title": "Capítulo 155",
+      "date": "2025-11-04T17:46:46.773Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-156",
+      "number": 156,
+      "title": "Capítulo 156",
+      "date": "2025-11-04T17:47:09.740Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-157",
+      "number": 157,
+      "title": "Capítulo 157",
+      "date": "2025-11-04T17:47:28.212Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-158",
+      "number": 158,
+      "title": "Capítulo 158",
+      "date": "2025-11-04T17:47:44.733Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-159",
+      "number": 159,
+      "title": "Capítulo 159",
+      "date": "2025-11-04T17:48:08.176Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-160",
+      "number": 160,
+      "title": "Capítulo 160",
+      "date": "2025-11-04T17:48:29.667Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-161",
+      "number": 161,
+      "title": "Capítulo 161",
+      "date": "2025-11-04T17:48:52.593Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-162",
+      "number": 162,
+      "title": "Capítulo 162",
+      "date": "2025-11-04T17:49:18.776Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-163",
+      "number": 163,
+      "title": "Capítulo 163",
+      "date": "2025-11-04T17:49:41.632Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-164",
+      "number": 164,
+      "title": "Capítulo 164",
+      "date": "2025-11-04T17:50:13.625Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-165",
+      "number": 165,
+      "title": "Capítulo 165",
+      "date": "2025-11-04T17:50:40.468Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-166",
+      "number": 166,
+      "title": "Capítulo 166",
+      "date": "2025-11-04T17:51:04.157Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-167",
+      "number": 167,
+      "title": "Capítulo 167",
+      "date": "2025-11-04T17:51:25.933Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-168",
+      "number": 168,
+      "title": "Capítulo 168",
+      "date": "2025-11-04T17:51:52.082Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-169",
+      "number": 169,
+      "title": "Capítulo 169",
+      "date": "2025-11-04T17:52:30.474Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-170",
+      "number": 170,
+      "title": "Capítulo 170",
+      "date": "2025-11-04T17:52:51.425Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-171",
+      "number": 171,
+      "title": "Capítulo 171",
+      "date": "2025-11-04T17:53:22.460Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-172",
+      "number": 172,
+      "title": "Capítulo 172",
+      "date": "2025-11-04T17:53:41.793Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-173",
+      "number": 173,
+      "title": "Capítulo 173",
+      "date": "2025-11-04T17:54:00.945Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-174",
+      "number": 174,
+      "title": "Capítulo 174",
+      "date": "2025-11-04T17:54:22.828Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-175",
+      "number": 175,
+      "title": "Capítulo 175",
+      "date": "2025-11-04T17:54:40.040Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-176",
+      "number": 176,
+      "title": "Capítulo 176",
+      "date": "2025-11-04T17:54:59.972Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-177",
+      "number": 177,
+      "title": "Capítulo 177",
+      "date": "2025-11-04T17:55:12.555Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-178",
+      "number": 178,
+      "title": "Capítulo 178",
+      "date": "2025-11-04T17:55:23.137Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-179",
+      "number": 179,
+      "title": "Capítulo 179",
+      "date": "2025-11-04T17:55:33.924Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-180",
+      "number": 180,
+      "title": "Capítulo 180",
+      "date": "2025-11-04T17:55:48.335Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-181",
+      "number": 181,
+      "title": "Capítulo 181",
+      "date": "2025-11-04T17:55:57.753Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-182",
+      "number": 182,
+      "title": "Capítulo 182",
+      "date": "2025-11-04T17:56:08.506Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-183",
+      "number": 183,
+      "title": "Capítulo 183",
+      "date": "2025-11-04T17:56:20.571Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-184",
+      "number": 184,
+      "title": "Capítulo 184",
+      "date": "2025-11-04T17:56:30.394Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-185",
+      "number": 185,
+      "title": "Capítulo 185",
+      "date": "2025-11-04T17:56:40.570Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-186",
+      "number": 186,
+      "title": "Capítulo 186",
+      "date": "2025-11-04T17:56:50.396Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-187",
+      "number": 187,
+      "title": "Capítulo 187",
+      "date": "2025-11-04T17:57:02.509Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-188",
+      "number": 188,
+      "title": "Capítulo 188",
+      "date": "2025-11-04T17:57:14.381Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-189",
+      "number": 189,
+      "title": "Capítulo 189",
+      "date": "2025-11-04T17:57:23.915Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-190",
+      "number": 190,
+      "title": "Capítulo 190",
+      "date": "2025-11-04T17:57:33.348Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-191",
+      "number": 191,
+      "title": "Capítulo 191",
+      "date": "2025-11-04T17:57:44.586Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-192",
+      "number": 192,
+      "title": "Capítulo 192",
+      "date": "2025-11-04T17:57:55.524Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-193",
+      "number": 193,
+      "title": "Capítulo 193",
+      "date": "2025-11-04T17:58:05.569Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-194",
+      "number": 194,
+      "title": "Capítulo 194",
+      "date": "2025-11-04T17:58:17.205Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-195",
+      "number": 195,
+      "title": "Capítulo 195",
+      "date": "2025-11-04T17:58:26.279Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-196",
+      "number": 196,
+      "title": "Capítulo 196",
+      "date": "2025-11-04T17:58:37.715Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-197",
+      "number": 197,
+      "title": "Capítulo 197",
+      "date": "2025-11-04T17:58:48.855Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-198",
+      "number": 198,
+      "title": "Capítulo 198",
+      "date": "2025-11-04T17:59:00.349Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-199",
+      "number": 199,
+      "title": "Capítulo 199",
+      "date": "2026-06-23T19:54:26.143Z",
+      "pages": [
+        "https://cdn.leituramanga.net/leviata/capitulo-199-fim/page-1-1.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-199-fim/page-1-2.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-199-fim/page-2-1.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-199-fim/page-2-2.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-199-fim/page-3-1.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-199-fim/page-3-2.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-199-fim/page-4-1.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-199-fim/page-4-2.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-199-fim/page-5-1.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-199-fim/page-5-2.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-199-fim/page-6-1.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-199-fim/page-6-2.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-199-fim/page-7-1.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-199-fim/page-7-2.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-199-fim/page-8-1.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-199-fim/page-8-2.webp",
+        "https://cdn.leituramanga.net/leviata/capitulo-199-fim/page-9.webp"
+      ]
+    }
+  ]
+}

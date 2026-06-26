@@ -1,0 +1,3481 @@
+{
+  "en": [
+    {
+      "id": "blue-box-1",
+      "number": "1",
+      "title": "",
+      "date": "2021/07/12",
+      "pages": []
+    },
+    {
+      "id": "blue-box-2",
+      "number": "2",
+      "title": "",
+      "date": "2021/07/12",
+      "pages": []
+    },
+    {
+      "id": "blue-box-3",
+      "number": "3",
+      "title": "",
+      "date": "2021/07/12",
+      "pages": []
+    },
+    {
+      "id": "blue-box-4",
+      "number": "4",
+      "title": "",
+      "date": "2021/07/12",
+      "pages": []
+    },
+    {
+      "id": "blue-box-5",
+      "number": "5",
+      "title": "",
+      "date": "2021/07/12",
+      "pages": []
+    },
+    {
+      "id": "blue-box-6",
+      "number": "6",
+      "title": "",
+      "date": "2021/07/12",
+      "pages": []
+    },
+    {
+      "id": "blue-box-7",
+      "number": "7",
+      "title": "",
+      "date": "2021/07/12",
+      "pages": []
+    },
+    {
+      "id": "blue-box-8",
+      "number": "8",
+      "title": "",
+      "date": "2021/07/12",
+      "pages": []
+    },
+    {
+      "id": "blue-box-9",
+      "number": "9",
+      "title": "",
+      "date": "2021/07/12",
+      "pages": []
+    },
+    {
+      "id": "blue-box-10",
+      "number": "10",
+      "title": "",
+      "date": "2021/07/12",
+      "pages": []
+    },
+    {
+      "id": "blue-box-11",
+      "number": "11",
+      "title": "",
+      "date": "2021/07/12",
+      "pages": []
+    },
+    {
+      "id": "blue-box-12",
+      "number": "12",
+      "title": "",
+      "date": "2021/07/12",
+      "pages": []
+    },
+    {
+      "id": "blue-box-13",
+      "number": "13",
+      "title": "",
+      "date": "2021/07/12",
+      "pages": []
+    },
+    {
+      "id": "blue-box-14",
+      "number": "14",
+      "title": "Aquarium",
+      "date": "2021/07/18",
+      "pages": []
+    },
+    {
+      "id": "blue-box-15",
+      "number": "15",
+      "title": "An Ordinary Girl",
+      "date": "2021/08/01",
+      "pages": []
+    },
+    {
+      "id": "blue-box-16",
+      "number": "16",
+      "title": "Kindred Spirits",
+      "date": "2021/08/09",
+      "pages": []
+    },
+    {
+      "id": "blue-box-17",
+      "number": "17",
+      "title": "No Problems",
+      "date": "2021/08/22",
+      "pages": []
+    },
+    {
+      "id": "blue-box-18",
+      "number": "18",
+      "title": "Wish Me Luck",
+      "date": "2021/08/29",
+      "pages": []
+    },
+    {
+      "id": "blue-box-19",
+      "number": "19",
+      "title": "",
+      "date": "2021/09/05",
+      "pages": []
+    },
+    {
+      "id": "blue-box-20",
+      "number": "20",
+      "title": "Eavesdropping",
+      "date": "2021/09/12",
+      "pages": []
+    },
+    {
+      "id": "blue-box-21",
+      "number": "21",
+      "title": "Can I Have One?",
+      "date": "2021/09/17",
+      "pages": []
+    },
+    {
+      "id": "blue-box-22",
+      "number": "22",
+      "title": "Score!",
+      "date": "2021/09/26",
+      "pages": []
+    },
+    {
+      "id": "blue-box-23",
+      "number": "23",
+      "title": "I'll Defintely Get It In!",
+      "date": "2021/10/03",
+      "pages": []
+    },
+    {
+      "id": "blue-box-24",
+      "number": "24",
+      "title": "That's Just Sports",
+      "date": "2021/10/10",
+      "pages": []
+    },
+    {
+      "id": "blue-box-25",
+      "number": "25",
+      "title": "Good Job",
+      "date": "2021/10/17",
+      "pages": []
+    },
+    {
+      "id": "blue-box-26",
+      "number": "26",
+      "title": "I'll Be Rooting For You",
+      "date": "2021/10/24",
+      "pages": []
+    },
+    {
+      "id": "blue-box-27",
+      "number": "27",
+      "title": "A Chance",
+      "date": "2021/10/31",
+      "pages": []
+    },
+    {
+      "id": "blue-box-28",
+      "number": "28",
+      "title": "Your Own House",
+      "date": "2021/11/07",
+      "pages": []
+    },
+    {
+      "id": "blue-box-29",
+      "number": "29",
+      "title": "It's Not a Good Thing",
+      "date": "2021/11/14",
+      "pages": []
+    },
+    {
+      "id": "blue-box-30",
+      "number": "30",
+      "title": "Getting Closer",
+      "date": "2021/11/21",
+      "pages": []
+    },
+    {
+      "id": "blue-box-31",
+      "number": "31",
+      "title": "Is It a Date?",
+      "date": "2021/11/28",
+      "pages": []
+    },
+    {
+      "id": "blue-box-32",
+      "number": "32",
+      "title": "Uncool!",
+      "date": "2021/12/05",
+      "pages": []
+    },
+    {
+      "id": "blue-box-33",
+      "number": "33",
+      "title": "When the Underdog Wins",
+      "date": "2021/12/12",
+      "pages": []
+    },
+    {
+      "id": "blue-box-34",
+      "number": "34",
+      "title": "Girls...",
+      "date": "2021/12/19",
+      "pages": []
+    },
+    {
+      "id": "blue-box-35",
+      "number": "35",
+      "title": "Something Interesting",
+      "date": "2022/01/03",
+      "pages": []
+    },
+    {
+      "id": "blue-box-36",
+      "number": "36",
+      "title": "Better Get Going",
+      "date": "2022/01/16",
+      "pages": []
+    },
+    {
+      "id": "blue-box-37",
+      "number": "37",
+      "title": "Helloooo",
+      "date": "2022/01/23",
+      "pages": []
+    },
+    {
+      "id": "blue-box-38",
+      "number": "38",
+      "title": "A Flirt",
+      "date": "2022/01/30",
+      "pages": []
+    },
+    {
+      "id": "blue-box-39",
+      "number": "39",
+      "title": "Testing it Out",
+      "date": "2022/02/06",
+      "pages": []
+    },
+    {
+      "id": "blue-box-40",
+      "number": "40",
+      "title": "The One Who's Cool...",
+      "date": "2022/02/13",
+      "pages": []
+    },
+    {
+      "id": "blue-box-41",
+      "number": "41",
+      "title": "I Want a Back-and-Forth Rally",
+      "date": "2022/02/20",
+      "pages": []
+    },
+    {
+      "id": "blue-box-42",
+      "number": "42",
+      "title": "An Impossible Notion",
+      "date": "2022/02/27",
+      "pages": []
+    },
+    {
+      "id": "blue-box-43",
+      "number": "43",
+      "title": "What's the Connection?",
+      "date": "2022/03/06",
+      "pages": []
+    },
+    {
+      "id": "blue-box-44",
+      "number": "44",
+      "title": "It Didn't Come True",
+      "date": "2022/03/13",
+      "pages": []
+    },
+    {
+      "id": "blue-box-45",
+      "number": "45",
+      "title": "August 26",
+      "date": "2022/03/18",
+      "pages": []
+    },
+    {
+      "id": "blue-box-46",
+      "number": "46",
+      "title": "August 26, Part 2",
+      "date": "2022/03/27",
+      "pages": []
+    },
+    {
+      "id": "blue-box-47",
+      "number": "47",
+      "title": "August 26, Part 3",
+      "date": "2022/04/03",
+      "pages": []
+    },
+    {
+      "id": "blue-box-48",
+      "number": "48",
+      "title": "If We Weren't a Year Apart",
+      "date": "2022/04/10",
+      "pages": []
+    },
+    {
+      "id": "blue-box-49",
+      "number": "49",
+      "title": "At Morning Practice Again",
+      "date": "2022/04/17",
+      "pages": []
+    },
+    {
+      "id": "blue-box-50",
+      "number": "50",
+      "title": "Unfair Woman",
+      "date": "2022/04/24",
+      "pages": []
+    },
+    {
+      "id": "blue-box-51",
+      "number": "51",
+      "title": "This is Just Right",
+      "date": "2022/05/08",
+      "pages": []
+    },
+    {
+      "id": "blue-box-52",
+      "number": "52",
+      "title": "Of Course I Want to See It",
+      "date": "2022/05/15",
+      "pages": []
+    },
+    {
+      "id": "blue-box-53",
+      "number": "53",
+      "title": "Doing Great",
+      "date": "2022/05/22",
+      "pages": []
+    },
+    {
+      "id": "blue-box-54",
+      "number": "54",
+      "title": "Hydration",
+      "date": "2022/05/29",
+      "pages": []
+    },
+    {
+      "id": "blue-box-55",
+      "number": "55",
+      "title": "Inomata",
+      "date": "2022/06/05",
+      "pages": []
+    },
+    {
+      "id": "blue-box-56",
+      "number": "56",
+      "title": "Who Do I Think I Am?",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "blue-box-57",
+      "number": "57",
+      "title": "I Know",
+      "date": "2022/06/19",
+      "pages": []
+    },
+    {
+      "id": "blue-box-58",
+      "number": "58",
+      "title": "Right or Left?",
+      "date": "2022/06/26",
+      "pages": []
+    },
+    {
+      "id": "blue-box-59",
+      "number": "59",
+      "title": "We Didn't!",
+      "date": "2022/07/03",
+      "pages": []
+    },
+    {
+      "id": "blue-box-60",
+      "number": "60",
+      "title": "Let's Go See It",
+      "date": "2022/07/10",
+      "pages": []
+    },
+    {
+      "id": "blue-box-61",
+      "number": "61",
+      "title": "I've Got Plans",
+      "date": "2022/07/18",
+      "pages": []
+    },
+    {
+      "id": "blue-box-62",
+      "number": "62",
+      "title": "What'd You Say?",
+      "date": "2022/07/24",
+      "pages": []
+    },
+    {
+      "id": "blue-box-63",
+      "number": "63",
+      "title": "Help Me Out!",
+      "date": "2022/07/31",
+      "pages": []
+    },
+    {
+      "id": "blue-box-64",
+      "number": "64",
+      "title": "As One of Her Closest Friends",
+      "date": "2022/08/07",
+      "pages": []
+    },
+    {
+      "id": "blue-box-65",
+      "number": "65",
+      "title": "It's Not That",
+      "date": "2022/08/21",
+      "pages": []
+    },
+    {
+      "id": "blue-box-66",
+      "number": "66",
+      "title": "I'm Here to Lend an Ear",
+      "date": "2022/08/28",
+      "pages": []
+    },
+    {
+      "id": "blue-box-67",
+      "number": "67",
+      "title": "A Chance to Blossom",
+      "date": "2022/09/04",
+      "pages": []
+    },
+    {
+      "id": "blue-box-68",
+      "number": "68",
+      "title": "Girl Manager",
+      "date": "2022/09/11",
+      "pages": []
+    },
+    {
+      "id": "blue-box-69",
+      "number": "69",
+      "title": "Inota!",
+      "date": "2022/09/19",
+      "pages": []
+    },
+    {
+      "id": "blue-box-70",
+      "number": "70",
+      "title": "An Exciting Event",
+      "date": "2022/09/25",
+      "pages": []
+    },
+    {
+      "id": "blue-box-71",
+      "number": "71",
+      "title": "Joint Training Camp",
+      "date": "2022/10/02",
+      "pages": []
+    },
+    {
+      "id": "blue-box-72",
+      "number": "72",
+      "title": "",
+      "date": "2022/10/10",
+      "pages": []
+    },
+    {
+      "id": "blue-box-73",
+      "number": "73",
+      "title": "That's What I Know",
+      "date": "2022/10/16",
+      "pages": []
+    },
+    {
+      "id": "blue-box-74",
+      "number": "74",
+      "title": "I Don't Need an Answer",
+      "date": "2022/10/23",
+      "pages": []
+    },
+    {
+      "id": "blue-box-75",
+      "number": "75",
+      "title": "A Roller Coaster",
+      "date": "2022/10/30",
+      "pages": []
+    },
+    {
+      "id": "blue-box-76",
+      "number": "76",
+      "title": "Didn't Mean to Say",
+      "date": "2022/11/06",
+      "pages": []
+    },
+    {
+      "id": "blue-box-77",
+      "number": "77",
+      "title": "Even So",
+      "date": "2022/11/13",
+      "pages": []
+    },
+    {
+      "id": "blue-box-78",
+      "number": "78",
+      "title": "You Are Too",
+      "date": "2022/11/20",
+      "pages": []
+    },
+    {
+      "id": "blue-box-79",
+      "number": "79",
+      "title": "Shopping for a Tracksuit",
+      "date": "2022/11/27",
+      "pages": []
+    },
+    {
+      "id": "blue-box-80",
+      "number": "80",
+      "title": "",
+      "date": "2022/12/04",
+      "pages": []
+    },
+    {
+      "id": "blue-box-81",
+      "number": "81",
+      "title": "I Was Hoping You Could Try It",
+      "date": "2022/12/11",
+      "pages": []
+    },
+    {
+      "id": "blue-box-82",
+      "number": "82",
+      "title": "",
+      "date": "2022/12/18",
+      "pages": []
+    },
+    {
+      "id": "blue-box-83",
+      "number": "83",
+      "title": "",
+      "date": "2022/12/25",
+      "pages": []
+    },
+    {
+      "id": "blue-box-84",
+      "number": "84",
+      "title": "How That Made Her Feel",
+      "date": "2023/01/06",
+      "pages": []
+    },
+    {
+      "id": "blue-box-85",
+      "number": "85",
+      "title": "",
+      "date": "2023/01/22",
+      "pages": []
+    },
+    {
+      "id": "blue-box-86",
+      "number": "86",
+      "title": "",
+      "date": "2023/01/29",
+      "pages": []
+    },
+    {
+      "id": "blue-box-87",
+      "number": "87",
+      "title": "",
+      "date": "2023/02/05",
+      "pages": []
+    },
+    {
+      "id": "blue-box-88",
+      "number": "88",
+      "title": "Can't Stay Like This",
+      "date": "2023/02/12",
+      "pages": []
+    },
+    {
+      "id": "blue-box-89",
+      "number": "89",
+      "title": "",
+      "date": "2023/02/19",
+      "pages": []
+    },
+    {
+      "id": "blue-box-90",
+      "number": "90",
+      "title": "",
+      "date": "2023/02/26",
+      "pages": []
+    },
+    {
+      "id": "blue-box-91",
+      "number": "91",
+      "title": "",
+      "date": "2023/03/05",
+      "pages": []
+    },
+    {
+      "id": "blue-box-92",
+      "number": "92",
+      "title": "",
+      "date": "2023/03/12",
+      "pages": []
+    },
+    {
+      "id": "blue-box-93",
+      "number": "93",
+      "title": "",
+      "date": "2023/03/19",
+      "pages": []
+    },
+    {
+      "id": "blue-box-94",
+      "number": "94",
+      "title": "",
+      "date": "2023/03/26",
+      "pages": []
+    },
+    {
+      "id": "blue-box-95",
+      "number": "95",
+      "title": "",
+      "date": "2023/04/02",
+      "pages": []
+    },
+    {
+      "id": "blue-box-96",
+      "number": "96",
+      "title": "",
+      "date": "2023/04/09",
+      "pages": []
+    },
+    {
+      "id": "blue-box-97",
+      "number": "97",
+      "title": "",
+      "date": "2023/04/16",
+      "pages": []
+    },
+    {
+      "id": "blue-box-98",
+      "number": "98",
+      "title": "",
+      "date": "2023/04/23",
+      "pages": []
+    },
+    {
+      "id": "blue-box-99",
+      "number": "99",
+      "title": "",
+      "date": "2023/05/07",
+      "pages": []
+    },
+    {
+      "id": "blue-box-100",
+      "number": "100",
+      "title": "I Wanna See Her",
+      "date": "2023/05/14",
+      "pages": []
+    },
+    {
+      "id": "blue-box-101",
+      "number": "101",
+      "title": "",
+      "date": "2023/05/21",
+      "pages": []
+    },
+    {
+      "id": "blue-box-102",
+      "number": "102",
+      "title": "",
+      "date": "2023/05/28",
+      "pages": []
+    },
+    {
+      "id": "blue-box-103",
+      "number": "103",
+      "title": "",
+      "date": "2023/06/04",
+      "pages": []
+    },
+    {
+      "id": "blue-box-104",
+      "number": "104",
+      "title": "January 4, Midday",
+      "date": "2023/06/11",
+      "pages": []
+    },
+    {
+      "id": "blue-box-105",
+      "number": "105",
+      "title": "",
+      "date": "2023/06/18",
+      "pages": []
+    },
+    {
+      "id": "blue-box-106",
+      "number": "106",
+      "title": "So Nervous",
+      "date": "2023/06/25",
+      "pages": []
+    },
+    {
+      "id": "blue-box-107",
+      "number": "107",
+      "title": "",
+      "date": "2023/07/02",
+      "pages": []
+    },
+    {
+      "id": "blue-box-108",
+      "number": "108",
+      "title": "",
+      "date": "2023/07/09",
+      "pages": []
+    },
+    {
+      "id": "blue-box-109",
+      "number": "109",
+      "title": "",
+      "date": "2023/07/16",
+      "pages": []
+    },
+    {
+      "id": "blue-box-110",
+      "number": "110",
+      "title": "",
+      "date": "2023/07/23",
+      "pages": []
+    },
+    {
+      "id": "blue-box-111",
+      "number": "111",
+      "title": "",
+      "date": "2023/07/30",
+      "pages": []
+    },
+    {
+      "id": "blue-box-112",
+      "number": "112",
+      "title": "",
+      "date": "2023/08/06",
+      "pages": []
+    },
+    {
+      "id": "blue-box-113",
+      "number": "113",
+      "title": "",
+      "date": "2023/08/20",
+      "pages": []
+    },
+    {
+      "id": "blue-box-114",
+      "number": "114",
+      "title": "",
+      "date": "2023/08/27",
+      "pages": []
+    },
+    {
+      "id": "blue-box-115",
+      "number": "115",
+      "title": "",
+      "date": "2023/09/03",
+      "pages": []
+    },
+    {
+      "id": "blue-box-116",
+      "number": "116",
+      "title": "",
+      "date": "2023/09/10",
+      "pages": []
+    },
+    {
+      "id": "blue-box-117",
+      "number": "117",
+      "title": "",
+      "date": "2023/09/17",
+      "pages": []
+    },
+    {
+      "id": "blue-box-118",
+      "number": "118",
+      "title": "",
+      "date": "2023/09/24",
+      "pages": []
+    },
+    {
+      "id": "blue-box-119",
+      "number": "119",
+      "title": "",
+      "date": "2023/10/01",
+      "pages": []
+    },
+    {
+      "id": "blue-box-120",
+      "number": "120",
+      "title": "",
+      "date": "2023/10/08",
+      "pages": []
+    },
+    {
+      "id": "blue-box-121",
+      "number": "121",
+      "title": "",
+      "date": "2023/10/15",
+      "pages": []
+    },
+    {
+      "id": "blue-box-122",
+      "number": "122",
+      "title": "",
+      "date": "2023/10/22",
+      "pages": []
+    },
+    {
+      "id": "blue-box-123",
+      "number": "123",
+      "title": "",
+      "date": "2023/10/29",
+      "pages": []
+    },
+    {
+      "id": "blue-box-124",
+      "number": "124",
+      "title": "",
+      "date": "2023/11/05",
+      "pages": []
+    },
+    {
+      "id": "blue-box-125",
+      "number": "125",
+      "title": "",
+      "date": "2023/11/12",
+      "pages": []
+    },
+    {
+      "id": "blue-box-126",
+      "number": "126",
+      "title": "",
+      "date": "2023/11/19",
+      "pages": []
+    },
+    {
+      "id": "blue-box-127",
+      "number": "127",
+      "title": "",
+      "date": "2023/11/26",
+      "pages": []
+    },
+    {
+      "id": "blue-box-128",
+      "number": "128",
+      "title": "",
+      "date": "2023/12/03",
+      "pages": []
+    },
+    {
+      "id": "blue-box-129",
+      "number": "129",
+      "title": "",
+      "date": "2023/12/10",
+      "pages": []
+    },
+    {
+      "id": "blue-box-130",
+      "number": "130",
+      "title": "",
+      "date": "2023/12/17",
+      "pages": []
+    },
+    {
+      "id": "blue-box-131",
+      "number": "131",
+      "title": "",
+      "date": "2023/12/24",
+      "pages": []
+    },
+    {
+      "id": "blue-box-132",
+      "number": "132",
+      "title": "",
+      "date": "2024/01/05",
+      "pages": []
+    },
+    {
+      "id": "blue-box-133",
+      "number": "133",
+      "title": "",
+      "date": "2024/01/21",
+      "pages": []
+    },
+    {
+      "id": "blue-box-134",
+      "number": "134",
+      "title": "",
+      "date": "2024/01/28",
+      "pages": []
+    },
+    {
+      "id": "blue-box-135",
+      "number": "135",
+      "title": "",
+      "date": "2024/02/04",
+      "pages": []
+    },
+    {
+      "id": "blue-box-136",
+      "number": "136",
+      "title": "",
+      "date": "2024/02/11",
+      "pages": []
+    },
+    {
+      "id": "blue-box-137",
+      "number": "137",
+      "title": "",
+      "date": "2024/02/18",
+      "pages": []
+    },
+    {
+      "id": "blue-box-138",
+      "number": "138",
+      "title": "",
+      "date": "2024/02/25",
+      "pages": []
+    },
+    {
+      "id": "blue-box-139",
+      "number": "139",
+      "title": "",
+      "date": "2024/03/03",
+      "pages": []
+    },
+    {
+      "id": "blue-box-140",
+      "number": "140",
+      "title": "",
+      "date": "2024/03/10",
+      "pages": []
+    },
+    {
+      "id": "blue-box-141",
+      "number": "141",
+      "title": "",
+      "date": "2024/03/17",
+      "pages": []
+    },
+    {
+      "id": "blue-box-142",
+      "number": "142",
+      "title": "",
+      "date": "2024/03/24",
+      "pages": []
+    },
+    {
+      "id": "blue-box-143",
+      "number": "143",
+      "title": "",
+      "date": "2024/03/31",
+      "pages": []
+    },
+    {
+      "id": "blue-box-144",
+      "number": "144",
+      "title": "",
+      "date": "2024/04/07",
+      "pages": []
+    },
+    {
+      "id": "blue-box-145",
+      "number": "145",
+      "title": "",
+      "date": "2024/04/14",
+      "pages": []
+    },
+    {
+      "id": "blue-box-146",
+      "number": "146",
+      "title": "",
+      "date": "2024/04/21",
+      "pages": []
+    },
+    {
+      "id": "blue-box-147",
+      "number": "147",
+      "title": "",
+      "date": "2024/04/28",
+      "pages": []
+    },
+    {
+      "id": "blue-box-148",
+      "number": "148",
+      "title": "",
+      "date": "2024/05/12",
+      "pages": []
+    },
+    {
+      "id": "blue-box-149",
+      "number": "149",
+      "title": "",
+      "date": "2024/05/19",
+      "pages": []
+    },
+    {
+      "id": "blue-box-150",
+      "number": "150",
+      "title": "",
+      "date": "2024/05/26",
+      "pages": []
+    },
+    {
+      "id": "blue-box-151",
+      "number": "151",
+      "title": "",
+      "date": "2024/06/02",
+      "pages": []
+    },
+    {
+      "id": "blue-box-152",
+      "number": "152",
+      "title": "",
+      "date": "2024/06/09",
+      "pages": []
+    },
+    {
+      "id": "blue-box-153",
+      "number": "153",
+      "title": "",
+      "date": "2024/06/16",
+      "pages": []
+    },
+    {
+      "id": "blue-box-154",
+      "number": "154",
+      "title": "",
+      "date": "2024/06/23",
+      "pages": []
+    },
+    {
+      "id": "blue-box-155",
+      "number": "155",
+      "title": "",
+      "date": "2024/06/30",
+      "pages": []
+    },
+    {
+      "id": "blue-box-156",
+      "number": "156",
+      "title": "",
+      "date": "2024/07/07",
+      "pages": []
+    },
+    {
+      "id": "blue-box-157",
+      "number": "157",
+      "title": "",
+      "date": "2024/07/14",
+      "pages": []
+    },
+    {
+      "id": "blue-box-158",
+      "number": "158",
+      "title": "",
+      "date": "2024/07/21",
+      "pages": []
+    },
+    {
+      "id": "blue-box-159",
+      "number": "159",
+      "title": "",
+      "date": "2024/07/28",
+      "pages": []
+    },
+    {
+      "id": "blue-box-160",
+      "number": "160",
+      "title": "",
+      "date": "2024/08/04",
+      "pages": []
+    },
+    {
+      "id": "blue-box-161",
+      "number": "161",
+      "title": "",
+      "date": "2024/08/18",
+      "pages": []
+    },
+    {
+      "id": "blue-box-162",
+      "number": "162",
+      "title": "",
+      "date": "2024/09/01",
+      "pages": []
+    },
+    {
+      "id": "blue-box-163",
+      "number": "163",
+      "title": "",
+      "date": "2024/09/08",
+      "pages": []
+    },
+    {
+      "id": "blue-box-164",
+      "number": "164",
+      "title": "",
+      "date": "2024/09/15",
+      "pages": []
+    },
+    {
+      "id": "blue-box-165",
+      "number": "165",
+      "title": "",
+      "date": "2024/09/22",
+      "pages": []
+    },
+    {
+      "id": "blue-box-166",
+      "number": "166",
+      "title": "166",
+      "date": "2024/09/29",
+      "pages": []
+    },
+    {
+      "id": "blue-box-167",
+      "number": "167",
+      "title": "",
+      "date": "2024/10/06",
+      "pages": []
+    },
+    {
+      "id": "blue-box-168",
+      "number": "168",
+      "title": "",
+      "date": "2024/10/13",
+      "pages": []
+    },
+    {
+      "id": "blue-box-169",
+      "number": "169",
+      "title": "",
+      "date": "2024/10/20",
+      "pages": []
+    },
+    {
+      "id": "blue-box-170",
+      "number": "170",
+      "title": "",
+      "date": "2024/10/27",
+      "pages": []
+    },
+    {
+      "id": "blue-box-171",
+      "number": "171",
+      "title": "",
+      "date": "2024/11/03",
+      "pages": []
+    },
+    {
+      "id": "blue-box-172",
+      "number": "172",
+      "title": "",
+      "date": "2024/11/10",
+      "pages": []
+    },
+    {
+      "id": "blue-box-173",
+      "number": "173",
+      "title": "",
+      "date": "2024/11/17",
+      "pages": []
+    },
+    {
+      "id": "blue-box-174",
+      "number": "174",
+      "title": "",
+      "date": "2024/11/24",
+      "pages": []
+    },
+    {
+      "id": "blue-box-175",
+      "number": "175",
+      "title": "",
+      "date": "2024/12/01",
+      "pages": []
+    },
+    {
+      "id": "blue-box-176",
+      "number": "176",
+      "title": "",
+      "date": "2024/12/08",
+      "pages": []
+    },
+    {
+      "id": "blue-box-177",
+      "number": "177",
+      "title": "",
+      "date": "2024/12/15",
+      "pages": []
+    },
+    {
+      "id": "blue-box-178",
+      "number": "178",
+      "title": "",
+      "date": "2024/12/22",
+      "pages": []
+    },
+    {
+      "id": "blue-box-179",
+      "number": "179",
+      "title": "",
+      "date": "2025/01/03",
+      "pages": []
+    },
+    {
+      "id": "blue-box-180",
+      "number": "180",
+      "title": "",
+      "date": "2025/01/19",
+      "pages": []
+    },
+    {
+      "id": "blue-box-181",
+      "number": "181",
+      "title": "",
+      "date": "2025/01/26",
+      "pages": []
+    },
+    {
+      "id": "blue-box-182",
+      "number": "182",
+      "title": "",
+      "date": "2025/02/02",
+      "pages": []
+    },
+    {
+      "id": "blue-box-183",
+      "number": "183",
+      "title": "",
+      "date": "2025/02/09",
+      "pages": []
+    },
+    {
+      "id": "blue-box-184",
+      "number": "184",
+      "title": "",
+      "date": "2025/02/16",
+      "pages": []
+    },
+    {
+      "id": "blue-box-185",
+      "number": "185",
+      "title": "",
+      "date": "2025/02/23",
+      "pages": []
+    },
+    {
+      "id": "blue-box-186",
+      "number": "186",
+      "title": "",
+      "date": "2025/03/02",
+      "pages": []
+    },
+    {
+      "id": "blue-box-187",
+      "number": "187",
+      "title": "",
+      "date": "2025/03/09",
+      "pages": []
+    },
+    {
+      "id": "blue-box-188",
+      "number": "188",
+      "title": "",
+      "date": "2025/03/16",
+      "pages": []
+    },
+    {
+      "id": "blue-box-189",
+      "number": "189",
+      "title": "",
+      "date": "2025/03/23",
+      "pages": []
+    },
+    {
+      "id": "blue-box-190",
+      "number": "190",
+      "title": "",
+      "date": "2025/03/30",
+      "pages": []
+    },
+    {
+      "id": "blue-box-191",
+      "number": "191",
+      "title": "",
+      "date": "2025/04/06",
+      "pages": []
+    },
+    {
+      "id": "blue-box-192",
+      "number": "192",
+      "title": "",
+      "date": "2025/04/13",
+      "pages": []
+    },
+    {
+      "id": "blue-box-193",
+      "number": "193",
+      "title": "",
+      "date": "2025/04/20",
+      "pages": []
+    },
+    {
+      "id": "blue-box-194",
+      "number": "194",
+      "title": "",
+      "date": "2025/04/27",
+      "pages": []
+    },
+    {
+      "id": "blue-box-195",
+      "number": "195",
+      "title": "",
+      "date": "2025/05/11",
+      "pages": []
+    },
+    {
+      "id": "blue-box-196",
+      "number": "196",
+      "title": "",
+      "date": "2025/05/18",
+      "pages": []
+    },
+    {
+      "id": "blue-box-197",
+      "number": "197",
+      "title": "",
+      "date": "2025/05/25",
+      "pages": []
+    },
+    {
+      "id": "blue-box-198",
+      "number": "198",
+      "title": "",
+      "date": "2025/06/08",
+      "pages": []
+    },
+    {
+      "id": "blue-box-199",
+      "number": "199",
+      "title": "",
+      "date": "2025/06/15",
+      "pages": []
+    },
+    {
+      "id": "blue-box-200",
+      "number": "200",
+      "title": "",
+      "date": "2025/06/22",
+      "pages": []
+    },
+    {
+      "id": "blue-box-201",
+      "number": "201",
+      "title": "",
+      "date": "2025/06/29",
+      "pages": []
+    },
+    {
+      "id": "blue-box-202",
+      "number": "202",
+      "title": "",
+      "date": "2025/07/06",
+      "pages": []
+    },
+    {
+      "id": "blue-box-203",
+      "number": "203",
+      "title": "",
+      "date": "2025/07/13",
+      "pages": []
+    },
+    {
+      "id": "blue-box-204",
+      "number": "204",
+      "title": "",
+      "date": "2025/07/20",
+      "pages": []
+    },
+    {
+      "id": "blue-box-205",
+      "number": "205",
+      "title": "",
+      "date": "2025/07/27",
+      "pages": []
+    },
+    {
+      "id": "blue-box-206",
+      "number": "206",
+      "title": "",
+      "date": "2025/08/03",
+      "pages": []
+    },
+    {
+      "id": "blue-box-207",
+      "number": "207",
+      "title": "",
+      "date": "2025/08/17",
+      "pages": []
+    },
+    {
+      "id": "blue-box-208",
+      "number": "208",
+      "title": "",
+      "date": "2025/08/24",
+      "pages": []
+    },
+    {
+      "id": "blue-box-209",
+      "number": "209",
+      "title": "",
+      "date": "2025/08/31",
+      "pages": []
+    },
+    {
+      "id": "blue-box-210",
+      "number": "210",
+      "title": "",
+      "date": "2025/09/07",
+      "pages": []
+    },
+    {
+      "id": "blue-box-211",
+      "number": "211",
+      "title": "",
+      "date": "2025/09/14",
+      "pages": []
+    },
+    {
+      "id": "blue-box-212",
+      "number": "212",
+      "title": "",
+      "date": "2025/09/21",
+      "pages": []
+    },
+    {
+      "id": "blue-box-213",
+      "number": "213",
+      "title": "",
+      "date": "2025/09/28",
+      "pages": []
+    },
+    {
+      "id": "blue-box-214",
+      "number": "214",
+      "title": "",
+      "date": "2025/10/05",
+      "pages": []
+    },
+    {
+      "id": "blue-box-215",
+      "number": "215",
+      "title": "",
+      "date": "2025/10/12",
+      "pages": []
+    },
+    {
+      "id": "blue-box-216",
+      "number": "216",
+      "title": "",
+      "date": "2025/10/19",
+      "pages": []
+    },
+    {
+      "id": "blue-box-217",
+      "number": "217",
+      "title": "",
+      "date": "2025/10/26",
+      "pages": []
+    },
+    {
+      "id": "blue-box-218",
+      "number": "218",
+      "title": "",
+      "date": "2025/11/09",
+      "pages": []
+    },
+    {
+      "id": "blue-box-219",
+      "number": "219",
+      "title": "",
+      "date": "2025/11/16",
+      "pages": []
+    },
+    {
+      "id": "blue-box-220",
+      "number": "220",
+      "title": "",
+      "date": "2025/11/23",
+      "pages": []
+    },
+    {
+      "id": "blue-box-221",
+      "number": "221",
+      "title": "",
+      "date": "2025/11/30",
+      "pages": []
+    },
+    {
+      "id": "blue-box-222",
+      "number": "222",
+      "title": "",
+      "date": "2025/12/07",
+      "pages": []
+    },
+    {
+      "id": "blue-box-223",
+      "number": "223",
+      "title": "",
+      "date": "2025/12/14",
+      "pages": []
+    },
+    {
+      "id": "blue-box-224",
+      "number": "224",
+      "title": "",
+      "date": "2025/12/21",
+      "pages": []
+    },
+    {
+      "id": "blue-box-225",
+      "number": "225",
+      "title": "",
+      "date": "2026/01/04",
+      "pages": []
+    },
+    {
+      "id": "blue-box-226",
+      "number": "226",
+      "title": "",
+      "date": "2026/01/18",
+      "pages": []
+    },
+    {
+      "id": "blue-box-227",
+      "number": "227",
+      "title": "",
+      "date": "2026/01/25",
+      "pages": []
+    },
+    {
+      "id": "blue-box-228",
+      "number": "228",
+      "title": "",
+      "date": "2026/02/01",
+      "pages": []
+    },
+    {
+      "id": "blue-box-229",
+      "number": "229",
+      "title": "",
+      "date": "2026/02/08",
+      "pages": []
+    },
+    {
+      "id": "blue-box-230",
+      "number": "230",
+      "title": "",
+      "date": "2026/02/15",
+      "pages": []
+    },
+    {
+      "id": "blue-box-231",
+      "number": "231",
+      "title": "",
+      "date": "2026/02/22",
+      "pages": []
+    },
+    {
+      "id": "blue-box-232",
+      "number": "232",
+      "title": "",
+      "date": "2026/03/01",
+      "pages": []
+    },
+    {
+      "id": "blue-box-233",
+      "number": "233",
+      "title": "",
+      "date": "2026/03/08",
+      "pages": []
+    },
+    {
+      "id": "blue-box-234",
+      "number": "234",
+      "title": "",
+      "date": "2026/03/15",
+      "pages": []
+    },
+    {
+      "id": "blue-box-235",
+      "number": "235",
+      "title": "",
+      "date": "2026/03/22",
+      "pages": []
+    },
+    {
+      "id": "blue-box-236",
+      "number": "236",
+      "title": "",
+      "date": "2026/03/29",
+      "pages": []
+    },
+    {
+      "id": "blue-box-237",
+      "number": "237",
+      "title": "",
+      "date": "2026/04/05",
+      "pages": []
+    },
+    {
+      "id": "blue-box-238",
+      "number": "238",
+      "title": "",
+      "date": "2026/04/12",
+      "pages": []
+    },
+    {
+      "id": "blue-box-239",
+      "number": "239",
+      "title": "",
+      "date": "2026/04/19",
+      "pages": []
+    },
+    {
+      "id": "blue-box-240",
+      "number": "240",
+      "title": "",
+      "date": "2026/04/26",
+      "pages": []
+    },
+    {
+      "id": "blue-box-241",
+      "number": "241",
+      "title": "",
+      "date": "2026/05/10",
+      "pages": []
+    },
+    {
+      "id": "blue-box-242",
+      "number": "242",
+      "title": "",
+      "date": "2026/05/17",
+      "pages": []
+    },
+    {
+      "id": "blue-box-243",
+      "number": "243",
+      "title": "",
+      "date": "2026/05/24",
+      "pages": []
+    },
+    {
+      "id": "blue-box-244",
+      "number": "244",
+      "title": "",
+      "date": "2026/05/31",
+      "pages": []
+    },
+    {
+      "id": "blue-box-245",
+      "number": "245",
+      "title": "",
+      "date": "2026/06/07",
+      "pages": []
+    },
+    {
+      "id": "blue-box-246",
+      "number": "246",
+      "title": "",
+      "date": "2026/06/14",
+      "pages": []
+    },
+    {
+      "id": "blue-box-247",
+      "number": "247",
+      "title": "",
+      "date": "2026/06/21",
+      "pages": []
+    }
+  ],
+  "pt": [
+    {
+      "id": "blue-box-chapter-1",
+      "number": 1,
+      "title": "Blue Box – Capítulo 1",
+      "date": "2025-04-02T23:46:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325150
+    },
+    {
+      "id": "blue-box-chapter-2",
+      "number": 2,
+      "title": "Blue Box – Capítulo 2 – Você Tem Que Ir Ao Nacional",
+      "date": "2025-04-02T23:46:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325146
+    },
+    {
+      "id": "blue-box-chapter-3",
+      "number": 3,
+      "title": "Blue Box – Capítulo 3 – Se Fingindo de Estranho",
+      "date": "2025-04-02T23:46:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325143
+    },
+    {
+      "id": "blue-box-chapter-4",
+      "number": 4,
+      "title": "Blue Box – Capítulo 4 – A Escolhida",
+      "date": "2025-04-02T23:46:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325145
+    },
+    {
+      "id": "blue-box-chapter-5",
+      "number": 5,
+      "title": "Blue Box – Capítulo 5 – Como Eu a Chamo",
+      "date": "2025-04-02T23:46:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325147
+    },
+    {
+      "id": "blue-box-chapter-6",
+      "number": 6,
+      "title": "Blue Box – Capítulo 6 – Ao Menos Um Passo",
+      "date": "2025-04-02T23:46:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325151
+    },
+    {
+      "id": "blue-box-chapter-7",
+      "number": 7,
+      "title": "Blue Box – Capítulo 7 – Você Vai Ficar Bem",
+      "date": "2025-04-02T23:46:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325149
+    },
+    {
+      "id": "blue-box-chapter-8",
+      "number": 8,
+      "title": "Blue Box – Capítulo 8 – Duplas",
+      "date": "2025-04-02T23:46:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325148
+    },
+    {
+      "id": "blue-box-chapter-9",
+      "number": 9,
+      "title": "Blue Box – Capítulo 9 – Camisa",
+      "date": "2025-04-02T23:46:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325142
+    },
+    {
+      "id": "blue-box-chapter-10",
+      "number": 10,
+      "title": "Blue Box – Capítulo 10 – Um Dia Antes",
+      "date": "2025-04-02T23:46:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325144
+    },
+    {
+      "id": "blue-box-chapter-11",
+      "number": 11,
+      "title": "Blue Box – Capítulo 11 – Preliminares do Regional",
+      "date": "2025-04-02T23:47:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325408
+    },
+    {
+      "id": "blue-box-chapter-12",
+      "number": 12,
+      "title": "Blue Box – Capítulo 12 – Se ele vencer",
+      "date": "2025-04-02T23:47:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325410
+    },
+    {
+      "id": "blue-box-chapter-13",
+      "number": 13,
+      "title": "Blue Box – Capítulo 13 – Encontro",
+      "date": "2025-04-02T23:47:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325406
+    },
+    {
+      "id": "blue-box-chapter-14",
+      "number": 14,
+      "title": "Blue Box – Capítulo 14 – Aquário",
+      "date": "2025-04-02T23:47:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325407
+    },
+    {
+      "id": "blue-box-chapter-15",
+      "number": 15,
+      "title": "Blue Box – Capítulo 15 – Uma Garota Comum",
+      "date": "2025-04-02T23:47:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325412
+    },
+    {
+      "id": "blue-box-chapter-16",
+      "number": 16,
+      "title": "Blue Box – Capítulo 16 – Almas Gêmeas",
+      "date": "2025-04-02T23:47:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325414
+    },
+    {
+      "id": "blue-box-chapter-17",
+      "number": 17,
+      "title": "Blue Box – Capítulo 17 – Sem Problemas",
+      "date": "2025-04-02T23:47:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325409
+    },
+    {
+      "id": "blue-box-chapter-18",
+      "number": 18,
+      "title": "Blue Box – Capítulo 18 – Me Deseje Sorte",
+      "date": "2025-04-02T23:47:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325413
+    },
+    {
+      "id": "blue-box-chapter-19",
+      "number": 19,
+      "title": "Blue Box – Capítulo 19 – Eu Levo Suas Bolsas",
+      "date": "2025-04-02T23:47:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325405
+    },
+    {
+      "id": "blue-box-chapter-20",
+      "number": 20,
+      "title": "Blue Box – Capítulo 20 – Bisbilhotando",
+      "date": "2025-04-02T23:47:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325411
+    },
+    {
+      "id": "blue-box-chapter-21",
+      "number": 21,
+      "title": "Blue Box – Capítulo 21 – Posso Pegar Um?",
+      "date": "2025-04-02T23:48:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325627
+    },
+    {
+      "id": "blue-box-chapter-22",
+      "number": 22,
+      "title": "Blue Box – Capítulo 22 – Você Consegue!",
+      "date": "2025-04-02T23:48:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325626
+    },
+    {
+      "id": "blue-box-chapter-23",
+      "number": 23,
+      "title": "Blue Box – Capítulo 23 – Com Certeza Vou Passar!",
+      "date": "2025-04-02T23:48:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325632
+    },
+    {
+      "id": "blue-box-chapter-23.2",
+      "number": 23.2,
+      "title": "Blue Box – Capítulo 23.2 – Extra",
+      "date": "2025-04-02T23:48:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325623
+    },
+    {
+      "id": "blue-box-chapter-24",
+      "number": 24,
+      "title": "Blue Box – Capítulo 24 – É Assim Que Os Esportes São",
+      "date": "2025-04-02T23:48:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325630
+    },
+    {
+      "id": "blue-box-chapter-25",
+      "number": 25,
+      "title": "Blue Box – Capítulo 25 – Bom Trabalho",
+      "date": "2025-04-02T23:48:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325625
+    },
+    {
+      "id": "blue-box-chapter-26",
+      "number": 26,
+      "title": "Blue Box – Capítulo 26 – Vou Ficar Torcendo Por Você",
+      "date": "2025-04-02T23:48:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325628
+    },
+    {
+      "id": "blue-box-chapter-27",
+      "number": 27,
+      "title": "Blue Box – Capítulo 27 – Uma Chance",
+      "date": "2025-04-02T23:48:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325631
+    },
+    {
+      "id": "blue-box-chapter-28",
+      "number": 28,
+      "title": "Blue Box – Capítulo 28 – Sua Própria Casa",
+      "date": "2025-04-02T23:48:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325624
+    },
+    {
+      "id": "blue-box-chapter-29",
+      "number": 29,
+      "title": "Blue Box – Capítulo 29 – Não é uma coisa boa",
+      "date": "2025-04-02T23:48:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 325629
+    },
+    {
+      "id": "blue-box-chapter-30",
+      "number": 30,
+      "title": "Blue Box – Capítulo 30 – Ficando Próximo",
+      "date": "2025-04-02T23:49:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326017
+    },
+    {
+      "id": "blue-box-chapter-31",
+      "number": 31,
+      "title": "Blue Box – Capítulo 31 – É um Encontro?",
+      "date": "2025-04-02T23:49:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326018
+    },
+    {
+      "id": "blue-box-chapter-32",
+      "number": 32,
+      "title": "Blue Box – Capítulo 32 – Nada Legal!",
+      "date": "2025-04-02T23:49:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326022
+    },
+    {
+      "id": "blue-box-chapter-33",
+      "number": 33,
+      "title": "Blue Box – Capítulo 33 – Quando o Azarão Vence",
+      "date": "2025-04-02T23:49:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326016
+    },
+    {
+      "id": "blue-box-chapter-34",
+      "number": 34,
+      "title": "Blue Box – Capítulo 34 – Garotas",
+      "date": "2025-04-02T23:49:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326013
+    },
+    {
+      "id": "blue-box-chapter-35",
+      "number": 35,
+      "title": "Blue Box – Capítulo 35 – Algo Interessante",
+      "date": "2025-04-02T23:49:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326014
+    },
+    {
+      "id": "blue-box-chapter-36",
+      "number": 36,
+      "title": "Blue Box – Capítulo 36 – É Melhor Você Ir",
+      "date": "2025-04-02T23:49:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326021
+    },
+    {
+      "id": "blue-box-chapter-37",
+      "number": 37,
+      "title": "Blue Box – Capítulo 37 – Oláááá",
+      "date": "2025-04-02T23:49:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326015
+    },
+    {
+      "id": "blue-box-chapter-38",
+      "number": 38,
+      "title": "Blue Box – Capítulo 38 – Um Flerte",
+      "date": "2025-04-02T23:49:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326019
+    },
+    {
+      "id": "blue-box-chapter-39",
+      "number": 39,
+      "title": "Blue Box – Capítulo 39 – Testando",
+      "date": "2025-04-02T23:49:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326020
+    },
+    {
+      "id": "blue-box-chapter-40",
+      "number": 40,
+      "title": "Blue Box – Capítulo 40 – Aquele que é Legal",
+      "date": "2025-04-02T23:50:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326254
+    },
+    {
+      "id": "blue-box-chapter-41",
+      "number": 41,
+      "title": "Blue Box – Capítulo 41 – Eu Quero Uma Partida Disputada",
+      "date": "2025-04-02T23:50:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326245
+    },
+    {
+      "id": "blue-box-chapter-42",
+      "number": 42,
+      "title": "Blue Box – Capítulo 42 – Um Pedido Impossível",
+      "date": "2025-04-02T23:50:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326252
+    },
+    {
+      "id": "blue-box-chapter-43",
+      "number": 43,
+      "title": "Blue Box – Capítulo 43 – O Que Uma Coisa Tem a Ver Com a Outra",
+      "date": "2025-04-02T23:50:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326250
+    },
+    {
+      "id": "blue-box-chapter-44",
+      "number": 44,
+      "title": "Blue Box – Capítulo 44 – Não se Tornou Realidade",
+      "date": "2025-04-02T23:50:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326247
+    },
+    {
+      "id": "blue-box-chapter-45",
+      "number": 45,
+      "title": "Blue Box – Capítulo 45 – 26 de Agosto pt.1",
+      "date": "2025-04-02T23:50:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326249
+    },
+    {
+      "id": "blue-box-chapter-46",
+      "number": 46,
+      "title": "Blue Box – Capítulo 46 – 26 de Agosto pt.2",
+      "date": "2025-04-02T23:50:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326246
+    },
+    {
+      "id": "blue-box-chapter-47",
+      "number": 47,
+      "title": "Blue Box – Capítulo 47 – 26 de Agosto pt.3",
+      "date": "2025-04-02T23:50:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326248
+    },
+    {
+      "id": "blue-box-chapter-48",
+      "number": 48,
+      "title": "Blue Box – Capítulo 48 – Se Não Estivéssemos Separado Por Um Ano",
+      "date": "2025-04-02T23:50:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326253
+    },
+    {
+      "id": "blue-box-chapter-49",
+      "number": 49,
+      "title": "Blue Box – Capítulo 49 – De Volta Ao Treino Matinal",
+      "date": "2025-04-02T23:50:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326251
+    },
+    {
+      "id": "blue-box-chapter-50",
+      "number": 50,
+      "title": "Blue Box – Capítulo 50 – Mulher Injusta",
+      "date": "2025-04-02T23:50:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326485
+    },
+    {
+      "id": "blue-box-chapter-51",
+      "number": 51,
+      "title": "Blue Box – Capítulo 51 – Essa é a Coisa Certa",
+      "date": "2025-04-02T23:50:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326478
+    },
+    {
+      "id": "blue-box-chapter-52",
+      "number": 52,
+      "title": "Blue Box – Capítulo 52 – Claro Que Eu Quero Ver",
+      "date": "2025-04-02T23:50:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326483
+    },
+    {
+      "id": "blue-box-chapter-52.5",
+      "number": 52.5,
+      "title": "Blue Box – Capítulo 52.5 – Extra",
+      "date": "2025-04-02T23:50:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326479
+    },
+    {
+      "id": "blue-box-chapter-53",
+      "number": 53,
+      "title": "Blue Box – Capítulo 53 – Indo Muito Bem",
+      "date": "2025-04-02T23:50:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326480
+    },
+    {
+      "id": "blue-box-chapter-54",
+      "number": 54,
+      "title": "Blue Box – Capítulo 54 – Hidratação",
+      "date": "2025-04-02T23:50:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326484
+    },
+    {
+      "id": "blue-box-chapter-55",
+      "number": 55,
+      "title": "Blue Box – Capítulo 55 – Inomata",
+      "date": "2025-04-02T23:50:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326487
+    },
+    {
+      "id": "blue-box-chapter-56",
+      "number": 56,
+      "title": "Blue Box – Capítulo 56 – Quem Você Acha Que Eu Sou?",
+      "date": "2025-04-02T23:50:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326486
+    },
+    {
+      "id": "blue-box-chapter-57",
+      "number": 57,
+      "title": "Blue Box – Capítulo 57 – Eu Sei",
+      "date": "2025-04-02T23:50:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326481
+    },
+    {
+      "id": "blue-box-chapter-58",
+      "number": 58,
+      "title": "Blue Box – Capítulo 58 – Direita ou Esquerda",
+      "date": "2025-04-02T23:50:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326482
+    },
+    {
+      "id": "blue-box-chapter-59",
+      "number": 59,
+      "title": "Blue Box – Capítulo 59 – Não Fizemos",
+      "date": "2025-04-02T23:51:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326704
+    },
+    {
+      "id": "blue-box-chapter-60",
+      "number": 60,
+      "title": "Blue Box – Capítulo 60 – Vamos Vê-los Juntos",
+      "date": "2025-04-02T23:51:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326706
+    },
+    {
+      "id": "blue-box-chapter-61",
+      "number": 61,
+      "title": "Blue Box – Capítulo 61 – Eu Tenho Planos",
+      "date": "2025-04-02T23:51:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326705
+    },
+    {
+      "id": "blue-box-chapter-62",
+      "number": 62,
+      "title": "Blue Box – Capítulo 62 – O que você disse?",
+      "date": "2025-04-02T23:51:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326708
+    },
+    {
+      "id": "blue-box-chapter-63",
+      "number": 63,
+      "title": "Blue Box – Capítulo 63 – Me ajude!",
+      "date": "2025-04-02T23:51:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326710
+    },
+    {
+      "id": "blue-box-chapter-64",
+      "number": 64,
+      "title": "Blue Box – Capítulo 64 – Com seu amigo mais próximo",
+      "date": "2025-04-02T23:51:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326707
+    },
+    {
+      "id": "blue-box-chapter-65",
+      "number": 65,
+      "title": "Blue Box – Capítulo 65 – Não é isso",
+      "date": "2025-04-02T23:51:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326709
+    },
+    {
+      "id": "blue-box-chapter-66",
+      "number": 66,
+      "title": "Blue Box – Capítulo 66 – Estou Aqui Para Te Ouvir",
+      "date": "2025-04-02T23:51:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326711
+    },
+    {
+      "id": "blue-box-chapter-67",
+      "number": 67,
+      "title": "Blue Box – Capítulo 67 – Uma Chance De Florescer",
+      "date": "2025-04-02T23:51:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326712
+    },
+    {
+      "id": "blue-box-chapter-68",
+      "number": 68,
+      "title": "Blue Box – Capítulo 68 – Gerente",
+      "date": "2025-04-02T23:51:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326703
+    },
+    {
+      "id": "blue-box-chapter-69",
+      "number": 69,
+      "title": "Blue Box – Capítulo 69 – Inota!",
+      "date": "2025-04-02T23:52:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326925
+    },
+    {
+      "id": "blue-box-chapter-70",
+      "number": 70,
+      "title": "Blue Box – Capítulo 70 – Um evento inesperado",
+      "date": "2025-04-02T23:52:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326921
+    },
+    {
+      "id": "blue-box-chapter-71",
+      "number": 71,
+      "title": "Blue Box – Capítulo 71 – Acampamento de treino junto",
+      "date": "2025-04-02T23:52:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326922
+    },
+    {
+      "id": "blue-box-chapter-72",
+      "number": 72,
+      "title": "Blue Box – Capítulo 72 – Girando",
+      "date": "2025-04-02T23:52:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326929
+    },
+    {
+      "id": "blue-box-chapter-73",
+      "number": 73,
+      "title": "Blue Box – Capítulo 73 – É Isso Que Eu Sei",
+      "date": "2025-04-02T23:52:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326923
+    },
+    {
+      "id": "blue-box-chapter-74",
+      "number": 74,
+      "title": "Blue Box – Capítulo 74 – Eu Não Preciso De Uma Resposta",
+      "date": "2025-04-02T23:52:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326927
+    },
+    {
+      "id": "blue-box-chapter-75",
+      "number": 75,
+      "title": "Blue Box – Capítulo 75 – Uma Montanha-Russa",
+      "date": "2025-04-02T23:52:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326930
+    },
+    {
+      "id": "blue-box-chapter-76",
+      "number": 76,
+      "title": "Blue Box – Capítulo 76 – Não Queria Dizer",
+      "date": "2025-04-02T23:52:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326926
+    },
+    {
+      "id": "blue-box-chapter-77",
+      "number": 77,
+      "title": "Blue Box – Capítulo 77 – Mesmo Assim",
+      "date": "2025-04-02T23:52:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326928
+    },
+    {
+      "id": "blue-box-chapter-78",
+      "number": 78,
+      "title": "Blue Box – Capítulo 78 – Você também é",
+      "date": "2025-04-02T23:52:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 326924
+    },
+    {
+      "id": "blue-box-chapter-79",
+      "number": 79,
+      "title": "Blue Box – Capítulo 79 – Comprar roupas",
+      "date": "2025-04-02T23:53:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327158
+    },
+    {
+      "id": "blue-box-chapter-80",
+      "number": 80,
+      "title": "Blue Box – Capítulo 80 – Porque é assim que eu sou",
+      "date": "2025-04-02T23:53:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327160
+    },
+    {
+      "id": "blue-box-chapter-80.5",
+      "number": 80.5,
+      "title": "Blue Box – Capítulo 80.5 – Extra",
+      "date": "2025-04-02T23:53:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327162
+    },
+    {
+      "id": "blue-box-chapter-81",
+      "number": 81,
+      "title": "Blue Box – Capítulo 81 – Eu queria que você experimentasse",
+      "date": "2025-04-02T23:53:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327156
+    },
+    {
+      "id": "blue-box-chapter-82",
+      "number": 82,
+      "title": "Blue Box – Capítulo 82 – Acertou na ferida",
+      "date": "2025-04-02T23:53:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327155
+    },
+    {
+      "id": "blue-box-chapter-82.5",
+      "number": 82.5,
+      "title": "Blue Box – Capítulo 82.5 – Extra",
+      "date": "2025-04-02T23:53:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327153
+    },
+    {
+      "id": "blue-box-chapter-83",
+      "number": 83,
+      "title": "Blue Box – Capítulo 83",
+      "date": "2025-04-02T23:53:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327157
+    },
+    {
+      "id": "blue-box-chapter-84",
+      "number": 84,
+      "title": "Blue Box – Capítulo 84 – Como Ela Sentiu",
+      "date": "2025-04-02T23:53:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327161
+    },
+    {
+      "id": "blue-box-chapter-85",
+      "number": 85,
+      "title": "Blue Box – Capítulo 85 – Porque eu a odeio",
+      "date": "2025-04-02T23:53:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327159
+    },
+    {
+      "id": "blue-box-chapter-86",
+      "number": 86,
+      "title": "Blue Box – Capítulo 86 – Admiração",
+      "date": "2025-04-02T23:53:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327154
+    },
+    {
+      "id": "blue-box-chapter-87",
+      "number": 87,
+      "title": "Blue Box – Capítulo 87 – Desculpas e argumentos válidos",
+      "date": "2025-04-02T23:53:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327365
+    },
+    {
+      "id": "blue-box-chapter-88",
+      "number": 88,
+      "title": "Blue Box – Capítulo 88 – Não podem continuar assim",
+      "date": "2025-04-02T23:53:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327364
+    },
+    {
+      "id": "blue-box-chapter-89",
+      "number": 89,
+      "title": "Blue Box – Capítulo 89 – Yumeka&#8230;",
+      "date": "2025-04-02T23:53:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327368
+    },
+    {
+      "id": "blue-box-chapter-90",
+      "number": 90,
+      "title": "Blue Box – Capítulo 90 – Unha e carne",
+      "date": "2025-04-02T23:53:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327370
+    },
+    {
+      "id": "blue-box-chapter-91",
+      "number": 91,
+      "title": "Blue Box – Capítulo 91 – A sensação mais poderosa de todas",
+      "date": "2025-04-02T23:53:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327369
+    },
+    {
+      "id": "blue-box-chapter-92",
+      "number": 92,
+      "title": "Blue Box – Capítulo 92 – Sempre estiver com dificuldade",
+      "date": "2025-04-02T23:53:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327372
+    },
+    {
+      "id": "blue-box-chapter-93",
+      "number": 93,
+      "title": "Blue Box – Capítulo 93 – Jogar fora",
+      "date": "2025-04-02T23:53:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327371
+    },
+    {
+      "id": "blue-box-chapter-94",
+      "number": 94,
+      "title": "Blue Box – Capítulo 94 – Já faz dois anos",
+      "date": "2025-04-02T23:53:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327373
+    },
+    {
+      "id": "blue-box-chapter-95",
+      "number": 95,
+      "title": "Blue Box – Capítulo 95 – Está de volta",
+      "date": "2025-04-02T23:53:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327367
+    },
+    {
+      "id": "blue-box-chapter-96",
+      "number": 96,
+      "title": "Blue Box – Capítulo 96 – Véspera de Natal",
+      "date": "2025-04-02T23:53:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327366
+    },
+    {
+      "id": "blue-box-chapter-97",
+      "number": 97,
+      "title": "Blue Box – Capítulo 97 – Está tendo problemas?",
+      "date": "2025-04-02T23:54:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327596
+    },
+    {
+      "id": "blue-box-chapter-98",
+      "number": 98,
+      "title": "Blue Box – Capítulo 98 – O Fim de Ano",
+      "date": "2025-04-02T23:54:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327598
+    },
+    {
+      "id": "blue-box-chapter-99",
+      "number": 99,
+      "title": "Blue Box – Capítulo 99 – Não Hesite",
+      "date": "2025-04-02T23:54:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327595
+    },
+    {
+      "id": "blue-box-chapter-100",
+      "number": 100,
+      "title": "Blue Box – Capítulo 100 – Eu quero ver",
+      "date": "2025-04-02T23:54:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327599
+    },
+    {
+      "id": "blue-box-chapter-101",
+      "number": 101,
+      "title": "Blue Box – Capítulo 101 – Hoje também",
+      "date": "2025-04-02T23:54:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327592
+    },
+    {
+      "id": "blue-box-chapter-102",
+      "number": 102,
+      "title": "Blue Box – Capítulo 102 – É Tão Bonito",
+      "date": "2025-04-02T23:54:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327591
+    },
+    {
+      "id": "blue-box-chapter-103",
+      "number": 103,
+      "title": "Blue Box – Capítulo 103 – Tenho que te contar uma coisa",
+      "date": "2025-04-02T23:54:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327590
+    },
+    {
+      "id": "blue-box-chapter-104",
+      "number": 104,
+      "title": "Blue Box – Capítulo 104 – 4 de janeiro, meio-dia",
+      "date": "2025-04-02T23:54:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327593
+    },
+    {
+      "id": "blue-box-chapter-105",
+      "number": 105,
+      "title": "Blue Box – Capítulo 105 – Vamos Manter EM Segredo",
+      "date": "2025-04-02T23:54:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327594
+    },
+    {
+      "id": "blue-box-chapter-106",
+      "number": 106,
+      "title": "Blue Box – Capítulo 106 – Tão nervosa",
+      "date": "2025-04-02T23:54:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327597
+    },
+    {
+      "id": "blue-box-chapter-107",
+      "number": 107,
+      "title": "Blue Box – Capítulo 107 – É o seu Jeito de Amar, Chi!",
+      "date": "2025-04-02T23:55:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327799
+    },
+    {
+      "id": "blue-box-chapter-108",
+      "number": 108,
+      "title": "Blue Box – Capítulo 108 – Já está resolvido",
+      "date": "2025-04-02T23:55:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327802
+    },
+    {
+      "id": "blue-box-chapter-109",
+      "number": 109,
+      "title": "Blue Box – Capítulo 109 – 15 de janeiro",
+      "date": "2025-04-02T23:55:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327798
+    },
+    {
+      "id": "blue-box-chapter-110",
+      "number": 110,
+      "title": "Blue Box – Capítulo 110 – Entrevista",
+      "date": "2025-04-02T23:55:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327800
+    },
+    {
+      "id": "blue-box-chapter-111",
+      "number": 111,
+      "title": "Blue Box – Capítulo 111 – Recompensa",
+      "date": "2025-04-02T23:55:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327804
+    },
+    {
+      "id": "blue-box-chapter-112",
+      "number": 112,
+      "title": "Blue Box – Capítulo 112 – Já resolveu tudo",
+      "date": "2025-04-02T23:55:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327803
+    },
+    {
+      "id": "blue-box-chapter-113",
+      "number": 113,
+      "title": "Blue Box – Capítulo 113 – Um desperdício",
+      "date": "2025-04-02T23:55:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327806
+    },
+    {
+      "id": "blue-box-chapter-114",
+      "number": 114,
+      "title": "Blue Box – Capítulo 114 – Desafiante",
+      "date": "2025-04-02T23:55:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327807
+    },
+    {
+      "id": "blue-box-chapter-115",
+      "number": 115,
+      "title": "Blue Box – Capítulo 115 – Sorte",
+      "date": "2025-04-02T23:55:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327805
+    },
+    {
+      "id": "blue-box-chapter-116",
+      "number": 116,
+      "title": "Blue Box – Capítulo 116 – É rude",
+      "date": "2025-04-02T23:55:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 327801
+    },
+    {
+      "id": "blue-box-chapter-117",
+      "number": 117,
+      "title": "Blue Box – Capítulo 117 – Um Grande Passo",
+      "date": "2025-04-02T23:55:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328015
+    },
+    {
+      "id": "blue-box-chapter-118",
+      "number": 118,
+      "title": "Blue Box – Capítulo 118 – Aquele Tipo de Pessoa",
+      "date": "2025-04-02T23:55:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328018
+    },
+    {
+      "id": "blue-box-chapter-119",
+      "number": 119,
+      "title": "Blue Box – Capítulo 119 – Quase Tive a Ideia Errada",
+      "date": "2025-04-02T23:55:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328021
+    },
+    {
+      "id": "blue-box-chapter-120",
+      "number": 120,
+      "title": "Blue Box – Capítulo 120 – Surpreendente",
+      "date": "2025-04-02T23:55:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328016
+    },
+    {
+      "id": "blue-box-chapter-121",
+      "number": 121,
+      "title": "Blue Box – Capítulo 121 – Boa Sorte, Senpai",
+      "date": "2025-04-02T23:55:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328023
+    },
+    {
+      "id": "blue-box-chapter-122",
+      "number": 122,
+      "title": "Blue Box – Capítulo 122 – Mostre Suas Habilidades",
+      "date": "2025-04-02T23:55:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328017
+    },
+    {
+      "id": "blue-box-chapter-123",
+      "number": 123,
+      "title": "Blue Box – Capítulo 123 – Diferença Entre Nós",
+      "date": "2025-04-02T23:55:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328024
+    },
+    {
+      "id": "blue-box-chapter-124",
+      "number": 124,
+      "title": "Blue Box – Capítulo 124 – Bom Saber Disso",
+      "date": "2025-04-02T23:55:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328022
+    },
+    {
+      "id": "blue-box-chapter-125",
+      "number": 125,
+      "title": "Blue Box – Capítulo 125 – Sabe o que Isso Significa?",
+      "date": "2025-04-02T23:55:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328019
+    },
+    {
+      "id": "blue-box-chapter-126",
+      "number": 126,
+      "title": "Blue Box – Capítulo 126 – Aproveite o nosso tempo",
+      "date": "2025-04-02T23:55:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328020
+    },
+    {
+      "id": "blue-box-chapter-127",
+      "number": 127,
+      "title": "Blue Box – Capítulo 127 – Me dá arrepios",
+      "date": "2025-04-02T23:56:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328232
+    },
+    {
+      "id": "blue-box-chapter-128",
+      "number": 128,
+      "title": "Blue Box – Capítulo 128 – Com Hyodo",
+      "date": "2025-04-02T23:56:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328237
+    },
+    {
+      "id": "blue-box-chapter-129",
+      "number": 129,
+      "title": "Blue Box – Capítulo 129 – Com o esforço necessário",
+      "date": "2025-04-02T23:56:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328234
+    },
+    {
+      "id": "blue-box-chapter-130",
+      "number": 130,
+      "title": "Blue Box – Capítulo 130 – Vou pegar essa aqui",
+      "date": "2025-04-02T23:56:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328233
+    },
+    {
+      "id": "blue-box-chapter-131",
+      "number": 131,
+      "title": "Blue Box – Capítulo 131 – Não Pode Ser Verdade",
+      "date": "2025-04-02T23:56:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328238
+    },
+    {
+      "id": "blue-box-chapter-132",
+      "number": 132,
+      "title": "Blue Box – Capítulo 132 – Eu já sei",
+      "date": "2025-04-02T23:56:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328235
+    },
+    {
+      "id": "blue-box-chapter-133",
+      "number": 133,
+      "title": "Blue Box – Capítulo 133 – Por quê?",
+      "date": "2025-04-02T23:56:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328230
+    },
+    {
+      "id": "blue-box-chapter-134",
+      "number": 134,
+      "title": "Blue Box – Capítulo 134 – Vamos",
+      "date": "2025-04-02T23:56:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328236
+    },
+    {
+      "id": "blue-box-chapter-135",
+      "number": 135,
+      "title": "Blue Box – Capítulo 135 – Isso não é verdade",
+      "date": "2025-04-02T23:56:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328239
+    },
+    {
+      "id": "blue-box-chapter-136",
+      "number": 136,
+      "title": "Blue Box – Capítulo 136 – Vai, Eimei!",
+      "date": "2025-04-02T23:56:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328231
+    },
+    {
+      "id": "blue-box-chapter-137",
+      "number": 137,
+      "title": "Blue Box – Capítulo 137 – O garoto que carregou ela",
+      "date": "2025-04-02T23:57:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328444
+    },
+    {
+      "id": "blue-box-chapter-138",
+      "number": 138,
+      "title": "Blue Box – Capítulo 138 – Um dia de Badminton",
+      "date": "2025-04-02T23:57:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328438
+    },
+    {
+      "id": "blue-box-chapter-139",
+      "number": 139,
+      "title": "Blue Box – Capítulo 139 – Eu fiz a minha parte",
+      "date": "2025-04-02T23:57:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328443
+    },
+    {
+      "id": "blue-box-chapter-140",
+      "number": 140,
+      "title": "Blue Box – Capítulo 140 – Amor de Senpai",
+      "date": "2025-04-02T23:57:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328440
+    },
+    {
+      "id": "blue-box-chapter-141",
+      "number": 141,
+      "title": "Blue Box – Capítulo 141 – Você consegue",
+      "date": "2025-04-02T23:57:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328442
+    },
+    {
+      "id": "blue-box-chapter-142",
+      "number": 142,
+      "title": "Blue Box – Capítulo 142 – Jogo Final",
+      "date": "2025-04-02T23:57:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328441
+    },
+    {
+      "id": "blue-box-chapter-143",
+      "number": 143,
+      "title": "Blue Box – Capítulo 143 – Peteleco na testa",
+      "date": "2025-04-02T23:57:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328439
+    },
+    {
+      "id": "blue-box-chapter-144",
+      "number": 144,
+      "title": "Blue Box – Capítulo 144 – Vamos refazê-lo",
+      "date": "2025-04-02T23:57:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328445
+    },
+    {
+      "id": "blue-box-chapter-145",
+      "number": 145,
+      "title": "Blue Box – Capítulo 145 – Ela realmente é forte",
+      "date": "2025-04-02T23:57:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328447
+    },
+    {
+      "id": "blue-box-chapter-146",
+      "number": 146,
+      "title": "Blue Box – Capítulo 146 – Sentimento Mútuo",
+      "date": "2025-04-02T23:57:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328446
+    },
+    {
+      "id": "blue-box-chapter-147",
+      "number": 147,
+      "title": "Blue Box – Capítulo 147 – Alguém secreto",
+      "date": "2025-04-02T23:57:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328646
+    },
+    {
+      "id": "blue-box-chapter-148",
+      "number": 148,
+      "title": "Blue Box – Capítulo 148 – Se não tivéssemos terminado",
+      "date": "2025-04-02T23:57:58Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328654
+    },
+    {
+      "id": "blue-box-chapter-149",
+      "number": 149,
+      "title": "Blue Box – Capítulo 149 – Leque de gentileza",
+      "date": "2025-04-02T23:57:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328647
+    },
+    {
+      "id": "blue-box-chapter-150",
+      "number": 150,
+      "title": "Blue Box – Capítulo 150 – Os últimos fogos de artifício",
+      "date": "2025-04-02T23:57:58Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328653
+    },
+    {
+      "id": "blue-box-chapter-151",
+      "number": 151,
+      "title": "Blue Box – Capítulo 151 – Oi",
+      "date": "2025-04-02T23:57:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328650
+    },
+    {
+      "id": "blue-box-chapter-152",
+      "number": 152,
+      "title": "Blue Box – Capítulo 152 – Porque isso é muito precioso",
+      "date": "2025-04-02T23:57:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328655
+    },
+    {
+      "id": "blue-box-chapter-153",
+      "number": 153,
+      "title": "Blue Box – Capítulo 153 – Não tome sorvete",
+      "date": "2025-04-02T23:57:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328651
+    },
+    {
+      "id": "blue-box-chapter-154",
+      "number": 154,
+      "title": "Blue Box – Capítulo 154 – Dentro daquela caixa",
+      "date": "2025-04-02T23:57:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328649
+    },
+    {
+      "id": "blue-box-chapter-155",
+      "number": 155,
+      "title": "Blue Box – Capítulo 155 – É verdade que&#8230;",
+      "date": "2025-04-02T23:57:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328648
+    },
+    {
+      "id": "blue-box-chapter-156",
+      "number": 156,
+      "title": "Blue Box – Capítulo 156 – Vencendo",
+      "date": "2025-04-02T23:57:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328652
+    },
+    {
+      "id": "blue-box-chapter-157",
+      "number": 157,
+      "title": "Blue Box – Capítulo 157 – A praia no verão",
+      "date": "2025-04-02T23:58:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328861
+    },
+    {
+      "id": "blue-box-chapter-158",
+      "number": 158,
+      "title": "Blue Box – Capítulo 158 – Dez desafios",
+      "date": "2025-04-02T23:58:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328857
+    },
+    {
+      "id": "blue-box-chapter-159",
+      "number": 159,
+      "title": "Blue Box – Capítulo 159 – Convidado especial",
+      "date": "2025-04-02T23:58:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328859
+    },
+    {
+      "id": "blue-box-chapter-160",
+      "number": 160,
+      "title": "Blue Box – Capítulo 160 – Um desejo",
+      "date": "2025-04-02T23:58:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328856
+    },
+    {
+      "id": "blue-box-chapter-161",
+      "number": 161,
+      "title": "Blue Box – Capítulo 161 – Obrigado por cuidar de nós",
+      "date": "2025-04-02T23:58:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328860
+    },
+    {
+      "id": "blue-box-chapter-162",
+      "number": 162,
+      "title": "Blue Box – Capítulo 162 – Pode dar certo",
+      "date": "2025-04-02T23:58:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328862
+    },
+    {
+      "id": "blue-box-chapter-163",
+      "number": 163,
+      "title": "Blue Box – Capítulo 163 – Aparecer quando alguém estiver com problemas",
+      "date": "2025-04-02T23:58:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328864
+    },
+    {
+      "id": "blue-box-chapter-164",
+      "number": 164,
+      "title": "Blue Box – Capítulo 164 – Socialmente Estranho",
+      "date": "2025-04-02T23:58:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328865
+    },
+    {
+      "id": "blue-box-chapter-165",
+      "number": 165,
+      "title": "Blue Box – Capítulo 165 – A Casa Mal-Assombrada",
+      "date": "2025-04-02T23:58:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328858
+    },
+    {
+      "id": "blue-box-chapter-166",
+      "number": 166,
+      "title": "Blue Box – Capítulo 166 – Esse sentimento é&#8230;",
+      "date": "2025-04-02T23:58:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 328863
+    },
+    {
+      "id": "blue-box-chapter-167",
+      "number": 167,
+      "title": "Blue Box – Capítulo 167 – Se Não For Tarde Demais",
+      "date": "2025-04-02T23:59:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329085
+    },
+    {
+      "id": "blue-box-chapter-168",
+      "number": 168,
+      "title": "Blue Box – Capítulo 168 – Essa sou eu",
+      "date": "2025-04-02T23:59:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329084
+    },
+    {
+      "id": "blue-box-chapter-169",
+      "number": 169,
+      "title": "Blue Box – Capítulo 169 – Seu Selo",
+      "date": "2025-04-02T23:59:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329087
+    },
+    {
+      "id": "blue-box-chapter-170",
+      "number": 170,
+      "title": "Blue Box – Capítulo 170 – Um ano desde aquele dia&#8230;",
+      "date": "2025-04-02T23:59:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329083
+    },
+    {
+      "id": "blue-box-chapter-171",
+      "number": 171,
+      "title": "Blue Box – Capítulo 171 – Você já superou ele?",
+      "date": "2025-04-02T23:59:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329086
+    },
+    {
+      "id": "blue-box-chapter-172",
+      "number": 172,
+      "title": "Blue Box – Capítulo 172 – O que está à sua frente agora",
+      "date": "2025-04-02T23:59:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329092
+    },
+    {
+      "id": "blue-box-chapter-173",
+      "number": 173,
+      "title": "Blue Box – Capítulo 173 – Deixa eu carregar esse peso",
+      "date": "2025-04-02T23:59:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329089
+    },
+    {
+      "id": "blue-box-chapter-174",
+      "number": 174,
+      "title": "Blue Box – Capítulo 174 – Apenas Basquete",
+      "date": "2025-04-02T23:59:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329090
+    },
+    {
+      "id": "blue-box-chapter-175",
+      "number": 175,
+      "title": "Blue Box – Capítulo 175 – Uma criança",
+      "date": "2025-04-02T23:59:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329088
+    },
+    {
+      "id": "blue-box-chapter-176",
+      "number": 176,
+      "title": "Blue Box – Capítulo 176 – Eu quero estar em um relacionamento",
+      "date": "2025-04-02T23:59:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329091
+    },
+    {
+      "id": "blue-box-chapter-177",
+      "number": 177,
+      "title": "Blue Box – Capítulo 177 – Foi essencial",
+      "date": "2025-04-03T00:00:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329320
+    },
+    {
+      "id": "blue-box-chapter-178",
+      "number": 178,
+      "title": "Blue Box – Capítulo 178 – obrigado",
+      "date": "2025-04-03T00:00:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329325
+    },
+    {
+      "id": "blue-box-chapter-179",
+      "number": 179,
+      "title": "Blue Box – Capítulo 179 – Vendo Coisas",
+      "date": "2025-04-03T00:00:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329327
+    },
+    {
+      "id": "blue-box-chapter-180",
+      "number": 180,
+      "title": "Blue Box – Capítulo 180 – Colher os frutos",
+      "date": "2025-04-03T00:00:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329328
+    },
+    {
+      "id": "blue-box-chapter-181",
+      "number": 181,
+      "title": "Blue Box – Capítulo 181 – Não vou errar",
+      "date": "2025-04-03T00:00:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329322
+    },
+    {
+      "id": "blue-box-chapter-182",
+      "number": 182,
+      "title": "Blue Box – Capítulo 182 – Tão divertido que dá até vontade de chorar",
+      "date": "2025-04-03T00:00:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329323
+    },
+    {
+      "id": "blue-box-chapter-183",
+      "number": 183,
+      "title": "Blue Box – Capítulo 183 – Vamos jogar basquete",
+      "date": "2025-04-03T00:00:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329319
+    },
+    {
+      "id": "blue-box-chapter-184",
+      "number": 184,
+      "title": "Blue Box – Capítulo 184 – Aprovação do meu pai",
+      "date": "2025-04-03T00:00:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329326
+    },
+    {
+      "id": "blue-box-chapter-185",
+      "number": 185,
+      "title": "Blue Box – Capítulo 185 – Um problema",
+      "date": "2025-04-03T00:00:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329321
+    },
+    {
+      "id": "blue-box-chapter-186",
+      "number": 186,
+      "title": "Blue Box – Capítulo 186 – Espero que ele não se sinta sozinho",
+      "date": "2025-04-03T00:00:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329324
+    },
+    {
+      "id": "blue-box-chapter-187",
+      "number": 187,
+      "title": "Blue Box – Capítulo 187 – Fique perto dela",
+      "date": "2025-04-03T00:01:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329575
+    },
+    {
+      "id": "blue-box-chapter-188",
+      "number": 188,
+      "title": "Blue Box – Capítulo 188 – Quando se sentir sozinho",
+      "date": "2025-04-03T00:01:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329577
+    },
+    {
+      "id": "blue-box-chapter-189",
+      "number": 189,
+      "title": "Blue Box – Capítulo 189 – Para um bom jogo",
+      "date": "2025-04-03T00:01:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329576
+    },
+    {
+      "id": "blue-box-chapter-190",
+      "number": 190,
+      "title": "Blue Box – Capítulo 190 – Não existe isso de destino",
+      "date": "2025-04-03T00:01:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329578
+    }
+  ]
+}

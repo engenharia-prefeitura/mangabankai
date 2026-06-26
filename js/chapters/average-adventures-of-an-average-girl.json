@@ -1,0 +1,410 @@
+{
+  "en": [
+    {
+      "id": "average-adventures-of-an-average-girl-1",
+      "number": "1",
+      "title": "Genesis",
+      "date": "2015/04/15",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-2",
+      "number": "2",
+      "title": "Do it for the art",
+      "date": "2015/04/15",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-3",
+      "number": "3",
+      "title": "Happy-go-lucky",
+      "date": "2015/04/15",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-4",
+      "number": "4",
+      "title": "Nature's Call",
+      "date": "2015/04/15",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-5",
+      "number": "5",
+      "title": "Mating Season",
+      "date": "2015/04/15",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-6",
+      "number": "6",
+      "title": "Mr. President",
+      "date": "2015/04/15",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-7",
+      "number": "7",
+      "title": "Eureka!",
+      "date": "2015/04/27",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-8",
+      "number": "8",
+      "title": "Great Expectations",
+      "date": "2015/04/27",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-9",
+      "number": "9",
+      "title": "Batabatabata",
+      "date": "2015/06/08",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-10",
+      "number": "10",
+      "title": "Good Luck",
+      "date": "2015/06/08",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-11",
+      "number": "11",
+      "title": "Academy Award",
+      "date": "2015/06/08",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-12",
+      "number": "12",
+      "title": "The Book on the Shelf",
+      "date": "2015/06/08",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-13",
+      "number": "13",
+      "title": "Reality Check",
+      "date": "2015/06/08",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-14",
+      "number": "14",
+      "title": "Forever Bound",
+      "date": "2015/06/08",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-15",
+      "number": "15",
+      "title": "It Could Work!",
+      "date": "2015/06/16",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-16",
+      "number": "16",
+      "title": "Let It Go",
+      "date": "2015/06/24",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-17",
+      "number": "17",
+      "title": "",
+      "date": "2015/07/12",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-18",
+      "number": "18",
+      "title": "",
+      "date": "2015/07/12",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-19",
+      "number": "19",
+      "title": "",
+      "date": "2015/07/12",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-20",
+      "number": "20",
+      "title": "",
+      "date": "2015/07/19",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-21",
+      "number": "21",
+      "title": "",
+      "date": "2015/08/02",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-22",
+      "number": "22",
+      "title": "",
+      "date": "2015/08/02",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-23",
+      "number": "23",
+      "title": "",
+      "date": "2015/08/09",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-24",
+      "number": "24",
+      "title": "",
+      "date": "2015/10/04",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-25",
+      "number": "25",
+      "title": "",
+      "date": "2015/10/04",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-26",
+      "number": "26",
+      "title": "",
+      "date": "2015/10/04",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-27",
+      "number": "27",
+      "title": "",
+      "date": "2015/10/04",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-28",
+      "number": "28",
+      "title": "",
+      "date": "2015/10/19",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-29",
+      "number": "29",
+      "title": "",
+      "date": "2015/10/19",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-30",
+      "number": "30",
+      "title": "",
+      "date": "2015/10/19",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-31",
+      "number": "31",
+      "title": "",
+      "date": "2015/10/19",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-32",
+      "number": "32",
+      "title": "",
+      "date": "2015/10/19",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-33",
+      "number": "33",
+      "title": "",
+      "date": "2015/10/19",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-34",
+      "number": "34",
+      "title": "",
+      "date": "2015/11/24",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-35",
+      "number": "35",
+      "title": "",
+      "date": "2015/11/24",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-36",
+      "number": "36",
+      "title": "",
+      "date": "2015/11/24",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-37",
+      "number": "37",
+      "title": "",
+      "date": "2015/11/24",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-38",
+      "number": "38",
+      "title": "",
+      "date": "2015/11/29",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-39",
+      "number": "39",
+      "title": "",
+      "date": "2015/11/29",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-40",
+      "number": "40",
+      "title": "",
+      "date": "2015/12/06",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-41",
+      "number": "41",
+      "title": "",
+      "date": "2015/12/13",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-42",
+      "number": "42",
+      "title": "",
+      "date": "2015/12/20",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-43",
+      "number": "43",
+      "title": "",
+      "date": "2017/10/08",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-44",
+      "number": "44",
+      "title": "",
+      "date": "2018/01/14",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-45",
+      "number": "45",
+      "title": "",
+      "date": "2018/01/14",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-46",
+      "number": "46",
+      "title": "",
+      "date": "2018/01/14",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-47",
+      "number": "47",
+      "title": "",
+      "date": "2018/01/14",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-48",
+      "number": "48",
+      "title": "",
+      "date": "2018/01/14",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-49",
+      "number": "49",
+      "title": "",
+      "date": "2018/01/14",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-50",
+      "number": "50",
+      "title": "",
+      "date": "2018/01/14",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-51",
+      "number": "51",
+      "title": "",
+      "date": "2018/01/14",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-52",
+      "number": "52",
+      "title": "",
+      "date": "2018/01/14",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-53",
+      "number": "53",
+      "title": "",
+      "date": "2018/01/14",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-54",
+      "number": "54",
+      "title": "",
+      "date": "2018/01/14",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-55",
+      "number": "55",
+      "title": "",
+      "date": "2018/01/14",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-56",
+      "number": "56",
+      "title": "",
+      "date": "2018/01/14",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-57",
+      "number": "57",
+      "title": "",
+      "date": "2018/01/14",
+      "pages": []
+    },
+    {
+      "id": "average-adventures-of-an-average-girl-58",
+      "number": "58",
+      "title": "",
+      "date": "2018/01/15",
+      "pages": []
+    }
+  ]
+}

@@ -1,0 +1,1775 @@
+{
+  "en": [
+    {
+      "id": "terra-formars-1",
+      "number": "1",
+      "title": "Encounters With the Known.",
+      "date": "2012/05/20",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-2",
+      "number": "2",
+      "title": "Sudden Metamorphosis of Species.",
+      "date": "2012/06/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-3",
+      "number": "3",
+      "title": "The Empire Strikes Back.",
+      "date": "2012/06/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-4",
+      "number": "4",
+      "title": "Born to hunt.",
+      "date": "2012/06/10",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-5",
+      "number": "5",
+      "title": "The Undefeatable",
+      "date": "2012/07/02",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-6",
+      "number": "6",
+      "title": "A Graveyard For Insects",
+      "date": "2012/07/16",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-7",
+      "number": "7",
+      "title": "Volume 2 Ch1",
+      "date": "2013/03/11",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-8",
+      "number": "8",
+      "title": "Volume 2 Ch2",
+      "date": "2013/03/11",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-9",
+      "number": "9",
+      "title": "Volume 2 Ch3",
+      "date": "2013/03/11",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-10",
+      "number": "10",
+      "title": "Volume 2 Ch4",
+      "date": "2013/03/11",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-11",
+      "number": "11",
+      "title": "Volume 2 Ch5",
+      "date": "2013/03/11",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-12",
+      "number": "12",
+      "title": "Volume 2 Ch6",
+      "date": "2013/03/11",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-13",
+      "number": "13",
+      "title": "Volume 2 Ch7",
+      "date": "2013/03/11",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-14",
+      "number": "14",
+      "title": "Volume 2 Ch8",
+      "date": "2013/03/11",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-15",
+      "number": "15",
+      "title": "Volume 2 Ch9",
+      "date": "2013/03/11",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-16",
+      "number": "16",
+      "title": "Volume 2 Ch10",
+      "date": "2013/03/11",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-17",
+      "number": "17",
+      "title": "Volume 2 Ch11",
+      "date": "2013/03/11",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-18",
+      "number": "18",
+      "title": "Volume 2 Ch12",
+      "date": "2013/03/11",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-19",
+      "number": "19",
+      "title": "Volume 2 Ch13",
+      "date": "2013/03/11",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-20",
+      "number": "20",
+      "title": "Volume 3 Ch14",
+      "date": "2013/03/11",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-21",
+      "number": "21",
+      "title": "Volume 3 Ch15",
+      "date": "2013/03/11",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-22",
+      "number": "22",
+      "title": "Volume 3 Ch16",
+      "date": "2013/03/11",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-23",
+      "number": "23",
+      "title": "Volume 3 Ch17",
+      "date": "2013/03/11",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-24",
+      "number": "24",
+      "title": "Volume 3 Ch18",
+      "date": "2013/03/11",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-25",
+      "number": "25",
+      "title": "Volume 3 Ch19",
+      "date": "2013/03/11",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-26",
+      "number": "26",
+      "title": "Volume 4 Ch20 - 26",
+      "date": "2013/03/25",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-27",
+      "number": "27",
+      "title": "Volume 4 Ch27",
+      "date": "2013/05/27",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-28",
+      "number": "28",
+      "title": "Volume 4 Ch28",
+      "date": "2013/05/27",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-29",
+      "number": "29",
+      "title": "Volume 4 Ch29",
+      "date": "2013/05/27",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-30",
+      "number": "30",
+      "title": "Volume 4 Ch30",
+      "date": "2013/05/27",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-31",
+      "number": "31",
+      "title": "Volume 5 Ch31",
+      "date": "2013/05/27",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-32",
+      "number": "32",
+      "title": "Volume 5 Ch32",
+      "date": "2013/05/27",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-33",
+      "number": "33",
+      "title": "Volume 5 Ch33",
+      "date": "2013/05/27",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-34",
+      "number": "34",
+      "title": "Volume 5 Ch34",
+      "date": "2013/05/27",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-35",
+      "number": "35",
+      "title": "Volume 5 Ch35",
+      "date": "2013/05/27",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-36",
+      "number": "36",
+      "title": "Volume 5 Ch36",
+      "date": "2013/05/27",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-37",
+      "number": "37",
+      "title": "Volume 5 Ch37",
+      "date": "2013/05/27",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-38",
+      "number": "38",
+      "title": "Volume 5 Ch38",
+      "date": "2013/05/27",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-39",
+      "number": "39",
+      "title": "Volume 5 Ch39",
+      "date": "2013/05/27",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-40",
+      "number": "40",
+      "title": "Volume 5 Ch40",
+      "date": "2013/05/27",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-41",
+      "number": "41",
+      "title": "Volume 5 Ch41",
+      "date": "2013/05/27",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-42",
+      "number": "42",
+      "title": "WORKING MAN: Keiji Onizuka",
+      "date": "2013/09/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-43",
+      "number": "43",
+      "title": "BLUE EYES: Burning Eyes",
+      "date": "2013/09/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-44",
+      "number": "44",
+      "title": "BOXER",
+      "date": "2013/09/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-45",
+      "number": "45",
+      "title": "YELLOW JACKET ARMS BUG: Japanese-Born Giant Hornet",
+      "date": "2013/09/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-46",
+      "number": "46",
+      "title": "DRAGON FLAME: Fire and Stars",
+      "date": "2013/09/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-47",
+      "number": "47",
+      "title": "SHOOTING STAR: Trajectory and Recklessness",
+      "date": "2013/09/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-48",
+      "number": "48",
+      "title": "PITCHERS: The Opposition",
+      "date": "2013/09/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-49",
+      "number": "49",
+      "title": "2ND GENERATION: The Second Army",
+      "date": "2013/09/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-50",
+      "number": "50",
+      "title": "EVOLUTION CRISIS",
+      "date": "2013/09/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-51",
+      "number": "51",
+      "title": "UNNATURAL BORN FIGHTER: Artificial Warrior",
+      "date": "2013/09/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-52",
+      "number": "52",
+      "title": "JAGUARS: Wild Beast",
+      "date": "2013/09/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-53",
+      "number": "53",
+      "title": "MASTER: Men",
+      "date": "2013/12/16",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-54",
+      "number": "54",
+      "title": "BEAR: Scars and Savages",
+      "date": "2013/12/16",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-55",
+      "number": "55",
+      "title": "END OF THE BRAIN: Empty Head",
+      "date": "2013/12/16",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-56",
+      "number": "56",
+      "title": "A PLAN",
+      "date": "2013/12/16",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-57",
+      "number": "57",
+      "title": "MINE: Minefield",
+      "date": "2013/12/16",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-58",
+      "number": "58",
+      "title": "CENTURY OF RAISING ARMS: War and Warfare",
+      "date": "2013/12/16",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-59",
+      "number": "59",
+      "title": "VS. WEAPON: Anti-Personnel Weapon",
+      "date": "2013/12/16",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-60",
+      "number": "60",
+      "title": "THE LIFE FROM DEVILISH: Demonic Lifeform",
+      "date": "2013/12/16",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-61",
+      "number": "61",
+      "title": "FRIEND HERE: Meeting Allies",
+      "date": "2013/12/16",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-62",
+      "number": "62",
+      "title": "RATSBANE: The Ambush Force",
+      "date": "2013/12/16",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-63",
+      "number": "63",
+      "title": "OUT OF: Outside the Situation",
+      "date": "2013/12/16",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-64",
+      "number": "64",
+      "title": "MARS, DAY AT 019 APR",
+      "date": "2014/07/29",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-65",
+      "number": "65",
+      "title": "FABLE COMBAT Time for War!",
+      "date": "2014/07/29",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-66",
+      "number": "66",
+      "title": "ROCK! Violence",
+      "date": "2014/07/29",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-67",
+      "number": "67",
+      "title": "DEATH LAND Dark Sky",
+      "date": "2014/07/29",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-68",
+      "number": "68",
+      "title": "REGION Territory",
+      "date": "2014/07/29",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-69",
+      "number": "69",
+      "title": "SHIFT TO ANNEX Change",
+      "date": "2014/07/29",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-70",
+      "number": "70",
+      "title": "DEADLY ACTIVE Invisible Death",
+      "date": "2014/07/29",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-71",
+      "number": "71",
+      "title": "BIO HAZARD Experimental Subject",
+      "date": "2014/07/29",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-72",
+      "number": "72",
+      "title": "MAN ON A MISSION Soldier and Father",
+      "date": "2014/07/29",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-73",
+      "number": "73",
+      "title": "I LOVE YOU Obstinate Creatures",
+      "date": "2014/07/29",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-74",
+      "number": "74",
+      "title": "WEARY WIDOW MARCHES Soldier's Spirit",
+      "date": "2014/07/29",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-75",
+      "number": "75",
+      "title": "ARMS AND THE HUMAN",
+      "date": "2014/07/29",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-76",
+      "number": "76",
+      "title": "ANTS Ants and Men",
+      "date": "2014/07/29",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-77",
+      "number": "77",
+      "title": "THE HOUSE OF WOLVES The Nest of the Intelligent",
+      "date": "2014/07/29",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-78",
+      "number": "78",
+      "title": "THE FULLMETAL ALCHEMIST The Science of War",
+      "date": "2014/07/29",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-79",
+      "number": "79",
+      "title": "STRATEGY AND TACTICS Weapons and Techniques",
+      "date": "2014/07/29",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-80",
+      "number": "80",
+      "title": "FATHER Bonds",
+      "date": "2014/07/29",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-81",
+      "number": "81",
+      "title": "DADDY Aegis",
+      "date": "2014/07/29",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-82",
+      "number": "82",
+      "title": "THIS IS HOW I DESPAIR From the Depths of Destiny",
+      "date": "2014/07/29",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-83",
+      "number": "83",
+      "title": "BACK TO NORMAL To Myself",
+      "date": "2014/07/29",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-84",
+      "number": "84",
+      "title": "HAPPY BIRTHDAY The First Day",
+      "date": "2014/07/29",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-85",
+      "number": "85",
+      "title": "WEB OF BEND Hunter's Net",
+      "date": "2014/07/29",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-86",
+      "number": "86",
+      "title": "POWER OF CROSS - Blade and the Feral",
+      "date": "2014/10/28",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-87",
+      "number": "87",
+      "title": "TOUCH AND “G”! - Scattered Footfalls",
+      "date": "2014/10/28",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-88",
+      "number": "88",
+      "title": "MIGHTY HEART - Love and Justice",
+      "date": "2014/10/28",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-89",
+      "number": "89",
+      "title": "SWEETHEART HERE - The Swordsman Comes",
+      "date": "2014/10/28",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-90",
+      "number": "90",
+      "title": "THE FACTORS - Quick Adaptation",
+      "date": "2014/10/28",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-91",
+      "number": "91",
+      "title": "THE FOREMOST",
+      "date": "2014/10/28",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-92",
+      "number": "92",
+      "title": "THE FRONT OF UN-ARMAMENT - High Above the Military World",
+      "date": "2014/10/28",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-93",
+      "number": "93",
+      "title": "THE CLUSTER - Colony",
+      "date": "2014/10/28",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-94",
+      "number": "94",
+      "title": "RUN TO HELL - Hell's Gates",
+      "date": "2014/10/28",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-95",
+      "number": "95",
+      "title": "BOX IN THE BOX - A Wing and a Fist",
+      "date": "2014/10/28",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-96",
+      "number": "96",
+      "title": "TO THE END - Divided Voice",
+      "date": "2014/10/28",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-97",
+      "number": "97",
+      "title": "Position and Factors",
+      "date": "2014/12/30",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-98",
+      "number": "98",
+      "title": "THE SHELL - Hostile Shell",
+      "date": "2014/12/30",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-99",
+      "number": "99",
+      "title": "SECRET OBJECT - Guardsmen",
+      "date": "2014/12/30",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-100",
+      "number": "100",
+      "title": "CRIMSON RED - Chaos Eye",
+      "date": "2014/12/30",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-101",
+      "number": "101",
+      "title": "SILENCE OR VIOLENCE - Silent Fist",
+      "date": "2014/12/30",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-102",
+      "number": "102",
+      "title": "DEVOTED LIFE WORK - The Technician and the Curse",
+      "date": "2014/12/30",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-103",
+      "number": "103",
+      "title": "FOOTSTEP OF THE NIGHT",
+      "date": "2014/12/30",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-104",
+      "number": "104",
+      "title": "THE MOST FEARLESS ANIMAL - Undefeated Oddity",
+      "date": "2014/12/30",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-105",
+      "number": "105",
+      "title": "SQ PENETRATION - Power and Skill",
+      "date": "2014/12/30",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-106",
+      "number": "106",
+      "title": "HMP - The Final Transmission",
+      "date": "2014/12/30",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-107",
+      "number": "107",
+      "title": "MESSAGE - Anguished Echoes",
+      "date": "2014/12/30",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-108",
+      "number": "108",
+      "title": "Seconds of Revolution",
+      "date": "2015/02/21",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-109",
+      "number": "109",
+      "title": "Objective And Meteor",
+      "date": "2015/02/21",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-110",
+      "number": "110",
+      "title": "The Last Body",
+      "date": "2015/02/21",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-111",
+      "number": "111",
+      "title": "Time Limit",
+      "date": "2015/02/21",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-112",
+      "number": "112",
+      "title": "The warth Of Petra",
+      "date": "2015/02/21",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-113",
+      "number": "113",
+      "title": "From Hell With Armor",
+      "date": "2015/02/21",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-114",
+      "number": "114",
+      "title": "PREY FOR ME The Call of the Kuzuryuu",
+      "date": "2015/03/02",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-115",
+      "number": "115",
+      "title": "DIE ANOTHER DAY Day of Survival",
+      "date": "2015/03/02",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-116",
+      "number": "116",
+      "title": "THE HOLY LAND",
+      "date": "2015/03/02",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-117",
+      "number": "117",
+      "title": "",
+      "date": "2015/03/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-118",
+      "number": "118",
+      "title": "WHERE IS YOUR HEART - The Seat of the Soul",
+      "date": "2015/03/30",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-119",
+      "number": "119",
+      "title": "THE SHARPEST LIVE - Blade",
+      "date": "2015/07/19",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-120",
+      "number": "120",
+      "title": "RAISE LIGHT - Amphiban",
+      "date": "2015/07/19",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-121",
+      "number": "121",
+      "title": "PLANARIA - Animal Cruelty",
+      "date": "2015/07/19",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-122",
+      "number": "122",
+      "title": "LINE Lifeline",
+      "date": "2015/07/19",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-123",
+      "number": "123",
+      "title": "CHASER Pursuer",
+      "date": "2015/07/19",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-124",
+      "number": "124",
+      "title": "KRABI_KRABONGSword And Stick",
+      "date": "2015/07/19",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-125",
+      "number": "125",
+      "title": "Another One Protector and Victor",
+      "date": "2015/07/19",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-126",
+      "number": "126",
+      "title": "Too Empty to Live Too Young to Kill002 Lives",
+      "date": "2015/07/19",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-127",
+      "number": "127",
+      "title": "BOERTE CHINUA The Pale Wolf",
+      "date": "2015/07/19",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-128",
+      "number": "128",
+      "title": "The Selfish Gene The Extended Phenotype",
+      "date": "2015/07/19",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-129",
+      "number": "129",
+      "title": "Terra For Mars For Whom",
+      "date": "2015/07/19",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-130",
+      "number": "130",
+      "title": "",
+      "date": "2015/07/19",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-131",
+      "number": "131",
+      "title": "HELL YEAH! - A Concord of Murderous Intent",
+      "date": "2015/07/26",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-132",
+      "number": "132",
+      "title": "Advance of the Foreigner",
+      "date": "2015/08/02",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-133",
+      "number": "133",
+      "title": "kiss Breath",
+      "date": "2015/08/15",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-134",
+      "number": "134",
+      "title": "Good Bye, Good Night",
+      "date": "2015/08/15",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-135",
+      "number": "135",
+      "title": "",
+      "date": "2015/08/23",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-136",
+      "number": "136",
+      "title": "THE GREAT NORTHERN WAR GOD - Emperor of the North",
+      "date": "2015/09/09",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-137",
+      "number": "137",
+      "title": "HERO",
+      "date": "2015/09/09",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-138",
+      "number": "138",
+      "title": "Falling of Hydra The Fall of a Castle",
+      "date": "2015/09/18",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-139",
+      "number": "139",
+      "title": "THE GLOW OF SUNSET: The Day of a Bloody Battle",
+      "date": "2015/09/25",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-140",
+      "number": "140",
+      "title": "DROP-DEATH SPRINTERS - The Human in Hell",
+      "date": "2015/09/30",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-141",
+      "number": "141",
+      "title": "Plan Alpha - The Seven Weapons",
+      "date": "2015/10/03",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-142",
+      "number": "142",
+      "title": "FIGHTING MAN - Peacock Mantis Shrimp",
+      "date": "2015/10/08",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-143",
+      "number": "143",
+      "title": "GONNA FLY NOW - Emerge",
+      "date": "2015/10/14",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-144",
+      "number": "144",
+      "title": "PEREPELKINA - The Mother's Surname",
+      "date": "2015/10/17",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-145",
+      "number": "145",
+      "title": "AVATAR OF MIGHT - The Incarnation of Evolution",
+      "date": "2015/10/20",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-146",
+      "number": "146",
+      "title": "Carnava - The Trampling Feast",
+      "date": "2015/10/28",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-147",
+      "number": "147",
+      "title": "THE CREST - The Name",
+      "date": "2015/10/28",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-148",
+      "number": "148",
+      "title": "Humane Society - The Grave of the Bears",
+      "date": "2015/11/01",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-149",
+      "number": "149",
+      "title": "CALL OUT MY NAME - The Men Of Flames",
+      "date": "2015/11/09",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-150",
+      "number": "150",
+      "title": "BREAKING POINT - Threshold",
+      "date": "2015/11/11",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-151",
+      "number": "151",
+      "title": "God Of The People",
+      "date": "2015/11/18",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-152",
+      "number": "152",
+      "title": "THE GUARDIAN RANGERS - Safeguard Squad",
+      "date": "2015/11/29",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-153",
+      "number": "153",
+      "title": "The Outsiders - Mercenary Soldiers of The Darkness",
+      "date": "2015/11/29",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-154",
+      "number": "154",
+      "title": "SILENT JEALOUSY -The Heart That Wishes to Know",
+      "date": "2015/11/29",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-155",
+      "number": "155",
+      "title": "AN ORDINARY ABNORMALITY - If Love is Everything",
+      "date": "2015/12/07",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-156",
+      "number": "156",
+      "title": "Electro Heart",
+      "date": "2015/12/07",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-157",
+      "number": "157",
+      "title": "Razor Blade - The Blade Of Steel",
+      "date": "2015/12/20",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-158",
+      "number": "158",
+      "title": "The Right Sinner - The Noble Sinner",
+      "date": "2016/01/18",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-159",
+      "number": "159",
+      "title": "",
+      "date": "2016/02/24",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-160",
+      "number": "160",
+      "title": "",
+      "date": "2016/02/27",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-161",
+      "number": "161",
+      "title": "",
+      "date": "2016/02/27",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-162",
+      "number": "162",
+      "title": "START OF THE YOUTH - Death of a Predecessor",
+      "date": "2016/03/02",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-163",
+      "number": "163",
+      "title": "",
+      "date": "2016/03/07",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-164",
+      "number": "164",
+      "title": "",
+      "date": "2016/03/13",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-165",
+      "number": "165",
+      "title": "",
+      "date": "2016/03/13",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-166",
+      "number": "166",
+      "title": "",
+      "date": "2016/03/19",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-167",
+      "number": "167",
+      "title": "",
+      "date": "2016/03/19",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-168",
+      "number": "168",
+      "title": "",
+      "date": "2016/03/19",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-169",
+      "number": "169",
+      "title": "",
+      "date": "2016/04/09",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-170",
+      "number": "170",
+      "title": "",
+      "date": "2016/04/09",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-171",
+      "number": "171",
+      "title": "",
+      "date": "2016/04/09",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-172",
+      "number": "172",
+      "title": "",
+      "date": "2016/04/09",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-173",
+      "number": "173",
+      "title": "",
+      "date": "2016/04/30",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-174",
+      "number": "174",
+      "title": "",
+      "date": "2016/04/30",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-175",
+      "number": "175",
+      "title": "",
+      "date": "2016/04/30",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-176",
+      "number": "176",
+      "title": "",
+      "date": "2016/05/02",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-177",
+      "number": "177",
+      "title": "",
+      "date": "2016/05/21",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-178",
+      "number": "178",
+      "title": "",
+      "date": "2016/05/21",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-179",
+      "number": "179",
+      "title": "",
+      "date": "2016/05/21",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-180",
+      "number": "180",
+      "title": "",
+      "date": "2016/06/01",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-181",
+      "number": "181",
+      "title": "",
+      "date": "2016/06/01",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-182",
+      "number": "182",
+      "title": "",
+      "date": "2026/03/06",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-183",
+      "number": "183",
+      "title": "",
+      "date": "2016/06/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-184",
+      "number": "184",
+      "title": "",
+      "date": "2016/06/14",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-185",
+      "number": "185",
+      "title": "",
+      "date": "2016/06/24",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-186",
+      "number": "186",
+      "title": "",
+      "date": "2016/06/30",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-187",
+      "number": "187",
+      "title": "",
+      "date": "2016/07/02",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-188",
+      "number": "188",
+      "title": "",
+      "date": "2016/07/03",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-189",
+      "number": "189",
+      "title": "",
+      "date": "2016/09/01",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-190",
+      "number": "190",
+      "title": "",
+      "date": "2016/09/01",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-191",
+      "number": "191",
+      "title": "",
+      "date": "2016/09/03",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-192",
+      "number": "192",
+      "title": "",
+      "date": "2016/09/06",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-193",
+      "number": "193",
+      "title": "",
+      "date": "2016/09/07",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-194",
+      "number": "194",
+      "title": "",
+      "date": "2016/09/28",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-195",
+      "number": "195",
+      "title": "",
+      "date": "2016/09/28",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-196",
+      "number": "196",
+      "title": "",
+      "date": "2016/09/28",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-197",
+      "number": "197",
+      "title": "",
+      "date": "2016/09/28",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-198",
+      "number": "198",
+      "title": "",
+      "date": "2016/10/15",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-199",
+      "number": "199",
+      "title": "",
+      "date": "2016/11/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-200",
+      "number": "200",
+      "title": "",
+      "date": "2016/11/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-201",
+      "number": "201",
+      "title": "",
+      "date": "2016/11/08",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-202",
+      "number": "202",
+      "title": "",
+      "date": "2017/01/08",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-203",
+      "number": "203",
+      "title": "",
+      "date": "2017/02/10",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-204",
+      "number": "204",
+      "title": "",
+      "date": "2017/02/26",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-205",
+      "number": "205",
+      "title": "",
+      "date": "2017/02/26",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-206",
+      "number": "206",
+      "title": "",
+      "date": "2017/03/13",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-207",
+      "number": "207",
+      "title": "",
+      "date": "2017/04/03",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-208",
+      "number": "208",
+      "title": "The Beaver (castor canadensis) - The Cursed Sword",
+      "date": "2017/05/17",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-209",
+      "number": "209",
+      "title": "Illness",
+      "date": "2017/05/17",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-210",
+      "number": "210",
+      "title": "The great young of Kami's Stock - Pride",
+      "date": "2017/05/22",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-211",
+      "number": "211",
+      "title": "",
+      "date": "2017/05/28",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-212",
+      "number": "212",
+      "title": "",
+      "date": "2017/06/30",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-213",
+      "number": "213",
+      "title": "",
+      "date": "2024/08/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-214",
+      "number": "214",
+      "title": "",
+      "date": "2024/08/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-215",
+      "number": "215",
+      "title": "",
+      "date": "2024/08/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-216",
+      "number": "216",
+      "title": "",
+      "date": "2024/08/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-217",
+      "number": "217",
+      "title": "",
+      "date": "2024/08/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-218",
+      "number": "218",
+      "title": "",
+      "date": "2024/08/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-219",
+      "number": "219",
+      "title": "",
+      "date": "2024/08/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-220",
+      "number": "220",
+      "title": "",
+      "date": "2024/08/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-221",
+      "number": "221",
+      "title": "",
+      "date": "2024/08/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-222",
+      "number": "222",
+      "title": "",
+      "date": "2024/08/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-223",
+      "number": "223",
+      "title": "",
+      "date": "2024/08/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-224",
+      "number": "224",
+      "title": "",
+      "date": "2024/08/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-225",
+      "number": "225",
+      "title": "",
+      "date": "2024/08/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-226",
+      "number": "226",
+      "title": "",
+      "date": "2024/08/04",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-227",
+      "number": "227",
+      "title": "",
+      "date": "2026/03/06",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-228",
+      "number": "228",
+      "title": "",
+      "date": "2026/03/06",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-229",
+      "number": "229",
+      "title": "",
+      "date": "2026/03/06",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-230",
+      "number": "230",
+      "title": "",
+      "date": "2026/03/06",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-231",
+      "number": "231",
+      "title": "",
+      "date": "2026/03/06",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-232",
+      "number": "232",
+      "title": "",
+      "date": "2026/03/06",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-233",
+      "number": "233",
+      "title": "",
+      "date": "2026/03/06",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-234",
+      "number": "234",
+      "title": "",
+      "date": "2026/03/06",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-235",
+      "number": "235",
+      "title": "",
+      "date": "2026/03/06",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-236",
+      "number": "236",
+      "title": "",
+      "date": "2026/03/06",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-237",
+      "number": "237",
+      "title": "",
+      "date": "2026/03/06",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-238",
+      "number": "238",
+      "title": "",
+      "date": "2026/03/06",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-239",
+      "number": "239",
+      "title": "",
+      "date": "2026/03/06",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-240",
+      "number": "240",
+      "title": "",
+      "date": "2026/03/06",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-241",
+      "number": "241",
+      "title": "",
+      "date": "2026/03/06",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-242",
+      "number": "242",
+      "title": "",
+      "date": "2026/03/06",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-243",
+      "number": "243",
+      "title": "",
+      "date": "2026/03/06",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-244",
+      "number": "244",
+      "title": "",
+      "date": "2026/03/06",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-245",
+      "number": "245",
+      "title": "",
+      "date": "2026/03/06",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-246",
+      "number": "246",
+      "title": "",
+      "date": "2026/03/06",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-247",
+      "number": "247",
+      "title": "",
+      "date": "2026/03/06",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-248",
+      "number": "248",
+      "title": "",
+      "date": "2026/03/06",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-249",
+      "number": "249",
+      "title": "",
+      "date": "2026/03/06",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-250",
+      "number": "250",
+      "title": "",
+      "date": "2026/03/06",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-251",
+      "number": "251",
+      "title": "",
+      "date": "2026/03/06",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-252",
+      "number": "252",
+      "title": "",
+      "date": "2026/04/13",
+      "pages": []
+    },
+    {
+      "id": "terra-formars-253",
+      "number": "253",
+      "title": "",
+      "date": "2026/05/08",
+      "pages": []
+    }
+  ]
+}

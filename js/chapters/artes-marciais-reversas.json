@@ -1,0 +1,3910 @@
+{
+  "pt": [
+    {
+      "id": "artes-marciais-reversas-chapter-0",
+      "number": 0,
+      "title": "Capítulo 0",
+      "date": "2026-06-23T19:54:25.908Z",
+      "pages": [
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-0/page-1.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-0/page-2.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-0/page-3.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-0/page-4.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-0/page-5.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-0/page-6.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-0/page-7.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-0/page-8.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-0/page-9.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-0/page-10.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-0/page-11.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-0/page-12.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-0/page-13.webp"
+      ]
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-1",
+      "number": 1,
+      "title": "Capítulo 1",
+      "date": "2025-11-04T15:03:00.651Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-2",
+      "number": 2,
+      "title": "Capítulo 2",
+      "date": "2025-11-04T15:03:02.131Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-3",
+      "number": 3,
+      "title": "Capítulo 3",
+      "date": "2025-11-04T15:03:19.617Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-4",
+      "number": 4,
+      "title": "Capítulo 4",
+      "date": "2025-11-04T15:03:30.136Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-5",
+      "number": 5,
+      "title": "Capítulo 5",
+      "date": "2025-11-04T15:03:42.099Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-6",
+      "number": 6,
+      "title": "Capítulo 6",
+      "date": "2025-11-04T15:04:18.991Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-7",
+      "number": 7,
+      "title": "Capítulo 7",
+      "date": "2025-11-04T15:04:32.756Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-8",
+      "number": 8,
+      "title": "Capítulo 8",
+      "date": "2025-11-04T15:04:50.694Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-9",
+      "number": 9,
+      "title": "Capítulo 9",
+      "date": "2025-11-04T15:05:28.090Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-10",
+      "number": 10,
+      "title": "Capítulo 10",
+      "date": "2025-11-04T15:05:39.373Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-11",
+      "number": 11,
+      "title": "Capítulo 11",
+      "date": "2025-11-04T15:05:51.203Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-12",
+      "number": 12,
+      "title": "Capítulo 12",
+      "date": "2025-11-04T15:06:05.008Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-13",
+      "number": 13,
+      "title": "Capítulo 13",
+      "date": "2025-11-04T15:06:13.350Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-14",
+      "number": 14,
+      "title": "Capítulo 14",
+      "date": "2025-11-04T15:06:22.548Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-15",
+      "number": 15,
+      "title": "Capítulo 15",
+      "date": "2025-11-04T15:06:53.481Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-16",
+      "number": 16,
+      "title": "Capítulo 16",
+      "date": "2025-11-04T15:07:00.605Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-17",
+      "number": 17,
+      "title": "Capítulo 17",
+      "date": "2025-11-04T15:07:05.064Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-18",
+      "number": 18,
+      "title": "Capítulo 18",
+      "date": "2025-11-04T15:07:10.024Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-19",
+      "number": 19,
+      "title": "Capítulo 19",
+      "date": "2025-11-04T15:07:20.497Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-20",
+      "number": 20,
+      "title": "Capítulo 20",
+      "date": "2025-11-04T15:07:32.055Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-21",
+      "number": 21,
+      "title": "Capítulo 21",
+      "date": "2025-11-04T15:07:49.655Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-22",
+      "number": 22,
+      "title": "Capítulo 22",
+      "date": "2025-11-04T15:08:06.816Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-23",
+      "number": 23,
+      "title": "Capítulo 23",
+      "date": "2025-11-04T15:08:37.874Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-24",
+      "number": 24,
+      "title": "Capítulo 24",
+      "date": "2025-11-04T15:08:56.590Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-25",
+      "number": 25,
+      "title": "Capítulo 25",
+      "date": "2025-11-04T15:09:17.999Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-26",
+      "number": 26,
+      "title": "Capítulo 26",
+      "date": "2025-11-04T15:09:31.473Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-27",
+      "number": 27,
+      "title": "Capítulo 27",
+      "date": "2025-11-04T15:09:45.977Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-28",
+      "number": 28,
+      "title": "Capítulo 28",
+      "date": "2025-11-04T15:10:04.952Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-29",
+      "number": 29,
+      "title": "Capítulo 29",
+      "date": "2025-11-04T15:10:25.593Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-30",
+      "number": 30,
+      "title": "Capítulo 30",
+      "date": "2025-11-04T15:10:45.844Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-31",
+      "number": 31,
+      "title": "Capítulo 31",
+      "date": "2025-11-04T15:10:59.611Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-32",
+      "number": 32,
+      "title": "Capítulo 32",
+      "date": "2025-11-04T15:11:21.203Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-33",
+      "number": 33,
+      "title": "Capítulo 33",
+      "date": "2025-11-04T15:11:32.081Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-34",
+      "number": 34,
+      "title": "Capítulo 34",
+      "date": "2025-11-04T15:11:45.090Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-35",
+      "number": 35,
+      "title": "Capítulo 35",
+      "date": "2025-11-04T15:11:54.624Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-36",
+      "number": 36,
+      "title": "Capítulo 36",
+      "date": "2025-11-04T15:12:05.985Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-37",
+      "number": 37,
+      "title": "Capítulo 37",
+      "date": "2025-11-04T15:12:22.056Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-38",
+      "number": 38,
+      "title": "Capítulo 38",
+      "date": "2025-11-04T15:12:46.555Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-39",
+      "number": 39,
+      "title": "Capítulo 39",
+      "date": "2025-11-04T15:13:03.017Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-40",
+      "number": 40,
+      "title": "Capítulo 40",
+      "date": "2025-11-04T15:13:19.690Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-41",
+      "number": 41,
+      "title": "Capítulo 41",
+      "date": "2025-11-04T15:13:36.371Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-42",
+      "number": 42,
+      "title": "Capítulo 42",
+      "date": "2025-11-04T15:13:55.663Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-43",
+      "number": 43,
+      "title": "Capítulo 43",
+      "date": "2025-11-04T15:14:15.108Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-44",
+      "number": 44,
+      "title": "Capítulo 44",
+      "date": "2025-11-04T15:14:30.096Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-45",
+      "number": 45,
+      "title": "Capítulo 45",
+      "date": "2025-11-04T15:14:45.205Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-46",
+      "number": 46,
+      "title": "Capítulo 46",
+      "date": "2025-11-04T15:14:58.189Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-47",
+      "number": 47,
+      "title": "Capítulo 47",
+      "date": "2025-11-04T15:15:14.151Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-48",
+      "number": 48,
+      "title": "Capítulo 48",
+      "date": "2025-11-04T15:15:25.873Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-49",
+      "number": 49,
+      "title": "Capítulo 49",
+      "date": "2025-11-04T15:15:39.863Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-50",
+      "number": 50,
+      "title": "Capítulo 50",
+      "date": "2025-11-04T15:15:53.482Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-51",
+      "number": 51,
+      "title": "Capítulo 51",
+      "date": "2025-11-04T15:16:06.770Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-52",
+      "number": 52,
+      "title": "Capítulo 52",
+      "date": "2025-11-04T15:16:20.207Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-53",
+      "number": 53,
+      "title": "Capítulo 53",
+      "date": "2025-11-04T15:16:33.458Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-54",
+      "number": 54,
+      "title": "Capítulo 54",
+      "date": "2025-11-04T15:16:45.906Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-55",
+      "number": 55,
+      "title": "Capítulo 55",
+      "date": "2025-11-04T15:16:59.918Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-56",
+      "number": 56,
+      "title": "Capítulo 56",
+      "date": "2025-11-04T15:17:11.694Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-57",
+      "number": 57,
+      "title": "Capítulo 57",
+      "date": "2025-11-04T15:17:22.499Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-58",
+      "number": 58,
+      "title": "Capítulo 58",
+      "date": "2025-11-04T15:17:38.019Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-59",
+      "number": 59,
+      "title": "Capítulo 59",
+      "date": "2025-11-04T15:17:52.044Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-60",
+      "number": 60,
+      "title": "Capítulo 60",
+      "date": "2025-11-04T15:18:07.266Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-61",
+      "number": 61,
+      "title": "Capítulo 61",
+      "date": "2025-11-04T15:18:20.689Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-62",
+      "number": 62,
+      "title": "Capítulo 62",
+      "date": "2025-11-04T15:18:35.129Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-63",
+      "number": 63,
+      "title": "Capítulo 63",
+      "date": "2025-11-04T15:18:48.848Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-64",
+      "number": 64,
+      "title": "Capítulo 64",
+      "date": "2025-11-04T15:19:04.041Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-65",
+      "number": 65,
+      "title": "Capítulo 65",
+      "date": "2025-11-04T15:19:19.074Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-66",
+      "number": 66,
+      "title": "Capítulo 66",
+      "date": "2025-11-04T15:19:35.926Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-67",
+      "number": 67,
+      "title": "Capítulo 67",
+      "date": "2025-11-04T15:19:44.599Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-68",
+      "number": 68,
+      "title": "Capítulo 68",
+      "date": "2025-11-04T15:19:53.622Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-69",
+      "number": 69,
+      "title": "Capítulo 69",
+      "date": "2025-11-04T15:20:09.466Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-70",
+      "number": 70,
+      "title": "Capítulo 70",
+      "date": "2025-11-04T15:20:21.443Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-71",
+      "number": 71,
+      "title": "Capítulo 71",
+      "date": "2025-11-04T15:20:37.184Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-72",
+      "number": 72,
+      "title": "Capítulo 72",
+      "date": "2025-11-04T15:20:51.771Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-73",
+      "number": 73,
+      "title": "Capítulo 73",
+      "date": "2025-11-04T15:21:11.092Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-74",
+      "number": 74,
+      "title": "Capítulo 74",
+      "date": "2025-11-04T15:21:28.135Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-75",
+      "number": 75,
+      "title": "Capítulo 75",
+      "date": "2025-11-04T15:21:42.440Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-76",
+      "number": 76,
+      "title": "Capítulo 76",
+      "date": "2025-11-04T15:22:02.196Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-77",
+      "number": 77,
+      "title": "Capítulo 77",
+      "date": "2025-11-04T15:22:20.211Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-78",
+      "number": 78,
+      "title": "Capítulo 78",
+      "date": "2025-11-04T15:22:34.536Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-79",
+      "number": 79,
+      "title": "Capítulo 79",
+      "date": "2025-11-04T15:22:53.051Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-80",
+      "number": 80,
+      "title": "Capítulo 80",
+      "date": "2025-11-04T15:23:09.293Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-81",
+      "number": 81,
+      "title": "Capítulo 81",
+      "date": "2025-11-04T15:23:24.739Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-82",
+      "number": 82,
+      "title": "Capítulo 82",
+      "date": "2025-11-04T15:23:38.280Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-83",
+      "number": 83,
+      "title": "Capítulo 83",
+      "date": "2025-11-04T15:23:53.666Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-84",
+      "number": 84,
+      "title": "Capítulo 84",
+      "date": "2025-11-04T15:24:09.614Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-85",
+      "number": 85,
+      "title": "Capítulo 85",
+      "date": "2025-11-04T15:24:22.150Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-86",
+      "number": 86,
+      "title": "Capítulo 86",
+      "date": "2025-11-04T15:24:34.830Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-87",
+      "number": 87,
+      "title": "Capítulo 87",
+      "date": "2025-11-04T15:24:51.543Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-88",
+      "number": 88,
+      "title": "Capítulo 88",
+      "date": "2025-11-04T15:25:04.476Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-89",
+      "number": 89,
+      "title": "Capítulo 89",
+      "date": "2025-11-04T15:25:20.245Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-90",
+      "number": 90,
+      "title": "Capítulo 90",
+      "date": "2025-11-04T15:25:35.958Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-91",
+      "number": 91,
+      "title": "Capítulo 91",
+      "date": "2025-11-04T15:25:52.568Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-92",
+      "number": 92,
+      "title": "Capítulo 92",
+      "date": "2025-11-04T15:26:08.217Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-93",
+      "number": 93,
+      "title": "Capítulo 93",
+      "date": "2025-11-04T15:26:22.674Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-94",
+      "number": 94,
+      "title": "Capítulo 94",
+      "date": "2025-11-04T15:26:37.088Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-95",
+      "number": 95,
+      "title": "Capítulo 95",
+      "date": "2025-11-04T15:26:52.456Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-96",
+      "number": 96,
+      "title": "Capítulo 96",
+      "date": "2025-11-04T15:27:08.088Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-97",
+      "number": 97,
+      "title": "Capítulo 97",
+      "date": "2025-11-04T15:27:25.695Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-98",
+      "number": 98,
+      "title": "Capítulo 98",
+      "date": "2025-11-04T15:27:36.741Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-99",
+      "number": 99,
+      "title": "Capítulo 99",
+      "date": "2025-11-04T15:27:56.750Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-100",
+      "number": 100,
+      "title": "Capítulo 100",
+      "date": "2025-11-04T15:28:11.345Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-101",
+      "number": 101,
+      "title": "Capítulo 101",
+      "date": "2025-11-04T15:28:27.632Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-102",
+      "number": 102,
+      "title": "Capítulo 102",
+      "date": "2025-11-04T15:28:39.856Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-103",
+      "number": 103,
+      "title": "Capítulo 103",
+      "date": "2025-11-04T15:28:52.271Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-104",
+      "number": 104,
+      "title": "Capítulo 104",
+      "date": "2025-11-04T15:29:07.210Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-105",
+      "number": 105,
+      "title": "Capítulo 105",
+      "date": "2025-11-04T15:29:22.819Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-106",
+      "number": 106,
+      "title": "Capítulo 106",
+      "date": "2025-11-04T15:29:36.967Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-107",
+      "number": 107,
+      "title": "Capítulo 107",
+      "date": "2025-11-04T15:29:57.078Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-108",
+      "number": 108,
+      "title": "Capítulo 108",
+      "date": "2025-11-04T15:30:10.174Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-109",
+      "number": 109,
+      "title": "Capítulo 109",
+      "date": "2025-11-04T15:30:24.792Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-110",
+      "number": 110,
+      "title": "Capítulo 110",
+      "date": "2025-11-04T15:30:30.772Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-111",
+      "number": 111,
+      "title": "Capítulo 111",
+      "date": "2025-11-04T15:30:42.072Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-112",
+      "number": 112,
+      "title": "Capítulo 112",
+      "date": "2025-11-04T15:30:55.425Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-113",
+      "number": 113,
+      "title": "Capítulo 113",
+      "date": "2025-11-04T15:31:12.028Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-114",
+      "number": 114,
+      "title": "Capítulo 114",
+      "date": "2025-11-04T15:31:27.196Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-115",
+      "number": 115,
+      "title": "Capítulo 115",
+      "date": "2025-11-04T15:31:38.475Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-116",
+      "number": 116,
+      "title": "Capítulo 116",
+      "date": "2025-11-04T15:31:53.204Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-117",
+      "number": 117,
+      "title": "Capítulo 117",
+      "date": "2025-11-04T15:32:10.754Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-118",
+      "number": 118,
+      "title": "Capítulo 118",
+      "date": "2025-11-04T15:32:24.545Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-119",
+      "number": 119,
+      "title": "Capítulo 119",
+      "date": "2025-11-04T15:32:37.218Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-120",
+      "number": 120,
+      "title": "Capítulo 120",
+      "date": "2025-11-04T15:32:53.298Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-121",
+      "number": 121,
+      "title": "Capítulo 121",
+      "date": "2025-11-04T15:33:07.174Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-122",
+      "number": 122,
+      "title": "Capítulo 122",
+      "date": "2025-11-04T15:33:17.047Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-123",
+      "number": 123,
+      "title": "Capítulo 123",
+      "date": "2025-11-04T15:33:33.008Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-124",
+      "number": 124,
+      "title": "Capítulo 124",
+      "date": "2025-11-04T15:33:43.327Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-125",
+      "number": 125,
+      "title": "Capítulo 125",
+      "date": "2025-11-04T15:34:01.633Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-126",
+      "number": 126,
+      "title": "Capítulo 126",
+      "date": "2025-11-04T15:34:11.006Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-127",
+      "number": 127,
+      "title": "Capítulo 127",
+      "date": "2025-11-04T15:34:32.240Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-128",
+      "number": 128,
+      "title": "Capítulo 128",
+      "date": "2025-11-04T15:34:48.862Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-129",
+      "number": 129,
+      "title": "Capítulo 129",
+      "date": "2025-11-04T15:35:00.381Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-130",
+      "number": 130,
+      "title": "Capítulo 130",
+      "date": "2025-11-04T15:35:14.633Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-131",
+      "number": 131,
+      "title": "Capítulo 131",
+      "date": "2025-11-04T15:35:28.142Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-132",
+      "number": 132,
+      "title": "Capítulo 132",
+      "date": "2025-11-04T15:35:38.267Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-133",
+      "number": 133,
+      "title": "Capítulo 133",
+      "date": "2025-11-04T15:35:52.741Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-134",
+      "number": 134,
+      "title": "Capítulo 134",
+      "date": "2025-11-04T15:36:06.315Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-135",
+      "number": 135,
+      "title": "Capítulo 135",
+      "date": "2025-11-04T15:36:18.105Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-136",
+      "number": 136,
+      "title": "Capítulo 136",
+      "date": "2025-11-04T15:36:30.316Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-137",
+      "number": 137,
+      "title": "Capítulo 137",
+      "date": "2025-11-04T15:36:45.778Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-138",
+      "number": 138,
+      "title": "Capítulo 138",
+      "date": "2025-11-04T15:36:59.463Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-139",
+      "number": 139,
+      "title": "Capítulo 139",
+      "date": "2025-11-04T15:37:10.431Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-140",
+      "number": 140,
+      "title": "Capítulo 140",
+      "date": "2025-11-04T15:37:25.224Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-141",
+      "number": 141,
+      "title": "Capítulo 141",
+      "date": "2025-11-04T15:37:40.683Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-142",
+      "number": 142,
+      "title": "Capítulo 142",
+      "date": "2025-11-04T15:37:53.072Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-143",
+      "number": 143,
+      "title": "Capítulo 143",
+      "date": "2025-11-04T15:38:01.717Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-144",
+      "number": 144,
+      "title": "Capítulo 144",
+      "date": "2025-11-04T15:38:16.691Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-145",
+      "number": 145,
+      "title": "Capítulo 145",
+      "date": "2025-11-04T15:38:32.112Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-146",
+      "number": 146,
+      "title": "Capítulo 146",
+      "date": "2025-11-04T15:38:49.968Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-147",
+      "number": 147,
+      "title": "Capítulo 147",
+      "date": "2025-11-04T15:39:03.107Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-148",
+      "number": 148,
+      "title": "Capítulo 148",
+      "date": "2025-11-04T15:39:14.620Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-149",
+      "number": 149,
+      "title": "Capítulo 149",
+      "date": "2025-11-04T15:39:30.858Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-150",
+      "number": 150,
+      "title": "Capítulo 150",
+      "date": "2025-11-04T15:39:42.917Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-151",
+      "number": 151,
+      "title": "Capítulo 151",
+      "date": "2025-11-04T15:39:57.361Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-152",
+      "number": 152,
+      "title": "Capítulo 152",
+      "date": "2025-11-04T15:40:13.284Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-153",
+      "number": 153,
+      "title": "Capítulo 153",
+      "date": "2025-11-04T15:40:26.257Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-154",
+      "number": 154,
+      "title": "Capítulo 154",
+      "date": "2025-11-04T15:40:39.891Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-155",
+      "number": 155,
+      "title": "Capítulo 155",
+      "date": "2025-11-04T15:40:53.481Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-156",
+      "number": 156,
+      "title": "Capítulo 156",
+      "date": "2025-11-04T15:41:07.012Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-157",
+      "number": 157,
+      "title": "Capítulo 157",
+      "date": "2025-11-04T15:41:20.599Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-158",
+      "number": 158,
+      "title": "Capítulo 158",
+      "date": "2025-11-04T15:41:33.073Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-159",
+      "number": 159,
+      "title": "Capítulo 159",
+      "date": "2025-11-04T15:41:46.271Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-160",
+      "number": 160,
+      "title": "Capítulo 160",
+      "date": "2025-11-04T15:41:59.384Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-161",
+      "number": 161,
+      "title": "Capítulo 161",
+      "date": "2025-11-04T15:42:16.506Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-162",
+      "number": 162,
+      "title": "Capítulo 162",
+      "date": "2025-11-04T15:42:32.374Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-163",
+      "number": 163,
+      "title": "Capítulo 163",
+      "date": "2025-11-04T15:42:41.745Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-164",
+      "number": 164,
+      "title": "Capítulo 164",
+      "date": "2025-11-04T15:42:56.947Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-165",
+      "number": 165,
+      "title": "Capítulo 165",
+      "date": "2025-11-04T15:43:09.423Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-166",
+      "number": 166,
+      "title": "Capítulo 166",
+      "date": "2025-11-04T15:43:22.271Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-167",
+      "number": 167,
+      "title": "Capítulo 167",
+      "date": "2025-11-04T15:43:36.314Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-168",
+      "number": 168,
+      "title": "Capítulo 168",
+      "date": "2025-11-04T15:43:49.966Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-169",
+      "number": 169,
+      "title": "Capítulo 169",
+      "date": "2025-11-04T15:44:05.132Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-170",
+      "number": 170,
+      "title": "Capítulo 170",
+      "date": "2025-11-04T15:44:18.943Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-171",
+      "number": 171,
+      "title": "Capítulo 171",
+      "date": "2025-11-04T15:44:31.438Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-172",
+      "number": 172,
+      "title": "Capítulo 172",
+      "date": "2025-11-04T15:44:40.472Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-173",
+      "number": 173,
+      "title": "Capítulo 173",
+      "date": "2025-11-04T15:44:57.965Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-174",
+      "number": 174,
+      "title": "Capítulo 174",
+      "date": "2025-11-04T15:45:19.775Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-175",
+      "number": 175,
+      "title": "Capítulo 175",
+      "date": "2025-11-04T15:45:32.407Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-176",
+      "number": 176,
+      "title": "Capítulo 176",
+      "date": "2025-11-04T15:45:44.578Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-177",
+      "number": 177,
+      "title": "Capítulo 177",
+      "date": "2025-11-04T15:45:54.887Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-178",
+      "number": 178,
+      "title": "Capítulo 178",
+      "date": "2025-11-04T15:46:07.923Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-179",
+      "number": 179,
+      "title": "Capítulo 179",
+      "date": "2025-11-04T15:46:20.321Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-180",
+      "number": 180,
+      "title": "Capítulo 180",
+      "date": "2025-11-04T15:46:32.220Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-181",
+      "number": 181,
+      "title": "Capítulo 181",
+      "date": "2025-11-04T15:46:46.477Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-182",
+      "number": 182,
+      "title": "Capítulo 182",
+      "date": "2025-11-04T15:47:00.960Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-183",
+      "number": 183,
+      "title": "Capítulo 183",
+      "date": "2025-11-04T15:47:11.350Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-184",
+      "number": 184,
+      "title": "Capítulo 184",
+      "date": "2025-11-04T15:47:24.235Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-185",
+      "number": 185,
+      "title": "Capítulo 185",
+      "date": "2025-11-04T15:47:46.309Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-186",
+      "number": 186,
+      "title": "Capítulo 186",
+      "date": "2025-11-04T15:47:59.272Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-187",
+      "number": 187,
+      "title": "Capítulo 187",
+      "date": "2025-11-04T15:48:15.921Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-188",
+      "number": 188,
+      "title": "Capítulo 188",
+      "date": "2025-11-04T15:48:32.072Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-189",
+      "number": 189,
+      "title": "Capítulo 189",
+      "date": "2025-11-04T15:48:47.018Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-190",
+      "number": 190,
+      "title": "Capítulo 190",
+      "date": "2025-11-04T15:49:02.917Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-191",
+      "number": 191,
+      "title": "Capítulo 191",
+      "date": "2025-11-04T15:49:18.507Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-192",
+      "number": 192,
+      "title": "Capítulo 192",
+      "date": "2025-11-04T15:49:32.757Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-193",
+      "number": 193,
+      "title": "Capítulo 193",
+      "date": "2025-11-04T15:49:48.925Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-194",
+      "number": 194,
+      "title": "Capítulo 194",
+      "date": "2025-11-04T15:49:59.892Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-195",
+      "number": 195,
+      "title": "Capítulo 195",
+      "date": "2025-11-04T15:50:18.154Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-196",
+      "number": 196,
+      "title": "Capítulo 196",
+      "date": "2025-11-04T15:50:35.905Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-197",
+      "number": 197,
+      "title": "Capítulo 197",
+      "date": "2025-11-04T15:50:49.495Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-198",
+      "number": 198,
+      "title": "Capítulo 198",
+      "date": "2025-11-04T15:51:05.961Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-199",
+      "number": 199,
+      "title": "Capítulo 199",
+      "date": "2025-11-04T15:51:19.290Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-200",
+      "number": 200,
+      "title": "Capítulo 200",
+      "date": "2025-11-04T15:51:32.805Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-201",
+      "number": 201,
+      "title": "Capítulo 201",
+      "date": "2025-11-04T15:51:49.379Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-202",
+      "number": 202,
+      "title": "Capítulo 202",
+      "date": "2025-11-04T15:52:04.058Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-203",
+      "number": 203,
+      "title": "Capítulo 203",
+      "date": "2025-11-04T15:52:15.565Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-204",
+      "number": 204,
+      "title": "Capítulo 204",
+      "date": "2025-11-04T15:52:29.799Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-205",
+      "number": 205,
+      "title": "Capítulo 205",
+      "date": "2025-11-04T15:52:40.347Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-206",
+      "number": 206,
+      "title": "Capítulo 206",
+      "date": "2025-11-04T15:52:55.220Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-207",
+      "number": 207,
+      "title": "Capítulo 207",
+      "date": "2025-11-04T15:53:11.583Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-208",
+      "number": 208,
+      "title": "Capítulo 208",
+      "date": "2025-11-04T15:53:24.748Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-209",
+      "number": 209,
+      "title": "Capítulo 209",
+      "date": "2025-11-04T15:53:38.575Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-210",
+      "number": 210,
+      "title": "Capítulo 210",
+      "date": "2025-11-04T15:53:54.654Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-211",
+      "number": 211,
+      "title": "Capítulo 211",
+      "date": "2025-11-04T15:54:13.048Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-212",
+      "number": 212,
+      "title": "Capítulo 212",
+      "date": "2025-11-04T15:54:28.418Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-213",
+      "number": 213,
+      "title": "Capítulo 213",
+      "date": "2025-11-04T15:54:46.105Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-214",
+      "number": 214,
+      "title": "Capítulo 214",
+      "date": "2025-11-04T15:55:00.248Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-215",
+      "number": 215,
+      "title": "Capítulo 215",
+      "date": "2025-11-04T15:55:14.551Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-216",
+      "number": 216,
+      "title": "Capítulo 216",
+      "date": "2025-11-04T15:55:31.045Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-217",
+      "number": 217,
+      "title": "Capítulo 217",
+      "date": "2025-11-04T15:55:51.004Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-218",
+      "number": 218,
+      "title": "Capítulo 218",
+      "date": "2025-11-04T15:56:06.260Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-219",
+      "number": 219,
+      "title": "Capítulo 219",
+      "date": "2025-11-04T15:56:19.359Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-220",
+      "number": 220,
+      "title": "Capítulo 220",
+      "date": "2025-11-04T15:56:35.649Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-221",
+      "number": 221,
+      "title": "Capítulo 221",
+      "date": "2025-11-04T15:56:52.080Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-222",
+      "number": 222,
+      "title": "Capítulo 222",
+      "date": "2025-11-04T15:57:08.797Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-223",
+      "number": 223,
+      "title": "Capítulo 223",
+      "date": "2025-11-04T15:57:26.072Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-224",
+      "number": 224,
+      "title": "Capítulo 224",
+      "date": "2025-11-04T15:57:42.166Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-225",
+      "number": 225,
+      "title": "Capítulo 225",
+      "date": "2025-11-04T15:57:54.287Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-226",
+      "number": 226,
+      "title": "Capítulo 226",
+      "date": "2025-11-04T15:58:09.186Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-227",
+      "number": 227,
+      "title": "Capítulo 227",
+      "date": "2025-11-04T15:58:26.868Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-228",
+      "number": 228,
+      "title": "Capítulo 228",
+      "date": "2025-11-04T15:58:46.416Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-229",
+      "number": 229,
+      "title": "Capítulo 229",
+      "date": "2025-11-04T15:59:06.436Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-230",
+      "number": 230,
+      "title": "Capítulo 230",
+      "date": "2025-11-04T15:59:23.766Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-231",
+      "number": 231,
+      "title": "Capítulo 231",
+      "date": "2025-11-04T15:59:38.006Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-232",
+      "number": 232,
+      "title": "Capítulo 232",
+      "date": "2025-11-04T15:59:50.109Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-233",
+      "number": 233,
+      "title": "Capítulo 233",
+      "date": "2025-11-04T16:00:08.568Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-234",
+      "number": 234,
+      "title": "Capítulo 234",
+      "date": "2025-11-04T16:00:24.488Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-235",
+      "number": 235,
+      "title": "Capítulo 235",
+      "date": "2025-11-04T16:00:41.833Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-236",
+      "number": 236,
+      "title": "Capítulo 236",
+      "date": "2025-11-04T16:01:02.453Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-237",
+      "number": 237,
+      "title": "Capítulo 237",
+      "date": "2025-11-04T16:01:25.071Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-238",
+      "number": 238,
+      "title": "Capítulo 238",
+      "date": "2025-11-04T16:01:40.655Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-239",
+      "number": 239,
+      "title": "Capítulo 239",
+      "date": "2025-11-04T16:01:53.323Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-240",
+      "number": 240,
+      "title": "Capítulo 240",
+      "date": "2025-11-04T16:02:11.888Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-241",
+      "number": 241,
+      "title": "Capítulo 241",
+      "date": "2025-11-04T16:02:25.255Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-242",
+      "number": 242,
+      "title": "Capítulo 242",
+      "date": "2025-11-04T16:02:36.759Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-243",
+      "number": 243,
+      "title": "Capítulo 243",
+      "date": "2025-11-04T16:02:57.379Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-244",
+      "number": 244,
+      "title": "Capítulo 244",
+      "date": "2025-11-04T16:03:12.705Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-245",
+      "number": 245,
+      "title": "Capítulo 245",
+      "date": "2025-11-04T16:03:29.171Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-246",
+      "number": 246,
+      "title": "Capítulo 246",
+      "date": "2025-11-04T16:03:48.010Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-247",
+      "number": 247,
+      "title": "Capítulo 247",
+      "date": "2025-11-04T16:04:03.115Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-248",
+      "number": 248,
+      "title": "Capítulo 248",
+      "date": "2025-11-04T16:04:22.666Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-249",
+      "number": 249,
+      "title": "Capítulo 249",
+      "date": "2025-11-04T16:04:45.277Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-250",
+      "number": 250,
+      "title": "Capítulo 250",
+      "date": "2025-11-04T16:05:11.656Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-251",
+      "number": 251,
+      "title": "Capítulo 251",
+      "date": "2025-11-04T16:05:34.117Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-252",
+      "number": 252,
+      "title": "Capítulo 252",
+      "date": "2025-11-04T16:05:53.058Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-253",
+      "number": 253,
+      "title": "Capítulo 253",
+      "date": "2025-11-04T16:06:13.679Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-254",
+      "number": 254,
+      "title": "Capítulo 254",
+      "date": "2025-11-04T16:06:29.907Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-255",
+      "number": 255,
+      "title": "Capítulo 255",
+      "date": "2025-11-04T16:06:46.442Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-256",
+      "number": 256,
+      "title": "Capítulo 256",
+      "date": "2025-11-04T16:07:04.783Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-257",
+      "number": 257,
+      "title": "Capítulo 257",
+      "date": "2025-11-04T16:07:23.402Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-258",
+      "number": 258,
+      "title": "Capítulo 258",
+      "date": "2025-11-04T16:07:44.480Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-259",
+      "number": 259,
+      "title": "Capítulo 259",
+      "date": "2025-11-04T16:08:05.127Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-260",
+      "number": 260,
+      "title": "Capítulo 260",
+      "date": "2025-11-04T16:08:25.053Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-261",
+      "number": 261,
+      "title": "Capítulo 261",
+      "date": "2025-11-04T16:08:46.666Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-262",
+      "number": 262,
+      "title": "Capítulo 262",
+      "date": "2025-11-04T16:09:05.920Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-263",
+      "number": 263,
+      "title": "Capítulo 263",
+      "date": "2025-11-04T16:09:26.372Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-264",
+      "number": 264,
+      "title": "Capítulo 264",
+      "date": "2025-11-04T16:09:45.138Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-265",
+      "number": 265,
+      "title": "Capítulo 265",
+      "date": "2025-11-04T16:10:16.049Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-266",
+      "number": 266,
+      "title": "Capítulo 266",
+      "date": "2025-11-04T16:10:36.678Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-268",
+      "number": 268,
+      "title": "Capítulo 268",
+      "date": "2025-11-04T16:10:56.565Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-269",
+      "number": 269,
+      "title": "Capítulo 269",
+      "date": "2025-11-04T16:11:19.714Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-270",
+      "number": 270,
+      "title": "Capítulo 270",
+      "date": "2025-11-04T16:11:42.392Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-271",
+      "number": 271,
+      "title": "Capítulo 271",
+      "date": "2025-11-04T16:12:07.239Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-272",
+      "number": 272,
+      "title": "Capítulo 272",
+      "date": "2025-11-04T16:12:24.277Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-273",
+      "number": 273,
+      "title": "Capítulo 273",
+      "date": "2025-11-04T16:12:44.517Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-274",
+      "number": 274,
+      "title": "Capítulo 274",
+      "date": "2025-11-04T16:13:04.215Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-275",
+      "number": 275,
+      "title": "Capítulo 275",
+      "date": "2025-11-04T16:13:24.315Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-276",
+      "number": 276,
+      "title": "Capítulo 276",
+      "date": "2025-11-04T16:13:43.339Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-277",
+      "number": 277,
+      "title": "Capítulo 277",
+      "date": "2025-11-04T16:14:00.828Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-278",
+      "number": 278,
+      "title": "Capítulo 278",
+      "date": "2025-11-04T16:14:19.620Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-279",
+      "number": 279,
+      "title": "Capítulo 279",
+      "date": "2025-11-04T16:14:40.474Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-280",
+      "number": 280,
+      "title": "Capítulo 280",
+      "date": "2025-11-04T16:14:59.379Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-281",
+      "number": 281,
+      "title": "Capítulo 281",
+      "date": "2025-11-04T16:15:21.125Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-282",
+      "number": 282,
+      "title": "Capítulo 282",
+      "date": "2025-11-04T16:15:40.901Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-283",
+      "number": 283,
+      "title": "Capítulo 283",
+      "date": "2025-11-04T16:16:02.431Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-284",
+      "number": 284,
+      "title": "Capítulo 284",
+      "date": "2025-11-04T16:16:24.612Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-285",
+      "number": 285,
+      "title": "Capítulo 285",
+      "date": "2025-11-04T16:16:43.568Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-286",
+      "number": 286,
+      "title": "Capítulo 286",
+      "date": "2025-11-04T16:17:08.605Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-287",
+      "number": 287,
+      "title": "Capítulo 287",
+      "date": "2025-11-04T16:17:26.253Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-288",
+      "number": 288,
+      "title": "Capítulo 288",
+      "date": "2025-11-04T16:17:50.683Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-289",
+      "number": 289,
+      "title": "Capítulo 289",
+      "date": "2025-11-04T16:18:15.662Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-290",
+      "number": 290,
+      "title": "Capítulo 290",
+      "date": "2025-11-04T16:18:36.684Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-291",
+      "number": 291,
+      "title": "Capítulo 291",
+      "date": "2025-11-04T16:18:58.364Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-292",
+      "number": 292,
+      "title": "Capítulo 292",
+      "date": "2025-11-04T16:19:23.328Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-293",
+      "number": 293,
+      "title": "Capítulo 293",
+      "date": "2025-11-04T16:19:45.048Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-294",
+      "number": 294,
+      "title": "Capítulo 294",
+      "date": "2025-11-04T16:20:04.051Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-295",
+      "number": 295,
+      "title": "Capítulo 295",
+      "date": "2025-11-04T16:20:25.881Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-296",
+      "number": 296,
+      "title": "Capítulo 296",
+      "date": "2025-11-04T16:20:47.718Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-297",
+      "number": 297,
+      "title": "Capítulo 297",
+      "date": "2025-11-04T16:21:07.571Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-298",
+      "number": 298,
+      "title": "Capítulo 298",
+      "date": "2025-11-04T16:21:26.619Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-299",
+      "number": 299,
+      "title": "Capítulo 299",
+      "date": "2025-11-04T16:21:45.102Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-300",
+      "number": 300,
+      "title": "Capítulo 300",
+      "date": "2025-11-04T16:22:04.739Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-301",
+      "number": 301,
+      "title": "Capítulo 301",
+      "date": "2025-11-04T16:22:22.487Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-302",
+      "number": 302,
+      "title": "Capítulo 302",
+      "date": "2025-11-04T16:22:47.493Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-303",
+      "number": 303,
+      "title": "Capítulo 303",
+      "date": "2025-11-04T16:23:08.784Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-304",
+      "number": 304,
+      "title": "Capítulo 304",
+      "date": "2025-11-04T16:23:39.103Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-305",
+      "number": 305,
+      "title": "Capítulo 305",
+      "date": "2025-11-04T16:23:56.407Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-306",
+      "number": 306,
+      "title": "Capítulo 306",
+      "date": "2025-11-04T16:24:13.346Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-307",
+      "number": 307,
+      "title": "Capítulo 307",
+      "date": "2025-11-04T16:24:30.393Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-308",
+      "number": 308,
+      "title": "Capítulo 308",
+      "date": "2025-11-04T16:24:52.800Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-309",
+      "number": 309,
+      "title": "Capítulo 309",
+      "date": "2025-11-04T16:25:08.562Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-310",
+      "number": 310,
+      "title": "Capítulo 310",
+      "date": "2025-11-04T16:25:28.761Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-311",
+      "number": 311,
+      "title": "Capítulo 311",
+      "date": "2025-11-04T16:25:47.554Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-312",
+      "number": 312,
+      "title": "Capítulo 312",
+      "date": "2025-11-04T16:26:15.906Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-313",
+      "number": 313,
+      "title": "Capítulo 313",
+      "date": "2025-11-04T16:26:33.482Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-314",
+      "number": 314,
+      "title": "Capítulo 314",
+      "date": "2025-11-04T16:26:49.068Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-315",
+      "number": 315,
+      "title": "Capítulo 315",
+      "date": "2025-11-04T16:27:08.964Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-316",
+      "number": 316,
+      "title": "Capítulo 316",
+      "date": "2025-11-04T16:27:37.709Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-317",
+      "number": 317,
+      "title": "Capítulo 317",
+      "date": "2025-11-04T16:27:57.815Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-318",
+      "number": 318,
+      "title": "Capítulo 318",
+      "date": "2025-11-04T16:28:16.598Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-319",
+      "number": 319,
+      "title": "Capítulo 319",
+      "date": "2025-11-04T16:28:35.880Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-320",
+      "number": 320,
+      "title": "Capítulo 320",
+      "date": "2025-11-04T16:28:52.660Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-321",
+      "number": 321,
+      "title": "Capítulo 321",
+      "date": "2025-11-04T16:29:12.909Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-322",
+      "number": 322,
+      "title": "Capítulo 322",
+      "date": "2025-11-04T16:29:34.248Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-323",
+      "number": 323,
+      "title": "Capítulo 323",
+      "date": "2025-11-04T16:29:57.217Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-324",
+      "number": 324,
+      "title": "Capítulo 324",
+      "date": "2025-11-04T16:30:18.082Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-325",
+      "number": 325,
+      "title": "Capítulo 325",
+      "date": "2025-11-04T16:30:42.064Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-326",
+      "number": 326,
+      "title": "Capítulo 326",
+      "date": "2025-11-04T16:31:01.968Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-327",
+      "number": 327,
+      "title": "Capítulo 327",
+      "date": "2025-11-04T16:31:30.093Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-328",
+      "number": 328,
+      "title": "Capítulo 328",
+      "date": "2025-11-04T16:31:52.700Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-329",
+      "number": 329,
+      "title": "Capítulo 329",
+      "date": "2025-11-04T16:32:12.674Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-330",
+      "number": 330,
+      "title": "Capítulo 330",
+      "date": "2025-11-04T16:32:36.646Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-331",
+      "number": 331,
+      "title": "Capítulo 331",
+      "date": "2025-11-04T16:32:57.454Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-332",
+      "number": 332,
+      "title": "Capítulo 332",
+      "date": "2025-11-04T16:33:22.356Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-333",
+      "number": 333,
+      "title": "Capítulo 333",
+      "date": "2025-11-04T16:33:48.257Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-334",
+      "number": 334,
+      "title": "Capítulo 334",
+      "date": "2025-11-04T16:34:06.829Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-335",
+      "number": 335,
+      "title": "Capítulo 335",
+      "date": "2025-11-04T16:34:25.719Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-336",
+      "number": 336,
+      "title": "Capítulo 336",
+      "date": "2025-11-04T16:34:47.714Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-337",
+      "number": 337,
+      "title": "Capítulo 337",
+      "date": "2025-11-04T16:35:16.283Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-338",
+      "number": 338,
+      "title": "Capítulo 338",
+      "date": "2025-11-04T16:35:39.599Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-339",
+      "number": 339,
+      "title": "Capítulo 339",
+      "date": "2025-11-04T16:36:01.709Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-340",
+      "number": 340,
+      "title": "Capítulo 340",
+      "date": "2025-11-04T16:36:22.847Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-341",
+      "number": 341,
+      "title": "Capítulo 341",
+      "date": "2025-11-04T16:36:41.363Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-342",
+      "number": 342,
+      "title": "Capítulo 342",
+      "date": "2025-11-04T16:37:06.278Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-343",
+      "number": 343,
+      "title": "Capítulo 343",
+      "date": "2025-11-04T16:37:27.189Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-344",
+      "number": 344,
+      "title": "Capítulo 344",
+      "date": "2025-11-04T16:37:53.446Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-345",
+      "number": 345,
+      "title": "Capítulo 345",
+      "date": "2025-11-04T16:38:16.749Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-346",
+      "number": 346,
+      "title": "Capítulo 346",
+      "date": "2025-11-04T16:38:42.188Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-347",
+      "number": 347,
+      "title": "Capítulo 347",
+      "date": "2025-11-04T16:39:08.901Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-348",
+      "number": 348,
+      "title": "Capítulo 348",
+      "date": "2025-11-04T16:39:27.056Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-349",
+      "number": 349,
+      "title": "Capítulo 349",
+      "date": "2025-11-04T16:39:44.021Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-350",
+      "number": 350,
+      "title": "Capítulo 350",
+      "date": "2025-11-04T16:40:08.122Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-351",
+      "number": 351,
+      "title": "Capítulo 351",
+      "date": "2025-11-04T16:40:28.064Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-352",
+      "number": 352,
+      "title": "Capítulo 352",
+      "date": "2025-11-04T16:40:48.038Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-353",
+      "number": 353,
+      "title": "Capítulo 353",
+      "date": "2025-11-04T16:41:11.771Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-354",
+      "number": 354,
+      "title": "Capítulo 354",
+      "date": "2025-11-04T16:41:36.219Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-355",
+      "number": 355,
+      "title": "Capítulo 355",
+      "date": "2025-11-04T16:42:03.817Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-356",
+      "number": 356,
+      "title": "Capítulo 356",
+      "date": "2025-11-04T16:42:22.352Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-357",
+      "number": 357,
+      "title": "Capítulo 357",
+      "date": "2025-11-04T16:42:38.460Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-358",
+      "number": 358,
+      "title": "Capítulo 358",
+      "date": "2025-11-04T16:42:58.239Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-359",
+      "number": 359,
+      "title": "Capítulo 359",
+      "date": "2025-11-04T16:43:17.107Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-360",
+      "number": 360,
+      "title": "Capítulo 360",
+      "date": "2025-11-04T16:43:36.176Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-361",
+      "number": 361,
+      "title": "Capítulo 361",
+      "date": "2025-11-04T16:43:56.855Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-362",
+      "number": 362,
+      "title": "Capítulo 362",
+      "date": "2025-11-04T16:44:18.093Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-363",
+      "number": 363,
+      "title": "Capítulo 363",
+      "date": "2025-11-04T16:44:42.589Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-364",
+      "number": 364,
+      "title": "Capítulo 364",
+      "date": "2025-11-04T16:45:07.167Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-365",
+      "number": 365,
+      "title": "Capítulo 365",
+      "date": "2025-11-04T16:45:31.044Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-366",
+      "number": 366,
+      "title": "Capítulo 366",
+      "date": "2025-11-04T16:45:50.394Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-367",
+      "number": 367,
+      "title": "Capítulo 367",
+      "date": "2025-11-04T16:46:14.291Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-368",
+      "number": 368,
+      "title": "Capítulo 368",
+      "date": "2025-11-04T16:46:38.067Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-369",
+      "number": 369,
+      "title": "Capítulo 369",
+      "date": "2025-11-04T16:46:59.205Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-370",
+      "number": 370,
+      "title": "Capítulo 370",
+      "date": "2025-11-04T16:47:24.788Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-371",
+      "number": 371,
+      "title": "Capítulo 371",
+      "date": "2025-11-04T16:47:45.784Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-372",
+      "number": 372,
+      "title": "Capítulo 372",
+      "date": "2025-11-04T16:48:13.664Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-373",
+      "number": 373,
+      "title": "Capítulo 373",
+      "date": "2025-11-04T16:48:34.978Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-374",
+      "number": 374,
+      "title": "Capítulo 374",
+      "date": "2025-11-04T16:48:57.224Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-375",
+      "number": 375,
+      "title": "Capítulo 375",
+      "date": "2025-11-04T16:49:25.235Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-376",
+      "number": 376,
+      "title": "Capítulo 376",
+      "date": "2025-11-04T16:49:55.305Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-377",
+      "number": 377,
+      "title": "Capítulo 377",
+      "date": "2025-11-04T16:50:12.211Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-378",
+      "number": 378,
+      "title": "Capítulo 378",
+      "date": "2025-11-04T16:50:37.662Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-379",
+      "number": 379,
+      "title": "Capítulo 379",
+      "date": "2025-11-04T16:51:02.710Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-380",
+      "number": 380,
+      "title": "Capítulo 380",
+      "date": "2025-11-04T16:51:27.553Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-381",
+      "number": 381,
+      "title": "Capítulo 381",
+      "date": "2025-11-04T16:51:44.609Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-382",
+      "number": 382,
+      "title": "Capítulo 382",
+      "date": "2025-11-04T16:52:08.725Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-383",
+      "number": 383,
+      "title": "Capítulo 383",
+      "date": "2025-11-04T16:52:45.061Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-384",
+      "number": 384,
+      "title": "Capítulo 384",
+      "date": "2025-11-04T16:53:16.967Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-385",
+      "number": 385,
+      "title": "Capítulo 385",
+      "date": "2025-11-04T16:53:35.663Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-386",
+      "number": 386,
+      "title": "Capítulo 386",
+      "date": "2025-11-04T16:53:56.051Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-387",
+      "number": 387,
+      "title": "Capítulo 387",
+      "date": "2025-11-04T16:54:21.567Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-388",
+      "number": 388,
+      "title": "Capítulo 388",
+      "date": "2025-11-04T16:54:40.695Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-389",
+      "number": 389,
+      "title": "Capítulo 389",
+      "date": "2025-11-04T16:55:08.504Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-390",
+      "number": 390,
+      "title": "Capítulo 390",
+      "date": "2025-11-04T16:55:38.147Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-391",
+      "number": 391,
+      "title": "Capítulo 391",
+      "date": "2025-11-04T16:56:00.211Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-392",
+      "number": 392,
+      "title": "Capítulo 392",
+      "date": "2025-11-04T16:56:26.238Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-393",
+      "number": 393,
+      "title": "Capítulo 393",
+      "date": "2025-11-04T16:56:49.779Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-394",
+      "number": 394,
+      "title": "Capítulo 394",
+      "date": "2025-11-04T16:57:39.073Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-395",
+      "number": 395,
+      "title": "Capítulo 395",
+      "date": "2025-11-04T16:58:13.540Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-396",
+      "number": 396,
+      "title": "Capítulo 396",
+      "date": "2025-11-04T16:58:45.492Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-397",
+      "number": 397,
+      "title": "Capítulo 397",
+      "date": "2025-11-04T16:59:17.876Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-398",
+      "number": 398,
+      "title": "Capítulo 398",
+      "date": "2025-11-04T16:59:59.727Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-399",
+      "number": 399,
+      "title": "Capítulo 399",
+      "date": "2025-11-04T17:00:36.022Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-400",
+      "number": 400,
+      "title": "Capítulo 400",
+      "date": "2025-11-04T17:01:09.052Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-401",
+      "number": 401,
+      "title": "Capítulo 401",
+      "date": "2025-11-04T17:02:05.039Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-402",
+      "number": 402,
+      "title": "Capítulo 402",
+      "date": "2025-11-04T17:02:36.596Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-403",
+      "number": 403,
+      "title": "Capítulo 403",
+      "date": "2025-11-04T17:02:54.795Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-404",
+      "number": 404,
+      "title": "Capítulo 404",
+      "date": "2025-11-04T17:03:28.820Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-405",
+      "number": 405,
+      "title": "Capítulo 405",
+      "date": "2025-11-04T17:04:01.492Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-406",
+      "number": 406,
+      "title": "Capítulo 406",
+      "date": "2025-11-04T17:04:36.238Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-407",
+      "number": 407,
+      "title": "Capítulo 407",
+      "date": "2025-11-04T17:05:01.206Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-408",
+      "number": 408,
+      "title": "Capítulo 408",
+      "date": "2025-11-04T17:05:42.335Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-409",
+      "number": 409,
+      "title": "Capítulo 409",
+      "date": "2025-11-04T17:06:00.503Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-410",
+      "number": 410,
+      "title": "Capítulo 410",
+      "date": "2025-11-04T17:06:27.236Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-411",
+      "number": 411,
+      "title": "Capítulo 411",
+      "date": "2025-11-04T17:06:57.605Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-412",
+      "number": 412,
+      "title": "Capítulo 412",
+      "date": "2025-11-04T17:07:25.265Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-413",
+      "number": 413,
+      "title": "Capítulo 413",
+      "date": "2025-11-04T17:07:46.663Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-414",
+      "number": 414,
+      "title": "Capítulo 414",
+      "date": "2025-11-04T17:08:12.892Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-415",
+      "number": 415,
+      "title": "Capítulo 415",
+      "date": "2025-11-04T17:08:37.399Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-416",
+      "number": 416,
+      "title": "Capítulo 416",
+      "date": "2025-11-04T17:09:03.845Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-417",
+      "number": 417,
+      "title": "Capítulo 417",
+      "date": "2025-11-04T17:09:31.230Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-418",
+      "number": 418,
+      "title": "Capítulo 418",
+      "date": "2025-11-04T17:10:18.961Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-419",
+      "number": 419,
+      "title": "Capítulo 419",
+      "date": "2025-11-04T17:10:40.299Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-420",
+      "number": 420,
+      "title": "Capítulo 420",
+      "date": "2025-11-04T17:11:23.141Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-421",
+      "number": 421,
+      "title": "Capítulo 421",
+      "date": "2025-11-04T17:11:43.852Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-422",
+      "number": 422,
+      "title": "Capítulo 422",
+      "date": "2025-11-04T17:12:19.754Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-423",
+      "number": 423,
+      "title": "Capítulo 423",
+      "date": "2025-11-04T17:12:48.063Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-424",
+      "number": 424,
+      "title": "Capítulo 424",
+      "date": "2025-11-04T17:13:07.362Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-425",
+      "number": 425,
+      "title": "Capítulo 425",
+      "date": "2025-11-04T17:13:29.946Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-426",
+      "number": 426,
+      "title": "Capítulo 426",
+      "date": "2025-11-04T17:14:06.396Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-427",
+      "number": 427,
+      "title": "Capítulo 427",
+      "date": "2025-11-04T17:14:34.064Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-428",
+      "number": 428,
+      "title": "Capítulo 428",
+      "date": "2025-11-04T17:15:06.158Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-429",
+      "number": 429,
+      "title": "Capítulo 429",
+      "date": "2025-11-04T17:15:21.428Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-430",
+      "number": 430,
+      "title": "Capítulo 430",
+      "date": "2025-11-04T17:15:54.830Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-431",
+      "number": 431,
+      "title": "Capítulo 431",
+      "date": "2025-11-04T17:16:22.465Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-432",
+      "number": 432,
+      "title": "Capítulo 432",
+      "date": "2025-11-04T17:16:51.280Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-433",
+      "number": 433,
+      "title": "Capítulo 433",
+      "date": "2025-11-04T17:17:27.055Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-434",
+      "number": 434,
+      "title": "Capítulo 434",
+      "date": "2025-11-04T17:18:06.729Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-435",
+      "number": 435,
+      "title": "Capítulo 435",
+      "date": "2025-11-04T17:18:53.451Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-436",
+      "number": 436,
+      "title": "Capítulo 436",
+      "date": "2025-11-04T17:19:09.330Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-437",
+      "number": 437,
+      "title": "Capítulo 437",
+      "date": "2025-11-04T17:19:25.492Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-438",
+      "number": 438,
+      "title": "Capítulo 438",
+      "date": "2025-11-04T17:19:38.718Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-439",
+      "number": 439,
+      "title": "Capítulo 439",
+      "date": "2025-11-04T17:19:54.457Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-440",
+      "number": 440,
+      "title": "Capítulo 440",
+      "date": "2025-11-04T17:20:12.586Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-441",
+      "number": 441,
+      "title": "Capítulo 441",
+      "date": "2025-11-04T17:20:28.636Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-442",
+      "number": 442,
+      "title": "Capítulo 442",
+      "date": "2025-11-04T17:20:45.565Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-443",
+      "number": 443,
+      "title": "Capítulo 443",
+      "date": "2025-11-04T17:21:05.064Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-444",
+      "number": 444,
+      "title": "Capítulo 444",
+      "date": "2025-11-04T17:21:22.225Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-445",
+      "number": 445,
+      "title": "Capítulo 445",
+      "date": "2025-11-04T17:21:36.601Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-446",
+      "number": 446,
+      "title": "Capítulo 446",
+      "date": "2025-11-04T17:21:50.939Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-447",
+      "number": 447,
+      "title": "Capítulo 447",
+      "date": "2025-11-04T17:22:05.855Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-448",
+      "number": 448,
+      "title": "Capítulo 448",
+      "date": "2025-11-04T17:22:20.268Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-449",
+      "number": 449,
+      "title": "Capítulo 449",
+      "date": "2025-11-04T17:22:35.476Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-450",
+      "number": 450,
+      "title": "Capítulo 450",
+      "date": "2025-11-04T17:22:51.839Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-451",
+      "number": 451,
+      "title": "Capítulo 451",
+      "date": "2025-11-04T17:23:02.510Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-452",
+      "number": 452,
+      "title": "Capítulo 452",
+      "date": "2025-11-04T17:23:14.212Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-453",
+      "number": 453,
+      "title": "Capítulo 453",
+      "date": "2025-11-04T17:23:26.386Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-454",
+      "number": 454,
+      "title": "Capítulo 454",
+      "date": "2025-11-04T17:23:41.980Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-455",
+      "number": 455,
+      "title": "Capítulo 455",
+      "date": "2025-11-04T17:23:53.386Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-456",
+      "number": 456,
+      "title": "Capítulo 456",
+      "date": "2025-11-04T17:24:06.071Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-457",
+      "number": 457,
+      "title": "Capítulo 457",
+      "date": "2025-11-04T17:24:21.771Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-458",
+      "number": 458,
+      "title": "Capítulo 458",
+      "date": "2025-11-04T17:24:36.360Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-459",
+      "number": 459,
+      "title": "Capítulo 459",
+      "date": "2025-11-04T17:24:47.094Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-460",
+      "number": 460,
+      "title": "Capítulo 460",
+      "date": "2025-11-04T17:24:59.594Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-461",
+      "number": 461,
+      "title": "Capítulo 461",
+      "date": "2025-11-04T17:25:20.041Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-462",
+      "number": 462,
+      "title": "Capítulo 462",
+      "date": "2025-11-04T17:25:35.782Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-463",
+      "number": 463,
+      "title": "Capítulo 463",
+      "date": "2025-11-04T17:25:49.830Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-464",
+      "number": 464,
+      "title": "Capítulo 464",
+      "date": "2025-11-04T17:26:03.304Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-465",
+      "number": 465,
+      "title": "Capítulo 465",
+      "date": "2025-11-04T17:26:15.632Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-466",
+      "number": 466,
+      "title": "Capítulo 466",
+      "date": "2025-11-04T17:26:31.510Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-467",
+      "number": 467,
+      "title": "Capítulo 467",
+      "date": "2025-11-04T17:26:48.203Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-468",
+      "number": 468,
+      "title": "Capítulo 468",
+      "date": "2025-11-04T17:27:01.098Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-469",
+      "number": 469,
+      "title": "Capítulo 469",
+      "date": "2025-11-04T17:27:17.225Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-470",
+      "number": 470,
+      "title": "Capítulo 470",
+      "date": "2025-11-04T17:27:30.538Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-471",
+      "number": 471,
+      "title": "Capítulo 471",
+      "date": "2025-11-04T17:27:44.357Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-472",
+      "number": 472,
+      "title": "Capítulo 472",
+      "date": "2025-11-04T17:27:58.260Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-473",
+      "number": 473,
+      "title": "Capítulo 473",
+      "date": "2025-11-04T17:28:14.436Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-474",
+      "number": 474,
+      "title": "Capítulo 474",
+      "date": "2025-11-04T17:28:28.675Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-475",
+      "number": 475,
+      "title": "Capítulo 475",
+      "date": "2025-11-04T17:28:42.575Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-476",
+      "number": 476,
+      "title": "Capítulo 476",
+      "date": "2025-11-04T17:28:59.247Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-477",
+      "number": 477,
+      "title": "Capítulo 477",
+      "date": "2025-11-04T17:29:18.072Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-478",
+      "number": 478,
+      "title": "Capítulo 478",
+      "date": "2025-11-04T17:29:35.658Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-479",
+      "number": 479,
+      "title": "Capítulo 479",
+      "date": "2025-11-04T17:29:52.609Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-480",
+      "number": 480,
+      "title": "Capítulo 480",
+      "date": "2025-11-04T17:30:08.703Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-481",
+      "number": 481,
+      "title": "Capítulo 481",
+      "date": "2025-11-04T17:30:24.415Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-482",
+      "number": 482,
+      "title": "Capítulo 482",
+      "date": "2025-11-04T17:30:43.447Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-483",
+      "number": 483,
+      "title": "Capítulo 483",
+      "date": "2025-11-04T17:31:02.746Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-484",
+      "number": 484,
+      "title": "Capítulo 484",
+      "date": "2025-11-04T17:31:18.969Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-485",
+      "number": 485,
+      "title": "Capítulo 485",
+      "date": "2025-11-04T17:31:36.612Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-486",
+      "number": 486,
+      "title": "Capítulo 486",
+      "date": "2025-11-04T17:31:50.248Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-487",
+      "number": 487,
+      "title": "Capítulo 487",
+      "date": "2025-11-04T17:32:04.713Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-488",
+      "number": 488,
+      "title": "Capítulo 488",
+      "date": "2025-11-04T17:32:23.333Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-489",
+      "number": 489,
+      "title": "Capítulo 489",
+      "date": "2025-11-04T17:32:41.360Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-490",
+      "number": 490,
+      "title": "Capítulo 490",
+      "date": "2025-11-04T17:32:58.521Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-491",
+      "number": 491,
+      "title": "Capítulo 491",
+      "date": "2025-11-04T17:33:12.375Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-492",
+      "number": 492,
+      "title": "Capítulo 492",
+      "date": "2025-11-04T17:33:27.412Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-493",
+      "number": 493,
+      "title": "Capítulo 493",
+      "date": "2025-11-04T17:33:43.038Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-494",
+      "number": 494,
+      "title": "Capítulo 494",
+      "date": "2025-11-04T17:33:55.674Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-495",
+      "number": 495,
+      "title": "Capítulo 495",
+      "date": "2025-11-04T17:34:09.398Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-496",
+      "number": 496,
+      "title": "Capítulo 496",
+      "date": "2025-11-04T17:34:24.973Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-497",
+      "number": 497,
+      "title": "Capítulo 497",
+      "date": "2025-11-04T17:34:39.723Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-498",
+      "number": 498,
+      "title": "Capítulo 498",
+      "date": "2025-11-04T17:34:53.564Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-499",
+      "number": 499,
+      "title": "Capítulo 499",
+      "date": "2025-11-04T17:35:10.843Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-500",
+      "number": 500,
+      "title": "Capítulo 500",
+      "date": "2025-11-04T17:35:24.710Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-501",
+      "number": 501,
+      "title": "Capítulo 501",
+      "date": "2025-11-04T17:35:39.004Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-502",
+      "number": 502,
+      "title": "Capítulo 502",
+      "date": "2025-11-04T17:35:55.138Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-503",
+      "number": 503,
+      "title": "Capítulo 503",
+      "date": "2025-11-04T17:36:12.324Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-504",
+      "number": 504,
+      "title": "Capítulo 504",
+      "date": "2025-11-04T17:36:26.889Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-505",
+      "number": 505,
+      "title": "Capítulo 505",
+      "date": "2025-11-04T17:36:39.372Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-506",
+      "number": 506,
+      "title": "Capítulo 506",
+      "date": "2025-11-04T17:36:52.630Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-507",
+      "number": 507,
+      "title": "Capítulo 507",
+      "date": "2025-11-04T17:37:07.728Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-508",
+      "number": 508,
+      "title": "Capítulo 508",
+      "date": "2025-11-04T17:37:20.273Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-509",
+      "number": 509,
+      "title": "Capítulo 509",
+      "date": "2025-11-04T17:37:35.691Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-510",
+      "number": 510,
+      "title": "Capítulo 510",
+      "date": "2025-11-04T17:37:48.792Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-511",
+      "number": 511,
+      "title": "Capítulo 511",
+      "date": "2025-11-04T17:38:02.405Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-512",
+      "number": 512,
+      "title": "Capítulo 512",
+      "date": "2025-11-04T17:38:15.274Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-513",
+      "number": 513,
+      "title": "Capítulo 513",
+      "date": "2025-11-04T17:38:26.973Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-514",
+      "number": 514,
+      "title": "Capítulo 514",
+      "date": "2025-11-04T17:38:37.288Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-515",
+      "number": 515,
+      "title": "Capítulo 515",
+      "date": "2025-11-04T17:38:54.550Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-516",
+      "number": 516,
+      "title": "Capítulo 516",
+      "date": "2025-11-04T17:39:11.890Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-517",
+      "number": 517,
+      "title": "Capítulo 517",
+      "date": "2025-11-04T17:39:25.321Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-518",
+      "number": 518,
+      "title": "Capítulo 518",
+      "date": "2025-11-04T17:39:38.926Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-519",
+      "number": 519,
+      "title": "Capítulo 519",
+      "date": "2025-11-04T17:39:50.539Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-520",
+      "number": 520,
+      "title": "Capítulo 520",
+      "date": "2025-11-04T17:40:01.557Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-521",
+      "number": 521,
+      "title": "Capítulo 521",
+      "date": "2025-11-04T17:40:18.990Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-522",
+      "number": 522,
+      "title": "Capítulo 522",
+      "date": "2025-11-04T17:40:34.325Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-523",
+      "number": 523,
+      "title": "Capítulo 523",
+      "date": "2025-11-04T17:40:51.175Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-524",
+      "number": 524,
+      "title": "Capítulo 524",
+      "date": "2025-11-04T17:41:05.418Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-525",
+      "number": 525,
+      "title": "Capítulo 525",
+      "date": "2025-11-04T17:41:18.240Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-526",
+      "number": 526,
+      "title": "Capítulo 526",
+      "date": "2025-11-04T17:41:32.167Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-527",
+      "number": 527,
+      "title": "Capítulo 527",
+      "date": "2025-11-04T17:41:46.680Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-528",
+      "number": 528,
+      "title": "Capítulo 528",
+      "date": "2025-11-04T17:42:00.728Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-529",
+      "number": 529,
+      "title": "Capítulo 529",
+      "date": "2025-11-04T17:42:25.653Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-530",
+      "number": 530,
+      "title": "Capítulo 530",
+      "date": "2025-11-04T17:42:49.518Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-531",
+      "number": 531,
+      "title": "Capítulo 531",
+      "date": "2025-11-04T17:43:13.128Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-532",
+      "number": 532,
+      "title": "Capítulo 532",
+      "date": "2025-11-04T17:43:41.644Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-533",
+      "number": 533,
+      "title": "Capítulo 533",
+      "date": "2025-11-04T17:44:03.842Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-534",
+      "number": 534,
+      "title": "Capítulo 534",
+      "date": "2025-11-04T17:44:23.320Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-535",
+      "number": 535,
+      "title": "Capítulo 535",
+      "date": "2025-11-04T17:44:46.538Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-536",
+      "number": 536,
+      "title": "Capítulo 536",
+      "date": "2025-11-04T17:45:12.090Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-537",
+      "number": 537,
+      "title": "Capítulo 537",
+      "date": "2025-11-04T17:45:40.918Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-538",
+      "number": 538,
+      "title": "Capítulo 538",
+      "date": "2025-11-04T17:46:01.560Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-539",
+      "number": 539,
+      "title": "Capítulo 539",
+      "date": "2025-11-04T17:46:24.437Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-540",
+      "number": 540,
+      "title": "Capítulo 540",
+      "date": "2025-11-04T17:46:48.491Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-541",
+      "number": 541,
+      "title": "Capítulo 541",
+      "date": "2025-11-04T17:47:13.347Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-542",
+      "number": 542,
+      "title": "Capítulo 542",
+      "date": "2025-11-04T17:47:41.098Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-543",
+      "number": 543,
+      "title": "Capítulo 543",
+      "date": "2025-11-04T17:48:05.373Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-544",
+      "number": 544,
+      "title": "Capítulo 544",
+      "date": "2025-11-04T17:48:27.873Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-545",
+      "number": 545,
+      "title": "Capítulo 545",
+      "date": "2025-11-04T17:48:53.513Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-546",
+      "number": 546,
+      "title": "Capítulo 546",
+      "date": "2025-11-04T17:49:20.042Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-547",
+      "number": 547,
+      "title": "Capítulo 547",
+      "date": "2025-11-04T17:49:43.800Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-548",
+      "number": 548,
+      "title": "Capítulo 548",
+      "date": "2025-11-04T17:50:17.643Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-549",
+      "number": 549,
+      "title": "Capítulo 549",
+      "date": "2025-11-04T17:50:46.796Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-550",
+      "number": 550,
+      "title": "Capítulo 550",
+      "date": "2025-11-04T17:51:23.171Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-551",
+      "number": 551,
+      "title": "Capítulo 551",
+      "date": "2025-11-04T17:51:48.836Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-552",
+      "number": 552,
+      "title": "Capítulo 552",
+      "date": "2025-11-04T17:52:23.711Z",
+      "pages": []
+    },
+    {
+      "id": "artes-marciais-reversas-chapter-553",
+      "number": 553,
+      "title": "Capítulo 553",
+      "date": "2026-06-23T19:54:26.420Z",
+      "pages": [
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-553-fim/page-1.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-553-fim/page-2-1.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-553-fim/page-2-2.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-553-fim/page-2-3.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-553-fim/page-3-1.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-553-fim/page-3-2.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-553-fim/page-3-3.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-553-fim/page-4-1.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-553-fim/page-4-2.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-553-fim/page-4-3.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-553-fim/page-5-1.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-553-fim/page-5-2.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-553-fim/page-5-3.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-553-fim/page-6-1.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-553-fim/page-6-2.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-553-fim/page-6-3.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-553-fim/page-7-1.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-553-fim/page-7-2.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-553-fim/page-7-3.webp",
+        "https://cdn.leituramanga.net/artes-marciais-reversas/capitulo-553-fim/page-8.webp"
+      ]
+    }
+  ]
+}

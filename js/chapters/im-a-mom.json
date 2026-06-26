@@ -1,0 +1,661 @@
+{
+  "pt": [
+    {
+      "id": "im-a-mom-chapter-1",
+      "number": 1,
+      "title": "I&#8217;m a Mom – Capítulo 1 – Uma mãe e sua filha.",
+      "date": "2025-11-08T13:46:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 852253
+    },
+    {
+      "id": "im-a-mom-chapter-2",
+      "number": 2,
+      "title": "I&#8217;m a Mom – Capítulo 2 – GOM-DOL",
+      "date": "2025-11-08T13:46:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 852252
+    },
+    {
+      "id": "im-a-mom-chapter-3",
+      "number": 3,
+      "title": "I&#8217;m a Mom – Capítulo 3 – O primeiro encontro",
+      "date": "2025-11-08T13:46:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 852250
+    },
+    {
+      "id": "im-a-mom-chapter-4",
+      "number": 4,
+      "title": "I&#8217;m a Mom – Capítulo 4 – Teste inesperado",
+      "date": "2025-11-08T13:46:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 852257
+    },
+    {
+      "id": "im-a-mom-chapter-5",
+      "number": 5,
+      "title": "I&#8217;m a Mom – Capítulo 5 – Uma arma secreta",
+      "date": "2025-11-08T13:46:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 852256
+    },
+    {
+      "id": "im-a-mom-chapter-6",
+      "number": 6,
+      "title": "I&#8217;m a Mom – Capítulo 6 – O despertar do poder",
+      "date": "2025-11-08T13:47:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 852391
+    },
+    {
+      "id": "im-a-mom-chapter-7",
+      "number": 7,
+      "title": "I&#8217;m a Mom – Capítulo 7 – Para minha mamãe",
+      "date": "2025-11-08T13:47:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 852386
+    },
+    {
+      "id": "im-a-mom-chapter-8",
+      "number": 8,
+      "title": "I&#8217;m a Mom – Capítulo 8 – Uma coisa atrás da outra",
+      "date": "2025-11-08T13:47:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 852389
+    },
+    {
+      "id": "im-a-mom-chapter-9",
+      "number": 9,
+      "title": "I&#8217;m a Mom – Capítulo 9 – Reencontro Infeliz",
+      "date": "2025-11-08T13:47:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 852390
+    },
+    {
+      "id": "im-a-mom-chapter-10",
+      "number": 10,
+      "title": "I&#8217;m a Mom – Capítulo 10 – Troca indesejada",
+      "date": "2025-11-08T13:47:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 852392
+    },
+    {
+      "id": "im-a-mom-chapter-11",
+      "number": 11,
+      "title": "I&#8217;m a Mom – Capítulo 11 – A intensidade da dor",
+      "date": "2025-11-08T13:47:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 852529
+    },
+    {
+      "id": "im-a-mom-chapter-12",
+      "number": 12,
+      "title": "I&#8217;m a Mom – Capítulo 12 – A adaga congelante",
+      "date": "2025-11-08T13:47:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 852527
+    },
+    {
+      "id": "im-a-mom-chapter-13",
+      "number": 13,
+      "title": "I&#8217;m a Mom – Capítulo 13 – A troca",
+      "date": "2025-11-08T13:47:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 852530
+    },
+    {
+      "id": "im-a-mom-chapter-14",
+      "number": 14,
+      "title": "I&#8217;m a Mom – Capítulo 14 – Uma grande decisão",
+      "date": "2025-11-08T13:47:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 852531
+    },
+    {
+      "id": "im-a-mom-chapter-15",
+      "number": 15,
+      "title": "I&#8217;m a Mom – Capítulo 15 – Duas situações diferentes",
+      "date": "2025-11-08T13:47:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 852532
+    },
+    {
+      "id": "im-a-mom-chapter-16",
+      "number": 16,
+      "title": "I&#8217;m a Mom – Capítulo 16 – Encontro",
+      "date": "2025-11-08T13:48:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 852696
+    },
+    {
+      "id": "im-a-mom-chapter-17",
+      "number": 17,
+      "title": "I&#8217;m a Mom – Capítulo 17 – Dúvida",
+      "date": "2025-11-08T13:48:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 852700
+    },
+    {
+      "id": "im-a-mom-chapter-18",
+      "number": 18,
+      "title": "I&#8217;m a Mom – Capítulo 18 – Memória distante",
+      "date": "2025-11-08T13:48:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 852697
+    },
+    {
+      "id": "im-a-mom-chapter-19",
+      "number": 19,
+      "title": "I&#8217;m a Mom – Capítulo 19 – Uma Relação Perigosa",
+      "date": "2025-11-08T13:48:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 852693
+    },
+    {
+      "id": "im-a-mom-chapter-20",
+      "number": 20,
+      "title": "I&#8217;m a Mom – Capítulo 20 – Diferença de posição",
+      "date": "2025-11-08T13:48:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 852699
+    },
+    {
+      "id": "im-a-mom-chapter-21",
+      "number": 21,
+      "title": "I&#8217;m a Mom – Capítulo 21 – Devoção inabalável",
+      "date": "2025-11-08T13:48:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 852874
+    },
+    {
+      "id": "im-a-mom-chapter-22",
+      "number": 22,
+      "title": "I&#8217;m a Mom – Capítulo 22 – o Estranho",
+      "date": "2025-11-08T13:48:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 852868
+    },
+    {
+      "id": "im-a-mom-chapter-23",
+      "number": 23,
+      "title": "I&#8217;m a Mom – Capítulo 23 – Péssimo momento",
+      "date": "2025-11-08T13:48:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 852876
+    },
+    {
+      "id": "im-a-mom-chapter-24",
+      "number": 24,
+      "title": "I&#8217;m a Mom – Capítulo 24 – Visitante indesejado",
+      "date": "2025-11-08T13:48:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 852872
+    },
+    {
+      "id": "im-a-mom-chapter-25",
+      "number": 25,
+      "title": "I&#8217;m a Mom – Capítulo 25 – Deixando minha mãe para trás…",
+      "date": "2025-11-08T13:48:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 852873
+    },
+    {
+      "id": "im-a-mom-chapter-26",
+      "number": 26,
+      "title": "I&#8217;m a Mom – Capítulo 26 – HOPE village",
+      "date": "2025-11-08T13:48:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 852875
+    },
+    {
+      "id": "im-a-mom-chapter-27",
+      "number": 27,
+      "title": "I&#8217;m a Mom – Capítulo 27 – O que eu posso fazer por ela",
+      "date": "2025-11-08T13:48:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 852871
+    },
+    {
+      "id": "im-a-mom-chapter-28",
+      "number": 28,
+      "title": "I&#8217;m a Mom – Capítulo 28 – Dúvida",
+      "date": "2025-11-08T13:48:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853032
+    },
+    {
+      "id": "im-a-mom-chapter-29",
+      "number": 29,
+      "title": "I&#8217;m a Mom – Capítulo 29 – O dia da colheita",
+      "date": "2025-11-08T13:48:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853038
+    },
+    {
+      "id": "im-a-mom-chapter-30",
+      "number": 30,
+      "title": "I&#8217;m a Mom – Capítulo 30 – Um milagre",
+      "date": "2025-11-08T13:48:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853034
+    },
+    {
+      "id": "im-a-mom-chapter-31",
+      "number": 31,
+      "title": "I&#8217;m a Mom – Capítulo 31 – Um espelho",
+      "date": "2025-11-08T13:48:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853037
+    },
+    {
+      "id": "im-a-mom-chapter-32",
+      "number": 32,
+      "title": "I&#8217;m a Mom – Capítulo 32 – Revelação",
+      "date": "2025-11-08T13:48:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853040
+    },
+    {
+      "id": "im-a-mom-chapter-33",
+      "number": 33,
+      "title": "I&#8217;m a Mom – Capítulo 33 – Encontro Inesperado",
+      "date": "2025-11-08T13:48:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853036
+    },
+    {
+      "id": "im-a-mom-chapter-34",
+      "number": 34,
+      "title": "I&#8217;m a Mom – Capítulo 34 – Cooperação",
+      "date": "2025-11-08T13:48:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853041
+    },
+    {
+      "id": "im-a-mom-chapter-35",
+      "number": 35,
+      "title": "I&#8217;m a Mom – Capítulo 35 – Negociação",
+      "date": "2025-11-08T13:48:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853039
+    },
+    {
+      "id": "im-a-mom-chapter-36",
+      "number": 36,
+      "title": "I&#8217;m a Mom – Capítulo 36 – Lar, doce lar",
+      "date": "2025-11-08T13:48:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853033
+    },
+    {
+      "id": "im-a-mom-chapter-37",
+      "number": 37,
+      "title": "I&#8217;m a Mom – Capítulo 37 – Esperança destruída",
+      "date": "2025-11-08T13:48:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853035
+    },
+    {
+      "id": "im-a-mom-chapter-38",
+      "number": 38,
+      "title": "I&#8217;m a Mom – Capítulo 38 – Entrando em Ação",
+      "date": "2025-11-08T13:49:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853210
+    },
+    {
+      "id": "im-a-mom-chapter-39",
+      "number": 39,
+      "title": "I&#8217;m a Mom – Capítulo 39 – Coração Partido",
+      "date": "2025-11-08T13:49:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853215
+    },
+    {
+      "id": "im-a-mom-chapter-40",
+      "number": 40,
+      "title": "I&#8217;m a Mom – Capítulo 40 – Do Fundo do Meu Coração",
+      "date": "2025-11-08T13:49:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853212
+    },
+    {
+      "id": "im-a-mom-chapter-41",
+      "number": 41,
+      "title": "I&#8217;m a Mom – Capítulo 41 –  Duas Mamães",
+      "date": "2025-11-08T13:49:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853218
+    },
+    {
+      "id": "im-a-mom-chapter-42",
+      "number": 42,
+      "title": "I&#8217;m a Mom – Capítulo 42 – Arrependimento tardio",
+      "date": "2025-11-08T13:49:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853209
+    },
+    {
+      "id": "im-a-mom-chapter-43",
+      "number": 43,
+      "title": "I&#8217;m a Mom – Capítulo 43 –  O Fundador",
+      "date": "2025-11-08T13:49:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853217
+    },
+    {
+      "id": "im-a-mom-chapter-44",
+      "number": 44,
+      "title": "I&#8217;m a Mom – Capítulo 44 – Seu valor",
+      "date": "2025-11-08T13:49:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853213
+    },
+    {
+      "id": "im-a-mom-chapter-45",
+      "number": 45,
+      "title": "I&#8217;m a Mom – Capítulo 45 – Tomando suas próprias decisões",
+      "date": "2025-11-08T13:49:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853214
+    },
+    {
+      "id": "im-a-mom-chapter-46",
+      "number": 46,
+      "title": "I&#8217;m a Mom – Capítulo 46 – Após a Tempestade",
+      "date": "2025-11-08T13:49:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853211
+    },
+    {
+      "id": "im-a-mom-chapter-47",
+      "number": 47,
+      "title": "I&#8217;m a Mom – Capítulo 47 – Prioridade máxima",
+      "date": "2025-11-08T13:49:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853216
+    },
+    {
+      "id": "im-a-mom-chapter-48",
+      "number": 48,
+      "title": "I&#8217;m a Mom – Capítulo 48 – Discriminação",
+      "date": "2025-11-08T13:49:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853401
+    },
+    {
+      "id": "im-a-mom-chapter-49",
+      "number": 49,
+      "title": "I&#8217;m a Mom – Capítulo 49 – Velho amigo",
+      "date": "2025-11-08T13:49:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853398
+    },
+    {
+      "id": "im-a-mom-chapter-50",
+      "number": 50,
+      "title": "I&#8217;m a Mom – Capítulo 50 – Fragmentos do passado",
+      "date": "2025-11-08T13:49:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853400
+    },
+    {
+      "id": "im-a-mom-chapter-51",
+      "number": 51,
+      "title": "I&#8217;m a Mom – Capítulo 51 – A responsabilidade da escolha",
+      "date": "2025-11-08T13:49:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853402
+    },
+    {
+      "id": "im-a-mom-chapter-52",
+      "number": 52,
+      "title": "I&#8217;m a Mom – Capítulo 52 – Uma grande decisão",
+      "date": "2025-11-08T13:49:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853406
+    },
+    {
+      "id": "im-a-mom-chapter-53",
+      "number": 53,
+      "title": "I&#8217;m a Mom – Capítulo 53 – Algo estranho",
+      "date": "2025-11-08T13:49:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853399
+    },
+    {
+      "id": "im-a-mom-chapter-54",
+      "number": 54,
+      "title": "I&#8217;m a Mom – Capítulo 54 – Presságio",
+      "date": "2025-11-08T13:49:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853403
+    },
+    {
+      "id": "im-a-mom-chapter-55",
+      "number": 55,
+      "title": "I&#8217;m a Mom – Capítulo 55 – A verdade oculta",
+      "date": "2025-11-08T13:49:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853405
+    },
+    {
+      "id": "im-a-mom-chapter-56",
+      "number": 56,
+      "title": "I&#8217;m a Mom – Capítulo 56 – Limite",
+      "date": "2025-11-08T13:49:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853404
+    },
+    {
+      "id": "im-a-mom-chapter-57",
+      "number": 57,
+      "title": "I&#8217;m a Mom – Capítulo 57 – Conflito",
+      "date": "2025-11-08T13:49:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853397
+    },
+    {
+      "id": "im-a-mom-chapter-58",
+      "number": 58,
+      "title": "I&#8217;m a Mom – Capítulo 58 – Uma Abordagem Diferente",
+      "date": "2025-11-08T13:50:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853581
+    },
+    {
+      "id": "im-a-mom-chapter-59",
+      "number": 59,
+      "title": "I&#8217;m a Mom – Capítulo 59 – Nosso segredinho",
+      "date": "2025-11-08T13:50:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853574
+    },
+    {
+      "id": "im-a-mom-chapter-60",
+      "number": 60,
+      "title": "I&#8217;m a Mom – Capítulo 60 –  O Ideal e a Realidade",
+      "date": "2025-11-08T13:50:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853578
+    },
+    {
+      "id": "im-a-mom-chapter-61",
+      "number": 61,
+      "title": "I&#8217;m a Mom – Capítulo 61 – O Peso de uma Mãe",
+      "date": "2025-11-08T13:50:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853583
+    },
+    {
+      "id": "im-a-mom-chapter-62",
+      "number": 62,
+      "title": "I&#8217;m a Mom – Capítulo 62 – Hora de acordar",
+      "date": "2025-11-08T13:50:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853576
+    },
+    {
+      "id": "im-a-mom-chapter-63",
+      "number": 63,
+      "title": "I&#8217;m a Mom – Capítulo 63 – O Início da Tragédia",
+      "date": "2025-11-08T13:50:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853580
+    },
+    {
+      "id": "im-a-mom-chapter-64",
+      "number": 64,
+      "title": "I&#8217;m a Mom – Capítulo 64 – Coração de Mãe",
+      "date": "2025-11-08T13:50:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853575
+    },
+    {
+      "id": "im-a-mom-chapter-65",
+      "number": 65,
+      "title": "I&#8217;m a Mom – Capítulo 65 – Dever e Responsabilidade",
+      "date": "2025-11-08T13:50:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853577
+    },
+    {
+      "id": "im-a-mom-chapter-66",
+      "number": 66,
+      "title": "I&#8217;m a Mom – Capítulo 66 – O Arrependimento de um Pai",
+      "date": "2025-11-08T13:50:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853579
+    },
+    {
+      "id": "im-a-mom-chapter-67",
+      "number": 67,
+      "title": "I&#8217;m a Mom – Capítulo 67 – O Fim Absoluto",
+      "date": "2025-11-08T13:50:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853582
+    },
+    {
+      "id": "im-a-mom-chapter-68",
+      "number": 68,
+      "title": "I&#8217;m a Mom – Capítulo 68 –  As emoções dela",
+      "date": "2025-11-08T13:50:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853793
+    },
+    {
+      "id": "im-a-mom-chapter-69",
+      "number": 69,
+      "title": "I&#8217;m a Mom – Capítulo 69 – Um Pedido Inesperado",
+      "date": "2025-11-08T13:50:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853789
+    },
+    {
+      "id": "im-a-mom-chapter-70",
+      "number": 70,
+      "title": "I&#8217;m a Mom – Capítulo 70 –  Vamos Para Casa",
+      "date": "2025-11-08T13:50:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853791
+    },
+    {
+      "id": "im-a-mom-chapter-71",
+      "number": 71,
+      "title": "I&#8217;m a Mom – Capítulo 71 – Uma pequena morte",
+      "date": "2025-11-08T13:50:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853794
+    },
+    {
+      "id": "im-a-mom-chapter-72",
+      "number": 72,
+      "title": "I&#8217;m a Mom – Capítulo 72 – Trabalhando juntas",
+      "date": "2025-11-08T13:50:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853792
+    },
+    {
+      "id": "im-a-mom-chapter-73",
+      "number": 73,
+      "title": "I&#8217;m a Mom – Capítulo 73 – [Final da 1ª Temporada] : Bom dia, minha família",
+      "date": "2025-11-08T13:50:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 853790
+    }
+  ]
+}

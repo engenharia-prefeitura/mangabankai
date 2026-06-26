@@ -1,0 +1,641 @@
+{
+  "en": [
+    {
+      "id": "flying-witch-1",
+      "number": "1",
+      "title": "The First Miracle in Six Years",
+      "date": "2014/09/12",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-2",
+      "number": "2",
+      "title": "Wayside Grass is a Panacea",
+      "date": "2014/09/12",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-3",
+      "number": "3",
+      "title": "The National Bird Won't Stop Calling",
+      "date": "2014/09/12",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-4",
+      "number": "4",
+      "title": "How to Use a Familiar",
+      "date": "2014/09/12",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-5",
+      "number": "5",
+      "title": "A Visitor for the Witch",
+      "date": "2014/09/12",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-6",
+      "number": "6",
+      "title": "A Lesson in Magic",
+      "date": "2014/09/12",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-7",
+      "number": "7",
+      "title": "Dreams and Roadside Happiness",
+      "date": "2014/09/12",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-8",
+      "number": "8",
+      "title": "Diviner Among The Cherry Blossoms",
+      "date": "2014/09/12",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-9",
+      "number": "9",
+      "title": "Dogwitch and Sisterwitch",
+      "date": "2014/09/12",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-10",
+      "number": "10",
+      "title": "Chinatsu's Decision",
+      "date": "2014/09/12",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-11",
+      "number": "11",
+      "title": "Strange snack",
+      "date": "2014/09/12",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-12",
+      "number": "12",
+      "title": "Mountain in the Spring",
+      "date": "2014/09/12",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-13",
+      "number": "13",
+      "title": "Café Conclusio",
+      "date": "2014/09/12",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-14",
+      "number": "14",
+      "title": "The Sound of a Regular Customer",
+      "date": "2014/09/12",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-15",
+      "number": "15",
+      "title": "Tomorrow's Tomorrow is Now",
+      "date": "2014/11/12",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-16",
+      "number": "16",
+      "title": "Good Medicine Tastes Spicy",
+      "date": "2015/01/30",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-17",
+      "number": "17",
+      "title": "The Paperboy and the Whale",
+      "date": "2015/06/17",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-18",
+      "number": "18",
+      "title": "Of Frying Pans and Pancakes",
+      "date": "2015/06/17",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-19",
+      "number": "19",
+      "title": "Every Witch's Robe is Unique",
+      "date": "2015/08/07",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-20",
+      "number": "20",
+      "title": "Witches Have Almonds for Nails",
+      "date": "2015/10/17",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-21",
+      "number": "21",
+      "title": "Witches and Bees Don't Mix",
+      "date": "2016/01/10",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-22",
+      "number": "22",
+      "title": "The scent of tobacco, gasoline and coffee",
+      "date": "2016/01/10",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-23",
+      "number": "23",
+      "title": "Rabbit catching on a spring day",
+      "date": "2016/01/10",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-24",
+      "number": "24",
+      "title": "A Rabbit's Handstand",
+      "date": "2016/03/21",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-25",
+      "number": "25",
+      "title": "",
+      "date": "2016/07/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-26",
+      "number": "26",
+      "title": "",
+      "date": "2016/07/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-27",
+      "number": "27",
+      "title": "",
+      "date": "2016/07/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-28",
+      "number": "28",
+      "title": "",
+      "date": "2016/07/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-29",
+      "number": "29",
+      "title": "",
+      "date": "2016/09/11",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-30",
+      "number": "30",
+      "title": "",
+      "date": "2016/11/12",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-31",
+      "number": "31",
+      "title": "",
+      "date": "2017/01/11",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-32",
+      "number": "32",
+      "title": "",
+      "date": "2017/03/17",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-33",
+      "number": "33",
+      "title": "",
+      "date": "2017/05/29",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-34",
+      "number": "34",
+      "title": "",
+      "date": "2017/06/10",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-35",
+      "number": "35",
+      "title": "The Replicating Street",
+      "date": "2017/09/15",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-36",
+      "number": "36",
+      "title": "The narunaru's precious feeding grounds and catching method",
+      "date": "2017/09/15",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-37",
+      "number": "37",
+      "title": "",
+      "date": "2017/11/14",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-38",
+      "number": "38",
+      "title": "",
+      "date": "2018/02/11",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-39",
+      "number": "39",
+      "title": "",
+      "date": "2018/02/11",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-40",
+      "number": "40",
+      "title": "",
+      "date": "2018/03/11",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-41",
+      "number": "41",
+      "title": "",
+      "date": "2018/05/14",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-42",
+      "number": "42",
+      "title": "",
+      "date": "2018/08/10",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-43",
+      "number": "43",
+      "title": "",
+      "date": "2018/08/10",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-44",
+      "number": "44",
+      "title": "",
+      "date": "2018/09/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-45",
+      "number": "45",
+      "title": "",
+      "date": "2018/11/10",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-46",
+      "number": "46",
+      "title": "",
+      "date": "2019/01/10",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-47",
+      "number": "47",
+      "title": "",
+      "date": "2019/02/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-48",
+      "number": "48",
+      "title": "",
+      "date": "2019/04/11",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-49",
+      "number": "49",
+      "title": "",
+      "date": "2019/06/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-50",
+      "number": "50",
+      "title": "",
+      "date": "2019/08/10",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-51",
+      "number": "51",
+      "title": "",
+      "date": "2019/10/11",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-52",
+      "number": "52",
+      "title": "",
+      "date": "2020/04/11",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-53",
+      "number": "53",
+      "title": "",
+      "date": "2020/04/11",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-54",
+      "number": "54",
+      "title": "",
+      "date": "2020/04/11",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-55",
+      "number": "55",
+      "title": "",
+      "date": "2020/08/12",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-56",
+      "number": "56",
+      "title": "",
+      "date": "2020/08/12",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-57",
+      "number": "57",
+      "title": "Fellow Travelers, Compassion For The Cats",
+      "date": "2020/10/10",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-58",
+      "number": "58",
+      "title": "Family Reunion After 4 Months, Multiplying Best Friend",
+      "date": "2020/12/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-59",
+      "number": "59",
+      "title": "Work In The City",
+      "date": "2021/02/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-60",
+      "number": "60",
+      "title": "The Beckoning Cat's Demand",
+      "date": "2021/04/10",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-61",
+      "number": "61",
+      "title": "10,000 Points Contribution",
+      "date": "2021/05/10",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-62",
+      "number": "62",
+      "title": "Science Project, Going into Space",
+      "date": "2021/07/10",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-63",
+      "number": "63",
+      "title": "Opening a hole, Balming the Bones",
+      "date": "2021/09/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-64",
+      "number": "64",
+      "title": "The cloth user witch",
+      "date": "2021/11/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-65",
+      "number": "65",
+      "title": "Be careful not to miss your ride",
+      "date": "2022/01/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-66",
+      "number": "66",
+      "title": "",
+      "date": "2022/03/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-67",
+      "number": "67",
+      "title": "",
+      "date": "2022/05/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-68",
+      "number": "68",
+      "title": "",
+      "date": "2022/07/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-69",
+      "number": "69",
+      "title": "Rock at the first gate, pot at the second",
+      "date": "2022/09/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-70",
+      "number": "70",
+      "title": "",
+      "date": "2022/11/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-71",
+      "number": "71",
+      "title": "",
+      "date": "2023/01/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-72",
+      "number": "72",
+      "title": "",
+      "date": "2023/03/10",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-73",
+      "number": "73",
+      "title": "",
+      "date": "2023/05/10",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-74",
+      "number": "74",
+      "title": "",
+      "date": "2023/07/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-75",
+      "number": "75",
+      "title": "",
+      "date": "2023/09/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-76",
+      "number": "76",
+      "title": "",
+      "date": "2023/11/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-77",
+      "number": "77",
+      "title": "",
+      "date": "2024/01/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-78",
+      "number": "78",
+      "title": "",
+      "date": "2024/03/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-79",
+      "number": "79",
+      "title": "",
+      "date": "2024/05/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-80",
+      "number": "80",
+      "title": "",
+      "date": "2024/07/10",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-81",
+      "number": "81",
+      "title": "",
+      "date": "2024/09/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-82",
+      "number": "82",
+      "title": "",
+      "date": "2024/11/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-83",
+      "number": "83",
+      "title": "",
+      "date": "2025/01/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-84",
+      "number": "84",
+      "title": "",
+      "date": "2025/03/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-85",
+      "number": "85",
+      "title": "",
+      "date": "2025/05/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-86",
+      "number": "86",
+      "title": "",
+      "date": "2025/07/10",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-87",
+      "number": "87",
+      "title": "",
+      "date": "2025/09/27",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-88",
+      "number": "88",
+      "title": "",
+      "date": "2025/11/10",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-89",
+      "number": "89",
+      "title": "",
+      "date": "2026/01/08",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-90",
+      "number": "90",
+      "title": "",
+      "date": "2026/03/09",
+      "pages": []
+    },
+    {
+      "id": "flying-witch-91",
+      "number": "91",
+      "title": "",
+      "date": "2026/05/09",
+      "pages": []
+    }
+  ]
+}

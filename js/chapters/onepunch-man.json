@@ -1,0 +1,4022 @@
+{
+  "en": [
+    {
+      "id": "onepunch-man-1",
+      "number": "1",
+      "title": "1st Punch:�One Punch",
+      "date": "2014/10/03",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-2",
+      "number": "2",
+      "title": "2nd Punch:�Crab and Job Hunting",
+      "date": "2014/10/03",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-3",
+      "number": "3",
+      "title": "3rd Punch:�A Dangerous Being",
+      "date": "2014/10/20",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-4",
+      "number": "4",
+      "title": "4th Punch:�Dark Undergrounders",
+      "date": "2014/10/25",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-5",
+      "number": "5",
+      "title": "5th Punch:�Itch Explosion",
+      "date": "2014/12/06",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-6",
+      "number": "6",
+      "title": "6th Punch:�Saitama",
+      "date": "2014/12/08",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-7",
+      "number": "7",
+      "title": "7th Punch:�Mysterious Raid",
+      "date": "2014/12/08",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-8",
+      "number": "8",
+      "title": "8th Punch:�You Mean This Guy",
+      "date": "2015/07/20",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-9",
+      "number": "9",
+      "title": "9th Punch:�House of Evolution",
+      "date": "2015/01/23",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-10",
+      "number": "10",
+      "title": "10th Punch:�Modern Art",
+      "date": "2015/02/08",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-11",
+      "number": "11",
+      "title": "11th Punch:�The Key to His Power",
+      "date": "2015/02/23",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-12",
+      "number": "12",
+      "title": "12th Punch:�Paradise Group",
+      "date": "2015/03/30",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-13",
+      "number": "13",
+      "title": "13th Punch:�Speed",
+      "date": "2015/04/24",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-14",
+      "number": "14",
+      "title": "14th Punch:�Dont Know You",
+      "date": "2015/04/24",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-15",
+      "number": "15",
+      "title": "15th Punch:�Hobby and Work",
+      "date": "2015/04/24",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-16",
+      "number": "16",
+      "title": "16th Punch:�Passed The Exam",
+      "date": "2015/04/24",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-17",
+      "number": "17",
+      "title": "17th Punch:�Sparring",
+      "date": "2015/04/30",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-18",
+      "number": "18",
+      "title": "18th Punch:�Business Activity",
+      "date": "2015/04/30",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-19",
+      "number": "19",
+      "title": "19th Punch:�No Time for This",
+      "date": "2015/05/30",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-20",
+      "number": "20",
+      "title": "20th Punch:�Rumor",
+      "date": "2015/05/30",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-21",
+      "number": "21",
+      "title": "21st Punch:�Giant Meteor",
+      "date": "2015/05/30",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-22",
+      "number": "22",
+      "title": "22nd Punch:�Voices",
+      "date": "2015/07/20",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-23",
+      "number": "23",
+      "title": "23rd Punch:�Threat from the Sea",
+      "date": "2015/07/20",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-24",
+      "number": "24",
+      "title": "24th Punch:�Deep Sea King",
+      "date": "2015/07/20",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-25",
+      "number": "25",
+      "title": "25th Punch:�Deep Sea King 2",
+      "date": "2015/07/20",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-26",
+      "number": "26",
+      "title": "26th Punch:�Glimmer of Hope",
+      "date": "2015/08/03",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-27",
+      "number": "27",
+      "title": "27th Punch:�Beat-Up But Shining",
+      "date": "2015/08/03",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-28",
+      "number": "28",
+      "title": "28th Punch:�Because Its Raining",
+      "date": "2015/09/07",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-29",
+      "number": "29",
+      "title": "29th Punch:�B-Class",
+      "date": "2015/10/30",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-30",
+      "number": "30",
+      "title": "30th Punch:�S-Class",
+      "date": "2015/10/30",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-31",
+      "number": "31",
+      "title": "31st Punch:�Great Prophecy",
+      "date": "2015/12/10",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-32",
+      "number": "32",
+      "title": "32nd Punch:�From Space...",
+      "date": "2015/12/10",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-33",
+      "number": "33",
+      "title": "33rd Punch:�Guys Who Dont Listen",
+      "date": "2015/12/10",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-34",
+      "number": "34",
+      "title": "34th Punch:�Are You Stupid",
+      "date": "2015/12/10",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-35",
+      "number": "35",
+      "title": "35th Punch:�The Fight",
+      "date": "2015/12/10",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-36",
+      "number": "36",
+      "title": "36th Punch:�The Power of Boros",
+      "date": "2015/12/15",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-37",
+      "number": "37",
+      "title": "37th Punch:�Crash",
+      "date": "2015/12/22",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-38",
+      "number": "38",
+      "title": "38th Punch:�King",
+      "date": "2016/02/17",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-39",
+      "number": "39",
+      "title": "39th Punch:�That Person",
+      "date": "2016/02/17",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-40",
+      "number": "40",
+      "title": "40th Punch:�Outlaw",
+      "date": "2016/02/17",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-41",
+      "number": "41",
+      "title": "41st Punch:�The Man Who Wants To Be A Monster",
+      "date": "2016/02/27",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-42",
+      "number": "42",
+      "title": "42nd Punch:�Blizzard Group",
+      "date": "2016/02/27",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-43",
+      "number": "43",
+      "title": "43rd Punch:�Dont Look Down On Heroes!",
+      "date": "2016/03/15",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-44",
+      "number": "44",
+      "title": "44th Punch:�Accelerate",
+      "date": "2016/03/15",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-45",
+      "number": "45",
+      "title": "45th Punch:�Hero Name",
+      "date": "2016/03/30",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-46",
+      "number": "46",
+      "title": "46th Punch:�Hero Hunt",
+      "date": "2016/05/20",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-47",
+      "number": "47",
+      "title": "47th Punch:�Technique",
+      "date": "2016/05/20",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-48",
+      "number": "48",
+      "title": "48th Punch:�Banana",
+      "date": "2016/06/20",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-49",
+      "number": "49",
+      "title": "49th Punch:�Im Bored Anyway",
+      "date": "2016/06/20",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-50",
+      "number": "50",
+      "title": "50th Punch:�Ride in Tone!",
+      "date": "2016/07/25",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-51",
+      "number": "51",
+      "title": "51st Punch:�Headgear",
+      "date": "2016/07/25",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-52",
+      "number": "52",
+      "title": "52nd Punch:�Dont Put It Back!",
+      "date": "2016/09/22",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-53",
+      "number": "53",
+      "title": "53rd Punch:�Waiting Room",
+      "date": "2016/09/22",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-54",
+      "number": "54",
+      "title": "54th Punch:�Centipede",
+      "date": "2016/09/22",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-55",
+      "number": "55",
+      "title": "55th Punch:�Fighting Spirit",
+      "date": "2016/10/12",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-56",
+      "number": "56",
+      "title": "56th Punch:�Head-On",
+      "date": "2016/11/16",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-57",
+      "number": "57",
+      "title": "57th Punch:�Meddling",
+      "date": "2016/11/27",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-58",
+      "number": "58",
+      "title": "58th Punch:�Creeping Darkness",
+      "date": "2016/12/11",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-59",
+      "number": "59",
+      "title": "59th Punch:�Only You",
+      "date": "2016/12/24",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-60",
+      "number": "60",
+      "title": "60th Punch:�Admission",
+      "date": "2017/02/01",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-61",
+      "number": "61",
+      "title": "61st Punch:�Dark Horse",
+      "date": "2017/02/01",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-62",
+      "number": "62",
+      "title": "62nd Punch:�Reason for Seeking",
+      "date": "2017/02/11",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-63",
+      "number": "63",
+      "title": "63rd Punch:�Games and Combat",
+      "date": "2017/02/25",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-64",
+      "number": "64",
+      "title": "64th Punch:�Limit",
+      "date": "2017/04/03",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-65",
+      "number": "65",
+      "title": "65th Punch:�Sisters",
+      "date": "2017/04/04",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-66",
+      "number": "66",
+      "title": "66th Punch:�The Strong",
+      "date": "2017/04/22",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-67",
+      "number": "67",
+      "title": "67th Punch:�Outside the Norm",
+      "date": "2017/04/22",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-68",
+      "number": "68",
+      "title": "68th Punch:�Great Battle Power",
+      "date": "2017/05/12",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-69",
+      "number": "69",
+      "title": "69th Punch:�Monster Cells",
+      "date": "2017/05/26",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-70",
+      "number": "70",
+      "title": "70th Punch:�Being Strong is Fun",
+      "date": "2017/06/07",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-71",
+      "number": "71",
+      "title": "71st Punch:�Martial Arts Means...!!",
+      "date": "2017/06/22",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-72",
+      "number": "72",
+      "title": "72nd Punch:�Monsterization",
+      "date": "2017/06/22",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-73",
+      "number": "73",
+      "title": "73rd Punch:�Resistance of the Strong",
+      "date": "2017/07/23",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-74",
+      "number": "74",
+      "title": "74th Punch:�Depths of Despair",
+      "date": "2017/08/07",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-75",
+      "number": "75",
+      "title": "75th Punch:�Anomaly",
+      "date": "2017/08/27",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-76",
+      "number": "76",
+      "title": "76th Punch:�Stagnation and Growth",
+      "date": "2017/09/25",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-77",
+      "number": "77",
+      "title": "77th Punch:�Bored As Usual",
+      "date": "2017/10/14",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-78",
+      "number": "78",
+      "title": "78th Punch:�Those Who Move In The Dark",
+      "date": "2017/11/03",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-79",
+      "number": "79",
+      "title": "79th Punch:�Infinite Combo",
+      "date": "2017/12/08",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-80",
+      "number": "80",
+      "title": "80th Punch:�Surrounded",
+      "date": "2017/12/29",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-81",
+      "number": "81",
+      "title": "81st Punch:�Willpower",
+      "date": "2018/01/22",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-82",
+      "number": "82",
+      "title": "82nd Punch:�To The Limit",
+      "date": "2018/02/07",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-83",
+      "number": "83",
+      "title": "83rd Punch:�The Cruel Staircase",
+      "date": "2018/02/24",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-84",
+      "number": "84",
+      "title": "84th Punch:�Escalation",
+      "date": "2018/03/28",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-85",
+      "number": "85",
+      "title": "85th Punch:�Power",
+      "date": "2018/04/10",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-86",
+      "number": "86",
+      "title": "86th Punch:�Is It Because Im The Caped Baldy",
+      "date": "2018/04/27",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-87",
+      "number": "87",
+      "title": "87th Punch:�Hideout",
+      "date": "2018/05/26",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-88",
+      "number": "88",
+      "title": "88th Punch:�Monster Nature",
+      "date": "2018/06/28",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-89",
+      "number": "89",
+      "title": "89th Punch:�Limiter",
+      "date": "2018/08/11",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-90",
+      "number": "90",
+      "title": "90th Punch:�Hot Pot",
+      "date": "2018/09/11",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-91",
+      "number": "91",
+      "title": "91st Punch:�Cabbage Finished",
+      "date": "2018/09/27",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-92",
+      "number": "92",
+      "title": "92nd Punch:�Because Im a Monster",
+      "date": "2018/10/06",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-93",
+      "number": "93",
+      "title": "93rd Punch:�Rover",
+      "date": "2018/10/20",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-94",
+      "number": "94",
+      "title": "94th Punch:�Manhole",
+      "date": "2018/11/03",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-95",
+      "number": "95",
+      "title": "95th Punch:�Lets Go!",
+      "date": "2018/11/18",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-96",
+      "number": "96",
+      "title": "96th Punch:�I See",
+      "date": "2018/12/01",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-97",
+      "number": "97",
+      "title": "97th Punch:�The Decision Is?",
+      "date": "2018/12/19",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-98",
+      "number": "98",
+      "title": "98th Punch:�Speedster",
+      "date": "2018/12/29",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-99",
+      "number": "99",
+      "title": "99th Punch:�The Time is Now",
+      "date": "2019/01/19",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-100",
+      "number": "100",
+      "title": "100th Punch:�Backpack",
+      "date": "2019/01/26",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-101",
+      "number": "101",
+      "title": "101st Punch:�Tears of Regret",
+      "date": "2019/02/12",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-102",
+      "number": "102",
+      "title": "102nd Punch:�Heat Up",
+      "date": "2019/02/23",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-103",
+      "number": "103",
+      "title": "103rd Punch:�Light",
+      "date": "2019/03/23",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-104",
+      "number": "104",
+      "title": "104th Punch:�An Immortal Battle of Attrition",
+      "date": "2019/04/06",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-105",
+      "number": "105",
+      "title": "105th Punch:�Sweet Mask",
+      "date": "2019/04/18",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-106",
+      "number": "106",
+      "title": "106th Punch:�Viewer-Prohibited Battle",
+      "date": "2019/05/25",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-107",
+      "number": "107",
+      "title": "107th Punch:�Back",
+      "date": "2019/06/01",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-108",
+      "number": "108",
+      "title": "108th Punch:�Authenticity",
+      "date": "2019/06/19",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-109",
+      "number": "109",
+      "title": "109th Punch:�Terrible Multiplying Bastard",
+      "date": "2019/07/02",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-110",
+      "number": "110",
+      "title": "110th Punch:�Love Evolution",
+      "date": "2019/07/12",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-111",
+      "number": "111",
+      "title": "111th Punch:�Gluttony",
+      "date": "2019/07/19",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-112",
+      "number": "112",
+      "title": "112th Punch:�Superalloy Darkshine",
+      "date": "2019/08/09",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-113",
+      "number": "113",
+      "title": "113th Punch: Terrible Luck",
+      "date": "2019/08/09",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-114",
+      "number": "114",
+      "title": "114th Punch:�Executives",
+      "date": "2019/08/23",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-115",
+      "number": "115",
+      "title": "115th Punch:�Encounter",
+      "date": "2019/09/06",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-116",
+      "number": "116",
+      "title": "116th Punch:�Playtime",
+      "date": "2019/09/20",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-117",
+      "number": "117",
+      "title": "117th Punch:�Cornered Rat",
+      "date": "2019/10/05",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-118",
+      "number": "118",
+      "title": "118th Punch:�Drive Knight",
+      "date": "2019/10/18",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-119",
+      "number": "119",
+      "title": "119th Punch:�A Glimpse Behind The Scenes",
+      "date": "2019/11/02",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-120",
+      "number": "120",
+      "title": "120th Punch:�The Only Necessary Thing Is Strength",
+      "date": "2019/11/16",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-121",
+      "number": "121",
+      "title": "121st Punch:�Broken",
+      "date": "2019/11/30",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-122",
+      "number": "122",
+      "title": "122nd Punch:�Unknown",
+      "date": "2019/12/08",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-123",
+      "number": "123",
+      "title": "123rd Punch:�Real Form",
+      "date": "2019/12/14",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-124",
+      "number": "124",
+      "title": "124th Punch:�New Fubuki Group",
+      "date": "2020/01/15",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-125",
+      "number": "125",
+      "title": "125th Punch:�Sit!",
+      "date": "2020/01/15",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-126",
+      "number": "126",
+      "title": "126th Punch:�Psykos",
+      "date": "2020/01/25",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-127",
+      "number": "127",
+      "title": "127th Punch:�Demons Combined!",
+      "date": "2020/02/22",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-128",
+      "number": "128",
+      "title": "128th Punch:�Invasive Touch",
+      "date": "2020/03/10",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-129",
+      "number": "129",
+      "title": "129th Punch:�Turn Over!",
+      "date": "2020/03/23",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-130",
+      "number": "130",
+      "title": "130th Punch:�Tatsumaki Full Power",
+      "date": "2020/04/04",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-131",
+      "number": "131",
+      "title": "131st Punch:�Wont Lose!",
+      "date": "2020/04/23",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-132",
+      "number": "132",
+      "title": "132nd Punch:�Something Huge",
+      "date": "2020/07/07",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-133",
+      "number": "133",
+      "title": "133rd Punch:�Glorious Being",
+      "date": "2020/07/31",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-134",
+      "number": "134",
+      "title": "134th Punch: Twist",
+      "date": "2020/09/26",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-135",
+      "number": "135",
+      "title": "135th Punch: Disgrace and Fundamentals",
+      "date": "2020/10/02",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-136",
+      "number": "136",
+      "title": "136th Punch: Indomitable",
+      "date": "2020/12/01",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-137",
+      "number": "137",
+      "title": "137th Punch: Resonance",
+      "date": "2020/12/24",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-138",
+      "number": "138",
+      "title": "138th Punch: Into the Abyss",
+      "date": "2021/01/13",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-139",
+      "number": "139",
+      "title": "139th Punch: Abyss",
+      "date": "2021/01/26",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-140",
+      "number": "140",
+      "title": "Stones and Diamonds",
+      "date": "2021/03/11",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-141",
+      "number": "141",
+      "title": "Rejuvenated Offence",
+      "date": "2021/04/02",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-142",
+      "number": "142",
+      "title": "How to behave",
+      "date": "2021/04/20",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-143",
+      "number": "143",
+      "title": "Jupiter, The Bringer of Jollity",
+      "date": "2021/04/20",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-144",
+      "number": "144",
+      "title": "Silver Fang",
+      "date": "2021/05/01",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-145",
+      "number": "145",
+      "title": "SuperAlloy DarkShine",
+      "date": "2021/05/15",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-146",
+      "number": "146",
+      "title": "Backup",
+      "date": "2021/05/29",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-147",
+      "number": "147",
+      "title": "Toxic Substance",
+      "date": "2021/06/15",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-148",
+      "number": "148",
+      "title": "The Line",
+      "date": "2021/06/26",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-149",
+      "number": "149",
+      "title": "Ambush",
+      "date": "2021/07/09",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-150",
+      "number": "150",
+      "title": "Master and Disciple",
+      "date": "2021/10/11",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-151",
+      "number": "151",
+      "title": "The Greatest Obstacle",
+      "date": "2021/10/30",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-152",
+      "number": "152",
+      "title": "Check",
+      "date": "2021/11/13",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-153",
+      "number": "153",
+      "title": "Forfeit",
+      "date": "2021/11/27",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-154",
+      "number": "154",
+      "title": "Ultimate Hellfire Burst Wave Motion Cannon",
+      "date": "2021/12/03",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-155",
+      "number": "155",
+      "title": "Results",
+      "date": "2021/12/18",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-156",
+      "number": "156",
+      "title": "Divine Retribution",
+      "date": "2022/01/14",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-157",
+      "number": "157",
+      "title": "",
+      "date": "2022/01/28",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-158",
+      "number": "158",
+      "title": "2BAD",
+      "date": "2022/02/11",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-159",
+      "number": "159",
+      "title": "Blessing",
+      "date": "2022/02/24",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-160",
+      "number": "160",
+      "title": "Divide",
+      "date": "2022/03/10",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-161",
+      "number": "161",
+      "title": "Sinking Feeling",
+      "date": "2022/03/24",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-162",
+      "number": "162",
+      "title": "Greatest Hero",
+      "date": "2022/04/07",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-163",
+      "number": "163",
+      "title": "Tougher Than a Mountain",
+      "date": "2022/04/28",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-164",
+      "number": "164",
+      "title": "The Abominable Fist that turned against God (2nd Version)",
+      "date": "2022/05/25",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-165",
+      "number": "165",
+      "title": "Absolute Evil",
+      "date": "2022/06/09",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-166",
+      "number": "166",
+      "title": "Squared",
+      "date": "2022/06/23",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-167",
+      "number": "167",
+      "title": "I.O.",
+      "date": "2022/07/07",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-167e",
+      "number": "167e",
+      "title": "",
+      "date": "2022/07/19",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-168",
+      "number": "168",
+      "title": "Awakening of Gods",
+      "date": "2022/07/21",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-169",
+      "number": "169",
+      "title": "Daybreak",
+      "date": "2022/08/04",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-170",
+      "number": "170",
+      "title": "What was Gained",
+      "date": "2022/08/18",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-171",
+      "number": "171",
+      "title": "The Last Guy I Wanna Run Into",
+      "date": "2022/09/22",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-172",
+      "number": "172",
+      "title": "New Home",
+      "date": "2022/10/20",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-173",
+      "number": "173",
+      "title": "Secret Intel",
+      "date": "2022/11/03",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-174",
+      "number": "174",
+      "title": "Beauty",
+      "date": "2022/11/17",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-175",
+      "number": "175",
+      "title": "Visitor",
+      "date": "2022/11/30",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-176",
+      "number": "176",
+      "title": "Epicenter",
+      "date": "2022/12/14",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-177",
+      "number": "177",
+      "title": "The Supernatural and Risks",
+      "date": "2023/01/12",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-178",
+      "number": "178",
+      "title": "Do It Outside",
+      "date": "2023/01/26",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-179",
+      "number": "179",
+      "title": "Witnesses",
+      "date": "2023/02/09",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-180",
+      "number": "180",
+      "title": "In the middle of something",
+      "date": "2023/02/23",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-181",
+      "number": "181",
+      "title": "Scalp Friction",
+      "date": "2023/03/08",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-182",
+      "number": "182",
+      "title": "Unascertained",
+      "date": "2023/03/23",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-183",
+      "number": "183",
+      "title": "Trade-off",
+      "date": "2023/04/20",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-184",
+      "number": "184",
+      "title": "Scout",
+      "date": "2023/05/04",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-185",
+      "number": "185",
+      "title": "Updates",
+      "date": "2023/06/01",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-186",
+      "number": "186",
+      "title": "Turning Point",
+      "date": "2023/06/15",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-187",
+      "number": "187",
+      "title": "The Butterfly and The Back",
+      "date": "2023/06/30",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-187e",
+      "number": "187e",
+      "title": "Bonus: Olfaction",
+      "date": "2023/07/08",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-188",
+      "number": "188",
+      "title": "Appraisal",
+      "date": "2023/07/20",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-189",
+      "number": "189",
+      "title": "Blade Test",
+      "date": "2023/07/27",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-190",
+      "number": "190",
+      "title": "Scheme",
+      "date": "2023/08/10",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-191",
+      "number": "191",
+      "title": "Heroes",
+      "date": "2023/09/08",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-192",
+      "number": "192",
+      "title": "",
+      "date": "2023/09/21",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-193",
+      "number": "193",
+      "title": "Worlds I know Nothing About",
+      "date": "2023/10/05",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-194",
+      "number": "194",
+      "title": "Right Away",
+      "date": "2023/10/19",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-195",
+      "number": "195",
+      "title": "Tenninto",
+      "date": "2023/11/02",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-195e",
+      "number": "195e",
+      "title": "",
+      "date": "2023/11/13",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-196",
+      "number": "196",
+      "title": "",
+      "date": "2023/11/16",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-197",
+      "number": "197",
+      "title": "Duel",
+      "date": "2023/11/29",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-198",
+      "number": "198",
+      "title": "Habit",
+      "date": "2023/12/13",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-199",
+      "number": "199",
+      "title": "That's Right!",
+      "date": "2023/12/27",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-200",
+      "number": "200",
+      "title": "Blessed",
+      "date": "2024/09/05",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-200e",
+      "number": "200e",
+      "title": "Void",
+      "date": "2024/09/05",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-201",
+      "number": "201",
+      "title": "Genjutsu",
+      "date": "2024/09/05",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-201e",
+      "number": "201e",
+      "title": "You Pass",
+      "date": "2024/09/05",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-202",
+      "number": "202",
+      "title": "Partner",
+      "date": "2024/09/05",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-202e",
+      "number": "202e",
+      "title": "Fully Recovered",
+      "date": "2024/09/05",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-203",
+      "number": "203",
+      "title": "Neo Leaders",
+      "date": "2024/09/05",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-204",
+      "number": "204",
+      "title": "",
+      "date": "2024/09/19",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-205",
+      "number": "205",
+      "title": "",
+      "date": "2024/10/04",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-206",
+      "number": "206",
+      "title": "Special",
+      "date": "2024/10/16",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-207",
+      "number": "207",
+      "title": "Bind",
+      "date": "2024/10/30",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-208",
+      "number": "208",
+      "title": "",
+      "date": "2024/11/13",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-209",
+      "number": "209",
+      "title": "",
+      "date": "2024/11/27",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-210",
+      "number": "210",
+      "title": "",
+      "date": "2024/12/12",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-211",
+      "number": "211",
+      "title": "",
+      "date": "2024/12/26",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-212",
+      "number": "212",
+      "title": "",
+      "date": "2025/07/18",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-213",
+      "number": "213",
+      "title": "",
+      "date": "2025/08/07",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-214",
+      "number": "214",
+      "title": "",
+      "date": "2025/09/12",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-215",
+      "number": "215",
+      "title": "",
+      "date": "2025/09/25",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-216",
+      "number": "216",
+      "title": "",
+      "date": "2025/10/09",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-217",
+      "number": "217",
+      "title": "",
+      "date": "2025/10/23",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-218",
+      "number": "218",
+      "title": "",
+      "date": "2025/11/06",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-219",
+      "number": "219",
+      "title": "",
+      "date": "2025/11/21",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-220",
+      "number": "220",
+      "title": "",
+      "date": "2025/12/05",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-221",
+      "number": "221",
+      "title": "",
+      "date": "2025/12/18",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-222",
+      "number": "222",
+      "title": "",
+      "date": "2026/01/18",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-223",
+      "number": "223",
+      "title": "",
+      "date": "2026/01/29",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-224",
+      "number": "224",
+      "title": "",
+      "date": "2026/02/12",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-225",
+      "number": "225",
+      "title": "",
+      "date": "2026/02/25",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-226",
+      "number": "226",
+      "title": "",
+      "date": "2026/03/11",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-227",
+      "number": "227",
+      "title": "",
+      "date": "2026/03/25",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-228",
+      "number": "228",
+      "title": "",
+      "date": "2026/04/09",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-229",
+      "number": "229",
+      "title": "",
+      "date": "2026/04/23",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-230",
+      "number": "230",
+      "title": "",
+      "date": "2026/05/06",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-231",
+      "number": "231",
+      "title": "",
+      "date": "2026/05/20",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-232",
+      "number": "232",
+      "title": "",
+      "date": "2026/06/03",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-233",
+      "number": "233",
+      "title": "",
+      "date": "2026/06/17",
+      "pages": []
+    }
+  ],
+  "pt": [
+    {
+      "id": "onepunch-man-chapter-0",
+      "number": 0,
+      "title": "Capítulo 0",
+      "date": "2026-06-23T19:54:33.743Z",
+      "pages": [
+        "https://cdn.leituramanga.net/one-punch-man/capitulo-0/page-1.webp",
+        "https://cdn.leituramanga.net/one-punch-man/capitulo-0/page-2.webp",
+        "https://cdn.leituramanga.net/one-punch-man/capitulo-0/page-3.webp",
+        "https://cdn.leituramanga.net/one-punch-man/capitulo-0/page-4.webp",
+        "https://cdn.leituramanga.net/one-punch-man/capitulo-0/page-5.webp",
+        "https://cdn.leituramanga.net/one-punch-man/capitulo-0/page-6.webp",
+        "https://cdn.leituramanga.net/one-punch-man/capitulo-0/page-7.webp",
+        "https://cdn.leituramanga.net/one-punch-man/capitulo-0/page-8.webp",
+        "https://cdn.leituramanga.net/one-punch-man/capitulo-0/page-9.webp",
+        "https://cdn.leituramanga.net/one-punch-man/capitulo-0/page-10.webp",
+        "https://cdn.leituramanga.net/one-punch-man/capitulo-0/page-11.webp",
+        "https://cdn.leituramanga.net/one-punch-man/capitulo-0/page-12.webp",
+        "https://cdn.leituramanga.net/one-punch-man/capitulo-0/page-13.webp",
+        "https://cdn.leituramanga.net/one-punch-man/capitulo-0/page-14.webp",
+        "https://cdn.leituramanga.net/one-punch-man/capitulo-0/page-15.webp",
+        "https://cdn.leituramanga.net/one-punch-man/capitulo-0/page-16.webp",
+        "https://cdn.leituramanga.net/one-punch-man/capitulo-0/page-17.webp",
+        "https://cdn.leituramanga.net/one-punch-man/capitulo-0/page-18.webp",
+        "https://cdn.leituramanga.net/one-punch-man/capitulo-0/page-19.webp",
+        "https://cdn.leituramanga.net/one-punch-man/capitulo-0/page-20.webp"
+      ]
+    },
+    {
+      "id": "onepunch-man-chapter-1",
+      "number": 1,
+      "title": "One Punch-Man – Capítulo 1 – Um Soco",
+      "date": "2025-03-28T06:00:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 27958
+    },
+    {
+      "id": "onepunch-man-chapter-2",
+      "number": 2,
+      "title": "One Punch-Man – Capítulo 2 – Caranguejo e Desempregado",
+      "date": "2025-03-28T06:00:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 28042
+    },
+    {
+      "id": "onepunch-man-chapter-3",
+      "number": 3,
+      "title": "One Punch-Man – Capítulo 3 – Desastre Ambulante",
+      "date": "2025-03-28T06:01:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 28118
+    },
+    {
+      "id": "onepunch-man-chapter-4",
+      "number": 4,
+      "title": "One Punch-Man – Capítulo 4 – Malignos Habitantes do Subterrâneo",
+      "date": "2025-03-28T06:01:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 28224
+    },
+    {
+      "id": "onepunch-man-chapter-5",
+      "number": 5,
+      "title": "One Punch-Man – Capítulo 5 – Explosão Formiguenta",
+      "date": "2025-03-28T06:01:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 28342
+    },
+    {
+      "id": "onepunch-man-chapter-6",
+      "number": 6,
+      "title": "One Punch-Man – Capítulo 6 – Saitama",
+      "date": "2025-03-28T06:02:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 28466
+    },
+    {
+      "id": "onepunch-man-chapter-7",
+      "number": 7,
+      "title": "One Punch-Man – Capítulo 7 – Invasão Misteriosa",
+      "date": "2025-03-28T06:02:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 28619
+    },
+    {
+      "id": "onepunch-man-chapter-8",
+      "number": 8,
+      "title": "One Punch-Man – Capítulo 8 – Esse Cara Aqui?",
+      "date": "2025-03-28T06:03:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 28731
+    },
+    {
+      "id": "onepunch-man-chapter-8.1",
+      "number": 8.1,
+      "title": "One Punch-Man – Capítulo 8.1 – 200 Yens",
+      "date": "2025-03-28T06:03:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 28879
+    },
+    {
+      "id": "onepunch-man-chapter-9",
+      "number": 9,
+      "title": "One Punch-Man – Capítulo 9 – Casa da Evolução",
+      "date": "2025-03-28T06:03:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 29030
+    },
+    {
+      "id": "onepunch-man-chapter-10",
+      "number": 10,
+      "title": "One Punch-Man – Capítulo 10 – Arte Moderna",
+      "date": "2025-03-28T06:04:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 29190
+    },
+    {
+      "id": "onepunch-man-chapter-11",
+      "number": 11,
+      "title": "One Punch-Man – Capítulo 11 – O Segredo de Sua Força",
+      "date": "2025-03-28T06:05:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 29392
+    },
+    {
+      "id": "onepunch-man-chapter-12",
+      "number": 12,
+      "title": "One Punch-Man – Capítulo 12 – Grupo Paraíso",
+      "date": "2025-03-28T06:05:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 29548
+    },
+    {
+      "id": "onepunch-man-chapter-13",
+      "number": 13,
+      "title": "One Punch-Man – Capítulo 13 – Velocidade",
+      "date": "2025-03-28T06:06:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 29711
+    },
+    {
+      "id": "onepunch-man-chapter-14",
+      "number": 14,
+      "title": "One Punch-Man – Capítulo 14 – Quem é Você?",
+      "date": "2025-03-28T06:06:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 29913
+    },
+    {
+      "id": "onepunch-man-chapter-15",
+      "number": 15,
+      "title": "One Punch-Man – Capítulo 15 – Hobby e Trabalho",
+      "date": "2025-03-28T06:07:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 30099
+    },
+    {
+      "id": "onepunch-man-chapter-15.1",
+      "number": 15.1,
+      "title": "One Punch-Man – Capítulo 15.1 – Escovando-se",
+      "date": "2025-03-28T06:07:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 30301
+    },
+    {
+      "id": "onepunch-man-chapter-16",
+      "number": 16,
+      "title": "One Punch-Man – Capítulo 16 – Passei no Teste",
+      "date": "2025-03-28T06:07:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 30428
+    },
+    {
+      "id": "onepunch-man-chapter-17",
+      "number": 17,
+      "title": "One Punch-Man – Capítulo 17 – Treino",
+      "date": "2025-03-28T06:08:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 30620
+    },
+    {
+      "id": "onepunch-man-chapter-18",
+      "number": 18,
+      "title": "One Punch-Man – Capítulo 18 – Atividade Comercial",
+      "date": "2025-03-28T06:09:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 31001
+    },
+    {
+      "id": "onepunch-man-chapter-19",
+      "number": 19,
+      "title": "One Punch-Man – Capítulo 19 – Não Tenho Tempo pra Isso",
+      "date": "2025-03-28T06:09:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 31174
+    },
+    {
+      "id": "onepunch-man-chapter-20",
+      "number": 20,
+      "title": "One Punch-Man – Capítulo 20 – Boato",
+      "date": "2025-03-28T06:10:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 31399
+    },
+    {
+      "id": "onepunch-man-chapter-20.1",
+      "number": 20.1,
+      "title": "One Punch-Man – Capítulo 20.1 – Verão",
+      "date": "2025-03-28T06:11:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 31707
+    },
+    {
+      "id": "onepunch-man-chapter-20.2",
+      "number": 20.2,
+      "title": "One Punch-Man – Capítulo 20.2 – O Sopro de Novos Ares",
+      "date": "2025-03-28T06:11:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 31870
+    },
+    {
+      "id": "onepunch-man-chapter-21",
+      "number": 21,
+      "title": "One Punch-Man – Capítulo 21 – Meteoro Gigante",
+      "date": "2025-03-28T06:12:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 32064
+    },
+    {
+      "id": "onepunch-man-chapter-22",
+      "number": 22,
+      "title": "One Punch-Man – Capítulo 22 – Vozes",
+      "date": "2025-03-28T06:14:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 32857
+    },
+    {
+      "id": "onepunch-man-chapter-23",
+      "number": 23,
+      "title": "One Punch-Man – Capítulo 23 – Ameaça Vinda do Mar",
+      "date": "2025-03-28T06:15:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 33132
+    },
+    {
+      "id": "onepunch-man-chapter-24",
+      "number": 24,
+      "title": "One Punch-Man – Capítulo 24 – Rei dos Mares",
+      "date": "2025-03-28T06:16:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 33308
+    },
+    {
+      "id": "onepunch-man-chapter-24.1",
+      "number": 24.1,
+      "title": "One Punch-Man – Capítulo 24.1 – Prisão",
+      "date": "2025-03-28T06:16:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 33439
+    },
+    {
+      "id": "onepunch-man-chapter-25",
+      "number": 25,
+      "title": "One Punch-Man – Capítulo 25 – Rei dos Mares 2",
+      "date": "2025-03-28T06:17:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 33633
+    },
+    {
+      "id": "onepunch-man-chapter-26",
+      "number": 26,
+      "title": "One Punch-Man – Capítulo 26 – Vislumbre de Esperança",
+      "date": "2025-03-28T06:18:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 34055
+    },
+    {
+      "id": "onepunch-man-chapter-27",
+      "number": 27,
+      "title": "One Punch-Man – Capítulo 27 – Espancado, Mas Ainda Brilhando",
+      "date": "2025-03-28T06:18:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 34319
+    },
+    {
+      "id": "onepunch-man-chapter-28",
+      "number": 28,
+      "title": "One Punch-Man – Capítulo 28 – Porque Está Chovendo&#8230;",
+      "date": "2025-03-28T06:19:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 34525
+    },
+    {
+      "id": "onepunch-man-chapter-29",
+      "number": 29,
+      "title": "One Punch-Man – Capítulo 29 – Classe B",
+      "date": "2025-03-28T06:19:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 34720
+    },
+    {
+      "id": "onepunch-man-chapter-29.1",
+      "number": 29.1,
+      "title": "One Punch-Man – Capítulo 29.1 – O Que Não se Pode Comprar",
+      "date": "2025-03-28T06:20:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 34903
+    },
+    {
+      "id": "onepunch-man-chapter-30",
+      "number": 30,
+      "title": "One Punch-Man – Capítulo 30 – Classe S",
+      "date": "2025-03-28T06:20:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 35107
+    },
+    {
+      "id": "onepunch-man-chapter-31",
+      "number": 31,
+      "title": "One Punch-Man – Capítulo 31 – A Grande Profecia",
+      "date": "2025-03-28T06:21:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 35290
+    },
+    {
+      "id": "onepunch-man-chapter-32",
+      "number": 32,
+      "title": "One Punch-Man – Capítulo 32 – Vindo do Espaço&#8230;",
+      "date": "2025-03-28T06:21:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 35520
+    },
+    {
+      "id": "onepunch-man-chapter-33",
+      "number": 33,
+      "title": "One Punch-Man – Capítulo 33 – O Cara que Não Presta Atenção",
+      "date": "2025-03-28T06:23:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 36057
+    },
+    {
+      "id": "onepunch-man-chapter-34",
+      "number": 34,
+      "title": "One Punch-Man – Capítulo 34 – Você é Idiota?",
+      "date": "2025-03-28T06:23:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 36351
+    },
+    {
+      "id": "onepunch-man-chapter-34.1",
+      "number": 34.1,
+      "title": "One Punch-Man – Capítulo 34.1 – Salmão",
+      "date": "2025-03-28T06:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 36594
+    },
+    {
+      "id": "onepunch-man-chapter-35",
+      "number": 35,
+      "title": "One Punch-Man – Capítulo 35 – Batalha",
+      "date": "2025-03-28T06:24:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 36710
+    },
+    {
+      "id": "onepunch-man-chapter-36",
+      "number": 36,
+      "title": "One Punch-Man – Capítulo 36 – O Verdadeiro Poder de Boros",
+      "date": "2025-03-28T06:25:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 36967
+    },
+    {
+      "id": "onepunch-man-chapter-37",
+      "number": 37,
+      "title": "One Punch-Man – Capítulo 37 – Colisão",
+      "date": "2025-03-28T06:26:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 37395
+    },
+    {
+      "id": "onepunch-man-chapter-37.1",
+      "number": 37.1,
+      "title": "One Punch-Man – Capítulo 37.1 – Grande Construção",
+      "date": "2025-03-28T06:26:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 37630
+    },
+    {
+      "id": "onepunch-man-chapter-37.3",
+      "number": 37.3,
+      "title": "One Punch-Man – Capítulo 37.3 – Bacia de Costela de Porco",
+      "date": "2025-03-28T06:27:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 37736
+    },
+    {
+      "id": "onepunch-man-chapter-38",
+      "number": 38,
+      "title": "One Punch-Man – Capítulo 38 – King",
+      "date": "2025-03-28T06:27:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 37956
+    },
+    {
+      "id": "onepunch-man-chapter-39",
+      "number": 39,
+      "title": "One Punch-Man – Capítulo 39 – Aquele Cara",
+      "date": "2025-03-28T06:29:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 38582
+    },
+    {
+      "id": "onepunch-man-chapter-40",
+      "number": 40,
+      "title": "One Punch-Man – Capítulo 40 – Fora da Lei",
+      "date": "2025-03-28T06:29:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 38803
+    },
+    {
+      "id": "onepunch-man-chapter-40.1",
+      "number": 40.1,
+      "title": "One Punch-Man – Capítulo 40.1 – Gato Perdido",
+      "date": "2025-03-28T06:30:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 39034
+    },
+    {
+      "id": "onepunch-man-chapter-40.2",
+      "number": 40.2,
+      "title": "One Punch-Man – Capítulo 40.2 – Camarão",
+      "date": "2025-03-28T06:30:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 39326
+    },
+    {
+      "id": "onepunch-man-chapter-41",
+      "number": 41,
+      "title": "One Punch-Man – Capítulo 41 – O Homem que Quer se Tornar um Monstro",
+      "date": "2025-03-28T06:31:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 39528
+    },
+    {
+      "id": "onepunch-man-chapter-42",
+      "number": 42,
+      "title": "One Punch-Man – Capítulo 42 – Grupo Fukubi",
+      "date": "2025-03-28T06:31:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 39811
+    },
+    {
+      "id": "onepunch-man-chapter-43",
+      "number": 43,
+      "title": "One Punch-Man – Capítulo 43 – Não Me Menospreze!",
+      "date": "2025-03-28T06:32:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 40017
+    },
+    {
+      "id": "onepunch-man-chapter-44",
+      "number": 44,
+      "title": "One Punch-Man – Capítulo 44 – Aceleração",
+      "date": "2025-03-28T06:32:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 40332
+    },
+    {
+      "id": "onepunch-man-chapter-45",
+      "number": 45,
+      "title": "One Punch-Man – Capítulo 45 – Nome de Herói",
+      "date": "2025-03-28T06:33:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 40761
+    },
+    {
+      "id": "onepunch-man-chapter-46",
+      "number": 46,
+      "title": "One Punch-Man – Capítulo 46 – Caça ao Herói",
+      "date": "2025-03-28T06:34:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 41086
+    },
+    {
+      "id": "onepunch-man-chapter-47",
+      "number": 47,
+      "title": "One Punch-Man – Capítulo 47 – Técnica",
+      "date": "2025-03-28T06:34:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 41358
+    },
+    {
+      "id": "onepunch-man-chapter-47.2",
+      "number": 47.2,
+      "title": "One Punch-Man – Capítulo 47.2",
+      "date": "2025-03-28T06:35:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 41604
+    },
+    {
+      "id": "onepunch-man-chapter-47.5",
+      "number": 47.5,
+      "title": "One Punch-Man – Capítulo 47.5 – A Nevasca em Tempos Difíceis",
+      "date": "2025-03-28T06:35:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 41765
+    },
+    {
+      "id": "onepunch-man-chapter-48",
+      "number": 48,
+      "title": "One Punch-Man – Capítulo 48 – Banana",
+      "date": "2025-03-28T06:35:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 41866
+    },
+    {
+      "id": "onepunch-man-chapter-48.1",
+      "number": 48.1,
+      "title": "One Punch-Man – Capítulo 48.1 – Interpretação Errada",
+      "date": "2025-03-28T06:36:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 42019
+    },
+    {
+      "id": "onepunch-man-chapter-49",
+      "number": 49,
+      "title": "One Punch-Man – Capítulo 49 – Estou Entediado Mesmo&#8230;",
+      "date": "2025-03-28T06:36:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 42063
+    },
+    {
+      "id": "onepunch-man-chapter-50",
+      "number": 50,
+      "title": "One Punch-Man – Capítulo 50 – Passeio no Tom!",
+      "date": "2025-03-28T06:36:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 42197
+    },
+    {
+      "id": "onepunch-man-chapter-51",
+      "number": 51,
+      "title": "One Punch-Man – Capítulo 51 – Cobertura",
+      "date": "2025-03-28T06:36:58Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 42439
+    },
+    {
+      "id": "onepunch-man-chapter-52",
+      "number": 52,
+      "title": "One Punch-Man – Capítulo 52 – Não Coloque de Volta",
+      "date": "2025-03-28T06:37:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 42581
+    },
+    {
+      "id": "onepunch-man-chapter-53",
+      "number": 53,
+      "title": "One Punch-Man – Capítulo 53 – Sala de Espera",
+      "date": "2025-03-28T06:37:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 42742
+    },
+    {
+      "id": "onepunch-man-chapter-54",
+      "number": 54,
+      "title": "One Punch-Man – Capítulo 54 – Centopeia",
+      "date": "2025-03-28T06:38:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 42908
+    },
+    {
+      "id": "onepunch-man-chapter-55",
+      "number": 55,
+      "title": "One Punch-Man – Capítulo 55 – Espírito de Luta",
+      "date": "2025-03-28T06:38:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 43071
+    },
+    {
+      "id": "onepunch-man-chapter-55.1",
+      "number": 55.1,
+      "title": "One Punch-Man – Capítulo 55.1 – Dia de Folga da Tatsumaki",
+      "date": "2025-03-28T06:38:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 43305
+    },
+    {
+      "id": "onepunch-man-chapter-55.2",
+      "number": 55.2,
+      "title": "One Punch-Man – Capítulo 55.2 – Sentido",
+      "date": "2025-03-28T06:39:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 43471
+    },
+    {
+      "id": "onepunch-man-chapter-55.3",
+      "number": 55.3,
+      "title": "One Punch-Man – Capítulo 55.3 – Números",
+      "date": "2025-03-28T06:39:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 43693
+    },
+    {
+      "id": "onepunch-man-chapter-55.4",
+      "number": 55.4,
+      "title": "One Punch-Man – Capítulo 55.4 – Especial de Natal",
+      "date": "2025-03-28T06:40:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 44010
+    },
+    {
+      "id": "onepunch-man-chapter-56",
+      "number": 56,
+      "title": "One Punch-Man – Capítulo 56 – Bem em Frente",
+      "date": "2025-03-28T06:40:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 44062
+    },
+    {
+      "id": "onepunch-man-chapter-57",
+      "number": 57,
+      "title": "One Punch-Man – Capítulo 57 – Interferência",
+      "date": "2025-03-28T06:40:58Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 44166
+    },
+    {
+      "id": "onepunch-man-chapter-58",
+      "number": 58,
+      "title": "One Punch-Man – Capítulo 58 – Estranhos Insetos Gigantes",
+      "date": "2025-03-28T06:41:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 44344
+    },
+    {
+      "id": "onepunch-man-chapter-59",
+      "number": 59,
+      "title": "One Punch-Man – Capítulo 59 – Só Você",
+      "date": "2025-03-28T06:42:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 44890
+    },
+    {
+      "id": "onepunch-man-chapter-60",
+      "number": 60,
+      "title": "One Punch-Man – Capítulo 60 – Admissão",
+      "date": "2025-03-28T06:43:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 45186
+    },
+    {
+      "id": "onepunch-man-chapter-61",
+      "number": 61,
+      "title": "One Punch-Man – Capítulo 61 – Cavalo Negro",
+      "date": "2025-03-28T06:43:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 45475
+    },
+    {
+      "id": "onepunch-man-chapter-61.1",
+      "number": 61.1,
+      "title": "One Punch-Man – Capítulo 61.1 – Esquadrão",
+      "date": "2025-03-28T06:44:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 45804
+    },
+    {
+      "id": "onepunch-man-chapter-61.2",
+      "number": 61.2,
+      "title": "One Punch-Man – Capítulo 61.2 – Arma",
+      "date": "2025-03-28T06:45:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 46138
+    },
+    {
+      "id": "onepunch-man-chapter-62",
+      "number": 62,
+      "title": "One Punch-Man – Capítulo 62 – O Motivo da Busca",
+      "date": "2025-03-28T06:45:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 46211
+    },
+    {
+      "id": "onepunch-man-chapter-63",
+      "number": 63,
+      "title": "One Punch-Man – Capítulo 63 – Jogo e Combate",
+      "date": "2025-03-28T06:45:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 46450
+    },
+    {
+      "id": "onepunch-man-chapter-64",
+      "number": 64,
+      "title": "One Punch-Man – Capítulo 64 – Limite",
+      "date": "2025-03-28T06:46:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 46840
+    },
+    {
+      "id": "onepunch-man-chapter-65",
+      "number": 65,
+      "title": "One Punch-Man – Capítulo 65 – Irmãs",
+      "date": "2025-03-28T06:47:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 47205
+    },
+    {
+      "id": "onepunch-man-chapter-66",
+      "number": 66,
+      "title": "One Punch-Man – Capítulo 66 – O Forte",
+      "date": "2025-03-28T06:48:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 47489
+    },
+    {
+      "id": "onepunch-man-chapter-67",
+      "number": 67,
+      "title": "One Punch-Man – Capítulo 67 – Fora do Padrão",
+      "date": "2025-03-28T06:48:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 47754
+    },
+    {
+      "id": "onepunch-man-chapter-67.1",
+      "number": 67.1,
+      "title": "One Punch-Man – Capítulo 67.1 – Bem em Frente",
+      "date": "2025-03-28T06:49:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 48058
+    },
+    {
+      "id": "onepunch-man-chapter-68",
+      "number": 68,
+      "title": "One Punch-Man – Capítulo 68 – Grande Poder de Batalha",
+      "date": "2025-03-28T06:49:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 48239
+    },
+    {
+      "id": "onepunch-man-chapter-69",
+      "number": 69,
+      "title": "One Punch-Man – Capítulo 69 – Células de Monstros",
+      "date": "2025-03-28T06:50:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 48630
+    },
+    {
+      "id": "onepunch-man-chapter-70",
+      "number": 70,
+      "title": "One Punch-Man – Capítulo 70 – Ser Forte é Divertido",
+      "date": "2025-03-28T06:51:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 49048
+    },
+    {
+      "id": "onepunch-man-chapter-71",
+      "number": 71,
+      "title": "One Punch-Man – Capítulo 71 – Essa é a Real Arte Marcial&#8230;!!",
+      "date": "2025-03-28T06:52:36Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 49482
+    },
+    {
+      "id": "onepunch-man-chapter-72",
+      "number": 72,
+      "title": "One Punch-Man – Capítulo 72 – Transformação do Monstro",
+      "date": "2025-03-28T06:53:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 49847
+    },
+    {
+      "id": "onepunch-man-chapter-73",
+      "number": 73,
+      "title": "One Punch-Man – Capítulo 73 – A Resistência do Forte",
+      "date": "2025-03-28T06:54:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 50305
+    },
+    {
+      "id": "onepunch-man-chapter-74",
+      "number": 74,
+      "title": "One Punch-Man – Capítulo 74 – Profundezas do Desespero",
+      "date": "2025-03-28T06:55:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 50724
+    },
+    {
+      "id": "onepunch-man-chapter-74.2",
+      "number": 74.2,
+      "title": "One Punch-Man – Capítulo 74.2 – Profundezas do Desespero 2",
+      "date": "2025-03-28T06:55:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 50898
+    },
+    {
+      "id": "onepunch-man-chapter-74.5",
+      "number": 74.5,
+      "title": "One Punch-Man – Capítulo 74.5 – Estrela",
+      "date": "2025-03-28T06:56:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 51092
+    },
+    {
+      "id": "onepunch-man-chapter-75",
+      "number": 75,
+      "title": "One Punch-Man – Capítulo 75 – Jogo Sujo",
+      "date": "2025-03-28T06:56:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 51216
+    },
+    {
+      "id": "onepunch-man-chapter-76",
+      "number": 76,
+      "title": "One Punch-Man – Capítulo 76 – Estagnação e Crescimento",
+      "date": "2025-03-28T06:57:36Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 51627
+    },
+    {
+      "id": "onepunch-man-chapter-77",
+      "number": 77,
+      "title": "One Punch-Man – Capítulo 77 – Entediado Como Sempre",
+      "date": "2025-03-28T06:58:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 51825
+    },
+    {
+      "id": "onepunch-man-chapter-78",
+      "number": 78,
+      "title": "One Punch-Man – Capítulo 78 – Os que se Atrevem nas Sombras",
+      "date": "2025-03-28T06:58:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 52139
+    },
+    {
+      "id": "onepunch-man-chapter-79",
+      "number": 79,
+      "title": "One Punch-Man – Capítulo 79 – Combo Infinito",
+      "date": "2025-03-28T06:59:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 52469
+    },
+    {
+      "id": "onepunch-man-chapter-80",
+      "number": 80,
+      "title": "One Punch-Man – Capítulo 80 – Cerco",
+      "date": "2025-03-28T07:00:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 52870
+    },
+    {
+      "id": "onepunch-man-chapter-80.6",
+      "number": 80.6,
+      "title": "One Punch-Man – Capítulo 80.6 – Nível de Desastre",
+      "date": "2025-03-28T07:01:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 53161
+    },
+    {
+      "id": "onepunch-man-chapter-81",
+      "number": 81,
+      "title": "One Punch-Man – Capítulo 81 – Obstinação",
+      "date": "2025-03-28T07:01:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 53292
+    },
+    {
+      "id": "onepunch-man-chapter-82",
+      "number": 82,
+      "title": "One Punch-Man – Capítulo 82 – Apagando",
+      "date": "2025-03-28T07:03:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 53689
+    },
+    {
+      "id": "onepunch-man-chapter-83",
+      "number": 83,
+      "title": "One Punch-Man – Capítulo 83 – A Dura Estrada Até O Topo",
+      "date": "2025-03-28T07:04:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 54158
+    },
+    {
+      "id": "onepunch-man-chapter-84",
+      "number": 84,
+      "title": "One Punch-Man – Capítulo 84 – Agravamento",
+      "date": "2025-03-28T07:05:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 54622
+    },
+    {
+      "id": "onepunch-man-chapter-85",
+      "number": 85,
+      "title": "One Punch-Man – Capítulo 85 – Careca de Capa?",
+      "date": "2025-03-28T07:08:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 55612
+    },
+    {
+      "id": "onepunch-man-chapter-85.1",
+      "number": 85.1,
+      "title": "One Punch-Man – Capítulo 85.1 – Confiança",
+      "date": "2025-03-28T07:10:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 55890
+    },
+    {
+      "id": "onepunch-man-chapter-86",
+      "number": 86,
+      "title": "One Punch-Man – Capítulo 86 – Esconderijo",
+      "date": "2025-03-28T07:10:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 55928
+    },
+    {
+      "id": "onepunch-man-chapter-87",
+      "number": 87,
+      "title": "One Punch-Man – Capítulo 87 – Natureza de Monstro",
+      "date": "2025-03-28T07:10:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 56111
+    },
+    {
+      "id": "onepunch-man-chapter-88",
+      "number": 88,
+      "title": "One Punch-Man – Capítulo 88 – Limitador",
+      "date": "2025-03-28T07:11:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 56344
+    },
+    {
+      "id": "onepunch-man-chapter-89",
+      "number": 89,
+      "title": "One Punch-Man – Capítulo 89 – Ensopado",
+      "date": "2025-03-28T07:12:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 56662
+    },
+    {
+      "id": "onepunch-man-chapter-89.1",
+      "number": 89.1,
+      "title": "One Punch-Man – Capítulo 89.1 – Ah, droga",
+      "date": "2025-03-28T07:14:36Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 57259
+    },
+    {
+      "id": "onepunch-man-chapter-90",
+      "number": 90,
+      "title": "One Punch-Man – Capítulo 90 – Porque eu sou um Monstro",
+      "date": "2025-03-28T07:14:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 57286
+    },
+    {
+      "id": "onepunch-man-chapter-91",
+      "number": 91,
+      "title": "One Punch-Man – Capítulo 91 – Pochi",
+      "date": "2025-03-28T07:15:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 57593
+    },
+    {
+      "id": "onepunch-man-chapter-92",
+      "number": 92,
+      "title": "One Punch-Man – Capítulo 92 – Bueiro",
+      "date": "2025-03-28T07:16:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 57981
+    },
+    {
+      "id": "onepunch-man-chapter-93",
+      "number": 93,
+      "title": "One Punch-Man – Capítulo 93 – Vamos Lá",
+      "date": "2025-03-28T07:18:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 58329
+    },
+    {
+      "id": "onepunch-man-chapter-94",
+      "number": 94,
+      "title": "Capítulo 94",
+      "date": "2025-11-01T11:16:40.136Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-94.1",
+      "number": 94.1,
+      "title": "One Punch-Man – Capítulo 94.1 – Entendido – Parte I",
+      "date": "2025-03-28T07:20:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 58974
+    },
+    {
+      "id": "onepunch-man-chapter-94.2",
+      "number": 94.2,
+      "title": "One Punch-Man – Capítulo 94.2",
+      "date": "2025-03-28T07:21:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 59510
+    },
+    {
+      "id": "onepunch-man-chapter-94.3",
+      "number": 94.3,
+      "title": "One Punch-Man – Capítulo 94.3",
+      "date": "2025-03-28T07:24:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 60050
+    },
+    {
+      "id": "onepunch-man-chapter-94.5",
+      "number": 94.5,
+      "title": "One Punch-Man – Capítulo 94.5 – Choque de Realidade",
+      "date": "2025-03-28T07:25:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 60315
+    },
+    {
+      "id": "onepunch-man-chapter-95",
+      "number": 95,
+      "title": "One Punch-Man – Capítulo 95",
+      "date": "2025-03-28T07:25:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 60365
+    },
+    {
+      "id": "onepunch-man-chapter-96",
+      "number": 96,
+      "title": "One Punch-Man – Capítulo 96",
+      "date": "2025-03-28T07:27:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 60656
+    },
+    {
+      "id": "onepunch-man-chapter-97",
+      "number": 97,
+      "title": "One Punch-Man – Capítulo 97",
+      "date": "2025-03-28T07:27:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 60800
+    },
+    {
+      "id": "onepunch-man-chapter-98",
+      "number": 98,
+      "title": "One Punch-Man – Capítulo 98",
+      "date": "2025-03-28T07:28:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 60948
+    },
+    {
+      "id": "onepunch-man-chapter-99",
+      "number": 99,
+      "title": "One Punch-Man – Capítulo 99 – Aquecimento (Revisado pelo Murata)",
+      "date": "2025-03-28T07:29:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 61371
+    },
+    {
+      "id": "onepunch-man-chapter-100",
+      "number": 100,
+      "title": "One Punch-Man – Capítulo 100 – Luz (Revisado pelo Murata)",
+      "date": "2025-03-28T07:31:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 61928
+    },
+    {
+      "id": "onepunch-man-chapter-100.1",
+      "number": 100.1,
+      "title": "One Punch-Man – Capítulo 100.1 – Luz – Parte 2 (Revisado pelo Murata)",
+      "date": "2025-03-28T07:31:58Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 62070
+    },
+    {
+      "id": "onepunch-man-chapter-101",
+      "number": 101,
+      "title": "One Punch-Man – Capítulo 101",
+      "date": "2025-03-28T07:32:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 62200
+    },
+    {
+      "id": "onepunch-man-chapter-102",
+      "number": 102,
+      "title": "One Punch-Man – Capítulo 102",
+      "date": "2025-03-28T07:33:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 62412
+    },
+    {
+      "id": "onepunch-man-chapter-103",
+      "number": 103,
+      "title": "One Punch-Man – Capítulo 103 – Batalha Proibida Para o Público",
+      "date": "2025-03-28T07:34:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 62557
+    },
+    {
+      "id": "onepunch-man-chapter-104",
+      "number": 104,
+      "title": "One Punch-Man – Capítulo 104",
+      "date": "2025-03-28T07:35:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 62829
+    },
+    {
+      "id": "onepunch-man-chapter-105",
+      "number": 105,
+      "title": "One Punch-Man – Capítulo 105",
+      "date": "2025-03-28T07:36:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 62970
+    },
+    {
+      "id": "onepunch-man-chapter-106",
+      "number": 106,
+      "title": "One Punch-Man – Capítulo 106",
+      "date": "2025-03-28T07:37:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 63170
+    },
+    {
+      "id": "onepunch-man-chapter-107",
+      "number": 107,
+      "title": "One Punch-Man – Capítulo 107",
+      "date": "2025-03-28T07:38:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 63352
+    },
+    {
+      "id": "onepunch-man-chapter-108",
+      "number": 108,
+      "title": "One Punch-Man – Capítulo 108",
+      "date": "2025-03-28T07:39:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 63467
+    },
+    {
+      "id": "onepunch-man-chapter-109",
+      "number": 109,
+      "title": "One Punch-Man – Capítulo 109",
+      "date": "2025-03-28T07:40:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 63643
+    },
+    {
+      "id": "onepunch-man-chapter-110",
+      "number": 110,
+      "title": "One Punch-Man – Capítulo 110 – (Revisado pelo Murata)",
+      "date": "2025-03-28T07:41:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 63905
+    },
+    {
+      "id": "onepunch-man-chapter-111",
+      "number": 111,
+      "title": "One Punch-Man – Capítulo 111",
+      "date": "2025-03-28T07:43:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 64464
+    },
+    {
+      "id": "onepunch-man-chapter-111.5",
+      "number": 111.5,
+      "title": "One Punch-Man – Capítulo 111.5",
+      "date": "2025-03-28T07:44:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 64633
+    },
+    {
+      "id": "onepunch-man-chapter-112",
+      "number": 112,
+      "title": "One Punch-Man – Capítulo 112",
+      "date": "2025-03-28T07:45:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 64876
+    },
+    {
+      "id": "onepunch-man-chapter-112.5",
+      "number": 112.5,
+      "title": "One Punch-Man – Capítulo 112.5 – Exemplo",
+      "date": "2025-03-28T07:46:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 65038
+    },
+    {
+      "id": "onepunch-man-chapter-113",
+      "number": 113,
+      "title": "One Punch-Man – Capítulo 113",
+      "date": "2025-03-28T07:46:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 65053
+    },
+    {
+      "id": "onepunch-man-chapter-114",
+      "number": 114,
+      "title": "One Punch-Man – Capítulo 114",
+      "date": "2025-03-28T07:46:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 65058
+    },
+    {
+      "id": "onepunch-man-chapter-115",
+      "number": 115,
+      "title": "One Punch-Man – Capítulo 115",
+      "date": "2025-03-28T07:47:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 65171
+    },
+    {
+      "id": "onepunch-man-chapter-116",
+      "number": 116,
+      "title": "One Punch-Man – Capítulo 116 – Brincadeira",
+      "date": "2025-03-28T07:48:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 65342
+    },
+    {
+      "id": "onepunch-man-chapter-117",
+      "number": 117,
+      "title": "One Punch-Man – Capítulo 117",
+      "date": "2025-03-28T07:48:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 65459
+    },
+    {
+      "id": "onepunch-man-chapter-118",
+      "number": 118,
+      "title": "One Punch-Man – Capítulo 118 – Drive Knight",
+      "date": "2025-03-28T07:49:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 65521
+    },
+    {
+      "id": "onepunch-man-chapter-119",
+      "number": 119,
+      "title": "One Punch-Man – Capítulo 119",
+      "date": "2025-03-28T07:49:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 65653
+    },
+    {
+      "id": "onepunch-man-chapter-120",
+      "number": 120,
+      "title": "Capítulo 120",
+      "date": "2025-11-01T11:22:52.195Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-121",
+      "number": 121,
+      "title": "Capítulo 121",
+      "date": "2025-11-01T11:23:07.971Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-122",
+      "number": 122,
+      "title": "One Punch-Man – Capítulo 122",
+      "date": "2025-03-28T07:50:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 65965
+    },
+    {
+      "id": "onepunch-man-chapter-122.5",
+      "number": 122.5,
+      "title": "One Punch-Man – Capítulo 122.5 – Extra – Mal Posso Esperar",
+      "date": "2025-03-28T07:51:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 66059
+    },
+    {
+      "id": "onepunch-man-chapter-123",
+      "number": 123,
+      "title": "One Punch-Man – Capítulo 123",
+      "date": "2025-03-28T07:52:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 66350
+    },
+    {
+      "id": "onepunch-man-chapter-124",
+      "number": 124,
+      "title": "One Punch-Man – Capítulo 124 – O Novo Grupo Fubuki",
+      "date": "2025-03-28T07:53:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 66527
+    },
+    {
+      "id": "onepunch-man-chapter-125",
+      "number": 125,
+      "title": "One Punch-Man – Capítulo 125 – Senta!",
+      "date": "2025-03-28T07:53:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 66619
+    },
+    {
+      "id": "onepunch-man-chapter-126",
+      "number": 126,
+      "title": "One Punch-Man – Capítulo 126 – Psykos",
+      "date": "2025-03-28T07:54:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 66697
+    },
+    {
+      "id": "onepunch-man-chapter-126.2",
+      "number": 126.2,
+      "title": "One Punch-Man – Capítulo 126.2",
+      "date": "2025-03-28T07:54:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 66775
+    },
+    {
+      "id": "onepunch-man-chapter-127",
+      "number": 127,
+      "title": "One Punch-Man – Capítulo 127",
+      "date": "2025-03-28T07:55:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 66918
+    },
+    {
+      "id": "onepunch-man-chapter-128",
+      "number": 128,
+      "title": "One Punch-Man – Capítulo 128",
+      "date": "2025-03-28T07:55:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 67058
+    },
+    {
+      "id": "onepunch-man-chapter-129",
+      "number": 129,
+      "title": "One Punch-Man – Capítulo 129",
+      "date": "2025-03-28T07:56:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 67152
+    },
+    {
+      "id": "onepunch-man-chapter-130",
+      "number": 130,
+      "title": "One Punch-Man – Capítulo 130",
+      "date": "2025-03-28T07:56:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 67251
+    },
+    {
+      "id": "onepunch-man-chapter-131",
+      "number": 131,
+      "title": "One Punch-Man – Capítulo 131",
+      "date": "2025-03-28T07:57:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 67343
+    },
+    {
+      "id": "onepunch-man-chapter-132",
+      "number": 132,
+      "title": "One Punch-Man – Capítulo 132",
+      "date": "2025-03-28T07:57:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 67449
+    },
+    {
+      "id": "onepunch-man-chapter-133",
+      "number": 133,
+      "title": "One Punch-Man – Capítulo 133",
+      "date": "2025-03-28T07:58:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 67556
+    },
+    {
+      "id": "onepunch-man-chapter-134",
+      "number": 134,
+      "title": "One Punch-Man – Capítulo 134 – Torção",
+      "date": "2025-03-28T07:59:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 67737
+    },
+    {
+      "id": "onepunch-man-chapter-134.2",
+      "number": 134.2,
+      "title": "One Punch-Man – Capítulo 134.2",
+      "date": "2025-03-28T07:59:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 67860
+    },
+    {
+      "id": "onepunch-man-chapter-134.3",
+      "number": 134.3,
+      "title": "One Punch-Man – Capítulo 134.3",
+      "date": "2025-03-28T08:00:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 67943
+    },
+    {
+      "id": "onepunch-man-chapter-135",
+      "number": 135,
+      "title": "One Punch-Man – Capítulo 135 – Desonra e Fundamentos",
+      "date": "2025-03-28T08:00:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 68030
+    },
+    {
+      "id": "onepunch-man-chapter-136",
+      "number": 136,
+      "title": "One Punch-Man – Capítulo 136 – Persistência",
+      "date": "2025-03-28T08:00:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 68095
+    },
+    {
+      "id": "onepunch-man-chapter-137",
+      "number": 137,
+      "title": "One Punch-Man – Capítulo 137 – Ressonância",
+      "date": "2025-03-28T08:01:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 68252
+    },
+    {
+      "id": "onepunch-man-chapter-138",
+      "number": 138,
+      "title": "One Punch-Man – Capítulo 138 – Para o Abismo",
+      "date": "2025-03-28T08:02:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 68409
+    },
+    {
+      "id": "onepunch-man-chapter-139",
+      "number": 139,
+      "title": "One Punch-Man – Capítulo 139 – Abismo",
+      "date": "2025-03-28T08:03:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 68575
+    },
+    {
+      "id": "onepunch-man-chapter-140",
+      "number": 140,
+      "title": "One Punch-Man – Capítulo 140 – Pedras e Diamantes",
+      "date": "2025-03-28T08:03:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 68699
+    },
+    {
+      "id": "onepunch-man-chapter-141",
+      "number": 141,
+      "title": "Capítulo 141",
+      "date": "2025-11-01T11:26:48.859Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-142",
+      "number": 142,
+      "title": "Capítulo 142",
+      "date": "2025-11-01T11:26:51.891Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-143",
+      "number": 143,
+      "title": "Capítulo 143",
+      "date": "2025-11-01T11:27:01.143Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-144",
+      "number": 144,
+      "title": "Capítulo 144",
+      "date": "2025-11-01T11:27:03.396Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-145",
+      "number": 145,
+      "title": "Capítulo 145",
+      "date": "2025-11-01T11:27:11.746Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-146",
+      "number": 146,
+      "title": "Capítulo 146",
+      "date": "2025-11-01T11:27:19.038Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-147",
+      "number": 147,
+      "title": "Capítulo 147",
+      "date": "2025-11-01T11:27:28.143Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-148",
+      "number": 148,
+      "title": "Capítulo 148",
+      "date": "2025-11-01T11:27:35.669Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-149",
+      "number": 149,
+      "title": "Capítulo 149",
+      "date": "2025-11-01T11:27:42.300Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-150",
+      "number": 150,
+      "title": "Capítulo 150",
+      "date": "2025-11-01T11:27:51.106Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-151",
+      "number": 151,
+      "title": "Capítulo 151",
+      "date": "2025-11-01T11:28:00.609Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-152",
+      "number": 152,
+      "title": "Capítulo 152",
+      "date": "2025-11-01T11:28:08.960Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-153",
+      "number": 153,
+      "title": "Capítulo 153",
+      "date": "2025-11-01T11:28:15.964Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-154",
+      "number": 154,
+      "title": "Capítulo 154",
+      "date": "2025-11-01T11:28:23.320Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-155",
+      "number": 155,
+      "title": "Capítulo 155",
+      "date": "2025-11-01T11:28:25.159Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-156",
+      "number": 156,
+      "title": "Capítulo 156",
+      "date": "2025-11-01T11:28:34.873Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-157",
+      "number": 157,
+      "title": "Capítulo 157",
+      "date": "2025-11-01T11:28:40.899Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-158",
+      "number": 158,
+      "title": "Capítulo 158",
+      "date": "2025-11-01T11:28:45.737Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-159",
+      "number": 159,
+      "title": "Capítulo 159",
+      "date": "2025-11-01T11:28:52.072Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-160",
+      "number": 160,
+      "title": "Capítulo 160",
+      "date": "2025-11-01T11:29:04.206Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-161",
+      "number": 161,
+      "title": "Capítulo 161",
+      "date": "2025-11-01T11:29:15.293Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-162",
+      "number": 162,
+      "title": "Capítulo 162",
+      "date": "2025-11-01T11:29:24.213Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-163",
+      "number": 163,
+      "title": "Capítulo 163",
+      "date": "2025-11-01T11:29:32.992Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-164",
+      "number": 164,
+      "title": "Capítulo 164",
+      "date": "2025-11-01T11:29:41.611Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-165",
+      "number": 165,
+      "title": "Capítulo 165",
+      "date": "2025-11-01T11:29:49.751Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-166",
+      "number": 166,
+      "title": "Capítulo 166",
+      "date": "2025-11-01T11:29:57.820Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-167",
+      "number": 167,
+      "title": "Capítulo 167",
+      "date": "2025-11-01T11:30:11.530Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-168",
+      "number": 168,
+      "title": "Capítulo 168",
+      "date": "2025-11-01T11:30:20.798Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-169",
+      "number": 169,
+      "title": "Capítulo 169",
+      "date": "2025-11-01T11:30:27.010Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-170",
+      "number": 170,
+      "title": "Capítulo 170",
+      "date": "2025-11-01T11:30:33.490Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-171",
+      "number": 171,
+      "title": "Capítulo 171",
+      "date": "2025-11-01T11:30:38.462Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-172",
+      "number": 172,
+      "title": "Capítulo 172",
+      "date": "2025-11-01T11:30:50.669Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-173",
+      "number": 173,
+      "title": "Capítulo 173",
+      "date": "2025-11-01T11:31:03.251Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-174",
+      "number": 174,
+      "title": "Capítulo 174",
+      "date": "2025-11-01T11:31:16.207Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-175",
+      "number": 175,
+      "title": "Capítulo 175",
+      "date": "2025-11-01T11:31:26.352Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-176",
+      "number": 176,
+      "title": "Capítulo 176",
+      "date": "2025-11-01T11:31:34.122Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-177",
+      "number": 177,
+      "title": "Capítulo 177",
+      "date": "2025-11-01T11:31:44.824Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-178",
+      "number": 178,
+      "title": "Capítulo 178",
+      "date": "2025-11-01T11:31:49.879Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-179",
+      "number": 179,
+      "title": "Capítulo 179",
+      "date": "2025-11-01T11:32:02.231Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-180",
+      "number": 180,
+      "title": "Capítulo 180",
+      "date": "2025-11-01T11:32:10.255Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-181",
+      "number": 181,
+      "title": "Capítulo 181",
+      "date": "2025-11-01T11:32:17.802Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-182",
+      "number": 182,
+      "title": "Capítulo 182",
+      "date": "2025-11-01T11:32:27.310Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-183",
+      "number": 183,
+      "title": "Capítulo 183",
+      "date": "2025-11-01T11:32:38.430Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-184",
+      "number": 184,
+      "title": "Capítulo 184",
+      "date": "2025-11-01T11:32:48.579Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-185",
+      "number": 185,
+      "title": "Capítulo 185",
+      "date": "2025-11-01T11:32:58.248Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-186",
+      "number": 186,
+      "title": "Capítulo 186",
+      "date": "2025-11-01T11:33:10.269Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-187",
+      "number": 187,
+      "title": "Capítulo 187",
+      "date": "2025-11-01T11:33:19.228Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-188",
+      "number": 188,
+      "title": "Capítulo 188",
+      "date": "2025-11-01T11:33:33.361Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-189",
+      "number": 189,
+      "title": "Capítulo 189",
+      "date": "2025-11-01T11:33:44.802Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-190",
+      "number": 190,
+      "title": "Capítulo 190",
+      "date": "2025-11-01T11:33:55.905Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-191",
+      "number": 191,
+      "title": "Capítulo 191",
+      "date": "2025-11-01T11:34:11.547Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-192",
+      "number": 192,
+      "title": "Capítulo 192",
+      "date": "2025-11-01T11:34:26.211Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-193",
+      "number": 193,
+      "title": "Capítulo 193",
+      "date": "2025-11-01T11:34:39.305Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-194",
+      "number": 194,
+      "title": "Capítulo 194",
+      "date": "2025-11-01T11:34:52.683Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-195",
+      "number": 195,
+      "title": "Capítulo 195",
+      "date": "2025-11-01T11:35:00.793Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-196",
+      "number": 196,
+      "title": "Capítulo 196",
+      "date": "2025-11-01T11:35:10.038Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-197",
+      "number": 197,
+      "title": "Capítulo 197",
+      "date": "2025-11-01T11:35:17.414Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-198",
+      "number": 198,
+      "title": "Capítulo 198",
+      "date": "2025-11-01T11:35:30.662Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-199",
+      "number": 199,
+      "title": "Capítulo 199",
+      "date": "2025-11-01T11:35:43.556Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-200",
+      "number": 200,
+      "title": "Capítulo 200",
+      "date": "2025-11-01T11:35:58.789Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-201",
+      "number": 201,
+      "title": "Capítulo 201",
+      "date": "2025-11-01T11:36:13.038Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-202",
+      "number": 202,
+      "title": "Capítulo 202",
+      "date": "2025-11-01T11:36:27.400Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-203",
+      "number": 203,
+      "title": "Capítulo 203",
+      "date": "2025-11-01T11:36:43.942Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-204",
+      "number": 204,
+      "title": "One Punch-Man – Capítulo 204 – compras",
+      "date": "2025-07-07T14:09:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 642185
+    },
+    {
+      "id": "onepunch-man-chapter-205",
+      "number": 205,
+      "title": "Capítulo 205",
+      "date": "2025-11-01T11:37:21.014Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-206",
+      "number": 206,
+      "title": "Capítulo 206",
+      "date": "2025-11-01T11:37:28.705Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-207",
+      "number": 207,
+      "title": "Capítulo 207",
+      "date": "2025-11-01T11:37:38.754Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-208",
+      "number": 208,
+      "title": "Capítulo 208",
+      "date": "2025-11-01T11:37:50.254Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-209",
+      "number": 209,
+      "title": "Capítulo 209",
+      "date": "2025-11-01T11:38:01.467Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-210",
+      "number": 210,
+      "title": "Capítulo 210",
+      "date": "2025-11-01T11:38:10.506Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-211",
+      "number": 211,
+      "title": "Capítulo 211",
+      "date": "2025-11-01T11:38:20.596Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-212",
+      "number": 212,
+      "title": "Capítulo 212",
+      "date": "2025-11-01T11:38:29.404Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-213",
+      "number": 213,
+      "title": "Capítulo 213",
+      "date": "2025-11-01T11:38:40.693Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-214",
+      "number": 214,
+      "title": "Capítulo 214",
+      "date": "2025-11-01T11:38:49.877Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-215",
+      "number": 215,
+      "title": "Capítulo 215",
+      "date": "2025-11-01T11:39:01.680Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-216",
+      "number": 216,
+      "title": "Capítulo 216",
+      "date": "2025-11-01T11:39:12.422Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-217",
+      "number": 217,
+      "title": "Capítulo 217",
+      "date": "2025-11-01T11:39:21.968Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-218",
+      "number": 218,
+      "title": "One Punch-Man – Capítulo 218",
+      "date": "2025-11-08T14:52:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 859180
+    },
+    {
+      "id": "onepunch-man-chapter-219",
+      "number": 219,
+      "title": "One Punch-Man – Capítulo 219 – Novo",
+      "date": "2025-11-23T17:56:26Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 946094
+    },
+    {
+      "id": "onepunch-man-chapter-220",
+      "number": 220,
+      "title": "One Punch-Man – Capítulo 220",
+      "date": "2025-12-05T15:55:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1002763
+    },
+    {
+      "id": "onepunch-man-chapter-221",
+      "number": 221,
+      "title": "One Punch-Man – Capítulo 221",
+      "date": "2025-12-19T15:58:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1024853
+    },
+    {
+      "id": "onepunch-man-chapter-222",
+      "number": 222,
+      "title": "One Punch-Man – Capítulo 222",
+      "date": "2026-01-19T21:25:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1055834
+    },
+    {
+      "id": "onepunch-man-chapter-223",
+      "number": 223,
+      "title": "One Punch-Man – Capítulo 223",
+      "date": "2026-02-01T15:49:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1087429
+    },
+    {
+      "id": "onepunch-man-chapter-224",
+      "number": 224,
+      "title": "One Punch-Man – Capítulo 224",
+      "date": "2026-02-17T14:00:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1108269
+    },
+    {
+      "id": "onepunch-man-chapter-225",
+      "number": 225,
+      "title": "One Punch-Man – Capítulo 225",
+      "date": "2026-02-28T22:43:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1130254
+    },
+    {
+      "id": "onepunch-man-chapter-226",
+      "number": 226,
+      "title": "One Punch-Man – Capítulo 226",
+      "date": "2026-03-15T13:22:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1141265
+    },
+    {
+      "id": "onepunch-man-chapter-227",
+      "number": 227,
+      "title": "One Punch-Man – Capítulo 227",
+      "date": "2026-03-30T21:01:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1154194
+    },
+    {
+      "id": "onepunch-man-chapter-228",
+      "number": 228,
+      "title": "One Punch-Man – Capítulo 228",
+      "date": "2026-04-12T13:43:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1182719
+    },
+    {
+      "id": "onepunch-man-chapter-229",
+      "number": 229,
+      "title": "One Punch-Man – Capítulo 229",
+      "date": "2026-04-27T15:31:36Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1204574
+    },
+    {
+      "id": "onepunch-man-chapter-230",
+      "number": 230,
+      "title": "One Punch-Man – Capítulo 230",
+      "date": "2026-05-12T21:09:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1225406
+    },
+    {
+      "id": "onepunch-man-chapter-231",
+      "number": 231,
+      "title": "One Punch-Man – Capítulo 231",
+      "date": "2026-05-26T00:54:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1235247
+    },
+    {
+      "id": "onepunch-man-chapter-232",
+      "number": 232,
+      "title": "One Punch-Man – Capítulo 232",
+      "date": "2026-06-06T14:38:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1258136
+    },
+    {
+      "id": "onepunch-man-chapter-233",
+      "number": 233,
+      "title": "One Punch-Man – Capítulo 233",
+      "date": "2026-06-24T21:54:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1267046
+    },
+    {
+      "id": "onepunch-man-chapter-234",
+      "number": 234,
+      "title": "Capítulo 234",
+      "date": "2025-11-01T11:42:09.903Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-235",
+      "number": 235,
+      "title": "Capítulo 235",
+      "date": "2025-11-01T11:42:15.762Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-236",
+      "number": 236,
+      "title": "Capítulo 236",
+      "date": "2025-11-01T11:42:21.138Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-237",
+      "number": 237,
+      "title": "Capítulo 237",
+      "date": "2025-11-01T11:42:29.184Z",
+      "pages": []
+    },
+    {
+      "id": "onepunch-man-chapter-238",
+      "number": 238,
+      "title": "Capítulo 238",
+      "date": "2026-06-23T19:54:34.308Z",
+      "pages": [
+        "https://cdn.leituramanga.net/one-punch-man/capitulo-238/page-1.webp",
+        "https://cdn.leituramanga.net/one-punch-man/capitulo-238/page-2.webp",
+        "https://cdn.leituramanga.net/one-punch-man/capitulo-238/page-3.webp",
+        "https://cdn.leituramanga.net/one-punch-man/capitulo-238/page-4.webp",
+        "https://cdn.leituramanga.net/one-punch-man/capitulo-238/page-5.webp",
+        "https://cdn.leituramanga.net/one-punch-man/capitulo-238/page-6.webp",
+        "https://cdn.leituramanga.net/one-punch-man/capitulo-238/page-7.webp"
+      ]
+    }
+  ]
+}

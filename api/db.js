@@ -1,0 +1,69 @@
+const { sql } = require('@vercel/postgres');
+
+let isInitialized = false;
+
+async function initDB() {
+  try {
+    // 1) Criar tabela de usuários
+    await sql`
+      CREATE TABLE IF NOT EXISTS users (
+        id SERIAL PRIMARY KEY,
+        username VARCHAR(50) UNIQUE NOT NULL,
+        password VARCHAR(255) NOT NULL,
+        role VARCHAR(10) DEFAULT 'user',
+        created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+      );
+    `;
+
+    // Garantir que a coluna 'role' exista caso a tabela já tenha sido criada antes
+    await sql`
+      ALTER TABLE users ADD COLUMN IF NOT EXISTS role VARCHAR(10) DEFAULT 'user';
+    `;
+
+    // 2) Criar tabela de views
+    await sql`
+      CREATE TABLE IF NOT EXISTS manga_views (
+        manga_id VARCHAR(100) PRIMARY KEY,
+        count INTEGER DEFAULT 0,
+        updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+      );
+    `;
+
+    // 3) Criar tabela de favoritos
+    await sql`
+      CREATE TABLE IF NOT EXISTS favorites (
+        id SERIAL PRIMARY KEY,
+        user_id INTEGER REFERENCES users(id) ON DELETE CASCADE,
+        manga_id VARCHAR(100) NOT NULL,
+        created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+        UNIQUE(user_id, manga_id)
+      );
+    `;
+
+    // 4) Criar tabela de mangás ocultos (gerenciado pelo admin)
+    await sql`
+      CREATE TABLE IF NOT EXISTS hidden_manga (
+        manga_id VARCHAR(100) PRIMARY KEY,
+        hidden_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+      );
+    `;
+
+    console.log("Tabelas do banco de dados verificadas/criadas com sucesso.");
+  } catch (err) {
+    console.error("Erro na inicialização do banco de dados:", err);
+    throw err;
+  }
+}
+
+async function ensureConnection() {
+  if (!isInitialized) {
+    await initDB();
+    isInitialized = true;
+  }
+  return sql;
+}
+
+module.exports = {
+  sql,
+  ensureConnection
+};

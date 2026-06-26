@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="referrer" content="no-referrer">
+  <title>Leitor — MangaBankai</title>
+  <meta name="theme-color" content="#000000">
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/reader.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📖</text></svg>">
+</head>
+<body>
+  <!-- Main Site Header -->
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="logo">Manga<span class="accent">Bankai</span><span class="dot"></span></a>
+      <nav class="nav">
+        <a href="index.html">Início</a>
+        <a href="catalog.html">Catálogo</a>
+      </nav>
+      <div class="search-bar">
+        <input type="text" id="searchInput" placeholder="Pesquisar mangás..." autocomplete="off">
+        <button class="search-btn" onclick="const q=document.getElementById('searchInput').value.trim();if(q)window.location.href='catalog.html?q='+encodeURIComponent(q)">🔍</button>
+        <div class="search-dropdown" id="searchDropdown"></div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Exit Fullscreen Floating Button -->
+  <button id="exitFullscreenBtn" onclick="toggleFullscreen()" title="Sair da Tela Cheia">✕</button>
+
+  <div class="reader-wrapper">
+    <!-- Sidebar Chapter List -->
+    <div class="reader-sidebar" id="readerSidebar">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px">
+        <h3>Capítulos</h3>
+        <button class="rh-btn" onclick="toggleSidebar()" style="font-size:0.8rem">✕</button>
+      </div>
+      <div id="sidebarChapters"></div>
+    </div>
+
+    <!-- Reader Main -->
+    <div class="reader-main">
+      <!-- Reader Header -->
+      <div class="reader-header">
+        <div class="left">
+          <a href="index.html" class="rh-back" title="Início">‹ Início</a>
+          <a id="readerBackManga" class="rh-back" title="Página do Mangá">‹ Mangá</a>
+          <button class="rh-toggle" onclick="toggleSidebar()" title="Lista de Capítulos">☰</button>
+          <div class="rh-info">
+            <h2 id="readerTitle">Carregando...</h2>
+            <span id="readerChapter">Capítulo</span>
+          </div>
+          <span class="lang-badge" id="readerLangBadge">EN</span>
+        </div>
+        <div class="right">
+          <select id="langSelect" onchange="switchReaderLang(this.value)" style="margin-right: 8px; display: none; padding: 4px 8px; border-radius: 4px; border: 1px solid var(--border); background: #000; color: #fff;"></select>
+          <select id="chapterSelect" onchange="loadChapterBySelect(this.value)"></select>
+          <button class="rh-btn" onclick="toggleSettings()" title="Configurações">⚙️</button>
+          <button class="rh-btn" onclick="toggleFullscreen()" title="Tela Cheia">⛶</button>
+        </div>
+      </div>
+
+      <!-- Settings Panel (no topo, junto da barra da engrenagem) -->
+      <div class="reader-settings-panel" id="settingsPanel">
+        <div class="rsp-inner">
+          <div class="rsp-group">
+            <label>Modo</label>
+            <select id="pageMode" onchange="onSettingChange()">
+              <option value="scroll">Rolagem Contínua</option>
+              <option value="single">Página Única</option>
+              <option value="double">Duas Páginas</option>
+            </select>
+          </div>
+          <div class="rsp-group" id="dirGroup">
+            <label>Direção</label>
+            <select id="readingDirection" onchange="onSettingChange()">
+              <option value="ltr">Esquerda → Direita</option>
+              <option value="rtl">Direita → Esquerda</option>
+            </select>
+          </div>
+          <div class="rsp-group">
+            <label>Brilho</label>
+            <input type="range" id="brightness" min="30" max="150" value="100" oninput="onBrightnessChange(this.value)">
+            <span id="brightnessVal" style="font-size:0.75rem;color:var(--text-muted);min-width:30px">100%</span>
+          </div>
+          <div class="rsp-group">
+            <label>Fundo</label>
+            <select id="bgColor" onchange="onSettingChange()">
+              <option value="#000000">Preto</option>
+              <option value="#0a0a0a">Cinza Escuro</option>
+              <option value="#1a1a1a">Cinza</option>
+              <option value="#f5f0e8">Bege</option>
+              <option value="#ffffff">Branco</option>
+            </select>
+          </div>
+        </div>
+      </div>
+
+      <!-- Reader Content -->
+      <div class="reader-content" id="readerContent">
+        <div class="reader-pages" id="readerPages" style="display:none">
+          <div class="page-placeholder">Carregando páginas...</div>
+        </div>
+        <div class="reader-scroll" id="readerScroll" style="display:none"></div>
+      </div>
+
+      <!-- Page Mode Navigation -->
+      <div class="reader-nav" id="readerNav">
+        <button id="prevChapterBtn" onclick="navChapter(-1)">‹ Capítulo Anterior</button>
+        <button id="prevPageBtn" onclick="navPage(-1)">‹ Anterior</button>
+        <span class="page-info" id="pageInfo">-</span>
+        <button id="nextPageBtn" onclick="navPage(1)">Próxima ›</button>
+        <button id="nextChapterBtn" onclick="navChapter(1)">Próximo Capítulo ›</button>
+      </div>
+
+    </div>
+  </div>
+
+  <script src="js/data.js"></script>
+  <script src="js/main.js"></script>
+  <script>
+    // ========== STATE ==========
+    let currentMangaSlug = null;
+    let currentMangaData = null;
+    let currentChapter = null;
+    let currentPageIdx = 0;
+    let pages = [];
+    let chaptersList = [];
+
+    // ========== URL PARAMS ==========
+    function getParams() {
+      const p = new URLSearchParams(window.location.search);
+      return { manga: p.get('manga'), chapter: p.get('chapter'), lang: p.get('lang') || 'en' };
+    }
+
+    // ========== INIT ==========
+    (async function() {
+      const params = getParams();
+      if (params.manga && params.chapter) {
+        await loadChapter(params.manga, params.chapter, params.lang);
+      } else {
+        document.getElementById('readerContent').innerHTML =
+          '<div style="text-align:center;padding:80px 20px;color:var(--text-muted)">Selecione um mangá e capítulo para começar a ler.</div>';
+        document.getElementById('readerNav').style.display = 'none';
+      }
+
+      const settings = getReaderSettings();
+      document.getElementById('pageMode').value = settings.pageMode || 'scroll';
+      document.getElementById('readingDirection').value = settings.direction || 'ltr';
+      document.getElementById('brightness').value = settings.brightness || 100;
+      document.getElementById('bgColor').value = settings.bgColor || '#000000';
+      applyReaderSettings();
+    })();
+
+    // ========== SETTINGS ==========
+    function applyReaderSettings() {
+      const bg = document.getElementById('bgColor').value;
+      const bri = document.getElementById('brightness').value;
+      document.documentElement.style.setProperty('--reader-bg', bg);
+      document.querySelector('.reader-content').style.filter = `brightness(${bri / 100})`;
+
+      const mode = document.getElementById('pageMode').value;
+      const isScroll = mode === 'scroll';
+      const rp = document.getElementById('readerPages');
+      const rs = document.getElementById('readerScroll');
+      const dg = document.getElementById('dirGroup');
+      if (rp) rp.style.display = isScroll ? 'none' : 'block';
+      if (rs) rs.style.display = isScroll ? 'block' : 'none';
+      if (dg) dg.style.display = isScroll ? 'none' : 'flex';
+
+      const nav = document.getElementById('readerNav');
+      if (nav) nav.style.display = isScroll ? 'none' : 'flex';
+
+      if (pages.length > 0) renderPages();
+
+      var lang = getParams().lang;
+      document.getElementById('readerLangBadge') && (document.getElementById('readerLangBadge').textContent = lang.toUpperCase());
+
+      saveReaderSettings({
+        direction: document.getElementById('readingDirection').value,
+        pageMode: mode,
+        brightness: parseInt(bri),
+        bgColor: bg
+      });
+    }
+
+    function onSettingChange() { applyReaderSettings(); }
+
+    function onBrightnessChange(val) {
+      document.getElementById('brightnessVal').textContent = val + '%';
+      applyReaderSettings();
+    }
+
+    function toggleSettings() {
+      document.getElementById('settingsPanel').classList.toggle('open');
+    }
+
+    function toggleFullscreen() {
+      if (!document.fullscreenElement) {
+        document.documentElement.requestFullscreen?.();
+      } else {
+        document.exitFullscreen?.();
+      }
+    }
+
+    function toggleSidebar() {
+      document.getElementById('readerSidebar').classList.toggle('open');
+    }
+
+    // ========== LOAD CHAPTER ==========
+    async function loadChapter(mangaId, chapterId, lang) {
+      lang = lang || 'en';
+
+      // Load chapters data from chapters.json
+      const allChapters = await loadChapters(mangaId);
+
+      // Find the manga slug
+      let slug = mangaId;
+      let manga = getManga(mangaId);
+
+      if (manga) {
+        const adultGenres = ['Adulto', 'Hentai', 'Ecchi', 'Mature', 'Smut'];
+        const isAdult = (manga.genres || []).some(g => adultGenres.includes(g));
+        const adultMode = LS.get('adult_mode', false);
+        if (isAdult && !adultMode) {
+          showAdultConfirmationModal(() => {
+            LS.set('adult_mode', true);
+            window.location.reload();
+          }, () => {
+            window.location.href = 'index.html';
+          });
+          return;
+        }
+      }
+
+      currentMangaSlug = slug;
+      currentMangaData = manga;
+
+      // Get chapters for this slug
+      chaptersList = getChapters(slug, lang);
+      if (chaptersList.length === 0) {
+        // Try English fallback
+        chaptersList = getChapters(slug, 'en');
+      }
+      if (chaptersList.length === 0) {
+        showError('Capítulos não encontrados para este mangá.');
+        return;
+      }
+
+      // Find the specific chapter
+      let chapter = chaptersList.find(c => c.id === chapterId);
+      if (!chapter) {
+        // Try finding by number
+        chapter = chaptersList.find(c => c.number === parseFloat(chapterId));
+      }
+      if (!chapter) {
+        showError('Capítulo não encontrado.');
+        return;
+      }
+
+      currentChapter = chapter;
+      currentPageIdx = 0;
+      pages = chapter.pages || [];
+
+      // Resolve as páginas sob demanda pelo servidor (lista EXATA, sem 404) — PT e EN.
+      // EN cai na descoberta no cliente só se o painel não responder.
+      if (pages.length === 0 && chapter.number) {
+        const mSlug = manga ? manga.slug : slug;
+        const isLocal = ['localhost', '127.0.0.1', ''].includes(location.hostname);
+        const RESOLVE_BASE = window.RESOLVE_BASE || (isLocal ? 'http://localhost:3001' : location.origin);
+        showMessage('Carregando páginas...');
+
+        // 1) Servidor: devolve a lista exata e a salva no JSON do capítulo.
+        try {
+          const res = await fetch(`${RESOLVE_BASE}/resolve-chapter?lang=${encodeURIComponent(lang)}&mangaId=${encodeURIComponent(slug)}&slug=${encodeURIComponent(mSlug)}&chNum=${encodeURIComponent(chapter.number)}`);
+          const data = await res.json();
+          if (data.success && data.pages && data.pages.length > 0) {
+            pages = data.pages;
+            chapter.pages = pages;
+          }
+        } catch (e) { /* segue para o fallback abaixo */ }
+
+        // 2) Fallback
+        if (pages.length === 0) {
+          if (lang === 'pt') {
+            showError('Não foi possível obter as páginas. Verifique se o painel admin está rodando na porta 3001.');
+            return;
+          }
+          // EN: descoberta no cliente como último recurso (caso o painel esteja off)
+          showMessage('Descobrindo páginas...');
+          pages = await discoverPages(chapter, mSlug);
+          if (pages.length === 0) {
+            showError('Não foi possível carregar as páginas deste capítulo.');
+            return;
+          }
+        }
+      }
+
+      const title = manga ? manga.title : slug;
+      document.title = `${title} — Capítulo ${chapter.number} — MangaBankai`;
+      document.getElementById('readerTitle').textContent = title;
+      document.getElementById('readerChapter').textContent = `Capítulo ${chapter.number}`;
+      document.getElementById('readerBackManga').href = `manga.html?id=${slug}`;
+
+      // Chapter select
+      const sel = document.getElementById('chapterSelect');
+      sel.innerHTML = chaptersList.map(c =>
+        `<option value="${c.id}" ${c.id === chapter.id ? 'selected' : ''}>Capítulo ${c.number}</option>`
+      ).join('');
+
+      // Language select dropdown setup
+      const availableLangs = Object.keys(chaptersData[mangaId] || {});
+      const langSel = document.getElementById('langSelect');
+      if (langSel) {
+        if (availableLangs.length > 1) {
+          langSel.style.display = 'inline-block';
+          langSel.innerHTML = availableLangs.map(l =>
+            `<option value="${l}" ${l === lang ? 'selected' : ''}>${l.toUpperCase()}</option>`
+          ).join('');
+        } else {
+          langSel.style.display = 'none';
+        }
+      }
+
+      // Sidebar chapters with read indicators
+      const readChapters = LS.get('read_' + slug, []);
+      document.getElementById('sidebarChapters').innerHTML = chaptersList.map(c => {
+        const isRead = readChapters.includes(c.id);
+        const readClass = isRead ? 'read' : '';
+        return `<button class="rs-chapter ${c.id === chapter.id ? 'active' : ''} ${readClass}" onclick="window.location.href='reader.html?manga=${slug}&chapter=${c.id}&lang=${lang}'">Capítulo ${c.number}</button>`;
+      }).join('');
+
+      // Mark current chapter as read
+      if (!readChapters.includes(chapter.id)) {
+        readChapters.push(chapter.id);
+        LS.set('read_' + slug, readChapters);
+      }
+
+      // Nav buttons
+      const chIdx = chaptersList.findIndex(c => c.id === chapter.id);
+      document.getElementById('prevChapterBtn').disabled = chIdx === 0;
+      document.getElementById('nextChapterBtn').disabled = chIdx === chaptersList.length - 1;
+
+      renderPages();
+      saveProgress(slug, chapter.id, 0, pages.length);
+      if (window.registerMangaView) window.registerMangaView(slug);
+    }
+
+    function loadChapterBySelect(chapterId) {
+      const params = getParams();
+      if (currentMangaSlug) window.location.href = `reader.html?manga=${currentMangaSlug}&chapter=${chapterId}&lang=${params.lang}`;
+    }
+
+    function switchReaderLang(newLang) {
+      const params = getParams();
+      const newChapters = getChapters(currentMangaSlug, newLang);
+      let targetChapterId = null;
+      if (currentChapter && newChapters.length > 0) {
+        const matching = newChapters.find(c => c.number === currentChapter.number);
+        if (matching) targetChapterId = matching.id;
+      }
+      if (!targetChapterId && newChapters.length > 0) {
+        // Fallback to first chapter in that language
+        targetChapterId = newChapters[newChapters.length - 1].id;
+      }
+      if (targetChapterId) {
+        window.location.href = `reader.html?manga=${currentMangaSlug}&chapter=${targetChapterId}&lang=${newLang}`;
+      }
+    }
+
+    function showError(msg) {
+      const rp = document.getElementById('readerPages');
+      if (rp) {
+        rp.style.display = 'block';
+        rp.innerHTML = `<div class="page-placeholder">${msg}</div>`;
+      } else {
+        document.getElementById('readerContent').innerHTML =
+          `<div style="text-align:center;padding:80px 20px;color:var(--text-muted)">${msg}</div>`;
+      }
+      document.getElementById('readerNav').style.display = 'none';
+    }
+    function showMessage(msg) {
+      const rp = document.getElementById('readerPages');
+      if (rp) {
+        rp.style.display = 'block';
+        rp.innerHTML = `<div class="page-placeholder">${msg}</div>`;
+      } else {
+        document.getElementById('readerContent').innerHTML =
+          `<div style="text-align:center;padding:80px 20px;color:var(--text-muted)">${msg}</div>`;
+      }
+    }
+
+    // ========== RENDER PAGES ==========
+    function renderPages() {
+      const mode = document.getElementById('pageMode').value;
+      if (mode === 'scroll') return renderScrollMode();
+
+      const container = document.getElementById('readerPages');
+      container.style.display = 'block';
+      const rs = document.getElementById('readerScroll');
+      if (rs) rs.style.display = 'none';
+
+      if (pages.length === 0) {
+        container.innerHTML = '<div class="page-placeholder">Nenhuma página disponível.</div>';
+        return;
+      }
+
+      const dir = document.getElementById('readingDirection').value;
+
+      // Force single page on mobile screens for double page mode
+      let activeMode = mode;
+      if (mode === 'double' && window.innerWidth <= 768) {
+        activeMode = 'single';
+      }
+
+      if (activeMode === 'single') {
+        const url = pages[currentPageIdx];
+        container.innerHTML = `
+          <div class="page-container">
+            <img class="reader-page-img"
+              src="${url}"
+              alt="Página ${currentPageIdx + 1}"
+              referrerPolicy="no-referrer"
+              onerror="this.style.display='none'"
+              loading="${currentPageIdx === 0 ? 'eager' : 'lazy'}">
+          </div>
+        `;
+      } else if (activeMode === 'double') {
+        const idx1 = currentPageIdx;
+        const idx2 = dir === 'rtl' ? currentPageIdx - 1 : currentPageIdx + 1;
+        const url1 = pages[idx1];
+        const url2 = idx2 >= 0 && idx2 < pages.length ? pages[idx2] : null;
+
+        container.innerHTML = `
+          <div class="page-container double">
+            <div class="page-col">
+              <img class="reader-page-img"
+                src="${url1}"
+                alt="Página ${idx1 + 1}"
+                referrerPolicy="no-referrer"
+                onerror="this.style.display='none'"
+                loading="${idx1 === 0 ? 'eager' : 'lazy'}">
+            </div>
+            <div class="page-col">
+              ${url2 ? `<img class="reader-page-img"
+                src="${url2}"
+                alt="Página ${idx2 + 1}"
+                referrerPolicy="no-referrer"
+                onerror="this.style.display='none'"
+                loading="lazy">` : '<div class="page-end">Fim do capítulo</div>'}
+            </div>
+          </div>
+        `;
+      }
+
+      updatePageInfo();
+    }
+
+    // ========== SCROLL MODE ==========
+    let scrollObserver = null;
+    function renderScrollMode() {
+      const container = document.getElementById('readerScroll');
+      container.style.display = 'block';
+      const rp = document.getElementById('readerPages');
+      if (rp) rp.style.display = 'none';
+
+      if (pages.length === 0) {
+        container.innerHTML = '<div class="scroll-page"><div class="page-placeholder">Nenhuma página disponível.</div></div>';
+        return;
+      }
+
+      container.innerHTML = pages.map((url, i) => `
+        <div class="scroll-page skeleton" data-page="${i + 1}" style="min-height:700px; display:flex; align-items:center; justify-content:center;">
+          <img class="reader-page-img lazy-page-img"
+            data-src="${url}"
+            alt="Página ${i + 1}"
+            referrerPolicy="no-referrer"
+            onload="this.classList.add('loaded'); this.parentElement.classList.remove('skeleton');"
+            onerror="this.style.display='none'; this.parentElement.style.display='none';">
+        </div>
+      `).join('');
+
+      // Setup intersection observer targeting readerContent as viewport
+      if (scrollObserver) scrollObserver.disconnect();
+      const scrollRoot = document.getElementById('readerContent');
+      scrollObserver = new IntersectionObserver((entries, obs) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            const img = entry.target.querySelector('img');
+            if (img && img.dataset.src) {
+              img.src = img.dataset.src;
+              delete img.dataset.src;
+            }
+            obs.unobserve(entry.target);
+          }
+        });
+      }, { root: scrollRoot, rootMargin: '800px 0px' });
+
+      container.querySelectorAll('.scroll-page').forEach(page => scrollObserver.observe(page));
+
+      const prog = getProgress(currentMangaSlug);
+      if (prog && prog.pageIndex > 0) {
+        setTimeout(() => {
+          const target = container.querySelector(`[data-page="${prog.pageIndex + 1}"]`);
+          if (target) target.scrollIntoView({ block: 'start' });
+        }, 100);
+      }
+    }
+
+    // ========== NAVIGATION ==========
+    function updatePageInfo() {
+      if (document.getElementById('pageMode').value === 'scroll') {
+        document.getElementById('pageInfo').textContent = `${pages.length} páginas`;
+        return;
+      }
+      document.getElementById('pageInfo').textContent = `${currentPageIdx + 1} de ${pages.length}`;
+      document.getElementById('prevPageBtn').disabled = currentPageIdx === 0;
+      document.getElementById('nextPageBtn').disabled = currentPageIdx >= pages.length - 1;
+    }
+
+    function navPage(delta) {
+      if (document.getElementById('pageMode').value === 'scroll') return;
+
+      const dir = document.getElementById('readingDirection').value;
+      let actualDelta = dir === 'rtl' ? -delta : delta;
+
+      if (document.getElementById('pageMode').value === 'double') actualDelta *= 2;
+
+      const newIdx = currentPageIdx + actualDelta;
+      if (newIdx >= 0 && newIdx < pages.length) {
+        currentPageIdx = newIdx;
+        renderPages();
+        if (currentMangaSlug && currentChapter) {
+          saveProgress(currentMangaSlug, currentChapter.id, currentPageIdx, pages.length);
+        }
+      }
+    }
+
+    function navChapter(delta) {
+      if (!currentMangaSlug || !currentChapter) return;
+      const idx = chaptersList.findIndex(c => c.id === currentChapter.id);
+      const newIdx = idx + delta;
+      if (newIdx >= 0 && newIdx < chaptersList.length) {
+        const ch = chaptersList[newIdx];
+        const params = getParams();
+        window.location.href = `reader.html?manga=${currentMangaSlug}&chapter=${ch.id}&lang=${params.lang}`;
+      }
+    }
+
+    // ========== KEYBOARD ==========
+    document.addEventListener('keydown', (e) => {
+      if (e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT') return;
+
+      const mode = document.getElementById('pageMode').value;
+      const dir = document.getElementById('readingDirection').value;
+
+      switch (e.key) {
+        case 'ArrowLeft':
+          e.preventDefault();
+          if (mode === 'scroll') { document.getElementById('readerScroll').scrollBy({ left: -200, behavior: 'smooth' }); }
+          else navPage(dir === 'rtl' ? 1 : -1);
+          break;
+        case 'ArrowRight':
+          e.preventDefault();
+          if (mode === 'scroll') { document.getElementById('readerScroll').scrollBy({ left: 200, behavior: 'smooth' }); }
+          else navPage(dir === 'rtl' ? -1 : 1);
+          break;
+        case 'ArrowUp':
+          if (mode === 'scroll') { e.preventDefault(); document.getElementById('readerScroll').scrollBy({ top: -300, behavior: 'smooth' }); }
+          else { e.preventDefault(); navChapter(-1); }
+          break;
+        case 'ArrowDown':
+          if (mode === 'scroll') { e.preventDefault(); document.getElementById('readerScroll').scrollBy({ top: 300, behavior: 'smooth' }); }
+          else { e.preventDefault(); navChapter(1); }
+          break;
+        case 'f': case 'F': toggleFullscreen(); break;
+        case 's': case 'S': toggleSettings(); break;
+      }
+    });
+
+    // Save scroll position and handle Focus Mode in scroll mode
+    let scrollTimer;
+    let lastScrollTop = 0;
+
+    document.getElementById('readerContent')?.addEventListener('scroll', (e) => {
+      const currentScroll = e.currentTarget.scrollTop;
+      lastScrollTop = currentScroll;
+
+      // Barras de navegação ficam SEMPRE visíveis (sem auto-ocultar).
+      document.querySelector('.reader-header')?.classList.remove('hide-bar');
+      document.querySelector('.reader-nav')?.classList.remove('hide-bar');
+
+      if (document.getElementById('pageMode').value !== 'scroll') return;
+
+      clearTimeout(scrollTimer);
+      scrollTimer = setTimeout(() => {
+        const container = document.getElementById('readerScroll');
+        const scrollPages = container.querySelectorAll('.scroll-page');
+        let visiblePage = 0;
+        scrollPages.forEach((sp, i) => {
+          const rect = sp.getBoundingClientRect();
+          // Detect which page is active in viewport
+          if (rect.top < window.innerHeight / 2) visiblePage = i;
+        });
+        
+        currentPageIdx = visiblePage;
+        if (currentMangaSlug && currentChapter) {
+          saveProgress(currentMangaSlug, currentChapter.id, currentPageIdx, pages.length);
+        }
+      }, 300);
+    });
+
+    // ========== CLICK NAVIGATION (page mode) ==========
+    document.getElementById('readerContent')?.addEventListener('click', (e) => {
+      if (document.getElementById('pageMode').value === 'scroll') return;
+      
+      // Do not navigate if clicking buttons, selects, or settings panel
+      if (e.target.closest('#settingsPanel') || e.target.tagName === 'SELECT' || e.target.closest('.rh-btn') || e.target.closest('.rh-toggle') || e.target.closest('a')) return;
+
+      const rect = e.currentTarget.getBoundingClientRect();
+      const x = e.clientX - rect.left;
+      const w = rect.width;
+      // Clica na metade esquerda → volta; metade direita → avança.
+      // (navPage já inverte conforme a direção de leitura LTR/RTL.)
+      if (x < w * 0.5) navPage(-1);
+      else navPage(1);
+    });
+  </script>
+</body>
+</html>

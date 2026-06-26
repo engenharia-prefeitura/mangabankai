@@ -1,0 +1,452 @@
+{
+  "en": [
+    {
+      "id": "parasyte-1",
+      "number": "1",
+      "title": "Invasion",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-2",
+      "number": "2",
+      "title": "Beast",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-3",
+      "number": "3",
+      "title": "Contact",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-4",
+      "number": "4",
+      "title": "Desire to Kill",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-5",
+      "number": "5",
+      "title": "Study Hard",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-6",
+      "number": "6",
+      "title": "Aproximation",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-7",
+      "number": "7",
+      "title": "Ambush",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-8",
+      "number": "8",
+      "title": "Species",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-9",
+      "number": "9",
+      "title": "Mother",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-10",
+      "number": "10",
+      "title": "Trust",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-11",
+      "number": "11",
+      "title": "Hardship",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-12",
+      "number": "12",
+      "title": "Pain in the Chest",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-13",
+      "number": "13",
+      "title": "Sorrow without Tears",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-14",
+      "number": "14",
+      "title": "Companion",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-15",
+      "number": "15",
+      "title": "The Missing 30 Percent",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-16",
+      "number": "16",
+      "title": "End of the Journey",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-17",
+      "number": "17",
+      "title": "A Different Look",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-18",
+      "number": "18",
+      "title": "Humans",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-19",
+      "number": "19",
+      "title": "Mimada Hideo",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-20",
+      "number": "20",
+      "title": "Prophecy",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-21",
+      "number": "21",
+      "title": "Obeservation",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-22",
+      "number": "22",
+      "title": "Cracks",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-23",
+      "number": "23",
+      "title": "Chaos and Killings",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-24",
+      "number": "24",
+      "title": "One Hit",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-25",
+      "number": "25",
+      "title": "Effect",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-26",
+      "number": "26",
+      "title": "A Young Girl's Dream",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-27",
+      "number": "27",
+      "title": "Practice",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-28",
+      "number": "28",
+      "title": "Peaceful Days",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-29",
+      "number": "29",
+      "title": "Kana",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-30",
+      "number": "30",
+      "title": "Superpowers",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-31",
+      "number": "31",
+      "title": "Red Tears",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-32",
+      "number": "32",
+      "title": "Tamura Reiko",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-33",
+      "number": "33",
+      "title": "Witness",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-34",
+      "number": "34",
+      "title": "Iron and Glass",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-35",
+      "number": "35",
+      "title": "Don't Care About a Name",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-36",
+      "number": "36",
+      "title": "The Devil's Appearance",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-37",
+      "number": "37",
+      "title": "The Resturant",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-38",
+      "number": "38",
+      "title": "The Enemy",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-39",
+      "number": "39",
+      "title": "Assassin",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-40",
+      "number": "40",
+      "title": "Headquarters",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-41",
+      "number": "41",
+      "title": "One Person",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-42",
+      "number": "42",
+      "title": "A Small and Weak Family",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-43",
+      "number": "43",
+      "title": "A Small and Weak Family 2",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-44",
+      "number": "44",
+      "title": "Impatience",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-45",
+      "number": "45",
+      "title": "Cold-Blooded War",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-46",
+      "number": "46",
+      "title": "The Park in the Adjacent City",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-47",
+      "number": "47",
+      "title": "As a Parent",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-48",
+      "number": "48",
+      "title": "I'm Back",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-49",
+      "number": "49",
+      "title": "Identification",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-50",
+      "number": "50",
+      "title": "The Weapon",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-51",
+      "number": "51",
+      "title": "Direction",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-52",
+      "number": "52",
+      "title": "Surrounded",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-53",
+      "number": "53",
+      "title": "Lighting the Flame of War",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-54",
+      "number": "54",
+      "title": "Repression",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-55",
+      "number": "55",
+      "title": "Parasite",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-56",
+      "number": "56",
+      "title": "Head",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-57",
+      "number": "57",
+      "title": "Hero",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-58",
+      "number": "58",
+      "title": "Migi",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-59",
+      "number": "59",
+      "title": "Old Woman",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-60",
+      "number": "60",
+      "title": "Readiness",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-61",
+      "number": "61",
+      "title": "Grotesque",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-62",
+      "number": "62",
+      "title": "Morning",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-63",
+      "number": "63",
+      "title": "Back to Normal",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "parasyte-64",
+      "number": "64",
+      "title": "For You",
+      "date": "2010/01/24",
+      "pages": []
+    }
+  ]
+}

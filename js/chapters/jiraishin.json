@@ -1,0 +1,508 @@
+{
+  "en": [
+    {
+      "id": "jiraishin-1",
+      "number": "1",
+      "title": "File 1 - Blue Sea and Red Rose",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-2",
+      "number": "2",
+      "title": "File 2 - Pangs of Conscience",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-3",
+      "number": "3",
+      "title": "File 3 - Doll",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-4",
+      "number": "4",
+      "title": "File 4 - The Price of a Painting",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-5",
+      "number": "5",
+      "title": "File 5 - The Salt of the Earth",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-6",
+      "number": "6",
+      "title": "File 6 - Shots in the Dark",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-7",
+      "number": "7",
+      "title": "File 7 Part 1 - Fragments of a Moment Part 1",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-8",
+      "number": "8",
+      "title": "File 7 Part 2 - Fragments of a Moment Part 2 - Oyashirazu",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-9",
+      "number": "9",
+      "title": "File 8 - Wedding",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-10",
+      "number": "10",
+      "title": "File 9 Part 1 - Inducing",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-11",
+      "number": "11",
+      "title": "File 9 Part 2 - Deepening",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-12",
+      "number": "12",
+      "title": "File 9 Part 3 - Awakening",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-13",
+      "number": "13",
+      "title": "File 9 Part 4 - Purifying",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-14",
+      "number": "14",
+      "title": "File 10 - Rematch",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-15",
+      "number": "15",
+      "title": "File 11 Part 1 - Fallen Part 1",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-16",
+      "number": "16",
+      "title": "File 11 Part 2 - Fallen Part 2",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-17",
+      "number": "17",
+      "title": "File 12 - To No Avail",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-18",
+      "number": "18",
+      "title": "File 13 Part 1 - Blood Brothers of the Snow - Plutonium",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-19",
+      "number": "19",
+      "title": "File 13 Part 2 - Blood Brothers of the Snow - Kunashi Island",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-20",
+      "number": "20",
+      "title": "File 13 Part 3 - Blood Brothers of the Snow - Kai",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-21",
+      "number": "21",
+      "title": "File 13 Part 4 - Blood Brothers of the Snow - The Future",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-22",
+      "number": "22",
+      "title": "File 13 Part 5 - Blood Brothers of the Snow - To The Sea",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-23",
+      "number": "23",
+      "title": "File 14 Part 1 - Thrill and Real Part 1",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-24",
+      "number": "24",
+      "title": "File 14 Part 2 - Thrill and Real Part 2",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-25",
+      "number": "25",
+      "title": "File 15 Part 1 - A-10 C Witness Part 1",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-26",
+      "number": "26",
+      "title": "File 15 Part 2 - A-10 C Witness Part 2",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-27",
+      "number": "27",
+      "title": "File 16 Part 1 - Shanghai Dream - The Pig and the Dragon",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-28",
+      "number": "28",
+      "title": "File 16 Part 2 - Shanghai Dream - The Devil's City",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-29",
+      "number": "29",
+      "title": "File 16 Part 3 - Shanghai Dream - Zhang and Meng",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-30",
+      "number": "30",
+      "title": "File 16 Part 4 - Shanghai Dream - Sprint",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-31",
+      "number": "31",
+      "title": "File 17 Part 1 - A Tattooed Santa Claus - Mark",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-32",
+      "number": "32",
+      "title": "File 17 Part 2 - A Tattooed Santa Claus - Tattoo",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-33",
+      "number": "33",
+      "title": "File 17 Part 3 - A Tattooed Santa Claus - Fence",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-34",
+      "number": "34",
+      "title": "File 18 - April Blood",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-35",
+      "number": "35",
+      "title": "File 19 Part 1 - Hush - Responsibility",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-36",
+      "number": "36",
+      "title": "File 19 Part 2 - Hush - Marketing a Death",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-37",
+      "number": "37",
+      "title": "File 19 Part 3 - Hush - An Attachment to Life",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-38",
+      "number": "38",
+      "title": "File 19 Part 4 - Hush - Dead or Alive",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-39",
+      "number": "39",
+      "title": "File 20 Part 1 - Mother of Crime - The First Line",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-40",
+      "number": "40",
+      "title": "File 20 Part 2 - Mother of Crime - The Cross Line",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-41",
+      "number": "41",
+      "title": "File 20 Part 3 - Mother of Crime - The Junction",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-42",
+      "number": "42",
+      "title": "File 20 Part 4 - Mother of Crime - One Way",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-43",
+      "number": "43",
+      "title": "File 21 Part 1 - Don't Cry - Kiss",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-44",
+      "number": "44",
+      "title": "File 21 Part 2 - Don't Cry - A Cell",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-45",
+      "number": "45",
+      "title": "File 21 Part 3 - Don't Cry - Cry",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-46",
+      "number": "46",
+      "title": "File 22 - Kids",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-47",
+      "number": "47",
+      "title": "File 23 Part 1 - Focus - The Subject",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-48",
+      "number": "48",
+      "title": "File 23 Part 2 - Focus - The Film",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-49",
+      "number": "49",
+      "title": "File 23 Part 3 - Focus - The Print",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-50",
+      "number": "50",
+      "title": "File 23 Part 4 - Focus - The Shutter",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-51",
+      "number": "51",
+      "title": "File 24 Part 1 - Partner - Shinjuku Tokyo",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-52",
+      "number": "52",
+      "title": "File 24 Part 2 - Partner - Lin Fei",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-53",
+      "number": "53",
+      "title": "File 24 Part 3 - Partner - Assassin",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-54",
+      "number": "54",
+      "title": "File 24 Part 4 - Partner - Roar of the Sea",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-55",
+      "number": "55",
+      "title": "File 25 Part 1 - A Time of Unending Mental Strain - Female A",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-56",
+      "number": "56",
+      "title": "File 25 Part 2 - A Time of Unending Mental Strain - Milk",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-57",
+      "number": "57",
+      "title": "File 25 Part 3 - A Time of Unending Mental Strain - The Mark",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-58",
+      "number": "58",
+      "title": "File 25 Part 4 - A Time of Unending Mental Strain - A-KIRA",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-59",
+      "number": "59",
+      "title": "File 26 Part 1 - Crash - Low",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-60",
+      "number": "60",
+      "title": "File 26 Part 2 - Crash - Target",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-61",
+      "number": "61",
+      "title": "File 26 Part 3 - Crash - Set Up",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-62",
+      "number": "62",
+      "title": "File 26 Part 4 - Crash - Closed",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-63",
+      "number": "63",
+      "title": "File 27 Part 1 - The Carnival - Choice",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-64",
+      "number": "64",
+      "title": "File 27 Part 2 - The Carnival - Poison",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-65",
+      "number": "65",
+      "title": "File 27 Part 3 - The Carnival - Versus",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-66",
+      "number": "66",
+      "title": "File 27 Part 4 - The Carnival - Farm",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-67",
+      "number": "67",
+      "title": "Last File Part 1 - Life - A Bloody Wedding",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-68",
+      "number": "68",
+      "title": "Last File Part 2 - Life - Brain Dead",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-69",
+      "number": "69",
+      "title": "Last File Part 3 - Life - New Heaven",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-70",
+      "number": "70",
+      "title": "Last File Part 4 - Life - Atsuko",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-71",
+      "number": "71",
+      "title": "Last File Part 5 - Life - Father",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "jiraishin-72",
+      "number": "72",
+      "title": "Last File Part 6 - Life - Life",
+      "date": "2010/03/26",
+      "pages": []
+    }
+  ]
+}

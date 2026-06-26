@@ -1,0 +1,403 @@
+{
+  "en": [
+    {
+      "id": "renai-boukun-1",
+      "number": "1",
+      "title": "",
+      "date": "2012/08/22",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-2",
+      "number": "2",
+      "title": "",
+      "date": "2012/10/01",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-3",
+      "number": "3",
+      "title": "",
+      "date": "2012/12/26",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-4",
+      "number": "4",
+      "title": "",
+      "date": "2013/01/27",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-5",
+      "number": "5",
+      "title": "",
+      "date": "2013/02/13",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-6",
+      "number": "6",
+      "title": "",
+      "date": "2013/04/01",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-7",
+      "number": "7",
+      "title": "",
+      "date": "2013/04/01",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-8",
+      "number": "8",
+      "title": "",
+      "date": "2013/04/01",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-9",
+      "number": "9",
+      "title": "",
+      "date": "2013/05/29",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-10",
+      "number": "10",
+      "title": "",
+      "date": "2013/07/11",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-11",
+      "number": "11",
+      "title": "",
+      "date": "2014/06/14",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-12",
+      "number": "12",
+      "title": "",
+      "date": "2014/07/17",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-13",
+      "number": "13",
+      "title": "",
+      "date": "2014/07/17",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-14",
+      "number": "14",
+      "title": "",
+      "date": "2014/07/17",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-15",
+      "number": "15",
+      "title": "",
+      "date": "2015/01/25",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-16",
+      "number": "16",
+      "title": "",
+      "date": "2015/01/25",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-17",
+      "number": "17",
+      "title": "",
+      "date": "2015/01/25",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-18",
+      "number": "18",
+      "title": "",
+      "date": "2015/01/25",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-19",
+      "number": "19",
+      "title": "",
+      "date": "2015/03/01",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-20",
+      "number": "20",
+      "title": "",
+      "date": "2015/03/18",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-21",
+      "number": "21",
+      "title": "",
+      "date": "2015/04/09",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-22",
+      "number": "22",
+      "title": "",
+      "date": "2015/06/08",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-23",
+      "number": "23",
+      "title": "",
+      "date": "2015/06/08",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-24",
+      "number": "24",
+      "title": "",
+      "date": "2015/06/12",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-25",
+      "number": "25",
+      "title": "",
+      "date": "2015/06/20",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-26",
+      "number": "26",
+      "title": "",
+      "date": "2015/11/27",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-27",
+      "number": "27",
+      "title": "",
+      "date": "2016/03/09",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-28",
+      "number": "28",
+      "title": "",
+      "date": "2016/03/09",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-29",
+      "number": "29",
+      "title": "",
+      "date": "2016/03/09",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-30",
+      "number": "30",
+      "title": "",
+      "date": "2016/03/28",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-31",
+      "number": "31",
+      "title": "",
+      "date": "2016/04/03",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-32",
+      "number": "32",
+      "title": "",
+      "date": "2016/04/24",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-33",
+      "number": "33",
+      "title": "",
+      "date": "2016/04/24",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-34",
+      "number": "34",
+      "title": "",
+      "date": "2016/05/01",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-35",
+      "number": "35",
+      "title": "",
+      "date": "2016/06/14",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-36",
+      "number": "36",
+      "title": "",
+      "date": "2016/06/14",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-37",
+      "number": "37",
+      "title": "",
+      "date": "2016/07/02",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-38",
+      "number": "38",
+      "title": "",
+      "date": "2016/07/23",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-39",
+      "number": "39",
+      "title": "",
+      "date": "2016/08/29",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-40",
+      "number": "40",
+      "title": "",
+      "date": "2016/12/20",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-41",
+      "number": "41",
+      "title": "",
+      "date": "2016/12/20",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-42",
+      "number": "42",
+      "title": "",
+      "date": "2016/12/20",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-43",
+      "number": "43",
+      "title": "",
+      "date": "2017/03/08",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-44",
+      "number": "44",
+      "title": "",
+      "date": "2017/03/08",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-45",
+      "number": "45",
+      "title": "",
+      "date": "2017/04/15",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-46",
+      "number": "46",
+      "title": "Chapter 46 and 46.2",
+      "date": "2017/08/12",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-47",
+      "number": "47",
+      "title": "",
+      "date": "2017/10/09",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-48",
+      "number": "48",
+      "title": "",
+      "date": "2018/03/16",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-49",
+      "number": "49",
+      "title": "",
+      "date": "2018/03/16",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-50",
+      "number": "50",
+      "title": "",
+      "date": "2018/03/16",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-51",
+      "number": "51",
+      "title": "",
+      "date": "2018/08/23",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-52",
+      "number": "52",
+      "title": "",
+      "date": "2018/08/23",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-53",
+      "number": "53",
+      "title": "Fifty third Episode",
+      "date": "2019/03/04",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-54",
+      "number": "54",
+      "title": "",
+      "date": "2020/01/16",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-55",
+      "number": "55",
+      "title": "",
+      "date": "2020/01/27",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-56",
+      "number": "56",
+      "title": "",
+      "date": "2020/02/16",
+      "pages": []
+    },
+    {
+      "id": "renai-boukun-57",
+      "number": "57",
+      "title": "",
+      "date": "2020/04/16",
+      "pages": []
+    }
+  ]
+}

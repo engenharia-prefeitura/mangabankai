@@ -1,0 +1,375 @@
+{
+  "en": [
+    {
+      "id": "ao-haru-ride-1",
+      "number": "1",
+      "title": "",
+      "date": "2011/05/05",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-2",
+      "number": "2",
+      "title": "",
+      "date": "2011/05/22",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-3",
+      "number": "3",
+      "title": "",
+      "date": "2011/05/22",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-4",
+      "number": "4",
+      "title": "",
+      "date": "2011/06/22",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-5",
+      "number": "5",
+      "title": "",
+      "date": "2011/07/03",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-6",
+      "number": "6",
+      "title": "",
+      "date": "2011/08/14",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-7",
+      "number": "7",
+      "title": "",
+      "date": "2011/09/10",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-8",
+      "number": "8",
+      "title": "",
+      "date": "2011/10/02",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-9",
+      "number": "9",
+      "title": "",
+      "date": "2011/10/09",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-10",
+      "number": "10",
+      "title": "",
+      "date": "2011/10/24",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-11",
+      "number": "11",
+      "title": "",
+      "date": "2011/11/21",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-12",
+      "number": "12",
+      "title": "",
+      "date": "2012/01/15",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-13",
+      "number": "13",
+      "title": "",
+      "date": "2012/01/28",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-14",
+      "number": "14",
+      "title": "",
+      "date": "2012/03/10",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-15",
+      "number": "15",
+      "title": "",
+      "date": "2012/04/23",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-16",
+      "number": "16",
+      "title": "",
+      "date": "2012/04/23",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-17",
+      "number": "17",
+      "title": "",
+      "date": "2012/06/12",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-18",
+      "number": "18",
+      "title": "",
+      "date": "2012/07/07",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-19",
+      "number": "19",
+      "title": "",
+      "date": "2012/08/10",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-20",
+      "number": "20",
+      "title": "",
+      "date": "2012/08/18",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-21",
+      "number": "21",
+      "title": "",
+      "date": "2012/09/16",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-22",
+      "number": "22",
+      "title": "",
+      "date": "2012/10/17",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-23",
+      "number": "23",
+      "title": "",
+      "date": "2012/12/15",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-24",
+      "number": "24",
+      "title": "",
+      "date": "2012/12/25",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-25",
+      "number": "25",
+      "title": "",
+      "date": "2013/01/20",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-26",
+      "number": "26",
+      "title": "",
+      "date": "2013/03/03",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-27",
+      "number": "27",
+      "title": "",
+      "date": "2013/04/01",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-28",
+      "number": "28",
+      "title": "",
+      "date": "2013/04/14",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-29",
+      "number": "29",
+      "title": "",
+      "date": "2013/05/19",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-30",
+      "number": "30",
+      "title": "",
+      "date": "2013/07/15",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-31",
+      "number": "31",
+      "title": "",
+      "date": "2013/08/12",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-32",
+      "number": "32",
+      "title": "",
+      "date": "2013/09/17",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-33",
+      "number": "33",
+      "title": "",
+      "date": "2013/10/17",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-34",
+      "number": "34",
+      "title": "",
+      "date": "2013/11/17",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-35",
+      "number": "35",
+      "title": "",
+      "date": "2013/12/16",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-36",
+      "number": "36",
+      "title": "",
+      "date": "2014/01/14",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-37",
+      "number": "37",
+      "title": "",
+      "date": "2014/02/18",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-38",
+      "number": "38",
+      "title": "",
+      "date": "2014/03/17",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-39",
+      "number": "39",
+      "title": "",
+      "date": "2014/04/19",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-40",
+      "number": "40",
+      "title": "",
+      "date": "2014/05/18",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-41",
+      "number": "41",
+      "title": "",
+      "date": "2014/06/19",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-42",
+      "number": "42",
+      "title": "",
+      "date": "2014/07/18",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-43",
+      "number": "43",
+      "title": "",
+      "date": "2014/08/19",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-44",
+      "number": "44",
+      "title": "",
+      "date": "2014/09/19",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-45",
+      "number": "45",
+      "title": "",
+      "date": "2014/10/16",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-46",
+      "number": "46",
+      "title": "",
+      "date": "2014/12/15",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-47",
+      "number": "47",
+      "title": "",
+      "date": "2014/12/15",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-48",
+      "number": "48",
+      "title": "",
+      "date": "2015/01/22",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-49",
+      "number": "49",
+      "title": "",
+      "date": "2015/02/15",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-49e",
+      "number": "49e",
+      "title": "",
+      "date": "2026/01/19",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-49f",
+      "number": "49f",
+      "title": "",
+      "date": "2026/01/19",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-49g",
+      "number": "49g",
+      "title": "",
+      "date": "2026/01/19",
+      "pages": []
+    },
+    {
+      "id": "ao-haru-ride-49h",
+      "number": "49h",
+      "title": "",
+      "date": "2026/01/19",
+      "pages": []
+    }
+  ]
+}

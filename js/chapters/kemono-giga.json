@@ -1,0 +1,627 @@
+{
+  "en": [
+    {
+      "id": "kemono-giga-1",
+      "number": "1",
+      "title": "",
+      "date": "2020/05/17",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-2",
+      "number": "2",
+      "title": "",
+      "date": "2020/05/17",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-3",
+      "number": "3",
+      "title": "",
+      "date": "2020/05/17",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-4",
+      "number": "4",
+      "title": "",
+      "date": "2020/05/17",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-5",
+      "number": "5",
+      "title": "",
+      "date": "2020/05/17",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-6",
+      "number": "6",
+      "title": "",
+      "date": "2020/05/17",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-7",
+      "number": "7",
+      "title": "",
+      "date": "2020/05/17",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-8",
+      "number": "8",
+      "title": "",
+      "date": "2020/05/17",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-9",
+      "number": "9",
+      "title": "",
+      "date": "2020/05/17",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-10",
+      "number": "10",
+      "title": "",
+      "date": "2020/05/17",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-11",
+      "number": "11",
+      "title": "",
+      "date": "2020/05/17",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-12",
+      "number": "12",
+      "title": "",
+      "date": "2020/05/17",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-13",
+      "number": "13",
+      "title": "",
+      "date": "2020/05/17",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-14",
+      "number": "14",
+      "title": "",
+      "date": "2020/05/17",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-15",
+      "number": "15",
+      "title": "",
+      "date": "2020/05/17",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-16",
+      "number": "16",
+      "title": "",
+      "date": "2020/05/24",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-17",
+      "number": "17",
+      "title": "",
+      "date": "2020/05/24",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-18",
+      "number": "18",
+      "title": "Dangerous Good",
+      "date": "2020/06/07",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-19",
+      "number": "19",
+      "title": "Dining Table",
+      "date": "2020/06/07",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-20",
+      "number": "20",
+      "title": "Returning Home",
+      "date": "2020/06/15",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-21",
+      "number": "21",
+      "title": "Gosei Kutsu",
+      "date": "2020/06/22",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-22",
+      "number": "22",
+      "title": "Kakuroukai",
+      "date": "2020/07/06",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-23",
+      "number": "23",
+      "title": "Skin",
+      "date": "2020/07/14",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-24",
+      "number": "24",
+      "title": "",
+      "date": "2020/07/21",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-25",
+      "number": "25",
+      "title": "Heaven's Net",
+      "date": "2020/08/01",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-26",
+      "number": "26",
+      "title": "Kyokotsu",
+      "date": "2020/08/23",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-27",
+      "number": "27",
+      "title": "A Confession Without Punishment",
+      "date": "2020/09/15",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-28",
+      "number": "28",
+      "title": "Lighter",
+      "date": "2020/09/15",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-29",
+      "number": "29",
+      "title": "Imperishable Night",
+      "date": "2020/10/11",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-30",
+      "number": "30",
+      "title": "A Day At the Beach 1",
+      "date": "2020/10/11",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-31",
+      "number": "31",
+      "title": "A Day At the Beach 2",
+      "date": "2020/10/23",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-32",
+      "number": "32",
+      "title": "A Day At the Beach 3",
+      "date": "2020/12/01",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-33",
+      "number": "33",
+      "title": "A Day At the Beach 4",
+      "date": "2021/01/02",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-34",
+      "number": "34",
+      "title": "Aboard A Ship",
+      "date": "2021/01/02",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-35",
+      "number": "35",
+      "title": "Battlefield",
+      "date": "2021/01/02",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-36",
+      "number": "36",
+      "title": "Let the Battle Begin",
+      "date": "2021/01/02",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-37",
+      "number": "37",
+      "title": "Weight",
+      "date": "2021/01/02",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-38",
+      "number": "38",
+      "title": "Middle Stage",
+      "date": "2021/01/02",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-39",
+      "number": "39",
+      "title": "Burning Bright",
+      "date": "2021/01/02",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-40",
+      "number": "40",
+      "title": "Evil Approaching",
+      "date": "2021/01/02",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-41",
+      "number": "41",
+      "title": "Regeneration",
+      "date": "2021/01/02",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-42",
+      "number": "42",
+      "title": "The Edge of the Ring",
+      "date": "2021/01/02",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-43",
+      "number": "43",
+      "title": "Taken Back",
+      "date": "2021/01/02",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-44",
+      "number": "44",
+      "title": "\"You Will Eventually Die, Unable to View the Scenery, the Sound of Cicadas.\"",
+      "date": "2021/01/02",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-45",
+      "number": "45",
+      "title": "The Fly",
+      "date": "2021/01/02",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-46",
+      "number": "46",
+      "title": "Man of Wits",
+      "date": "2021/01/02",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-47",
+      "number": "47",
+      "title": "Arms",
+      "date": "2021/01/02",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-48",
+      "number": "48",
+      "title": "Beware",
+      "date": "2021/01/02",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-49",
+      "number": "49",
+      "title": "Dialogue",
+      "date": "2021/01/02",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-50",
+      "number": "50",
+      "title": "Massacre",
+      "date": "2021/01/02",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-51",
+      "number": "51",
+      "title": "Strategy",
+      "date": "2021/01/02",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-52",
+      "number": "52",
+      "title": "Capitulation",
+      "date": "2021/01/02",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-53",
+      "number": "53",
+      "title": "Gear Shift",
+      "date": "2021/01/02",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-54",
+      "number": "54",
+      "title": "Nail",
+      "date": "2021/01/02",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-55",
+      "number": "55",
+      "title": "Synchronization",
+      "date": "2021/02/01",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-56",
+      "number": "56",
+      "title": "Calibrating: Tuning",
+      "date": "2021/02/01",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-57",
+      "number": "57",
+      "title": "Spider's Thread",
+      "date": "2021/02/24",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-58",
+      "number": "58",
+      "title": "Moroboshi",
+      "date": "2021/02/24",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-59",
+      "number": "59",
+      "title": "Burnin' For You",
+      "date": "2021/02/24",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-60",
+      "number": "60",
+      "title": "Bye",
+      "date": "2021/02/24",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-61",
+      "number": "61",
+      "title": "Take Care",
+      "date": "2021/02/24",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-62",
+      "number": "62",
+      "title": "Hit",
+      "date": "2021/02/24",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-63",
+      "number": "63",
+      "title": "Firing",
+      "date": "2021/02/24",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-64",
+      "number": "64",
+      "title": "One Step",
+      "date": "2021/02/24",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-65",
+      "number": "65",
+      "title": "The Conversation That Day",
+      "date": "2021/02/24",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-66",
+      "number": "66",
+      "title": "Buzzing of the Wings",
+      "date": "2021/02/24",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-67",
+      "number": "67",
+      "title": "Nest",
+      "date": "2021/02/24",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-68",
+      "number": "68",
+      "title": "Double-Headed",
+      "date": "2021/02/24",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-69",
+      "number": "69",
+      "title": "Offense and Defense",
+      "date": "2021/02/24",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-70",
+      "number": "70",
+      "title": "Red Thorns",
+      "date": "2021/02/24",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-71",
+      "number": "71",
+      "title": "Disposable Pawn",
+      "date": "2021/02/24",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-72",
+      "number": "72",
+      "title": "Bird",
+      "date": "2021/02/24",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-73",
+      "number": "73",
+      "title": "Communication",
+      "date": "2021/02/24",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-74",
+      "number": "74",
+      "title": "",
+      "date": "2021/08/06",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-75",
+      "number": "75",
+      "title": "",
+      "date": "2021/08/06",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-76",
+      "number": "76",
+      "title": "",
+      "date": "2021/08/06",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-77",
+      "number": "77",
+      "title": "",
+      "date": "2021/08/06",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-78",
+      "number": "78",
+      "title": "",
+      "date": "2021/08/06",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-79",
+      "number": "79",
+      "title": "",
+      "date": "2021/08/06",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-80",
+      "number": "80",
+      "title": "",
+      "date": "2021/08/06",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-81",
+      "number": "81",
+      "title": "",
+      "date": "2021/08/06",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-82",
+      "number": "82",
+      "title": "",
+      "date": "2021/08/06",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-83",
+      "number": "83",
+      "title": "",
+      "date": "2021/08/06",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-84",
+      "number": "84",
+      "title": "",
+      "date": "2021/08/06",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-85",
+      "number": "85",
+      "title": "",
+      "date": "2021/08/06",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-86",
+      "number": "86",
+      "title": "",
+      "date": "2021/08/06",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-87",
+      "number": "87",
+      "title": "",
+      "date": "2021/08/06",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-88",
+      "number": "88",
+      "title": "",
+      "date": "2021/08/06",
+      "pages": []
+    },
+    {
+      "id": "kemono-giga-89",
+      "number": "89",
+      "title": "",
+      "date": "2021/08/06",
+      "pages": []
+    }
+  ]
+}

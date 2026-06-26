@@ -1,0 +1,5612 @@
+{
+  "en": [
+    {
+      "id": "nanatsu-no-taizai-1",
+      "number": "1",
+      "title": "The Seven Deadly Sins",
+      "date": "2012/10/25",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-2",
+      "number": "2",
+      "title": "Sword of The Holy Knight",
+      "date": "2012/11/06",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-3",
+      "number": "3",
+      "title": "Something I Must Do",
+      "date": "2012/11/15",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-4",
+      "number": "4",
+      "title": "The Sin of The Sleeping Forest",
+      "date": "2012/11/20",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-5",
+      "number": "5",
+      "title": "Memory in Darkness",
+      "date": "2012/11/24",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-6",
+      "number": "6",
+      "title": "Holy Knight Gilthunder",
+      "date": "2012/11/28",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-7",
+      "number": "7",
+      "title": "The Prisoner of Darkness",
+      "date": "2012/12/12",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-8",
+      "number": "8",
+      "title": "A Young Girl's Dream",
+      "date": "2012/12/15",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-9",
+      "number": "9",
+      "title": "Cannot be Touched",
+      "date": "2013/01/05",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-10",
+      "number": "10",
+      "title": "The Invisible Malice",
+      "date": "2013/01/12",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-11",
+      "number": "11",
+      "title": "Even If You were to Die",
+      "date": "2013/01/20",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-12",
+      "number": "12",
+      "title": "A Party of Confusion",
+      "date": "2013/01/21",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-13",
+      "number": "13",
+      "title": "Dedicated Resolution",
+      "date": "2013/01/26",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-14",
+      "number": "14",
+      "title": "Explosion",
+      "date": "2013/01/27",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-15",
+      "number": "15",
+      "title": "Reunion�s Splash",
+      "date": "2013/02/06",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-16",
+      "number": "16",
+      "title": "Ballad of the Beginning",
+      "date": "2013/02/21",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-17",
+      "number": "17",
+      "title": "Premonition of a Storm",
+      "date": "2013/03/03",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-18",
+      "number": "18",
+      "title": "Touching Reunion",
+      "date": "2013/03/19",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-19",
+      "number": "19",
+      "title": "Sin of Greed",
+      "date": "2013/03/24",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-20",
+      "number": "20",
+      "title": "Two Paths",
+      "date": "2013/03/26",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-21",
+      "number": "21",
+      "title": "Revenge Knight",
+      "date": "2013/03/27",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-22",
+      "number": "22",
+      "title": "Dreadful Pursuer",
+      "date": "2013/04/07",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-23",
+      "number": "23",
+      "title": "Someday, Definitely",
+      "date": "2013/04/10",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-24",
+      "number": "24",
+      "title": "Cornered Legends",
+      "date": "2013/04/16",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-25",
+      "number": "25",
+      "title": "Four-on-one, Please",
+      "date": "2013/04/22",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-26",
+      "number": "26",
+      "title": "Parting With The Dead",
+      "date": "2013/04/30",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-27",
+      "number": "27",
+      "title": "Emotionless Rain",
+      "date": "2013/05/04",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-28",
+      "number": "28",
+      "title": "Dangerous Man",
+      "date": "2013/05/15",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-29",
+      "number": "29",
+      "title": "Dark Pulse",
+      "date": "2013/05/21",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-30",
+      "number": "30",
+      "title": "Come Together! Festival Bastards",
+      "date": "2013/05/26",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-31",
+      "number": "31",
+      "title": "Byzel Fight Festival",
+      "date": "2013/06/02",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-32",
+      "number": "32",
+      "title": "Lineup of Powerful Fighters",
+      "date": "2013/06/12",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-33",
+      "number": "33",
+      "title": "Forecast of Great Chaos",
+      "date": "2013/06/17",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-34",
+      "number": "34",
+      "title": "Meliodaz Versus Baan",
+      "date": "2013/06/24",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-35",
+      "number": "35",
+      "title": "Robbed Meliodas",
+      "date": "2013/07/01",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-36",
+      "number": "36",
+      "title": "Flickering Moment",
+      "date": "2013/07/07",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-37",
+      "number": "37",
+      "title": "Approaching Chance Encounter",
+      "date": "2013/07/14",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-38",
+      "number": "38",
+      "title": "Fortuity And Necessity",
+      "date": "2013/07/23",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-39",
+      "number": "39",
+      "title": "Sentiment of Many Years",
+      "date": "2013/07/31",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-40",
+      "number": "40",
+      "title": "Byzel Fight Festival Finals",
+      "date": "2013/08/05",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-41",
+      "number": "41",
+      "title": "Terrifying Cannon",
+      "date": "2013/08/05",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-42",
+      "number": "42",
+      "title": "Demon Reactor",
+      "date": "2013/08/26",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-43",
+      "number": "43",
+      "title": "Dangerous Gamble",
+      "date": "2013/08/26",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-44",
+      "number": "44",
+      "title": "Countdown to Despair",
+      "date": "2013/09/03",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-45",
+      "number": "45",
+      "title": "Violent Carnival",
+      "date": "2013/09/12",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-46",
+      "number": "46",
+      "title": "Because We're Sisters",
+      "date": "2013/09/15",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-47",
+      "number": "47",
+      "title": "Disciple of Destruction",
+      "date": "2013/09/23",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-48",
+      "number": "48",
+      "title": "Merry Annihilation",
+      "date": "2013/09/30",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-49",
+      "number": "49",
+      "title": "Forced Retreat",
+      "date": "2013/10/06",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-50",
+      "number": "50",
+      "title": "After The Festival",
+      "date": "2013/10/12",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-51",
+      "number": "51",
+      "title": "Deep Down in The Heart",
+      "date": "2013/10/26",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-52",
+      "number": "52",
+      "title": "Truth of the rumor",
+      "date": "2013/10/28",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-53",
+      "number": "53",
+      "title": "Armor Giant Versus Dawn Roar",
+      "date": "2013/11/02",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-54",
+      "number": "54",
+      "title": "Motionless Man",
+      "date": "2013/11/10",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-55",
+      "number": "55",
+      "title": "Emotionless Man",
+      "date": "2013/11/17",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-56",
+      "number": "56",
+      "title": "Unholy Knight",
+      "date": "2013/11/25",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-57",
+      "number": "57",
+      "title": "Scenes From Long Ago",
+      "date": "2013/12/01",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-58",
+      "number": "58",
+      "title": "Shouldered Resolution",
+      "date": "2013/12/08",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-59",
+      "number": "59",
+      "title": "Unpredictable Man Enters The Stage",
+      "date": "2013/12/24",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-60",
+      "number": "60",
+      "title": "Seeping Confusion",
+      "date": "2013/12/30",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-61",
+      "number": "61",
+      "title": "Incited Legends",
+      "date": "2014/01/12",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-62",
+      "number": "62",
+      "title": "Unstoppable Villains",
+      "date": "2014/01/19",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-63",
+      "number": "63",
+      "title": "Arthur Pendragon",
+      "date": "2014/01/26",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-64",
+      "number": "64",
+      "title": "Kingdom Infiltration Plan!!",
+      "date": "2014/02/02",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-65",
+      "number": "65",
+      "title": "Unavoidable Clash",
+      "date": "2014/02/09",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-66",
+      "number": "66",
+      "title": "First Casualty",
+      "date": "2014/02/17",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-67",
+      "number": "67",
+      "title": "Rift",
+      "date": "2014/02/23",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-68",
+      "number": "68",
+      "title": "Overwhelming Difference in Power",
+      "date": "2014/03/04",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-69",
+      "number": "69",
+      "title": "There is a First Time for Everyone",
+      "date": "2014/03/10",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-70",
+      "number": "70",
+      "title": "Tormented Great Holy Knight",
+      "date": "2014/03/18",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-71",
+      "number": "71",
+      "title": "What Lies in Darkness",
+      "date": "2014/03/22",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-72",
+      "number": "72",
+      "title": "The Man Who was Too Late",
+      "date": "2014/03/30",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-73",
+      "number": "73",
+      "title": "Even If I have to Give up My Life for It",
+      "date": "2014/04/06",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-74",
+      "number": "74",
+      "title": "Fulfilled Promise",
+      "date": "2014/04/19",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-75",
+      "number": "75",
+      "title": "What Makes a King",
+      "date": "2014/04/30",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-76",
+      "number": "76",
+      "title": "Convictions of the Princesses",
+      "date": "2014/05/11",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-77",
+      "number": "77",
+      "title": "Feelings For Her",
+      "date": "2014/05/17",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-78",
+      "number": "78",
+      "title": "In Exchange for My Life",
+      "date": "2014/05/25",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-79",
+      "number": "79",
+      "title": "Once More",
+      "date": "2014/05/31",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-80",
+      "number": "80",
+      "title": "Turning Tide",
+      "date": "2014/06/08",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-81",
+      "number": "81",
+      "title": "Meliodas' One Attack",
+      "date": "2014/06/15",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-82",
+      "number": "82",
+      "title": "Courage Charm",
+      "date": "2014/06/22",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-83",
+      "number": "83",
+      "title": "Crimson Pig",
+      "date": "2014/06/28",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-84",
+      "number": "84",
+      "title": "All's Well That Ends Well",
+      "date": "2014/07/05",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-85",
+      "number": "85",
+      "title": "Beginning of The Party",
+      "date": "2014/07/12",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-86",
+      "number": "86",
+      "title": "Imminent Threat",
+      "date": "2014/07/18",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-87",
+      "number": "87",
+      "title": "Wrath and Greed",
+      "date": "2014/07/27",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-88",
+      "number": "88",
+      "title": "This World is Like Hell",
+      "date": "2014/08/02",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-89",
+      "number": "89",
+      "title": "Earnest Wish",
+      "date": "2014/08/15",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-90",
+      "number": "90",
+      "title": "What I Can Do For You",
+      "date": "2014/08/26",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-91",
+      "number": "91",
+      "title": "Detestable Existence",
+      "date": "2014/09/02",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-92",
+      "number": "92",
+      "title": "The Final Battle Begins",
+      "date": "2014/09/09",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-93",
+      "number": "93",
+      "title": "Red And Gray",
+      "date": "2014/09/14",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-94",
+      "number": "94",
+      "title": "Descent into Despair",
+      "date": "2014/09/24",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-95",
+      "number": "95",
+      "title": "Fading Hope",
+      "date": "2014/09/30",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-96",
+      "number": "96",
+      "title": "Hawk",
+      "date": "2014/09/30",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-97",
+      "number": "97",
+      "title": "Elizabeth",
+      "date": "2014/10/07",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-98",
+      "number": "98",
+      "title": "Prayer",
+      "date": "2014/10/12",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-99",
+      "number": "99",
+      "title": "Conclusion",
+      "date": "2014/10/21",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-100",
+      "number": "100",
+      "title": "Heroes",
+      "date": "2014/10/28",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-101",
+      "number": "101",
+      "title": "The Power of Love",
+      "date": "2014/11/02",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-102",
+      "number": "102",
+      "title": "Premonition of a Farewell",
+      "date": "2014/11/02",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-103",
+      "number": "103",
+      "title": "A New Journey",
+      "date": "2014/11/12",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-104",
+      "number": "104",
+      "title": "Return of the Fairy King",
+      "date": "2014/11/18",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-105",
+      "number": "105",
+      "title": "A Nobody",
+      "date": "2014/11/23",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-106",
+      "number": "106",
+      "title": "Balor's Power Eye",
+      "date": "2014/12/02",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-107",
+      "number": "107",
+      "title": "Find the Truth",
+      "date": "2014/12/09",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-108",
+      "number": "108",
+      "title": "Gentle Awakening",
+      "date": "2014/12/23",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-109",
+      "number": "109",
+      "title": "Earthquake",
+      "date": "2015/01/06",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-110",
+      "number": "110",
+      "title": "Confession",
+      "date": "2015/01/11",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-111",
+      "number": "111",
+      "title": "A Man's Say",
+      "date": "2015/01/19",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-112",
+      "number": "112",
+      "title": "Existence and Proof",
+      "date": "2015/01/27",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-113",
+      "number": "113",
+      "title": "Revelation",
+      "date": "2015/02/08",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-114",
+      "number": "114",
+      "title": "Hesitant Heroes",
+      "date": "2015/02/17",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-115",
+      "number": "115",
+      "title": "Once More into the Nightmare",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-116",
+      "number": "116",
+      "title": "Sacred Treasure Lostvayne",
+      "date": "2015/03/02",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-117",
+      "number": "117",
+      "title": "The Two Fairy Kings",
+      "date": "2015/03/16",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-118",
+      "number": "118",
+      "title": "Clash at The Fairy King's Forest!!",
+      "date": "2015/03/16",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-119",
+      "number": "119",
+      "title": "Ten Commandments Begin to Move",
+      "date": "2015/03/23",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-120",
+      "number": "120",
+      "title": "Overwhelming Violence",
+      "date": "2015/03/30",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-121",
+      "number": "121",
+      "title": "Impossible to Predict",
+      "date": "2015/04/06",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-122",
+      "number": "122",
+      "title": "Demons' Onslaught",
+      "date": "2015/04/20",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-123",
+      "number": "123",
+      "title": "Atoning Great Holy Knight",
+      "date": "2015/04/20",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-124",
+      "number": "124",
+      "title": "What Friendship Brought Forth",
+      "date": "2015/04/28",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-125",
+      "number": "125",
+      "title": "Take Down The Ten Commandments!!",
+      "date": "2015/05/12",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-126",
+      "number": "126",
+      "title": "Where The Memory Leads",
+      "date": "2015/05/18",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-127",
+      "number": "127",
+      "title": "Reunion With Despair",
+      "date": "2015/06/08",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-128",
+      "number": "128",
+      "title": "Arrogant Existence",
+      "date": "2015/06/15",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-129",
+      "number": "129",
+      "title": "Sacred Land of the Druids",
+      "date": "2015/06/22",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-130",
+      "number": "130",
+      "title": "The Gently Piercing Pain",
+      "date": "2015/06/29",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-131",
+      "number": "131",
+      "title": "The Promise with the Loved One",
+      "date": "2015/07/06",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-132",
+      "number": "132",
+      "title": "What We Lack",
+      "date": "2015/07/13",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-133",
+      "number": "133",
+      "title": "Impatience and Anxiety",
+      "date": "2015/07/18",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-134",
+      "number": "134",
+      "title": "To You, Who Are No Longer My Captain",
+      "date": "2015/08/03",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-135",
+      "number": "135",
+      "title": "Just A Greeting",
+      "date": "2015/08/03",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-136",
+      "number": "136",
+      "title": "Spreading Fear",
+      "date": "2015/08/17",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-137",
+      "number": "137",
+      "title": "Between the Two of Us",
+      "date": "2015/08/24",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-138",
+      "number": "138",
+      "title": "Battle Against Darkness",
+      "date": "2015/08/31",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-139",
+      "number": "139",
+      "title": "Tell Me About Your Past",
+      "date": "2015/09/07",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-140",
+      "number": "140",
+      "title": "The Bandit and the Boy",
+      "date": "2015/09/14",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-141",
+      "number": "141",
+      "title": "Father and Son",
+      "date": "2015/09/19",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-142",
+      "number": "142",
+      "title": "Where the Love Lies",
+      "date": "2015/09/28",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-143",
+      "number": "143",
+      "title": "The Cry of the Holy Maiden",
+      "date": "2015/10/05",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-144",
+      "number": "144",
+      "title": "The Man of Greed",
+      "date": "2015/10/11",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-145",
+      "number": "145",
+      "title": "Beautiful Soul",
+      "date": "2015/10/11",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-146",
+      "number": "146",
+      "title": "Farewell, My Beloved Thief",
+      "date": "2015/10/19",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-147",
+      "number": "147",
+      "title": "Death Chase",
+      "date": "2015/10/26",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-148",
+      "number": "148",
+      "title": "Garan Game",
+      "date": "2015/10/31",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-149",
+      "number": "149",
+      "title": "Galan's Magic",
+      "date": "2015/11/09",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-150",
+      "number": "150",
+      "title": "Master of the Sun",
+      "date": "2015/11/16",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-151",
+      "number": "151",
+      "title": "The Stage It Awaits Us",
+      "date": "2015/11/23",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-152",
+      "number": "152",
+      "title": "Drawn to the Candlelight",
+      "date": "2015/11/30",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-153",
+      "number": "153",
+      "title": "The Melody's Confession",
+      "date": "2015/12/07",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-154",
+      "number": "154",
+      "title": "The Devil Smiles",
+      "date": "2015/12/19",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-155",
+      "number": "155",
+      "title": "Death Trap Labyrinth",
+      "date": "2016/01/04",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-156",
+      "number": "156",
+      "title": "Labyrinth Exploration Challenge",
+      "date": "2016/01/11",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-157",
+      "number": "157",
+      "title": "Flailing Dancing Challengers",
+      "date": "2016/01/18",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-158",
+      "number": "158",
+      "title": "The Heroes of Revelry",
+      "date": "2016/01/26",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-159",
+      "number": "159",
+      "title": "No Need for Words",
+      "date": "2016/02/01",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-160",
+      "number": "160",
+      "title": "Go!! Breakthrough!",
+      "date": "2016/02/08",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-161",
+      "number": "161",
+      "title": "The Legendary",
+      "date": "2016/02/16",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-162",
+      "number": "162",
+      "title": "Who Will Be the Fated Team?!",
+      "date": "2016/02/16",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-163",
+      "number": "163",
+      "title": "The Prince and the Guardian Saint",
+      "date": "2016/02/23",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-164",
+      "number": "164",
+      "title": "The Unsurrendering",
+      "date": "2016/03/01",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-165",
+      "number": "165",
+      "title": "The Odd Couple",
+      "date": "2016/03/07",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-166",
+      "number": "166",
+      "title": "The Strange Fruit",
+      "date": "2016/03/14",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-167",
+      "number": "167",
+      "title": "Precious In You",
+      "date": "2016/03/19",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-168",
+      "number": "168",
+      "title": "The Ten Commandments Extermination Plan",
+      "date": "2016/03/29",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-169",
+      "number": "169",
+      "title": "The Legend Weakest Holy Knight",
+      "date": "2016/04/04",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-170",
+      "number": "170",
+      "title": "For Whom That Light Shines",
+      "date": "2016/04/11",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-171",
+      "number": "171",
+      "title": "The Time Has Come",
+      "date": "2016/04/18",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-172",
+      "number": "172",
+      "title": "To My Former Friends",
+      "date": "2016/04/25",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-173",
+      "number": "173",
+      "title": "Darkness Descends",
+      "date": "2016/05/09",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-174",
+      "number": "174",
+      "title": "Meliodas vs The Ten Commandments",
+      "date": "2016/05/17",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-175",
+      "number": "175",
+      "title": "To My Beloved Meliodas",
+      "date": "2016/05/23",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-176",
+      "number": "176",
+      "title": "A Darkness Told",
+      "date": "2016/05/30",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-177",
+      "number": "177",
+      "title": "What I Can Give To You",
+      "date": "2016/06/06",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-178",
+      "number": "178",
+      "title": "Dark Britannia",
+      "date": "2016/06/13",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-179",
+      "number": "179",
+      "title": "Pursuit of Hope",
+      "date": "2016/06/27",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-180",
+      "number": "180",
+      "title": "Wandering Knight",
+      "date": "2016/06/27",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-181",
+      "number": "181",
+      "title": "Holy Knight Zaratras",
+      "date": "2016/06/27",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-182",
+      "number": "182",
+      "title": "Unconditional Warmth",
+      "date": "2016/07/04",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-183",
+      "number": "183",
+      "title": "Danger Zone",
+      "date": "2016/07/11",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-184",
+      "number": "184",
+      "title": "Clash of Titans!!",
+      "date": "2016/07/17",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-185",
+      "number": "185",
+      "title": "Pride vs. Charity",
+      "date": "2016/07/25",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-186",
+      "number": "186",
+      "title": "The Battle for the Defense of Liones",
+      "date": "2016/08/01",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-187",
+      "number": "187",
+      "title": "All Ye Evil-Doers Be Smitten",
+      "date": "2016/08/08",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-188",
+      "number": "188",
+      "title": "The Sword and The Soul to Save One's Friends",
+      "date": "2016/08/22",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-189",
+      "number": "189",
+      "title": "The Hero Stands!",
+      "date": "2016/08/29",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-190",
+      "number": "190",
+      "title": "Demon Feast",
+      "date": "2016/09/05",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-191",
+      "number": "191",
+      "title": "The Insatiable Woman",
+      "date": "2016/09/17",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-192",
+      "number": "192",
+      "title": "The Sword and the Soul to Save One's Friends",
+      "date": "2016/09/17",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-193",
+      "number": "193",
+      "title": "The Steeled Captain of the Holy Knights",
+      "date": "2016/09/26",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-194",
+      "number": "194",
+      "title": "A Cruel Hope",
+      "date": "2016/10/08",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-195",
+      "number": "195",
+      "title": "The Battle for the Defense of Liones Concludes!",
+      "date": "2016/10/08",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-196",
+      "number": "196",
+      "title": "As Long As You Are Here",
+      "date": "2016/10/24",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-197",
+      "number": "197",
+      "title": "Answers",
+      "date": "2016/10/24",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-198",
+      "number": "198",
+      "title": "The Giant and the Fairy",
+      "date": "2016/10/31",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-199",
+      "number": "199",
+      "title": "Those Without Light",
+      "date": "2016/11/14",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-200",
+      "number": "200",
+      "title": "Memories of the Holy War",
+      "date": "2016/11/19",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-201",
+      "number": "201",
+      "title": "Comrades in Arms",
+      "date": "2016/11/28",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-202",
+      "number": "202",
+      "title": "The Cast of the Holy War",
+      "date": "2017/01/16",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-203",
+      "number": "203",
+      "title": "Rueduciel's Plan",
+      "date": "2017/01/22",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-204",
+      "number": "204",
+      "title": "Let There Be Light",
+      "date": "2017/02/13",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-205",
+      "number": "205",
+      "title": "The Ten Commandments vs The Four Archangels",
+      "date": "2017/02/13",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-206",
+      "number": "206",
+      "title": "The Beast Roars",
+      "date": "2017/02/13",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-207",
+      "number": "207",
+      "title": "Indura, Beast of Destruction",
+      "date": "2017/02/19",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-208",
+      "number": "208",
+      "title": "Elizabeth vs Indura",
+      "date": "2017/02/26",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-209",
+      "number": "209",
+      "title": "Explain these feelings to me",
+      "date": "2017/03/04",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-210",
+      "number": "210",
+      "title": "Emotion Maelstrom",
+      "date": "2017/03/13",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-211",
+      "number": "211",
+      "title": "A farewell message",
+      "date": "2017/03/18",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-212",
+      "number": "212",
+      "title": "A gift",
+      "date": "2017/04/01",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-213",
+      "number": "213",
+      "title": "That's What we Call Love",
+      "date": "2017/04/08",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-214",
+      "number": "214",
+      "title": "I can't reach the you of that day anymore",
+      "date": "2017/04/15",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-215",
+      "number": "215",
+      "title": "Zeldoris the Executioner",
+      "date": "2017/04/22",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-216",
+      "number": "216",
+      "title": "Onwards, to the Gathering of Sins!!",
+      "date": "2017/04/30",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-217",
+      "number": "217",
+      "title": "Where the heart is",
+      "date": "2017/05/14",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-218",
+      "number": "218",
+      "title": "So we meet again",
+      "date": "2017/05/20",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-219",
+      "number": "219",
+      "title": "The Heroe's Respite",
+      "date": "2017/05/26",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-220",
+      "number": "220",
+      "title": "A heroe's feast",
+      "date": "2017/06/02",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-221",
+      "number": "221",
+      "title": "Just be sincere",
+      "date": "2017/06/10",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-222",
+      "number": "222",
+      "title": "The Cursed Lover",
+      "date": "2017/06/17",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-223",
+      "number": "223",
+      "title": "Bewildered Lovers",
+      "date": "2017/06/26",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-224",
+      "number": "224",
+      "title": "That is our way of life",
+      "date": "2017/07/03",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-225",
+      "number": "225",
+      "title": "To the ruined city",
+      "date": "2017/07/08",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-226",
+      "number": "226",
+      "title": "Wild",
+      "date": "2017/07/15",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-227",
+      "number": "227",
+      "title": "Clash! Clash! Clash!",
+      "date": "2017/07/22",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-228",
+      "number": "228",
+      "title": "",
+      "date": "2017/07/29",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-229",
+      "number": "229",
+      "title": "",
+      "date": "2017/08/05",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-230",
+      "number": "230",
+      "title": "The Chosen Warriors",
+      "date": "2017/08/21",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-231",
+      "number": "231",
+      "title": "Pride vs Wrath",
+      "date": "2017/08/25",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-232",
+      "number": "232",
+      "title": "The Almighty vs The Greatest Evil",
+      "date": "2017/08/25",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-233",
+      "number": "233",
+      "title": "Damage",
+      "date": "2017/09/01",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-234",
+      "number": "234",
+      "title": "Door to Unknown",
+      "date": "2017/09/11",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-235",
+      "number": "235",
+      "title": "A new threat",
+      "date": "2017/09/18",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-236",
+      "number": "236",
+      "title": "",
+      "date": "2017/09/23",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-237",
+      "number": "237",
+      "title": "The Pacifier Demon",
+      "date": "2017/09/30",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-238",
+      "number": "238",
+      "title": "An opening created",
+      "date": "2017/10/07",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-239",
+      "number": "239",
+      "title": "To our captain",
+      "date": "2017/10/16",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-240",
+      "number": "240",
+      "title": "The Foundation for the Future",
+      "date": "2017/10/22",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-241",
+      "number": "241",
+      "title": "To crush the commandment",
+      "date": "2017/10/31",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-242",
+      "number": "242",
+      "title": "Seven Deadly Sins: End",
+      "date": "2017/11/07",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-243",
+      "number": "243",
+      "title": "And Thus He Embarks On His Journey",
+      "date": "2017/11/14",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-244",
+      "number": "244",
+      "title": "The Chosen Princess",
+      "date": "2017/11/22",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-245",
+      "number": "245",
+      "title": "March of the Saints",
+      "date": "2017/12/04",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-246",
+      "number": "246",
+      "title": "",
+      "date": "2017/12/12",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-247",
+      "number": "247",
+      "title": "",
+      "date": "2017/12/12",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-248",
+      "number": "248",
+      "title": "Our Choices",
+      "date": "2017/12/27",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-249",
+      "number": "249",
+      "title": "The Deal",
+      "date": "2018/01/09",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-250",
+      "number": "250",
+      "title": "Composition",
+      "date": "2018/01/16",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-251",
+      "number": "251",
+      "title": "The Holy War Pact",
+      "date": "2018/01/23",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-252",
+      "number": "252",
+      "title": "Destiny",
+      "date": "2018/01/29",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-253",
+      "number": "253",
+      "title": "Lost Grace",
+      "date": "2018/02/05",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-254",
+      "number": "254",
+      "title": "Camelot in despair",
+      "date": "2018/02/12",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-255",
+      "number": "255",
+      "title": "Child of hope",
+      "date": "2018/02/20",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-256",
+      "number": "256",
+      "title": "The piercing holy sword",
+      "date": "2018/02/28",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-257",
+      "number": "257",
+      "title": "",
+      "date": "2018/03/05",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-258",
+      "number": "258",
+      "title": "",
+      "date": "2018/03/12",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-259",
+      "number": "259",
+      "title": "War-Torn Britannia",
+      "date": "2018/03/20",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-260",
+      "number": "260",
+      "title": "What I want to tell You",
+      "date": "2018/03/27",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-261",
+      "number": "261",
+      "title": "A lost call",
+      "date": "2018/04/02",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-262",
+      "number": "262",
+      "title": "The one twisted by darkness",
+      "date": "2018/04/10",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-263",
+      "number": "263",
+      "title": "Darkness Bursts",
+      "date": "2018/04/17",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-264",
+      "number": "264",
+      "title": "A warped, twisted, broken man",
+      "date": "2018/04/23",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-265",
+      "number": "265",
+      "title": "Rampaging Love",
+      "date": "2018/05/07",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-266",
+      "number": "266",
+      "title": "The follower and the followed",
+      "date": "2018/05/14",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-267",
+      "number": "267",
+      "title": "From the Heavens",
+      "date": "2018/05/22",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-268",
+      "number": "268",
+      "title": "From Purgatory",
+      "date": "2018/05/22",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-269",
+      "number": "269",
+      "title": "Purgatory Life",
+      "date": "2018/05/28",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-270",
+      "number": "270",
+      "title": "Encounter with the unknown",
+      "date": "2018/06/04",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-271",
+      "number": "271",
+      "title": "Sincere Feelings",
+      "date": "2018/06/11",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-272",
+      "number": "272",
+      "title": "The eternal battle",
+      "date": "2018/06/18",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-273",
+      "number": "273",
+      "title": "The holy wars victim",
+      "date": "2018/07/02",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-274",
+      "number": "274",
+      "title": "The fallen angel of despair, Mael.",
+      "date": "2018/07/09",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-275",
+      "number": "275",
+      "title": "Hearts as One + Planning Event Side Story Arc",
+      "date": "2018/07/24",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-276",
+      "number": "276",
+      "title": "A sorrowful blow",
+      "date": "2018/07/31",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-277",
+      "number": "277",
+      "title": "You cannot free yourself from love",
+      "date": "2018/08/07",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-278",
+      "number": "278",
+      "title": "Rise up against despair",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-279",
+      "number": "279",
+      "title": "The Ringing of the Victory Bell",
+      "date": "2018/08/28",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-280",
+      "number": "280",
+      "title": "Collapse",
+      "date": "2018/09/03",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-281",
+      "number": "281",
+      "title": "The fairy king vs the angel of death",
+      "date": "2018/09/10",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-282",
+      "number": "282",
+      "title": "Gowther vs Mael",
+      "date": "2018/09/18",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-283",
+      "number": "283",
+      "title": "Craving for Survival",
+      "date": "2018/09/25",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-284",
+      "number": "284",
+      "title": "The door to hope",
+      "date": "2018/10/01",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-285",
+      "number": "285",
+      "title": "What lies ahead",
+      "date": "2018/10/16",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-286",
+      "number": "286",
+      "title": "Flash",
+      "date": "2018/10/22",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-287",
+      "number": "287",
+      "title": "Prince of Darkness",
+      "date": "2018/10/30",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-288",
+      "number": "288",
+      "title": "Operation",
+      "date": "2018/11/05",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-289",
+      "number": "289",
+      "title": "Pride vs Piety",
+      "date": "2018/11/13",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-290",
+      "number": "290",
+      "title": "The Isolent Maggots",
+      "date": "2018/11/21",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-291",
+      "number": "291",
+      "title": "An Eye for an Eye, A Tooth for a Tooth",
+      "date": "2018/11/27",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-292",
+      "number": "292",
+      "title": "Manifestations of Nightmares, Return of Hope",
+      "date": "2018/12/03",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-293",
+      "number": "293",
+      "title": "That Some Day is Now",
+      "date": "2018/12/12",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-294",
+      "number": "294",
+      "title": "Hope, Discord & Despair",
+      "date": "2018/12/24",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-295",
+      "number": "295",
+      "title": "That Which Gathers",
+      "date": "2019/01/09",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-296",
+      "number": "296",
+      "title": "As a Friend As an Old Brother",
+      "date": "2019/01/15",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-297",
+      "number": "297",
+      "title": "The Salvation of the Sun",
+      "date": "2019/01/23",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-298",
+      "number": "298",
+      "title": "Mael Vs Zeldoris",
+      "date": "2019/01/30",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-299",
+      "number": "299",
+      "title": "Everything will be Frozen",
+      "date": "2019/02/05",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-300",
+      "number": "300",
+      "title": "The Demon King, Meliodas",
+      "date": "2019/02/11",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-301",
+      "number": "301",
+      "title": "Everyone\"s Feelings",
+      "date": "2019/02/18",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-302",
+      "number": "302",
+      "title": "Everyone is Waiting for You",
+      "date": "2019/03/06",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-303",
+      "number": "303",
+      "title": "Everyone Will Be Your Strength",
+      "date": "2019/03/12",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-304",
+      "number": "304",
+      "title": "",
+      "date": "2019/03/19",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-305",
+      "number": "305",
+      "title": "Death Throes",
+      "date": "2019/03/26",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-306",
+      "number": "306",
+      "title": "The Last Stop of a Long Journey",
+      "date": "2019/04/02",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-307",
+      "number": "307",
+      "title": "Epilogue 1",
+      "date": "2019/04/09",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-308",
+      "number": "308",
+      "title": "Epilogue 2",
+      "date": "2019/04/23",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-309",
+      "number": "309",
+      "title": "Epilogue 3",
+      "date": "2019/05/08",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-310",
+      "number": "310",
+      "title": "Farewell",
+      "date": "2019/05/15",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-311",
+      "number": "311",
+      "title": "Its Not Over Yet",
+      "date": "2019/05/21",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-312",
+      "number": "312",
+      "title": "The Fight Breaks Out",
+      "date": "2019/05/29",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-313",
+      "number": "313",
+      "title": "Brothers of Destiny",
+      "date": "2019/06/05",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-314",
+      "number": "314",
+      "title": "Merciless Salvation",
+      "date": "2019/06/12",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-315",
+      "number": "315",
+      "title": "Final War",
+      "date": "2019/06/19",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-316",
+      "number": "316",
+      "title": "Indura of Favor",
+      "date": "2019/06/25",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-317",
+      "number": "317",
+      "title": "Prideful Determination",
+      "date": "2019/07/03",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-318",
+      "number": "318",
+      "title": "",
+      "date": "2019/07/09",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-319",
+      "number": "319",
+      "title": "The Unforgivable Deadlock",
+      "date": "2019/07/16",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-320",
+      "number": "320",
+      "title": "Brothers in Despair",
+      "date": "2019/07/23",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-321",
+      "number": "321",
+      "title": "Light",
+      "date": "2019/07/30",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-322",
+      "number": "322",
+      "title": "When You Call My Name",
+      "date": "2019/08/06",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-323",
+      "number": "323",
+      "title": "I Am Here",
+      "date": "2019/08/20",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-324",
+      "number": "324",
+      "title": "Brothers Promise",
+      "date": "2019/08/27",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-325",
+      "number": "325",
+      "title": "Those Who Fight Back",
+      "date": "2019/09/04",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-326",
+      "number": "326",
+      "title": "Seven Deadly Sins VS The Demon King",
+      "date": "2019/09/18",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-327",
+      "number": "327",
+      "title": "The Man Named Escanor",
+      "date": "2019/09/21",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-328",
+      "number": "328",
+      "title": "The Ones Ultimate",
+      "date": "2019/10/08",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-329",
+      "number": "329",
+      "title": "Zeldris vs The Demon King",
+      "date": "2019/10/22",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-330",
+      "number": "330",
+      "title": "Struggling",
+      "date": "2019/10/31",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-331",
+      "number": "331",
+      "title": "A World Not Big Enough for the Both of Us",
+      "date": "2019/11/03",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-332",
+      "number": "332",
+      "title": "Reparation",
+      "date": "2019/11/13",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-333",
+      "number": "333",
+      "title": "Pride Gluttony & Scars",
+      "date": "2019/11/19",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-334",
+      "number": "334",
+      "title": "The End of an Era",
+      "date": "2019/11/27",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-335",
+      "number": "335",
+      "title": "What the Sorceress Kept Looking for",
+      "date": "2019/12/10",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-336",
+      "number": "336",
+      "title": "The Lord of Choas",
+      "date": "2019/12/23",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-337",
+      "number": "337",
+      "title": "Merlin",
+      "date": "2019/12/26",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-338",
+      "number": "338",
+      "title": "Farewell",
+      "date": "2020/01/12",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-339",
+      "number": "339",
+      "title": "Fragment of Chaos",
+      "date": "2020/01/20",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-340",
+      "number": "340",
+      "title": "Because I Wanted to See You",
+      "date": "2020/02/04",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-341",
+      "number": "341",
+      "title": "Cath Palug",
+      "date": "2020/02/11",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-342",
+      "number": "342",
+      "title": "Victory Cry",
+      "date": "2020/02/26",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-343",
+      "number": "343",
+      "title": "An Everlasting Kingdom",
+      "date": "2020/03/04",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-344",
+      "number": "344",
+      "title": "To the Future",
+      "date": "2020/03/11",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-345",
+      "number": "345",
+      "title": "Heirs",
+      "date": "2020/03/18",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-346",
+      "number": "346",
+      "title": "Final Chapter / Like That Sky",
+      "date": "2020/03/25",
+      "pages": []
+    },
+    {
+      "id": "nanatsu-no-taizai-347",
+      "number": "347",
+      "title": "Omake: The Rain Forest Invites The Beginning",
+      "date": "2020/08/05",
+      "pages": []
+    }
+  ],
+  "pt": [
+    {
+      "id": "nanatsu-no-taizai-chapter-0",
+      "number": 0,
+      "title": "Nanatsu no Taizai – Capítulo 0",
+      "date": "2025-04-03T00:45:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 339302
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-1",
+      "number": 1,
+      "title": "Nanatsu no Taizai – Capítulo 1 – Os Sete Pecados Capitais",
+      "date": "2025-04-03T00:45:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 339298
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-2",
+      "number": 2,
+      "title": "Nanatsu no Taizai – Capítulo 2 – A Espada do Paladino",
+      "date": "2025-04-03T00:45:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 339301
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-3",
+      "number": 3,
+      "title": "Nanatsu no Taizai – Capítulo 3 – Algo que Eu Devo Fazer",
+      "date": "2025-04-03T00:45:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 339307
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-4",
+      "number": 4,
+      "title": "Nanatsu no Taizai – Capítulo 4 – O Pecado da Floresta Adormecida",
+      "date": "2025-04-03T00:45:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 339299
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-5",
+      "number": 5,
+      "title": "Nanatsu no Taizai – Capítulo 5 – Memória na Escuridão",
+      "date": "2025-04-03T00:45:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 339311
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-6",
+      "number": 6,
+      "title": "Nanatsu no Taizai – Capítulo 6 – O Paladino Gilthunder",
+      "date": "2025-04-03T00:45:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 339304
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-7",
+      "number": 7,
+      "title": "Nanatsu no Taizai – Capítulo 7 – O Prisioneiro da Escuridão",
+      "date": "2025-04-03T00:45:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 339306
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-8",
+      "number": 8,
+      "title": "Nanatsu no Taizai – Capítulo 8 – O Sonho da Garota",
+      "date": "2025-04-03T00:45:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 339303
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-9",
+      "number": 9,
+      "title": "Nanatsu no Taizai – Capítulo 9 – Não Pode Ser Tocado",
+      "date": "2025-04-03T00:45:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 339305
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-10",
+      "number": 10,
+      "title": "Nanatsu no Taizai – Capítulo 10 – A Maldade Invisível",
+      "date": "2025-04-03T00:46:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340063
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-11",
+      "number": 11,
+      "title": "Nanatsu no Taizai – Capítulo 11 – Mesmo se Você Morrer",
+      "date": "2025-04-03T00:46:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340052
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-12",
+      "number": 12,
+      "title": "Nanatsu no Taizai – Capítulo 12 – Uma Festa de Confusões",
+      "date": "2025-04-03T00:46:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340060
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-13",
+      "number": 13,
+      "title": "Nanatsu no Taizai – Capítulo 13 – Determinação Dedicada",
+      "date": "2025-04-03T00:46:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340055
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-14",
+      "number": 14,
+      "title": "Nanatsu no Taizai – Capítulo 14 – Explosão",
+      "date": "2025-04-03T00:46:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340065
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-15",
+      "number": 15,
+      "title": "Nanatsu no Taizai – Capítulo 15 – O Pequeno Encontro",
+      "date": "2025-04-03T00:46:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340054
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-16",
+      "number": 16,
+      "title": "Nanatsu no Taizai – Capítulo 16 – Balada do Começo",
+      "date": "2025-04-03T00:46:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340049
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-17",
+      "number": 17,
+      "title": "Nanatsu no Taizai – Capítulo 17 – Premonição de Tempestade",
+      "date": "2025-04-03T00:46:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340051
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-18",
+      "number": 18,
+      "title": "Nanatsu no Taizai – Capítulo 18 – Reunião Tocante",
+      "date": "2025-04-03T00:46:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340050
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-19",
+      "number": 19,
+      "title": "Nanatsu no Taizai – Capítulo 19 – Pecado da Ganância",
+      "date": "2025-04-03T00:46:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340056
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-20",
+      "number": 20,
+      "title": "Nanatsu no Taizai – Capítulo 20 – Dois Caminhos",
+      "date": "2025-04-03T00:47:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340391
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-21",
+      "number": 21,
+      "title": "Nanatsu no Taizai – Capítulo 21 – Cavaleiro Vingador",
+      "date": "2025-04-03T00:47:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340405
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-22",
+      "number": 22,
+      "title": "Nanatsu no Taizai – Capítulo 22 – Perseguidor Terrível",
+      "date": "2025-04-03T00:47:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340392
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-23",
+      "number": 23,
+      "title": "Nanatsu no Taizai – Capítulo 23 – Algum Dia, Definitivamente",
+      "date": "2025-04-03T00:47:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340390
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-24",
+      "number": 24,
+      "title": "Nanatsu no Taizai – Capítulo 24 – Lendas Encurraladas",
+      "date": "2025-04-03T00:47:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340388
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-25",
+      "number": 25,
+      "title": "Nanatsu no Taizai – Capítulo 25 – Quatro Contra Um, Por Favor",
+      "date": "2025-04-03T00:47:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340389
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-26",
+      "number": 26,
+      "title": "Nanatsu no Taizai – Capítulo 26 – Partindo com o Morto",
+      "date": "2025-04-03T00:47:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340394
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-27",
+      "number": 27,
+      "title": "Nanatsu no Taizai – Capítulo 27 – A Chuva Sem Emoções",
+      "date": "2025-04-03T00:47:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340396
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-28",
+      "number": 28,
+      "title": "Nanatsu no Taizai – Capítulo 28 – Homem Perigoso",
+      "date": "2025-04-03T00:47:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340395
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-29",
+      "number": 29,
+      "title": "Nanatsu no Taizai – Capítulo 29 – Pulso Sombrio",
+      "date": "2025-04-03T00:47:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340397
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-30",
+      "number": 30,
+      "title": "Nanatsu no Taizai – Capítulo 30 – Venham! O Festival dos Canalhas",
+      "date": "2025-04-03T00:48:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340811
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-31",
+      "number": 31,
+      "title": "Nanatsu no Taizai – Capítulo 31 – Festival de Luta de Byzel",
+      "date": "2025-04-03T00:48:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340812
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-32",
+      "number": 32,
+      "title": "Nanatsu no Taizai – Capítulo 32 – Grupo de Lutadores Poderosos",
+      "date": "2025-04-03T00:48:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340810
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-33",
+      "number": 33,
+      "title": "Nanatsu no Taizai – Capítulo 33 – Previsão de Grande Caos",
+      "date": "2025-04-03T00:48:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340818
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-34",
+      "number": 34,
+      "title": "Nanatsu no Taizai – Capítulo 34 – Meliodaz Contra Baan",
+      "date": "2025-04-03T00:48:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340820
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-35",
+      "number": 35,
+      "title": "Nanatsu no Taizai – Capítulo 35 – Meliodas Roubado",
+      "date": "2025-04-03T00:48:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340808
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-36",
+      "number": 36,
+      "title": "Nanatsu no Taizai – Capítulo 36 – O Momento de Piscar",
+      "date": "2025-04-03T00:48:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340816
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-37",
+      "number": 37,
+      "title": "Nanatsu no Taizai – Capítulo 37 – Se Aproximando da Chance de Encontro",
+      "date": "2025-04-03T00:48:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340813
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-38",
+      "number": 38,
+      "title": "Nanatsu no Taizai – Capítulo 38 – Necessidade e Acaso",
+      "date": "2025-04-03T00:48:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340809
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-39",
+      "number": 39,
+      "title": "Nanatsu no Taizai – Capítulo 39 – Sentimento de Muitos",
+      "date": "2025-04-03T00:48:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 340807
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-40",
+      "number": 40,
+      "title": "Nanatsu no Taizai – Capítulo 40 – As Finais do Festival de Luta de Byzel",
+      "date": "2025-04-03T00:49:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 341256
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-41",
+      "number": 41,
+      "title": "Nanatsu no Taizai – Capítulo 41 – O Choque Assustador",
+      "date": "2025-04-03T00:49:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 341252
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-42",
+      "number": 42,
+      "title": "Nanatsu no Taizai – Capítulo 42 – Reator Demônio",
+      "date": "2025-04-03T00:49:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 341249
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-43",
+      "number": 43,
+      "title": "Nanatsu no Taizai – Capítulo 43 – Aposta Perigosa",
+      "date": "2025-04-03T00:49:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 341266
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-44",
+      "number": 44,
+      "title": "Nanatsu no Taizai – Capítulo 44 – Contagem Regressiva para o Desespero",
+      "date": "2025-04-03T00:49:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 341254
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-45",
+      "number": 45,
+      "title": "Nanatsu no Taizai – Capítulo 45 – Carnaval Violento",
+      "date": "2025-04-03T00:49:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 341265
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-46",
+      "number": 46,
+      "title": "Nanatsu no Taizai – Capítulo 46 – Porque Somos Irmãs",
+      "date": "2025-04-03T00:49:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 341253
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-47",
+      "number": 47,
+      "title": "Nanatsu no Taizai – Capítulo 47 – Discípulo da Destruição",
+      "date": "2025-04-03T00:49:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 341251
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-48",
+      "number": 48,
+      "title": "Nanatsu no Taizai – Capítulo 48 – Feliz Aniquilação",
+      "date": "2025-04-03T00:49:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 341269
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-49",
+      "number": 49,
+      "title": "Nanatsu no Taizai – Capítulo 49 – Retirada Forçada",
+      "date": "2025-04-03T00:49:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 341250
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-50",
+      "number": 50,
+      "title": "Nanatsu no Taizai – Capítulo 50 – Após o Festival",
+      "date": "2025-04-03T00:50:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 341744
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-51",
+      "number": 51,
+      "title": "Nanatsu no Taizai – Capítulo 51 – Profundamente no Coração",
+      "date": "2025-04-03T00:50:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 341749
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-52",
+      "number": 52,
+      "title": "Nanatsu no Taizai – Capítulo 52 – A Verdade do Rumor",
+      "date": "2025-04-03T00:50:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 341745
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-53",
+      "number": 53,
+      "title": "Nanatsu no Taizai – Capítulo 53 – O Gigante Armado Contra Dawn Roar",
+      "date": "2025-04-03T00:50:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 341742
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-54",
+      "number": 54,
+      "title": "Nanatsu no Taizai – Capítulo 54 – O Homem que Não se Move",
+      "date": "2025-04-03T00:50:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 341738
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-55",
+      "number": 55,
+      "title": "Nanatsu no Taizai – Capítulo 55 – Aquele Homem que Não tem Emoções",
+      "date": "2025-04-03T00:50:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 341743
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-56",
+      "number": 56,
+      "title": "Nanatsu no Taizai – Capítulo 56 – O Cavaleiro Profano",
+      "date": "2025-04-03T00:50:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 341739
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-57",
+      "number": 57,
+      "title": "Nanatsu no Taizai – Capítulo 57 – Acontecimentos de Muito Tempo Atrás",
+      "date": "2025-04-03T00:50:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 341754
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-58",
+      "number": 58,
+      "title": "Nanatsu no Taizai – Capítulo 58 – Decisão Forçada",
+      "date": "2025-04-03T00:50:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 341746
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-59",
+      "number": 59,
+      "title": "Nanatsu no Taizai – Capítulo 59 – Um Homem Imprevisível Entra em Cena",
+      "date": "2025-04-03T00:50:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 341741
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-60",
+      "number": 60,
+      "title": "Nanatsu no Taizai – Capítulo 60 – Se Metendo em Confusão",
+      "date": "2025-04-03T00:51:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 342315
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-61",
+      "number": 61,
+      "title": "Nanatsu no Taizai – Capítulo 61 – Lendas Não Citadas",
+      "date": "2025-04-03T00:51:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 342318
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-62",
+      "number": 62,
+      "title": "Nanatsu no Taizai – Capítulo 62 – Vilões Imparáveis",
+      "date": "2025-04-03T00:51:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 342317
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-63",
+      "number": 63,
+      "title": "Nanatsu no Taizai – Capítulo 63 – Arthur Pendragon",
+      "date": "2025-04-03T00:51:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 342316
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-64",
+      "number": 64,
+      "title": "Nanatsu no Taizai – Capítulo 64 – A Estratégia de Infiltração do Reino!!",
+      "date": "2025-04-03T00:51:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 342314
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-65",
+      "number": 65,
+      "title": "Nanatsu no Taizai – Capítulo 65 – Um Conflito Inevitável",
+      "date": "2025-04-03T00:51:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 342310
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-66",
+      "number": 66,
+      "title": "Nanatsu no Taizai – Capítulo 66 – Primeiro Infortúnio",
+      "date": "2025-04-03T00:51:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 342313
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-67",
+      "number": 67,
+      "title": "Nanatsu no Taizai – Capítulo 67 – Fenda",
+      "date": "2025-04-03T00:51:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 342312
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-68",
+      "number": 68,
+      "title": "Nanatsu no Taizai – Capítulo 68 – Diferença Esmagadora de Poder",
+      "date": "2025-04-03T00:51:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 342311
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-69",
+      "number": 69,
+      "title": "Nanatsu no Taizai – Capítulo 69 – Todo Mundo Tem uma Primeira Vez",
+      "date": "2025-04-03T00:51:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 342319
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-70",
+      "number": 70,
+      "title": "Nanatsu no Taizai – Capítulo 70 – Grande Paladino Atormentado",
+      "date": "2025-04-03T00:52:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 342759
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-71",
+      "number": 71,
+      "title": "Nanatsu no Taizai – Capítulo 71 – Aquilo que Vive na Escuridão",
+      "date": "2025-04-03T00:52:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 342779
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-72",
+      "number": 72,
+      "title": "Nanatsu no Taizai – Capítulo 72 – O Homem que Estava Muito Atrasado",
+      "date": "2025-04-03T00:52:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 342765
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-73",
+      "number": 73,
+      "title": "Nanatsu no Taizai – Capítulo 73 – Mesmo que Eu Tenha que Destruir Minha Vida",
+      "date": "2025-04-03T00:52:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 342763
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-74",
+      "number": 74,
+      "title": "Nanatsu no Taizai – Capítulo 74 – A Promessa Cumprida",
+      "date": "2025-04-03T00:52:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 342774
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-75",
+      "number": 75,
+      "title": "Nanatsu no Taizai – Capítulo 75 – O Que Faz um Rei",
+      "date": "2025-04-03T00:52:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 342761
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-76",
+      "number": 76,
+      "title": "Nanatsu no Taizai – Capítulo 76 – As Convicções das Princesas",
+      "date": "2025-04-03T00:52:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 342766
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-77",
+      "number": 77,
+      "title": "Nanatsu no Taizai – Capítulo 77 – Sentimentos por Ela",
+      "date": "2025-04-03T00:52:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 342768
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-78",
+      "number": 78,
+      "title": "Nanatsu no Taizai – Capítulo 78 – Em Troca da Minha Vida",
+      "date": "2025-04-03T00:52:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 342769
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-79",
+      "number": 79,
+      "title": "Nanatsu no Taizai – Capítulo 79 – Mais Uma Vez",
+      "date": "2025-04-03T00:52:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 342781
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-80",
+      "number": 80,
+      "title": "Nanatsu no Taizai – Capítulo 80 – Virando a Mesa",
+      "date": "2025-04-03T00:53:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 343278
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-81",
+      "number": 81,
+      "title": "Nanatsu no Taizai – Capítulo 81 – Único Ataque do Meliodas",
+      "date": "2025-04-03T00:53:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 343279
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-82",
+      "number": 82,
+      "title": "Nanatsu no Taizai – Capítulo 82 – Feitiço da Coragem",
+      "date": "2025-04-03T00:53:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 343280
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-83",
+      "number": 83,
+      "title": "Nanatsu no Taizai – Capítulo 83 – Porco Carmesim",
+      "date": "2025-04-03T00:53:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 343284
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-84",
+      "number": 84,
+      "title": "Nanatsu no Taizai – Capítulo 84 – Tudo Está Bem Quando Termina Bem",
+      "date": "2025-04-03T00:53:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 343282
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-85",
+      "number": 85,
+      "title": "Nanatsu no Taizai – Capítulo 85 – O Começo da Festa",
+      "date": "2025-04-03T00:53:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 343283
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-86",
+      "number": 86,
+      "title": "Nanatsu no Taizai – Capítulo 86 – Ameaça Iminente",
+      "date": "2025-04-03T00:53:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 343285
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-87",
+      "number": 87,
+      "title": "Nanatsu no Taizai – Capítulo 87 – A Fúria e a Ganância",
+      "date": "2025-04-03T00:53:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 343281
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-88",
+      "number": 88,
+      "title": "Nanatsu no Taizai – Capítulo 88 – Esse Mundo é Como um Inferno",
+      "date": "2025-04-03T00:53:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 343301
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-89",
+      "number": 89,
+      "title": "Nanatsu no Taizai – Capítulo 89 – Desejo Sincero",
+      "date": "2025-04-03T00:53:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 343297
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-90",
+      "number": 90,
+      "title": "Nanatsu no Taizai – Capítulo 90 – O Que eu Posso Fazer Por Você",
+      "date": "2025-04-03T00:54:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 343822
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-91",
+      "number": 91,
+      "title": "Nanatsu no Taizai – Capítulo 91 – Existência Detestável",
+      "date": "2025-04-03T00:54:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 343828
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-92",
+      "number": 92,
+      "title": "Nanatsu no Taizai – Capítulo 92 – A Luta Final Começa",
+      "date": "2025-04-03T00:54:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 343832
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-93",
+      "number": 93,
+      "title": "Nanatsu no Taizai – Capítulo 93 – Vermelho e Cinza",
+      "date": "2025-04-03T00:54:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 343824
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-94",
+      "number": 94,
+      "title": "Nanatsu no Taizai – Capítulo 94 – Caindo em Desespero",
+      "date": "2025-04-03T00:54:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 343825
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-95",
+      "number": 95,
+      "title": "Nanatsu no Taizai – Capítulo 95 – Esperança que Desvanece",
+      "date": "2025-04-03T00:54:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 343827
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-96",
+      "number": 96,
+      "title": "Nanatsu no Taizai – Capítulo 96 – Hawk",
+      "date": "2025-04-03T00:54:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 343831
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-97",
+      "number": 97,
+      "title": "Nanatsu no Taizai – Capítulo 97 – Elizabeth",
+      "date": "2025-04-03T00:54:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 343826
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-98",
+      "number": 98,
+      "title": "Nanatsu no Taizai – Capítulo 98 – Prece",
+      "date": "2025-04-03T00:54:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 343829
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-99",
+      "number": 99,
+      "title": "Nanatsu no Taizai – Capítulo 99 – Conclusão",
+      "date": "2025-04-03T00:54:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 343830
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-100",
+      "number": 100,
+      "title": "Nanatsu no Taizai – Capítulo 100 – Os Heróis",
+      "date": "2025-04-03T00:54:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 344487
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-101",
+      "number": 101,
+      "title": "Nanatsu no Taizai – Capítulo 101 – O Poder do Amor",
+      "date": "2025-04-03T00:54:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 344486
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-102",
+      "number": 102,
+      "title": "Nanatsu no Taizai – Capítulo 102 – Premonição de um Adeus",
+      "date": "2025-04-03T00:54:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 344485
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-103",
+      "number": 103,
+      "title": "Nanatsu no Taizai – Capítulo 103 – A Nova Jornada",
+      "date": "2025-04-03T00:54:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 344497
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-104",
+      "number": 104,
+      "title": "Nanatsu no Taizai – Capítulo 104 – O Retorno do Rei das Fadas",
+      "date": "2025-04-03T00:54:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 344489
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-105",
+      "number": 105,
+      "title": "Nanatsu no Taizai – Capítulo 105 – Um Ninguém",
+      "date": "2025-04-03T00:54:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 344492
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-106",
+      "number": 106,
+      "title": "Nanatsu no Taizai – Capítulo 106 – O Olho Demoníaco de Balor",
+      "date": "2025-04-03T00:54:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 344494
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-107",
+      "number": 107,
+      "title": "Nanatsu no Taizai – Capítulo 107 – À Procura da Verdade",
+      "date": "2025-04-03T00:54:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 344496
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-108",
+      "number": 108,
+      "title": "Nanatsu no Taizai – Capítulo 108 – Despertar Gentil",
+      "date": "2025-04-03T00:54:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 344495
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-109",
+      "number": 109,
+      "title": "Nanatsu no Taizai – Capítulo 109 – Terremoto",
+      "date": "2025-04-03T00:54:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 344499
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-110",
+      "number": 110,
+      "title": "Nanatsu no Taizai – Capítulo 110 – Confissão",
+      "date": "2025-04-03T00:55:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 345059
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-111",
+      "number": 111,
+      "title": "Nanatsu no Taizai – Capítulo 111 – Como Um Homem Dizia",
+      "date": "2025-04-03T00:55:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 345052
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-112",
+      "number": 112,
+      "title": "Nanatsu no Taizai – Capítulo 112 – Existência e Prova",
+      "date": "2025-04-03T00:55:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 345057
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-113",
+      "number": 113,
+      "title": "Nanatsu no Taizai – Capítulo 113 – Revelação",
+      "date": "2025-04-03T00:55:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 345054
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-114",
+      "number": 114,
+      "title": "Nanatsu no Taizai – Capítulo 114 – Heróis Hesitantes",
+      "date": "2025-04-03T00:55:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 345060
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-115",
+      "number": 115,
+      "title": "Nanatsu no Taizai – Capítulo 115 – De Volta ao Pesadelo",
+      "date": "2025-04-03T00:55:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 345053
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-116",
+      "number": 116,
+      "title": "Nanatsu no Taizai – Capítulo 116 – O Tesouro Sagrado Lostvayne",
+      "date": "2025-04-03T00:55:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 345061
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-117",
+      "number": 117,
+      "title": "Nanatsu no Taizai – Capítulo 117 – Os Dois Reis das Fadas",
+      "date": "2025-04-03T00:55:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 345063
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-118",
+      "number": 118,
+      "title": "Nanatsu no Taizai – Capítulo 118 – Confronto!! A Floresta do Rei das Fadas",
+      "date": "2025-04-03T00:55:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 345051
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-119",
+      "number": 119,
+      "title": "Nanatsu no Taizai – Capítulo 119 – Os Dez Mandamentos Começam a Agir",
+      "date": "2025-04-03T00:55:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 345062
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-120",
+      "number": 120,
+      "title": "Nanatsu no Taizai – Capítulo 120 – Violência Esmagadora",
+      "date": "2025-04-03T00:56:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 345770
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-121",
+      "number": 121,
+      "title": "Nanatsu no Taizai – Capítulo 121 – Previsão Impossível",
+      "date": "2025-04-03T00:56:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 345778
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-122",
+      "number": 122,
+      "title": "Nanatsu no Taizai – Capítulo 122 – O Massacre dos Demônios",
+      "date": "2025-04-03T00:56:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 345771
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-123",
+      "number": 123,
+      "title": "Nanatsu no Taizai – Capítulo 123 – A Redenção do Capitão dos Paladinos",
+      "date": "2025-04-03T00:56:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 345763
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-124",
+      "number": 124,
+      "title": "Nanatsu no Taizai – Capítulo 124 – O Que a Amizade nos Trouxe",
+      "date": "2025-04-03T00:56:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 345768
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-125",
+      "number": 125,
+      "title": "Nanatsu no Taizai – Capítulo 125 – Acabem com os &#8220;Dez Mandamentos&#8221;!!",
+      "date": "2025-04-03T00:56:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 345773
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-126",
+      "number": 126,
+      "title": "Nanatsu no Taizai – Capítulo 126 – Para Onde as Memórias Vão",
+      "date": "2025-04-03T00:56:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 345774
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-127",
+      "number": 127,
+      "title": "Nanatsu no Taizai – Capítulo 127 – Reunião com o Desespero",
+      "date": "2025-04-03T00:56:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 345787
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-128",
+      "number": 128,
+      "title": "Nanatsu no Taizai – Capítulo 128 – Existência Arrogante",
+      "date": "2025-04-03T00:56:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 345764
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-129",
+      "number": 129,
+      "title": "Nanatsu no Taizai – Capítulo 129 – A Terra Sagrada dos Druidas",
+      "date": "2025-04-03T00:56:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 345765
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-130",
+      "number": 130,
+      "title": "Nanatsu no Taizai – Capítulo 130 – A Dor que Gentilmente Mata",
+      "date": "2025-04-03T00:57:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 346375
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-131",
+      "number": 131,
+      "title": "Nanatsu no Taizai – Capítulo 131 – A Promessa Com a Minha Amada",
+      "date": "2025-04-03T00:57:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 346378
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-132",
+      "number": 132,
+      "title": "Nanatsu no Taizai – Capítulo 132 – Aquilo que nos Falta",
+      "date": "2025-04-03T00:57:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 346385
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-133",
+      "number": 133,
+      "title": "Nanatsu no Taizai – Capítulo 133 – Impaciência e Ansiedade",
+      "date": "2025-04-03T00:57:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 346376
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-134",
+      "number": 134,
+      "title": "Nanatsu no Taizai – Capítulo 134 – À Você, Que Não é Mais Meu Capitão",
+      "date": "2025-04-03T00:57:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 346381
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-135",
+      "number": 135,
+      "title": "Nanatsu no Taizai – Capítulo 135 – Meras Boas Vindas",
+      "date": "2025-04-03T00:57:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 346383
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-136",
+      "number": 136,
+      "title": "Nanatsu no Taizai – Capítulo 136 – Disseminando o Medo",
+      "date": "2025-04-03T00:57:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 346384
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-137",
+      "number": 137,
+      "title": "Nanatsu no Taizai – Capítulo 137 – Aqui Entre Eu e Você",
+      "date": "2025-04-03T00:57:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 346388
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-138",
+      "number": 138,
+      "title": "Nanatsu no Taizai – Capítulo 138 – Batalha Contra as Trevas",
+      "date": "2025-04-03T00:57:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 346387
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-139",
+      "number": 139,
+      "title": "Nanatsu no Taizai – Capítulo 139 – Conte-me Sobre o Seu Passado",
+      "date": "2025-04-03T00:57:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 346380
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-140",
+      "number": 140,
+      "title": "Nanatsu no Taizai – Capítulo 140 – O Ladrão e o Garoto",
+      "date": "2025-04-03T00:58:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 347008
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-141",
+      "number": 141,
+      "title": "Nanatsu no Taizai – Capítulo 141 – Pai e Filho",
+      "date": "2025-04-03T00:58:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 347005
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-142",
+      "number": 142,
+      "title": "Nanatsu no Taizai – Capítulo 142 – Onde o Amor Está",
+      "date": "2025-04-03T00:58:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 347002
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-143",
+      "number": 143,
+      "title": "Nanatsu no Taizai – Capítulo 143 – O Grito da Donzela Sagrada",
+      "date": "2025-04-03T00:58:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 347016
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-144",
+      "number": 144,
+      "title": "Nanatsu no Taizai – Capítulo 144 – Aquele Homem da &#8220;Ganância&#8221;",
+      "date": "2025-04-03T00:58:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 347000
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-145",
+      "number": 145,
+      "title": "Nanatsu no Taizai – Capítulo 145 – Bela Alma",
+      "date": "2025-04-03T00:58:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 347004
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-146",
+      "number": 146,
+      "title": "Nanatsu no Taizai – Capítulo 146 – Adeus, Meu Amado Ladrão",
+      "date": "2025-04-03T00:58:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 347007
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-147",
+      "number": 147,
+      "title": "Nanatsu no Taizai – Capítulo 147 – Perseguição Mortal",
+      "date": "2025-04-03T00:58:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 347003
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-148",
+      "number": 148,
+      "title": "Nanatsu no Taizai – Capítulo 148 – Galan Game",
+      "date": "2025-04-03T00:58:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 347006
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-149",
+      "number": 149,
+      "title": "Nanatsu no Taizai – Capítulo 149 – A Magia de Galan",
+      "date": "2025-04-03T00:58:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 347001
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-150",
+      "number": 150,
+      "title": "Nanatsu no Taizai – Capítulo 150 – Mestre do Sol",
+      "date": "2025-04-03T00:59:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 347665
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-151",
+      "number": 151,
+      "title": "Nanatsu no Taizai – Capítulo 151 – O Palco Espera por Nós",
+      "date": "2025-04-03T00:59:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 347672
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-152",
+      "number": 152,
+      "title": "Nanatsu no Taizai – Capítulo 152 – Atraídos pela Luz da Vela",
+      "date": "2025-04-03T00:59:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 347678
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-153",
+      "number": 153,
+      "title": "Nanatsu no Taizai – Capítulo 153 – A Confissão Aterrorizante",
+      "date": "2025-04-03T00:59:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 347676
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-154",
+      "number": 154,
+      "title": "Nanatsu no Taizai – Capítulo 154 – O Diabo Sorri",
+      "date": "2025-04-03T00:59:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 347669
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-155",
+      "number": 155,
+      "title": "Nanatsu no Taizai – Capítulo 155 – Labirinto da Armadilha da Morte",
+      "date": "2025-04-03T00:59:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 347677
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-156",
+      "number": 156,
+      "title": "Nanatsu no Taizai – Capítulo 156 – Desafio de Exploração do Labirinto",
+      "date": "2025-04-03T00:59:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 347686
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-157",
+      "number": 157,
+      "title": "Nanatsu no Taizai – Capítulo 157 – A Dança Caótica dos Desafiantes",
+      "date": "2025-04-03T00:59:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 347675
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-158",
+      "number": 158,
+      "title": "Nanatsu no Taizai – Capítulo 158 – Os Heróis da Folia",
+      "date": "2025-04-03T00:59:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 347674
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-159",
+      "number": 159,
+      "title": "Nanatsu no Taizai – Capítulo 159 – Palavras Não São Necessárias",
+      "date": "2025-04-03T00:59:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 347670
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-160",
+      "number": 160,
+      "title": "Nanatsu no Taizai – Capítulo 160 – Vão!! Superem",
+      "date": "2025-04-03T01:00:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 348226
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-161",
+      "number": 161,
+      "title": "Nanatsu no Taizai – Capítulo 161 – Aqueles da Lenda",
+      "date": "2025-04-03T01:00:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 348230
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-162",
+      "number": 162,
+      "title": "Nanatsu no Taizai – Capítulo 162 – Qual Será o Time Predestinado!?",
+      "date": "2025-04-03T01:00:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 348225
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-163",
+      "number": 163,
+      "title": "Nanatsu no Taizai – Capítulo 163 – Qual Será O Time Escolhido?!",
+      "date": "2025-04-03T01:00:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 348223
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-164",
+      "number": 164,
+      "title": "Nanatsu no Taizai – Capítulo 164 – Aqueles Que Nunca Se Renderão",
+      "date": "2025-04-03T01:00:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 348228
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-165",
+      "number": 165,
+      "title": "Nanatsu no Taizai – Capítulo 165 – O Casal Estranho",
+      "date": "2025-04-03T01:00:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 348231
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-166",
+      "number": 166,
+      "title": "Nanatsu no Taizai – Capítulo 166 – O Que Nasce Aqui",
+      "date": "2025-04-03T01:00:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 348224
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-167",
+      "number": 167,
+      "title": "Nanatsu no Taizai – Capítulo 167 – O Que É Precioso Em Você",
+      "date": "2025-04-03T01:00:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 348233
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-168",
+      "number": 168,
+      "title": "Nanatsu no Taizai – Capítulo 168 – O Plano de Extermínio dos Dez Mandamentos",
+      "date": "2025-04-03T01:00:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 348229
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-169",
+      "number": 169,
+      "title": "Nanatsu no Taizai – Capítulo 169 – O Lendário Cavaleiro Sagrado Mais Fraco",
+      "date": "2025-04-03T01:00:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 348227
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-170",
+      "number": 170,
+      "title": "Nanatsu no Taizai – Capítulo 170 – Aquele A Partir do Qual a Luz Brilha",
+      "date": "2025-04-03T01:01:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 348889
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-171",
+      "number": 171,
+      "title": "Nanatsu no Taizai – Capítulo 171 – A Hora Chegou",
+      "date": "2025-04-03T01:01:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 348890
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-172",
+      "number": 172,
+      "title": "Nanatsu no Taizai – Capítulo 172 – Para Vocês, Que Já Foram Meus Amigos",
+      "date": "2025-04-03T01:01:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 348903
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-173",
+      "number": 173,
+      "title": "Nanatsu no Taizai – Capítulo 173 – A Escuridão Desce",
+      "date": "2025-04-03T01:01:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 348885
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-174",
+      "number": 174,
+      "title": "Nanatsu no Taizai – Capítulo 174 – Meliodas vs Dez Mandamentos",
+      "date": "2025-04-03T01:01:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 348886
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-175",
+      "number": 175,
+      "title": "Nanatsu no Taizai – Capítulo 175 – Ao Meu Amado Meliodas",
+      "date": "2025-04-03T01:01:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 348901
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-176",
+      "number": 176,
+      "title": "Nanatsu no Taizai – Capítulo 176 – O Conto da Escuridão",
+      "date": "2025-04-03T01:01:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 348888
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-177",
+      "number": 177,
+      "title": "Nanatsu no Taizai – Capítulo 177 – O Que Posso Fazer por Você",
+      "date": "2025-04-03T01:01:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 348896
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-178",
+      "number": 178,
+      "title": "Nanatsu no Taizai – Capítulo 178 – Britannia da Escuridão",
+      "date": "2025-04-03T01:01:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 348897
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-179",
+      "number": 179,
+      "title": "Nanatsu no Taizai – Capítulo 179 – Tenha Esperança",
+      "date": "2025-04-03T01:01:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 348893
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-180",
+      "number": 180,
+      "title": "Nanatsu no Taizai – Capítulo 180 – O Cavaleiro Errante",
+      "date": "2025-04-03T01:02:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 349414
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-181",
+      "number": 181,
+      "title": "Nanatsu no Taizai – Capítulo 181 – Capitão dos Cavaleiros Sagrados, Zaratras",
+      "date": "2025-04-03T01:02:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 349411
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-182",
+      "number": 182,
+      "title": "Nanatsu no Taizai – Capítulo 182 – Carinho Incondicional",
+      "date": "2025-04-03T01:02:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 349410
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-183",
+      "number": 183,
+      "title": "Nanatsu no Taizai – Capítulo 183 – Zona de Perigo",
+      "date": "2025-04-03T01:02:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 349412
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-184",
+      "number": 184,
+      "title": "Nanatsu no Taizai – Capítulo 184 – Batalha de Titãs",
+      "date": "2025-04-03T01:02:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 349413
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-185",
+      "number": 185,
+      "title": "Nanatsu no Taizai – Capítulo 185 – Orgulho Contra Bondade",
+      "date": "2025-04-03T01:02:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 349422
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-186",
+      "number": 186,
+      "title": "Nanatsu no Taizai – Capítulo 186 – A Batalha Para Proteger Liones",
+      "date": "2025-04-03T01:02:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 349420
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-187",
+      "number": 187,
+      "title": "Nanatsu no Taizai – Capítulo 187 – Os Malfeitores Serão Punidos",
+      "date": "2025-04-03T01:02:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 349417
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-188",
+      "number": 188,
+      "title": "Nanatsu no Taizai – Capítulo 188 – A Espada e a Alma para Proteger os Amigos",
+      "date": "2025-04-03T01:02:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 349418
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-189",
+      "number": 189,
+      "title": "Nanatsu no Taizai – Capítulo 189 – O Herói se Ergue",
+      "date": "2025-04-03T01:02:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 349421
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-190",
+      "number": 190,
+      "title": "Nanatsu no Taizai – Capítulo 190 – O Banquete Demoníaco",
+      "date": "2025-04-03T01:03:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350012
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-191",
+      "number": 191,
+      "title": "Nanatsu no Taizai – Capítulo 191 – A Mulher Insaciável",
+      "date": "2025-04-03T01:03:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350009
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-192",
+      "number": 192,
+      "title": "Nanatsu no Taizai – Capítulo 192 – A Espada e o Espírito para Salvar seus Amigos",
+      "date": "2025-04-03T01:03:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350014
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-193",
+      "number": 193,
+      "title": "Nanatsu no Taizai – Capítulo 193 – O Foco do Capitão dos Cavaleiros Sagrados",
+      "date": "2025-04-03T01:03:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350010
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-194",
+      "number": 194,
+      "title": "Nanatsu no Taizai – Capítulo 194 – Uma Esperança Cruel",
+      "date": "2025-04-03T01:03:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350008
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-195",
+      "number": 195,
+      "title": "Nanatsu no Taizai – Capítulo 195 – O Fim da Batalha em Defesa de Liones!",
+      "date": "2025-04-03T01:03:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350026
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-196",
+      "number": 196,
+      "title": "Nanatsu no Taizai – Capítulo 196 – Enquanto Você Estiver Aqui",
+      "date": "2025-04-03T01:03:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350013
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-197",
+      "number": 197,
+      "title": "Nanatsu no Taizai – Capítulo 197 – Respostas",
+      "date": "2025-04-03T01:03:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350016
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-198",
+      "number": 198,
+      "title": "Nanatsu no Taizai – Capítulo 198 – O Gigante e a Fada",
+      "date": "2025-04-03T01:03:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350018
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-199",
+      "number": 199,
+      "title": "Nanatsu no Taizai – Capítulo 199 – Os Sem Luz",
+      "date": "2025-04-03T01:03:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350023
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-200",
+      "number": 200,
+      "title": "Nanatsu no Taizai – Capítulo 200 – Memórias da Guerra Santa",
+      "date": "2025-04-03T01:04:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350410
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-201",
+      "number": 201,
+      "title": "Nanatsu no Taizai – Capítulo 201 – Os Que Lutam Juntos",
+      "date": "2025-04-03T01:04:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350408
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-202",
+      "number": 202,
+      "title": "Nanatsu no Taizai – Capítulo 202 – Jogadores na Guerra Santa",
+      "date": "2025-04-03T01:04:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350409
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-203",
+      "number": 203,
+      "title": "Nanatsu no Taizai – Capítulo 203 – O Plano de Ryudoshel",
+      "date": "2025-04-03T01:04:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350414
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-204",
+      "number": 204,
+      "title": "Nanatsu no Taizai – Capítulo 204 – Que Haja Luz",
+      "date": "2025-04-03T01:04:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350431
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-205",
+      "number": 205,
+      "title": "Nanatsu no Taizai – Capítulo 205 – Dez Mandamentos vs Quatro Arcanjos",
+      "date": "2025-04-03T01:04:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350417
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-206",
+      "number": 206,
+      "title": "Nanatsu no Taizai – Capítulo 206 – O Uivo da Besta",
+      "date": "2025-04-03T01:04:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350413
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-207",
+      "number": 207,
+      "title": "Nanatsu no Taizai – Capítulo 207 – A Besta da Destruição, Indra",
+      "date": "2025-04-03T01:04:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350411
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-208",
+      "number": 208,
+      "title": "Nanatsu no Taizai – Capítulo 208 – Elizabeth vs Indra",
+      "date": "2025-04-03T01:04:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350412
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-209",
+      "number": 209,
+      "title": "Nanatsu no Taizai – Capítulo 209 – Por Favor, Me Diga que Sentimento é Este",
+      "date": "2025-04-03T01:04:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350420
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-210",
+      "number": 210,
+      "title": "Nanatsu no Taizai – Capítulo 210 – Turbilhão de Emoções",
+      "date": "2025-04-03T01:05:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350904
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-211",
+      "number": 211,
+      "title": "Nanatsu no Taizai – Capítulo 211 – Aqueles que Dizem Adeus",
+      "date": "2025-04-03T01:05:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350900
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-212",
+      "number": 212,
+      "title": "Nanatsu no Taizai – Capítulo 212 – Presente",
+      "date": "2025-04-03T01:05:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350903
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-213",
+      "number": 213,
+      "title": "Nanatsu no Taizai – Capítulo 213 – Isso é o Que Chamamos de Amor",
+      "date": "2025-04-03T01:05:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350902
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-214",
+      "number": 214,
+      "title": "Nanatsu no Taizai – Capítulo 214 – Não Consigo mais Alcançar o Você Daquele Dia",
+      "date": "2025-04-03T01:05:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350905
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-215",
+      "number": 215,
+      "title": "Nanatsu no Taizai – Capítulo 215 – Zeldris, O Carrasco",
+      "date": "2025-04-03T01:05:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350907
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-216",
+      "number": 216,
+      "title": "Nanatsu no Taizai – Capítulo 216 – Avante, Para Onde os Pecados Estão!!!",
+      "date": "2025-04-03T01:05:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350899
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-217",
+      "number": 217,
+      "title": "Nanatsu no Taizai – Capítulo 217 – O Local do Coração",
+      "date": "2025-04-03T01:05:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350901
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-218",
+      "number": 218,
+      "title": "Nanatsu no Taizai – Capítulo 218 – Nós Encontramos de Novo, Né?",
+      "date": "2025-04-03T01:05:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350906
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-219",
+      "number": 219,
+      "title": "Nanatsu no Taizai – Capítulo 219 – O Descanso dos Heróis",
+      "date": "2025-04-03T01:05:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 350908
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-219.5",
+      "number": 219.5,
+      "title": "Nanatsu no Taizai – Capítulo 219.5",
+      "date": "2025-04-03T01:06:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 351219
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-220",
+      "number": 220,
+      "title": "Nanatsu no Taizai – Capítulo 220 – O Banquete dos Heróis",
+      "date": "2025-04-03T01:06:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 351218
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-221",
+      "number": 221,
+      "title": "Nanatsu no Taizai – Capítulo 221 – Seja Sincero",
+      "date": "2025-04-03T01:06:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 351228
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-222",
+      "number": 222,
+      "title": "Nanatsu no Taizai – Capítulo 222 – Os Amantes Amaldiçoados",
+      "date": "2025-04-03T01:05:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 351214
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-223",
+      "number": 223,
+      "title": "Nanatsu no Taizai – Capítulo 223 – Amantes Indecisos",
+      "date": "2025-04-03T01:06:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 351220
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-224",
+      "number": 224,
+      "title": "Nanatsu no Taizai – Capítulo 224 – É Assim que Vivemos",
+      "date": "2025-04-03T01:06:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 351224
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-225",
+      "number": 225,
+      "title": "Nanatsu no Taizai – Capítulo 225 – Em Direção a Cidade Destruída",
+      "date": "2025-04-03T01:06:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 351223
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-226",
+      "number": 226,
+      "title": "Nanatsu no Taizai – Capítulo 226 – Feroz",
+      "date": "2025-04-03T01:06:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 351217
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-227",
+      "number": 227,
+      "title": "Nanatsu no Taizai – Capítulo 227 – Choque! Choque! Choque!",
+      "date": "2025-04-03T01:06:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 351225
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-228",
+      "number": 228,
+      "title": "Nanatsu no Taizai – Capítulo 228 – A Deusa e Santa Donzela",
+      "date": "2025-04-03T01:06:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 351221
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-229",
+      "number": 229,
+      "title": "Nanatsu no Taizai – Capítulo 229 – O Amor é a Força de Uma Donzela",
+      "date": "2025-04-03T01:06:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 351628
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-230",
+      "number": 230,
+      "title": "Nanatsu no Taizai – Capítulo 230 – Os Cavaleiros Escolhidos",
+      "date": "2025-04-03T01:06:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 351634
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-231",
+      "number": 231,
+      "title": "Nanatsu no Taizai – Capítulo 231 – Orgulho vs Ira",
+      "date": "2025-04-03T01:06:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 351633
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-232",
+      "number": 232,
+      "title": "Nanatsu no Taizai – Capítulo 232 – O Todo Poderoso Contra O Grande Mal",
+      "date": "2025-04-03T01:06:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 351632
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-233",
+      "number": 233,
+      "title": "Nanatsu no Taizai – Capítulo 233 – Dano",
+      "date": "2025-04-03T01:06:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 351625
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-234",
+      "number": 234,
+      "title": "Nanatsu no Taizai – Capítulo 234 – Porta Para O Desconhecido",
+      "date": "2025-04-03T01:06:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 351626
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-235",
+      "number": 235,
+      "title": "Nanatsu no Taizai – Capítulo 235 – Uma Nova Ameaça",
+      "date": "2025-04-03T01:06:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 351627
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-236",
+      "number": 236,
+      "title": "Nanatsu no Taizai – Capítulo 236 – Encontro com Desespero",
+      "date": "2025-04-03T01:06:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 351623
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-237",
+      "number": 237,
+      "title": "Nanatsu no Taizai – Capítulo 237 – O Demônio Pacificador",
+      "date": "2025-04-03T01:06:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 351630
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-238",
+      "number": 238,
+      "title": "Nanatsu no Taizai – Capítulo 238 – Criando Uma Abertura",
+      "date": "2025-04-03T01:06:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 351624
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-239",
+      "number": 239,
+      "title": "Nanatsu no Taizai – Capítulo 239 – Pelo Capitão",
+      "date": "2025-04-03T01:07:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352063
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-240",
+      "number": 240,
+      "title": "Nanatsu no Taizai – Capítulo 240 – Fundação Para o Futuro",
+      "date": "2025-04-03T01:07:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352059
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-241",
+      "number": 241,
+      "title": "Nanatsu no Taizai – Capítulo 241 – Alma Hereditária",
+      "date": "2025-04-03T01:07:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352067
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-242",
+      "number": 242,
+      "title": "Nanatsu no Taizai – Capítulo 242 – O Fim dos Sete Pecados Capitais",
+      "date": "2025-04-03T01:07:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352060
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-243",
+      "number": 243,
+      "title": "Nanatsu no Taizai – Capítulo 243 – E Assim, Ele Embarca em Sua Jornada",
+      "date": "2025-04-03T01:07:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352066
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-244",
+      "number": 244,
+      "title": "Nanatsu no Taizai – Capítulo 244 – A Princesa Escolhida",
+      "date": "2025-04-03T01:07:58Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352072
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-245",
+      "number": 245,
+      "title": "Nanatsu no Taizai – Capítulo 245 – Marcha dos Santos",
+      "date": "2025-04-03T01:07:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352069
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-246",
+      "number": 246,
+      "title": "Nanatsu no Taizai – Capítulo 246 – Uma Reunião Casual",
+      "date": "2025-04-03T01:07:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352064
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-247",
+      "number": 247,
+      "title": "Nanatsu no Taizai – Capítulo 247 – Recuperação",
+      "date": "2025-04-03T01:07:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352062
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-248",
+      "number": 248,
+      "title": "Nanatsu no Taizai – Capítulo 248 – Nossa Escolha",
+      "date": "2025-04-03T01:07:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352068
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-249",
+      "number": 249,
+      "title": "Nanatsu no Taizai – Capítulo 249 – Negociação",
+      "date": "2025-04-03T01:08:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352487
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-250",
+      "number": 250,
+      "title": "Nanatsu no Taizai – Capítulo 250 – Composição",
+      "date": "2025-04-03T01:08:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352488
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-251",
+      "number": 251,
+      "title": "Nanatsu no Taizai – Capítulo 251 – O Tratado da Guerra Santa",
+      "date": "2025-04-03T01:08:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352475
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-252",
+      "number": 252,
+      "title": "Nanatsu no Taizai – Capítulo 252 – Destino",
+      "date": "2025-04-03T01:08:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352490
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-253",
+      "number": 253,
+      "title": "Nanatsu no Taizai – Capítulo 253 – Graça Perdida",
+      "date": "2025-04-03T01:08:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352485
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-254",
+      "number": 254,
+      "title": "Nanatsu no Taizai – Capítulo 254 – Camelot Desesperada",
+      "date": "2025-04-03T01:08:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352489
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-255",
+      "number": 255,
+      "title": "Nanatsu no Taizai – Capítulo 255 – O Filho da Esperança",
+      "date": "2025-04-03T01:08:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352477
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-256",
+      "number": 256,
+      "title": "Nanatsu no Taizai – Capítulo 256 – A Espada Sagrada Perfurante",
+      "date": "2025-04-03T01:08:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352481
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-257",
+      "number": 257,
+      "title": "Nanatsu no Taizai – Capítulo 257 – A Marcha para o Ataque",
+      "date": "2025-04-03T01:08:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352478
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-258",
+      "number": 258,
+      "title": "Nanatsu no Taizai – Capítulo 258 – A Guerra Santa Começa",
+      "date": "2025-04-03T01:08:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352480
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-259",
+      "number": 259,
+      "title": "Nanatsu no Taizai – Capítulo 259 – Britannia Coberta pela Guerra",
+      "date": "2025-04-03T01:09:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352890
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-260",
+      "number": 260,
+      "title": "Nanatsu no Taizai – Capítulo 260 – Tenho Algo para te Contar",
+      "date": "2025-04-03T01:09:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352896
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-261",
+      "number": 261,
+      "title": "Nanatsu no Taizai – Capítulo 261 – Um Gato perdido",
+      "date": "2025-04-03T01:09:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352897
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-262",
+      "number": 262,
+      "title": "Nanatsu no Taizai – Capítulo 262 – Coberto pela escuridão",
+      "date": "2025-04-03T01:09:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352899
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-263",
+      "number": 263,
+      "title": "Nanatsu no Taizai – Capítulo 263 – Explosões de escuridão",
+      "date": "2025-04-03T01:09:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352895
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-264",
+      "number": 264,
+      "title": "Nanatsu no Taizai – Capítulo 264 – Um homem torto, torcido e quebrado",
+      "date": "2025-04-03T01:09:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352892
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-265",
+      "number": 265,
+      "title": "Nanatsu no Taizai – Capítulo 265 – Amor Frenético",
+      "date": "2025-04-03T01:09:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352901
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-266",
+      "number": 266,
+      "title": "Nanatsu no Taizai – Capítulo 266 – O Seguido e o Seguidor",
+      "date": "2025-04-03T01:09:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352891
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-267",
+      "number": 267,
+      "title": "Nanatsu no Taizai – Capítulo 267 – Do Céus",
+      "date": "2025-04-03T01:09:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352900
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-268",
+      "number": 268,
+      "title": "Nanatsu no Taizai – Capítulo 268 – Do Purgatório",
+      "date": "2025-04-03T01:09:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 352898
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-269",
+      "number": 269,
+      "title": "Nanatsu no Taizai – Capítulo 269 – Vida no Purgatório",
+      "date": "2025-04-03T01:10:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353339
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-270",
+      "number": 270,
+      "title": "Nanatsu no Taizai – Capítulo 270 – Encontro Com o Desconhecido",
+      "date": "2025-04-03T01:10:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353336
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-270.5",
+      "number": 270.5,
+      "title": "Nanatsu no Taizai – Capítulo 270.5 – Bons Sonhos",
+      "date": "2025-04-03T01:10:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353343
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-271",
+      "number": 271,
+      "title": "Nanatsu no Taizai – Capítulo 271 – Sentimentos Sinceros",
+      "date": "2025-04-03T01:10:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353346
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-272",
+      "number": 272,
+      "title": "Nanatsu no Taizai – Capítulo 272 – Batalha Gloriosa",
+      "date": "2025-04-03T01:10:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353344
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-273",
+      "number": 273,
+      "title": "Nanatsu no Taizai – Capítulo 273 – As Vítimas da Guerra Santa",
+      "date": "2025-04-03T01:10:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353340
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-274",
+      "number": 274,
+      "title": "Nanatsu no Taizai – Capítulo 274 – O Anjo Caído do Desespero, Mael.",
+      "date": "2025-04-03T01:10:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353335
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-275",
+      "number": 275,
+      "title": "Nanatsu no Taizai – Capítulo 275",
+      "date": "2025-04-03T01:10:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353337
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-275.5",
+      "number": 275.5,
+      "title": "Nanatsu no Taizai – Capítulo 275.5",
+      "date": "2025-04-03T01:10:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353342
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-276",
+      "number": 276,
+      "title": "Nanatsu no Taizai – Capítulo 276 – Um Triste Golpe",
+      "date": "2025-04-03T01:10:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353338
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-277",
+      "number": 277,
+      "title": "Nanatsu no Taizai – Capítulo 277 – Não Há Como se Libertar do Amor",
+      "date": "2025-04-03T01:11:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353570
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-278",
+      "number": 278,
+      "title": "Nanatsu no Taizai – Capítulo 278 – Erga-se Contra o Desespero!!!",
+      "date": "2025-04-03T01:11:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353577
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-279",
+      "number": 279,
+      "title": "Nanatsu no Taizai – Capítulo 279 – O Som do Sino da Vitória",
+      "date": "2025-04-03T01:11:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353571
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-280",
+      "number": 280,
+      "title": "Nanatsu no Taizai – Capítulo 280 – Colapso",
+      "date": "2025-04-03T01:11:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353580
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-281",
+      "number": 281,
+      "title": "Nanatsu no Taizai – Capítulo 281 – Rei das Fadas VS Anjo da Morte",
+      "date": "2025-04-03T01:11:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353576
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-282",
+      "number": 282,
+      "title": "Nanatsu no Taizai – Capítulo 282 – Gowter VS Mael",
+      "date": "2025-04-03T01:11:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353578
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-283",
+      "number": 283,
+      "title": "Nanatsu no Taizai – Capítulo 283 – Desejo de Sobrevivência",
+      "date": "2025-04-03T01:11:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353575
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-284",
+      "number": 284,
+      "title": "Nanatsu no Taizai – Capítulo 284 – Portão Para a Esperança",
+      "date": "2025-04-03T01:11:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353574
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-285",
+      "number": 285,
+      "title": "Nanatsu no Taizai – Capítulo 285 – O que vem pela frente",
+      "date": "2025-04-03T01:11:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353572
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-286",
+      "number": 286,
+      "title": "Nanatsu no Taizai – Capítulo 286 – Luz",
+      "date": "2025-04-03T01:11:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353573
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-287",
+      "number": 287,
+      "title": "Nanatsu no Taizai – Capítulo 287 – Príncipe das Trevas",
+      "date": "2025-04-03T01:12:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353799
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-288",
+      "number": 288,
+      "title": "Nanatsu no Taizai – Capítulo 288 – Operação &#8220;Deus&#8221;",
+      "date": "2025-04-03T01:12:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353796
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-289",
+      "number": 289,
+      "title": "Nanatsu no Taizai – Capítulo 289 – Orgulho vs Piedade",
+      "date": "2025-04-03T01:12:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353795
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-290",
+      "number": 290,
+      "title": "Nanatsu no Taizai – Capítulo 290 – Vermes Malditos",
+      "date": "2025-04-03T01:12:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353802
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-291",
+      "number": 291,
+      "title": "Nanatsu no Taizai – Capítulo 291",
+      "date": "2025-04-03T01:12:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353803
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-292",
+      "number": 292,
+      "title": "Nanatsu no Taizai – Capítulo 292",
+      "date": "2025-04-03T01:12:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353801
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-293",
+      "number": 293,
+      "title": "Nanatsu no Taizai – Capítulo 293 – Quando &#8220;Algum Dia&#8221; se Torna Realidade",
+      "date": "2025-04-03T01:12:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353798
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-294",
+      "number": 294,
+      "title": "Nanatsu no Taizai – Capítulo 294",
+      "date": "2025-04-03T01:12:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353804
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-295",
+      "number": 295,
+      "title": "Nanatsu no Taizai – Capítulo 295 – Aqueles Que se Reúnem",
+      "date": "2025-04-03T01:12:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353797
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-296",
+      "number": 296,
+      "title": "Nanatsu no Taizai – Capítulo 296",
+      "date": "2025-04-03T01:12:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 353800
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-297",
+      "number": 297,
+      "title": "Nanatsu no Taizai – Capítulo 297 – A Salvação do Sol",
+      "date": "2025-04-03T01:13:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354008
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-298",
+      "number": 298,
+      "title": "Nanatsu no Taizai – Capítulo 298 – Mael VS Zeldris",
+      "date": "2025-04-03T01:13:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354007
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-299",
+      "number": 299,
+      "title": "Nanatsu no Taizai – Capítulo 299 – Tudo Será Congelado",
+      "date": "2025-04-03T01:13:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354006
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-300",
+      "number": 300,
+      "title": "Nanatsu no Taizai – Capítulo 300 – Meliodas, O Rei dos Demônios",
+      "date": "2025-04-03T01:13:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354015
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-301",
+      "number": 301,
+      "title": "Nanatsu no Taizai – Capítulo 301",
+      "date": "2025-04-03T01:13:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354014
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-302",
+      "number": 302,
+      "title": "Nanatsu no Taizai – Capítulo 302",
+      "date": "2025-04-03T01:13:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354011
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-303",
+      "number": 303,
+      "title": "Nanatsu no Taizai – Capítulo 303",
+      "date": "2025-04-03T01:13:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354012
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-304",
+      "number": 304,
+      "title": "Nanatsu no Taizai – Capítulo 304",
+      "date": "2025-04-03T01:13:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354009
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-305",
+      "number": 305,
+      "title": "Nanatsu no Taizai – Capítulo 305",
+      "date": "2025-04-03T01:13:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354010
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-306",
+      "number": 306,
+      "title": "Nanatsu no Taizai – Capítulo 306",
+      "date": "2025-04-03T01:13:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354013
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-307",
+      "number": 307,
+      "title": "Nanatsu no Taizai – Capítulo 307",
+      "date": "2025-04-03T01:13:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354214
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-308",
+      "number": 308,
+      "title": "Nanatsu no Taizai – Capítulo 308",
+      "date": "2025-04-03T01:13:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354223
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-309",
+      "number": 309,
+      "title": "Nanatsu no Taizai – Capítulo 309",
+      "date": "2025-04-03T01:13:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354217
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-310",
+      "number": 310,
+      "title": "Nanatsu no Taizai – Capítulo 310",
+      "date": "2025-04-03T01:13:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354215
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-311",
+      "number": 311,
+      "title": "Nanatsu no Taizai – Capítulo 311",
+      "date": "2025-04-03T01:13:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354219
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-312",
+      "number": 312,
+      "title": "Nanatsu no Taizai – Capítulo 312",
+      "date": "2025-04-03T01:13:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354222
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-313",
+      "number": 313,
+      "title": "Nanatsu no Taizai – Capítulo 313",
+      "date": "2025-04-03T01:13:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354221
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-314",
+      "number": 314,
+      "title": "Nanatsu no Taizai – Capítulo 314",
+      "date": "2025-04-03T01:13:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354218
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-315",
+      "number": 315,
+      "title": "Nanatsu no Taizai – Capítulo 315",
+      "date": "2025-04-03T01:13:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354220
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-316",
+      "number": 316,
+      "title": "Nanatsu no Taizai – Capítulo 316",
+      "date": "2025-04-03T01:13:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354216
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-317",
+      "number": 317,
+      "title": "Nanatsu no Taizai – Capítulo 317",
+      "date": "2025-04-03T01:14:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354440
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-318",
+      "number": 318,
+      "title": "Nanatsu no Taizai – Capítulo 318",
+      "date": "2025-04-03T01:14:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354448
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-319",
+      "number": 319,
+      "title": "Nanatsu no Taizai – Capítulo 319",
+      "date": "2025-04-03T01:14:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354449
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-320",
+      "number": 320,
+      "title": "Nanatsu no Taizai – Capítulo 320",
+      "date": "2025-04-03T01:14:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354442
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-321",
+      "number": 321,
+      "title": "Nanatsu no Taizai – Capítulo 321",
+      "date": "2025-04-03T01:14:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354441
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-322",
+      "number": 322,
+      "title": "Nanatsu no Taizai – Capítulo 322",
+      "date": "2025-04-03T01:14:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354443
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-323",
+      "number": 323,
+      "title": "Nanatsu no Taizai – Capítulo 323",
+      "date": "2025-04-03T01:14:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354444
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-324",
+      "number": 324,
+      "title": "Nanatsu no Taizai – Capítulo 324",
+      "date": "2025-04-03T01:14:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354446
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-325",
+      "number": 325,
+      "title": "Nanatsu no Taizai – Capítulo 325",
+      "date": "2025-04-03T01:14:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354445
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-326",
+      "number": 326,
+      "title": "Nanatsu no Taizai – Capítulo 326",
+      "date": "2025-04-03T01:14:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354447
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-327",
+      "number": 327,
+      "title": "Nanatsu no Taizai – Capítulo 327",
+      "date": "2025-04-03T01:15:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354660
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-327.5",
+      "number": 327.5,
+      "title": "Nanatsu no Taizai – Capítulo 327.5",
+      "date": "2025-04-03T01:15:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354654
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-328",
+      "number": 328,
+      "title": "Nanatsu no Taizai – Capítulo 328",
+      "date": "2025-04-03T01:15:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354662
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-329",
+      "number": 329,
+      "title": "Nanatsu no Taizai – Capítulo 329",
+      "date": "2025-04-03T01:15:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354661
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-330",
+      "number": 330,
+      "title": "Nanatsu no Taizai – Capítulo 330",
+      "date": "2025-04-03T01:15:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354655
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-331",
+      "number": 331,
+      "title": "Nanatsu no Taizai – Capítulo 331",
+      "date": "2025-04-03T01:15:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354657
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-332",
+      "number": 332,
+      "title": "Nanatsu no Taizai – Capítulo 332",
+      "date": "2025-04-03T01:15:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354663
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-333",
+      "number": 333,
+      "title": "Nanatsu no Taizai – Capítulo 333",
+      "date": "2025-04-03T01:15:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354659
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-334",
+      "number": 334,
+      "title": "Nanatsu no Taizai – Capítulo 334",
+      "date": "2025-04-03T01:15:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354656
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-335",
+      "number": 335,
+      "title": "Nanatsu no Taizai – Capítulo 335",
+      "date": "2025-04-03T01:15:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354658
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-336",
+      "number": 336,
+      "title": "Nanatsu no Taizai – Capítulo 336",
+      "date": "2025-04-03T01:16:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354914
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-337",
+      "number": 337,
+      "title": "Nanatsu no Taizai – Capítulo 337",
+      "date": "2025-04-03T01:16:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354916
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-338",
+      "number": 338,
+      "title": "Nanatsu no Taizai – Capítulo 338",
+      "date": "2025-04-03T01:16:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354915
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-339",
+      "number": 339,
+      "title": "Nanatsu no Taizai – Capítulo 339",
+      "date": "2025-04-03T01:16:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354920
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-340",
+      "number": 340,
+      "title": "Nanatsu no Taizai – Capítulo 340",
+      "date": "2025-04-03T01:16:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354913
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-341",
+      "number": 341,
+      "title": "Nanatsu no Taizai – Capítulo 341",
+      "date": "2025-04-03T01:16:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354921
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-342",
+      "number": 342,
+      "title": "Nanatsu no Taizai – Capítulo 342",
+      "date": "2025-04-03T01:16:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354912
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-343",
+      "number": 343,
+      "title": "Nanatsu no Taizai – Capítulo 343",
+      "date": "2025-04-03T01:16:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354919
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-344",
+      "number": 344,
+      "title": "Nanatsu no Taizai – Capítulo 344",
+      "date": "2025-04-03T01:16:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354918
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-344.5",
+      "number": 344.5,
+      "title": "Nanatsu no Taizai – Capítulo 344.5",
+      "date": "2025-04-03T01:16:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 354917
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-345",
+      "number": 345,
+      "title": "Nanatsu no Taizai – Capítulo 345",
+      "date": "2025-04-03T01:17:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 355129
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-346",
+      "number": 346,
+      "title": "Nanatsu no Taizai – Capítulo 346",
+      "date": "2025-04-03T01:17:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 355130
+    },
+    {
+      "id": "nanatsu-no-taizai-chapter-346.5",
+      "number": 346.5,
+      "title": "Nanatsu no Taizai – Capítulo 346.5",
+      "date": "2025-04-03T01:17:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 355131
+    }
+  ]
+}

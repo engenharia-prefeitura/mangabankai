@@ -1,0 +1,312 @@
+{
+  "en": [
+    {
+      "id": "dragon-ball-sd-1",
+      "number": "1",
+      "title": "Little Gokuu On A Big Adventure",
+      "date": "2010/12/03",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-2",
+      "number": "2",
+      "title": "Goku vs Freeza!",
+      "date": "2011/04/11",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-3",
+      "number": "3",
+      "title": "Son Goku and Son Gohan!",
+      "date": "2011/08/13",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-4",
+      "number": "4",
+      "title": "Son Goku and that man save the Earth?!",
+      "date": "2011/12/18",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-5",
+      "number": "5",
+      "title": "",
+      "date": "2011/12/27",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-6",
+      "number": "6",
+      "title": "Untitled",
+      "date": "2012/02/24",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-7",
+      "number": "7",
+      "title": "",
+      "date": "2012/03/20",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-8",
+      "number": "8",
+      "title": "",
+      "date": "2012/04/08",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-9",
+      "number": "9",
+      "title": "",
+      "date": "2012/04/18",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-10",
+      "number": "10",
+      "title": "",
+      "date": "2012/08/27",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-11",
+      "number": "11",
+      "title": "",
+      "date": "2012/09/18",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-12",
+      "number": "12",
+      "title": "",
+      "date": "2012/11/24",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-13",
+      "number": "13",
+      "title": "",
+      "date": "2012/12/02",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-14",
+      "number": "14",
+      "title": "",
+      "date": "2012/12/31",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-15",
+      "number": "15",
+      "title": "",
+      "date": "2013/07/04",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-16",
+      "number": "16",
+      "title": "",
+      "date": "2013/07/04",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-17",
+      "number": "17",
+      "title": "",
+      "date": "2013/09/14",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-18",
+      "number": "18",
+      "title": "",
+      "date": "2013/09/14",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-19",
+      "number": "19",
+      "title": "",
+      "date": "2013/10/03",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-20",
+      "number": "20",
+      "title": "",
+      "date": "2013/10/03",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-21",
+      "number": "21",
+      "title": "The Karin Sanctuary",
+      "date": "2019/05/06",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-22",
+      "number": "22",
+      "title": "Brutal The Hitman Tao Pai Pai",
+      "date": "2019/05/20",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-23",
+      "number": "23",
+      "title": "Karin-sama of the Karin Tower",
+      "date": "2019/05/20",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-24",
+      "number": "24",
+      "title": "Snatch It The Super Holy Water",
+      "date": "2019/05/27",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-25",
+      "number": "25",
+      "title": "",
+      "date": "2019/06/05",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-26",
+      "number": "26",
+      "title": "Assault on Red Ribbon Headquarters!!",
+      "date": "2019/06/11",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-27",
+      "number": "27",
+      "title": "",
+      "date": "2019/06/24",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-28",
+      "number": "28",
+      "title": "",
+      "date": "2019/06/24",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-29",
+      "number": "29",
+      "title": "",
+      "date": "2019/07/31",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-30",
+      "number": "30",
+      "title": "Battle of the Bleeders!",
+      "date": "2019/08/06",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-31",
+      "number": "31",
+      "title": "The Devils Cesspool",
+      "date": "2019/08/07",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-32",
+      "number": "32",
+      "title": "The Man with a Fox Face",
+      "date": "2019/08/18",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-33",
+      "number": "33",
+      "title": "",
+      "date": "2019/08/19",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-34",
+      "number": "34",
+      "title": "Reenter The Dragon!!",
+      "date": "2019/08/29",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-35",
+      "number": "35",
+      "title": "Shipopo Training",
+      "date": "2020/01/06",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-36",
+      "number": "36",
+      "title": "An Unexpected Reunion",
+      "date": "2020/12/26",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-37",
+      "number": "37",
+      "title": "The Preliminary Round Begins!!!",
+      "date": "2021/02/02",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-38",
+      "number": "38",
+      "title": "Yamcha Vs Tien Shinhan",
+      "date": "2021/03/03",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-39",
+      "number": "39",
+      "title": "Krillin VS Dodon Ray",
+      "date": "2021/07/13",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-40",
+      "number": "40",
+      "title": "Matched In Abilities",
+      "date": "2021/07/13",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-41",
+      "number": "41",
+      "title": "Goku VS. Krillin!!!",
+      "date": "2021/07/14",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-42",
+      "number": "42",
+      "title": "The Tenkaichi's Hyperbattle!!",
+      "date": "2021/07/19",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-43",
+      "number": "43",
+      "title": "The Final Match! The Champion Is?!...",
+      "date": "2021/08/07",
+      "pages": []
+    },
+    {
+      "id": "dragon-ball-sd-44",
+      "number": "44",
+      "title": "Brother's Reunion?! And...",
+      "date": "2022/07/11",
+      "pages": []
+    }
+  ]
+}

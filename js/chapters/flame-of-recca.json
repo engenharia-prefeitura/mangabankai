@@ -1,0 +1,2802 @@
+{
+  "en": [
+    {
+      "id": "flame-of-recca-1",
+      "number": "1",
+      "title": "Ninja and the Princess",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-2",
+      "number": "2",
+      "title": "Kage Hoshi",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-3",
+      "number": "3",
+      "title": "Earth and Wind",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-4",
+      "number": "4",
+      "title": "Kirisawa Fuuko",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-5",
+      "number": "5",
+      "title": "Fuujin",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-6",
+      "number": "6",
+      "title": "Beware the Coming Storm",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-7",
+      "number": "7",
+      "title": "The Flame Covers the Wind",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-8",
+      "number": "8",
+      "title": "Count Down",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-9",
+      "number": "9",
+      "title": "The Immortal Woman",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-10",
+      "number": "10",
+      "title": "Princess Yanagi's Visit",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-11",
+      "number": "11",
+      "title": "The Swordsman of Water 1",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-12",
+      "number": "12",
+      "title": "The Swordsman of Water 2",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-13",
+      "number": "13",
+      "title": "The Swordsman of Water 3",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-14",
+      "number": "14",
+      "title": "The Swordsman of Water 4",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-15",
+      "number": "15",
+      "title": "The Swordsman of Water 5",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-16",
+      "number": "16",
+      "title": "The Swordsman of Water 6",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-17",
+      "number": "17",
+      "title": "Memory of a Dream",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-18",
+      "number": "18",
+      "title": "Hokage",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-19",
+      "number": "19",
+      "title": "The Boy of Metal, the Man of Wood",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-20",
+      "number": "20",
+      "title": "Kurei",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-21",
+      "number": "21",
+      "title": "Infiltration",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-22",
+      "number": "22",
+      "title": "Guardian at the Door",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-23",
+      "number": "23",
+      "title": "Katashiro Reiran 1",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-24",
+      "number": "24",
+      "title": "Katashiro Reiran 2",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-25",
+      "number": "25",
+      "title": "Katashiro Reiran 3",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-26",
+      "number": "26",
+      "title": "The Awakening of Earth",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-27",
+      "number": "27",
+      "title": "The Golden Shield Against Water",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-28",
+      "number": "28",
+      "title": "Approaching of the Demon Star",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-29",
+      "number": "29",
+      "title": "Recca and Kurei",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-30",
+      "number": "30",
+      "title": "Mikagami and Koganei",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-31",
+      "number": "31",
+      "title": "Defiance",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-32",
+      "number": "32",
+      "title": "Kurenai",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-33",
+      "number": "33",
+      "title": "Spirit of the Flame",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-34",
+      "number": "34",
+      "title": "Hell",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-35",
+      "number": "35",
+      "title": "Eight Flame Dragons",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-36",
+      "number": "36",
+      "title": "Demon Disappears",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-37",
+      "number": "37",
+      "title": "Rescue",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-38",
+      "number": "38",
+      "title": "Truth of the Past I",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-39",
+      "number": "39",
+      "title": "Truth of the Past II",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-40",
+      "number": "40",
+      "title": "The Day to Meet Mother",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-41",
+      "number": "41",
+      "title": "Challenging the Eight Flame Dragons",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-42",
+      "number": "42",
+      "title": "Strength of the Tattoos",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-43",
+      "number": "43",
+      "title": "Ura Butou Satsujin",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-44",
+      "number": "44",
+      "title": "The First ROund of the Tournament",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-45",
+      "number": "45",
+      "title": "Kuu I",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-46",
+      "number": "46",
+      "title": "Kuu II",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-47",
+      "number": "47",
+      "title": "Kuu III",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-48",
+      "number": "48",
+      "title": "Kuu IV",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-49",
+      "number": "49",
+      "title": "Kuu V",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-50",
+      "number": "50",
+      "title": "Kuu VI",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-51",
+      "number": "51",
+      "title": "Kuu VII",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-52",
+      "number": "52",
+      "title": "Kuu VIII",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-53",
+      "number": "53",
+      "title": "Kuu IX",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-54",
+      "number": "54",
+      "title": "Kuu X",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-55",
+      "number": "55",
+      "title": "The Person Who Should Be Here",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-56",
+      "number": "56",
+      "title": "Feast of the Illusion Master I",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-57",
+      "number": "57",
+      "title": "Feast of the Illusion Master II",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-58",
+      "number": "58",
+      "title": "Feast of the Illusion Master III",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-59",
+      "number": "59",
+      "title": "Feast of the Illusion Master IV",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-60",
+      "number": "60",
+      "title": "Feast of the Illusion Master V",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-61",
+      "number": "61",
+      "title": "Feast of the Illusion Master VI",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-62",
+      "number": "62",
+      "title": "Feast of the Illusion Master VII",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-63",
+      "number": "63",
+      "title": "Feast of the Illusion Master VIII",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-64",
+      "number": "64",
+      "title": "Feast of the Illusion Master IX",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-65",
+      "number": "65",
+      "title": "Feast of the Illusion Master X",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-66",
+      "number": "66",
+      "title": "Feast of the Illusion Master XI",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-67",
+      "number": "67",
+      "title": "Feast of the Illusion Master XII",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-68",
+      "number": "68",
+      "title": "The One Kurei Protects",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-69",
+      "number": "69",
+      "title": "LIVE I",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-70",
+      "number": "70",
+      "title": "LIVE II",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-71",
+      "number": "71",
+      "title": "LIVE III",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-72",
+      "number": "72",
+      "title": "LIVE IV",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-73",
+      "number": "73",
+      "title": "LIVE V",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-74",
+      "number": "74",
+      "title": "LIVE VI",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-75",
+      "number": "75",
+      "title": "LIVE VII",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-76",
+      "number": "76",
+      "title": "LIVE VIII",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-77",
+      "number": "77",
+      "title": "A New Demon from Uruha",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-78",
+      "number": "78",
+      "title": "The Last Member of the Saakasu",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-79",
+      "number": "79",
+      "title": "Inheritance of the One Purpose",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-80",
+      "number": "80",
+      "title": "A Quite Peaceful Night",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-81",
+      "number": "81",
+      "title": "The Era of Demons I",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-82",
+      "number": "82",
+      "title": "The Era of Demons II",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-83",
+      "number": "83",
+      "title": "The Era of Demons III",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-84",
+      "number": "84",
+      "title": "The Era of Demons IV",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-85",
+      "number": "85",
+      "title": "The Era of Demons V",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-86",
+      "number": "86",
+      "title": "The Era of Demons VI",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-87",
+      "number": "87",
+      "title": "The Era of Demons VII",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-88",
+      "number": "88",
+      "title": "The Era of Demons VIII",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-89",
+      "number": "89",
+      "title": "The Era of Demons IX",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-90",
+      "number": "90",
+      "title": "The Era of Demons X",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-91",
+      "number": "91",
+      "title": "The Other Semi-Finals I",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-92",
+      "number": "92",
+      "title": "The Other Semi-Finals II",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-93",
+      "number": "93",
+      "title": "Demon I",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-94",
+      "number": "94",
+      "title": "Demon II",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-95",
+      "number": "95",
+      "title": "Demon III",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-96",
+      "number": "96",
+      "title": "Demon IV",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-97",
+      "number": "97",
+      "title": "Demon V",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-98",
+      "number": "98",
+      "title": "Demon VI",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-99",
+      "number": "99",
+      "title": "J",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-100",
+      "number": "100",
+      "title": "The Wings of an Angel and a Dragon",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-101",
+      "number": "101",
+      "title": "Footsteps of the Enemy",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-102",
+      "number": "102",
+      "title": "A Mysterious Old Man",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-103",
+      "number": "103",
+      "title": "The Curse Flame of Love",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-104",
+      "number": "104",
+      "title": "Nightmare Before the Finals I",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-105",
+      "number": "105",
+      "title": "Nightmare Before the Finals II",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-106",
+      "number": "106",
+      "title": "Welcome to the Ultimate Stage",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-107",
+      "number": "107",
+      "title": "The Opening",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-108",
+      "number": "108",
+      "title": "A Faceless Warrior",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-109",
+      "number": "109",
+      "title": "The Unknown Madougu",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-110",
+      "number": "110",
+      "title": "Noroi's Secret",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-111",
+      "number": "111",
+      "title": "Earth Becomes Iron",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-112",
+      "number": "112",
+      "title": "Virus and Vaccine",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-113",
+      "number": "113",
+      "title": "Annihilation",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-114",
+      "number": "114",
+      "title": "The World of Sand",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-115",
+      "number": "115",
+      "title": "The Second Challenge",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-116",
+      "number": "116",
+      "title": "Bindings",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-117",
+      "number": "117",
+      "title": "Kai's Power",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-118",
+      "number": "118",
+      "title": "Meguri Kyouza",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-119",
+      "number": "119",
+      "title": "The Stone's Rage",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-120",
+      "number": "120",
+      "title": "The Creation of Red Water",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-121",
+      "number": "121",
+      "title": "The End of Bondage",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-122",
+      "number": "122",
+      "title": "The Girl of Healing",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-123",
+      "number": "123",
+      "title": "Rui, The Dragon of Riddles",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-124",
+      "number": "124",
+      "title": "The Demon Dragon",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-125",
+      "number": "125",
+      "title": "Revival and Now",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-126",
+      "number": "126",
+      "title": "Desire from the Heart",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-127",
+      "number": "127",
+      "title": "Mikoto K2",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-128",
+      "number": "128",
+      "title": "Anzai Nobuyuki",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-129",
+      "number": "129",
+      "title": "Poison Fangs",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-130",
+      "number": "130",
+      "title": "Cruel",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-131",
+      "number": "131",
+      "title": "A True Victory",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-132",
+      "number": "132",
+      "title": "Kokuu",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-133",
+      "number": "133",
+      "title": "Trump Card",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-134",
+      "number": "134",
+      "title": "Joker's Powers",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-135",
+      "number": "135",
+      "title": "The Freedom of Existence",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-136",
+      "number": "136",
+      "title": "The Rescue",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-137",
+      "number": "137",
+      "title": "The Illusionary Stance",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-138",
+      "number": "138",
+      "title": "Sixth Form, The Initiation",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-139",
+      "number": "139",
+      "title": "Tears",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-140",
+      "number": "140",
+      "title": "Melee",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-141",
+      "number": "141",
+      "title": "Recca Returns",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-142",
+      "number": "142",
+      "title": "The Rematch Begins",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-143",
+      "number": "143",
+      "title": "Preface to a Battle",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-144",
+      "number": "144",
+      "title": "Liberation",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-145",
+      "number": "145",
+      "title": "The Teachings of Two Mothers",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-146",
+      "number": "146",
+      "title": "Misleading Argument",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-147",
+      "number": "147",
+      "title": "The Truth",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-148",
+      "number": "148",
+      "title": "The Tardy Flame Dragon",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-149",
+      "number": "149",
+      "title": "Kokuu's Flame",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-150",
+      "number": "150",
+      "title": "Climax",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-151",
+      "number": "151",
+      "title": "In the Midst of Rubble",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-152",
+      "number": "152",
+      "title": "A Physical Battle",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-153",
+      "number": "153",
+      "title": "The Weight of the Burden",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-154",
+      "number": "154",
+      "title": "The Shinobis of Fire",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-155",
+      "number": "155",
+      "title": "Runaway Cog",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-156",
+      "number": "156",
+      "title": "A True Demon Awakens",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-157",
+      "number": "157",
+      "title": "The End of the Third Ura Butou Satsujin",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-158",
+      "number": "158",
+      "title": "A Schoolyard Paradise",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-159",
+      "number": "159",
+      "title": "The Other Shinobis",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-160",
+      "number": "160",
+      "title": "Rasen and Kirin",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-161",
+      "number": "161",
+      "title": "A Temporary Withdrawal",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-162",
+      "number": "162",
+      "title": "The Two Craftsmen",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-163",
+      "number": "163",
+      "title": "A Return to the Field of Battle",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-164",
+      "number": "164",
+      "title": "The Resurrection of Kurei Part I",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-165",
+      "number": "165",
+      "title": "The Resurrection of Kurei Part II",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-166",
+      "number": "166",
+      "title": "The Underground World",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-167",
+      "number": "167",
+      "title": "Curse of the Tendou Jigoku",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-168",
+      "number": "168",
+      "title": "A Fork in the Road",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-169",
+      "number": "169",
+      "title": "Gaou",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-170",
+      "number": "170",
+      "title": "Standing Tombstone",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-171",
+      "number": "171",
+      "title": "Hisui",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-172",
+      "number": "172",
+      "title": "Russian Roulette",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-173",
+      "number": "173",
+      "title": "Natural Born",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-174",
+      "number": "174",
+      "title": "A Change of Fate",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-175",
+      "number": "175",
+      "title": "Junkie",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-176",
+      "number": "176",
+      "title": "Symptoms of Infection",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-177",
+      "number": "177",
+      "title": "Kamui",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-178",
+      "number": "178",
+      "title": "The Rolling Arm",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-179",
+      "number": "179",
+      "title": "Humanoid Weapon",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-180",
+      "number": "180",
+      "title": "Extending Limbs",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-181",
+      "number": "181",
+      "title": "Girl",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-182",
+      "number": "182",
+      "title": "Evil Lovers",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-183",
+      "number": "183",
+      "title": "Product of Heresy",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-184",
+      "number": "184",
+      "title": "Choice",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-185",
+      "number": "185",
+      "title": "The Second Choice",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-186",
+      "number": "186",
+      "title": "The Final Choice",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-187",
+      "number": "187",
+      "title": "Kurei's Coming",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-188",
+      "number": "188",
+      "title": "Waisted Desire",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-189",
+      "number": "189",
+      "title": "From Despair",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-190",
+      "number": "190",
+      "title": "New Hope",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-191",
+      "number": "191",
+      "title": "Pulverize",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-192",
+      "number": "192",
+      "title": "Shingan No Kirin",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-193",
+      "number": "193",
+      "title": "The Madness of Desire",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-194",
+      "number": "194",
+      "title": "The Voice of Tendou Jigoku",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-195",
+      "number": "195",
+      "title": "The Walking Dead",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-196",
+      "number": "196",
+      "title": "Kaukai Gjoku",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-197",
+      "number": "197",
+      "title": "Crime and Punishment",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-198",
+      "number": "198",
+      "title": "The Sealing Gates Opened",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-199",
+      "number": "199",
+      "title": "Prelude to the Battle",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-200",
+      "number": "200",
+      "title": "The Possessed Roar of the Bloody Demon with Never Ending Greed",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-201",
+      "number": "201",
+      "title": "The Being of Power",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-202",
+      "number": "202",
+      "title": "The Worse Contact",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-203",
+      "number": "203",
+      "title": "The One Who Left Humanity",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-204",
+      "number": "204",
+      "title": "Hisui's Determination",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-205",
+      "number": "205",
+      "title": "A Smile of Parting",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-206",
+      "number": "206",
+      "title": "Kurei Enters the War",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-207",
+      "number": "207",
+      "title": "An Incomplete Life Form",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-208",
+      "number": "208",
+      "title": "Chaotic Rebellion",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-209",
+      "number": "209",
+      "title": "Escape",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-210",
+      "number": "210",
+      "title": "Extinction of the Underground World",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-211",
+      "number": "211",
+      "title": "Transfer Student",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-212",
+      "number": "212",
+      "title": "Kagura Aoi",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-213",
+      "number": "213",
+      "title": "Promise",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-214",
+      "number": "214",
+      "title": "The Time of Action",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-215",
+      "number": "215",
+      "title": "Failure",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-216",
+      "number": "216",
+      "title": "Separation",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-217",
+      "number": "217",
+      "title": "Pairing of Power",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-218",
+      "number": "218",
+      "title": "To Meet Resshin",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-219",
+      "number": "219",
+      "title": "Before the Final Battle-Three Days Time1",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-220",
+      "number": "220",
+      "title": "Before the Final Battle-Three Days Time2",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-221",
+      "number": "221",
+      "title": "Before the Final Battle-Three Days Time3",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-222",
+      "number": "222",
+      "title": "Before the Final Battle-Three Days Time4",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-223",
+      "number": "223",
+      "title": "Before the Final Battle-Three Days Time5",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-224",
+      "number": "224",
+      "title": "Before the Final Battle-Three Days Time6",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-225",
+      "number": "225",
+      "title": "Before the Final Battle-Three Days Time7",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-226",
+      "number": "226",
+      "title": "Resshin 1 Meeting",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-227",
+      "number": "227",
+      "title": "Resshin 2 Ouka",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-228",
+      "number": "228",
+      "title": "Story of the Past Ouka's Chapters1",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-229",
+      "number": "229",
+      "title": "Story of the Past Ouka's Chapters2",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-230",
+      "number": "230",
+      "title": "Story of the Past Ouka's Chapters3",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-231",
+      "number": "231",
+      "title": "Story of the Past Ouka's Chapters4",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-232",
+      "number": "232",
+      "title": "Story of the Past Ouka's Chapters5",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-233",
+      "number": "233",
+      "title": "Story of the Past Ouka's Chapters6",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-234",
+      "number": "234",
+      "title": "And then the Succession",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-235",
+      "number": "235",
+      "title": "Before the Final Battle-Three Days Time8",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-236",
+      "number": "236",
+      "title": "Fortified City",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-237",
+      "number": "237",
+      "title": "The Final Battle Begins",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-238",
+      "number": "238",
+      "title": "Game Rules",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-239",
+      "number": "239",
+      "title": "Warrior Sisters",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-240",
+      "number": "240",
+      "title": "3 Vs 3 Miruku,Kurum, and Mikuru",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-241",
+      "number": "241",
+      "title": "Iyushinshuu Showdown",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-242",
+      "number": "242",
+      "title": "Kamui Returns",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-243",
+      "number": "243",
+      "title": "Shinobi Gathering",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-244",
+      "number": "244",
+      "title": "Combine",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-245",
+      "number": "245",
+      "title": "Three Headed Dragon",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-246",
+      "number": "246",
+      "title": "HP Homepage",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-247",
+      "number": "247",
+      "title": "Beats of Madness",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-248",
+      "number": "248",
+      "title": "Great Behemoth",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-249",
+      "number": "249",
+      "title": "Fighting Lesson",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-250",
+      "number": "250",
+      "title": "Multitude Overwhelming",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-251",
+      "number": "251",
+      "title": "Stone's Silence",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-252",
+      "number": "252",
+      "title": "Enter Into the Heat of the Battle",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-253",
+      "number": "253",
+      "title": "Momentary Kage Houshi",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-254",
+      "number": "254",
+      "title": "Time of Annihilation",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-255",
+      "number": "255",
+      "title": "Plant Weapons",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-256",
+      "number": "256",
+      "title": "Reappearance of the Oni",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-257",
+      "number": "257",
+      "title": "Plant Dragon",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-258",
+      "number": "258",
+      "title": "Antithese",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-259",
+      "number": "259",
+      "title": "Mokuren's Life",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-260",
+      "number": "260",
+      "title": "Shinobi Gathering 2",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-261",
+      "number": "261",
+      "title": "Warrior of Water Warrior of Blood",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-262",
+      "number": "262",
+      "title": "Changed Man",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-263",
+      "number": "263",
+      "title": "The Greatest Warrior of Ura Uruha",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-264",
+      "number": "264",
+      "title": "Mumyou and Mongamae",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-265",
+      "number": "265",
+      "title": "The Greatest Warrior Shuddering",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-266",
+      "number": "266",
+      "title": "Spirits of the Dead",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-267",
+      "number": "267",
+      "title": "The Uruha Enter",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-268",
+      "number": "268",
+      "title": "Exposure",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-269",
+      "number": "269",
+      "title": "Deception",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-270",
+      "number": "270",
+      "title": "Shiguma",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-271",
+      "number": "271",
+      "title": "Welcome to Marie's House",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-272",
+      "number": "272",
+      "title": "Do You Like Abnormal Play",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-273",
+      "number": "273",
+      "title": "You're My Fuckin Slave",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-274",
+      "number": "274",
+      "title": "Please Give Me Some Punishment",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-275",
+      "number": "275",
+      "title": "The Man in the Storeroom",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-276",
+      "number": "276",
+      "title": "RNR",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-277",
+      "number": "277",
+      "title": "Thirst for Life",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-278",
+      "number": "278",
+      "title": "Human Being",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-279",
+      "number": "279",
+      "title": "The Path is Opened",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-280",
+      "number": "280",
+      "title": "Final Battle First Match Domon VS Hiruko 7",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-281",
+      "number": "281",
+      "title": "Final Battle First Fight Domon VS Hiruko 2",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-282",
+      "number": "282",
+      "title": "Final Battle First Fight Domon VS Hiruko The Mission",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-283",
+      "number": "283",
+      "title": "Final Battle First Fight Domon VS Hiruko Iron Body Steell Will",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-284",
+      "number": "284",
+      "title": "Final Battle Second Fight Koganei VS Joker Joker Returns",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-285",
+      "number": "285",
+      "title": "Final Battle Fight 3 Koganei Joker VS Kirito 7",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-286",
+      "number": "286",
+      "title": "Final Battle Third Fight Koganei Joker vs Kirito 2 Ageless Woman",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-287",
+      "number": "287",
+      "title": "Final Battle Third Fight Koganei Joker vs Kirito 3 Vow of a Rematch",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-288",
+      "number": "288",
+      "title": "Final Battle Third Fight Koganei Joker vs Kirito 4 Final Question",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-289",
+      "number": "289",
+      "title": "Final Battle Fourth Fight Joker vs Kadotsu Headstone of a Crimson Tears",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-290",
+      "number": "290",
+      "title": "Final Battle Fifth Fight Kagerou vs Rasen Kirin1 What was Searched for Found",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-291",
+      "number": "291",
+      "title": "Final Battle Fifth Battle Kagerou vs Rasen Kirin 2 Woman with Death",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-292",
+      "number": "292",
+      "title": "Final Battle Sixth Fight Fuuko vs Raiha 1 The Two Madougus Resonance",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-293",
+      "number": "293",
+      "title": "Final Battle Sixth Fight Fuuko vs Raiha 2 Fuujin Raijin",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-294",
+      "number": "294",
+      "title": "Final Battle Sixth Fight Fuuko vs Raiha Driven by the Hokage Blood",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-295",
+      "number": "295",
+      "title": "Final Battle Sixth Fight Fuuko vs Raiha 4 Rolling Thunder Crashes Against Raging Wind",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-296",
+      "number": "296",
+      "title": "Final Battle Sixth Fight Fuuko vs Raiha 5 Winds Support",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-297",
+      "number": "297",
+      "title": "Final Battle Sixth Fight Fuuko vs Raiha 6 Devotion of Earth",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-298",
+      "number": "298",
+      "title": "Final Battle 7th Fight Mikagami vs Meguri Kyouza 1 Reunion with Master",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-299",
+      "number": "299",
+      "title": "Final Battle 7th Fight Mikagami vs Meguri Kyouza 2 Master and Pupil",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-300",
+      "number": "300",
+      "title": "Final Battle 7th Fight Mikagami vs Meguri Kyouza 3 Truth",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-301",
+      "number": "301",
+      "title": "Final Battle 7th Fight Mikagami vs Meguri Kyouza 4 Denise of Revenge",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-302",
+      "number": "302",
+      "title": "Final Battle 8th Fight Kurei vs Renge 7 Original and Clone",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-303",
+      "number": "303",
+      "title": "Final Battle 8th Fight Kurei vs Renge 2 Negation of Life",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-304",
+      "number": "304",
+      "title": "Final Battle Fight 9 Recca vs Aoi 7 Conflict",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-305",
+      "number": "305",
+      "title": "Final Battle Fight 9 Recca vs Aoi 2 The World of Deap Sea Fish",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-306",
+      "number": "306",
+      "title": "Final Battle Fight 9 Recca vs Aoi 3 Friends",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-307",
+      "number": "307",
+      "title": "Final Battle Fight 9 Recca vs Aoi 4 The Affirmation of Ones Existence",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-308",
+      "number": "308",
+      "title": "Final Battle Tendou Jigoku 1 In Front of the Sacrificial Girl",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-309",
+      "number": "309",
+      "title": "Final Battle Tendou Jigoku 2 Go and Meet Ouka",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-310",
+      "number": "310",
+      "title": "Final Battle Tendou Jigoku 3 The Other Tendou Jigoku",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-311",
+      "number": "311",
+      "title": "Final Battle Tendou Jigoku 4 The Awakening of Jigoku",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-312",
+      "number": "312",
+      "title": "Final Battle Tendou Jigoku 5 The Last Enemy",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-313",
+      "number": "313",
+      "title": "Final Battle Tendou Jigoku 6 Somebody Please Get Up",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-314",
+      "number": "314",
+      "title": "Final Battle Tendou Jigoku 7 Magic",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-315",
+      "number": "315",
+      "title": "Final Battle Tendou Jigoku 8 The Voice Which Spins",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-316",
+      "number": "316",
+      "title": "Final Battle Tendou Jigoku 8 The Summoning of the 7 Dragonsl",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-317",
+      "number": "317",
+      "title": "Final Battle Tendou Jigoku 10 Setting Free The Light",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-318",
+      "number": "318",
+      "title": "Final Battle Tendou Jigoku 11 In the Valley Betwwen Hope and Despair",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-319",
+      "number": "319",
+      "title": "Final Battle Tendou Jigoku 12 Send the Voice Send it to the Heart",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-320",
+      "number": "320",
+      "title": "Final Battle Tendou Jigoku 13 In this Place",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-321",
+      "number": "321",
+      "title": "Final Battle Tendou Jigoku 14 Failure in Heaven",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-322",
+      "number": "322",
+      "title": "Final Battle Tendou Jigoku 15 Rising Flames",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-323",
+      "number": "323",
+      "title": "Flames of Recca 1 Dragons of Fire",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-324",
+      "number": "324",
+      "title": "Flames of Recca 2 The Fight Resshin",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-325",
+      "number": "325",
+      "title": "Flames of Recca 3 Flame of Recca",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-326",
+      "number": "326",
+      "title": "Destruction of Hokage",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-327",
+      "number": "327",
+      "title": "Journey to the Past",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-328",
+      "number": "328",
+      "title": "Martyr in a Far-Away Land",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-329",
+      "number": "329",
+      "title": "Martyr in a Far Away Land",
+      "date": "2009/07/25",
+      "pages": []
+    },
+    {
+      "id": "flame-of-recca-330",
+      "number": "330",
+      "title": "Final Chapter",
+      "date": "2012/03/14",
+      "pages": []
+    }
+  ],
+  "pt": [
+    {
+      "id": "flame-of-recca-chapter-1",
+      "number": 1,
+      "title": "Flame of Recca – Capítulo 1 – A princesa e o ninja",
+      "date": "2025-10-13T11:51:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782241
+    },
+    {
+      "id": "flame-of-recca-chapter-2",
+      "number": 2,
+      "title": "Flame of Recca – Capítulo 2 – Kage Hoshi",
+      "date": "2025-10-13T11:51:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782236
+    },
+    {
+      "id": "flame-of-recca-chapter-3",
+      "number": 3,
+      "title": "Flame of Recca – Capítulo 3 – Terra vs. Vento",
+      "date": "2025-10-13T11:51:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782244
+    },
+    {
+      "id": "flame-of-recca-chapter-4",
+      "number": 4,
+      "title": "Flame of Recca – Capítulo 4 – Kirisawa Fuuko",
+      "date": "2025-10-13T11:51:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782242
+    },
+    {
+      "id": "flame-of-recca-chapter-5",
+      "number": 5,
+      "title": "Flame of Recca – Capítulo 5 – Fuujin",
+      "date": "2025-10-13T11:51:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782239
+    },
+    {
+      "id": "flame-of-recca-chapter-6",
+      "number": 6,
+      "title": "Flame of Recca – Capítulo 6 – Cuidado com a chegada da tempestade",
+      "date": "2025-10-13T11:51:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782243
+    },
+    {
+      "id": "flame-of-recca-chapter-7",
+      "number": 7,
+      "title": "Flame of Recca – Capítulo 7 – A chama sobre o vento",
+      "date": "2025-10-13T11:51:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782237
+    },
+    {
+      "id": "flame-of-recca-chapter-8",
+      "number": 8,
+      "title": "Flame of Recca – Capítulo 8 – Contagem Regressiva",
+      "date": "2025-10-13T11:51:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782240
+    },
+    {
+      "id": "flame-of-recca-chapter-9",
+      "number": 9,
+      "title": "Flame of Recca – Capítulo 9 – Mulher imortal",
+      "date": "2025-10-13T11:51:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782235
+    },
+    {
+      "id": "flame-of-recca-chapter-10",
+      "number": 10,
+      "title": "Flame of Recca – Capítulo 10 – Visita da princesa Yanagi",
+      "date": "2025-10-13T11:51:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782238
+    },
+    {
+      "id": "flame-of-recca-chapter-11",
+      "number": 11,
+      "title": "Flame of Recca – Capítulo 11 – O espadachim da água I (Mikagami Tokiya)",
+      "date": "2025-10-13T11:52:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782442
+    },
+    {
+      "id": "flame-of-recca-chapter-12",
+      "number": 12,
+      "title": "Flame of Recca – Capítulo 12 – O espadachim da água II (Ensui)",
+      "date": "2025-10-13T11:52:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782441
+    },
+    {
+      "id": "flame-of-recca-chapter-13",
+      "number": 13,
+      "title": "Flame of Recca – Capítulo 13 – O espadachim da água III",
+      "date": "2025-10-13T11:52:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782434
+    },
+    {
+      "id": "flame-of-recca-chapter-14",
+      "number": 14,
+      "title": "Flame of Recca – Capítulo 14 – O espadachim da água IV (O passado Mikagami)",
+      "date": "2025-10-13T11:52:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782439
+    },
+    {
+      "id": "flame-of-recca-chapter-15",
+      "number": 15,
+      "title": "Flame of Recca – Capítulo 15 – O espadachim da água V (Batalha de fogo e água)",
+      "date": "2025-10-13T11:52:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782443
+    },
+    {
+      "id": "flame-of-recca-chapter-16",
+      "number": 16,
+      "title": "Flame of Recca – Capítulo 16 – O espadachim da água VI (Determinação de fogo)",
+      "date": "2025-10-13T11:52:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782438
+    },
+    {
+      "id": "flame-of-recca-chapter-17",
+      "number": 17,
+      "title": "Flame of Recca – Capítulo 17 – Memória de um sonho",
+      "date": "2025-10-13T11:52:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782436
+    },
+    {
+      "id": "flame-of-recca-chapter-18",
+      "number": 18,
+      "title": "Flame of Recca – Capítulo 18 – Hokage",
+      "date": "2025-10-13T11:52:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782435
+    },
+    {
+      "id": "flame-of-recca-chapter-19",
+      "number": 19,
+      "title": "Flame of Recca – Capítulo 19 – O garoto de metal, o homem de madeira",
+      "date": "2025-10-13T11:52:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782437
+    },
+    {
+      "id": "flame-of-recca-chapter-20",
+      "number": 20,
+      "title": "Flame of Recca – Capítulo 20 – Kurei",
+      "date": "2025-10-13T11:52:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782440
+    },
+    {
+      "id": "flame-of-recca-chapter-21",
+      "number": 21,
+      "title": "Flame of Recca – Capítulo 21 – Infiltração",
+      "date": "2025-10-13T11:52:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782619
+    },
+    {
+      "id": "flame-of-recca-chapter-22",
+      "number": 22,
+      "title": "Flame of Recca – Capítulo 22 – Guardião na porta",
+      "date": "2025-10-13T11:52:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782613
+    },
+    {
+      "id": "flame-of-recca-chapter-23",
+      "number": 23,
+      "title": "Flame of Recca – Capítulo 23 – Katashiro Reiran I (mestra das bonecas)",
+      "date": "2025-10-13T11:52:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782614
+    },
+    {
+      "id": "flame-of-recca-chapter-24",
+      "number": 24,
+      "title": "Flame of Recca – Capítulo 24 – Katashiro Reiran II (mensageira do vento vs mestra das bonecas)",
+      "date": "2025-10-13T11:52:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782621
+    },
+    {
+      "id": "flame-of-recca-chapter-25",
+      "number": 25,
+      "title": "Flame of Recca – Capítulo 25 – Katashiro Reiran III (a forma verdadeira)",
+      "date": "2025-10-13T11:52:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782617
+    },
+    {
+      "id": "flame-of-recca-chapter-26",
+      "number": 26,
+      "title": "Flame of Recca – Capítulo 26 – O despertar da terra",
+      "date": "2025-10-13T11:52:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782620
+    },
+    {
+      "id": "flame-of-recca-chapter-27",
+      "number": 27,
+      "title": "Flame of Recca – Capítulo 27 – O escudo de ouro contra a água",
+      "date": "2025-10-13T11:52:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782616
+    },
+    {
+      "id": "flame-of-recca-chapter-28",
+      "number": 28,
+      "title": "Flame of Recca – Capítulo 28 – Se aproximando do demônio estrela",
+      "date": "2025-10-13T11:52:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782618
+    },
+    {
+      "id": "flame-of-recca-chapter-29",
+      "number": 29,
+      "title": "Flame of Recca – Capítulo 29 – Recca e Kurei",
+      "date": "2025-10-13T11:52:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782622
+    },
+    {
+      "id": "flame-of-recca-chapter-30",
+      "number": 30,
+      "title": "Flame of Recca – Capítulo 30 – Mikagami e Koganei",
+      "date": "2025-10-13T11:52:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782615
+    },
+    {
+      "id": "flame-of-recca-chapter-31",
+      "number": 31,
+      "title": "Flame of Recca – Capítulo 31 – Desafio",
+      "date": "2025-10-13T11:53:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782800
+    },
+    {
+      "id": "flame-of-recca-chapter-32",
+      "number": 32,
+      "title": "Flame of Recca – Capítulo 32 – Kurenai",
+      "date": "2025-10-13T11:53:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782804
+    },
+    {
+      "id": "flame-of-recca-chapter-33",
+      "number": 33,
+      "title": "Flame of Recca – Capítulo 33 – Espírito da chama",
+      "date": "2025-10-13T11:53:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782807
+    },
+    {
+      "id": "flame-of-recca-chapter-34",
+      "number": 34,
+      "title": "Flame of Recca – Capítulo 34 – Inferno",
+      "date": "2025-10-13T11:53:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782801
+    },
+    {
+      "id": "flame-of-recca-chapter-35",
+      "number": 35,
+      "title": "Flame of Recca – Capítulo 35 – Dragões das oito chamas",
+      "date": "2025-10-13T11:53:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782806
+    },
+    {
+      "id": "flame-of-recca-chapter-36",
+      "number": 36,
+      "title": "Flame of Recca – Capítulo 36 – O demônio desaparece",
+      "date": "2025-10-13T11:53:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782809
+    },
+    {
+      "id": "flame-of-recca-chapter-37",
+      "number": 37,
+      "title": "Flame of Recca – Capítulo 37 – Resgate",
+      "date": "2025-10-13T11:53:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782808
+    },
+    {
+      "id": "flame-of-recca-chapter-38",
+      "number": 38,
+      "title": "Flame of Recca – Capítulo 38 – A verdade sobre o passado I",
+      "date": "2025-10-13T11:53:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782802
+    },
+    {
+      "id": "flame-of-recca-chapter-39",
+      "number": 39,
+      "title": "Flame of Recca – Capítulo 39 – A verdade sobre o passado II",
+      "date": "2025-10-13T11:53:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782805
+    },
+    {
+      "id": "flame-of-recca-chapter-40",
+      "number": 40,
+      "title": "Flame of Recca – Capítulo 40 – O dia para se conhecer a mãe",
+      "date": "2025-10-13T11:53:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782803
+    },
+    {
+      "id": "flame-of-recca-chapter-41",
+      "number": 41,
+      "title": "Flame of Recca – Capítulo 41 – Desafio dos 8 dragões de fogo",
+      "date": "2025-10-13T11:53:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782987
+    },
+    {
+      "id": "flame-of-recca-chapter-42",
+      "number": 42,
+      "title": "Flame of Recca – Capítulo 42 – A força das tatuagens",
+      "date": "2025-10-13T11:53:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782984
+    },
+    {
+      "id": "flame-of-recca-chapter-43",
+      "number": 43,
+      "title": "Flame of Recca – Capítulo 43 – Ura Butou Satsujin",
+      "date": "2025-10-13T11:53:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782986
+    },
+    {
+      "id": "flame-of-recca-chapter-44",
+      "number": 44,
+      "title": "Flame of Recca – Capítulo 44 – Primeiro round do torneio",
+      "date": "2025-10-13T11:53:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782992
+    },
+    {
+      "id": "flame-of-recca-chapter-45",
+      "number": 45,
+      "title": "Flame of Recca – Capítulo 45 – Kuu I (Hyomon Ken)",
+      "date": "2025-10-13T11:53:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782989
+    },
+    {
+      "id": "flame-of-recca-chapter-46",
+      "number": 46,
+      "title": "Flame of Recca – Capítulo 46 – Kuu II (A última arma secreta)",
+      "date": "2025-10-13T11:53:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782988
+    },
+    {
+      "id": "flame-of-recca-chapter-47",
+      "number": 47,
+      "title": "Flame of Recca – Capítulo 47 – Kuu III (A força das garras)",
+      "date": "2025-10-13T11:53:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782983
+    },
+    {
+      "id": "flame-of-recca-chapter-48",
+      "number": 48,
+      "title": "Flame of Recca – Capítulo 48 – Kuu IV (Declaração de guerra de Fuuko)",
+      "date": "2025-10-13T11:53:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782985
+    },
+    {
+      "id": "flame-of-recca-chapter-49",
+      "number": 49,
+      "title": "Flame of Recca – Capítulo 49 – Kuu V (Flocos de neve de papel de saicho)",
+      "date": "2025-10-13T11:53:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782990
+    },
+    {
+      "id": "flame-of-recca-chapter-50",
+      "number": 50,
+      "title": "Flame of Recca – Capítulo 50 – Parte 50: Ku (6) Dança do Papel em Chamas",
+      "date": "2025-10-13T11:53:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 782991
+    },
+    {
+      "id": "flame-of-recca-chapter-51",
+      "number": 51,
+      "title": "Flame of Recca – Capítulo 51 – Parte 51: Kuu (7) Ataque Crítico",
+      "date": "2025-10-13T11:54:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 783178
+    },
+    {
+      "id": "flame-of-recca-chapter-52",
+      "number": 52,
+      "title": "Flame of Recca – Capítulo 52 – Parte 52 – Kuu (8) Kukai, o Misericordioso",
+      "date": "2025-10-13T11:54:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 783176
+    },
+    {
+      "id": "flame-of-recca-chapter-53",
+      "number": 53,
+      "title": "Flame of Recca – Capítulo 53 – Parte 53: Kuu (9) Homura",
+      "date": "2025-10-13T11:54:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 783177
+    },
+    {
+      "id": "flame-of-recca-chapter-54",
+      "number": 54,
+      "title": "Flame of Recca – Capítulo 54 – Parte 54 – Kuu (10) – A Precisa Derrota de Kuu",
+      "date": "2025-10-13T11:54:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 783175
+    }
+  ]
+}

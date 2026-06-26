@@ -1,0 +1,389 @@
+{
+  "en": [
+    {
+      "id": "drop-1",
+      "number": "1",
+      "title": "",
+      "date": "2012/01/07",
+      "pages": []
+    },
+    {
+      "id": "drop-2",
+      "number": "2",
+      "title": "",
+      "date": "2013/03/16",
+      "pages": []
+    },
+    {
+      "id": "drop-3",
+      "number": "3",
+      "title": "",
+      "date": "2013/03/16",
+      "pages": []
+    },
+    {
+      "id": "drop-4",
+      "number": "4",
+      "title": "",
+      "date": "2013/03/16",
+      "pages": []
+    },
+    {
+      "id": "drop-5",
+      "number": "5",
+      "title": "",
+      "date": "2013/03/16",
+      "pages": []
+    },
+    {
+      "id": "drop-6",
+      "number": "6",
+      "title": "",
+      "date": "2013/03/16",
+      "pages": []
+    },
+    {
+      "id": "drop-7",
+      "number": "7",
+      "title": "",
+      "date": "2013/03/16",
+      "pages": []
+    },
+    {
+      "id": "drop-8",
+      "number": "8",
+      "title": "",
+      "date": "2013/03/16",
+      "pages": []
+    },
+    {
+      "id": "drop-9",
+      "number": "9",
+      "title": "",
+      "date": "2013/03/16",
+      "pages": []
+    },
+    {
+      "id": "drop-10",
+      "number": "10",
+      "title": "",
+      "date": "2013/03/16",
+      "pages": []
+    },
+    {
+      "id": "drop-11",
+      "number": "11",
+      "title": "",
+      "date": "2013/03/16",
+      "pages": []
+    },
+    {
+      "id": "drop-12",
+      "number": "12",
+      "title": "",
+      "date": "2013/03/16",
+      "pages": []
+    },
+    {
+      "id": "drop-13",
+      "number": "13",
+      "title": "",
+      "date": "2013/03/16",
+      "pages": []
+    },
+    {
+      "id": "drop-14",
+      "number": "14",
+      "title": "",
+      "date": "2013/03/16",
+      "pages": []
+    },
+    {
+      "id": "drop-15",
+      "number": "15",
+      "title": "",
+      "date": "2013/03/16",
+      "pages": []
+    },
+    {
+      "id": "drop-16",
+      "number": "16",
+      "title": "",
+      "date": "2013/03/16",
+      "pages": []
+    },
+    {
+      "id": "drop-17",
+      "number": "17",
+      "title": "Stupid Hippo",
+      "date": "2019/12/11",
+      "pages": []
+    },
+    {
+      "id": "drop-18",
+      "number": "18",
+      "title": "Sorry Means Sorry",
+      "date": "2020/06/02",
+      "pages": []
+    },
+    {
+      "id": "drop-19",
+      "number": "19",
+      "title": "Devil Soldier's Head",
+      "date": "2020/06/02",
+      "pages": []
+    },
+    {
+      "id": "drop-20",
+      "number": "20",
+      "title": "Onimucha",
+      "date": "2020/06/02",
+      "pages": []
+    },
+    {
+      "id": "drop-21",
+      "number": "21",
+      "title": "The Will to Become a Devil",
+      "date": "2020/06/02",
+      "pages": []
+    },
+    {
+      "id": "drop-22",
+      "number": "22",
+      "title": "Juliana's Tokyo",
+      "date": "2020/06/22",
+      "pages": []
+    },
+    {
+      "id": "drop-23",
+      "number": "23",
+      "title": "",
+      "date": "2022/07/03",
+      "pages": []
+    },
+    {
+      "id": "drop-24",
+      "number": "24",
+      "title": "",
+      "date": "2022/07/10",
+      "pages": []
+    },
+    {
+      "id": "drop-25",
+      "number": "25",
+      "title": "",
+      "date": "2022/07/17",
+      "pages": []
+    },
+    {
+      "id": "drop-26",
+      "number": "26",
+      "title": "Wandering Storm",
+      "date": "2022/07/24",
+      "pages": []
+    },
+    {
+      "id": "drop-27",
+      "number": "27",
+      "title": "",
+      "date": "2022/08/07",
+      "pages": []
+    },
+    {
+      "id": "drop-28",
+      "number": "28",
+      "title": "",
+      "date": "2022/08/07",
+      "pages": []
+    },
+    {
+      "id": "drop-29",
+      "number": "29",
+      "title": "",
+      "date": "2022/08/14",
+      "pages": []
+    },
+    {
+      "id": "drop-30",
+      "number": "30",
+      "title": "",
+      "date": "2022/08/21",
+      "pages": []
+    },
+    {
+      "id": "drop-31",
+      "number": "31",
+      "title": "",
+      "date": "2022/08/28",
+      "pages": []
+    },
+    {
+      "id": "drop-32",
+      "number": "32",
+      "title": "",
+      "date": "2022/09/04",
+      "pages": []
+    },
+    {
+      "id": "drop-33",
+      "number": "33",
+      "title": "",
+      "date": "2022/09/18",
+      "pages": []
+    },
+    {
+      "id": "drop-34",
+      "number": "34",
+      "title": "",
+      "date": "2022/09/25",
+      "pages": []
+    },
+    {
+      "id": "drop-35",
+      "number": "35",
+      "title": "",
+      "date": "2022/10/02",
+      "pages": []
+    },
+    {
+      "id": "drop-36",
+      "number": "36",
+      "title": "Slapstick Brawlers",
+      "date": "2022/10/16",
+      "pages": []
+    },
+    {
+      "id": "drop-37",
+      "number": "37",
+      "title": "",
+      "date": "2022/10/23",
+      "pages": []
+    },
+    {
+      "id": "drop-38",
+      "number": "38",
+      "title": "",
+      "date": "2022/10/30",
+      "pages": []
+    },
+    {
+      "id": "drop-39",
+      "number": "39",
+      "title": "",
+      "date": "2022/11/06",
+      "pages": []
+    },
+    {
+      "id": "drop-40",
+      "number": "40",
+      "title": "",
+      "date": "2022/11/13",
+      "pages": []
+    },
+    {
+      "id": "drop-41",
+      "number": "41",
+      "title": "",
+      "date": "2022/11/20",
+      "pages": []
+    },
+    {
+      "id": "drop-42",
+      "number": "42",
+      "title": "",
+      "date": "2022/12/04",
+      "pages": []
+    },
+    {
+      "id": "drop-43",
+      "number": "43",
+      "title": "",
+      "date": "2022/12/18",
+      "pages": []
+    },
+    {
+      "id": "drop-44",
+      "number": "44",
+      "title": "",
+      "date": "2023/01/08",
+      "pages": []
+    },
+    {
+      "id": "drop-45",
+      "number": "45",
+      "title": "",
+      "date": "2023/04/21",
+      "pages": []
+    },
+    {
+      "id": "drop-46",
+      "number": "46",
+      "title": "",
+      "date": "2023/04/30",
+      "pages": []
+    },
+    {
+      "id": "drop-47",
+      "number": "47",
+      "title": "",
+      "date": "2023/05/07",
+      "pages": []
+    },
+    {
+      "id": "drop-48",
+      "number": "48",
+      "title": "",
+      "date": "2023/05/14",
+      "pages": []
+    },
+    {
+      "id": "drop-49",
+      "number": "49",
+      "title": "",
+      "date": "2023/05/21",
+      "pages": []
+    },
+    {
+      "id": "drop-50",
+      "number": "50",
+      "title": "",
+      "date": "2023/05/28",
+      "pages": []
+    },
+    {
+      "id": "drop-51",
+      "number": "51",
+      "title": "",
+      "date": "2023/06/04",
+      "pages": []
+    },
+    {
+      "id": "drop-52",
+      "number": "52",
+      "title": "",
+      "date": "2023/06/18",
+      "pages": []
+    },
+    {
+      "id": "drop-53",
+      "number": "53",
+      "title": "",
+      "date": "2023/06/25",
+      "pages": []
+    },
+    {
+      "id": "drop-54",
+      "number": "54",
+      "title": "Oh! GuriFIN",
+      "date": "2023/07/02",
+      "pages": []
+    },
+    {
+      "id": "drop-55",
+      "number": "55",
+      "title": "",
+      "date": "2023/07/09",
+      "pages": []
+    }
+  ]
+}

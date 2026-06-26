@@ -1,0 +1,942 @@
+{
+  "en": [
+    {
+      "id": "again-1",
+      "number": "1",
+      "title": "",
+      "date": "2012/02/22",
+      "pages": []
+    },
+    {
+      "id": "again-2",
+      "number": "2",
+      "title": "",
+      "date": "2012/03/06",
+      "pages": []
+    },
+    {
+      "id": "again-3",
+      "number": "3",
+      "title": "",
+      "date": "2012/03/22",
+      "pages": []
+    },
+    {
+      "id": "again-4",
+      "number": "4",
+      "title": "",
+      "date": "2012/03/26",
+      "pages": []
+    },
+    {
+      "id": "again-5",
+      "number": "5",
+      "title": "",
+      "date": "2012/04/09",
+      "pages": []
+    },
+    {
+      "id": "again-6",
+      "number": "6",
+      "title": "",
+      "date": "2012/04/27",
+      "pages": []
+    },
+    {
+      "id": "again-7",
+      "number": "7",
+      "title": "",
+      "date": "2012/05/07",
+      "pages": []
+    },
+    {
+      "id": "again-8",
+      "number": "8",
+      "title": "",
+      "date": "2012/06/12",
+      "pages": []
+    },
+    {
+      "id": "again-9",
+      "number": "9",
+      "title": "",
+      "date": "2012/06/12",
+      "pages": []
+    },
+    {
+      "id": "again-10",
+      "number": "10",
+      "title": "",
+      "date": "2012/06/12",
+      "pages": []
+    },
+    {
+      "id": "again-11",
+      "number": "11",
+      "title": "",
+      "date": "2012/06/12",
+      "pages": []
+    },
+    {
+      "id": "again-12",
+      "number": "12",
+      "title": "",
+      "date": "2012/06/12",
+      "pages": []
+    },
+    {
+      "id": "again-13",
+      "number": "13",
+      "title": "",
+      "date": "2012/07/17",
+      "pages": []
+    },
+    {
+      "id": "again-14",
+      "number": "14",
+      "title": "",
+      "date": "2012/07/19",
+      "pages": []
+    },
+    {
+      "id": "again-15",
+      "number": "15",
+      "title": "",
+      "date": "2012/08/04",
+      "pages": []
+    },
+    {
+      "id": "again-16",
+      "number": "16",
+      "title": "",
+      "date": "2012/08/19",
+      "pages": []
+    },
+    {
+      "id": "again-17",
+      "number": "17",
+      "title": "",
+      "date": "2012/09/08",
+      "pages": []
+    },
+    {
+      "id": "again-18",
+      "number": "18",
+      "title": "",
+      "date": "2012/09/08",
+      "pages": []
+    },
+    {
+      "id": "again-19",
+      "number": "19",
+      "title": "",
+      "date": "2012/09/29",
+      "pages": []
+    },
+    {
+      "id": "again-20",
+      "number": "20",
+      "title": "",
+      "date": "2012/10/08",
+      "pages": []
+    },
+    {
+      "id": "again-21",
+      "number": "21",
+      "title": "",
+      "date": "2012/10/24",
+      "pages": []
+    },
+    {
+      "id": "again-22",
+      "number": "22",
+      "title": "",
+      "date": "2012/11/14",
+      "pages": []
+    },
+    {
+      "id": "again-23",
+      "number": "23",
+      "title": "",
+      "date": "2012/12/03",
+      "pages": []
+    },
+    {
+      "id": "again-24",
+      "number": "24",
+      "title": "",
+      "date": "2013/02/05",
+      "pages": []
+    },
+    {
+      "id": "again-25",
+      "number": "25",
+      "title": "",
+      "date": "2013/02/13",
+      "pages": []
+    },
+    {
+      "id": "again-26",
+      "number": "26",
+      "title": "",
+      "date": "2013/02/20",
+      "pages": []
+    },
+    {
+      "id": "again-27",
+      "number": "27",
+      "title": "",
+      "date": "2013/02/27",
+      "pages": []
+    },
+    {
+      "id": "again-28",
+      "number": "28",
+      "title": "",
+      "date": "2013/03/06",
+      "pages": []
+    },
+    {
+      "id": "again-29",
+      "number": "29",
+      "title": "",
+      "date": "2013/03/13",
+      "pages": []
+    },
+    {
+      "id": "again-30",
+      "number": "30",
+      "title": "",
+      "date": "2013/03/20",
+      "pages": []
+    },
+    {
+      "id": "again-31",
+      "number": "31",
+      "title": "",
+      "date": "2013/03/27",
+      "pages": []
+    },
+    {
+      "id": "again-32",
+      "number": "32",
+      "title": "",
+      "date": "2013/04/03",
+      "pages": []
+    },
+    {
+      "id": "again-33",
+      "number": "33",
+      "title": "",
+      "date": "2013/04/10",
+      "pages": []
+    },
+    {
+      "id": "again-34",
+      "number": "34",
+      "title": "",
+      "date": "2013/04/24",
+      "pages": []
+    },
+    {
+      "id": "again-35",
+      "number": "35",
+      "title": "",
+      "date": "2013/05/01",
+      "pages": []
+    },
+    {
+      "id": "again-36",
+      "number": "36",
+      "title": "",
+      "date": "2013/05/08",
+      "pages": []
+    },
+    {
+      "id": "again-37",
+      "number": "37",
+      "title": "",
+      "date": "2013/05/18",
+      "pages": []
+    },
+    {
+      "id": "again-38",
+      "number": "38",
+      "title": "",
+      "date": "2013/05/22",
+      "pages": []
+    },
+    {
+      "id": "again-39",
+      "number": "39",
+      "title": "",
+      "date": "2013/05/25",
+      "pages": []
+    },
+    {
+      "id": "again-40",
+      "number": "40",
+      "title": "",
+      "date": "2013/05/29",
+      "pages": []
+    },
+    {
+      "id": "again-41",
+      "number": "41",
+      "title": "",
+      "date": "2013/06/01",
+      "pages": []
+    },
+    {
+      "id": "again-42",
+      "number": "42",
+      "title": "Misunderstanding x Misunderstanding",
+      "date": "2013/06/05",
+      "pages": []
+    },
+    {
+      "id": "again-43",
+      "number": "43",
+      "title": "Rendezvous on the Roof",
+      "date": "2013/06/12",
+      "pages": []
+    },
+    {
+      "id": "again-44",
+      "number": "44",
+      "title": "Second Again",
+      "date": "2013/06/12",
+      "pages": []
+    },
+    {
+      "id": "again-45",
+      "number": "45",
+      "title": "Love, Please",
+      "date": "2013/06/19",
+      "pages": []
+    },
+    {
+      "id": "again-46",
+      "number": "46",
+      "title": "",
+      "date": "2013/06/26",
+      "pages": []
+    },
+    {
+      "id": "again-47",
+      "number": "47",
+      "title": "A Check-in with You!",
+      "date": "2013/07/04",
+      "pages": []
+    },
+    {
+      "id": "again-48",
+      "number": "48",
+      "title": "Ouen Sentai Henjin Five!",
+      "date": "2013/07/10",
+      "pages": []
+    },
+    {
+      "id": "again-49",
+      "number": "49",
+      "title": "The Reason We're Here",
+      "date": "2013/07/17",
+      "pages": []
+    },
+    {
+      "id": "again-50",
+      "number": "50",
+      "title": "The Flower! The Flower Ouendan!",
+      "date": "2013/07/23",
+      "pages": []
+    },
+    {
+      "id": "again-51",
+      "number": "51",
+      "title": "Do Your Best, Do Your Best Season",
+      "date": "2013/08/20",
+      "pages": []
+    },
+    {
+      "id": "again-52",
+      "number": "52",
+      "title": "Dance of Victory!!!!",
+      "date": "2013/08/20",
+      "pages": []
+    },
+    {
+      "id": "again-53",
+      "number": "53",
+      "title": "Why Us",
+      "date": "2013/08/20",
+      "pages": []
+    },
+    {
+      "id": "again-54",
+      "number": "54",
+      "title": "Play Ball",
+      "date": "2013/08/20",
+      "pages": []
+    },
+    {
+      "id": "again-57",
+      "number": "57",
+      "title": "Duel in the Bathroom",
+      "date": "2013/08/20",
+      "pages": []
+    },
+    {
+      "id": "again-58",
+      "number": "58",
+      "title": "Unexperienced Flashback",
+      "date": "2013/08/20",
+      "pages": []
+    },
+    {
+      "id": "again-59",
+      "number": "59",
+      "title": "Usami Magic!",
+      "date": "2013/08/20",
+      "pages": []
+    },
+    {
+      "id": "again-60",
+      "number": "60",
+      "title": "Ponytail and Joyful!",
+      "date": "2013/08/20",
+      "pages": []
+    },
+    {
+      "id": "again-61",
+      "number": "61",
+      "title": "Fun Cheering!",
+      "date": "2013/08/20",
+      "pages": []
+    },
+    {
+      "id": "again-62",
+      "number": "62",
+      "title": "Kiss Me Right Now!",
+      "date": "2013/08/20",
+      "pages": []
+    },
+    {
+      "id": "again-63",
+      "number": "63",
+      "title": "All we need is the OUENDAN",
+      "date": "2013/08/20",
+      "pages": []
+    },
+    {
+      "id": "again-64",
+      "number": "64",
+      "title": "The World Afterwards",
+      "date": "2013/08/20",
+      "pages": []
+    },
+    {
+      "id": "again-65",
+      "number": "65",
+      "title": "Stand of Dreams",
+      "date": "2013/08/28",
+      "pages": []
+    },
+    {
+      "id": "again-66",
+      "number": "66",
+      "title": "After The Party",
+      "date": "2013/09/03",
+      "pages": []
+    },
+    {
+      "id": "again-67",
+      "number": "67",
+      "title": "Again Vice!",
+      "date": "2013/09/17",
+      "pages": []
+    },
+    {
+      "id": "again-68",
+      "number": "68",
+      "title": "Immoral Charming",
+      "date": "2013/09/24",
+      "pages": []
+    },
+    {
+      "id": "again-69",
+      "number": "69",
+      "title": "Crossover Line of Hell",
+      "date": "2013/10/01",
+      "pages": []
+    },
+    {
+      "id": "again-70",
+      "number": "70",
+      "title": "Red Hot Chili Peppers",
+      "date": "2013/10/08",
+      "pages": []
+    },
+    {
+      "id": "again-71",
+      "number": "71",
+      "title": "The ABC s of an Adult Love Affair",
+      "date": "2013/10/22",
+      "pages": []
+    },
+    {
+      "id": "again-72",
+      "number": "72",
+      "title": "After Entering a Relationship",
+      "date": "2013/11/06",
+      "pages": []
+    },
+    {
+      "id": "again-73",
+      "number": "73",
+      "title": "New Comedy of the Imamura Family",
+      "date": "2013/12/12",
+      "pages": []
+    },
+    {
+      "id": "again-74",
+      "number": "74",
+      "title": "The Magical Creature that Inhabits the Den in the West",
+      "date": "2013/12/12",
+      "pages": []
+    },
+    {
+      "id": "again-75",
+      "number": "75",
+      "title": "Negative Monster",
+      "date": "2014/01/15",
+      "pages": []
+    },
+    {
+      "id": "again-76",
+      "number": "76",
+      "title": "Big Impact!! Before And After!!",
+      "date": "2014/01/15",
+      "pages": []
+    },
+    {
+      "id": "again-77",
+      "number": "77",
+      "title": "Surrender To Misery",
+      "date": "2014/02/05",
+      "pages": []
+    },
+    {
+      "id": "again-78",
+      "number": "78",
+      "title": "I Can't Leave You Alone",
+      "date": "2014/02/23",
+      "pages": []
+    },
+    {
+      "id": "again-79",
+      "number": "79",
+      "title": "Shakespeare's Rebellion",
+      "date": "2014/03/19",
+      "pages": []
+    },
+    {
+      "id": "again-80",
+      "number": "80",
+      "title": "Let's Sing! Let's Dance! The Play of Dreams!!",
+      "date": "2014/04/26",
+      "pages": []
+    },
+    {
+      "id": "again-81",
+      "number": "81",
+      "title": "Listen! High School Students of All Countries!!",
+      "date": "2014/04/26",
+      "pages": []
+    },
+    {
+      "id": "again-82",
+      "number": "82",
+      "title": "I Want To Die Musical",
+      "date": "2014/05/20",
+      "pages": []
+    },
+    {
+      "id": "again-83",
+      "number": "83",
+      "title": "My Fair Lady",
+      "date": "2014/06/14",
+      "pages": []
+    },
+    {
+      "id": "again-84",
+      "number": "84",
+      "title": "Woman's Greatest Weakness",
+      "date": "2014/06/20",
+      "pages": []
+    },
+    {
+      "id": "again-85",
+      "number": "85",
+      "title": "Beauty Power",
+      "date": "2014/06/29",
+      "pages": []
+    },
+    {
+      "id": "again-86",
+      "number": "86",
+      "title": "What's Happening to the Plot Limbo",
+      "date": "2014/07/20",
+      "pages": []
+    },
+    {
+      "id": "again-87",
+      "number": "87",
+      "title": "Want to Die Musical Fire Scene",
+      "date": "2014/08/19",
+      "pages": []
+    },
+    {
+      "id": "again-88",
+      "number": "88",
+      "title": "Center Position",
+      "date": "2014/08/19",
+      "pages": []
+    },
+    {
+      "id": "again-89",
+      "number": "89",
+      "title": "WTD Musical is Sick",
+      "date": "2014/08/19",
+      "pages": []
+    },
+    {
+      "id": "again-90",
+      "number": "90",
+      "title": "Goody-Two-Shoes Teacher",
+      "date": "2014/12/08",
+      "pages": []
+    },
+    {
+      "id": "again-91",
+      "number": "91",
+      "title": "Passion  Ice Water",
+      "date": "2015/01/12",
+      "pages": []
+    },
+    {
+      "id": "again-92",
+      "number": "92",
+      "title": "I Hate My Speaking Skills!",
+      "date": "2015/02/12",
+      "pages": []
+    },
+    {
+      "id": "again-93",
+      "number": "93",
+      "title": "Naked Skinship",
+      "date": "2015/06/01",
+      "pages": []
+    },
+    {
+      "id": "again-94",
+      "number": "94",
+      "title": "Secret \"I Want to Die\" Show",
+      "date": "2015/07/02",
+      "pages": []
+    },
+    {
+      "id": "again-95",
+      "number": "95",
+      "title": "Dead or Alive",
+      "date": "2015/08/19",
+      "pages": []
+    },
+    {
+      "id": "again-96",
+      "number": "96",
+      "title": "I Want To Die Inflation",
+      "date": "2015/08/19",
+      "pages": []
+    },
+    {
+      "id": "again-97",
+      "number": "97",
+      "title": "An Everyday Life Where Nothing Ever Happened",
+      "date": "2015/08/19",
+      "pages": []
+    },
+    {
+      "id": "again-98",
+      "number": "98",
+      "title": "Scary Fun",
+      "date": "2015/08/19",
+      "pages": []
+    },
+    {
+      "id": "again-99",
+      "number": "99",
+      "title": "The Last Song's For You",
+      "date": "2016/01/03",
+      "pages": []
+    },
+    {
+      "id": "again-100",
+      "number": "100",
+      "title": "",
+      "date": "2016/06/17",
+      "pages": []
+    },
+    {
+      "id": "again-101",
+      "number": "101",
+      "title": "Fortunate Girl, Unfortunately Blind",
+      "date": "2016/11/05",
+      "pages": []
+    },
+    {
+      "id": "again-102",
+      "number": "102",
+      "title": "Dramatic Rain",
+      "date": "2016/12/06",
+      "pages": []
+    },
+    {
+      "id": "again-103",
+      "number": "103",
+      "title": "Live, Love, and Be Loved!!",
+      "date": "2016/12/06",
+      "pages": []
+    },
+    {
+      "id": "again-104",
+      "number": "104",
+      "title": "Girls are like soap bubbles?",
+      "date": "2017/04/25",
+      "pages": []
+    },
+    {
+      "id": "again-105",
+      "number": "105",
+      "title": "Falling Down",
+      "date": "2017/05/30",
+      "pages": []
+    },
+    {
+      "id": "again-106",
+      "number": "106",
+      "title": "",
+      "date": "2018/02/26",
+      "pages": []
+    },
+    {
+      "id": "again-107",
+      "number": "107",
+      "title": "",
+      "date": "2018/06/07",
+      "pages": []
+    },
+    {
+      "id": "again-108",
+      "number": "108",
+      "title": "",
+      "date": "2018/06/07",
+      "pages": []
+    },
+    {
+      "id": "again-109",
+      "number": "109",
+      "title": "Nevermind Grandma",
+      "date": "2019/02/13",
+      "pages": []
+    },
+    {
+      "id": "again-110",
+      "number": "110",
+      "title": "Dan Da dan Dan Danchou",
+      "date": "2019/02/13",
+      "pages": []
+    },
+    {
+      "id": "again-111",
+      "number": "111",
+      "title": "School Uniform Heroes",
+      "date": "2019/04/17",
+      "pages": []
+    },
+    {
+      "id": "again-112",
+      "number": "112",
+      "title": "Being Danchou is Impossible",
+      "date": "2019/04/17",
+      "pages": []
+    },
+    {
+      "id": "again-113",
+      "number": "113",
+      "title": "To Each his own Danchou",
+      "date": "2019/04/17",
+      "pages": []
+    },
+    {
+      "id": "again-114",
+      "number": "114",
+      "title": "My Name is SamaHiko",
+      "date": "2019/04/26",
+      "pages": []
+    },
+    {
+      "id": "again-115",
+      "number": "115",
+      "title": "Dont Lose",
+      "date": "2019/05/06",
+      "pages": []
+    },
+    {
+      "id": "again-116",
+      "number": "116",
+      "title": "A Friend s Friend is a Stranger",
+      "date": "2019/05/19",
+      "pages": []
+    },
+    {
+      "id": "again-117",
+      "number": "117",
+      "title": "Danchou Qualifications",
+      "date": "2019/05/19",
+      "pages": []
+    },
+    {
+      "id": "again-118",
+      "number": "118",
+      "title": "Dissension in the Ranks",
+      "date": "2019/07/18",
+      "pages": []
+    },
+    {
+      "id": "again-119",
+      "number": "119",
+      "title": "Analyze Me!",
+      "date": "2019/07/18",
+      "pages": []
+    },
+    {
+      "id": "again-120",
+      "number": "120",
+      "title": "Love Beyond the Vaports",
+      "date": "2019/08/08",
+      "pages": []
+    },
+    {
+      "id": "again-121",
+      "number": "121",
+      "title": "Street Corner Cheer-Up!!",
+      "date": "2019/08/30",
+      "pages": []
+    },
+    {
+      "id": "again-122",
+      "number": "122",
+      "title": "Runaway Loneliness!",
+      "date": "2019/11/13",
+      "pages": []
+    },
+    {
+      "id": "again-123",
+      "number": "123",
+      "title": "The One Who Didnt Ring The Bell Was You",
+      "date": "2019/11/28",
+      "pages": []
+    },
+    {
+      "id": "again-124",
+      "number": "124",
+      "title": "Heart Strong",
+      "date": "2020/01/01",
+      "pages": []
+    },
+    {
+      "id": "again-125",
+      "number": "125",
+      "title": "On Your Marks",
+      "date": "2020/01/01",
+      "pages": []
+    },
+    {
+      "id": "again-126",
+      "number": "126",
+      "title": "Run!",
+      "date": "2020/02/02",
+      "pages": []
+    },
+    {
+      "id": "again-127",
+      "number": "127",
+      "title": "Hello From the Bottom of My Stomach",
+      "date": "2020/02/15",
+      "pages": []
+    },
+    {
+      "id": "again-128",
+      "number": "128",
+      "title": "The Rabbit is a Rabbit?",
+      "date": "2020/03/12",
+      "pages": []
+    },
+    {
+      "id": "again-129",
+      "number": "129",
+      "title": "Came A Long Way?!",
+      "date": "2020/05/07",
+      "pages": []
+    },
+    {
+      "id": "again-130",
+      "number": "130",
+      "title": "Nine years Later",
+      "date": "2020/05/07",
+      "pages": []
+    },
+    {
+      "id": "again-131",
+      "number": "131",
+      "title": "Alone Again",
+      "date": "2020/05/07",
+      "pages": []
+    },
+    {
+      "id": "again-132",
+      "number": "132",
+      "title": "Stand By You",
+      "date": "2020/05/07",
+      "pages": []
+    },
+    {
+      "id": "again-133",
+      "number": "133",
+      "title": "Awkward/Other Side",
+      "date": "2020/05/07",
+      "pages": []
+    },
+    {
+      "id": "again-134",
+      "number": "134",
+      "title": "A Simple Cheer",
+      "date": "2020/05/07",
+      "pages": []
+    },
+    {
+      "id": "again-135",
+      "number": "135",
+      "title": "Resurrection of the Blond Wolf",
+      "date": "2020/05/07",
+      "pages": []
+    },
+    {
+      "id": "again-136",
+      "number": "136",
+      "title": "Screw a DO-OVER",
+      "date": "2020/05/07",
+      "pages": []
+    }
+  ]
+}

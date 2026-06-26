@@ -1,0 +1,858 @@
+{
+  "en": [
+    {
+      "id": "darwins-game-1",
+      "number": "1",
+      "title": "",
+      "date": "2013/07/02",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-2",
+      "number": "2",
+      "title": "",
+      "date": "2013/07/02",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-3",
+      "number": "3",
+      "title": "",
+      "date": "2013/07/02",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-4",
+      "number": "4",
+      "title": "",
+      "date": "2013/07/02",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-5",
+      "number": "5",
+      "title": "",
+      "date": "2013/12/24",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-6",
+      "number": "6",
+      "title": "",
+      "date": "2014/02/23",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-7",
+      "number": "7",
+      "title": "",
+      "date": "2014/03/30",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-8",
+      "number": "8",
+      "title": "",
+      "date": "2014/09/02",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-9",
+      "number": "9",
+      "title": "",
+      "date": "2014/09/02",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-10",
+      "number": "10",
+      "title": "",
+      "date": "2014/10/05",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-11",
+      "number": "11",
+      "title": "",
+      "date": "2014/11/23",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-12",
+      "number": "12",
+      "title": "",
+      "date": "2014/12/31",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-13",
+      "number": "13",
+      "title": "",
+      "date": "2015/05/24",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-14",
+      "number": "14",
+      "title": "",
+      "date": "2015/05/24",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-15",
+      "number": "15",
+      "title": "",
+      "date": "2015/05/24",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-16",
+      "number": "16",
+      "title": "",
+      "date": "2015/05/24",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-17",
+      "number": "17",
+      "title": "",
+      "date": "2015/05/24",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-18",
+      "number": "18",
+      "title": "",
+      "date": "2015/05/24",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-19",
+      "number": "19",
+      "title": "",
+      "date": "2015/07/01",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-20",
+      "number": "20",
+      "title": "",
+      "date": "2015/08/12",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-21",
+      "number": "21",
+      "title": "",
+      "date": "2015/10/05",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-22",
+      "number": "22",
+      "title": "",
+      "date": "2017/01/26",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-23",
+      "number": "23",
+      "title": "",
+      "date": "2017/01/26",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-24",
+      "number": "24",
+      "title": "",
+      "date": "2017/01/26",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-25",
+      "number": "25",
+      "title": "",
+      "date": "2017/01/26",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-26",
+      "number": "26",
+      "title": "",
+      "date": "2017/01/26",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-27",
+      "number": "27",
+      "title": "",
+      "date": "2017/01/26",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-28",
+      "number": "28",
+      "title": "",
+      "date": "2017/01/26",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-29",
+      "number": "29",
+      "title": "",
+      "date": "2017/01/26",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-30",
+      "number": "30",
+      "title": "",
+      "date": "2017/01/26",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-31",
+      "number": "31",
+      "title": "",
+      "date": "2017/01/26",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-32",
+      "number": "32",
+      "title": "",
+      "date": "2017/01/26",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-33",
+      "number": "33",
+      "title": "",
+      "date": "2017/01/26",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-34",
+      "number": "34",
+      "title": "",
+      "date": "2017/01/26",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-35",
+      "number": "35",
+      "title": "",
+      "date": "2017/03/08",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-36",
+      "number": "36",
+      "title": "",
+      "date": "2017/03/08",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-37",
+      "number": "37",
+      "title": "",
+      "date": "2017/03/08",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-38",
+      "number": "38",
+      "title": "",
+      "date": "2017/04/11",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-39",
+      "number": "39",
+      "title": "",
+      "date": "2017/07/30",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-40",
+      "number": "40",
+      "title": "",
+      "date": "2017/07/30",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-41",
+      "number": "41",
+      "title": "",
+      "date": "2017/07/30",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-42",
+      "number": "42",
+      "title": "",
+      "date": "2017/09/18",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-43",
+      "number": "43",
+      "title": "",
+      "date": "2017/10/19",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-44",
+      "number": "44",
+      "title": "",
+      "date": "2018/02/11",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-45",
+      "number": "45",
+      "title": "",
+      "date": "2018/02/11",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-46",
+      "number": "46",
+      "title": "",
+      "date": "2018/02/20",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-47",
+      "number": "47",
+      "title": "",
+      "date": "2018/04/05",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-48",
+      "number": "48",
+      "title": "",
+      "date": "2018/06/02",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-49",
+      "number": "49",
+      "title": "",
+      "date": "2018/06/02",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-50",
+      "number": "50",
+      "title": "",
+      "date": "2018/07/19",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-51",
+      "number": "51",
+      "title": "",
+      "date": "2018/07/29",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-52",
+      "number": "52",
+      "title": "",
+      "date": "2018/08/16",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-53",
+      "number": "53",
+      "title": "",
+      "date": "2018/09/24",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-54",
+      "number": "54",
+      "title": "",
+      "date": "2018/10/30",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-55",
+      "number": "55",
+      "title": "",
+      "date": "2018/11/03",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-56",
+      "number": "56",
+      "title": "",
+      "date": "2018/12/01",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-57",
+      "number": "57",
+      "title": "",
+      "date": "2018/12/02",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-58",
+      "number": "58",
+      "title": "",
+      "date": "2018/12/06",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-59",
+      "number": "59",
+      "title": "",
+      "date": "2018/12/18",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-60",
+      "number": "60",
+      "title": "",
+      "date": "2018/12/25",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-61",
+      "number": "61",
+      "title": "",
+      "date": "2019/01/01",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-62",
+      "number": "62",
+      "title": "",
+      "date": "2019/01/09",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-63",
+      "number": "63",
+      "title": "",
+      "date": "2019/01/16",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-64",
+      "number": "64",
+      "title": "",
+      "date": "2019/01/24",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-65",
+      "number": "65",
+      "title": "",
+      "date": "2019/02/11",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-66",
+      "number": "66",
+      "title": "",
+      "date": "2019/03/05",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-67",
+      "number": "67",
+      "title": "",
+      "date": "2019/03/30",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-68",
+      "number": "68",
+      "title": "",
+      "date": "2019/03/30",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-69",
+      "number": "69",
+      "title": "",
+      "date": "2019/04/14",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-70",
+      "number": "70",
+      "title": "",
+      "date": "2019/05/09",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-71",
+      "number": "71",
+      "title": "",
+      "date": "2019/06/01",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-72",
+      "number": "72",
+      "title": "",
+      "date": "2019/06/15",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-73",
+      "number": "73",
+      "title": "",
+      "date": "2019/07/07",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-74",
+      "number": "74",
+      "title": "",
+      "date": "2019/07/29",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-75",
+      "number": "75",
+      "title": "",
+      "date": "2019/09/10",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-76",
+      "number": "76",
+      "title": "",
+      "date": "2019/10/10",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-77",
+      "number": "77",
+      "title": "",
+      "date": "2019/11/05",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-78",
+      "number": "78",
+      "title": "",
+      "date": "2019/11/25",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-79",
+      "number": "79",
+      "title": "",
+      "date": "2019/12/24",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-80",
+      "number": "80",
+      "title": "",
+      "date": "2020/01/13",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-81",
+      "number": "81",
+      "title": "",
+      "date": "2020/02/09",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-82",
+      "number": "82",
+      "title": "",
+      "date": "2020/03/01",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-83",
+      "number": "83",
+      "title": "",
+      "date": "2020/03/20",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-84",
+      "number": "84",
+      "title": "",
+      "date": "2020/05/19",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-85",
+      "number": "85",
+      "title": "",
+      "date": "2020/06/25",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-86",
+      "number": "86",
+      "title": "",
+      "date": "2020/07/20",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-87",
+      "number": "87",
+      "title": "",
+      "date": "2020/08/23",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-88",
+      "number": "88",
+      "title": "",
+      "date": "2020/09/25",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-89",
+      "number": "89",
+      "title": "",
+      "date": "2020/11/02",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-90",
+      "number": "90",
+      "title": "",
+      "date": "2020/12/07",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-91",
+      "number": "91",
+      "title": "",
+      "date": "2021/01/17",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-92",
+      "number": "92",
+      "title": "",
+      "date": "2021/02/20",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-93",
+      "number": "93",
+      "title": "",
+      "date": "2021/04/07",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-94",
+      "number": "94",
+      "title": "",
+      "date": "2021/06/15",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-95",
+      "number": "95",
+      "title": "",
+      "date": "2021/08/16",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-96",
+      "number": "96",
+      "title": "",
+      "date": "2021/10/14",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-97",
+      "number": "97",
+      "title": "",
+      "date": "2021/12/17",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-98",
+      "number": "98",
+      "title": "",
+      "date": "2022/02/25",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-99",
+      "number": "99",
+      "title": "",
+      "date": "2022/06/20",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-100",
+      "number": "100",
+      "title": "",
+      "date": "2022/07/01",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-101",
+      "number": "101",
+      "title": "",
+      "date": "2022/07/01",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-102",
+      "number": "102",
+      "title": "",
+      "date": "2022/07/10",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-103",
+      "number": "103",
+      "title": "",
+      "date": "2022/07/10",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-104",
+      "number": "104",
+      "title": "",
+      "date": "2022/07/13",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-105",
+      "number": "105",
+      "title": "",
+      "date": "2022/07/15",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-106a",
+      "number": "106a",
+      "title": "",
+      "date": "2022/07/24",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-106b",
+      "number": "106b",
+      "title": "",
+      "date": "2022/08/10",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-107",
+      "number": "107",
+      "title": "",
+      "date": "2022/09/25",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-108",
+      "number": "108",
+      "title": "",
+      "date": "2022/11/03",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-109",
+      "number": "109",
+      "title": "",
+      "date": "2023/01/17",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-110",
+      "number": "110",
+      "title": "",
+      "date": "2023/03/23",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-111",
+      "number": "111",
+      "title": "",
+      "date": "2023/05/17",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-112",
+      "number": "112",
+      "title": "",
+      "date": "2023/07/06",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-113",
+      "number": "113",
+      "title": "",
+      "date": "2023/11/04",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-114",
+      "number": "114",
+      "title": "",
+      "date": "2023/11/04",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-115",
+      "number": "115",
+      "title": "",
+      "date": "2023/11/04",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-116",
+      "number": "116",
+      "title": "",
+      "date": "2023/11/04",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-117",
+      "number": "117",
+      "title": "",
+      "date": "2023/11/04",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-118",
+      "number": "118",
+      "title": "",
+      "date": "2023/11/04",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-119",
+      "number": "119",
+      "title": "",
+      "date": "2023/11/04",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-120",
+      "number": "120",
+      "title": "",
+      "date": "2023/11/04",
+      "pages": []
+    },
+    {
+      "id": "darwins-game-121",
+      "number": "121",
+      "title": "",
+      "date": "2023/11/12",
+      "pages": []
+    }
+  ]
+}

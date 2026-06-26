@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="referrer" content="no-referrer">
+  <title>Catálogo — MangaBankai</title>
+  <meta name="description" content="Explore o catálogo completo de mangás e manhwas.">
+  <meta name="theme-color" content="#6c63ff">
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📖</text></svg>">
+</head>
+<body>
+  <div id="filterOverlay" class="filter-overlay" onclick="toggleFilterDrawer()"></div>
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="logo">Manga<span class="accent">Bankai</span><span class="dot"></span></a>
+      <nav class="nav">
+        <a href="index.html">Início</a>
+        <a href="catalog.html" class="active">Catálogo</a>
+      </nav>
+      <div class="search-bar">
+        <input type="text" id="searchInput" placeholder="Pesquisar mangás..." autocomplete="off">
+        <button class="search-btn" onclick="const q=document.getElementById('searchInput').value.trim();if(q)window.location.href='catalog.html?q='+encodeURIComponent(q)">🔍</button>
+        <div class="search-dropdown" id="searchDropdown"></div>
+      </div>
+    </div>
+  </header>
+
+  <div class="catalog-header">
+    <div class="container">
+      <div class="breadcrumb" style="padding:0 0 8px">
+        <a href="index.html">Início</a>
+        <span class="sep">›</span>
+        <span>Catálogo</span>
+      </div>
+      <div class="ch-content">
+        <h1>Catálogo Completo</h1>
+        <p>Explore todos os mangás disponíveis.</p>
+      </div>
+    </div>
+  </div>
+
+  <section class="catalog-layout container">
+    <aside class="filter-sidebar">
+      <h3 style="display:flex;align-items:center;gap:10px;width:100%;">
+        Filtros 
+        <span class="clear-filters" onclick="resetFilters()">Limpar todos</span>
+        <span class="close-filters" onclick="toggleFilterDrawer()" style="display:none; cursor:pointer; font-size:1.2rem; color:var(--text-muted); margin-left:auto;">✕</span>
+      </h3>
+
+      <div class="filter-group">
+        <label>Busca</label>
+        <input type="text" id="filterQuery" placeholder="Nome do mangá..." autocomplete="off">
+      </div>
+
+      <div class="filter-group">
+        <label>Ordenar</label>
+        <select id="filterSort">
+          <option value="recent">Mais Recentes</option>
+          <option value="title">A-Z</option>
+          <option value="chapters">Mais Capítulos</option>
+        </select>
+      </div>
+
+      <div class="filter-group">
+        <label>Gêneros</label>
+        <div id="genreFilters" class="genre-checkboxes"></div>
+      </div>
+    </aside>
+
+    <div>
+      <div class="catalog-toolbar">
+        <div class="left">
+          <button id="btnToggleFilters" class="btn-toggle-filters" onclick="toggleFilterDrawer()">🔍 Filtrar</button>
+          <span class="result-count" id="resultCount">Carregando...</span>
+          <div class="view-toggle">
+            <button id="viewGrid" class="active" onclick="setView('grid')" title="Grade">⊞</button>
+            <button id="viewList" onclick="setView('list')" title="Lista">☰</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="active-filters" id="activeFilters"></div>
+
+      <div class="manga-grid" id="catalogGrid">
+        <div class="skeleton-card"></div>
+        <div class="skeleton-card"></div>
+        <div class="skeleton-card"></div>
+        <div class="skeleton-card"></div>
+      </div>
+
+      <div class="pagination" id="pagination"></div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <div class="logo">Manga<span class="accent">Bankai</span><span class="dot"></span></div>
+          <p>Sua plataforma para ler mangás online. Todos os links são fornecidos por parceiros legais autorizados.</p>
+        </div>
+        <div>
+          <h4>Navegação</h4>
+          <ul>
+            <li><a href="index.html">Início</a></li>
+            <li><a href="catalog.html">Catálogo</a></li>
+            <li><a href="terms.html">Termos de Uso</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Gêneros</h4>
+          <ul>
+            <li><a href="catalog.html?genre=Ação">Ação</a></li>
+            <li><a href="catalog.html?genre=Comédia">Comédia</a></li>
+            <li><a href="catalog.html?genre=Fantasia">Fantasia</a></li>
+            <li><a href="catalog.html?genre=Shounen">Shounen</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Status</h4>
+          <ul>
+            <li><a href="catalog.html?status=ongoing">Em Andamento</a></li>
+            <li><a href="catalog.html?status=completed">Completo</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2026 MangaBankai. Lages-SC. Os links deste site são de fontes legais e autorizadas.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/data-lite.js"></script>
+  <script src="js/main.js"></script>
+  <script>
+    function toggleFilterDrawer() {
+      const sidebar = document.querySelector('.filter-sidebar');
+      const overlay = document.getElementById('filterOverlay');
+      sidebar.classList.toggle('open');
+      overlay.classList.toggle('open');
+      document.body.classList.toggle('no-scroll', sidebar.classList.contains('open'));
+    }
+
+    const ITEMS_PER_PAGE = 12;
+    let currentPage = 1;
+    let currentFilters = {};
+    let currentView = 'grid';
+
+    function getUrlParams() {
+      const p = new URLSearchParams(window.location.search);
+      const genres = p.getAll('genre');
+      return { q: p.get('q') || '', sort: p.get('sort') || 'recent', genres };
+    }
+
+    function applyFilters() {
+      const params = getUrlParams();
+      const checkedGenres = [...document.querySelectorAll('#genreFilters input:checked')].map(cb => cb.value);
+      currentFilters = {
+        query: document.getElementById('filterQuery').value.trim() || params.q,
+        sort: document.getElementById('filterSort').value || params.sort,
+        genres: checkedGenres.length > 0 ? checkedGenres : params.genres
+      };
+      currentPage = 1;
+      renderCatalog();
+      renderActiveFilters();
+    }
+
+    function renderActiveFilters() {
+      const container = document.getElementById('activeFilters');
+      const chips = [];
+      if (currentFilters.query) chips.push({ label: '"' + currentFilters.query + '"', key: 'query' });
+      if (currentFilters.genres && currentFilters.genres.length > 0) {
+        currentFilters.genres.forEach(function(g) {
+          chips.push({ label: g, key: 'genre:' + g });
+        });
+      }
+      if (chips.length === 0) { container.innerHTML = ''; return; }
+      container.innerHTML = chips.map(function(c) {
+        return '<span class="active-filter">' + c.label + ' <span class="remove" onclick="removeFilter(\'' + c.key + '\')">×</span></span>';
+      }).join('');
+    }
+
+    window.removeFilter = function(key) {
+      if (key === 'query') { document.getElementById('filterQuery').value = ''; currentFilters.query = ''; }
+      if (key.startsWith('genre:')) {
+        const genre = key.replace('genre:', '');
+        const cb = document.querySelector('#genreFilters input[value="' + genre + '"]');
+        if (cb) cb.checked = false;
+        currentFilters.genres = currentFilters.genres.filter(function(g) { return g !== genre; });
+      }
+      renderCatalog();
+      renderActiveFilters();
+    };
+
+    function resetFilters() {
+      document.getElementById('filterQuery').value = '';
+      document.getElementById('filterSort').value = 'recent';
+      currentFilters = {};
+      currentPage = 1;
+      renderCatalog();
+      document.getElementById('activeFilters').innerHTML = '';
+    }
+
+    function setView(view) {
+      currentView = view;
+      document.getElementById('viewGrid').classList.toggle('active', view === 'grid');
+      document.getElementById('viewList').classList.toggle('active', view === 'list');
+      renderCatalog();
+    }
+
+    function renderCatalog() {
+      var results = filterManga(currentFilters);
+      var totalItems = results.length;
+      var totalPages = Math.ceil(totalItems / ITEMS_PER_PAGE) || 1;
+      var start = (currentPage - 1) * ITEMS_PER_PAGE;
+      var pageItems = results.slice(start, start + ITEMS_PER_PAGE);
+
+      document.getElementById('resultCount').textContent = pageItems.length + ' de ' + totalItems + ' mangás';
+      renderMangaGrid(pageItems, 'catalogGrid', currentView === 'list');
+      renderPagination(totalPages);
+    }
+
+    function renderPagination(totalPages) {
+      var c = document.getElementById('pagination');
+      c.innerHTML = '';
+      if (totalPages <= 1) return;
+
+      var prev = document.createElement('button');
+      prev.textContent = '‹ Anterior';
+      prev.disabled = currentPage === 1;
+      prev.onclick = function() { if (currentPage > 1) { currentPage--; renderCatalog(); } };
+      c.appendChild(prev);
+
+      var startPage = Math.max(1, currentPage - 2);
+      var endPage = Math.min(totalPages, startPage + 4);
+      if (endPage - startPage < 4) startPage = Math.max(1, endPage - 4);
+
+      for (var i = startPage; i <= endPage; i++) {
+        (function(page) {
+          var btn = document.createElement('button');
+          btn.textContent = page;
+          if (page === currentPage) btn.classList.add('active');
+          btn.onclick = function() { currentPage = page; renderCatalog(); };
+          c.appendChild(btn);
+        })(i);
+      }
+
+      var next = document.createElement('button');
+      next.textContent = 'Próximo ›';
+      next.disabled = currentPage === totalPages;
+      next.onclick = function() { if (currentPage < totalPages) { currentPage++; renderCatalog(); } };
+      c.appendChild(next);
+    }
+
+    // Init: render genre checkboxes
+    (function() {
+      var gc = document.getElementById('genreFilters');
+      getAvailableGenres().forEach(function(g) {
+        var label = document.createElement('label');
+        label.className = 'genre-cb';
+        var cb = document.createElement('input');
+        cb.type = 'checkbox';
+        cb.value = g;
+        cb.onchange = applyFilters;
+        label.appendChild(cb);
+        label.appendChild(document.createTextNode(' ' + g));
+        gc.appendChild(label);
+      });
+    })();
+
+    // Init from URL params
+    (function() {
+      var params = getUrlParams();
+      if (params.q) { document.getElementById('filterQuery').value = params.q; }
+      if (params.sort) { document.getElementById('filterSort').value = params.sort; }
+      if (params.genres.length > 0) {
+        params.genres.forEach(function(g) {
+          var cb = document.querySelector('#genreFilters input[value="' + g + '"]');
+          if (cb) cb.checked = true;
+        });
+      }
+      applyFilters();
+    })();
+  </script>
+</body>
+</html>

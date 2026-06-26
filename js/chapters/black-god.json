@@ -1,0 +1,809 @@
+{
+  "en": [
+    {
+      "id": "black-god-1",
+      "number": "1",
+      "title": "Encounter x Afflatus",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-2",
+      "number": "2",
+      "title": "Contract x Chaos",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-3",
+      "number": "3",
+      "title": "Synchronization Attack",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-4",
+      "number": "4",
+      "title": "Conversion x Panic",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-5",
+      "number": "5",
+      "title": "Victory x Conflict",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-6",
+      "number": "6",
+      "title": "Contract x Experiment",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-7",
+      "number": "7",
+      "title": "Crossing x Opportunity",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-8",
+      "number": "8",
+      "title": "Impatience x Inspiration",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-9",
+      "number": "9",
+      "title": "Clash x Recoil",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-10",
+      "number": "10",
+      "title": "Transcendental x Share",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-11",
+      "number": "11",
+      "title": "Enforce x Load",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-12",
+      "number": "12",
+      "title": "Rest x Hardening",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-13",
+      "number": "13",
+      "title": "Grief x Eyewitness",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-14",
+      "number": "14",
+      "title": "Selfscorn x Misconceive",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-15",
+      "number": "15",
+      "title": "Approach x Vigilance",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-16",
+      "number": "16",
+      "title": "Spirit x Agreement",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-17",
+      "number": "17",
+      "title": "Confusion x Shock",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-18",
+      "number": "18",
+      "title": "Destiny x Resolve",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-19",
+      "number": "19",
+      "title": "Proficiency x Indecision",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-20",
+      "number": "20",
+      "title": "Restraint x Selfsacrifice",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-21",
+      "number": "21",
+      "title": "Encounter x Give And Take",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-22",
+      "number": "22",
+      "title": "Sightseeing x Yearning",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-23",
+      "number": "23",
+      "title": "Deliverance x Invocation",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-24",
+      "number": "24",
+      "title": "Mistake x Reunion",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-25",
+      "number": "25",
+      "title": "Sensation x Cowardice",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-26",
+      "number": "26",
+      "title": "Countercurrent x Disaster",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-27",
+      "number": "27",
+      "title": "Search x Overview",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-28",
+      "number": "28",
+      "title": "Sacred Ground x Sacred Tool",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-29",
+      "number": "29",
+      "title": "Swim x Unexpected Encounter",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-30",
+      "number": "30",
+      "title": "Languish x Reminiscence",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-31",
+      "number": "31",
+      "title": "Entreaty x Impatience",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-32",
+      "number": "32",
+      "title": "Astonishment x Understanding",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-33",
+      "number": "33",
+      "title": "Investigation x Heartache",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-34",
+      "number": "34",
+      "title": "Cornered x Refusal",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-35",
+      "number": "35",
+      "title": "Crisis x Reminiscence",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-36",
+      "number": "36",
+      "title": "Clan x Confession",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-37",
+      "number": "37",
+      "title": "Twilight of the Silver Lion 1",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-38",
+      "number": "38",
+      "title": "Twilight of the Silver Lion 2",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-39",
+      "number": "39",
+      "title": "Twilight of the Silver Lion 3",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-40",
+      "number": "40",
+      "title": "Twilight of the Silver Lion 4",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-41",
+      "number": "41",
+      "title": "The War God's Deadly Game",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-42",
+      "number": "42",
+      "title": "Gratitude x Discomfort",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-43",
+      "number": "43",
+      "title": "Enmity x Solace",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-44",
+      "number": "44",
+      "title": "Crash x Fright",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-45",
+      "number": "45",
+      "title": "Attraction x Breakaway",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-46",
+      "number": "46",
+      "title": "Comeback x Shining Star",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-47",
+      "number": "47",
+      "title": "Hear Out x Kick In",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-48",
+      "number": "48",
+      "title": "Rebuke x Criticize",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-49",
+      "number": "49",
+      "title": "Disgust x Affection",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-50",
+      "number": "50",
+      "title": "Uneasiness x Exhaustion",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-51",
+      "number": "51",
+      "title": "Ineffective x Enraged",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-52",
+      "number": "52",
+      "title": "Resentment x Discouragement",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-53",
+      "number": "53",
+      "title": "Despair x Capture",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-54",
+      "number": "54",
+      "title": "Suffering x Exhaustion",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-55",
+      "number": "55",
+      "title": "Resuscitation x Loss",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-56",
+      "number": "56",
+      "title": "Technique x Infusion",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-57",
+      "number": "57",
+      "title": "Escape x Return",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-58",
+      "number": "58",
+      "title": "Invitation x Sihouette",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-59",
+      "number": "59",
+      "title": "Throbbing x Resolve",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-60",
+      "number": "60",
+      "title": "Budding x Reminiscence",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-61",
+      "number": "61",
+      "title": "Utter Defeat x Unconsciousness",
+      "date": "2009/07/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-62",
+      "number": "62",
+      "title": "Speechless x Bloodshed",
+      "date": "2009/08/02",
+      "pages": []
+    },
+    {
+      "id": "black-god-63",
+      "number": "63",
+      "title": "Escape x Falsehood",
+      "date": "2009/08/02",
+      "pages": []
+    },
+    {
+      "id": "black-god-64",
+      "number": "64",
+      "title": "Bashfulness x Banquet",
+      "date": "2009/09/16",
+      "pages": []
+    },
+    {
+      "id": "black-god-65",
+      "number": "65",
+      "title": "Fighting Spirit x Accord",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "black-god-66",
+      "number": "66",
+      "title": "Quick Attack vs Protection",
+      "date": "2010/07/19",
+      "pages": []
+    },
+    {
+      "id": "black-god-67",
+      "number": "67",
+      "title": "Intercept X Pressure",
+      "date": "2010/07/20",
+      "pages": []
+    },
+    {
+      "id": "black-god-68",
+      "number": "68",
+      "title": "Willpower X Unconsciousness",
+      "date": "2010/08/31",
+      "pages": []
+    },
+    {
+      "id": "black-god-69",
+      "number": "69",
+      "title": "Verge of Death x Powerless",
+      "date": "2010/08/31",
+      "pages": []
+    },
+    {
+      "id": "black-god-70",
+      "number": "70",
+      "title": "Defeat x Symphaty",
+      "date": "2010/08/31",
+      "pages": []
+    },
+    {
+      "id": "black-god-71",
+      "number": "71",
+      "title": "WeaknessXSynchronisation",
+      "date": "2011/04/19",
+      "pages": []
+    },
+    {
+      "id": "black-god-72",
+      "number": "72",
+      "title": "Fall X Accent",
+      "date": "2011/04/19",
+      "pages": []
+    },
+    {
+      "id": "black-god-73",
+      "number": "73",
+      "title": "Terra Line X Obstacle",
+      "date": "2011/04/19",
+      "pages": []
+    },
+    {
+      "id": "black-god-74",
+      "number": "74",
+      "title": "",
+      "date": "2011/04/30",
+      "pages": []
+    },
+    {
+      "id": "black-god-75",
+      "number": "75",
+      "title": "Tiger And The Wing 1",
+      "date": "2011/05/09",
+      "pages": []
+    },
+    {
+      "id": "black-god-76",
+      "number": "76",
+      "title": "Tiger And The Wing 2",
+      "date": "2011/05/21",
+      "pages": []
+    },
+    {
+      "id": "black-god-77",
+      "number": "77",
+      "title": "Tiger And The Wing 3",
+      "date": "2011/06/05",
+      "pages": []
+    },
+    {
+      "id": "black-god-78",
+      "number": "78",
+      "title": "Tiger And The Wing 4",
+      "date": "2011/06/10",
+      "pages": []
+    },
+    {
+      "id": "black-god-79",
+      "number": "79",
+      "title": "Virtue vs Astray",
+      "date": "2011/07/05",
+      "pages": []
+    },
+    {
+      "id": "black-god-80",
+      "number": "80",
+      "title": "Conciousness X Recognition",
+      "date": "2011/07/12",
+      "pages": []
+    },
+    {
+      "id": "black-god-81",
+      "number": "81",
+      "title": "Determination X Resistance",
+      "date": "2011/07/15",
+      "pages": []
+    },
+    {
+      "id": "black-god-82",
+      "number": "82",
+      "title": "Complete Synchro",
+      "date": "2011/08/17",
+      "pages": []
+    },
+    {
+      "id": "black-god-83",
+      "number": "83",
+      "title": "Cycle X Awakening",
+      "date": "2011/09/11",
+      "pages": []
+    },
+    {
+      "id": "black-god-84",
+      "number": "84",
+      "title": "Fever Xnursing",
+      "date": "2011/09/19",
+      "pages": []
+    },
+    {
+      "id": "black-god-85",
+      "number": "85",
+      "title": "Hunger X Ending",
+      "date": "2011/10/01",
+      "pages": []
+    },
+    {
+      "id": "black-god-86",
+      "number": "86",
+      "title": "Confession x Holding Back",
+      "date": "2011/10/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-87",
+      "number": "87",
+      "title": "Concealment X Apology",
+      "date": "2011/10/22",
+      "pages": []
+    },
+    {
+      "id": "black-god-88",
+      "number": "88",
+      "title": "Stranger X Friend",
+      "date": "2011/11/28",
+      "pages": []
+    },
+    {
+      "id": "black-god-89",
+      "number": "89",
+      "title": "Justification Speculation",
+      "date": "2012/06/29",
+      "pages": []
+    },
+    {
+      "id": "black-god-90",
+      "number": "90",
+      "title": "Nostalgia x Negotiations",
+      "date": "2012/07/21",
+      "pages": []
+    },
+    {
+      "id": "black-god-91",
+      "number": "91",
+      "title": "Overpowered x Offguard",
+      "date": "2012/09/15",
+      "pages": []
+    },
+    {
+      "id": "black-god-92",
+      "number": "92",
+      "title": "Strike-x Surpise",
+      "date": "2012/09/16",
+      "pages": []
+    },
+    {
+      "id": "black-god-93",
+      "number": "93",
+      "title": "Opposite Sex",
+      "date": "2012/10/14",
+      "pages": []
+    },
+    {
+      "id": "black-god-94",
+      "number": "94",
+      "title": "Devil's Scent",
+      "date": "2013/03/13",
+      "pages": []
+    },
+    {
+      "id": "black-god-95",
+      "number": "95",
+      "title": "Assassin Promise",
+      "date": "2013/05/29",
+      "pages": []
+    },
+    {
+      "id": "black-god-96",
+      "number": "96",
+      "title": "Advice, Lecture",
+      "date": "2013/07/24",
+      "pages": []
+    },
+    {
+      "id": "black-god-97",
+      "number": "97",
+      "title": "Mana And Yuna",
+      "date": "2013/08/09",
+      "pages": []
+    },
+    {
+      "id": "black-god-98",
+      "number": "98",
+      "title": "Mana And Yuna 2",
+      "date": "2013/08/26",
+      "pages": []
+    },
+    {
+      "id": "black-god-99",
+      "number": "99",
+      "title": "Mana And Yuna 3",
+      "date": "2013/09/30",
+      "pages": []
+    },
+    {
+      "id": "black-god-100",
+      "number": "100",
+      "title": "Mana And Yuna 4",
+      "date": "2013/11/10",
+      "pages": []
+    },
+    {
+      "id": "black-god-101",
+      "number": "101",
+      "title": "Mana And Yuna 5",
+      "date": "2013/11/12",
+      "pages": []
+    },
+    {
+      "id": "black-god-102",
+      "number": "102",
+      "title": "Mana And Yuna 6",
+      "date": "2013/11/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-103",
+      "number": "103",
+      "title": "Mana And Yuna 7",
+      "date": "2014/01/28",
+      "pages": []
+    },
+    {
+      "id": "black-god-104",
+      "number": "104",
+      "title": "Mana And Yuna 8",
+      "date": "2014/06/13",
+      "pages": []
+    },
+    {
+      "id": "black-god-105",
+      "number": "105",
+      "title": "Mana And Yuna 9",
+      "date": "2014/06/18",
+      "pages": []
+    },
+    {
+      "id": "black-god-106",
+      "number": "106",
+      "title": "Conspiracy 1",
+      "date": "2014/06/30",
+      "pages": []
+    },
+    {
+      "id": "black-god-107",
+      "number": "107",
+      "title": "Conspiracy 2",
+      "date": "2014/06/30",
+      "pages": []
+    },
+    {
+      "id": "black-god-108",
+      "number": "108",
+      "title": "Spirit Conspiracy 003",
+      "date": "2015/01/01",
+      "pages": []
+    },
+    {
+      "id": "black-god-109",
+      "number": "109",
+      "title": "Spirit Conspiracy 004",
+      "date": "2015/01/01",
+      "pages": []
+    },
+    {
+      "id": "black-god-110",
+      "number": "110",
+      "title": "Spirit Conspiracy 005",
+      "date": "2015/01/01",
+      "pages": []
+    },
+    {
+      "id": "black-god-111",
+      "number": "111",
+      "title": "Spirit Conspiracy 006",
+      "date": "2015/01/02",
+      "pages": []
+    },
+    {
+      "id": "black-god-112",
+      "number": "112",
+      "title": "Specter x Scheme",
+      "date": "2015/05/30",
+      "pages": []
+    },
+    {
+      "id": "black-god-113",
+      "number": "113",
+      "title": "Battle Instinct",
+      "date": "2015/05/30",
+      "pages": []
+    },
+    {
+      "id": "black-god-114",
+      "number": "114",
+      "title": "Clever Scheme. Secret Plan",
+      "date": "2015/10/04",
+      "pages": []
+    },
+    {
+      "id": "black-god-115",
+      "number": "115",
+      "title": "Clever Scheme. Secret Plan 002",
+      "date": "2016/04/24",
+      "pages": []
+    }
+  ]
+}

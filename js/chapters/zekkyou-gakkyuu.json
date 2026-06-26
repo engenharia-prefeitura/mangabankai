@@ -1,0 +1,494 @@
+{
+  "en": [
+    {
+      "id": "zekkyou-gakkyuu-1",
+      "number": "1",
+      "title": "The Devil's Game",
+      "date": "2011/07/13",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-2",
+      "number": "2",
+      "title": "The Bonds Of A Curse",
+      "date": "2011/07/20",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-3",
+      "number": "3",
+      "title": "Mary's Dining Table",
+      "date": "2011/07/26",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-4",
+      "number": "4",
+      "title": "The Abandoned School At Midnight",
+      "date": "2011/09/30",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-5",
+      "number": "5",
+      "title": "Bloody Valentine",
+      "date": "2011/10/30",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-6",
+      "number": "6",
+      "title": "",
+      "date": "2011/10/31",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-7",
+      "number": "7",
+      "title": "Supplements For The Brain",
+      "date": "2011/10/31",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-8",
+      "number": "8",
+      "title": "The Matching Class",
+      "date": "2011/11/01",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-9",
+      "number": "9",
+      "title": "Kasako-San is Coming",
+      "date": "2011/11/09",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-10",
+      "number": "10",
+      "title": "The Truth About Yomi-Part 1",
+      "date": "2011/11/16",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-11",
+      "number": "11",
+      "title": "The Truth About Yomi-Part 2",
+      "date": "2011/11/25",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-12",
+      "number": "12",
+      "title": "The Endless Game of Tag",
+      "date": "2011/12/03",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-13",
+      "number": "13",
+      "title": "Shii-Chan's Diary",
+      "date": "2012/01/10",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-14",
+      "number": "14",
+      "title": "From The Lnd Of Mirrors",
+      "date": "2012/03/01",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-15",
+      "number": "15",
+      "title": "Execution Classroom",
+      "date": "2012/03/01",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-16",
+      "number": "16",
+      "title": "Ch16 + Part 1",
+      "date": "2012/03/10",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-17",
+      "number": "17",
+      "title": "Black Forum",
+      "date": "2012/05/11",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-18",
+      "number": "18",
+      "title": "Miracle Ball",
+      "date": "2012/05/26",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-19",
+      "number": "19",
+      "title": "The Money Tree",
+      "date": "2012/06/16",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-20",
+      "number": "20",
+      "title": "Best Friend",
+      "date": "2012/07/09",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-21",
+      "number": "21",
+      "title": "The Slit Mouthed Woman",
+      "date": "2012/07/27",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-22",
+      "number": "22",
+      "title": "The Land OF Mermaids",
+      "date": "2012/08/27",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-23",
+      "number": "23",
+      "title": "The Day I Became A Demon 1",
+      "date": "2012/09/11",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-24",
+      "number": "24",
+      "title": "The Day I Became A Demon 2",
+      "date": "2012/09/13",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-25",
+      "number": "25",
+      "title": "Friendly Apartment Complex",
+      "date": "2012/10/03",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-26",
+      "number": "26",
+      "title": "Scarecrow Teacher",
+      "date": "2012/10/09",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-27",
+      "number": "27",
+      "title": "Make-Believe Sisters",
+      "date": "2012/10/23",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-28",
+      "number": "28",
+      "title": "The Do-Gooder Club",
+      "date": "2012/11/16",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-29",
+      "number": "29",
+      "title": "The Requirements Of A Belle",
+      "date": "2012/12/30",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-30",
+      "number": "30",
+      "title": "Last White Day",
+      "date": "2013/01/20",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-31",
+      "number": "31",
+      "title": "My Older Brother And I",
+      "date": "2013/01/30",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-32",
+      "number": "32",
+      "title": "The Queen's Trick",
+      "date": "2013/02/12",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-33",
+      "number": "33",
+      "title": "The Toilet Goddess",
+      "date": "2013/03/18",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-34",
+      "number": "34",
+      "title": "Hell's Clock Part I",
+      "date": "2013/04/14",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-35",
+      "number": "35",
+      "title": "Hell's Clock Part II",
+      "date": "2013/04/28",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-36",
+      "number": "36",
+      "title": "The Fish Family",
+      "date": "2013/07/01",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-37",
+      "number": "37",
+      "title": "The Witch of the Library Room",
+      "date": "2013/10/14",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-38",
+      "number": "38",
+      "title": "Soprano Of Miracle",
+      "date": "2014/01/27",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-39",
+      "number": "39",
+      "title": "At Emily-chan's Home",
+      "date": "2014/03/21",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-40",
+      "number": "40",
+      "title": "Midnight Kotatsu",
+      "date": "2014/11/17",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-41",
+      "number": "41",
+      "title": "The Erasing Blackboard",
+      "date": "2014/11/17",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-42",
+      "number": "42",
+      "title": "",
+      "date": "2014/11/24",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-43",
+      "number": "43",
+      "title": "",
+      "date": "2014/11/24",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-44",
+      "number": "44",
+      "title": "",
+      "date": "2016/11/10",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-45",
+      "number": "45",
+      "title": "",
+      "date": "2017/02/14",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-46",
+      "number": "46",
+      "title": "",
+      "date": "2017/06/12",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-47",
+      "number": "47",
+      "title": "",
+      "date": "2017/07/10",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-48",
+      "number": "48",
+      "title": "",
+      "date": "2017/07/10",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-49",
+      "number": "49",
+      "title": "",
+      "date": "2017/08/17",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-50",
+      "number": "50",
+      "title": "",
+      "date": "2017/08/17",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-51",
+      "number": "51",
+      "title": "",
+      "date": "2017/08/17",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-52",
+      "number": "52",
+      "title": "",
+      "date": "2017/10/20",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-53",
+      "number": "53",
+      "title": "",
+      "date": "2018/07/27",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-54",
+      "number": "54",
+      "title": "",
+      "date": "2018/07/31",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-55",
+      "number": "55",
+      "title": "",
+      "date": "2018/08/26",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-56",
+      "number": "56",
+      "title": "",
+      "date": "2019/01/02",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-57",
+      "number": "57",
+      "title": "",
+      "date": "2019/01/02",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-58",
+      "number": "58",
+      "title": "",
+      "date": "2019/01/02",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-59",
+      "number": "59",
+      "title": "Yomi Door Part 2",
+      "date": "2019/02/15",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-60",
+      "number": "60",
+      "title": "The Red Heeled Woman",
+      "date": "2019/02/15",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-61",
+      "number": "61",
+      "title": "",
+      "date": "2019/08/21",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-62",
+      "number": "62",
+      "title": "",
+      "date": "2019/08/21",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-63",
+      "number": "63",
+      "title": "",
+      "date": "2019/08/22",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-64",
+      "number": "64",
+      "title": "",
+      "date": "2024/06/05",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-65",
+      "number": "65",
+      "title": "",
+      "date": "2024/06/15",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-65a",
+      "number": "65a",
+      "title": "",
+      "date": "2024/10/05",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-65b",
+      "number": "65b",
+      "title": "",
+      "date": "2024/10/17",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-66",
+      "number": "66",
+      "title": "",
+      "date": "2024/11/29",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-67",
+      "number": "67",
+      "title": "",
+      "date": "2025/01/24",
+      "pages": []
+    },
+    {
+      "id": "zekkyou-gakkyuu-68",
+      "number": "68",
+      "title": "",
+      "date": "2026/01/26",
+      "pages": []
+    }
+  ]
+}

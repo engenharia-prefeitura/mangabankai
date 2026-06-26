@@ -1,0 +1,788 @@
+{
+  "en": [
+    {
+      "id": "sugarless-hosokawa-masami-1",
+      "number": "1",
+      "title": "The Top of Windmill",
+      "date": "2012/06/29",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-2",
+      "number": "2",
+      "title": "Shake",
+      "date": "2012/06/29",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-3",
+      "number": "3",
+      "title": "The Fight of the \"Windmill\"",
+      "date": "2012/06/29",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-4",
+      "number": "4",
+      "title": "Mukai Shirou",
+      "date": "2012/06/29",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-5",
+      "number": "5",
+      "title": "The Twisted",
+      "date": "2012/07/07",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-6",
+      "number": "6",
+      "title": "Hydra",
+      "date": "2012/07/07",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-7",
+      "number": "7",
+      "title": "Focus",
+      "date": "2012/07/18",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-8",
+      "number": "8",
+      "title": "Prey",
+      "date": "2012/07/25",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-9",
+      "number": "9",
+      "title": "Fang",
+      "date": "2012/08/02",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-10",
+      "number": "10",
+      "title": "Effort",
+      "date": "2012/08/14",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-11",
+      "number": "11",
+      "title": "Those Who Are Pure",
+      "date": "2012/08/26",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-12",
+      "number": "12",
+      "title": "Rust",
+      "date": "2012/08/26",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-13",
+      "number": "13",
+      "title": "The Potential of a Loner",
+      "date": "2012/09/17",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-14",
+      "number": "14",
+      "title": "An Endless Cycle",
+      "date": "2012/09/17",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-15",
+      "number": "15",
+      "title": "Mita Minoru",
+      "date": "2012/09/23",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-16",
+      "number": "16",
+      "title": "Eclair",
+      "date": "2012/11/01",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-17",
+      "number": "17",
+      "title": "Comrade",
+      "date": "2012/12/17",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-18",
+      "number": "18",
+      "title": "Kamagi",
+      "date": "2012/12/26",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-19",
+      "number": "19",
+      "title": "Traveling Expenses",
+      "date": "2013/03/29",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-20",
+      "number": "20",
+      "title": "Present",
+      "date": "2013/03/29",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-21",
+      "number": "21",
+      "title": "Three Stones",
+      "date": "2013/05/21",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-22",
+      "number": "22",
+      "title": "Guidance",
+      "date": "2013/05/21",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-23",
+      "number": "23",
+      "title": "Onion",
+      "date": "2014/11/22",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-24",
+      "number": "24",
+      "title": "Promise",
+      "date": "2014/11/22",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-25",
+      "number": "25",
+      "title": "Kindness",
+      "date": "2015/01/27",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-26",
+      "number": "26",
+      "title": "Progress",
+      "date": "2015/03/25",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-27",
+      "number": "27",
+      "title": "Spring Thunder",
+      "date": "2015/03/25",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-28",
+      "number": "28",
+      "title": "Nonsense",
+      "date": "2015/04/25",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-29",
+      "number": "29",
+      "title": "The Meaning of the Top",
+      "date": "2015/04/29",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-30",
+      "number": "30",
+      "title": "The Debt",
+      "date": "2015/05/06",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-31",
+      "number": "31",
+      "title": "The First Years' Hunt",
+      "date": "2015/06/02",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-32",
+      "number": "32",
+      "title": "Cigarette",
+      "date": "2015/06/16",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-33",
+      "number": "33",
+      "title": "Abandonment",
+      "date": "2015/06/22",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-34",
+      "number": "34",
+      "title": "The Eternal Number Two",
+      "date": "2015/07/31",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-35",
+      "number": "35",
+      "title": "If we Have to Fight, I'll Fight",
+      "date": "2015/08/03",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-36",
+      "number": "36",
+      "title": "Reward System",
+      "date": "2015/08/09",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-37",
+      "number": "37",
+      "title": "",
+      "date": "2015/09/08",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-38",
+      "number": "38",
+      "title": "I Remember it",
+      "date": "2015/09/13",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-39",
+      "number": "39",
+      "title": "The Stranger",
+      "date": "2015/09/13",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-40",
+      "number": "40",
+      "title": "",
+      "date": "2015/10/08",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-41",
+      "number": "41",
+      "title": "",
+      "date": "2015/10/30",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-42",
+      "number": "42",
+      "title": "",
+      "date": "2016/01/31",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-43",
+      "number": "43",
+      "title": "",
+      "date": "2016/03/06",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-44",
+      "number": "44",
+      "title": "The Yasaka Brothers",
+      "date": "2016/06/25",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-45",
+      "number": "45",
+      "title": "",
+      "date": "2016/06/25",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-46",
+      "number": "46",
+      "title": "",
+      "date": "2016/06/25",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-47",
+      "number": "47",
+      "title": "",
+      "date": "2017/02/05",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-48",
+      "number": "48",
+      "title": "",
+      "date": "2017/02/05",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-49",
+      "number": "49",
+      "title": "",
+      "date": "2017/02/05",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-50",
+      "number": "50",
+      "title": "",
+      "date": "2017/02/05",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-51",
+      "number": "51",
+      "title": "",
+      "date": "2017/02/05",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-52",
+      "number": "52",
+      "title": "",
+      "date": "2017/02/05",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-53",
+      "number": "53",
+      "title": "",
+      "date": "2017/05/01",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-54",
+      "number": "54",
+      "title": "",
+      "date": "2017/05/14",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-55",
+      "number": "55",
+      "title": "",
+      "date": "2017/05/14",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-56",
+      "number": "56",
+      "title": "The Pain of the Fists",
+      "date": "2017/09/11",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-57",
+      "number": "57",
+      "title": "When Looking Up",
+      "date": "2017/09/11",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-58",
+      "number": "58",
+      "title": "Identity Theft",
+      "date": "2017/09/11",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-59",
+      "number": "59",
+      "title": "Kagura Technical High School",
+      "date": "2017/09/11",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-60",
+      "number": "60",
+      "title": "",
+      "date": "2017/11/07",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-61",
+      "number": "61",
+      "title": "",
+      "date": "2019/07/19",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-62",
+      "number": "62",
+      "title": "",
+      "date": "2019/07/19",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-63",
+      "number": "63",
+      "title": "",
+      "date": "2019/07/19",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-64",
+      "number": "64",
+      "title": "",
+      "date": "2019/07/19",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-65",
+      "number": "65",
+      "title": "",
+      "date": "2019/07/19",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-66",
+      "number": "66",
+      "title": "Being Devoted",
+      "date": "2019/08/27",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-67",
+      "number": "67",
+      "title": "",
+      "date": "2019/10/24",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-68",
+      "number": "68",
+      "title": "Full Nude",
+      "date": "2019/12/17",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-69",
+      "number": "69",
+      "title": "Arsonist",
+      "date": "2020/06/29",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-70",
+      "number": "70",
+      "title": "Going Through",
+      "date": "2020/06/29",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-71",
+      "number": "71",
+      "title": "New World",
+      "date": "2020/06/29",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-72",
+      "number": "72",
+      "title": "Dream and Reality",
+      "date": "2020/06/29",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-73",
+      "number": "73",
+      "title": "Right Now",
+      "date": "2020/06/29",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-74",
+      "number": "74",
+      "title": "An Instant",
+      "date": "2020/08/16",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-75",
+      "number": "75",
+      "title": "See You Soon",
+      "date": "2020/08/16",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-76",
+      "number": "76",
+      "title": "Collision",
+      "date": "2020/09/21",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-77",
+      "number": "77",
+      "title": "The Tournament",
+      "date": "2020/11/10",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-78",
+      "number": "78",
+      "title": "",
+      "date": "2021/07/31",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-79",
+      "number": "79",
+      "title": "",
+      "date": "2021/07/31",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-80",
+      "number": "80",
+      "title": "",
+      "date": "2021/07/31",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-81",
+      "number": "81",
+      "title": "",
+      "date": "2022/04/27",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-82",
+      "number": "82",
+      "title": "",
+      "date": "2023/03/13",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-83",
+      "number": "83",
+      "title": "",
+      "date": "2023/03/18",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-84",
+      "number": "84",
+      "title": "",
+      "date": "2023/03/28",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-85",
+      "number": "85",
+      "title": "",
+      "date": "2023/06/07",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-86",
+      "number": "86",
+      "title": "",
+      "date": "2023/06/11",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-87",
+      "number": "87",
+      "title": "",
+      "date": "2023/06/15",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-88",
+      "number": "88",
+      "title": "",
+      "date": "2023/06/21",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-89",
+      "number": "89",
+      "title": "",
+      "date": "2023/07/01",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-90",
+      "number": "90",
+      "title": "",
+      "date": "2023/07/16",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-91",
+      "number": "91",
+      "title": "",
+      "date": "2023/08/05",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-92",
+      "number": "92",
+      "title": "Deception",
+      "date": "2023/08/07",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-93",
+      "number": "93",
+      "title": "",
+      "date": "2023/09/28",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-94",
+      "number": "94",
+      "title": "",
+      "date": "2023/10/02",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-95",
+      "number": "95",
+      "title": "",
+      "date": "2023/10/02",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-96",
+      "number": "96",
+      "title": "",
+      "date": "2023/10/02",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-97",
+      "number": "97",
+      "title": "",
+      "date": "2023/11/06",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-98",
+      "number": "98",
+      "title": "",
+      "date": "2023/11/06",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-99",
+      "number": "99",
+      "title": "",
+      "date": "2026/02/19",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-100",
+      "number": "100",
+      "title": "",
+      "date": "2023/11/06",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-101",
+      "number": "101",
+      "title": "",
+      "date": "2024/01/17",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-102",
+      "number": "102",
+      "title": "",
+      "date": "2024/01/17",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-103",
+      "number": "103",
+      "title": "",
+      "date": "2024/01/17",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-104",
+      "number": "104",
+      "title": "",
+      "date": "2026/02/19",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-105",
+      "number": "105",
+      "title": "",
+      "date": "2024/08/13",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-106",
+      "number": "106",
+      "title": "",
+      "date": "2024/08/13",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-107",
+      "number": "107",
+      "title": "",
+      "date": "2025/02/06",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-108",
+      "number": "108",
+      "title": "",
+      "date": "2025/04/29",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-109",
+      "number": "109",
+      "title": "",
+      "date": "2026/02/17",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-110",
+      "number": "110",
+      "title": "",
+      "date": "2026/03/31",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-111",
+      "number": "111",
+      "title": "",
+      "date": "2026/04/15",
+      "pages": []
+    },
+    {
+      "id": "sugarless-hosokawa-masami-112",
+      "number": "112",
+      "title": "",
+      "date": "2026/05/15",
+      "pages": []
+    }
+  ]
+}

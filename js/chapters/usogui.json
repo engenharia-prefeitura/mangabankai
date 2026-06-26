@@ -1,0 +1,5119 @@
+{
+  "en": [
+    {
+      "id": "usogui-1",
+      "number": "1",
+      "title": "Gambler",
+      "date": "2010/05/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-2",
+      "number": "2",
+      "title": "Easting A Black Market Lender",
+      "date": "2010/05/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-3",
+      "number": "3",
+      "title": "Personal Information Trap",
+      "date": "2010/05/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-4",
+      "number": "4",
+      "title": "Secrets",
+      "date": "2010/05/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-5",
+      "number": "5",
+      "title": "Values Of Things",
+      "date": "2010/05/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-6",
+      "number": "6",
+      "title": "Playing In The Abandoned Building",
+      "date": "2010/05/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-7",
+      "number": "7",
+      "title": "Everything is a Gamble",
+      "date": "2010/05/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-8",
+      "number": "8",
+      "title": "The Spirit Breaks",
+      "date": "2010/05/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-9",
+      "number": "9",
+      "title": "The Pleasure of Murder",
+      "date": "2010/05/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-10",
+      "number": "10",
+      "title": "A Feast of Screams",
+      "date": "2010/05/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-11",
+      "number": "11",
+      "title": "The Man Called Usogui",
+      "date": "2010/05/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-12",
+      "number": "12",
+      "title": "Awakening",
+      "date": "2010/05/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-13",
+      "number": "13",
+      "title": "Terror of The Mask",
+      "date": "2010/05/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-14",
+      "number": "14",
+      "title": "Passing By The Building",
+      "date": "2010/05/21",
+      "pages": []
+    },
+    {
+      "id": "usogui-15",
+      "number": "15",
+      "title": "Plan B",
+      "date": "2010/06/11",
+      "pages": []
+    },
+    {
+      "id": "usogui-16",
+      "number": "16",
+      "title": "Begging for Life",
+      "date": "2010/06/11",
+      "pages": []
+    },
+    {
+      "id": "usogui-17",
+      "number": "17",
+      "title": "I am Going To Save Your Life",
+      "date": "2010/06/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-18",
+      "number": "18",
+      "title": "The Final Move",
+      "date": "2010/07/11",
+      "pages": []
+    },
+    {
+      "id": "usogui-19",
+      "number": "19",
+      "title": "Hold on to Life",
+      "date": "2010/07/31",
+      "pages": []
+    },
+    {
+      "id": "usogui-20",
+      "number": "20",
+      "title": "Tag Game In Hell",
+      "date": "2010/08/27",
+      "pages": []
+    },
+    {
+      "id": "usogui-21",
+      "number": "21",
+      "title": "Who Am I?",
+      "date": "2010/09/30",
+      "pages": []
+    },
+    {
+      "id": "usogui-22",
+      "number": "22",
+      "title": "Atone!",
+      "date": "2010/10/27",
+      "pages": []
+    },
+    {
+      "id": "usogui-23",
+      "number": "23",
+      "title": "Recouping Strength For a Renewed Attack",
+      "date": "2010/11/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-24",
+      "number": "24",
+      "title": "Worrying Over Money",
+      "date": "2011/02/21",
+      "pages": []
+    },
+    {
+      "id": "usogui-25",
+      "number": "25",
+      "title": "",
+      "date": "2011/03/29",
+      "pages": []
+    },
+    {
+      "id": "usogui-26",
+      "number": "26",
+      "title": "I Bet",
+      "date": "2011/05/27",
+      "pages": []
+    },
+    {
+      "id": "usogui-27",
+      "number": "27",
+      "title": "Human Values",
+      "date": "2011/07/01",
+      "pages": []
+    },
+    {
+      "id": "usogui-28",
+      "number": "28",
+      "title": "Advice From An Exemplary Mind",
+      "date": "2011/07/11",
+      "pages": []
+    },
+    {
+      "id": "usogui-29",
+      "number": "29",
+      "title": "Devour",
+      "date": "2011/07/22",
+      "pages": []
+    },
+    {
+      "id": "usogui-30",
+      "number": "30",
+      "title": "Control The Money!",
+      "date": "2011/08/03",
+      "pages": []
+    },
+    {
+      "id": "usogui-31",
+      "number": "31",
+      "title": "Fortune is Mysterious And Unpredictable",
+      "date": "2011/08/21",
+      "pages": []
+    },
+    {
+      "id": "usogui-32",
+      "number": "32",
+      "title": "Kakerou's Prodigy",
+      "date": "2011/09/07",
+      "pages": []
+    },
+    {
+      "id": "usogui-33",
+      "number": "33",
+      "title": "Brutalizng Killing Intent",
+      "date": "2011/09/29",
+      "pages": []
+    },
+    {
+      "id": "usogui-34",
+      "number": "34",
+      "title": "The Raging Demon Is Back",
+      "date": "2011/10/06",
+      "pages": []
+    },
+    {
+      "id": "usogui-35",
+      "number": "35",
+      "title": "Revolusionist Appears",
+      "date": "2011/10/29",
+      "pages": []
+    },
+    {
+      "id": "usogui-36",
+      "number": "36",
+      "title": "Women's Intuition",
+      "date": "2011/11/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-37",
+      "number": "37",
+      "title": "Precious Life Is...",
+      "date": "2011/11/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-38",
+      "number": "38",
+      "title": "The Chosen One",
+      "date": "2011/12/06",
+      "pages": []
+    },
+    {
+      "id": "usogui-39",
+      "number": "39",
+      "title": "Something's Wrong...",
+      "date": "2011/12/17",
+      "pages": []
+    },
+    {
+      "id": "usogui-40",
+      "number": "40",
+      "title": "Man Owners",
+      "date": "2011/12/25",
+      "pages": []
+    },
+    {
+      "id": "usogui-41",
+      "number": "41",
+      "title": "Hangman",
+      "date": "2011/12/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-42",
+      "number": "42",
+      "title": "Leo",
+      "date": "2012/01/04",
+      "pages": []
+    },
+    {
+      "id": "usogui-43",
+      "number": "43",
+      "title": "First Game",
+      "date": "2012/01/11",
+      "pages": []
+    },
+    {
+      "id": "usogui-44",
+      "number": "44",
+      "title": "Five Of Eleven",
+      "date": "2012/01/23",
+      "pages": []
+    },
+    {
+      "id": "usogui-45",
+      "number": "45",
+      "title": "50:50 Battle",
+      "date": "2012/01/23",
+      "pages": []
+    },
+    {
+      "id": "usogui-46",
+      "number": "46",
+      "title": "The Fight Against Time",
+      "date": "2012/01/31",
+      "pages": []
+    },
+    {
+      "id": "usogui-47",
+      "number": "47",
+      "title": "Enraged",
+      "date": "2012/02/07",
+      "pages": []
+    },
+    {
+      "id": "usogui-48",
+      "number": "48",
+      "title": "Kill The Many To Save The Few!",
+      "date": "2012/02/14",
+      "pages": []
+    },
+    {
+      "id": "usogui-49",
+      "number": "49",
+      "title": "Steering Towards Life",
+      "date": "2012/02/21",
+      "pages": []
+    },
+    {
+      "id": "usogui-50",
+      "number": "50",
+      "title": "Eroded Gear",
+      "date": "2012/04/04",
+      "pages": []
+    },
+    {
+      "id": "usogui-51",
+      "number": "51",
+      "title": "The Toy That's About To Break",
+      "date": "2012/04/04",
+      "pages": []
+    },
+    {
+      "id": "usogui-52",
+      "number": "52",
+      "title": "The Big Liar",
+      "date": "2012/04/04",
+      "pages": []
+    },
+    {
+      "id": "usogui-53",
+      "number": "53",
+      "title": "The Feast Continues...",
+      "date": "2012/04/04",
+      "pages": []
+    },
+    {
+      "id": "usogui-54",
+      "number": "54",
+      "title": "Death God's Smile",
+      "date": "2012/05/22",
+      "pages": []
+    },
+    {
+      "id": "usogui-55",
+      "number": "55",
+      "title": "An Alien's Fate",
+      "date": "2012/05/22",
+      "pages": []
+    },
+    {
+      "id": "usogui-56",
+      "number": "56",
+      "title": "Zero, Once Again!!!",
+      "date": "2012/05/23",
+      "pages": []
+    },
+    {
+      "id": "usogui-57",
+      "number": "57",
+      "title": "",
+      "date": "2012/05/24",
+      "pages": []
+    },
+    {
+      "id": "usogui-58",
+      "number": "58",
+      "title": "Misreading",
+      "date": "2012/05/25",
+      "pages": []
+    },
+    {
+      "id": "usogui-59",
+      "number": "59",
+      "title": "The Defeated",
+      "date": "2012/05/27",
+      "pages": []
+    },
+    {
+      "id": "usogui-60",
+      "number": "60",
+      "title": "Lion vs. Lion",
+      "date": "2012/05/27",
+      "pages": []
+    },
+    {
+      "id": "usogui-61",
+      "number": "61",
+      "title": "Parental Feelings",
+      "date": "2012/05/29",
+      "pages": []
+    },
+    {
+      "id": "usogui-62",
+      "number": "62",
+      "title": "First Time Sensation",
+      "date": "2012/05/30",
+      "pages": []
+    },
+    {
+      "id": "usogui-63",
+      "number": "63",
+      "title": "Fate Out Of Nowhere",
+      "date": "2012/05/31",
+      "pages": []
+    },
+    {
+      "id": "usogui-64",
+      "number": "64",
+      "title": "The Truth Behind The Revolution",
+      "date": "2012/06/01",
+      "pages": []
+    },
+    {
+      "id": "usogui-65",
+      "number": "65",
+      "title": "Going Berserk",
+      "date": "2012/07/16",
+      "pages": []
+    },
+    {
+      "id": "usogui-66",
+      "number": "66",
+      "title": "Sacrificing",
+      "date": "2012/07/23",
+      "pages": []
+    },
+    {
+      "id": "usogui-67",
+      "number": "67",
+      "title": "Fortune Arrival",
+      "date": "2012/07/30",
+      "pages": []
+    },
+    {
+      "id": "usogui-68",
+      "number": "68",
+      "title": "Secret Ambition",
+      "date": "2012/08/16",
+      "pages": []
+    },
+    {
+      "id": "usogui-69",
+      "number": "69",
+      "title": "Cheque Clearing Condition",
+      "date": "2012/08/26",
+      "pages": []
+    },
+    {
+      "id": "usogui-70",
+      "number": "70",
+      "title": "Parent And Child",
+      "date": "2012/09/02",
+      "pages": []
+    },
+    {
+      "id": "usogui-71",
+      "number": "71",
+      "title": "My Worth",
+      "date": "2012/09/09",
+      "pages": []
+    },
+    {
+      "id": "usogui-72",
+      "number": "72",
+      "title": "True Strength",
+      "date": "2012/09/17",
+      "pages": []
+    },
+    {
+      "id": "usogui-73",
+      "number": "73",
+      "title": "Messenger",
+      "date": "2012/09/23",
+      "pages": []
+    },
+    {
+      "id": "usogui-74",
+      "number": "74",
+      "title": "Ideal",
+      "date": "2012/11/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-75",
+      "number": "75",
+      "title": "Assasin's Terms",
+      "date": "2012/11/17",
+      "pages": []
+    },
+    {
+      "id": "usogui-76",
+      "number": "76",
+      "title": "Merciful One",
+      "date": "2012/11/24",
+      "pages": []
+    },
+    {
+      "id": "usogui-77",
+      "number": "77",
+      "title": "Die Yobbo",
+      "date": "2012/12/02",
+      "pages": []
+    },
+    {
+      "id": "usogui-78",
+      "number": "78",
+      "title": "Ambitious Group",
+      "date": "2012/12/08",
+      "pages": []
+    },
+    {
+      "id": "usogui-79",
+      "number": "79",
+      "title": "Target",
+      "date": "2012/12/29",
+      "pages": []
+    },
+    {
+      "id": "usogui-80",
+      "number": "80",
+      "title": "Strange Rumors",
+      "date": "2013/01/24",
+      "pages": []
+    },
+    {
+      "id": "usogui-81",
+      "number": "81",
+      "title": "Fateful Boundary",
+      "date": "2013/01/30",
+      "pages": []
+    },
+    {
+      "id": "usogui-82",
+      "number": "82",
+      "title": "The Road of Bewilderment",
+      "date": "2013/02/23",
+      "pages": []
+    },
+    {
+      "id": "usogui-83",
+      "number": "83",
+      "title": "Awakenings",
+      "date": "2013/03/26",
+      "pages": []
+    },
+    {
+      "id": "usogui-84",
+      "number": "84",
+      "title": "Demon King Advent",
+      "date": "2013/03/26",
+      "pages": []
+    },
+    {
+      "id": "usogui-85",
+      "number": "85",
+      "title": "Infinite Chances",
+      "date": "2013/04/04",
+      "pages": []
+    },
+    {
+      "id": "usogui-86",
+      "number": "86",
+      "title": "",
+      "date": "2013/04/09",
+      "pages": []
+    },
+    {
+      "id": "usogui-87",
+      "number": "87",
+      "title": "Bewildered Dog",
+      "date": "2013/04/19",
+      "pages": []
+    },
+    {
+      "id": "usogui-88",
+      "number": "88",
+      "title": "Composition Of The World",
+      "date": "2013/12/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-89",
+      "number": "89",
+      "title": "Enter The Labyrinth!",
+      "date": "2014/01/01",
+      "pages": []
+    },
+    {
+      "id": "usogui-90",
+      "number": "90",
+      "title": "The Name of the Companion",
+      "date": "2014/01/25",
+      "pages": []
+    },
+    {
+      "id": "usogui-91",
+      "number": "91",
+      "title": "The Best Seat in The House",
+      "date": "2014/02/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-92",
+      "number": "92",
+      "title": "Divine Possesion",
+      "date": "2014/03/22",
+      "pages": []
+    },
+    {
+      "id": "usogui-93",
+      "number": "93",
+      "title": "To Remember",
+      "date": "2014/04/04",
+      "pages": []
+    },
+    {
+      "id": "usogui-94",
+      "number": "94",
+      "title": "The Third Man",
+      "date": "2014/05/18",
+      "pages": []
+    },
+    {
+      "id": "usogui-95",
+      "number": "95",
+      "title": "Warning",
+      "date": "2014/06/18",
+      "pages": []
+    },
+    {
+      "id": "usogui-96",
+      "number": "96",
+      "title": "That Which is Lost",
+      "date": "2014/08/13",
+      "pages": []
+    },
+    {
+      "id": "usogui-97",
+      "number": "97",
+      "title": "A Decision is Made...",
+      "date": "2014/09/05",
+      "pages": []
+    },
+    {
+      "id": "usogui-98",
+      "number": "98",
+      "title": "Order Of The Ent",
+      "date": "2014/09/24",
+      "pages": []
+    },
+    {
+      "id": "usogui-99",
+      "number": "99",
+      "title": "Contract for Life",
+      "date": "2014/10/11",
+      "pages": []
+    },
+    {
+      "id": "usogui-100",
+      "number": "100",
+      "title": "A Big Mistake",
+      "date": "2014/10/31",
+      "pages": []
+    },
+    {
+      "id": "usogui-101",
+      "number": "101",
+      "title": "Order That Must Be Kept",
+      "date": "2014/11/30",
+      "pages": []
+    },
+    {
+      "id": "usogui-102",
+      "number": "102",
+      "title": "The Grim Reaper Has Descended",
+      "date": "2014/12/25",
+      "pages": []
+    },
+    {
+      "id": "usogui-103",
+      "number": "103",
+      "title": "The Corrupted Labyrinth",
+      "date": "2015/01/01",
+      "pages": []
+    },
+    {
+      "id": "usogui-104",
+      "number": "104",
+      "title": "Purpose in Life",
+      "date": "2015/01/25",
+      "pages": []
+    },
+    {
+      "id": "usogui-105",
+      "number": "105",
+      "title": "",
+      "date": "2015/02/21",
+      "pages": []
+    },
+    {
+      "id": "usogui-106",
+      "number": "106",
+      "title": "",
+      "date": "2015/03/21",
+      "pages": []
+    },
+    {
+      "id": "usogui-107",
+      "number": "107",
+      "title": "",
+      "date": "2015/04/04",
+      "pages": []
+    },
+    {
+      "id": "usogui-108",
+      "number": "108",
+      "title": "Crash",
+      "date": "2015/04/25",
+      "pages": []
+    },
+    {
+      "id": "usogui-109",
+      "number": "109",
+      "title": "Truth Of The Humor",
+      "date": "2015/05/21",
+      "pages": []
+    },
+    {
+      "id": "usogui-110",
+      "number": "110",
+      "title": "Feast of the Wild Beasts",
+      "date": "2015/07/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-111",
+      "number": "111",
+      "title": "Battle Royale",
+      "date": "2015/08/22",
+      "pages": []
+    },
+    {
+      "id": "usogui-112",
+      "number": "112",
+      "title": "Clash!!!",
+      "date": "2015/09/27",
+      "pages": []
+    },
+    {
+      "id": "usogui-113",
+      "number": "113",
+      "title": "Eternal Pandemonium",
+      "date": "2015/10/17",
+      "pages": []
+    },
+    {
+      "id": "usogui-114",
+      "number": "114",
+      "title": "Next Stage",
+      "date": "2015/11/17",
+      "pages": []
+    },
+    {
+      "id": "usogui-115",
+      "number": "115",
+      "title": "",
+      "date": "2015/12/24",
+      "pages": []
+    },
+    {
+      "id": "usogui-116",
+      "number": "116",
+      "title": "Natural Selection",
+      "date": "2016/01/01",
+      "pages": []
+    },
+    {
+      "id": "usogui-117",
+      "number": "117",
+      "title": "",
+      "date": "2016/01/20",
+      "pages": []
+    },
+    {
+      "id": "usogui-118",
+      "number": "118",
+      "title": "",
+      "date": "2016/02/18",
+      "pages": []
+    },
+    {
+      "id": "usogui-119",
+      "number": "119",
+      "title": "",
+      "date": "2016/03/23",
+      "pages": []
+    },
+    {
+      "id": "usogui-120",
+      "number": "120",
+      "title": "",
+      "date": "2016/04/09",
+      "pages": []
+    },
+    {
+      "id": "usogui-121",
+      "number": "121",
+      "title": "",
+      "date": "2016/07/02",
+      "pages": []
+    },
+    {
+      "id": "usogui-122",
+      "number": "122",
+      "title": "",
+      "date": "2016/07/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-123",
+      "number": "123",
+      "title": "",
+      "date": "2016/08/15",
+      "pages": []
+    },
+    {
+      "id": "usogui-124",
+      "number": "124",
+      "title": "",
+      "date": "2016/09/07",
+      "pages": []
+    },
+    {
+      "id": "usogui-125",
+      "number": "125",
+      "title": "",
+      "date": "2016/09/21",
+      "pages": []
+    },
+    {
+      "id": "usogui-126",
+      "number": "126",
+      "title": "",
+      "date": "2016/10/04",
+      "pages": []
+    },
+    {
+      "id": "usogui-127",
+      "number": "127",
+      "title": "",
+      "date": "2018/02/02",
+      "pages": []
+    },
+    {
+      "id": "usogui-128",
+      "number": "128",
+      "title": "",
+      "date": "2018/06/09",
+      "pages": []
+    },
+    {
+      "id": "usogui-129",
+      "number": "129",
+      "title": "",
+      "date": "2018/06/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-130",
+      "number": "130",
+      "title": "",
+      "date": "2018/06/23",
+      "pages": []
+    },
+    {
+      "id": "usogui-131",
+      "number": "131",
+      "title": "",
+      "date": "2018/07/07",
+      "pages": []
+    },
+    {
+      "id": "usogui-132",
+      "number": "132",
+      "title": "",
+      "date": "2018/08/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-133",
+      "number": "133",
+      "title": "",
+      "date": "2018/09/22",
+      "pages": []
+    },
+    {
+      "id": "usogui-134",
+      "number": "134",
+      "title": "",
+      "date": "2018/09/29",
+      "pages": []
+    },
+    {
+      "id": "usogui-135",
+      "number": "135",
+      "title": "",
+      "date": "2018/09/29",
+      "pages": []
+    },
+    {
+      "id": "usogui-136",
+      "number": "136",
+      "title": "",
+      "date": "2018/09/29",
+      "pages": []
+    },
+    {
+      "id": "usogui-137",
+      "number": "137",
+      "title": "",
+      "date": "2018/10/07",
+      "pages": []
+    },
+    {
+      "id": "usogui-138",
+      "number": "138",
+      "title": "",
+      "date": "2018/10/07",
+      "pages": []
+    },
+    {
+      "id": "usogui-139",
+      "number": "139",
+      "title": "",
+      "date": "2018/10/16",
+      "pages": []
+    },
+    {
+      "id": "usogui-140",
+      "number": "140",
+      "title": "",
+      "date": "2018/10/16",
+      "pages": []
+    },
+    {
+      "id": "usogui-141",
+      "number": "141",
+      "title": "",
+      "date": "2018/10/18",
+      "pages": []
+    },
+    {
+      "id": "usogui-142",
+      "number": "142",
+      "title": "",
+      "date": "2018/10/18",
+      "pages": []
+    },
+    {
+      "id": "usogui-143",
+      "number": "143",
+      "title": "Minotaur",
+      "date": "2018/10/23",
+      "pages": []
+    },
+    {
+      "id": "usogui-144",
+      "number": "144",
+      "title": "Two Monster",
+      "date": "2018/10/23",
+      "pages": []
+    },
+    {
+      "id": "usogui-145",
+      "number": "145",
+      "title": "Exterminate the Monster",
+      "date": "2018/10/23",
+      "pages": []
+    },
+    {
+      "id": "usogui-150",
+      "number": "150",
+      "title": "",
+      "date": "2018/11/08",
+      "pages": []
+    },
+    {
+      "id": "usogui-151",
+      "number": "151",
+      "title": "",
+      "date": "2018/11/19",
+      "pages": []
+    },
+    {
+      "id": "usogui-152",
+      "number": "152",
+      "title": "",
+      "date": "2018/11/26",
+      "pages": []
+    },
+    {
+      "id": "usogui-153",
+      "number": "153",
+      "title": "",
+      "date": "2018/11/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-154",
+      "number": "154",
+      "title": "",
+      "date": "2018/11/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-155",
+      "number": "155",
+      "title": "",
+      "date": "2018/11/30",
+      "pages": []
+    },
+    {
+      "id": "usogui-156",
+      "number": "156",
+      "title": "",
+      "date": "2018/12/01",
+      "pages": []
+    },
+    {
+      "id": "usogui-157",
+      "number": "157",
+      "title": "Scream of Life",
+      "date": "2018/12/02",
+      "pages": []
+    },
+    {
+      "id": "usogui-158",
+      "number": "158",
+      "title": "",
+      "date": "2018/12/03",
+      "pages": []
+    },
+    {
+      "id": "usogui-159",
+      "number": "159",
+      "title": "Invalid Communication",
+      "date": "2018/12/04",
+      "pages": []
+    },
+    {
+      "id": "usogui-160",
+      "number": "160",
+      "title": "Dont Want To Get In",
+      "date": "2018/12/05",
+      "pages": []
+    },
+    {
+      "id": "usogui-161",
+      "number": "161",
+      "title": "",
+      "date": "2018/12/07",
+      "pages": []
+    },
+    {
+      "id": "usogui-162",
+      "number": "162",
+      "title": "Exactly",
+      "date": "2018/12/08",
+      "pages": []
+    },
+    {
+      "id": "usogui-163",
+      "number": "163",
+      "title": "",
+      "date": "2018/12/09",
+      "pages": []
+    },
+    {
+      "id": "usogui-164",
+      "number": "164",
+      "title": "",
+      "date": "2018/12/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-165",
+      "number": "165",
+      "title": "",
+      "date": "2018/12/11",
+      "pages": []
+    },
+    {
+      "id": "usogui-166",
+      "number": "166",
+      "title": "Genies Lamp",
+      "date": "2018/12/14",
+      "pages": []
+    },
+    {
+      "id": "usogui-167",
+      "number": "167",
+      "title": "",
+      "date": "2018/12/15",
+      "pages": []
+    },
+    {
+      "id": "usogui-168",
+      "number": "168",
+      "title": "",
+      "date": "2018/12/16",
+      "pages": []
+    },
+    {
+      "id": "usogui-169",
+      "number": "169",
+      "title": "Invisible Evidence",
+      "date": "2018/12/17",
+      "pages": []
+    },
+    {
+      "id": "usogui-170",
+      "number": "170",
+      "title": "The Light of The Key Stone",
+      "date": "2018/12/18",
+      "pages": []
+    },
+    {
+      "id": "usogui-171",
+      "number": "171",
+      "title": "",
+      "date": "2018/12/20",
+      "pages": []
+    },
+    {
+      "id": "usogui-172",
+      "number": "172",
+      "title": "",
+      "date": "2018/12/21",
+      "pages": []
+    },
+    {
+      "id": "usogui-173",
+      "number": "173",
+      "title": "",
+      "date": "2018/12/24",
+      "pages": []
+    },
+    {
+      "id": "usogui-174",
+      "number": "174",
+      "title": "",
+      "date": "2018/12/25",
+      "pages": []
+    },
+    {
+      "id": "usogui-175",
+      "number": "175",
+      "title": "",
+      "date": "2018/12/26",
+      "pages": []
+    },
+    {
+      "id": "usogui-176",
+      "number": "176",
+      "title": "Nim",
+      "date": "2018/12/27",
+      "pages": []
+    },
+    {
+      "id": "usogui-177",
+      "number": "177",
+      "title": "",
+      "date": "2018/12/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-178",
+      "number": "178",
+      "title": "",
+      "date": "2019/01/01",
+      "pages": []
+    },
+    {
+      "id": "usogui-179",
+      "number": "179",
+      "title": "The Hidden Past",
+      "date": "2019/01/02",
+      "pages": []
+    },
+    {
+      "id": "usogui-180",
+      "number": "180",
+      "title": "A Made up Scandal",
+      "date": "2019/01/03",
+      "pages": []
+    },
+    {
+      "id": "usogui-181",
+      "number": "181",
+      "title": "Darkness Is Meant To Be Exposed",
+      "date": "2019/01/05",
+      "pages": []
+    },
+    {
+      "id": "usogui-182",
+      "number": "182",
+      "title": "",
+      "date": "2019/01/08",
+      "pages": []
+    },
+    {
+      "id": "usogui-183",
+      "number": "183",
+      "title": "",
+      "date": "2019/01/09",
+      "pages": []
+    },
+    {
+      "id": "usogui-184",
+      "number": "184",
+      "title": "",
+      "date": "2019/01/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-185",
+      "number": "185",
+      "title": "Consideration",
+      "date": "2019/01/11",
+      "pages": []
+    },
+    {
+      "id": "usogui-186",
+      "number": "186",
+      "title": "Slay The Devil",
+      "date": "2019/01/12",
+      "pages": []
+    },
+    {
+      "id": "usogui-187",
+      "number": "187",
+      "title": "The Darkness is Calling",
+      "date": "2019/01/13",
+      "pages": []
+    },
+    {
+      "id": "usogui-188",
+      "number": "188",
+      "title": "Darkness Comes Again",
+      "date": "2019/01/21",
+      "pages": []
+    },
+    {
+      "id": "usogui-189",
+      "number": "189",
+      "title": "Nobody Knows",
+      "date": "2019/01/22",
+      "pages": []
+    },
+    {
+      "id": "usogui-190",
+      "number": "190",
+      "title": "Fool",
+      "date": "2019/01/23",
+      "pages": []
+    },
+    {
+      "id": "usogui-191",
+      "number": "191",
+      "title": "Rules and Hints",
+      "date": "2019/01/24",
+      "pages": []
+    },
+    {
+      "id": "usogui-192",
+      "number": "192",
+      "title": "",
+      "date": "2019/01/25",
+      "pages": []
+    },
+    {
+      "id": "usogui-193",
+      "number": "193",
+      "title": "Lifeline",
+      "date": "2019/01/26",
+      "pages": []
+    },
+    {
+      "id": "usogui-194",
+      "number": "194",
+      "title": "",
+      "date": "2019/01/27",
+      "pages": []
+    },
+    {
+      "id": "usogui-195",
+      "number": "195",
+      "title": "",
+      "date": "2019/01/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-196",
+      "number": "196",
+      "title": "",
+      "date": "2019/01/29",
+      "pages": []
+    },
+    {
+      "id": "usogui-197",
+      "number": "197",
+      "title": "The Best Taste",
+      "date": "2019/01/30",
+      "pages": []
+    },
+    {
+      "id": "usogui-198",
+      "number": "198",
+      "title": "Natural Disaster",
+      "date": "2019/02/03",
+      "pages": []
+    },
+    {
+      "id": "usogui-199",
+      "number": "199",
+      "title": "Alibi Construction",
+      "date": "2019/02/04",
+      "pages": []
+    },
+    {
+      "id": "usogui-200",
+      "number": "200",
+      "title": "",
+      "date": "2019/02/05",
+      "pages": []
+    },
+    {
+      "id": "usogui-201",
+      "number": "201",
+      "title": "",
+      "date": "2019/02/06",
+      "pages": []
+    },
+    {
+      "id": "usogui-202",
+      "number": "202",
+      "title": "Pandora s Box",
+      "date": "2019/02/07",
+      "pages": []
+    },
+    {
+      "id": "usogui-203",
+      "number": "203",
+      "title": "A Calm Mind",
+      "date": "2019/02/08",
+      "pages": []
+    },
+    {
+      "id": "usogui-204",
+      "number": "204",
+      "title": "Emperor Tower",
+      "date": "2019/02/09",
+      "pages": []
+    },
+    {
+      "id": "usogui-205",
+      "number": "205",
+      "title": "Meeting",
+      "date": "2019/02/16",
+      "pages": []
+    },
+    {
+      "id": "usogui-206",
+      "number": "206",
+      "title": "",
+      "date": "2019/02/17",
+      "pages": []
+    },
+    {
+      "id": "usogui-207",
+      "number": "207",
+      "title": "",
+      "date": "2019/02/18",
+      "pages": []
+    },
+    {
+      "id": "usogui-208",
+      "number": "208",
+      "title": "",
+      "date": "2019/02/20",
+      "pages": []
+    },
+    {
+      "id": "usogui-209",
+      "number": "209",
+      "title": "The Bloody Chaplain",
+      "date": "2019/02/21",
+      "pages": []
+    },
+    {
+      "id": "usogui-210",
+      "number": "210",
+      "title": "One In Ten Chance",
+      "date": "2019/02/22",
+      "pages": []
+    },
+    {
+      "id": "usogui-211",
+      "number": "211",
+      "title": "A Mind-Game Nightmare",
+      "date": "2019/02/23",
+      "pages": []
+    },
+    {
+      "id": "usogui-212",
+      "number": "212",
+      "title": "",
+      "date": "2019/02/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-213",
+      "number": "213",
+      "title": "Wall Of Silver",
+      "date": "2019/03/01",
+      "pages": []
+    },
+    {
+      "id": "usogui-214",
+      "number": "214",
+      "title": "",
+      "date": "2019/03/02",
+      "pages": []
+    },
+    {
+      "id": "usogui-215",
+      "number": "215",
+      "title": "",
+      "date": "2019/03/03",
+      "pages": []
+    },
+    {
+      "id": "usogui-216",
+      "number": "216",
+      "title": "",
+      "date": "2019/03/04",
+      "pages": []
+    },
+    {
+      "id": "usogui-217",
+      "number": "217",
+      "title": "",
+      "date": "2019/03/05",
+      "pages": []
+    },
+    {
+      "id": "usogui-218",
+      "number": "218",
+      "title": "Where s The Hoarding House",
+      "date": "2019/03/06",
+      "pages": []
+    },
+    {
+      "id": "usogui-219",
+      "number": "219",
+      "title": "Eyes Of A Beast",
+      "date": "2019/03/07",
+      "pages": []
+    },
+    {
+      "id": "usogui-220",
+      "number": "220",
+      "title": "",
+      "date": "2019/03/11",
+      "pages": []
+    },
+    {
+      "id": "usogui-221",
+      "number": "221",
+      "title": "The Two Fangs",
+      "date": "2019/03/12",
+      "pages": []
+    },
+    {
+      "id": "usogui-222",
+      "number": "222",
+      "title": "Keep It Around",
+      "date": "2019/03/13",
+      "pages": []
+    },
+    {
+      "id": "usogui-223",
+      "number": "223",
+      "title": "",
+      "date": "2019/03/19",
+      "pages": []
+    },
+    {
+      "id": "usogui-224",
+      "number": "224",
+      "title": "The Inside And The Outside Of The prediction",
+      "date": "2019/03/20",
+      "pages": []
+    },
+    {
+      "id": "usogui-225",
+      "number": "225",
+      "title": "Quality And Quantity",
+      "date": "2019/03/22",
+      "pages": []
+    },
+    {
+      "id": "usogui-226",
+      "number": "226",
+      "title": "Position",
+      "date": "2019/03/22",
+      "pages": []
+    },
+    {
+      "id": "usogui-227",
+      "number": "227",
+      "title": "The Chief Of The Private Funeral Division",
+      "date": "2019/03/26",
+      "pages": []
+    },
+    {
+      "id": "usogui-228",
+      "number": "228",
+      "title": "",
+      "date": "2019/03/27",
+      "pages": []
+    },
+    {
+      "id": "usogui-229",
+      "number": "229",
+      "title": "Double edged Sword",
+      "date": "2019/03/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-230",
+      "number": "230",
+      "title": "Gamblers",
+      "date": "2019/03/29",
+      "pages": []
+    },
+    {
+      "id": "usogui-231",
+      "number": "231",
+      "title": "Party",
+      "date": "2019/03/30",
+      "pages": []
+    },
+    {
+      "id": "usogui-232",
+      "number": "232",
+      "title": "",
+      "date": "2019/03/31",
+      "pages": []
+    },
+    {
+      "id": "usogui-233",
+      "number": "233",
+      "title": "",
+      "date": "2019/04/01",
+      "pages": []
+    },
+    {
+      "id": "usogui-234",
+      "number": "234",
+      "title": "Is",
+      "date": "2019/04/02",
+      "pages": []
+    },
+    {
+      "id": "usogui-235",
+      "number": "235",
+      "title": "The Devil s Number",
+      "date": "2019/04/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-236",
+      "number": "236",
+      "title": "Heihaizi",
+      "date": "2019/04/11",
+      "pages": []
+    },
+    {
+      "id": "usogui-237",
+      "number": "237",
+      "title": "Message In A Marco",
+      "date": "2019/04/12",
+      "pages": []
+    },
+    {
+      "id": "usogui-238",
+      "number": "238",
+      "title": "Ranko Party",
+      "date": "2019/04/13",
+      "pages": []
+    },
+    {
+      "id": "usogui-239",
+      "number": "239",
+      "title": "A Tricky Party",
+      "date": "2019/04/14",
+      "pages": []
+    },
+    {
+      "id": "usogui-240",
+      "number": "240",
+      "title": "Male Friends",
+      "date": "2019/04/17",
+      "pages": []
+    },
+    {
+      "id": "usogui-241",
+      "number": "241",
+      "title": "A Psycho Friend",
+      "date": "2019/04/18",
+      "pages": []
+    },
+    {
+      "id": "usogui-242",
+      "number": "242",
+      "title": "Gangbang",
+      "date": "2019/04/19",
+      "pages": []
+    },
+    {
+      "id": "usogui-243",
+      "number": "243",
+      "title": "Flurry Of Blades",
+      "date": "2019/04/20",
+      "pages": []
+    },
+    {
+      "id": "usogui-244",
+      "number": "244",
+      "title": "Record 85",
+      "date": "2019/04/21",
+      "pages": []
+    },
+    {
+      "id": "usogui-245",
+      "number": "245",
+      "title": "Kurama Opens Wide",
+      "date": "2019/04/22",
+      "pages": []
+    },
+    {
+      "id": "usogui-246",
+      "number": "246",
+      "title": "Prince Of Bruxism",
+      "date": "2019/04/26",
+      "pages": []
+    },
+    {
+      "id": "usogui-247",
+      "number": "247",
+      "title": "The End Of The Party",
+      "date": "2019/04/26",
+      "pages": []
+    },
+    {
+      "id": "usogui-248",
+      "number": "248",
+      "title": "",
+      "date": "2019/05/04",
+      "pages": []
+    },
+    {
+      "id": "usogui-249",
+      "number": "249",
+      "title": "",
+      "date": "2019/05/05",
+      "pages": []
+    },
+    {
+      "id": "usogui-250",
+      "number": "250",
+      "title": "Colosseum Box",
+      "date": "2019/05/06",
+      "pages": []
+    },
+    {
+      "id": "usogui-251",
+      "number": "251",
+      "title": "Even so Human Are Still Savage",
+      "date": "2019/05/07",
+      "pages": []
+    },
+    {
+      "id": "usogui-252",
+      "number": "252",
+      "title": "",
+      "date": "2019/05/08",
+      "pages": []
+    },
+    {
+      "id": "usogui-253",
+      "number": "253",
+      "title": "The Disrespected Sniper",
+      "date": "2019/05/09",
+      "pages": []
+    },
+    {
+      "id": "usogui-254",
+      "number": "254",
+      "title": "AUFHEBEN",
+      "date": "2019/05/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-255",
+      "number": "255",
+      "title": "Special Journey",
+      "date": "2019/05/11",
+      "pages": []
+    },
+    {
+      "id": "usogui-256",
+      "number": "256",
+      "title": "The River Of Death",
+      "date": "2019/05/17",
+      "pages": []
+    },
+    {
+      "id": "usogui-257",
+      "number": "257",
+      "title": "Fake Poison Effect",
+      "date": "2019/05/18",
+      "pages": []
+    },
+    {
+      "id": "usogui-258",
+      "number": "258",
+      "title": "Ten Bridges",
+      "date": "2019/05/19",
+      "pages": []
+    },
+    {
+      "id": "usogui-259",
+      "number": "259",
+      "title": "Victory Road",
+      "date": "2019/05/20",
+      "pages": []
+    },
+    {
+      "id": "usogui-260",
+      "number": "260",
+      "title": "The Sensational Tower",
+      "date": "2019/05/26",
+      "pages": []
+    },
+    {
+      "id": "usogui-261",
+      "number": "261",
+      "title": "Invisible Holes",
+      "date": "2019/05/27",
+      "pages": []
+    },
+    {
+      "id": "usogui-262",
+      "number": "262",
+      "title": "",
+      "date": "2019/05/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-263",
+      "number": "263",
+      "title": "The Final Decision",
+      "date": "2019/05/29",
+      "pages": []
+    },
+    {
+      "id": "usogui-264",
+      "number": "264",
+      "title": "The Cursed Fools",
+      "date": "2019/05/30",
+      "pages": []
+    },
+    {
+      "id": "usogui-265",
+      "number": "265",
+      "title": "10 Second Battle",
+      "date": "2019/05/31",
+      "pages": []
+    },
+    {
+      "id": "usogui-266",
+      "number": "266",
+      "title": "Conqueror",
+      "date": "2019/06/01",
+      "pages": []
+    },
+    {
+      "id": "usogui-267",
+      "number": "267",
+      "title": "Violence Withers",
+      "date": "2019/06/07",
+      "pages": []
+    },
+    {
+      "id": "usogui-268",
+      "number": "268",
+      "title": "A Greedy Man",
+      "date": "2019/06/08",
+      "pages": []
+    },
+    {
+      "id": "usogui-269",
+      "number": "269",
+      "title": "The End and The Start",
+      "date": "2019/06/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-270",
+      "number": "270",
+      "title": "",
+      "date": "2019/06/11",
+      "pages": []
+    },
+    {
+      "id": "usogui-271",
+      "number": "271",
+      "title": "Encircle The Bee",
+      "date": "2019/06/12",
+      "pages": []
+    },
+    {
+      "id": "usogui-272",
+      "number": "272",
+      "title": "The People Who Leave Will Forget",
+      "date": "2019/06/19",
+      "pages": []
+    },
+    {
+      "id": "usogui-273",
+      "number": "273",
+      "title": "The Bee Acting In The Dark",
+      "date": "2019/06/20",
+      "pages": []
+    },
+    {
+      "id": "usogui-274",
+      "number": "274",
+      "title": "Tempting Coins",
+      "date": "2019/06/21",
+      "pages": []
+    },
+    {
+      "id": "usogui-275",
+      "number": "275",
+      "title": "Creamer Number",
+      "date": "2019/06/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-276",
+      "number": "276",
+      "title": "The Risk That Shouldnt Be",
+      "date": "2019/06/29",
+      "pages": []
+    },
+    {
+      "id": "usogui-277",
+      "number": "277",
+      "title": "",
+      "date": "2019/07/06",
+      "pages": []
+    },
+    {
+      "id": "usogui-278",
+      "number": "278",
+      "title": "The Man Who Ate Too Much",
+      "date": "2019/07/11",
+      "pages": []
+    },
+    {
+      "id": "usogui-279",
+      "number": "279",
+      "title": "The Mind of The Puppet",
+      "date": "2019/07/11",
+      "pages": []
+    },
+    {
+      "id": "usogui-280",
+      "number": "280",
+      "title": "The Mysterious Guest",
+      "date": "2019/07/12",
+      "pages": []
+    },
+    {
+      "id": "usogui-281",
+      "number": "281",
+      "title": "",
+      "date": "2019/07/15",
+      "pages": []
+    },
+    {
+      "id": "usogui-282",
+      "number": "282",
+      "title": "Gallop",
+      "date": "2019/07/16",
+      "pages": []
+    },
+    {
+      "id": "usogui-283",
+      "number": "283",
+      "title": "",
+      "date": "2019/07/16",
+      "pages": []
+    },
+    {
+      "id": "usogui-284",
+      "number": "284",
+      "title": "Outside Expectation",
+      "date": "2019/07/18",
+      "pages": []
+    },
+    {
+      "id": "usogui-285",
+      "number": "285",
+      "title": "Playing on The Boat",
+      "date": "2019/07/27",
+      "pages": []
+    },
+    {
+      "id": "usogui-286",
+      "number": "286",
+      "title": "",
+      "date": "2019/07/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-287",
+      "number": "287",
+      "title": "",
+      "date": "2019/07/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-288",
+      "number": "288",
+      "title": "Kaji-kun→Kaji→You",
+      "date": "2019/07/30",
+      "pages": []
+    },
+    {
+      "id": "usogui-289",
+      "number": "289",
+      "title": "Restraint and Atonishment",
+      "date": "2019/08/05",
+      "pages": []
+    },
+    {
+      "id": "usogui-290",
+      "number": "290",
+      "title": "",
+      "date": "2019/08/05",
+      "pages": []
+    },
+    {
+      "id": "usogui-291",
+      "number": "291",
+      "title": "",
+      "date": "2019/08/07",
+      "pages": []
+    },
+    {
+      "id": "usogui-292",
+      "number": "292",
+      "title": "Volley Again",
+      "date": "2019/08/07",
+      "pages": []
+    },
+    {
+      "id": "usogui-293",
+      "number": "293",
+      "title": "",
+      "date": "2019/08/09",
+      "pages": []
+    },
+    {
+      "id": "usogui-294",
+      "number": "294",
+      "title": "",
+      "date": "2019/08/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-295",
+      "number": "295",
+      "title": "",
+      "date": "2019/08/11",
+      "pages": []
+    },
+    {
+      "id": "usogui-296",
+      "number": "296",
+      "title": "",
+      "date": "2019/08/12",
+      "pages": []
+    },
+    {
+      "id": "usogui-297",
+      "number": "297",
+      "title": "",
+      "date": "2019/08/21",
+      "pages": []
+    },
+    {
+      "id": "usogui-298",
+      "number": "298",
+      "title": "The Unseen Child",
+      "date": "2019/08/22",
+      "pages": []
+    },
+    {
+      "id": "usogui-299",
+      "number": "299",
+      "title": "",
+      "date": "2019/08/23",
+      "pages": []
+    },
+    {
+      "id": "usogui-300",
+      "number": "300",
+      "title": "",
+      "date": "2019/08/24",
+      "pages": []
+    },
+    {
+      "id": "usogui-301",
+      "number": "301",
+      "title": "The Envious Patriot",
+      "date": "2019/08/25",
+      "pages": []
+    },
+    {
+      "id": "usogui-302",
+      "number": "302",
+      "title": "Intuition And Theory",
+      "date": "2019/08/26",
+      "pages": []
+    },
+    {
+      "id": "usogui-303",
+      "number": "303",
+      "title": "",
+      "date": "2019/08/27",
+      "pages": []
+    },
+    {
+      "id": "usogui-304",
+      "number": "304",
+      "title": "Indiscriminate Firing of Euphoria and Destruction",
+      "date": "2019/08/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-305",
+      "number": "305",
+      "title": "Curse Fall Seize",
+      "date": "2019/08/29",
+      "pages": []
+    },
+    {
+      "id": "usogui-306",
+      "number": "306",
+      "title": "",
+      "date": "2019/08/29",
+      "pages": []
+    },
+    {
+      "id": "usogui-307",
+      "number": "307",
+      "title": "The Trap Of Eye Estimation",
+      "date": "2019/08/31",
+      "pages": []
+    },
+    {
+      "id": "usogui-308",
+      "number": "308",
+      "title": "Looking Away Is Evil",
+      "date": "2019/09/01",
+      "pages": []
+    },
+    {
+      "id": "usogui-309",
+      "number": "309",
+      "title": "",
+      "date": "2019/09/02",
+      "pages": []
+    },
+    {
+      "id": "usogui-310",
+      "number": "310",
+      "title": "The Gentleman Of Nightmare",
+      "date": "2019/09/03",
+      "pages": []
+    },
+    {
+      "id": "usogui-311",
+      "number": "311",
+      "title": "",
+      "date": "2019/09/04",
+      "pages": []
+    },
+    {
+      "id": "usogui-312",
+      "number": "312",
+      "title": "Deja Vu",
+      "date": "2019/09/05",
+      "pages": []
+    },
+    {
+      "id": "usogui-313",
+      "number": "313",
+      "title": "The Million Yen Picture Book",
+      "date": "2019/09/06",
+      "pages": []
+    },
+    {
+      "id": "usogui-314",
+      "number": "314",
+      "title": "Referee Masahiko",
+      "date": "2019/09/07",
+      "pages": []
+    },
+    {
+      "id": "usogui-315",
+      "number": "315",
+      "title": "",
+      "date": "2019/09/08",
+      "pages": []
+    },
+    {
+      "id": "usogui-316",
+      "number": "316",
+      "title": "This Name Again",
+      "date": "2019/09/09",
+      "pages": []
+    },
+    {
+      "id": "usogui-317",
+      "number": "317",
+      "title": "",
+      "date": "2019/09/16",
+      "pages": []
+    },
+    {
+      "id": "usogui-318",
+      "number": "318",
+      "title": "Bush And Cherry Blossom",
+      "date": "2019/09/17",
+      "pages": []
+    },
+    {
+      "id": "usogui-319",
+      "number": "319",
+      "title": "Claims In The Fire",
+      "date": "2019/09/18",
+      "pages": []
+    },
+    {
+      "id": "usogui-320",
+      "number": "320",
+      "title": "The Seed Production of the Labyrinth",
+      "date": "2019/09/19",
+      "pages": []
+    },
+    {
+      "id": "usogui-321",
+      "number": "321",
+      "title": "First Contact 2nd Time",
+      "date": "2019/09/20",
+      "pages": []
+    },
+    {
+      "id": "usogui-322",
+      "number": "322",
+      "title": "",
+      "date": "2019/09/21",
+      "pages": []
+    },
+    {
+      "id": "usogui-323",
+      "number": "323",
+      "title": "Chapter 1 Fin",
+      "date": "2019/09/22",
+      "pages": []
+    },
+    {
+      "id": "usogui-324",
+      "number": "324",
+      "title": "",
+      "date": "2019/09/23",
+      "pages": []
+    },
+    {
+      "id": "usogui-325",
+      "number": "325",
+      "title": "",
+      "date": "2019/09/30",
+      "pages": []
+    },
+    {
+      "id": "usogui-326",
+      "number": "326",
+      "title": "",
+      "date": "2019/10/01",
+      "pages": []
+    },
+    {
+      "id": "usogui-327",
+      "number": "327",
+      "title": "The Sweep Plan",
+      "date": "2019/10/02",
+      "pages": []
+    },
+    {
+      "id": "usogui-328",
+      "number": "328",
+      "title": "Let The Match Begin",
+      "date": "2019/10/02",
+      "pages": []
+    },
+    {
+      "id": "usogui-329",
+      "number": "329",
+      "title": "Protoporos",
+      "date": "2019/10/03",
+      "pages": []
+    },
+    {
+      "id": "usogui-330",
+      "number": "330",
+      "title": "Aratas Puzzle",
+      "date": "2019/10/05",
+      "pages": []
+    },
+    {
+      "id": "usogui-331",
+      "number": "331",
+      "title": "The Gambling In The Slave Dormitory",
+      "date": "2019/10/06",
+      "pages": []
+    },
+    {
+      "id": "usogui-332",
+      "number": "332",
+      "title": "Encirclement Of The 4 Gods",
+      "date": "2019/10/07",
+      "pages": []
+    },
+    {
+      "id": "usogui-333",
+      "number": "333",
+      "title": "The Commencement Of The Silence",
+      "date": "2019/10/08",
+      "pages": []
+    },
+    {
+      "id": "usogui-334",
+      "number": "334",
+      "title": "Certain Pass or Duel",
+      "date": "2019/10/09",
+      "pages": []
+    },
+    {
+      "id": "usogui-335",
+      "number": "335",
+      "title": "The Scrambling Slaves",
+      "date": "2019/10/13",
+      "pages": []
+    },
+    {
+      "id": "usogui-336",
+      "number": "336",
+      "title": "A Damn Slave",
+      "date": "2019/10/14",
+      "pages": []
+    },
+    {
+      "id": "usogui-337",
+      "number": "337",
+      "title": "The Ill Will Hidden Under The Lid",
+      "date": "2019/10/15",
+      "pages": []
+    },
+    {
+      "id": "usogui-338",
+      "number": "338",
+      "title": "",
+      "date": "2019/10/16",
+      "pages": []
+    },
+    {
+      "id": "usogui-339",
+      "number": "339",
+      "title": "At The End Of A Frail Determination",
+      "date": "2019/10/17",
+      "pages": []
+    },
+    {
+      "id": "usogui-340",
+      "number": "340",
+      "title": "King of Slave",
+      "date": "2019/10/18",
+      "pages": []
+    },
+    {
+      "id": "usogui-341",
+      "number": "341",
+      "title": "Legendary Traveler",
+      "date": "2019/10/25",
+      "pages": []
+    },
+    {
+      "id": "usogui-342",
+      "number": "342",
+      "title": "The Untouchable Line",
+      "date": "2019/10/26",
+      "pages": []
+    },
+    {
+      "id": "usogui-343",
+      "number": "343",
+      "title": "Betting Ticket",
+      "date": "2019/10/27",
+      "pages": []
+    },
+    {
+      "id": "usogui-344",
+      "number": "344",
+      "title": "Coordinator",
+      "date": "2019/10/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-345",
+      "number": "345",
+      "title": "",
+      "date": "2019/10/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-346",
+      "number": "346",
+      "title": "The Deciding Match in Protoporos",
+      "date": "2019/10/29",
+      "pages": []
+    },
+    {
+      "id": "usogui-347",
+      "number": "347",
+      "title": "A Guaranteed Bet",
+      "date": "2019/10/31",
+      "pages": []
+    },
+    {
+      "id": "usogui-348",
+      "number": "348",
+      "title": "Behind The Bear",
+      "date": "2019/11/06",
+      "pages": []
+    },
+    {
+      "id": "usogui-349",
+      "number": "349",
+      "title": "The Exiled Ally",
+      "date": "2019/11/07",
+      "pages": []
+    },
+    {
+      "id": "usogui-350",
+      "number": "350",
+      "title": "Its Right Now!",
+      "date": "2019/11/08",
+      "pages": []
+    },
+    {
+      "id": "usogui-351",
+      "number": "351",
+      "title": "Single Task Specialist",
+      "date": "2019/11/09",
+      "pages": []
+    },
+    {
+      "id": "usogui-352",
+      "number": "352",
+      "title": "",
+      "date": "2019/11/09",
+      "pages": []
+    },
+    {
+      "id": "usogui-353",
+      "number": "353",
+      "title": "",
+      "date": "2019/11/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-354",
+      "number": "354",
+      "title": "Advantage or Negligence",
+      "date": "2019/11/19",
+      "pages": []
+    },
+    {
+      "id": "usogui-355",
+      "number": "355",
+      "title": "Because anything is allowed",
+      "date": "2019/11/19",
+      "pages": []
+    },
+    {
+      "id": "usogui-356",
+      "number": "356",
+      "title": "The Sneering Brother",
+      "date": "2019/11/20",
+      "pages": []
+    },
+    {
+      "id": "usogui-357",
+      "number": "357",
+      "title": "",
+      "date": "2019/11/21",
+      "pages": []
+    },
+    {
+      "id": "usogui-358",
+      "number": "358",
+      "title": "Short term Mutual Agreement And Compromises And Hope",
+      "date": "2019/11/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-359",
+      "number": "359",
+      "title": "The Taste Engraven",
+      "date": "2019/11/29",
+      "pages": []
+    },
+    {
+      "id": "usogui-360",
+      "number": "360",
+      "title": "",
+      "date": "2019/11/29",
+      "pages": []
+    },
+    {
+      "id": "usogui-361",
+      "number": "361",
+      "title": "The Fallen Fortress",
+      "date": "2019/12/01",
+      "pages": []
+    },
+    {
+      "id": "usogui-362",
+      "number": "362",
+      "title": "The Fortress Of Conspiracy",
+      "date": "2019/12/02",
+      "pages": []
+    },
+    {
+      "id": "usogui-363",
+      "number": "363",
+      "title": "Instigating Each Other",
+      "date": "2019/12/02",
+      "pages": []
+    },
+    {
+      "id": "usogui-364",
+      "number": "364",
+      "title": "Beatdown",
+      "date": "2019/12/04",
+      "pages": []
+    },
+    {
+      "id": "usogui-365",
+      "number": "365",
+      "title": "Game Of Contradiction",
+      "date": "2019/12/05",
+      "pages": []
+    },
+    {
+      "id": "usogui-366",
+      "number": "366",
+      "title": "The 3rd Spear",
+      "date": "2019/12/06",
+      "pages": []
+    },
+    {
+      "id": "usogui-367",
+      "number": "367",
+      "title": "No Two Hearts Are The Same",
+      "date": "2019/12/07",
+      "pages": []
+    },
+    {
+      "id": "usogui-368",
+      "number": "368",
+      "title": "Hard To Expose, Hard To Protect",
+      "date": "2019/12/12",
+      "pages": []
+    },
+    {
+      "id": "usogui-369",
+      "number": "369",
+      "title": "",
+      "date": "2019/12/12",
+      "pages": []
+    },
+    {
+      "id": "usogui-370",
+      "number": "370",
+      "title": "The Strength Of This Side",
+      "date": "2019/12/13",
+      "pages": []
+    },
+    {
+      "id": "usogui-371",
+      "number": "371",
+      "title": "Explode",
+      "date": "2019/12/15",
+      "pages": []
+    },
+    {
+      "id": "usogui-372",
+      "number": "372",
+      "title": "A Profound Darkness",
+      "date": "2019/12/16",
+      "pages": []
+    },
+    {
+      "id": "usogui-373",
+      "number": "373",
+      "title": "The Pierced Through Expectation",
+      "date": "2019/12/17",
+      "pages": []
+    },
+    {
+      "id": "usogui-374",
+      "number": "374",
+      "title": "Gamblers Stage",
+      "date": "2019/12/18",
+      "pages": []
+    },
+    {
+      "id": "usogui-375",
+      "number": "375",
+      "title": "The Plan B Of Conspiracy",
+      "date": "2019/12/19",
+      "pages": []
+    },
+    {
+      "id": "usogui-376",
+      "number": "376",
+      "title": "Festival Of The War",
+      "date": "2019/12/20",
+      "pages": []
+    },
+    {
+      "id": "usogui-377",
+      "number": "377",
+      "title": "The Man Who Dominates The outlaws",
+      "date": "2019/12/27",
+      "pages": []
+    },
+    {
+      "id": "usogui-378",
+      "number": "378",
+      "title": "The Shooting Hunter",
+      "date": "2019/12/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-379",
+      "number": "379",
+      "title": "",
+      "date": "2019/12/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-380",
+      "number": "380",
+      "title": "The Legendary Bodyguard",
+      "date": "2019/12/29",
+      "pages": []
+    },
+    {
+      "id": "usogui-381",
+      "number": "381",
+      "title": "Death In A Nanometer",
+      "date": "2019/12/31",
+      "pages": []
+    },
+    {
+      "id": "usogui-382",
+      "number": "382",
+      "title": "Comprehension Of \"Non-violence\"",
+      "date": "2019/12/31",
+      "pages": []
+    },
+    {
+      "id": "usogui-383",
+      "number": "383",
+      "title": "The Forbidden Power",
+      "date": "2020/01/02",
+      "pages": []
+    },
+    {
+      "id": "usogui-384",
+      "number": "384",
+      "title": "Impurity",
+      "date": "2020/01/03",
+      "pages": []
+    },
+    {
+      "id": "usogui-385",
+      "number": "385",
+      "title": "",
+      "date": "2020/01/04",
+      "pages": []
+    },
+    {
+      "id": "usogui-386",
+      "number": "386",
+      "title": "",
+      "date": "2020/01/05",
+      "pages": []
+    },
+    {
+      "id": "usogui-387",
+      "number": "387",
+      "title": "Reward Of \"Violence\"",
+      "date": "2020/01/06",
+      "pages": []
+    },
+    {
+      "id": "usogui-388",
+      "number": "388",
+      "title": "The Sad News Within The Hollowness",
+      "date": "2020/01/06",
+      "pages": []
+    },
+    {
+      "id": "usogui-389",
+      "number": "389",
+      "title": "A Kings Game",
+      "date": "2020/01/08",
+      "pages": []
+    },
+    {
+      "id": "usogui-390",
+      "number": "390",
+      "title": "No.0 Returns",
+      "date": "2020/01/09",
+      "pages": []
+    },
+    {
+      "id": "usogui-391",
+      "number": "391",
+      "title": "Hand Chopper",
+      "date": "2020/01/15",
+      "pages": []
+    },
+    {
+      "id": "usogui-392",
+      "number": "392",
+      "title": "The Plan To Become a King",
+      "date": "2020/01/16",
+      "pages": []
+    },
+    {
+      "id": "usogui-393",
+      "number": "393",
+      "title": "",
+      "date": "2020/01/17",
+      "pages": []
+    },
+    {
+      "id": "usogui-394",
+      "number": "394",
+      "title": "The Mechanic of Kings",
+      "date": "2020/01/18",
+      "pages": []
+    },
+    {
+      "id": "usogui-395",
+      "number": "395",
+      "title": "Outbreak Of War",
+      "date": "2020/01/19",
+      "pages": []
+    },
+    {
+      "id": "usogui-396",
+      "number": "396",
+      "title": "The Theory Of The Stratagem",
+      "date": "2020/01/20",
+      "pages": []
+    },
+    {
+      "id": "usogui-397",
+      "number": "397",
+      "title": "Nobukos Tactics",
+      "date": "2020/01/21",
+      "pages": []
+    },
+    {
+      "id": "usogui-398",
+      "number": "398",
+      "title": "The Maggots Of The 6Th Day",
+      "date": "2020/01/22",
+      "pages": []
+    },
+    {
+      "id": "usogui-399",
+      "number": "399",
+      "title": "Great Fuss",
+      "date": "2020/01/23",
+      "pages": []
+    },
+    {
+      "id": "usogui-400",
+      "number": "400",
+      "title": "Collapse",
+      "date": "2020/01/24",
+      "pages": []
+    },
+    {
+      "id": "usogui-401",
+      "number": "401",
+      "title": "Island Of Turmoil",
+      "date": "2020/01/25",
+      "pages": []
+    },
+    {
+      "id": "usogui-402",
+      "number": "402",
+      "title": "The Unifier",
+      "date": "2020/01/26",
+      "pages": []
+    },
+    {
+      "id": "usogui-403",
+      "number": "403",
+      "title": "Caught by Time",
+      "date": "2020/02/04",
+      "pages": []
+    },
+    {
+      "id": "usogui-404",
+      "number": "404",
+      "title": "",
+      "date": "2020/02/05",
+      "pages": []
+    },
+    {
+      "id": "usogui-405",
+      "number": "405",
+      "title": "Youre Nowa Right?",
+      "date": "2020/02/06",
+      "pages": []
+    },
+    {
+      "id": "usogui-406",
+      "number": "406",
+      "title": "The Value Of 0",
+      "date": "2020/02/07",
+      "pages": []
+    },
+    {
+      "id": "usogui-407",
+      "number": "407",
+      "title": "The 卍(Ban) Island Thrown Into Chaos",
+      "date": "2020/02/08",
+      "pages": []
+    },
+    {
+      "id": "usogui-408",
+      "number": "408",
+      "title": "Surprise Attacks And Surprise Attacks And Surprise Attacks",
+      "date": "2020/02/08",
+      "pages": []
+    },
+    {
+      "id": "usogui-409",
+      "number": "409",
+      "title": "Puzzle Of Chaos",
+      "date": "2020/02/09",
+      "pages": []
+    },
+    {
+      "id": "usogui-410",
+      "number": "410",
+      "title": "Gakuto Dies For The Second Time",
+      "date": "2020/02/11",
+      "pages": []
+    },
+    {
+      "id": "usogui-411",
+      "number": "411",
+      "title": "The Excuse To Fight Back",
+      "date": "2020/02/12",
+      "pages": []
+    },
+    {
+      "id": "usogui-412",
+      "number": "412",
+      "title": "Hero And Monster",
+      "date": "2020/02/13",
+      "pages": []
+    },
+    {
+      "id": "usogui-413",
+      "number": "413",
+      "title": "",
+      "date": "2020/02/19",
+      "pages": []
+    },
+    {
+      "id": "usogui-414",
+      "number": "414",
+      "title": "The Man Made Of Lethal Weapons",
+      "date": "2020/02/20",
+      "pages": []
+    },
+    {
+      "id": "usogui-415",
+      "number": "415",
+      "title": "A New Nightmare",
+      "date": "2020/02/21",
+      "pages": []
+    },
+    {
+      "id": "usogui-416",
+      "number": "416",
+      "title": "Cannibalism",
+      "date": "2020/02/22",
+      "pages": []
+    },
+    {
+      "id": "usogui-417",
+      "number": "417",
+      "title": "Meeting Again",
+      "date": "2020/02/23",
+      "pages": []
+    },
+    {
+      "id": "usogui-418",
+      "number": "418",
+      "title": "The Zero, The Dragon",
+      "date": "2020/02/24",
+      "pages": []
+    },
+    {
+      "id": "usogui-419",
+      "number": "419",
+      "title": "Each One's Nightmare",
+      "date": "2020/02/25",
+      "pages": []
+    },
+    {
+      "id": "usogui-420",
+      "number": "420",
+      "title": "Island Of Judgement",
+      "date": "2020/02/26",
+      "pages": []
+    },
+    {
+      "id": "usogui-421",
+      "number": "421",
+      "title": "Conflagration",
+      "date": "2020/02/27",
+      "pages": []
+    },
+    {
+      "id": "usogui-422",
+      "number": "422",
+      "title": "",
+      "date": "2020/02/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-423",
+      "number": "423",
+      "title": "Spinal Signature",
+      "date": "2020/02/29",
+      "pages": []
+    },
+    {
+      "id": "usogui-424",
+      "number": "424",
+      "title": "Until That Day Comes",
+      "date": "2020/02/29",
+      "pages": []
+    },
+    {
+      "id": "usogui-425",
+      "number": "425",
+      "title": "Proof Of Social Order",
+      "date": "2020/03/02",
+      "pages": []
+    },
+    {
+      "id": "usogui-426",
+      "number": "426",
+      "title": "What He Swore To Protect",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "usogui-427",
+      "number": "427",
+      "title": "Prison Of Peace",
+      "date": "2020/03/03",
+      "pages": []
+    },
+    {
+      "id": "usogui-428",
+      "number": "428",
+      "title": "The Man Who Won't Run Away",
+      "date": "2020/03/18",
+      "pages": []
+    },
+    {
+      "id": "usogui-429",
+      "number": "429",
+      "title": "An Island For Outsourcing",
+      "date": "2020/03/19",
+      "pages": []
+    },
+    {
+      "id": "usogui-430",
+      "number": "430",
+      "title": "What Is Drowning?",
+      "date": "2020/03/20",
+      "pages": []
+    },
+    {
+      "id": "usogui-431",
+      "number": "431",
+      "title": "Within The Silence",
+      "date": "2020/03/21",
+      "pages": []
+    },
+    {
+      "id": "usogui-432",
+      "number": "432",
+      "title": "",
+      "date": "2020/03/21",
+      "pages": []
+    },
+    {
+      "id": "usogui-433",
+      "number": "433",
+      "title": "Safe Zone",
+      "date": "2020/03/22",
+      "pages": []
+    },
+    {
+      "id": "usogui-434",
+      "number": "434",
+      "title": "The Straying Resolution",
+      "date": "2020/03/24",
+      "pages": []
+    },
+    {
+      "id": "usogui-435",
+      "number": "435",
+      "title": "Drying Up",
+      "date": "2020/04/05",
+      "pages": []
+    },
+    {
+      "id": "usogui-436",
+      "number": "436",
+      "title": "During The Asphyxia",
+      "date": "2020/04/07",
+      "pages": []
+    },
+    {
+      "id": "usogui-437",
+      "number": "437",
+      "title": "39 or 8",
+      "date": "2020/04/08",
+      "pages": []
+    },
+    {
+      "id": "usogui-438",
+      "number": "438",
+      "title": "Wish",
+      "date": "2020/04/09",
+      "pages": []
+    },
+    {
+      "id": "usogui-439",
+      "number": "439",
+      "title": "Awakening",
+      "date": "2020/04/11",
+      "pages": []
+    },
+    {
+      "id": "usogui-440",
+      "number": "440",
+      "title": "The Knowledge Carved In Abomination",
+      "date": "2020/04/11",
+      "pages": []
+    },
+    {
+      "id": "usogui-441",
+      "number": "441",
+      "title": "The Provoking Gambler",
+      "date": "2020/04/12",
+      "pages": []
+    },
+    {
+      "id": "usogui-442",
+      "number": "442",
+      "title": "Ace Card Or Bait",
+      "date": "2020/04/13",
+      "pages": []
+    },
+    {
+      "id": "usogui-443",
+      "number": "443",
+      "title": "Respective Considerations",
+      "date": "2020/04/14",
+      "pages": []
+    },
+    {
+      "id": "usogui-444",
+      "number": "444",
+      "title": "The Dazzling Panopticon",
+      "date": "2020/04/15",
+      "pages": []
+    },
+    {
+      "id": "usogui-445",
+      "number": "445",
+      "title": "The Calamity And The God Of Death",
+      "date": "2020/04/16",
+      "pages": []
+    },
+    {
+      "id": "usogui-446",
+      "number": "446",
+      "title": "The Helping Hands",
+      "date": "2020/04/16",
+      "pages": []
+    },
+    {
+      "id": "usogui-447",
+      "number": "447",
+      "title": "The Flesh's Memory",
+      "date": "2020/04/18",
+      "pages": []
+    },
+    {
+      "id": "usogui-448",
+      "number": "448",
+      "title": "Air Poker",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "usogui-449",
+      "number": "449",
+      "title": "Witch Pain",
+      "date": "2020/04/20",
+      "pages": []
+    },
+    {
+      "id": "usogui-450",
+      "number": "450",
+      "title": "The Wedge Driven In",
+      "date": "2020/04/21",
+      "pages": []
+    },
+    {
+      "id": "usogui-451",
+      "number": "451",
+      "title": "The Shriek Of The Bird Of Prey",
+      "date": "2020/04/22",
+      "pages": []
+    },
+    {
+      "id": "usogui-452",
+      "number": "452",
+      "title": "Last 2",
+      "date": "2020/04/23",
+      "pages": []
+    },
+    {
+      "id": "usogui-453",
+      "number": "453",
+      "title": "The Strongest 4 Cards",
+      "date": "2020/04/24",
+      "pages": []
+    },
+    {
+      "id": "usogui-454",
+      "number": "454",
+      "title": "A Small Trigger",
+      "date": "2020/04/25",
+      "pages": []
+    },
+    {
+      "id": "usogui-455",
+      "number": "455",
+      "title": "The Thread Of Memories Woven Together",
+      "date": "2020/05/04",
+      "pages": []
+    },
+    {
+      "id": "usogui-456",
+      "number": "456",
+      "title": "The Suicidal Raise",
+      "date": "2020/05/05",
+      "pages": []
+    },
+    {
+      "id": "usogui-457",
+      "number": "457",
+      "title": "Paradigm Shift",
+      "date": "2020/05/06",
+      "pages": []
+    },
+    {
+      "id": "usogui-458",
+      "number": "458",
+      "title": "Folding From Instinct",
+      "date": "2020/05/07",
+      "pages": []
+    },
+    {
+      "id": "usogui-459",
+      "number": "459",
+      "title": "The Hidden Landmine",
+      "date": "2020/05/08",
+      "pages": []
+    },
+    {
+      "id": "usogui-460",
+      "number": "460",
+      "title": "The Scanning 1 Air-bios",
+      "date": "2020/05/09",
+      "pages": []
+    },
+    {
+      "id": "usogui-461",
+      "number": "461",
+      "title": "The Uncovered Landmine",
+      "date": "2020/05/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-462",
+      "number": "462",
+      "title": "Two Things Only",
+      "date": "2020/05/11",
+      "pages": []
+    },
+    {
+      "id": "usogui-463",
+      "number": "463",
+      "title": "Fukurou's Failure",
+      "date": "2020/05/12",
+      "pages": []
+    },
+    {
+      "id": "usogui-464",
+      "number": "464",
+      "title": "",
+      "date": "2020/05/12",
+      "pages": []
+    },
+    {
+      "id": "usogui-465",
+      "number": "465",
+      "title": "His True Ally",
+      "date": "2020/05/14",
+      "pages": []
+    },
+    {
+      "id": "usogui-466",
+      "number": "466",
+      "title": "",
+      "date": "2020/05/14",
+      "pages": []
+    },
+    {
+      "id": "usogui-467",
+      "number": "467",
+      "title": "Deserve To Suffer",
+      "date": "2020/05/16",
+      "pages": []
+    },
+    {
+      "id": "usogui-468",
+      "number": "468",
+      "title": "Usogui",
+      "date": "2020/05/17",
+      "pages": []
+    },
+    {
+      "id": "usogui-469",
+      "number": "469",
+      "title": "Air Poker's Epilogue",
+      "date": "2020/05/18",
+      "pages": []
+    },
+    {
+      "id": "usogui-470",
+      "number": "470",
+      "title": "The Slave In His Heart",
+      "date": "2020/05/19",
+      "pages": []
+    },
+    {
+      "id": "usogui-471",
+      "number": "471",
+      "title": "The Puppets",
+      "date": "2020/05/20",
+      "pages": []
+    },
+    {
+      "id": "usogui-472",
+      "number": "472",
+      "title": "After Paying The Price/Volume 43 Side Story",
+      "date": "2020/05/21",
+      "pages": []
+    },
+    {
+      "id": "usogui-473",
+      "number": "473",
+      "title": "Weight",
+      "date": "2020/06/02",
+      "pages": []
+    },
+    {
+      "id": "usogui-474",
+      "number": "474",
+      "title": "Leader's Attendant",
+      "date": "2020/06/03",
+      "pages": []
+    },
+    {
+      "id": "usogui-475",
+      "number": "475",
+      "title": "",
+      "date": "2020/06/04",
+      "pages": []
+    },
+    {
+      "id": "usogui-476",
+      "number": "476",
+      "title": "",
+      "date": "2020/06/04",
+      "pages": []
+    },
+    {
+      "id": "usogui-477",
+      "number": "477",
+      "title": "Forest Of Beasts",
+      "date": "2020/06/06",
+      "pages": []
+    },
+    {
+      "id": "usogui-478",
+      "number": "478",
+      "title": "My Invincible Darling",
+      "date": "2020/06/07",
+      "pages": []
+    },
+    {
+      "id": "usogui-479",
+      "number": "479",
+      "title": "A Secret In His Life",
+      "date": "2020/06/08",
+      "pages": []
+    },
+    {
+      "id": "usogui-480",
+      "number": "480",
+      "title": "Something Good Might Happen",
+      "date": "2020/06/09",
+      "pages": []
+    },
+    {
+      "id": "usogui-481",
+      "number": "481",
+      "title": "",
+      "date": "2020/06/19",
+      "pages": []
+    },
+    {
+      "id": "usogui-482",
+      "number": "482",
+      "title": "The Imprisoned Referee",
+      "date": "2020/06/21",
+      "pages": []
+    },
+    {
+      "id": "usogui-483",
+      "number": "483",
+      "title": "The Most Suitable One",
+      "date": "2020/06/22",
+      "pages": []
+    },
+    {
+      "id": "usogui-484",
+      "number": "484",
+      "title": "",
+      "date": "2020/06/22",
+      "pages": []
+    },
+    {
+      "id": "usogui-485",
+      "number": "485",
+      "title": "The Seeds Of The Private Funeral Division",
+      "date": "2020/06/24",
+      "pages": []
+    },
+    {
+      "id": "usogui-486",
+      "number": "486",
+      "title": "",
+      "date": "2020/06/25",
+      "pages": []
+    },
+    {
+      "id": "usogui-487",
+      "number": "487",
+      "title": "Strongest Barrier",
+      "date": "2020/06/26",
+      "pages": []
+    },
+    {
+      "id": "usogui-488",
+      "number": "488",
+      "title": "Absolute Zero",
+      "date": "2020/06/27",
+      "pages": []
+    },
+    {
+      "id": "usogui-489",
+      "number": "489",
+      "title": "The Man Standing Between The Two",
+      "date": "2020/06/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-490",
+      "number": "490",
+      "title": "Within The Passage Of Time",
+      "date": "2020/07/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-491",
+      "number": "491",
+      "title": "Squandering And Death",
+      "date": "2020/07/11",
+      "pages": []
+    },
+    {
+      "id": "usogui-492",
+      "number": "492",
+      "title": "Near-Death Game",
+      "date": "2020/07/12",
+      "pages": []
+    },
+    {
+      "id": "usogui-493",
+      "number": "493",
+      "title": "Sound Of Time",
+      "date": "2020/07/13",
+      "pages": []
+    },
+    {
+      "id": "usogui-494",
+      "number": "494",
+      "title": "\"D\" And \"C\"",
+      "date": "2020/07/14",
+      "pages": []
+    },
+    {
+      "id": "usogui-495",
+      "number": "495",
+      "title": "Stolen Initiative",
+      "date": "2020/07/15",
+      "pages": []
+    },
+    {
+      "id": "usogui-496",
+      "number": "496",
+      "title": "The 1st Near-Death",
+      "date": "2020/07/16",
+      "pages": []
+    },
+    {
+      "id": "usogui-497",
+      "number": "497",
+      "title": "A Tricky Disguise",
+      "date": "2020/07/26",
+      "pages": []
+    },
+    {
+      "id": "usogui-498",
+      "number": "498",
+      "title": "The Gambler Who's Being Burnt",
+      "date": "2020/07/27",
+      "pages": []
+    },
+    {
+      "id": "usogui-499",
+      "number": "499",
+      "title": "The Hidden Setup",
+      "date": "2020/07/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-500",
+      "number": "500",
+      "title": "Only Through Death",
+      "date": "2020/07/29",
+      "pages": []
+    },
+    {
+      "id": "usogui-501",
+      "number": "501",
+      "title": "If You Listen Carefully",
+      "date": "2020/07/30",
+      "pages": []
+    },
+    {
+      "id": "usogui-502",
+      "number": "502",
+      "title": "Man of the Neck",
+      "date": "2020/08/08",
+      "pages": []
+    },
+    {
+      "id": "usogui-503",
+      "number": "503",
+      "title": "",
+      "date": "2020/08/08",
+      "pages": []
+    },
+    {
+      "id": "usogui-504",
+      "number": "504",
+      "title": "What Must be Avoided At Any Cost",
+      "date": "2020/08/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-505",
+      "number": "505",
+      "title": "Saying One Thing And Doing Another",
+      "date": "2020/08/11",
+      "pages": []
+    },
+    {
+      "id": "usogui-506",
+      "number": "506",
+      "title": "The Heart's Sound",
+      "date": "2020/08/12",
+      "pages": []
+    },
+    {
+      "id": "usogui-507",
+      "number": "507",
+      "title": "Woman Of Destiny",
+      "date": "2020/08/25",
+      "pages": []
+    },
+    {
+      "id": "usogui-508",
+      "number": "508",
+      "title": "The Unveiled Destiny",
+      "date": "2020/08/27",
+      "pages": []
+    },
+    {
+      "id": "usogui-509",
+      "number": "509",
+      "title": "Upside-down",
+      "date": "2020/08/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-510",
+      "number": "510",
+      "title": "Domination",
+      "date": "2020/08/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-511",
+      "number": "511",
+      "title": "The Second Death",
+      "date": "2020/08/30",
+      "pages": []
+    },
+    {
+      "id": "usogui-512",
+      "number": "512",
+      "title": "Unbreakable Life",
+      "date": "2020/08/31",
+      "pages": []
+    },
+    {
+      "id": "usogui-513",
+      "number": "513",
+      "title": "The Continuous Dive",
+      "date": "2020/09/01",
+      "pages": []
+    },
+    {
+      "id": "usogui-514",
+      "number": "514",
+      "title": "An Extraordinary Person",
+      "date": "2020/09/01",
+      "pages": []
+    },
+    {
+      "id": "usogui-515",
+      "number": "515",
+      "title": "The Effort He's Been Putting In",
+      "date": "2020/09/03",
+      "pages": []
+    },
+    {
+      "id": "usogui-516",
+      "number": "516",
+      "title": "One Chance",
+      "date": "2020/09/17",
+      "pages": []
+    },
+    {
+      "id": "usogui-517",
+      "number": "517",
+      "title": "Over The Line",
+      "date": "2020/09/18",
+      "pages": []
+    },
+    {
+      "id": "usogui-518",
+      "number": "518",
+      "title": "The Drawer That Disappeared",
+      "date": "2020/09/18",
+      "pages": []
+    },
+    {
+      "id": "usogui-519",
+      "number": "519",
+      "title": "After Deliberation",
+      "date": "2020/09/20",
+      "pages": []
+    },
+    {
+      "id": "usogui-520",
+      "number": "520",
+      "title": "The Approaching Crisis",
+      "date": "2020/09/21",
+      "pages": []
+    },
+    {
+      "id": "usogui-521",
+      "number": "521",
+      "title": "To That Place",
+      "date": "2020/09/22",
+      "pages": []
+    },
+    {
+      "id": "usogui-522",
+      "number": "522",
+      "title": "Conviction",
+      "date": "2020/09/23",
+      "pages": []
+    },
+    {
+      "id": "usogui-523",
+      "number": "523",
+      "title": "To the Future",
+      "date": "2020/09/24",
+      "pages": []
+    },
+    {
+      "id": "usogui-524",
+      "number": "524",
+      "title": "Endings",
+      "date": "2020/09/25",
+      "pages": []
+    },
+    {
+      "id": "usogui-525",
+      "number": "525",
+      "title": "The Second Signal",
+      "date": "2020/10/08",
+      "pages": []
+    },
+    {
+      "id": "usogui-526",
+      "number": "526",
+      "title": "The Man Who Died First",
+      "date": "2020/10/08",
+      "pages": []
+    },
+    {
+      "id": "usogui-527",
+      "number": "527",
+      "title": "Drawer Of Uncertainty",
+      "date": "2020/10/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-528",
+      "number": "528",
+      "title": "The Moment He Entered The Route",
+      "date": "2020/10/10",
+      "pages": []
+    },
+    {
+      "id": "usogui-529",
+      "number": "529",
+      "title": "Howling And Roaring",
+      "date": "2020/10/12",
+      "pages": []
+    },
+    {
+      "id": "usogui-530",
+      "number": "530",
+      "title": "The Winner Is...",
+      "date": "2020/10/22",
+      "pages": []
+    },
+    {
+      "id": "usogui-531",
+      "number": "531",
+      "title": "A Clear Ending",
+      "date": "2020/10/23",
+      "pages": []
+    },
+    {
+      "id": "usogui-532",
+      "number": "532",
+      "title": "A Part Of Myself I Still Can't See",
+      "date": "2020/10/24",
+      "pages": []
+    },
+    {
+      "id": "usogui-533",
+      "number": "533",
+      "title": "What I Wanted To See",
+      "date": "2020/10/24",
+      "pages": []
+    },
+    {
+      "id": "usogui-534",
+      "number": "534",
+      "title": "On That Day",
+      "date": "2020/10/26",
+      "pages": []
+    },
+    {
+      "id": "usogui-535",
+      "number": "535",
+      "title": "A Small Lie",
+      "date": "2020/10/27",
+      "pages": []
+    },
+    {
+      "id": "usogui-536",
+      "number": "536",
+      "title": "Vice Fund",
+      "date": "2020/10/28",
+      "pages": []
+    },
+    {
+      "id": "usogui-537",
+      "number": "537",
+      "title": "The VIces",
+      "date": "2020/10/29",
+      "pages": []
+    },
+    {
+      "id": "usogui-538",
+      "number": "538",
+      "title": "What Was Coming",
+      "date": "2020/10/30",
+      "pages": []
+    },
+    {
+      "id": "usogui-539",
+      "number": "539",
+      "title": "Plan A",
+      "date": "2020/10/30",
+      "pages": []
+    }
+  ],
+  "pt": [
+    {
+      "id": "usogui-chapter-1",
+      "number": 1,
+      "title": "Usogui – Capítulo 1 – Apostas",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527462
+    },
+    {
+      "id": "usogui-chapter-2",
+      "number": 2,
+      "title": "Usogui – Capítulo 2 – Comendo agiotas",
+      "date": "2025-04-19T14:22:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527456
+    },
+    {
+      "id": "usogui-chapter-3",
+      "number": 3,
+      "title": "Usogui – Capítulo 3 – A Armadilha de Informações Pessoais",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527471
+    },
+    {
+      "id": "usogui-chapter-4",
+      "number": 4,
+      "title": "Usogui – Capítulo 4 – Assuntos Secretos",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527457
+    },
+    {
+      "id": "usogui-chapter-5",
+      "number": 5,
+      "title": "Usogui – Capítulo 5 – O valor das coisas",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527491
+    },
+    {
+      "id": "usogui-chapter-6",
+      "number": 6,
+      "title": "Usogui – Capítulo 6 – A Partida no Prédio Abandonado",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527483
+    },
+    {
+      "id": "usogui-chapter-7",
+      "number": 7,
+      "title": "Usogui – Capítulo 7 – Tudo é uma aposta",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527482
+    },
+    {
+      "id": "usogui-chapter-8",
+      "number": 8,
+      "title": "Usogui – Capítulo 8 – Os espíritos se quebram",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527492
+    },
+    {
+      "id": "usogui-chapter-9",
+      "number": 9,
+      "title": "Usogui – Capítulo 9 – O Prazer de Matar",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527458
+    },
+    {
+      "id": "usogui-chapter-10",
+      "number": 10,
+      "title": "Usogui – Capítulo 10 – Uma festa de gritos",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527473
+    },
+    {
+      "id": "usogui-chapter-11",
+      "number": 11,
+      "title": "Usogui – Capítulo 11 – Um homem chamado Usogui",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527486
+    },
+    {
+      "id": "usogui-chapter-12",
+      "number": 12,
+      "title": "Usogui – Capítulo 12 – Despertar",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527478
+    },
+    {
+      "id": "usogui-chapter-13",
+      "number": 13,
+      "title": "Usogui – Capítulo 13 – O terror da máscara",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527480
+    },
+    {
+      "id": "usogui-chapter-14",
+      "number": 14,
+      "title": "Usogui – Capítulo 14 – Passando pelo prédio",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527488
+    },
+    {
+      "id": "usogui-chapter-15",
+      "number": 15,
+      "title": "Usogui – Capítulo 15 – Plano B",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527475
+    },
+    {
+      "id": "usogui-chapter-16",
+      "number": 16,
+      "title": "Usogui – Capítulo 16 – Implorando para viver",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527469
+    },
+    {
+      "id": "usogui-chapter-17",
+      "number": 17,
+      "title": "Usogui – Capítulo 17 – Limpe seu sangue",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527476
+    },
+    {
+      "id": "usogui-chapter-18",
+      "number": 18,
+      "title": "Usogui – Capítulo 18 – O golpe final",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527485
+    },
+    {
+      "id": "usogui-chapter-19",
+      "number": 19,
+      "title": "Usogui – Capítulo 19 – Agarrando a vida",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527484
+    },
+    {
+      "id": "usogui-chapter-20",
+      "number": 20,
+      "title": "Usogui – Capítulo 20 – Pega-pega no inferno",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527489
+    },
+    {
+      "id": "usogui-chapter-21",
+      "number": 21,
+      "title": "Usogui – Capítulo 21 – Quem sou eu?",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527467
+    },
+    {
+      "id": "usogui-chapter-22",
+      "number": 22,
+      "title": "Usogui – Capítulo 22 – Redenção!",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527487
+    },
+    {
+      "id": "usogui-chapter-23",
+      "number": 23,
+      "title": "Usogui – Capítulo 23 – Recuperando a força para um novo ataque",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527470
+    },
+    {
+      "id": "usogui-chapter-24",
+      "number": 24,
+      "title": "Usogui – Capítulo 24 – Se preocupando com o dinheiro",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527465
+    },
+    {
+      "id": "usogui-chapter-25",
+      "number": 25,
+      "title": "Usogui – Capítulo 25 – Afiando as presas",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527464
+    },
+    {
+      "id": "usogui-chapter-26",
+      "number": 26,
+      "title": "Usogui – Capítulo 26 – Eu aposto!",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527472
+    },
+    {
+      "id": "usogui-chapter-27",
+      "number": 27,
+      "title": "Usogui – Capítulo 27 – Valores humanos",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527477
+    },
+    {
+      "id": "usogui-chapter-28",
+      "number": 28,
+      "title": "Usogui – Capítulo 28 – Conselho de uma mente exemplar",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527461
+    },
+    {
+      "id": "usogui-chapter-29",
+      "number": 29,
+      "title": "Usogui – Capítulo 29 – Devore",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527460
+    },
+    {
+      "id": "usogui-chapter-30",
+      "number": 30,
+      "title": "Usogui – Capítulo 30 – Controle o dinheiro!",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527490
+    },
+    {
+      "id": "usogui-chapter-31",
+      "number": 31,
+      "title": "Usogui – Capítulo 31 – A fortuna é imprevisível e variável",
+      "date": "2025-04-19T14:22:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527479
+    },
+    {
+      "id": "usogui-chapter-32",
+      "number": 32,
+      "title": "Usogui – Capítulo 32 – O prodígio Kakerou",
+      "date": "2025-04-19T14:24:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527898
+    },
+    {
+      "id": "usogui-chapter-33",
+      "number": 33,
+      "title": "Usogui – Capítulo 33 – Intenção assassina brutal",
+      "date": "2025-04-19T14:24:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527899
+    },
+    {
+      "id": "usogui-chapter-34",
+      "number": 34,
+      "title": "Usogui – Capítulo 34 – O demônio enfurecido voltou!",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527918
+    },
+    {
+      "id": "usogui-chapter-35",
+      "number": 35,
+      "title": "Usogui – Capítulo 35 – O revolucionário aparece",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527921
+    },
+    {
+      "id": "usogui-chapter-36",
+      "number": 36,
+      "title": "Usogui – Capítulo 36 – Intuição feminina",
+      "date": "2025-04-19T14:24:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527902
+    },
+    {
+      "id": "usogui-chapter-37",
+      "number": 37,
+      "title": "Usogui – Capítulo 37 – A preciosa vida é&#8230;",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527928
+    },
+    {
+      "id": "usogui-chapter-38",
+      "number": 38,
+      "title": "Usogui – Capítulo 38 – O escolhido",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527939
+    },
+    {
+      "id": "usogui-chapter-39",
+      "number": 39,
+      "title": "Usogui – Capítulo 39 – Algo está errado&#8230;",
+      "date": "2025-04-19T14:24:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527912
+    },
+    {
+      "id": "usogui-chapter-40",
+      "number": 40,
+      "title": "Usogui – Capítulo 40 – Proprietários do homem",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527936
+    },
+    {
+      "id": "usogui-chapter-41",
+      "number": 41,
+      "title": "Usogui – Capítulo 41 – Hangman",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527930
+    },
+    {
+      "id": "usogui-chapter-42",
+      "number": 42,
+      "title": "Usogui – Capítulo 42 – Leo",
+      "date": "2025-04-19T14:24:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527906
+    },
+    {
+      "id": "usogui-chapter-43",
+      "number": 43,
+      "title": "Usogui – Capítulo 43 – Primeiro jogo",
+      "date": "2025-04-19T14:24:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527910
+    },
+    {
+      "id": "usogui-chapter-44",
+      "number": 44,
+      "title": "Usogui – Capítulo 44 – Cinco de onze",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527925
+    },
+    {
+      "id": "usogui-chapter-45",
+      "number": 45,
+      "title": "Usogui – Capítulo 45 – Batalha 50/50",
+      "date": "2025-04-19T14:24:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527903
+    },
+    {
+      "id": "usogui-chapter-46",
+      "number": 46,
+      "title": "Usogui – Capítulo 46 – A luta contra o tempo",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527926
+    },
+    {
+      "id": "usogui-chapter-47",
+      "number": 47,
+      "title": "Usogui – Capítulo 47 – Enfurecido",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527927
+    },
+    {
+      "id": "usogui-chapter-48",
+      "number": 48,
+      "title": "Usogui – Capítulo 48 – Mate muitos para salvar poucos!",
+      "date": "2025-04-19T14:24:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527911
+    },
+    {
+      "id": "usogui-chapter-49",
+      "number": 49,
+      "title": "Usogui – Capítulo 49 – Em direção à vida",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527932
+    },
+    {
+      "id": "usogui-chapter-50",
+      "number": 50,
+      "title": "Usogui – Capítulo 50 – Engrenagem corroída",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527935
+    },
+    {
+      "id": "usogui-chapter-51",
+      "number": 51,
+      "title": "Usogui – Capítulo 51 – O brinquedo que está prestes a quebrar",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527933
+    },
+    {
+      "id": "usogui-chapter-52",
+      "number": 52,
+      "title": "Usogui – Capítulo 52 – O grande mentiroso",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527937
+    },
+    {
+      "id": "usogui-chapter-53",
+      "number": 53,
+      "title": "Usogui – Capítulo 53 – A festa continua",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527944
+    },
+    {
+      "id": "usogui-chapter-54",
+      "number": 54,
+      "title": "Usogui – Capítulo 54 – Sorriso do deus da morte",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527929
+    },
+    {
+      "id": "usogui-chapter-55",
+      "number": 55,
+      "title": "Usogui – Capítulo 55 – O destino de um Alien",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527924
+    },
+    {
+      "id": "usogui-chapter-56",
+      "number": 56,
+      "title": "Usogui – Capítulo 56 – Zero, novamente",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527941
+    },
+    {
+      "id": "usogui-chapter-57",
+      "number": 57,
+      "title": "Usogui – Capítulo 57 – O jeito do mundo",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527931
+    },
+    {
+      "id": "usogui-chapter-58",
+      "number": 58,
+      "title": "Usogui – Capítulo 58 – Leitura errada",
+      "date": "2025-04-19T14:24:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527907
+    },
+    {
+      "id": "usogui-chapter-59",
+      "number": 59,
+      "title": "Usogui – Capítulo 59 – O derrotado",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527915
+    },
+    {
+      "id": "usogui-chapter-60",
+      "number": 60,
+      "title": "Usogui – Capítulo 60 – Leão VS. Leão",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527916
+    },
+    {
+      "id": "usogui-chapter-61",
+      "number": 61,
+      "title": "Usogui – Capítulo 61 – Sentimentos parentais",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527942
+    },
+    {
+      "id": "usogui-chapter-62",
+      "number": 62,
+      "title": "Usogui – Capítulo 62 – Sensação da primeira vez",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527938
+    },
+    {
+      "id": "usogui-chapter-63",
+      "number": 63,
+      "title": "Usogui – Capítulo 63 – Destino do nada",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527943
+    },
+    {
+      "id": "usogui-chapter-64",
+      "number": 64,
+      "title": "Usogui – Capítulo 64 – A verdade por detrás da revolução",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527920
+    },
+    {
+      "id": "usogui-chapter-65",
+      "number": 65,
+      "title": "Usogui – Capítulo 65 – Enlouquecendo",
+      "date": "2025-04-19T14:24:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527913
+    },
+    {
+      "id": "usogui-chapter-66",
+      "number": 66,
+      "title": "Usogui – Capítulo 66 – Sacrificando",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527923
+    },
+    {
+      "id": "usogui-chapter-67",
+      "number": 67,
+      "title": "Usogui – Capítulo 67 – A chegada da sorte",
+      "date": "2025-04-19T14:24:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527914
+    },
+    {
+      "id": "usogui-chapter-68",
+      "number": 68,
+      "title": "Usogui – Capítulo 68 – Ambição secreta",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527922
+    },
+    {
+      "id": "usogui-chapter-69",
+      "number": 69,
+      "title": "Usogui – Capítulo 69 – Veja as condições para compensar",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527934
+    },
+    {
+      "id": "usogui-chapter-70",
+      "number": 70,
+      "title": "Usogui – Capítulo 70 – Pais e filhos",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527940
+    },
+    {
+      "id": "usogui-chapter-71",
+      "number": 71,
+      "title": "Usogui – Capítulo 71 – Meu valor",
+      "date": "2025-04-19T14:24:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 527919
+    },
+    {
+      "id": "usogui-chapter-72",
+      "number": 72,
+      "title": "Usogui – Capítulo 72 – Verdadeira força",
+      "date": "2025-04-19T14:24:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528061
+    },
+    {
+      "id": "usogui-chapter-73",
+      "number": 73,
+      "title": "Usogui – Capítulo 73 – Mensageiro",
+      "date": "2025-04-19T14:24:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528055
+    },
+    {
+      "id": "usogui-chapter-74",
+      "number": 74,
+      "title": "Usogui – Capítulo 74 – Ideal",
+      "date": "2025-04-19T14:24:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528073
+    },
+    {
+      "id": "usogui-chapter-75",
+      "number": 75,
+      "title": "Usogui – Capítulo 75 – Termos do assassino",
+      "date": "2025-04-19T14:24:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528047
+    },
+    {
+      "id": "usogui-chapter-76",
+      "number": 76,
+      "title": "Usogui – Capítulo 76 – O piedoso",
+      "date": "2025-04-19T14:24:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528060
+    },
+    {
+      "id": "usogui-chapter-77",
+      "number": 77,
+      "title": "Usogui – Capítulo 77 – Die Yobbo",
+      "date": "2025-04-19T14:24:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528057
+    },
+    {
+      "id": "usogui-chapter-78",
+      "number": 78,
+      "title": "Usogui – Capítulo 78 – Grupo ambicioso",
+      "date": "2025-04-19T14:24:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528066
+    },
+    {
+      "id": "usogui-chapter-79",
+      "number": 79,
+      "title": "Usogui – Capítulo 79 – Alvo",
+      "date": "2025-04-19T14:24:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528043
+    },
+    {
+      "id": "usogui-chapter-80",
+      "number": 80,
+      "title": "Usogui – Capítulo 80 – Rumores Estranhos",
+      "date": "2025-04-19T14:24:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528041
+    },
+    {
+      "id": "usogui-chapter-81",
+      "number": 81,
+      "title": "Usogui – Capítulo 81 – Limite Fatídico",
+      "date": "2025-04-19T14:24:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528067
+    },
+    {
+      "id": "usogui-chapter-82",
+      "number": 82,
+      "title": "Usogui – Capítulo 82 – A estrada do desnorteamento",
+      "date": "2025-04-19T14:24:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528063
+    },
+    {
+      "id": "usogui-chapter-83",
+      "number": 83,
+      "title": "Usogui – Capítulo 83 – Despertares",
+      "date": "2025-04-19T14:24:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528068
+    },
+    {
+      "id": "usogui-chapter-84",
+      "number": 84,
+      "title": "Usogui – Capítulo 84 – Advento do rei demônio",
+      "date": "2025-04-19T14:24:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528059
+    },
+    {
+      "id": "usogui-chapter-85",
+      "number": 85,
+      "title": "Usogui – Capítulo 85 – Chances infinitas",
+      "date": "2025-04-19T14:24:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528075
+    },
+    {
+      "id": "usogui-chapter-86",
+      "number": 86,
+      "title": "Usogui – Capítulo 86 – Dentro de um sonho",
+      "date": "2025-04-19T14:24:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528048
+    },
+    {
+      "id": "usogui-chapter-87",
+      "number": 87,
+      "title": "Usogui – Capítulo 87 – Cachorro confuso",
+      "date": "2025-04-19T14:24:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528042
+    },
+    {
+      "id": "usogui-chapter-88",
+      "number": 88,
+      "title": "Usogui – Capítulo 88 – A Composição do Mundo",
+      "date": "2025-04-19T14:24:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528045
+    },
+    {
+      "id": "usogui-chapter-89",
+      "number": 89,
+      "title": "Usogui – Capítulo 89 – Entre no labirinto",
+      "date": "2025-04-19T14:24:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528078
+    },
+    {
+      "id": "usogui-chapter-90",
+      "number": 90,
+      "title": "Usogui – Capítulo 90 – O Nome da Companhia",
+      "date": "2025-04-19T14:24:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528058
+    },
+    {
+      "id": "usogui-chapter-91",
+      "number": 91,
+      "title": "Usogui – Capítulo 91 – O Melhor Lugar da Casa",
+      "date": "2025-04-19T14:24:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528050
+    },
+    {
+      "id": "usogui-chapter-92",
+      "number": 92,
+      "title": "Usogui – Capítulo 92 – Possessão Divina",
+      "date": "2025-04-19T14:24:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528051
+    },
+    {
+      "id": "usogui-chapter-93",
+      "number": 93,
+      "title": "Usogui – Capítulo 93 – Lembrar",
+      "date": "2025-04-19T14:24:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528065
+    },
+    {
+      "id": "usogui-chapter-94",
+      "number": 94,
+      "title": "Usogui – Capítulo 94 – O Terceiro Homem",
+      "date": "2025-04-19T14:24:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528080
+    },
+    {
+      "id": "usogui-chapter-95",
+      "number": 95,
+      "title": "Usogui – Capítulo 95 – Aviso",
+      "date": "2025-04-19T14:24:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528072
+    },
+    {
+      "id": "usogui-chapter-96",
+      "number": 96,
+      "title": "Usogui – Capítulo 96 – Aquilo que está perdido",
+      "date": "2025-04-19T14:24:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528049
+    },
+    {
+      "id": "usogui-chapter-97",
+      "number": 97,
+      "title": "Usogui – Capítulo 97 – Uma Decisão é Tomada",
+      "date": "2025-04-19T14:24:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528062
+    },
+    {
+      "id": "usogui-chapter-98",
+      "number": 98,
+      "title": "Usogui – Capítulo 98 – A Ordem da Formiga",
+      "date": "2025-04-19T14:24:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528056
+    },
+    {
+      "id": "usogui-chapter-99",
+      "number": 99,
+      "title": "Usogui – Capítulo 99 – Contrato Para Vida",
+      "date": "2025-04-19T14:24:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528044
+    },
+    {
+      "id": "usogui-chapter-100",
+      "number": 100,
+      "title": "Usogui – Capítulo 100 – Um Grande Erro",
+      "date": "2025-04-19T14:24:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528074
+    },
+    {
+      "id": "usogui-chapter-101",
+      "number": 101,
+      "title": "Usogui – Capítulo 101 – Uma Ordem a Ser Mantida",
+      "date": "2025-04-19T14:24:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528054
+    },
+    {
+      "id": "usogui-chapter-102",
+      "number": 102,
+      "title": "Usogui – Capítulo 102 – O Ceifador Desceu",
+      "date": "2025-04-19T14:24:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528070
+    },
+    {
+      "id": "usogui-chapter-103",
+      "number": 103,
+      "title": "Usogui – Capítulo 103 – O Labirinto Corrupto",
+      "date": "2025-04-19T14:24:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528077
+    },
+    {
+      "id": "usogui-chapter-104",
+      "number": 104,
+      "title": "Usogui – Capítulo 104 – Propósito na Vida",
+      "date": "2025-04-19T14:24:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528052
+    },
+    {
+      "id": "usogui-chapter-105",
+      "number": 105,
+      "title": "Usogui – Capítulo 105 – Fracassado",
+      "date": "2025-04-19T14:24:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528071
+    },
+    {
+      "id": "usogui-chapter-106",
+      "number": 106,
+      "title": "Usogui – Capítulo 106 – O Demônio do Edifício Abandonado, De Novo",
+      "date": "2025-04-19T14:24:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528069
+    },
+    {
+      "id": "usogui-chapter-107",
+      "number": 107,
+      "title": "Usogui – Capítulo 107 – Algo que é Óbvio",
+      "date": "2025-04-19T14:24:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528046
+    },
+    {
+      "id": "usogui-chapter-108",
+      "number": 108,
+      "title": "Usogui – Capítulo 108 – Choque",
+      "date": "2025-04-19T14:24:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528076
+    },
+    {
+      "id": "usogui-chapter-109",
+      "number": 109,
+      "title": "Usogui – Capítulo 109 – A Verdade do Rumor",
+      "date": "2025-04-19T14:24:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528064
+    },
+    {
+      "id": "usogui-chapter-110",
+      "number": 110,
+      "title": "Usogui – Capítulo 110 – Festa das Feras",
+      "date": "2025-04-19T14:24:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528053
+    },
+    {
+      "id": "usogui-chapter-111",
+      "number": 111,
+      "title": "Usogui – Capítulo 111 – Battle Royale",
+      "date": "2025-04-19T14:24:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 528079
+    },
+    {
+      "id": "usogui-chapter-112",
+      "number": 112,
+      "title": "Usogui – Capítulo 112 – Briga!!",
+      "date": "2025-04-19T14:52:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 530741
+    },
+    {
+      "id": "usogui-chapter-113",
+      "number": 113,
+      "title": "Usogui – Capítulo 113 – Pandemõnio Eterno",
+      "date": "2025-04-19T14:52:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 530744
+    },
+    {
+      "id": "usogui-chapter-114",
+      "number": 114,
+      "title": "Usogui – Capítulo 114 – Próximo Nível",
+      "date": "2025-04-19T14:52:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 530740
+    },
+    {
+      "id": "usogui-chapter-115",
+      "number": 115,
+      "title": "Usogui – Capítulo 115 – Arquivo-L",
+      "date": "2025-04-19T14:52:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 530742
+    },
+    {
+      "id": "usogui-chapter-116",
+      "number": 116,
+      "title": "Usogui – Capítulo 116 – Seleção Natural",
+      "date": "2025-04-19T14:52:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 530736
+    },
+    {
+      "id": "usogui-chapter-117",
+      "number": 117,
+      "title": "Usogui – Capítulo 117 – A Vitória é Inevitável",
+      "date": "2025-04-19T14:52:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 530738
+    },
+    {
+      "id": "usogui-chapter-118",
+      "number": 118,
+      "title": "Usogui – Capítulo 118 – O Melhor Labirinto",
+      "date": "2025-04-19T14:52:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 530743
+    },
+    {
+      "id": "usogui-chapter-119",
+      "number": 119,
+      "title": "Usogui – Capítulo 119 – Monstro: Minotauro",
+      "date": "2025-04-19T14:52:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 530745
+    },
+    {
+      "id": "usogui-chapter-120",
+      "number": 120,
+      "title": "Usogui – Capítulo 120 – Sondando um ao Outro",
+      "date": "2025-04-19T14:52:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 530737
+    },
+    {
+      "id": "usogui-chapter-121",
+      "number": 121,
+      "title": "Usogui – Capítulo 121 – O Que Vem A Seguir",
+      "date": "2025-04-19T14:52:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 530739
+    },
+    {
+      "id": "usogui-chapter-122",
+      "number": 122,
+      "title": "Usogui – Capítulo 122 – Uma Atmosfera Inquieta",
+      "date": "2025-04-19T14:54:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 530928
+    },
+    {
+      "id": "usogui-chapter-123",
+      "number": 123,
+      "title": "Usogui – Capítulo 123 – Uma Existência Selvagem",
+      "date": "2025-04-19T14:54:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 530931
+    },
+    {
+      "id": "usogui-chapter-124",
+      "number": 124,
+      "title": "Usogui – Capítulo 124 – Entrando no Tempo M!",
+      "date": "2025-04-19T14:54:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 530932
+    },
+    {
+      "id": "usogui-chapter-125",
+      "number": 125,
+      "title": "Usogui – Capítulo 125 – Uma Luta Pura",
+      "date": "2025-04-19T14:54:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 530930
+    },
+    {
+      "id": "usogui-chapter-126",
+      "number": 126,
+      "title": "Usogui – Capítulo 126 – Pensamentos Intrincados",
+      "date": "2025-04-19T14:54:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 530929
+    },
+    {
+      "id": "usogui-chapter-127",
+      "number": 127,
+      "title": "Usogui – Capítulo 127 – Super-Humano",
+      "date": "2025-04-19T14:54:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 530934
+    },
+    {
+      "id": "usogui-chapter-128",
+      "number": 128,
+      "title": "Usogui – Capítulo 128 – Troca Pela Vida",
+      "date": "2025-04-19T14:54:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 530936
+    },
+    {
+      "id": "usogui-chapter-129",
+      "number": 129,
+      "title": "Usogui – Capítulo 129 – Demônio vs Super Humano",
+      "date": "2025-04-19T14:54:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 530933
+    },
+    {
+      "id": "usogui-chapter-130",
+      "number": 130,
+      "title": "Usogui – Capítulo 130 – Black",
+      "date": "2025-04-19T14:54:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 530938
+    },
+    {
+      "id": "usogui-chapter-131",
+      "number": 131,
+      "title": "Usogui – Capítulo 131 – Engrenagem",
+      "date": "2025-04-19T14:54:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 530937
+    },
+    {
+      "id": "usogui-chapter-132",
+      "number": 132,
+      "title": "Usogui – Capítulo 132 – Armadilha",
+      "date": "2025-04-19T14:55:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 531129
+    },
+    {
+      "id": "usogui-chapter-133",
+      "number": 133,
+      "title": "Usogui – Capítulo 133 – Um Fracasso Gravado",
+      "date": "2025-04-19T14:55:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 531130
+    },
+    {
+      "id": "usogui-chapter-134",
+      "number": 134,
+      "title": "Usogui – Capítulo 134 – Várias Histórias",
+      "date": "2025-04-19T14:55:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 531128
+    },
+    {
+      "id": "usogui-chapter-135",
+      "number": 135,
+      "title": "Usogui – Capítulo 135 – Encontrando o Desconhecido",
+      "date": "2025-04-19T14:55:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 531131
+    },
+    {
+      "id": "usogui-chapter-136",
+      "number": 136,
+      "title": "Usogui – Capítulo 136 – Características de Uma Elite",
+      "date": "2025-04-19T14:55:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 531133
+    },
+    {
+      "id": "usogui-chapter-137",
+      "number": 137,
+      "title": "Usogui – Capítulo 137 – A Profundidade da Previsão",
+      "date": "2025-04-19T14:55:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 531134
+    },
+    {
+      "id": "usogui-chapter-138",
+      "number": 138,
+      "title": "Usogui – Capítulo 138 – A Coisa Emprestada",
+      "date": "2025-04-19T14:55:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 531132
+    },
+    {
+      "id": "usogui-chapter-139",
+      "number": 139,
+      "title": "Usogui – Capítulo 139 – Cores Mistas",
+      "date": "2025-04-19T14:55:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 531135
+    },
+    {
+      "id": "usogui-chapter-140",
+      "number": 140,
+      "title": "Usogui – Capítulo 140 – O País Não Vai Desistir",
+      "date": "2025-04-19T14:55:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 531137
+    },
+    {
+      "id": "usogui-chapter-141",
+      "number": 141,
+      "title": "Usogui – Capítulo 141 – O Homem Que Abandonou Seu Orgulho",
+      "date": "2025-04-19T14:55:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 531136
+    },
+    {
+      "id": "usogui-chapter-142",
+      "number": 142,
+      "title": "Usogui – Capítulo 142 – Coisas Perdidas Para a Escuridão",
+      "date": "2025-04-19T14:57:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 531348
+    },
+    {
+      "id": "usogui-chapter-142.5",
+      "number": 142.5,
+      "title": "Usogui – Capítulo 142.5 – Um Apostador Peculiar, Usokui",
+      "date": "2025-04-19T14:57:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 531349
+    },
+    {
+      "id": "usogui-chapter-143",
+      "number": 143,
+      "title": "Usogui – Capítulo 143 – Minotauro",
+      "date": "2025-04-19T14:57:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 531353
+    },
+    {
+      "id": "usogui-chapter-144",
+      "number": 144,
+      "title": "Usogui – Capítulo 144 – Dois Monstros",
+      "date": "2025-04-19T14:57:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 531347
+    },
+    {
+      "id": "usogui-chapter-145",
+      "number": 145,
+      "title": "Usogui – Capítulo 145 – Extermine o Monstro",
+      "date": "2025-04-19T14:57:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 531351
+    },
+    {
+      "id": "usogui-chapter-146",
+      "number": 146,
+      "title": "Usogui – Capítulo 146 – Comando",
+      "date": "2025-04-19T14:57:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 531350
+    },
+    {
+      "id": "usogui-chapter-147",
+      "number": 147,
+      "title": "Usogui – Capítulo 147 – Bem-vindo ao lar",
+      "date": "2025-04-19T14:57:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 531354
+    },
+    {
+      "id": "usogui-chapter-148",
+      "number": 148,
+      "title": "Usogui – Capítulo 148 – Ambos os homens se enfrentam",
+      "date": "2025-04-19T14:57:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 531352
+    },
+    {
+      "id": "usogui-chapter-149",
+      "number": 149,
+      "title": "Usogui – Capítulo 149 – Uma Vingança Bem Planejada",
+      "date": "2025-04-19T14:57:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 531355
+    },
+    {
+      "id": "usogui-chapter-150",
+      "number": 150,
+      "title": "Usogui – Capítulo 150 – A Qualificação da Luta",
+      "date": "2025-04-19T14:57:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 531356
+    },
+    {
+      "id": "usogui-chapter-151",
+      "number": 151,
+      "title": "Usogui – Capítulo 151 – Aí vem o Nº 20!!",
+      "date": "2025-04-19T14:59:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 531543
+    }
+  ]
+}

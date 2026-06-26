@@ -1,0 +1,517 @@
+{
+  "pt": [
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-1",
+      "number": 1,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 1 – Um Encontro de Pesadelo",
+      "date": "2025-11-14T04:23:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 932382
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-2",
+      "number": 2,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 2 – Meu Desejo",
+      "date": "2025-11-14T04:23:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 932381
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-3",
+      "number": 3,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 3 – Seriedade e Intenção de Matar",
+      "date": "2025-11-14T04:23:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 932383
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-4",
+      "number": 4,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 4 – O Inimigo Natural dos Deuses",
+      "date": "2025-11-19T02:23:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 943408
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-5",
+      "number": 5,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 5 – Tanto Faz O Que Você Vai Decidi",
+      "date": "2025-11-19T02:23:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 943409
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-6",
+      "number": 6,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 6 – O Sentido de Viver",
+      "date": "2025-12-01T13:46:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 970378
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-6.5",
+      "number": 6.5,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 6.5 – Extra 1",
+      "date": "2025-12-01T13:46:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 970379
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-6.6",
+      "number": 6.6,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 6.6 – Vol 1 extras",
+      "date": "2026-04-24T03:53:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1190276
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-7",
+      "number": 7,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 7 – Eu Sou M",
+      "date": "2025-12-01T13:46:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 970381
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-8",
+      "number": 8,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 8 – Vai Se Ferrar",
+      "date": "2025-12-01T13:46:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 970382
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-9",
+      "number": 9,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 9 – Indo Incomodar a Chefe",
+      "date": "2025-12-01T13:46:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 970380
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-10",
+      "number": 10,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 10 – Nua, Sentada Em Seiza",
+      "date": "2025-12-10T12:54:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1005548
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-11",
+      "number": 11,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 11 – Um Banho Recheado de Amor",
+      "date": "2025-12-10T12:54:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1005547
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-12",
+      "number": 12,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 12 – A Inquebrantável",
+      "date": "2025-12-10T12:54:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1005549
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-13",
+      "number": 13,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 13 – É Todo Seu&#8230; Shinogi",
+      "date": "2025-12-18T21:50:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1022469
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-14",
+      "number": 14,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 14 – A Noite Do Perdedor é Doce e Longa",
+      "date": "2025-12-18T21:50:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1022467
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-14.5",
+      "number": 14.5,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 14.5 – Extra 2",
+      "date": "2025-12-18T21:50:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1022468
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-15",
+      "number": 15,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 15 – Principiante Emocionada",
+      "date": "2025-12-18T21:50:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1022466
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-16",
+      "number": 16,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 16 – Complexo do Combatente",
+      "date": "2025-12-22T12:54:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1027092
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-17",
+      "number": 17,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 17 – Uma Meia-noite de Drinks",
+      "date": "2025-12-22T12:54:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1027093
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-17.5",
+      "number": 17.5,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 17.5 – Vol 2 extras",
+      "date": "2026-04-24T03:55:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1190283
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-18",
+      "number": 18,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 18 – A Cama é o Campo de Batalha",
+      "date": "2026-01-07T13:39:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1044167
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-19",
+      "number": 19,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 19 – Desnudez Acidental X2",
+      "date": "2026-01-07T13:39:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1044185
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-20",
+      "number": 20,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 20 – O Quarteto do Mal-entendido",
+      "date": "2026-01-07T13:39:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1044184
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-21",
+      "number": 21,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 21 – O Trio Justiceiro",
+      "date": "2026-01-26T18:37:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1075524
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-22",
+      "number": 22,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 22 – Envolta Pelo Vapor do Banho",
+      "date": "2026-01-26T18:37:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1075526
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-23",
+      "number": 23,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 23 – A Vida Cotidiana de Garotas Não Humanas",
+      "date": "2026-01-26T18:37:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1075525
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-24",
+      "number": 24,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 24 – Voo Na Noite do Efêmero",
+      "date": "2026-01-26T18:37:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1075523
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-25",
+      "number": 25,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 25 – A Mulher Chamada Yaergnacht",
+      "date": "2026-02-03T13:44:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1088758
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-26",
+      "number": 26,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 26 – Undercover:TOXIC",
+      "date": "2026-04-07T08:49:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1166816
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-27",
+      "number": 27,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 27 – Romance do Outro Lado da Parede",
+      "date": "2026-04-07T08:49:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1166817
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-27.5",
+      "number": 27.5,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 27.5 – Vol 3 extras",
+      "date": "2026-04-24T03:57:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1190298
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-28",
+      "number": 28,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 28 – Súplica Nua e Crua",
+      "date": "2026-04-07T08:49:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1166818
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-29",
+      "number": 29,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 29 – A Cura Definitiva Para a Salvação",
+      "date": "2026-04-07T08:49:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1166872
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-30",
+      "number": 30,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 30 – Ciclo Infernal de Erros",
+      "date": "2026-04-07T08:49:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1166876
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-31",
+      "number": 31,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 31 – Crônica de Uma Confusão com Visitantes",
+      "date": "2026-04-07T08:49:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1166877
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-32",
+      "number": 32,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 32 – ALICE-IN-WONDER-PERSON",
+      "date": "2026-04-07T08:49:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1166871
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-33",
+      "number": 33,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 33 – Não dá Para Despistar com Fumaça",
+      "date": "2026-04-07T08:49:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1166875
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-34",
+      "number": 34,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 34 – Roubo do Manto Celestial",
+      "date": "2026-04-07T08:49:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1166868
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-35",
+      "number": 35,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 35 – Dança Sem Oxigênio",
+      "date": "2026-04-07T08:49:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1166869
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-36",
+      "number": 36,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 36 – Estrategista Das Terras Distantes",
+      "date": "2026-04-07T08:49:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1166867
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-37",
+      "number": 37,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 37 – Prelúdio Da Destruição Mais Temível",
+      "date": "2026-04-07T08:49:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1166879
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-38",
+      "number": 38,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 38 – Das 42 Estratégias, Fugir é a Melhor",
+      "date": "2026-04-07T08:49:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1166870
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-38.5",
+      "number": 38.5,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 38.5 – Vol. 4 extras",
+      "date": "2026-06-24T14:37:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266154
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-39",
+      "number": 39,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 39 – Laços Fortes e Laços Inquebráveis",
+      "date": "2026-04-07T08:50:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1167040
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-40",
+      "number": 40,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 40 – Jogo de Gangorra Da Lealdade e Da Vergonha",
+      "date": "2026-04-07T08:50:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1167039
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-41",
+      "number": 41,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 41 – O Desejo Do Mestre",
+      "date": "2026-04-24T03:58:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1190310
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-42",
+      "number": 42,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 42 – Concedendo a Recompensa Pelo Treinamento",
+      "date": "2026-04-24T03:58:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1190309
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-43",
+      "number": 43,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 43 – Silent Hot Night",
+      "date": "2026-04-24T03:58:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1190312
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-44",
+      "number": 44,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 44 – Festa de Natal do Inferno",
+      "date": "2026-04-24T03:58:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1190311
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-45",
+      "number": 45,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 45 – Chuva Venenosa e Punho Erguidos",
+      "date": "2026-05-02T15:40:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1215082
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-46",
+      "number": 46,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 46 – Escape HARD WORK",
+      "date": "2026-06-24T14:37:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266166
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-47",
+      "number": 47,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 47 – bug and error shopping",
+      "date": "2026-06-24T14:37:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266165
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-48",
+      "number": 48,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 48 – A Administração do Jardim em Miniatura",
+      "date": "2026-06-24T14:37:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266169
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-49",
+      "number": 49,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 49 – Confusão no Banho Feminino",
+      "date": "2026-06-24T14:37:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266168
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-50",
+      "number": 50,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 50 – Hungry Empty",
+      "date": "2026-06-24T14:37:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266167
+    },
+    {
+      "id": "kurotsuki-no-yaergnacht-chapter-51",
+      "number": 51,
+      "title": "Kurotsuki no Yaergnacht – Capítulo 51 – A Magia da Lua Negra",
+      "date": "2026-06-24T14:37:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266170
+    }
+  ]
+}

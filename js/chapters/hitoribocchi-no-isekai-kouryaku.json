@@ -1,0 +1,5128 @@
+{
+  "en": [
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-1",
+      "number": "1",
+      "title": "",
+      "date": "2019/09/11",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-2",
+      "number": "2",
+      "title": "",
+      "date": "2019/09/11",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-3",
+      "number": "3",
+      "title": "",
+      "date": "2019/09/11",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-4",
+      "number": "4",
+      "title": "",
+      "date": "2019/09/11",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-5",
+      "number": "5",
+      "title": "It Seems my Hikikomori Environment is at Risk of Being Polluted...",
+      "date": "2019/09/25",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-6",
+      "number": "6",
+      "title": "",
+      "date": "2019/11/01",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-7",
+      "number": "7",
+      "title": "",
+      "date": "2019/11/01",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-8",
+      "number": "8",
+      "title": "",
+      "date": "2019/11/01",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-9",
+      "number": "9",
+      "title": "",
+      "date": "2019/11/01",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-10",
+      "number": "10",
+      "title": "",
+      "date": "2019/11/01",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-11",
+      "number": "11",
+      "title": "",
+      "date": "2019/11/01",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-12",
+      "number": "12",
+      "title": "",
+      "date": "2019/11/17",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-13",
+      "number": "13",
+      "title": "",
+      "date": "2019/11/17",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-14",
+      "number": "14",
+      "title": "",
+      "date": "2019/12/02",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-15",
+      "number": "15",
+      "title": "",
+      "date": "2019/12/22",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-16",
+      "number": "16",
+      "title": "",
+      "date": "2019/12/22",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-17",
+      "number": "17",
+      "title": "",
+      "date": "2020/01/30",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-18",
+      "number": "18",
+      "title": "",
+      "date": "2020/01/30",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-19",
+      "number": "19",
+      "title": "",
+      "date": "2020/01/30",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-20",
+      "number": "20",
+      "title": "",
+      "date": "2020/02/04",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-21",
+      "number": "21",
+      "title": "",
+      "date": "2020/02/28",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-22",
+      "number": "22",
+      "title": "",
+      "date": "2020/04/01",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-23",
+      "number": "23",
+      "title": "",
+      "date": "2020/05/19",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-24",
+      "number": "24",
+      "title": "",
+      "date": "2020/06/23",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-25",
+      "number": "25",
+      "title": "",
+      "date": "2020/06/30",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-26",
+      "number": "26",
+      "title": "",
+      "date": "2020/07/08",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-27",
+      "number": "27",
+      "title": "",
+      "date": "2020/07/12",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-28",
+      "number": "28",
+      "title": "",
+      "date": "2020/07/18",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-29",
+      "number": "29",
+      "title": "",
+      "date": "2020/07/18",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-30",
+      "number": "30",
+      "title": "",
+      "date": "2020/07/22",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-31",
+      "number": "31",
+      "title": "",
+      "date": "2020/08/07",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-32",
+      "number": "32",
+      "title": "",
+      "date": "2020/08/16",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-33",
+      "number": "33",
+      "title": "",
+      "date": "2020/08/28",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-34",
+      "number": "34",
+      "title": "",
+      "date": "2020/08/28",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-35",
+      "number": "35",
+      "title": "",
+      "date": "2020/09/05",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-36",
+      "number": "36",
+      "title": "",
+      "date": "2020/09/07",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-37",
+      "number": "37",
+      "title": "",
+      "date": "2020/09/14",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-38",
+      "number": "38",
+      "title": "",
+      "date": "2020/09/19",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-39",
+      "number": "39",
+      "title": "",
+      "date": "2020/10/25",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-40",
+      "number": "40",
+      "title": "",
+      "date": "2020/10/26",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-41",
+      "number": "41",
+      "title": "",
+      "date": "2020/11/17",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-42",
+      "number": "42",
+      "title": "",
+      "date": "2020/11/20",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-43",
+      "number": "43",
+      "title": "Curse",
+      "date": "2021/01/01",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-44",
+      "number": "44",
+      "title": "A Loner Friend?",
+      "date": "2021/01/01",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-45",
+      "number": "45",
+      "title": "",
+      "date": "2021/01/01",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-46",
+      "number": "46",
+      "title": "",
+      "date": "2021/01/02",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-47",
+      "number": "47",
+      "title": "",
+      "date": "2021/01/03",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-48",
+      "number": "48",
+      "title": "Stampede",
+      "date": "2021/01/04",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-49",
+      "number": "49",
+      "title": "I feel like I'll be the one who's gonna get turned into Sashimi!",
+      "date": "2021/01/06",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-50",
+      "number": "50",
+      "title": "I want to eat a Fish",
+      "date": "2021/01/07",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-51",
+      "number": "51",
+      "title": "",
+      "date": "2021/01/09",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-52",
+      "number": "52",
+      "title": "",
+      "date": "2021/01/09",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-53",
+      "number": "53",
+      "title": "",
+      "date": "2021/01/14",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-54",
+      "number": "54",
+      "title": "",
+      "date": "2021/01/14",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-55",
+      "number": "55",
+      "title": "",
+      "date": "2021/01/14",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-56",
+      "number": "56",
+      "title": "Crazy Outlet Sale",
+      "date": "2021/01/17",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-57",
+      "number": "57",
+      "title": "Skeleton...?",
+      "date": "2021/01/19",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-58",
+      "number": "58",
+      "title": "Teleport Skill",
+      "date": "2021/01/19",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-59",
+      "number": "59",
+      "title": "I'm back, Oh my home",
+      "date": "2021/01/19",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-60",
+      "number": "60",
+      "title": "",
+      "date": "2021/01/20",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-61",
+      "number": "61",
+      "title": "A Dream, An Adventure , An Ideal and A big money strategy!",
+      "date": "2021/01/31",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-62",
+      "number": "62",
+      "title": "",
+      "date": "2021/02/04",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-63",
+      "number": "63",
+      "title": "Scythe Demon? Demon Scythe?",
+      "date": "2021/02/06",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-64",
+      "number": "64",
+      "title": "",
+      "date": "2021/02/10",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-65",
+      "number": "65",
+      "title": "",
+      "date": "2021/02/14",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-66",
+      "number": "66",
+      "title": "",
+      "date": "2021/02/14",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-67",
+      "number": "67",
+      "title": "",
+      "date": "2021/02/14",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-68",
+      "number": "68",
+      "title": "Someone to protect",
+      "date": "2021/02/28",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-69",
+      "number": "69",
+      "title": "",
+      "date": "2021/03/15",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-70",
+      "number": "70",
+      "title": "",
+      "date": "2021/03/15",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-71",
+      "number": "71",
+      "title": "",
+      "date": "2021/03/15",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-72",
+      "number": "72",
+      "title": "",
+      "date": "2021/03/25",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-73",
+      "number": "73",
+      "title": "",
+      "date": "2021/03/25",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-74",
+      "number": "74",
+      "title": "",
+      "date": "2021/03/26",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-75",
+      "number": "75",
+      "title": "",
+      "date": "2021/04/01",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-76",
+      "number": "76",
+      "title": "",
+      "date": "2021/04/01",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-77",
+      "number": "77",
+      "title": "The Golem Labyrinth",
+      "date": "2021/04/10",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-78",
+      "number": "78",
+      "title": "Tearing Off the Mithril",
+      "date": "2021/04/10",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-79",
+      "number": "79",
+      "title": "",
+      "date": "2021/04/13",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-80",
+      "number": "80",
+      "title": "",
+      "date": "2021/04/13",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-81",
+      "number": "81",
+      "title": "",
+      "date": "2021/04/19",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-82",
+      "number": "82",
+      "title": "The Top Breed of Orcs?",
+      "date": "2021/04/28",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-83",
+      "number": "83",
+      "title": "A Straight Road to a Decisive Battle",
+      "date": "2021/04/28",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-84",
+      "number": "84",
+      "title": "With this... A Moment of Peace?",
+      "date": "2021/05/11",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-85",
+      "number": "85",
+      "title": "Leave the Politics to the Feudal Lord?",
+      "date": "2021/05/12",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-86",
+      "number": "86",
+      "title": "The Ideal of a High School Boy?",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-87",
+      "number": "87",
+      "title": "Insect Dungeon",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-88",
+      "number": "88",
+      "title": "Do you really need to cheat to win?",
+      "date": "2021/06/14",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-89",
+      "number": "89",
+      "title": "Aren't the traps set by those cheaters a bit too scary...?",
+      "date": "2021/06/21",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-90",
+      "number": "90",
+      "title": "It's not really righteous, but I'm serious, you know?",
+      "date": "2021/06/24",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-91",
+      "number": "91",
+      "title": "The Most Intense Preaching?",
+      "date": "2021/06/25",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-92",
+      "number": "92",
+      "title": "An Enticing Alchemist?",
+      "date": "2021/07/16",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-93",
+      "number": "93",
+      "title": "",
+      "date": "2021/07/21",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-94",
+      "number": "94",
+      "title": "",
+      "date": "2021/08/23",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-95",
+      "number": "95",
+      "title": "",
+      "date": "2021/08/23",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-96",
+      "number": "96",
+      "title": "Can't Jump Around When Hungry?",
+      "date": "2021/08/29",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-97",
+      "number": "97",
+      "title": "The Royal Division",
+      "date": "2021/09/07",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-98",
+      "number": "98",
+      "title": "Angelica-san in the neighboring territory?",
+      "date": "2021/09/16",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-99",
+      "number": "99",
+      "title": "",
+      "date": "2021/09/18",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-100",
+      "number": "100",
+      "title": "It's not Merimeri-san?!",
+      "date": "2021/09/21",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-101",
+      "number": "101",
+      "title": "Dig all the metal!",
+      "date": "2021/10/16",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-102",
+      "number": "102",
+      "title": "The Premonition of the Kingdom's Invasion",
+      "date": "2021/10/23",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-103",
+      "number": "103",
+      "title": "",
+      "date": "2021/10/28",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-104",
+      "number": "104",
+      "title": "Final Adjustment",
+      "date": "2021/10/29",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-105",
+      "number": "105",
+      "title": "",
+      "date": "2021/11/20",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-106",
+      "number": "106",
+      "title": "",
+      "date": "2021/11/27",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-107",
+      "number": "107",
+      "title": "Seems Like She's Broken...?",
+      "date": "2021/12/03",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-108",
+      "number": "108",
+      "title": "More of a stupid than foolish",
+      "date": "2022/01/23",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-109",
+      "number": "109",
+      "title": "Live On",
+      "date": "2022/01/25",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-110",
+      "number": "110",
+      "title": "The Princess' Determination",
+      "date": "2022/01/26",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-111",
+      "number": "111",
+      "title": "Isn't the price for the half-naked incident a bit too harsh?",
+      "date": "2022/01/28",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-112",
+      "number": "112",
+      "title": "Operation Underwear?!",
+      "date": "2022/02/08",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-113",
+      "number": "113",
+      "title": "The General store's request forms?",
+      "date": "2022/02/14",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-114",
+      "number": "114",
+      "title": "To the Heroes...",
+      "date": "2022/02/16",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-115",
+      "number": "115",
+      "title": "To the Heroes...",
+      "date": "2022/03/10",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-116",
+      "number": "116",
+      "title": "",
+      "date": "2022/03/10",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-117",
+      "number": "117",
+      "title": "",
+      "date": "2022/03/10",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-118",
+      "number": "118",
+      "title": "",
+      "date": "2022/03/11",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-119",
+      "number": "119",
+      "title": "",
+      "date": "2022/03/11",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-120",
+      "number": "120",
+      "title": "",
+      "date": "2022/03/13",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-121",
+      "number": "121",
+      "title": "",
+      "date": "2022/03/14",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-122",
+      "number": "122",
+      "title": "",
+      "date": "2022/03/14",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-123",
+      "number": "123",
+      "title": "",
+      "date": "2022/03/14",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-124",
+      "number": "124",
+      "title": "",
+      "date": "2022/03/14",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-125",
+      "number": "125",
+      "title": "",
+      "date": "2022/03/14",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-126",
+      "number": "126",
+      "title": "",
+      "date": "2022/03/15",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-127",
+      "number": "127",
+      "title": "",
+      "date": "2022/03/15",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-128",
+      "number": "128",
+      "title": "",
+      "date": "2022/03/15",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-129",
+      "number": "129",
+      "title": "",
+      "date": "2022/03/15",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-130",
+      "number": "130",
+      "title": "",
+      "date": "2022/03/16",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-131",
+      "number": "131",
+      "title": "",
+      "date": "2022/03/16",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-132",
+      "number": "132",
+      "title": "",
+      "date": "2022/03/17",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-133",
+      "number": "133",
+      "title": "",
+      "date": "2022/03/17",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-134",
+      "number": "134",
+      "title": "The argued because of me?!",
+      "date": "2022/03/18",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-135",
+      "number": "135",
+      "title": "The Second Prince",
+      "date": "2022/03/20",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-136",
+      "number": "136",
+      "title": "",
+      "date": "2022/03/31",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-137",
+      "number": "137",
+      "title": "",
+      "date": "2022/04/07",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-138",
+      "number": "138",
+      "title": "Truce Negotiation",
+      "date": "2022/04/14",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-139",
+      "number": "139",
+      "title": "",
+      "date": "2022/04/24",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-140",
+      "number": "140",
+      "title": "",
+      "date": "2022/05/18",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-141",
+      "number": "141",
+      "title": "",
+      "date": "2022/05/27",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-142",
+      "number": "142",
+      "title": "",
+      "date": "2022/06/11",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-143",
+      "number": "143",
+      "title": "Souvenir Shop Branch in Front of the Capital",
+      "date": "2022/06/14",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-144",
+      "number": "144",
+      "title": "",
+      "date": "2022/07/05",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-145",
+      "number": "145",
+      "title": "",
+      "date": "2022/07/07",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-146",
+      "number": "146",
+      "title": "Slave Trading",
+      "date": "2022/07/10",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-147",
+      "number": "147",
+      "title": "",
+      "date": "2022/07/14",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-148",
+      "number": "148",
+      "title": "I Think... I Can't Win?",
+      "date": "2022/07/19",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-149",
+      "number": "149",
+      "title": "Vizmleg Zero",
+      "date": "2022/07/26",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-150",
+      "number": "150",
+      "title": "",
+      "date": "2022/09/02",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-151",
+      "number": "151",
+      "title": "",
+      "date": "2022/09/07",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-152",
+      "number": "152",
+      "title": "",
+      "date": "2022/09/09",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-153",
+      "number": "153",
+      "title": "",
+      "date": "2022/09/27",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-154",
+      "number": "154",
+      "title": "Reason to Fight",
+      "date": "2022/09/28",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-155",
+      "number": "155",
+      "title": "",
+      "date": "2022/09/29",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-156",
+      "number": "156",
+      "title": "",
+      "date": "2022/11/10",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-157",
+      "number": "157",
+      "title": "",
+      "date": "2022/11/12",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-158",
+      "number": "158",
+      "title": "",
+      "date": "2022/11/15",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-159",
+      "number": "159",
+      "title": "",
+      "date": "2022/11/23",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-160",
+      "number": "160",
+      "title": "",
+      "date": "2022/11/24",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-161",
+      "number": "161",
+      "title": "",
+      "date": "2022/11/29",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-162",
+      "number": "162",
+      "title": "",
+      "date": "2022/12/03",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-163",
+      "number": "163",
+      "title": "",
+      "date": "2022/12/11",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-164",
+      "number": "164",
+      "title": "",
+      "date": "2022/12/24",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-165",
+      "number": "165",
+      "title": "",
+      "date": "2022/12/27",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-166",
+      "number": "166",
+      "title": "",
+      "date": "2023/01/03",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-167",
+      "number": "167",
+      "title": "",
+      "date": "2023/01/05",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-168",
+      "number": "168",
+      "title": "",
+      "date": "2023/01/07",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-169",
+      "number": "169",
+      "title": "",
+      "date": "2023/02/05",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-170",
+      "number": "170",
+      "title": "",
+      "date": "2023/02/19",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-171",
+      "number": "171",
+      "title": "",
+      "date": "2023/02/21",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-172",
+      "number": "172",
+      "title": "",
+      "date": "2023/03/02",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-173",
+      "number": "173",
+      "title": "",
+      "date": "2023/03/06",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-174",
+      "number": "174",
+      "title": "",
+      "date": "2023/03/10",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-175",
+      "number": "175",
+      "title": "",
+      "date": "2023/03/25",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-176",
+      "number": "176",
+      "title": "Dear Everyone, I'm Counting on You to Conquer the Labyrinths",
+      "date": "2023/03/27",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-177",
+      "number": "177",
+      "title": "",
+      "date": "2023/04/05",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-178",
+      "number": "178",
+      "title": "",
+      "date": "2023/04/17",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-179",
+      "number": "179",
+      "title": "",
+      "date": "2023/04/28",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-180",
+      "number": "180",
+      "title": "",
+      "date": "2023/04/29",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-181",
+      "number": "181",
+      "title": "",
+      "date": "2023/05/02",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-182",
+      "number": "182",
+      "title": "",
+      "date": "2023/05/27",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-183",
+      "number": "183",
+      "title": "",
+      "date": "2023/06/01",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-184",
+      "number": "184",
+      "title": "",
+      "date": "2023/06/04",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-185",
+      "number": "185",
+      "title": "",
+      "date": "2023/06/10",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-186",
+      "number": "186",
+      "title": "",
+      "date": "2023/06/11",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-187",
+      "number": "187",
+      "title": "",
+      "date": "2023/06/11",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-188",
+      "number": "188",
+      "title": "",
+      "date": "2023/06/18",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-189",
+      "number": "189",
+      "title": "",
+      "date": "2023/06/19",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-190",
+      "number": "190",
+      "title": "",
+      "date": "2023/06/22",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-191",
+      "number": "191",
+      "title": "",
+      "date": "2023/06/26",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-192",
+      "number": "192",
+      "title": "",
+      "date": "2023/07/08",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-193",
+      "number": "193",
+      "title": "",
+      "date": "2023/07/16",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-194",
+      "number": "194",
+      "title": "",
+      "date": "2023/07/28",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-195",
+      "number": "195",
+      "title": "",
+      "date": "2023/08/08",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-196",
+      "number": "196",
+      "title": "",
+      "date": "2023/08/12",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-197",
+      "number": "197",
+      "title": "",
+      "date": "2023/08/22",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-198",
+      "number": "198",
+      "title": "",
+      "date": "2023/08/30",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-199",
+      "number": "199",
+      "title": "",
+      "date": "2023/09/07",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-200",
+      "number": "200",
+      "title": "",
+      "date": "2023/09/09",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-201",
+      "number": "201",
+      "title": "",
+      "date": "2023/09/19",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-202",
+      "number": "202",
+      "title": "",
+      "date": "2023/09/23",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-203",
+      "number": "203",
+      "title": "",
+      "date": "2023/10/16",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-204",
+      "number": "204",
+      "title": "",
+      "date": "2023/10/18",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-205",
+      "number": "205",
+      "title": "",
+      "date": "2023/10/22",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-206",
+      "number": "206",
+      "title": "",
+      "date": "2023/10/28",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-207",
+      "number": "207",
+      "title": "",
+      "date": "2023/11/08",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-208",
+      "number": "208",
+      "title": "",
+      "date": "2023/11/15",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-209",
+      "number": "209",
+      "title": "",
+      "date": "2023/11/17",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-210",
+      "number": "210",
+      "title": "",
+      "date": "2023/11/29",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-211",
+      "number": "211",
+      "title": "",
+      "date": "2023/12/03",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-212",
+      "number": "212",
+      "title": "",
+      "date": "2023/12/16",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-213",
+      "number": "213",
+      "title": "",
+      "date": "2023/12/20",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-214",
+      "number": "214",
+      "title": "",
+      "date": "2023/12/22",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-215",
+      "number": "215",
+      "title": "",
+      "date": "2024/01/01",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-216",
+      "number": "216",
+      "title": "",
+      "date": "2024/01/11",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-217",
+      "number": "217",
+      "title": "",
+      "date": "2024/01/21",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-218",
+      "number": "218",
+      "title": "",
+      "date": "2024/01/23",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-219",
+      "number": "219",
+      "title": "",
+      "date": "2024/01/25",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-220",
+      "number": "220",
+      "title": "",
+      "date": "2024/02/03",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-221",
+      "number": "221",
+      "title": "",
+      "date": "2024/02/13",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-222",
+      "number": "222",
+      "title": "",
+      "date": "2024/02/16",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-223",
+      "number": "223",
+      "title": "",
+      "date": "2024/03/19",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-224",
+      "number": "224",
+      "title": "",
+      "date": "2024/04/02",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-225",
+      "number": "225",
+      "title": "",
+      "date": "2024/04/04",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-226",
+      "number": "226",
+      "title": "",
+      "date": "2024/04/05",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-227",
+      "number": "227",
+      "title": "",
+      "date": "2024/04/12",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-228",
+      "number": "228",
+      "title": "",
+      "date": "2024/04/15",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-229",
+      "number": "229",
+      "title": "",
+      "date": "2024/05/01",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-230",
+      "number": "230",
+      "title": "",
+      "date": "2024/05/04",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-231",
+      "number": "231",
+      "title": "",
+      "date": "2024/05/05",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-232",
+      "number": "232",
+      "title": "",
+      "date": "2024/05/10",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-233",
+      "number": "233",
+      "title": "",
+      "date": "2024/05/15",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-234",
+      "number": "234",
+      "title": "",
+      "date": "2024/05/21",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-235",
+      "number": "235",
+      "title": "",
+      "date": "2024/06/05",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-236",
+      "number": "236",
+      "title": "",
+      "date": "2024/06/21",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-237",
+      "number": "237",
+      "title": "",
+      "date": "2024/06/28",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-238",
+      "number": "238",
+      "title": "",
+      "date": "2024/07/09",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-238e",
+      "number": "238e",
+      "title": "",
+      "date": "2024/07/18",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-238f",
+      "number": "238f",
+      "title": "",
+      "date": "2024/07/20",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-239",
+      "number": "239",
+      "title": "",
+      "date": "2024/07/28",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-240",
+      "number": "240",
+      "title": "",
+      "date": "2024/07/31",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-241",
+      "number": "241",
+      "title": "",
+      "date": "2024/08/05",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-242",
+      "number": "242",
+      "title": "",
+      "date": "2024/08/22",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-243",
+      "number": "243",
+      "title": "",
+      "date": "2024/08/23",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-244",
+      "number": "244",
+      "title": "",
+      "date": "2024/08/27",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-245",
+      "number": "245",
+      "title": "",
+      "date": "2024/09/02",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-246",
+      "number": "246",
+      "title": "",
+      "date": "2024/09/22",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-247",
+      "number": "247",
+      "title": "",
+      "date": "2024/09/27",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-248",
+      "number": "248",
+      "title": "",
+      "date": "2024/09/28",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-249",
+      "number": "249",
+      "title": "",
+      "date": "2024/09/29",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-250",
+      "number": "250",
+      "title": "",
+      "date": "2024/10/07",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-251",
+      "number": "251",
+      "title": "",
+      "date": "2024/10/12",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-252",
+      "number": "252",
+      "title": "",
+      "date": "2024/10/25",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-253",
+      "number": "253",
+      "title": "",
+      "date": "2024/10/27",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-254",
+      "number": "254",
+      "title": "",
+      "date": "2024/11/05",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-255",
+      "number": "255",
+      "title": "",
+      "date": "2024/11/12",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-256",
+      "number": "256",
+      "title": "",
+      "date": "2024/11/18",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-257",
+      "number": "257",
+      "title": "",
+      "date": "2024/12/01",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-258",
+      "number": "258",
+      "title": "",
+      "date": "2024/12/27",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-259",
+      "number": "259",
+      "title": "",
+      "date": "2024/12/28",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-260",
+      "number": "260",
+      "title": "",
+      "date": "2025/01/06",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-261",
+      "number": "261",
+      "title": "",
+      "date": "2025/01/12",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-262",
+      "number": "262",
+      "title": "",
+      "date": "2025/01/15",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-263",
+      "number": "263",
+      "title": "",
+      "date": "2025/01/21",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-264",
+      "number": "264",
+      "title": "",
+      "date": "2025/01/28",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-265",
+      "number": "265",
+      "title": "",
+      "date": "2025/02/06",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-266",
+      "number": "266",
+      "title": "",
+      "date": "2025/02/21",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-267",
+      "number": "267",
+      "title": "",
+      "date": "2025/03/18",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-268",
+      "number": "268",
+      "title": "",
+      "date": "2025/03/19",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-269",
+      "number": "269",
+      "title": "",
+      "date": "2025/03/25",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-270",
+      "number": "270",
+      "title": "",
+      "date": "2025/03/27",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-271",
+      "number": "271",
+      "title": "",
+      "date": "2025/04/02",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-272",
+      "number": "272",
+      "title": "",
+      "date": "2025/04/10",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-273",
+      "number": "273",
+      "title": "",
+      "date": "2025/04/23",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-274",
+      "number": "274",
+      "title": "",
+      "date": "2025/04/28",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-275",
+      "number": "275",
+      "title": "",
+      "date": "2025/05/13",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-276",
+      "number": "276",
+      "title": "",
+      "date": "2025/06/09",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-277",
+      "number": "277",
+      "title": "",
+      "date": "2025/06/19",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-278",
+      "number": "278",
+      "title": "",
+      "date": "2025/06/26",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-279",
+      "number": "279",
+      "title": "",
+      "date": "2025/07/11",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-280",
+      "number": "280",
+      "title": "",
+      "date": "2025/07/29",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-281",
+      "number": "281",
+      "title": "",
+      "date": "2025/08/01",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-282",
+      "number": "282",
+      "title": "",
+      "date": "2025/08/04",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-283",
+      "number": "283",
+      "title": "",
+      "date": "2025/08/18",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-284",
+      "number": "284",
+      "title": "",
+      "date": "2025/08/27",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-285",
+      "number": "285",
+      "title": "",
+      "date": "2025/09/10",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-286",
+      "number": "286",
+      "title": "",
+      "date": "2025/09/16",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-287",
+      "number": "287",
+      "title": "",
+      "date": "2025/10/13",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-288",
+      "number": "288",
+      "title": "",
+      "date": "2025/10/14",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-289",
+      "number": "289",
+      "title": "",
+      "date": "2025/10/20",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-290",
+      "number": "290",
+      "title": "",
+      "date": "2025/10/28",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-291",
+      "number": "291",
+      "title": "",
+      "date": "2025/10/30",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-292",
+      "number": "292",
+      "title": "",
+      "date": "2025/11/04",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-293",
+      "number": "293",
+      "title": "",
+      "date": "2025/11/11",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-294",
+      "number": "294",
+      "title": "",
+      "date": "2025/11/13",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-295",
+      "number": "295",
+      "title": "",
+      "date": "2025/12/05",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-296",
+      "number": "296",
+      "title": "",
+      "date": "2025/12/07",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-297",
+      "number": "297",
+      "title": "",
+      "date": "2025/12/11",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-298",
+      "number": "298",
+      "title": "",
+      "date": "2025/12/15",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-299",
+      "number": "299",
+      "title": "",
+      "date": "2025/12/19",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-300",
+      "number": "300",
+      "title": "",
+      "date": "2026/01/04",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-301",
+      "number": "301",
+      "title": "",
+      "date": "2026/01/17",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-302",
+      "number": "302",
+      "title": "",
+      "date": "2026/02/23",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-303",
+      "number": "303",
+      "title": "",
+      "date": "2026/03/01",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-304",
+      "number": "304",
+      "title": "",
+      "date": "2026/03/07",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-305",
+      "number": "305",
+      "title": "",
+      "date": "2026/03/12",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-306",
+      "number": "306",
+      "title": "",
+      "date": "2026/03/25",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-307",
+      "number": "307",
+      "title": "",
+      "date": "2026/03/29",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-308",
+      "number": "308",
+      "title": "",
+      "date": "2026/03/29",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-309",
+      "number": "309",
+      "title": "",
+      "date": "2026/03/29",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-310",
+      "number": "310",
+      "title": "",
+      "date": "2026/04/21",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-311",
+      "number": "311",
+      "title": "",
+      "date": "2026/04/22",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-312",
+      "number": "312",
+      "title": "",
+      "date": "2026/05/17",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-313",
+      "number": "313",
+      "title": "",
+      "date": "2026/05/18",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-314",
+      "number": "314",
+      "title": "",
+      "date": "2026/05/18",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-315",
+      "number": "315",
+      "title": "",
+      "date": "2026/05/21",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-316",
+      "number": "316",
+      "title": "",
+      "date": "2026/05/24",
+      "pages": []
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-317",
+      "number": 317,
+      "title": "Chapter 317",
+      "date": "2026/06/25",
+      "pages": []
+    }
+  ],
+  "pt": [
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-1",
+      "number": 1,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 1",
+      "date": "2025-11-11T01:15:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909134
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-2",
+      "number": 2,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 2",
+      "date": "2025-11-11T01:15:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909138
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-3",
+      "number": 3,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 3",
+      "date": "2025-11-11T01:15:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909132
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-4",
+      "number": 4,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 4",
+      "date": "2025-11-11T01:15:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909136
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-5",
+      "number": 5,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 5",
+      "date": "2025-11-11T01:15:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909137
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-6",
+      "number": 6,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 6",
+      "date": "2025-11-11T01:15:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909133
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-7",
+      "number": 7,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 7",
+      "date": "2025-11-11T01:15:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909129
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-8",
+      "number": 8,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 8",
+      "date": "2025-11-11T01:15:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909130
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-9",
+      "number": 9,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 9",
+      "date": "2025-11-11T01:15:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909135
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-10",
+      "number": 10,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 10",
+      "date": "2025-11-11T01:15:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909131
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-11",
+      "number": 11,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 11",
+      "date": "2025-11-11T01:15:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909292
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-12",
+      "number": 12,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 12",
+      "date": "2025-11-11T01:15:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909291
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-13",
+      "number": 13,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 13",
+      "date": "2025-11-11T01:15:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909300
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-14",
+      "number": 14,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 14",
+      "date": "2025-11-11T01:15:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909293
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-15",
+      "number": 15,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 15",
+      "date": "2025-11-11T01:15:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909294
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-16",
+      "number": 16,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 16",
+      "date": "2025-11-11T01:15:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909299
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-17",
+      "number": 17,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 17",
+      "date": "2025-11-11T01:15:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909297
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-18",
+      "number": 18,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 18",
+      "date": "2025-11-11T01:15:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909295
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-19",
+      "number": 19,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 19",
+      "date": "2025-11-11T01:15:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909296
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-20",
+      "number": 20,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 20",
+      "date": "2025-11-11T01:16:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909466
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-21",
+      "number": 21,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 21",
+      "date": "2025-11-11T01:16:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909465
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-22",
+      "number": 22,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 22",
+      "date": "2025-11-11T01:16:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909468
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-23",
+      "number": 23,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 23",
+      "date": "2025-11-11T01:16:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909464
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-24",
+      "number": 24,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 24",
+      "date": "2025-11-11T01:16:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909467
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-25",
+      "number": 25,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 25",
+      "date": "2025-11-11T01:16:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909470
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-26",
+      "number": 26,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 26",
+      "date": "2025-11-11T01:16:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909471
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-27",
+      "number": 27,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 27",
+      "date": "2025-11-11T01:16:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909463
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-28",
+      "number": 28,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 28",
+      "date": "2025-11-11T01:16:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909469
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-29",
+      "number": 29,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 29",
+      "date": "2025-11-11T01:16:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909472
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-30",
+      "number": 30,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 30",
+      "date": "2025-11-11T01:16:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909644
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-31",
+      "number": 31,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 31",
+      "date": "2025-11-11T01:16:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909643
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-32",
+      "number": 32,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 32",
+      "date": "2025-11-11T01:16:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909635
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-33",
+      "number": 33,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 33",
+      "date": "2025-11-11T01:16:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909636
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-34",
+      "number": 34,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 34",
+      "date": "2025-11-11T01:16:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909637
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-35",
+      "number": 35,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 35",
+      "date": "2025-11-11T01:16:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909640
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-36",
+      "number": 36,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 36",
+      "date": "2025-11-11T01:16:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909642
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-37",
+      "number": 37,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 37",
+      "date": "2025-11-11T01:16:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909641
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-38",
+      "number": 38,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 38",
+      "date": "2025-11-11T01:16:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909639
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-39",
+      "number": 39,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 39",
+      "date": "2025-11-11T01:16:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909638
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-40",
+      "number": 40,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 40",
+      "date": "2025-11-11T01:17:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909824
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-41",
+      "number": 41,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 41",
+      "date": "2025-11-11T01:17:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909827
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-42",
+      "number": 42,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 42",
+      "date": "2025-11-11T01:17:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909822
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-43",
+      "number": 43,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 43",
+      "date": "2025-11-11T01:17:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909823
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-44",
+      "number": 44,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 44",
+      "date": "2025-11-11T01:17:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909825
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-45",
+      "number": 45,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 45",
+      "date": "2025-11-11T01:17:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909819
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-46",
+      "number": 46,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 46",
+      "date": "2025-11-11T01:17:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909821
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-47",
+      "number": 47,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 47",
+      "date": "2025-11-11T01:17:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909820
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-48",
+      "number": 48,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 48",
+      "date": "2025-11-11T01:17:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909828
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-49",
+      "number": 49,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 49",
+      "date": "2025-11-11T01:17:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 909826
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-50",
+      "number": 50,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 50",
+      "date": "2025-11-11T01:17:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910002
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-51",
+      "number": 51,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 51",
+      "date": "2025-11-11T01:17:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910005
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-52",
+      "number": 52,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 52",
+      "date": "2025-11-11T01:17:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910001
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-53",
+      "number": 53,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 53",
+      "date": "2025-11-11T01:17:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910000
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-54",
+      "number": 54,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 54",
+      "date": "2025-11-11T01:17:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910003
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-55",
+      "number": 55,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 55",
+      "date": "2025-11-11T01:17:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910004
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-56",
+      "number": 56,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 56",
+      "date": "2025-11-11T01:17:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910007
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-57",
+      "number": 57,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 57",
+      "date": "2025-11-11T01:17:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910006
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-58",
+      "number": 58,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 58",
+      "date": "2025-11-11T01:17:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910008
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-59",
+      "number": 59,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 59",
+      "date": "2025-11-11T01:17:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910009
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-60",
+      "number": 60,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 60",
+      "date": "2025-11-11T01:18:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910173
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-61",
+      "number": 61,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 61",
+      "date": "2025-11-11T01:18:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910171
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-62",
+      "number": 62,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 62",
+      "date": "2025-11-11T01:18:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910170
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-63",
+      "number": 63,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 63",
+      "date": "2025-11-11T01:18:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910179
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-64",
+      "number": 64,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 64",
+      "date": "2025-11-11T01:18:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910174
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-65",
+      "number": 65,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 65",
+      "date": "2025-11-11T01:18:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910176
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-66",
+      "number": 66,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 66",
+      "date": "2025-11-11T01:18:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910172
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-67",
+      "number": 67,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 67",
+      "date": "2025-11-11T01:18:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910175
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-68",
+      "number": 68,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 68",
+      "date": "2025-11-11T01:18:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910178
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-69",
+      "number": 69,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 69",
+      "date": "2025-11-11T01:18:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910177
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-70",
+      "number": 70,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 70",
+      "date": "2025-11-11T01:18:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910342
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-71",
+      "number": 71,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 71",
+      "date": "2025-11-11T01:18:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910344
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-72",
+      "number": 72,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 72",
+      "date": "2025-11-11T01:18:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910338
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-73",
+      "number": 73,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 73",
+      "date": "2025-11-11T01:18:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910339
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-74",
+      "number": 74,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 74",
+      "date": "2025-11-11T01:18:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910340
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-75",
+      "number": 75,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 75",
+      "date": "2025-11-11T01:18:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910343
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-76",
+      "number": 76,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 76",
+      "date": "2025-11-11T01:18:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910347
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-77",
+      "number": 77,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 77",
+      "date": "2025-11-11T01:18:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910341
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-78",
+      "number": 78,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 78",
+      "date": "2025-11-11T01:18:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910346
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-79",
+      "number": 79,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 79",
+      "date": "2025-11-11T01:19:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910517
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-80",
+      "number": 80,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 80",
+      "date": "2025-11-11T01:19:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910512
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-81",
+      "number": 81,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 81",
+      "date": "2025-11-11T01:19:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910513
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-82",
+      "number": 82,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 82",
+      "date": "2025-11-11T01:19:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910511
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-83",
+      "number": 83,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 83",
+      "date": "2025-11-11T01:19:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910515
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-84",
+      "number": 84,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 84",
+      "date": "2025-11-11T01:19:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910516
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-85",
+      "number": 85,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 85",
+      "date": "2025-11-11T01:19:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910509
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-86",
+      "number": 86,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 86",
+      "date": "2025-11-11T01:19:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910518
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-87",
+      "number": 87,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 87",
+      "date": "2025-11-11T01:19:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910510
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-88",
+      "number": 88,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 88",
+      "date": "2025-11-11T01:19:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910514
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-89",
+      "number": 89,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 89",
+      "date": "2025-11-11T01:19:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910679
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-90",
+      "number": 90,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 90",
+      "date": "2025-11-11T01:19:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910684
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-91",
+      "number": 91,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 91",
+      "date": "2025-11-11T01:19:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910681
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-92",
+      "number": 92,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 92",
+      "date": "2025-11-11T01:19:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910686
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-93",
+      "number": 93,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 93",
+      "date": "2025-11-11T01:19:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910680
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-94",
+      "number": 94,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 94",
+      "date": "2025-11-11T01:19:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910687
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-95",
+      "number": 95,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 95",
+      "date": "2025-11-11T01:19:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910683
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-96",
+      "number": 96,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 96",
+      "date": "2025-11-11T01:19:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910682
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-97",
+      "number": 97,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 97",
+      "date": "2025-11-11T01:19:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910688
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-98",
+      "number": 98,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 98",
+      "date": "2025-11-11T01:19:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910685
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-99",
+      "number": 99,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 99",
+      "date": "2025-11-11T01:20:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910863
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-100",
+      "number": 100,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 100",
+      "date": "2025-11-11T01:20:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910858
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-101",
+      "number": 101,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 101",
+      "date": "2025-11-11T01:20:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910859
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-102",
+      "number": 102,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 102",
+      "date": "2025-11-11T01:20:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910860
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-103",
+      "number": 103,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 103",
+      "date": "2025-11-11T01:20:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910861
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-104",
+      "number": 104,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 104",
+      "date": "2025-11-11T01:20:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910862
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-105",
+      "number": 105,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 105",
+      "date": "2025-11-11T01:20:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910856
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-106",
+      "number": 106,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 106",
+      "date": "2025-11-11T01:20:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910857
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-107",
+      "number": 107,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 107",
+      "date": "2025-11-11T01:20:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910865
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-108",
+      "number": 108,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 108",
+      "date": "2025-11-11T01:20:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 910864
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-109",
+      "number": 109,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 109",
+      "date": "2025-11-11T01:20:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911023
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-110",
+      "number": 110,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 110",
+      "date": "2025-11-11T01:20:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911025
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-111",
+      "number": 111,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 111",
+      "date": "2025-11-11T01:20:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911027
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-112",
+      "number": 112,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 112",
+      "date": "2025-11-11T01:20:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911028
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-113",
+      "number": 113,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 113",
+      "date": "2025-11-11T01:20:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911024
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-114",
+      "number": 114,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 114",
+      "date": "2025-11-11T01:20:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911026
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-115",
+      "number": 115,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 115",
+      "date": "2025-11-11T01:20:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911029
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-116",
+      "number": 116,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 116",
+      "date": "2025-11-11T01:20:36Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911031
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-117",
+      "number": 117,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 117",
+      "date": "2025-11-11T01:20:36Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911032
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-118",
+      "number": 118,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 118 – Eu Sou Muito Bom em Combate Aéreo, Sabia?",
+      "date": "2025-11-11T01:20:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911030
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-119",
+      "number": 119,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 119 – A Espada que Surge das Sombras?",
+      "date": "2025-11-11T01:21:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911194
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-120",
+      "number": 120,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 120 – Sinais de uma disputa interna",
+      "date": "2025-11-11T01:21:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911188
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-121",
+      "number": 121,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 121 – O Requisito para o LV.100?",
+      "date": "2025-11-11T01:21:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911187
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-122",
+      "number": 122,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 122 – Não é um Pouco Difícil Demais de Avançar?",
+      "date": "2025-11-11T01:21:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911196
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-123",
+      "number": 123,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 123 – A Guerra dos Dois",
+      "date": "2025-11-11T01:21:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911192
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-124",
+      "number": 124,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 124 – Jornada",
+      "date": "2025-11-11T01:21:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911190
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-125",
+      "number": 125,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 125 – Karkus Lv.100",
+      "date": "2025-11-11T01:21:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911191
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-126",
+      "number": 126,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 126 – Todos em Frente",
+      "date": "2025-11-11T01:21:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911189
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-127",
+      "number": 127,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 127 – Superior",
+      "date": "2025-11-11T01:21:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911195
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-128",
+      "number": 128,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 128 – Obrigado Pelo Seu Patrocinío!",
+      "date": "2025-11-11T01:21:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911193
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-129",
+      "number": 129,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 129 – O Assasino Mais Forte",
+      "date": "2025-11-11T01:21:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911352
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-130",
+      "number": 130,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 130 – Um jeito de derrotar um velhote que some?",
+      "date": "2025-11-11T01:21:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911353
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-131",
+      "number": 131,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 131 – Essa é a Hora de Saquear Eles?",
+      "date": "2025-11-11T01:21:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911358
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-132",
+      "number": 132,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 132 – Etiqueta?",
+      "date": "2025-11-11T01:21:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911356
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-133",
+      "number": 133,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 133 – Um Oásis Em Uma Cela",
+      "date": "2025-11-11T01:21:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911360
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-134",
+      "number": 134,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 134 – Eles Discutiram Por Minha Causa?",
+      "date": "2025-11-11T01:21:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911357
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-135",
+      "number": 135,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 135 – O Segundo Príncipe",
+      "date": "2025-11-11T01:21:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911355
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-136",
+      "number": 136,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 136 – Reunião de Estratégia",
+      "date": "2025-11-11T01:21:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911354
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-137",
+      "number": 137,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 137 – Traição",
+      "date": "2025-11-11T01:21:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911361
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-138",
+      "number": 138,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 138 – Negociação de Trégua",
+      "date": "2025-11-11T01:21:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911359
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-139",
+      "number": 139,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 139 – Oportunidade Única",
+      "date": "2025-11-11T01:21:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911511
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-140",
+      "number": 140,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 140 – A Defesa Final",
+      "date": "2025-11-11T01:21:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911513
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-141",
+      "number": 141,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 141 – Desfazendo o Tesouro Nacional Com o Tesouro do Labirinto",
+      "date": "2025-11-11T01:21:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911510
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-142",
+      "number": 142,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 142 – A Melhor Loja Na Cidade",
+      "date": "2025-11-11T01:21:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911507
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-143",
+      "number": 143,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 143 – Filial da Loja de Souvenir",
+      "date": "2025-11-11T01:21:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911505
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-144",
+      "number": 144,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 144 – A Armadilha de Mil Anos",
+      "date": "2025-11-11T01:21:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911508
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-145",
+      "number": 145,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 145 – Acho que Deveria dizer Bem-Vindo?",
+      "date": "2025-11-11T01:21:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911506
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-146",
+      "number": 146,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 146 – Mercado Escravista",
+      "date": "2025-11-11T01:21:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911504
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-147",
+      "number": 147,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 147 – A Partida do Navio Pirata",
+      "date": "2025-11-11T01:21:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911512
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-148",
+      "number": 148,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 148 – Eu Acho Que&#8230; Não Consigo Ganhar?",
+      "date": "2025-11-11T01:21:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911509
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-149",
+      "number": 149,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 149 – Vimleg Zero",
+      "date": "2025-11-11T01:22:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911661
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-150",
+      "number": 150,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 150 – Reunião",
+      "date": "2025-11-11T01:22:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911666
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-151",
+      "number": 151,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 151 – O Bastão De Yggdrasil",
+      "date": "2025-11-11T01:22:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911665
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-152",
+      "number": 152,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 152 – Despertar",
+      "date": "2025-11-11T01:22:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911660
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-153",
+      "number": 153,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 153 – Cajado e a Espada Mágica",
+      "date": "2025-11-11T01:22:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911659
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-154",
+      "number": 154,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 154 – Razão Para Lutar",
+      "date": "2025-11-11T01:22:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911663
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-155",
+      "number": 155,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 155 – Reabastecimento Concluído",
+      "date": "2025-11-11T01:22:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911668
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-156",
+      "number": 156,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 156 – A Missão Tola de Ota",
+      "date": "2025-11-11T01:22:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911662
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-157",
+      "number": 157,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 157 – País das Feras",
+      "date": "2025-11-11T01:22:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911664
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-158",
+      "number": 158,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 158 – Sequestrando a Irmãzinha?",
+      "date": "2025-11-11T01:22:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911667
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-159",
+      "number": 159,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 159 – Ireilia",
+      "date": "2025-11-11T01:23:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911825
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-160",
+      "number": 160,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 160 – Rei Playboy",
+      "date": "2025-11-11T01:23:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911830
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-161",
+      "number": 161,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 161 – Ao Trono",
+      "date": "2025-11-11T01:23:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911828
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-162",
+      "number": 162,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 162 – Competências Para ser o Rei",
+      "date": "2025-11-11T01:23:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911820
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-163",
+      "number": 163,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 163 – O Rei Playboy",
+      "date": "2025-11-11T01:23:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911826
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-164",
+      "number": 164,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 164 – Heróis da Região Remota",
+      "date": "2025-11-11T01:23:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911824
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-165",
+      "number": 165,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 165 – Embora Eu Estivesse FInalmente Sozinho",
+      "date": "2025-11-11T01:23:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911823
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-166",
+      "number": 166,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 166 – A Movimentação da Nação da Igreja",
+      "date": "2025-11-11T01:23:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911829
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-167",
+      "number": 167,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 167 – Estou Contando Com Você, Zero",
+      "date": "2025-11-11T01:23:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911831
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-168",
+      "number": 168,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 168 – Eu Estou Cercado de Homens, E Isso não Soa Nada Bem",
+      "date": "2025-11-11T01:23:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911822
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-169",
+      "number": 169,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 169 – Usando Dois Chapéus de Uma Vez",
+      "date": "2025-11-11T01:25:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911968
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-170",
+      "number": 170,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 170 – O Antigo Imperador do Labirinto Dentro do Labirinto Falso",
+      "date": "2025-11-11T01:25:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911969
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-171",
+      "number": 171,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 171 – Caixão",
+      "date": "2025-11-11T01:25:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911971
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-172",
+      "number": 172,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 172 – Dentro Do Caixão Estava Uma Linda Mulher?!",
+      "date": "2025-11-11T01:25:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911972
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-173",
+      "number": 173,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 173 – Tapa Olho Do Demônio Dos Sonhos",
+      "date": "2025-11-11T01:25:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911979
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-174",
+      "number": 174,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 174 – Lança Divina >>>Milstiltein<<<",
+      "date": "2025-11-11T01:25:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911974
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-175",
+      "number": 175,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 175 – Dominação",
+      "date": "2025-11-11T01:25:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911973
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-176",
+      "number": 176,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 176 – Caros Amigos, Conto Com Vocês Para Conquistarem o Labirinto",
+      "date": "2025-11-11T01:25:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911978
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-177",
+      "number": 177,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 177 – Conquistando o Labirinto Número 3",
+      "date": "2025-11-11T01:25:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911970
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-178",
+      "number": 178,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 178 – Conquistando Labirinto Número 2",
+      "date": "2025-11-11T01:25:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 911975
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-179",
+      "number": 179,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 179 – Queria que Ele Fizesse Carinho na Minha Cabeça Uma Última vez",
+      "date": "2025-11-11T01:47:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912114
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-180",
+      "number": 180,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 180 –  Ei! Garota Dançarina, Aqui!",
+      "date": "2025-11-11T01:47:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912115
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-181",
+      "number": 181,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 181 – Eu Deixo o Resto Com você",
+      "date": "2025-11-11T01:47:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912118
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-182",
+      "number": 182,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 182",
+      "date": "2025-11-11T01:47:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912119
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-183",
+      "number": 183,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 183 – É Sua Culpa!",
+      "date": "2025-11-11T01:47:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912111
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-184",
+      "number": 184,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 184 – Você Pode Correr, Sabe?",
+      "date": "2025-11-11T01:47:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912117
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-185",
+      "number": 185,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 185 – Ela é…",
+      "date": "2025-11-11T01:47:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912120
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-186",
+      "number": 186,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 186 – Retribuindo Favores",
+      "date": "2025-11-11T01:47:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912116
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-187",
+      "number": 187,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 187 – Meu Poder",
+      "date": "2025-11-11T01:47:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912113
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-188",
+      "number": 188,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 188 –  Desta Vez, È Sua Chance&#8230;",
+      "date": "2025-11-11T01:47:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912112
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-189",
+      "number": 189,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 189 – Revolução Industrial",
+      "date": "2025-11-11T01:48:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912265
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-190",
+      "number": 190,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 190 – Professora Rigorosa",
+      "date": "2025-11-11T01:48:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912262
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-191",
+      "number": 191,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 191 – Levantem As Cortina",
+      "date": "2025-11-11T01:48:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912259
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-192",
+      "number": 192,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 192 – Dançando Com&#8230;",
+      "date": "2025-11-11T01:48:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912266
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-193",
+      "number": 193,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 193 – A Última Valsa",
+      "date": "2025-11-11T01:48:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912264
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-194",
+      "number": 194,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 194 – Felizes Para Sempre?",
+      "date": "2025-11-11T01:48:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912268
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-195",
+      "number": 195,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 195 – Elevando a Classe",
+      "date": "2025-11-11T01:48:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912261
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-196",
+      "number": 196,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 196 – Senso de Imoralidade",
+      "date": "2025-11-11T01:48:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912260
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-197",
+      "number": 197,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 197 – Nível 1",
+      "date": "2025-11-11T01:48:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912263
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-198",
+      "number": 198,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 198 – O Mistério Da Chance de Drop",
+      "date": "2025-11-11T01:48:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912267
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-199",
+      "number": 199,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 199 –  Terra do Lazer",
+      "date": "2025-11-11T01:48:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912434
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-200",
+      "number": 200,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 200 – Encontro de Biquinis",
+      "date": "2025-11-11T01:48:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912432
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-201",
+      "number": 201,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 201 – Uma Piscina Na Floresta Demoníaca",
+      "date": "2025-11-11T01:48:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912428
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-202",
+      "number": 202,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 202 – Tobogã Intimo",
+      "date": "2025-11-11T01:48:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912429
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-203",
+      "number": 203,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 203 – Véspera do Festival",
+      "date": "2025-11-11T01:48:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912431
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-204",
+      "number": 204,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 204 – Festival",
+      "date": "2025-11-11T01:48:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912433
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-205",
+      "number": 205,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 205 – Fogos de Artifício",
+      "date": "2025-11-11T01:48:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912430
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-206",
+      "number": 206,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 206 – Confissão",
+      "date": "2025-11-11T01:48:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912436
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-207",
+      "number": 207,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 207 – Meus Sentimentos",
+      "date": "2025-11-11T01:48:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912435
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-208",
+      "number": 208,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 208 – Visto Pelos Espíritos",
+      "date": "2025-11-11T01:48:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912437
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-209",
+      "number": 209,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 209 – Evitando O Final Ruim",
+      "date": "2025-11-11T01:49:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912595
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-210",
+      "number": 210,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 210 – Utilizando o Metodo Final",
+      "date": "2025-11-11T01:49:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912592
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-211",
+      "number": 211,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 211 – Excursão de Treino ao Labirinto",
+      "date": "2025-11-11T01:49:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912589
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-212",
+      "number": 212,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 212 – Máquina de Matar",
+      "date": "2025-11-11T01:49:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912588
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-213",
+      "number": 213,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 213 – O Plano Secreto das Garotas",
+      "date": "2025-11-11T01:49:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912591
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-214",
+      "number": 214,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 214 – Quebrando os Limites",
+      "date": "2025-11-11T01:49:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912594
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-215",
+      "number": 215,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 215 – Um Convite Para Desistir de Ser Humano",
+      "date": "2025-11-11T01:49:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912596
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-216",
+      "number": 216,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 216 – O Ponto Sem Volta do Destino",
+      "date": "2025-11-11T01:49:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912593
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-217",
+      "number": 217,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 217 –  O Que Preciso Fazer?",
+      "date": "2025-11-11T01:49:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912597
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-218",
+      "number": 218,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 218 – Eu Também Tenho um Torpedo, Sabia?",
+      "date": "2025-11-11T01:49:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912590
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-219",
+      "number": 219,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 219 – Nós Que Extrairemos As Informações",
+      "date": "2025-11-11T01:49:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912758
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-220",
+      "number": 220,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 220 – Expectativa e Realidade",
+      "date": "2025-11-11T01:49:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912762
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-221",
+      "number": 221,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 221 – Requerendo Uma Mudança de Dayribaul",
+      "date": "2025-11-11T01:49:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912759
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-222",
+      "number": 222,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 222 – Eles Podem Lidar Com Esse Meu Pedido Sem Sentido, Não é?",
+      "date": "2025-11-11T01:49:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912766
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-223",
+      "number": 223,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 223 –  Por Onde a Energia Mágica Sai?",
+      "date": "2025-11-11T01:49:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912765
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-224",
+      "number": 224,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 224 –  Isso Ainda é Considerado Troca de Informações, Sabia?",
+      "date": "2025-11-11T01:49:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912767
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-225",
+      "number": 225,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 225 – Se eu Me Tornar Inútil..",
+      "date": "2025-11-11T01:49:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912760
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-226",
+      "number": 226,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 226 – Não Sou Mais Humano?",
+      "date": "2025-11-11T01:49:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912761
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-227",
+      "number": 227,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 227 – Você Colhe Oque Planta",
+      "date": "2025-11-11T01:49:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912763
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-228",
+      "number": 228,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 228 – A Lei da Selva",
+      "date": "2025-11-11T01:49:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912764
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-229",
+      "number": 229,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 229 – Estava Dando certo no começo, eu acho?",
+      "date": "2025-11-11T01:50:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912916
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-230",
+      "number": 230,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 230 – Princesa Inútil",
+      "date": "2025-11-11T01:50:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912915
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-231",
+      "number": 231,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 231 – É Hora do Duelo!",
+      "date": "2025-11-11T01:50:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912913
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-232",
+      "number": 232,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 232 – Surra Horrorosa",
+      "date": "2025-11-11T01:50:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912914
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-233",
+      "number": 233,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 233 –  Uma Conclusão Milagrosa",
+      "date": "2025-11-11T01:50:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912911
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-234",
+      "number": 234,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 234 – Armadilha Peversa",
+      "date": "2025-11-11T01:50:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912912
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-235",
+      "number": 235,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 235 –  Eu disse que tem varios tipos",
+      "date": "2025-11-11T01:50:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912909
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-236",
+      "number": 236,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 236 – Malvado Demais!",
+      "date": "2025-11-11T01:50:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912910
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-237",
+      "number": 237,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 237 – Criminosos não assumiriam seus crimes, sabe?",
+      "date": "2025-11-11T01:50:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912918
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-238",
+      "number": 238,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 238 – Bater de lado, Bater por trás",
+      "date": "2025-11-11T01:50:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 912917
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-239",
+      "number": 239,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 239 – A Melhor Abordagem",
+      "date": "2025-11-11T01:50:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913061
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-240",
+      "number": 240,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 240 – Libertem o Refém!",
+      "date": "2025-11-11T01:50:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913059
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-241",
+      "number": 241,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 241 – Vocês não deveriam sair, sabe?",
+      "date": "2025-11-11T01:50:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913060
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-242",
+      "number": 242,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 242 – Virando o Jogo",
+      "date": "2025-11-11T01:50:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913064
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-243",
+      "number": 243,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 243 – Culpado!!!",
+      "date": "2025-11-11T01:50:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913065
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-244",
+      "number": 244,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 244 – O que diabos você esta fazendo?!",
+      "date": "2025-11-11T01:50:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913068
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-245",
+      "number": 245,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 245 – As Palavras Carregam Malícia",
+      "date": "2025-11-11T01:50:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913062
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-246",
+      "number": 246,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 246 – Pode Potencialmente se Tornar uma [Bomba]",
+      "date": "2025-11-11T01:50:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913063
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-247",
+      "number": 247,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 247 – Estou com Deficiência de calcio?",
+      "date": "2025-11-11T01:50:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913066
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-248",
+      "number": 248,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 248 – Nós podemos Lutar!",
+      "date": "2025-11-11T01:50:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913067
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-249",
+      "number": 249,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 249 – Aqueles que estão te cercando são&#8230;",
+      "date": "2025-11-11T01:50:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913208
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-250",
+      "number": 250,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 250 – É uma habilidade perigosa&#8230;",
+      "date": "2025-11-11T01:50:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913214
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-251",
+      "number": 251,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 251 – Aceitamos Qualquer Informação que você tenha",
+      "date": "2025-11-11T01:50:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913211
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-252",
+      "number": 252,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 252 – Por algum motivo estranho&#8230;",
+      "date": "2025-11-11T01:50:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913210
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-253",
+      "number": 253,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 253 – Armadilha Erótica",
+      "date": "2025-11-11T01:50:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913215
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-254",
+      "number": 254,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 254 – Sobrecarregado de Emoções",
+      "date": "2025-11-11T01:50:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913212
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-255",
+      "number": 255,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 255 –  Um Histórico Familia complicado&#8230; ?",
+      "date": "2025-11-11T01:50:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913213
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-256",
+      "number": 256,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 256 – Não Pode ser Destruído",
+      "date": "2025-11-11T01:50:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913216
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-257",
+      "number": 257,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 257 – Gentilmente enganado",
+      "date": "2025-11-11T01:50:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913207
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-258",
+      "number": 258,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 258 – Nada além de talento",
+      "date": "2025-11-11T01:50:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913209
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-259",
+      "number": 259,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 259 – Do Mais Louco para o Mais forte.",
+      "date": "2025-11-11T01:51:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913359
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-260",
+      "number": 260,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 260 – Estilo de duas espadas",
+      "date": "2025-11-11T01:51:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913361
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-261",
+      "number": 261,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 261 – Por uma olhadinha.",
+      "date": "2025-11-11T01:51:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913366
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-262",
+      "number": 262,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 262 – Ele Não vive no inferno,Não é?",
+      "date": "2025-11-11T01:51:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913360
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-263",
+      "number": 263,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 263 – Realmente Incrível",
+      "date": "2025-11-11T01:51:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913367
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-264",
+      "number": 264,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 264 – No fim, ela parecia estar gostando?",
+      "date": "2025-11-11T01:51:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913358
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-265",
+      "number": 265,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 265 – Você Enganou Ela!",
+      "date": "2025-11-11T01:51:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913364
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-266",
+      "number": 266,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 266 – Eu Ainda Não Terminei Com Você",
+      "date": "2025-11-11T01:51:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913365
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-267",
+      "number": 267,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 267 – Quão grande é a diferença de idade?",
+      "date": "2025-11-11T01:51:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913363
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-268",
+      "number": 268,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 268 – Você esta acompanhando a história?",
+      "date": "2025-11-11T01:51:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913362
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-269",
+      "number": 269,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 269 – Junto á valquíria",
+      "date": "2025-11-11T01:51:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913509
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-270",
+      "number": 270,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 270 – Missão de entrega.",
+      "date": "2025-11-11T01:51:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913506
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-271",
+      "number": 271,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 271 – Uma Fraude Total",
+      "date": "2025-11-11T01:51:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913511
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-272",
+      "number": 272,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 272 – Um novo mitsério",
+      "date": "2025-11-11T01:51:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913507
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-273",
+      "number": 273,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 273 – Isso é outra armadilha&#8230;?",
+      "date": "2025-11-11T01:51:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913514
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-274",
+      "number": 274,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 274 – Um inimigo assustador que deixa até os com grandes habilidades sem chance!",
+      "date": "2025-11-11T01:51:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913515
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-275",
+      "number": 275,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 275 – Uma briga de marido e mulher!",
+      "date": "2025-11-11T01:51:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913512
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-276",
+      "number": 276,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 276 – Me sinto meio&#8230; renovado?",
+      "date": "2025-11-11T01:51:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913510
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-277",
+      "number": 277,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 277 – Antes de ser empurrado por trás&#8230;",
+      "date": "2025-11-11T01:51:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913508
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-278",
+      "number": 278,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 278 – Um jogo da morte, onde ser pego significa o fim da linha",
+      "date": "2025-11-11T01:51:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913513
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-279",
+      "number": 279,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 279 – Um Demônio que nem mesmo teme a Deus.",
+      "date": "2025-11-11T01:52:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913674
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-280",
+      "number": 280,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 280 – Amaldiçoado",
+      "date": "2025-11-11T01:52:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913672
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-281",
+      "number": 281,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 281 – Para Quebrar a Maldição.",
+      "date": "2025-11-11T01:52:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913678
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-282",
+      "number": 282,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 282 – Porque? Porque?!",
+      "date": "2025-11-11T01:52:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913669
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-283",
+      "number": 283,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 283 – O Fedor da Morte",
+      "date": "2025-11-11T01:52:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913671
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-284",
+      "number": 284,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 284",
+      "date": "2025-11-11T01:52:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913673
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-285",
+      "number": 285,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 285 – A beira do colapso",
+      "date": "2025-11-11T01:52:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913675
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-286",
+      "number": 286,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 286 – Continue o Ataque",
+      "date": "2025-11-11T01:52:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913677
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-287",
+      "number": 287,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 287 – Aniquile-os!",
+      "date": "2025-11-11T01:52:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913676
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-288",
+      "number": 288,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 288 – Armadura Suprema",
+      "date": "2025-11-11T01:52:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913670
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-289",
+      "number": 289,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 289 – inimigo natural mais Injusto",
+      "date": "2025-11-11T01:52:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913837
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-290",
+      "number": 290,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 290 – Benção divina",
+      "date": "2025-11-11T01:52:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913838
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-291",
+      "number": 291,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 291 – Pesadelo sem fim",
+      "date": "2025-11-11T01:52:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913836
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-292",
+      "number": 292,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 292 – A rota mais rápida e o ritmo mais rápido",
+      "date": "2025-11-11T01:52:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 913839
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-293",
+      "number": 293,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 293 – Neste momento crítico",
+      "date": "2026-06-24T15:04:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266543
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-294",
+      "number": 294,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 294",
+      "date": "2026-06-24T15:04:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266544
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-295",
+      "number": 295,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 295 – Não seja mesquinho.",
+      "date": "2026-06-24T15:04:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266545
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-296",
+      "number": 296,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 296 – Um Sorriso",
+      "date": "2026-06-24T15:04:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266548
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-297",
+      "number": 297,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 297 – Confiar plenamente",
+      "date": "2026-06-24T15:04:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266546
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-298",
+      "number": 298,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 298 – Sobrecarregá-lo com força bruta.",
+      "date": "2026-06-24T15:04:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266547
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-299",
+      "number": 299,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 299 – Dividi-lo em pedaços!!!!",
+      "date": "2026-06-24T15:05:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266644
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-300",
+      "number": 300,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 300 – É por isso que eu…!",
+      "date": "2026-06-24T15:05:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266648
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-301",
+      "number": 301,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 301 – esfregue e limpe",
+      "date": "2026-06-24T15:05:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266651
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-302",
+      "number": 302,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 302 – Contanto que eu possa me mover&#8230; Nada mais importa",
+      "date": "2026-06-24T15:05:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266646
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-303",
+      "number": 303,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 303 – Meu último desejo egoísta",
+      "date": "2026-06-24T15:05:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266650
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-304",
+      "number": 304,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 304",
+      "date": "2026-06-24T15:05:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266652
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-305",
+      "number": 305,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 305",
+      "date": "2026-06-24T15:05:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266647
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-306",
+      "number": 306,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 306 – Meu Corpo&#8230;",
+      "date": "2026-06-24T15:05:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266643
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-307",
+      "number": 307,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 307 – Guarde Isso em Seu Coração",
+      "date": "2026-06-24T15:05:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266649
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-308",
+      "number": 308,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 308 – Só pode ser o Paraiso",
+      "date": "2026-06-24T15:05:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266645
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-309",
+      "number": 309,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 309 – Obrigada Por Manter a Promessa",
+      "date": "2026-06-24T15:05:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266807
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-310",
+      "number": 310,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 310 – Explorando Sua Fraqueza",
+      "date": "2026-06-24T15:05:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266806
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-311",
+      "number": 311,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 311 – O que agora?!",
+      "date": "2026-06-24T15:05:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266805
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-312",
+      "number": 312,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 312 – Aposto que&#8230;",
+      "date": "2026-06-24T15:05:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266810
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-313",
+      "number": 313,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 313 – Se encostar ai&#8230;",
+      "date": "2026-06-24T15:05:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266814
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-314",
+      "number": 314,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 314 – Portanto, é supremo",
+      "date": "2026-06-24T15:05:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266811
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-315",
+      "number": 315,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 315 – Acho que estamos pegando leve com ele",
+      "date": "2026-06-24T15:05:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266812
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-316",
+      "number": 316,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 316",
+      "date": "2026-06-24T15:05:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266809
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-317",
+      "number": 317,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 317 – Parem de me olhar assim!",
+      "date": "2026-06-24T15:05:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266813
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-318",
+      "number": 318,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 318 – Quase uma Trapaça",
+      "date": "2026-06-24T15:05:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266808
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-319",
+      "number": 319,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 319 – Cadê a Bibliotecária",
+      "date": "2026-06-24T15:05:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266974
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-320",
+      "number": 320,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 320 – Antes de Voltar",
+      "date": "2026-06-24T15:05:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266972
+    },
+    {
+      "id": "hitoribocchi-no-isekai-kouryaku-chapter-321",
+      "number": 321,
+      "title": "Hitoribocchi no Isekai Kouryaku – Capítulo 321 – Está mais abatido",
+      "date": "2026-06-24T15:05:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1266973
+    }
+  ]
+}

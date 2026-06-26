@@ -1,0 +1,872 @@
+{
+  "en": [
+    {
+      "id": "choujin-x-1",
+      "number": "1",
+      "title": "",
+      "date": "2021/05/10",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-2",
+      "number": "2",
+      "title": "",
+      "date": "2021/06/29",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-3",
+      "number": "3",
+      "title": "",
+      "date": "2021/07/16",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-4",
+      "number": "4",
+      "title": "",
+      "date": "2021/07/22",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-5",
+      "number": "5",
+      "title": "",
+      "date": "2021/07/30",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-6",
+      "number": "6",
+      "title": "",
+      "date": "2021/08/10",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-7",
+      "number": "7",
+      "title": "Broiler",
+      "date": "2021/08/25",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-8",
+      "number": "8",
+      "title": "My Benefit",
+      "date": "2021/09/16",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-9",
+      "number": "9",
+      "title": "Sinker, Part 1 - Grounder Boy",
+      "date": "2021/09/29",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-10",
+      "number": "10",
+      "title": "Sinker, Part 2 - Dead Ball",
+      "date": "2021/10/13",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-11",
+      "number": "11",
+      "title": "Sinker, Part 3 - Night Game",
+      "date": "2021/10/20",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-12",
+      "number": "12",
+      "title": "Sinker, Part 3 - Benchwarmer",
+      "date": "2021/11/02",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-13",
+      "number": "13",
+      "title": "Sinker, Part 5 - Pinch Hitter",
+      "date": "2021/11/17",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-14",
+      "number": "14",
+      "title": "Sinker, Part 6 - sayonara",
+      "date": "2021/11/25",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-15",
+      "number": "15",
+      "title": "Fly",
+      "date": "2021/11/30",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-16",
+      "number": "16",
+      "title": "Chicken and Dog",
+      "date": "2022/02/09",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-17",
+      "number": "17",
+      "title": "Pack Pack",
+      "date": "2022/02/24",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-18",
+      "number": "18",
+      "title": "Hip Hip Hooray and Heave-Ho",
+      "date": "2022/03/25",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-18b",
+      "number": "18b",
+      "title": "",
+      "date": "2022/03/26",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-19",
+      "number": "19",
+      "title": "Paper Trip",
+      "date": "2022/04/01",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-20",
+      "number": "20",
+      "title": "",
+      "date": "2022/04/15",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-21",
+      "number": "21",
+      "title": "A Cloaker",
+      "date": "2022/04/26",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-22",
+      "number": "22",
+      "title": "",
+      "date": "2022/05/19",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-23",
+      "number": "23",
+      "title": "",
+      "date": "2022/06/01",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-24",
+      "number": "24",
+      "title": "",
+      "date": "2022/06/15",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-25",
+      "number": "25",
+      "title": "Vision",
+      "date": "2022/07/29",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-26",
+      "number": "26",
+      "title": "Summer on Beast Island, Part 1",
+      "date": "2022/08/09",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-26b",
+      "number": "26b",
+      "title": "",
+      "date": "2022/08/12",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-27",
+      "number": "27",
+      "title": "Branch Training",
+      "date": "2022/08/27",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-28",
+      "number": "28",
+      "title": "",
+      "date": "2022/10/01",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-29",
+      "number": "29",
+      "title": "Black Show Introduction",
+      "date": "2022/10/21",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-30",
+      "number": "30",
+      "title": "",
+      "date": "2022/10/28",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-30b",
+      "number": "30b",
+      "title": "Chaosy Part 2",
+      "date": "2022/11/04",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-31",
+      "number": "31",
+      "title": "",
+      "date": "2022/11/11",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-31b",
+      "number": "31b",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-32",
+      "number": "32",
+      "title": "",
+      "date": "2022/11/30",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-32b",
+      "number": "32b",
+      "title": "",
+      "date": "2022/12/03",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-33a",
+      "number": "33a",
+      "title": "",
+      "date": "2022/12/10",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-33b",
+      "number": "33b",
+      "title": "",
+      "date": "2022/12/21",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-34a",
+      "number": "34a",
+      "title": "",
+      "date": "2023/01/06",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-34b",
+      "number": "34b",
+      "title": "I Got 2 know, Part 2",
+      "date": "2023/01/11",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-34c",
+      "number": "34c",
+      "title": "",
+      "date": "2023/01/18",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-34d",
+      "number": "34d",
+      "title": "",
+      "date": "2023/01/26",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-35",
+      "number": "35",
+      "title": "",
+      "date": "2023/02/24",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-36",
+      "number": "36",
+      "title": "",
+      "date": "2023/04/08",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-37",
+      "number": "37",
+      "title": "",
+      "date": "2023/06/02",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-38",
+      "number": "38",
+      "title": "",
+      "date": "2023/06/21",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-39",
+      "number": "39",
+      "title": "As You Sleep",
+      "date": "2023/07/01",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-40",
+      "number": "40",
+      "title": "",
+      "date": "2023/07/18",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-40b",
+      "number": "40b",
+      "title": "",
+      "date": "2023/08/01",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-41a",
+      "number": "41a",
+      "title": "",
+      "date": "2023/08/17",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-41b",
+      "number": "41b",
+      "title": "",
+      "date": "2023/08/25",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-41c",
+      "number": "41c",
+      "title": "",
+      "date": "2023/09/06",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-41d",
+      "number": "41d",
+      "title": "",
+      "date": "2023/09/13",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-41e",
+      "number": "41e",
+      "title": "Hyena",
+      "date": "2023/09/27",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-42",
+      "number": "42",
+      "title": "Closed System",
+      "date": "2023/10/11",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-43",
+      "number": "43",
+      "title": "",
+      "date": "2023/11/02",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-44",
+      "number": "44",
+      "title": "",
+      "date": "2023/11/23",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-45",
+      "number": "45",
+      "title": "",
+      "date": "2023/12/05",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-46",
+      "number": "46",
+      "title": "",
+      "date": "2023/12/14",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-47",
+      "number": "47",
+      "title": "",
+      "date": "2023/12/28",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-48",
+      "number": "48",
+      "title": "",
+      "date": "2024/01/20",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-48b",
+      "number": "48b",
+      "title": "",
+      "date": "2024/01/30",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-48c",
+      "number": "48c",
+      "title": "Harvester, Part 2",
+      "date": "2024/02/06",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-49a",
+      "number": "49a",
+      "title": "",
+      "date": "2024/02/14",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-49b",
+      "number": "49b",
+      "title": "",
+      "date": "2024/02/21",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-49c",
+      "number": "49c",
+      "title": "",
+      "date": "2024/02/29",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-50a",
+      "number": "50a",
+      "title": "",
+      "date": "2024/03/06",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-50b",
+      "number": "50b",
+      "title": "",
+      "date": "2024/03/14",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-50c",
+      "number": "50c",
+      "title": "",
+      "date": "2024/03/26",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-50d",
+      "number": "50d",
+      "title": "",
+      "date": "2024/03/31",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-51a",
+      "number": "51a",
+      "title": "",
+      "date": "2024/04/13",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-51b",
+      "number": "51b",
+      "title": "",
+      "date": "2024/04/23",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-51c",
+      "number": "51c",
+      "title": "",
+      "date": "2024/05/02",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-51d",
+      "number": "51d",
+      "title": "",
+      "date": "2024/05/12",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-52a",
+      "number": "52a",
+      "title": "",
+      "date": "2024/05/24",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-52b",
+      "number": "52b",
+      "title": "",
+      "date": "2024/06/05",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-52c",
+      "number": "52c",
+      "title": "",
+      "date": "2024/06/15",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-52d",
+      "number": "52d",
+      "title": "",
+      "date": "2024/07/11",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-53a",
+      "number": "53a",
+      "title": "",
+      "date": "2024/07/30",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-53b",
+      "number": "53b",
+      "title": "",
+      "date": "2024/08/06",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-54a",
+      "number": "54a",
+      "title": "",
+      "date": "2024/08/13",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-54b",
+      "number": "54b",
+      "title": "",
+      "date": "2024/08/20",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-54c",
+      "number": "54c",
+      "title": "",
+      "date": "2024/08/27",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-55",
+      "number": "55",
+      "title": "",
+      "date": "2024/09/04",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-56a",
+      "number": "56a",
+      "title": "",
+      "date": "2024/09/10",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-56b",
+      "number": "56b",
+      "title": "",
+      "date": "2024/09/17",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-57",
+      "number": "57",
+      "title": "",
+      "date": "2024/09/27",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-58a",
+      "number": "58a",
+      "title": "",
+      "date": "2024/10/01",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-58b",
+      "number": "58b",
+      "title": "",
+      "date": "2024/10/08",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-58c",
+      "number": "58c",
+      "title": "",
+      "date": "2024/10/15",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-59a",
+      "number": "59a",
+      "title": "",
+      "date": "2024/12/17",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-59b",
+      "number": "59b",
+      "title": "",
+      "date": "2025/01/03",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-59c",
+      "number": "59c",
+      "title": "",
+      "date": "2025/01/14",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-60a",
+      "number": "60a",
+      "title": "",
+      "date": "2025/01/28",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-60b",
+      "number": "60b",
+      "title": "",
+      "date": "2025/02/11",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-61a",
+      "number": "61a",
+      "title": "",
+      "date": "2025/02/22",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-61b",
+      "number": "61b",
+      "title": "",
+      "date": "2025/03/07",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-62a",
+      "number": "62a",
+      "title": "",
+      "date": "2025/03/22",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-62b",
+      "number": "62b",
+      "title": "",
+      "date": "2025/04/12",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-63a",
+      "number": "63a",
+      "title": "",
+      "date": "2025/04/29",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-63b",
+      "number": "63b",
+      "title": "",
+      "date": "2025/05/15",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-64a",
+      "number": "64a",
+      "title": "",
+      "date": "2025/05/28",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-64b",
+      "number": "64b",
+      "title": "",
+      "date": "2025/06/17",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-65",
+      "number": "65",
+      "title": "",
+      "date": "2025/07/02",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-66a",
+      "number": "66a",
+      "title": "",
+      "date": "2025/07/16",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-66b",
+      "number": "66b",
+      "title": "",
+      "date": "2025/08/02",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-66c",
+      "number": "66c",
+      "title": "",
+      "date": "2025/08/19",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-67a",
+      "number": "67a",
+      "title": "",
+      "date": "2025/09/03",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-67b",
+      "number": "67b",
+      "title": "",
+      "date": "2025/09/17",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-68a",
+      "number": "68a",
+      "title": "",
+      "date": "2025/10/14",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-68b",
+      "number": "68b",
+      "title": "",
+      "date": "2025/10/31",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-68c",
+      "number": "68c",
+      "title": "",
+      "date": "2025/11/12",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-69a",
+      "number": "69a",
+      "title": "",
+      "date": "2025/11/26",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-69b",
+      "number": "69b",
+      "title": "",
+      "date": "2025/12/17",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-70a",
+      "number": "70a",
+      "title": "",
+      "date": "2026/02/25",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-70b",
+      "number": "70b",
+      "title": "",
+      "date": "2026/03/11",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-71a",
+      "number": "71a",
+      "title": "",
+      "date": "2026/03/25",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-71b",
+      "number": "71b",
+      "title": "",
+      "date": "2026/04/08",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-72a",
+      "number": "72a",
+      "title": "",
+      "date": "2026/04/22",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-72b",
+      "number": "72b",
+      "title": "",
+      "date": "2026/05/06",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-72c",
+      "number": "72c",
+      "title": "",
+      "date": "2026/05/16",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-73",
+      "number": "73",
+      "title": "",
+      "date": "2026/06/10",
+      "pages": []
+    },
+    {
+      "id": "choujin-x-74",
+      "number": "74",
+      "title": "",
+      "date": "2026/06/24",
+      "pages": []
+    }
+  ]
+}

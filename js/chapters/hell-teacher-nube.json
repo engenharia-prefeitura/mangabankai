@@ -1,0 +1,935 @@
+{
+  "en": [
+    {
+      "id": "hell-teacher-nube-1",
+      "number": "1",
+      "title": "",
+      "date": "2010/04/04",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-2",
+      "number": "2",
+      "title": "2",
+      "date": "2010/04/04",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-3",
+      "number": "3",
+      "title": "3",
+      "date": "2010/04/05",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-4",
+      "number": "4",
+      "title": "4",
+      "date": "2010/04/06",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-5",
+      "number": "5",
+      "title": "5",
+      "date": "2010/04/06",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-6",
+      "number": "6",
+      "title": "6",
+      "date": "2010/04/09",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-7",
+      "number": "7",
+      "title": "7",
+      "date": "2010/04/14",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-8",
+      "number": "8",
+      "title": "The Curse of Hatamonba",
+      "date": "2010/04/18",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-9",
+      "number": "9",
+      "title": "The Strolling Ghost",
+      "date": "2010/04/26",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-10",
+      "number": "10",
+      "title": "Crash!!",
+      "date": "2010/05/01",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-11",
+      "number": "11",
+      "title": "Rampand Domination (Beginning)",
+      "date": "2010/05/11",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-12",
+      "number": "12",
+      "title": "Youko Rampant Domination",
+      "date": "2010/05/25",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-13",
+      "number": "13",
+      "title": "Oni No Te Vs Fire-Ring Tail Jutsu",
+      "date": "2010/06/02",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-14",
+      "number": "14",
+      "title": "The Sacred Beast Remugyo",
+      "date": "2010/06/09",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-15",
+      "number": "15",
+      "title": "The Sacred Beast Remugyo 2",
+      "date": "2010/06/16",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-16",
+      "number": "16",
+      "title": "The Midnught Honor Student",
+      "date": "2010/06/25",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-17",
+      "number": "17",
+      "title": "The Mystery Of Teketeke",
+      "date": "2010/07/01",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-18",
+      "number": "18",
+      "title": "Angel-Sama",
+      "date": "2010/07/08",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-19",
+      "number": "19",
+      "title": "Demonic Stairs",
+      "date": "2010/07/18",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-20",
+      "number": "20",
+      "title": "The Girl Who Brings Good Fortune",
+      "date": "2010/07/30",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-21",
+      "number": "21",
+      "title": "Gakidama",
+      "date": "2010/08/06",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-22",
+      "number": "22",
+      "title": "The Nightly Snake",
+      "date": "2010/08/27",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-23",
+      "number": "23",
+      "title": "Doppelganger",
+      "date": "2010/09/28",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-24",
+      "number": "24",
+      "title": "-A- Has Come",
+      "date": "2010/12/03",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-25",
+      "number": "25",
+      "title": "Otonai-san is Passing Through",
+      "date": "2010/12/05",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-26",
+      "number": "26",
+      "title": "The Million Letters of Misfortune",
+      "date": "2010/12/14",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-27",
+      "number": "27",
+      "title": "Aliens Appear in Doumori Town",
+      "date": "2010/12/24",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-28",
+      "number": "28",
+      "title": "The Three Animals Murder",
+      "date": "2011/01/03",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-29",
+      "number": "29",
+      "title": "The Dark Face At The Water's Bottom",
+      "date": "2011/02/03",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-30",
+      "number": "30",
+      "title": "Remnants of Snow",
+      "date": "2011/02/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-31",
+      "number": "31",
+      "title": "",
+      "date": "2011/03/06",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-32",
+      "number": "32",
+      "title": "Youkai Rokurokubi",
+      "date": "2011/03/06",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-33",
+      "number": "33",
+      "title": "Who Is The 5th Person?",
+      "date": "2011/03/30",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-34",
+      "number": "34",
+      "title": "The Mystery Of The Cannibalistic Mona Lisa",
+      "date": "2011/07/01",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-35",
+      "number": "35",
+      "title": "Jinmenken",
+      "date": "2011/07/14",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-36",
+      "number": "36",
+      "title": "A Near Death Experience",
+      "date": "2011/08/23",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-37",
+      "number": "37",
+      "title": "",
+      "date": "2011/08/23",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-38",
+      "number": "38",
+      "title": "Nube Vs Ootsuki-Sensei",
+      "date": "2011/09/20",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-39",
+      "number": "39",
+      "title": "Something Forgotten For 20 Years",
+      "date": "2011/12/03",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-40",
+      "number": "40",
+      "title": "The Hiyoku Crows",
+      "date": "2012/01/22",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-41",
+      "number": "41",
+      "title": "The Wonders Of Opposing Mirrors",
+      "date": "2012/01/31",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-42",
+      "number": "42",
+      "title": "The 4th Ghost Course Story",
+      "date": "2012/03/24",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-43",
+      "number": "43",
+      "title": "Transform! Pom Poko Pom",
+      "date": "2012/05/27",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-44",
+      "number": "44",
+      "title": "Fireball Teacher Tsukki",
+      "date": "2012/07/18",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-45",
+      "number": "45",
+      "title": "Memories Of A Previous Life",
+      "date": "2012/08/14",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-46",
+      "number": "46",
+      "title": "Run! Ninomiya Kinjirou",
+      "date": "2012/09/21",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-47",
+      "number": "47",
+      "title": "The Tree - Climbing Ghost",
+      "date": "2012/10/06",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-48",
+      "number": "48",
+      "title": "The Great Youkai Gathering!",
+      "date": "2012/11/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-49",
+      "number": "49",
+      "title": "The Midsummer Yukionna",
+      "date": "2013/02/10",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-50",
+      "number": "50",
+      "title": "The Red West",
+      "date": "2013/04/21",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-51",
+      "number": "51",
+      "title": "The Dream-Eating Baku",
+      "date": "2013/10/21",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-52",
+      "number": "52",
+      "title": "Miki`s Great Jinx Operation!",
+      "date": "2013/11/21",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-53",
+      "number": "53",
+      "title": "The Child Raising Ghost",
+      "date": "2013/12/23",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-54",
+      "number": "54",
+      "title": "Jinmenso",
+      "date": "2014/01/06",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-55",
+      "number": "55",
+      "title": "The Youkai Akaname",
+      "date": "2014/01/19",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-56",
+      "number": "56",
+      "title": "Nube and yukime:The Strongest Tag Team",
+      "date": "2014/01/24",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-57",
+      "number": "57",
+      "title": "The Shugorei Conference",
+      "date": "2014/02/04",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-58",
+      "number": "58",
+      "title": "Buys a Porsche",
+      "date": "2014/03/17",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-59",
+      "number": "59",
+      "title": "Kodama",
+      "date": "2014/06/20",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-60",
+      "number": "60",
+      "title": "Kodama",
+      "date": "2014/07/03",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-61",
+      "number": "61",
+      "title": "Dreaded Spirit Photography",
+      "date": "2014/07/03",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-62",
+      "number": "62",
+      "title": "Hyakki Yakou",
+      "date": "2014/09/14",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-63",
+      "number": "63",
+      "title": "The Tale of the Three Kuchisake Sisters",
+      "date": "2014/09/14",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-64",
+      "number": "64",
+      "title": "00000000",
+      "date": "2014/10/05",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-65",
+      "number": "65",
+      "title": "Season of the Yukionna",
+      "date": "2014/10/05",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-66",
+      "number": "66",
+      "title": "Nekomata",
+      "date": "2014/10/05",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-67",
+      "number": "67",
+      "title": "The Mermaid's Return Favor",
+      "date": "2014/10/31",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-68",
+      "number": "68",
+      "title": "The Youkai Shoukera is Peeking Through the Window",
+      "date": "2015/07/05",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-69",
+      "number": "69",
+      "title": "The Crooked Priest is a Youkai! Nurarihyon",
+      "date": "2015/07/05",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-70",
+      "number": "70",
+      "title": "The Carrying Monster",
+      "date": "2015/07/05",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-71",
+      "number": "71",
+      "title": "Huge-Busted Youkai, Nenekogappa",
+      "date": "2015/07/05",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-72",
+      "number": "72",
+      "title": "The Flying Bald Head",
+      "date": "2015/07/05",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-73",
+      "number": "73",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-74",
+      "number": "74",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-75",
+      "number": "75",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-76",
+      "number": "76",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-77",
+      "number": "77",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-78",
+      "number": "78",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-79",
+      "number": "79",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-80",
+      "number": "80",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-81",
+      "number": "81",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-82",
+      "number": "82",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-83",
+      "number": "83",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-84",
+      "number": "84",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-85",
+      "number": "85",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-86",
+      "number": "86",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-87",
+      "number": "87",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-88",
+      "number": "88",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-89",
+      "number": "89",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-90",
+      "number": "90",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-91",
+      "number": "91",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-92",
+      "number": "92",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-93",
+      "number": "93",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-94",
+      "number": "94",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-239",
+      "number": "239",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-240",
+      "number": "240",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-241",
+      "number": "241",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-242",
+      "number": "242",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-243",
+      "number": "243",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-244",
+      "number": "244",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-245",
+      "number": "245",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-246",
+      "number": "246",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-247",
+      "number": "247",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-248",
+      "number": "248",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-249",
+      "number": "249",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-250",
+      "number": "250",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-251",
+      "number": "251",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-252",
+      "number": "252",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-253",
+      "number": "253",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-254",
+      "number": "254",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-255",
+      "number": "255",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-256",
+      "number": "256",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-257",
+      "number": "257",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-258",
+      "number": "258",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-259",
+      "number": "259",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-260",
+      "number": "260",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-261",
+      "number": "261",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-262",
+      "number": "262",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-263",
+      "number": "263",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-264",
+      "number": "264",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-265",
+      "number": "265",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-266",
+      "number": "266",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-267",
+      "number": "267",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-268",
+      "number": "268",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-269",
+      "number": "269",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-270",
+      "number": "270",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-271",
+      "number": "271",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-272",
+      "number": "272",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-273",
+      "number": "273",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-274",
+      "number": "274",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-275",
+      "number": "275",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-276",
+      "number": "276",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "hell-teacher-nube-276e",
+      "number": "276e",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    }
+  ]
+}

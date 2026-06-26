@@ -1,0 +1,634 @@
+{
+  "en": [
+    {
+      "id": "all-out-1",
+      "number": "1",
+      "title": "This Year's Freshmen Are Hilarious",
+      "date": "2016/09/19",
+      "pages": []
+    },
+    {
+      "id": "all-out-2",
+      "number": "2",
+      "title": "\"Yeah\"",
+      "date": "2016/09/19",
+      "pages": []
+    },
+    {
+      "id": "all-out-3",
+      "number": "3",
+      "title": "I Wanna Tackle",
+      "date": "2016/09/19",
+      "pages": []
+    },
+    {
+      "id": "all-out-4",
+      "number": "4",
+      "title": "Last",
+      "date": "2016/09/19",
+      "pages": []
+    },
+    {
+      "id": "all-out-5",
+      "number": "5",
+      "title": "Our Time",
+      "date": "2016/09/19",
+      "pages": []
+    },
+    {
+      "id": "all-out-6",
+      "number": "6",
+      "title": "What's Important",
+      "date": "2016/09/19",
+      "pages": []
+    },
+    {
+      "id": "all-out-7",
+      "number": "7",
+      "title": "Good Rugby",
+      "date": "2016/09/19",
+      "pages": []
+    },
+    {
+      "id": "all-out-8",
+      "number": "8",
+      "title": "Is This the End?",
+      "date": "2016/09/19",
+      "pages": []
+    },
+    {
+      "id": "all-out-9",
+      "number": "9",
+      "title": "All I Can Do",
+      "date": "2016/09/19",
+      "pages": []
+    },
+    {
+      "id": "all-out-10",
+      "number": "10",
+      "title": "What's Missing",
+      "date": "2016/09/19",
+      "pages": []
+    },
+    {
+      "id": "all-out-11",
+      "number": "11",
+      "title": "",
+      "date": "2016/09/29",
+      "pages": []
+    },
+    {
+      "id": "all-out-14",
+      "number": "14",
+      "title": "A Sport You Play With Everyone",
+      "date": "2016/11/12",
+      "pages": []
+    },
+    {
+      "id": "all-out-15",
+      "number": "15",
+      "title": "I Want to be Able to do Everything",
+      "date": "2016/11/15",
+      "pages": []
+    },
+    {
+      "id": "all-out-16",
+      "number": "16",
+      "title": "",
+      "date": "2016/11/22",
+      "pages": []
+    },
+    {
+      "id": "all-out-17",
+      "number": "17",
+      "title": "",
+      "date": "2016/11/23",
+      "pages": []
+    },
+    {
+      "id": "all-out-18",
+      "number": "18",
+      "title": "",
+      "date": "2016/11/24",
+      "pages": []
+    },
+    {
+      "id": "all-out-19",
+      "number": "19",
+      "title": "You Guys Have Gotten Stronger",
+      "date": "2016/11/29",
+      "pages": []
+    },
+    {
+      "id": "all-out-20",
+      "number": "20",
+      "title": "Beat Them Down",
+      "date": "2016/11/29",
+      "pages": []
+    },
+    {
+      "id": "all-out-21",
+      "number": "21",
+      "title": "",
+      "date": "2016/12/05",
+      "pages": []
+    },
+    {
+      "id": "all-out-22",
+      "number": "22",
+      "title": "",
+      "date": "2016/12/05",
+      "pages": []
+    },
+    {
+      "id": "all-out-23",
+      "number": "23",
+      "title": "",
+      "date": "2016/12/05",
+      "pages": []
+    },
+    {
+      "id": "all-out-24",
+      "number": "24",
+      "title": "",
+      "date": "2016/12/05",
+      "pages": []
+    },
+    {
+      "id": "all-out-25",
+      "number": "25",
+      "title": "",
+      "date": "2016/12/05",
+      "pages": []
+    },
+    {
+      "id": "all-out-26",
+      "number": "26",
+      "title": "",
+      "date": "2016/12/07",
+      "pages": []
+    },
+    {
+      "id": "all-out-27",
+      "number": "27",
+      "title": "",
+      "date": "2016/12/07",
+      "pages": []
+    },
+    {
+      "id": "all-out-28",
+      "number": "28",
+      "title": "",
+      "date": "2016/12/07",
+      "pages": []
+    },
+    {
+      "id": "all-out-29",
+      "number": "29",
+      "title": "",
+      "date": "2016/12/17",
+      "pages": []
+    },
+    {
+      "id": "all-out-30",
+      "number": "30",
+      "title": "",
+      "date": "2016/12/17",
+      "pages": []
+    },
+    {
+      "id": "all-out-31",
+      "number": "31",
+      "title": "",
+      "date": "2016/12/17",
+      "pages": []
+    },
+    {
+      "id": "all-out-32",
+      "number": "32",
+      "title": "",
+      "date": "2016/12/17",
+      "pages": []
+    },
+    {
+      "id": "all-out-33",
+      "number": "33",
+      "title": "",
+      "date": "2016/12/31",
+      "pages": []
+    },
+    {
+      "id": "all-out-34",
+      "number": "34",
+      "title": "",
+      "date": "2016/12/31",
+      "pages": []
+    },
+    {
+      "id": "all-out-35",
+      "number": "35",
+      "title": "",
+      "date": "2016/12/31",
+      "pages": []
+    },
+    {
+      "id": "all-out-36",
+      "number": "36",
+      "title": "",
+      "date": "2016/12/31",
+      "pages": []
+    },
+    {
+      "id": "all-out-37",
+      "number": "37",
+      "title": "",
+      "date": "2016/12/31",
+      "pages": []
+    },
+    {
+      "id": "all-out-38",
+      "number": "38",
+      "title": "",
+      "date": "2016/12/31",
+      "pages": []
+    },
+    {
+      "id": "all-out-39",
+      "number": "39",
+      "title": "",
+      "date": "2017/01/14",
+      "pages": []
+    },
+    {
+      "id": "all-out-40",
+      "number": "40",
+      "title": "",
+      "date": "2017/01/14",
+      "pages": []
+    },
+    {
+      "id": "all-out-41",
+      "number": "41",
+      "title": "",
+      "date": "2017/01/31",
+      "pages": []
+    },
+    {
+      "id": "all-out-42",
+      "number": "42",
+      "title": "",
+      "date": "2017/01/31",
+      "pages": []
+    },
+    {
+      "id": "all-out-43",
+      "number": "43",
+      "title": "",
+      "date": "2017/01/31",
+      "pages": []
+    },
+    {
+      "id": "all-out-44",
+      "number": "44",
+      "title": "",
+      "date": "2017/01/31",
+      "pages": []
+    },
+    {
+      "id": "all-out-45",
+      "number": "45",
+      "title": "",
+      "date": "2017/01/31",
+      "pages": []
+    },
+    {
+      "id": "all-out-46",
+      "number": "46",
+      "title": "",
+      "date": "2017/02/11",
+      "pages": []
+    },
+    {
+      "id": "all-out-47",
+      "number": "47",
+      "title": "",
+      "date": "2017/02/14",
+      "pages": []
+    },
+    {
+      "id": "all-out-48",
+      "number": "48",
+      "title": "",
+      "date": "2017/02/14",
+      "pages": []
+    },
+    {
+      "id": "all-out-49",
+      "number": "49",
+      "title": "",
+      "date": "2017/02/14",
+      "pages": []
+    },
+    {
+      "id": "all-out-50",
+      "number": "50",
+      "title": "",
+      "date": "2017/02/14",
+      "pages": []
+    },
+    {
+      "id": "all-out-51",
+      "number": "51",
+      "title": "",
+      "date": "2017/02/15",
+      "pages": []
+    },
+    {
+      "id": "all-out-52",
+      "number": "52",
+      "title": "",
+      "date": "2017/02/15",
+      "pages": []
+    },
+    {
+      "id": "all-out-53",
+      "number": "53",
+      "title": "",
+      "date": "2017/03/14",
+      "pages": []
+    },
+    {
+      "id": "all-out-54",
+      "number": "54",
+      "title": "In three days",
+      "date": "2017/03/19",
+      "pages": []
+    },
+    {
+      "id": "all-out-55",
+      "number": "55",
+      "title": "Good luck ritual",
+      "date": "2017/03/19",
+      "pages": []
+    },
+    {
+      "id": "all-out-56",
+      "number": "56",
+      "title": "Your Territory",
+      "date": "2017/05/16",
+      "pages": []
+    },
+    {
+      "id": "all-out-57",
+      "number": "57",
+      "title": "The feelings of the guys who barely make the cut",
+      "date": "2017/05/16",
+      "pages": []
+    },
+    {
+      "id": "all-out-58",
+      "number": "58",
+      "title": "All a lie",
+      "date": "2017/05/16",
+      "pages": []
+    },
+    {
+      "id": "all-out-59",
+      "number": "59",
+      "title": "Our Name",
+      "date": "2017/05/16",
+      "pages": []
+    },
+    {
+      "id": "all-out-60",
+      "number": "60",
+      "title": "I will surpass him",
+      "date": "2017/05/16",
+      "pages": []
+    },
+    {
+      "id": "all-out-61",
+      "number": "61",
+      "title": "Show me your strong suit",
+      "date": "2017/05/16",
+      "pages": []
+    },
+    {
+      "id": "all-out-62",
+      "number": "62",
+      "title": "Even though he sucked",
+      "date": "2017/05/16",
+      "pages": []
+    },
+    {
+      "id": "all-out-63",
+      "number": "63",
+      "title": "Never able to fight against",
+      "date": "2017/07/10",
+      "pages": []
+    },
+    {
+      "id": "all-out-64",
+      "number": "64",
+      "title": "Presumption",
+      "date": "2017/07/10",
+      "pages": []
+    },
+    {
+      "id": "all-out-65",
+      "number": "65",
+      "title": "Jin High's Confidence",
+      "date": "2017/07/10",
+      "pages": []
+    },
+    {
+      "id": "all-out-66",
+      "number": "66",
+      "title": "This is fun",
+      "date": "2017/07/10",
+      "pages": []
+    },
+    {
+      "id": "all-out-67",
+      "number": "67",
+      "title": "A good rugby player",
+      "date": "2017/07/10",
+      "pages": []
+    },
+    {
+      "id": "all-out-68",
+      "number": "68",
+      "title": "Harder than I've ever done",
+      "date": "2017/07/10",
+      "pages": []
+    },
+    {
+      "id": "all-out-69",
+      "number": "69",
+      "title": "Once in a while",
+      "date": "2017/07/10",
+      "pages": []
+    },
+    {
+      "id": "all-out-70",
+      "number": "70",
+      "title": "Full of Holes",
+      "date": "2017/07/10",
+      "pages": []
+    },
+    {
+      "id": "all-out-71",
+      "number": "71",
+      "title": "",
+      "date": "2017/10/17",
+      "pages": []
+    },
+    {
+      "id": "all-out-72",
+      "number": "72",
+      "title": "Promise",
+      "date": "2017/10/22",
+      "pages": []
+    },
+    {
+      "id": "all-out-73",
+      "number": "73",
+      "title": "",
+      "date": "2017/11/01",
+      "pages": []
+    },
+    {
+      "id": "all-out-74",
+      "number": "74",
+      "title": "A Fullfilling 3 Years",
+      "date": "2017/11/04",
+      "pages": []
+    },
+    {
+      "id": "all-out-75",
+      "number": "75",
+      "title": "First Match",
+      "date": "2017/11/13",
+      "pages": []
+    },
+    {
+      "id": "all-out-76",
+      "number": "76",
+      "title": "What I want to do",
+      "date": "2017/12/10",
+      "pages": []
+    },
+    {
+      "id": "all-out-77",
+      "number": "77",
+      "title": "My Prey",
+      "date": "2017/12/23",
+      "pages": []
+    },
+    {
+      "id": "all-out-78",
+      "number": "78",
+      "title": "",
+      "date": "2020/07/26",
+      "pages": []
+    },
+    {
+      "id": "all-out-79",
+      "number": "79",
+      "title": "",
+      "date": "2020/07/26",
+      "pages": []
+    },
+    {
+      "id": "all-out-80",
+      "number": "80",
+      "title": "",
+      "date": "2020/07/26",
+      "pages": []
+    },
+    {
+      "id": "all-out-81",
+      "number": "81",
+      "title": "",
+      "date": "2020/07/26",
+      "pages": []
+    },
+    {
+      "id": "all-out-82",
+      "number": "82",
+      "title": "",
+      "date": "2020/07/26",
+      "pages": []
+    },
+    {
+      "id": "all-out-83",
+      "number": "83",
+      "title": "",
+      "date": "2020/07/26",
+      "pages": []
+    },
+    {
+      "id": "all-out-84",
+      "number": "84",
+      "title": "",
+      "date": "2020/07/26",
+      "pages": []
+    },
+    {
+      "id": "all-out-85",
+      "number": "85",
+      "title": "",
+      "date": "2020/07/26",
+      "pages": []
+    },
+    {
+      "id": "all-out-89",
+      "number": "89",
+      "title": "",
+      "date": "2024/03/28",
+      "pages": []
+    },
+    {
+      "id": "all-out-91",
+      "number": "91",
+      "title": "",
+      "date": "2024/03/28",
+      "pages": []
+    },
+    {
+      "id": "all-out-94",
+      "number": "94",
+      "title": "",
+      "date": "2024/03/28",
+      "pages": []
+    },
+    {
+      "id": "all-out-97",
+      "number": "97",
+      "title": "",
+      "date": "2024/03/28",
+      "pages": []
+    },
+    {
+      "id": "all-out-98",
+      "number": "98",
+      "title": "",
+      "date": "2024/03/28",
+      "pages": []
+    },
+    {
+      "id": "all-out-99",
+      "number": "99",
+      "title": "",
+      "date": "2024/03/28",
+      "pages": []
+    },
+    {
+      "id": "all-out-102",
+      "number": "102",
+      "title": "",
+      "date": "2024/03/28",
+      "pages": []
+    }
+  ]
+}

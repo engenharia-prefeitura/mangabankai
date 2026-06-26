@@ -1,0 +1,690 @@
+{
+  "en": [
+    {
+      "id": "07-ghost-1",
+      "number": "1",
+      "title": "Escape",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-2",
+      "number": "2",
+      "title": "The Seventh District",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-3",
+      "number": "3",
+      "title": "Darkness",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-4",
+      "number": "4",
+      "title": "Kor",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-5",
+      "number": "5",
+      "title": "Violation",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-6",
+      "number": "6",
+      "title": "Awakening",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-7",
+      "number": "7",
+      "title": "Cycle of Rebirth",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-8",
+      "number": "8",
+      "title": "Mihkail",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-9",
+      "number": "9",
+      "title": "Atonement",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-10",
+      "number": "10",
+      "title": "Nightmare 1",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-11",
+      "number": "11",
+      "title": "Nightmare Part 2",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-12",
+      "number": "12",
+      "title": "Nightmare Part 3",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-13",
+      "number": "13",
+      "title": "Nightmare 4",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-14",
+      "number": "14",
+      "title": "Nightmare 5",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-15",
+      "number": "15",
+      "title": "Nightmare 6",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-16",
+      "number": "16",
+      "title": "Nightmare 7",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-17",
+      "number": "17",
+      "title": "Nightmare 8",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-18",
+      "number": "18",
+      "title": "Nightmare 9",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-19",
+      "number": "19",
+      "title": "Nightmare 10",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-20",
+      "number": "20",
+      "title": "Song for Souls' Repose Requiem",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-21",
+      "number": "21",
+      "title": "The Morning of the Bishop Exam",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-22",
+      "number": "22",
+      "title": "The Final Door",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-23",
+      "number": "23",
+      "title": "The Bridge of Tribulations",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-24",
+      "number": "24",
+      "title": "Light and Dark",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-25",
+      "number": "25",
+      "title": "Setting Off",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-26",
+      "number": "26",
+      "title": "Antwort",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-27",
+      "number": "27",
+      "title": "Slave Trader",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-28",
+      "number": "28",
+      "title": "The 6th District",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-29",
+      "number": "29",
+      "title": "Hausen House 1",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-30",
+      "number": "30",
+      "title": "Hausen House 2",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-31",
+      "number": "31",
+      "title": "Hausen House 3",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-32",
+      "number": "32",
+      "title": "Hausen House 4",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-33",
+      "number": "33",
+      "title": "Barrier 5",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-34",
+      "number": "34",
+      "title": "Aspiration",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-35",
+      "number": "35",
+      "title": "Candle Flame",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-36",
+      "number": "36",
+      "title": "The Hated One",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-37",
+      "number": "37",
+      "title": "Tattoo",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-38",
+      "number": "38",
+      "title": "Recollection",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-39",
+      "number": "39",
+      "title": "",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-40",
+      "number": "40",
+      "title": "Lingering Snow",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-41",
+      "number": "41",
+      "title": "Omen",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-42",
+      "number": "42",
+      "title": "Rilect",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-43",
+      "number": "43",
+      "title": "Pandora's Box",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-44",
+      "number": "44",
+      "title": "Fate",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-45",
+      "number": "45",
+      "title": "The Madness that Can't be Grasped",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-46",
+      "number": "46",
+      "title": "All Around All Around",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-47",
+      "number": "47",
+      "title": "The Same Hands",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-48",
+      "number": "48",
+      "title": "Chance Meeting",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-49",
+      "number": "49",
+      "title": "Paradise of Oblivion 1",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-50",
+      "number": "50",
+      "title": "Paradise of Oblivion 2",
+      "date": "2009/07/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-51",
+      "number": "51",
+      "title": "Paradise Of Oblivion 3",
+      "date": "2009/08/22",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-52",
+      "number": "52",
+      "title": "",
+      "date": "2009/11/03",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-53",
+      "number": "53",
+      "title": "Joker",
+      "date": "2009/11/01",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-55",
+      "number": "55",
+      "title": "The Almarz Residence",
+      "date": "2010/02/03",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-56",
+      "number": "56",
+      "title": "One Endless Day",
+      "date": "2010/02/03",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-57",
+      "number": "57",
+      "title": "Capella",
+      "date": "2010/03/08",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-58",
+      "number": "58",
+      "title": "Doubt",
+      "date": "2010/06/08",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-59",
+      "number": "59",
+      "title": "",
+      "date": "2010/11/28",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-60",
+      "number": "60",
+      "title": "",
+      "date": "2010/11/29",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-61",
+      "number": "61",
+      "title": "",
+      "date": "2010/12/02",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-62",
+      "number": "62",
+      "title": "",
+      "date": "2010/12/06",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-63",
+      "number": "63",
+      "title": "Roseamanelle Ouka Barsburg",
+      "date": "2011/04/23",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-64",
+      "number": "64",
+      "title": "Tiashe",
+      "date": "2011/04/23",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-65",
+      "number": "65",
+      "title": "Tiashe",
+      "date": "2011/04/24",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-66",
+      "number": "66",
+      "title": "",
+      "date": "2011/06/21",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-68",
+      "number": "68",
+      "title": "",
+      "date": "2011/08/19",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-69",
+      "number": "69",
+      "title": "",
+      "date": "2011/08/19",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-70",
+      "number": "70",
+      "title": "",
+      "date": "2011/08/19",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-71",
+      "number": "71",
+      "title": "",
+      "date": "2011/08/19",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-72",
+      "number": "72",
+      "title": "",
+      "date": "2012/03/17",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-73",
+      "number": "73",
+      "title": "",
+      "date": "2012/03/17",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-74",
+      "number": "74",
+      "title": "",
+      "date": "2012/03/17",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-75",
+      "number": "75",
+      "title": "",
+      "date": "2012/03/17",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-76",
+      "number": "76",
+      "title": "",
+      "date": "2012/03/17",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-77",
+      "number": "77",
+      "title": "",
+      "date": "2012/03/17",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-78",
+      "number": "78",
+      "title": "",
+      "date": "2012/03/21",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-79",
+      "number": "79",
+      "title": "",
+      "date": "2012/03/22",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-80",
+      "number": "80",
+      "title": "",
+      "date": "2012/03/22",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-81",
+      "number": "81",
+      "title": "",
+      "date": "2012/03/22",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-82",
+      "number": "82",
+      "title": "",
+      "date": "2012/04/02",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-83",
+      "number": "83",
+      "title": "",
+      "date": "2012/05/04",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-84",
+      "number": "84",
+      "title": "",
+      "date": "2012/06/03",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-85",
+      "number": "85",
+      "title": "",
+      "date": "2012/07/17",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-86",
+      "number": "86",
+      "title": "",
+      "date": "2012/08/08",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-87",
+      "number": "87",
+      "title": "",
+      "date": "2012/09/09",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-88",
+      "number": "88",
+      "title": "",
+      "date": "2012/10/10",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-89",
+      "number": "89",
+      "title": "",
+      "date": "2012/11/14",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-90",
+      "number": "90",
+      "title": "",
+      "date": "2013/01/23",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-91",
+      "number": "91",
+      "title": "",
+      "date": "2013/01/23",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-92",
+      "number": "92",
+      "title": "",
+      "date": "2013/02/23",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-93",
+      "number": "93",
+      "title": "",
+      "date": "2013/04/01",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-94",
+      "number": "94",
+      "title": "",
+      "date": "2013/04/30",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-95",
+      "number": "95",
+      "title": "",
+      "date": "2013/06/05",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-96",
+      "number": "96",
+      "title": "",
+      "date": "2013/11/09",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-97",
+      "number": "97",
+      "title": "",
+      "date": "2014/01/11",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-98",
+      "number": "98",
+      "title": "",
+      "date": "2014/01/11",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-99",
+      "number": "99",
+      "title": "",
+      "date": "2014/01/11",
+      "pages": []
+    },
+    {
+      "id": "07-ghost-100",
+      "number": "100",
+      "title": "",
+      "date": "2016/05/07",
+      "pages": []
+    }
+  ]
+}

@@ -1,0 +1,697 @@
+{
+  "en": [
+    {
+      "id": "tegami-bachi-1",
+      "number": "1",
+      "title": "Letter and Letter Bee",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-2",
+      "number": "2",
+      "title": "The Crybaby Boy, The Letter Girl",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-3",
+      "number": "3",
+      "title": "Letter to Jiggy Pepper",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-4",
+      "number": "4",
+      "title": "Letter to Jiggy Pepper - Part 2",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-5",
+      "number": "5",
+      "title": "Letter to Jiggy Pepper - Part 3",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-6",
+      "number": "6",
+      "title": "Yuusari Central, Nocturne 13, BEE HIVE Post Office",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-7",
+      "number": "7",
+      "title": "Raspberry Hill",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-8",
+      "number": "8",
+      "title": "Meeting Sylvette Suede",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-9",
+      "number": "9",
+      "title": "The Crybaby Boy's Promise",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-10",
+      "number": "10",
+      "title": "Beneath the Light",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-11",
+      "number": "11",
+      "title": "The Lying Letter",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-12",
+      "number": "12",
+      "title": "The Corspe Doctor",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-13",
+      "number": "13",
+      "title": "Honey Waters",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-14",
+      "number": "14",
+      "title": "Undelivered Letters",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-15",
+      "number": "15",
+      "title": "Memories of Three Hearts",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-16",
+      "number": "16",
+      "title": "The Man Who Couldn't Become Spirit",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-17",
+      "number": "17",
+      "title": "A Reunion, Tears, Tears, Tears",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-18",
+      "number": "18",
+      "title": "Bread and Pants",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-19",
+      "number": "19",
+      "title": "The Blue Picture Letter",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-20",
+      "number": "20",
+      "title": "Lighthouse in the Wilderness",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-21",
+      "number": "21",
+      "title": "The Little Girl Doll",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-22",
+      "number": "22",
+      "title": "Film Noir",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-23",
+      "number": "23",
+      "title": "Blue Notes Blues",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-24",
+      "number": "24",
+      "title": "Blue Note Blues 2",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-25",
+      "number": "25",
+      "title": "Blue Notes Blues 3",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-26",
+      "number": "26",
+      "title": "The Raven Black Marauder",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-27",
+      "number": "27",
+      "title": "Veritably Abbey",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-28",
+      "number": "28",
+      "title": "Together, We Went On A Journey",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-29",
+      "number": "29",
+      "title": "Light Illuminating The Darkness",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-30",
+      "number": "30",
+      "title": "For Sure",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-31",
+      "number": "31",
+      "title": "Return",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-32",
+      "number": "32",
+      "title": "Inspectors from the Capital",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-33",
+      "number": "33",
+      "title": "The Cold Letter Division",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-34",
+      "number": "34",
+      "title": "Love Like Stone",
+      "date": "2009/11/26",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-35",
+      "number": "35",
+      "title": "Aria and the Airship",
+      "date": "2010/01/01",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-36",
+      "number": "36",
+      "title": "Bolt The Brave Asada Hiroyuki",
+      "date": "2010/02/03",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-37",
+      "number": "37",
+      "title": "",
+      "date": "2010/03/03",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-38",
+      "number": "38",
+      "title": "The Shining Eye",
+      "date": "2010/04/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-39",
+      "number": "39",
+      "title": "The Wolf Who Could Not Become Spirit",
+      "date": "2010/05/05",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-40",
+      "number": "40",
+      "title": "Crossroad",
+      "date": "2010/06/24",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-41",
+      "number": "41",
+      "title": "Garrard And Valentine Asserting Their Authority",
+      "date": "2010/08/02",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-42",
+      "number": "42",
+      "title": "Faultless Preparation!",
+      "date": "2010/09/16",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-43",
+      "number": "43",
+      "title": "The Depths of His Heart",
+      "date": "2010/10/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-44",
+      "number": "44",
+      "title": "Silence And Pursuit",
+      "date": "2010/10/29",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-45",
+      "number": "45",
+      "title": "The Voice of His Heart",
+      "date": "2011/01/25",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-46",
+      "number": "46",
+      "title": "The Approaching Menace",
+      "date": "2011/03/08",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-47",
+      "number": "47",
+      "title": "Child of Light",
+      "date": "2011/08/11",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-48",
+      "number": "48",
+      "title": "Lily Confort",
+      "date": "2011/09/12",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-49",
+      "number": "49",
+      "title": "Partings And Reunions",
+      "date": "2011/10/05",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-50",
+      "number": "50",
+      "title": "The Laughing Gaichuu",
+      "date": "2011/10/31",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-51",
+      "number": "51",
+      "title": "Reminiscence",
+      "date": "2012/01/30",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-52",
+      "number": "52",
+      "title": "The Kagerou Region",
+      "date": "2012/06/09",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-53",
+      "number": "53",
+      "title": "Unforgivable",
+      "date": "2012/08/23",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-54",
+      "number": "54",
+      "title": "",
+      "date": "2012/08/23",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-55",
+      "number": "55",
+      "title": "I Won't Let You Take Them Away",
+      "date": "2012/09/04",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-56",
+      "number": "56",
+      "title": "A Heart Shaken",
+      "date": "2012/09/11",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-57",
+      "number": "57",
+      "title": "My Size Got Big!",
+      "date": "2012/10/11",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-58",
+      "number": "58",
+      "title": "A Heart, As One",
+      "date": "2013/05/20",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-59",
+      "number": "59",
+      "title": "A Letter From Mother",
+      "date": "2013/05/21",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-60",
+      "number": "60",
+      "title": "General Meeting in the Bee Hive",
+      "date": "2013/07/24",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-61",
+      "number": "61",
+      "title": "",
+      "date": "2013/07/17",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-62",
+      "number": "62",
+      "title": "The Birth",
+      "date": "2013/09/24",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-63",
+      "number": "63",
+      "title": "The Baby Born",
+      "date": "2013/10/18",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-64",
+      "number": "64",
+      "title": "Troublesome Heritage",
+      "date": "2013/12/21",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-65",
+      "number": "65",
+      "title": "Cavalier",
+      "date": "2014/03/01",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-66",
+      "number": "66",
+      "title": "A Storm on the Hill",
+      "date": "2014/04/02",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-67",
+      "number": "67",
+      "title": "Assault on Little Tree",
+      "date": "2014/10/31",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-68",
+      "number": "68",
+      "title": "",
+      "date": "2015/02/27",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-69",
+      "number": "69",
+      "title": "",
+      "date": "2015/02/27",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-70",
+      "number": "70",
+      "title": "",
+      "date": "2015/02/27",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-71",
+      "number": "71",
+      "title": "",
+      "date": "2015/03/03",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-72",
+      "number": "72",
+      "title": "Late Hire Chico",
+      "date": "2015/08/11",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-73",
+      "number": "73",
+      "title": "Don't Fear The Rain",
+      "date": "2015/08/11",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-74",
+      "number": "74",
+      "title": "Shigeton's Animal Tale",
+      "date": "2015/08/11",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-75",
+      "number": "75",
+      "title": "Capicaba King Ponta",
+      "date": "2015/08/11",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-76",
+      "number": "76",
+      "title": "Capicaba King Ponta (Part II)",
+      "date": "2015/08/11",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-77",
+      "number": "77",
+      "title": "",
+      "date": "2015/08/11",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-78",
+      "number": "78",
+      "title": "",
+      "date": "2015/08/11",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-79",
+      "number": "79",
+      "title": "",
+      "date": "2015/08/11",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-80",
+      "number": "80",
+      "title": "The last Spirit Insect",
+      "date": "2015/08/11",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-81",
+      "number": "81",
+      "title": "To the person I treasure",
+      "date": "2015/08/11",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-82",
+      "number": "82",
+      "title": "",
+      "date": "2015/08/13",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-83",
+      "number": "83",
+      "title": "",
+      "date": "2015/08/14",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-84",
+      "number": "84",
+      "title": "",
+      "date": "2015/08/14",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-85",
+      "number": "85",
+      "title": "",
+      "date": "2015/08/15",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-86",
+      "number": "86",
+      "title": "",
+      "date": "2015/08/15",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-87",
+      "number": "87",
+      "title": "",
+      "date": "2015/09/28",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-88",
+      "number": "88",
+      "title": "",
+      "date": "2015/10/13",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-89",
+      "number": "89",
+      "title": "",
+      "date": "2015/11/02",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-90",
+      "number": "90",
+      "title": "",
+      "date": "2015/11/16",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-91",
+      "number": "91",
+      "title": "",
+      "date": "2015/12/06",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-92",
+      "number": "92",
+      "title": "",
+      "date": "2015/12/22",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-93",
+      "number": "93",
+      "title": "",
+      "date": "2016/01/14",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-94",
+      "number": "94",
+      "title": "",
+      "date": "2016/02/08",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-95",
+      "number": "95",
+      "title": "",
+      "date": "2016/03/15",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-96",
+      "number": "96",
+      "title": "",
+      "date": "2016/04/21",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-97",
+      "number": "97",
+      "title": "",
+      "date": "2016/05/18",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-98",
+      "number": "98",
+      "title": "",
+      "date": "2016/06/17",
+      "pages": []
+    },
+    {
+      "id": "tegami-bachi-99",
+      "number": "99",
+      "title": "",
+      "date": "2016/07/19",
+      "pages": []
+    }
+  ]
+}

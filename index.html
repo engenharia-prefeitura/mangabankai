@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="referrer" content="no-referrer">
+  <title>MangaBankai — Sua Biblioteca de Mangás</title>
+  <meta name="description" content="Leia mangás e manhwas em português e inglês, com capítulos atualizados.">
+  <meta name="theme-color" content="#6c63ff">
+  <link rel="manifest" href="manifest.json">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="MangaBankai">
+  <meta property="og:title" content="MangaBankai — Sua Biblioteca de Mangás">
+  <meta property="og:description" content="Leia mangás e manhwas em português e inglês, com capítulos atualizados.">
+  <meta name="twitter:card" content="summary">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📖</text></svg>">
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="logo">Manga<span class="accent">Bankai</span><span class="dot"></span></a>
+      <nav class="nav">
+        <a href="index.html" class="active">Início</a>
+        <a href="catalog.html">Catálogo</a>
+      </nav>
+      <div class="search-bar">
+        <input type="text" id="searchInput" placeholder="Pesquisar mangás..." autocomplete="off">
+        <button class="search-btn" onclick="const q=document.getElementById('searchInput').value.trim();if(q)window.location.href='catalog.html?q='+encodeURIComponent(q)">🔍</button>
+        <div class="search-dropdown" id="searchDropdown"></div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Carousel -->
+  <section class="hero">
+    <div class="hero-badge-strip">🔥 Destaques da Semana</div>
+    <div class="hero-carousel" id="heroCarousel"></div>
+    <div class="hero-dots" id="heroDots"></div>
+  </section>
+
+  <!-- Quick Stats Bar -->
+  <div class="stats-bar">
+    <div class="container stats-inner">
+      <div class="stat-item"><span class="stat-num" id="statMangas">0</span><span class="stat-label">Mangás</span></div>
+      <div class="stat-item"><span class="stat-num" id="statChapters">0</span><span class="stat-label">Capítulos</span></div>
+      <div class="stat-item"><span class="stat-num" id="statGenres">0</span><span class="stat-label">Gêneros</span></div>
+      <div class="stat-item"><span class="stat-num" id="statAuthors">0</span><span class="stat-label">Autores</span></div>
+    </div>
+  </div>
+
+  <div class="container">
+    <!-- Continue Reading -->
+    <section class="section" id="continueSection" style="display:none">
+      <div class="section-header">
+        <div class="left"><span class="icon">📚</span><h2>Continuar Lendo</h2></div>
+      </div>
+      <div class="continue-grid" id="continueGrid"></div>
+    </section>
+
+    <!-- Recently Updated (data real) -->
+    <section class="section">
+      <div class="section-header">
+        <div class="left"><span class="icon">🆕</span><h2>Atualizados Recentemente</h2></div>
+        <a href="catalog.html" class="view-all">Ver todos →</a>
+      </div>
+      <div class="row-wrap">
+        <button class="row-arrow left" aria-label="Anterior" onclick="scrollRow('recentRow',-1)">‹</button>
+        <div class="manga-grid row-carousel" id="recentRow"></div>
+        <button class="row-arrow right" aria-label="Próximo" onclick="scrollRow('recentRow',1)">›</button>
+      </div>
+    </section>
+
+    <!-- Popular -->
+    <section class="section section-highlight">
+      <div class="section-header">
+        <div class="left"><span class="icon">🔥</span><h2>Mais Populares</h2></div>
+        <a href="catalog.html?sort=chapters" class="view-all">Ver todos →</a>
+      </div>
+      <div class="row-wrap">
+        <button class="row-arrow left" aria-label="Anterior" onclick="scrollRow('popularRow',-1)">‹</button>
+        <div class="manga-grid row-carousel" id="popularRow"></div>
+        <button class="row-arrow right" aria-label="Próximo" onclick="scrollRow('popularRow',1)">›</button>
+      </div>
+    </section>
+
+    <!-- New / by year -->
+    <section class="section">
+      <div class="section-header">
+        <div class="left"><span class="icon">✨</span><h2>Novidades</h2></div>
+        <a href="catalog.html" class="view-all">Ver todos →</a>
+      </div>
+      <div class="row-wrap">
+        <button class="row-arrow left" aria-label="Anterior" onclick="scrollRow('newRow',-1)">‹</button>
+        <div class="manga-grid row-carousel" id="newRow"></div>
+        <button class="row-arrow right" aria-label="Próximo" onclick="scrollRow('newRow',1)">›</button>
+      </div>
+    </section>
+
+    <!-- Browse by Genre -->
+    <section class="section section-genre">
+      <div class="section-header">
+        <div class="left"><span class="icon">🏷️</span><h2>Explorar por Gênero</h2></div>
+      </div>
+      <div class="genre-wall" id="genreQuickNav"></div>
+    </section>
+  </div>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <div class="logo">Manga<span class="accent">Bankai</span><span class="dot"></span></div>
+          <p>Sua plataforma para ler mangás online. Todos os links são fornecidos por parceiros legais autorizados.</p>
+        </div>
+        <div>
+          <h4>Navegação</h4>
+          <ul>
+            <li><a href="index.html">Início</a></li>
+            <li><a href="catalog.html">Catálogo</a></li>
+            <li><a href="terms.html">Termos de Uso</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Gêneros</h4>
+          <ul id="footerGenres"></ul>
+        </div>
+        <div>
+          <h4>Status</h4>
+          <ul>
+            <li><a href="catalog.html">Em Andamento</a></li>
+            <li><a href="catalog.html">Completo</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2026 MangaBankai. Lages-SC. Os links deste site são de fontes legais e autorizadas.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/data-lite.js"></script>
+  <script src="js/main.js"></script>
+  <script>
+    // ========== STATS (imediato) ==========
+    document.getElementById('statMangas').textContent = MANGA_DATA.length.toLocaleString('pt-BR');
+    document.getElementById('statChapters').textContent = MANGA_DATA.reduce((s, m) => s + (m.chaptersCount || 0), 0).toLocaleString('pt-BR');
+    document.getElementById('statGenres').textContent = getAvailableGenres().length;
+    document.getElementById('statAuthors').textContent = [...new Set(MANGA_DATA.map(m => m.author))].length.toLocaleString('pt-BR');
+
+    // ========== GENRE PILLS ==========
+    const colors = ['#e53935','#ffb300','#7c4dff','#ff6b35','#00bcd4','#5c6bc0','#43a047','#78909c','#7b1fa2','#546e7a','#1565c0','#00897b'];
+    document.getElementById('genreQuickNav').innerHTML = getAvailableGenres().map((g, i) =>
+      '<a href="catalog.html?genre=' + encodeURIComponent(g) + '" class="genre-pill" style="--g-color:' + colors[i % colors.length] + '">' + g + '</a>'
+    ).join('');
+    document.getElementById('footerGenres').innerHTML = getAvailableGenres().slice(0, 8).map(function(g) {
+      return '<li><a href="catalog.html?genre=' + encodeURIComponent(g) + '">' + g + '</a></li>';
+    }).join('');
+
+    // ========== CONTINUE READING ==========
+    (function() {
+      const entries = Object.entries(getAllProgress());
+      if (entries.length === 0) return;
+      const section = document.getElementById('continueSection');
+      const grid = document.getElementById('continueGrid');
+      const _crAdult = typeof localStorage !== 'undefined' && localStorage.getItem('ms_adult_mode') === 'true';
+      const _crAdultGenres = ['Adulto', 'Hentai', 'Ecchi', 'Mature', 'Smut'];
+      const items = entries.sort((a, b) => (b[1].updatedAt || 0) - (a[1].updatedAt || 0)).slice(0, 6).map(([mangaId, prog]) => {
+        const manga = getManga(mangaId);
+        if (!manga) return '';
+        if (!_crAdult && (_crAdultGenres.some(g => (manga.genres || []).includes(g)))) return '';
+        const pct = prog.totalPages > 0 ? Math.min(100, Math.round((prog.pageIndex / prog.totalPages) * 100)) : 0;
+        return `
+          <div class="continue-item" onclick="window.location.href='reader.html?manga=${mangaId}&chapter=${prog.chapterId}'">
+            <img src="${manga.cover}" alt="${manga.title}" referrerPolicy="no-referrer" onerror="this.src='https://placehold.co/50x68/1a1a1a/444?text=?'">
+            <div class="ci-info">
+              <h4>${manga.title}</h4>
+              <div class="ci-chap">Cap. ${prog.chapterId} · ${pct}%</div>
+              <div class="ci-progress"><div class="ci-fill" style="width:${pct}%"></div></div>
+            </div>
+          </div>`;
+      }).filter(Boolean).join('');
+      if (items) { grid.innerHTML = items; section.style.display = 'block'; }
+    })();
+
+    // ========== RECÊNCIA (home.json) → HERO + FILEIRAS ==========
+    (async function() {
+      let home = null;
+      try {
+        const res = await fetch('js/home.json', { cache: 'no-cache' });
+        if (res.ok) { home = await res.json(); window.HOME_DATA = home; }
+      } catch (e) {}
+
+      // Lista "atualizados recentemente" a partir do home.json (com fallback).
+      let recent = [];
+      if (home && Array.isArray(home.recent)) {
+        recent = home.recent.map(r => getManga(r.id)).filter(Boolean);
+        const _hrAdult = typeof localStorage !== 'undefined' && localStorage.getItem('ms_adult_mode') === 'true';
+        if (!_hrAdult) {
+          const _hrAdultGenres = ['Adulto', 'Hentai', 'Ecchi', 'Mature', 'Smut'];
+          recent = recent.filter(m => !_hrAdultGenres.some(g => (m.genres || []).includes(g)));
+        }
+      }
+      const byChapters = [...MANGA_DATA].sort((a, b) => (b.chaptersCount || 0) - (a.chaptersCount || 0));
+      if (recent.length === 0) recent = byChapters; // fallback se não houver home.json
+
+      const popular = byChapters.slice(0, 24);
+      const novidades = [...MANGA_DATA].sort((a, b) => (b.year || 0) - (a.year || 0)).slice(0, 24);
+
+      // HERO curado: dentre os recém-atualizados, prioriza os mais populares.
+      const heroPool = (recent.length >= 5 ? recent.slice(0, 25) : byChapters.slice(0, 25));
+      const hero = [...heroPool].sort((a, b) => (b.chaptersCount || 0) - (a.chaptersCount || 0)).slice(0, 5);
+      buildHero(hero);
+
+      // Fileiras
+      renderCarousel(recent.slice(0, 24), 'recentRow');
+      renderCarousel(popular, 'popularRow');
+      renderCarousel(novidades, 'newRow');
+    })();
+
+    // ========== HERO ==========
+    function buildHero(list) {
+      const carousel = document.getElementById('heroCarousel');
+      const dots = document.getElementById('heroDots');
+      if (!carousel || list.length === 0) return;
+      let current = 0, autoTimer;
+
+      carousel.innerHTML = list.map((m, i) => {
+        const info = (window.HOME_DATA && window.HOME_DATA.updated && window.HOME_DATA.updated[m.id]) || null;
+        const chip = info ? `<span class="hero-badge accent">Cap. ${info.ch}${info.date ? ' · ' + relativeTime(info.date) : ''}</span>` : '';
+        return `
+        <div class="hero-slide ${i === 0 ? 'active' : ''}" data-index="${i}">
+          <div class="hero-bg" style="background-image:url('${m.cover}')"></div>
+          <div class="hero-poster">
+            <img src="${m.cover}" alt="${m.title}" referrerPolicy="no-referrer" onerror="this.style.display='none'">
+          </div>
+          <div class="content">
+            <div class="hero-badges">
+              <span class="hero-badge">${m.status === 'ongoing' ? 'Em Andamento' : 'Completo'}</span>
+              ${chip}
+            </div>
+            <h1>${m.title}</h1>
+            <div class="hero-meta">
+              <span>${m.year || ''}</span>
+              <span>${(m.genres || []).slice(0, 3).join(' · ')}</span>
+              <span>${m.author || ''}</span>
+            </div>
+            <p class="hero-desc">${m.description || ''}</p>
+            <div class="hero-actions">
+              <a href="manga.html?id=${m.id}" class="btn btn-primary">📖 Ler agora</a>
+              <a href="manga.html?id=${m.id}" class="btn btn-secondary">Detalhes</a>
+            </div>
+          </div>
+        </div>`;
+      }).join('');
+
+      dots.innerHTML = list.map((_, i) => `<button class="${i === 0 ? 'active' : ''}" onclick="goToSlide(${i})"></button>`).join('');
+      window.goToSlide = (idx) => {
+        document.querySelectorAll('.hero-slide').forEach((s, i) => s.classList.toggle('active', i === idx));
+        document.querySelectorAll('.hero-dots button').forEach((b, i) => b.classList.toggle('active', i === idx));
+        current = idx; resetAuto();
+      };
+      function nextSlide() { goToSlide((current + 1) % list.length); }
+      function resetAuto() { clearInterval(autoTimer); autoTimer = setInterval(nextSlide, 5500); }
+      resetAuto();
+
+      // Arraste do mouse / swipe para trocar de slide
+      let dragX = null, dragged = false;
+      carousel.style.cursor = 'grab';
+      carousel.addEventListener('dragstart', e => e.preventDefault());
+      carousel.addEventListener('pointerdown', (e) => { dragX = e.clientX; dragged = false; carousel.style.cursor = 'grabbing'; });
+      carousel.addEventListener('pointermove', (e) => { if (dragX !== null && Math.abs(e.clientX - dragX) > 8) dragged = true; });
+      const endDrag = (e) => {
+        carousel.style.cursor = 'grab';
+        if (dragX === null) return;
+        const dx = (e.clientX || dragX) - dragX;
+        dragX = null;
+        if (Math.abs(dx) > 50) {
+          if (dx < 0) goToSlide((current + 1) % list.length);
+          else goToSlide((current - 1 + list.length) % list.length);
+        }
+      };
+      carousel.addEventListener('pointerup', endDrag);
+      carousel.addEventListener('pointerleave', endDrag);
+      // Evita que um arraste vire clique no botão "Ler agora"
+      carousel.addEventListener('click', (e) => { if (dragged) { e.preventDefault(); e.stopPropagation(); } }, true);
+    }
+
+    // Rolagem das fileiras pelos botões ‹ ›
+    window.scrollRow = function(id, dir) {
+      const el = document.getElementById(id);
+      if (el) el.scrollBy({ left: dir * Math.round(el.clientWidth * 0.85), behavior: 'smooth' });
+    };
+  </script>
+</body>
+</html>

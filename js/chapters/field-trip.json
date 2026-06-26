@@ -1,0 +1,32 @@
+{
+  "en": [
+    {
+      "id": "field-trip-1",
+      "number": "1",
+      "title": "",
+      "date": "2013/01/02",
+      "pages": []
+    },
+    {
+      "id": "field-trip-2",
+      "number": "2",
+      "title": "",
+      "date": "2013/01/02",
+      "pages": []
+    },
+    {
+      "id": "field-trip-3",
+      "number": "3",
+      "title": "",
+      "date": "2013/01/02",
+      "pages": []
+    },
+    {
+      "id": "field-trip-4",
+      "number": "4",
+      "title": "",
+      "date": "2019/02/06",
+      "pages": []
+    }
+  ]
+}

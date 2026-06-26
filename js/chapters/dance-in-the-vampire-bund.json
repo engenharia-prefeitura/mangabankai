@@ -1,0 +1,585 @@
+{
+  "en": [
+    {
+      "id": "dance-in-the-vampire-bund-1",
+      "number": "1",
+      "title": "The Covenant",
+      "date": "2009/10/17",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-2",
+      "number": "2",
+      "title": "Choice",
+      "date": "2009/10/17",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-3",
+      "number": "3",
+      "title": "Ruler of the Vampires",
+      "date": "2009/10/17",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-4",
+      "number": "4",
+      "title": "Interview with a Vampire",
+      "date": "2009/10/17",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-5",
+      "number": "5",
+      "title": "Night of the Carnival",
+      "date": "2009/10/17",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-6",
+      "number": "6",
+      "title": "Good Night, Sleep Tight",
+      "date": "2009/10/17",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-7",
+      "number": "7",
+      "title": "To a New Battlefield",
+      "date": "2009/10/17",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-8",
+      "number": "8",
+      "title": "Lost in High School",
+      "date": "2009/10/17",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-9",
+      "number": "9",
+      "title": "Sinister Bolero",
+      "date": "2009/10/17",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-10",
+      "number": "10",
+      "title": "I Cant See You",
+      "date": "2009/10/17",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-11",
+      "number": "11",
+      "title": "Corrupt Academy",
+      "date": "2009/10/17",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-12",
+      "number": "12",
+      "title": "Shape of my Heart",
+      "date": "2009/10/17",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-13",
+      "number": "13",
+      "title": "A Solemn Promise",
+      "date": "2009/10/17",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-14",
+      "number": "14",
+      "title": "Moving Shadows",
+      "date": "2009/10/17",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-15",
+      "number": "15",
+      "title": "Children of the Night",
+      "date": "2009/10/17",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-16",
+      "number": "16",
+      "title": "Werewolf - Beowulf",
+      "date": "2009/10/17",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-17",
+      "number": "17",
+      "title": "Strategic Chess Game",
+      "date": "2009/10/17",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-18",
+      "number": "18",
+      "title": "Sacrifice",
+      "date": "2009/10/17",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-19",
+      "number": "19",
+      "title": "Body and Mind",
+      "date": "2009/10/17",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-20",
+      "number": "20",
+      "title": "Out of Silence",
+      "date": "2009/10/17",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-21",
+      "number": "21",
+      "title": "The Kings of Darkness",
+      "date": "2009/10/17",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-22",
+      "number": "22",
+      "title": "Target, Kaburagi Akira",
+      "date": "2009/10/17",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-23",
+      "number": "23",
+      "title": "The Fresh Blooded Maiden",
+      "date": "2009/10/17",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-24",
+      "number": "24",
+      "title": "Cross now the river of rage",
+      "date": "2009/10/17",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-25",
+      "number": "25",
+      "title": "Two in a Town of Darkness",
+      "date": "2009/10/17",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-26",
+      "number": "26",
+      "title": "Intermedio",
+      "date": "2009/10/22",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-27",
+      "number": "27",
+      "title": "Sneak The Underground",
+      "date": "2009/11/19",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-28",
+      "number": "28",
+      "title": "The Honeybee s Whisper",
+      "date": "2009/11/30",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-29",
+      "number": "29",
+      "title": "The Only Serene Method",
+      "date": "2009/12/09",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-30",
+      "number": "30",
+      "title": "Craddle Will Rock",
+      "date": "2009/12/09",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-31",
+      "number": "31",
+      "title": "A Man of Determination",
+      "date": "2009/12/09",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-32",
+      "number": "32",
+      "title": "32",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-33",
+      "number": "33",
+      "title": "Standart Daytime",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-34",
+      "number": "34",
+      "title": "The Queen's Werewolf",
+      "date": "2010/02/24",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-35",
+      "number": "35",
+      "title": "Birds Flying On The Same Wings",
+      "date": "2010/03/08",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-36",
+      "number": "36",
+      "title": "Passion Play",
+      "date": "2010/03/29",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-37",
+      "number": "37",
+      "title": "What a Wonderful World",
+      "date": "2010/04/11",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-38",
+      "number": "38",
+      "title": "Demon Seed",
+      "date": "2010/05/22",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-39",
+      "number": "39",
+      "title": "The Wolf s Crest",
+      "date": "2010/06/18",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-40",
+      "number": "40",
+      "title": "The Mark Of The Wolf",
+      "date": "2010/07/25",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-41",
+      "number": "41",
+      "title": "The Wolves`Afternoon",
+      "date": "2010/08/05",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-42",
+      "number": "42",
+      "title": "42",
+      "date": "2010/09/05",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-43",
+      "number": "43",
+      "title": "Wolf, Never Cry",
+      "date": "2010/09/08",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-44",
+      "number": "44",
+      "title": "Visitors",
+      "date": "2010/09/08",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-45",
+      "number": "45",
+      "title": "Nothing Hurt",
+      "date": "2011/01/22",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-46",
+      "number": "46",
+      "title": "Family Plot",
+      "date": "2011/05/13",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-47",
+      "number": "47",
+      "title": "Jaw",
+      "date": "2011/06/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-48",
+      "number": "48",
+      "title": "Lamentation",
+      "date": "2011/08/13",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-49",
+      "number": "49",
+      "title": "For The Possible Treachery, Name The Dog",
+      "date": "2011/08/13",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-50",
+      "number": "50",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-51",
+      "number": "51",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-52",
+      "number": "52",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-53",
+      "number": "53",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-54",
+      "number": "54",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-55",
+      "number": "55",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-56",
+      "number": "56",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-57",
+      "number": "57",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-58",
+      "number": "58",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-59",
+      "number": "59",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-60",
+      "number": "60",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-61",
+      "number": "61",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-62",
+      "number": "62",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-63",
+      "number": "63",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-64",
+      "number": "64",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-65",
+      "number": "65",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-66",
+      "number": "66",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-67",
+      "number": "67",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-68",
+      "number": "68",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-69",
+      "number": "69",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-70",
+      "number": "70",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-71",
+      "number": "71",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-72",
+      "number": "72",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-73",
+      "number": "73",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-74",
+      "number": "74",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-75",
+      "number": "75",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-76",
+      "number": "76",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-77",
+      "number": "77",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-78",
+      "number": "78",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-79",
+      "number": "79",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-80",
+      "number": "80",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-81",
+      "number": "81",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-82",
+      "number": "82",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "dance-in-the-vampire-bund-82e",
+      "number": "82e",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    }
+  ]
+}

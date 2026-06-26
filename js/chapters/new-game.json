@@ -1,0 +1,1959 @@
+{
+  "en": [
+    {
+      "id": "new-game-1",
+      "number": "1",
+      "title": "",
+      "date": "2014/11/11",
+      "pages": []
+    },
+    {
+      "id": "new-game-2",
+      "number": "2",
+      "title": "",
+      "date": "2014/11/11",
+      "pages": []
+    },
+    {
+      "id": "new-game-3",
+      "number": "3",
+      "title": "",
+      "date": "2014/11/11",
+      "pages": []
+    },
+    {
+      "id": "new-game-4",
+      "number": "4",
+      "title": "",
+      "date": "2015/01/14",
+      "pages": []
+    },
+    {
+      "id": "new-game-5",
+      "number": "5",
+      "title": "",
+      "date": "2015/03/02",
+      "pages": []
+    },
+    {
+      "id": "new-game-6",
+      "number": "6",
+      "title": "",
+      "date": "2015/03/02",
+      "pages": []
+    },
+    {
+      "id": "new-game-7",
+      "number": "7",
+      "title": "",
+      "date": "2015/03/02",
+      "pages": []
+    },
+    {
+      "id": "new-game-8",
+      "number": "8",
+      "title": "",
+      "date": "2015/05/21",
+      "pages": []
+    },
+    {
+      "id": "new-game-9",
+      "number": "9",
+      "title": "",
+      "date": "2015/05/21",
+      "pages": []
+    },
+    {
+      "id": "new-game-10",
+      "number": "10",
+      "title": "",
+      "date": "2015/05/21",
+      "pages": []
+    },
+    {
+      "id": "new-game-11",
+      "number": "11",
+      "title": "",
+      "date": "2015/05/21",
+      "pages": []
+    },
+    {
+      "id": "new-game-12",
+      "number": "12",
+      "title": "",
+      "date": "2015/05/21",
+      "pages": []
+    },
+    {
+      "id": "new-game-13",
+      "number": "13",
+      "title": "",
+      "date": "2015/06/12",
+      "pages": []
+    },
+    {
+      "id": "new-game-14",
+      "number": "14",
+      "title": "",
+      "date": "2015/06/23",
+      "pages": []
+    },
+    {
+      "id": "new-game-15",
+      "number": "15",
+      "title": "",
+      "date": "2015/06/27",
+      "pages": []
+    },
+    {
+      "id": "new-game-16",
+      "number": "16",
+      "title": "",
+      "date": "2015/07/09",
+      "pages": []
+    },
+    {
+      "id": "new-game-17",
+      "number": "17",
+      "title": "",
+      "date": "2015/07/12",
+      "pages": []
+    },
+    {
+      "id": "new-game-18",
+      "number": "18",
+      "title": "",
+      "date": "2015/07/18",
+      "pages": []
+    },
+    {
+      "id": "new-game-19",
+      "number": "19",
+      "title": "",
+      "date": "2015/08/21",
+      "pages": []
+    },
+    {
+      "id": "new-game-20",
+      "number": "20",
+      "title": "",
+      "date": "2015/08/28",
+      "pages": []
+    },
+    {
+      "id": "new-game-21",
+      "number": "21",
+      "title": "",
+      "date": "2015/09/24",
+      "pages": []
+    },
+    {
+      "id": "new-game-22",
+      "number": "22",
+      "title": "",
+      "date": "2015/11/01",
+      "pages": []
+    },
+    {
+      "id": "new-game-23",
+      "number": "23",
+      "title": "",
+      "date": "2015/11/13",
+      "pages": []
+    },
+    {
+      "id": "new-game-24",
+      "number": "24",
+      "title": "",
+      "date": "2015/11/13",
+      "pages": []
+    },
+    {
+      "id": "new-game-25",
+      "number": "25",
+      "title": "",
+      "date": "2015/12/01",
+      "pages": []
+    },
+    {
+      "id": "new-game-26",
+      "number": "26",
+      "title": "",
+      "date": "2016/01/27",
+      "pages": []
+    },
+    {
+      "id": "new-game-27",
+      "number": "27",
+      "title": "",
+      "date": "2016/01/31",
+      "pages": []
+    },
+    {
+      "id": "new-game-28",
+      "number": "28",
+      "title": "",
+      "date": "2016/02/16",
+      "pages": []
+    },
+    {
+      "id": "new-game-29",
+      "number": "29",
+      "title": "",
+      "date": "2016/02/16",
+      "pages": []
+    },
+    {
+      "id": "new-game-30",
+      "number": "30",
+      "title": "",
+      "date": "2016/03/29",
+      "pages": []
+    },
+    {
+      "id": "new-game-31",
+      "number": "31",
+      "title": "",
+      "date": "2016/04/08",
+      "pages": []
+    },
+    {
+      "id": "new-game-32",
+      "number": "32",
+      "title": "",
+      "date": "2016/05/05",
+      "pages": []
+    },
+    {
+      "id": "new-game-33",
+      "number": "33",
+      "title": "",
+      "date": "2016/06/30",
+      "pages": []
+    },
+    {
+      "id": "new-game-34",
+      "number": "34",
+      "title": "",
+      "date": "2016/06/30",
+      "pages": []
+    },
+    {
+      "id": "new-game-35",
+      "number": "35",
+      "title": "",
+      "date": "2016/08/04",
+      "pages": []
+    },
+    {
+      "id": "new-game-36",
+      "number": "36",
+      "title": "",
+      "date": "2016/08/09",
+      "pages": []
+    },
+    {
+      "id": "new-game-37",
+      "number": "37",
+      "title": "",
+      "date": "2016/08/14",
+      "pages": []
+    },
+    {
+      "id": "new-game-38",
+      "number": "38",
+      "title": "",
+      "date": "2016/08/23",
+      "pages": []
+    },
+    {
+      "id": "new-game-39",
+      "number": "39",
+      "title": "",
+      "date": "2016/10/02",
+      "pages": []
+    },
+    {
+      "id": "new-game-40",
+      "number": "40",
+      "title": "",
+      "date": "2017/06/21",
+      "pages": []
+    },
+    {
+      "id": "new-game-41",
+      "number": "41",
+      "title": "",
+      "date": "2017/06/21",
+      "pages": []
+    },
+    {
+      "id": "new-game-42",
+      "number": "42",
+      "title": "",
+      "date": "2017/06/21",
+      "pages": []
+    },
+    {
+      "id": "new-game-43",
+      "number": "43",
+      "title": "",
+      "date": "2017/06/21",
+      "pages": []
+    },
+    {
+      "id": "new-game-44",
+      "number": "44",
+      "title": "",
+      "date": "2017/06/21",
+      "pages": []
+    },
+    {
+      "id": "new-game-45",
+      "number": "45",
+      "title": "",
+      "date": "2017/07/11",
+      "pages": []
+    },
+    {
+      "id": "new-game-46",
+      "number": "46",
+      "title": "",
+      "date": "2017/07/11",
+      "pages": []
+    },
+    {
+      "id": "new-game-47",
+      "number": "47",
+      "title": "",
+      "date": "2017/07/17",
+      "pages": []
+    },
+    {
+      "id": "new-game-48",
+      "number": "48",
+      "title": "",
+      "date": "2017/07/17",
+      "pages": []
+    },
+    {
+      "id": "new-game-49",
+      "number": "49",
+      "title": "",
+      "date": "2017/07/21",
+      "pages": []
+    },
+    {
+      "id": "new-game-50",
+      "number": "50",
+      "title": "",
+      "date": "2017/07/29",
+      "pages": []
+    },
+    {
+      "id": "new-game-51",
+      "number": "51",
+      "title": "",
+      "date": "2017/08/01",
+      "pages": []
+    },
+    {
+      "id": "new-game-52",
+      "number": "52",
+      "title": "",
+      "date": "2017/08/14",
+      "pages": []
+    },
+    {
+      "id": "new-game-53",
+      "number": "53",
+      "title": "",
+      "date": "2017/08/14",
+      "pages": []
+    },
+    {
+      "id": "new-game-54",
+      "number": "54",
+      "title": "",
+      "date": "2017/08/14",
+      "pages": []
+    },
+    {
+      "id": "new-game-55",
+      "number": "55",
+      "title": "",
+      "date": "2017/08/21",
+      "pages": []
+    },
+    {
+      "id": "new-game-56",
+      "number": "56",
+      "title": "",
+      "date": "2017/08/21",
+      "pages": []
+    },
+    {
+      "id": "new-game-57",
+      "number": "57",
+      "title": "",
+      "date": "2017/08/30",
+      "pages": []
+    },
+    {
+      "id": "new-game-58",
+      "number": "58",
+      "title": "",
+      "date": "2017/08/30",
+      "pages": []
+    },
+    {
+      "id": "new-game-59",
+      "number": "59",
+      "title": "",
+      "date": "2017/09/04",
+      "pages": []
+    },
+    {
+      "id": "new-game-60",
+      "number": "60",
+      "title": "",
+      "date": "2017/09/13",
+      "pages": []
+    },
+    {
+      "id": "new-game-61",
+      "number": "61",
+      "title": "",
+      "date": "2017/09/13",
+      "pages": []
+    },
+    {
+      "id": "new-game-62",
+      "number": "62",
+      "title": "",
+      "date": "2017/09/19",
+      "pages": []
+    },
+    {
+      "id": "new-game-63",
+      "number": "63",
+      "title": "",
+      "date": "2018/01/26",
+      "pages": []
+    },
+    {
+      "id": "new-game-64",
+      "number": "64",
+      "title": "",
+      "date": "2018/01/26",
+      "pages": []
+    },
+    {
+      "id": "new-game-65",
+      "number": "65",
+      "title": "",
+      "date": "2018/01/26",
+      "pages": []
+    },
+    {
+      "id": "new-game-66",
+      "number": "66",
+      "title": "",
+      "date": "2018/01/26",
+      "pages": []
+    },
+    {
+      "id": "new-game-67",
+      "number": "67",
+      "title": "",
+      "date": "2018/01/26",
+      "pages": []
+    },
+    {
+      "id": "new-game-68",
+      "number": "68",
+      "title": "",
+      "date": "2018/01/26",
+      "pages": []
+    },
+    {
+      "id": "new-game-69",
+      "number": "69",
+      "title": "",
+      "date": "2018/01/26",
+      "pages": []
+    },
+    {
+      "id": "new-game-70",
+      "number": "70",
+      "title": "",
+      "date": "2018/02/20",
+      "pages": []
+    },
+    {
+      "id": "new-game-71",
+      "number": "71",
+      "title": "",
+      "date": "2018/03/29",
+      "pages": []
+    },
+    {
+      "id": "new-game-72",
+      "number": "72",
+      "title": "",
+      "date": "2018/03/29",
+      "pages": []
+    },
+    {
+      "id": "new-game-73",
+      "number": "73",
+      "title": "",
+      "date": "2018/03/29",
+      "pages": []
+    },
+    {
+      "id": "new-game-74",
+      "number": "74",
+      "title": "",
+      "date": "2018/04/16",
+      "pages": []
+    },
+    {
+      "id": "new-game-75",
+      "number": "75",
+      "title": "",
+      "date": "2018/05/06",
+      "pages": []
+    },
+    {
+      "id": "new-game-76",
+      "number": "76",
+      "title": "",
+      "date": "2018/05/21",
+      "pages": []
+    },
+    {
+      "id": "new-game-77",
+      "number": "77",
+      "title": "",
+      "date": "2018/06/08",
+      "pages": []
+    },
+    {
+      "id": "new-game-78",
+      "number": "78",
+      "title": "",
+      "date": "2018/06/22",
+      "pages": []
+    },
+    {
+      "id": "new-game-79",
+      "number": "79",
+      "title": "",
+      "date": "2018/08/18",
+      "pages": []
+    },
+    {
+      "id": "new-game-80",
+      "number": "80",
+      "title": "",
+      "date": "2019/01/29",
+      "pages": []
+    },
+    {
+      "id": "new-game-81",
+      "number": "81",
+      "title": "",
+      "date": "2019/01/29",
+      "pages": []
+    },
+    {
+      "id": "new-game-82",
+      "number": "82",
+      "title": "",
+      "date": "2019/02/23",
+      "pages": []
+    },
+    {
+      "id": "new-game-83",
+      "number": "83",
+      "title": "",
+      "date": "2019/05/22",
+      "pages": []
+    },
+    {
+      "id": "new-game-84",
+      "number": "84",
+      "title": "",
+      "date": "2019/07/17",
+      "pages": []
+    },
+    {
+      "id": "new-game-85",
+      "number": "85",
+      "title": "",
+      "date": "2019/07/20",
+      "pages": []
+    },
+    {
+      "id": "new-game-86",
+      "number": "86",
+      "title": "",
+      "date": "2019/07/23",
+      "pages": []
+    },
+    {
+      "id": "new-game-87",
+      "number": "87",
+      "title": "",
+      "date": "2019/07/25",
+      "pages": []
+    },
+    {
+      "id": "new-game-88",
+      "number": "88",
+      "title": "",
+      "date": "2019/11/21",
+      "pages": []
+    },
+    {
+      "id": "new-game-89",
+      "number": "89",
+      "title": "",
+      "date": "2019/11/21",
+      "pages": []
+    },
+    {
+      "id": "new-game-90",
+      "number": "90",
+      "title": "",
+      "date": "2019/11/21",
+      "pages": []
+    },
+    {
+      "id": "new-game-91",
+      "number": "91",
+      "title": "",
+      "date": "2019/11/21",
+      "pages": []
+    },
+    {
+      "id": "new-game-92",
+      "number": "92",
+      "title": "",
+      "date": "2019/11/21",
+      "pages": []
+    },
+    {
+      "id": "new-game-93",
+      "number": "93",
+      "title": "",
+      "date": "2019/11/21",
+      "pages": []
+    },
+    {
+      "id": "new-game-94",
+      "number": "94",
+      "title": "",
+      "date": "2019/11/21",
+      "pages": []
+    },
+    {
+      "id": "new-game-95",
+      "number": "95",
+      "title": "",
+      "date": "2019/11/21",
+      "pages": []
+    },
+    {
+      "id": "new-game-96",
+      "number": "96",
+      "title": "",
+      "date": "2019/11/21",
+      "pages": []
+    },
+    {
+      "id": "new-game-97",
+      "number": "97",
+      "title": "",
+      "date": "2019/12/19",
+      "pages": []
+    },
+    {
+      "id": "new-game-98",
+      "number": "98",
+      "title": "",
+      "date": "2020/01/27",
+      "pages": []
+    },
+    {
+      "id": "new-game-99",
+      "number": "99",
+      "title": "",
+      "date": "2020/02/07",
+      "pages": []
+    },
+    {
+      "id": "new-game-100",
+      "number": "100",
+      "title": "",
+      "date": "2020/02/29",
+      "pages": []
+    },
+    {
+      "id": "new-game-101",
+      "number": "101",
+      "title": "",
+      "date": "2020/03/12",
+      "pages": []
+    },
+    {
+      "id": "new-game-102",
+      "number": "102",
+      "title": "",
+      "date": "2020/05/27",
+      "pages": []
+    },
+    {
+      "id": "new-game-103",
+      "number": "103",
+      "title": "",
+      "date": "2020/09/07",
+      "pages": []
+    },
+    {
+      "id": "new-game-104",
+      "number": "104",
+      "title": "",
+      "date": "2020/09/08",
+      "pages": []
+    },
+    {
+      "id": "new-game-105",
+      "number": "105",
+      "title": "",
+      "date": "2020/09/08",
+      "pages": []
+    },
+    {
+      "id": "new-game-106",
+      "number": "106",
+      "title": "",
+      "date": "2020/09/08",
+      "pages": []
+    },
+    {
+      "id": "new-game-107",
+      "number": "107",
+      "title": "",
+      "date": "2020/09/09",
+      "pages": []
+    },
+    {
+      "id": "new-game-108",
+      "number": "108",
+      "title": "",
+      "date": "2020/09/09",
+      "pages": []
+    },
+    {
+      "id": "new-game-109",
+      "number": "109",
+      "title": "",
+      "date": "2020/09/10",
+      "pages": []
+    },
+    {
+      "id": "new-game-110",
+      "number": "110",
+      "title": "",
+      "date": "2020/09/10",
+      "pages": []
+    },
+    {
+      "id": "new-game-111",
+      "number": "111",
+      "title": "",
+      "date": "2020/09/11",
+      "pages": []
+    },
+    {
+      "id": "new-game-112",
+      "number": "112",
+      "title": "",
+      "date": "2020/09/11",
+      "pages": []
+    },
+    {
+      "id": "new-game-113",
+      "number": "113",
+      "title": "",
+      "date": "2020/09/11",
+      "pages": []
+    },
+    {
+      "id": "new-game-114",
+      "number": "114",
+      "title": "",
+      "date": "2020/09/11",
+      "pages": []
+    },
+    {
+      "id": "new-game-115",
+      "number": "115",
+      "title": "",
+      "date": "2020/09/11",
+      "pages": []
+    },
+    {
+      "id": "new-game-116",
+      "number": "116",
+      "title": "",
+      "date": "2020/10/07",
+      "pages": []
+    },
+    {
+      "id": "new-game-117",
+      "number": "117",
+      "title": "",
+      "date": "2020/10/08",
+      "pages": []
+    },
+    {
+      "id": "new-game-118",
+      "number": "118",
+      "title": "",
+      "date": "2020/10/11",
+      "pages": []
+    },
+    {
+      "id": "new-game-119",
+      "number": "119",
+      "title": "",
+      "date": "2020/10/14",
+      "pages": []
+    },
+    {
+      "id": "new-game-120",
+      "number": "120",
+      "title": "",
+      "date": "2020/10/15",
+      "pages": []
+    },
+    {
+      "id": "new-game-121",
+      "number": "121",
+      "title": "",
+      "date": "2020/10/16",
+      "pages": []
+    },
+    {
+      "id": "new-game-122",
+      "number": "122",
+      "title": "",
+      "date": "2020/10/16",
+      "pages": []
+    },
+    {
+      "id": "new-game-123",
+      "number": "123",
+      "title": "",
+      "date": "2020/10/19",
+      "pages": []
+    },
+    {
+      "id": "new-game-124",
+      "number": "124",
+      "title": "",
+      "date": "2020/10/22",
+      "pages": []
+    },
+    {
+      "id": "new-game-125",
+      "number": "125",
+      "title": "",
+      "date": "2021/01/27",
+      "pages": []
+    },
+    {
+      "id": "new-game-126",
+      "number": "126",
+      "title": "",
+      "date": "2021/02/02",
+      "pages": []
+    },
+    {
+      "id": "new-game-127",
+      "number": "127",
+      "title": "",
+      "date": "2021/07/09",
+      "pages": []
+    },
+    {
+      "id": "new-game-128",
+      "number": "128",
+      "title": "",
+      "date": "2021/07/09",
+      "pages": []
+    },
+    {
+      "id": "new-game-129",
+      "number": "129",
+      "title": "",
+      "date": "2021/07/09",
+      "pages": []
+    },
+    {
+      "id": "new-game-130",
+      "number": "130",
+      "title": "",
+      "date": "2021/07/09",
+      "pages": []
+    },
+    {
+      "id": "new-game-131",
+      "number": "131",
+      "title": "",
+      "date": "2021/07/09",
+      "pages": []
+    },
+    {
+      "id": "new-game-132",
+      "number": "132",
+      "title": "",
+      "date": "2021/07/09",
+      "pages": []
+    },
+    {
+      "id": "new-game-133",
+      "number": "133",
+      "title": "",
+      "date": "2021/07/16",
+      "pages": []
+    },
+    {
+      "id": "new-game-134",
+      "number": "134",
+      "title": "",
+      "date": "2021/07/27",
+      "pages": []
+    },
+    {
+      "id": "new-game-135",
+      "number": "135",
+      "title": "",
+      "date": "2021/07/27",
+      "pages": []
+    },
+    {
+      "id": "new-game-136",
+      "number": "136",
+      "title": "",
+      "date": "2021/08/04",
+      "pages": []
+    },
+    {
+      "id": "new-game-137",
+      "number": "137",
+      "title": "",
+      "date": "2021/08/13",
+      "pages": []
+    },
+    {
+      "id": "new-game-138",
+      "number": "138",
+      "title": "",
+      "date": "2021/08/20",
+      "pages": []
+    },
+    {
+      "id": "new-game-139",
+      "number": "139",
+      "title": "",
+      "date": "2021/08/26",
+      "pages": []
+    },
+    {
+      "id": "new-game-140",
+      "number": "140",
+      "title": "",
+      "date": "2021/09/02",
+      "pages": []
+    },
+    {
+      "id": "new-game-141",
+      "number": "141",
+      "title": "",
+      "date": "2021/09/04",
+      "pages": []
+    },
+    {
+      "id": "new-game-142",
+      "number": "142",
+      "title": "",
+      "date": "2021/11/08",
+      "pages": []
+    },
+    {
+      "id": "new-game-143",
+      "number": "143",
+      "title": "",
+      "date": "2021/11/20",
+      "pages": []
+    },
+    {
+      "id": "new-game-144",
+      "number": "144",
+      "title": "",
+      "date": "2022/02/08",
+      "pages": []
+    },
+    {
+      "id": "new-game-145",
+      "number": "145",
+      "title": "",
+      "date": "2022/02/08",
+      "pages": []
+    },
+    {
+      "id": "new-game-146",
+      "number": "146",
+      "title": "",
+      "date": "2022/02/09",
+      "pages": []
+    },
+    {
+      "id": "new-game-147",
+      "number": "147",
+      "title": "",
+      "date": "2022/02/14",
+      "pages": []
+    },
+    {
+      "id": "new-game-148",
+      "number": "148",
+      "title": "",
+      "date": "2022/02/14",
+      "pages": []
+    },
+    {
+      "id": "new-game-149",
+      "number": "149",
+      "title": "",
+      "date": "2022/02/20",
+      "pages": []
+    },
+    {
+      "id": "new-game-150",
+      "number": "150",
+      "title": "",
+      "date": "2022/02/22",
+      "pages": []
+    },
+    {
+      "id": "new-game-151",
+      "number": "151",
+      "title": "",
+      "date": "2022/02/23",
+      "pages": []
+    },
+    {
+      "id": "new-game-152",
+      "number": "152",
+      "title": "",
+      "date": "2022/02/24",
+      "pages": []
+    },
+    {
+      "id": "new-game-152b",
+      "number": "152b",
+      "title": "",
+      "date": "2022/04/19",
+      "pages": []
+    }
+  ],
+  "pt": [
+    {
+      "id": "new-game-chapter-1",
+      "number": 1,
+      "title": "NEW GAME! – Capítulo 1",
+      "date": "2025-11-11T21:25:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 921910
+    },
+    {
+      "id": "new-game-chapter-2",
+      "number": 2,
+      "title": "NEW GAME! – Capítulo 2",
+      "date": "2025-11-11T21:25:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 921915
+    },
+    {
+      "id": "new-game-chapter-3",
+      "number": 3,
+      "title": "NEW GAME! – Capítulo 3",
+      "date": "2025-11-11T21:25:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 921911
+    },
+    {
+      "id": "new-game-chapter-4",
+      "number": 4,
+      "title": "NEW GAME! – Capítulo 4",
+      "date": "2025-11-11T21:25:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 921916
+    },
+    {
+      "id": "new-game-chapter-5",
+      "number": 5,
+      "title": "NEW GAME! – Capítulo 5",
+      "date": "2025-11-11T21:25:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 921914
+    },
+    {
+      "id": "new-game-chapter-6",
+      "number": 6,
+      "title": "NEW GAME! – Capítulo 6",
+      "date": "2025-11-11T21:25:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 921917
+    },
+    {
+      "id": "new-game-chapter-7",
+      "number": 7,
+      "title": "NEW GAME! – Capítulo 7",
+      "date": "2025-11-11T21:25:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 921913
+    },
+    {
+      "id": "new-game-chapter-8",
+      "number": 8,
+      "title": "NEW GAME! – Capítulo 8",
+      "date": "2025-11-11T21:25:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 921918
+    },
+    {
+      "id": "new-game-chapter-9",
+      "number": 9,
+      "title": "NEW GAME! – Capítulo 9",
+      "date": "2025-11-11T21:25:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 921912
+    },
+    {
+      "id": "new-game-chapter-10",
+      "number": 10,
+      "title": "NEW GAME! – Capítulo 10",
+      "date": "2025-11-11T21:25:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 921919
+    },
+    {
+      "id": "new-game-chapter-11",
+      "number": 11,
+      "title": "NEW GAME! – Capítulo 11",
+      "date": "2025-11-11T21:26:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922052
+    },
+    {
+      "id": "new-game-chapter-12",
+      "number": 12,
+      "title": "NEW GAME! – Capítulo 12",
+      "date": "2025-11-11T21:26:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922049
+    },
+    {
+      "id": "new-game-chapter-12.5",
+      "number": 12.5,
+      "title": "NEW GAME! – Capítulo 12.5",
+      "date": "2025-11-11T21:26:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922053
+    },
+    {
+      "id": "new-game-chapter-13",
+      "number": 13,
+      "title": "NEW GAME! – Capítulo 13",
+      "date": "2025-11-11T21:26:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922045
+    },
+    {
+      "id": "new-game-chapter-14",
+      "number": 14,
+      "title": "NEW GAME! – Capítulo 14",
+      "date": "2025-11-11T21:26:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922048
+    },
+    {
+      "id": "new-game-chapter-15",
+      "number": 15,
+      "title": "NEW GAME! – Capítulo 15",
+      "date": "2025-11-11T21:26:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922046
+    },
+    {
+      "id": "new-game-chapter-16",
+      "number": 16,
+      "title": "NEW GAME! – Capítulo 16",
+      "date": "2025-11-11T21:26:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922050
+    },
+    {
+      "id": "new-game-chapter-17",
+      "number": 17,
+      "title": "NEW GAME! – Capítulo 17",
+      "date": "2025-11-11T21:26:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922054
+    },
+    {
+      "id": "new-game-chapter-18",
+      "number": 18,
+      "title": "NEW GAME! – Capítulo 18",
+      "date": "2025-11-11T21:26:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922047
+    },
+    {
+      "id": "new-game-chapter-19",
+      "number": 19,
+      "title": "NEW GAME! – Capítulo 19",
+      "date": "2025-11-11T21:26:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922051
+    },
+    {
+      "id": "new-game-chapter-20",
+      "number": 20,
+      "title": "NEW GAME! – Capítulo 20",
+      "date": "2025-11-11T21:26:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922174
+    },
+    {
+      "id": "new-game-chapter-21",
+      "number": 21,
+      "title": "NEW GAME! – Capítulo 21",
+      "date": "2025-11-11T21:26:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922173
+    },
+    {
+      "id": "new-game-chapter-22",
+      "number": 22,
+      "title": "NEW GAME! – Capítulo 22",
+      "date": "2025-11-11T21:26:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922175
+    },
+    {
+      "id": "new-game-chapter-23",
+      "number": 23,
+      "title": "NEW GAME! – Capítulo 23",
+      "date": "2025-11-11T21:26:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922177
+    },
+    {
+      "id": "new-game-chapter-24",
+      "number": 24,
+      "title": "NEW GAME! – Capítulo 24",
+      "date": "2025-11-11T21:26:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922176
+    },
+    {
+      "id": "new-game-chapter-25",
+      "number": 25,
+      "title": "NEW GAME! – Capítulo 25",
+      "date": "2025-11-11T21:26:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922179
+    },
+    {
+      "id": "new-game-chapter-26",
+      "number": 26,
+      "title": "NEW GAME! – Capítulo 26",
+      "date": "2025-11-11T21:26:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922182
+    },
+    {
+      "id": "new-game-chapter-27",
+      "number": 27,
+      "title": "NEW GAME! – Capítulo 27",
+      "date": "2025-11-11T21:26:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922178
+    },
+    {
+      "id": "new-game-chapter-28",
+      "number": 28,
+      "title": "NEW GAME! – Capítulo 28",
+      "date": "2025-11-11T21:26:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922180
+    },
+    {
+      "id": "new-game-chapter-29",
+      "number": 29,
+      "title": "NEW GAME! – Capítulo 29",
+      "date": "2025-11-11T21:26:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922181
+    },
+    {
+      "id": "new-game-chapter-30",
+      "number": 30,
+      "title": "NEW GAME! – Capítulo 30",
+      "date": "2025-11-11T21:27:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922304
+    },
+    {
+      "id": "new-game-chapter-31",
+      "number": 31,
+      "title": "NEW GAME! – Capítulo 31",
+      "date": "2025-11-11T21:27:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922302
+    },
+    {
+      "id": "new-game-chapter-32",
+      "number": 32,
+      "title": "NEW GAME! – Capítulo 32",
+      "date": "2025-11-11T21:27:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922301
+    },
+    {
+      "id": "new-game-chapter-33",
+      "number": 33,
+      "title": "NEW GAME! – Capítulo 33",
+      "date": "2025-11-11T21:27:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922307
+    },
+    {
+      "id": "new-game-chapter-34",
+      "number": 34,
+      "title": "NEW GAME! – Capítulo 34",
+      "date": "2025-11-11T21:27:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922305
+    },
+    {
+      "id": "new-game-chapter-35",
+      "number": 35,
+      "title": "NEW GAME! – Capítulo 35",
+      "date": "2025-11-11T21:27:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922308
+    },
+    {
+      "id": "new-game-chapter-36",
+      "number": 36,
+      "title": "NEW GAME! – Capítulo 36",
+      "date": "2025-11-11T21:27:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922306
+    },
+    {
+      "id": "new-game-chapter-37",
+      "number": 37,
+      "title": "NEW GAME! – Capítulo 37",
+      "date": "2025-11-11T21:27:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922303
+    },
+    {
+      "id": "new-game-chapter-38",
+      "number": 38,
+      "title": "NEW GAME! – Capítulo 38",
+      "date": "2025-11-11T21:27:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922310
+    },
+    {
+      "id": "new-game-chapter-39",
+      "number": 39,
+      "title": "NEW GAME! – Capítulo 39",
+      "date": "2025-11-11T21:27:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922309
+    },
+    {
+      "id": "new-game-chapter-40",
+      "number": 40,
+      "title": "NEW GAME! – Capítulo 40",
+      "date": "2025-11-11T21:27:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922442
+    },
+    {
+      "id": "new-game-chapter-41",
+      "number": 41,
+      "title": "NEW GAME! – Capítulo 41",
+      "date": "2025-11-11T21:27:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922436
+    },
+    {
+      "id": "new-game-chapter-42",
+      "number": 42,
+      "title": "NEW GAME! – Capítulo 42",
+      "date": "2025-11-11T21:27:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922434
+    },
+    {
+      "id": "new-game-chapter-43",
+      "number": 43,
+      "title": "NEW GAME! – Capítulo 43",
+      "date": "2025-11-11T21:27:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922438
+    },
+    {
+      "id": "new-game-chapter-44",
+      "number": 44,
+      "title": "NEW GAME! – Capítulo 44",
+      "date": "2025-11-11T21:27:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922435
+    },
+    {
+      "id": "new-game-chapter-45",
+      "number": 45,
+      "title": "NEW GAME! – Capítulo 45",
+      "date": "2025-11-11T21:27:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922439
+    },
+    {
+      "id": "new-game-chapter-46",
+      "number": 46,
+      "title": "NEW GAME! – Capítulo 46",
+      "date": "2025-11-11T21:27:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922441
+    },
+    {
+      "id": "new-game-chapter-47",
+      "number": 47,
+      "title": "NEW GAME! – Capítulo 47",
+      "date": "2025-11-11T21:27:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922437
+    },
+    {
+      "id": "new-game-chapter-48",
+      "number": 48,
+      "title": "NEW GAME! – Capítulo 48",
+      "date": "2025-11-11T21:27:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922443
+    },
+    {
+      "id": "new-game-chapter-49",
+      "number": 49,
+      "title": "NEW GAME! – Capítulo 49",
+      "date": "2025-11-11T21:27:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922440
+    },
+    {
+      "id": "new-game-chapter-50",
+      "number": 50,
+      "title": "NEW GAME! – Capítulo 50",
+      "date": "2025-11-11T21:28:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922548
+    },
+    {
+      "id": "new-game-chapter-51",
+      "number": 51,
+      "title": "NEW GAME! – Capítulo 51",
+      "date": "2025-11-11T21:28:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922553
+    },
+    {
+      "id": "new-game-chapter-51.01",
+      "number": 51.01,
+      "title": "NEW GAME! – Capítulo 51.01",
+      "date": "2025-11-11T21:28:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922555
+    },
+    {
+      "id": "new-game-chapter-51.02",
+      "number": 51.02,
+      "title": "NEW GAME! – Capítulo 51.02",
+      "date": "2025-11-11T21:28:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922552
+    },
+    {
+      "id": "new-game-chapter-51.03",
+      "number": 51.03,
+      "title": "NEW GAME! – Capítulo 51.03",
+      "date": "2025-11-11T21:28:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922549
+    },
+    {
+      "id": "new-game-chapter-51.04",
+      "number": 51.04,
+      "title": "NEW GAME! – Capítulo 51.04",
+      "date": "2025-11-11T21:28:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922556
+    },
+    {
+      "id": "new-game-chapter-51.05",
+      "number": 51.05,
+      "title": "NEW GAME! – Capítulo 51.05",
+      "date": "2025-11-11T21:28:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922550
+    },
+    {
+      "id": "new-game-chapter-51.06",
+      "number": 51.06,
+      "title": "NEW GAME! – Capítulo 51.06",
+      "date": "2025-11-11T21:28:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922547
+    },
+    {
+      "id": "new-game-chapter-51.07",
+      "number": 51.07,
+      "title": "NEW GAME! – Capítulo 51.07",
+      "date": "2025-11-11T21:28:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922554
+    },
+    {
+      "id": "new-game-chapter-51.08",
+      "number": 51.08,
+      "title": "NEW GAME! – Capítulo 51.08",
+      "date": "2025-11-11T21:28:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922551
+    },
+    {
+      "id": "new-game-chapter-51.09",
+      "number": 51.09,
+      "title": "NEW GAME! – Capítulo 51.09",
+      "date": "2025-11-11T21:28:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922681
+    },
+    {
+      "id": "new-game-chapter-51.1",
+      "number": 51.1,
+      "title": "NEW GAME! – Capítulo 51.10",
+      "date": "2025-11-11T21:28:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922678
+    },
+    {
+      "id": "new-game-chapter-51.11",
+      "number": 51.11,
+      "title": "NEW GAME! – Capítulo 51.11",
+      "date": "2025-11-11T21:28:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922680
+    },
+    {
+      "id": "new-game-chapter-51.12",
+      "number": 51.12,
+      "title": "NEW GAME! – Capítulo 51.12",
+      "date": "2025-11-11T21:28:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922676
+    },
+    {
+      "id": "new-game-chapter-51.13",
+      "number": 51.13,
+      "title": "NEW GAME! – Capítulo 51.13",
+      "date": "2025-11-11T21:28:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922679
+    },
+    {
+      "id": "new-game-chapter-52",
+      "number": 52,
+      "title": "NEW GAME! – Capítulo 52",
+      "date": "2025-11-11T21:28:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922675
+    },
+    {
+      "id": "new-game-chapter-53",
+      "number": 53,
+      "title": "NEW GAME! – Capítulo 53",
+      "date": "2025-11-11T21:28:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922674
+    },
+    {
+      "id": "new-game-chapter-54",
+      "number": 54,
+      "title": "NEW GAME! – Capítulo 54",
+      "date": "2025-11-11T21:28:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922677
+    },
+    {
+      "id": "new-game-chapter-55",
+      "number": 55,
+      "title": "NEW GAME! – Capítulo 55",
+      "date": "2025-11-11T21:28:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922672
+    },
+    {
+      "id": "new-game-chapter-56",
+      "number": 56,
+      "title": "NEW GAME! – Capítulo 56",
+      "date": "2025-11-11T21:28:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922673
+    },
+    {
+      "id": "new-game-chapter-57",
+      "number": 57,
+      "title": "NEW GAME! – Capítulo 57",
+      "date": "2025-11-11T21:29:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922792
+    },
+    {
+      "id": "new-game-chapter-58",
+      "number": 58,
+      "title": "NEW GAME! – Capítulo 58",
+      "date": "2025-11-11T21:29:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922794
+    },
+    {
+      "id": "new-game-chapter-59",
+      "number": 59,
+      "title": "NEW GAME! – Capítulo 59",
+      "date": "2025-11-11T21:29:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922789
+    },
+    {
+      "id": "new-game-chapter-60",
+      "number": 60,
+      "title": "NEW GAME! – Capítulo 60",
+      "date": "2025-11-11T21:29:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922797
+    },
+    {
+      "id": "new-game-chapter-61",
+      "number": 61,
+      "title": "NEW GAME! – Capítulo 61",
+      "date": "2025-11-11T21:29:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922798
+    },
+    {
+      "id": "new-game-chapter-62",
+      "number": 62,
+      "title": "NEW GAME! – Capítulo 62",
+      "date": "2025-11-11T21:29:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922795
+    },
+    {
+      "id": "new-game-chapter-63",
+      "number": 63,
+      "title": "NEW GAME! – Capítulo 63",
+      "date": "2025-11-11T21:29:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922791
+    },
+    {
+      "id": "new-game-chapter-64",
+      "number": 64,
+      "title": "NEW GAME! – Capítulo 64",
+      "date": "2025-11-11T21:29:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922796
+    },
+    {
+      "id": "new-game-chapter-65",
+      "number": 65,
+      "title": "NEW GAME! – Capítulo 65",
+      "date": "2025-11-11T21:29:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922790
+    },
+    {
+      "id": "new-game-chapter-66",
+      "number": 66,
+      "title": "NEW GAME! – Capítulo 66",
+      "date": "2025-11-11T21:29:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922793
+    },
+    {
+      "id": "new-game-chapter-67",
+      "number": 67,
+      "title": "NEW GAME! – Capítulo 67",
+      "date": "2025-11-11T21:29:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922922
+    },
+    {
+      "id": "new-game-chapter-68",
+      "number": 68,
+      "title": "NEW GAME! – Capítulo 68",
+      "date": "2025-11-11T21:29:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922918
+    },
+    {
+      "id": "new-game-chapter-69",
+      "number": 69,
+      "title": "NEW GAME! – Capítulo 69",
+      "date": "2025-11-11T21:29:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922920
+    },
+    {
+      "id": "new-game-chapter-70",
+      "number": 70,
+      "title": "NEW GAME! – Capítulo 70",
+      "date": "2025-11-11T21:29:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922924
+    },
+    {
+      "id": "new-game-chapter-71",
+      "number": 71,
+      "title": "NEW GAME! – Capítulo 71",
+      "date": "2025-11-11T21:29:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922926
+    },
+    {
+      "id": "new-game-chapter-72",
+      "number": 72,
+      "title": "NEW GAME! – Capítulo 72",
+      "date": "2025-11-11T21:29:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922919
+    },
+    {
+      "id": "new-game-chapter-73",
+      "number": 73,
+      "title": "NEW GAME! – Capítulo 73",
+      "date": "2025-11-11T21:29:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922925
+    },
+    {
+      "id": "new-game-chapter-74",
+      "number": 74,
+      "title": "NEW GAME! – Capítulo 74",
+      "date": "2025-11-11T21:29:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922927
+    },
+    {
+      "id": "new-game-chapter-75",
+      "number": 75,
+      "title": "NEW GAME! – Capítulo 75",
+      "date": "2025-11-11T21:29:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922921
+    },
+    {
+      "id": "new-game-chapter-76",
+      "number": 76,
+      "title": "NEW GAME! – Capítulo 76",
+      "date": "2025-11-11T21:29:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 922923
+    },
+    {
+      "id": "new-game-chapter-77",
+      "number": 77,
+      "title": "NEW GAME! – Capítulo 77",
+      "date": "2025-11-11T21:30:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 923032
+    },
+    {
+      "id": "new-game-chapter-78",
+      "number": 78,
+      "title": "NEW GAME! – Capítulo 78 – (Cap 91)",
+      "date": "2025-11-11T21:30:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 923037
+    },
+    {
+      "id": "new-game-chapter-79",
+      "number": 79,
+      "title": "NEW GAME! – Capítulo 79 – (Cap 92)",
+      "date": "2025-11-11T21:30:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 923036
+    },
+    {
+      "id": "new-game-chapter-80",
+      "number": 80,
+      "title": "NEW GAME! – Capítulo 80 – Competição de design de personagens, parte 1",
+      "date": "2025-11-11T21:30:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 923035
+    },
+    {
+      "id": "new-game-chapter-81",
+      "number": 81,
+      "title": "NEW GAME! – Capítulo 81 – Competição de design de personagens, parte 2",
+      "date": "2025-11-11T21:30:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 923034
+    },
+    {
+      "id": "new-game-chapter-82",
+      "number": 82,
+      "title": "NEW GAME! – Capítulo 82 – Competição de design de personagens, parte 3",
+      "date": "2025-11-11T21:30:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 923033
+    },
+    {
+      "id": "new-game-chapter-83",
+      "number": 83,
+      "title": "NEW GAME! – Capítulo 83 – Atribuição de equipe",
+      "date": "2025-11-11T21:30:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 923038
+    },
+    {
+      "id": "new-game-chapter-84",
+      "number": 84,
+      "title": "NEW GAME! – Capítulo 84",
+      "date": "2025-11-11T21:30:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 923040
+    }
+  ]
+}

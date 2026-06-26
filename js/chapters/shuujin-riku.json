@@ -1,0 +1,606 @@
+{
+  "en": [
+    {
+      "id": "shuujin-riku-1",
+      "number": "1",
+      "title": "Paradise",
+      "date": "2013/02/06",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-2",
+      "number": "2",
+      "title": "Imprisonment",
+      "date": "2013/02/27",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-3",
+      "number": "3",
+      "title": "Cellmate",
+      "date": "2013/03/29",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-4",
+      "number": "4",
+      "title": "Transfer",
+      "date": "2013/05/24",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-5",
+      "number": "5",
+      "title": "",
+      "date": "2020/05/01",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-6",
+      "number": "6",
+      "title": "Bitterness",
+      "date": "2020/05/01",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-7",
+      "number": "7",
+      "title": "",
+      "date": "2020/08/14",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-8",
+      "number": "8",
+      "title": "",
+      "date": "2020/08/14",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-9",
+      "number": "9",
+      "title": "",
+      "date": "2020/08/14",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-10",
+      "number": "10",
+      "title": "Letter",
+      "date": "2020/08/19",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-11",
+      "number": "11",
+      "title": "Sunray",
+      "date": "2020/09/18",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-12",
+      "number": "12",
+      "title": "",
+      "date": "2022/04/16",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-13",
+      "number": "13",
+      "title": "",
+      "date": "2022/04/16",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-14",
+      "number": "14",
+      "title": "",
+      "date": "2022/04/16",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-15",
+      "number": "15",
+      "title": "",
+      "date": "2022/07/22",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-16",
+      "number": "16",
+      "title": "",
+      "date": "2022/07/22",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-17",
+      "number": "17",
+      "title": "",
+      "date": "2022/07/24",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-18",
+      "number": "18",
+      "title": "",
+      "date": "2022/07/24",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-19",
+      "number": "19",
+      "title": "",
+      "date": "2022/07/29",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-20",
+      "number": "20",
+      "title": "",
+      "date": "2022/08/11",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-21",
+      "number": "21",
+      "title": "",
+      "date": "2022/08/11",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-22",
+      "number": "22",
+      "title": "",
+      "date": "2022/08/11",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-23",
+      "number": "23",
+      "title": "",
+      "date": "2022/08/30",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-24",
+      "number": "24",
+      "title": "",
+      "date": "2022/08/30",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-25",
+      "number": "25",
+      "title": "",
+      "date": "2022/08/30",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-26",
+      "number": "26",
+      "title": "",
+      "date": "2022/08/30",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-27",
+      "number": "27",
+      "title": "",
+      "date": "2023/04/03",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-28",
+      "number": "28",
+      "title": "",
+      "date": "2023/04/04",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-29",
+      "number": "29",
+      "title": "",
+      "date": "2023/04/04",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-30",
+      "number": "30",
+      "title": "",
+      "date": "2023/04/04",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-31",
+      "number": "31",
+      "title": "",
+      "date": "2023/04/12",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-32",
+      "number": "32",
+      "title": "",
+      "date": "2023/04/12",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-33",
+      "number": "33",
+      "title": "",
+      "date": "2023/05/02",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-34",
+      "number": "34",
+      "title": "",
+      "date": "2023/05/02",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-35",
+      "number": "35",
+      "title": "",
+      "date": "2023/05/06",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-36",
+      "number": "36",
+      "title": "",
+      "date": "2025/08/15",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-37",
+      "number": "37",
+      "title": "",
+      "date": "2023/05/27",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-38",
+      "number": "38",
+      "title": "",
+      "date": "2023/06/24",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-39",
+      "number": "39",
+      "title": "",
+      "date": "2023/08/06",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-40",
+      "number": "40",
+      "title": "",
+      "date": "2023/08/06",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-41",
+      "number": "41",
+      "title": "",
+      "date": "2023/08/15",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-42",
+      "number": "42",
+      "title": "",
+      "date": "2023/08/21",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-43",
+      "number": "43",
+      "title": "",
+      "date": "2023/08/28",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-44",
+      "number": "44",
+      "title": "",
+      "date": "2023/09/05",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-45",
+      "number": "45",
+      "title": "",
+      "date": "2023/09/06",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-46",
+      "number": "46",
+      "title": "",
+      "date": "2023/09/06",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-47",
+      "number": "47",
+      "title": "",
+      "date": "2023/10/30",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-48",
+      "number": "48",
+      "title": "",
+      "date": "2025/08/15",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-49",
+      "number": "49",
+      "title": "",
+      "date": "2025/08/15",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-50",
+      "number": "50",
+      "title": "",
+      "date": "2025/08/15",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-51",
+      "number": "51",
+      "title": "",
+      "date": "2025/08/15",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-52",
+      "number": "52",
+      "title": "",
+      "date": "2025/08/15",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-53",
+      "number": "53",
+      "title": "",
+      "date": "2025/08/15",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-54",
+      "number": "54",
+      "title": "",
+      "date": "2023/11/11",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-55",
+      "number": "55",
+      "title": "",
+      "date": "2023/11/15",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-56",
+      "number": "56",
+      "title": "",
+      "date": "2025/08/15",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-57",
+      "number": "57",
+      "title": "",
+      "date": "2025/08/15",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-58",
+      "number": "58",
+      "title": "",
+      "date": "2025/08/15",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-59",
+      "number": "59",
+      "title": "",
+      "date": "2025/08/15",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-60",
+      "number": "60",
+      "title": "",
+      "date": "2024/02/26",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-61",
+      "number": "61",
+      "title": "",
+      "date": "2025/08/15",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-62",
+      "number": "62",
+      "title": "",
+      "date": "2025/08/15",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-63",
+      "number": "63",
+      "title": "",
+      "date": "2025/08/15",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-64",
+      "number": "64",
+      "title": "",
+      "date": "2025/08/15",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-65",
+      "number": "65",
+      "title": "",
+      "date": "2025/08/15",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-66",
+      "number": "66",
+      "title": "",
+      "date": "2024/03/25",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-67",
+      "number": "67",
+      "title": "",
+      "date": "2025/08/15",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-68",
+      "number": "68",
+      "title": "",
+      "date": "2025/08/15",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-69",
+      "number": "69",
+      "title": "",
+      "date": "2025/08/15",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-70",
+      "number": "70",
+      "title": "",
+      "date": "2025/08/15",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-71",
+      "number": "71",
+      "title": "",
+      "date": "2024/06/25",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-72",
+      "number": "72",
+      "title": "",
+      "date": "2024/07/09",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-73",
+      "number": "73",
+      "title": "",
+      "date": "2024/07/30",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-74",
+      "number": "74",
+      "title": "",
+      "date": "2024/08/16",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-75",
+      "number": "75",
+      "title": "",
+      "date": "2025/03/27",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-76",
+      "number": "76",
+      "title": "",
+      "date": "2025/03/27",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-77",
+      "number": "77",
+      "title": "",
+      "date": "2025/03/27",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-78",
+      "number": "78",
+      "title": "",
+      "date": "2025/03/31",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-79",
+      "number": "79",
+      "title": "",
+      "date": "2025/04/02",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-80",
+      "number": "80",
+      "title": "",
+      "date": "2025/04/03",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-81",
+      "number": "81",
+      "title": "",
+      "date": "2025/05/09",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-82",
+      "number": "82",
+      "title": "",
+      "date": "2025/06/07",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-83",
+      "number": "83",
+      "title": "",
+      "date": "2025/06/29",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-84",
+      "number": "84",
+      "title": "",
+      "date": "2025/07/17",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-85",
+      "number": "85",
+      "title": "",
+      "date": "2025/08/15",
+      "pages": []
+    },
+    {
+      "id": "shuujin-riku-86",
+      "number": "86",
+      "title": "",
+      "date": "2025/09/03",
+      "pages": []
+    }
+  ]
+}

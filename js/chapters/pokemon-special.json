@@ -1,0 +1,683 @@
+{
+  "en": [
+    {
+      "id": "pokemon-special-1",
+      "number": "1",
+      "title": "Vs Mew",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-2",
+      "number": "2",
+      "title": "Vs Machamp",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-3",
+      "number": "3",
+      "title": "Vs Kangaskhan",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-4",
+      "number": "4",
+      "title": "Vs Pikachu",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-5",
+      "number": "5",
+      "title": "Vs Onix",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-6",
+      "number": "6",
+      "title": "Vs Gyarados",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-7",
+      "number": "7",
+      "title": "Vs Rhydon",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-8",
+      "number": "8",
+      "title": "Vs Starmie",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-9",
+      "number": "9",
+      "title": "Vs Fearow",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-10",
+      "number": "10",
+      "title": "Vs Voltorb",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-11",
+      "number": "11",
+      "title": "Vs Electabuzz",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-12",
+      "number": "12",
+      "title": "Vs Snorlax",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-13",
+      "number": "13",
+      "title": "Vs Psyduck",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-14",
+      "number": "14",
+      "title": "Vs Arbok",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-15",
+      "number": "15",
+      "title": "Vs Wartortle",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-16",
+      "number": "16",
+      "title": "Vs Tauros",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-17",
+      "number": "17",
+      "title": "Vs Jynx",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-18",
+      "number": "18",
+      "title": "Vs Ninetails",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-19",
+      "number": "19",
+      "title": "Vs Eevee",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-20",
+      "number": "20",
+      "title": "Vs Vileplume",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-21",
+      "number": "21",
+      "title": "Vs Nidoking",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-22",
+      "number": "22",
+      "title": "Vs Victreebel",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-23",
+      "number": "23",
+      "title": "Vs Magmar",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-24",
+      "number": "24",
+      "title": "Vs Dragonite",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-25",
+      "number": "25",
+      "title": "Vs Articuno",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-26",
+      "number": "26",
+      "title": "Vs Moltres",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-27",
+      "number": "27",
+      "title": "Vs Kadabra",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-28",
+      "number": "28",
+      "title": "Vs MrMime",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-29",
+      "number": "29",
+      "title": "Vs Golbat",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-30",
+      "number": "30",
+      "title": "Vs Zapdos",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-31",
+      "number": "31",
+      "title": "Vs Articuno",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-32",
+      "number": "32",
+      "title": "Vs Kadabra",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-33",
+      "number": "33",
+      "title": "Vs Three Legendary Birds",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-34",
+      "number": "34",
+      "title": "Vs Mewtwo - Part 1",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-35",
+      "number": "35",
+      "title": "Vs Mewtwo - Part 2",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-36",
+      "number": "36",
+      "title": "Vs Dratini",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-37",
+      "number": "37",
+      "title": "Vs Golem",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-38",
+      "number": "38",
+      "title": "Vs Nidoqueen",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-39",
+      "number": "39",
+      "title": "Vs Spearow",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-40",
+      "number": "40",
+      "title": "Vs Charizard",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-41",
+      "number": "41",
+      "title": "Vs Ponyta",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-42",
+      "number": "42",
+      "title": "Vs Dodrio",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-43",
+      "number": "43",
+      "title": "Vs Seadra",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-44",
+      "number": "44",
+      "title": "Vs Dugong",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-45",
+      "number": "45",
+      "title": "Vs Cloyster",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-46",
+      "number": "46",
+      "title": "Vs Marowak",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-47",
+      "number": "47",
+      "title": "Vs Persian",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-48",
+      "number": "48",
+      "title": "Vs Paras",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-49",
+      "number": "49",
+      "title": "Vs Gastly",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-50",
+      "number": "50",
+      "title": "Vs Lapras",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-51",
+      "number": "51",
+      "title": "Vs Magneton",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-52",
+      "number": "52",
+      "title": "Vs Gengar",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-53",
+      "number": "53",
+      "title": "Vs Caterpie",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-54",
+      "number": "54",
+      "title": "Vs Pidgeotto",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-55",
+      "number": "55",
+      "title": "Vs Primeape",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-56",
+      "number": "56",
+      "title": "Vs Slowpoke",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-57",
+      "number": "57",
+      "title": "Vs Ekans",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-58",
+      "number": "58",
+      "title": "Vs Tentacruel",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-59",
+      "number": "59",
+      "title": "Vs Hitmonlee",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-60",
+      "number": "60",
+      "title": "Vs Dragonair - Part 1",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-61",
+      "number": "61",
+      "title": "Vs Dragonair - Part 2",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-62",
+      "number": "62",
+      "title": "Vs Dragonair - Part 3",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-63",
+      "number": "63",
+      "title": "Vs Exeggutor",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-64",
+      "number": "64",
+      "title": "Vs Arcanine",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-65",
+      "number": "65",
+      "title": "Vs Machop",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-66",
+      "number": "66",
+      "title": "Vs Poliwrath",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-67",
+      "number": "67",
+      "title": "Vs Diglett",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-68",
+      "number": "68",
+      "title": "Vs Jigglypuff",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-69",
+      "number": "69",
+      "title": "Vs Horsea",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-70",
+      "number": "70",
+      "title": "Vs Alakazam",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-71",
+      "number": "71",
+      "title": "Vs Muk",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-72",
+      "number": "72",
+      "title": "Vs Weezing",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-73",
+      "number": "73",
+      "title": "Vs Venomoth",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-74",
+      "number": "74",
+      "title": "Vs Magikarp",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-75",
+      "number": "75",
+      "title": "Vs Electrode",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-76",
+      "number": "76",
+      "title": "Vs Chansey",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-77",
+      "number": "77",
+      "title": "Vs Golduck",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-78",
+      "number": "78",
+      "title": "Vs Venusaur",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-79",
+      "number": "79",
+      "title": "Vs Aerodactyl 1",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-80",
+      "number": "80",
+      "title": "Vs Aerodactyl 2",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-81",
+      "number": "81",
+      "title": "Vs Aerodactyl 3",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-82",
+      "number": "82",
+      "title": "Vs Raticate",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-83",
+      "number": "83",
+      "title": "Vs Slowbro",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-84",
+      "number": "84",
+      "title": "Vs Clefable",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-85",
+      "number": "85",
+      "title": "Shellder",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-86",
+      "number": "86",
+      "title": "Vs Dragonite",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-87",
+      "number": "87",
+      "title": "Vs Rhyhorn",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-88",
+      "number": "88",
+      "title": "Vs Beedrill",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-89",
+      "number": "89",
+      "title": "Vs Metapod",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-90",
+      "number": "90",
+      "title": "Vs ???",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-91",
+      "number": "91",
+      "title": "Vs Murkrow",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-92",
+      "number": "92",
+      "title": "Vs Hoothoot",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-93",
+      "number": "93",
+      "title": "Vs Sneasel",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-94",
+      "number": "94",
+      "title": "Vs Elekid",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-95",
+      "number": "95",
+      "title": "Vs Stantler",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-96",
+      "number": "96",
+      "title": "Vs Donphan",
+      "date": "2009/08/19",
+      "pages": []
+    },
+    {
+      "id": "pokemon-special-97",
+      "number": "97",
+      "title": "Vs Bellsprout",
+      "date": "2009/08/19",
+      "pages": []
+    }
+  ]
+}

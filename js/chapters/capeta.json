@@ -1,0 +1,718 @@
+{
+  "en": [
+    {
+      "id": "capeta-1",
+      "number": "1",
+      "title": "Volume 1 Chapter 1",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-2",
+      "number": "2",
+      "title": "Volume 1 Chapter 2",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-3",
+      "number": "3",
+      "title": "Volume 1 Chapter 3",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-4",
+      "number": "4",
+      "title": "Volume 2 Chapter 1",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-5",
+      "number": "5",
+      "title": "Volume 2 Chapter 2",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-6",
+      "number": "6",
+      "title": "Volume 2 Chapter 3",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-7",
+      "number": "7",
+      "title": "Volume 3 Chapter 1",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-8",
+      "number": "8",
+      "title": "Volume 3 Chapter 2",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-9",
+      "number": "9",
+      "title": "Volume 3 Chapter 3",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-10",
+      "number": "10",
+      "title": "Volume 4 Chapter 1",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-11",
+      "number": "11",
+      "title": "Volume 4 Chapter 2",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-12",
+      "number": "12",
+      "title": "Volume 4 Chapter 3",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-13",
+      "number": "13",
+      "title": "Volume 5 Chapter 1",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-14",
+      "number": "14",
+      "title": "Volume 5 Chapter 2",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-30",
+      "number": "30",
+      "title": "Volume 11 Chapter 1",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-31",
+      "number": "31",
+      "title": "Volume 11 Chapter 2",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-32",
+      "number": "32",
+      "title": "Volume 11 Chapter 3",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-33",
+      "number": "33",
+      "title": "Volume 11 Chapter 4",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-34",
+      "number": "34",
+      "title": "Volume 12 Chapter 1",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-35",
+      "number": "35",
+      "title": "Volume 12 Chapter 2",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-36",
+      "number": "36",
+      "title": "Volume 12 Chapter 3",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-37",
+      "number": "37",
+      "title": "Volume 12 Chapter 4",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-38",
+      "number": "38",
+      "title": "Volume 13 Chapter 1",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-39",
+      "number": "39",
+      "title": "Volume 13 Chapter 2",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-40",
+      "number": "40",
+      "title": "Volume 13 Chapter 3",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-41",
+      "number": "41",
+      "title": "Volume 13 Chapter 4",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-42",
+      "number": "42",
+      "title": "Volume 14 Chapter 1",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-43",
+      "number": "43",
+      "title": "Volume 14 Chapter 2",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-44",
+      "number": "44",
+      "title": "Volume 14 Chapter 3",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-45",
+      "number": "45",
+      "title": "Volume 14 Chapter 4",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-46",
+      "number": "46",
+      "title": "Volume 15 Chapter 1",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-47",
+      "number": "47",
+      "title": "Volume 15 Chapter 2",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-48",
+      "number": "48",
+      "title": "Volume 15 Chapter 3",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-49",
+      "number": "49",
+      "title": "Volume 15 Chapter 4",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-50",
+      "number": "50",
+      "title": "Volume 16 Chapter 1",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-51",
+      "number": "51",
+      "title": "Volume 16 Chapter 2",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-52",
+      "number": "52",
+      "title": "Volume 16 Chapter 3",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-53",
+      "number": "53",
+      "title": "Volume 16 Chapter 4",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-54",
+      "number": "54",
+      "title": "Volume 17 Chapter 1",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-55",
+      "number": "55",
+      "title": "Volume 17 Chapter 2",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-56",
+      "number": "56",
+      "title": "Volume 17 Chapter 3",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-57",
+      "number": "57",
+      "title": "Volume 17 Chapter 4",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-58",
+      "number": "58",
+      "title": "Volume 18 Chapter 1",
+      "date": "2015/02/24",
+      "pages": []
+    },
+    {
+      "id": "capeta-59",
+      "number": "59",
+      "title": "Volume 18 Chapter 2",
+      "date": "2015/04/30",
+      "pages": []
+    },
+    {
+      "id": "capeta-60",
+      "number": "60",
+      "title": "Volume 18 Chapter 3",
+      "date": "2015/04/30",
+      "pages": []
+    },
+    {
+      "id": "capeta-61",
+      "number": "61",
+      "title": "Volume 18 Chapter 4",
+      "date": "2015/04/30",
+      "pages": []
+    },
+    {
+      "id": "capeta-62",
+      "number": "62",
+      "title": "Volume 19 Chapter 1",
+      "date": "2015/04/30",
+      "pages": []
+    },
+    {
+      "id": "capeta-63",
+      "number": "63",
+      "title": "",
+      "date": "2019/05/01",
+      "pages": []
+    },
+    {
+      "id": "capeta-64",
+      "number": "64",
+      "title": "",
+      "date": "2019/05/01",
+      "pages": []
+    },
+    {
+      "id": "capeta-65",
+      "number": "65",
+      "title": "",
+      "date": "2019/05/01",
+      "pages": []
+    },
+    {
+      "id": "capeta-66",
+      "number": "66",
+      "title": "",
+      "date": "2019/05/01",
+      "pages": []
+    },
+    {
+      "id": "capeta-67",
+      "number": "67",
+      "title": "",
+      "date": "2019/05/01",
+      "pages": []
+    },
+    {
+      "id": "capeta-68",
+      "number": "68",
+      "title": "",
+      "date": "2019/05/01",
+      "pages": []
+    },
+    {
+      "id": "capeta-69",
+      "number": "69",
+      "title": "",
+      "date": "2019/05/01",
+      "pages": []
+    },
+    {
+      "id": "capeta-70",
+      "number": "70",
+      "title": "",
+      "date": "2019/05/01",
+      "pages": []
+    },
+    {
+      "id": "capeta-71",
+      "number": "71",
+      "title": "",
+      "date": "2019/05/01",
+      "pages": []
+    },
+    {
+      "id": "capeta-72",
+      "number": "72",
+      "title": "",
+      "date": "2019/05/01",
+      "pages": []
+    },
+    {
+      "id": "capeta-73",
+      "number": "73",
+      "title": "",
+      "date": "2019/05/01",
+      "pages": []
+    },
+    {
+      "id": "capeta-74",
+      "number": "74",
+      "title": "",
+      "date": "2019/05/01",
+      "pages": []
+    },
+    {
+      "id": "capeta-75",
+      "number": "75",
+      "title": "",
+      "date": "2019/05/01",
+      "pages": []
+    },
+    {
+      "id": "capeta-76",
+      "number": "76",
+      "title": "",
+      "date": "2019/05/01",
+      "pages": []
+    },
+    {
+      "id": "capeta-77",
+      "number": "77",
+      "title": "",
+      "date": "2019/05/01",
+      "pages": []
+    },
+    {
+      "id": "capeta-78",
+      "number": "78",
+      "title": "",
+      "date": "2019/05/01",
+      "pages": []
+    },
+    {
+      "id": "capeta-79",
+      "number": "79",
+      "title": "",
+      "date": "2019/05/01",
+      "pages": []
+    },
+    {
+      "id": "capeta-80",
+      "number": "80",
+      "title": "",
+      "date": "2019/05/01",
+      "pages": []
+    },
+    {
+      "id": "capeta-81",
+      "number": "81",
+      "title": "",
+      "date": "2019/05/01",
+      "pages": []
+    },
+    {
+      "id": "capeta-82",
+      "number": "82",
+      "title": "",
+      "date": "2019/05/01",
+      "pages": []
+    },
+    {
+      "id": "capeta-83",
+      "number": "83",
+      "title": "",
+      "date": "2019/05/01",
+      "pages": []
+    },
+    {
+      "id": "capeta-84",
+      "number": "84",
+      "title": "",
+      "date": "2019/05/01",
+      "pages": []
+    },
+    {
+      "id": "capeta-85",
+      "number": "85",
+      "title": "",
+      "date": "2019/05/01",
+      "pages": []
+    },
+    {
+      "id": "capeta-86",
+      "number": "86",
+      "title": "",
+      "date": "2019/05/01",
+      "pages": []
+    },
+    {
+      "id": "capeta-87",
+      "number": "87",
+      "title": "",
+      "date": "2019/05/01",
+      "pages": []
+    },
+    {
+      "id": "capeta-88",
+      "number": "88",
+      "title": "",
+      "date": "2019/05/01",
+      "pages": []
+    },
+    {
+      "id": "capeta-89",
+      "number": "89",
+      "title": "",
+      "date": "2019/05/01",
+      "pages": []
+    },
+    {
+      "id": "capeta-90",
+      "number": "90",
+      "title": "",
+      "date": "2019/07/11",
+      "pages": []
+    },
+    {
+      "id": "capeta-91",
+      "number": "91",
+      "title": "",
+      "date": "2019/07/20",
+      "pages": []
+    },
+    {
+      "id": "capeta-92",
+      "number": "92",
+      "title": "",
+      "date": "2019/09/17",
+      "pages": []
+    },
+    {
+      "id": "capeta-93",
+      "number": "93",
+      "title": "",
+      "date": "2020/03/19",
+      "pages": []
+    },
+    {
+      "id": "capeta-94",
+      "number": "94",
+      "title": "",
+      "date": "2021/01/14",
+      "pages": []
+    },
+    {
+      "id": "capeta-95",
+      "number": "95",
+      "title": "",
+      "date": "2021/01/14",
+      "pages": []
+    },
+    {
+      "id": "capeta-96",
+      "number": "96",
+      "title": "",
+      "date": "2021/01/14",
+      "pages": []
+    },
+    {
+      "id": "capeta-97",
+      "number": "97",
+      "title": "",
+      "date": "2021/08/17",
+      "pages": []
+    },
+    {
+      "id": "capeta-98",
+      "number": "98",
+      "title": "",
+      "date": "2022/04/10",
+      "pages": []
+    },
+    {
+      "id": "capeta-99",
+      "number": "99",
+      "title": "",
+      "date": "2022/11/13",
+      "pages": []
+    },
+    {
+      "id": "capeta-100",
+      "number": "100",
+      "title": "",
+      "date": "2023/01/02",
+      "pages": []
+    },
+    {
+      "id": "capeta-101",
+      "number": "101",
+      "title": "",
+      "date": "2023/04/29",
+      "pages": []
+    },
+    {
+      "id": "capeta-102",
+      "number": "102",
+      "title": "",
+      "date": "2023/06/09",
+      "pages": []
+    },
+    {
+      "id": "capeta-103",
+      "number": "103",
+      "title": "",
+      "date": "2023/06/09",
+      "pages": []
+    },
+    {
+      "id": "capeta-104",
+      "number": "104",
+      "title": "",
+      "date": "2023/06/09",
+      "pages": []
+    },
+    {
+      "id": "capeta-105",
+      "number": "105",
+      "title": "",
+      "date": "2023/06/09",
+      "pages": []
+    },
+    {
+      "id": "capeta-106",
+      "number": "106",
+      "title": "",
+      "date": "2023/06/09",
+      "pages": []
+    },
+    {
+      "id": "capeta-107",
+      "number": "107",
+      "title": "",
+      "date": "2023/06/09",
+      "pages": []
+    },
+    {
+      "id": "capeta-108",
+      "number": "108",
+      "title": "",
+      "date": "2023/06/09",
+      "pages": []
+    },
+    {
+      "id": "capeta-109",
+      "number": "109",
+      "title": "",
+      "date": "2023/06/09",
+      "pages": []
+    },
+    {
+      "id": "capeta-110",
+      "number": "110",
+      "title": "",
+      "date": "2023/06/09",
+      "pages": []
+    },
+    {
+      "id": "capeta-111",
+      "number": "111",
+      "title": "",
+      "date": "2023/06/09",
+      "pages": []
+    },
+    {
+      "id": "capeta-112",
+      "number": "112",
+      "title": "",
+      "date": "2023/06/09",
+      "pages": []
+    },
+    {
+      "id": "capeta-113",
+      "number": "113",
+      "title": "",
+      "date": "2023/06/09",
+      "pages": []
+    },
+    {
+      "id": "capeta-114",
+      "number": "114",
+      "title": "",
+      "date": "2023/06/09",
+      "pages": []
+    },
+    {
+      "id": "capeta-115",
+      "number": "115",
+      "title": "",
+      "date": "2023/06/09",
+      "pages": []
+    },
+    {
+      "id": "capeta-116",
+      "number": "116",
+      "title": "",
+      "date": "2023/06/09",
+      "pages": []
+    },
+    {
+      "id": "capeta-117",
+      "number": "117",
+      "title": "",
+      "date": "2023/06/09",
+      "pages": []
+    }
+  ]
+}

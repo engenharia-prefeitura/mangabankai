@@ -1,0 +1,305 @@
+{
+  "en": [
+    {
+      "id": "death-sweeper-1",
+      "number": "1",
+      "title": "My Brother's Death 1",
+      "date": "2012/02/11",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-2",
+      "number": "2",
+      "title": "My Brother's Death 2",
+      "date": "2012/02/11",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-3",
+      "number": "3",
+      "title": "",
+      "date": "2012/03/31",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-4",
+      "number": "4",
+      "title": "",
+      "date": "2013/02/17",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-5",
+      "number": "5",
+      "title": "",
+      "date": "2013/02/17",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-6",
+      "number": "6",
+      "title": "The Room of an Otaku (2)",
+      "date": "2013/09/29",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-7",
+      "number": "7",
+      "title": "Rope (Part 1)",
+      "date": "2013/09/29",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-8",
+      "number": "8",
+      "title": "Rope (Part 2)",
+      "date": "2013/11/10",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-9",
+      "number": "9",
+      "title": "Rope (Part 3)",
+      "date": "2013/12/10",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-10",
+      "number": "10",
+      "title": "",
+      "date": "2016/12/30",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-11",
+      "number": "11",
+      "title": "",
+      "date": "2016/12/30",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-12",
+      "number": "12",
+      "title": "",
+      "date": "2016/12/30",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-13",
+      "number": "13",
+      "title": "",
+      "date": "2018/08/15",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-14",
+      "number": "14",
+      "title": "Corpse Liquid",
+      "date": "2019/07/30",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-15",
+      "number": "15",
+      "title": "",
+      "date": "2021/01/10",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-16",
+      "number": "16",
+      "title": "",
+      "date": "2021/01/10",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-17",
+      "number": "17",
+      "title": "In the basement (Part 2)",
+      "date": "2021/01/10",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-18",
+      "number": "18",
+      "title": "In The Basement Part 3",
+      "date": "2021/10/30",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-19",
+      "number": "19",
+      "title": "In The Basement Part 4",
+      "date": "2021/10/30",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-20",
+      "number": "20",
+      "title": "",
+      "date": "2022/02/27",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-21",
+      "number": "21",
+      "title": "",
+      "date": "2022/02/27",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-22",
+      "number": "22",
+      "title": "",
+      "date": "2022/04/16",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-23",
+      "number": "23",
+      "title": "",
+      "date": "2022/05/07",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-24",
+      "number": "24",
+      "title": "",
+      "date": "2022/07/04",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-25",
+      "number": "25",
+      "title": "",
+      "date": "2022/07/31",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-26",
+      "number": "26",
+      "title": "",
+      "date": "2022/08/21",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-27",
+      "number": "27",
+      "title": "",
+      "date": "2022/09/24",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-28",
+      "number": "28",
+      "title": "",
+      "date": "2022/10/15",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-29",
+      "number": "29",
+      "title": "",
+      "date": "2022/11/08",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-30",
+      "number": "30",
+      "title": "",
+      "date": "2022/11/30",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-31",
+      "number": "31",
+      "title": "",
+      "date": "2022/12/11",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-32",
+      "number": "32",
+      "title": "",
+      "date": "2022/12/18",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-33",
+      "number": "33",
+      "title": "",
+      "date": "2022/12/26",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-34",
+      "number": "34",
+      "title": "",
+      "date": "2023/01/01",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-35",
+      "number": "35",
+      "title": "",
+      "date": "2023/01/08",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-36",
+      "number": "36",
+      "title": "",
+      "date": "2023/01/15",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-37",
+      "number": "37",
+      "title": "The End of Eternity (Part 1)",
+      "date": "2023/01/22",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-38",
+      "number": "38",
+      "title": "The End of Eternity (Part 2)",
+      "date": "2023/01/29",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-39",
+      "number": "39",
+      "title": "",
+      "date": "2023/02/05",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-40",
+      "number": "40",
+      "title": "",
+      "date": "2023/02/12",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-41",
+      "number": "41",
+      "title": "",
+      "date": "2023/02/19",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-42",
+      "number": "42",
+      "title": "",
+      "date": "2023/02/26",
+      "pages": []
+    },
+    {
+      "id": "death-sweeper-43",
+      "number": "43",
+      "title": "",
+      "date": "2023/03/05",
+      "pages": []
+    }
+  ]
+}

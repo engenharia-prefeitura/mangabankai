@@ -1,0 +1,865 @@
+{
+  "en": [
+    {
+      "id": "love-hina-1",
+      "number": "1",
+      "title": "Welcome to Hinata Inn",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-2",
+      "number": "2",
+      "title": "Want! Female Dormitory Manager",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-3",
+      "number": "3",
+      "title": "Tutor Class' Unexpected Incident!",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-4",
+      "number": "4",
+      "title": "Undertable Relationship",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-5",
+      "number": "5",
+      "title": "Don't Cry Shinobu-chan",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-6",
+      "number": "6",
+      "title": "Fight! Kendo Challenge",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-7",
+      "number": "7",
+      "title": "Let's Sleep Together",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-8",
+      "number": "8",
+      "title": "The Christmas of Farewells - Part A",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-9",
+      "number": "9",
+      "title": "The Christmas of Farewells - Part B",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-10",
+      "number": "10",
+      "title": "The Lucky New Year Festival",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-11",
+      "number": "11",
+      "title": "Go! Entrance Exam",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-12",
+      "number": "12",
+      "title": "Happy or Unhappy",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-13",
+      "number": "13",
+      "title": "See You In My Dreams",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-14",
+      "number": "14",
+      "title": "I Hate Valentine's Day",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-15",
+      "number": "15",
+      "title": "Together Forever",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-16",
+      "number": "16",
+      "title": "The Birth of a Tokyo Univeristy Romance",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-17",
+      "number": "17",
+      "title": "Congratulations on the Acceptance into Tokyo University",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-18",
+      "number": "18",
+      "title": "Sorrowful Youth",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-19",
+      "number": "19",
+      "title": "Anxiety's Shower",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-20",
+      "number": "20",
+      "title": "Virgin Night",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-21",
+      "number": "21",
+      "title": "Ara Maa! Otohime's Appearence!",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-22",
+      "number": "22",
+      "title": "Two Person Alike",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-23",
+      "number": "23",
+      "title": "Anxiety on the Sea",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-24",
+      "number": "24",
+      "title": "Meeting with Friends",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-25",
+      "number": "25",
+      "title": "",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-26",
+      "number": "26",
+      "title": "",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-27",
+      "number": "27",
+      "title": "",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-28",
+      "number": "28",
+      "title": "",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-29",
+      "number": "29",
+      "title": "",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-30",
+      "number": "30",
+      "title": "",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-31",
+      "number": "31",
+      "title": "",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-32",
+      "number": "32",
+      "title": "",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-33",
+      "number": "33",
+      "title": "",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-34",
+      "number": "34",
+      "title": "Let's Go to the Beach",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-35",
+      "number": "35",
+      "title": "Midsummer Night's Passion",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-36",
+      "number": "36",
+      "title": "He Became Fireworks",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-37",
+      "number": "37",
+      "title": "Lovely Goku and Friends",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-38",
+      "number": "38",
+      "title": "Happening Chu",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-39",
+      "number": "39",
+      "title": "Kiss Me Senpai",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-40",
+      "number": "40",
+      "title": "Blooming Innocence's Retreat to a Mountain",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-41",
+      "number": "41",
+      "title": "Mysterious Girl's Secret",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-42",
+      "number": "42",
+      "title": "Somehow I Can't Become Honest",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-43",
+      "number": "43",
+      "title": "Ask Me Out Keitarou!",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-44",
+      "number": "44",
+      "title": "Exciting and Embarrasing First Date!",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-45",
+      "number": "45",
+      "title": "Goodbye Suddenly",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-46",
+      "number": "46",
+      "title": "Three in Search of Lodgings",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-47",
+      "number": "47",
+      "title": "Revealed! Mitsumi's Study Technique",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-48",
+      "number": "48",
+      "title": "Naked Intentions Already",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-49",
+      "number": "49",
+      "title": "In Trouble Liddo-Kun",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-50",
+      "number": "50",
+      "title": "The Two Destined for Life",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-51",
+      "number": "51",
+      "title": "Together on Christmas Eve",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-52",
+      "number": "52",
+      "title": "Lost Lamb of the Holy-Night",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-53",
+      "number": "53",
+      "title": "Great Operation to Get Rid of Evil",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-54",
+      "number": "54",
+      "title": "Confession on Ice",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-55",
+      "number": "55",
+      "title": "Sinful Be His Saintly Self",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-56",
+      "number": "56",
+      "title": "In a Love-Love Boat",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-57",
+      "number": "57",
+      "title": "Sweet Cho-Co-La-Te",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-58",
+      "number": "58",
+      "title": "Daddy is a Guy Waiting for Another Chance for Uni",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-59",
+      "number": "59",
+      "title": "Please Don't Say That Word",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-60",
+      "number": "60",
+      "title": "Happy Ending is With You",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-61",
+      "number": "61",
+      "title": "Biggest Accomplishment",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-62",
+      "number": "62",
+      "title": "The Cherry Blossoms Bloom",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-63",
+      "number": "63",
+      "title": "Pursuit and Pararakerusu",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-64",
+      "number": "64",
+      "title": "Paradise in Pararakerusu Tower",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-65",
+      "number": "65",
+      "title": "Press On, Shinobu!",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-66",
+      "number": "66",
+      "title": "Cherry Blossoms Bloom in the Desert",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-67",
+      "number": "67",
+      "title": "I Want to Become Your Friend",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-68",
+      "number": "68",
+      "title": "Bringing Love from Pararakerusu 1",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-69",
+      "number": "69",
+      "title": "Bringing Love from Pararakerusu 2",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-70",
+      "number": "70",
+      "title": "Let's Go to Toudai!",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-71",
+      "number": "71",
+      "title": "Yes or No, or",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-72",
+      "number": "72",
+      "title": "Grow Up! Sword! Part 1 - Sister Goes to Tokyo",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-73",
+      "number": "73",
+      "title": "Grow Up! Sword! Part 2 - Suddely Hold on Me",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-74",
+      "number": "74",
+      "title": "Grow Up! Sword! Part 3 - Sister vs Sister",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-75",
+      "number": "75",
+      "title": "Shinobu, Straight Line to Toudai!",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-76",
+      "number": "76",
+      "title": "Want to Become an Adult!",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-77",
+      "number": "77",
+      "title": "Sudden Proposal",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-78",
+      "number": "78",
+      "title": "An Honest I Love You",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-79",
+      "number": "79",
+      "title": "Kiss, Kiss, Kiss!",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-80",
+      "number": "80",
+      "title": "A Bold Summer Moment",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-81",
+      "number": "81",
+      "title": "A Kiss Between the Sky and Sea",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-82",
+      "number": "82",
+      "title": "Memory Blurred!",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-83",
+      "number": "83",
+      "title": "For Whom the Wedding Bell Tolls",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-84",
+      "number": "84",
+      "title": "Season of Maidens in Love",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-85",
+      "number": "85",
+      "title": "When She Changes Her Attire",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-86",
+      "number": "86",
+      "title": "I Miss You",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-87",
+      "number": "87",
+      "title": "The Time for Truth",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-88",
+      "number": "88",
+      "title": "When God Gives",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-89",
+      "number": "89",
+      "title": "Is That Naru",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-90",
+      "number": "90",
+      "title": "The End of Hinata-sou",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-91",
+      "number": "91",
+      "title": "Is Everyone Leaving",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-92",
+      "number": "92",
+      "title": "Troublesome Airmail",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-93",
+      "number": "93",
+      "title": "Smiling Face's Secret",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-94",
+      "number": "94",
+      "title": "Love-Love Simulation",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-95",
+      "number": "95",
+      "title": "War at Hinatasou",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-96",
+      "number": "96",
+      "title": "Raid on Hinata Castle",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-97",
+      "number": "97",
+      "title": "Something to Remember",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-98",
+      "number": "98",
+      "title": "Mystery of the Golden Hair",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-99",
+      "number": "99",
+      "title": "A Different Promise",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-100",
+      "number": "100",
+      "title": "Sister Love",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-101",
+      "number": "101",
+      "title": "Skyful of Magical Energy",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-102",
+      "number": "102",
+      "title": "A Numb Heart",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-103",
+      "number": "103",
+      "title": "The Escape",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-104",
+      "number": "104",
+      "title": "Never Give Up",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-105",
+      "number": "105",
+      "title": "Hold Me, Thrill Me, Kiss Me",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-106",
+      "number": "106",
+      "title": "I Want to Kiss!",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-107",
+      "number": "107",
+      "title": "Worried Ronin Girl",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-108",
+      "number": "108",
+      "title": "Sword, School and Love",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-109",
+      "number": "109",
+      "title": "Keitaro and Naru at Toudai",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-110",
+      "number": "110",
+      "title": "En Route to the Kingdom of Molmol",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-111",
+      "number": "111",
+      "title": "Get the King Back!",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-112",
+      "number": "112",
+      "title": "Honey Moon - Toudai",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-113",
+      "number": "113",
+      "title": "A Successful Coup D'etat",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-114",
+      "number": "114",
+      "title": "Todai's Happy Ending",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-115",
+      "number": "115",
+      "title": "Break the Last Barrier!",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-116",
+      "number": "116",
+      "title": "Grandma's Real Intent",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-117",
+      "number": "117",
+      "title": "Secret Letter from Nyamo",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-118",
+      "number": "118",
+      "title": "If Everyone's Here",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-119",
+      "number": "119",
+      "title": "Two People's Late Date",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-120",
+      "number": "120",
+      "title": "The Train of Dreams",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-121",
+      "number": "121",
+      "title": "The Girl of the Promise!",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-122",
+      "number": "122",
+      "title": "Hinata-sou After Three Years!",
+      "date": "2009/07/30",
+      "pages": []
+    },
+    {
+      "id": "love-hina-123",
+      "number": "123",
+      "title": "Everything Starts Here!",
+      "date": "2009/07/30",
+      "pages": []
+    }
+  ]
+}

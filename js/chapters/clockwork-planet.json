@@ -1,0 +1,361 @@
+{
+  "en": [
+    {
+      "id": "clockwork-planet-1",
+      "number": "1",
+      "title": "RyuZU Yourslave",
+      "date": "2014/01/06",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-2",
+      "number": "2",
+      "title": "",
+      "date": "2014/03/09",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-3",
+      "number": "3",
+      "title": "",
+      "date": "2014/03/09",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-4",
+      "number": "4",
+      "title": "",
+      "date": "2014/03/26",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-5",
+      "number": "5",
+      "title": "",
+      "date": "2014/04/12",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-6",
+      "number": "6",
+      "title": "",
+      "date": "2014/04/25",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-7",
+      "number": "7",
+      "title": "",
+      "date": "2014/05/28",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-8",
+      "number": "8",
+      "title": "",
+      "date": "2014/08/11",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-9",
+      "number": "9",
+      "title": "",
+      "date": "2014/09/09",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-10",
+      "number": "10",
+      "title": "",
+      "date": "2014/09/24",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-11",
+      "number": "11",
+      "title": "",
+      "date": "2014/11/11",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-12",
+      "number": "12",
+      "title": "",
+      "date": "2014/12/10",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-13",
+      "number": "13",
+      "title": "",
+      "date": "2015/01/30",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-14",
+      "number": "14",
+      "title": "",
+      "date": "2015/02/21",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-15",
+      "number": "15",
+      "title": "",
+      "date": "2015/02/26",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-16",
+      "number": "16",
+      "title": "",
+      "date": "2015/05/07",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-17",
+      "number": "17",
+      "title": "",
+      "date": "2015/08/08",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-18",
+      "number": "18",
+      "title": "",
+      "date": "2015/11/21",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-19",
+      "number": "19",
+      "title": "",
+      "date": "2016/04/17",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-20",
+      "number": "20",
+      "title": "",
+      "date": "2016/05/05",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-21",
+      "number": "21",
+      "title": "",
+      "date": "2016/05/10",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-22",
+      "number": "22",
+      "title": "",
+      "date": "2016/05/18",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-23",
+      "number": "23",
+      "title": "",
+      "date": "2016/05/30",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-24",
+      "number": "24",
+      "title": "",
+      "date": "2016/07/03",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-25",
+      "number": "25",
+      "title": "",
+      "date": "2016/07/03",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-26",
+      "number": "26",
+      "title": "",
+      "date": "2016/10/29",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-27",
+      "number": "27",
+      "title": "",
+      "date": "2017/02/05",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-28",
+      "number": "28",
+      "title": "",
+      "date": "2017/12/21",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-29",
+      "number": "29",
+      "title": "",
+      "date": "2018/04/08",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-30",
+      "number": "30",
+      "title": "",
+      "date": "2018/04/08",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-31",
+      "number": "31",
+      "title": "",
+      "date": "2018/04/08",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-32",
+      "number": "32",
+      "title": "",
+      "date": "2018/04/11",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-33",
+      "number": "33",
+      "title": "",
+      "date": "2018/04/19",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-34",
+      "number": "34",
+      "title": "",
+      "date": "2018/04/19",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-35",
+      "number": "35",
+      "title": "",
+      "date": "2018/08/15",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-36",
+      "number": "36",
+      "title": "",
+      "date": "2018/08/15",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-37",
+      "number": "37",
+      "title": "",
+      "date": "2019/02/07",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-38",
+      "number": "38",
+      "title": "",
+      "date": "2019/02/07",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-39",
+      "number": "39",
+      "title": "",
+      "date": "2019/02/07",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-40",
+      "number": "40",
+      "title": "",
+      "date": "2019/02/07",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-41",
+      "number": "41",
+      "title": "",
+      "date": "2019/02/07",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-42",
+      "number": "42",
+      "title": "",
+      "date": "2019/02/07",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-43",
+      "number": "43",
+      "title": "",
+      "date": "2019/02/07",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-44",
+      "number": "44",
+      "title": "",
+      "date": "2019/02/07",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-45",
+      "number": "45",
+      "title": "",
+      "date": "2019/02/07",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-46",
+      "number": "46",
+      "title": "",
+      "date": "2019/04/09",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-47",
+      "number": "47",
+      "title": "",
+      "date": "2022/04/18",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-48",
+      "number": "48",
+      "title": "",
+      "date": "2022/04/18",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-49",
+      "number": "49",
+      "title": "",
+      "date": "2022/04/18",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-50",
+      "number": "50",
+      "title": "",
+      "date": "2022/04/18",
+      "pages": []
+    },
+    {
+      "id": "clockwork-planet-51",
+      "number": "51",
+      "title": "",
+      "date": "2022/04/18",
+      "pages": []
+    }
+  ]
+}

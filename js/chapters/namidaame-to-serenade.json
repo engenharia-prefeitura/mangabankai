@@ -1,0 +1,515 @@
+{
+  "en": [
+    {
+      "id": "namidaame-to-serenade-1",
+      "number": "1",
+      "title": "",
+      "date": "2018/07/31",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-2",
+      "number": "2",
+      "title": "",
+      "date": "2018/07/31",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-3",
+      "number": "3",
+      "title": "",
+      "date": "2018/08/17",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-4",
+      "number": "4",
+      "title": "",
+      "date": "2018/09/21",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-5",
+      "number": "5",
+      "title": "A Visit",
+      "date": "2018/12/13",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-6",
+      "number": "6",
+      "title": "Whereabouts of the Necklace",
+      "date": "2018/12/13",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-7",
+      "number": "7",
+      "title": "Thoughts by the Window",
+      "date": "2019/03/17",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-8",
+      "number": "8",
+      "title": "",
+      "date": "2025/11/12",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-9",
+      "number": "9",
+      "title": "",
+      "date": "2019/09/02",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-10",
+      "number": "10",
+      "title": "The Door To Darkness",
+      "date": "2020/06/03",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-11",
+      "number": "11",
+      "title": "Call My Name",
+      "date": "2020/06/03",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-12",
+      "number": "12",
+      "title": "Departure",
+      "date": "2020/06/03",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-13",
+      "number": "13",
+      "title": "Shore of Confusion",
+      "date": "2020/06/03",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-14",
+      "number": "14",
+      "title": "Mysterious Trail",
+      "date": "2020/07/09",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-15",
+      "number": "15",
+      "title": "A Love So Out of Place",
+      "date": "2020/08/16",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-16",
+      "number": "16",
+      "title": "Onboard Illusion",
+      "date": "2020/10/18",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-17",
+      "number": "17",
+      "title": "Sea of Peril",
+      "date": "2020/12/05",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-18",
+      "number": "18",
+      "title": "The Future",
+      "date": "2020/12/05",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-19",
+      "number": "19",
+      "title": "The World We Live In",
+      "date": "2021/02/02",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-20",
+      "number": "20",
+      "title": "",
+      "date": "2021/09/24",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-21",
+      "number": "21",
+      "title": "",
+      "date": "2021/09/24",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-22",
+      "number": "22",
+      "title": "",
+      "date": "2021/09/24",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-23",
+      "number": "23",
+      "title": "Two Hinako",
+      "date": "2021/11/16",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-24",
+      "number": "24",
+      "title": "",
+      "date": "2022/12/03",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-25",
+      "number": "25",
+      "title": "",
+      "date": "2022/12/03",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-26",
+      "number": "26",
+      "title": "",
+      "date": "2022/12/03",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-27",
+      "number": "27",
+      "title": "",
+      "date": "2022/12/03",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-28",
+      "number": "28",
+      "title": "",
+      "date": "2022/12/03",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-29",
+      "number": "29",
+      "title": "",
+      "date": "2022/12/03",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-30",
+      "number": "30",
+      "title": "",
+      "date": "2022/12/03",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-31",
+      "number": "31",
+      "title": "",
+      "date": "2022/12/03",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-32",
+      "number": "32",
+      "title": "",
+      "date": "2022/12/03",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-33",
+      "number": "33",
+      "title": "",
+      "date": "2022/12/03",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-34",
+      "number": "34",
+      "title": "",
+      "date": "2022/12/03",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-35",
+      "number": "35",
+      "title": "",
+      "date": "2022/12/03",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-36",
+      "number": "36",
+      "title": "",
+      "date": "2022/12/03",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-37",
+      "number": "37",
+      "title": "",
+      "date": "2022/12/03",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-38",
+      "number": "38",
+      "title": "",
+      "date": "2022/12/12",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-39",
+      "number": "39",
+      "title": "",
+      "date": "2022/12/21",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-40",
+      "number": "40",
+      "title": "",
+      "date": "2022/12/23",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-41",
+      "number": "41",
+      "title": "",
+      "date": "2022/12/26",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-42",
+      "number": "42",
+      "title": "",
+      "date": "2022/12/30",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-43",
+      "number": "43",
+      "title": "",
+      "date": "2023/01/05",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-44",
+      "number": "44",
+      "title": "",
+      "date": "2023/01/11",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-45",
+      "number": "45",
+      "title": "",
+      "date": "2023/01/18",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-46",
+      "number": "46",
+      "title": "",
+      "date": "2023/01/23",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-47",
+      "number": "47",
+      "title": "",
+      "date": "2023/01/28",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-48",
+      "number": "48",
+      "title": "",
+      "date": "2023/01/30",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-49",
+      "number": "49",
+      "title": "",
+      "date": "2023/02/15",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-50",
+      "number": "50",
+      "title": "",
+      "date": "2023/02/27",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-51",
+      "number": "51",
+      "title": "",
+      "date": "2023/03/13",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-52",
+      "number": "52",
+      "title": "",
+      "date": "2023/03/27",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-53",
+      "number": "53",
+      "title": "",
+      "date": "2023/04/10",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-54",
+      "number": "54",
+      "title": "",
+      "date": "2023/04/24",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-55",
+      "number": "55",
+      "title": "",
+      "date": "2023/06/21",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-56",
+      "number": "56",
+      "title": "",
+      "date": "2023/08/19",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-57",
+      "number": "57",
+      "title": "",
+      "date": "2023/10/18",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-58",
+      "number": "58",
+      "title": "",
+      "date": "2023/12/13",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-59",
+      "number": "59",
+      "title": "",
+      "date": "2024/02/15",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-60",
+      "number": "60",
+      "title": "",
+      "date": "2024/04/26",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-61",
+      "number": "61",
+      "title": "",
+      "date": "2024/06/22",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-62",
+      "number": "62",
+      "title": "",
+      "date": "2024/08/18",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-63",
+      "number": "63",
+      "title": "",
+      "date": "2024/10/19",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-64",
+      "number": "64",
+      "title": "",
+      "date": "2025/01/28",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-65",
+      "number": "65",
+      "title": "",
+      "date": "2025/03/04",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-66",
+      "number": "66",
+      "title": "",
+      "date": "2025/11/12",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-67",
+      "number": "67",
+      "title": "",
+      "date": "2025/11/14",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-68",
+      "number": "68",
+      "title": "",
+      "date": "2025/11/21",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-69",
+      "number": "69",
+      "title": "",
+      "date": "2025/11/28",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-70",
+      "number": "70",
+      "title": "",
+      "date": "2025/12/05",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-71",
+      "number": "71",
+      "title": "",
+      "date": "2025/12/12",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-72",
+      "number": "72",
+      "title": "",
+      "date": "2025/12/19",
+      "pages": []
+    },
+    {
+      "id": "namidaame-to-serenade-73",
+      "number": "73",
+      "title": "",
+      "date": "2025/12/28",
+      "pages": []
+    }
+  ]
+}

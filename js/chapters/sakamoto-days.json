@@ -1,0 +1,4148 @@
+{
+  "pt": [
+    {
+      "id": "sakamoto-days-chapter-1",
+      "number": 1,
+      "title": "Sakamoto Days – Capítulo 1 – O lendário assasino",
+      "date": "2025-04-24T16:00:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 563846
+    },
+    {
+      "id": "sakamoto-days-chapter-2",
+      "number": 2,
+      "title": "Sakamoto Days – Capítulo 2 – Regras da família Sakamoto",
+      "date": "2025-04-24T16:00:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 563850
+    },
+    {
+      "id": "sakamoto-days-chapter-3",
+      "number": 3,
+      "title": "Sakamoto Days – Capítulo 3 – Policial Nakase e o Herói Misterioso",
+      "date": "2025-04-24T16:00:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 563848
+    },
+    {
+      "id": "sakamoto-days-chapter-4",
+      "number": 4,
+      "title": "Sakamoto Days – Capítulo 4 – Invasão Chinesa",
+      "date": "2025-04-24T16:02:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564036
+    },
+    {
+      "id": "sakamoto-days-chapter-5",
+      "number": 5,
+      "title": "Sakamoto Days – Capítulo 5 – vs. Son Hee e Chako",
+      "date": "2025-04-24T16:02:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564041
+    },
+    {
+      "id": "sakamoto-days-chapter-6",
+      "number": 6,
+      "title": "Sakamoto Days – Capítulo 6 – Nagumo",
+      "date": "2025-04-24T16:02:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564040
+    },
+    {
+      "id": "sakamoto-days-chapter-6.1",
+      "number": 6.1,
+      "title": "Sakamoto Days – Capítulo 6.1 – Viagem de negócios",
+      "date": "2025-04-24T16:03:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564232
+    },
+    {
+      "id": "sakamoto-days-chapter-6.2",
+      "number": 6.2,
+      "title": "Sakamoto Days – Capítulo 6.2 – Suzuki Yuuto",
+      "date": "2025-04-24T16:03:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564233
+    },
+    {
+      "id": "sakamoto-days-chapter-7",
+      "number": 7,
+      "title": "Sakamoto Days – Capítulo 7 – Bem-vindo ao Parque Sugar!",
+      "date": "2025-04-24T16:03:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564238
+    },
+    {
+      "id": "sakamoto-days-chapter-8",
+      "number": 8,
+      "title": "Sakamoto Days – Capítulo 8 – Showtime",
+      "date": "2025-04-24T16:03:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564236
+    },
+    {
+      "id": "sakamoto-days-chapter-9",
+      "number": 9,
+      "title": "Sakamoto Days – Capítulo 9 – Boiled e Obiguro",
+      "date": "2025-04-24T16:03:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564235
+    },
+    {
+      "id": "sakamoto-days-chapter-10",
+      "number": 10,
+      "title": "Sakamoto Days – Capítulo 10 – Durão",
+      "date": "2025-04-24T16:03:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564230
+    },
+    {
+      "id": "sakamoto-days-chapter-11",
+      "number": 11,
+      "title": "Sakamoto Days – Capítulo 11 – Sakamoto vs. Boiled",
+      "date": "2025-04-24T16:04:36Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564393
+    },
+    {
+      "id": "sakamoto-days-chapter-12",
+      "number": 12,
+      "title": "Sakamoto Days – Capítulo 12 – Fonte da força",
+      "date": "2025-04-24T16:04:36Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564396
+    },
+    {
+      "id": "sakamoto-days-chapter-13",
+      "number": 13,
+      "title": "Sakamoto Days – Capítulo 13 – Locadora",
+      "date": "2025-04-24T16:04:36Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564394
+    },
+    {
+      "id": "sakamoto-days-chapter-14",
+      "number": 14,
+      "title": "Sakamoto Days – Capítulo 14 – Missão Furtiva",
+      "date": "2025-04-24T16:04:36Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564392
+    },
+    {
+      "id": "sakamoto-days-chapter-15",
+      "number": 15,
+      "title": "Sakamoto Days – Capítulo 15 – Iniciação",
+      "date": "2025-04-24T16:04:36Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564395
+    },
+    {
+      "id": "sakamoto-days-chapter-16",
+      "number": 16,
+      "title": "Sakamoto Days – Capítulo 16 – Guerra no shopping",
+      "date": "2025-04-24T16:05:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564584
+    },
+    {
+      "id": "sakamoto-days-chapter-17",
+      "number": 17,
+      "title": "Sakamoto Days – Capítulo 17 – Mashimo Heisuke",
+      "date": "2025-04-24T16:05:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564586
+    },
+    {
+      "id": "sakamoto-days-chapter-18",
+      "number": 18,
+      "title": "Sakamoto Days – Capítulo 18 – Contra Sniper",
+      "date": "2025-04-24T16:05:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564581
+    },
+    {
+      "id": "sakamoto-days-chapter-19",
+      "number": 19,
+      "title": "Sakamoto Days – Capítulo 19 – Luta",
+      "date": "2025-04-24T16:05:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564587
+    },
+    {
+      "id": "sakamoto-days-chapter-20",
+      "number": 20,
+      "title": "Sakamoto Days – Capítulo 20 – Rodovia invisível",
+      "date": "2025-04-24T16:05:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564588
+    },
+    {
+      "id": "sakamoto-days-chapter-21",
+      "number": 21,
+      "title": "Sakamoto Days – Capítulo 21 – Vamos ao museu!",
+      "date": "2025-04-24T16:06:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564778
+    },
+    {
+      "id": "sakamoto-days-chapter-22",
+      "number": 22,
+      "title": "Sakamoto Days – Capítulo 22 – Desgraçado jurássico",
+      "date": "2025-04-24T16:06:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564779
+    },
+    {
+      "id": "sakamoto-days-chapter-23",
+      "number": 23,
+      "title": "Sakamoto Days – Capítulo 23 – Asakura e Shin",
+      "date": "2025-04-24T16:06:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564775
+    },
+    {
+      "id": "sakamoto-days-chapter-24",
+      "number": 24,
+      "title": "Sakamoto Days – Capítulo 24 – Assassinos x Ciência",
+      "date": "2025-04-24T16:06:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564773
+    },
+    {
+      "id": "sakamoto-days-chapter-25",
+      "number": 25,
+      "title": "Sakamoto Days – Capítulo 25 – Desgraçado da ciência",
+      "date": "2025-04-24T16:06:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564777
+    },
+    {
+      "id": "sakamoto-days-chapter-26",
+      "number": 26,
+      "title": "Sakamoto Days – Capítulo 26 – Order",
+      "date": "2025-04-24T16:07:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564964
+    },
+    {
+      "id": "sakamoto-days-chapter-27",
+      "number": 27,
+      "title": "Sakamoto Days – Capítulo 27",
+      "date": "2025-04-24T16:07:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564965
+    },
+    {
+      "id": "sakamoto-days-chapter-28",
+      "number": 28,
+      "title": "Sakamoto Days – Capítulo 28",
+      "date": "2025-04-24T16:07:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564968
+    },
+    {
+      "id": "sakamoto-days-chapter-29",
+      "number": 29,
+      "title": "Sakamoto Days – Capítulo 29",
+      "date": "2025-04-24T16:07:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564966
+    },
+    {
+      "id": "sakamoto-days-chapter-30",
+      "number": 30,
+      "title": "Sakamoto Days – Capítulo 30 – Silêncio no trem",
+      "date": "2025-04-24T16:07:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 564967
+    },
+    {
+      "id": "sakamoto-days-chapter-31",
+      "number": 31,
+      "title": "Sakamoto Days – Capítulo 31 – Viu?",
+      "date": "2025-04-24T16:08:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 565146
+    },
+    {
+      "id": "sakamoto-days-chapter-32",
+      "number": 32,
+      "title": "Sakamoto Days – Capítulo 32 – Modo casa de banho",
+      "date": "2025-04-24T16:08:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 565149
+    },
+    {
+      "id": "sakamoto-days-chapter-33",
+      "number": 33,
+      "title": "Sakamoto Days – Capítulo 33 – Surpresa",
+      "date": "2025-04-24T16:08:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 565153
+    },
+    {
+      "id": "sakamoto-days-chapter-34",
+      "number": 34,
+      "title": "Sakamoto Days – Capítulo 34 – Wutang",
+      "date": "2025-04-24T16:08:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 565152
+    },
+    {
+      "id": "sakamoto-days-chapter-35",
+      "number": 35,
+      "title": "Sakamoto Days – Capítulo 35 – Wutang (parte 2)",
+      "date": "2025-04-24T16:08:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 565148
+    },
+    {
+      "id": "sakamoto-days-chapter-36",
+      "number": 36,
+      "title": "Sakamoto Days – Capítulo 36",
+      "date": "2025-04-24T16:09:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 565330
+    },
+    {
+      "id": "sakamoto-days-chapter-37",
+      "number": 37,
+      "title": "Sakamoto Days – Capítulo 37",
+      "date": "2025-04-24T16:09:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 565329
+    },
+    {
+      "id": "sakamoto-days-chapter-38",
+      "number": 38,
+      "title": "Sakamoto Days – Capítulo 38 – Sem freios",
+      "date": "2025-04-24T16:09:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 565323
+    },
+    {
+      "id": "sakamoto-days-chapter-39",
+      "number": 39,
+      "title": "Sakamoto Days – Capítulo 39 – Encontro",
+      "date": "2025-04-24T16:09:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 565328
+    },
+    {
+      "id": "sakamoto-days-chapter-40",
+      "number": 40,
+      "title": "Sakamoto Days – Capítulo 40 – Sobrecarga",
+      "date": "2025-04-24T16:09:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 565325
+    },
+    {
+      "id": "sakamoto-days-chapter-41",
+      "number": 41,
+      "title": "Sakamoto Days – Capítulo 41",
+      "date": "2025-04-24T16:10:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 565498
+    },
+    {
+      "id": "sakamoto-days-chapter-42",
+      "number": 42,
+      "title": "Sakamoto Days – Capítulo 42 – Karma ruim",
+      "date": "2025-04-24T16:10:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 565499
+    },
+    {
+      "id": "sakamoto-days-chapter-43",
+      "number": 43,
+      "title": "Sakamoto Days – Capítulo 43",
+      "date": "2025-04-24T16:10:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 565501
+    },
+    {
+      "id": "sakamoto-days-chapter-44",
+      "number": 44,
+      "title": "Sakamoto Days – Capítulo 44",
+      "date": "2025-04-24T16:10:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 565502
+    },
+    {
+      "id": "sakamoto-days-chapter-45",
+      "number": 45,
+      "title": "Sakamoto Days – Capítulo 45 – Ataque pesado",
+      "date": "2025-04-24T16:10:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 565494
+    },
+    {
+      "id": "sakamoto-days-chapter-46",
+      "number": 46,
+      "title": "Sakamoto Days – Capítulo 46 – Má sorte",
+      "date": "2025-04-24T16:12:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 565698
+    },
+    {
+      "id": "sakamoto-days-chapter-47",
+      "number": 47,
+      "title": "Sakamoto Days – Capítulo 47",
+      "date": "2025-04-24T16:12:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 565695
+    },
+    {
+      "id": "sakamoto-days-chapter-48",
+      "number": 48,
+      "title": "Sakamoto Days – Capítulo 48 – O fio do coração",
+      "date": "2025-04-24T16:12:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 565694
+    },
+    {
+      "id": "sakamoto-days-chapter-49",
+      "number": 49,
+      "title": "Sakamoto Days – Capítulo 49 – Dando voltas ao redor da torre",
+      "date": "2025-04-24T16:12:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 565696
+    },
+    {
+      "id": "sakamoto-days-chapter-50",
+      "number": 50,
+      "title": "Sakamoto Days – Capítulo 50",
+      "date": "2025-04-24T16:12:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 565697
+    },
+    {
+      "id": "sakamoto-days-chapter-51",
+      "number": 51,
+      "title": "Sakamoto Days – Capítulo 51 – Desfile",
+      "date": "2025-04-24T16:13:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 565888
+    },
+    {
+      "id": "sakamoto-days-chapter-52",
+      "number": 52,
+      "title": "Sakamoto Days – Capítulo 52 – Dança da espada",
+      "date": "2025-04-24T16:13:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 565891
+    },
+    {
+      "id": "sakamoto-days-chapter-53",
+      "number": 53,
+      "title": "Sakamoto Days – Capítulo 53 – Nem pensar",
+      "date": "2025-04-24T16:13:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 565890
+    },
+    {
+      "id": "sakamoto-days-chapter-54",
+      "number": 54,
+      "title": "Sakamoto Days – Capítulo 54 – Deixa Comigo",
+      "date": "2025-04-24T16:13:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 565892
+    },
+    {
+      "id": "sakamoto-days-chapter-55",
+      "number": 55,
+      "title": "Sakamoto Days – Capítulo 55 – Descanso",
+      "date": "2025-04-24T16:13:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 565885
+    },
+    {
+      "id": "sakamoto-days-chapter-56",
+      "number": 56,
+      "title": "Sakamoto Days – Capítulo 56 – JCC",
+      "date": "2025-04-24T16:14:26Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 566086
+    },
+    {
+      "id": "sakamoto-days-chapter-57",
+      "number": 57,
+      "title": "Sakamoto Days – Capítulo 57 – Tenham uma boa viagem",
+      "date": "2025-04-24T16:14:26Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 566088
+    },
+    {
+      "id": "sakamoto-days-chapter-58",
+      "number": 58,
+      "title": "Sakamoto Days – Capítulo 58 – Novatos",
+      "date": "2025-04-24T16:14:26Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 566085
+    },
+    {
+      "id": "sakamoto-days-chapter-59",
+      "number": 59,
+      "title": "Sakamoto Days – Capítulo 59 – Corta",
+      "date": "2025-04-24T16:14:26Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 566087
+    },
+    {
+      "id": "sakamoto-days-chapter-60",
+      "number": 60,
+      "title": "Sakamoto Days – Capítulo 60 – Kanaguri",
+      "date": "2025-04-24T16:14:26Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 566082
+    },
+    {
+      "id": "sakamoto-days-chapter-61",
+      "number": 61,
+      "title": "Sakamoto Days – Capítulo 61 – Até que boa",
+      "date": "2025-04-24T16:15:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 566278
+    },
+    {
+      "id": "sakamoto-days-chapter-62",
+      "number": 62,
+      "title": "Sakamoto Days – Capítulo 62 – Exame, fase 3",
+      "date": "2025-04-24T16:15:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 566281
+    },
+    {
+      "id": "sakamoto-days-chapter-63",
+      "number": 63,
+      "title": "Sakamoto Days – Capítulo 63 – Sobrevivência",
+      "date": "2025-04-24T16:15:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 566279
+    },
+    {
+      "id": "sakamoto-days-chapter-64",
+      "number": 64,
+      "title": "Sakamoto Days – Capítulo 64 – Caminho",
+      "date": "2025-04-24T16:15:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 566282
+    },
+    {
+      "id": "sakamoto-days-chapter-65",
+      "number": 65,
+      "title": "Sakamoto Days – Capítulo 65 – Fãs mútuos",
+      "date": "2025-04-24T16:15:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 566283
+    },
+    {
+      "id": "sakamoto-days-chapter-66",
+      "number": 66,
+      "title": "Sakamoto Days – Capítulo 66 – LAG",
+      "date": "2025-04-24T16:16:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 566473
+    },
+    {
+      "id": "sakamoto-days-chapter-67",
+      "number": 67,
+      "title": "Sakamoto Days – Capítulo 67 – Home office",
+      "date": "2025-04-24T16:16:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 566475
+    },
+    {
+      "id": "sakamoto-days-chapter-68",
+      "number": 68,
+      "title": "Sakamoto Days – Capítulo 68 – Me chiga",
+      "date": "2025-04-24T16:16:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 566477
+    },
+    {
+      "id": "sakamoto-days-chapter-69",
+      "number": 69,
+      "title": "Sakamoto Days – Capítulo 69 – Kaji",
+      "date": "2025-04-24T16:16:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 566472
+    },
+    {
+      "id": "sakamoto-days-chapter-70",
+      "number": 70,
+      "title": "Sakamoto Days – Capítulo 70 – Sons vs Gaku",
+      "date": "2025-04-24T16:16:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 566478
+    },
+    {
+      "id": "sakamoto-days-chapter-71",
+      "number": 71,
+      "title": "Sakamoto Days – Capítulo 71 – Modo hard",
+      "date": "2025-04-24T16:17:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 566620
+    },
+    {
+      "id": "sakamoto-days-chapter-72",
+      "number": 72,
+      "title": "Sakamoto Days – Capítulo 72 – Até logo",
+      "date": "2025-04-24T16:17:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 566623
+    },
+    {
+      "id": "sakamoto-days-chapter-73",
+      "number": 73,
+      "title": "Sakamoto Days – Capítulo 73 – Raspadinha assasina",
+      "date": "2025-04-24T16:17:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 566625
+    },
+    {
+      "id": "sakamoto-days-chapter-74",
+      "number": 74,
+      "title": "Sakamoto Days – Capítulo 74 – Disfarce",
+      "date": "2025-04-24T16:17:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 566627
+    },
+    {
+      "id": "sakamoto-days-chapter-75",
+      "number": 75,
+      "title": "Sakamoto Days – Capítulo 75 – Maldito telepata",
+      "date": "2025-04-24T16:17:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 566624
+    },
+    {
+      "id": "sakamoto-days-chapter-76",
+      "number": 76,
+      "title": "Sakamoto Days – Capítulo 76 – A missão de cada um",
+      "date": "2025-04-24T16:18:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 566819
+    },
+    {
+      "id": "sakamoto-days-chapter-77",
+      "number": 77,
+      "title": "Sakamoto Days – Capítulo 77 – M-A-T-E-I",
+      "date": "2025-04-24T16:18:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 566821
+    },
+    {
+      "id": "sakamoto-days-chapter-78",
+      "number": 78,
+      "title": "Sakamoto Days – Capítulo 78 – Banido",
+      "date": "2025-04-24T16:18:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 566823
+    },
+    {
+      "id": "sakamoto-days-chapter-79",
+      "number": 79,
+      "title": "Sakamoto Days – Capítulo 79 – Intenção de matar invisível",
+      "date": "2025-04-24T16:18:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 566822
+    },
+    {
+      "id": "sakamoto-days-chapter-80",
+      "number": 80,
+      "title": "Sakamoto Days – Capítulo 80 – Reencontro",
+      "date": "2025-04-24T16:18:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 566824
+    },
+    {
+      "id": "sakamoto-days-chapter-81",
+      "number": 81,
+      "title": "Sakamoto Days – Capítulo 81 – Test",
+      "date": "2025-04-24T16:20:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567019
+    },
+    {
+      "id": "sakamoto-days-chapter-82",
+      "number": 82,
+      "title": "Sakamoto Days – Capítulo 82 – Aikido",
+      "date": "2025-04-24T16:20:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567024
+    },
+    {
+      "id": "sakamoto-days-chapter-83",
+      "number": 83,
+      "title": "Sakamoto Days – Capítulo 83 – Estilo Genial",
+      "date": "2025-04-24T16:20:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567022
+    },
+    {
+      "id": "sakamoto-days-chapter-84",
+      "number": 84,
+      "title": "Sakamoto Days – Capítulo 84 – Que cheiro bom",
+      "date": "2025-04-24T16:20:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567026
+    },
+    {
+      "id": "sakamoto-days-chapter-85",
+      "number": 85,
+      "title": "Sakamoto Days – Capítulo 85 – Pesadelo",
+      "date": "2025-04-24T16:20:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567025
+    },
+    {
+      "id": "sakamoto-days-chapter-86",
+      "number": 86,
+      "title": "Sakamoto Days – Capítulo 86 – Estilo de Terceira",
+      "date": "2025-04-24T16:21:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567193
+    },
+    {
+      "id": "sakamoto-days-chapter-87",
+      "number": 87,
+      "title": "Sakamoto Days – Capítulo 87 – Banco de dados",
+      "date": "2025-04-24T16:21:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567200
+    },
+    {
+      "id": "sakamoto-days-chapter-88",
+      "number": 88,
+      "title": "Sakamoto Days – Capítulo 88 – Clap",
+      "date": "2025-04-24T16:21:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567198
+    },
+    {
+      "id": "sakamoto-days-chapter-89",
+      "number": 89,
+      "title": "Sakamoto Days – Capítulo 89 – Sensei",
+      "date": "2025-04-24T16:21:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567197
+    },
+    {
+      "id": "sakamoto-days-chapter-90",
+      "number": 90,
+      "title": "Sakamoto Days – Capítulo 90",
+      "date": "2025-04-24T16:21:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567199
+    },
+    {
+      "id": "sakamoto-days-chapter-91",
+      "number": 91,
+      "title": "Sakamoto Days – Capítulo 91",
+      "date": "2025-04-24T16:22:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567393
+    },
+    {
+      "id": "sakamoto-days-chapter-92",
+      "number": 92,
+      "title": "Sakamoto Days – Capítulo 92 – Acordo",
+      "date": "2025-04-24T16:22:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567394
+    },
+    {
+      "id": "sakamoto-days-chapter-93",
+      "number": 93,
+      "title": "Sakamoto Days – Capítulo 93",
+      "date": "2025-04-24T16:22:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567387
+    },
+    {
+      "id": "sakamoto-days-chapter-94",
+      "number": 94,
+      "title": "Sakamoto Days – Capítulo 94",
+      "date": "2025-04-24T16:22:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567391
+    },
+    {
+      "id": "sakamoto-days-chapter-95",
+      "number": 95,
+      "title": "Sakamoto Days – Capítulo 95",
+      "date": "2025-04-24T16:22:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567390
+    },
+    {
+      "id": "sakamoto-days-chapter-96",
+      "number": 96,
+      "title": "Sakamoto Days – Capítulo 96",
+      "date": "2025-04-24T16:23:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567594
+    },
+    {
+      "id": "sakamoto-days-chapter-97",
+      "number": 97,
+      "title": "Sakamoto Days – Capítulo 97",
+      "date": "2025-04-24T16:23:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567592
+    },
+    {
+      "id": "sakamoto-days-chapter-98",
+      "number": 98,
+      "title": "Sakamoto Days – Capítulo 98 – Tora Tora",
+      "date": "2025-04-24T16:23:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567597
+    },
+    {
+      "id": "sakamoto-days-chapter-99",
+      "number": 99,
+      "title": "Sakamoto Days – Capítulo 99 – Aquele dia",
+      "date": "2025-04-24T16:23:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567595
+    },
+    {
+      "id": "sakamoto-days-chapter-100",
+      "number": 100,
+      "title": "Sakamoto Days – Capítulo 100 – Trovões e Relâmpagos",
+      "date": "2025-04-24T16:23:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567596
+    },
+    {
+      "id": "sakamoto-days-chapter-101",
+      "number": 101,
+      "title": "Sakamoto Days – Capítulo 101 – Manobras Secretas",
+      "date": "2025-04-24T16:24:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567776
+    },
+    {
+      "id": "sakamoto-days-chapter-102",
+      "number": 102,
+      "title": "Sakamoto Days – Capítulo 102",
+      "date": "2025-04-24T16:24:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567780
+    },
+    {
+      "id": "sakamoto-days-chapter-103",
+      "number": 103,
+      "title": "Sakamoto Days – Capítulo 103",
+      "date": "2025-04-24T16:24:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567782
+    },
+    {
+      "id": "sakamoto-days-chapter-104",
+      "number": 104,
+      "title": "Sakamoto Days – Capítulo 104",
+      "date": "2025-04-24T16:24:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567783
+    },
+    {
+      "id": "sakamoto-days-chapter-105",
+      "number": 105,
+      "title": "Sakamoto Days – Capítulo 105 – Os objetivos de cada um",
+      "date": "2025-04-24T16:24:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567781
+    },
+    {
+      "id": "sakamoto-days-chapter-106",
+      "number": 106,
+      "title": "Sakamoto Days – Capítulo 106",
+      "date": "2025-04-24T16:25:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567959
+    },
+    {
+      "id": "sakamoto-days-chapter-107",
+      "number": 107,
+      "title": "Sakamoto Days – Capítulo 107 – Recordação",
+      "date": "2025-04-24T16:25:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567965
+    },
+    {
+      "id": "sakamoto-days-chapter-108",
+      "number": 108,
+      "title": "Sakamoto Days – Capítulo 108 – Loja de departamento assassino",
+      "date": "2025-04-24T16:25:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567966
+    },
+    {
+      "id": "sakamoto-days-chapter-109",
+      "number": 109,
+      "title": "Sakamoto Days – Capítulo 109 – Kindaka",
+      "date": "2025-04-24T16:25:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567963
+    },
+    {
+      "id": "sakamoto-days-chapter-110",
+      "number": 110,
+      "title": "Sakamoto Days – Capítulo 110 – Missão",
+      "date": "2025-04-24T16:25:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 567961
+    },
+    {
+      "id": "sakamoto-days-chapter-111",
+      "number": 111,
+      "title": "Sakamoto Days – Capítulo 111 – Tarefa de Guarda-Costas",
+      "date": "2025-04-24T16:26:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 568158
+    },
+    {
+      "id": "sakamoto-days-chapter-112",
+      "number": 112,
+      "title": "Sakamoto Days – Capítulo 112 – Mini Missão",
+      "date": "2025-04-24T16:26:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 568155
+    },
+    {
+      "id": "sakamoto-days-chapter-113",
+      "number": 113,
+      "title": "Sakamoto Days – Capítulo 113 – Perseguição",
+      "date": "2025-04-24T16:26:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 568162
+    },
+    {
+      "id": "sakamoto-days-chapter-114",
+      "number": 114,
+      "title": "Sakamoto Days – Capítulo 114 – A função de cada um",
+      "date": "2025-04-24T16:26:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 568161
+    },
+    {
+      "id": "sakamoto-days-chapter-115",
+      "number": 115,
+      "title": "Sakamoto Days – Capítulo 115 – O colecionador de boas ações",
+      "date": "2025-04-24T16:26:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 568160
+    },
+    {
+      "id": "sakamoto-days-chapter-116",
+      "number": 116,
+      "title": "Sakamoto Days – Capítulo 116 – Amigos",
+      "date": "2025-04-24T16:27:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 568320
+    },
+    {
+      "id": "sakamoto-days-chapter-117",
+      "number": 117,
+      "title": "Sakamoto Days – Capítulo 117 – Matar sem se mexer",
+      "date": "2025-04-24T16:27:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 568319
+    },
+    {
+      "id": "sakamoto-days-chapter-118",
+      "number": 118,
+      "title": "Sakamoto Days – Capítulo 118 – Força",
+      "date": "2025-04-24T16:27:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 568322
+    },
+    {
+      "id": "sakamoto-days-chapter-119",
+      "number": 119,
+      "title": "Sakamoto Days – Capítulo 119 – Adeus",
+      "date": "2025-04-24T16:27:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 568324
+    },
+    {
+      "id": "sakamoto-days-chapter-120",
+      "number": 120,
+      "title": "Sakamoto Days – Capítulo 120 – Final",
+      "date": "2025-04-24T16:27:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 568323
+    },
+    {
+      "id": "sakamoto-days-chapter-121",
+      "number": 121,
+      "title": "Sakamoto Days – Capítulo 121 – Rastro misterioso",
+      "date": "2025-04-24T16:28:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 568502
+    },
+    {
+      "id": "sakamoto-days-chapter-122",
+      "number": 122,
+      "title": "Sakamoto Days – Capítulo 122 – Sentimento Ruim",
+      "date": "2025-04-24T16:28:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 568496
+    },
+    {
+      "id": "sakamoto-days-chapter-123",
+      "number": 123,
+      "title": "Sakamoto Days – Capítulo 123 – Um tiro",
+      "date": "2025-04-24T16:28:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 568498
+    },
+    {
+      "id": "sakamoto-days-chapter-124",
+      "number": 124,
+      "title": "Sakamoto Days – Capítulo 124 – Kumanomi",
+      "date": "2025-04-24T16:28:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 568501
+    },
+    {
+      "id": "sakamoto-days-chapter-125",
+      "number": 125,
+      "title": "Sakamoto Days – Capítulo 125 – Minha vez",
+      "date": "2025-04-24T16:28:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 568500
+    },
+    {
+      "id": "sakamoto-days-chapter-126",
+      "number": 126,
+      "title": "Sakamoto Days – Capítulo 126 – Eu vou te matar depois!!",
+      "date": "2025-04-24T16:29:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 568667
+    },
+    {
+      "id": "sakamoto-days-chapter-127",
+      "number": 127,
+      "title": "Sakamoto Days – Capítulo 127 – Adeus",
+      "date": "2025-04-24T16:29:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 568668
+    },
+    {
+      "id": "sakamoto-days-chapter-128",
+      "number": 128,
+      "title": "Sakamoto Days – Capítulo 128 – Convergência",
+      "date": "2025-04-24T16:29:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 568666
+    },
+    {
+      "id": "sakamoto-days-chapter-129",
+      "number": 129,
+      "title": "Sakamoto Days – Capítulo 129 – Reunião",
+      "date": "2025-04-24T16:29:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 568669
+    },
+    {
+      "id": "sakamoto-days-chapter-130",
+      "number": 130,
+      "title": "Sakamoto Days – Capítulo 130 – Reunião Parte 2",
+      "date": "2025-04-24T16:29:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 568664
+    },
+    {
+      "id": "sakamoto-days-chapter-131",
+      "number": 131,
+      "title": "Sakamoto Days – Capítulo 131 – Acordo",
+      "date": "2025-04-24T16:30:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 568842
+    },
+    {
+      "id": "sakamoto-days-chapter-132",
+      "number": 132,
+      "title": "Sakamoto Days – Capítulo 132 – Exposição: Os grandes assassinos do século",
+      "date": "2025-04-24T16:30:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 568844
+    },
+    {
+      "id": "sakamoto-days-chapter-133",
+      "number": 133,
+      "title": "Sakamoto Days – Capítulo 133 – Isca",
+      "date": "2025-04-24T16:30:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 568846
+    },
+    {
+      "id": "sakamoto-days-chapter-134",
+      "number": 134,
+      "title": "Sakamoto Days – Capítulo 134 – The End",
+      "date": "2025-04-24T16:30:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 568849
+    },
+    {
+      "id": "sakamoto-days-chapter-135",
+      "number": 135,
+      "title": "Sakamoto Days – Capítulo 135 – Kamihate",
+      "date": "2025-04-24T16:31:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569029
+    },
+    {
+      "id": "sakamoto-days-chapter-136",
+      "number": 136,
+      "title": "Sakamoto Days – Capítulo 136 – Kamihate, Parte 2",
+      "date": "2025-04-24T16:31:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569024
+    },
+    {
+      "id": "sakamoto-days-chapter-137",
+      "number": 137,
+      "title": "Sakamoto Days – Capítulo 137 – Confiança",
+      "date": "2025-04-24T16:31:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569031
+    },
+    {
+      "id": "sakamoto-days-chapter-138",
+      "number": 138,
+      "title": "Sakamoto Days – Capítulo 138 – Entrega",
+      "date": "2025-04-24T16:31:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569032
+    },
+    {
+      "id": "sakamoto-days-chapter-139",
+      "number": 139,
+      "title": "Sakamoto Days – Capítulo 139 – Excepcional",
+      "date": "2025-04-24T16:31:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569030
+    },
+    {
+      "id": "sakamoto-days-chapter-140",
+      "number": 140,
+      "title": "Sakamoto Days – Capítulo 140 – O objetivo de cada um",
+      "date": "2025-04-24T16:33:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569209
+    },
+    {
+      "id": "sakamoto-days-chapter-141",
+      "number": 141,
+      "title": "Sakamoto Days – Capítulo 141 – Encontro",
+      "date": "2025-04-24T16:33:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569212
+    },
+    {
+      "id": "sakamoto-days-chapter-142",
+      "number": 142,
+      "title": "Sakamoto Days – Capítulo 142 – O Objetivo do Slurr",
+      "date": "2025-04-24T16:33:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569210
+    },
+    {
+      "id": "sakamoto-days-chapter-143",
+      "number": 143,
+      "title": "Sakamoto Days – Capítulo 143 – Entrada",
+      "date": "2025-04-24T16:33:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569213
+    },
+    {
+      "id": "sakamoto-days-chapter-144",
+      "number": 144,
+      "title": "Sakamoto Days – Capítulo 144 – Kaiju",
+      "date": "2025-04-24T16:33:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569215
+    },
+    {
+      "id": "sakamoto-days-chapter-145",
+      "number": 145,
+      "title": "Sakamoto Days – Capítulo 145 – Estalando",
+      "date": "2025-04-24T16:33:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569216
+    },
+    {
+      "id": "sakamoto-days-chapter-146",
+      "number": 146,
+      "title": "Sakamoto Days – Capítulo 146 – Fantasma",
+      "date": "2025-04-24T16:33:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569214
+    },
+    {
+      "id": "sakamoto-days-chapter-147",
+      "number": 147,
+      "title": "Sakamoto Days – Capítulo 147 – Alvoroço",
+      "date": "2025-04-24T16:33:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569217
+    },
+    {
+      "id": "sakamoto-days-chapter-148",
+      "number": 148,
+      "title": "Sakamoto Days – Capítulo 148 – Atividades de Fãs",
+      "date": "2025-04-24T16:34:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569402
+    },
+    {
+      "id": "sakamoto-days-chapter-149",
+      "number": 149,
+      "title": "Sakamoto Days – Capítulo 149 – Protrusão",
+      "date": "2025-04-24T16:34:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569398
+    },
+    {
+      "id": "sakamoto-days-chapter-150",
+      "number": 150,
+      "title": "Sakamoto Days – Capítulo 150 – Valentões",
+      "date": "2025-04-24T16:34:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569401
+    },
+    {
+      "id": "sakamoto-days-chapter-151",
+      "number": 151,
+      "title": "Sakamoto Days – Capítulo 151 – Nagumo vs. Gaku",
+      "date": "2025-04-24T16:34:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569407
+    },
+    {
+      "id": "sakamoto-days-chapter-152",
+      "number": 152,
+      "title": "Sakamoto Days – Capítulo 152 – Speedrun",
+      "date": "2025-04-24T16:34:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569403
+    },
+    {
+      "id": "sakamoto-days-chapter-153",
+      "number": 153,
+      "title": "Sakamoto Days – Capítulo 153 – O que é necessário para matar",
+      "date": "2025-04-24T16:34:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569404
+    },
+    {
+      "id": "sakamoto-days-chapter-154",
+      "number": 154,
+      "title": "Sakamoto Days – Capítulo 154 – Maníacos",
+      "date": "2025-04-24T16:34:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569399
+    },
+    {
+      "id": "sakamoto-days-chapter-155",
+      "number": 155,
+      "title": "Sakamoto Days – Capítulo 155 – Corpo a Corpo",
+      "date": "2025-04-24T16:34:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569405
+    },
+    {
+      "id": "sakamoto-days-chapter-156",
+      "number": 156,
+      "title": "Sakamoto Days – Capítulo 156 – Esportista",
+      "date": "2025-04-24T16:34:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569400
+    },
+    {
+      "id": "sakamoto-days-chapter-157",
+      "number": 157,
+      "title": "Sakamoto Days – Capítulo 157 – Espírito Esportivo",
+      "date": "2025-04-24T16:34:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569406
+    },
+    {
+      "id": "sakamoto-days-chapter-158",
+      "number": 158,
+      "title": "Sakamoto Days – Capítulo 158 – Super Sumô",
+      "date": "2025-04-24T16:35:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569582
+    },
+    {
+      "id": "sakamoto-days-chapter-159",
+      "number": 159,
+      "title": "Sakamoto Days – Capítulo 159",
+      "date": "2025-04-24T16:35:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569583
+    },
+    {
+      "id": "sakamoto-days-chapter-160",
+      "number": 160,
+      "title": "Sakamoto Days – Capítulo 160 – Como meu Mestre",
+      "date": "2025-04-24T16:35:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569580
+    },
+    {
+      "id": "sakamoto-days-chapter-161",
+      "number": 161,
+      "title": "Sakamoto Days – Capítulo 161 – Tubarão",
+      "date": "2025-04-24T16:35:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569581
+    },
+    {
+      "id": "sakamoto-days-chapter-162",
+      "number": 162,
+      "title": "Sakamoto Days – Capítulo 162 – Rostos Familiares",
+      "date": "2025-04-24T16:35:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569585
+    },
+    {
+      "id": "sakamoto-days-chapter-163",
+      "number": 163,
+      "title": "Sakamoto Days – Capítulo 163 – O Infortúnio",
+      "date": "2025-04-24T16:35:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569584
+    },
+    {
+      "id": "sakamoto-days-chapter-164",
+      "number": 164,
+      "title": "Sakamoto Days – Capítulo 164 – Takamura",
+      "date": "2025-04-24T16:37:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569785
+    },
+    {
+      "id": "sakamoto-days-chapter-165",
+      "number": 165,
+      "title": "Sakamoto Days – Capítulo 165 – Acessibilidade",
+      "date": "2025-04-24T16:37:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569786
+    },
+    {
+      "id": "sakamoto-days-chapter-166",
+      "number": 166,
+      "title": "Sakamoto Days – Capítulo 166 – Falso Louco",
+      "date": "2025-04-24T16:37:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569784
+    },
+    {
+      "id": "sakamoto-days-chapter-167",
+      "number": 167,
+      "title": "Sakamoto Days – Capítulo 167 – Vislumbrando o Abismo",
+      "date": "2025-04-24T16:37:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569787
+    },
+    {
+      "id": "sakamoto-days-chapter-168",
+      "number": 168,
+      "title": "Sakamoto Days – Capítulo 168 – Museu Fechado",
+      "date": "2025-04-24T16:37:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569788
+    },
+    {
+      "id": "sakamoto-days-chapter-169",
+      "number": 169,
+      "title": "Sakamoto Days – Capítulo 169 – Uma Nova Missão",
+      "date": "2025-04-24T16:38:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569959
+    },
+    {
+      "id": "sakamoto-days-chapter-170",
+      "number": 170,
+      "title": "Sakamoto Days – Capítulo 170 – Bolo",
+      "date": "2025-04-24T16:38:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569961
+    },
+    {
+      "id": "sakamoto-days-chapter-171",
+      "number": 171,
+      "title": "Sakamoto Days – Capítulo 171 – Pertencimento",
+      "date": "2025-04-24T16:38:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569964
+    },
+    {
+      "id": "sakamoto-days-chapter-172",
+      "number": 172,
+      "title": "Sakamoto Days – Capítulo 172 – Miragem",
+      "date": "2025-04-24T16:38:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569965
+    },
+    {
+      "id": "sakamoto-days-chapter-173",
+      "number": 173,
+      "title": "Sakamoto Days – Capítulo 173 – Fuga",
+      "date": "2025-04-24T16:38:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 569966
+    },
+    {
+      "id": "sakamoto-days-chapter-174",
+      "number": 174,
+      "title": "Sakamoto Days – Capítulo 174 – Um Certo Assassino Habilidoso",
+      "date": "2025-04-24T16:39:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570151
+    },
+    {
+      "id": "sakamoto-days-chapter-175",
+      "number": 175,
+      "title": "Sakamoto Days – Capítulo 175 – Carma",
+      "date": "2025-04-24T16:39:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570146
+    },
+    {
+      "id": "sakamoto-days-chapter-176",
+      "number": 176,
+      "title": "Sakamoto Days – Capítulo 176 – Despertar",
+      "date": "2025-04-24T16:39:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570153
+    },
+    {
+      "id": "sakamoto-days-chapter-177",
+      "number": 177,
+      "title": "Sakamoto Days – Capítulo 177 – Kindaka",
+      "date": "2025-04-24T16:39:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570149
+    },
+    {
+      "id": "sakamoto-days-chapter-178",
+      "number": 178,
+      "title": "Sakamoto Days – Capítulo 178 – Meios e Fim",
+      "date": "2025-04-24T16:39:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570152
+    },
+    {
+      "id": "sakamoto-days-chapter-179",
+      "number": 179,
+      "title": "Sakamoto Days – Capítulo 179 – Torres",
+      "date": "2025-04-24T16:40:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570322
+    },
+    {
+      "id": "sakamoto-days-chapter-180",
+      "number": 180,
+      "title": "Sakamoto Days – Capítulo 180 – Eu conheço alguém",
+      "date": "2025-04-24T16:40:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570320
+    },
+    {
+      "id": "sakamoto-days-chapter-181",
+      "number": 181,
+      "title": "Sakamoto Days – Capítulo 181 – Festa de Boas-Vindas",
+      "date": "2025-04-24T16:40:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570324
+    },
+    {
+      "id": "sakamoto-days-chapter-182",
+      "number": 182,
+      "title": "Sakamoto Days – Capítulo 182 – Um Dia Pacífico",
+      "date": "2025-04-24T16:40:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570323
+    },
+    {
+      "id": "sakamoto-days-chapter-183",
+      "number": 183,
+      "title": "Sakamoto Days – Capítulo 183 – Kase Jo",
+      "date": "2025-04-24T16:40:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570327
+    },
+    {
+      "id": "sakamoto-days-chapter-184",
+      "number": 184,
+      "title": "Sakamoto Days – Capítulo 184 – Eu já te falei",
+      "date": "2025-04-24T16:40:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570326
+    },
+    {
+      "id": "sakamoto-days-chapter-185",
+      "number": 185,
+      "title": "Sakamoto Days – Capítulo 185",
+      "date": "2025-04-24T16:41:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570489
+    },
+    {
+      "id": "sakamoto-days-chapter-186",
+      "number": 186,
+      "title": "Sakamoto Days – Capítulo 186",
+      "date": "2025-04-24T16:41:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570488
+    },
+    {
+      "id": "sakamoto-days-chapter-187",
+      "number": 187,
+      "title": "Sakamoto Days – Capítulo 187",
+      "date": "2025-04-24T16:41:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570490
+    },
+    {
+      "id": "sakamoto-days-chapter-188",
+      "number": 188,
+      "title": "Sakamoto Days – Capítulo 188",
+      "date": "2025-04-24T16:41:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570487
+    },
+    {
+      "id": "sakamoto-days-chapter-189",
+      "number": 189,
+      "title": "Sakamoto Days – Capítulo 189",
+      "date": "2025-04-24T16:41:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570494
+    },
+    {
+      "id": "sakamoto-days-chapter-190",
+      "number": 190,
+      "title": "Sakamoto Days – Capítulo 190 – 1 x 10 elevado a -40000",
+      "date": "2025-04-24T16:41:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570493
+    },
+    {
+      "id": "sakamoto-days-chapter-191",
+      "number": 191,
+      "title": "Sakamoto Days – Capítulo 191 – Sem sorte",
+      "date": "2025-04-24T16:41:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570491
+    },
+    {
+      "id": "sakamoto-days-chapter-192",
+      "number": 192,
+      "title": "Sakamoto Days – Capítulo 192",
+      "date": "2025-04-24T16:41:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570486
+    },
+    {
+      "id": "sakamoto-days-chapter-193",
+      "number": 193,
+      "title": "Sakamoto Days – Capítulo 193",
+      "date": "2025-04-24T16:41:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570485
+    },
+    {
+      "id": "sakamoto-days-chapter-194",
+      "number": 194,
+      "title": "Sakamoto Days – Capítulo 194",
+      "date": "2025-04-24T16:41:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570492
+    },
+    {
+      "id": "sakamoto-days-chapter-195",
+      "number": 195,
+      "title": "Sakamoto Days – Capítulo 195",
+      "date": "2025-04-24T16:43:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570721
+    },
+    {
+      "id": "sakamoto-days-chapter-196",
+      "number": 196,
+      "title": "Sakamoto Days – Capítulo 196",
+      "date": "2025-04-24T16:43:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570716
+    },
+    {
+      "id": "sakamoto-days-chapter-197",
+      "number": 197,
+      "title": "Sakamoto Days – Capítulo 197",
+      "date": "2025-04-24T16:43:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570712
+    },
+    {
+      "id": "sakamoto-days-chapter-198",
+      "number": 198,
+      "title": "Sakamoto Days – Capítulo 198",
+      "date": "2025-04-24T16:43:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570714
+    },
+    {
+      "id": "sakamoto-days-chapter-199",
+      "number": 199,
+      "title": "Sakamoto Days – Capítulo 199",
+      "date": "2025-04-24T16:43:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570720
+    },
+    {
+      "id": "sakamoto-days-chapter-200",
+      "number": 200,
+      "title": "Sakamoto Days – Capítulo 200",
+      "date": "2025-04-24T16:43:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570713
+    },
+    {
+      "id": "sakamoto-days-chapter-201",
+      "number": 201,
+      "title": "Sakamoto Days – Capítulo 201",
+      "date": "2025-04-24T16:43:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570719
+    },
+    {
+      "id": "sakamoto-days-chapter-202",
+      "number": 202,
+      "title": "Capítulo 202",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-203",
+      "number": 203,
+      "title": "Capítulo 203",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-204",
+      "number": 204,
+      "title": "Capítulo 204",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-205",
+      "number": 205,
+      "title": "Capítulo 205",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-206",
+      "number": 206,
+      "title": "Capítulo 206",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-207",
+      "number": 207,
+      "title": "Capítulo 207",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-208",
+      "number": 208,
+      "title": "Sakamoto Days – Capítulo 208 – Espalhando",
+      "date": "2025-04-24T16:43:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570715
+    },
+    {
+      "id": "sakamoto-days-chapter-209",
+      "number": 209,
+      "title": "Sakamoto Days – Capítulo 209 – O Mundo Ideal",
+      "date": "2025-04-24T16:43:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570718
+    },
+    {
+      "id": "sakamoto-days-chapter-210",
+      "number": 210,
+      "title": "Sakamoto Days – Capítulo 210 – Os Impulsos Assassinos",
+      "date": "2025-04-24T16:43:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570717
+    },
+    {
+      "id": "sakamoto-days-chapter-211",
+      "number": 211,
+      "title": "Capítulo 211",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-212",
+      "number": 212,
+      "title": "Capítulo 212",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-213",
+      "number": 213,
+      "title": "Capítulo 213",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-214",
+      "number": 214,
+      "title": "Capítulo 214",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-215",
+      "number": 215,
+      "title": "Capítulo 215",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-216",
+      "number": 216,
+      "title": "Capítulo 216",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-217",
+      "number": 217,
+      "title": "Capítulo 217",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-218",
+      "number": 218,
+      "title": "Capítulo 218",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-219",
+      "number": 219,
+      "title": "Capítulo 219",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-220",
+      "number": 220,
+      "title": "Capítulo 220",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-221",
+      "number": 221,
+      "title": "Capítulo 221",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-222",
+      "number": 222,
+      "title": "Capítulo 222",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-223",
+      "number": 223,
+      "title": "Capítulo 223",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-224",
+      "number": 224,
+      "title": "Capítulo 224",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-225",
+      "number": 225,
+      "title": "Capítulo 225",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-226",
+      "number": 226,
+      "title": "Capítulo 226",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-227",
+      "number": 227,
+      "title": "Capítulo 227",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-228",
+      "number": 228,
+      "title": "Capítulo 228",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-229",
+      "number": 229,
+      "title": "Capítulo 229",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-230",
+      "number": 230,
+      "title": "Capítulo 230",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-231",
+      "number": 231,
+      "title": "Capítulo 231",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-232",
+      "number": 232,
+      "title": "Capítulo 232",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-233",
+      "number": 233,
+      "title": "Capítulo 233",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-234",
+      "number": 234,
+      "title": "Capítulo 234",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-235",
+      "number": 235,
+      "title": "Capítulo 235",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-236",
+      "number": 236,
+      "title": "Capítulo 236",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-237",
+      "number": 237,
+      "title": "Capítulo 237",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-238",
+      "number": 238,
+      "title": "Capítulo 238",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-239",
+      "number": 239,
+      "title": "Capítulo 239",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-240",
+      "number": 240,
+      "title": "Capítulo 240",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-241",
+      "number": 241,
+      "title": "Capítulo 241",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-242",
+      "number": 242,
+      "title": "Capítulo 242",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-243",
+      "number": 243,
+      "title": "Capítulo 243",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-244",
+      "number": 244,
+      "title": "Capítulo 244",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-245",
+      "number": 245,
+      "title": "Capítulo 245",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-246",
+      "number": 246,
+      "title": "Capítulo 246",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-247",
+      "number": 247,
+      "title": "Capítulo 247",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-248",
+      "number": 248,
+      "title": "Capítulo 248",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-249",
+      "number": 249,
+      "title": "Capítulo 249",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-250",
+      "number": 250,
+      "title": "Capítulo 250",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-251",
+      "number": 251,
+      "title": "Capítulo 251",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-252",
+      "number": 252,
+      "title": "Capítulo 252",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-253",
+      "number": 253,
+      "title": "Capítulo 253",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-254",
+      "number": 254,
+      "title": "Capítulo 254",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-255",
+      "number": 255,
+      "title": "Capítulo 255",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-256",
+      "number": 256,
+      "title": "Capítulo 256",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-257",
+      "number": 257,
+      "title": "Capítulo 257",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-258",
+      "number": 258,
+      "title": "Capítulo 258",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-259",
+      "number": 259,
+      "title": "Capítulo 259",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-260",
+      "number": 260,
+      "title": "Capítulo 260",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-261",
+      "number": 261,
+      "title": "Capítulo 261",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-262",
+      "number": 262,
+      "title": "Capítulo 262",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-263",
+      "number": 263,
+      "title": "Capítulo 263",
+      "date": "2026-06-23T22:47:43.128Z",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-chapter-266",
+      "number": 266,
+      "title": "Capítulo 266",
+      "date": "2026-06-23T15:51:55.485Z",
+      "pages": [
+        "https://cdn.leituramanga.net/sakamoto-days/6a3a8cd68e7a2f686de83730/page-AJnKHMcGI0.webp",
+        "https://cdn.leituramanga.net/sakamoto-days/6a3a8cd68e7a2f686de83730/page-L7rYXuYK6W.webp",
+        "https://cdn.leituramanga.net/sakamoto-days/6a3a8cd68e7a2f686de83730/page-NPflKeT31H.webp",
+        "https://cdn.leituramanga.net/sakamoto-days/6a3a8cd68e7a2f686de83730/page-5JMRe4fm1i.webp",
+        "https://cdn.leituramanga.net/sakamoto-days/6a3a8cd68e7a2f686de83730/page-n2eYJGQfpI.webp",
+        "https://cdn.leituramanga.net/sakamoto-days/6a3a8cd68e7a2f686de83730/page-iYOfsevg4a.webp",
+        "https://cdn.leituramanga.net/sakamoto-days/6a3a8cd68e7a2f686de83730/page-BLylldspYA.webp",
+        "https://cdn.leituramanga.net/sakamoto-days/6a3a8cd68e7a2f686de83730/page-2tBqET3Sh6.webp",
+        "https://cdn.leituramanga.net/sakamoto-days/6a3a8cd68e7a2f686de83730/page-coz6LMC2bP.webp",
+        "https://cdn.leituramanga.net/sakamoto-days/6a3a8cd68e7a2f686de83730/page-3jyS8jHQac.webp",
+        "https://cdn.leituramanga.net/sakamoto-days/6a3a8cd68e7a2f686de83730/page-1cEEbqZQ5Y.webp",
+        "https://cdn.leituramanga.net/sakamoto-days/6a3a8cd68e7a2f686de83730/page-kaFbT4jjgF.webp",
+        "https://cdn.leituramanga.net/sakamoto-days/6a3a8cd68e7a2f686de83730/page-DCGwHwlMO2.webp",
+        "https://cdn.leituramanga.net/sakamoto-days/6a3a8cd68e7a2f686de83730/page-sa1TAjzkAe.webp",
+        "https://cdn.leituramanga.net/sakamoto-days/6a3a8cd68e7a2f686de83730/page-bEe2W8btAe.webp",
+        "https://cdn.leituramanga.net/sakamoto-days/6a3a8cd68e7a2f686de83730/page-9bOsKQqsre.webp",
+        "https://cdn.leituramanga.net/sakamoto-days/6a3a8cd68e7a2f686de83730/page-1I6QpnejHg.webp",
+        "https://cdn.leituramanga.net/sakamoto-days/6a3a8cd68e7a2f686de83730/page-U2HHKVASMX.webp",
+        "https://cdn.leituramanga.net/sakamoto-days/6a3a8cd68e7a2f686de83730/page-vKzQoFc1RD.webp"
+      ]
+    }
+  ],
+  "en": [
+    {
+      "id": "sakamoto-days-1",
+      "number": "1",
+      "title": "",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-2",
+      "number": "2",
+      "title": "",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-3",
+      "number": "3",
+      "title": "",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-4",
+      "number": "4",
+      "title": "",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-5",
+      "number": "5",
+      "title": "",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-6",
+      "number": "6",
+      "title": "",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-7",
+      "number": "7",
+      "title": "",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-8",
+      "number": "8",
+      "title": "",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-9",
+      "number": "9",
+      "title": "",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-10",
+      "number": "10",
+      "title": "",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-11",
+      "number": "11",
+      "title": "",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-12",
+      "number": "12",
+      "title": "",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-13",
+      "number": "13",
+      "title": "",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-14",
+      "number": "14",
+      "title": "",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-15",
+      "number": "15",
+      "title": "",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-16",
+      "number": "16",
+      "title": "",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-17",
+      "number": "17",
+      "title": "",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-18",
+      "number": "18",
+      "title": "",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-19",
+      "number": "19",
+      "title": "",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-20",
+      "number": "20",
+      "title": "",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-21",
+      "number": "21",
+      "title": "",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-22",
+      "number": "22",
+      "title": "",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-23",
+      "number": "23",
+      "title": "",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-24",
+      "number": "24",
+      "title": "",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-25",
+      "number": "25",
+      "title": "",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-26",
+      "number": "26",
+      "title": "",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-27",
+      "number": "27",
+      "title": "",
+      "date": "2021/06/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-28",
+      "number": "28",
+      "title": "Top-Notch",
+      "date": "2021/06/20",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-29",
+      "number": "29",
+      "title": "All Aboard",
+      "date": "2021/06/27",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-30",
+      "number": "30",
+      "title": "Quiet on the Train",
+      "date": "2021/07/04",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-31",
+      "number": "31",
+      "title": "See?",
+      "date": "2021/07/11",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-32",
+      "number": "32",
+      "title": "Bathhouse Mode",
+      "date": "2021/07/18",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-33",
+      "number": "33",
+      "title": "Surprise",
+      "date": "2021/08/01",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-34",
+      "number": "34",
+      "title": "Wutang",
+      "date": "2021/08/09",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-35",
+      "number": "35",
+      "title": "Wutang, Part 2",
+      "date": "2021/08/22",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-36",
+      "number": "36",
+      "title": "Wutang, Part 3",
+      "date": "2021/08/29",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-37",
+      "number": "37",
+      "title": "Death Row Prisoner",
+      "date": "2021/09/05",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-38",
+      "number": "38",
+      "title": "No Brakes",
+      "date": "2021/09/12",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-39",
+      "number": "39",
+      "title": "Encounter",
+      "date": "2021/09/17",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-40",
+      "number": "40",
+      "title": "Overload",
+      "date": "2021/09/26",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-41",
+      "number": "41",
+      "title": "How to Live",
+      "date": "2021/10/03",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-42",
+      "number": "42",
+      "title": "Just Desserts",
+      "date": "2021/10/10",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-43",
+      "number": "43",
+      "title": "I Love You",
+      "date": "2021/10/17",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-44",
+      "number": "44",
+      "title": "Every Which Way",
+      "date": "2021/10/24",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-45",
+      "number": "45",
+      "title": "Strong Assault",
+      "date": "2021/10/31",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-46",
+      "number": "46",
+      "title": "Ninitsy the Astral",
+      "date": "2021/11/07",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-47",
+      "number": "47",
+      "title": "Going Up",
+      "date": "2021/11/14",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-48",
+      "number": "48",
+      "title": "The Heart Thread",
+      "date": "2021/11/21",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-49",
+      "number": "49",
+      "title": "Round and Round the Tower",
+      "date": "2021/11/28",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-50",
+      "number": "50",
+      "title": "Bicycle",
+      "date": "2021/12/05",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-51",
+      "number": "51",
+      "title": "Parade",
+      "date": "2021/12/12",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-52",
+      "number": "52",
+      "title": "Slice Slice Dance",
+      "date": "2021/12/19",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-53",
+      "number": "53",
+      "title": "No Way",
+      "date": "2022/01/03",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-54",
+      "number": "54",
+      "title": "I Got This",
+      "date": "2022/01/16",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-55",
+      "number": "55",
+      "title": "Break",
+      "date": "2022/01/23",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-56",
+      "number": "56",
+      "title": "JCC",
+      "date": "2022/01/30",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-57",
+      "number": "57",
+      "title": "Have a nice flight",
+      "date": "2022/02/06",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-58",
+      "number": "58",
+      "title": "Newbies",
+      "date": "2022/02/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-59",
+      "number": "59",
+      "title": "Cut",
+      "date": "2022/02/20",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-60",
+      "number": "60",
+      "title": "Kanaguri",
+      "date": "2022/02/27",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-61",
+      "number": "61",
+      "title": "Pretty Decent",
+      "date": "2022/03/06",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-62",
+      "number": "62",
+      "title": "Exam, Stage Three",
+      "date": "2022/03/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-63",
+      "number": "63",
+      "title": "Survival",
+      "date": "2022/03/18",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-64",
+      "number": "64",
+      "title": "Path",
+      "date": "2022/03/27",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-65",
+      "number": "65",
+      "title": "Mutual Fans",
+      "date": "2022/04/03",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-66",
+      "number": "66",
+      "title": "Lag",
+      "date": "2022/04/10",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-67",
+      "number": "67",
+      "title": "Remote Work",
+      "date": "2022/04/17",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-68",
+      "number": "68",
+      "title": "Fwollow Me",
+      "date": "2022/04/24",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-69",
+      "number": "69",
+      "title": "Kaji",
+      "date": "2022/05/08",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-70",
+      "number": "70",
+      "title": "Sounds vs. Gaku",
+      "date": "2022/05/15",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-71",
+      "number": "71",
+      "title": "Hard Mode",
+      "date": "2022/05/22",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-72",
+      "number": "72",
+      "title": "So Long",
+      "date": "2022/05/29",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-73",
+      "number": "73",
+      "title": "Killer Lotto Scratch",
+      "date": "2022/06/05",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-74",
+      "number": "74",
+      "title": "Undercover",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-75",
+      "number": "75",
+      "title": "Damn Telepath",
+      "date": "2022/06/19",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-76",
+      "number": "76",
+      "title": "Each One's Mission",
+      "date": "2022/06/26",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-77",
+      "number": "77",
+      "title": "K-I-L-L-I-N-G",
+      "date": "2022/07/03",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-78",
+      "number": "78",
+      "title": "Banished",
+      "date": "2022/07/10",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-79",
+      "number": "79",
+      "title": "Invisible Intent to Kill",
+      "date": "2022/07/18",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-80",
+      "number": "80",
+      "title": "Reunion",
+      "date": "2022/07/24",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-81",
+      "number": "81",
+      "title": "Test",
+      "date": "2022/07/31",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-82",
+      "number": "82",
+      "title": "Aikido Love",
+      "date": "2022/08/07",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-83",
+      "number": "83",
+      "title": "Genius Style",
+      "date": "2022/08/21",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-84",
+      "number": "84",
+      "title": "What a Nice Smell",
+      "date": "2022/08/28",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-85",
+      "number": "85",
+      "title": "Nightmare",
+      "date": "2022/09/04",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-86",
+      "number": "86",
+      "title": "Third-Rate Style",
+      "date": "2022/09/11",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-87",
+      "number": "87",
+      "title": "Database",
+      "date": "2022/09/19",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-88",
+      "number": "88",
+      "title": "Clap",
+      "date": "2022/09/25",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-89",
+      "number": "89",
+      "title": "Sensei",
+      "date": "2022/10/02",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-90",
+      "number": "90",
+      "title": "",
+      "date": "2022/10/10",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-91",
+      "number": "91",
+      "title": "Kanaguri Vs. Sakamoto",
+      "date": "2022/10/16",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-92",
+      "number": "92",
+      "title": "Deal",
+      "date": "2022/10/23",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-93",
+      "number": "93",
+      "title": "Rapport",
+      "date": "2022/10/30",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-94",
+      "number": "94",
+      "title": "Twisted",
+      "date": "2022/11/06",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-95",
+      "number": "95",
+      "title": "Amane",
+      "date": "2022/11/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-96",
+      "number": "96",
+      "title": "Healthy",
+      "date": "2022/11/20",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-97",
+      "number": "97",
+      "title": "One Blow",
+      "date": "2022/11/27",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-98",
+      "number": "98",
+      "title": "",
+      "date": "2022/12/04",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-99",
+      "number": "99",
+      "title": "That Day",
+      "date": "2022/12/11",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-100",
+      "number": "100",
+      "title": "",
+      "date": "2022/12/18",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-101",
+      "number": "101",
+      "title": "",
+      "date": "2022/12/25",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-102",
+      "number": "102",
+      "title": "Final Curtain",
+      "date": "2023/01/06",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-103",
+      "number": "103",
+      "title": "",
+      "date": "2023/01/22",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-104",
+      "number": "104",
+      "title": "",
+      "date": "2023/01/29",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-105",
+      "number": "105",
+      "title": "",
+      "date": "2023/02/05",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-106",
+      "number": "106",
+      "title": "Reason",
+      "date": "2023/02/12",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-107",
+      "number": "107",
+      "title": "",
+      "date": "2023/02/19",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-108",
+      "number": "108",
+      "title": "",
+      "date": "2023/02/26",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-109",
+      "number": "109",
+      "title": "",
+      "date": "2023/03/05",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-110",
+      "number": "110",
+      "title": "Mission",
+      "date": "2023/03/12",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-111",
+      "number": "111",
+      "title": "",
+      "date": "2023/03/19",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-112",
+      "number": "112",
+      "title": "",
+      "date": "2023/03/26",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-113",
+      "number": "113",
+      "title": "",
+      "date": "2023/04/02",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-114",
+      "number": "114",
+      "title": "",
+      "date": "2023/04/09",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-115",
+      "number": "115",
+      "title": "",
+      "date": "2023/04/16",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-116",
+      "number": "116",
+      "title": "",
+      "date": "2023/04/23",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-117",
+      "number": "117",
+      "title": "",
+      "date": "2023/05/07",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-118",
+      "number": "118",
+      "title": "Strength",
+      "date": "2023/05/14",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-119",
+      "number": "119",
+      "title": "",
+      "date": "2023/05/21",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-120",
+      "number": "120",
+      "title": "",
+      "date": "2023/05/28",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-121",
+      "number": "121",
+      "title": "",
+      "date": "2023/06/04",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-122",
+      "number": "122",
+      "title": "Bad Feeling",
+      "date": "2023/06/11",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-123",
+      "number": "123",
+      "title": "",
+      "date": "2023/06/18",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-124",
+      "number": "124",
+      "title": "Kumanomi",
+      "date": "2023/06/25",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-125",
+      "number": "125",
+      "title": "",
+      "date": "2023/07/02",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-126",
+      "number": "126",
+      "title": "",
+      "date": "2023/07/09",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-127",
+      "number": "127",
+      "title": "",
+      "date": "2023/07/16",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-128",
+      "number": "128",
+      "title": "",
+      "date": "2023/07/23",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-129",
+      "number": "129",
+      "title": "",
+      "date": "2023/07/30",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-130",
+      "number": "130",
+      "title": "",
+      "date": "2023/08/06",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-131",
+      "number": "131",
+      "title": "",
+      "date": "2023/08/18",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-132",
+      "number": "132",
+      "title": "",
+      "date": "2023/08/27",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-133",
+      "number": "133",
+      "title": "",
+      "date": "2023/09/03",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-134",
+      "number": "134",
+      "title": "",
+      "date": "2023/09/10",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-135",
+      "number": "135",
+      "title": "",
+      "date": "2023/09/17",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-136",
+      "number": "136",
+      "title": "",
+      "date": "2023/09/24",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-137",
+      "number": "137",
+      "title": "",
+      "date": "2023/10/01",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-138",
+      "number": "138",
+      "title": "",
+      "date": "2023/10/08",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-139",
+      "number": "139",
+      "title": "",
+      "date": "2023/10/15",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-140",
+      "number": "140",
+      "title": "",
+      "date": "2023/10/22",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-141",
+      "number": "141",
+      "title": "",
+      "date": "2023/10/29",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-142",
+      "number": "142",
+      "title": "",
+      "date": "2023/11/05",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-143",
+      "number": "143",
+      "title": "",
+      "date": "2023/11/12",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-144",
+      "number": "144",
+      "title": "",
+      "date": "2023/11/19",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-145",
+      "number": "145",
+      "title": "",
+      "date": "2023/11/26",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-146",
+      "number": "146",
+      "title": "",
+      "date": "2023/12/03",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-147",
+      "number": "147",
+      "title": "",
+      "date": "2023/12/08",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-148",
+      "number": "148",
+      "title": "",
+      "date": "2023/12/17",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-149",
+      "number": "149",
+      "title": "",
+      "date": "2023/12/24",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-150",
+      "number": "150",
+      "title": "",
+      "date": "2023/12/28",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-151",
+      "number": "151",
+      "title": "",
+      "date": "2024/01/19",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-152",
+      "number": "152",
+      "title": "",
+      "date": "2024/01/28",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-153",
+      "number": "153",
+      "title": "",
+      "date": "2024/02/02",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-154",
+      "number": "154",
+      "title": "",
+      "date": "2024/02/11",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-155",
+      "number": "155",
+      "title": "",
+      "date": "2024/02/18",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-156",
+      "number": "156",
+      "title": "",
+      "date": "2024/02/25",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-157",
+      "number": "157",
+      "title": "",
+      "date": "2024/03/03",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-158",
+      "number": "158",
+      "title": "",
+      "date": "2024/03/10",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-159",
+      "number": "159",
+      "title": "",
+      "date": "2024/03/17",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-160",
+      "number": "160",
+      "title": "",
+      "date": "2024/03/24",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-161",
+      "number": "161",
+      "title": "",
+      "date": "2024/04/07",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-162",
+      "number": "162",
+      "title": "",
+      "date": "2024/04/14",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-163",
+      "number": "163",
+      "title": "",
+      "date": "2024/04/21",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-164",
+      "number": "164",
+      "title": "",
+      "date": "2024/04/28",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-165",
+      "number": "165",
+      "title": "",
+      "date": "2024/05/12",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-166",
+      "number": "166",
+      "title": "",
+      "date": "2024/05/19",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-167",
+      "number": "167",
+      "title": "",
+      "date": "2024/05/26",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-168",
+      "number": "168",
+      "title": "",
+      "date": "2024/06/02",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-169",
+      "number": "169",
+      "title": "",
+      "date": "2024/06/09",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-170",
+      "number": "170",
+      "title": "",
+      "date": "2024/06/16",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-171",
+      "number": "171",
+      "title": "",
+      "date": "2024/06/23",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-172",
+      "number": "172",
+      "title": "",
+      "date": "2024/06/30",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-173",
+      "number": "173",
+      "title": "",
+      "date": "2024/07/07",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-174",
+      "number": "174",
+      "title": "",
+      "date": "2024/07/14",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-175",
+      "number": "175",
+      "title": "",
+      "date": "2024/07/21",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-176",
+      "number": "176",
+      "title": "",
+      "date": "2024/07/28",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-177",
+      "number": "177",
+      "title": "",
+      "date": "2024/08/04",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-178",
+      "number": "178",
+      "title": "",
+      "date": "2024/08/18",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-179",
+      "number": "179",
+      "title": "",
+      "date": "2024/08/25",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-180",
+      "number": "180",
+      "title": "",
+      "date": "2024/09/01",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-181",
+      "number": "181",
+      "title": "",
+      "date": "2024/09/08",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-182",
+      "number": "182",
+      "title": "",
+      "date": "2024/09/15",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-183",
+      "number": "183",
+      "title": "",
+      "date": "2024/09/21",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-184",
+      "number": "184",
+      "title": "",
+      "date": "2024/09/29",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-185",
+      "number": "185",
+      "title": "",
+      "date": "2024/10/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-186",
+      "number": "186",
+      "title": "",
+      "date": "2024/10/20",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-187",
+      "number": "187",
+      "title": "",
+      "date": "2024/10/27",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-188",
+      "number": "188",
+      "title": "",
+      "date": "2024/11/03",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-189",
+      "number": "189",
+      "title": "",
+      "date": "2024/11/10",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-190",
+      "number": "190",
+      "title": "",
+      "date": "2024/11/17",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-191",
+      "number": "191",
+      "title": "",
+      "date": "2024/11/24",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-192",
+      "number": "192",
+      "title": "",
+      "date": "2024/12/01",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-193",
+      "number": "193",
+      "title": "",
+      "date": "2024/12/08",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-194",
+      "number": "194",
+      "title": "",
+      "date": "2024/12/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-195",
+      "number": "195",
+      "title": "",
+      "date": "2024/12/22",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-196",
+      "number": "196",
+      "title": "",
+      "date": "2025/01/03",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-197",
+      "number": "197",
+      "title": "",
+      "date": "2025/01/19",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-198",
+      "number": "198",
+      "title": "",
+      "date": "2025/01/26",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-199",
+      "number": "199",
+      "title": "",
+      "date": "2025/02/01",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-200",
+      "number": "200",
+      "title": "",
+      "date": "2025/02/07",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-201",
+      "number": "201",
+      "title": "",
+      "date": "2025/02/16",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-202",
+      "number": "202",
+      "title": "",
+      "date": "2025/02/23",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-203",
+      "number": "203",
+      "title": "",
+      "date": "2025/03/02",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-204",
+      "number": "204",
+      "title": "",
+      "date": "2025/03/09",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-205",
+      "number": "205",
+      "title": "",
+      "date": "2025/03/16",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-206",
+      "number": "206",
+      "title": "",
+      "date": "2025/03/23",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-207",
+      "number": "207",
+      "title": "",
+      "date": "2025/03/30",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-208",
+      "number": "208",
+      "title": "",
+      "date": "2025/04/06",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-209",
+      "number": "209",
+      "title": "",
+      "date": "2025/04/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-210",
+      "number": "210",
+      "title": "",
+      "date": "2025/04/18",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-211",
+      "number": "211",
+      "title": "",
+      "date": "2025/04/27",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-212",
+      "number": "212",
+      "title": "",
+      "date": "2025/05/08",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-213",
+      "number": "213",
+      "title": "",
+      "date": "2025/05/18",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-214",
+      "number": "214",
+      "title": "",
+      "date": "2025/05/25",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-215",
+      "number": "215",
+      "title": "",
+      "date": "2025/06/01",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-216",
+      "number": "216",
+      "title": "",
+      "date": "2025/06/08",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-217",
+      "number": "217",
+      "title": "",
+      "date": "2025/06/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-218",
+      "number": "218",
+      "title": "",
+      "date": "2025/06/22",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-219",
+      "number": "219",
+      "title": "",
+      "date": "2025/06/29",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-220",
+      "number": "220",
+      "title": "",
+      "date": "2025/07/06",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-221",
+      "number": "221",
+      "title": "",
+      "date": "2025/07/11",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-222",
+      "number": "222",
+      "title": "",
+      "date": "2025/07/18",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-223",
+      "number": "223",
+      "title": "",
+      "date": "2025/07/27",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-224",
+      "number": "224",
+      "title": "",
+      "date": "2025/08/02",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-225",
+      "number": "225",
+      "title": "",
+      "date": "2025/08/17",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-226",
+      "number": "226",
+      "title": "",
+      "date": "2025/08/24",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-227",
+      "number": "227",
+      "title": "",
+      "date": "2025/08/31",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-228",
+      "number": "228",
+      "title": "",
+      "date": "2025/09/06",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-229",
+      "number": "229",
+      "title": "",
+      "date": "2025/09/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-230",
+      "number": "230",
+      "title": "",
+      "date": "2025/09/21",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-231",
+      "number": "231",
+      "title": "",
+      "date": "2025/09/28",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-232",
+      "number": "232",
+      "title": "",
+      "date": "2025/10/05",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-233",
+      "number": "233",
+      "title": "",
+      "date": "2025/10/19",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-234",
+      "number": "234",
+      "title": "",
+      "date": "2025/10/25",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-235",
+      "number": "235",
+      "title": "",
+      "date": "2025/11/02",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-236",
+      "number": "236",
+      "title": "",
+      "date": "2025/11/09",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-237",
+      "number": "237",
+      "title": "",
+      "date": "2025/11/15",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-238",
+      "number": "238",
+      "title": "",
+      "date": "2025/11/23",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-239",
+      "number": "239",
+      "title": "",
+      "date": "2025/11/30",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-240",
+      "number": "240",
+      "title": "",
+      "date": "2025/12/07",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-241",
+      "number": "241",
+      "title": "",
+      "date": "2025/12/14",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-242",
+      "number": "242",
+      "title": "",
+      "date": "2025/12/21",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-243",
+      "number": "243",
+      "title": "",
+      "date": "2026/01/02",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-244",
+      "number": "244",
+      "title": "",
+      "date": "2026/01/18",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-245",
+      "number": "245",
+      "title": "",
+      "date": "2026/01/25",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-246",
+      "number": "246",
+      "title": "",
+      "date": "2026/02/01",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-247",
+      "number": "247",
+      "title": "",
+      "date": "2026/02/08",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-248",
+      "number": "248",
+      "title": "",
+      "date": "2026/02/13",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-249",
+      "number": "249",
+      "title": "",
+      "date": "2026/02/20",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-250",
+      "number": "250",
+      "title": "",
+      "date": "2026/03/08",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-251",
+      "number": "251",
+      "title": "",
+      "date": "2026/03/15",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-252",
+      "number": "252",
+      "title": "",
+      "date": "2026/03/22",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-253",
+      "number": "253",
+      "title": "",
+      "date": "2026/03/29",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-254",
+      "number": "254",
+      "title": "",
+      "date": "2026/04/05",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-255",
+      "number": "255",
+      "title": "",
+      "date": "2026/04/12",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-256",
+      "number": "256",
+      "title": "",
+      "date": "2026/04/19",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-257",
+      "number": "257",
+      "title": "",
+      "date": "2026/04/26",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-258",
+      "number": "258",
+      "title": "",
+      "date": "2026/05/10",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-259",
+      "number": "259",
+      "title": "",
+      "date": "2026/05/17",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-260",
+      "number": "260",
+      "title": "",
+      "date": "2026/05/24",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-261",
+      "number": "261",
+      "title": "",
+      "date": "2026/05/31",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-262",
+      "number": "262",
+      "title": "",
+      "date": "2026/06/07",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-263",
+      "number": "263",
+      "title": "",
+      "date": "2026/06/14",
+      "pages": []
+    },
+    {
+      "id": "sakamoto-days-264",
+      "number": "264",
+      "title": "",
+      "date": "2026/06/21",
+      "pages": []
+    }
+  ]
+}

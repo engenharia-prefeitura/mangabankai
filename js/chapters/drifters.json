@@ -1,0 +1,592 @@
+{
+  "en": [
+    {
+      "id": "drifters-1",
+      "number": "1",
+      "title": "16001021",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "drifters-2",
+      "number": "2",
+      "title": "15820621",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "drifters-3",
+      "number": "3",
+      "title": "The Devil Lord of the 6th Heaven",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "drifters-4",
+      "number": "4",
+      "title": "The Moon Over the Castle in Ruins",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "drifters-5",
+      "number": "5",
+      "title": "Footsteps",
+      "date": "2009/09/04",
+      "pages": []
+    },
+    {
+      "id": "drifters-6",
+      "number": "6",
+      "title": "The Powerless Ones",
+      "date": "2009/10/06",
+      "pages": []
+    },
+    {
+      "id": "drifters-7",
+      "number": "7",
+      "title": "Hurry Go Round",
+      "date": "2009/11/01",
+      "pages": []
+    },
+    {
+      "id": "drifters-8",
+      "number": "8",
+      "title": "Army of Mine - Arms Rising at Dawn",
+      "date": "2009/12/02",
+      "pages": []
+    },
+    {
+      "id": "drifters-9",
+      "number": "9",
+      "title": "Burn My Dread",
+      "date": "2009/12/28",
+      "pages": []
+    },
+    {
+      "id": "drifters-10",
+      "number": "10",
+      "title": "My Boyfriend is a Pilot",
+      "date": "2010/01/30",
+      "pages": []
+    },
+    {
+      "id": "drifters-11",
+      "number": "11",
+      "title": "",
+      "date": "2010/03/02",
+      "pages": []
+    },
+    {
+      "id": "drifters-12",
+      "number": "12",
+      "title": "Active Heart",
+      "date": "2010/05/07",
+      "pages": []
+    },
+    {
+      "id": "drifters-13",
+      "number": "13",
+      "title": "Stand Up To The Victory",
+      "date": "2010/07/03",
+      "pages": []
+    },
+    {
+      "id": "drifters-14",
+      "number": "14",
+      "title": "Ready Steady Go",
+      "date": "2010/07/04",
+      "pages": []
+    },
+    {
+      "id": "drifters-15",
+      "number": "15",
+      "title": "Monky Magic",
+      "date": "2010/10/27",
+      "pages": []
+    },
+    {
+      "id": "drifters-16",
+      "number": "16",
+      "title": "16",
+      "date": "2010/10/30",
+      "pages": []
+    },
+    {
+      "id": "drifters-17",
+      "number": "17",
+      "title": "17",
+      "date": "2010/11/03",
+      "pages": []
+    },
+    {
+      "id": "drifters-18",
+      "number": "18",
+      "title": "Men of Destiny",
+      "date": "2010/12/31",
+      "pages": []
+    },
+    {
+      "id": "drifters-19",
+      "number": "19",
+      "title": "Dive For You",
+      "date": "2011/02/03",
+      "pages": []
+    },
+    {
+      "id": "drifters-20",
+      "number": "20",
+      "title": "Searchlight",
+      "date": "2011/03/01",
+      "pages": []
+    },
+    {
+      "id": "drifters-21",
+      "number": "21",
+      "title": "Chaos Driver",
+      "date": "2011/05/03",
+      "pages": []
+    },
+    {
+      "id": "drifters-22",
+      "number": "22",
+      "title": "Tatakai No Collateral",
+      "date": "2011/07/06",
+      "pages": []
+    },
+    {
+      "id": "drifters-23",
+      "number": "23",
+      "title": "Touch And Go!!",
+      "date": "2011/08/06",
+      "pages": []
+    },
+    {
+      "id": "drifters-24",
+      "number": "24",
+      "title": "Kick It Out",
+      "date": "2011/10/03",
+      "pages": []
+    },
+    {
+      "id": "drifters-25",
+      "number": "25",
+      "title": "Call Me",
+      "date": "2011/11/10",
+      "pages": []
+    },
+    {
+      "id": "drifters-26",
+      "number": "26",
+      "title": "Changed Edge",
+      "date": "2012/01/07",
+      "pages": []
+    },
+    {
+      "id": "drifters-27",
+      "number": "27",
+      "title": "Guardian Angel",
+      "date": "2012/03/23",
+      "pages": []
+    },
+    {
+      "id": "drifters-28",
+      "number": "28",
+      "title": "Dynamite Explosion",
+      "date": "2012/04/07",
+      "pages": []
+    },
+    {
+      "id": "drifters-29",
+      "number": "29",
+      "title": "Honki Bomber",
+      "date": "2012/06/22",
+      "pages": []
+    },
+    {
+      "id": "drifters-30",
+      "number": "30",
+      "title": "Raison D'etre",
+      "date": "2012/07/09",
+      "pages": []
+    },
+    {
+      "id": "drifters-31",
+      "number": "31",
+      "title": "Gohan Wa Okazu",
+      "date": "2012/08/04",
+      "pages": []
+    },
+    {
+      "id": "drifters-32",
+      "number": "32",
+      "title": "Omen",
+      "date": "2012/11/20",
+      "pages": []
+    },
+    {
+      "id": "drifters-33",
+      "number": "33",
+      "title": "Baby Yetu",
+      "date": "2012/11/25",
+      "pages": []
+    },
+    {
+      "id": "drifters-34",
+      "number": "34",
+      "title": "How Come?",
+      "date": "2013/03/10",
+      "pages": []
+    },
+    {
+      "id": "drifters-35",
+      "number": "35",
+      "title": "Accomplices Laugh",
+      "date": "2013/03/11",
+      "pages": []
+    },
+    {
+      "id": "drifters-36",
+      "number": "36",
+      "title": "Golden Time Lover",
+      "date": "2013/10/30",
+      "pages": []
+    },
+    {
+      "id": "drifters-37",
+      "number": "37",
+      "title": "Smileless Smile",
+      "date": "2014/04/08",
+      "pages": []
+    },
+    {
+      "id": "drifters-38",
+      "number": "38",
+      "title": "Dont Interfere",
+      "date": "2014/04/16",
+      "pages": []
+    },
+    {
+      "id": "drifters-39",
+      "number": "39",
+      "title": "The Pistol Daimyos",
+      "date": "2014/04/16",
+      "pages": []
+    },
+    {
+      "id": "drifters-40",
+      "number": "40",
+      "title": "Mitsumete Shinsengumi",
+      "date": "2014/04/19",
+      "pages": []
+    },
+    {
+      "id": "drifters-41",
+      "number": "41",
+      "title": "Ghost Sweeper",
+      "date": "2014/04/19",
+      "pages": []
+    },
+    {
+      "id": "drifters-42",
+      "number": "42",
+      "title": "Warriors Dance",
+      "date": "2014/04/27",
+      "pages": []
+    },
+    {
+      "id": "drifters-43",
+      "number": "43",
+      "title": "Okuman Shousha",
+      "date": "2014/05/06",
+      "pages": []
+    },
+    {
+      "id": "drifters-44",
+      "number": "44",
+      "title": "",
+      "date": "2014/05/06",
+      "pages": []
+    },
+    {
+      "id": "drifters-45",
+      "number": "45",
+      "title": "What Bout My Start",
+      "date": "2014/09/08",
+      "pages": []
+    },
+    {
+      "id": "drifters-46",
+      "number": "46",
+      "title": "Money Money Money",
+      "date": "2015/02/05",
+      "pages": []
+    },
+    {
+      "id": "drifters-47",
+      "number": "47",
+      "title": "Mononoke Dance",
+      "date": "2015/02/23",
+      "pages": []
+    },
+    {
+      "id": "drifters-48",
+      "number": "48",
+      "title": "Become the me that is anything but human",
+      "date": "2015/02/23",
+      "pages": []
+    },
+    {
+      "id": "drifters-49",
+      "number": "49",
+      "title": "Rewrite",
+      "date": "2015/03/21",
+      "pages": []
+    },
+    {
+      "id": "drifters-50",
+      "number": "50",
+      "title": "Bring on a war",
+      "date": "2015/04/25",
+      "pages": []
+    },
+    {
+      "id": "drifters-51",
+      "number": "51",
+      "title": "Fake Hooligan",
+      "date": "2015/05/10",
+      "pages": []
+    },
+    {
+      "id": "drifters-52",
+      "number": "52",
+      "title": "The Most Awesome Guy in Class",
+      "date": "2015/07/06",
+      "pages": []
+    },
+    {
+      "id": "drifters-53",
+      "number": "53",
+      "title": "Hybrid New Mode Theory",
+      "date": "2015/07/14",
+      "pages": []
+    },
+    {
+      "id": "drifters-54",
+      "number": "54",
+      "title": "Outlandish Night",
+      "date": "2015/09/27",
+      "pages": []
+    },
+    {
+      "id": "drifters-55",
+      "number": "55",
+      "title": "",
+      "date": "2015/11/07",
+      "pages": []
+    },
+    {
+      "id": "drifters-56",
+      "number": "56",
+      "title": "",
+      "date": "2015/12/06",
+      "pages": []
+    },
+    {
+      "id": "drifters-57",
+      "number": "57",
+      "title": "",
+      "date": "2016/01/08",
+      "pages": []
+    },
+    {
+      "id": "drifters-58",
+      "number": "58",
+      "title": "Nowhere to Hide",
+      "date": "2016/03/10",
+      "pages": []
+    },
+    {
+      "id": "drifters-59",
+      "number": "59",
+      "title": "Draw a Line",
+      "date": "2016/04/12",
+      "pages": []
+    },
+    {
+      "id": "drifters-60",
+      "number": "60",
+      "title": "",
+      "date": "2016/06/05",
+      "pages": []
+    },
+    {
+      "id": "drifters-61",
+      "number": "61",
+      "title": "",
+      "date": "2016/07/07",
+      "pages": []
+    },
+    {
+      "id": "drifters-62",
+      "number": "62",
+      "title": "",
+      "date": "2016/10/29",
+      "pages": []
+    },
+    {
+      "id": "drifters-63",
+      "number": "63",
+      "title": "",
+      "date": "2016/12/12",
+      "pages": []
+    },
+    {
+      "id": "drifters-64",
+      "number": "64",
+      "title": "",
+      "date": "2017/01/22",
+      "pages": []
+    },
+    {
+      "id": "drifters-65",
+      "number": "65",
+      "title": "Dream color chaser",
+      "date": "2017/04/18",
+      "pages": []
+    },
+    {
+      "id": "drifters-66",
+      "number": "66",
+      "title": "",
+      "date": "2017/06/13",
+      "pages": []
+    },
+    {
+      "id": "drifters-67",
+      "number": "67",
+      "title": "Malicious Afterglow",
+      "date": "2017/09/22",
+      "pages": []
+    },
+    {
+      "id": "drifters-68",
+      "number": "68",
+      "title": "Reason",
+      "date": "2017/09/22",
+      "pages": []
+    },
+    {
+      "id": "drifters-69",
+      "number": "69",
+      "title": "",
+      "date": "2017/12/31",
+      "pages": []
+    },
+    {
+      "id": "drifters-70",
+      "number": "70",
+      "title": "",
+      "date": "2018/03/16",
+      "pages": []
+    },
+    {
+      "id": "drifters-71",
+      "number": "71",
+      "title": "",
+      "date": "2018/05/28",
+      "pages": []
+    },
+    {
+      "id": "drifters-72",
+      "number": "72",
+      "title": "",
+      "date": "2018/09/06",
+      "pages": []
+    },
+    {
+      "id": "drifters-73",
+      "number": "73",
+      "title": "",
+      "date": "2019/03/12",
+      "pages": []
+    },
+    {
+      "id": "drifters-74",
+      "number": "74",
+      "title": "",
+      "date": "2019/05/07",
+      "pages": []
+    },
+    {
+      "id": "drifters-75",
+      "number": "75",
+      "title": "",
+      "date": "2019/05/07",
+      "pages": []
+    },
+    {
+      "id": "drifters-76",
+      "number": "76",
+      "title": "",
+      "date": "2019/05/07",
+      "pages": []
+    },
+    {
+      "id": "drifters-77",
+      "number": "77",
+      "title": "",
+      "date": "2019/06/11",
+      "pages": []
+    },
+    {
+      "id": "drifters-78",
+      "number": "78",
+      "title": "Country Road",
+      "date": "2019/10/10",
+      "pages": []
+    },
+    {
+      "id": "drifters-79",
+      "number": "79",
+      "title": "Unyielding Wish",
+      "date": "2020/01/10",
+      "pages": []
+    },
+    {
+      "id": "drifters-80",
+      "number": "80",
+      "title": "Joy",
+      "date": "2020/09/27",
+      "pages": []
+    },
+    {
+      "id": "drifters-81",
+      "number": "81",
+      "title": "",
+      "date": "2021/02/05",
+      "pages": []
+    },
+    {
+      "id": "drifters-82",
+      "number": "82",
+      "title": "",
+      "date": "2021/08/15",
+      "pages": []
+    },
+    {
+      "id": "drifters-83",
+      "number": "83",
+      "title": "The Island to the South",
+      "date": "2021/08/15",
+      "pages": []
+    },
+    {
+      "id": "drifters-84",
+      "number": "84",
+      "title": "",
+      "date": "2025/05/25",
+      "pages": []
+    }
+  ]
+}

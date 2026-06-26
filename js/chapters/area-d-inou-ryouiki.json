@@ -1,0 +1,956 @@
+{
+  "en": [
+    {
+      "id": "area-d-inou-ryouiki-1",
+      "number": 1,
+      "title": "Chapter 1",
+      "date": "2012/03/18",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-2",
+      "number": 2,
+      "title": "Chapter 2",
+      "date": "2012/03/27",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-3",
+      "number": 3,
+      "title": "Chapter 3",
+      "date": "2012/04/04",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-4",
+      "number": 4,
+      "title": "Chapter 4",
+      "date": "2012/04/10",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-5",
+      "number": 5,
+      "title": "Chapter 5",
+      "date": "2012/04/21",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-6",
+      "number": 6,
+      "title": "Chapter 6",
+      "date": "2012/04/28",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-7",
+      "number": 7,
+      "title": "Chapter 7",
+      "date": "2012/05/09",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-8",
+      "number": 8,
+      "title": "Chapter 8",
+      "date": "2012/06/08",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-9",
+      "number": 9,
+      "title": "Chapter 9",
+      "date": "2012/06/25",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-10",
+      "number": 10,
+      "title": "Chapter 10",
+      "date": "2012/06/29",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-11",
+      "number": 11,
+      "title": "Chapter 11",
+      "date": "2012/07/09",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-12",
+      "number": 12,
+      "title": "Chapter 12",
+      "date": "2012/07/30",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-13",
+      "number": 13,
+      "title": "Chapter 13",
+      "date": "2012/07/31",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-14",
+      "number": 14,
+      "title": "Chapter 14",
+      "date": "2012/08/01",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-15",
+      "number": 15,
+      "title": "Chapter 15",
+      "date": "2012/08/01",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-16",
+      "number": 16,
+      "title": "Chapter 16",
+      "date": "2012/08/01",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-17",
+      "number": 17,
+      "title": "Chapter 17",
+      "date": "2012/08/29",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-18",
+      "number": 18,
+      "title": "Chapter 18",
+      "date": "2012/09/09",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-19",
+      "number": 19,
+      "title": "Chapter 19",
+      "date": "2012/09/18",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-20",
+      "number": 20,
+      "title": "Chapter 20",
+      "date": "2012/09/22",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-21",
+      "number": 21,
+      "title": "Chapter 21",
+      "date": "2012/10/07",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-22",
+      "number": 22,
+      "title": "Chapter 22",
+      "date": "2012/10/13",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-23",
+      "number": 23,
+      "title": "Chapter 23",
+      "date": "2012/10/13",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-24",
+      "number": 24,
+      "title": "Chapter 24",
+      "date": "2012/10/21",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-25",
+      "number": 25,
+      "title": "Chapter 25",
+      "date": "2012/10/26",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-26",
+      "number": 26,
+      "title": "Chapter 26",
+      "date": "2012/11/15",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-27",
+      "number": 27,
+      "title": "Chapter 27",
+      "date": "2012/11/19",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-28",
+      "number": 28,
+      "title": "Chapter 28",
+      "date": "2012/11/23",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-29",
+      "number": 29,
+      "title": "Chapter 29",
+      "date": "2012/12/24",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-30",
+      "number": 30,
+      "title": "Chapter 30",
+      "date": "2012/12/31",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-31",
+      "number": 31,
+      "title": "Chapter 31",
+      "date": "2012/12/31",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-32",
+      "number": 32,
+      "title": "Chapter 32",
+      "date": "2013/01/17",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-33",
+      "number": 33,
+      "title": "Chapter 33",
+      "date": "2013/02/14",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-34",
+      "number": 34,
+      "title": "Chapter 34",
+      "date": "2013/02/23",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-35",
+      "number": 35,
+      "title": "Chapter 35",
+      "date": "2013/02/28",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-36",
+      "number": 36,
+      "title": "Chapter 36",
+      "date": "2013/03/13",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-37",
+      "number": 37,
+      "title": "Chapter 37 - Witch of the West 3",
+      "date": "2013/03/31",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-38",
+      "number": 38,
+      "title": "Chapter 38",
+      "date": "2013/04/05",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-39",
+      "number": 39,
+      "title": "Chapter 39",
+      "date": "2013/04/08",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-40",
+      "number": 40,
+      "title": "Chapter 40",
+      "date": "2013/04/13",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-41",
+      "number": 41,
+      "title": "Chapter 41",
+      "date": "2013/05/03",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-42",
+      "number": 42,
+      "title": "Chapter 42",
+      "date": "2013/05/06",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-43",
+      "number": 43,
+      "title": "Chapter 43 - Memory Labyrinth 4",
+      "date": "2013/06/02",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-44",
+      "number": 44,
+      "title": "Chapter 44",
+      "date": "2013/06/26",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-45",
+      "number": 45,
+      "title": "Chapter 45",
+      "date": "2013/07/01",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-46",
+      "number": 46,
+      "title": "Chapter 46 - Memory Labyrinth 7",
+      "date": "2013/07/15",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-47",
+      "number": 47,
+      "title": "Chapter 47",
+      "date": "2013/07/21",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-48",
+      "number": 48,
+      "title": "Chapter 48 - Memory Labyrinth 9",
+      "date": "2013/07/29",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-49",
+      "number": 49,
+      "title": "Chapter 49",
+      "date": "2013/07/30",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-50",
+      "number": 50,
+      "title": "Chapter 50",
+      "date": "2013/08/28",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-51",
+      "number": 51,
+      "title": "Chapter 51 - The Chains of the Beast King 1",
+      "date": "2013/08/30",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-52",
+      "number": 52,
+      "title": "Chapter 52 - The Chains of the Beast King 2",
+      "date": "2013/09/04",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-53",
+      "number": 53,
+      "title": "Chapter 53 - The Chain In The Beast King",
+      "date": "2013/10/03",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-54",
+      "number": 54,
+      "title": "Chapter 54 - The Chain In The Beast King 4",
+      "date": "2013/10/06",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-55",
+      "number": 55,
+      "title": "Chapter 55 - The Chain In The Beast King 5",
+      "date": "2013/10/18",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-56",
+      "number": 56,
+      "title": "Chapter 56",
+      "date": "2013/10/20",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-57",
+      "number": 57,
+      "title": "Chapter 57 - Eclipse Prison 1",
+      "date": "2013/11/04",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-58",
+      "number": 58,
+      "title": "Chapter 58 - Eclipse Prison 2",
+      "date": "2013/11/09",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-59",
+      "number": 59,
+      "title": "Chapter 59 - Eclipse Prison 3",
+      "date": "2013/11/10",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-60",
+      "number": 60,
+      "title": "Chapter 60 - Eclipse Prison 4",
+      "date": "2013/11/13",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-61",
+      "number": 61,
+      "title": "Chapter 61 - Eclipse Prison 5",
+      "date": "2013/11/17",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-62",
+      "number": 62,
+      "title": "Chapter 62 - Eclipse Prison 6",
+      "date": "2013/11/26",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-63",
+      "number": 63,
+      "title": "Chapter 63 - Eclipse Prison 7",
+      "date": "2014/01/13",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-64",
+      "number": 64,
+      "title": "Chapter 64 - Eclipse Prison 8",
+      "date": "2014/01/13",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-65",
+      "number": 65,
+      "title": "Chapter 65 - Eclipse Prison 9",
+      "date": "2014/01/14",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-66",
+      "number": 66,
+      "title": "Chapter 66 - Eclipse Prison 10",
+      "date": "2014/02/01",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-67",
+      "number": 67,
+      "title": "Chapter 67 - The Hamelin Twins 1",
+      "date": "2014/02/08",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-68",
+      "number": 68,
+      "title": "Chapter 68 - The Hamelin Twins 2",
+      "date": "2014/02/15",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-69",
+      "number": 69,
+      "title": "Chapter 69 - The Hamelin Twins 3",
+      "date": "2014/03/02",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-70",
+      "number": 70,
+      "title": "Chapter 70",
+      "date": "2014/03/07",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-71",
+      "number": 71,
+      "title": "Chapter 71 - The Hamelin Twins 5",
+      "date": "2014/03/17",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-72",
+      "number": 72,
+      "title": "Chapter 72",
+      "date": "2014/03/30",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-73",
+      "number": 73,
+      "title": "Chapter 73 - Counterattack 2",
+      "date": "2014/04/07",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-74",
+      "number": 74,
+      "title": "Chapter 74 - Counterattack 3",
+      "date": "2014/04/11",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-75",
+      "number": 75,
+      "title": "Chapter 75 - Counterattack 4",
+      "date": "2014/04/28",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-76",
+      "number": 76,
+      "title": "Chapter 76 - A Prison's Counterattack 5",
+      "date": "2014/05/12",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-77",
+      "number": 77,
+      "title": "Chapter 77 - A prisons counter Attack",
+      "date": "2014/07/16",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-78",
+      "number": 78,
+      "title": "Chapter 78 - Guard's District 1",
+      "date": "2014/07/16",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-79",
+      "number": 79,
+      "title": "Chapter 79 - Guard's District 2",
+      "date": "2014/07/17",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-80",
+      "number": 80,
+      "title": "Chapter 80 - Guard's District 3",
+      "date": "2014/07/26",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-81",
+      "number": 81,
+      "title": "Chapter 81 - Guard's District 4",
+      "date": "2014/08/03",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-82",
+      "number": 82,
+      "title": "Chapter 82 - Guard's District 5",
+      "date": "2014/08/24",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-83",
+      "number": 83,
+      "title": "Chapter 83 - Guard's District 6",
+      "date": "2014/08/31",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-84",
+      "number": 84,
+      "title": "Chapter 84 - Guard's District 7",
+      "date": "2014/09/12",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-85",
+      "number": 85,
+      "title": "Chapter 85 - Guard's District 8",
+      "date": "2014/09/24",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-86",
+      "number": 86,
+      "title": "Chapter 86 - Guard's District 9",
+      "date": "2014/10/05",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-87",
+      "number": 87,
+      "title": "Chapter 87 - Guard's District 10",
+      "date": "2014/10/05",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-88",
+      "number": 88,
+      "title": "Chapter 88 - Guard's District 11",
+      "date": "2014/10/13",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-89",
+      "number": 89,
+      "title": "Chapter 89 - At The Tower of Judgement 1",
+      "date": "2014/11/12",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-90",
+      "number": 90,
+      "title": "Chapter 90 - At The Tower of Judgement 2",
+      "date": "2014/12/25",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-91",
+      "number": 91,
+      "title": "Chapter 91 - At The Tower of Judgement 3",
+      "date": "2014/12/26",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-92",
+      "number": 92,
+      "title": "Chapter 92 - At The Tower of Judgement 4",
+      "date": "2014/12/27",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-93",
+      "number": 93,
+      "title": "Chapter 93 - At The Tower of Judgement 5",
+      "date": "2014/12/28",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-94",
+      "number": 94,
+      "title": "Chapter 94 - At The Tower of Judgement 006",
+      "date": "2015/01/24",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-95",
+      "number": 95,
+      "title": "Chapter 95 - At The Tower of Judgement 007",
+      "date": "2015/01/24",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-96",
+      "number": 96,
+      "title": "Chapter 96",
+      "date": "2015/01/28",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-97",
+      "number": 97,
+      "title": "Chapter 97 - At the Tower of Judgement 9",
+      "date": "2015/02/08",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-98",
+      "number": 98,
+      "title": "Chapter 98 - The Top of the Fierce Tower 1",
+      "date": "2015/02/08",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-99",
+      "number": 99,
+      "title": "Chapter 99 - The Top of the Fierce Tower",
+      "date": "2015/02/19",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-100",
+      "number": 100,
+      "title": "Chapter 100 - The Top of the Fierce Tower 3",
+      "date": "2015/02/23",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-102",
+      "number": 102,
+      "title": "Chapter 102 - The Top of the Fierce Tower 005",
+      "date": "2015/03/03",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-103",
+      "number": 103,
+      "title": "Chapter 103 - The Top of the Fierce Tower 006",
+      "date": "2015/03/03",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-104",
+      "number": 104,
+      "title": "Chapter 104 - The Top of the Fierce Tower 007",
+      "date": "2015/03/03",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-105",
+      "number": 105,
+      "title": "Chapter 105 - Memories of the Lotus Flower",
+      "date": "2015/03/03",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-106",
+      "number": 106,
+      "title": "Chapter 106 - The Top of the Fierce Towe",
+      "date": "2015/03/10",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-107",
+      "number": 107,
+      "title": "Chapter 107 - Farewell, Superpower Distric",
+      "date": "2015/05/10",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-108",
+      "number": 108,
+      "title": "Chapter 108 - Spy (001)",
+      "date": "2015/05/10",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-109",
+      "number": 109,
+      "title": "Chapter 109 - Spy (002)",
+      "date": "2015/05/12",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-110",
+      "number": 110,
+      "title": "Chapter 110 - Spy (003)",
+      "date": "2015/07/01",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-111",
+      "number": 111,
+      "title": "Chapter 111 - Spy (004)",
+      "date": "2015/07/01",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-112",
+      "number": 112,
+      "title": "Chapter 112 - Spy (005)",
+      "date": "2015/07/01",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-113",
+      "number": 113,
+      "title": "Chapter 113 - Hotel Arcadia 001",
+      "date": "2015/07/01",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-114",
+      "number": 114,
+      "title": "Chapter 114 - Hotel Arcadia 002",
+      "date": "2015/07/01",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-115",
+      "number": 115,
+      "title": "Chapter 115 - Hotel Arcadia 003",
+      "date": "2015/07/01",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-116",
+      "number": 116,
+      "title": "Chapter 116 - Hotel Arcadia 004",
+      "date": "2015/07/01",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-117",
+      "number": 117,
+      "title": "Chapter 117 - Hotel Arcadia 005",
+      "date": "2015/07/01",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-118",
+      "number": 118,
+      "title": "Chapter 118 - Hotel Arcadia 006",
+      "date": "2015/07/13",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-119",
+      "number": 119,
+      "title": "Chapter 119 - Hotel Arcadia 007",
+      "date": "2015/08/01",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-120",
+      "number": 120,
+      "title": "Chapter 120 - Hotel Arcadia 008",
+      "date": "2015/08/01",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-121",
+      "number": 121,
+      "title": "Chapter 121 - Prisoner Game 1",
+      "date": "2015/08/05",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-122",
+      "number": 122,
+      "title": "Chapter 122 - Prisoner Game 2",
+      "date": "2015/08/18",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-123",
+      "number": 123,
+      "title": "Chapter 123 - Prisoner Game 3",
+      "date": "2015/09/14",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-124",
+      "number": 124,
+      "title": "Chapter 124 - Prisoner Game 4",
+      "date": "2015/09/17",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-125",
+      "number": 125,
+      "title": "Chapter 125 - Prisoner Game 5",
+      "date": "2015/09/17",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-126",
+      "number": 126,
+      "title": "Chapter 126 - Prisoner Game 6",
+      "date": "2015/09/30",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-127",
+      "number": 127,
+      "title": "Chapter 127 - Resistance",
+      "date": "2015/10/15",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-128",
+      "number": 128,
+      "title": "Chapter 128 - Armagedon 1",
+      "date": "2015/10/28",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-129",
+      "number": 129,
+      "title": "Chapter 129 - Armagedon 2",
+      "date": "2015/10/28",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-130",
+      "number": 130,
+      "title": "Chapter 130 - Armagedon 3",
+      "date": "2015/11/10",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-131",
+      "number": 131,
+      "title": "Chapter 131 - Armagedon 4",
+      "date": "2015/11/10",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-132",
+      "number": 132,
+      "title": "Chapter 132 - The Island's Ark",
+      "date": "2015/11/25",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-133",
+      "number": 133,
+      "title": "Chapter 133 - The Release of Tartaros",
+      "date": "2015/12/08",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-134",
+      "number": 134,
+      "title": "Chapter 134 - Armagedon 7",
+      "date": "2015/12/10",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-135",
+      "number": 135,
+      "title": "Chapter 135 - Armageddon 008 - Flame Gryphon",
+      "date": "2016/01/30",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-136",
+      "number": 136,
+      "title": "Chapter 136 - Armageddon 009 - The Fate Altering Tesseract",
+      "date": "2016/01/30",
+      "pages": []
+    },
+    {
+      "id": "area-d-inou-ryouiki-137",
+      "number": 137,
+      "title": "Chapter 137 - END",
+      "date": "2016/01/30",
+      "pages": []
+    }
+  ]
+}

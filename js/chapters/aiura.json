@@ -1,0 +1,753 @@
+{
+  "en": [
+    {
+      "id": "aiura-1",
+      "number": "1",
+      "title": "",
+      "date": "2013/07/20",
+      "pages": []
+    },
+    {
+      "id": "aiura-2",
+      "number": "2",
+      "title": "Homeroom",
+      "date": "2013/07/20",
+      "pages": []
+    },
+    {
+      "id": "aiura-3",
+      "number": "3",
+      "title": "Nickname",
+      "date": "2013/07/20",
+      "pages": []
+    },
+    {
+      "id": "aiura-4",
+      "number": "4",
+      "title": "Bread",
+      "date": "2013/07/20",
+      "pages": []
+    },
+    {
+      "id": "aiura-5",
+      "number": "5",
+      "title": "Bowling",
+      "date": "2013/07/20",
+      "pages": []
+    },
+    {
+      "id": "aiura-6",
+      "number": "6",
+      "title": "Sensei",
+      "date": "2013/07/20",
+      "pages": []
+    },
+    {
+      "id": "aiura-7",
+      "number": "7",
+      "title": "Incident",
+      "date": "2013/07/20",
+      "pages": []
+    },
+    {
+      "id": "aiura-8",
+      "number": "8",
+      "title": "Cell Phone",
+      "date": "2013/07/20",
+      "pages": []
+    },
+    {
+      "id": "aiura-9",
+      "number": "9",
+      "title": "Invitation",
+      "date": "2013/08/15",
+      "pages": []
+    },
+    {
+      "id": "aiura-10",
+      "number": "10",
+      "title": "Blunt",
+      "date": "2013/08/15",
+      "pages": []
+    },
+    {
+      "id": "aiura-11",
+      "number": "11",
+      "title": "Henkyaku",
+      "date": "2013/09/04",
+      "pages": []
+    },
+    {
+      "id": "aiura-12",
+      "number": "12",
+      "title": "Soccer",
+      "date": "2013/10/30",
+      "pages": []
+    },
+    {
+      "id": "aiura-13",
+      "number": "13",
+      "title": "Question",
+      "date": "2013/11/05",
+      "pages": []
+    },
+    {
+      "id": "aiura-14",
+      "number": "14",
+      "title": "Summer",
+      "date": "2013/12/07",
+      "pages": []
+    },
+    {
+      "id": "aiura-15",
+      "number": "15",
+      "title": "Dream",
+      "date": "2013/12/25",
+      "pages": []
+    },
+    {
+      "id": "aiura-16",
+      "number": "16",
+      "title": "Rain",
+      "date": "2014/03/02",
+      "pages": []
+    },
+    {
+      "id": "aiura-17",
+      "number": "17",
+      "title": "Topic",
+      "date": "2014/03/18",
+      "pages": []
+    },
+    {
+      "id": "aiura-18",
+      "number": "18",
+      "title": "Pool",
+      "date": "2014/03/26",
+      "pages": []
+    },
+    {
+      "id": "aiura-19",
+      "number": "19",
+      "title": "Work",
+      "date": "2014/06/16",
+      "pages": []
+    },
+    {
+      "id": "aiura-20",
+      "number": "20",
+      "title": "Showdown",
+      "date": "2014/09/06",
+      "pages": []
+    },
+    {
+      "id": "aiura-21",
+      "number": "21",
+      "title": "Cookie",
+      "date": "2014/10/16",
+      "pages": []
+    },
+    {
+      "id": "aiura-22",
+      "number": "22",
+      "title": "Sports Festival",
+      "date": "2014/10/16",
+      "pages": []
+    },
+    {
+      "id": "aiura-23",
+      "number": "23",
+      "title": "The Uehara Family",
+      "date": "2015/02/25",
+      "pages": []
+    },
+    {
+      "id": "aiura-24",
+      "number": "24",
+      "title": "",
+      "date": "2017/03/12",
+      "pages": []
+    },
+    {
+      "id": "aiura-25",
+      "number": "25",
+      "title": "",
+      "date": "2017/03/12",
+      "pages": []
+    },
+    {
+      "id": "aiura-26",
+      "number": "26",
+      "title": "",
+      "date": "2017/03/17",
+      "pages": []
+    },
+    {
+      "id": "aiura-27",
+      "number": "27",
+      "title": "",
+      "date": "2017/03/23",
+      "pages": []
+    },
+    {
+      "id": "aiura-28",
+      "number": "28",
+      "title": "",
+      "date": "2017/04/02",
+      "pages": []
+    },
+    {
+      "id": "aiura-29",
+      "number": "29",
+      "title": "",
+      "date": "2017/04/14",
+      "pages": []
+    },
+    {
+      "id": "aiura-30",
+      "number": "30",
+      "title": "",
+      "date": "2017/05/07",
+      "pages": []
+    },
+    {
+      "id": "aiura-31",
+      "number": "31",
+      "title": "",
+      "date": "2017/08/04",
+      "pages": []
+    },
+    {
+      "id": "aiura-32",
+      "number": "32",
+      "title": "",
+      "date": "2017/09/10",
+      "pages": []
+    },
+    {
+      "id": "aiura-33",
+      "number": "33",
+      "title": "",
+      "date": "2017/12/26",
+      "pages": []
+    },
+    {
+      "id": "aiura-34",
+      "number": "34",
+      "title": "",
+      "date": "2018/10/17",
+      "pages": []
+    },
+    {
+      "id": "aiura-35",
+      "number": "35",
+      "title": "",
+      "date": "2018/10/24",
+      "pages": []
+    },
+    {
+      "id": "aiura-36",
+      "number": "36",
+      "title": "",
+      "date": "2018/11/01",
+      "pages": []
+    },
+    {
+      "id": "aiura-37",
+      "number": "37",
+      "title": "",
+      "date": "2018/11/05",
+      "pages": []
+    },
+    {
+      "id": "aiura-38",
+      "number": "38",
+      "title": "",
+      "date": "2018/11/27",
+      "pages": []
+    },
+    {
+      "id": "aiura-39",
+      "number": "39",
+      "title": "",
+      "date": "2018/12/09",
+      "pages": []
+    },
+    {
+      "id": "aiura-40",
+      "number": "40",
+      "title": "",
+      "date": "2018/12/09",
+      "pages": []
+    },
+    {
+      "id": "aiura-41",
+      "number": "41",
+      "title": "",
+      "date": "2018/12/15",
+      "pages": []
+    },
+    {
+      "id": "aiura-42",
+      "number": "42",
+      "title": "",
+      "date": "2018/12/25",
+      "pages": []
+    },
+    {
+      "id": "aiura-43",
+      "number": "43",
+      "title": "",
+      "date": "2019/01/01",
+      "pages": []
+    },
+    {
+      "id": "aiura-44",
+      "number": "44",
+      "title": "Trailing",
+      "date": "2019/01/07",
+      "pages": []
+    },
+    {
+      "id": "aiura-45",
+      "number": "45",
+      "title": "",
+      "date": "2019/01/19",
+      "pages": []
+    },
+    {
+      "id": "aiura-46",
+      "number": "46",
+      "title": "",
+      "date": "2019/01/27",
+      "pages": []
+    },
+    {
+      "id": "aiura-47",
+      "number": "47",
+      "title": "",
+      "date": "2019/02/03",
+      "pages": []
+    },
+    {
+      "id": "aiura-48",
+      "number": "48",
+      "title": "",
+      "date": "2019/02/11",
+      "pages": []
+    },
+    {
+      "id": "aiura-49",
+      "number": "49",
+      "title": "Movie",
+      "date": "2019/02/19",
+      "pages": []
+    },
+    {
+      "id": "aiura-50",
+      "number": "50",
+      "title": "",
+      "date": "2019/02/25",
+      "pages": []
+    },
+    {
+      "id": "aiura-51",
+      "number": "51",
+      "title": "Summer Fest",
+      "date": "2019/03/06",
+      "pages": []
+    },
+    {
+      "id": "aiura-52",
+      "number": "52",
+      "title": "",
+      "date": "2019/03/17",
+      "pages": []
+    },
+    {
+      "id": "aiura-53",
+      "number": "53",
+      "title": "",
+      "date": "2019/04/08",
+      "pages": []
+    },
+    {
+      "id": "aiura-54",
+      "number": "54",
+      "title": "",
+      "date": "2019/04/15",
+      "pages": []
+    },
+    {
+      "id": "aiura-55",
+      "number": "55",
+      "title": "",
+      "date": "2019/04/16",
+      "pages": []
+    },
+    {
+      "id": "aiura-56",
+      "number": "56",
+      "title": "Play",
+      "date": "2019/04/21",
+      "pages": []
+    },
+    {
+      "id": "aiura-57",
+      "number": "57",
+      "title": "Culture Fest",
+      "date": "2019/04/29",
+      "pages": []
+    },
+    {
+      "id": "aiura-58",
+      "number": "58",
+      "title": "",
+      "date": "2019/04/30",
+      "pages": []
+    },
+    {
+      "id": "aiura-59",
+      "number": "59",
+      "title": "",
+      "date": "2019/05/05",
+      "pages": []
+    },
+    {
+      "id": "aiura-60",
+      "number": "60",
+      "title": "",
+      "date": "2019/05/15",
+      "pages": []
+    },
+    {
+      "id": "aiura-61",
+      "number": "61",
+      "title": "",
+      "date": "2019/05/15",
+      "pages": []
+    },
+    {
+      "id": "aiura-62",
+      "number": "62",
+      "title": "",
+      "date": "2019/05/19",
+      "pages": []
+    },
+    {
+      "id": "aiura-63",
+      "number": "63",
+      "title": "",
+      "date": "2019/05/22",
+      "pages": []
+    },
+    {
+      "id": "aiura-64",
+      "number": "64",
+      "title": "First Dream",
+      "date": "2019/05/27",
+      "pages": []
+    },
+    {
+      "id": "aiura-65",
+      "number": "65",
+      "title": "",
+      "date": "2019/05/28",
+      "pages": []
+    },
+    {
+      "id": "aiura-66",
+      "number": "66",
+      "title": "",
+      "date": "2019/05/31",
+      "pages": []
+    },
+    {
+      "id": "aiura-67",
+      "number": "67",
+      "title": "",
+      "date": "2019/06/25",
+      "pages": []
+    },
+    {
+      "id": "aiura-68",
+      "number": "68",
+      "title": "",
+      "date": "2019/06/27",
+      "pages": []
+    },
+    {
+      "id": "aiura-69",
+      "number": "69",
+      "title": "",
+      "date": "2019/06/29",
+      "pages": []
+    },
+    {
+      "id": "aiura-70",
+      "number": "70",
+      "title": "",
+      "date": "2019/07/01",
+      "pages": []
+    },
+    {
+      "id": "aiura-71",
+      "number": "71",
+      "title": "",
+      "date": "2019/07/02",
+      "pages": []
+    },
+    {
+      "id": "aiura-72",
+      "number": "72",
+      "title": "",
+      "date": "2019/07/06",
+      "pages": []
+    },
+    {
+      "id": "aiura-73",
+      "number": "73",
+      "title": "Fan Club",
+      "date": "2019/07/09",
+      "pages": []
+    },
+    {
+      "id": "aiura-74",
+      "number": "74",
+      "title": "Tournament",
+      "date": "2019/07/11",
+      "pages": []
+    },
+    {
+      "id": "aiura-75",
+      "number": "75",
+      "title": "",
+      "date": "2019/07/17",
+      "pages": []
+    },
+    {
+      "id": "aiura-76",
+      "number": "76",
+      "title": "Field Trip 2",
+      "date": "2019/07/20",
+      "pages": []
+    },
+    {
+      "id": "aiura-77",
+      "number": "77",
+      "title": "Field Trip 3",
+      "date": "2019/07/22",
+      "pages": []
+    },
+    {
+      "id": "aiura-78",
+      "number": "78",
+      "title": "",
+      "date": "2019/07/25",
+      "pages": []
+    },
+    {
+      "id": "aiura-79",
+      "number": "79",
+      "title": "Going for a walk",
+      "date": "2019/07/30",
+      "pages": []
+    },
+    {
+      "id": "aiura-80",
+      "number": "80",
+      "title": "Glasses",
+      "date": "2019/07/31",
+      "pages": []
+    },
+    {
+      "id": "aiura-81",
+      "number": "81",
+      "title": "The Sea",
+      "date": "2019/08/05",
+      "pages": []
+    },
+    {
+      "id": "aiura-82",
+      "number": "82",
+      "title": "",
+      "date": "2019/08/08",
+      "pages": []
+    },
+    {
+      "id": "aiura-83",
+      "number": "83",
+      "title": "",
+      "date": "2019/08/09",
+      "pages": []
+    },
+    {
+      "id": "aiura-84",
+      "number": "84",
+      "title": "",
+      "date": "2019/08/13",
+      "pages": []
+    },
+    {
+      "id": "aiura-85",
+      "number": "85",
+      "title": "",
+      "date": "2019/08/15",
+      "pages": []
+    },
+    {
+      "id": "aiura-86",
+      "number": "86",
+      "title": "",
+      "date": "2019/08/18",
+      "pages": []
+    },
+    {
+      "id": "aiura-87",
+      "number": "87",
+      "title": "",
+      "date": "2019/08/20",
+      "pages": []
+    },
+    {
+      "id": "aiura-88",
+      "number": "88",
+      "title": "",
+      "date": "2019/08/24",
+      "pages": []
+    },
+    {
+      "id": "aiura-89",
+      "number": "89",
+      "title": "Sports Fest 3",
+      "date": "2019/08/28",
+      "pages": []
+    },
+    {
+      "id": "aiura-90",
+      "number": "90",
+      "title": "",
+      "date": "2019/08/30",
+      "pages": []
+    },
+    {
+      "id": "aiura-91",
+      "number": "91",
+      "title": "",
+      "date": "2019/09/06",
+      "pages": []
+    },
+    {
+      "id": "aiura-92",
+      "number": "92",
+      "title": "",
+      "date": "2019/09/17",
+      "pages": []
+    },
+    {
+      "id": "aiura-93",
+      "number": "93",
+      "title": "",
+      "date": "2019/09/24",
+      "pages": []
+    },
+    {
+      "id": "aiura-94",
+      "number": "94",
+      "title": "",
+      "date": "2019/09/30",
+      "pages": []
+    },
+    {
+      "id": "aiura-95",
+      "number": "95",
+      "title": "",
+      "date": "2019/10/03",
+      "pages": []
+    },
+    {
+      "id": "aiura-96",
+      "number": "96",
+      "title": "",
+      "date": "2019/10/06",
+      "pages": []
+    },
+    {
+      "id": "aiura-97",
+      "number": "97",
+      "title": "",
+      "date": "2019/10/08",
+      "pages": []
+    },
+    {
+      "id": "aiura-98",
+      "number": "98",
+      "title": "",
+      "date": "2019/10/13",
+      "pages": []
+    },
+    {
+      "id": "aiura-99",
+      "number": "99",
+      "title": "",
+      "date": "2019/10/15",
+      "pages": []
+    },
+    {
+      "id": "aiura-100",
+      "number": "100",
+      "title": "",
+      "date": "2019/10/22",
+      "pages": []
+    },
+    {
+      "id": "aiura-101",
+      "number": "101",
+      "title": "",
+      "date": "2019/10/25",
+      "pages": []
+    },
+    {
+      "id": "aiura-102",
+      "number": "102",
+      "title": "",
+      "date": "2019/10/28",
+      "pages": []
+    },
+    {
+      "id": "aiura-103",
+      "number": "103",
+      "title": "",
+      "date": "2019/10/29",
+      "pages": []
+    },
+    {
+      "id": "aiura-104",
+      "number": "104",
+      "title": "",
+      "date": "2019/10/31",
+      "pages": []
+    },
+    {
+      "id": "aiura-105",
+      "number": "105",
+      "title": "",
+      "date": "2019/11/07",
+      "pages": []
+    },
+    {
+      "id": "aiura-106",
+      "number": "106",
+      "title": "",
+      "date": "2019/11/13",
+      "pages": []
+    },
+    {
+      "id": "aiura-107",
+      "number": "107",
+      "title": "",
+      "date": "2019/11/23",
+      "pages": []
+    }
+  ]
+}

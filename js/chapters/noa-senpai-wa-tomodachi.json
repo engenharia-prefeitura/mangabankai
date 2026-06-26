@@ -1,0 +1,1429 @@
+{
+  "en": [
+    {
+      "id": "noa-senpai-wa-tomodachi-1",
+      "number": "1",
+      "title": "Chapter 1",
+      "date": "2024/02/12",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-2",
+      "number": "2",
+      "title": "Noa-Senpai and Manga Cafes",
+      "date": "2024/02/12",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-3",
+      "number": "3",
+      "title": "Noa-senpai and RINE",
+      "date": "2024/02/12",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-4",
+      "number": "4",
+      "title": "Noa-Senpai and Movies",
+      "date": "2024/02/12",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-5",
+      "number": "5",
+      "title": "Noa-Senpai and Advice",
+      "date": "2024/02/12",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-6",
+      "number": "6",
+      "title": "Noa-senpai and Twitter",
+      "date": "2024/02/12",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-7",
+      "number": "7",
+      "title": "Noa-Senpai and Her Online Friend",
+      "date": "2024/02/12",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-8",
+      "number": "8",
+      "title": "Noa-Senpai and Her Problems",
+      "date": "2024/02/12",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-9",
+      "number": "9",
+      "title": "Noa-Senpai and Afternoon Tea",
+      "date": "2024/02/12",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-10",
+      "number": "10",
+      "title": "Noa-Senpai and Games",
+      "date": "2024/02/12",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-11",
+      "number": "11",
+      "title": "Noa-Senpai and Cleaning",
+      "date": "2024/02/12",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-12",
+      "number": "12",
+      "title": "Noa-Senpai and Her Late Twenties",
+      "date": "2024/02/12",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-13",
+      "number": "13",
+      "title": "Negiemon and Yakiniku",
+      "date": "2024/02/12",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-14",
+      "number": "14",
+      "title": "Noa-Senpai and Pizza",
+      "date": "2024/02/12",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-15",
+      "number": "15",
+      "title": "",
+      "date": "2024/03/15",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-16",
+      "number": "16",
+      "title": "",
+      "date": "2024/04/26",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-17",
+      "number": "17",
+      "title": "",
+      "date": "2024/04/27",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-18",
+      "number": "18",
+      "title": "",
+      "date": "2024/05/03",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-19",
+      "number": "19",
+      "title": "",
+      "date": "2024/05/07",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-20",
+      "number": "20",
+      "title": "",
+      "date": "2024/05/27",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-21",
+      "number": "21",
+      "title": "",
+      "date": "2025/08/19",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-22",
+      "number": "22",
+      "title": "",
+      "date": "2024/05/27",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-22a",
+      "number": "22a",
+      "title": "",
+      "date": "2024/05/31",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-22e",
+      "number": "22e",
+      "title": "",
+      "date": "2024/06/03",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-23a",
+      "number": "23a",
+      "title": "",
+      "date": "2024/06/03",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-24",
+      "number": "24",
+      "title": "",
+      "date": "2024/06/14",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-25",
+      "number": "25",
+      "title": "",
+      "date": "2024/06/29",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-26",
+      "number": "26",
+      "title": "",
+      "date": "2024/07/08",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-27",
+      "number": "27",
+      "title": "",
+      "date": "2024/07/16",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-28",
+      "number": "28",
+      "title": "",
+      "date": "2024/07/24",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-29",
+      "number": "29",
+      "title": "",
+      "date": "2024/07/31",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-30",
+      "number": "30",
+      "title": "",
+      "date": "2024/08/07",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-31",
+      "number": "31",
+      "title": "",
+      "date": "2024/08/22",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-32",
+      "number": "32",
+      "title": "",
+      "date": "2024/09/04",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-33",
+      "number": "33",
+      "title": "",
+      "date": "2024/09/12",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-34",
+      "number": "34",
+      "title": "",
+      "date": "2024/09/25",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-35",
+      "number": "35",
+      "title": "",
+      "date": "2024/10/18",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-36",
+      "number": "36",
+      "title": "",
+      "date": "2024/11/07",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-37",
+      "number": "37",
+      "title": "",
+      "date": "2024/11/13",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-38",
+      "number": "38",
+      "title": "",
+      "date": "2024/11/23",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-39",
+      "number": "39",
+      "title": "",
+      "date": "2024/11/25",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-40",
+      "number": "40",
+      "title": "",
+      "date": "2024/12/12",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-41",
+      "number": "41",
+      "title": "",
+      "date": "2024/12/20",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-42",
+      "number": "42",
+      "title": "",
+      "date": "2024/12/25",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-43",
+      "number": "43",
+      "title": "",
+      "date": "2025/01/05",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-44",
+      "number": "44",
+      "title": "",
+      "date": "2025/01/13",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-45",
+      "number": "45",
+      "title": "",
+      "date": "2025/01/25",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-46",
+      "number": "46",
+      "title": "",
+      "date": "2025/01/27",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-47",
+      "number": "47",
+      "title": "",
+      "date": "2025/01/28",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-48",
+      "number": "48",
+      "title": "",
+      "date": "2025/02/05",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-48e",
+      "number": "48e",
+      "title": "",
+      "date": "2025/02/05",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-49",
+      "number": "49",
+      "title": "",
+      "date": "2025/02/15",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-50",
+      "number": "50",
+      "title": "",
+      "date": "2025/02/15",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-51",
+      "number": "51",
+      "title": "",
+      "date": "2025/02/23",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-52",
+      "number": "52",
+      "title": "",
+      "date": "2025/02/24",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-53",
+      "number": "53",
+      "title": "",
+      "date": "2025/03/13",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-54",
+      "number": "54",
+      "title": "",
+      "date": "2025/03/22",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-55",
+      "number": "55",
+      "title": "",
+      "date": "2025/04/03",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-56",
+      "number": "56",
+      "title": "",
+      "date": "2025/05/02",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-57",
+      "number": "57",
+      "title": "",
+      "date": "2025/05/10",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-58",
+      "number": "58",
+      "title": "",
+      "date": "2025/05/13",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-58c",
+      "number": "58c",
+      "title": "",
+      "date": "2025/05/20",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-59",
+      "number": "59",
+      "title": "",
+      "date": "2025/05/30",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-60",
+      "number": "60",
+      "title": "",
+      "date": "2025/06/10",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-60e",
+      "number": "60e",
+      "title": "",
+      "date": "2025/06/21",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-61",
+      "number": "61",
+      "title": "",
+      "date": "2025/06/25",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-62",
+      "number": "62",
+      "title": "",
+      "date": "2025/07/08",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-63",
+      "number": "63",
+      "title": "",
+      "date": "2025/07/08",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-64",
+      "number": "64",
+      "title": "",
+      "date": "2025/07/20",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-65",
+      "number": "65",
+      "title": "",
+      "date": "2025/07/20",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-66",
+      "number": "66",
+      "title": "",
+      "date": "2025/07/20",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-67",
+      "number": "67",
+      "title": "",
+      "date": "2025/08/01",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-68",
+      "number": "68",
+      "title": "",
+      "date": "2025/08/04",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-69",
+      "number": "69",
+      "title": "",
+      "date": "2025/08/07",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-70",
+      "number": "70",
+      "title": "",
+      "date": "2025/08/19",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-71",
+      "number": "71",
+      "title": "",
+      "date": "2025/08/30",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-72",
+      "number": "72",
+      "title": "",
+      "date": "2025/08/30",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-73",
+      "number": "73",
+      "title": "",
+      "date": "2025/08/30",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-74",
+      "number": "74",
+      "title": "",
+      "date": "2025/10/01",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-75",
+      "number": "75",
+      "title": "",
+      "date": "2025/10/01",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-76",
+      "number": "76",
+      "title": "",
+      "date": "2025/10/03",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-77",
+      "number": "77",
+      "title": "",
+      "date": "2025/10/04",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-78",
+      "number": "78",
+      "title": "",
+      "date": "2025/10/06",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-79",
+      "number": "79",
+      "title": "",
+      "date": "2025/10/15",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-80",
+      "number": "80",
+      "title": "",
+      "date": "2025/11/05",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-81",
+      "number": "81",
+      "title": "",
+      "date": "2025/11/18",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-82",
+      "number": "82",
+      "title": "",
+      "date": "2025/11/30",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-83",
+      "number": "83",
+      "title": "",
+      "date": "2025/12/15",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-84",
+      "number": "84",
+      "title": "",
+      "date": "2026/01/06",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-85",
+      "number": "85",
+      "title": "",
+      "date": "2026/01/25",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-86",
+      "number": "86",
+      "title": "",
+      "date": "2026/01/25",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-87",
+      "number": "87",
+      "title": "",
+      "date": "2026/01/28",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-88",
+      "number": "88",
+      "title": "",
+      "date": "2026/01/30",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-89",
+      "number": "89",
+      "title": "",
+      "date": "2026/02/03",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-90",
+      "number": "90",
+      "title": "",
+      "date": "2026/02/06",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-91",
+      "number": "91",
+      "title": "",
+      "date": "2026/02/09",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-92",
+      "number": "92",
+      "title": "",
+      "date": "2026/02/13",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-93",
+      "number": "93",
+      "title": "",
+      "date": "2026/02/18",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-94",
+      "number": "94",
+      "title": "",
+      "date": "2026/02/20",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-95",
+      "number": "95",
+      "title": "",
+      "date": "2026/02/24",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-96",
+      "number": "96",
+      "title": "",
+      "date": "2026/02/27",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-97",
+      "number": "97",
+      "title": "",
+      "date": "2026/03/03",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-98",
+      "number": "98",
+      "title": "",
+      "date": "2026/03/06",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-99",
+      "number": "99",
+      "title": "",
+      "date": "2026/03/10",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-100",
+      "number": "100",
+      "title": "",
+      "date": "2026/03/13",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-101",
+      "number": "101",
+      "title": "",
+      "date": "2026/03/17",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-102",
+      "number": "102",
+      "title": "",
+      "date": "2026/03/20",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-103",
+      "number": "103",
+      "title": "",
+      "date": "2026/03/24",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-104",
+      "number": "104",
+      "title": "",
+      "date": "2026/03/27",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-105",
+      "number": "105",
+      "title": "",
+      "date": "2026/04/01",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-106",
+      "number": "106",
+      "title": "",
+      "date": "2026/04/03",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-107",
+      "number": "107",
+      "title": "",
+      "date": "2026/04/07",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-108",
+      "number": "108",
+      "title": "",
+      "date": "2026/04/10",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-109",
+      "number": "109",
+      "title": "",
+      "date": "2026/04/14",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-110",
+      "number": "110",
+      "title": "",
+      "date": "2026/04/17",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-111",
+      "number": "111",
+      "title": "",
+      "date": "2026/04/21",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-112",
+      "number": "112",
+      "title": "",
+      "date": "2026/04/24",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-113",
+      "number": "113",
+      "title": "",
+      "date": "2026/04/28",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-114",
+      "number": "114",
+      "title": "",
+      "date": "2026/05/01",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-115",
+      "number": "115",
+      "title": "",
+      "date": "2026/05/03",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-116",
+      "number": "116",
+      "title": "",
+      "date": "2026/05/03",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-117",
+      "number": "117",
+      "title": "",
+      "date": "2026/05/05",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-118",
+      "number": "118",
+      "title": "",
+      "date": "2026/05/08",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-119",
+      "number": "119",
+      "title": "",
+      "date": "2026/05/13",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-120",
+      "number": "120",
+      "title": "",
+      "date": "2026/05/15",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-121",
+      "number": "121",
+      "title": "",
+      "date": "2026/05/19",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-122",
+      "number": "122",
+      "title": "",
+      "date": "2026/05/24",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-123",
+      "number": "123",
+      "title": "",
+      "date": "2026/06/01",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-124",
+      "number": "124",
+      "title": "",
+      "date": "2026/06/07",
+      "pages": []
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-125",
+      "number": "125",
+      "title": "",
+      "date": "2026/06/22",
+      "pages": []
+    }
+  ],
+  "pt": [
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-1",
+      "number": 1,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 1",
+      "date": "2025-11-10T16:24:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 902525
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-2",
+      "number": 2,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 2",
+      "date": "2025-11-10T16:24:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 902532
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-3",
+      "number": 3,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 3 – Noa-senpai e RINE",
+      "date": "2025-11-10T16:24:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 902529
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-4",
+      "number": 4,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 4 – Noa-senpai e filmes",
+      "date": "2025-11-10T16:24:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 902531
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-5",
+      "number": 5,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 5 – Noa-senpai e o &#8220;conselho&#8221;",
+      "date": "2025-11-10T16:24:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 902527
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-6",
+      "number": 6,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 6 – Noa-senpai e o Twitter",
+      "date": "2025-11-10T16:24:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 902528
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-7",
+      "number": 7,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 7 – Noa-senpai e sua amiga online",
+      "date": "2025-11-10T16:24:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 902526
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-8",
+      "number": 8,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 8 – A preocupação de Noa-senpai",
+      "date": "2025-11-10T16:24:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 902530
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-8.5",
+      "number": 8.5,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 8.5 – Roupa de empregada",
+      "date": "2025-11-10T16:24:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 902533
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-9",
+      "number": 9,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 9 – Hora do chá da tarde com a Noa-senpai!",
+      "date": "2025-11-10T16:24:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 902524
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-10",
+      "number": 10,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 10 – Noa-senpai e os jogos",
+      "date": "2025-11-10T16:25:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 902753
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-11",
+      "number": 11,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 11 – Limpeza com Noa-senpai",
+      "date": "2025-11-10T16:25:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 902754
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-12",
+      "number": 12,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 12 – Noa-senpai e os 30 anos",
+      "date": "2025-11-14T15:00:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 934263
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-13",
+      "number": 13,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 13 – Yakiniku e Negiemon",
+      "date": "2025-11-26T14:20:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 954629
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-14",
+      "number": 14,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 14 – Noa-senpai e pizza",
+      "date": "2025-11-26T14:20:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 954630
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-15",
+      "number": 15,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 15 – Noa-senpai e a noite do pijama",
+      "date": "2025-11-26T14:20:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 954631
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-16",
+      "number": 16,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 16 – Noa-senpai e a timidez",
+      "date": "2026-01-13T14:07:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1048870
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-17",
+      "number": 17,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 17 – A veterana e a novata",
+      "date": "2026-01-13T14:07:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1048867
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-18",
+      "number": 18,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 18 – Noa-senpai e a saúde",
+      "date": "2026-01-13T14:07:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1048868
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-18.5",
+      "number": 18.5,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 18.5 – Espiã",
+      "date": "2026-01-13T14:07:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1048869
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-18.6",
+      "number": 18.6,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 18.6 – Bônus",
+      "date": "2026-01-13T14:08:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1048941
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-19",
+      "number": 19,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 19 – Noa-senpai e o evento de traje de banho",
+      "date": "2026-01-13T14:08:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1048946
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-20",
+      "number": 20,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 20 – Noa-senpai e o restaurante familiar",
+      "date": "2026-01-13T14:08:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1048940
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-21",
+      "number": 21,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 21 – Noa-senpai e a moda",
+      "date": "2026-01-13T14:08:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1048943
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-22",
+      "number": 22,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 22 – Noa-senpai e as economias",
+      "date": "2026-01-13T14:08:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1048948
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-23",
+      "number": 23,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 23 – Noa-senpai e a equipe de 3D",
+      "date": "2026-01-13T14:08:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1048945
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-24",
+      "number": 24,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 24 – Noa-senpai e espaço pessoal",
+      "date": "2026-01-13T14:08:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1048942
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-25",
+      "number": 25,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 25 – Noa-senpai e o vazamento da sua conta",
+      "date": "2026-01-13T14:08:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1048939
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-26",
+      "number": 26,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 26 – Noa-senpai e um dia importante",
+      "date": "2026-01-13T14:08:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1048944
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-27",
+      "number": 27,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 27 – Noa-senpai e fogos de artifício",
+      "date": "2026-01-13T14:08:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1048947
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-28",
+      "number": 28,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 28 – Noa-senpai e o cenário hipotético",
+      "date": "2026-01-13T14:08:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1049137
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-28.5",
+      "number": 28.5,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 28.5 – Garota mágica",
+      "date": "2026-01-13T14:08:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1049136
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-28.6",
+      "number": 28.6,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 28.6 – 4-Koma da Noa-senpai",
+      "date": "2026-01-13T14:08:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1049135
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-29",
+      "number": 29,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 29 – Noa-senpai e a festa de férias de verão",
+      "date": "2026-01-13T14:08:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1049138
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-30",
+      "number": 30,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 30 – Noa-senpai e os planos pras férias de verão",
+      "date": "2026-02-03T13:56:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1090741
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-31",
+      "number": 31,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 31 – Noa-senpai e a cartomante",
+      "date": "2026-02-03T13:56:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1090742
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-32",
+      "number": 32,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 32 – Noa-senpai e os filmes de terror",
+      "date": "2026-02-03T13:56:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1090740
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-33",
+      "number": 33,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 33 – Noa-senpai e a compra da roupa de banho",
+      "date": "2026-02-03T13:56:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1090739
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-34",
+      "number": 34,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 34 – Noa-senpai e a praia",
+      "date": "2026-02-05T21:17:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1092840
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-35",
+      "number": 35,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 35 – Noa-senpai e a paquera",
+      "date": "2026-02-05T21:17:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1092841
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-36",
+      "number": 36,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 36 – Noa-senpai e Enoshima",
+      "date": "2026-04-02T14:35:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1158996
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-37",
+      "number": 37,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 37 – Rihito e sua irmã",
+      "date": "2026-04-02T14:35:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1159001
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-38",
+      "number": 38,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 38 – Um dia só da Noa-senpai",
+      "date": "2026-04-02T14:35:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1159000
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-38.5",
+      "number": 38.5,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 38.5 – Lulu da Pomerânia",
+      "date": "2026-04-02T14:35:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1158994
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-39",
+      "number": 39,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 39 – Ririna e sua avaliação libidinosa",
+      "date": "2026-04-02T14:35:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1159003
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-40",
+      "number": 40,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 40 – Noa-senpai e os brincos",
+      "date": "2026-04-02T14:35:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1159005
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-41",
+      "number": 41,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 41 – Compras com a Noa-senpai",
+      "date": "2026-04-02T14:35:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1159006
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-42",
+      "number": 42,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 42 – Noa-senpai e seu favorito",
+      "date": "2026-04-02T14:35:58Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1159009
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-43",
+      "number": 43,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 43 – Noa-senpai e Reni",
+      "date": "2026-04-02T14:35:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1159008
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-44",
+      "number": 44,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 44 – Noa-senpai e o vício em Rine",
+      "date": "2026-04-02T14:35:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1159004
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-45",
+      "number": 45,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 45 – Noa-senpai e o festival",
+      "date": "2026-04-02T14:36:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1159195
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-46",
+      "number": 46,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 46 – Conversando com a Noa-senpai",
+      "date": "2026-04-30T05:19:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1209187
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-47",
+      "number": 47,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 47 – Rihito e seus dias de estágio",
+      "date": "2026-04-30T05:19:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1209190
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-48",
+      "number": 48,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 48 – Noa-senpai e suas suspeitas",
+      "date": "2026-04-30T05:19:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1209189
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-48.5",
+      "number": 48.5,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 48.5 – Indo à praia",
+      "date": "2026-04-30T05:18:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1209172
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-48.6",
+      "number": 48.6,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 48.6 – Extras",
+      "date": "2026-04-30T05:18:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1209171
+    },
+    {
+      "id": "noa-senpai-wa-tomodachi-chapter-49",
+      "number": 49,
+      "title": "Noa-senpai wa Tomodachi. – Capítulo 49 – Noa-senpai e seu segredo",
+      "date": "2026-04-30T05:19:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1209188
+    }
+  ]
+}

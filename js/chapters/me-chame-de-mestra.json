@@ -1,0 +1,455 @@
+{
+  "pt": [
+    {
+      "id": "me-chame-de-mestra-chapter-1",
+      "number": 1,
+      "title": "Capítulo 1",
+      "date": "2026-06-23T19:54:12.991Z",
+      "pages": [
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-1/page-1.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-1/page-2-1.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-1/page-2-2.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-1/page-3-1.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-1/page-3-2.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-1/page-4-1.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-1/page-4-2.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-1/page-5-1.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-1/page-5-2.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-1/page-6-1.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-1/page-6-2.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-1/page-7-1.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-1/page-7-2.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-1/page-8-1.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-1/page-8-2.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-1/page-8-3.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-1/page-9-1.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-1/page-9-2.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-1/page-10-1.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-1/page-10-2.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-1/page-10-3.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-1/page-11.webp"
+      ]
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-2",
+      "number": 2,
+      "title": "Cap 2",
+      "date": "2025-11-09T15:34:59.306Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-3",
+      "number": 3,
+      "title": "Cap 3",
+      "date": "2025-11-09T15:35:28.244Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-4",
+      "number": 4,
+      "title": "Cap 4",
+      "date": "2025-11-09T15:35:55.136Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-5",
+      "number": 5,
+      "title": "Cap 5",
+      "date": "2025-11-09T15:36:16.797Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-6",
+      "number": 6,
+      "title": "Cap 6",
+      "date": "2025-11-09T15:36:31.917Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-7",
+      "number": 7,
+      "title": "Cap 7",
+      "date": "2025-11-09T15:36:49.169Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-8",
+      "number": 8,
+      "title": "Cap 8",
+      "date": "2025-11-09T15:37:11.733Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-9",
+      "number": 9,
+      "title": "Cap 9",
+      "date": "2025-11-09T15:37:25.465Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-10",
+      "number": 10,
+      "title": "Cap 10",
+      "date": "2025-11-09T15:37:46.652Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-11",
+      "number": 11,
+      "title": "Cap 11",
+      "date": "2025-11-09T15:37:58.534Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-12",
+      "number": 12,
+      "title": "Cap 12",
+      "date": "2025-11-09T15:38:08.868Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-13",
+      "number": 13,
+      "title": "Cap 13",
+      "date": "2025-11-09T15:38:28.234Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-14",
+      "number": 14,
+      "title": "Cap 14",
+      "date": "2025-11-09T15:38:42.149Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-15",
+      "number": 15,
+      "title": "Cap 15",
+      "date": "2025-11-09T15:39:11.583Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-16",
+      "number": 16,
+      "title": "Cap 16",
+      "date": "2025-11-09T15:39:31.391Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-17",
+      "number": 17,
+      "title": "Cap 17",
+      "date": "2025-11-09T15:39:45.306Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-18",
+      "number": 18,
+      "title": "Cap 18",
+      "date": "2025-11-09T15:40:23.118Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-19",
+      "number": 19,
+      "title": "Cap 19",
+      "date": "2025-11-09T15:40:47.248Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-20",
+      "number": 20,
+      "title": "Cap 20",
+      "date": "2025-11-09T15:41:14.031Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-21",
+      "number": 21,
+      "title": "Cap 21",
+      "date": "2025-11-09T15:41:37.893Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-22",
+      "number": 22,
+      "title": "Cap 22",
+      "date": "2025-11-09T15:42:07.595Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-23",
+      "number": 23,
+      "title": "Cap 23",
+      "date": "2025-11-09T15:42:38.385Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-24",
+      "number": 24,
+      "title": "Cap 24",
+      "date": "2025-11-09T15:43:01.559Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-25",
+      "number": 25,
+      "title": "Cap 25",
+      "date": "2025-11-09T15:43:24.243Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-26",
+      "number": 26,
+      "title": "Cap 26",
+      "date": "2025-11-09T15:43:42.275Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-27",
+      "number": 27,
+      "title": "Cap 27",
+      "date": "2025-11-09T15:44:12.868Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-28",
+      "number": 28,
+      "title": "Cap 28",
+      "date": "2025-11-09T15:44:37.566Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-29",
+      "number": 29,
+      "title": "Cap 29",
+      "date": "2025-11-09T15:44:54.537Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-30",
+      "number": 30,
+      "title": "Cap 30",
+      "date": "2025-11-09T15:45:21.643Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-31",
+      "number": 31,
+      "title": "Cap 31",
+      "date": "2025-11-09T15:45:47.832Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-32",
+      "number": 32,
+      "title": "Cap 32",
+      "date": "2025-11-09T15:46:20.138Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-33",
+      "number": 33,
+      "title": "Cap 33",
+      "date": "2025-11-09T15:46:48.087Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-34",
+      "number": 34,
+      "title": "Cap 34",
+      "date": "2025-11-09T15:47:16.752Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-35",
+      "number": 35,
+      "title": "Cap 35",
+      "date": "2025-11-09T15:47:46.867Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-36",
+      "number": 36,
+      "title": "Cap 36",
+      "date": "2025-11-09T15:48:07.444Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-37",
+      "number": 37,
+      "title": "Cap 37",
+      "date": "2025-11-09T15:48:38.380Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-38",
+      "number": 38,
+      "title": "Cap 38",
+      "date": "2025-11-09T15:49:08.554Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-39",
+      "number": 39,
+      "title": "Cap 39",
+      "date": "2025-11-09T15:49:35.689Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-40",
+      "number": 40,
+      "title": "Cap 40",
+      "date": "2025-11-09T15:49:59.622Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-41",
+      "number": 41,
+      "title": "Cap 41",
+      "date": "2025-11-09T15:50:26.932Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-42",
+      "number": 42,
+      "title": "Cap 42",
+      "date": "2025-11-09T15:51:08.754Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-43",
+      "number": 43,
+      "title": "Cap 43",
+      "date": "2025-11-09T15:51:37.960Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-44",
+      "number": 44,
+      "title": "Cap 44",
+      "date": "2025-11-09T15:52:14.508Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-45",
+      "number": 45,
+      "title": "Cap 45",
+      "date": "2025-11-09T15:52:45.213Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-46",
+      "number": 46,
+      "title": "Cap 46",
+      "date": "2025-11-09T15:53:09.522Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-47",
+      "number": 47,
+      "title": "Cap 47",
+      "date": "2025-11-09T15:53:38.510Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-48",
+      "number": 48,
+      "title": "Cap 48",
+      "date": "2025-11-09T15:54:20.508Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-49",
+      "number": 49,
+      "title": "Cap 49",
+      "date": "2025-11-09T15:55:00.976Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-50",
+      "number": 50,
+      "title": "Cap 50",
+      "date": "2025-11-09T15:55:28.181Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-51",
+      "number": 51,
+      "title": "Cap 51",
+      "date": "2025-11-09T15:55:46.607Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-52",
+      "number": 52,
+      "title": "Cap 52",
+      "date": "2025-11-09T15:56:24.825Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-53",
+      "number": 53,
+      "title": "Cap 53",
+      "date": "2025-11-09T15:56:50.375Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-54",
+      "number": 54,
+      "title": "Cap 54",
+      "date": "2025-11-09T15:57:22.618Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-55",
+      "number": 55,
+      "title": "Cap 55",
+      "date": "2025-11-09T15:57:48.917Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-56",
+      "number": 56,
+      "title": "Cap 56",
+      "date": "2025-11-09T15:58:20.889Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-57",
+      "number": 57,
+      "title": "Cap 57",
+      "date": "2025-11-09T15:58:51.140Z",
+      "pages": []
+    },
+    {
+      "id": "me-chame-de-mestra-chapter-58",
+      "number": 58,
+      "title": "Capítulo 58",
+      "date": "2026-06-23T19:54:13.481Z",
+      "pages": [
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-58-fim/page-1.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-58-fim/page-2-1.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-58-fim/page-2-2.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-58-fim/page-3-1.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-58-fim/page-3-2.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-58-fim/page-4-1.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-58-fim/page-4-2.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-58-fim/page-4-3.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-58-fim/page-5-1.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-58-fim/page-5-2.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-58-fim/page-5-3.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-58-fim/page-6-1.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-58-fim/page-6-2.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-58-fim/page-6-3.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-58-fim/page-7-1.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-58-fim/page-7-2.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-58-fim/page-7-3.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-58-fim/page-8-1.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-58-fim/page-8-2.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-58-fim/page-9.webp",
+        "https://cdn.leituramanga.net/me-chame-de-mestra/cap-58-fim/page-10.webp"
+      ]
+    }
+  ]
+}

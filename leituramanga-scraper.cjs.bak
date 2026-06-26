@@ -1,0 +1,515 @@
+const https = require('https');
+const http = require('http');
+const fs = require('fs');
+const path = require('path');
+
+const BASE_URL = 'https://leituramanga.net';
+const CDN_BASE = 'https://cdn.leituramanga.net/';
+const DATA_JS_PATH = path.join(__dirname, 'js', 'data.js');
+const CHAPTERS_DIR = path.join(__dirname, 'js', 'chapters');
+const DELAY_MS = 1500; // Polite delay to prevent Cloudflare blocks
+
+function delay(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+function fetch(url, redirects = 0) {
+  return new Promise((resolve, reject) => {
+    if (redirects > 5) return reject(new Error('Too many redirects'));
+    const client = url.startsWith('https') ? https : http;
+    client.get(url, { headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' } }, (res) => {
+      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+        const next = res.headers.location.startsWith('http') ? res.headers.location : new URL(res.headers.location, url).href;
+        return fetch(next, redirects + 1).then(resolve).catch(reject);
+      }
+      if (res.statusCode !== 200) {
+        return reject(new Error(`HTTP ${res.statusCode} for ${url}`));
+      }
+      let data = '';
+      res.on('data', chunk => data += chunk);
+      res.on('end', () => resolve(data));
+    }).on('error', reject);
+  });
+}
+
+// Extract Next.js RSC Payload data from the page HTML
+function extractRscPayload(html) {
+  const matches = html.match(/self\.__next_f\.push\(\[1,"([\s\S]*?)"\]\)/g) || [];
+  return matches.map(m => {
+    const contentMatch = m.match(/self\.__next_f\.push\(\[1,"([\s\S]*?)"\]\)/);
+    return contentMatch ? contentMatch[1].replace(/\\"/g, '"').replace(/\\n/g, '\n').replace(/\\t/g, '\t') : '';
+  }).join('');
+}
+
+// Basic normalization to compare titles
+function normalizeTitle(title) {
+  return title
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '') // remove accents
+    .replace(/[^a-z0-9]/g, '')     // remove symbols and spaces
+    .trim();
+}
+
+// Find existing manga from MANGA_DATA array in js/data.js
+function findMangaMatch(title, slug, mangaList) {
+  const normTitle = normalizeTitle(title);
+  const normSlug = slug.toLowerCase().replace(/_/g, '-');
+  
+  // 1. Direct slug match
+  let match = mangaList.find(m => m.slug === slug || m.id === normSlug || normalizeTitle(m.slug) === normSlug);
+  if (match) return match;
+  
+  // 2. Title match
+  match = mangaList.find(m => normalizeTitle(m.title) === normTitle || (m.altTitle && normalizeTitle(m.altTitle) === normTitle));
+  if (match) return match;
+
+  return null;
+}
+
+// Load and parse MANGA_DATA from data.js
+function loadMangaList() {
+  if (!fs.existsSync(DATA_JS_PATH)) {
+    console.error(`File not found: ${DATA_JS_PATH}`);
+    return [];
+  }
+  const content = fs.readFileSync(DATA_JS_PATH, 'utf8');
+  const startIdx = content.indexOf('const MANGA_DATA = [') + 'const MANGA_DATA = '.length;
+  let depth = 0;
+  let endIdx = startIdx;
+  for (let i = startIdx; i < content.length; i++) {
+    if (content[i] === '[') depth++;
+    if (content[i] === ']') {
+      depth--;
+      if (depth === 0) {
+        endIdx = i + 1;
+        break;
+      }
+    }
+  }
+  const jsonStr = content.substring(startIdx, endIdx);
+  return JSON.parse(jsonStr);
+}
+
+// Save MANGA_DATA back to data.js preserving the functions
+function saveMangaList(mangaList) {
+  const content = fs.readFileSync(DATA_JS_PATH, 'utf8');
+  const startIdx = content.indexOf('const MANGA_DATA = [') + 'const MANGA_DATA = '.length;
+  let depth = 0;
+  let endIdx = startIdx;
+  for (let i = startIdx; i < content.length; i++) {
+    if (content[i] === '[') depth++;
+    if (content[i] === ']') {
+      depth--;
+      if (depth === 0) {
+        endIdx = i + 1;
+        break;
+      }
+    }
+  }
+  const before = content.substring(0, startIdx);
+  const after = content.substring(endIdx);
+  const newJson = JSON.stringify(mangaList, null, 2);
+  fs.writeFileSync(DATA_JS_PATH, before + newJson + after, 'utf8');
+}
+
+// Scrape page image paths from a specific chapter page URL
+async function scrapeChapterPages(chapterUrl) {
+  try {
+    const html = await fetch(chapterUrl);
+    const rsc = extractRscPayload(html);
+    
+    const imagesRegex = /"images"\s*:\s*\[([\s\S]*?)\]/;
+    const imagesMatch = rsc.match(imagesRegex);
+    if (!imagesMatch) return [];
+    
+    const urlRegex = /"url"\s*:\s*"([^"]+)"/g;
+    const pages = [];
+    let match;
+    while ((match = urlRegex.exec(imagesMatch[1])) !== null) {
+      // Prepend $MFK replacement placeholder or use absolute URL
+      // Since it is a new CDN, we can store it directly or add a CDN placeholder like $LMC for cdn.leituramanga.net
+      // Let's store it as absolute CDN URLs
+      pages.push(CDN_BASE + match[1]);
+    }
+    return pages;
+  } catch (e) {
+    console.error(`\nFailed to scrape pages from ${chapterUrl}: ${e.message}`);
+    return [];
+  }
+}
+
+// Scrape metadata and chapter list from a manga details page
+async function scrapeMangaDetails(slug) {
+  const url = `${BASE_URL}/manga/${slug}`;
+  try {
+    const html = await fetch(url);
+    const rsc = extractRscPayload(html);
+    
+    // Parse metadata
+    const titleMatch = html.match(/<h1[^>]*class="[^"]*font-bold[^"]*"[^>]*>([^<]+)<\/h1>/) || rsc.match(/"title"\s*:\s*"([^"]+)"/);
+    const title = titleMatch ? titleMatch[1].trim() : slug;
+    
+    const descMatch = html.match(/<meta\s+name="description"\s+content="([^"]+)"/i) || rsc.match(/"description"\s*:\s*"([^"]+)"/);
+    const rawDescription = descMatch ? descMatch[1].trim() : `Leia ${title} online em português.`;
+    // Clean out promotional phrases referencing the source site
+    const description = rawDescription
+      .replace(/,?\s*online\s+gr[aá]tis\s+no\s+Leitura\s+Manga\.?/gi, '.')
+      .replace(/\s*Acompanhe\s+cap[ií]tulos\s+atualizados\s+com\s+imagens\s+em\s+alta\s+qualidade\.?/gi, '')
+      .replace(/\s*no\s+Leitura\s+Manga\.?/gi, '.')
+      .replace(/\s*Leitura\s+Manga\.?/gi, '.')
+      .replace(/\.{2,}/g, '.')
+      .trim();
+    
+    // Extract author from RSC authors array: "authors":[{"name":"Author Name",...}]
+    let author = 'Desconhecido';
+    const authorsBlockMatch = rsc.match(/"authors"\s*:\s*\[(\{[^\]]*)\]/);
+    if (authorsBlockMatch) {
+      const authorNameMatch = authorsBlockMatch[1].match(/"name"\s*:\s*"([^"]+)"/);
+      if (authorNameMatch) author = authorNameMatch[1].trim();
+    }
+    
+    const coverMatch = html.match(/<meta\s+property="og:image"\s+content="([^"]+)"/i);
+    const cover = coverMatch ? coverMatch[1] : `${CDN_BASE}${slug}/cover-md.webp`;
+    
+    // Capítulos: tenta pela API oficial do LeituraManga usando o mangaId extraído do RSC
+    let chapterNumbers = [];
+    const idMatch = rsc.match(/"mangaId"\s*:\s*"([a-f0-9]{24})"/);
+    if (idMatch) {
+      try {
+        const mangaId = idMatch[1];
+        const apiRes = await fetch(`https://api.leituramanga.net/api/chapter/get-by-manga-id?mangaId=${mangaId}&page=1&limit=9007199254740991`);
+        const apiJson = JSON.parse(apiRes);
+        if (apiJson.success && apiJson.data && Array.isArray(apiJson.data.data)) {
+          chapterNumbers = apiJson.data.data
+            .map(ch => String(ch.chapterNumber))
+            .sort((a, b) => parseFloat(a) - parseFloat(b));
+        }
+      } catch(e) {
+        console.error(`⚠️ Erro ao buscar capítulos da API para ${slug}: ${e.message}`);
+      }
+    }
+
+    // Fallback clássico por Regex caso a API falhe ou o mangaId não seja encontrado
+    if (chapterNumbers.length === 0) {
+      const chRegex = new RegExp(`/manga/${slug}/chapter/([^"\\s]+)`, 'g');
+      const matches = rsc.match(chRegex) || html.match(chRegex) || [];
+      chapterNumbers = [...new Set(matches)]
+        .map(m => m.split('/chapter/')[1])
+        .sort((a, b) => parseFloat(a) - parseFloat(b));
+    }
+    
+    // Extract genres from RSC payload (manga-specific JSON data only)
+    // The site's RSC returns genres as objects: {"isAdult":false,"_id":"...","name":"Ação","slug":"acao"}
+    const genres = [];
+    
+    // Match the first "genres" occurrence (which is the manga's own genres, not the sidebar list)
+    const genresBlockMatch = rsc.match(/"genres"\s*:\s*\[(\{[^\]]*)\]/);
+    if (genresBlockMatch) {
+      // Extract all "name":"..." values from the genres objects array
+      const nameMatches = genresBlockMatch[1].match(/"name"\s*:\s*"([^"]+)"/g) || [];
+      nameMatches.forEach(item => {
+        const g = item.replace(/^"name"\s*:\s*"/, '').replace(/"$/, '').trim();
+        if (g && !genres.includes(g)) genres.push(g);
+      });
+    }
+    
+    // Fallback: try slug-based links from RSC only (not full HTML)
+    if (genres.length === 0) {
+      const genreMatches = [...rsc.matchAll(/\/genre\/([^"'\s>\\]+)/g)];
+      // Only take first 10 to avoid pulling the full sidebar list
+      genreMatches.slice(0, 10).forEach(g => {
+        const genName = decodeURIComponent(g[1]).replace(/-/g, ' ');
+        const formatted = genName.charAt(0).toUpperCase() + genName.slice(1);
+        if (formatted && !genres.includes(formatted)) genres.push(formatted);
+      });
+    }
+    
+    return {
+      title,
+      description,
+      author,
+      cover,
+      genres: genres.length > 0 ? genres : ['Manga'],
+      chapters: chapterNumbers.map(num => ({
+        number: parseFloat(num),
+        id: `${slug}-chapter-${num}`,
+        url: `${BASE_URL}/manga/${slug}/chapter/${num}`
+      }))
+    };
+  } catch (e) {
+    console.error(`\nFailed to scrape manga details for ${slug}: ${e.message}`);
+    return null;
+  }
+}
+
+// Incremental Scrape Mode (updates recently added/updated chapters)
+async function runIncrementalUpdate() {
+  console.log('🔄 Iniciando Varredura Incremental (Leitura Manga)...');
+  const mangaList = loadMangaList();
+  
+  let newChaptersFound = 0;
+  
+  try {
+    // We scrape page 1 of latest updates
+    const latestUrl = `${BASE_URL}/latest?page=1`;
+    const html = await fetch(latestUrl);
+    
+    // Find chapter links `/manga/[slug]/chapter/[number]`
+    const chRegex = /\/manga\/([^/"]+)\/chapter\/([^/"]+)/g;
+    const matches = html.match(chRegex) || [];
+    const uniqueMatches = [...new Set(matches)];
+    
+    console.log(`🔎 Encontrados ${uniqueMatches.length} capítulos recentes para analisar.`);
+    
+    // Group chapters by manga slug
+    const grouped = {};
+    uniqueMatches.forEach(m => {
+      const parts = m.split('/');
+      const slug = parts[2];
+      const chNum = parts[4];
+      if (!grouped[slug]) grouped[slug] = [];
+      grouped[slug].push(chNum);
+    });
+    
+    for (const [slug, chs] of Object.entries(grouped)) {
+      console.log(`\n📦 Processando mangá: ${slug}...`);
+      
+      // 1. Get metadata details to match title
+      await delay(DELAY_MS);
+      const details = await scrapeMangaDetails(slug);
+      if (!details) continue;
+      
+      // 2. Find local manga match
+      let mangaMatch = findMangaMatch(details.title, slug, mangaList);
+      let mangaId = slug;
+      
+      if (!mangaMatch) {
+        console.log(`✨ Mangá novo detectado no catálogo: ${details.title}`);
+        mangaMatch = {
+          id: slug,
+          slug: slug,
+          title: details.title,
+          altTitle: '',
+          cover: details.cover,
+          banner: details.cover,
+          author: details.author || 'Desconhecido',
+          artist: details.author || 'Desconhecido',
+          status: 'ongoing',
+          year: new Date().getFullYear(),
+          rating: 7.0,
+          genres: details.genres,
+          description: details.description,
+          chaptersCount: details.chapters.length,
+          lang: 'pt',
+          hasPt: true,
+          hasEn: false
+        };
+        mangaList.push(mangaMatch);
+        mangaId = slug;
+      } else {
+        mangaMatch.hasPt = true;
+        mangaMatch.descriptionPt = details.description;
+        // Update author if it was unknown and we now have a real one
+        if (details.author && details.author !== 'Desconhecido' && (!mangaMatch.author || mangaMatch.author === 'Desconhecido')) {
+          mangaMatch.author = details.author;
+          mangaMatch.artist = details.author;
+        }
+        mangaId = mangaMatch.id;
+        console.log(`🔗 Associado ao mangá existente: ${mangaMatch.title} (ID: ${mangaId})`);
+      }
+      
+      // 3. Load chapters file
+      if (!fs.existsSync(CHAPTERS_DIR)) {
+        fs.mkdirSync(CHAPTERS_DIR, { recursive: true });
+      }
+      const chFilePath = path.join(CHAPTERS_DIR, `${mangaId}.json`);
+      let chaptersObj = {};
+      if (fs.existsSync(chFilePath)) {
+        try {
+          chaptersObj = JSON.parse(fs.readFileSync(chFilePath, 'utf8'));
+        } catch(e) {}
+      }
+      if (!chaptersObj.pt) chaptersObj.pt = [];
+      
+      // 4. Filter out chapters already scraped
+      const existingChNums = new Set(chaptersObj.pt.map(c => String(c.number)));
+      const chsToScrape = chs.filter(c => !existingChNums.has(String(c)));
+      
+      if (chsToScrape.length === 0) {
+        console.log('   ✅ Todos os capítulos recentes já estão arquivados.');
+        continue;
+      }
+      
+      console.log(`   📥 Registrando ${chsToScrape.length} novos capítulos (modo rápido)...`);
+      for (const chNum of chsToScrape) {
+        chaptersObj.pt.push({
+          id: `${mangaId}-chapter-${chNum}`,
+          number: parseFloat(chNum),
+          title: `Capítulo ${chNum}`,
+          date: new Date().toISOString(),
+          pages: []
+        });
+        newChaptersFound++;
+      }
+      
+      // Sort chapters ascending
+      chaptersObj.pt.sort((a, b) => a.number - b.number);
+      
+      // Update chapters counts
+      mangaMatch.chaptersCount = Math.max(mangaMatch.chaptersCount || 0, chaptersObj.pt.length);
+      
+      // Save chapters
+      fs.writeFileSync(chFilePath, JSON.stringify(chaptersObj, null, 2), 'utf8');
+    }
+    
+    // Save updated MANGA_DATA back to data.js
+    saveMangaList(mangaList);
+    console.log(`\n🎉 Varredura Incremental Concluída! Encontrados e atualizados ${newChaptersFound} novos capítulos.`);
+    
+  } catch (err) {
+    console.error('❌ Erro na varredura incremental:', err.message);
+  }
+}
+
+// Full Catalog Scrape Mode (page-by-page catalog index)
+async function runFullCatalogUpdate() {
+  console.log('📦 Iniciando Varredura COMPLETA (Leitura Manga)...');
+  const mangaList = loadMangaList();
+  
+  let page = 1;
+  let hasMore = true;
+  const collectedSlugs = [];
+  
+  // Phase 1: Collect all slugs from catalog directory
+  console.log('📋 Fase 1: Mapeando listagem completa do catálogo...');
+  while (hasMore && page <= 50) {
+    process.stdout.write(`   Catalog Page ${page}...`);
+    try {
+      const url = `${BASE_URL}/manga?page=${page}`;
+      const html = await fetch(url);
+      
+      // Match `/manga/[slug]` links
+      const slugRegex = /\/manga\/([^/"]+)/g;
+      const matches = html.match(slugRegex) || [];
+      const slugs = [...new Set(matches)]
+        .map(m => m.split('/manga/')[1])
+        .filter(slug => !slug.includes('/chapter') && !slug.includes('?'));
+        
+      if (slugs.length === 0) {
+        hasMore = false;
+        console.log(' (fim alcançado)');
+        break;
+      }
+      
+      slugs.forEach(s => {
+        if (!collectedSlugs.includes(s)) collectedSlugs.push(s);
+      });
+      
+      page++;
+      await delay(1000);
+    } catch (e) {
+      console.error(`\n❌ Error on page ${page}: ${e.message}`);
+      hasMore = false;
+    }
+  }
+  
+  console.log(`\n✅ Mapeados ${collectedSlugs.length} mangás no catálogo.`);
+  
+  // Phase 2: Index chapters for each manga
+  console.log('\n📖 Fase 2: Coletando capítulos e páginas...');
+  let processedCount = 0;
+  
+  for (const slug of collectedSlugs) {
+    processedCount++;
+    console.log(`\n[${processedCount}/${collectedSlugs.length}] Processando: ${slug}...`);
+    
+    await delay(DELAY_MS);
+    const details = await scrapeMangaDetails(slug);
+    if (!details) continue;
+    
+    let mangaMatch = findMangaMatch(details.title, slug, mangaList);
+    let mangaId = slug;
+    
+    if (!mangaMatch) {
+      mangaMatch = {
+        id: slug,
+        slug: slug,
+        title: details.title,
+        altTitle: '',
+        cover: details.cover,
+        banner: details.cover,
+        author: details.author || 'Desconhecido',
+        artist: details.author || 'Desconhecido',
+        status: 'ongoing',
+        year: new Date().getFullYear(),
+        rating: 7.0,
+        genres: details.genres,
+        description: details.description,
+        chaptersCount: details.chapters.length,
+        lang: 'pt',
+        hasPt: true,
+        hasEn: false
+      };
+      mangaList.push(mangaMatch);
+    } else {
+      mangaMatch.hasPt = true;
+      mangaMatch.descriptionPt = details.description;
+      // Update author if it was unknown and we now have a real one
+      if (details.author && details.author !== 'Desconhecido' && (!mangaMatch.author || mangaMatch.author === 'Desconhecido')) {
+        mangaMatch.author = details.author;
+        mangaMatch.artist = details.author;
+      }
+      mangaId = mangaMatch.id;
+    }
+    
+    // Save chapters
+    const chFilePath = path.join(CHAPTERS_DIR, `${mangaId}.json`);
+    let chaptersObj = {};
+    if (fs.existsSync(chFilePath)) {
+      try {
+        chaptersObj = JSON.parse(fs.readFileSync(chFilePath, 'utf8'));
+      } catch(e) {}
+    }
+    if (!chaptersObj.pt) chaptersObj.pt = [];
+    
+    const existingChNums = new Set(chaptersObj.pt.map(c => String(c.number)));
+    
+    // Scrape all chapters
+    for (const ch of details.chapters) {
+      if (existingChNums.has(String(ch.number))) continue;
+      
+      chaptersObj.pt.push({
+        id: `${mangaId}-chapter-${ch.number}`,
+        number: ch.number,
+        title: `Capítulo ${ch.number}`,
+        date: new Date().toISOString(),
+        pages: []
+      });
+    }
+    
+    chaptersObj.pt.sort((a, b) => a.number - b.number);
+    mangaMatch.chaptersCount = Math.max(mangaMatch.chaptersCount || 0, chaptersObj.pt.length);
+    
+    fs.writeFileSync(chFilePath, JSON.stringify(chaptersObj, null, 2), 'utf8');
+    
+    // Save progress periodically in data.js
+    if (processedCount % 10 === 0) {
+      saveMangaList(mangaList);
+    }
+  }
+  
+  saveMangaList(mangaList);
+  console.log('\n🎉 Varredura Completa Concluída com sucesso!');
+}
+
+async function main() {
+  const args = process.argv.slice(2);
+  if (args.includes('--all')) {
+    await runFullCatalogUpdate();
+  } else {
+    await runIncrementalUpdate();
+  }
+}
+
+main().catch(console.error);

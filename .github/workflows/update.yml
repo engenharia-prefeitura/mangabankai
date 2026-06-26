@@ -1,5 +1,6 @@
-name: Atualizar Mangás
+name: Atualizar Mangas
 
+# Workflow de atualizacao automatica dos mangas (PT + EN)
 on:
   workflow_dispatch:
     inputs:

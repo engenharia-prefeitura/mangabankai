@@ -1,0 +1,6 @@
+{
+  "buildCommand": "node build-lite.cjs && node build-home.cjs",
+  "outputDirectory": ".",
+  "framework": null,
+  "installCommand": "npm install"
+}

@@ -8,13 +8,29 @@ const { createPool } = require('@vercel/postgres');
 
 async function run() {
   const isDispatch = process.env.GITHUB_EVENT_NAME === 'workflow_dispatch';
+  const dbUrl = process.env.DATABASE_URL;
+
   if (isDispatch) {
     console.log('⚡ Disparado manualmente via botão. Executando atualizador imediatamente.');
     fs.appendFileSync(process.env.GITHUB_ENV, 'SHOULD_RUN=true\n');
+    
+    if (dbUrl) {
+      const client = createPool({ connectionString: dbUrl });
+      try {
+        const now = Date.now();
+        await Promise.all([
+          client.query("INSERT INTO site_settings (key, value) VALUES ('scheduler_last_run', $1) ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value", [String(now)]),
+          client.query("INSERT INTO site_settings (key, value) VALUES ('scheduler_last_status', 'running') ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value")
+        ]);
+        console.log('Banco de dados atualizado para início manual.');
+        await client.end();
+      } catch (err) {
+        console.error('Erro ao atualizar banco no disparo manual:', err.message);
+      }
+    }
     process.exit(0);
   }
 
-  const dbUrl = process.env.DATABASE_URL;
   if (!dbUrl) {
     console.error('Erro: DATABASE_URL não configurado nas secrets do GitHub.');
     // Fallback: executa para garantir

@@ -33,10 +33,9 @@ function applyGlobalMangaDataFilter() {
     }
 
     if (!adultMode) {
-      const adultGenres = ['Adulto', 'Hentai', 'Ecchi', 'Mature', 'Smut'];
       list = list.filter(m => {
-        const genres = m.genres || [];
-        return !genres.some(g => adultGenres.includes(g));
+        const genres = (m.genres || []).map(g => g.toLowerCase());
+        return !genres.some(g => g.includes('hentai') || g === 'adulto' || g === 'ecchi' || g === 'mature' || g === 'smut');
       });
     }
 
@@ -96,10 +95,10 @@ function filterManga(opts) {
   return results;
 }
 
-const ALL_GENRES = ["Action","Adult","Adventure","Animated","Comedy","Demons","Drama","Ecchi","Fantasy","Gender Bender","Harem","Historical","Horror","Josei","Life","Magic","Martial Arts","Mature","Mecha","Military","Mystery","One Shot","Psychological","Romance","School","School Life","Sci Fi","Seinen","Shoujo","Shoujoai","Shounen","Shounen Ai","Shounenai","Slice Of Life","Smut","Sports","Super Power","Supernatural","Tragedy","Vampire","Yaoi","Yuri"];
+const ALL_GENRES = ["Action","Adult","Adulto","Adventure","Animated","Comedy","Demons","Drama","Ecchi","Hentai","Fantasy","Gender Bender","Harem","Historical","Horror","Josei","Life","Magic","Martial Arts","Mature","Mecha","Military","Mystery","One Shot","Psychological","Romance","School","School Life","Sci Fi","Seinen","Shoujo","Shoujoai","Shounen","Shounen Ai","Shounenai","Slice Of Life","Smut","Sports","Super Power","Supernatural","Tragedy","Vampire","Yaoi","Yuri"];
 
 function getAvailableGenres() {
-  const adultGenres = ['Adulto', 'Hentai', 'Ecchi', 'Mature', 'Smut'];
+  const adultGenres = ['Adult', 'Adulto', 'Hentai', 'Ecchi', 'Mature', 'Smut'];
   const adultMode = typeof localStorage !== 'undefined' && localStorage.getItem('ms_adult_mode') === 'true';
   if (adultMode) {
     const nonAdult = ALL_GENRES.filter(g => !adultGenres.includes(g));

@@ -93,3 +93,35 @@ jobs:
             git commit -m "chore: atualização automática de mangás"
             git push
           fi
+
+      - name: Reportar sucesso ao banco
+        if: ${{ success() && env.SHOULD_RUN == 'true' }}
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+        run: |
+          node -e "
+            const { createClient } = require('@vercel/postgres');
+            const client = createClient({ connectionString: process.env.DATABASE_URL });
+            client.connect().then(() => {
+              client.query(\`INSERT INTO site_settings (key, value) VALUES ('scheduler_last_status', 'success') ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value\`).then(() => {
+                console.log('Status de sucesso enviado ao banco.');
+                client.end();
+              });
+            });
+          "
+
+      - name: Reportar falha ao banco
+        if: ${{ failure() && env.SHOULD_RUN == 'true' }}
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+        run: |
+          node -e "
+            const { createClient } = require('@vercel/postgres');
+            const client = createClient({ connectionString: process.env.DATABASE_URL });
+            client.connect().then(() => {
+              client.query(\`INSERT INTO site_settings (key, value) VALUES ('scheduler_last_status', 'failure') ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value\`).then(() => {
+                console.log('Status de falha enviado ao banco.');
+                client.end();
+              });
+            });
+          "

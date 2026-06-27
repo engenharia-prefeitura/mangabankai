@@ -158,7 +158,8 @@ async function settings(req, res) {
         interval: data['scheduler_interval'] || '12h',
         lang: data['scheduler_lang'] || 'pt',
         mode: data['scheduler_mode'] || 'incremental',
-        lastRun: data['scheduler_last_run'] ? parseInt(data['scheduler_last_run'], 10) : null
+        lastRun: data['scheduler_last_run'] ? parseInt(data['scheduler_last_run'], 10) : null,
+        lastStatus: data['scheduler_last_status'] || null
       }
     });
   }
@@ -196,7 +197,8 @@ async function settings(req, res) {
         interval: data['scheduler_interval'] || '12h',
         lang: data['scheduler_lang'] || 'pt',
         mode: data['scheduler_mode'] || 'incremental',
-        lastRun: data['scheduler_last_run'] ? parseInt(data['scheduler_last_run'], 10) : null
+        lastRun: data['scheduler_last_run'] ? parseInt(data['scheduler_last_run'], 10) : null,
+        lastStatus: data['scheduler_last_status'] || null
       }
     });
   }

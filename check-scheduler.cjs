@@ -76,11 +76,11 @@ async function run() {
   if (timePassed >= intervalMs) {
     console.log(`🟢 Tempo transcorrido (${Math.round(timePassed / 60000)}m) >= Intervalo (${Math.round(intervalMs / 60000)}m). Executando scraper...`);
     
-    // Atualiza a data da última execução
-    await client.query(
-      "INSERT INTO site_settings (key, value) VALUES ('scheduler_last_run', $1) ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value",
-      [String(now)]
-    );
+    // Atualiza a data e status da última execução
+    await Promise.all([
+      client.query("INSERT INTO site_settings (key, value) VALUES ('scheduler_last_run', $1) ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value", [String(now)]),
+      client.query("INSERT INTO site_settings (key, value) VALUES ('scheduler_last_status', 'running') ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value")
+    ]);
     
     fs.appendFileSync(process.env.GITHUB_ENV, 'SHOULD_RUN=true\n');
     fs.appendFileSync(process.env.GITHUB_ENV, `SCRAPE_LANG=${targetLang}\n`);

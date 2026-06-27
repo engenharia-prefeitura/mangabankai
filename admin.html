@@ -717,8 +717,24 @@ function updateSchedulerDisplay(sched, populateInputs = false) {
   }
   
   if (sched.enabled) {
-    infoEl.innerHTML = `🟢 <strong>Agendador Ativo</strong> | Última: ${last} | Próxima: <strong>${next}</strong>`;
-    infoEl.style.color = 'var(--green)';
+    let statusLabel = 'Ativo';
+    let statusColor = 'var(--green)';
+    let statusIcon = '🟢';
+    
+    if (sched.lastStatus === 'running') {
+      statusIcon = '🔄';
+      statusLabel = 'Atualizando na Nuvem...';
+      statusColor = 'var(--yellow)';
+    } else if (sched.lastStatus === 'failure') {
+      statusIcon = '⚠️';
+      statusLabel = 'Ativo (Última Falhou)';
+      statusColor = 'var(--red)';
+    } else if (sched.lastStatus === 'success') {
+      statusLabel = 'Ativo (Sucesso)';
+    }
+
+    infoEl.innerHTML = `${statusIcon} <strong>Agendador ${statusLabel}</strong> | Última: ${last} | Próxima: <strong>${next}</strong>`;
+    infoEl.style.color = statusColor;
   } else {
     infoEl.innerHTML = `⚪ <strong>Agendador Desativado</strong> | Última: ${last}`;
     infoEl.style.color = 'var(--muted)';

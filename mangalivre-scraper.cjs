@@ -98,6 +98,33 @@ async function fetchWithHeaders(url) {
 }
 
 async function fetchJson(url) { return JSON.parse(await fetch(url)); }
+
+// ---------- MangaDex Cover Fallback ----------
+// Busca a capa no MangaDex quando a fonte principal não tem uma capa real.
+async function fetchMangaDexCover(title) {
+  try {
+    const q = encodeURIComponent(title);
+    const url = `https://api.mangadex.org/manga?title=${q}&limit=5&includes[]=cover_art`;
+    const https2 = require('https');
+    const data = await new Promise((resolve, reject) => {
+      https2.get(url, {
+        headers: { 'User-Agent': 'MangaBankai/1.0 (manga reader)', 'Accept': 'application/json' },
+        timeout: 8000
+      }, res => {
+        let raw = '';
+        res.on('data', d => raw += d);
+        res.on('end', () => { try { resolve(JSON.parse(raw)); } catch(e) { resolve(null); } });
+      }).on('error', reject).on('timeout', function() { this.destroy(); resolve(null); });
+    });
+    if (!data || !Array.isArray(data.data) || !data.data.length) return '';
+    const manga = data.data[0];
+    const coverRel = (manga.relationships || []).find(r => r.type === 'cover_art');
+    if (!coverRel || !coverRel.attributes || !coverRel.attributes.fileName) return '';
+    return `https://uploads.mangadex.org/covers/${manga.id}/${coverRel.attributes.fileName}.512.jpg`;
+  } catch (e) {
+    return ''; // falha silenciosa — capa vazia é melhor que travar o scraper
+  }
+}
 async function fetchJsonWithHeaders(url) {
   const { body, headers } = await fetchWithHeaders(url);
   return { data: JSON.parse(body), headers };
@@ -214,6 +241,12 @@ async function fetchMangaDetails(slug, defaultTitle) {
         const sizeMatch = html.match(new RegExp(`(https://mangalivre\\.blog/wp-content/uploads/[^\\s"'<>]*${size}[^\\s"'<>]*)`, 'i'));
         if (sizeMatch) { cover = sizeMatch[1]; break; }
       }
+    }
+
+    // 4. Fallback: MangaDex (quando o mangalivre.blog não tem capa real)
+    if (!cover) {
+      cover = await fetchMangaDexCover(title || defaultTitle);
+      if (cover) console.log(`   📦 Capa buscada no MangaDex para: ${title || defaultTitle}`);
     }
     
     // Genres
@@ -422,6 +455,16 @@ async function processMangaChaptersGroup(mangaList, groupedChapters) {
     
     if (!m) continue;
     m.hasPt = true;
+
+    // Repara capa ausente em mangás já existentes (busca no MangaDex como fallback)
+    if (!m.cover) {
+      const repaired = await fetchMangaDexCover(m.title || defaultTitle);
+      if (repaired) {
+        m.cover = repaired;
+        m.banner = repaired;
+        console.log(`   🔧 Capa reparada via MangaDex: ${m.title}`);
+      }
+    }
     
     let cache = chCache.get(m.id);
     if (!cache) {

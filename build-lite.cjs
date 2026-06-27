@@ -51,19 +51,22 @@ function proxyCover(cover) {
   if (!cover) return '';
   // Descarta placeholders antes de qualquer outra lógica
   if (isPlaceholder(cover)) return '';
-  const allowedPrefixes = [
+
+  // Domínios com hotlink protection — precisam passar pelo proxy
+  const proxyPrefixes = [
     'https://images.mangafreak.me/',
     'https://leituramanga.net/',
     'https://leituramanga.com/',
     'https://cdn.leituramanga.net/',
     'https://mundohentaioficial.com/',
-    'https://mangalivre.blog/',
-    'https://uploads.mangadex.org/'
+    'https://mangalivre.blog/'
   ];
-  const shouldProxy = allowedPrefixes.some(prefix => cover.startsWith(prefix));
-  if (shouldProxy) {
+  if (proxyPrefixes.some(prefix => cover.startsWith(prefix))) {
     return '/api/img-proxy?url=' + encodeURIComponent(cover);
   }
+
+  // Domínios CDN públicos — não precisam de proxy (sem hotlink protection)
+  // MangaDex, placehold.co, etc.
   return cover;
 }
 

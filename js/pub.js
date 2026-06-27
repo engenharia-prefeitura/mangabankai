@@ -142,23 +142,50 @@ const ADS = (function () {
     },
 
     // ── DETECÇÃO DE ADBLOCK ──────────────────────────────────────────────
+    // Dois métodos em paralelo:
+    //   1. Elemento isca (CSS) — captura bloqueadores que ocultam via CSS
+    //   2. Fetch de rede (URL)  — captura uBlock Origin e similares que bloqueiam
+    //      por URL (ERR_BLOCKED_BY_CLIENT); o fetch falha imediatamente nesse caso
+    // Reporta "bloqueado" se QUALQUER método detectar. Reporta "livre" somente
+    // quando ambos passarem, ou após 2s de segurança (servidor lento ≠ adblock).
     detectAdBlock(callback) {
-      const bait = document.createElement('div');
+      var settled = false;
+      var passing  = 0;
+
+      function report(blocked) {
+        if (settled) return;
+        if (blocked) { settled = true; callback(true); return; }
+        passing++;
+        if (passing >= 2) { settled = true; callback(false); }
+      }
+
+      // Segurança: se os dois checks demorarem mais de 2s assume sem adblock
+      setTimeout(function () { if (!settled) { settled = true; callback(false); } }, 2000);
+
+      // Método 1 — elemento isca (bloqueadores CSS)
+      var bait = document.createElement('div');
       bait.className = 'ad ads adsbox doubleclick ad-placement carbon-ads';
-      bait.setAttribute('data-ad', 'true');
       Object.assign(bait.style, {
         height: '1px', width: '1px', position: 'absolute',
         left: '-9999px', top: '-9999px', pointerEvents: 'none'
       });
       document.body.appendChild(bait);
       setTimeout(function () {
-        const cs = window.getComputedStyle(bait);
-        const blocked = bait.offsetHeight === 0 ||
-                        cs.display === 'none' ||
-                        cs.visibility === 'hidden';
+        var cs = window.getComputedStyle(bait);
+        report(bait.offsetHeight === 0 || cs.display === 'none' || cs.visibility === 'hidden');
         bait.remove();
-        callback(blocked);
       }, 200);
+
+      // Método 2 — fetch de rede (uBlock Origin, Adblock Plus com filtros de rede)
+      // no-cors: resposta opaca mas não lança erro → não bloqueado
+      // ERR_BLOCKED_BY_CLIENT → lança TypeError → bloqueado
+      fetch('https://www.highperformanceformat.com/fe05dd3e4e352dea7bcfb0afe47a6044/invoke.js', {
+        method: 'HEAD',
+        mode: 'no-cors',
+        cache: 'no-store'
+      })
+      .then(function () { report(false); })
+      .catch(function () { report(true); });
     },
 
     // ── OVERLAY DE ADBLOCK ────────────────────────────────────────────────

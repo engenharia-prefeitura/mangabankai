@@ -92,10 +92,7 @@ function filterManga(opts) {
       break;
     case 'recent':
     default:
-      results.sort((a, b) => {
-        const yd = (b.year || 0) - (a.year || 0);
-        return yd !== 0 ? yd : (b.chaptersCount || 0) - (a.chaptersCount || 0);
-      });
+      results.sort((a, b) => (b.chaptersCount || 0) - (a.chaptersCount || 0));
       break;
   }
   return results;

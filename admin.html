@@ -734,11 +734,22 @@ async function saveScheduler() {
   const btn = document.getElementById('saveSchedulerBtn');
   btn.disabled = true;
   btn.textContent = 'Salvando...';
+
+  let triggerNow = false;
+  if (enabled && !SCRAPER_URL) {
+    triggerNow = confirm('Configurações salvas! Deseja iniciar uma atualização em nuvem agora para começar o ciclo imediatamente?');
+  }
   
+  const nowTimestamp = Date.now();
+  const schedulerData = { enabled, interval, lang, mode };
+  if (triggerNow) {
+    schedulerData.lastRun = nowTimestamp;
+  }
+
   const url = SCRAPER_URL ? `${SCRAPER_URL}/scheduler-config` : `/api/admin/settings`;
   const body = SCRAPER_URL 
     ? JSON.stringify({ enabled, interval, lang, mode }) 
-    : JSON.stringify({ scheduler: { enabled, interval, lang, mode } });
+    : JSON.stringify({ scheduler: schedulerData });
 
   try {
     const res = await fetch(url, {
@@ -748,8 +759,14 @@ async function saveScheduler() {
     });
     const data = await res.json();
     if (data.ok) {
-      updateSchedulerDisplay(SCRAPER_URL ? data.scheduler : data.scheduler);
+      updateSchedulerDisplay(data.scheduler);
       alert('Configurações do agendador salvas com sucesso!');
+      if (triggerNow) {
+        let target = 'all';
+        if (lang === 'pt') target = 'pt-only';
+        else if (lang === 'en') target = 'en-only';
+        triggerScrape(target);
+      }
     } else {
       alert('Erro ao salvar configurações: ' + (data.error || 'erro desconhecido'));
     }

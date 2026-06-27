@@ -338,12 +338,8 @@ function renderHeaderControls() {
   const headerInner = document.querySelector('.header-inner');
   if (!headerInner) return;
 
-  // Se já existir, removemos para re-renderizar com o estado correto de login
-  const existing = headerInner.querySelector('.header-controls');
-  if (existing) existing.remove();
-
-  const controls = document.createElement('div');
-  controls.className = 'header-controls';
+  // Limpa elementos anteriores injetados
+  headerInner.querySelectorAll('.header-controls, .drawer-header, .drawer-options').forEach(el => el.remove());
 
   const currentLang = LS.get('global_lang', 'all');
   const adultMode = LS.get('adult_mode', false);
@@ -357,27 +353,49 @@ function renderHeaderControls() {
        </div>`
     : `<button onclick="openAuthModal()" class="auth-toggle-btn" title="Entrar / Cadastrar">👤 Entrar</button>`;
 
-  controls.innerHTML = `
+  const langHtml = `
     <div class="global-lang-selector">
       <button onclick="setGlobalLang('all')" class="lang-btn ${currentLang === 'all' ? 'active' : ''}" title="Todos os Idiomas">🌐 Todos</button>
       <button onclick="setGlobalLang('pt')" class="lang-btn ${currentLang === 'pt' ? 'active' : ''}" title="Apenas em Português">🇵🇹 PT</button>
       <button onclick="setGlobalLang('en')" class="lang-btn ${currentLang === 'en' ? 'active' : ''}" title="Apenas em Inglês">🇬🇧 EN</button>
     </div>
+  `;
+
+  const adultHtml = `
     <button onclick="toggleAdultMode()" class="adult-toggle-btn ${adultMode ? 'active' : ''}" title="Modo +18 (Conteúdo Adulto)">
       🔞 ${adultMode ? 'Modo +18' : 'Modo Livre'}
     </button>
-    ${userHtml}
   `;
 
-  // Injeta os controles dentro do menu (nav + controles); no desktop o menu usa
-  // display:contents e tudo flui na barra; no mobile o menu vira drawer.
   const menu = headerInner.querySelector('.header-menu');
-  if (menu) {
-    menu.appendChild(controls);
+
+  if (window.innerWidth <= 900 && menu) {
+    // Layout mobile: Usuário no topo, links no meio (já estáticos), opções na base
+    const drawerHeader = document.createElement('div');
+    drawerHeader.className = 'drawer-header';
+    drawerHeader.innerHTML = `
+      <div class="drawer-user">${userHtml}</div>
+      <button class="drawer-close-btn" onclick="toggleHeaderMenu()" aria-label="Fechar menu">✕</button>
+    `;
+    menu.prepend(drawerHeader);
+
+    const drawerOptions = document.createElement('div');
+    drawerOptions.className = 'drawer-options';
+    drawerOptions.innerHTML = langHtml + adultHtml;
+    menu.appendChild(drawerOptions);
   } else {
-    const searchBar = headerInner.querySelector('.search-bar');
-    if (searchBar) headerInner.insertBefore(controls, searchBar);
-    else headerInner.appendChild(controls);
+    // Layout desktop: linha única contínua
+    const controls = document.createElement('div');
+    controls.className = 'header-controls';
+    controls.innerHTML = langHtml + adultHtml + userHtml;
+
+    if (menu) {
+      menu.appendChild(controls);
+    } else {
+      const searchBar = headerInner.querySelector('.search-bar');
+      if (searchBar) headerInner.insertBefore(controls, searchBar);
+      else headerInner.appendChild(controls);
+    }
   }
 }
 
@@ -392,7 +410,7 @@ function toggleHeaderMenu() {
 }
 window.toggleHeaderMenu = toggleHeaderMenu;
 
-// Fecha o drawer ao voltar para desktop
+// Fecha o drawer ao voltar para desktop e reconstrói controles conforme largura da tela
 window.addEventListener('resize', () => {
   if (window.innerWidth > 900) {
     const menu = document.getElementById('headerMenu');
@@ -401,6 +419,7 @@ window.addEventListener('resize', () => {
     if (overlay) overlay.classList.remove('open');
     document.body.classList.remove('no-scroll');
   }
+  renderHeaderControls();
 });
 
 window.setGlobalLang = function(lang) {

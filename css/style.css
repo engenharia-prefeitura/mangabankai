@@ -153,19 +153,28 @@ img { max-width: 100%; display: block; }
 .header-hamburger {
   align-items: center;
   justify-content: center;
-  width: 42px;
-  height: 42px;
+  width: 44px;
+  height: 44px;
   flex-shrink: 0;
-  border-radius: 10px;
+  border-radius: 12px;
   border: 1px solid var(--border);
-  background: var(--bg-card);
+  background: linear-gradient(135deg, var(--bg-card) 0%, rgba(22, 22, 29, 0.5) 100%);
   color: var(--text-primary);
-  font-size: 1.25rem;
+  font-size: 1.35rem;
   line-height: 1;
   cursor: pointer;
   transition: all var(--transition);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
-.header-hamburger:hover { border-color: var(--accent); color: var(--accent); }
+.header-hamburger:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  box-shadow: 0 0 14px var(--accent-glow);
+  transform: translateY(-1px);
+}
+.header-hamburger:active {
+  transform: scale(0.95);
+}
 
 /* ===== Header mobile: barra compacta + menu drawer ===== */
 @media (max-width: 900px) {
@@ -174,7 +183,7 @@ img { max-width: 100%; display: block; }
   .header-hamburger { display: flex; order: 1; margin-left: auto; }
   .search-bar { order: 2; flex: 1 1 100%; max-width: 100%; min-width: 0; }
 
-  /* o menu deixa de ser display:contents e vira um drawer lateral */
+  /* O menu deixa de ser display:contents e vira um drawer lateral esquerdo (Opção A) */
   .header-menu {
     display: flex;
     flex-direction: column;
@@ -182,15 +191,17 @@ img { max-width: 100%; display: block; }
     gap: 6px;
     position: fixed;
     top: 0;
-    right: 0;
+    left: 0; /* Alinhado à esquerda (mesmo lado da logo) */
+    right: auto;
     width: min(82vw, 320px);
     height: 100vh;
     height: 100dvh;
     background: var(--bg-secondary);
-    border-left: 1px solid var(--border);
-    box-shadow: -14px 0 44px rgba(0, 0, 0, 0.55);
-    padding: 74px 18px 24px;
-    transform: translateX(100%);
+    border-right: 1px solid var(--border); /* Divisor à direita */
+    border-left: none;
+    box-shadow: 14px 0 44px rgba(0, 0, 0, 0.55); /* Sombra projetada para a direita */
+    padding: 0 0 24px; /* Padding superior removido para acomodar o header */
+    transform: translateX(-100%); /* Escondido à esquerda */
     transition: transform 0.32s cubic-bezier(0.4, 0, 0.2, 1);
     z-index: 1001;
     overflow-y: auto;
@@ -211,6 +222,44 @@ img { max-width: 100%; display: block; }
   }
   .header-menu-overlay.open { opacity: 1; visibility: visible; }
 
+  /* Cabeçalho do menu lateral (Usuário + Botão Fechar) */
+  .drawer-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 20px;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 12px;
+    width: 100%;
+    background: var(--bg-card);
+  }
+  .drawer-user {
+    display: flex;
+    align-items: center;
+    flex: 1;
+  }
+  
+  /* Botão Fechar Drawer (✕) */
+  .drawer-close-btn {
+    background: none;
+    border: none;
+    color: var(--text-secondary);
+    font-size: 1.4rem;
+    cursor: pointer;
+    padding: 4px 8px;
+    transition: color var(--transition), transform 0.25s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .drawer-close-btn:hover {
+    color: var(--accent);
+    transform: rotate(90deg);
+  }
+  .drawer-close-btn:active {
+    transform: scale(0.9) rotate(90deg);
+  }
+
   /* nav vira lista vertical no drawer */
   .header-menu .nav {
     flex-direction: column;
@@ -218,7 +267,7 @@ img { max-width: 100%; display: block; }
     gap: 4px;
     width: 100%;
     border: none;
-    padding: 0;
+    padding: 0 16px;
     margin: 0;
   }
   .header-menu .nav a {
@@ -231,28 +280,128 @@ img { max-width: 100%; display: block; }
   .header-menu .nav a:hover,
   .header-menu .nav a.active { background: var(--bg-card); color: var(--text-primary); }
 
-  /* controles empilhados no drawer */
-  .header-menu .header-controls {
+  /* Opções extras na base do drawer (Idioma e Modo Livre) */
+  .drawer-options {
+    display: flex;
     flex-direction: column;
-    align-items: stretch;
-    gap: 10px;
-    width: 100%;
-    margin-top: 10px;
-    padding-top: 14px;
+    gap: 12px;
+    padding: 16px;
+    margin-top: 24px;
     border-top: 1px solid var(--border);
   }
-  .header-menu .global-lang-selector { justify-content: space-between; transform: none; }
-  .header-menu .lang-btn { flex: 1; justify-content: center; padding: 8px; }
-  .header-menu .adult-toggle-btn,
-  .header-menu .auth-toggle-btn,
-  .header-menu .username-btn {
+  
+  /* Estilização para os botões e selectors dentro das opções do drawer */
+  .drawer-options .global-lang-selector {
+    display: flex;
+    justify-content: space-between;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 2px;
+    width: 100%;
+  }
+  .drawer-options .lang-btn {
+    flex: 1;
+    justify-content: center;
+    padding: 8px;
+    border: none;
+    background: none;
+    color: var(--text-secondary);
+    font-size: 0.78rem;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 18px;
+    transition: all var(--transition);
+  }
+  .drawer-options .lang-btn.active {
+    background: var(--accent);
+    color: #fff;
+  }
+  
+  .drawer-options .adult-toggle-btn {
     width: 100%;
     justify-content: center;
-    padding: 11px;
-    font-size: 0.85rem;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    color: var(--text-secondary);
+    padding: 10px;
+    font-size: 0.82rem;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    transition: all var(--transition);
   }
-  .header-menu .user-profile-menu { width: 100%; }
-  .header-menu .user-dropdown { position: static; box-shadow: none; }
+  .drawer-options .adult-toggle-btn.active {
+    border-color: var(--accent);
+    color: var(--accent);
+    background: var(--accent-glow);
+  }
+
+  /* Perfil do usuário e botões de auth no cabeçalho */
+  .drawer-user .auth-toggle-btn {
+    background: linear-gradient(135deg, var(--bg-hover) 0%, var(--bg-card) 100%);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    color: var(--text-primary);
+    font-family: var(--font);
+    font-size: 0.85rem;
+    font-weight: 600;
+    padding: 8px 16px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    transition: all var(--transition);
+  }
+  .drawer-user .auth-toggle-btn:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+  
+  .drawer-user .user-profile-menu {
+    position: relative;
+    width: 100%;
+  }
+  .drawer-user .username-btn {
+    background: none;
+    border: none;
+    color: var(--text-primary);
+    font-size: 0.95rem;
+    font-weight: 700;
+    cursor: pointer;
+    padding: 6px 0;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-family: var(--font);
+  }
+  .drawer-user .user-dropdown {
+    position: absolute;
+    top: calc(100% + 8px);
+    left: 0;
+    right: auto;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 6px 0;
+    min-width: 130px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+    z-index: 210;
+  }
+  .drawer-user .user-dropdown a {
+    display: block;
+    padding: 8px 16px;
+    font-size: 0.8rem;
+    color: var(--text-secondary);
+    text-decoration: none;
+  }
+  .drawer-user .user-dropdown a:hover {
+    background: var(--bg-hover);
+    color: var(--text-primary);
+  }
 }
 
 .logo {
@@ -1282,9 +1431,14 @@ img { max-width: 100%; display: block; }
   /* Hero mobile: capa full-bleed com texto na base (estilo streaming) */
   /* Hero mobile: poster fluido à direita + texto à esquerda (estilo imagem 2) */
   .hero-slide { align-items: center; }
+  .hero-badge-strip {
+    left: clamp(16px, 4vw, 24px);
+    transform: none;
+    top: 12px;
+  }
   .hero-slide .content {
     max-width: 100%;
-    padding: 24px 0 24px clamp(16px, 4vw, 24px);
+    padding: 52px 0 24px clamp(16px, 4vw, 24px);
     padding-right: calc(clamp(112px, 22vw, 220px) + clamp(16px, 4vw, 40px) + 16px);
   }
   .hero-slide .content .hero-desc { -webkit-line-clamp: 2; font-size: 0.83rem; }
@@ -1333,7 +1487,7 @@ img { max-width: 100%; display: block; }
   .manga-card .info h3 { font-size: 0.8rem; }
   .stats-inner { grid-template-columns: repeat(2, 1fr); gap: 12px 8px; }
   .hero-slide .content {
-    padding: 16px 0 16px 16px;
+    padding: 48px 0 16px 16px;
     padding-right: calc(clamp(112px, 22vw, 220px) + clamp(16px, 4vw, 40px) + 12px);
   }
   .hero-slide .content h1 { -webkit-line-clamp: 2; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; line-height: 1.2; margin-bottom: 6px; }

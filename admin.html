@@ -764,6 +764,7 @@ async function fetchGeneralSettings() {
     if (res.ok) {
       const data = await res.json();
       updateGeneralSettingsDisplay(data.transition_delay);
+      if (data.scheduler) updateSchedulerDisplay(data.scheduler, true);
     }
   } catch (e) {
     console.error('Erro ao carregar configurações gerais:', e);

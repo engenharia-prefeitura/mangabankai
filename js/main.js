@@ -348,6 +348,8 @@ function renderHeaderControls() {
     ? `<div class="user-profile-menu">
          <button class="username-btn" onclick="toggleUserDropdown()" title="Minha Conta">👤 ${window.currentUser.username}</button>
          <div class="user-dropdown" id="userDropdown">
+           <a href="profile.html">👤 Perfil</a>
+           ${window.currentUser.role === 'admin' ? '<a href="admin.html">⚙️ Painel Admin</a>' : ''}
            <a href="javascript:void(0)" onclick="handleLogout()">🚪 Sair</a>
          </div>
        </div>`

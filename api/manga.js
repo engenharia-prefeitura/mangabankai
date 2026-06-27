@@ -55,9 +55,25 @@ async function views(req, res) {
   return res.status(405).json({ error: 'Método não permitido' });
 }
 
+async function settings(req, res) {
+  const sql = await ensureConnection();
+  if (req.method === 'GET') {
+    try {
+      const r = await sql`SELECT value FROM site_settings WHERE key = 'transition_delay' LIMIT 1`;
+      const delay = r.rows && r.rows[0] ? parseInt(r.rows[0].value, 10) : 10;
+      return res.status(200).json({ transition_delay: delay });
+    } catch (e) {
+      return res.status(200).json({ transition_delay: 10 });
+    }
+  }
+  res.setHeader('Allow', ['GET']);
+  return res.status(405).json({ error: 'Método não permitido' });
+}
+
 module.exports = async (req, res) => {
   const action = (req.query && req.query.action) || '';
   if (action === 'favorites') return favorites(req, res);
   if (action === 'views') return views(req, res);
+  if (action === 'settings') return settings(req, res);
   res.status(404).json({ error: 'Endpoint não encontrado' });
 };

@@ -394,6 +394,29 @@
     </div>
   </div>
 
+  <!-- Configurações Gerais -->
+  <div class="scraper-cloud" id="generalSettingsCard" style="display:none; margin-top: 28px; background:var(--surface); border:1px solid var(--border); border-radius:16px; padding:24px;">
+    <h2>⚙️ Configurações Gerais do Site</h2>
+    <p style="font-size:0.82rem; color:var(--muted); margin-bottom:18px; margin-top:4px;">
+      Ajuste o comportamento geral do leitor e de anúncios do MangaBankai.
+    </p>
+    <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(200px, 1fr)); gap:16px; margin-bottom:18px;">
+      <div>
+        <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">Tempo de Bloqueio do Próximo Capítulo</label>
+        <div style="display:flex; align-items:center; gap:8px;">
+          <input type="number" id="settingTransitionDelay" min="0" max="60" style="flex:1; background:var(--surface2); border:1px solid var(--border); padding:8px 12px; border-radius:8px; color:var(--text); outline:none;" placeholder="Padrão: 10">
+          <span style="font-size:0.8rem; color:var(--muted)">segundos</span>
+        </div>
+      </div>
+    </div>
+    <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:12px;">
+      <div id="settingsInfo" style="font-size:0.8rem; color:var(--muted);">
+        Aguardando configurações...
+      </div>
+      <button class="btn btn-resume" id="saveSettingsBtn" onclick="saveGeneralSettings()">Salvar Configurações</button>
+    </div>
+  </div>
+
   <!-- Visibilidade -->
   <div class="log-box" id="visibilityBox">
     <div class="log-head">
@@ -432,12 +455,16 @@
 </div>
 
 <script>
-const isLocal = ['localhost', '127.0.0.1', ''].includes(location.hostname);
-// SCRAPER_URL: admin-server.cjs local (scraping). null quando no Vercel — impossível rodar na nuvem.
-const SCRAPER_URL = isLocal ? 'http://localhost:3001' : null;
-// VIS_BASE: endpoints de visibilidade (search-manga / toggle-hidden).
-// Local → admin-server.cjs porta 3001. Vercel → serverless functions em /api/admin.
-const VIS_BASE = isLocal ? 'http://localhost:3001' : '/api/admin';
+const isVercel = location.hostname.includes('vercel.app');
+let SCRAPER_URL = null;
+if (!isVercel) {
+  if (location.protocol === 'file:') {
+    SCRAPER_URL = 'http://localhost:3001';
+  } else {
+    SCRAPER_URL = location.protocol + '//' + location.hostname + ':3001';
+  }
+}
+const VIS_BASE = SCRAPER_URL ? SCRAPER_URL : '/api/admin';
 
 let es = null;
 const labels = { idle:'Ocioso', running:'Rodando', paused:'Pausado', done:'Concluído', error:'Erro' };
@@ -562,16 +589,21 @@ function applyMsg(d) {
     updateCard('pt', d.state.pt);
     updateCard('en', d.state.en);
     if (d.state.scheduler) updateSchedulerDisplay(d.state.scheduler);
+    if (d.state.transition_delay !== undefined) updateGeneralSettingsDisplay(d.state.transition_delay);
   }
   if (d.log) renderLog(d.log);
   if (d.entry && d.state) {
     updateCard('pt', d.state.pt);
     updateCard('en', d.state.en);
     if (d.state.scheduler) updateSchedulerDisplay(d.state.scheduler);
+    if (d.state.transition_delay !== undefined) updateGeneralSettingsDisplay(d.state.transition_delay);
   }
 }
 
 function connect() {
+  document.getElementById('generalSettingsCard').style.display = 'block';
+  fetchGeneralSettings();
+
   if (!SCRAPER_URL) {
     // No Vercel: usa o scraper via GitHub Actions (seção scraperCloud).
     // Esconde os controles do servidor local (cards de workers, log em tempo real, status de conexão).
@@ -594,6 +626,7 @@ function connect() {
         updateCard('pt', d.pt);
         updateCard('en', d.en);
         if (d.scheduler) updateSchedulerDisplay(d.scheduler, true);
+        if (d.transition_delay !== undefined) updateGeneralSettingsDisplay(d.transition_delay);
         if (d.log) renderLog(d.log);
       }
     };
@@ -631,6 +664,7 @@ async function go(lang, action) {
     updateCard('pt', d.pt);
     updateCard('en', d.en);
     if (d.scheduler) updateSchedulerDisplay(d.scheduler);
+    if (d.transition_delay !== undefined) updateGeneralSettingsDisplay(d.transition_delay);
     if (d.log) renderLog(d.log);
   }
 }
@@ -643,6 +677,7 @@ async function reset(lang) {
     updateCard('pt', d.pt);
     updateCard('en', d.en);
     if (d.scheduler) updateSchedulerDisplay(d.scheduler);
+    if (d.transition_delay !== undefined) updateGeneralSettingsDisplay(d.transition_delay);
   }
 }
 
@@ -703,6 +738,56 @@ async function saveScheduler() {
       alert('Configurações do agendador salvas com sucesso!');
     } else {
       alert('Erro ao salvar configurações: ' + data.error);
+    }
+  } catch (e) {
+    alert('Erro de conexão ao salvar configurações: ' + e.message);
+  } finally {
+    btn.disabled = false;
+    btn.textContent = 'Salvar Configurações';
+  }
+}
+
+// ── Funções de Configurações Gerais ─────────────────────────────────────────────
+async function fetchGeneralSettings() {
+  const url = SCRAPER_URL ? `${SCRAPER_URL}/settings` : `/api/admin/settings`;
+  try {
+    const res = await fetch(url);
+    if (res.ok) {
+      const data = await res.json();
+      updateGeneralSettingsDisplay(data.transition_delay);
+    }
+  } catch (e) {
+    console.error('Erro ao carregar configurações gerais:', e);
+  }
+}
+
+function updateGeneralSettingsDisplay(delay) {
+  const delayVal = typeof delay !== 'undefined' ? delay : 10;
+  document.getElementById('settingTransitionDelay').value = delayVal;
+  document.getElementById('settingsInfo').innerHTML = `⏱️ Bloqueio atual: <strong>${delayVal} segundos</strong>`;
+}
+
+async function saveGeneralSettings() {
+  const delayVal = parseInt(document.getElementById('settingTransitionDelay').value, 10);
+  const delay = isNaN(delayVal) ? 10 : delayVal;
+
+  const url = SCRAPER_URL ? `${SCRAPER_URL}/settings` : `/api/admin/settings`;
+  const btn = document.getElementById('saveSettingsBtn');
+  btn.disabled = true;
+  btn.textContent = 'Salvando...';
+
+  try {
+    const res = await fetch(url, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ transition_delay: delay })
+    });
+    if (res.ok) {
+      const data = await res.json();
+      updateGeneralSettingsDisplay(data.transition_delay);
+      alert('Configurações gerais salvas com sucesso!');
+    } else {
+      alert('Erro ao salvar configurações.');
     }
   } catch (e) {
     alert('Erro de conexão ao salvar configurações: ' + e.message);

@@ -140,6 +140,29 @@ async function scrapeStatus(req, res) {
   });
 }
 
+// ── settings ───────────────────────────────────────────────────────────
+async function settings(req, res) {
+  if (!await isAdmin(req)) return res.status(403).json({ error: 'Forbidden' });
+  const sql = await ensureConnection();
+  if (req.method === 'GET') {
+    const r = await sql`SELECT value FROM site_settings WHERE key = 'transition_delay' LIMIT 1`;
+    const delay = r.rows && r.rows[0] ? parseInt(r.rows[0].value, 10) : 10;
+    return res.status(200).json({ ok: true, transition_delay: delay });
+  }
+  if (req.method === 'POST') {
+    const { transition_delay } = req.body || {};
+    const delay = parseInt(transition_delay, 10);
+    const valueStr = String(isNaN(delay) ? 10 : delay);
+    await sql`
+      INSERT INTO site_settings (key, value) VALUES ('transition_delay', ${valueStr})
+      ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value
+    `;
+    return res.status(200).json({ ok: true, transition_delay: parseInt(valueStr, 10) });
+  }
+  res.setHeader('Allow', ['GET', 'POST']);
+  return res.status(405).json({ error: 'Método não permitido' });
+}
+
 // ── router ─────────────────────────────────────────────────────────────
 module.exports = async (req, res) => {
   const action = (req.query && req.query.action) || '';
@@ -147,5 +170,6 @@ module.exports = async (req, res) => {
   if (action === 'toggle-hidden') return toggleHidden(req, res);
   if (action === 'trigger-scrape') return triggerScrape(req, res);
   if (action === 'scrape-status') return scrapeStatus(req, res);
+  if (action === 'settings') return settings(req, res);
   res.status(404).json({ error: 'Endpoint não encontrado' });
 };

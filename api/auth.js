@@ -21,13 +21,13 @@ async function login(req, res) {
   if (!username || !password) return res.status(400).json({ error: 'Usuário e senha obrigatórios' });
   const clean = username.trim().toLowerCase();
   const sql = await ensureConnection();
-  const r = await sql`SELECT id, username, password FROM users WHERE username = ${clean} LIMIT 1`;
+  const r = await sql`SELECT id, username, password, role FROM users WHERE username = ${clean} LIMIT 1`;
   if (!r.rows || !r.rows[0]) return res.status(401).json({ error: 'Usuário ou senha incorretos' });
   const user = r.rows[0];
   if (!await bcrypt.compare(password, user.password)) return res.status(401).json({ error: 'Usuário ou senha incorretos' });
-  const token = jwt.sign({ id: user.id, username: user.username }, JWT_SECRET, { expiresIn: '30d' });
+  const token = jwt.sign({ id: user.id, username: user.username, role: user.role || 'user' }, JWT_SECRET, { expiresIn: '30d' });
   res.setHeader('Set-Cookie', `mb_session=${token}; Max-Age=2592000${cookieOpts()}`);
-  return res.status(200).json({ success: true, user: { id: user.id, username: user.username } });
+  return res.status(200).json({ success: true, user: { id: user.id, username: user.username, role: user.role || 'user' } });
 }
 
 async function logout(req, res) {
@@ -41,7 +41,7 @@ async function me(req, res) {
   if (!token) return res.status(200).json({ authenticated: false, user: null });
   try {
     const decoded = jwt.verify(token, JWT_SECRET);
-    return res.status(200).json({ authenticated: true, user: { id: decoded.id, username: decoded.username } });
+    return res.status(200).json({ authenticated: true, user: { id: decoded.id, username: decoded.username, role: decoded.role || 'user' } });
   } catch {
     res.setHeader('Set-Cookie', `mb_session=; Expires=Thu, 01 Jan 1970 00:00:00 GMT${cookieOpts()}`);
     return res.status(200).json({ authenticated: false, user: null });
@@ -59,8 +59,8 @@ async function register(req, res) {
   const ex = await sql`SELECT id FROM users WHERE username = ${clean} LIMIT 1`;
   if (ex.rows && ex.rows.length > 0) return res.status(409).json({ error: 'Usuário já existe' });
   const hash = await bcrypt.hash(password, await bcrypt.genSalt(10));
-  const r = await sql`INSERT INTO users (username, password) VALUES (${clean}, ${hash}) RETURNING id, username`;
-  return res.status(201).json({ success: true, user: { id: r.rows[0].id, username: r.rows[0].username } });
+  const r = await sql`INSERT INTO users (username, password) VALUES (${clean}, ${hash}) RETURNING id, username, role`;
+  return res.status(201).json({ success: true, user: { id: r.rows[0].id, username: r.rows[0].username, role: r.rows[0].role || 'user' } });
 }
 
 async function checkAdmin(req, res) {

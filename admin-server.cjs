@@ -99,6 +99,10 @@ function loadState() {
     };
   }
 
+  if (typeof s.transition_delay === 'undefined') {
+    s.transition_delay = 10;
+  }
+
   return s;
 }
 
@@ -1887,7 +1891,7 @@ http.createServer((req, res) => {
   // Estado atual
   if (pathname === '/state') {
     res.writeHead(200, { 'Content-Type':'application/json' });
-    return res.end(JSON.stringify({ pt:omitQueue(state.pt), en:omitQueue(state.en), scheduler:state.scheduler, log:state.log }));
+    return res.end(JSON.stringify({ pt:omitQueue(state.pt), en:omitQueue(state.en), scheduler:state.scheduler, transition_delay:state.transition_delay, log:state.log }));
   }
 
   // Controle
@@ -1998,6 +2002,33 @@ http.createServer((req, res) => {
         
         res.writeHead(200, {'Content-Type':'application/json'});
         res.end(JSON.stringify({ ok: true, scheduler: state.scheduler }));
+      } catch (e) {
+        res.writeHead(400); res.end(JSON.stringify({ ok: false, error: e.message }));
+      }
+    });
+    return;
+  }
+
+  // GET /settings
+  if (pathname === '/settings' && req.method === 'GET') {
+    res.writeHead(200, { 'Content-Type':'application/json' });
+    return res.end(JSON.stringify({ transition_delay: state.transition_delay || 10 }));
+  }
+
+  // POST /settings
+  if (pathname === '/settings' && req.method === 'POST') {
+    let body = '';
+    req.on('data', d => { body += d; });
+    req.on('end', () => {
+      try {
+        const { transition_delay } = JSON.parse(body || '{}');
+        const delay = parseInt(transition_delay, 10);
+        state.transition_delay = isNaN(delay) ? 10 : delay;
+        saveState();
+        broadcastState();
+        log('system', `⚙️ Delay de transição atualizado para: ${state.transition_delay}s`, 'info');
+        res.writeHead(200, {'Content-Type':'application/json'});
+        res.end(JSON.stringify({ ok: true, transition_delay: state.transition_delay }));
       } catch (e) {
         res.writeHead(400); res.end(JSON.stringify({ ok: false, error: e.message }));
       }

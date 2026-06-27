@@ -154,8 +154,61 @@ const ADS = (function () {
 
       const btn = document.createElement('button');
       btn.className = 'ad-transition-btn';
-      btn.textContent = btnLabel || 'Próximo capítulo →';
-      btn.onclick = function () { screen.remove(); onConfirm && onConfirm(); };
+      btn.disabled = true;
+      btn.style.cursor = 'not-allowed';
+      btn.style.opacity = '0.6';
+
+      let timeLeft = 10;
+      function updateBtnText() {
+        btn.textContent = `Aguarde os anúncios (${timeLeft}s)...`;
+      }
+      updateBtnText();
+
+      const timer = setInterval(() => {
+        timeLeft--;
+        if (timeLeft <= 0) {
+          clearInterval(timer);
+          btn.disabled = false;
+          btn.style.cursor = 'pointer';
+          btn.style.opacity = '1';
+          btn.textContent = btnLabel || 'Próximo capítulo →';
+        } else {
+          updateBtnText();
+        }
+      }, 1000);
+
+      const isVercel = location.hostname.includes('vercel.app');
+      const BACKEND_URL = !isVercel ? (location.protocol + '//' + location.hostname + ':3001') : '';
+      const settingsUrl = BACKEND_URL ? `${BACKEND_URL}/settings` : `/api/manga?action=settings`;
+
+      fetch(settingsUrl)
+        .then(r => r.json())
+        .then(data => {
+          if (data && typeof data.transition_delay !== 'undefined') {
+            const delay = parseInt(data.transition_delay, 10);
+            if (!isNaN(delay)) {
+              if (delay <= 0) {
+                timeLeft = 0;
+                clearInterval(timer);
+                btn.disabled = false;
+                btn.style.cursor = 'pointer';
+                btn.style.opacity = '1';
+                btn.textContent = btnLabel || 'Próximo capítulo →';
+              } else {
+                timeLeft = delay;
+                updateBtnText();
+              }
+            }
+          }
+        })
+        .catch(() => {});
+
+      btn.onclick = function () {
+        clearInterval(timer);
+        screen.remove();
+        onConfirm && onConfirm();
+      };
+
       inner.appendChild(btn);
       screen.appendChild(inner);
       document.body.appendChild(screen);

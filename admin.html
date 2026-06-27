@@ -697,14 +697,18 @@ function updateSchedulerDisplay(sched, populateInputs = false) {
   const last = sched.lastRun ? new Date(sched.lastRun).toLocaleString('pt-BR') : 'Nunca';
   
   let next = 'Nenhuma';
-  if (sched.enabled && sched.lastRun) {
-    const intervalStr = sched.interval || '12h';
-    const num = parseInt(intervalStr, 10);
-    let intervalMs = 12 * 60 * 60 * 1000;
-    if (intervalStr.endsWith('h')) intervalMs = num * 60 * 60 * 1000;
-    else if (intervalStr.endsWith('d')) intervalMs = num * 24 * 60 * 60 * 1000;
-    else if (intervalStr.endsWith('m')) intervalMs = num * 60 * 1000;
-    next = new Date(sched.lastRun + intervalMs).toLocaleString('pt-BR');
+  if (sched.enabled) {
+    if (sched.lastRun) {
+      const intervalStr = sched.interval || '12h';
+      const num = parseInt(intervalStr, 10);
+      let intervalMs = 12 * 60 * 60 * 1000;
+      if (intervalStr.endsWith('h')) intervalMs = num * 60 * 60 * 1000;
+      else if (intervalStr.endsWith('d')) intervalMs = num * 24 * 60 * 60 * 1000;
+      else if (intervalStr.endsWith('m')) intervalMs = num * 60 * 1000;
+      next = new Date(sched.lastRun + intervalMs).toLocaleString('pt-BR');
+    } else {
+      next = 'Imediata (no próximo ciclo)';
+    }
   }
   
   if (sched.enabled) {

@@ -1,3 +1,4 @@
+// img-proxy v3 — suporta: mangafreak, leituramanga, mangalivre, mundohentai, mangadex
 const https = require('https');
 const http = require('http');
 

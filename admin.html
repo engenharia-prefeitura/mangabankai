@@ -927,6 +927,14 @@ async function toggleHidden(id, hidden) {
 let _pollInterval = null;
 
 async function triggerScrape(target) {
+  // Quando servidor local está conectado, usa go() diretamente (inclui hentai20 no EN)
+  if (SCRAPER_URL) {
+    if (target === 'all' || target === 'pt-only') await go('pt', 'start');
+    if (target === 'all' || target === 'en-only') await go('en', 'start');
+    return;
+  }
+
+  // Modo nuvem: dispara GitHub Actions
   const statusEl = document.getElementById('runStatus');
   statusEl.className = 'run-status show';
   statusEl.innerHTML = '<span class="run-dot queued"></span> Disparando workflow...';

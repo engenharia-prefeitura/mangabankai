@@ -276,7 +276,25 @@ img { max-width: 100%; display: block; }
 .hero-bg {
   position: absolute;
   inset: 0;
-  background: linear-gradient(135deg, var(--bg-primary) 0%, color-mix(in srgb, var(--accent) 15%, var(--bg-primary)) 50%, var(--bg-primary) 100%);
+  background-size: cover;
+  background-position: center 20%;
+  background-repeat: no-repeat;
+}
+/* Scrim escuro por cima da capa — texto à esquerda legível, capa visível à direita */
+.hero-bg::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(90deg, var(--bg-primary) 0%, rgba(8, 8, 10, 0.82) 42%, rgba(8, 8, 10, 0.35) 75%, rgba(8, 8, 10, 0.55) 100%),
+    linear-gradient(180deg, rgba(8, 8, 10, 0.3) 0%, transparent 30%, rgba(8, 8, 10, 0.6) 100%);
+}
+/* Desktop: fundo como ambiente desfocado; o poster nítido vira o foco */
+@media (min-width: 769px) {
+  .hero-bg {
+    filter: blur(4px) brightness(0.85);
+    transform: scale(1.06);
+  }
 }
 .hero-poster {
   position: absolute;
@@ -1176,7 +1194,13 @@ img { max-width: 100%; display: block; }
     flex: 1;
     min-width: 200px;
   }
-  .hero-slide .content { padding: 40px 20px; }
+  /* Hero mobile: capa full-bleed com texto na base (estilo streaming) */
+  .hero-slide { align-items: flex-end; }
+  .hero-bg { background-position: center 16%; }
+  .hero-bg::after {
+    background: linear-gradient(180deg, rgba(8, 8, 10, 0.45) 0%, rgba(8, 8, 10, 0.2) 30%, rgba(8, 8, 10, 0.78) 72%, var(--bg-primary) 100%);
+  }
+  .hero-slide .content { padding: 0 20px 44px; max-width: 100%; }
   .hero-slide .content .hero-desc { -webkit-line-clamp: 2; font-size: 0.83rem; }
   .manga-grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 12px; }
   .manga-detail-hero { min-height: auto; }

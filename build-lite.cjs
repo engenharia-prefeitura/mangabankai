@@ -31,8 +31,16 @@ function bounds(content) {
 
 function proxyCover(cover) {
   if (!cover) return '';
-  // Reescreve capas do MangaFreak via serverless proxy (evita 403 hotlink)
-  if (cover.startsWith('https://images.mangafreak.me/')) {
+  const allowedPrefixes = [
+    'https://images.mangafreak.me/',
+    'https://leituramanga.net/',
+    'https://leituramanga.com/',
+    'https://cdn.leituramanga.net/',
+    'https://mundohentaioficial.com/',
+    'https://mangalivre.blog/'
+  ];
+  const shouldProxy = allowedPrefixes.some(prefix => cover.startsWith(prefix));
+  if (shouldProxy) {
     return '/api/img-proxy?url=' + encodeURIComponent(cover);
   }
   // Remove placeholders — melhor sem capa do que imagem quebrada

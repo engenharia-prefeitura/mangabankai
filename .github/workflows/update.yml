@@ -14,7 +14,7 @@ on:
           - pt-only
           - en-only
   schedule:
-    - cron: '0 4 * * *'  # 4h UTC = 1h BRT
+    - cron: '0 * * * *'  # Executa a cada 1 hora automaticamente para verificar se é a hora
 
 # Permite que o GITHUB_TOKEN faça push das atualizacoes de volta ao repo
 permissions:
@@ -37,31 +37,52 @@ jobs:
       - name: Instalar dependências
         run: npm install
 
+      - name: Verificar se deve rodar
+        id: check
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+        run: node check-scheduler.cjs
+
       - name: PT — LeituraManga
-        if: ${{ inputs.target != 'en-only' }}
-        run: node leituramanga-scraper.cjs || true
-        continue-on-error: true
+        if: ${{ env.SHOULD_RUN == 'true' && github.event.inputs.target != 'en-only' && env.SCRAPE_LANG != 'en' }}
+        run: |
+          ARG=""
+          if [ "${{ env.SCRAPE_MODE }}" = "full" ]; then
+            ARG="--all"
+          fi
+          node leituramanga-scraper.cjs $ARG || true
+        shell: bash
 
       - name: PT — MangaLivre
-        if: ${{ inputs.target != 'en-only' }}
-        run: node mangalivre-scraper.cjs || true
-        continue-on-error: true
+        if: ${{ env.SHOULD_RUN == 'true' && github.event.inputs.target != 'en-only' && env.SCRAPE_LANG != 'en' }}
+        run: |
+          ARG=""
+          if [ "${{ env.SCRAPE_MODE }}" = "full" ]; then
+            ARG="--all"
+          fi
+          node mangalivre-scraper.cjs $ARG || true
+        shell: bash
 
       - name: EN — MangaFreak (lista)
-        if: ${{ inputs.target != 'pt-only' }}
-        run: node mf-scraper.cjs --update || true
-        continue-on-error: true
+        if: ${{ env.SHOULD_RUN == 'true' && github.event.inputs.target != 'pt-only' && env.SCRAPE_LANG != 'pt' }}
+        run: |
+          ARG="--update"
+          if [ "${{ env.SCRAPE_MODE }}" = "full" ]; then
+            ARG=""
+          fi
+          node mf-scraper.cjs $ARG || true
+        shell: bash
 
       - name: EN — MangaFreak (capítulos)
-        if: ${{ inputs.target != 'pt-only' }}
+        if: ${{ env.SHOULD_RUN == 'true' && github.event.inputs.target != 'pt-only' && env.SCRAPE_LANG != 'pt' }}
         run: node mf-chapter-scraper.cjs || true
-        continue-on-error: true
 
       - name: Mesclar metadados
+        if: ${{ env.SHOULD_RUN == 'true' }}
         run: node merge-meta.cjs || true
-        continue-on-error: true
 
       - name: Commit e push das atualizações
+        if: ${{ env.SHOULD_RUN == 'true' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"

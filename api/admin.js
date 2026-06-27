@@ -145,19 +145,60 @@ async function settings(req, res) {
   if (!await isAdmin(req)) return res.status(403).json({ error: 'Forbidden' });
   const sql = await ensureConnection();
   if (req.method === 'GET') {
-    const r = await sql`SELECT value FROM site_settings WHERE key = 'transition_delay' LIMIT 1`;
-    const delay = r.rows && r.rows[0] ? parseInt(r.rows[0].value, 10) : 10;
-    return res.status(200).json({ ok: true, transition_delay: delay });
+    const r = await sql`SELECT key, value FROM site_settings`;
+    const data = {};
+    (r.rows || []).forEach(row => {
+      data[row.key] = row.value;
+    });
+    return res.status(200).json({
+      ok: true,
+      transition_delay: parseInt(data['transition_delay'] || '10', 10),
+      scheduler: {
+        enabled: data['scheduler_enabled'] === 'true',
+        interval: data['scheduler_interval'] || '12h',
+        lang: data['scheduler_lang'] || 'pt',
+        mode: data['scheduler_mode'] || 'incremental',
+        lastRun: data['scheduler_last_run'] ? parseInt(data['scheduler_last_run'], 10) : null
+      }
+    });
   }
   if (req.method === 'POST') {
-    const { transition_delay } = req.body || {};
-    const delay = parseInt(transition_delay, 10);
-    const valueStr = String(isNaN(delay) ? 10 : delay);
-    await sql`
-      INSERT INTO site_settings (key, value) VALUES ('transition_delay', ${valueStr})
-      ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value
-    `;
-    return res.status(200).json({ ok: true, transition_delay: parseInt(valueStr, 10) });
+    const { transition_delay, scheduler } = req.body || {};
+    if (transition_delay !== undefined) {
+      const delay = parseInt(transition_delay, 10);
+      const val = String(isNaN(delay) ? 10 : delay);
+      await sql`
+        INSERT INTO site_settings (key, value) VALUES ('transition_delay', ${val})
+        ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value
+      `;
+    }
+    if (scheduler !== undefined) {
+      const { enabled, interval, lang, mode } = scheduler;
+      const queries = [
+        sql`INSERT INTO site_settings (key, value) VALUES ('scheduler_enabled', ${String(!!enabled)}) ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value`,
+        sql`INSERT INTO site_settings (key, value) VALUES ('scheduler_interval', ${String(interval || '12h')}) ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value`,
+        sql`INSERT INTO site_settings (key, value) VALUES ('scheduler_lang', ${String(lang || 'pt')}) ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value`,
+        sql`INSERT INTO site_settings (key, value) VALUES ('scheduler_mode', ${String(mode || 'incremental')}) ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value`
+      ];
+      await Promise.all(queries);
+    }
+    // Read them back
+    const r = await sql`SELECT key, value FROM site_settings`;
+    const data = {};
+    (r.rows || []).forEach(row => {
+      data[row.key] = row.value;
+    });
+    return res.status(200).json({
+      ok: true,
+      transition_delay: parseInt(data['transition_delay'] || '10', 10),
+      scheduler: {
+        enabled: data['scheduler_enabled'] === 'true',
+        interval: data['scheduler_interval'] || '12h',
+        lang: data['scheduler_lang'] || 'pt',
+        mode: data['scheduler_mode'] || 'incremental',
+        lastRun: data['scheduler_last_run'] ? parseInt(data['scheduler_last_run'], 10) : null
+      }
+    });
   }
   res.setHeader('Allow', ['GET', 'POST']);
   return res.status(405).json({ error: 'Método não permitido' });

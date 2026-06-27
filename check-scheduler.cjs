@@ -1,0 +1,96 @@
+// check-scheduler.cjs
+// Este script roda no GitHub Actions antes de iniciar a atualização de capítulos.
+// Ele verifica no banco Neon (PostgreSQL) se o agendador está habilitado, qual o intervalo,
+// e se já passou tempo suficiente desde a última execução.
+
+const fs = require('fs');
+const { createClient } = require('@vercel/postgres');
+
+async function run() {
+  const isDispatch = process.env.GITHUB_EVENT_NAME === 'workflow_dispatch';
+  if (isDispatch) {
+    console.log('⚡ Disparado manualmente via botão. Executando atualizador imediatamente.');
+    fs.appendFileSync(process.env.GITHUB_ENV, 'SHOULD_RUN=true\n');
+    process.exit(0);
+  }
+
+  const dbUrl = process.env.DATABASE_URL;
+  if (!dbUrl) {
+    console.error('Erro: DATABASE_URL não configurado nas secrets do GitHub.');
+    // Fallback: executa para garantir
+    fs.appendFileSync(process.env.GITHUB_ENV, 'SHOULD_RUN=true\n');
+    process.exit(0);
+  }
+
+  const client = createClient({ connectionString: dbUrl });
+  try {
+    await client.connect();
+  } catch (err) {
+    console.error('Erro de conexão ao banco de dados:', err.message);
+    // Em caso de erro do banco, rodamos a atualização para não travar o site
+    fs.appendFileSync(process.env.GITHUB_ENV, 'SHOULD_RUN=true\n');
+    process.exit(0);
+  }
+
+  let rows = [];
+  try {
+    const res = await client.query("SELECT key, value FROM site_settings WHERE key LIKE 'scheduler_%'");
+    rows = res.rows || [];
+  } catch (err) {
+    console.log('Tabela site_settings não existe ou falhou. Rodando atualizador como fallback...');
+    fs.appendFileSync(process.env.GITHUB_ENV, 'SHOULD_RUN=true\n');
+    await client.end();
+    process.exit(0);
+  }
+
+  const settings = {};
+  rows.forEach(row => {
+    settings[row.key] = row.value;
+  });
+
+  const enabled = settings['scheduler_enabled'] === 'true';
+  const intervalStr = settings['scheduler_interval'] || '12h';
+  const lastRunStr = settings['scheduler_last_run'] || '0';
+  const targetLang = settings['scheduler_lang'] || 'all';
+  const targetMode = settings['scheduler_mode'] || 'incremental';
+
+  if (!enabled) {
+    console.log('⚪ Agendador automático desativado via painel de administração.');
+    fs.appendFileSync(process.env.GITHUB_ENV, 'SHOULD_RUN=false\n');
+    await client.end();
+    process.exit(0);
+  }
+
+  const lastRun = parseInt(lastRunStr, 10);
+  const now = Date.now();
+
+  let intervalMs = 12 * 60 * 60 * 1000; // 12h padrão
+  const num = parseInt(intervalStr, 10);
+  if (!isNaN(num)) {
+    if (intervalStr.endsWith('h')) intervalMs = num * 60 * 60 * 1000;
+    else if (intervalStr.endsWith('d')) intervalMs = num * 24 * 60 * 60 * 1000;
+    else if (intervalStr.endsWith('m')) intervalMs = num * 60 * 1000;
+  }
+
+  const timePassed = now - lastRun;
+  if (timePassed >= intervalMs) {
+    console.log(`🟢 Tempo transcorrido (${Math.round(timePassed / 60000)}m) >= Intervalo (${Math.round(intervalMs / 60000)}m). Executando scraper...`);
+    
+    // Atualiza a data da última execução
+    await client.query(
+      "INSERT INTO site_settings (key, value) VALUES ('scheduler_last_run', $1) ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value",
+      [String(now)]
+    );
+    
+    fs.appendFileSync(process.env.GITHUB_ENV, 'SHOULD_RUN=true\n');
+    fs.appendFileSync(process.env.GITHUB_ENV, `SCRAPE_LANG=${targetLang}\n`);
+    fs.appendFileSync(process.env.GITHUB_ENV, `SCRAPE_MODE=${targetMode}\n`);
+  } else {
+    console.log(`⏱️ Ainda não é hora de rodar. Última execução: ${new Date(lastRun).toLocaleString('pt-BR')} (A cada ${intervalStr})`);
+    fs.appendFileSync(process.env.GITHUB_ENV, 'SHOULD_RUN=false\n');
+  }
+
+  await client.end();
+}
+
+run();

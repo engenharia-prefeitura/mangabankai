@@ -594,6 +594,7 @@ function applyMsg(d) {
 
 function connect() {
   document.getElementById('generalSettingsCard').style.display = 'block';
+  document.getElementById('schedulerCard').style.display = 'block';
   fetchGeneralSettings();
 
   if (!SCRAPER_URL) {
@@ -602,7 +603,6 @@ function connect() {
     document.querySelector('.conn-status').style.display = 'none';
     document.getElementById('scraperCards').style.display = 'none';
     document.getElementById('logBox').style.display = 'none';
-    document.getElementById('schedulerCard').style.display = 'none';
     return;
   }
   // Local: usa admin-server.cjs; esconde a seção de scraping na nuvem.
@@ -695,7 +695,17 @@ function updateSchedulerDisplay(sched, populateInputs = false) {
   if (!infoEl) return;
   
   const last = sched.lastRun ? new Date(sched.lastRun).toLocaleString('pt-BR') : 'Nunca';
-  const next = sched.nextRun ? new Date(sched.nextRun).toLocaleString('pt-BR') : 'Nenhuma';
+  
+  let next = 'Nenhuma';
+  if (sched.enabled && sched.lastRun) {
+    const intervalStr = sched.interval || '12h';
+    const num = parseInt(intervalStr, 10);
+    let intervalMs = 12 * 60 * 60 * 1000;
+    if (intervalStr.endsWith('h')) intervalMs = num * 60 * 60 * 1000;
+    else if (intervalStr.endsWith('d')) intervalMs = num * 24 * 60 * 60 * 1000;
+    else if (intervalStr.endsWith('m')) intervalMs = num * 60 * 1000;
+    next = new Date(sched.lastRun + intervalMs).toLocaleString('pt-BR');
+  }
   
   if (sched.enabled) {
     infoEl.innerHTML = `🟢 <strong>Agendador Ativo</strong> | Última: ${last} | Próxima: <strong>${next}</strong>`;
@@ -707,8 +717,6 @@ function updateSchedulerDisplay(sched, populateInputs = false) {
 }
 
 async function saveScheduler() {
-  if (!SCRAPER_URL) return;
-  
   const enabled = document.getElementById('schedEnabled').value === 'true';
   const interval = document.getElementById('schedInterval').value;
   const lang = document.getElementById('schedLang').value;
@@ -718,18 +726,23 @@ async function saveScheduler() {
   btn.disabled = true;
   btn.textContent = 'Salvando...';
   
+  const url = SCRAPER_URL ? `${SCRAPER_URL}/scheduler-config` : `/api/admin/settings`;
+  const body = SCRAPER_URL 
+    ? JSON.stringify({ enabled, interval, lang, mode }) 
+    : JSON.stringify({ scheduler: { enabled, interval, lang, mode } });
+
   try {
-    const res = await fetch(`${SCRAPER_URL}/scheduler-config`, {
+    const res = await fetch(url, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ enabled, interval, lang, mode })
+      body
     });
     const data = await res.json();
     if (data.ok) {
-      updateSchedulerDisplay(data.scheduler);
+      updateSchedulerDisplay(SCRAPER_URL ? data.scheduler : data.scheduler);
       alert('Configurações do agendador salvas com sucesso!');
     } else {
-      alert('Erro ao salvar configurações: ' + data.error);
+      alert('Erro ao salvar configurações: ' + (data.error || 'erro desconhecido'));
     }
   } catch (e) {
     alert('Erro de conexão ao salvar configurações: ' + e.message);

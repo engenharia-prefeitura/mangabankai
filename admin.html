@@ -304,8 +304,8 @@
       <div class="card-head">
         <div class="flag">🇬🇧</div>
         <div>
-          <div class="card-title">English (MangaFreak)</div>
-          <div class="card-sub">~2.244 mangás • 2 workers paralelos</div>
+          <div class="card-title">English (MangaFreak + Hentai20.io)</div>
+          <div class="card-sub">MangaFreak • Hentai20.io (+18) • 2 workers paralelos</div>
         </div>
         <div class="status-pill s-idle" id="enStatus">Ocioso</div>
       </div>
@@ -508,7 +508,7 @@ function updateCard(lang, s) {
         } else if (step.status === 'idle') {
           stepPctLabel = `Aguardando`;
         }
-      } else if (step.id === 'mundohentai') {
+      } else if (step.id === 'mundohentai' || step.id === 'hentai20') {
         if (step.status === 'running') {
           stepPctLabel = step.total > 1
             ? `Pág. ${step.processed} / ${step.total} — ${step.newAdded || 0} novos`
@@ -519,10 +519,13 @@ function updateCard(lang, s) {
           stepPctLabel = `Aguardando`;
         }
       }
-      
+
       const dotCls = step.status; // idle, running, done, paused, error
       const fillCls = step.status === 'done' ? 'done' : '';
-      
+      const completedInfo = (step.status === 'done' && step.lastCompletedAt)
+        ? `<div style="font-size:0.7rem;color:var(--muted);margin-top:2px;">Concluído às ${new Date(step.lastCompletedAt).toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'})} de ${new Date(step.lastCompletedAt).toLocaleDateString('pt-BR',{day:'2-digit',month:'2-digit'})}</div>`
+        : '';
+
       return `
         <div class="substep-row">
           <div class="substep-header">
@@ -535,6 +538,7 @@ function updateCard(lang, s) {
           <div class="substep-bar">
             <div class="substep-fill ${fillCls}" style="width: ${stepPct}%"></div>
           </div>
+          ${completedInfo}
         </div>
       `;
     }).join('');

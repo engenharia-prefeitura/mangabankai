@@ -128,13 +128,17 @@ function updateSubStep(lang, id, fields) {
       ];
     } else {
       state[lang].subSteps = [
-        { id: 'mangafreak', name: 'MangaFreak', status: 'idle', processed: 0, total: 0 }
+        { id: 'mangafreak', name: 'MangaFreak', status: 'idle', processed: 0, total: 0 },
+        { id: 'hentai20', name: 'Hentai20.io (+18 EN)', status: 'idle', processed: 0, total: 0 }
       ];
     }
   }
   const step = state[lang].subSteps.find(s => s.id === id);
   if (step) {
     Object.assign(step, fields);
+    if (fields.status === 'done' && !step.lastCompletedAt) {
+      step.lastCompletedAt = new Date().toISOString();
+    }
   }
   saveState();
 }

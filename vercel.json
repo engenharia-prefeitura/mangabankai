@@ -3,6 +3,20 @@
   "outputDirectory": ".",
   "framework": null,
   "installCommand": "npm install",
+  "headers": [
+    {
+      "source": "/sitemap.xml",
+      "headers": [
+        { "key": "Content-Type", "value": "application/xml; charset=utf-8" }
+      ]
+    },
+    {
+      "source": "/robots.txt",
+      "headers": [
+        { "key": "Content-Type", "value": "text/plain; charset=utf-8" }
+      ]
+    }
+  ],
   "rewrites": [
     { "source": "/resolve-chapter", "destination": "/api/resolve-chapter" },
     { "source": "/api/auth/:action", "destination": "/api/auth?action=:action" },

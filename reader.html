@@ -143,6 +143,7 @@
     let currentChapter = null;
     let currentPageIdx = 0;
     let pages = [];
+    let realPageCount = 0;
     let chaptersList = [];
 
     // ========== URL PARAMS ==========
@@ -380,8 +381,10 @@
       // Bloco de fim de capítulo (navegação grande + relacionados)
       renderChapterEnd(manga, slug, chIdx);
 
+      realPageCount = pages.length;
+      pages = injectAdPages(pages);
       renderPages();
-      saveProgress(slug, chapter.id, 0, pages.length);
+      saveProgress(slug, chapter.id, 0, realPageCount);
       if (window.registerMangaView) window.registerMangaView(slug);
     }
 
@@ -429,6 +432,49 @@
       }
     }
 
+    // ========== AD PAGES ==========
+    const AD_SENTINEL = '__AD__';
+    const _adPagesServed = new Set();
+
+    function injectAdPages(arr) {
+      if (arr.length < 3) return arr;
+      _adPagesServed.clear();
+      const out = [...arr];
+      const mid = Math.ceil(out.length / 2);
+      out.push(AD_SENTINEL);
+      out.splice(mid, 0, AD_SENTINEL);
+      out.unshift(AD_SENTINEL);
+      return out;
+    }
+
+    function renderAdPage(container, pageIdx) {
+      container.innerHTML = `
+        <div class="page-container">
+          <div class="reader-ad-page">
+            <span class="ad-page-label">Publicidade</span>
+            <div class="ad-page-content"></div>
+          </div>
+        </div>
+      `;
+      if (!_adPagesServed.has(pageIdx)) {
+        _adPagesServed.add(pageIdx);
+        const s = document.createElement('script');
+        s.dataset.zone = '11205576';
+        s.src = 'https://nap5k.com/tag.min.js';
+        container.querySelector('.ad-page-content').appendChild(s);
+      }
+    }
+
+    function loadScrollAdPage(el) {
+      const content = el.querySelector('.ad-page-content');
+      if (!content || content.dataset.loaded) return;
+      content.dataset.loaded = 'true';
+      const s = document.createElement('script');
+      s.dataset.zone = '11205576';
+      s.src = 'https://nap5k.com/tag.min.js';
+      content.appendChild(s);
+    }
+
     // ========== RENDER PAGES ==========
     function renderPages() {
       const mode = document.getElementById('pageMode').value;
@@ -454,6 +500,9 @@
 
       if (activeMode === 'single') {
         const url = pages[currentPageIdx];
+        if (url === AD_SENTINEL) {
+          renderAdPage(container, currentPageIdx);
+        } else {
         container.innerHTML = `
           <div class="page-container">
             <img class="reader-page-img"
@@ -464,6 +513,7 @@
               loading="${currentPageIdx === 0 ? 'eager' : 'lazy'}">
           </div>
         `;
+        }
       } else if (activeMode === 'double') {
         const idx1 = currentPageIdx;
         const idx2 = dir === 'rtl' ? currentPageIdx - 1 : currentPageIdx + 1;
@@ -508,7 +558,13 @@
         return;
       }
 
-      container.innerHTML = pages.map((url, i) => `
+      container.innerHTML = pages.map((url, i) => {
+        if (url === AD_SENTINEL) {
+          return `<div class="scroll-page" data-page="${i + 1}" data-ad="true" style="min-height:500px; display:flex; align-items:center; justify-content:center; padding:20px 0;">
+            <div class="reader-ad-page"><span class="ad-page-label">Publicidade</span><div class="ad-page-content"></div></div>
+          </div>`;
+        }
+        return `
         <div class="scroll-page skeleton" data-page="${i + 1}" style="min-height:700px; display:flex; align-items:center; justify-content:center;">
           <img class="reader-page-img lazy-page-img"
             data-src="${url}"
@@ -516,8 +572,8 @@
             referrerPolicy="no-referrer"
             onload="this.classList.add('loaded'); this.parentElement.classList.remove('skeleton');"
             onerror="this.style.display='none'; this.parentElement.style.display='none';">
-        </div>
-      `).join('');
+        </div>`;
+      }).join('');
 
       // Setup intersection observer targeting readerContent as viewport
       if (scrollObserver) scrollObserver.disconnect();
@@ -525,10 +581,14 @@
       scrollObserver = new IntersectionObserver((entries, obs) => {
         entries.forEach(entry => {
           if (entry.isIntersecting) {
-            const img = entry.target.querySelector('img');
-            if (img && img.dataset.src) {
-              img.src = img.dataset.src;
-              delete img.dataset.src;
+            if (entry.target.dataset.ad === 'true') {
+              loadScrollAdPage(entry.target);
+            } else {
+              const img = entry.target.querySelector('img');
+              if (img && img.dataset.src) {
+                img.src = img.dataset.src;
+                delete img.dataset.src;
+              }
             }
             obs.unobserve(entry.target);
           }
@@ -549,10 +609,12 @@
     // ========== NAVIGATION ==========
     function updatePageInfo() {
       if (document.getElementById('pageMode').value === 'scroll') {
-        document.getElementById('pageInfo').textContent = `${pages.length} páginas`;
+        document.getElementById('pageInfo').textContent = `${realPageCount} páginas`;
         return;
       }
-      document.getElementById('pageInfo').textContent = `${currentPageIdx + 1} de ${pages.length}`;
+      const isAd = pages[currentPageIdx] === AD_SENTINEL;
+      const realIdx = pages.slice(0, currentPageIdx + 1).filter(p => p !== AD_SENTINEL).length;
+      document.getElementById('pageInfo').textContent = isAd ? 'Publicidade' : `${realIdx} de ${realPageCount}`;
       document.getElementById('prevPageBtn').disabled = currentPageIdx === 0;
       document.getElementById('nextPageBtn').disabled = currentPageIdx >= pages.length - 1;
     }

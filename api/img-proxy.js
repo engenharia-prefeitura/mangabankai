@@ -69,6 +69,13 @@ module.exports = async (req, res) => {
       return res.status(400).end('url não autorizada');
     }
 
+    // Domínios com CORS aberto que bloqueiam IPs de cloud: redirecionar direto ao browser
+    const redirectDirect = ['mundohentaioficial.com'];
+    if (redirectDirect.some(d => host === d || host.endsWith('.' + d))) {
+      res.setHeader('Access-Control-Allow-Origin', '*');
+      return res.redirect(302, url);
+    }
+
     const { buf, contentType, status } = await fetchBinary(url);
     if (status !== 200) return res.status(status).end('upstream error ' + status);
     res.setHeader('Content-Type', contentType);

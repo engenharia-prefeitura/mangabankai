@@ -21,7 +21,6 @@
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📖</text></svg>">
   <script src="https://5gvci.com/act/files/tag.min.js?z=11205560" data-cfasync="false" async></script>
   <script>(function(s){s.dataset.zone='11205576',s.src='https://nap5k.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
-  <script>(function(s){s.dataset.zone='11205582',s.src='https://n6wxm.com/vignette.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
 </head>
 <body>
   <header class="header">
@@ -47,6 +46,20 @@
       <span class="sep">›</span>
       <span id="bcTitle">Carregando...</span>
     </div>
+  </div>
+
+  <!-- BANNER FIXO 1 (Início da Página) -->
+  <div class="ad-banner-fixed">
+    <div id="ad-zone-11205576-manga-1"></div>
+    <script>
+      (function() {
+        var container = document.getElementById('ad-zone-11205576-manga-1');
+        var s = document.createElement('script');
+        s.dataset.zone = '11205576';
+        s.src = 'https://nap5k.com/tag.min.js';
+        container.appendChild(s);
+      })();
+    </script>
   </div>
 
   <div class="manga-detail-hero" id="mangaHero">
@@ -319,9 +332,20 @@
               </select>
             </div>
           </div>
+          <!-- BANNER FIXO 2 (Antes dos Capítulos) -->
+          <div class="ad-banner-fixed" style="margin: 0 auto 16px;">
+            <div id="ad-zone-11205576-manga-2"></div>
+          </div>
           <div class="chapter-list" id="chList"></div>
         </div>
       `;
+      var bannerContainer = document.getElementById('ad-zone-11205576-manga-2');
+      if (bannerContainer) {
+        var s = document.createElement('script');
+        s.dataset.zone = '11205576';
+        s.src = 'https://nap5k.com/tag.min.js';
+        bannerContainer.appendChild(s);
+      }
 
       window.renderChapters = function() {
         var sort = document.getElementById('chSort').value;

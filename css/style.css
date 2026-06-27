@@ -1692,3 +1692,21 @@ body.no-scroll {
 .auth-close-btn:hover {
   color: var(--text-primary);
 }
+
+/* Fixed Banner Ads Styling */
+.ad-banner-fixed {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 24px auto;
+  width: 100%;
+  max-width: 728px;
+  min-height: 90px;
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px dashed rgba(255, 255, 255, 0.05);
+  border-radius: 8px;
+  overflow: hidden;
+  box-sizing: border-box;
+  padding: 8px;
+}
+

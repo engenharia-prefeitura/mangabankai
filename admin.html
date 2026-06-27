@@ -455,16 +455,8 @@
 </div>
 
 <script>
-const isVercel = location.hostname.includes('vercel.app');
-let SCRAPER_URL = null;
-if (!isVercel) {
-  if (location.protocol === 'file:') {
-    SCRAPER_URL = 'http://localhost:3001';
-  } else {
-    SCRAPER_URL = location.protocol + '//' + location.hostname + ':3001';
-  }
-}
-const VIS_BASE = SCRAPER_URL ? SCRAPER_URL : '/api/admin';
+const SCRAPER_URL = null;
+const VIS_BASE = '/api/admin';
 
 let es = null;
 const labels = { idle:'Ocioso', running:'Rodando', paused:'Pausado', done:'Concluído', error:'Erro' };

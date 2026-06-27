@@ -707,7 +707,12 @@ function updateSchedulerDisplay(sched, populateInputs = false) {
       else if (intervalStr.endsWith('m')) intervalMs = num * 60 * 1000;
       next = new Date(sched.lastRun + intervalMs).toLocaleString('pt-BR');
     } else {
-      next = 'Imediata (no próximo ciclo)';
+      const nextHour = new Date();
+      nextHour.setHours(nextHour.getHours() + 1);
+      nextHour.setMinutes(0);
+      nextHour.setSeconds(0);
+      nextHour.setMilliseconds(0);
+      next = nextHour.toLocaleString('pt-BR') + ' (Aprox.)';
     }
   }
   

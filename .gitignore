@@ -21,6 +21,12 @@ js/home.json
 js/manga-search.json
 sitemap.xml
 
+# Logo original em alta (o site usa img/logo.png otimizada)
+/logo.png
+
+# Pasta de monetização — usar apenas quando solicitado
+arquivo_monetizar_usar_apenas_quando_solcitado/
+
 # OS
 .DS_Store
 Thumbs.db

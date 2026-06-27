@@ -59,7 +59,8 @@ function proxyCover(cover) {
     'https://leituramanga.com/',
     'https://cdn.leituramanga.net/',
     'https://mundohentaioficial.com/',
-    'https://mangalivre.blog/'
+    'https://mangalivre.blog/',
+    'https://hentai20.io/'
   ];
   if (proxyPrefixes.some(prefix => cover.startsWith(prefix))) {
     return '/api/img-proxy?url=' + encodeURIComponent(cover);

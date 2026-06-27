@@ -5,6 +5,7 @@
 
 const http = require('http');
 const https = require('https');
+const zlib = require('zlib');
 const fs = require('fs');
 const path = require('path');
 
@@ -23,6 +24,9 @@ const CDN_PT    = 'https://cdn.leituramanga.net/';
 // ── PT (MangaLivre) ────────────────────────────────────────────────────────────
 const BASE_ML   = 'https://mangalivre.blog';
 const API_ML    = 'https://mangalivre.blog/wp-json/wp/v2';
+
+// ── EN (Hentai20) ──────────────────────────────────────────────────────────────
+const BASE_H20  = 'https://hentai20.io';
 
 // ── PT (MundoHentai) ───────────────────────────────────────────────────────────
 const BASE_MH   = 'https://mundohentaioficial.com';
@@ -71,8 +75,12 @@ function loadState() {
   }
   if (!s.en.subSteps) {
     s.en.subSteps = [
-      { id: 'mangafreak', name: 'MangaFreak', status: 'idle', processed: 0, total: 0 }
+      { id: 'mangafreak', name: 'MangaFreak', status: 'idle', processed: 0, total: 0 },
+      { id: 'hentai20', name: 'Hentai20.io (+18 EN)', status: 'idle', processed: 0, total: 0 }
     ];
+  }
+  if (s.en.subSteps && !s.en.subSteps.find(step => step.id === 'hentai20')) {
+    s.en.subSteps.push({ id: 'hentai20', name: 'Hentai20.io (+18 EN)', status: 'idle', processed: 0, total: 0 });
   }
 
   // Clean up running status on startup since the process is not running yet
@@ -989,6 +997,254 @@ async function runMlScrapePart(signal, mode) {
 }
 
 // ══════════════════════════════════════════════════════════════════════════════
+//  H20 SCRAPER — hentai20.io (+18 EN)
+//  WordPress / Madara theme — scraping HTML com gzip support
+//  Conteúdo EN +18: hasEn:true, lang:'en', genres inclui 'Hentai'
+// ══════════════════════════════════════════════════════════════════════════════
+
+function fetchH20Url(url, redirects) {
+  redirects = redirects || 0;
+  return new Promise((resolve, reject) => {
+    if (redirects > 5) return reject(new Error('Too many redirects'));
+    const client = url.startsWith('https') ? https : http;
+    const req = client.get(url, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.9',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'Connection': 'keep-alive',
+        'Upgrade-Insecure-Requests': '1',
+        'Referer': BASE_H20 + '/'
+      },
+      timeout: 30000
+    }, res => {
+      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+        const next = res.headers.location.startsWith('http') ? res.headers.location : new URL(res.headers.location, url).href;
+        return fetchH20Url(next, redirects + 1).then(resolve).catch(reject);
+      }
+      if (res.statusCode === 403) return reject(new Error('CF_BLOCKED:403'));
+      if (res.statusCode === 404) return reject(new Error('NOT_FOUND:404'));
+      if (res.statusCode === 429 || res.statusCode === 503) return reject(new Error(`RATE_LIMIT:${res.statusCode}`));
+      const chunks = [];
+      res.on('data', c => chunks.push(c));
+      res.on('end', () => {
+        const buf = Buffer.concat(chunks);
+        const enc = (res.headers['content-encoding'] || '').toLowerCase();
+        try {
+          let text;
+          if (enc === 'gzip') text = zlib.gunzipSync(buf).toString('utf8');
+          else if (enc === 'deflate') text = zlib.inflateSync(buf).toString('utf8');
+          else if (enc === 'br') text = zlib.brotliDecompressSync(buf).toString('utf8');
+          else text = buf.toString('utf8');
+          resolve(text);
+        } catch (e) { resolve(buf.toString('utf8')); }
+      });
+    });
+    req.on('error', reject);
+    req.on('timeout', () => { req.destroy(); reject(new Error('Timeout')); });
+  });
+}
+
+function parseH20ListPage(html) {
+  const slugs = new Set();
+  const SKIP = new Set(['page', 'list-mode', 'manga-genre', 'wp-content', 'wp-includes', 'wp-admin']);
+  for (const m of html.matchAll(/href="https?:\/\/hentai20\.io\/manga\/([^/"#]+)\/"/gi)) {
+    const s = m[1];
+    if (s && s.length > 2 && !SKIP.has(s) && !s.startsWith('wp-')) slugs.add(s);
+  }
+  const nums = [...html.matchAll(/href="[^"]*\/manga\/page\/(\d+)\/"/gi)].map(m => parseInt(m[1]));
+  const totalPages = nums.length > 0 ? Math.max(...nums) : 1;
+  return { slugs: [...slugs], totalPages };
+}
+
+function parseH20Post(html) {
+  // Título: og:title → strip sufixo do site
+  let title = '';
+  const ogT = html.match(/<meta[^>]+property="og:title"\s+content="([^"]+)"/i)
+    || html.match(/<meta[^>]+content="([^"]+)"[^>]+property="og:title"/i);
+  if (ogT) {
+    title = decodeEntities(ogT[1])
+      .replace(/\s*[-–|]\s*(hentai20\.io|Read.*Online).*$/i, '').trim();
+  }
+  if (!title) {
+    const h1 = html.match(/<h1[^>]*class="[^"]*post-title[^"]*"[^>]*>\s*([^<]+)/i);
+    if (h1) title = decodeEntities(h1[1].trim());
+  }
+
+  // Capa: og:image → .summary_image
+  let cover = '';
+  const ogImg = html.match(/<meta[^>]+property="og:image"\s+content="([^"]+)"/i)
+    || html.match(/<meta[^>]+content="([^"]+)"[^>]+property="og:image"/i);
+  if (ogImg) cover = ogImg[1];
+  if (!cover) {
+    const sm = html.match(/<div[^>]*class="[^"]*summary_image[^"]*"[^>]*>[\s\S]{0,500}?<img[^>]+src="([^"]+)"/i);
+    if (sm) cover = sm[1];
+  }
+
+  // Sinopse: og:description → .description-summary
+  let description = '';
+  const ogD = html.match(/<meta[^>]+property="og:description"\s+content="([^"]+)"/i)
+    || html.match(/<meta[^>]+name="description"\s+content="([^"]+)"/i);
+  if (ogD) description = decodeEntities(ogD[1].trim());
+
+  // Gêneros: Madara — links /manga-genre/, /genre/, /tag/
+  const genreRefs = [
+    ...html.matchAll(/href="[^"]*\/manga-genre\/[^"/"]*\/"[^>]*>\s*([^<]+)\s*<\/a>/gi),
+    ...html.matchAll(/href="[^"]*\/genres?\/[^"/"]*\/"[^>]*>\s*([^<]+)\s*<\/a>/gi),
+    ...html.matchAll(/href="[^"]*\/tag\/[^"/"]*\/"[^>]*>\s*([^<]+)\s*<\/a>/gi)
+  ];
+  const genres = [...new Set(
+    genreRefs.map(m => decodeEntities(m[1].trim())).filter(g => g.length > 1 && g.length < 50)
+  )];
+  if (genres.length === 0) genres.push('Hentai');
+  if (!genres.some(g => g.toLowerCase().includes('hentai'))) genres.unshift('Hentai');
+
+  // Status
+  const stM = html.match(/(Ongoing|Completed|On-Going|Complete)/i);
+  const status = stM && !stM[1].toLowerCase().includes('complet') ? 'ongoing' : 'completed';
+
+  // Capítulos (Madara: links /manga/{slug}/{chapter-slug}/)
+  const chapRefs = [...html.matchAll(/<a[^>]+href="(https?:\/\/hentai20\.io\/manga\/[^"]+\/[^"]+\/)"[^>]*>\s*([^<]+)/gi)];
+  const chapters = chapRefs.map(m => ({ url: m[1], title: decodeEntities(m[2].trim()) }))
+    .filter(c => !c.url.endsWith('/manga/' + c.url.split('/manga/')[1].split('/')[0] + '/'));
+
+  return { title, cover, description, genres, status, chapters };
+}
+
+async function fetchH20ChapterPages(chapterUrl) {
+  try {
+    const html = await fetchH20Url(chapterUrl);
+    const pages = [];
+    // Madara: .wp-manga-chapter-img com data-src ou src
+    for (const m of html.matchAll(/<img[^>]+class="[^"]*wp-manga-chapter-img[^"]*"[^>]+(?:data-src|src)="([^"]+)"/gi)) {
+      if (m[1] && !m[1].includes('data:image')) pages.push(m[1].trim());
+    }
+    if (pages.length === 0) {
+      // Fallback: qualquer data-src dentro de .reading-content
+      const rdM = html.match(/<div[^>]*class="[^"]*reading-content[^"]*"[^>]*>([\s\S]+?)<div[^>]*class="[^"]*nav-links/i);
+      if (rdM) {
+        for (const pm of rdM[1].matchAll(/data-src="([^"]+)"/gi)) {
+          if (!pm[1].includes('data:image')) pages.push(pm[1].trim());
+        }
+      }
+    }
+    return [...new Set(pages)];
+  } catch (e) { return []; }
+}
+
+async function runH20Scrape(signal, mode) {
+  const { data } = getMangaData();
+  updateSubStep('en', 'hentai20', { status: 'running', processed: 0, total: 0 });
+  broadcastState();
+
+  const existingSlugs = new Set(data.filter(m => m.source === 'hentai20').map(m => m.id));
+  let newAdded = 0;
+  const maxPages = mode === 'incremental' ? 3 : 9999;
+  const allSlugs = new Set();
+
+  // Fase A: descobre slugs nas páginas de listagem
+  try {
+    const html1 = await fetchH20Url(`${BASE_H20}/manga/?m_orderby=latest`);
+    const { slugs: s1, totalPages: tp } = parseH20ListPage(html1);
+    s1.forEach(s => allSlugs.add(s));
+    const totalPages = Math.min(tp, maxPages);
+    log('en', `  Hentai20: ${totalPages} pág(s), ${allSlugs.size} slug(s) na pág. 1.`);
+    updateSubStep('en', 'hentai20', { total: totalPages });
+
+    if (totalPages > 1) {
+      let nextP = 2;
+      await Promise.all(Array.from({ length: Math.min(10, totalPages - 1) }, async () => {
+        while (nextP <= totalPages && !signal.aborted) {
+          const p = nextP++;
+          try {
+            const html = await fetchH20Url(`${BASE_H20}/manga/page/${p}/?m_orderby=latest`);
+            parseH20ListPage(html).slugs.forEach(s => allSlugs.add(s));
+          } catch (e) { log('en', `⚠️ Hentai20: Erro pág.${p}: ${e.message}`, 'warn'); }
+          await sleep(250);
+        }
+      }));
+    }
+  } catch (e) {
+    log('en', `⚠️ Hentai20: Falha ao listar catálogo: ${e.message}`, 'warn');
+    updateSubStep('en', 'hentai20', { status: 'done', newAdded: 0 });
+    return;
+  }
+
+  if (signal.aborted) return;
+
+  // Fase B: processa apenas slugs novos
+  const newSlugs = [...allSlugs].filter(s => !existingSlugs.has(s));
+  log('en', `  Hentai20: ${allSlugs.size} total, ${newSlugs.length} novos.`);
+  updateSubStep('en', 'hentai20', { total: newSlugs.length, processed: 0 });
+
+  let nextIdx = 0;
+  await Promise.all(Array.from({ length: Math.min(5, newSlugs.length || 1) }, async () => {
+    while (nextIdx < newSlugs.length && !signal.aborted) {
+      const slug = newSlugs[nextIdx++];
+      if (state.en.current) state.en.current[0] = `Hentai20: ${slug}`;
+      broadcastState();
+      try {
+        const html = await fetchH20Url(`${BASE_H20}/manga/${slug}/`);
+        const { title, cover, description, genres, status, chapters } = parseH20Post(html);
+        if (!title) { log('en', `⚠️ Hentai20: sem título em ${slug}`, 'warn'); continue; }
+
+        const mangaEntry = {
+          id: slug, slug, title, altTitle: '',
+          cover, banner: cover,
+          author: 'Unknown', artist: 'Unknown',
+          status, year: new Date().getFullYear(), rating: 0,
+          genres, description, descriptionEn: description,
+          chaptersCount: Math.max(chapters.length, 1),
+          lang: 'en', hasPt: false, hasEn: true,
+          source: 'hentai20'
+        };
+
+        if (chapters.length > 1) {
+          // Série com múltiplos capítulos
+          const chapList = chapters.map((ch, i) => {
+            const nm = ch.title.match(/(\d+(?:\.\d+)?)/);
+            const num = nm ? parseFloat(nm[1]) : i + 1;
+            return { id: `${slug}-ch-${num}`, number: num, title: ch.title, date: new Date().toISOString(), pages: [], src: 'hentai20', chapterUrl: ch.url };
+          }).sort((a, b) => a.number - b.number);
+          mangaEntry.chaptersCount = chapList.length;
+          saveChaptersFile(slug, { en: chapList });
+        } else {
+          // Doujinshi single-chapter — busca páginas imediatamente
+          const chUrl = chapters.length === 1 ? chapters[0].url : `${BASE_H20}/manga/${slug}/chapter-1/`;
+          const pages = await fetchH20ChapterPages(chUrl);
+          await sleep(300);
+          saveChaptersFile(slug, { en: [{
+            id: `${slug}-chapter-1`, number: 1,
+            title: chapters.length > 0 ? chapters[0].title : 'Complete',
+            date: new Date().toISOString(),
+            pages, src: 'hentai20', chapterUrl: chUrl
+          }]});
+          mangaEntry.chaptersCount = 1;
+        }
+
+        data.push(mangaEntry);
+        existingSlugs.add(slug);
+        log('en', `  ✨ Hentai20: +${title} (${mangaEntry.chaptersCount} cap(s))`);
+        newAdded++;
+        updateSubStep('en', 'hentai20', { processed: newAdded, newAdded });
+      } catch (e) {
+        log('en', `⚠️ Hentai20: Erro em ${slug}: ${e.message}`, 'warn');
+      }
+      await sleep(300);
+    }
+  }));
+
+  scheduleSave();
+  if (!signal.aborted) {
+    log('en', `✅ Hentai20: ${newAdded} novos itens adicionados.`, 'success');
+    updateSubStep('en', 'hentai20', { status: 'done', newAdded });
+    if (state.en.current) state.en.current[0] = '';
+    broadcastState();
+  }
+}
+
+// ══════════════════════════════════════════════════════════════════════════════
 //  MH SCRAPER — mundohentaioficial.com
 //  HTML scraping (Cloudflare bloqueia WP REST API)
 //  Todo conteúdo marcado com genres:['Hentai'] → filtrado pelo modo adulto existente
@@ -1670,6 +1926,18 @@ async function runEnScrape(signal) {
     ));
     if (signal.aborted) throw new Error('Aborted');
     updateSubStep('en', 'mangafreak', { status: 'done', processed: s.total });
+    if (signal.aborted) throw new Error('Aborted');
+
+    // Fase 2: Hentai20.io (+18 EN)
+    const h20Step = s.subSteps && s.subSteps.find(step => step.id === 'hentai20');
+    if (!h20Step || h20Step.status !== 'done') {
+      log('en', '🚀 Iniciando Fase 2: Varredura Hentai20.io (+18 EN)...');
+      await runH20Scrape(signal, s.mode || 'incremental');
+      if (signal.aborted) throw new Error('Aborted');
+    } else {
+      log('en', '⏭️ Fase 2 (Hentai20) já concluída. Pulando...');
+    }
+
     flushSave(); s.status = 'done'; s.current = [];
     log('en', `🎉 EN concluído! ${s.processed} mangás atualizados.`, 'success');
   } catch(e) {

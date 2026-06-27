@@ -177,8 +177,8 @@ const ADS = (function () {
         }
       }, 1000);
 
-      const isVercel = location.hostname.includes('vercel.app');
-      const BACKEND_URL = !isVercel ? (location.protocol + '//' + location.hostname + ':3001') : '';
+      const isLocal = ['localhost', '127.0.0.1', ''].includes(location.hostname);
+      const BACKEND_URL = isLocal ? (location.protocol + '//' + location.hostname + ':3001') : '';
       const settingsUrl = BACKEND_URL ? `${BACKEND_URL}/settings` : `/api/manga?action=settings`;
 
       fetch(settingsUrl)

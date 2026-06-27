@@ -333,7 +333,7 @@
           <div class="chapter-list" id="chList"></div>
         </div>
       `;
-      ADS.renderNative(document.getElementById('ad-manga-native'));
+      ADS.lazy(document.getElementById('ad-manga-native'), ADS.renderNative);
 
       window.renderChapters = function() {
         var sort = document.getElementById('chSort').value;

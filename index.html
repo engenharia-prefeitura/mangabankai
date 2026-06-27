@@ -113,7 +113,7 @@
 
     <!-- NATIVE BANNER (Grid — parece card de manga) -->
     <div class="ad-banner-fixed" id="ad-home-native"></div>
-    <script>ADS.renderNative(document.getElementById('ad-home-native'));</script>
+    <script>ADS.lazy(document.getElementById('ad-home-native'), ADS.renderNative);</script>
 
     <!-- Browse by Genre -->
     <section class="section section-genre">

@@ -8,6 +8,13 @@ const ADS = (function () {
     if (!container) return;
     const t0 = performance.now();
     const label = w ? (w + '×' + h) : 'native';
+
+    // A2 — placeholder shimmer enquanto o criativo não pinta. O iframe fica por
+    // cima; quando o anúncio carrega ele cobre o shimmer. Removido após timeout
+    // de segurança para não animar para sempre.
+    container.classList.add('ad-loading');
+    const stopShimmer = setTimeout(function () { container.classList.remove('ad-loading'); }, 6000);
+
     const blob = new Blob([html], {type: 'text/html; charset=utf-8'});
     const url = URL.createObjectURL(blob);
     const fr = document.createElement('iframe');
@@ -18,19 +25,36 @@ const ADS = (function () {
     if (w) {
       fr.width  = w;
       fr.height = h;
-      fr.style.cssText = 'border:0;display:block;width:' + w + 'px;height:' + h + 'px;';
+      fr.style.cssText = 'border:0;display:block;width:' + w + 'px;height:' + h + 'px;position:relative;z-index:1;';
     } else {
-      fr.style.cssText = 'border:0;display:block;width:100%;min-height:90px;';
+      fr.style.cssText = 'border:0;display:block;width:100%;min-height:90px;position:relative;z-index:1;';
     }
     fr.src = url;
     fr.addEventListener('load', function () {
       URL.revokeObjectURL(url);
+      // dá ~1.2s pro criativo pintar dentro do iframe, então tira o shimmer
+      setTimeout(function () { clearTimeout(stopShimmer); container.classList.remove('ad-loading'); }, 1200);
       console.debug('[ADS] ' + label + ' carregado em ' + Math.round(performance.now() - t0) + 'ms');
     }, {once: true});
     container.appendChild(fr);
   }
 
   return {
+
+    // ── LAZY LOAD (A1) ───────────────────────────────────────────────────
+    // Só carrega o anúncio quando o container chega perto da viewport (600px
+    // antes). Evita que ads abaixo da dobra disputem banda com o primeiro ad
+    // visível — o de cima aparece mais rápido. fn recebe o container.
+    lazy(container, fn) {
+      if (!container) return;
+      if (!('IntersectionObserver' in window)) { fn(container); return; }
+      const obs = new IntersectionObserver(function (entries) {
+        entries.forEach(function (e) {
+          if (e.isIntersecting) { obs.disconnect(); fn(container); }
+        });
+      }, { rootMargin: '600px 0px' });
+      obs.observe(container);
+    },
 
     // ── POPUNDER ─────────────────────────────────────────────────────────
     renderPopunder() {

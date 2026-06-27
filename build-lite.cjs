@@ -57,7 +57,8 @@ function proxyCover(cover) {
     'https://leituramanga.com/',
     'https://cdn.leituramanga.net/',
     'https://mundohentaioficial.com/',
-    'https://mangalivre.blog/'
+    'https://mangalivre.blog/',
+    'https://uploads.mangadex.org/'
   ];
   const shouldProxy = allowedPrefixes.some(prefix => cover.startsWith(prefix));
   if (shouldProxy) {

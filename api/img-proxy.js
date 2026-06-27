@@ -54,7 +54,8 @@ module.exports = async (req, res) => {
       'cdn.leituramanga.net',
       'mangalivre.blog',
       'placehold.co',
-      'mundohentaioficial.com'
+      'mundohentaioficial.com',
+      'uploads.mangadex.org'
     ];
     const isAllowed = allowed.some(domain => host === domain || host.endsWith('.' + domain));
     if (!isAllowed) {

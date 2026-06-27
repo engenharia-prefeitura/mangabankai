@@ -183,16 +183,36 @@ async function fetchMangaDetails(slug, defaultTitle) {
       description = descMatch[1].replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
     }
     
-    // Cover
-    const coverMatch = html.match(/<div class="manga-cover">[\s\S]*?<img[^>]+src="([^"]+)"/i);
-    let cover = ''; // vazio = sem capa (melhor que placeholder quebrado)
-    if (coverMatch) {
-      const raw = coverMatch[1];
-      // Ignora imagens do tema WordPress (são placeholders genéricos)
-      const isThemePlaceholder = raw.includes('/wp-content/themes/') ||
-        raw.includes('placeholder') || raw.includes('no-image') || raw.includes('noimage');
-      if (!isThemePlaceholder) {
-        cover = raw;
+    // Cover — tenta múltiplas fontes na ordem de preferência
+    let cover = '';
+
+    function isBadCover(url) {
+      return !url || url.includes('/wp-content/themes/') ||
+        url.includes('placeholder') || url.includes('no-image') ||
+        url.includes('noimage') || url.includes('cropped-cropped');
+    }
+
+    // 1. div.manga-cover img
+    const coverDivMatch = html.match(/<div class="manga-cover">[\s\S]*?<img[^>]+src="([^"]+)"/i);
+    if (coverDivMatch && !isBadCover(coverDivMatch[1])) {
+      cover = coverDivMatch[1];
+    }
+
+    // 2. og:image
+    if (!cover) {
+      const ogMatch = html.match(/property="og:image"\s+content="([^"]+)"/i) ||
+                      html.match(/name="og:image"\s+content="([^"]+)"/i);
+      if (ogMatch && !isBadCover(ogMatch[1]) && ogMatch[1].includes('mangalivre.blog')) {
+        cover = ogMatch[1];
+      }
+    }
+
+    // 3. Qualquer img de upload com dimensões típicas de capa
+    if (!cover) {
+      const sizePatterns = ['350x500', '211x300', '300x400', '225x315'];
+      for (const size of sizePatterns) {
+        const sizeMatch = html.match(new RegExp(`(https://mangalivre\\.blog/wp-content/uploads/[^\\s"'<>]*${size}[^\\s"'<>]*)`, 'i'));
+        if (sizeMatch) { cover = sizeMatch[1]; break; }
       }
     }
     

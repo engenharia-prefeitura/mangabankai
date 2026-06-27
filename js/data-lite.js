@@ -98,22 +98,18 @@ function filterManga(opts) {
   return results;
 }
 
-const ALL_GENRES = ["Action","Adult","Adventure","Animated","Comedy","Demons","Drama","Ecchi","Fantasy","Gender Bender","Harem","Historical","Horror","Josei","Life","Magic","Martial Arts","Mature","Mecha","Military","Mystery","One Shot","Psychological","Romance","School","School Life","Sci Fi","Seinen","Shoujo","Shoujoai","Shounen","Shounen Ai","Shounenai","Slice Of Life","Smut","Sports","Super Power","Supernatural","Tragedy","Vampire","Yaoi","Yuri"];
+const ALL_GENRES = [...new Set(ORIGINAL_MANGA_DATA.flatMap(m => m.genres || []))].filter(Boolean).sort((a, b) => a.localeCompare(b, 'pt-BR'));
 
 function getAvailableGenres() {
-  const adultGenres = ['Adulto', 'Hentai', 'Ecchi', 'Mature', 'Smut'];
   const adultMode = typeof localStorage !== 'undefined' && localStorage.getItem('ms_adult_mode') === 'true';
+  const isAdult = g => {
+    const l = g.toLowerCase();
+    return l.includes('hentai') || l === 'adulto' || l === 'adult' || l === 'ecchi' || l === 'mature' || l === 'smut' || l === '+18';
+  };
   if (adultMode) {
-    const nonAdult = ALL_GENRES.filter(g => !adultGenres.includes(g));
-    const activeAdult = ALL_GENRES.filter(g => adultGenres.includes(g));
-    activeAdult.sort((a, b) => {
-      if (a === 'Adulto') return -1;
-      if (b === 'Adulto') return 1;
-      return a.localeCompare(b, 'pt-BR');
-    });
-    return [...activeAdult, ...nonAdult];
+    return [...ALL_GENRES.filter(isAdult), ...ALL_GENRES.filter(g => !isAdult(g))];
   } else {
-    return ALL_GENRES;
+    return ALL_GENRES.filter(g => !isAdult(g));
   }
 }
 

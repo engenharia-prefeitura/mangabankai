@@ -45,12 +45,24 @@ function saveProgress(mangaId, chapterId, pageIndex, totalPages) {
   const data = LS.get('continue', {});
   data[mangaId] = { chapterId, pageIndex, totalPages, updatedAt: Date.now() };
   LS.set('continue', data);
+  if (window.currentUser) {
+    if (window.authHistory) {
+      window.authHistory[mangaId] = data[mangaId];
+    }
+    fetch('/api/manga/history', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ mangaId, chapterId, pageIndex, totalPages })
+    }).catch(() => {});
+  }
 }
 function getProgress(mangaId) {
-  const data = LS.get('continue', {});
-  return data[mangaId] || null;
+  return getAllProgress()[mangaId] || null;
 }
 function getAllProgress() {
+  if (window.currentUser && window.authHistory) {
+    return window.authHistory;
+  }
   return LS.get('continue', {});
 }
 
@@ -624,6 +636,18 @@ window.fetchFavorites = async function() {
   }
 };
 
+window.fetchHistory = async function() {
+  try {
+    const res = await fetch('/api/manga/history');
+    if (res.ok) {
+      const data = await res.json();
+      window.authHistory = data.history || {};
+    }
+  } catch (e) {
+    console.error('Erro ao buscar histórico:', e);
+  }
+};
+
 window.checkAuth = async function() {
   try {
     const res = await fetch('/api/auth/me');
@@ -632,12 +656,17 @@ window.checkAuth = async function() {
       if (data.authenticated && data.user) {
         window.currentUser = data.user;
         await fetchFavorites();
+        await fetchHistory();
         renderHeaderControls();
+        window.authChecked = true;
+        return;
       }
     }
   } catch (e) {
     console.error('Erro ao verificar autenticação:', e);
   }
+  window.currentUser = null;
+  window.authChecked = true;
 };
 
 // Registrar view de mangá

@@ -1385,7 +1385,7 @@ img { max-width: 100%; display: block; }
   border-radius: var(--radius);
   font-size: 0.85rem;
   color: var(--text-primary);
-  z-index: 999;
+  z-index: 3000;
   opacity: 0;
   transition: all 0.4s ease;
   pointer-events: none;

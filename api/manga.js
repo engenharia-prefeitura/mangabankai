@@ -70,10 +70,68 @@ async function settings(req, res) {
   return res.status(405).json({ error: 'Método não permitido' });
 }
 
+async function history(req, res) {
+  const token = getCookieValue(req.headers.cookie || '', 'mb_session');
+  if (!token) return res.status(401).json({ error: 'Não autenticado' });
+  let userId;
+  try { userId = jwt.verify(token, JWT_SECRET).id; }
+  catch { return res.status(401).json({ error: 'Sessão inválida' }); }
+  const sql = await ensureConnection();
+
+  if (req.method === 'GET') {
+    const r = await sql`
+      SELECT manga_id, chapter_id, page_index, total_pages, updated_at 
+      FROM reading_progress 
+      WHERE user_id = ${userId} 
+      ORDER BY updated_at DESC
+    `;
+    const progress = {};
+    (r.rows || []).forEach(row => {
+      progress[row.manga_id] = {
+        chapterId: row.chapter_id,
+        pageIndex: row.page_index,
+        totalPages: row.total_pages,
+        updatedAt: new Date(row.updated_at).getTime()
+      };
+    });
+    return res.status(200).json({ history: progress });
+  }
+
+  if (req.method === 'POST') {
+    const { mangaId, chapterId, pageIndex, totalPages } = req.body || {};
+    if (!mangaId || !chapterId) return res.status(400).json({ error: 'Parâmetros insuficientes' });
+    
+    await sql`
+      INSERT INTO reading_progress (user_id, manga_id, chapter_id, page_index, total_pages, updated_at) 
+      VALUES (${userId}, ${mangaId}, ${chapterId}, ${pageIndex}, ${totalPages}, CURRENT_TIMESTAMP)
+      ON CONFLICT (user_id, manga_id) DO UPDATE SET 
+        chapter_id = EXCLUDED.chapter_id, 
+        page_index = EXCLUDED.page_index, 
+        total_pages = EXCLUDED.total_pages, 
+        updated_at = CURRENT_TIMESTAMP
+    `;
+    return res.status(200).json({ success: true });
+  }
+
+  if (req.method === 'DELETE') {
+    const mangaId = req.query && req.query.mangaId;
+    if (mangaId) {
+      await sql`DELETE FROM reading_progress WHERE user_id = ${userId} AND manga_id = ${mangaId}`;
+    } else {
+      await sql`DELETE FROM reading_progress WHERE user_id = ${userId}`;
+    }
+    return res.status(200).json({ success: true });
+  }
+
+  res.setHeader('Allow', ['GET', 'POST', 'DELETE']);
+  return res.status(405).json({ error: 'Método não permitido' });
+}
+
 module.exports = async (req, res) => {
   const action = (req.query && req.query.action) || '';
   if (action === 'favorites') return favorites(req, res);
   if (action === 'views') return views(req, res);
   if (action === 'settings') return settings(req, res);
+  if (action === 'history') return history(req, res);
   res.status(404).json({ error: 'Endpoint não encontrado' });
 };

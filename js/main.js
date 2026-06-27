@@ -369,13 +369,39 @@ function renderHeaderControls() {
     ${userHtml}
   `;
 
-  const searchBar = headerInner.querySelector('.search-bar');
-  if (searchBar) {
-    headerInner.insertBefore(controls, searchBar);
+  // Injeta os controles dentro do menu (nav + controles); no desktop o menu usa
+  // display:contents e tudo flui na barra; no mobile o menu vira drawer.
+  const menu = headerInner.querySelector('.header-menu');
+  if (menu) {
+    menu.appendChild(controls);
   } else {
-    headerInner.appendChild(controls);
+    const searchBar = headerInner.querySelector('.search-bar');
+    if (searchBar) headerInner.insertBefore(controls, searchBar);
+    else headerInner.appendChild(controls);
   }
 }
+
+// ========== MENU MOBILE (drawer do header) ==========
+function toggleHeaderMenu() {
+  const menu = document.getElementById('headerMenu');
+  const overlay = document.getElementById('headerMenuOverlay');
+  if (!menu) return;
+  const open = menu.classList.toggle('open');
+  if (overlay) overlay.classList.toggle('open', open);
+  document.body.classList.toggle('no-scroll', open);
+}
+window.toggleHeaderMenu = toggleHeaderMenu;
+
+// Fecha o drawer ao voltar para desktop
+window.addEventListener('resize', () => {
+  if (window.innerWidth > 900) {
+    const menu = document.getElementById('headerMenu');
+    const overlay = document.getElementById('headerMenuOverlay');
+    if (menu) menu.classList.remove('open');
+    if (overlay) overlay.classList.remove('open');
+    document.body.classList.remove('no-scroll');
+  }
+});
 
 window.setGlobalLang = function(lang) {
   LS.set('global_lang', lang);

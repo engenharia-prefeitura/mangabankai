@@ -133,11 +133,126 @@ img { max-width: 100%; display: block; }
 .header-inner {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  padding: 10px 24px;
+  padding: 10px clamp(14px, 4vw, 24px);
   max-width: 1240px;
   margin: 0 auto;
-  gap: 20px;
+  gap: 18px;
+}
+
+/* Desktop: o menu não é um container visual — seus filhos (nav + controles)
+   fluem direto na barra. Ordem: logo · nav · busca(cresce) · controles */
+.header-menu { display: contents; }
+.logo { order: 0; }
+.header-menu .nav { order: 1; }
+.search-bar { order: 2; }
+.header-menu .header-controls { order: 3; margin-left: auto; }
+.header-hamburger { display: none; order: 1; }
+.header-menu-overlay { display: none; }
+
+/* Botão hambúrguer (só aparece no mobile) */
+.header-hamburger {
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 42px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--bg-card);
+  color: var(--text-primary);
+  font-size: 1.25rem;
+  line-height: 1;
+  cursor: pointer;
+  transition: all var(--transition);
+}
+.header-hamburger:hover { border-color: var(--accent); color: var(--accent); }
+
+/* ===== Header mobile: barra compacta + menu drawer ===== */
+@media (max-width: 900px) {
+  .header-inner { flex-wrap: wrap; gap: 10px 12px; }
+  .logo { order: 0; }
+  .header-hamburger { display: flex; order: 1; margin-left: auto; }
+  .search-bar { order: 2; flex: 1 1 100%; max-width: 100%; min-width: 0; }
+
+  /* o menu deixa de ser display:contents e vira um drawer lateral */
+  .header-menu {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 6px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: min(82vw, 320px);
+    height: 100vh;
+    height: 100dvh;
+    background: var(--bg-secondary);
+    border-left: 1px solid var(--border);
+    box-shadow: -14px 0 44px rgba(0, 0, 0, 0.55);
+    padding: 74px 18px 24px;
+    transform: translateX(100%);
+    transition: transform 0.32s cubic-bezier(0.4, 0, 0.2, 1);
+    z-index: 1001;
+    overflow-y: auto;
+  }
+  .header-menu.open { transform: translateX(0); }
+
+  .header-menu-overlay {
+    display: block;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.55);
+    backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(2px);
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.32s ease, visibility 0.32s ease;
+    z-index: 1000;
+  }
+  .header-menu-overlay.open { opacity: 1; visibility: visible; }
+
+  /* nav vira lista vertical no drawer */
+  .header-menu .nav {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 4px;
+    width: 100%;
+    border: none;
+    padding: 0;
+    margin: 0;
+  }
+  .header-menu .nav a {
+    padding: 12px 14px;
+    border-radius: 10px;
+    font-size: 0.95rem;
+    font-weight: 600;
+  }
+  .header-menu .nav a::after { display: none; }
+  .header-menu .nav a:hover,
+  .header-menu .nav a.active { background: var(--bg-card); color: var(--text-primary); }
+
+  /* controles empilhados no drawer */
+  .header-menu .header-controls {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+    width: 100%;
+    margin-top: 10px;
+    padding-top: 14px;
+    border-top: 1px solid var(--border);
+  }
+  .header-menu .global-lang-selector { justify-content: space-between; transform: none; }
+  .header-menu .lang-btn { flex: 1; justify-content: center; padding: 8px; }
+  .header-menu .adult-toggle-btn,
+  .header-menu .auth-toggle-btn,
+  .header-menu .username-btn {
+    width: 100%;
+    justify-content: center;
+    padding: 11px;
+    font-size: 0.85rem;
+  }
+  .header-menu .user-profile-menu { width: 100%; }
+  .header-menu .user-dropdown { position: static; box-shadow: none; }
 }
 
 .logo {
@@ -273,36 +388,32 @@ img { max-width: 100%; display: block; }
   align-items: center;
 }
 .hero-slide.active { opacity: 1; z-index: 1; }
+/* Fundo = capa desfocada como ambiente; o poster nítido é o foco (todos os tamanhos) */
 .hero-bg {
   position: absolute;
   inset: 0;
   background-size: cover;
   background-position: center 20%;
   background-repeat: no-repeat;
+  filter: blur(5px) brightness(0.8);
+  transform: scale(1.08);
 }
-/* Scrim escuro por cima da capa — texto à esquerda legível, capa visível à direita */
+/* Scrim escuro por cima da capa — texto à esquerda legível, ambiente à direita */
 .hero-bg::after {
   content: '';
   position: absolute;
   inset: 0;
   background:
-    linear-gradient(90deg, var(--bg-primary) 0%, rgba(8, 8, 10, 0.82) 42%, rgba(8, 8, 10, 0.35) 75%, rgba(8, 8, 10, 0.55) 100%),
-    linear-gradient(180deg, rgba(8, 8, 10, 0.3) 0%, transparent 30%, rgba(8, 8, 10, 0.6) 100%);
-}
-/* Desktop: fundo como ambiente desfocado; o poster nítido vira o foco */
-@media (min-width: 769px) {
-  .hero-bg {
-    filter: blur(4px) brightness(0.85);
-    transform: scale(1.06);
-  }
+    linear-gradient(90deg, var(--bg-primary) 0%, rgba(8, 8, 10, 0.8) 45%, rgba(8, 8, 10, 0.45) 100%),
+    linear-gradient(180deg, rgba(8, 8, 10, 0.25) 0%, transparent 35%, rgba(8, 8, 10, 0.55) 100%);
 }
 .hero-poster {
   position: absolute;
-  right: 40px;
+  right: clamp(16px, 4vw, 40px);
   top: 50%;
   transform: translateY(-50%);
-  width: 220px;
-  height: 300px;
+  width: clamp(112px, 22vw, 220px);
+  height: clamp(152px, 30vw, 300px);
   border-radius: var(--radius-lg);
   overflow: hidden;
   box-shadow: 0 20px 60px rgba(0,0,0,0.5), 0 0 40px var(--accent-glow);
@@ -318,9 +429,6 @@ img { max-width: 100%; display: block; }
   z-index: 2;
   max-width: 560px;
   padding: 60px 24px;
-}
-@media (max-width: 768px) {
-  .hero-poster { display: none; }
 }
 .hero-slide .content .hero-badge {
   display: inline-block;
@@ -1171,36 +1279,14 @@ img { max-width: 100%; display: block; }
   .hero-slide .content h1 { font-size: 2rem; }
 }
 @media (max-width: 768px) {
-  .header-inner {
-    flex-wrap: wrap;
-    gap: 12px 16px;
-    padding: 12px 16px;
-  }
-  .header-controls {
-    order: 2;
-  }
-  .nav {
-    order: 4;
-    width: 100%;
-    justify-content: center;
-    gap: 20px;
-    border-top: 1px solid var(--border);
-    padding-top: 8px;
-    margin-top: 4px;
-  }
-  .search-bar {
-    order: 3;
-    max-width: 100%;
-    flex: 1;
-    min-width: 200px;
-  }
   /* Hero mobile: capa full-bleed com texto na base (estilo streaming) */
-  .hero-slide { align-items: flex-end; }
-  .hero-bg { background-position: center 16%; }
-  .hero-bg::after {
-    background: linear-gradient(180deg, rgba(8, 8, 10, 0.45) 0%, rgba(8, 8, 10, 0.2) 30%, rgba(8, 8, 10, 0.78) 72%, var(--bg-primary) 100%);
+  /* Hero mobile: poster fluido à direita + texto à esquerda (estilo imagem 2) */
+  .hero-slide { align-items: center; }
+  .hero-slide .content {
+    max-width: 100%;
+    padding: 24px 0 24px clamp(16px, 4vw, 24px);
+    padding-right: calc(clamp(112px, 22vw, 220px) + clamp(16px, 4vw, 40px) + 16px);
   }
-  .hero-slide .content { padding: 0 20px 44px; max-width: 100%; }
   .hero-slide .content .hero-desc { -webkit-line-clamp: 2; font-size: 0.83rem; }
   .manga-grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 12px; }
   .manga-detail-hero { min-height: auto; }
@@ -1243,28 +1329,13 @@ img { max-width: 100%; display: block; }
   .back-top { bottom: 16px; right: 16px; width: 38px; height: 38px; font-size: 1rem; }
 }
 @media (max-width: 480px) {
-  .header-inner {
-    gap: 10px;
-    padding: 10px 12px;
-  }
-  .logo {
-    font-size: 1.2rem;
-  }
-  .global-lang-selector {
-    transform: scale(0.9);
-    transform-origin: right center;
-  }
-  .adult-toggle-btn {
-    padding: 5px 10px;
-    font-size: 0.7rem;
-  }
-  .nav {
-    gap: 16px;
-  }
   .manga-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
   .manga-card .info h3 { font-size: 0.8rem; }
   .stats-inner { grid-template-columns: repeat(2, 1fr); gap: 12px 8px; }
-  .hero-slide .content { padding: 20px 16px; }
+  .hero-slide .content {
+    padding: 16px 0 16px 16px;
+    padding-right: calc(clamp(112px, 22vw, 220px) + clamp(16px, 4vw, 40px) + 12px);
+  }
   .hero-slide .content h1 { -webkit-line-clamp: 2; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; line-height: 1.2; margin-bottom: 6px; }
   .hero-slide .content .hero-desc { display: none; }
   .hero-slide .content .hero-meta { margin-bottom: 10px; font-size: 0.75rem; gap: 8px; }

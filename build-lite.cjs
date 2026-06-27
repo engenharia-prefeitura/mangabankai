@@ -29,8 +29,28 @@ function bounds(content) {
   return { startIdx, endIdx };
 }
 
+// Padrões conhecidos de placeholder/fallback que não devem ser exibidos
+const PLACEHOLDER_PATTERNS = [
+  'placeholder.jpg',
+  'placeholder.png',
+  'placeholder.webp',
+  '/arrumar-tema',
+  '/wp-content/themes/',
+  'placehold.co',
+  'via.placeholder.com',
+  'no-image',
+  'noimage',
+  'sem-capa'
+];
+
+function isPlaceholder(cover) {
+  return PLACEHOLDER_PATTERNS.some(p => cover.includes(p));
+}
+
 function proxyCover(cover) {
   if (!cover) return '';
+  // Descarta placeholders antes de qualquer outra lógica
+  if (isPlaceholder(cover)) return '';
   const allowedPrefixes = [
     'https://images.mangafreak.me/',
     'https://leituramanga.net/',
@@ -43,8 +63,6 @@ function proxyCover(cover) {
   if (shouldProxy) {
     return '/api/img-proxy?url=' + encodeURIComponent(cover);
   }
-  // Remove placeholders — melhor sem capa do que imagem quebrada
-  if (cover.includes('placeholder.jpg')) return '';
   return cover;
 }
 

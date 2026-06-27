@@ -185,9 +185,15 @@ async function fetchMangaDetails(slug, defaultTitle) {
     
     // Cover
     const coverMatch = html.match(/<div class="manga-cover">[\s\S]*?<img[^>]+src="([^"]+)"/i);
-    let cover = `${BASE_URL}/wp-content/uploads/covers/${slug}.jpg`; // theoretical fallback
+    let cover = ''; // vazio = sem capa (melhor que placeholder quebrado)
     if (coverMatch) {
-      cover = coverMatch[1];
+      const raw = coverMatch[1];
+      // Ignora imagens do tema WordPress (são placeholders genéricos)
+      const isThemePlaceholder = raw.includes('/wp-content/themes/') ||
+        raw.includes('placeholder') || raw.includes('no-image') || raw.includes('noimage');
+      if (!isThemePlaceholder) {
+        cover = raw;
+      }
     }
     
     // Genres

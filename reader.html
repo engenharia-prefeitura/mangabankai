@@ -520,26 +520,31 @@
         const url1 = pages[idx1];
         const url2 = idx2 >= 0 && idx2 < pages.length ? pages[idx2] : null;
 
-        container.innerHTML = `
-          <div class="page-container double">
-            <div class="page-col">
-              <img class="reader-page-img"
-                src="${url1}"
-                alt="Página ${idx1 + 1}"
-                referrerPolicy="no-referrer"
-                onerror="this.style.display='none'"
-                loading="${idx1 === 0 ? 'eager' : 'lazy'}">
+        if (url1 === AD_SENTINEL || url2 === AD_SENTINEL) {
+          const adIdx = url1 === AD_SENTINEL ? idx1 : idx2;
+          renderAdPage(container, adIdx);
+        } else {
+          container.innerHTML = `
+            <div class="page-container double">
+              <div class="page-col">
+                <img class="reader-page-img"
+                  src="${url1}"
+                  alt="Página ${idx1 + 1}"
+                  referrerPolicy="no-referrer"
+                  onerror="this.style.display='none'"
+                  loading="${idx1 === 0 ? 'eager' : 'lazy'}">
+              </div>
+              <div class="page-col">
+                ${url2 ? `<img class="reader-page-img"
+                  src="${url2}"
+                  alt="Página ${idx2 + 1}"
+                  referrerPolicy="no-referrer"
+                  onerror="this.style.display='none'"
+                  loading="lazy">` : '<div class="page-end">Fim do capítulo</div>'}
+              </div>
             </div>
-            <div class="page-col">
-              ${url2 ? `<img class="reader-page-img"
-                src="${url2}"
-                alt="Página ${idx2 + 1}"
-                referrerPolicy="no-referrer"
-                onerror="this.style.display='none'"
-                loading="lazy">` : '<div class="page-end">Fim do capítulo</div>'}
-            </div>
-          </div>
-        `;
+          `;
+        }
       }
 
       updatePageInfo();

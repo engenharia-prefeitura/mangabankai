@@ -19,8 +19,7 @@
   <link id="canonical" rel="canonical" href="">
   <link rel="stylesheet" href="css/style.css">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📖</text></svg>">
-  <script src="https://5gvci.com/act/files/tag.min.js?z=11205560" data-cfasync="false" async></script>
-  <script>(function(s){s.dataset.zone='11205576',s.src='https://nap5k.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
+  <script src="js/ads.js"></script>
 </head>
 <body>
   <header class="header">
@@ -48,19 +47,8 @@
     </div>
   </div>
 
-  <!-- BANNER FIXO 1 (Início da Página) -->
-  <div class="ad-banner-fixed">
-    <div id="ad-zone-11205576-manga-1"></div>
-    <script>
-      (function() {
-        var container = document.getElementById('ad-zone-11205576-manga-1');
-        var s = document.createElement('script');
-        s.dataset.zone = '11205576';
-        s.src = 'https://nap5k.com/tag.min.js';
-        container.appendChild(s);
-      })();
-    </script>
-  </div>
+  <!-- BANNER 300x250 (Início da Página) -->
+  <div class="ad-banner-fixed" id="ad-manga-300"></div>
 
   <div class="manga-detail-hero" id="mangaHero">
     <div class="hero-bg"></div>
@@ -332,20 +320,12 @@
               </select>
             </div>
           </div>
-          <!-- BANNER FIXO 2 (Antes dos Capítulos) -->
-          <div class="ad-banner-fixed" style="margin: 0 auto 16px;">
-            <div id="ad-zone-11205576-manga-2"></div>
-          </div>
+          <!-- NATIVE BANNER (Antes da Lista de Capítulos) -->
+          <div class="ad-banner-fixed" id="ad-manga-native" style="margin: 0 auto 16px;"></div>
           <div class="chapter-list" id="chList"></div>
         </div>
       `;
-      var bannerContainer = document.getElementById('ad-zone-11205576-manga-2');
-      if (bannerContainer) {
-        var s = document.createElement('script');
-        s.dataset.zone = '11205576';
-        s.src = 'https://nap5k.com/tag.min.js';
-        bannerContainer.appendChild(s);
-      }
+      ADS.renderNative(document.getElementById('ad-manga-native'));
 
       window.renderChapters = function() {
         var sort = document.getElementById('chSort').value;
@@ -405,6 +385,10 @@
           });
       } catch (e) {}
     })();
+  </script>
+  <script>
+    ADS.renderBanner300(document.getElementById('ad-manga-300'));
+    ADS.renderSocialBar();
   </script>
 </body>
 </html>

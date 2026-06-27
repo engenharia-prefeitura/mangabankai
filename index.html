@@ -17,8 +17,7 @@
   <link rel="canonical" href="https://mangabankai.vercel.app/">
   <link rel="stylesheet" href="css/style.css">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📖</text></svg>">
-  <script src="https://5gvci.com/act/files/tag.min.js?z=11205560" data-cfasync="false" async></script>
-  <script>(function(s){s.dataset.zone='11205576',s.src='https://nap5k.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
+  <script src="js/ads.js"></script>
 </head>
 <body>
   <header class="header">
@@ -43,19 +42,8 @@
     <div class="hero-dots" id="heroDots"></div>
   </section>
 
-  <!-- BANNER FIXO 1 (Abaixo do Carrossel) -->
-  <div class="ad-banner-fixed">
-    <div id="ad-zone-11205576-home-1"></div>
-    <script>
-      (function() {
-        var container = document.getElementById('ad-zone-11205576-home-1');
-        var s = document.createElement('script');
-        s.dataset.zone = '11205576';
-        s.src = 'https://nap5k.com/tag.min.js';
-        container.appendChild(s);
-      })();
-    </script>
-  </div>
+  <!-- BANNER 728x90 (Abaixo do Carrossel) -->
+  <div class="ad-banner-fixed" id="ad-home-728"></div>
 
   <!-- Quick Stats Bar -->
   <div class="stats-bar">
@@ -115,19 +103,8 @@
       </div>
     </section>
 
-    <!-- BANNER FIXO 2 (Fim da Página) -->
-    <div class="ad-banner-fixed">
-      <div id="ad-zone-11205576-home-2"></div>
-      <script>
-        (function() {
-          var container = document.getElementById('ad-zone-11205576-home-2');
-          var s = document.createElement('script');
-          s.dataset.zone = '11205576';
-          s.src = 'https://nap5k.com/tag.min.js';
-          container.appendChild(s);
-        })();
-      </script>
-    </div>
+    <!-- NATIVE BANNER (Grid — parece card de manga) -->
+    <div class="ad-banner-fixed" id="ad-home-native"></div>
 
     <!-- Browse by Genre -->
     <section class="section section-genre">
@@ -323,6 +300,11 @@
       const el = document.getElementById(id);
       if (el) el.scrollBy({ left: dir * Math.round(el.clientWidth * 0.85), behavior: 'smooth' });
     };
+  </script>
+  <script>
+    ADS.renderSocialBar();
+    ADS.renderBanner728(document.getElementById('ad-home-728'));
+    ADS.renderNative(document.getElementById('ad-home-native'));
   </script>
 </body>
 </html>

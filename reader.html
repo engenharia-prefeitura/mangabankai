@@ -20,7 +20,7 @@
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/reader.css">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📖</text></svg>">
-  <script src="https://5gvci.com/act/files/tag.min.js?z=11205560" data-cfasync="false" async></script>
+  <script src="js/ads.js"></script>
 </head>
 <body>
   <!-- Main Site Header -->
@@ -386,22 +386,7 @@
       saveProgress(slug, chapter.id, 0, pages.length);
       if (window.registerMangaView) window.registerMangaView(slug);
 
-      // Alternância de Vignette (interstitial) a cada 2 capítulos por sessão (aba)
-      try {
-        let viewCount = parseInt(sessionStorage.getItem('ms_session_chapter_views') || '0');
-        viewCount++;
-        sessionStorage.setItem('ms_session_chapter_views', viewCount.toString());
-        
-        if (viewCount % 2 === 0) {
-          // Capítulo par lido na sessão: carrega a Vignette (Zona 11205671)
-          const s = document.createElement('script');
-          s.dataset.zone = '11205671';
-          s.src = 'https://n6wxm.com/vignette.min.js';
-          document.body.appendChild(s);
-        }
-      } catch (e) {
-        console.error(e);
-      }
+      ADS.renderPopunder();
     }
 
     function loadChapterBySelect(chapterId) {
@@ -449,17 +434,19 @@
     }
 
     // ========== AD PAGES ==========
-    const AD_SENTINEL = '__AD__';
-    const _adPagesServed = new Set();
+    const AD_SENTINEL_MID = '__AD_MID__';
+    const AD_SENTINEL_END = '__AD_END__';
+
+    function isAdSentinel(v) {
+      return v === AD_SENTINEL_MID || v === AD_SENTINEL_END;
+    }
 
     function injectAdPages(arr) {
-      if (arr.length < 3) return arr;
-      _adPagesServed.clear();
+      if (arr.length < 2) return arr;
       const out = [...arr];
       const mid = Math.ceil(out.length / 2);
-      out.push(AD_SENTINEL);
-      out.splice(mid, 0, AD_SENTINEL);
-      out.unshift(AD_SENTINEL);
+      out.splice(mid, 0, AD_SENTINEL_MID);
+      out.push(AD_SENTINEL_END);
       return out;
     }
 
@@ -469,19 +456,19 @@
       if (mode === 'double' && window.innerWidth <= 768) {
         activeMode = 'single';
       }
-      
+
       if (activeMode !== 'double') {
         return pages.map((_, i) => [i]);
       }
-      
+
       const spreads = [];
       let i = 0;
       while (i < pages.length) {
-        if (pages[i] === AD_SENTINEL) {
+        if (isAdSentinel(pages[i])) {
           spreads.push([i]);
           i++;
         } else {
-          if (i + 1 < pages.length && pages[i + 1] !== AD_SENTINEL) {
+          if (i + 1 < pages.length && !isAdSentinel(pages[i + 1])) {
             spreads.push([i, i + 1]);
             i += 2;
           } else {
@@ -494,31 +481,21 @@
     }
 
     function renderAdPage(container, pageIdx) {
-      container.innerHTML = `
-        <div class="page-container">
-          <div class="reader-ad-page">
-            <span class="ad-page-label">Publicidade</span>
-            <div class="ad-page-content"></div>
-          </div>
-        </div>
-      `;
-      if (!_adPagesServed.has(pageIdx)) {
-        _adPagesServed.add(pageIdx);
-        const s = document.createElement('script');
-        s.dataset.zone = '11205576';
-        s.src = 'https://nap5k.com/tag.min.js';
-        container.querySelector('.ad-page-content').appendChild(s);
-      }
+      container.innerHTML = '';
+      const wrap = document.createElement('div');
+      wrap.className = 'page-container';
+      wrap.appendChild(
+        pages[pageIdx] === AD_SENTINEL_MID ? ADS.buildMidPage() : ADS.buildEndPage()
+      );
+      container.appendChild(wrap);
     }
 
     function loadScrollAdPage(el) {
-      const content = el.querySelector('.ad-page-content');
-      if (!content || content.dataset.loaded) return;
-      content.dataset.loaded = 'true';
-      const s = document.createElement('script');
-      s.dataset.zone = '11205576';
-      s.src = 'https://nap5k.com/tag.min.js';
-      content.appendChild(s);
+      if (el.dataset.adLoaded) return;
+      el.dataset.adLoaded = 'true';
+      el.appendChild(
+        el.dataset.adType === 'mid' ? ADS.buildMidPage() : ADS.buildEndPage()
+      );
     }
 
     // ========== RENDER PAGES ==========
@@ -546,7 +523,7 @@
 
       if (activeMode === 'single') {
         const url = pages[currentPageIdx];
-        if (url === AD_SENTINEL) {
+        if (isAdSentinel(url)) {
           renderAdPage(container, currentPageIdx);
         } else {
           container.innerHTML = `
@@ -563,11 +540,11 @@
       } else if (activeMode === 'double') {
         const spreads = getSpreads();
         const currentSpread = spreads.find(s => s.includes(currentPageIdx)) || [currentPageIdx];
-        
+
         if (currentSpread.length === 1) {
           const idx = currentSpread[0];
           const url = pages[idx];
-          if (url === AD_SENTINEL) {
+          if (isAdSentinel(url)) {
             renderAdPage(container, idx);
           } else {
             container.innerHTML = `
@@ -650,10 +627,11 @@
       }
 
       container.innerHTML = pages.map((url, i) => {
-        if (url === AD_SENTINEL) {
-          return `<div class="scroll-page" data-page="${i + 1}" data-ad="true" style="min-height:500px; display:flex; align-items:center; justify-content:center; padding:20px 0;">
-            <div class="reader-ad-page"><span class="ad-page-label">Publicidade</span><div class="ad-page-content"></div></div>
-          </div>`;
+        if (url === AD_SENTINEL_MID) {
+          return `<div class="scroll-page" data-page="${i + 1}" data-ad-type="mid" style="min-height:600px;display:flex;align-items:center;justify-content:center;padding:20px 0;"></div>`;
+        }
+        if (url === AD_SENTINEL_END) {
+          return `<div class="scroll-page" data-page="${i + 1}" data-ad-type="end" style="min-height:380px;display:flex;align-items:center;justify-content:center;padding:20px 0;"></div>`;
         }
         return `
         <div class="scroll-page skeleton" data-page="${i + 1}" style="min-height:700px; display:flex; align-items:center; justify-content:center;">
@@ -672,7 +650,7 @@
       scrollObserver = new IntersectionObserver((entries, obs) => {
         entries.forEach(entry => {
           if (entry.isIntersecting) {
-            if (entry.target.dataset.ad === 'true') {
+            if (entry.target.dataset.adType) {
               loadScrollAdPage(entry.target);
             } else {
               const img = entry.target.querySelector('img');
@@ -703,8 +681,8 @@
         document.getElementById('pageInfo').textContent = `${realPageCount} páginas`;
         return;
       }
-      const isAd = pages[currentPageIdx] === AD_SENTINEL;
-      const realIdx = pages.slice(0, currentPageIdx + 1).filter(p => p !== AD_SENTINEL).length;
+      const isAd = isAdSentinel(pages[currentPageIdx]);
+      const realIdx = pages.slice(0, currentPageIdx + 1).filter(p => !isAdSentinel(p)).length;
       document.getElementById('pageInfo').textContent = isAd ? 'Publicidade' : `${realIdx} de ${realPageCount}`;
       
       const spreads = getSpreads();
@@ -739,7 +717,14 @@
       if (newIdx >= 0 && newIdx < chaptersList.length) {
         const ch = chaptersList[newIdx];
         const params = getParams();
-        window.location.href = `reader.html?manga=${currentMangaSlug}&chapter=${ch.id}&lang=${params.lang}`;
+        const dest = `reader.html?manga=${currentMangaSlug}&chapter=${ch.id}&lang=${params.lang}`;
+        if (delta > 0) {
+          ADS.showTransition(`Começar Capítulo ${ch.number} →`, () => {
+            window.location.href = dest;
+          });
+        } else {
+          window.location.href = dest;
+        }
       }
     }
 

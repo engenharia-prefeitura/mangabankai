@@ -4,7 +4,7 @@
 // e se já passou tempo suficiente desde a última execução.
 
 const fs = require('fs');
-const { createClient } = require('@vercel/postgres');
+const { createPool } = require('@vercel/postgres');
 
 async function run() {
   const isDispatch = process.env.GITHUB_EVENT_NAME === 'workflow_dispatch';
@@ -22,9 +22,9 @@ async function run() {
     process.exit(0);
   }
 
-  const client = createClient({ connectionString: dbUrl });
+  const client = createPool({ connectionString: dbUrl });
   try {
-    await client.connect();
+    await client.query("SELECT 1");
   } catch (err) {
     console.error('Erro de conexão ao banco de dados:', err.message);
     // Em caso de erro do banco, rodamos a atualização para não travar o site

@@ -1224,19 +1224,14 @@ async function runMhScrape(signal, mode) {
           continue;
         }
 
-        const catMap = {
-          'Doujinshi': 'Doujinshi', 'Mangá Hentai': 'Mangá Hentai', 'Manga Hentai': 'Mangá Hentai',
-          'One-Shot': 'One-Shot', 'Comics': 'Comics',
-          'Hentai Sem Censura': 'Sem Censura', 'Animes Hentai': 'Anime',
-          'Hentai 3D': 'Hentai 3D', 'Jav': 'JAV'
-        };
-        const genres = ['Hentai'];
+        // Usa categorias e tags diretamente do site, sem mapeamento/normalização
+        const genres = [];
         for (const cat of categories) {
-          const mapped = catMap[cat];
-          if (mapped && !genres.includes(mapped)) genres.push(mapped);
+          if (cat && !genres.includes(cat)) genres.push(cat);
         }
-        for (const tag of tags.slice(0, 4)) {
-          if (!genres.includes(tag) && genres.length < 8) genres.push(tag);
+        if (!genres.some(g => g.toLowerCase().includes('hentai'))) genres.unshift('Hentai');
+        for (const tag of tags) {
+          if (tag && !genres.includes(tag)) genres.push(tag);
         }
 
         const mangaEntry = {

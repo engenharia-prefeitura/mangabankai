@@ -101,6 +101,19 @@
       </div>
     </section>
 
+    <!-- +18 (só aparece quando modo adulto está ativo) -->
+    <section class="section" id="adultSection" style="display:none">
+      <div class="section-header">
+        <div class="left"><span class="icon">🔞</span><h2>+18 / Hentai</h2></div>
+        <a href="catalog.html?genre=Hentai" class="view-all">Ver todos →</a>
+      </div>
+      <div class="row-wrap">
+        <button class="row-arrow left" aria-label="Anterior" onclick="scrollRow('adultRow',-1)">‹</button>
+        <div class="manga-grid row-carousel" id="adultRow"></div>
+        <button class="row-arrow right" aria-label="Próximo" onclick="scrollRow('adultRow',1)">›</button>
+      </div>
+    </section>
+
     <!-- New / by year -->
     <section class="section">
       <div class="section-header">
@@ -237,6 +250,21 @@
       renderCarousel(recent.slice(0, 24), 'recentRow');
       renderCarousel(popular, 'popularRow');
       renderCarousel(novidades, 'newRow');
+
+      // Seção +18: só quando modo adulto ativo
+      const _homeAdult = typeof localStorage !== 'undefined' && localStorage.getItem('ms_adult_mode') === 'true';
+      if (_homeAdult) {
+        const isAdultGenre = g => { const l = g.toLowerCase(); return l.includes('hentai') || l === 'adulto' || l === 'adult' || l === 'ecchi' || l === 'mature' || l === 'smut'; };
+        // Pega do ORIGINAL_MANGA_DATA para não depender da ordem de MANGA_DATA
+        const adultList = ORIGINAL_MANGA_DATA.filter(m => (m.genres || []).some(isAdultGenre));
+        // Ordena por data de atualização (home.json) se disponível, senão por id
+        const dateMap = (home && home.updated) ? home.updated : {};
+        adultList.sort((a, b) => (dateMap[b.id] ? dateMap[b.id].date || 0 : 0) - (dateMap[a.id] ? dateMap[a.id].date || 0 : 0));
+        if (adultList.length > 0) {
+          document.getElementById('adultSection').style.display = '';
+          renderCarousel(adultList.slice(0, 24), 'adultRow');
+        }
+      }
     })();
 
     // ========== HERO ==========

@@ -95,23 +95,24 @@ function filterManga(opts) {
   return results;
 }
 
-const ALL_GENRES = ["Action","Adult","Adulto","Adventure","Animated","Comedy","Demons","Drama","Ecchi","Hentai","Fantasy","Gender Bender","Harem","Historical","Horror","Josei","Life","Magic","Martial Arts","Mature","Mecha","Military","Mystery","One Shot","Psychological","Romance","School","School Life","Sci Fi","Seinen","Shoujo","Shoujoai","Shounen","Shounen Ai","Shounenai","Slice Of Life","Smut","Sports","Super Power","Supernatural","Tragedy","Vampire","Yaoi","Yuri"];
+const ALL_GENRES = [...new Set(ORIGINAL_MANGA_DATA.flatMap(m => m.genres || []))].filter(Boolean).sort((a, b) => a.localeCompare(b, 'pt-BR'));
 
 function getAvailableGenres() {
-  const adultGenres = ['Adult', 'Adulto', 'Hentai', 'Ecchi', 'Mature', 'Smut'];
   const adultMode = typeof localStorage !== 'undefined' && localStorage.getItem('ms_adult_mode') === 'true';
-  if (adultMode) {
-    const nonAdult = ALL_GENRES.filter(g => !adultGenres.includes(g));
-    const activeAdult = ALL_GENRES.filter(g => adultGenres.includes(g));
-    activeAdult.sort((a, b) => {
-      if (a === 'Adulto') return -1;
-      if (b === 'Adulto') return 1;
-      return a.localeCompare(b, 'pt-BR');
-    });
-    return [...activeAdult, ...nonAdult];
-  } else {
-    return ALL_GENRES.filter(g => !adultGenres.includes(g));
+  if (!adultMode) {
+    // MANGA_DATA ja esta filtrado sem conteudo adulto — deriva generos dele
+    return [...new Set(MANGA_DATA.flatMap(m => m.genres || []))].filter(Boolean).sort((a, b) => a.localeCompare(b, 'pt-BR'));
   }
+  // Modo +18 ON: mostra todos, generos adultos primeiro
+  const adultFirst = g => {
+    const l = g.toLowerCase();
+    return l.includes('hentai') || l === 'adulto' || l === 'adult' || l === 'ecchi' || l === 'mature' || l === 'smut';
+  };
+  const adultG = ALL_GENRES.filter(adultFirst);
+  const nonAdultG = ALL_GENRES.filter(g => !adultFirst(g));
+  adultG.sort((a, b) => a.localeCompare(b, 'pt-BR'));
+  nonAdultG.sort((a, b) => a.localeCompare(b, 'pt-BR'));
+  return [...adultG, ...nonAdultG];
 }
 
 let chaptersData = null;

@@ -491,10 +491,11 @@
   justify-content: center;
   width: 100%;
   max-width: 728px;
+  overflow: hidden;
 }
 .ad-slot iframe {
-  max-width: 100%;
   display: block;
+  max-width: 100%;
 }
 
 /* ===== TELA DE TRANSIÇÃO ENTRE CAPÍTULOS ===== */

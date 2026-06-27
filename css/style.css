@@ -1701,19 +1701,13 @@ body.no-scroll {
   margin: 24px auto;
   width: 100%;
   max-width: 728px;
-  min-height: 90px;
-  background: rgba(255, 255, 255, 0.02);
-  border: 1px dashed rgba(255, 255, 255, 0.05);
-  border-radius: 8px;
   overflow: hidden;
-  box-sizing: border-box;
-  padding: 8px;
 }
 
 /* ── Logo imagem ─────────────────────────────────────── */
 .logo-img {
-  height: 44px;
-  width: 44px;
+  height: 70px;
+  width: 70px;
   object-fit: cover;
   border-radius: 8px;
   display: block;

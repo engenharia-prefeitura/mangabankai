@@ -384,7 +384,7 @@
       realPageCount = pages.length;
       pages = injectAdPages(pages);
       renderPages();
-      saveProgress(slug, chapter.id, 0, realPageCount);
+      saveProgress(slug, chapter.id, 0, pages.length);
       if (window.registerMangaView) window.registerMangaView(slug);
     }
 
@@ -447,6 +447,36 @@
       return out;
     }
 
+    function getSpreads() {
+      const mode = document.getElementById('pageMode').value;
+      let activeMode = mode;
+      if (mode === 'double' && window.innerWidth <= 768) {
+        activeMode = 'single';
+      }
+      
+      if (activeMode !== 'double') {
+        return pages.map((_, i) => [i]);
+      }
+      
+      const spreads = [];
+      let i = 0;
+      while (i < pages.length) {
+        if (pages[i] === AD_SENTINEL) {
+          spreads.push([i]);
+          i++;
+        } else {
+          if (i + 1 < pages.length && pages[i + 1] !== AD_SENTINEL) {
+            spreads.push([i, i + 1]);
+            i += 2;
+          } else {
+            spreads.push([i]);
+            i++;
+          }
+        }
+      }
+      return spreads;
+    }
+
     function renderAdPage(container, pageIdx) {
       container.innerHTML = `
         <div class="page-container">
@@ -503,47 +533,87 @@
         if (url === AD_SENTINEL) {
           renderAdPage(container, currentPageIdx);
         } else {
-        container.innerHTML = `
-          <div class="page-container">
-            <img class="reader-page-img"
-              src="${url}"
-              alt="Página ${currentPageIdx + 1}"
-              referrerPolicy="no-referrer"
-              onerror="this.style.display='none'"
-              loading="${currentPageIdx === 0 ? 'eager' : 'lazy'}">
-          </div>
-        `;
-        }
-      } else if (activeMode === 'double') {
-        const idx1 = currentPageIdx;
-        const idx2 = dir === 'rtl' ? currentPageIdx - 1 : currentPageIdx + 1;
-        const url1 = pages[idx1];
-        const url2 = idx2 >= 0 && idx2 < pages.length ? pages[idx2] : null;
-
-        if (url1 === AD_SENTINEL || url2 === AD_SENTINEL) {
-          const adIdx = url1 === AD_SENTINEL ? idx1 : idx2;
-          renderAdPage(container, adIdx);
-        } else {
           container.innerHTML = `
-            <div class="page-container double">
-              <div class="page-col">
-                <img class="reader-page-img"
-                  src="${url1}"
-                  alt="Página ${idx1 + 1}"
-                  referrerPolicy="no-referrer"
-                  onerror="this.style.display='none'"
-                  loading="${idx1 === 0 ? 'eager' : 'lazy'}">
-              </div>
-              <div class="page-col">
-                ${url2 ? `<img class="reader-page-img"
-                  src="${url2}"
-                  alt="Página ${idx2 + 1}"
-                  referrerPolicy="no-referrer"
-                  onerror="this.style.display='none'"
-                  loading="lazy">` : '<div class="page-end">Fim do capítulo</div>'}
-              </div>
+            <div class="page-container">
+              <img class="reader-page-img"
+                src="${url}"
+                alt="Página ${currentPageIdx + 1}"
+                referrerPolicy="no-referrer"
+                onerror="this.style.display='none'"
+                loading="${currentPageIdx === 0 ? 'eager' : 'lazy'}">
             </div>
           `;
+        }
+      } else if (activeMode === 'double') {
+        const spreads = getSpreads();
+        const currentSpread = spreads.find(s => s.includes(currentPageIdx)) || [currentPageIdx];
+        
+        if (currentSpread.length === 1) {
+          const idx = currentSpread[0];
+          const url = pages[idx];
+          if (url === AD_SENTINEL) {
+            renderAdPage(container, idx);
+          } else {
+            container.innerHTML = `
+              <div class="page-container">
+                <img class="reader-page-img"
+                  src="${url}"
+                  alt="Página ${idx + 1}"
+                  referrerPolicy="no-referrer"
+                  onerror="this.style.display='none'"
+                  loading="${idx === 0 ? 'eager' : 'lazy'}">
+              </div>
+            `;
+          }
+        } else {
+          const idx1 = currentSpread[0];
+          const idx2 = currentSpread[1];
+          const url1 = pages[idx1];
+          const url2 = pages[idx2];
+          
+          if (dir === 'rtl') {
+            container.innerHTML = `
+              <div class="page-container double">
+                <div class="page-col">
+                  <img class="reader-page-img"
+                    src="${url2}"
+                    alt="Página ${idx2 + 1}"
+                    referrerPolicy="no-referrer"
+                    onerror="this.style.display='none'"
+                    loading="lazy">
+                </div>
+                <div class="page-col">
+                  <img class="reader-page-img"
+                    src="${url1}"
+                    alt="Página ${idx1 + 1}"
+                    referrerPolicy="no-referrer"
+                    onerror="this.style.display='none'"
+                    loading="${idx1 === 0 ? 'eager' : 'lazy'}">
+                </div>
+              </div>
+            `;
+          } else {
+            container.innerHTML = `
+              <div class="page-container double">
+                <div class="page-col">
+                  <img class="reader-page-img"
+                    src="${url1}"
+                    alt="Página ${idx1 + 1}"
+                    referrerPolicy="no-referrer"
+                    onerror="this.style.display='none'"
+                    loading="${idx1 === 0 ? 'eager' : 'lazy'}">
+                </div>
+                <div class="page-col">
+                  <img class="reader-page-img"
+                    src="${url2}"
+                    alt="Página ${idx2 + 1}"
+                    referrerPolicy="no-referrer"
+                    onerror="this.style.display='none'"
+                    loading="lazy">
+                </div>
+              </div>
+            `;
+          }
         }
       }
 
@@ -620,8 +690,11 @@
       const isAd = pages[currentPageIdx] === AD_SENTINEL;
       const realIdx = pages.slice(0, currentPageIdx + 1).filter(p => p !== AD_SENTINEL).length;
       document.getElementById('pageInfo').textContent = isAd ? 'Publicidade' : `${realIdx} de ${realPageCount}`;
-      document.getElementById('prevPageBtn').disabled = currentPageIdx === 0;
-      document.getElementById('nextPageBtn').disabled = currentPageIdx >= pages.length - 1;
+      
+      const spreads = getSpreads();
+      const currentSpreadIdx = spreads.findIndex(s => s.includes(currentPageIdx));
+      document.getElementById('prevPageBtn').disabled = currentSpreadIdx === 0;
+      document.getElementById('nextPageBtn').disabled = currentSpreadIdx >= spreads.length - 1;
     }
 
     function navPage(delta) {
@@ -630,11 +703,12 @@
       const dir = document.getElementById('readingDirection').value;
       let actualDelta = dir === 'rtl' ? -delta : delta;
 
-      if (document.getElementById('pageMode').value === 'double') actualDelta *= 2;
+      const spreads = getSpreads();
+      const currentSpreadIdx = spreads.findIndex(s => s.includes(currentPageIdx));
 
-      const newIdx = currentPageIdx + actualDelta;
-      if (newIdx >= 0 && newIdx < pages.length) {
-        currentPageIdx = newIdx;
+      const newSpreadIdx = currentSpreadIdx + actualDelta;
+      if (newSpreadIdx >= 0 && newSpreadIdx < spreads.length) {
+        currentPageIdx = spreads[newSpreadIdx][0];
         renderPages();
         if (currentMangaSlug && currentChapter) {
           saveProgress(currentMangaSlug, currentChapter.id, currentPageIdx, pages.length);

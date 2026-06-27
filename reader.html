@@ -29,6 +29,7 @@
   <script src="js/pub.js"></script>
 </head>
 <body>
+  <script>ADS.guard();</script>
   <!-- Main Site Header -->
   <header class="header">
     <div class="header-inner">
@@ -159,14 +160,6 @@
 
     // ========== INIT ==========
     (async function() {
-      // Detecta adblock uma única vez por sessão
-      if (!sessionStorage.getItem('_adchk')) {
-        sessionStorage.setItem('_adchk', '1');
-        ADS.detectAdBlock(function(blocked) {
-          if (blocked) ADS.showAdBlockWall();
-        });
-      }
-
       const params = getParams();
       if (params.manga && params.chapter) {
         await loadChapter(params.manga, params.chapter, params.lang);

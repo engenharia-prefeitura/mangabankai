@@ -203,6 +203,21 @@ const ADS = (function () {
       document.body.appendChild(wall);
     },
 
+    // ── GUARD (chamar em toda página) ────────────────────────────────────
+    // Roda a detecção em cada carregamento de página e exibe o wall se houver
+    // adblock. Sem guard de sessão: cada página verifica de forma independente,
+    // então o bloqueio cobre home, catálogo, mangá e leitor. Defensivo quanto
+    // ao body: se chamado antes do body existir, aguarda DOMContentLoaded.
+    guard() {
+      function run() {
+        ADS.detectAdBlock(function (blocked) {
+          if (blocked) ADS.showAdBlockWall();
+        });
+      }
+      if (document.body) run();
+      else document.addEventListener('DOMContentLoaded', run);
+    },
+
     // ── DEBUG (use no console do browser: ADS.debug()) ───────────────────
     debug() {
       const slots = document.querySelectorAll('.ad-slot, .ad-banner-fixed, .reader-ad-page');
@@ -220,7 +235,6 @@ const ADS = (function () {
         if (!frs.length) console.warn('Slot ' + i, el.className.trim(), '| SEM iframe (ad não carregou)');
       });
       console.log('Popunder disparado:', sessionStorage.getItem('_adp') ? 'sim' : 'não');
-      console.log('Adblock verificado:', sessionStorage.getItem('_adchk') ? 'sim' : 'não');
       console.log('Adblock ativo:', document.getElementById('_adblockWall') ? 'sim (wall visível)' : 'não');
       console.groupEnd();
     }

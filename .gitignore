@@ -15,11 +15,11 @@ admin-progress.json
 # Vercel CLI (não necessário com integração GitHub)
 .vercel/
 
-# Arquivos gerados pelo build (a Vercel gera durante o deploy)
-js/data-lite.js
-js/home.json
-js/manga-search.json
-sitemap.xml
+# Arquivos gerados pelo build — commitados pelo GitHub Actions para manter o site atualizado
+# js/data-lite.js  ← Removido do ignore: gerado e commitado pelo workflow
+# js/home.json     ← Removido do ignore
+# js/manga-search.json ← Removido do ignore
+# sitemap.xml      ← Removido do ignore
 
 # Logo original em alta (o site usa img/logo.png otimizada)
 /logo.png

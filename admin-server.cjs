@@ -88,6 +88,17 @@ function loadState() {
       if (step.status === 'running') step.status = 'paused';
     });
   }
+  if (!s.scheduler) {
+    s.scheduler = {
+      enabled: false,
+      interval: '12h',
+      lang: 'pt',
+      mode: 'incremental',
+      lastRun: null,
+      nextRun: null
+    };
+  }
+
   return s;
 }
 
@@ -125,7 +136,7 @@ function log(lang, msg, type = 'info') {
   const entry = { time: new Date().toISOString(), lang, msg, type };
   state.log.unshift(entry);
   if (state.log.length > 300) state.log = state.log.slice(0, 300);
-  broadcast({ type: 'log', entry, state: { pt: omitQueue(state.pt), en: omitQueue(state.en) } });
+  broadcast({ type: 'log', entry, state: { pt: omitQueue(state.pt), en: omitQueue(state.en), scheduler: state.scheduler } });
 }
 
 function omitQueue(s) {
@@ -134,7 +145,7 @@ function omitQueue(s) {
 }
 
 function broadcastState() {
-  broadcast({ type: 'state', state: { pt: omitQueue(state.pt), en: omitQueue(state.en) } });
+  broadcast({ type: 'state', state: { pt: omitQueue(state.pt), en: omitQueue(state.en), scheduler: state.scheduler } });
 }
 
 // ── HTTP fetch genérico ────────────────────────────────────────────────────────
@@ -1675,6 +1686,116 @@ async function runEnScrape(signal) {
   saveState(); broadcastState();
 }
 
+// ── AGENDADOR AUTOMÁTICO (Scheduler) ───────────────────────────────────────────
+
+function calculateNextRun() {
+  const sched = state.scheduler;
+  if (!sched || !sched.enabled) {
+    sched.nextRun = null;
+    return;
+  }
+
+  const now = new Date();
+  let baseDate = sched.lastRun ? new Date(sched.lastRun) : now;
+  
+  if (now - baseDate > 30 * 24 * 60 * 60 * 1000) {
+    baseDate = now;
+  }
+
+  let next = new Date(baseDate);
+
+  if (sched.interval === '1h') {
+    next.setHours(next.getHours() + 1);
+  } else if (sched.interval === '6h') {
+    next.setHours(next.getHours() + 6);
+  } else if (sched.interval === '12h') {
+    next.setHours(next.getHours() + 12);
+  } else if (sched.interval === '1d') {
+    next.setDate(next.getDate() + 1);
+  } else if (sched.interval === '3am') {
+    next = new Date();
+    next.setHours(3, 0, 0, 0);
+    if (next <= now) {
+      next.setDate(next.getDate() + 1);
+    }
+  } else {
+    next.setHours(next.getHours() + 12);
+  }
+
+  while (next <= now) {
+    if (sched.interval === '1h') next.setHours(next.getHours() + 1);
+    else if (sched.interval === '6h') next.setHours(next.getHours() + 6);
+    else if (sched.interval === '12h') next.setHours(next.getHours() + 12);
+    else if (sched.interval === '1d') next.setDate(next.getDate() + 1);
+    else if (sched.interval === '3am') next.setDate(next.getDate() + 1);
+    else next.setHours(next.getHours() + 12);
+  }
+
+  sched.nextRun = next.toISOString();
+}
+
+function runScheduledUpdate() {
+  const sched = state.scheduler;
+  if (!sched || !sched.enabled) return;
+
+  if (state.pt.status === 'running' || state.en.status === 'running') {
+    log('scheduler', '⚠️ Atualização agendada adiada por 15min: outro processo de atualização está ativo.', 'warn');
+    const delayNext = new Date();
+    delayNext.setMinutes(delayNext.getMinutes() + 15);
+    sched.nextRun = delayNext.toISOString();
+    saveState();
+    broadcastState();
+    return;
+  }
+
+  log('scheduler', `⏰ Iniciando atualização agendada (Frequência: ${sched.interval} | Modo: ${sched.mode})...`, 'info');
+  
+  sched.lastRun = new Date().toISOString();
+  calculateNextRun();
+  saveState();
+  broadcastState();
+
+  const speed = 'fast';
+  const mode = sched.mode;
+
+  if (sched.lang === 'pt' || sched.lang === 'both') {
+    state.pt = { status:'idle', processed:0, total:0, current:[], errors:0, startedAt:null, queue:[], speed, mode };
+    const ptCtrl = { aborted: false };
+    controllers['pt'] = ptCtrl;
+    runPtScrape(ptCtrl);
+  }
+
+  if (sched.lang === 'en' || sched.lang === 'both') {
+    state.en = { status:'idle', processed:0, total:0, current:[], errors:0, startedAt:null, queue:[], speed, mode };
+    const enCtrl = { aborted: false };
+    controllers['en'] = enCtrl;
+    runEnScrape(enCtrl);
+  }
+}
+
+function checkScheduler() {
+  const sched = state.scheduler;
+  if (!sched || !sched.enabled) return;
+
+  const now = new Date();
+  if (!sched.nextRun) {
+    calculateNextRun();
+    saveState();
+    broadcastState();
+    return;
+  }
+
+  const nextRunDate = new Date(sched.nextRun);
+  if (now >= nextRunDate) {
+    runScheduledUpdate();
+  }
+}
+
+function startSchedulerTimer() {
+  setInterval(checkScheduler, 60000);
+  setTimeout(checkScheduler, 5000);
+}
+
 // ══════════════════════════════════════════════════════════════════════════════
 //  HTTP Server
 // ══════════════════════════════════════════════════════════════════════════════
@@ -1766,7 +1887,7 @@ http.createServer((req, res) => {
   // Estado atual
   if (pathname === '/state') {
     res.writeHead(200, { 'Content-Type':'application/json' });
-    return res.end(JSON.stringify({ pt:omitQueue(state.pt), en:omitQueue(state.en), log:state.log }));
+    return res.end(JSON.stringify({ pt:omitQueue(state.pt), en:omitQueue(state.en), scheduler:state.scheduler, log:state.log }));
   }
 
   // Controle
@@ -1856,6 +1977,34 @@ http.createServer((req, res) => {
     return;
   }
 
+  // POST /scheduler-config  { enabled, interval, lang, mode }
+  if (pathname === '/scheduler-config' && req.method === 'POST') {
+    let body = '';
+    req.on('data', d => { body += d; });
+    req.on('end', () => {
+      try {
+        const { enabled, interval, lang, mode } = JSON.parse(body || '{}');
+        
+        state.scheduler.enabled = !!enabled;
+        state.scheduler.interval = interval || '12h';
+        state.scheduler.lang = lang || 'pt';
+        state.scheduler.mode = mode || 'incremental';
+        
+        calculateNextRun();
+        saveState();
+        broadcastState();
+        
+        log('scheduler', `⚙️ Agendador atualizado: ${state.scheduler.enabled ? 'ATIVADO' : 'DESATIVADO'} (${state.scheduler.interval}, ${state.scheduler.lang}, ${state.scheduler.mode})`, 'info');
+        
+        res.writeHead(200, {'Content-Type':'application/json'});
+        res.end(JSON.stringify({ ok: true, scheduler: state.scheduler }));
+      } catch (e) {
+        res.writeHead(400); res.end(JSON.stringify({ ok: false, error: e.message }));
+      }
+    });
+    return;
+  }
+
   // GET /img-proxy?url=... — proxeia imagens do mangafreak (bloqueiam hotlink)
   if (pathname === '/img-proxy' && req.method === 'GET') {
     const target = _urlSearchParams.get('url') || '';
@@ -1884,6 +2033,9 @@ http.createServer((req, res) => {
   console.log(`   EN: ww2.mangafreak.me (HTML) | 5 workers | delay configurável`);
   console.log(`   MH: mundohentaioficial.com (HTML) | conteúdo +18`);
   console.log(`   EN pages: [] vazio — imagens via CDN pattern em tempo de leitura\n`);
+
+  // Inicializa o temporizador do agendador automático
+  startSchedulerTimer();
 
   // Startup: resolve placeholder covers buscando no MangaFreak pelo slug
   (async () => {

@@ -48,7 +48,6 @@
 
   <!-- Hero Carousel -->
   <section class="hero">
-    <div class="hero-badge-strip">🔥 Destaques da Semana</div>
     <div class="hero-carousel" id="heroCarousel"></div>
     <div class="hero-dots" id="heroDots"></div>
   </section>
@@ -249,7 +248,6 @@
 
       carousel.innerHTML = list.map((m, i) => {
         const info = (window.HOME_DATA && window.HOME_DATA.updated && window.HOME_DATA.updated[m.id]) || null;
-        const chip = info ? `<span class="hero-badge accent">Cap. ${info.ch}${info.date ? ' · ' + relativeTime(info.date) : ''}</span>` : '';
         return `
         <div class="hero-slide ${i === 0 ? 'active' : ''}" data-index="${i}">
           <div class="hero-bg" style="background-image:url('${m.cover}')"></div>
@@ -257,11 +255,15 @@
             <img src="${m.cover}" alt="${m.title}" referrerPolicy="no-referrer" onerror="this.style.display='none'">
           </div>
           <div class="content">
-            <div class="hero-badges">
-              <span class="hero-badge">${m.status === 'ongoing' ? 'Em Andamento' : 'Completo'}</span>
-              ${chip}
-            </div>
+            <div class="hero-curation-tag">🔥 Destaque da Semana</div>
             <h1>${m.title}</h1>
+            <div class="hero-badges">
+              <span class="hero-status-tag ${m.status === 'ongoing' ? 'ongoing' : 'completed'}">
+                <span class="status-dot"></span>
+                ${m.status === 'ongoing' ? 'Em Andamento' : 'Completo'}
+              </span>
+              ${info ? `<span class="hero-chapter-tag">Cap. ${info.ch}${info.date ? ' · ' + relativeTime(info.date) : ''}</span>` : ''}
+            </div>
             <div class="hero-meta">
               <span>${m.year || ''}</span>
               <span>${(m.genres || []).slice(0, 3).join(' · ')}</span>
@@ -290,7 +292,12 @@
       let dragX = null, dragged = false;
       carousel.style.cursor = 'grab';
       carousel.addEventListener('dragstart', e => e.preventDefault());
-      carousel.addEventListener('pointerdown', (e) => { dragX = e.clientX; dragged = false; carousel.style.cursor = 'grabbing'; });
+      carousel.addEventListener('pointerdown', (e) => {
+        dragX = e.clientX;
+        dragged = false;
+        carousel.style.cursor = 'grabbing';
+        carousel.setPointerCapture(e.pointerId);
+      });
       carousel.addEventListener('pointermove', (e) => { if (dragX !== null && Math.abs(e.clientX - dragX) > 8) dragged = true; });
       const endDrag = (e) => {
         carousel.style.cursor = 'grab';

@@ -346,6 +346,54 @@
     </div>
   </div>
 
+  <!-- Agendamento Automático -->
+  <div class="scraper-cloud" id="schedulerCard" style="display:none; margin-top:28px; background:var(--surface); border:1px solid var(--border); border-radius:16px; padding:24px;">
+    <h2>📅 Agendamento de Atualizações Automáticas (Background)</h2>
+    <p style="font-size:0.82rem; color:var(--muted); margin-bottom:18px; margin-top:4px;">
+      Configure atualizações automáticas que rodam em segundo plano no servidor, mesmo com esta tela fechada.
+    </p>
+    <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(200px, 1fr)); gap:16px; margin-bottom:18px;">
+      <div>
+        <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">Status do Agendador</label>
+        <select id="schedEnabled" style="width:100%; background:var(--surface2); border:1px solid var(--border); padding:8px 12px; border-radius:8px; color:var(--text); outline:none;">
+          <option value="false">Desativado</option>
+          <option value="true">Ativado</option>
+        </select>
+      </div>
+      <div>
+        <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">Frequência</label>
+        <select id="schedInterval" style="width:100%; background:var(--surface2); border:1px solid var(--border); padding:8px 12px; border-radius:8px; color:var(--text); outline:none;">
+          <option value="1h">A cada 1 hora</option>
+          <option value="6h">A cada 6 horas</option>
+          <option value="12h">A cada 12 horas</option>
+          <option value="1d">A cada 24 horas (Diário)</option>
+          <option value="3am">Diário de madrugada (03:00 AM)</option>
+        </select>
+      </div>
+      <div>
+        <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">Idioma(s)</label>
+        <select id="schedLang" style="width:100%; background:var(--surface2); border:1px solid var(--border); padding:8px 12px; border-radius:8px; color:var(--text); outline:none;">
+          <option value="pt">Apenas Português</option>
+          <option value="en">Apenas Inglês</option>
+          <option value="both">Ambos (PT & EN)</option>
+        </select>
+      </div>
+      <div>
+        <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">Modo de Atualização</label>
+        <select id="schedMode" style="width:100%; background:var(--surface2); border:1px solid var(--border); padding:8px 12px; border-radius:8px; color:var(--text); outline:none;">
+          <option value="incremental">Atualização Rápida (novidades)</option>
+          <option value="full">Atualização Completa (catálogo)</option>
+        </select>
+      </div>
+    </div>
+    <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:12px;">
+      <div id="schedInfo" style="font-size:0.8rem; color:var(--muted);">
+        Carregando informações do agendador...
+      </div>
+      <button class="btn btn-resume" id="saveSchedulerBtn" onclick="saveScheduler()">Salvar Configurações</button>
+    </div>
+  </div>
+
   <!-- Visibilidade -->
   <div class="log-box" id="visibilityBox">
     <div class="log-head">
@@ -510,9 +558,17 @@ function renderLog(log) {
 }
 
 function applyMsg(d) {
-  if (d.state) { updateCard('pt', d.state.pt); updateCard('en', d.state.en); }
+  if (d.state) {
+    updateCard('pt', d.state.pt);
+    updateCard('en', d.state.en);
+    if (d.state.scheduler) updateSchedulerDisplay(d.state.scheduler);
+  }
   if (d.log) renderLog(d.log);
-  if (d.entry && d.state) { updateCard('pt', d.state.pt); updateCard('en', d.state.en); }
+  if (d.entry && d.state) {
+    updateCard('pt', d.state.pt);
+    updateCard('en', d.state.en);
+    if (d.state.scheduler) updateSchedulerDisplay(d.state.scheduler);
+  }
 }
 
 function connect() {
@@ -522,14 +578,25 @@ function connect() {
     document.querySelector('.conn-status').style.display = 'none';
     document.getElementById('scraperCards').style.display = 'none';
     document.getElementById('logBox').style.display = 'none';
+    document.getElementById('schedulerCard').style.display = 'none';
     return;
   }
   // Local: usa admin-server.cjs; esconde a seção de scraping na nuvem.
   document.getElementById('scraperCloud').style.display = 'none';
+  document.getElementById('schedulerCard').style.display = 'block';
   if (es) { es.close(); es = null; }
   try {
     es = new EventSource(`${SCRAPER_URL}/events`);
-    es.onopen = () => setConn(true);
+    es.onopen = async () => {
+      setConn(true);
+      const d = await fetch(`${SCRAPER_URL}/state`).then(r => r.json()).catch(() => null);
+      if (d) {
+        updateCard('pt', d.pt);
+        updateCard('en', d.en);
+        if (d.scheduler) updateSchedulerDisplay(d.scheduler, true);
+        if (d.log) renderLog(d.log);
+      }
+    };
     es.onmessage = e => { try { applyMsg(JSON.parse(e.data)); } catch(_) {} };
     es.onerror = () => { setConn(false); es.close(); setTimeout(connect, 3000); };
   } catch(_) { setConn(false); setTimeout(connect, 3000); }
@@ -560,14 +627,23 @@ async function go(lang, action) {
   const mode = lang ? modes[lang] : undefined;
   await post({ lang, action, speed, mode });
   const d = await fetch(`${SCRAPER_URL}/state`).then(r => r.json()).catch(() => null);
-  if (d) { updateCard('pt', d.pt); updateCard('en', d.en); if (d.log) renderLog(d.log); }
+  if (d) {
+    updateCard('pt', d.pt);
+    updateCard('en', d.en);
+    if (d.scheduler) updateSchedulerDisplay(d.scheduler);
+    if (d.log) renderLog(d.log);
+  }
 }
 
 async function reset(lang) {
   if (!SCRAPER_URL) return;
   await post({ lang, action: 'reset' });
   const d = await fetch(`${SCRAPER_URL}/state`).then(r => r.json()).catch(() => null);
-  if (d) { updateCard('pt', d.pt); updateCard('en', d.en); }
+  if (d) {
+    updateCard('pt', d.pt);
+    updateCard('en', d.en);
+    if (d.scheduler) updateSchedulerDisplay(d.scheduler);
+  }
 }
 
 async function post(body) {
@@ -575,6 +651,65 @@ async function post(body) {
   try {
     await fetch(`${SCRAPER_URL}/control`, { method: 'POST', headers: {'Content-Type':'application/json'}, body: JSON.stringify(body) });
   } catch(_) {}
+}
+
+// ── Funções do Agendador Automático ─────────────────────────────────────────────
+function updateSchedulerDisplay(sched, populateInputs = false) {
+  if (!sched) return;
+  
+  if (populateInputs) {
+    document.getElementById('schedEnabled').value = String(sched.enabled);
+    document.getElementById('schedInterval').value = sched.interval;
+    document.getElementById('schedLang').value = sched.lang;
+    document.getElementById('schedMode').value = sched.mode;
+  }
+  
+  const infoEl = document.getElementById('schedInfo');
+  if (!infoEl) return;
+  
+  const last = sched.lastRun ? new Date(sched.lastRun).toLocaleString('pt-BR') : 'Nunca';
+  const next = sched.nextRun ? new Date(sched.nextRun).toLocaleString('pt-BR') : 'Nenhuma';
+  
+  if (sched.enabled) {
+    infoEl.innerHTML = `🟢 <strong>Agendador Ativo</strong> | Última: ${last} | Próxima: <strong>${next}</strong>`;
+    infoEl.style.color = 'var(--green)';
+  } else {
+    infoEl.innerHTML = `⚪ <strong>Agendador Desativado</strong> | Última: ${last}`;
+    infoEl.style.color = 'var(--muted)';
+  }
+}
+
+async function saveScheduler() {
+  if (!SCRAPER_URL) return;
+  
+  const enabled = document.getElementById('schedEnabled').value === 'true';
+  const interval = document.getElementById('schedInterval').value;
+  const lang = document.getElementById('schedLang').value;
+  const mode = document.getElementById('schedMode').value;
+  
+  const btn = document.getElementById('saveSchedulerBtn');
+  btn.disabled = true;
+  btn.textContent = 'Salvando...';
+  
+  try {
+    const res = await fetch(`${SCRAPER_URL}/scheduler-config`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ enabled, interval, lang, mode })
+    });
+    const data = await res.json();
+    if (data.ok) {
+      updateSchedulerDisplay(data.scheduler);
+      alert('Configurações do agendador salvas com sucesso!');
+    } else {
+      alert('Erro ao salvar configurações: ' + data.error);
+    }
+  } catch (e) {
+    alert('Erro de conexão ao salvar configurações: ' + e.message);
+  } finally {
+    btn.disabled = false;
+    btn.textContent = 'Salvar Configurações';
+  }
 }
 
 // ── Gerenciar Visibilidade ──────────────────────────────────────────────

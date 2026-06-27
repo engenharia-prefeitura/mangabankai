@@ -527,6 +527,7 @@ img { max-width: 100%; display: block; }
   position: relative;
   width: 100%;
   height: clamp(300px, 44vw, 440px);
+  touch-action: pan-y; /* Permite scroll vertical da página e drag horizontal do carrossel */
 }
 .hero-slide {
   position: absolute;
@@ -579,17 +580,16 @@ img { max-width: 100%; display: block; }
   max-width: 560px;
   padding: 60px 24px;
 }
-.hero-slide .content .hero-badge {
-  display: inline-block;
-  background: var(--accent);
-  color: #fff;
-  font-size: 0.7rem;
+.hero-curation-tag {
+  font-size: 0.72rem;
   font-weight: 700;
+  color: var(--accent);
   text-transform: uppercase;
-  letter-spacing: 1px;
-  padding: 4px 12px;
-  border-radius: 4px;
-  margin-bottom: 12px;
+  letter-spacing: 2px;
+  margin-bottom: 6px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
 }
 .hero-slide .content h1 {
   font-size: clamp(1.5rem, 4.2vw, 2.6rem);
@@ -1625,12 +1625,53 @@ img { max-width: 100%; display: block; }
     linear-gradient(90deg, var(--bg-primary) 8%, color-mix(in srgb, var(--bg-primary) 60%, transparent) 50%, transparent 100%),
     linear-gradient(0deg, var(--bg-primary) 4%, transparent 45%);
 }
-.hero-badges { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-bottom: 10px; }
-.hero-badges .hero-badge { margin: 0; }
-.hero-slide .content .hero-badge.accent {
-  background: color-mix(in srgb, var(--accent) 22%, transparent);
+.hero-badges {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 12px;
+}
+.hero-status-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: var(--text-primary);
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 20px;
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+}
+.hero-status-tag .status-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  display: inline-block;
+}
+.hero-status-tag.ongoing .status-dot {
+  background: var(--yellow);
+  box-shadow: 0 0 6px var(--yellow);
+}
+.hero-status-tag.completed .status-dot {
+  background: var(--green);
+  box-shadow: 0 0 6px var(--green);
+}
+
+.hero-chapter-tag {
+  display: inline-block;
+  background: rgba(255, 107, 53, 0.12);
+  border: 1px solid rgba(255, 107, 53, 0.25);
   color: var(--accent);
-  border: 1px solid color-mix(in srgb, var(--accent) 40%, transparent);
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 20px;
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
 }
 
 /* Header Controls & Adult Toggle */

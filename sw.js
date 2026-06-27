@@ -5,7 +5,7 @@
 const CACHE = 'mangabankai-v2';
 const SHELL = [
   'index.html', 'catalog.html', 'manga.html', 'reader.html',
-  'css/style.css', 'css/reader.css', 'js/main.js', 'js/data-lite.js', 'js/ads.js'
+  'css/style.css', 'css/reader.css', 'js/main.js', 'js/data-lite.js', 'js/pub.js'
 ];
 
 self.addEventListener('install', (e) => {

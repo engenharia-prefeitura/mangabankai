@@ -20,13 +20,13 @@
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/reader.css">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📖</text></svg>">
-  <script src="js/ads.js"></script>
+  <script src="js/pub.js"></script>
 </head>
 <body>
   <!-- Main Site Header -->
   <header class="header">
     <div class="header-inner">
-      <a href="index.html" class="logo">Manga<span class="accent">Bankai</span><span class="dot"></span></a>
+      <a href="index.html" class="logo"><img src="img/logo.png" alt="MangaBankai" class="logo-img"></a>
       <nav class="nav">
         <a href="index.html">Início</a>
         <a href="catalog.html">Catálogo</a>
@@ -153,6 +153,14 @@
 
     // ========== INIT ==========
     (async function() {
+      // Detecta adblock uma única vez por sessão
+      if (!sessionStorage.getItem('_adchk')) {
+        sessionStorage.setItem('_adchk', '1');
+        ADS.detectAdBlock(function(blocked) {
+          if (blocked) ADS.showAdBlockWall();
+        });
+      }
+
       const params = getParams();
       if (params.manga && params.chapter) {
         await loadChapter(params.manga, params.chapter, params.lang);
@@ -482,20 +490,24 @@
 
     function renderAdPage(container, pageIdx) {
       container.innerHTML = '';
+      const isMid = pages[pageIdx] === AD_SENTINEL_MID;
       const wrap = document.createElement('div');
       wrap.className = 'page-container';
-      wrap.appendChild(
-        pages[pageIdx] === AD_SENTINEL_MID ? ADS.buildMidPage() : ADS.buildEndPage()
-      );
+      const adEl = isMid ? ADS.buildMidPage() : ADS.buildEndPage();
+      wrap.appendChild(adEl);
       container.appendChild(wrap);
+      // Carrega ads direto — elemento já está no DOM e visível
+      if (isMid) ADS.fillMidPage(adEl); else ADS.fillEndPage(adEl);
     }
 
     function loadScrollAdPage(el) {
       if (el.dataset.adLoaded) return;
       el.dataset.adLoaded = 'true';
-      el.appendChild(
-        el.dataset.adType === 'mid' ? ADS.buildMidPage() : ADS.buildEndPage()
-      );
+      const isMid = el.dataset.adType === 'mid';
+      const adEl = isMid ? ADS.buildMidPage() : ADS.buildEndPage();
+      el.appendChild(adEl);
+      // Elemento já está visível (IntersectionObserver do scroll confirmou)
+      if (isMid) ADS.fillMidPage(adEl); else ADS.fillEndPage(adEl);
     }
 
     // ========== RENDER PAGES ==========

@@ -1,8 +1,7 @@
 const ADS = (function () {
 
-  // Injeta qualquer código de ad dentro de um iframe isolado.
-  // Evita conflito de variáveis globais (atOptions) quando múltiplos
-  // banners do mesmo formato aparecem na mesma página.
+  // Injeta código de ad via srcdoc — não usa document.write(), então não
+  // mantém o documento principal em estado de "carregando".
   function _iframe(container, html) {
     if (!container) return;
     const fr = document.createElement('iframe');
@@ -11,13 +10,8 @@ const ADS = (function () {
     fr.setAttribute('marginwidth', '0');
     fr.setAttribute('marginheight', '0');
     fr.style.cssText = 'border:0;display:block;max-width:100%;';
+    fr.srcdoc = html;
     container.appendChild(fr);
-    try {
-      const d = fr.contentDocument || fr.contentWindow.document;
-      d.open();
-      d.write(html);
-      d.close();
-    } catch (_) {}
   }
 
   return {
@@ -34,10 +28,11 @@ const ADS = (function () {
 
     // ── SOCIAL BAR ───────────────────────────────────────────────────────
     // Usar apenas em home/manga — nunca no leitor.
+    // Precisa de document.body (injeta conteúdo no body).
     renderSocialBar() {
       const s = document.createElement('script');
       s.src = 'https://pl30096195.effectivecpmnetwork.com/63/b7/16/63b716721a507990403b659bbf920045.js';
-      document.head.appendChild(s);
+      document.body.appendChild(s);
     },
 
     // ── BANDEIRA NATIVA ──────────────────────────────────────────────────
@@ -68,7 +63,7 @@ const ADS = (function () {
     },
 
     // ── PÁGINA MID-CAPÍTULO (3 ads empilhados) ───────────────────────────
-    // Carrega os ads via IntersectionObserver quando a página ficar visível.
+    // Retorna só o elemento — quem chama é responsável por injetar os ads.
     buildMidPage() {
       const wrap = document.createElement('div');
       wrap.className = 'reader-ad-page reader-ad-page--mid';
@@ -77,14 +72,6 @@ const ADS = (function () {
         '<div class="ad-slot ad-s728"></div>' +
         '<div class="ad-slot ad-s300"></div>' +
         '<div class="ad-slot ad-snat"></div>';
-      const obs = new IntersectionObserver(function (entries) {
-        if (!entries[0].isIntersecting) return;
-        obs.disconnect();
-        ADS.renderBanner728(wrap.querySelector('.ad-s728'));
-        ADS.renderBanner300(wrap.querySelector('.ad-s300'));
-        ADS.renderNative(wrap.querySelector('.ad-snat'));
-      }, { threshold: 0.05 });
-      obs.observe(wrap);
       return wrap;
     },
 
@@ -95,13 +82,19 @@ const ADS = (function () {
       wrap.innerHTML =
         '<span class="ad-page-label">publicidade</span>' +
         '<div class="ad-slot ad-s300"></div>';
-      const obs = new IntersectionObserver(function (entries) {
-        if (!entries[0].isIntersecting) return;
-        obs.disconnect();
-        ADS.renderBanner300(wrap.querySelector('.ad-s300'));
-      }, { threshold: 0.05 });
-      obs.observe(wrap);
       return wrap;
+    },
+
+    // ── RENDERIZA ADS NUMA PÁGINA (modo página e scroll) ─────────────────
+    // Carrega os ads diretamente — sem IntersectionObserver, sem condição de corrida.
+    fillMidPage(wrap) {
+      ADS.renderBanner728(wrap.querySelector('.ad-s728'));
+      ADS.renderBanner300(wrap.querySelector('.ad-s300'));
+      ADS.renderNative(wrap.querySelector('.ad-snat'));
+    },
+
+    fillEndPage(wrap) {
+      ADS.renderBanner300(wrap.querySelector('.ad-s300'));
     },
 
     // ── TELA DE TRANSIÇÃO ENTRE CAPÍTULOS (3 ads + botão) ────────────────
@@ -133,6 +126,45 @@ const ADS = (function () {
       ADS.renderBanner728(screen.querySelector('.ad-tr728'));
       ADS.renderBanner300(screen.querySelector('.ad-tr300'));
       ADS.renderNative(screen.querySelector('.ad-trnat'));
+    },
+
+    // ── DETECÇÃO DE ADBLOCK ──────────────────────────────────────────────
+    // Cria um elemento isca com classes que todo adblock reconhece e verifica
+    // se ele foi ocultado. Aguarda 200ms para dar tempo ao adblock aplicar CSS.
+    detectAdBlock(callback) {
+      const bait = document.createElement('div');
+      bait.className = 'ad ads adsbox doubleclick ad-placement carbon-ads';
+      bait.setAttribute('data-ad', 'true');
+      Object.assign(bait.style, {
+        height: '1px', width: '1px', position: 'absolute',
+        left: '-9999px', top: '-9999px', pointerEvents: 'none'
+      });
+      document.body.appendChild(bait);
+      setTimeout(function () {
+        const cs = window.getComputedStyle(bait);
+        const blocked = bait.offsetHeight === 0 ||
+                        cs.display === 'none' ||
+                        cs.visibility === 'hidden';
+        bait.remove();
+        callback(blocked);
+      }, 200);
+    },
+
+    // ── OVERLAY DE ADBLOCK (leitor) ──────────────────────────────────────
+    // Exibe uma das duas imagens sorteada aleatoriamente.
+    // Bloqueia a leitura até o usuário desativar o adblock e recarregar.
+    showAdBlockWall() {
+      if (document.getElementById('_adblockWall')) return;
+      const src = Math.random() < 0.5 ? 'img/msgadblock1.png' : 'img/msgadblock2.png';
+      const wall = document.createElement('div');
+      wall.id = '_adblockWall';
+      wall.className = 'adblock-wall';
+      wall.innerHTML =
+        '<div class="adblock-wall-inner">' +
+          '<img src="' + src + '" alt="Adblock detectado" class="adblock-wall-img">' +
+          '<button class="adblock-retry-btn" onclick="location.reload()">Já desativei — Recarregar</button>' +
+        '</div>';
+      document.body.appendChild(wall);
     }
 
   };

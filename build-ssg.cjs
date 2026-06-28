@@ -221,7 +221,7 @@ function renderPage(m, chObj) {
 
   // Lista de capítulos (links para o leitor)
   const chapterItems = list.map(c => {
-    const href = `/reader.html?manga=${id}&cap=${encodeURIComponent(c.number)}&lang=${lang}`;
+    const href = `/manga/${id}/${encodeURIComponent(c.number)}`;
     const date = c.date ? String(c.date).substring(0, 10) : '';
     return `<a class="chapter-item" href="${href}"><div class="left"><span class="ch-num">Capítulo ${htmlEscape(c.number)}</span><span class="ch-title">${htmlEscape(c.title || '')}</span></div><div class="right"><span class="ch-date">${htmlEscape(date)}</span></div></a>`;
   }).join('\n');
@@ -308,9 +308,13 @@ function renderPage(m, chObj) {
           <div class="stat"><div class="value">${htmlEscape(m.author || 'Desconhecido')}</div><div class="label">Autor</div></div>
         </div>
         <div class="actions" style="margin-top:20px; display:flex; gap:12px; flex-wrap:wrap;">
-          ${firstCh ? `<a href="/reader.html?manga=${id}&cap=${encodeURIComponent(firstCh.number)}&lang=${lang}" class="btn btn-primary">📖 Começar Leitura</a>` : ''}
-          ${lastCh ? `<a href="/reader.html?manga=${id}&cap=${encodeURIComponent(lastCh.number)}&lang=${lang}" class="btn btn-secondary">Último Capítulo</a>` : ''}
+          ${firstCh ? `<a href="/manga/${id}/${encodeURIComponent(firstCh.number)}" class="btn btn-primary">📖 Começar Leitura</a>` : ''}
+          ${lastCh ? `<a href="/manga/${id}/${encodeURIComponent(lastCh.number)}" class="btn btn-secondary">Último Capítulo</a>` : ''}
+          <button class="btn btn-fav" id="favBtnSsg" onclick="(function(){var now=toggleFavorite('${htmlEscape(m.id)}');var b=document.getElementById('favBtnSsg');b.textContent=now?'♥ Favoritado':'♡ Favoritar';b.classList.toggle('favorited',now);showToast(now?'Adicionado aos <span class=\\'toast-accent\\'>favoritos</span>':'Removido dos <span class=\\'toast-accent\\'>favoritos</span>');})()">♡ Favoritar</button>
         </div>
+        <script>
+          (function(){ var b=document.getElementById('favBtnSsg'); if(b&&isFavorite('${htmlEscape(m.id)}')){b.textContent='♥ Favoritado';b.classList.add('favorited');} })();
+        </script>
       </div>
     </div>
   </div>

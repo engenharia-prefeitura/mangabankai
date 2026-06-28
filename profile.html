@@ -376,7 +376,7 @@
               </div>
             </div>
             <div class="history-actions">
-              <a href="reader.html?manga=${mangaId}&chapter=${p.chapterId}&page=${p.pageIndex}" class="btn btn-continue">Continuar</a>
+              <a href="/manga/${mangaId}/${p.chapterNumber != null ? p.chapterNumber : p.chapterId}" class="btn btn-continue">Continuar</a>
               <button onclick="removeFromHistory('${mangaId}')" class="btn btn-remove">Remover</button>
             </div>
           </div>

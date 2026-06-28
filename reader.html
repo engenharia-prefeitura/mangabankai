@@ -161,7 +161,12 @@
       const p = new URLSearchParams(window.location.search);
       // cap=<número> é a forma limpa; chapter=<id> mantido para retrocompatibilidade
       const chapter = p.get('cap') || p.get('chapter');
-      return { manga: p.get('manga'), chapter, lang: p.get('lang') || 'en' };
+      // lang: explícito na URL > preferência salva > 'en'
+      let lang = p.get('lang');
+      if (!lang) {
+        try { const v = localStorage.getItem('ms_global_lang'); if (v) { const pv = JSON.parse(v); if (pv !== 'all') lang = pv; } } catch(e) {}
+      }
+      return { manga: p.get('manga'), chapter, lang: lang || 'en' };
     }
 
     // ========== INIT ==========
@@ -336,7 +341,7 @@
         const _desc = `Leia ${title} capítulo ${chapter.number} online em ${lang === 'pt' ? 'português' : 'inglês'} no MangaBankai.`;
         const _cover = (manga && manga.cover) || '';
         const _absCover = _cover && !/^https?:\/\//.test(_cover) ? (location.origin + _cover) : _cover;
-        const _url = `${location.origin}/reader.html?manga=${encodeURIComponent(slug)}&cap=${encodeURIComponent(chapter.number)}&lang=${lang}`;
+        const _url = `${location.origin}/manga/${encodeURIComponent(slug)}/${encodeURIComponent(chapter.number)}`;
         const _set = (id, attr, val) => { const el = document.getElementById(id); if (el) el.setAttribute(attr, val); };
         _set('metaDesc', 'content', _desc);
         _set('ogTitle', 'content', _pageTitle + ' — MangaBankai');
@@ -349,8 +354,7 @@
 
       document.getElementById('readerTitle').textContent = title;
       document.getElementById('readerChapter').textContent = `Capítulo ${chapter.number}`;
-      const _backManga = getManga(slug);
-      document.getElementById('readerBackManga').href = (_backManga && _backManga.ssg) ? `/manga/${slug}/` : `manga.html?id=${slug}`;
+      document.getElementById('readerBackManga').href = /^[a-z0-9-]+$/.test(slug) ? `/manga/${slug}/` : `manga.html?id=${slug}`;
 
       // Chapter select
       const sel = document.getElementById('chapterSelect');
@@ -397,15 +401,14 @@
       realPageCount = pages.length;
       pages = injectAdPages(pages);
       renderPages();
-      saveProgress(slug, chapter.id, 0, pages.length);
+      saveProgress(slug, chapter.id, 0, pages.length, chapter.number);
       if (window.registerMangaView) window.registerMangaView(slug);
 
       ADS.renderPopunder();
     }
 
     function loadChapterBySelect(capNumber) {
-      const params = getParams();
-      if (currentMangaSlug) window.location.href = `reader.html?manga=${currentMangaSlug}&cap=${capNumber}&lang=${params.lang}`;
+      if (currentMangaSlug) window.location.href = `/manga/${currentMangaSlug}/${capNumber}`;
     }
 
     function switchReaderLang(newLang) {
@@ -420,7 +423,7 @@
         targetCapNumber = newChapters[newChapters.length - 1].number;
       }
       if (targetCapNumber != null) {
-        window.location.href = `reader.html?manga=${currentMangaSlug}&cap=${targetCapNumber}&lang=${newLang}`;
+        window.location.href = `/manga/${currentMangaSlug}/${targetCapNumber}`;
       }
     }
 
@@ -734,7 +737,7 @@
       if (newIdx >= 0 && newIdx < chaptersList.length) {
         const ch = chaptersList[newIdx];
         const params = getParams();
-        const dest = `reader.html?manga=${currentMangaSlug}&cap=${ch.number}&lang=${params.lang}`;
+        const dest = `/manga/${currentMangaSlug}/${ch.number}`;
         if (delta > 0) {
           ADS.showTransition(`Começar Capítulo ${ch.number} →`, () => {
             window.location.href = dest;

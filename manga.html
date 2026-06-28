@@ -266,8 +266,8 @@
               </div>
               ` : ''}
               <div style="display:flex; gap:12px; flex-wrap:wrap;">
-                ${firstCh ? '<a href="reader.html?manga=' + manga.id + '&cap=' + firstCh.number + '&lang=' + lang + '" class="btn btn-primary">📖 Começar Leitura</a>' : ''}
-                ${lastCh ? '<a href="reader.html?manga=' + manga.id + '&cap=' + lastCh.number + '&lang=' + lang + '" class="btn btn-secondary">Último Capítulo</a>' : ''}
+                ${firstCh ? '<a href="/manga/' + manga.id + '/' + firstCh.number + '" class="btn btn-primary">📖 Começar Leitura</a>' : ''}
+                ${lastCh ? '<a href="/manga/' + manga.id + '/' + lastCh.number + '" class="btn btn-secondary">Último Capítulo</a>' : ''}
                 <button class="btn btn-fav${isFav ? ' favorited' : ''}" onclick="toggleFavPage('${manga.id}')" id="favBtn">${isFav ? '♥ Favoritado' : '♡ Favoritar'}</button>
               </div>
             </div>
@@ -372,7 +372,7 @@
         list.forEach(function(c) {
           var item = document.createElement('a');
           item.className = 'chapter-item';
-          item.href = 'reader.html?manga=' + manga.id + '&cap=' + c.number + '&lang=' + lang;
+          item.href = '/manga/' + manga.id + '/' + c.number;
           item.innerHTML = '<div class="left"><span class="ch-num">Capítulo ' + c.number + '</span><span class="ch-title">' + (c.title || '') + '</span></div><div class="right"><span class="ch-date">' + (c.date ? c.date.substring(0, 10) : '') + '</span></div>';
           container.appendChild(item);
         });

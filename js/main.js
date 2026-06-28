@@ -41,9 +41,9 @@ function toggleFavorite(mangaId) {
 function isFavorite(mangaId) { return getFavorites().includes(mangaId); }
 
 // Continue Reading
-function saveProgress(mangaId, chapterId, pageIndex, totalPages) {
+function saveProgress(mangaId, chapterId, pageIndex, totalPages, chapterNumber) {
   const data = LS.get('continue', {});
-  data[mangaId] = { chapterId, pageIndex, totalPages, updatedAt: Date.now() };
+  data[mangaId] = { chapterId, chapterNumber, pageIndex, totalPages, updatedAt: Date.now() };
   LS.set('continue', data);
   if (window.currentUser) {
     if (window.authHistory) {
@@ -52,7 +52,7 @@ function saveProgress(mangaId, chapterId, pageIndex, totalPages) {
     fetch('/api/manga/history', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ mangaId, chapterId, pageIndex, totalPages })
+      body: JSON.stringify({ mangaId, chapterId, chapterNumber, pageIndex, totalPages })
     }).catch(() => {});
   }
 }
@@ -253,7 +253,7 @@ function renderMangaGrid(mangaList, containerId, listView = false) {
 function createChapterItem(chapter, mangaId, index) {
   const item = document.createElement('div');
   item.className = 'chapter-item';
-  item.onclick = () => window.location.href = `reader.html?manga=${mangaId}&chapter=${chapter.id}`;
+  item.onclick = () => window.location.href = `/manga/${mangaId}/${chapter.number}`;
   item.innerHTML = `
     <div class="left">
       <span class="ch-num">${chapter.number}</span>
@@ -283,16 +283,23 @@ document.addEventListener('DOMContentLoaded', () => {
     if (cleanHref === cp) a.classList.add('active');
   });
 
-  // Preserve language parameter in all relative links dynamically
+  // Preserve language parameter in all relative links dynamically.
+  // Exclui: links para páginas SSG /manga/<id>/ (não usam ?lang=) e links
+  // de capítulo /manga/<id>/<cap> (lang determinada pelo reader via localStorage).
   const langVal = LS.get('global_lang', 'all');
   if (langVal !== 'all') {
     document.querySelectorAll('a').forEach(a => {
       let href = a.getAttribute('href');
-      if (href && !href.startsWith('http') && !href.startsWith('#') && !href.startsWith('javascript:') && !href.includes('lang=')) {
-        const separator = href.includes('?') ? '&' : '?';
-        a.setAttribute('href', href + separator + 'lang=' + langVal);
-      }
+      if (!href || href.startsWith('http') || href.startsWith('#') || href.startsWith('javascript:') || href.includes('lang=')) return;
+      if (/^\/manga\/[a-z0-9-]+(\/\d|\/)?$/.test(href)) return;
+      const separator = href.includes('?') ? '&' : '?';
+      a.setAttribute('href', href + separator + 'lang=' + langVal);
     });
+  }
+
+  // Em páginas SSG /manga/<id>/, limpa ?lang= da URL sem recarregar.
+  if (/^\/manga\/[a-z0-9-]+\/$/.test(location.pathname) && location.search.includes('lang=')) {
+    history.replaceState(null, '', location.pathname);
   }
 
   initBackToTop();

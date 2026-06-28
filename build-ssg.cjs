@@ -379,14 +379,17 @@ ${chapterItems}
   <script src="/js/data-lite.js"></script>
   <script src="/js/main.js"></script>
   <script>
-    // Estado inicial do botão favoritar (main.js já carregado aqui)
-    (function() {
+    // Botão favoritar: atualiza agora (usuários sem login, localStorage imediato)
+    // e expõe _updateSsgFavBtn para ser chamado novamente após auth resolver.
+    window._ssgFavMangaId = '${htmlEscape(m.id)}';
+    window._updateSsgFavBtn = function() {
       var b = document.getElementById('favBtnSsg');
-      if (b && typeof isFavorite === 'function' && isFavorite('${htmlEscape(m.id)}')) {
-        b.textContent = '♥ Favoritado';
-        b.classList.add('favorited');
-      }
-    })();
+      if (!b || typeof isFavorite !== 'function') return;
+      var faved = isFavorite(window._ssgFavMangaId);
+      b.textContent = faved ? '♥ Favoritado' : '♡ Favoritar';
+      b.classList.toggle('favorited', faved);
+    };
+    window._updateSsgFavBtn();
     // Gate adulto: mesma lógica do manga.html. Se o mangá for +18 e o modo
     // adulto estiver desativado, exibe o modal de confirmação.
     (function() {

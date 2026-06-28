@@ -670,6 +670,7 @@ window.checkAuth = async function() {
         await fetchFavorites();
         await fetchHistory();
         renderHeaderControls();
+        if (typeof window._updateSsgFavBtn === 'function') window._updateSsgFavBtn();
         window.authChecked = true;
         return;
       }

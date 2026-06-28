@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="referrer" content="no-referrer">
   <title>MangaBankai — Meu Perfil</title>
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="/css/style.css">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>👤</text></svg>">
   <style>
     .profile-container {
@@ -231,18 +231,18 @@
 <body>
   <header class="header">
     <div class="header-inner">
-      <a href="index.html" class="logo"><img src="img/logo.png" alt="MangaBankai" class="logo-img"></a>
+      <a href="/" class="logo"><img src="/img/logo.png" alt="MangaBankai" class="logo-img"></a>
       <button class="header-hamburger" aria-label="Abrir menu" onclick="toggleHeaderMenu()">☰</button>
       <div class="header-menu" id="headerMenu">
       <nav class="nav">
-        <a href="index.html">Início</a>
-        <a href="catalog.html">Catálogo</a>
+        <a href="/">Início</a>
+        <a href="/catalog.html">Catálogo</a>
       </nav>
       </div>
       <div class="header-menu-overlay" id="headerMenuOverlay" onclick="toggleHeaderMenu()"></div>
       <div class="search-bar">
         <input type="text" id="searchInput" placeholder="Pesquisar mangás..." autocomplete="off">
-        <button class="search-btn" onclick="const q=document.getElementById('searchInput').value.trim();if(q)window.location.href='catalog.html?q='+encodeURIComponent(q)">🔍</button>
+        <button class="search-btn" onclick="const q=document.getElementById('searchInput').value.trim();if(q)window.location.href='/catalog.html?q='+encodeURIComponent(q)">🔍</button>
         <div class="search-dropdown" id="searchDropdown"></div>
       </div>
     </div>
@@ -264,7 +264,7 @@
           <h2 id="profileUsername">Nome de Usuário</h2>
           <span class="badge" id="profileRole">Leitor</span>
         </div>
-        <a href="admin.html" class="profile-admin-btn" id="profileAdminBtn" style="display:none;">⚙️ Painel de Administração</a>
+        <a href="/admin.html" class="profile-admin-btn" id="profileAdminBtn" style="display:none;">⚙️ Painel de Administração</a>
       </div>
 
       <!-- Tab Navigation -->
@@ -285,8 +285,8 @@
     </div>
   </main>
 
-  <script src="js/data.js"></script>
-  <script src="js/main.js"></script>
+  <script src="/js/data.js"></script>
+  <script src="/js/main.js"></script>
   <script>
     // Seletor de Abas
     function switchTab(tab) {

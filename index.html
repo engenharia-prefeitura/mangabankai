@@ -207,11 +207,11 @@
         if (!_crAdult && (_crAdultGenres.some(g => (manga.genres || []).includes(g)))) return '';
         const pct = prog.totalPages > 0 ? Math.min(100, Math.round((prog.pageIndex / prog.totalPages) * 100)) : 0;
         return `
-          <div class="continue-item" onclick="window.location.href='reader.html?manga=${mangaId}&chapter=${prog.chapterId}'">
+          <div class="continue-item" onclick="window.location.href='/manga/${mangaId}/${prog.chapterNumber != null ? prog.chapterNumber : prog.chapterId}'">
             <img src="${manga.cover}" alt="${manga.title}" referrerPolicy="no-referrer" onerror="this.src='https://placehold.co/50x68/1a1a1a/444?text=?'">
             <div class="ci-info">
               <h4>${manga.title}</h4>
-              <div class="ci-chap">Cap. ${prog.chapterId} · ${pct}%</div>
+              <div class="ci-chap">Cap. ${prog.chapterNumber != null ? prog.chapterNumber : prog.chapterId} · ${pct}%</div>
               <div class="ci-progress"><div class="ci-fill" style="width:${pct}%"></div></div>
             </div>
           </div>`;

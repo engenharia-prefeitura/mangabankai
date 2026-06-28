@@ -250,7 +250,8 @@ function renderPage(m, chObj) {
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:image" content="${attrEscape(absCover)}">
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📖</text></svg>">
+  <link rel="icon" type="image/png" href="/img/logo.png">
+  <link rel="apple-touch-icon" href="/img/logo.png">
   <script type="application/ld+json">${jsonLd(bookLd)}</script>
   <script type="application/ld+json">${jsonLd(breadcrumbLd)}</script>
   <script src="/js/pub.js"></script>

@@ -192,8 +192,7 @@
   width: 100%;
 }
 .reader-scroll .scroll-page {
-  margin-bottom: 8px;
-  border-radius: 4px;
+  margin-bottom: 0;
   overflow: hidden;
 }
 .reader-scroll .scroll-page .page-placeholder {

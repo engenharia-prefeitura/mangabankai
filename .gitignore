@@ -21,6 +21,10 @@ admin-progress.json
 # js/manga-search.json ← Removido do ignore
 # sitemap.xml      ← Removido do ignore
 
+# Páginas SSG geradas no build da Vercel (/manga/<id>/index.html) — não vão pro
+# git; são recriadas a cada deploy a partir de data.js + js/chapters/.
+/manga/
+
 # Logo original em alta (o site usa img/logo.png otimizada)
 /logo.png
 

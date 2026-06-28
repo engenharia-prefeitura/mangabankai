@@ -4,8 +4,10 @@
 
 const fs = require('fs');
 const path = require('path');
+// Lógica compartilhada: decide quais mangás têm página SSG / URL limpa.
+const { isEligible, cleanPath } = require('./build-ssg.cjs');
 
-const BASE_URL = process.env.SITE_URL || 'https://mangabankai.vercel.app';
+const BASE_URL = (process.env.SITE_URL || 'https://mangabankai.vercel.app').replace(/\/$/, '');
 const DATA_JS_PATH = path.join(__dirname, 'js', 'data.js');
 const SITEMAP_PATH = path.join(__dirname, 'sitemap.xml');
 
@@ -44,14 +46,15 @@ function buildSitemap() {
   urls.push({ loc: BASE_URL + '/', priority: '1.0', changefreq: 'daily' });
   urls.push({ loc: BASE_URL + '/catalog.html', priority: '0.9', changefreq: 'daily' });
 
-  // Uma URL por mangá (pula os ocultos marcados no próprio data)
+  // Uma URL por mangá (pula os ocultos marcados no próprio data).
+  // Elegíveis ao SSG (não-adultos, com capítulos) recebem a URL limpa
+  // /manga/<id>/; o restante mantém manga.html?id=... do SPA.
   for (const m of arr) {
     if (!m || !m.id || m.hidden) continue;
-    urls.push({
-      loc: BASE_URL + '/manga.html?id=' + encodeURIComponent(m.id),
-      priority: '0.7',
-      changefreq: 'weekly'
-    });
+    const loc = isEligible(m)
+      ? BASE_URL + cleanPath(m)
+      : BASE_URL + '/manga.html?id=' + encodeURIComponent(m.id);
+    urls.push({ loc, priority: '0.7', changefreq: 'weekly' });
   }
 
   const body = urls.map(u =>

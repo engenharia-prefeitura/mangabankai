@@ -1,5 +1,5 @@
 {
-  "buildCommand": "node build-lite.cjs && node build-home.cjs && node build-sitemap.cjs",
+  "buildCommand": "node build-lite.cjs && node build-home.cjs && node build-ssg.cjs && node build-sitemap.cjs",
   "outputDirectory": ".",
   "framework": null,
   "installCommand": "npm install",

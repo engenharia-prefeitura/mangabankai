@@ -252,6 +252,10 @@ function renderPage(m, chObj) {
   <link rel="stylesheet" href="/css/style.css">
   <link rel="icon" type="image/png" href="/img/logo.png">
   <link rel="apple-touch-icon" href="/img/logo.png">
+  <link rel="preconnect" href="https://www.highperformanceformat.com">
+  <link rel="preconnect" href="https://pl30096193.effectivecpmnetwork.com">
+  <link rel="dns-prefetch" href="https://www.highperformanceformat.com">
+  <link rel="dns-prefetch" href="https://pl30096193.effectivecpmnetwork.com">
   <script type="application/ld+json">${jsonLd(bookLd)}</script>
   <script type="application/ld+json">${jsonLd(breadcrumbLd)}</script>
   <script src="/js/pub.js"></script>

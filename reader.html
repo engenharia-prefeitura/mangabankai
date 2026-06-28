@@ -159,13 +159,15 @@
     // ========== URL PARAMS ==========
     function getParams() {
       const p = new URLSearchParams(window.location.search);
-      return { manga: p.get('manga'), chapter: p.get('chapter'), lang: p.get('lang') || 'en' };
+      // cap=<número> é a forma limpa; chapter=<id> mantido para retrocompatibilidade
+      const chapter = p.get('cap') || p.get('chapter');
+      return { manga: p.get('manga'), chapter, lang: p.get('lang') || 'en' };
     }
 
     // ========== INIT ==========
     (async function() {
       const params = getParams();
-      if (params.manga && params.chapter) {
+      if (params.manga && params.chapter != null) {
         await loadChapter(params.manga, params.chapter, params.lang);
       } else {
         document.getElementById('readerContent').innerHTML =
@@ -334,7 +336,7 @@
         const _desc = `Leia ${title} capítulo ${chapter.number} online em ${lang === 'pt' ? 'português' : 'inglês'} no MangaBankai.`;
         const _cover = (manga && manga.cover) || '';
         const _absCover = _cover && !/^https?:\/\//.test(_cover) ? (location.origin + _cover) : _cover;
-        const _url = `${location.origin}/reader.html?manga=${encodeURIComponent(slug)}&chapter=${encodeURIComponent(chapter.id)}&lang=${lang}`;
+        const _url = `${location.origin}/reader.html?manga=${encodeURIComponent(slug)}&cap=${encodeURIComponent(chapter.number)}&lang=${lang}`;
         const _set = (id, attr, val) => { const el = document.getElementById(id); if (el) el.setAttribute(attr, val); };
         _set('metaDesc', 'content', _desc);
         _set('ogTitle', 'content', _pageTitle + ' — MangaBankai');
@@ -347,12 +349,13 @@
 
       document.getElementById('readerTitle').textContent = title;
       document.getElementById('readerChapter').textContent = `Capítulo ${chapter.number}`;
-      document.getElementById('readerBackManga').href = `manga.html?id=${slug}`;
+      const _backManga = getManga(slug);
+      document.getElementById('readerBackManga').href = (_backManga && _backManga.ssg) ? `/manga/${slug}/` : `manga.html?id=${slug}`;
 
       // Chapter select
       const sel = document.getElementById('chapterSelect');
       sel.innerHTML = chaptersList.map(c =>
-        `<option value="${c.id}" ${c.id === chapter.id ? 'selected' : ''}>Capítulo ${c.number}</option>`
+        `<option value="${c.number}" ${c.number === chapter.number ? 'selected' : ''}>Capítulo ${c.number}</option>`
       ).join('');
 
       // Language select dropdown setup
@@ -400,25 +403,24 @@
       ADS.renderPopunder();
     }
 
-    function loadChapterBySelect(chapterId) {
+    function loadChapterBySelect(capNumber) {
       const params = getParams();
-      if (currentMangaSlug) window.location.href = `reader.html?manga=${currentMangaSlug}&chapter=${chapterId}&lang=${params.lang}`;
+      if (currentMangaSlug) window.location.href = `reader.html?manga=${currentMangaSlug}&cap=${capNumber}&lang=${params.lang}`;
     }
 
     function switchReaderLang(newLang) {
       const params = getParams();
       const newChapters = getChapters(currentMangaSlug, newLang);
-      let targetChapterId = null;
+      let targetCapNumber = null;
       if (currentChapter && newChapters.length > 0) {
         const matching = newChapters.find(c => c.number === currentChapter.number);
-        if (matching) targetChapterId = matching.id;
+        if (matching) targetCapNumber = matching.number;
       }
-      if (!targetChapterId && newChapters.length > 0) {
-        // Fallback to first chapter in that language
-        targetChapterId = newChapters[newChapters.length - 1].id;
+      if (targetCapNumber == null && newChapters.length > 0) {
+        targetCapNumber = newChapters[newChapters.length - 1].number;
       }
-      if (targetChapterId) {
-        window.location.href = `reader.html?manga=${currentMangaSlug}&chapter=${targetChapterId}&lang=${newLang}`;
+      if (targetCapNumber != null) {
+        window.location.href = `reader.html?manga=${currentMangaSlug}&cap=${targetCapNumber}&lang=${newLang}`;
       }
     }
 
@@ -732,7 +734,7 @@
       if (newIdx >= 0 && newIdx < chaptersList.length) {
         const ch = chaptersList[newIdx];
         const params = getParams();
-        const dest = `reader.html?manga=${currentMangaSlug}&chapter=${ch.id}&lang=${params.lang}`;
+        const dest = `reader.html?manga=${currentMangaSlug}&cap=${ch.number}&lang=${params.lang}`;
         if (delta > 0) {
           ADS.showTransition(`Começar Capítulo ${ch.number} →`, () => {
             window.location.href = dest;

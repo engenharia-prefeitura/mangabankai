@@ -220,7 +220,7 @@ function renderPage(m, chObj) {
 
   // Lista de capítulos (links para o leitor)
   const chapterItems = list.map(c => {
-    const href = `/reader.html?manga=${id}&chapter=${encodeURIComponent(c.id)}&lang=${lang}`;
+    const href = `/reader.html?manga=${id}&cap=${encodeURIComponent(c.number)}&lang=${lang}`;
     const date = c.date ? String(c.date).substring(0, 10) : '';
     return `<a class="chapter-item" href="${href}"><div class="left"><span class="ch-num">Capítulo ${htmlEscape(c.number)}</span><span class="ch-title">${htmlEscape(c.title || '')}</span></div><div class="right"><span class="ch-date">${htmlEscape(date)}</span></div></a>`;
   }).join('\n');
@@ -307,8 +307,8 @@ function renderPage(m, chObj) {
           <div class="stat"><div class="value">${htmlEscape(m.author || 'Desconhecido')}</div><div class="label">Autor</div></div>
         </div>
         <div class="actions" style="margin-top:20px; display:flex; gap:12px; flex-wrap:wrap;">
-          ${firstCh ? `<a href="/reader.html?manga=${id}&chapter=${encodeURIComponent(firstCh.id)}&lang=${lang}" class="btn btn-primary">📖 Começar Leitura</a>` : ''}
-          ${lastCh ? `<a href="/reader.html?manga=${id}&chapter=${encodeURIComponent(lastCh.id)}&lang=${lang}" class="btn btn-secondary">Último Capítulo</a>` : ''}
+          ${firstCh ? `<a href="/reader.html?manga=${id}&cap=${encodeURIComponent(firstCh.number)}&lang=${lang}" class="btn btn-primary">📖 Começar Leitura</a>` : ''}
+          ${lastCh ? `<a href="/reader.html?manga=${id}&cap=${encodeURIComponent(lastCh.number)}&lang=${lang}" class="btn btn-secondary">Último Capítulo</a>` : ''}
         </div>
       </div>
     </div>

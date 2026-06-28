@@ -323,15 +323,17 @@ function renderPage(m, chObj) {
   </div>
 
   <div class="detail-body container">
-    <h2>Sinopse</h2>
-    <div class="description">${htmlEscape(synopsis)}</div>
-    <div class="info-grid">
-      <div class="info-item"><label>Autor</label><span>${htmlEscape(m.author || 'Desconhecido')}</span></div>
-      <div class="info-item"><label>Artista</label><span>${htmlEscape(m.artist || m.author || 'Desconhecido')}</span></div>
-      <div class="info-item"><label>Ano de Lançamento</label><span>${htmlEscape(m.year || '-')}</span></div>
-      <div class="info-item"><label>Status</label><span>${statusLabel}</span></div>
-      <div class="info-item"><label>Total de Capítulos</label><span>${chCount}</span></div>
-      <div class="info-item"><label>Avaliação</label><span>★ ${htmlEscape(m.rating || 0)}</span></div>
+    <div class="detail-tab-content active">
+      <h2>Sinopse</h2>
+      <div class="description">${htmlEscape(synopsis)}</div>
+      <div class="info-grid">
+        <div class="info-item"><label>Autor</label><span>${htmlEscape(m.author || 'Desconhecido')}</span></div>
+        <div class="info-item"><label>Artista</label><span>${htmlEscape(m.artist || m.author || 'Desconhecido')}</span></div>
+        <div class="info-item"><label>Ano de Lançamento</label><span>${htmlEscape(m.year || '-')}</span></div>
+        <div class="info-item"><label>Status</label><span>${statusLabel}</span></div>
+        <div class="info-item"><label>Total de Capítulos</label><span>${chCount}</span></div>
+        <div class="info-item"><label>Avaliação</label><span>★ ${htmlEscape(m.rating || 0)}</span></div>
+      </div>
     </div>
 
     <div class="chapter-section">

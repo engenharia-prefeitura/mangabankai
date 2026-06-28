@@ -4,6 +4,9 @@
 
 const fs = require('fs');
 const path = require('path');
+// Mesma regra de elegibilidade do SSG: marca quais mangás têm página estática
+// /manga/<id>/ para os links internos apontarem direto pra URL limpa.
+const { isEligible } = require('./build-ssg.cjs');
 
 const DATA_JS_PATH   = path.join(__dirname, 'js', 'data.js');
 const LITE_JS_PATH   = path.join(__dirname, 'js', 'data-lite.js');
@@ -81,6 +84,7 @@ function slimManga(m) {
   };
   if (m.latestChapter != null) out.latestChapter = m.latestChapter;
   if (m.hidden) out.hidden = true;
+  if (isEligible(m)) out.ssg = 1; // tem página estática /manga/<id>/
   const d = m.description || m.descriptionPt || '';
   if (d) out.description = d.length > 180 ? d.slice(0, 180) : d;
   return out;

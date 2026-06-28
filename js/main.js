@@ -163,14 +163,22 @@ function renderCarousel(list, containerId) {
 
 // ========== MANGA CARD COMPONENT ==========
 
+// URL de detalhe do mangá. Se há página estática SSG (flag .ssg do data-lite),
+// usa a URL limpa /manga/<id>/ (melhor SEO; sem ?lang, a página escolhe PT).
+// Caso contrário, mantém o SPA manga.html?id=... preservando o idioma global.
+function mangaUrl(manga) {
+  if (!manga || !manga.id) return 'manga.html';
+  if (manga.ssg && /^[a-z0-9-]+$/.test(manga.id)) return '/manga/' + manga.id + '/';
+  const lang = LS.get('global_lang', 'all');
+  return 'manga.html?id=' + manga.id + (lang !== 'all' ? '&lang=' + lang : '');
+}
+
 function createMangaCard(manga, listView = false) {
   if (listView) return createMangaCardList(manga);
 
   const card = document.createElement('a');
   card.className = 'manga-card';
-  const currentLang = LS.get('global_lang', 'all');
-  const langSuffix = currentLang !== 'all' ? `&lang=${currentLang}` : '';
-  card.href = `manga.html?id=${manga.id}${langSuffix}`;
+  card.href = mangaUrl(manga);
 
   const badge = manga.status === 'ongoing'
     ? '<span class="badge ongoing">Em andamento</span>'
@@ -196,9 +204,7 @@ function createMangaCard(manga, listView = false) {
 function createMangaCardList(manga) {
   const card = document.createElement('a');
   card.className = 'manga-card list';
-  const currentLang = LS.get('global_lang', 'all');
-  const langSuffix = currentLang !== 'all' ? `&lang=${currentLang}` : '';
-  card.href = `manga.html?id=${manga.id}${langSuffix}`;
+  card.href = mangaUrl(manga);
 
   const badge = manga.status === 'ongoing' ? '<span class="badge ongoing">Em andamento</span>' : '<span class="badge completed">Completo</span>';
 
@@ -319,7 +325,7 @@ document.addEventListener('DOMContentLoaded', () => {
         dropdown.innerHTML = '<div class="s-item"><div class="s-info"><h4>Nenhum resultado</h4></div></div>';
       } else {
         dropdown.innerHTML = results.map(m => `
-          <div class="s-item" onclick="window.location.href='manga.html?id=${m.id}'">
+          <div class="s-item" onclick="window.location.href='${mangaUrl(m)}'">
             <img src="${m.cover}" alt="${m.title}" referrerPolicy="no-referrer" onerror="this.src='https://placehold.co/36x48/1a1a1a/444?text=N/A'">
             <div class="s-info">
               <h4>${m.title}</h4>

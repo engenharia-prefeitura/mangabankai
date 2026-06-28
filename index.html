@@ -301,8 +301,8 @@
             </div>
             <p class="hero-desc">${m.description || ''}</p>
             <div class="hero-actions">
-              <a href="manga.html?id=${m.id}" class="btn btn-primary">📖 Ler agora</a>
-              <a href="manga.html?id=${m.id}" class="btn btn-secondary">Detalhes</a>
+              <a href="${mangaUrl(m)}" class="btn btn-primary">📖 Ler agora</a>
+              <a href="${mangaUrl(m)}" class="btn btn-secondary">Detalhes</a>
             </div>
           </div>
         </div>`;

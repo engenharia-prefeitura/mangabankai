@@ -110,6 +110,58 @@ function showToast(message, duration = 2500) {
   toast._hide = setTimeout(() => toast.classList.remove('show'), duration);
 }
 
+// ========== COMPARTILHAR ==========
+// Usa a Web Share API (folha nativa do dispositivo, com todas as redes).
+// Em navegadores sem suporte, abre um menu com as principais redes + copiar.
+function shareLink(title, text, url) {
+  url = url || location.href;
+  text = text || title || '';
+  if (navigator.share) {
+    navigator.share({ title: title || document.title, text: text, url: url }).catch(function () {});
+    return;
+  }
+  openShareMenu(title, text, url);
+}
+
+function openShareMenu(title, text, url) {
+  var old = document.getElementById('shareMenuOverlay');
+  if (old) old.remove();
+  var enc = encodeURIComponent;
+  var nets = [
+    { name: '🟢 WhatsApp', bg: '#25D366', href: 'https://wa.me/?text=' + enc(text + ' ' + url) },
+    { name: '✈️ Telegram', bg: '#0088cc', href: 'https://t.me/share/url?url=' + enc(url) + '&text=' + enc(text) },
+    { name: '✖ X (Twitter)', bg: '#111', href: 'https://twitter.com/intent/tweet?url=' + enc(url) + '&text=' + enc(text) },
+    { name: '📘 Facebook', bg: '#1877F2', href: 'https://www.facebook.com/sharer/sharer.php?u=' + enc(url) }
+  ];
+  var overlay = document.createElement('div');
+  overlay.id = 'shareMenuOverlay';
+  overlay.style.cssText = 'position:fixed;inset:0;background:rgba(0,0,0,0.65);z-index:10000;display:flex;align-items:center;justify-content:center;padding:20px;';
+  overlay.onclick = function (e) { if (e.target === overlay) overlay.remove(); };
+  var box = document.createElement('div');
+  box.style.cssText = 'background:var(--bg-card,#16161f);border:1px solid var(--border,#262633);border-radius:16px;padding:24px;max-width:360px;width:100%;';
+  var heading = title ? ('Compartilhar: ' + title) : 'Compartilhar';
+  var html = '<h3 style="margin:0 0 16px;font-size:1.05rem;color:var(--text,#e8e8ef);overflow:hidden;text-overflow:ellipsis;white-space:nowrap">' + heading + '</h3><div style="display:flex;flex-direction:column;gap:10px">';
+  nets.forEach(function (n) {
+    html += '<a href="' + n.href + '" target="_blank" rel="noopener" style="padding:12px 14px;border-radius:10px;background:' + n.bg + ';color:#fff;text-decoration:none;font-weight:600;text-align:center">' + n.name + '</a>';
+  });
+  html += '<button id="shareCopyBtn" style="padding:12px 14px;border-radius:10px;background:rgba(255,255,255,0.08);color:var(--text,#e8e8ef);border:none;font-weight:600;cursor:pointer;font-family:inherit">📋 Copiar link</button></div>';
+  box.innerHTML = html;
+  overlay.appendChild(box);
+  document.body.appendChild(overlay);
+  document.getElementById('shareCopyBtn').onclick = function () {
+    if (navigator.clipboard) {
+      navigator.clipboard.writeText(url).then(function () { showToast('Link copiado!'); overlay.remove(); });
+    } else { prompt('Copie o link:', url); }
+  };
+}
+
+// Compartilha um mangá pelo id (usado em manga.html e nas páginas SSG).
+function shareManga(id) {
+  var m = (typeof getManga === 'function') ? getManga(id) : null;
+  var t = m ? m.title : 'MangaBankai';
+  shareLink(t, 'Leia ' + t + ' online grátis no MangaBankai 📖', location.href);
+}
+
 // ========== BACK TO TOP ==========
 
 function initBackToTop() {
@@ -203,7 +255,7 @@ function createMangaCard(manga, listView = false) {
 
   card.innerHTML = `
     <div class="cover">
-      <img src="${manga.cover}" alt="${manga.title}" referrerPolicy="no-referrer" loading="lazy" onerror="this.src='https://placehold.co/300x400/1a1a1a/444?text=?'">
+      <img src="${manga.cover}" alt="${manga.title}" referrerPolicy="no-referrer" loading="lazy" decoding="async" onerror="this.src='https://placehold.co/300x400/1a1a1a/444?text=?'">
       ${badge}
       <button class="fav-btn ${fav ? 'favorited' : ''}" onclick="event.preventDefault();event.stopPropagation();toggleFavCard('${manga.id}', this)" title="${fav ? 'Remover dos favoritos' : 'Adicionar aos favoritos'}">${fav ? '♥' : '♡'}</button>
     </div>
@@ -224,7 +276,7 @@ function createMangaCardList(manga) {
 
   card.innerHTML = `
     <div class="cover" style="position:relative">
-      <img src="${manga.cover}" alt="${manga.title}" referrerPolicy="no-referrer" loading="lazy" onerror="this.src='https://placehold.co/300x400/1a1a1a/444?text=?'">
+      <img src="${manga.cover}" alt="${manga.title}" referrerPolicy="no-referrer" loading="lazy" decoding="async" onerror="this.src='https://placehold.co/300x400/1a1a1a/444?text=?'">
       ${badge}
     </div>
     <div class="info">

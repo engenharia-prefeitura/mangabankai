@@ -791,6 +791,7 @@
         <div style="display:flex; gap:12px; justify-content:center; flex-wrap:wrap; margin-bottom:8px;">
           <button onclick="navChapter(-1)" ${hasPrev ? '' : 'disabled'} style="padding:12px 22px; border-radius:12px; border:1px solid var(--border,#333); background:rgba(255,255,255,0.05); color:var(--text,#eee); font-weight:600; cursor:${hasPrev ? 'pointer' : 'not-allowed'}; opacity:${hasPrev ? '1' : '0.4'};">‹ Capítulo Anterior</button>
           <a href="/manga.html?id=${encodeURIComponent(slug)}" style="padding:12px 22px; border-radius:12px; border:1px solid var(--border,#333); background:rgba(255,255,255,0.05); color:var(--text,#eee); font-weight:600; text-decoration:none; display:inline-flex; align-items:center;">📚 Todos os capítulos</a>
+          <button onclick="shareLink(document.getElementById('readerTitle').textContent + (currentChapter ? ' — Capítulo ' + currentChapter.number : ''), 'Leia este capítulo no MangaBankai 📖', location.href)" style="padding:12px 22px; border-radius:12px; border:1px solid var(--border,#333); background:rgba(255,255,255,0.05); color:var(--text,#eee); font-weight:600; cursor:pointer;">🔗 Compartilhar</button>
           <button onclick="navChapter(1)" ${hasNext ? '' : 'disabled'} style="padding:12px 26px; border-radius:12px; border:none; background:var(--accent,#6c63ff); color:#fff; font-weight:700; cursor:${hasNext ? 'pointer' : 'not-allowed'}; opacity:${hasNext ? '1' : '0.4'};">Próximo Capítulo ›</button>
         </div>`;
 

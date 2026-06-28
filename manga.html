@@ -270,6 +270,7 @@
                 ${firstCh ? '<a href="/manga/' + manga.id + '/' + firstCh.number + '" class="btn btn-primary">📖 Começar Leitura</a>' : ''}
                 ${lastCh ? '<a href="/manga/' + manga.id + '/' + lastCh.number + '" class="btn btn-secondary">Último Capítulo</a>' : ''}
                 <button class="btn btn-fav${isFav ? ' favorited' : ''}" onclick="toggleFavPage('${manga.id}')" id="favBtn">${isFav ? '♥ Favoritado' : '♡ Favoritar'}</button>
+                <button class="btn btn-secondary" onclick="shareManga('${manga.id}')">🔗 Compartilhar</button>
               </div>
             </div>
           </div>

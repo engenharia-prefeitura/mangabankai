@@ -312,6 +312,7 @@ function renderPage(m, chObj) {
           ${firstCh ? `<a href="/manga/${id}/${encodeURIComponent(firstCh.number)}" class="btn btn-primary">📖 Começar Leitura</a>` : ''}
           ${lastCh ? `<a href="/manga/${id}/${encodeURIComponent(lastCh.number)}" class="btn btn-secondary">Último Capítulo</a>` : ''}
           <button class="btn btn-fav" id="favBtnSsg" onclick="(function(){var now=toggleFavorite('${htmlEscape(m.id)}');var b=document.getElementById('favBtnSsg');b.textContent=now?'♥ Favoritado':'♡ Favoritar';b.classList.toggle('favorited',now);showToast(now?'Adicionado aos <span class=\\'toast-accent\\'>favoritos</span>':'Removido dos <span class=\\'toast-accent\\'>favoritos</span>');})()">♡ Favoritar</button>
+          <button class="btn btn-secondary" onclick="shareManga('${htmlEscape(m.id)}')">🔗 Compartilhar</button>
         </div>
       </div>
     </div>

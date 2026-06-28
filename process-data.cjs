@@ -114,7 +114,7 @@ async function loadChapters() {
   }
   chaptersLoading = true;
   try {
-    var res = await fetch('js/chapters.json');
+    var res = await fetch('/js/chapters.json');
     var raw = await res.json();
     var map = {};
     var suffixes = ['pt', 'es', 'fr', 'de', 'it', 'ru', 'zh', 'ja', 'ko', 'ar', 'hi', 'bn', 'id', 'ms', 'th', 'vi', 'tl'];

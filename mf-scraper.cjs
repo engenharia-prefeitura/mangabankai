@@ -301,7 +301,7 @@ let chaptersData = null;
 async function loadChapters() {
   if (chaptersData) return chaptersData;
   try {
-    var res = await fetch('js/chapters.json');
+    var res = await fetch('/js/chapters.json');
     var raw = await res.json();
     var map = {};
     Object.keys(raw).forEach(function(k) {

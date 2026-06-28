@@ -211,7 +211,7 @@ async function loadMfChapters() {
   }
   mfChaptersLoading = true;
   try {
-    var res = await fetch('js/mf-chapters-data.json');
+    var res = await fetch('/js/mf-chapters-data.json');
     var raw = await res.json();
     var out = {};
     Object.keys(raw).forEach(function(k) {
@@ -237,7 +237,7 @@ async function loadChapters(mangaId) {
   if (chaptersData[manga.id]) return chaptersData[manga.id];
 
   try {
-    var res = await fetch('js/chapters/' + manga.id + '.json');
+    var res = await fetch('/js/chapters/' + manga.id + '.json');
     var raw = await res.json();
     var mapped = {};
     Object.keys(raw).forEach(function(lang) {

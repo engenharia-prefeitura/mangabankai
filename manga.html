@@ -189,11 +189,8 @@
       // duplicado entre a URL limpa e manga.html?id=. A regra abaixo PRECISA
       // bater com isEligible() do build-ssg.cjs.
       try {
-        var SSG_ADULT = ['Hentai','Hentai 3D','Mangá Hentai','Incesto hentai','Adult','Adulto','+18','NSFW','Ecchi','Smut','Erotica','Erótico','Mature','Maduro','Yaoi','Yuri','Bara','Shota','Shotacon','Loli','Lolicon','Doujinshi','JAV','Ahegao','Netorare','Futanari','Succubus','BDSM','Sem Censura','Obsceno','Inseki','Mindbreak','Paizuri','Creampie','Gyaru','Dominatrix','Bondage','Gangbang','Grupal','Estupro','Sexual Violence','Mulher Overpower','Boquete','Masturbação','Tentáculos'];
-        var _isAdult = (manga.genres || []).some(function(g){ return SSG_ADULT.indexOf(g) !== -1; });
-        var _cleanId = /^[a-z0-9-]+$/.test(manga.id);
         var _hasChs = availableLangs.some(function(l){ return (chaptersData[mangaId][l] || []).length > 0; });
-        if (!manga.hidden && !_isAdult && _cleanId && _hasChs) {
+        if (!manga.hidden && /^[a-z0-9-]+$/.test(manga.id) && _hasChs) {
           var _clean = location.origin + '/manga/' + manga.id + '/';
           var _can2 = document.getElementById('canonical'); if (_can2) _can2.setAttribute('href', _clean);
           var _ogu = document.getElementById('ogUrl'); if (_ogu) _ogu.setAttribute('content', _clean);

@@ -4,8 +4,6 @@
 
 const fs = require('fs');
 const path = require('path');
-// Mesma regra de elegibilidade do SSG: marca quais mangás têm página estática
-// /manga/<id>/ para os links internos apontarem direto pra URL limpa.
 const { isEligible } = require('./build-ssg.cjs');
 
 const DATA_JS_PATH   = path.join(__dirname, 'js', 'data.js');

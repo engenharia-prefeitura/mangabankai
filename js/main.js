@@ -163,12 +163,11 @@ function renderCarousel(list, containerId) {
 
 // ========== MANGA CARD COMPONENT ==========
 
-// URL de detalhe do mangá. Se há página estática SSG (flag .ssg do data-lite),
-// usa a URL limpa /manga/<id>/ (melhor SEO; sem ?lang, a página escolhe PT).
-// Caso contrário, mantém o SPA manga.html?id=... preservando o idioma global.
+// URL de detalhe do mangá. Todos os mangás com id kebab-limpo têm página SSG
+// em /manga/<id>/. Os 13 com id "sujo" (url-encoded) continuam no SPA.
 function mangaUrl(manga) {
   if (!manga || !manga.id) return 'manga.html';
-  if (manga.ssg && /^[a-z0-9-]+$/.test(manga.id)) return '/manga/' + manga.id + '/';
+  if (/^[a-z0-9-]+$/.test(manga.id)) return '/manga/' + manga.id + '/';
   const lang = LS.get('global_lang', 'all');
   return 'manga.html?id=' + manga.id + (lang !== 'all' ? '&lang=' + lang : '');
 }

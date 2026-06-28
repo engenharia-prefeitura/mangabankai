@@ -95,9 +95,10 @@ function hasChapters(chObj) {
   return Object.keys(chObj).some(l => Array.isArray(chObj[l]) && chObj[l].length > 0);
 }
 // Decide se um mangá ganha página estática + URL limpa no sitemap.
+// Todos os mangás com id limpo e capítulos ganham SSG — adultos inclusive.
+// O gate de conteúdo adulto é feito via JS na página gerada (não exclui do SSG).
 function isEligible(m) {
   if (!m || !m.title || m.hidden) return false;
-  if (isAdult(m)) return false;
   if (!cleanId(m)) return false;
   return hasChapters(chaptersOf(m.id));
 }
@@ -376,6 +377,22 @@ ${chapterItems}
 
   <script src="/js/data-lite.js"></script>
   <script src="/js/main.js"></script>
+  <script>
+    // Gate adulto: mesma lógica do manga.html. Se o mangá for +18 e o modo
+    // adulto estiver desativado, exibe o modal de confirmação.
+    (function() {
+      const _adultGenres = ['Adulto','Hentai','Hentai 3D','Mangá Hentai','Incesto hentai','Adult','+18','NSFW','Ecchi','Smut','Erotica','Erótico','Mature','Maduro','Yaoi','Yuri','Bara','Shota','Shotacon','Loli','Lolicon','Doujinshi','JAV','Ahegao','Netorare','Futanari','Succubus','BDSM','Sem Censura','Obsceno','Inseki','Mindbreak','Paizuri','Creampie','Gyaru','Dominatrix','Bondage','Gangbang','Grupal','Estupro','Sexual Violence','Mulher Overpower','Boquete','Masturbação','Tentáculos'];
+      const _manga = getManga('${htmlEscape(m.id)}');
+      if (_manga && (_manga.genres || []).some(function(g){ return _adultGenres.indexOf(g) !== -1; })) {
+        if (!LS.get('adult_mode', false)) {
+          showAdultConfirmationModal(
+            function() { LS.set('adult_mode', true); },
+            function() { window.location.href = '/index.html'; }
+          );
+        }
+      }
+    })();
+  </script>
   <script>ADS.renderSocialBar();</script>
 </body>
 </html>

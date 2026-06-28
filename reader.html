@@ -263,7 +263,7 @@
             LS.set('adult_mode', true);
             window.location.reload();
           }, () => {
-            window.location.href = 'index.html';
+            window.location.href = '/';
           });
           return;
         }
@@ -354,7 +354,7 @@
 
       document.getElementById('readerTitle').textContent = title;
       document.getElementById('readerChapter').textContent = `Capítulo ${chapter.number}`;
-      document.getElementById('readerBackManga').href = /^[a-z0-9-]+$/.test(slug) ? `/manga/${slug}/` : `manga.html?id=${slug}`;
+      document.getElementById('readerBackManga').href = /^[a-z0-9-]+$/.test(slug) ? `/manga/${slug}/` : `/manga.html?id=${slug}`;
 
       // Chapter select
       const sel = document.getElementById('chapterSelect');
@@ -381,7 +381,7 @@
       document.getElementById('sidebarChapters').innerHTML = chaptersList.map(c => {
         const isRead = readChapters.includes(c.id);
         const readClass = isRead ? 'read' : '';
-        return `<button class="rs-chapter ${c.id === chapter.id ? 'active' : ''} ${readClass}" onclick="window.location.href='reader.html?manga=${slug}&chapter=${c.id}&lang=${lang}'">Capítulo ${c.number}</button>`;
+        return `<button class="rs-chapter ${c.id === chapter.id ? 'active' : ''} ${readClass}" onclick="window.location.href='/manga/${slug}/${c.number}'">Capítulo ${c.number}</button>`;
       }).join('');
 
       // Mark current chapter as read

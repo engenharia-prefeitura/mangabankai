@@ -312,9 +312,6 @@ function renderPage(m, chObj) {
           ${lastCh ? `<a href="/manga/${id}/${encodeURIComponent(lastCh.number)}" class="btn btn-secondary">Último Capítulo</a>` : ''}
           <button class="btn btn-fav" id="favBtnSsg" onclick="(function(){var now=toggleFavorite('${htmlEscape(m.id)}');var b=document.getElementById('favBtnSsg');b.textContent=now?'♥ Favoritado':'♡ Favoritar';b.classList.toggle('favorited',now);showToast(now?'Adicionado aos <span class=\\'toast-accent\\'>favoritos</span>':'Removido dos <span class=\\'toast-accent\\'>favoritos</span>');})()">♡ Favoritar</button>
         </div>
-        <script>
-          (function(){ var b=document.getElementById('favBtnSsg'); if(b&&isFavorite('${htmlEscape(m.id)}')){b.textContent='♥ Favoritado';b.classList.add('favorited');} })();
-        </script>
       </div>
     </div>
   </div>
@@ -382,6 +379,14 @@ ${chapterItems}
   <script src="/js/data-lite.js"></script>
   <script src="/js/main.js"></script>
   <script>
+    // Estado inicial do botão favoritar (main.js já carregado aqui)
+    (function() {
+      var b = document.getElementById('favBtnSsg');
+      if (b && typeof isFavorite === 'function' && isFavorite('${htmlEscape(m.id)}')) {
+        b.textContent = '♥ Favoritado';
+        b.classList.add('favorited');
+      }
+    })();
     // Gate adulto: mesma lógica do manga.html. Se o mangá for +18 e o modo
     // adulto estiver desativado, exibe o modal de confirmação.
     (function() {

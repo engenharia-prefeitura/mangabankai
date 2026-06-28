@@ -19,6 +19,13 @@
       ]
     },
     {
+      "id": "o-conto-do-erudito-chapter-1",
+      "number": 1,
+      "title": "Capítulo 1",
+      "date": "2026-06-28T06:32:31.698Z",
+      "pages": []
+    },
+    {
       "id": "o-conto-do-erudito-chapter-2",
       "number": 2,
       "title": "Capítulo 2",
@@ -1463,6 +1470,13 @@
         "https://cdn.leituramanga.net/o-conto-do-erudito/capitulo-202/page-12-1.webp",
         "https://cdn.leituramanga.net/o-conto-do-erudito/capitulo-202/page-12-2.webp"
       ]
+    },
+    {
+      "id": "o-conto-do-erudito-chapter-203",
+      "number": 203,
+      "title": "Capítulo 203",
+      "date": "2026-06-28T06:30:54.666Z",
+      "pages": []
     }
   ]
 }

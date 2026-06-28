@@ -159,14 +159,27 @@
     // ========== URL PARAMS ==========
     function getParams() {
       const p = new URLSearchParams(window.location.search);
+      let manga = p.get('manga');
       // cap=<número> é a forma limpa; chapter=<id> mantido para retrocompatibilidade
-      const chapter = p.get('cap') || p.get('chapter');
+      let chapter = p.get('cap') || p.get('chapter');
+
+      // Vercel rewrite é server-side: o browser mantém a URL limpa /manga/<id>/<cap>
+      // sem query string. Parseamos o pathname quando os params não estão presentes.
+      if (!manga) {
+        const parts = window.location.pathname.split('/').filter(Boolean);
+        // pathname: ['manga', '<id>', '<cap>']
+        if (parts[0] === 'manga' && parts.length >= 3) {
+          manga = parts[1];
+          if (chapter == null) chapter = parts[2];
+        }
+      }
+
       // lang: explícito na URL > preferência salva > 'en'
       let lang = p.get('lang');
       if (!lang) {
         try { const v = localStorage.getItem('ms_global_lang'); if (v) { const pv = JSON.parse(v); if (pv !== 'all') lang = pv; } } catch(e) {}
       }
-      return { manga: p.get('manga'), chapter, lang: lang || 'en' };
+      return { manga, chapter, lang: lang || 'en' };
     }
 
     // ========== INIT ==========

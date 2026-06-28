@@ -1,6 +1,293 @@
 {
   "pt": [
     {
+      "id": "papai-e-muito-forte-chapter-1",
+      "number": 1,
+      "title": "Capítulo 1",
+      "date": "2026-06-27T16:03:05.668Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-2",
+      "number": 2,
+      "title": "Capítulo 2",
+      "date": "2026-06-27T16:03:43.448Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-3",
+      "number": 3,
+      "title": "Capítulo 3",
+      "date": "2026-06-27T16:04:14.067Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-4",
+      "number": 4,
+      "title": "Capítulo 4",
+      "date": "2026-06-27T16:04:39.356Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-5",
+      "number": 5,
+      "title": "Capítulo 5",
+      "date": "2026-06-27T16:05:11.669Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-6",
+      "number": 6,
+      "title": "Capítulo 6",
+      "date": "2026-06-27T16:07:08.092Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-7",
+      "number": 7,
+      "title": "Capítulo 7",
+      "date": "2026-06-27T16:07:41.575Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-8",
+      "number": 8,
+      "title": "Capítulo 8",
+      "date": "2026-06-27T16:08:17.557Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-9",
+      "number": 9,
+      "title": "Capítulo 9",
+      "date": "2026-06-27T16:08:49.103Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-10",
+      "number": 10,
+      "title": "Capítulo 10",
+      "date": "2026-06-27T16:09:15.093Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-11",
+      "number": 11,
+      "title": "Capítulo 11",
+      "date": "2026-06-27T16:09:42.423Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-12",
+      "number": 12,
+      "title": "Capítulo 12",
+      "date": "2026-06-27T16:10:10.937Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-13",
+      "number": 13,
+      "title": "Capítulo 13",
+      "date": "2026-06-27T16:10:39.978Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-14",
+      "number": 14,
+      "title": "Capítulo 14",
+      "date": "2026-06-27T16:11:04.198Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-15",
+      "number": 15,
+      "title": "Capítulo 15",
+      "date": "2026-06-27T16:11:38.694Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-16",
+      "number": 16,
+      "title": "Capítulo 16",
+      "date": "2026-06-27T16:12:08.106Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-17",
+      "number": 17,
+      "title": "Capítulo 17",
+      "date": "2026-06-27T16:12:35.560Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-18",
+      "number": 18,
+      "title": "Capítulo 18",
+      "date": "2026-06-27T16:13:18.051Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-19",
+      "number": 19,
+      "title": "Capítulo 19",
+      "date": "2026-06-27T16:14:00.866Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-20",
+      "number": 20,
+      "title": "Capítulo 20",
+      "date": "2026-06-27T16:14:17.866Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-21",
+      "number": 21,
+      "title": "Capítulo 21",
+      "date": "2026-06-27T16:14:42.627Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-22",
+      "number": 22,
+      "title": "Capítulo 22",
+      "date": "2026-06-27T16:15:00.979Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-23",
+      "number": 23,
+      "title": "Capítulo 23",
+      "date": "2026-06-27T16:15:29.732Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-24",
+      "number": 24,
+      "title": "Capítulo 24",
+      "date": "2026-06-27T16:16:35.075Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-25",
+      "number": 25,
+      "title": "Capítulo 25",
+      "date": "2026-06-27T16:17:02.923Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-26",
+      "number": 26,
+      "title": "Capítulo 26",
+      "date": "2026-06-27T16:17:30.756Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-27",
+      "number": 27,
+      "title": "Capítulo 27",
+      "date": "2026-06-27T16:18:01.770Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-28",
+      "number": 28,
+      "title": "Capítulo 28",
+      "date": "2026-06-27T16:18:26.215Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-29",
+      "number": 29,
+      "title": "Capítulo 29",
+      "date": "2026-06-27T16:18:51.386Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-30",
+      "number": 30,
+      "title": "Capítulo 30",
+      "date": "2026-06-27T16:19:21.702Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-31",
+      "number": 31,
+      "title": "Capítulo 31",
+      "date": "2026-06-27T16:20:14.410Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-32",
+      "number": 32,
+      "title": "Capítulo 32",
+      "date": "2026-06-27T16:20:36.878Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-33",
+      "number": 33,
+      "title": "Capítulo 33",
+      "date": "2026-06-27T16:21:04.851Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-34",
+      "number": 34,
+      "title": "Capítulo 34",
+      "date": "2026-06-27T16:21:40.650Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-35",
+      "number": 35,
+      "title": "Capítulo 35",
+      "date": "2026-06-27T16:22:19.348Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-36",
+      "number": 36,
+      "title": "Capítulo 36",
+      "date": "2026-06-27T16:22:40.360Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-37",
+      "number": 37,
+      "title": "Capítulo 37",
+      "date": "2026-06-27T16:22:59.715Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-38",
+      "number": 38,
+      "title": "Capítulo 38",
+      "date": "2026-06-27T16:23:31.206Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-39",
+      "number": 39,
+      "title": "Capítulo 39",
+      "date": "2026-06-27T16:24:00.089Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-40",
+      "number": 40,
+      "title": "Capítulo 40",
+      "date": "2026-06-27T16:24:40.538Z",
+      "pages": []
+    },
+    {
+      "id": "papai-e-muito-forte-chapter-41",
+      "number": 41,
+      "title": "Capítulo 41",
+      "date": "2026-06-27T16:25:08.842Z",
+      "pages": []
+    },
+    {
       "id": "papai-e-muito-forte-chapter-42",
       "number": 42,
       "title": "Capítulo 42",

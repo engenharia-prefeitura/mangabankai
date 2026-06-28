@@ -227,7 +227,7 @@ function renderPage(m, chObj) {
   }).join('\n');
 
   const coverImg = absCover
-    ? `<img src="${attrEscape(cover)}" alt="${attrEscape(m.title)}" referrerpolicy="no-referrer" onerror="this.src='https://placehold.co/300x400/1a1a1a/444?text=?'">`
+    ? `<img src="${attrEscape(cover)}" alt="${attrEscape(m.title)}" referrerpolicy="no-referrer" fetchpriority="high" decoding="async" onerror="this.src='https://placehold.co/300x400/1a1a1a/444?text=?'">`
     : `<img src="https://placehold.co/300x400/1a1a1a/444?text=?" alt="${attrEscape(m.title)}">`;
 
   return `<!DOCTYPE html>
@@ -288,7 +288,7 @@ function renderPage(m, chObj) {
   </div>
 
   <!-- BANNER 300x250 (Início da Página) -->
-  <div class="ad-banner-fixed" id="ad-ssg-300"></div>
+  <div class="ad-banner-fixed ad-300" id="ad-ssg-300"></div>
   <script>ADS.renderBanner300(document.getElementById('ad-ssg-300'));</script>
 
   <div class="manga-detail-hero" id="mangaHero">
@@ -333,7 +333,7 @@ function renderPage(m, chObj) {
     <div class="chapter-section">
       <div class="ch-toolbar"><h2>Lista de Capítulos (${chCount})</h2></div>
       <!-- NATIVE BANNER (Antes da Lista de Capítulos) -->
-      <div class="ad-banner-fixed" id="ad-ssg-native" style="margin:0 auto 16px;"></div>
+      <div class="ad-banner-fixed ad-native" id="ad-ssg-native" style="margin:0 auto 16px;"></div>
       <script>ADS.lazy(document.getElementById('ad-ssg-native'), ADS.renderNative);</script>
       <div class="chapter-list">
 ${chapterItems}

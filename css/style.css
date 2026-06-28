@@ -1993,6 +1993,13 @@ body.no-scroll {
   position: relative;
 }
 
+/* Reserva de altura por tamanho de anúncio — evita layout shift (CLS) quando o
+   criativo carrega. Especificidade 0,2,0 (> .ad-loading 0,1,0) para o espaço
+   reservado não encolher durante o shimmer. Não afeta o carregamento do ad. */
+.ad-banner-fixed.ad-728 { min-height: 90px; }
+.ad-banner-fixed.ad-300 { min-height: 250px; }
+.ad-banner-fixed.ad-native { min-height: 250px; }
+
 /* A2 — Shimmer de carregamento dos anúncios.
    Fica no fundo do container; o iframe (z-index:1) pinta por cima quando o
    anúncio carrega. min-height reserva o espaço e evita layout shift. */

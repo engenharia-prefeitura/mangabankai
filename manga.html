@@ -60,7 +60,7 @@
   </div>
 
   <!-- BANNER 300x250 (Início da Página) -->
-  <div class="ad-banner-fixed" id="ad-manga-300"></div>
+  <div class="ad-banner-fixed ad-300" id="ad-manga-300"></div>
   <script>ADS.renderBanner300(document.getElementById('ad-manga-300'));</script>
 
   <div class="manga-detail-hero" id="mangaHero">
@@ -239,7 +239,7 @@
         <div class="hero-bg"></div>
         <div class="container content">
           <div class="cover">
-            <img src="${manga.cover}" alt="${manga.title}" referrerPolicy="no-referrer" onerror="this.src='https://placehold.co/300x400/1a1a1a/444?text=?'">
+            <img src="${manga.cover}" alt="${manga.title}" referrerPolicy="no-referrer" fetchpriority="high" decoding="async" onerror="this.src='https://placehold.co/300x400/1a1a1a/444?text=?'">
           </div>
           <div class="hero-info">
             <h1>${manga.title}</h1>
@@ -351,7 +351,7 @@
             </div>
           </div>
           <!-- NATIVE BANNER (Antes da Lista de Capítulos) -->
-          <div class="ad-banner-fixed" id="ad-manga-native" style="margin: 0 auto 16px;"></div>
+          <div class="ad-banner-fixed ad-native" id="ad-manga-native" style="margin: 0 auto 16px;"></div>
           <div class="chapter-list" id="chList"></div>
         </div>
       `;

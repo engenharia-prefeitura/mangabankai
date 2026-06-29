@@ -201,7 +201,13 @@
     }).join('');
 
     // ========== CONTINUE READING ==========
-    (function() {
+    (async function() {
+      // Espera o login resolver (authChecked) para usar o histórico da CONTA (servidor)
+      // quando logado, em vez do localStorage — evita divergência com o perfil.
+      await new Promise(ok => {
+        if (window.authChecked) return ok();
+        const _t = setInterval(() => { if (window.authChecked) { clearInterval(_t); ok(); } }, 30);
+      });
       const entries = Object.entries(getAllProgress());
       if (entries.length === 0) return;
       const section = document.getElementById('continueSection');

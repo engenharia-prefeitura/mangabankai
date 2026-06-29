@@ -16,6 +16,8 @@
     "update": "node update-all.cjs",
     "scrape:pt": "node leituramanga-scraper.cjs",
     "scrape:pt-all": "node leituramanga-scraper.cjs --all",
+    "scrape:mdx": "node mangadex-scraper.cjs",
+    "scrape:mdx-all": "node mangadex-scraper.cjs --all",
     "admin": "node admin-server.cjs"
   },
   "dependencies": {

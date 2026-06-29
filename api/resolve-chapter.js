@@ -52,6 +52,17 @@ async function fetchPtChapterPages(slug, chNum) {
   return pages;
 }
 
+async function fetchMdxChapterPages(chapterId) {
+  // MangaDex@Home: pega baseUrl + hash + arquivos (URLs temporárias, resolvidas na hora).
+  const body = await fetchUrl('https://api.mangadex.org/at-home/server/' + chapterId);
+  const data = JSON.parse(body);
+  const base = data.baseUrl;
+  const hash = data.chapter && data.chapter.hash;
+  const files = (data.chapter && data.chapter.data) || [];
+  if (!base || !hash || !files.length) return [];
+  return files.map(fn => `${base}/data/${hash}/${fn}`);
+}
+
 async function fetchMlChapterPages(mlId) {
   const body = await fetchUrl(`${API_ML}/media?parent=${mlId}&per_page=100`);
   const media = JSON.parse(body);
@@ -126,7 +137,9 @@ module.exports = async (req, res) => {
       const chapObj = loadChaptersFile(mangaId);
       const ch = chapObj.pt && chapObj.pt.find(c => String(c.number) === String(chNum));
 
-      if (ch && ch.src === 'mangalivre' && ch.mlId) {
+      if (ch && ch.src === 'mangadex' && ch.mdxId) {
+        pages = await fetchMdxChapterPages(ch.mdxId);
+      } else if (ch && ch.src === 'mangalivre' && ch.mlId) {
         pages = await fetchMlChapterPages(ch.mlId);
       } else if (ch && ch.src === 'mundohentai') {
         return res.status(200).json({

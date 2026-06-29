@@ -20,12 +20,21 @@ function main() {
   
   // 2. Extrai novos capítulos do MangaFreak
   runCommand('node mf-chapter-scraper.cjs');
+
+  // 2.5. Atualiza Hentai20 (Inglês +18)
+  runCommand('node hentai20-scraper.cjs');
   
   // 3. Atualiza lançamentos e capítulos do Leitura Manga (Português)
   runCommand('node leituramanga-scraper.cjs');
   
   // 3.5. Atualiza lançamentos e capítulos do MangaLivre (Português)
   runCommand('node mangalivre-scraper.cjs');
+
+  // 3.7. Atualiza lançamentos e capítulos do MangaDex (Português)
+  runCommand('node mangadex-scraper.cjs');
+
+  // 3.9. Atualiza lançamentos e capítulos do MundoHentai (Português +18)
+  runCommand('node mundohentai-scraper.cjs');
   
   // 4. Une metadados de capas, sinopse, autores e gera o data.js atualizado
   runCommand('node merge-meta.cjs');

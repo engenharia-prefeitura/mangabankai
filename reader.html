@@ -291,16 +291,28 @@
       currentMangaSlug = slug;
       currentMangaData = manga;
 
-      // Get chapters for this slug
-      chaptersList = getChapters(slug, lang);
+      // Resolve a língua correta com base na disponibilidade de capítulos do mangá
+      let realLang = lang;
+      chaptersList = getChapters(slug, realLang);
       if (chaptersList.length === 0) {
-        // Try English fallback
-        chaptersList = getChapters(slug, 'en');
+        realLang = lang === 'pt' ? 'en' : 'pt';
+        chaptersList = getChapters(slug, realLang);
+      }
+      if (chaptersList.length === 0) {
+        const chData = window.chaptersData && window.chaptersData[slug];
+        if (chData) {
+          const availableLangs = Object.keys(chData).filter(l => Array.isArray(chData[l]) && chData[l].length > 0);
+          if (availableLangs.length > 0) {
+            realLang = availableLangs[0];
+            chaptersList = chData[realLang];
+          }
+        }
       }
       if (chaptersList.length === 0) {
         showError('Capítulos não encontrados para este mangá.');
         return;
       }
+      lang = realLang; // Atualiza a variável de escopo para as chamadas subsequentes
 
       // Find the specific chapter
       let chapter = chaptersList.find(c => c.id === chapterId);

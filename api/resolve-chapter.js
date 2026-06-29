@@ -116,6 +116,26 @@ function loadChaptersFile(mangaId) {
   return {};
 }
 
+async function fetchH20ChapterPages(chapterUrl) {
+  try {
+    const html = await fetchUrl(chapterUrl);
+    const readerM = html.match(/ts_reader\.run\(([\s\S]+?)\);/);
+    if (readerM) {
+      try {
+        const data = JSON.parse(readerM[1]);
+        if (data.sources && data.sources[0] && Array.isArray(data.sources[0].images)) {
+          return data.sources[0].images.map(img => img.trim());
+        }
+      } catch (e) {}
+    }
+    const pages = [];
+    for (const m of html.matchAll(/<img[^>]+src="([^"]+img\.hentai1\.io[^"]+)"/gi)) {
+      pages.push(m[1].trim());
+    }
+    return [...new Set(pages)];
+  } catch (e) { return []; }
+}
+
 module.exports = async (req, res) => {
   if (req.method !== 'GET') {
     return res.status(405).json({ success: false, error: 'Method not allowed' });
@@ -131,22 +151,41 @@ module.exports = async (req, res) => {
   try {
     let pages = [];
 
-    if (normalLang === 'en') {
-      pages = await fetchEnChapterPages(slug, chNum);
-    } else {
-      const chapObj = loadChaptersFile(mangaId);
-      const ch = chapObj.pt && chapObj.pt.find(c => String(c.number) === String(chNum));
+    // Tenta carregar o arquivo do capítulo primeiro para descobrir o src real
+    const chapObj = loadChaptersFile(mangaId);
+    const chList = chapObj[normalLang] || chapObj.pt || chapObj.en || [];
+    const ch = chList.find(c => String(c.number) === String(chNum));
 
-      if (ch && ch.src === 'mangadex' && ch.mdxId) {
-        pages = await fetchMdxChapterPages(ch.mdxId);
-      } else if (ch && ch.src === 'mangalivre' && ch.mlId) {
-        pages = await fetchMlChapterPages(ch.mlId);
-      } else if (ch && ch.src === 'mundohentai') {
+    if (ch) {
+      if (ch.pages && ch.pages.length > 0) {
+        pages = ch.pages;
+      } else if (ch.src === 'hentai20') {
+        if (ch.chapterUrl) {
+          pages = await fetchH20ChapterPages(ch.chapterUrl);
+        }
+      } else if (ch.src === 'mundohentai') {
+        // Se as páginas estiverem vazias e for mundohentai, retornamos o erro amigável de rodar localmente.
+        // Se as páginas estiverem salvas no JSON, o if acima (ch.pages.length > 0) já as retornou com sucesso.
         return res.status(200).json({
           success: false,
           error: 'Conteúdo MundoHentai não está disponível pelo site. Abra o painel admin localmente.',
           pages: []
         });
+      } else if (ch.src === 'mangadex' && ch.mdxId) {
+        pages = await fetchMdxChapterPages(ch.mdxId);
+      } else if (ch.src === 'mangalivre' && ch.mlId) {
+        pages = await fetchMlChapterPages(ch.mlId);
+      } else if (ch.src === 'leituramanga') {
+        pages = await fetchPtChapterPages(slug, chNum);
+      } else if (ch.src === 'mangafreak') {
+        pages = await fetchEnChapterPages(slug, chNum);
+      }
+    }
+
+    // Fallback caso não encontre o capítulo ou ele não tenha resolvido por src
+    if (pages.length === 0) {
+      if (normalLang === 'en') {
+        pages = await fetchEnChapterPages(slug, chNum);
       } else {
         pages = await fetchPtChapterPages(slug, chNum);
       }

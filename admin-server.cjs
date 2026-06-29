@@ -1062,8 +1062,7 @@ function parseH20ListPage(html) {
   return { slugs: [...slugs], totalPages };
 }
 
-function parseH20Post(html) {
-  // Título: og:title → strip sufixo do site
+function parseH20Post(html, mSlug) {
   let title = '';
   const ogT = html.match(/<meta[^>]+property="og:title"\s+content="([^"]+)"/i)
     || html.match(/<meta[^>]+content="([^"]+)"[^>]+property="og:title"/i);
@@ -1072,29 +1071,21 @@ function parseH20Post(html) {
       .replace(/\s*[-–|]\s*(hentai20\.io|Read.*Online).*$/i, '').trim();
   }
   if (!title) {
-    const h1 = html.match(/<h1[^>]*class="[^"]*post-title[^"]*"[^>]*>\s*([^<]+)/i);
+    const h1 = html.match(/<h1[^>]*class="entry-title"[^>]*>\s*([^<]+)/i);
     if (h1) title = decodeEntities(h1[1].trim());
   }
 
-  // Capa: og:image → .summary_image
   let cover = '';
   const ogImg = html.match(/<meta[^>]+property="og:image"\s+content="([^"]+)"/i)
     || html.match(/<meta[^>]+content="([^"]+)"[^>]+property="og:image"/i);
   if (ogImg) cover = ogImg[1];
-  if (!cover) {
-    const sm = html.match(/<div[^>]*class="[^"]*summary_image[^"]*"[^>]*>[\s\S]{0,500}?<img[^>]+src="([^"]+)"/i);
-    if (sm) cover = sm[1];
-  }
 
-  // Sinopse: og:description → .description-summary
   let description = '';
   const ogD = html.match(/<meta[^>]+property="og:description"\s+content="([^"]+)"/i)
     || html.match(/<meta[^>]+name="description"\s+content="([^"]+)"/i);
   if (ogD) description = decodeEntities(ogD[1].trim());
 
-  // Gêneros: Madara — links /manga-genre/, /genre/, /tag/
   const genreRefs = [
-    ...html.matchAll(/href="[^"]*\/manga-genre\/[^"/"]*\/"[^>]*>\s*([^<]+)\s*<\/a>/gi),
     ...html.matchAll(/href="[^"]*\/genres?\/[^"/"]*\/"[^>]*>\s*([^<]+)\s*<\/a>/gi),
     ...html.matchAll(/href="[^"]*\/tag\/[^"/"]*\/"[^>]*>\s*([^<]+)\s*<\/a>/gi)
   ];
@@ -1104,34 +1095,47 @@ function parseH20Post(html) {
   if (genres.length === 0) genres.push('Hentai');
   if (!genres.some(g => g.toLowerCase().includes('hentai'))) genres.unshift('Hentai');
 
-  // Status
-  const stM = html.match(/(Ongoing|Completed|On-Going|Complete)/i);
+  const stM = html.match(/Status\s*<\/b>\s*:\s*([^<]+)/i) || html.match(/(Ongoing|Completed|On-Going|Complete)/i);
   const status = stM && !stM[1].toLowerCase().includes('complet') ? 'ongoing' : 'completed';
 
-  // Capítulos (Madara: links /manga/{slug}/{chapter-slug}/)
-  const chapRefs = [...html.matchAll(/<a[^>]+href="(https?:\/\/hentai20\.io\/manga\/[^"]+\/[^"]+\/)"[^>]*>\s*([^<]+)/gi)];
-  const chapters = chapRefs.map(m => ({ url: m[1], title: decodeEntities(m[2].trim()) }))
-    .filter(c => !c.url.endsWith('/manga/' + c.url.split('/manga/')[1].split('/')[0] + '/'));
+  const chapMap = new Map();
+  const chapRefs = [...html.matchAll(/<a[^>]+href=\"(https?:\/\/hentai20\.io\/([a-z0-9-]+)-chapter-([0-9.]+)\/?)\"[^>]*>([\s\S]*?)<\/a>/gi)];
+  
+  for (const m of chapRefs) {
+    const url = m[1];
+    const numStr = m[3];
+    const rawText = m[4].replace(/<[^>]+>/g, '').replace(/Latest:\s*/i, '').trim();
+    const num = parseFloat(numStr) || 1;
+    
+    if (!chapMap.has(num) || rawText.length > chapMap.get(num).title.length) {
+      chapMap.set(num, {
+        url,
+        number: num,
+        title: rawText || `Chapter ${numStr}`
+      });
+    }
+  }
 
+  const chapters = [...chapMap.values()].sort((a, b) => b.number - a.number);
   return { title, cover, description, genres, status, chapters };
 }
 
 async function fetchH20ChapterPages(chapterUrl) {
   try {
     const html = await fetchH20Url(chapterUrl);
-    const pages = [];
-    // Madara: .wp-manga-chapter-img com data-src ou src
-    for (const m of html.matchAll(/<img[^>]+class="[^"]*wp-manga-chapter-img[^"]*"[^>]+(?:data-src|src)="([^"]+)"/gi)) {
-      if (m[1] && !m[1].includes('data:image')) pages.push(m[1].trim());
-    }
-    if (pages.length === 0) {
-      // Fallback: qualquer data-src dentro de .reading-content
-      const rdM = html.match(/<div[^>]*class="[^"]*reading-content[^"]*"[^>]*>([\s\S]+?)<div[^>]*class="[^"]*nav-links/i);
-      if (rdM) {
-        for (const pm of rdM[1].matchAll(/data-src="([^"]+)"/gi)) {
-          if (!pm[1].includes('data:image')) pages.push(pm[1].trim());
+    const readerM = html.match(/ts_reader\.run\(([\s\S]+?)\);/);
+    if (readerM) {
+      try {
+        const data = JSON.parse(readerM[1]);
+        if (data.sources && data.sources[0] && Array.isArray(data.sources[0].images)) {
+          return data.sources[0].images.map(img => img.trim());
         }
-      }
+      } catch (e) {}
+    }
+    
+    const pages = [];
+    for (const m of html.matchAll(/<img[^>]+src="([^"]+img\.hentai1\.io[^"]+)"/gi)) {
+      pages.push(m[1].trim());
     }
     return [...new Set(pages)];
   } catch (e) { return []; }
@@ -1204,28 +1208,24 @@ async function runH20Scrape(signal, mode) {
           source: 'hentai20'
         };
 
-        if (chapters.length > 1) {
-          // Série com múltiplos capítulos
-          const chapList = chapters.map((ch, i) => {
-            const nm = ch.title.match(/(\d+(?:\.\d+)?)/);
-            const num = nm ? parseFloat(nm[1]) : i + 1;
-            return { id: `${slug}-ch-${num}`, number: num, title: ch.title, date: new Date().toISOString(), pages: [], src: 'hentai20', chapterUrl: ch.url };
-          }).sort((a, b) => a.number - b.number);
-          mangaEntry.chaptersCount = chapList.length;
-          saveChaptersFile(slug, { en: chapList });
-        } else {
-          // Doujinshi single-chapter — busca páginas imediatamente
-          const chUrl = chapters.length === 1 ? chapters[0].url : `${BASE_H20}/manga/${slug}/chapter-1/`;
-          const pages = await fetchH20ChapterPages(chUrl);
-          await sleep(300);
-          saveChaptersFile(slug, { en: [{
-            id: `${slug}-chapter-1`, number: 1,
-            title: chapters.length > 0 ? chapters[0].title : 'Complete',
+        const chapList = [];
+        for (let j = 0; j < chapters.length; j++) {
+          const ch = chapters[j];
+          const pages = await fetchH20ChapterPages(ch.url);
+          chapList.push({
+            id: `${slug}-ch-${ch.number}`,
+            number: ch.number,
+            title: ch.title,
             date: new Date().toISOString(),
-            pages, src: 'hentai20', chapterUrl: chUrl
-          }]});
-          mangaEntry.chaptersCount = 1;
+            pages,
+            src: 'hentai20',
+            chapterUrl: ch.url
+          });
+          await sleep(350);
         }
+        chapList.sort((a, b) => a.number - b.number);
+        mangaEntry.chaptersCount = chapList.length;
+        saveChaptersFile(slug, { en: chapList });
 
         data.push(mangaEntry);
         existingSlugs.add(slug);
@@ -1507,13 +1507,14 @@ async function runMhScrape(signal, mode) {
         data.push(mangaEntry);
         existingSlugs.add(slug);
 
+        const pages = await fetchMhChapterPages(mhId, pageCount);
         saveChaptersFile(slug, {
           pt: [{
             id: `${slug}-chapter-1`,
             number: 1,
             title: 'Completo',
             date: new Date().toISOString(),
-            pages: [],
+            pages,
             src: 'mundohentai',
             mhId,
             pageCount

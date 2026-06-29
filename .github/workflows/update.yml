@@ -73,6 +73,16 @@ jobs:
           node mangadex-scraper.cjs $ARG || true
         shell: bash
 
+      - name: PT — MundoHentai
+        if: ${{ env.SHOULD_RUN == 'true' && github.event.inputs.target != 'en-only' && env.SCRAPE_LANG != 'en' }}
+        run: |
+          ARG=""
+          if [ "${{ env.SCRAPE_MODE }}" = "full" ]; then
+            ARG="--all"
+          fi
+          node mundohentai-scraper.cjs $ARG || true
+        shell: bash
+
       - name: EN — MangaFreak (lista)
         if: ${{ env.SHOULD_RUN == 'true' && github.event.inputs.target != 'pt-only' && env.SCRAPE_LANG != 'pt' }}
         run: |
@@ -86,6 +96,16 @@ jobs:
       - name: EN — MangaFreak (capítulos)
         if: ${{ env.SHOULD_RUN == 'true' && github.event.inputs.target != 'pt-only' && env.SCRAPE_LANG != 'pt' }}
         run: node mf-chapter-scraper.cjs || true
+
+      - name: EN — Hentai20
+        if: ${{ env.SHOULD_RUN == 'true' && github.event.inputs.target != 'pt-only' && env.SCRAPE_LANG != 'pt' }}
+        run: |
+          ARG=""
+          if [ "${{ env.SCRAPE_MODE }}" = "full" ]; then
+            ARG="--all"
+          fi
+          node hentai20-scraper.cjs $ARG || true
+        shell: bash
 
       - name: Mesclar metadados
         if: ${{ env.SHOULD_RUN == 'true' }}

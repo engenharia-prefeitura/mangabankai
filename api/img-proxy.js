@@ -63,7 +63,8 @@ module.exports = async (req, res) => {
       'placehold.co',
       'mundohentaioficial.com',
       'uploads.mangadex.org',
-      'hentai20.io'
+      'hentai20.io',
+      'hentai1.io'
     ];
     const isAllowed = allowed.some(domain => host === domain || host.endsWith('.' + domain));
     if (!isAllowed) {

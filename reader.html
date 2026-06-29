@@ -31,6 +31,8 @@
 </head>
 <body>
   <script>ADS.guard();</script>
+  <!-- Barra de progresso de leitura (preenche conforme rola) -->
+  <div id="readingProgress"></div>
   <!-- Main Site Header -->
   <header class="header">
     <div class="header-inner">
@@ -53,6 +55,9 @@
 
   <!-- Exit Fullscreen Floating Button -->
   <button id="exitFullscreenBtn" onclick="toggleFullscreen()" title="Sair da Tela Cheia">✕</button>
+
+  <!-- Voltar ao topo (rola o #readerContent) -->
+  <button id="readerTopBtn" onclick="document.getElementById('readerContent').scrollTo({top:0,behavior:'smooth'})" title="Voltar ao topo" aria-label="Voltar ao topo">↑</button>
 
   <div class="reader-wrapper">
     <!-- Sidebar Chapter List -->
@@ -857,6 +862,14 @@
     document.getElementById('readerContent')?.addEventListener('scroll', (e) => {
       const currentScroll = e.currentTarget.scrollTop;
       lastScrollTop = currentScroll;
+
+      // Barra de progresso + botão "voltar ao topo"
+      const _max = e.currentTarget.scrollHeight - e.currentTarget.clientHeight;
+      const _pct = _max > 0 ? (currentScroll / _max) * 100 : 0;
+      const _pb = document.getElementById('readingProgress');
+      if (_pb) _pb.style.width = _pct + '%';
+      const _tb = document.getElementById('readerTopBtn');
+      if (_tb) _tb.classList.toggle('visible', currentScroll > 400);
 
       // Barras de navegação ficam SEMPRE visíveis (sem auto-ocultar).
       document.querySelector('.reader-header')?.classList.remove('hide-bar');

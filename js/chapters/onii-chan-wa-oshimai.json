@@ -1,0 +1,1159 @@
+{
+  "pt": [
+    {
+      "number": "1",
+      "title": "",
+      "date": "2018-07-19",
+      "src": "mangadex",
+      "mdxId": "dd6682c3-739e-426c-9cac-4a66f4a0ca0d"
+    },
+    {
+      "number": "1.5",
+      "title": "",
+      "date": "2018-07-23",
+      "src": "mangadex",
+      "mdxId": "45d26df5-4888-44fb-be06-20a17098c426"
+    },
+    {
+      "number": "2",
+      "title": "",
+      "date": "2018-07-19",
+      "src": "mangadex",
+      "mdxId": "c28a3902-3913-489d-b9c3-3984610120c3"
+    },
+    {
+      "number": "3",
+      "title": "",
+      "date": "2018-07-19",
+      "src": "mangadex",
+      "mdxId": "ecaefabc-09b0-4260-afb4-d7aac8182d59"
+    },
+    {
+      "number": "4",
+      "title": "",
+      "date": "2018-07-19",
+      "src": "mangadex",
+      "mdxId": "4c43168f-424d-4f5c-8017-1b231c807719"
+    },
+    {
+      "number": "5",
+      "title": "",
+      "date": "2018-07-19",
+      "src": "mangadex",
+      "mdxId": "598bdfae-445a-4dc7-b70b-ff1242d8ef65"
+    },
+    {
+      "number": "5.5",
+      "title": "",
+      "date": "2018-07-23",
+      "src": "mangadex",
+      "mdxId": "9f430b19-85ed-46bf-a230-353267ca9a6f"
+    },
+    {
+      "number": "6",
+      "title": "",
+      "date": "2025-11-15",
+      "src": "mangadex",
+      "mdxId": "3f622c3f-027c-4ca3-bd80-5e6c0781518d"
+    },
+    {
+      "number": "6.5",
+      "title": "",
+      "date": "2018-07-25",
+      "src": "mangadex",
+      "mdxId": "51944cfa-0aa8-4d6f-a80e-0cb7b66f2320"
+    },
+    {
+      "number": "7",
+      "title": "",
+      "date": "2018-07-19",
+      "src": "mangadex",
+      "mdxId": "f546b490-8e9c-469c-ab66-00fb1c61bb12"
+    },
+    {
+      "number": "8",
+      "title": "Mahiro e o novo jogo",
+      "date": "2022-12-31",
+      "src": "mangadex",
+      "mdxId": "0448a3a8-3c64-48a2-92b9-aaf84a223856"
+    },
+    {
+      "number": "8.5",
+      "title": "",
+      "date": "2018-07-19",
+      "src": "mangadex",
+      "mdxId": "20c3c8da-7fda-4093-8bdf-441e9af2bb2b"
+    },
+    {
+      "number": "9",
+      "title": "",
+      "date": "2018-07-19",
+      "src": "mangadex",
+      "mdxId": "2e6d1631-333a-490c-81dd-8646ad580e65"
+    },
+    {
+      "number": "9.5",
+      "title": "",
+      "date": "2018-07-23",
+      "src": "mangadex",
+      "mdxId": "3a8a8abb-fee0-4266-ad75-d3355e774261"
+    },
+    {
+      "number": "10",
+      "title": "",
+      "date": "2018-07-23",
+      "src": "mangadex",
+      "mdxId": "15d63b1b-9eca-4614-bc35-7c69e4f12b68"
+    },
+    {
+      "number": "10.5",
+      "title": "",
+      "date": "2018-08-08",
+      "src": "mangadex",
+      "mdxId": "fceda726-d0d6-4c4d-ba1a-f7d0b109992f"
+    },
+    {
+      "number": "10.9",
+      "title": "",
+      "date": "2019-08-16",
+      "src": "mangadex",
+      "mdxId": "bfa1aafb-d03f-4fcd-9ae5-221aae15eb41"
+    },
+    {
+      "number": "11",
+      "title": "",
+      "date": "2018-08-07",
+      "src": "mangadex",
+      "mdxId": "b9ddc0f8-681f-4bd6-969e-47522336fb67"
+    },
+    {
+      "number": "12",
+      "title": "",
+      "date": "2018-08-07",
+      "src": "mangadex",
+      "mdxId": "5fa2f901-1f9c-4d06-8a4f-0c45ae6c1bf6"
+    },
+    {
+      "number": "12.5",
+      "title": "",
+      "date": "2019-08-20",
+      "src": "mangadex",
+      "mdxId": "67d31d68-b170-45d4-81ea-67b769258f42"
+    },
+    {
+      "number": "13",
+      "title": "",
+      "date": "2018-08-07",
+      "src": "mangadex",
+      "mdxId": "feabd6b7-c7a3-4981-93e6-5dda8cc45606"
+    },
+    {
+      "number": "14",
+      "title": "",
+      "date": "2018-08-17",
+      "src": "mangadex",
+      "mdxId": "2b415f62-59fe-4862-ae7c-d1a93cbe570f"
+    },
+    {
+      "number": "15",
+      "title": "",
+      "date": "2018-08-17",
+      "src": "mangadex",
+      "mdxId": "24ff26b9-793b-4446-9b8b-561ac2fbebfc"
+    },
+    {
+      "number": "15.5",
+      "title": "",
+      "date": "2019-08-20",
+      "src": "mangadex",
+      "mdxId": "009af42f-e8bf-4a00-8ea5-c64d7f403aa0"
+    },
+    {
+      "number": "16",
+      "title": "",
+      "date": "2018-09-08",
+      "src": "mangadex",
+      "mdxId": "8b6442ac-fd79-4bff-8920-533d83218eaa"
+    },
+    {
+      "number": "17",
+      "title": "",
+      "date": "2018-11-13",
+      "src": "mangadex",
+      "mdxId": "cd4e9a3c-35c6-4e14-94fe-5fa4354b406b"
+    },
+    {
+      "number": "18",
+      "title": "",
+      "date": "2018-11-13",
+      "src": "mangadex",
+      "mdxId": "af033c83-5ba7-46ae-9a28-e57368b553c4"
+    },
+    {
+      "number": "18.5",
+      "title": "",
+      "date": "2019-08-20",
+      "src": "mangadex",
+      "mdxId": "2b81a06e-9d64-463c-952f-72a6c1328478"
+    },
+    {
+      "number": "19",
+      "title": "",
+      "date": "2018-11-13",
+      "src": "mangadex",
+      "mdxId": "838951e6-d4c1-4f4d-b51e-726afaddc3ed"
+    },
+    {
+      "number": "20",
+      "title": "",
+      "date": "2018-11-17",
+      "src": "mangadex",
+      "mdxId": "f7fa8189-3d0e-44c3-9913-23c16ced8adf"
+    },
+    {
+      "number": "20.5",
+      "title": "",
+      "date": "2019-08-28",
+      "src": "mangadex",
+      "mdxId": "d6e99f8a-4e79-47ba-a8d0-746a95805064"
+    },
+    {
+      "number": "20.9",
+      "title": "",
+      "date": "2019-08-28",
+      "src": "mangadex",
+      "mdxId": "56607166-3499-4d4f-b99d-d8a03de92e2b"
+    },
+    {
+      "number": "21",
+      "title": "",
+      "date": "2018-11-17",
+      "src": "mangadex",
+      "mdxId": "4f216c75-29ee-4356-ada7-5f15e6779b09"
+    },
+    {
+      "number": "21.5",
+      "title": "",
+      "date": "2019-08-20",
+      "src": "mangadex",
+      "mdxId": "408b62d8-8511-4250-a579-dc1a79028fa2"
+    },
+    {
+      "number": "22",
+      "title": "",
+      "date": "2018-12-05",
+      "src": "mangadex",
+      "mdxId": "e63f743c-98a5-4963-9614-3139ccee2d5b"
+    },
+    {
+      "number": "22.5",
+      "title": "",
+      "date": "2019-02-09",
+      "src": "mangadex",
+      "mdxId": "4b30c647-ffaa-4af6-bedf-fe2fa51fdbae"
+    },
+    {
+      "number": "23",
+      "title": "",
+      "date": "2019-01-19",
+      "src": "mangadex",
+      "mdxId": "cec7f3d3-c889-446d-a58c-af738bde70c6"
+    },
+    {
+      "number": "24",
+      "title": "",
+      "date": "2019-02-09",
+      "src": "mangadex",
+      "mdxId": "d5cc659c-36e0-4d3f-867c-fcb30234fb2d"
+    },
+    {
+      "number": "24.5",
+      "title": "",
+      "date": "2019-04-06",
+      "src": "mangadex",
+      "mdxId": "2c7975ee-befe-4123-af7b-ba67c1b9add2"
+    },
+    {
+      "number": "25",
+      "title": "",
+      "date": "2019-04-06",
+      "src": "mangadex",
+      "mdxId": "21caae06-815e-47ba-80a6-f69cdacdfff2"
+    },
+    {
+      "number": "26",
+      "title": "",
+      "date": "2019-05-11",
+      "src": "mangadex",
+      "mdxId": "09f45530-409c-4e78-9bc4-2f954871774e"
+    },
+    {
+      "number": "27",
+      "title": "",
+      "date": "2019-05-11",
+      "src": "mangadex",
+      "mdxId": "af160ecb-dcd0-45a0-b4a1-889383ecf90f"
+    },
+    {
+      "number": "27.5",
+      "title": "",
+      "date": "2019-08-16",
+      "src": "mangadex",
+      "mdxId": "a08459f0-5804-4371-8c74-328b57135a3b"
+    },
+    {
+      "number": "27.99",
+      "title": "Onimai Bônus 7-8-9",
+      "date": "2025-10-16",
+      "src": "mangadex",
+      "mdxId": "e0ef59d2-e2ac-4734-abc2-a70649729fe6"
+    },
+    {
+      "number": "28",
+      "title": "",
+      "date": "2019-08-16",
+      "src": "mangadex",
+      "mdxId": "c39207bc-8728-48d3-bb1b-4bee9d352954"
+    },
+    {
+      "number": "28.1",
+      "title": "",
+      "date": "2019-12-25",
+      "src": "mangadex",
+      "mdxId": "43a75562-ffb7-4964-9f07-e55d89e78a09"
+    },
+    {
+      "number": "29",
+      "title": "",
+      "date": "2019-08-16",
+      "src": "mangadex",
+      "mdxId": "9bbc7479-9d3d-4d08-8972-6ef744776620"
+    },
+    {
+      "number": "30",
+      "title": "",
+      "date": "2019-08-16",
+      "src": "mangadex",
+      "mdxId": "06c03148-26f6-49ab-9f9e-22c36f61c12f"
+    },
+    {
+      "number": "30.5",
+      "title": "Extra",
+      "date": "2019-09-18",
+      "src": "mangadex",
+      "mdxId": "77fe040d-4925-47b2-aed7-6744399530df"
+    },
+    {
+      "number": "30.9",
+      "title": "Mini Extras dos Capítulos 21 a 27",
+      "date": "2019-09-18",
+      "src": "mangadex",
+      "mdxId": "5d968e7c-ce01-4fe0-956b-a99a19964465"
+    },
+    {
+      "number": "31",
+      "title": "Mahiro e as pernas encantadoras",
+      "date": "2019-10-24",
+      "src": "mangadex",
+      "mdxId": "33d2187f-52c0-476e-ae5e-3a5e2ff83d68"
+    },
+    {
+      "number": "32",
+      "title": "",
+      "date": "2019-11-06",
+      "src": "mangadex",
+      "mdxId": "37eaf972-225e-4945-802c-07f521de58a8"
+    },
+    {
+      "number": "33",
+      "title": "Mahiro e o dia dos namorados",
+      "date": "2019-12-07",
+      "src": "mangadex",
+      "mdxId": "6b3a29bb-3fd9-4331-947f-25fa645f14b2"
+    },
+    {
+      "number": "34",
+      "title": "",
+      "date": "2019-12-25",
+      "src": "mangadex",
+      "mdxId": "25dbb3d2-c842-4989-aaff-70d6b27b7626"
+    },
+    {
+      "number": "35",
+      "title": "Mahiro e a orientação das fortunas",
+      "date": "2020-03-02",
+      "src": "mangadex",
+      "mdxId": "013e002e-a3a2-4961-ba93-593fa4f1dc77"
+    },
+    {
+      "number": "35.4",
+      "title": "32.5 & 33.5 & Mini Extra",
+      "date": "2020-03-02",
+      "src": "mangadex",
+      "mdxId": "7e719cc9-e501-4516-bb18-bc0560981438"
+    },
+    {
+      "number": "35.5",
+      "title": "",
+      "date": "2020-03-24",
+      "src": "mangadex",
+      "mdxId": "7458cd9a-7960-426c-9ccd-45e3f715bca1"
+    },
+    {
+      "number": "36",
+      "title": "Mahiro e uma surpresa",
+      "date": "2020-04-01",
+      "src": "mangadex",
+      "mdxId": "d0ddd6ef-3522-4d76-8585-0cfc6584a25b"
+    },
+    {
+      "number": "37",
+      "title": "Mahiro e os hábitos femininos",
+      "date": "2020-04-24",
+      "src": "mangadex",
+      "mdxId": "446c1cc6-de5a-4f73-8052-5402c3ff5139"
+    },
+    {
+      "number": "37.5",
+      "title": "[TEMP 2]34.5 & 36.5 & Mini Extra (6 of 10)",
+      "date": "2020-04-24",
+      "src": "mangadex",
+      "mdxId": "ad2fd126-d039-49bd-805a-2ff01d4dd445"
+    },
+    {
+      "number": "38",
+      "title": "Mahiro curtindo as férias",
+      "date": "2020-05-06",
+      "src": "mangadex",
+      "mdxId": "882b742f-6450-440f-ae54-6709905d4e1e"
+    },
+    {
+      "number": "39",
+      "title": "Mahiro e um segredo importante",
+      "date": "2020-05-06",
+      "src": "mangadex",
+      "mdxId": "96d5a84d-1207-4b18-8a0c-1f1f51bc286f"
+    },
+    {
+      "number": "39.5",
+      "title": "[TEMP 3]37.5 & 38.5 & Mini Extra (9 of 10)",
+      "date": "2020-06-01",
+      "src": "mangadex",
+      "mdxId": "fe7324bb-324b-4501-9a36-00f2e0f3cdfd"
+    },
+    {
+      "number": "40",
+      "title": "Mahiro e um segredo importante (Parte 2)",
+      "date": "2020-06-01",
+      "src": "mangadex",
+      "mdxId": "04d4a1fe-b844-422a-919f-a7a7119add01"
+    },
+    {
+      "number": "40.5",
+      "title": "Mahiro e as calças",
+      "date": "2020-10-21",
+      "src": "mangadex",
+      "mdxId": "8f41478f-e61f-40d2-8b74-bd8d8792e719"
+    },
+    {
+      "number": "40.6",
+      "title": "Mini Extras",
+      "date": "2020-10-21",
+      "src": "mangadex",
+      "mdxId": "fa3fdab6-a472-4ab3-a7bc-84427b24f456"
+    },
+    {
+      "number": "40.8",
+      "title": "Mihari pula os anos",
+      "date": "2020-11-03",
+      "src": "mangadex",
+      "mdxId": "69171c17-1840-4af4-ba68-40d457a2908c"
+    },
+    {
+      "number": "40.9",
+      "title": "Ilustração bônus",
+      "date": "2020-11-06",
+      "src": "mangadex",
+      "mdxId": "431174d5-9e0e-4ec3-b309-ac1c9faf4633"
+    },
+    {
+      "number": "41",
+      "title": "Mahiro e o exame físico",
+      "date": "2020-07-03",
+      "src": "mangadex",
+      "mdxId": "48f8cf40-e836-4965-adc4-9f1939e35b7b"
+    },
+    {
+      "number": "42",
+      "title": "Mahiro e o presente das memórias",
+      "date": "2020-08-02",
+      "src": "mangadex",
+      "mdxId": "6825bc0c-9a2f-430c-a8c3-f4568b7423e5"
+    },
+    {
+      "number": "42.5",
+      "title": "Extras 41.3 + 41.7 e 42.5 e Mini extra (2 de 10)",
+      "date": "2020-11-17",
+      "src": "mangadex",
+      "mdxId": "dbd9082a-d770-4a6c-83b8-afd3cb5eaedd"
+    },
+    {
+      "number": "42.6",
+      "title": "Mahiro a um fio de cabelo do perigo!",
+      "date": "2020-11-24",
+      "src": "mangadex",
+      "mdxId": "3089ce00-1276-431b-b9ef-db80c9a358d4"
+    },
+    {
+      "number": "43",
+      "title": "Mahiro e as fragrâncias",
+      "date": "2020-12-24",
+      "src": "mangadex",
+      "mdxId": "f99f57d3-a096-4cb3-b01e-afb2a0a5313c"
+    },
+    {
+      "number": "44",
+      "title": "Mahiro e o churrasco secreto",
+      "date": "2020-12-24",
+      "src": "mangadex",
+      "mdxId": "110779f6-0351-44e2-af37-f76efde380af"
+    },
+    {
+      "number": "45",
+      "title": "Mahiro e a temporada de roupas novas",
+      "date": "2021-01-22",
+      "src": "mangadex",
+      "mdxId": "342bcbd6-73e8-4573-8ac1-a4ce3afc69a2"
+    },
+    {
+      "number": "46",
+      "title": "Mahiro e a coleção de figurinhas",
+      "date": "2021-02-22",
+      "src": "mangadex",
+      "mdxId": "fea69304-d451-4932-a12c-b4f47da6b20a"
+    },
+    {
+      "number": "50",
+      "title": "Mahiro e a aula de natação (Parte 2)",
+      "date": "2021-08-21",
+      "src": "mangadex",
+      "mdxId": "8c3f12c0-ac8e-4f8f-b3f6-76d0879b6937"
+    },
+    {
+      "number": "50.5",
+      "title": "Mahiro e a aula de natação (Extra)",
+      "date": "2021-08-21",
+      "src": "mangadex",
+      "mdxId": "d94c5c6a-8c3f-4fcd-8943-af7fe5cb35f2"
+    },
+    {
+      "number": "51",
+      "title": "Mahiro e a estação de chuvas",
+      "date": "2021-08-21",
+      "src": "mangadex",
+      "mdxId": "30720d82-cb3d-4fe8-bf38-e52aaa7de823"
+    },
+    {
+      "number": "52",
+      "title": "Mahiro e o jardinzinho",
+      "date": "2021-09-24",
+      "src": "mangadex",
+      "mdxId": "35dacba2-1fc6-4f1f-a7ae-1db0e1b23bbb"
+    },
+    {
+      "number": "53",
+      "title": "Mahiro e os ventos do norte e sol",
+      "date": "2021-11-16",
+      "src": "mangadex",
+      "mdxId": "7a210b87-37a2-4f12-8343-8c8957fb72ee"
+    },
+    {
+      "number": "53.5",
+      "title": "Meninos e meninas",
+      "date": "2021-12-28",
+      "src": "mangadex",
+      "mdxId": "c23842b8-daf8-4f98-8f91-f2925e9db935"
+    },
+    {
+      "number": "54",
+      "title": "Mahiro e as histórias sombrias da escola",
+      "date": "2021-12-28",
+      "src": "mangadex",
+      "mdxId": "f4627f7a-9523-4368-952d-2b858e296850"
+    },
+    {
+      "number": "55",
+      "title": "Mahiro e uma aventura de verão",
+      "date": "2022-01-23",
+      "src": "mangadex",
+      "mdxId": "6d5eb812-80e2-43c1-8dc1-42c0d0b2129f"
+    },
+    {
+      "number": "56",
+      "title": "Mahiro e a reunião do plano de batalha",
+      "date": "2022-02-19",
+      "src": "mangadex",
+      "mdxId": "6169c719-d728-4371-8ad2-20ade168c95a"
+    },
+    {
+      "number": "57",
+      "title": "Mahiro e a marinheira - Parte 1",
+      "date": "2022-05-27",
+      "src": "mangadex",
+      "mdxId": "d3b322ba-6d78-4610-84f4-1872e150359d"
+    },
+    {
+      "number": "58",
+      "title": "Mahiro e a Marinheira - Parte 2",
+      "date": "2022-07-31",
+      "src": "mangadex",
+      "mdxId": "a8cdfe5b-e17f-4a74-ac1b-ce9fc4bd925c"
+    },
+    {
+      "number": "59",
+      "title": "Mahiro e a limpeza da primavera",
+      "date": "2022-07-31",
+      "src": "mangadex",
+      "mdxId": "79e0c555-48fe-4566-a4e1-f728aa30b7d3"
+    },
+    {
+      "number": "60",
+      "title": "Mahiro e o dever de casa de verão",
+      "date": "2022-07-31",
+      "src": "mangadex",
+      "mdxId": "4f5cf42a-d10c-46e0-a92b-da9b25f918c4"
+    },
+    {
+      "number": "61",
+      "title": "Mahiro e o festival de verão",
+      "date": "2022-08-04",
+      "src": "mangadex",
+      "mdxId": "a42e5fa3-4d91-4c50-82ea-c60e46cb54c5"
+    },
+    {
+      "number": "61.5",
+      "title": "Extra: Aniversário de Mahiro",
+      "date": "2022-09-13",
+      "src": "mangadex",
+      "mdxId": "2007b60e-17da-4524-924e-cbd3974600ab"
+    },
+    {
+      "number": "62",
+      "title": "Mahiro e a estreia do segundo semestre",
+      "date": "2022-09-13",
+      "src": "mangadex",
+      "mdxId": "ace06edd-b316-478d-aa53-4304e4a9a4ea"
+    },
+    {
+      "number": "62.5",
+      "title": "Nemu e a Viagem de férias",
+      "date": "2023-05-13",
+      "src": "mangadex",
+      "mdxId": "4135ed05-c940-45ee-a46d-3ff583dbec34"
+    },
+    {
+      "number": "63",
+      "title": "Mahiro e a longa estadia devido à chuva",
+      "date": "2022-09-13",
+      "src": "mangadex",
+      "mdxId": "57e48c72-33b7-432c-99f2-83b666e6968d"
+    },
+    {
+      "number": "63.5",
+      "title": "Momiji e as roupas íntimas",
+      "date": "2023-05-13",
+      "src": "mangadex",
+      "mdxId": "26786cb2-3529-4317-bf3a-faf472302807"
+    },
+    {
+      "number": "64",
+      "title": "Mahiro e a Dieta Saudável",
+      "date": "2022-11-09",
+      "src": "mangadex",
+      "mdxId": "4a7fbe6c-64e7-400c-b8cb-c87847345c16"
+    },
+    {
+      "number": "65",
+      "title": "Mahiro vai ao festival cultural (Parte 1)",
+      "date": "2022-11-09",
+      "src": "mangadex",
+      "mdxId": "ad01b84d-290d-4857-82bd-c6d4a6299a8c"
+    },
+    {
+      "number": "66",
+      "title": "Mahiro vai ao festival cultural (Parte 2)",
+      "date": "2022-12-18",
+      "src": "mangadex",
+      "mdxId": "72d21020-5e1b-4279-8c49-a1cffc51930a"
+    },
+    {
+      "number": "66.5",
+      "title": "Os garotos e a mudança de gênero",
+      "date": "2023-05-13",
+      "src": "mangadex",
+      "mdxId": "634023b2-3c56-49a8-bc8c-b4d7e3716b76"
+    },
+    {
+      "number": "67",
+      "title": "Mahiro e o orgulho masculino",
+      "date": "2023-01-01",
+      "src": "mangadex",
+      "mdxId": "af7eace8-a297-411b-a791-e15473ca8295"
+    },
+    {
+      "number": "67.5",
+      "title": "Aniversário de Kaede",
+      "date": "2023-05-13",
+      "src": "mangadex",
+      "mdxId": "4237c224-f526-4ebc-b6ce-a5d942b71821"
+    },
+    {
+      "number": "68",
+      "title": "Mahiro e o mundo das fantasias",
+      "date": "2023-02-11",
+      "src": "mangadex",
+      "mdxId": "f0d51b16-b471-4747-ad8d-7fd61dc5bd81"
+    },
+    {
+      "number": "68.5",
+      "title": "Aniversário de Momiji",
+      "date": "2023-05-13",
+      "src": "mangadex",
+      "mdxId": "8eb1312e-4dfa-4d75-82aa-764582ad391d"
+    },
+    {
+      "number": "69",
+      "title": "Mahiro e o festival esportivo da juventude",
+      "date": "2023-03-31",
+      "src": "mangadex",
+      "mdxId": "2296fe9b-3294-476d-ac04-77c35906449a"
+    },
+    {
+      "number": "69.5",
+      "title": "Mahiro e um momento de glória",
+      "date": "2023-05-13",
+      "src": "mangadex",
+      "mdxId": "9d05553e-82a9-4ac9-81ae-b09c84d25206"
+    },
+    {
+      "number": "69.6",
+      "title": "Aniversário da Nayutan",
+      "date": "2023-05-13",
+      "src": "mangadex",
+      "mdxId": "01dbe73e-5e6d-497f-814d-20314def5f6d"
+    },
+    {
+      "number": "70",
+      "title": "Mahiro e a excursão de outono",
+      "date": "2023-03-31",
+      "src": "mangadex",
+      "mdxId": "015291df-a1be-4320-b347-5064ebc96717"
+    },
+    {
+      "number": "70.5",
+      "title": "Mahiro e a discussão sobre cosplays",
+      "date": "2023-05-26",
+      "src": "mangadex",
+      "mdxId": "f0ba5f7d-b026-4d35-9242-71b5d6853010"
+    },
+    {
+      "number": "70.6",
+      "title": "Mahiro e a noite de animes",
+      "date": "2023-05-26",
+      "src": "mangadex",
+      "mdxId": "7c6da5fc-a192-485e-814f-d20cb95bbc72"
+    },
+    {
+      "number": "70.7",
+      "title": "Livreto edição especial do Volume 07",
+      "date": "2023-05-26",
+      "src": "mangadex",
+      "mdxId": "6255f214-d837-4ab8-ac4c-6f9734a746a6"
+    },
+    {
+      "number": "71",
+      "title": "Mahiro e o hábito das selfies",
+      "date": "2023-06-27",
+      "src": "mangadex",
+      "mdxId": "5e9492ed-c3c3-4ba7-ac94-b8181f6b2b31"
+    },
+    {
+      "number": "71.5",
+      "title": "Especial",
+      "date": "2023-06-27",
+      "src": "mangadex",
+      "mdxId": "df4b8332-0fd2-4c54-8f43-33faec9fb904"
+    },
+    {
+      "number": "72",
+      "title": "Mahiro e as admirações",
+      "date": "2023-06-27",
+      "src": "mangadex",
+      "mdxId": "f37480db-e817-44b7-a84d-836cff5eb37a"
+    },
+    {
+      "number": "73",
+      "title": "Mahiro e os segredos de irmão mais velho",
+      "date": "2023-07-23",
+      "src": "mangadex",
+      "mdxId": "5e16b3b6-44c7-4191-ba58-f30ec7023dd6"
+    },
+    {
+      "number": "73.5",
+      "title": "Aniversário de Mahiro-chan (2023)",
+      "date": "2023-07-23",
+      "src": "mangadex",
+      "mdxId": "0fa67423-0c63-47df-a730-19565bb0d4d6"
+    },
+    {
+      "number": "74",
+      "title": "Mahiro e a noite das irmãs",
+      "date": "2023-09-08",
+      "src": "mangadex",
+      "mdxId": "91785d63-b2b1-4787-8981-78f18c57e75d"
+    },
+    {
+      "number": "74.1",
+      "title": "Blu-Ray Box Volume 1 Comic Extra",
+      "date": "2026-01-27",
+      "src": "mangadex",
+      "mdxId": "02e4f539-136a-49d9-9c95-579af9563cd7"
+    },
+    {
+      "number": "74.5",
+      "title": "Extra: Todos e o apagão",
+      "date": "2023-09-08",
+      "src": "mangadex",
+      "mdxId": "6266a940-a094-4fe6-b7b2-52b3cf6bea2e"
+    },
+    {
+      "number": "74.9",
+      "title": "Aniversário da Mihari",
+      "date": "2023-09-08",
+      "src": "mangadex",
+      "mdxId": "c114c201-e705-475a-acaf-19e90e05494e"
+    },
+    {
+      "number": "75",
+      "title": "Mahiro e o chamado sedutor",
+      "date": "2023-10-03",
+      "src": "mangadex",
+      "mdxId": "beca6579-7c19-44e4-86f5-f5524778742a"
+    },
+    {
+      "number": "76",
+      "title": "Mahiro por um triz",
+      "date": "2023-11-28",
+      "src": "mangadex",
+      "mdxId": "2e969745-6099-4a19-a10b-53c033d0cd2a"
+    },
+    {
+      "number": "77",
+      "title": "Mahiro e a festa de despedida",
+      "date": "2023-11-28",
+      "src": "mangadex",
+      "mdxId": "f4d413c6-b727-43d1-98e9-5cf6af1e9a17"
+    },
+    {
+      "number": "78",
+      "title": "Mahiro revisita os MMORPGs",
+      "date": "2024-02-06",
+      "src": "mangadex",
+      "mdxId": "b363fa02-2ce0-4c62-9343-1f5f85587f6e"
+    },
+    {
+      "number": "78.5",
+      "title": "Os garotos e os MMORPGs",
+      "date": "2024-02-06",
+      "src": "mangadex",
+      "mdxId": "023ebb4d-5e84-4a4a-bc68-4e73c904b307"
+    },
+    {
+      "number": "78.9",
+      "title": "Laboratório de Mihari",
+      "date": "2024-02-06",
+      "src": "mangadex",
+      "mdxId": "2ab3f93d-3075-413d-9ad4-1e80bf083161"
+    },
+    {
+      "number": "79",
+      "title": "Mahiro e o grupo das Gals",
+      "date": "2024-02-06",
+      "src": "mangadex",
+      "mdxId": "08024384-8cde-4fb3-943f-9e233f980763"
+    },
+    {
+      "number": "80",
+      "title": "Mahiro e o relacionamento secreto",
+      "date": "2024-02-06",
+      "src": "mangadex",
+      "mdxId": "69c111f2-3cdb-4524-acc9-e9bc0b9c9498"
+    },
+    {
+      "number": "80.8",
+      "title": "Mahiro e o crescimento da gangue das Gals",
+      "date": "2024-04-28",
+      "src": "mangadex",
+      "mdxId": "f65c69da-77a7-4b98-89e4-63d55676ed98"
+    },
+    {
+      "number": "81",
+      "title": "Mahiro e as visões conflitantes",
+      "date": "2024-04-28",
+      "src": "mangadex",
+      "mdxId": "072ac0d5-13a7-49ea-97ea-6547c71de812"
+    },
+    {
+      "number": "81.5",
+      "title": "Nova experiência",
+      "date": "2024-04-28",
+      "src": "mangadex",
+      "mdxId": "fa8a7390-2c49-496d-a4b4-39e7929f5f2c"
+    },
+    {
+      "number": "82",
+      "title": "Mahiro e uma noite silenciosa",
+      "date": "2024-10-06",
+      "src": "mangadex",
+      "mdxId": "03c0463d-a1c0-4490-b4ca-de889e94b11a"
+    },
+    {
+      "number": "82.5",
+      "title": "Especial",
+      "date": "2024-10-06",
+      "src": "mangadex",
+      "mdxId": "e3711a9d-28a7-41f6-8103-7b510f824357"
+    },
+    {
+      "number": "83",
+      "title": "Mahiro e a turnê de ano novo",
+      "date": "2024-10-06",
+      "src": "mangadex",
+      "mdxId": "2cd0d051-e1d6-4a56-a491-91a77e33e9a6"
+    },
+    {
+      "number": "83.9",
+      "title": "Minato-kun wa Oshimai?",
+      "date": "2024-12-31",
+      "src": "mangadex",
+      "mdxId": "aae710c3-e368-413e-9e7e-c8f903fff307"
+    },
+    {
+      "number": "84",
+      "title": "Mahiro e uma reunião estressante (Parte 1)",
+      "date": "2025-02-09",
+      "src": "mangadex",
+      "mdxId": "447ee185-e8c1-47bb-8778-801ed6b11020"
+    },
+    {
+      "number": "85",
+      "title": "Mahiro e uma reunião estressante (Parte 2)",
+      "date": "2025-02-09",
+      "src": "mangadex",
+      "mdxId": "fdb27e44-5c8b-47ef-82cd-46aae7a522c8"
+    },
+    {
+      "number": "85.5",
+      "title": "Especial",
+      "date": "2025-02-09",
+      "src": "mangadex",
+      "mdxId": "53c8a7f6-a6ac-4fe9-8a22-143fa9091acd"
+    },
+    {
+      "number": "86",
+      "title": "Mahiro e instintos maternos à flor da pele",
+      "date": "2025-05-25",
+      "src": "mangadex",
+      "mdxId": "3ed77bfb-e435-40b0-b9ed-a93321997bc0"
+    },
+    {
+      "number": "86.5",
+      "title": "Especial: Aniversário da Asahi",
+      "date": "2025-05-25",
+      "src": "mangadex",
+      "mdxId": "af80fe82-6b2a-4f82-b58c-522d6f2c921c"
+    },
+    {
+      "number": "86.9",
+      "title": "Minato-kun Wa Oshimai? 1.5",
+      "date": "2025-05-25",
+      "src": "mangadex",
+      "mdxId": "e05735a8-2f13-431f-9d24-ea35d2ce1300"
+    },
+    {
+      "number": "87",
+      "title": "Mahiro e as técnicas especiais",
+      "date": "2025-05-25",
+      "src": "mangadex",
+      "mdxId": "2fb91725-390a-4e0d-840f-d838de36f6b1"
+    },
+    {
+      "number": "88",
+      "title": "Mahiro e as atitudes românticas",
+      "date": "2025-05-25",
+      "src": "mangadex",
+      "mdxId": "b8ca27a2-38a5-4098-aeda-8f40ec058744"
+    },
+    {
+      "number": "88.5",
+      "title": "Especial",
+      "date": "2025-05-25",
+      "src": "mangadex",
+      "mdxId": "802e5340-1f19-4a3e-b37a-c272743706e7"
+    },
+    {
+      "number": "89",
+      "title": "Mahiro e uma visita domiciliar",
+      "date": "2025-05-25",
+      "src": "mangadex",
+      "mdxId": "28b44110-091d-46b5-896b-6b88f2af17e8"
+    },
+    {
+      "number": "90",
+      "title": "Mahiro e a comemoração da vitória",
+      "date": "2025-05-25",
+      "src": "mangadex",
+      "mdxId": "8f43df93-38eb-42e2-a7f7-1fab05c2f756"
+    },
+    {
+      "number": "90.5",
+      "title": "Extra",
+      "date": "2025-05-25",
+      "src": "mangadex",
+      "mdxId": "2194dd00-388a-4ca6-b5f7-0a06934c5524"
+    },
+    {
+      "number": "90.8",
+      "title": "Extra: Mahiro e a mamãe (Revisitando)",
+      "date": "2025-05-25",
+      "src": "mangadex",
+      "mdxId": "439ebd14-1100-4dd2-9765-fe4f55bc4f9b"
+    },
+    {
+      "number": "90.9",
+      "title": "Edição especial do volume 9",
+      "date": "2025-05-25",
+      "src": "mangadex",
+      "mdxId": "a655a487-b6b9-4a94-a7a9-2753afb5a9d7"
+    },
+    {
+      "number": "91",
+      "title": "Mahiro e o casamento",
+      "date": "2025-08-09",
+      "src": "mangadex",
+      "mdxId": "248d94f9-3035-417e-851b-1a5dcefafd17"
+    },
+    {
+      "number": "91.5",
+      "title": "Nemu e Nodoka",
+      "date": "2025-08-09",
+      "src": "mangadex",
+      "mdxId": "f66bd14b-6072-4ed5-ba57-4119c033aa51"
+    },
+    {
+      "number": "92",
+      "title": "Mahiro e o segredo de uma donzela",
+      "date": "2025-10-11",
+      "src": "mangadex",
+      "mdxId": "680cb8e7-364c-4edd-80b0-b6df43d6487b"
+    },
+    {
+      "number": "92.5",
+      "title": "Asahi e a puberdade",
+      "date": "2025-10-11",
+      "src": "mangadex",
+      "mdxId": "4636e4c8-61af-4367-919e-367413ffc5a2"
+    },
+    {
+      "number": "93",
+      "title": "Mahiro e um presente especial",
+      "date": "2025-10-11",
+      "src": "mangadex",
+      "mdxId": "f83e342c-0584-49e2-88a9-c9897f9c4fd4"
+    },
+    {
+      "number": "93.5",
+      "title": "Os garotos e uma segunda vez",
+      "date": "2025-10-11",
+      "src": "mangadex",
+      "mdxId": "fd54dd1b-5408-4d95-93cf-ce7678dbe06a"
+    },
+    {
+      "number": "94",
+      "title": "Mahiro e o novo ano escolar, de novo",
+      "date": "2025-12-31",
+      "src": "mangadex",
+      "mdxId": "0b142475-74f8-4caf-8498-845003fec078"
+    },
+    {
+      "number": "95",
+      "title": "Mahiro e a equipe de expedição universitária",
+      "date": "2025-12-31",
+      "src": "mangadex",
+      "mdxId": "48017161-b665-4d78-9daf-4b44669f1300"
+    },
+    {
+      "number": "95.5",
+      "title": "Miyo e o encontro",
+      "date": "2026-05-29",
+      "src": "mangadex",
+      "mdxId": "95a01635-4d0f-423c-93c6-219135614bd2"
+    },
+    {
+      "number": "95.9",
+      "title": "Minato-kun wa oshimai! 2",
+      "date": "2026-05-29",
+      "src": "mangadex",
+      "mdxId": "00126906-1fe9-4c56-86ca-3405baec2855"
+    },
+    {
+      "number": "96",
+      "title": "Mahiro e um pouco de gratidão",
+      "date": "2026-05-29",
+      "src": "mangadex",
+      "mdxId": "b720b6bf-56b2-4673-a1ca-a2a87e08f369"
+    },
+    {
+      "number": "97",
+      "title": "Mahiro e o limite da linha",
+      "date": "2026-05-29",
+      "src": "mangadex",
+      "mdxId": "66b1bb1d-fd30-4353-aefb-93234d95f169"
+    },
+    {
+      "number": "98",
+      "title": "Mahiro e a hospedagem",
+      "date": "2026-05-29",
+      "src": "mangadex",
+      "mdxId": "14ae0797-9109-459c-8610-e07145a66989"
+    },
+    {
+      "number": "98.5",
+      "title": "Mahiro e ser um fracassado",
+      "date": "2026-05-29",
+      "src": "mangadex",
+      "mdxId": "5bd2fd2c-449b-4e4b-8a39-f81f8380b04c"
+    },
+    {
+      "number": "99",
+      "title": "Mahiro e a autoestrada",
+      "date": "2026-05-29",
+      "src": "mangadex",
+      "mdxId": "577ce7eb-a428-4a03-86dd-5f92e10968e9"
+    },
+    {
+      "number": "99.5",
+      "title": "Mahiro e a licença",
+      "date": "2026-05-29",
+      "src": "mangadex",
+      "mdxId": "d0678828-ebd3-4a5e-96b8-2dac522d7cd3"
+    },
+    {
+      "number": "100",
+      "title": "Mahiro e um bom dia para um experimento",
+      "date": "2026-05-29",
+      "src": "mangadex",
+      "mdxId": "1f47932a-0767-4688-9df9-3c7438517fa9"
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "pt": [
+    {
+      "number": "1",
+      "title": "Goblin X Saia de Palha X Eu",
+      "date": "2024-02-05",
+      "src": "mangadex",
+      "mdxId": "10efa51b-f984-413f-9bc6-d10586aab6dc"
+    },
+    {
+      "number": "2",
+      "title": "Se Tornando Selvagem",
+      "date": "2024-02-05",
+      "src": "mangadex",
+      "mdxId": "66bdde6c-817a-4cf8-9c86-1b07fff6bcaa"
+    },
+    {
+      "number": "3",
+      "title": "Luta Até a Morte com o Hobgoblin",
+      "date": "2024-02-05",
+      "src": "mangadex",
+      "mdxId": "8ea8f365-cc7c-482b-bfc1-d97764835653"
+    },
+    {
+      "number": "4",
+      "title": "Estranho Egoísta",
+      "date": "2024-02-05",
+      "src": "mangadex",
+      "mdxId": "48963d83-ec56-4085-998c-e4830a1cbe33"
+    },
+    {
+      "number": "5",
+      "title": "Minha Primeira Morte no Novo Mundo",
+      "date": "2024-02-05",
+      "src": "mangadex",
+      "mdxId": "9b029cee-c2e6-497c-9f10-387d48801bce"
+    },
+    {
+      "number": "6",
+      "title": "Truque de Deus",
+      "date": "2024-02-05",
+      "src": "mangadex",
+      "mdxId": "6b4420af-08d9-4993-afe9-be1bbcab9829"
+    },
+    {
+      "number": "7",
+      "title": "É Difícil ser um Aventureiro",
+      "date": "2024-02-05",
+      "src": "mangadex",
+      "mdxId": "d2a4b038-c485-46c3-b210-2e9058760f02"
+    },
+    {
+      "number": "8",
+      "title": "O Mundo em Expansão",
+      "date": "2024-02-05",
+      "src": "mangadex",
+      "mdxId": "2c2a7b54-9edd-4851-9c0b-a541ec02a98d"
+    },
+    {
+      "number": "9",
+      "title": "Primeiro Pedido de Subjugação",
+      "date": "2024-02-05",
+      "src": "mangadex",
+      "mdxId": "a6af6172-5b6b-43be-8c5b-b8329ff88496"
+    },
+    {
+      "number": "10",
+      "title": "Escolha Imprudente",
+      "date": "2024-02-05",
+      "src": "mangadex",
+      "mdxId": "4a0a49a0-54a1-4f29-b35b-09cfe49bcd6a"
+    },
+    {
+      "number": "11",
+      "title": "Medo da Morte",
+      "date": "2024-02-05",
+      "src": "mangadex",
+      "mdxId": "0f690987-d604-4bb9-9ef7-003f83afad70"
+    },
+    {
+      "number": "12",
+      "title": "O lugar que Eu Devo Retornar",
+      "date": "2024-02-05",
+      "src": "mangadex",
+      "mdxId": "212bb14c-3ddb-480a-916a-58978f2799dc"
+    },
+    {
+      "number": "13",
+      "title": "O Auge das Artes Marciais ",
+      "date": "2024-02-05",
+      "src": "mangadex",
+      "mdxId": "d793ede5-7ef8-49d9-ba8f-529df6cf20dd"
+    },
+    {
+      "number": "14",
+      "title": "Perseguição",
+      "date": "2024-02-05",
+      "src": "mangadex",
+      "mdxId": "2844d6f4-9bb9-44ae-9e7e-f3fe89d7f247"
+    },
+    {
+      "number": "15",
+      "title": "O Preço da Vida",
+      "date": "2024-02-05",
+      "src": "mangadex",
+      "mdxId": "c4593fe2-2907-4b07-a549-048be92846ee"
+    },
+    {
+      "number": "16",
+      "title": "Trabalho Paralelo de Aventureiro",
+      "date": "2024-02-05",
+      "src": "mangadex",
+      "mdxId": "27702e32-8482-408c-b92b-01ea427106b5"
+    },
+    {
+      "number": "17",
+      "title": "Uma Lâmina Empurranda",
+      "date": "2024-02-05",
+      "src": "mangadex",
+      "mdxId": "15d6ffa6-3d67-449d-a4a7-e703adb75716"
+    },
+    {
+      "number": "18",
+      "title": "Transcenda-se",
+      "date": "2024-02-05",
+      "src": "mangadex",
+      "mdxId": "2586d53a-3b3e-4bef-ba75-559362a72128"
+    },
+    {
+      "number": "19",
+      "title": "Bem, é Claro que as Habilidades Surgem",
+      "date": "2024-02-05",
+      "src": "mangadex",
+      "mdxId": "873e15d9-ab71-4379-b270-91f531fd2d84"
+    },
+    {
+      "number": "20",
+      "title": "Arte Vista de Baixo",
+      "date": "2024-02-05",
+      "src": "mangadex",
+      "mdxId": "c6c6a0a9-3ae9-40b0-95a8-b213fa2105d4"
+    },
+    {
+      "number": "21",
+      "title": "A Presa Virou o Caçador",
+      "date": "2024-02-05",
+      "src": "mangadex",
+      "mdxId": "ec9624a5-38df-4e7d-adbc-e87140b76ef5"
+    },
+    {
+      "number": "22",
+      "title": "A Aparência do Vingador",
+      "date": "2024-02-05",
+      "src": "mangadex",
+      "mdxId": "0fd923cc-f6de-41a8-86cc-cc978684cbfd"
+    },
+    {
+      "number": "23",
+      "title": "No Fim da Batalha",
+      "date": "2024-02-05",
+      "src": "mangadex",
+      "mdxId": "09cb4808-9deb-4424-8a27-2c51b5ff4c32"
+    },
+    {
+      "number": "24",
+      "title": "A Direção dos Nossos Futuros",
+      "date": "2024-02-05",
+      "src": "mangadex",
+      "mdxId": "8f6b1b03-3fed-47fc-9760-a7d0f42b7dfb"
+    },
+    {
+      "number": "25",
+      "title": "Um Kanabo é para um Oni o que uma Arma de Aço Negro é Para Gons.",
+      "date": "2024-02-06",
+      "src": "mangadex",
+      "mdxId": "8cbb5e70-f28d-4ed3-ae79-2a58da008493"
+    },
+    {
+      "number": "26",
+      "title": "Lagarto de Pedra",
+      "date": "2024-02-06",
+      "src": "mangadex",
+      "mdxId": "dd3b244e-5bc4-43c1-906d-050ad8a14b00"
+    },
+    {
+      "number": "27",
+      "title": "O Herói Careca",
+      "date": "2024-02-06",
+      "src": "mangadex",
+      "mdxId": "cdb508de-a04c-41a9-a07b-cee7bcf9f2c5"
+    },
+    {
+      "number": "28",
+      "title": "Brilhando",
+      "date": "2022-02-20",
+      "src": "mangadex",
+      "mdxId": "12576371-4653-45f9-8695-b68bec7a7507"
+    },
+    {
+      "number": "29",
+      "title": "Despreparado",
+      "date": "2022-05-12",
+      "src": "mangadex",
+      "mdxId": "1c5b7f0c-b70d-4def-ad36-e5a86e6b6e17"
+    },
+    {
+      "number": "30",
+      "title": "Epílogo",
+      "date": "2022-05-30",
+      "src": "mangadex",
+      "mdxId": "f9628b88-bec0-4c61-a16a-4d64a690e41a"
+    },
+    {
+      "number": "31",
+      "title": "PRÓLOGO DA 2ª TEMPORADA",
+      "date": "2024-01-09",
+      "src": "mangadex",
+      "mdxId": "e2091a26-eabe-42f8-8f3a-00af7c2ec12e"
+    },
+    {
+      "number": "32",
+      "title": "NATUREZA HUMANA ABANDONADA",
+      "date": "2024-01-10",
+      "src": "mangadex",
+      "mdxId": "4ddc5ea1-a55d-47be-8768-d23a38c4241f"
+    },
+    {
+      "number": "33",
+      "title": "A descoberta do primeiro aldeão",
+      "date": "2024-01-10",
+      "src": "mangadex",
+      "mdxId": "89b4d539-72d1-46b3-90b7-1f04b5f81dfc"
+    },
+    {
+      "number": "34",
+      "title": "A Pousada Rural",
+      "date": "2024-01-11",
+      "src": "mangadex",
+      "mdxId": "fe9fca54-3971-45f6-94d2-a16adcd1fa68"
+    },
+    {
+      "number": "35",
+      "title": "Um lugar para onde voltar",
+      "date": "2024-01-11",
+      "src": "mangadex",
+      "mdxId": "9c1a9c56-96bf-4511-b53a-690063ae3589"
+    },
+    {
+      "number": "36",
+      "title": "Buraco Secreto",
+      "date": "2024-01-12",
+      "src": "mangadex",
+      "mdxId": "2f38a4f5-46f3-4d80-a1e4-5d6d3e8f1881"
+    },
+    {
+      "number": "37",
+      "title": "Para a emboscada",
+      "date": "2024-01-12",
+      "src": "mangadex",
+      "mdxId": "39ef102c-c557-49ca-819a-313987f290fb"
+    },
+    {
+      "number": "38",
+      "title": "Para a emboscada",
+      "date": "2024-01-12",
+      "src": "mangadex",
+      "mdxId": "a12c84e3-9a70-43d0-baf9-69bbb8ca152b"
+    },
+    {
+      "number": "39",
+      "title": "Paul ataca!",
+      "date": "2024-01-13",
+      "src": "mangadex",
+      "mdxId": "98866ccf-ad66-459e-a98c-8dbc33397c54"
+    },
+    {
+      "number": "40",
+      "title": "Um selvagem encurralado parte 1",
+      "date": "2024-01-13",
+      "src": "mangadex",
+      "mdxId": "3e3e4306-efca-4eb0-ae52-21b9c3cf8545"
+    },
+    {
+      "number": "41",
+      "title": "Um selvagem encurralado parte 2",
+      "date": "2024-01-13",
+      "src": "mangadex",
+      "mdxId": "9d2b401a-5dd6-4c74-b8c4-bc03a47c8203"
+    },
+    {
+      "number": "42",
+      "title": "Um selvagem encurralado parte 3",
+      "date": "2024-01-14",
+      "src": "mangadex",
+      "mdxId": "b1979043-e469-4da9-8cff-4c7c3d4274c2"
+    },
+    {
+      "number": "43",
+      "title": "Um novo encontro",
+      "date": "2024-01-14",
+      "src": "mangadex",
+      "mdxId": "533e48ea-fad7-403b-ab52-654465049c14"
+    },
+    {
+      "number": "44",
+      "title": "Cantina da Vila de Pesca",
+      "date": "2024-01-15",
+      "src": "mangadex",
+      "mdxId": "f9c3905a-220b-4d63-b248-011f436ed1ad"
+    },
+    {
+      "number": "45",
+      "title": "Células cerebrais  piscando",
+      "date": "2024-01-15",
+      "src": "mangadex",
+      "mdxId": "d55f3849-3d39-4681-ae43-29effe26928d"
+    },
+    {
+      "number": "46",
+      "title": "Provocação",
+      "date": "2024-01-16",
+      "src": "mangadex",
+      "mdxId": "d8a3bc59-1656-4e39-ba37-b3c08b2f73e5"
+    },
+    {
+      "number": "47",
+      "title": "O Duelo",
+      "date": "2024-02-09",
+      "src": "mangadex",
+      "mdxId": "57cda32b-1422-4513-afdf-18c2137261bb"
+    },
+    {
+      "number": "48",
+      "title": "Preparação",
+      "date": "2024-04-21",
+      "src": "mangadex",
+      "mdxId": "2f670535-96b8-4164-a18a-621eca39723e"
+    },
+    {
+      "number": "49",
+      "title": " instinto humano ",
+      "date": "2024-12-20",
+      "src": "mangadex",
+      "mdxId": "09c8c0d1-f538-4bf6-9153-5adcc738ded2"
+    },
+    {
+      "number": "50",
+      "title": "reunião",
+      "date": "2024-12-22",
+      "src": "mangadex",
+      "mdxId": "5ca21a45-80c0-47f7-a847-49fe3396ff23"
+    },
+    {
+      "number": "51",
+      "title": "reunião parte 2",
+      "date": "2024-12-23",
+      "src": "mangadex",
+      "mdxId": "76dcda60-a1ba-4d3f-b9f8-36a8399ae859"
+    },
+    {
+      "number": "52",
+      "title": "Após o treinamento de combate",
+      "date": "2024-12-23",
+      "src": "mangadex",
+      "mdxId": "4899dbf1-7742-44fd-bb16-272134a43b51"
+    },
+    {
+      "number": "53",
+      "title": "cidade do desejo ",
+      "date": "2024-12-24",
+      "src": "mangadex",
+      "mdxId": "87054dd3-28c1-4fea-8d83-8379c5d9ebcf"
+    },
+    {
+      "number": "54",
+      "title": "Coleta de informações",
+      "date": "2024-12-25",
+      "src": "mangadex",
+      "mdxId": "c5638ae7-4655-43a6-8f72-e50d7f015253"
+    },
+    {
+      "number": "55",
+      "title": "O Pedido da Guilda",
+      "date": "2024-12-26",
+      "src": "mangadex",
+      "mdxId": "471289d4-fef5-44de-bdd3-7a99517360a2"
+    },
+    {
+      "number": "56",
+      "title": "",
+      "date": "2025-07-01",
+      "src": "mangadex",
+      "mdxId": "1ae3f89f-6cdd-48ca-b3db-705e05cf73cf"
+    },
+    {
+      "number": "57",
+      "title": "Fuga Dramática ",
+      "date": "2025-08-15",
+      "src": "mangadex",
+      "mdxId": "fc863cbf-c212-44ab-b10f-7bd37b1c0280"
+    },
+    {
+      "number": "58",
+      "title": "A Melhor Oficina da Cidade",
+      "date": "2025-08-19",
+      "src": "mangadex",
+      "mdxId": "718fadb4-ac23-47f5-ada9-e7e595f29ca4"
+    },
+    {
+      "number": "59",
+      "title": "Mestre da Guilda",
+      "date": "2025-08-19",
+      "src": "mangadex",
+      "mdxId": "3609d2a3-ef8b-4ed7-925b-15296e1349af"
+    },
+    {
+      "number": "60",
+      "title": "Emden da Guilda do Submundo Verde",
+      "date": "2025-08-19",
+      "src": "mangadex",
+      "mdxId": "a52b2522-93e4-46db-ac1c-087478304657"
+    },
+    {
+      "number": "61",
+      "title": "As Profundezas de uma Floresta do Outro Mundo",
+      "date": "2025-08-19",
+      "src": "mangadex",
+      "mdxId": "3b8cb16b-cbc9-498b-822a-cb7a314a1f4d"
+    },
+    {
+      "number": "62",
+      "title": "Pela Pele dos Meus Dentes",
+      "date": "2025-10-07",
+      "src": "mangadex",
+      "mdxId": "e56aace9-9e87-4049-80a3-2c685165d63e"
+    },
+    {
+      "number": "63",
+      "title": "Símbolos De Poder",
+      "date": "2025-11-02",
+      "src": "mangadex",
+      "mdxId": "d5b0b1c6-cb55-4267-8580-7aa9bcff62d9"
+    },
+    {
+      "number": "64",
+      "title": "A Raposa Fantasma ",
+      "date": "2025-11-02",
+      "src": "mangadex",
+      "mdxId": "2c198c59-1c35-468c-908f-6c55bc4b566a"
+    },
+    {
+      "number": "65",
+      "title": "Limitador Cerebral",
+      "date": "2025-11-25",
+      "src": "mangadex",
+      "mdxId": "b8657720-6795-46e5-96cb-80ad5e846149"
+    },
+    {
+      "number": "66",
+      "title": "Ao Fim Da Batalha Feroz ",
+      "date": "2026-01-13",
+      "src": "mangadex",
+      "mdxId": "0df40b52-22e6-498a-8f8b-376142ef8675"
+    }
+  ]
+}

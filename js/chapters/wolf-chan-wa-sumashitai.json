@@ -1,0 +1,396 @@
+{
+  "pt": [
+    {
+      "number": "1",
+      "title": "Loba Solitária",
+      "date": "2023-04-02",
+      "src": "mangadex",
+      "mdxId": "d829a68f-ded9-4b93-b537-1fa929455647"
+    },
+    {
+      "number": "2",
+      "title": "Horóscopos e Guloseimas",
+      "date": "2023-04-14",
+      "src": "mangadex",
+      "mdxId": "c4c6be03-3d0f-4886-9e50-65ac0e4fb14d"
+    },
+    {
+      "number": "3",
+      "title": "Enfermaria e Guarda-Chuva compartilhados",
+      "date": "2023-05-11",
+      "src": "mangadex",
+      "mdxId": "0086f1ac-525a-4312-94ec-7d5b2cd09b22"
+    },
+    {
+      "number": "4",
+      "title": "Assento Vizinho e Café Preto",
+      "date": "2023-05-25",
+      "src": "mangadex",
+      "mdxId": "902ec32d-0a77-49fe-89ab-0e26fafbbb31"
+    },
+    {
+      "number": "5",
+      "title": "Boas músicas e banho de sol",
+      "date": "2023-10-16",
+      "src": "mangadex",
+      "mdxId": "5ca0f8b2-ea33-4d77-84da-7bcc55b8200f"
+    },
+    {
+      "number": "6",
+      "title": "Delinquentes e serviço diário",
+      "date": "2023-10-29",
+      "src": "mangadex",
+      "mdxId": "126ddc62-eaf3-4900-957a-d1e3294e8584"
+    },
+    {
+      "number": "7",
+      "title": "Mudanças e Encharcado",
+      "date": "2023-10-29",
+      "src": "mangadex",
+      "mdxId": "6909cafd-aecb-4ec8-b778-b42df0cb17a8"
+    },
+    {
+      "number": "8",
+      "title": "Prática de cozinha e escuta atenta",
+      "date": "2023-12-28",
+      "src": "mangadex",
+      "mdxId": "7a974b33-154a-4a61-8cde-46aaa9370022"
+    },
+    {
+      "number": "9",
+      "title": "Insetos e conversas sobre amor",
+      "date": "2023-12-28",
+      "src": "mangadex",
+      "mdxId": "e4e1b44a-15d8-4e69-b429-c1855c35e9d0"
+    },
+    {
+      "number": "10",
+      "title": "Loba solitária e Mesa partilhada",
+      "date": "2024-01-08",
+      "src": "mangadex",
+      "mdxId": "13d39e07-c17d-4d1a-9fec-f8f2ee84880b"
+    },
+    {
+      "number": "11",
+      "title": "Pecado e Basquete",
+      "date": "2024-01-08",
+      "src": "mangadex",
+      "mdxId": "4c656b2c-e852-41d7-bada-6a858b2b61d0"
+    },
+    {
+      "number": "12",
+      "title": "Teste Psicológico e mudança de personalidade",
+      "date": "2024-01-21",
+      "src": "mangadex",
+      "mdxId": "ddff82cc-0e16-4a18-bc08-db0ed1cfcf4b"
+    },
+    {
+      "number": "13",
+      "title": "Telefone novo e informação de contato.",
+      "date": "2024-01-27",
+      "src": "mangadex",
+      "mdxId": "f60fca99-e446-4160-adf6-4e19d3e9e296"
+    },
+    {
+      "number": "14",
+      "title": "Foto em grupo",
+      "date": "2024-02-21",
+      "src": "mangadex",
+      "mdxId": "73be8dde-6b14-4f71-9c2d-aee4c30364fb"
+    },
+    {
+      "number": "15",
+      "title": "Irmão e cachorro",
+      "date": "2024-02-21",
+      "src": "mangadex",
+      "mdxId": "0eb00ae4-6d33-4047-af93-c5001caf40e6"
+    },
+    {
+      "number": "16",
+      "title": "Pomerânia e Husky",
+      "date": "2024-02-21",
+      "src": "mangadex",
+      "mdxId": "a37de37d-20eb-4142-817f-c55fcedd8b12"
+    },
+    {
+      "number": "17",
+      "title": "Apenas assim, de pouco em pouco.",
+      "date": "2024-02-21",
+      "src": "mangadex",
+      "mdxId": "27fb290f-a493-4d2d-85dc-a31165659bd9"
+    },
+    {
+      "number": "18",
+      "title": "Vocês estão saindo?",
+      "date": "2024-04-23",
+      "src": "mangadex",
+      "mdxId": "51e7f1df-5d37-4174-a242-4236e1addb0b"
+    },
+    {
+      "number": "19",
+      "title": "Esquadrão de proteção Oshi",
+      "date": "2024-05-10",
+      "src": "mangadex",
+      "mdxId": "3c0bcacb-e04e-4b7a-a426-ee2abfaedc8f"
+    },
+    {
+      "number": "20",
+      "title": "Uniforme de verão e Líquido",
+      "date": "2024-07-18",
+      "src": "mangadex",
+      "mdxId": "2afe0c95-3315-44ce-bd96-ea68ddb631b2"
+    },
+    {
+      "number": "21",
+      "title": "Retrato e Mestre",
+      "date": "2024-07-18",
+      "src": "mangadex",
+      "mdxId": "d7a52b0c-8f02-4943-acdb-bc9a354ab42c"
+    },
+    {
+      "number": "22",
+      "title": "Planos e Finais",
+      "date": "2024-07-18",
+      "src": "mangadex",
+      "mdxId": "0736b6f1-ac16-4f3c-a038-e7c614249de3"
+    },
+    {
+      "number": "23",
+      "title": "Teste e interrogatório",
+      "date": "2024-07-18",
+      "src": "mangadex",
+      "mdxId": "38c072a6-28ef-4c4e-8b0b-d36913056891"
+    },
+    {
+      "number": "24",
+      "title": "Exame de admissão e Reunião",
+      "date": "2024-07-18",
+      "src": "mangadex",
+      "mdxId": "32bcfad5-e54b-4e45-b812-4957db9e697b"
+    },
+    {
+      "number": "25",
+      "title": "Um verão Inesquecível",
+      "date": "2024-07-18",
+      "src": "mangadex",
+      "mdxId": "25d4c00b-c480-4c9f-b512-ec9ab94acea0"
+    },
+    {
+      "number": "26",
+      "title": "Caminhada e Convite",
+      "date": "2024-07-18",
+      "src": "mangadex",
+      "mdxId": "590b46d1-3438-4937-a42e-4cadc535140d"
+    },
+    {
+      "number": "27",
+      "title": "Cães e Café",
+      "date": "2024-07-18",
+      "src": "mangadex",
+      "mdxId": "33074121-b2cc-4d6f-b3fd-c6fe9f7ae367"
+    },
+    {
+      "number": "28",
+      "title": "Casa e Irmã",
+      "date": "2024-07-18",
+      "src": "mangadex",
+      "mdxId": "bd00414d-bbcb-4f87-82e8-02722d4b1660"
+    },
+    {
+      "number": "29",
+      "title": "Arcade e Mascote",
+      "date": "2024-07-18",
+      "src": "mangadex",
+      "mdxId": "bff9e84f-b65d-4d76-bd8a-19aa8ae5c972"
+    },
+    {
+      "number": "30",
+      "title": "Planos e esperanças anteriores",
+      "date": "2024-07-18",
+      "src": "mangadex",
+      "mdxId": "7cf59dba-cf9e-4f21-bd71-46e40ec9a41d"
+    },
+    {
+      "number": "31",
+      "title": "Festival e Amigos",
+      "date": "2024-07-18",
+      "src": "mangadex",
+      "mdxId": "728c20c6-3a29-407f-9ed1-9374009e535e"
+    },
+    {
+      "number": "32",
+      "title": "Sparkles e uma promessa",
+      "date": "2024-07-18",
+      "src": "mangadex",
+      "mdxId": "7ad7c445-0abe-4087-a387-ee6d9d8f20c9"
+    },
+    {
+      "number": "33",
+      "title": "Auxiliar e Proteger",
+      "date": "2024-07-18",
+      "src": "mangadex",
+      "mdxId": "67eee101-78c4-465c-817e-14d3c2933cda"
+    },
+    {
+      "number": "34",
+      "title": "Dever de casa e irmãzinha",
+      "date": "2024-07-18",
+      "src": "mangadex",
+      "mdxId": "e86e55e6-63a2-4523-af27-0944e1c1a88c"
+    },
+    {
+      "number": "35",
+      "title": "Pressa e Fala",
+      "date": "2024-07-18",
+      "src": "mangadex",
+      "mdxId": "b6278870-7210-44ef-b870-f62e96e633fe"
+    },
+    {
+      "number": "36",
+      "title": "Digite e Relaxe",
+      "date": "2024-07-18",
+      "src": "mangadex",
+      "mdxId": "44bd928b-293b-4814-ae01-41dfa6920130"
+    },
+    {
+      "number": "37",
+      "title": "Sonho e declaração",
+      "date": "2024-07-18",
+      "src": "mangadex",
+      "mdxId": "0760a26a-3377-4cb3-9c9e-f32a04b15746"
+    },
+    {
+      "number": "38",
+      "title": "Presente de Aniversário e Saudade",
+      "date": "2024-07-18",
+      "src": "mangadex",
+      "mdxId": "9ebc852b-6c68-4432-ad3e-772baae1687d"
+    },
+    {
+      "number": "39",
+      "title": "Amigos e Amantes",
+      "date": "2024-07-18",
+      "src": "mangadex",
+      "mdxId": "69e49ed1-b472-4216-9340-79eccf80830c"
+    },
+    {
+      "number": "40",
+      "title": "Máscara e Especial",
+      "date": "2024-07-18",
+      "src": "mangadex",
+      "mdxId": "83befa98-bbda-4600-9038-ed1626c2da31"
+    },
+    {
+      "number": "41",
+      "title": "Fantasmas e Cafés",
+      "date": "2024-07-18",
+      "src": "mangadex",
+      "mdxId": "4ccfaf48-9a86-4df3-a687-35f594613352"
+    },
+    {
+      "number": "42",
+      "title": "Visual e personalidade",
+      "date": "2024-08-20",
+      "src": "mangadex",
+      "mdxId": "8628279f-6d8d-40c3-9e9f-d9ab983b047d"
+    },
+    {
+      "number": "43",
+      "title": "Cauteloso e despreocupado",
+      "date": "2024-08-20",
+      "src": "mangadex",
+      "mdxId": "1fea31cd-88b2-4b4c-8f18-774497ded0d0"
+    },
+    {
+      "number": "44",
+      "title": "Sorriso no atendimento e músculos faciais",
+      "date": "2024-08-26",
+      "src": "mangadex",
+      "mdxId": "fa059692-64f0-40d4-8dd5-c2726692e9c6"
+    },
+    {
+      "number": "45",
+      "title": "Avaliação e Isolamento",
+      "date": "2024-08-26",
+      "src": "mangadex",
+      "mdxId": "aa004c57-9ab4-4977-a9f8-77859fcc6eba"
+    },
+    {
+      "number": "46",
+      "title": "Bochechas e memórias.",
+      "date": "2024-10-10",
+      "src": "mangadex",
+      "mdxId": "2d5ad9fa-bc22-441b-9f0b-fea030733959"
+    },
+    {
+      "number": "47",
+      "title": "Traje e Extinção",
+      "date": "2024-11-22",
+      "src": "mangadex",
+      "mdxId": "da1d2dc5-b28f-41c8-abb7-ddfd471457ca"
+    },
+    {
+      "number": "48",
+      "title": "Novas informações e vivacidade",
+      "date": "2024-11-22",
+      "src": "mangadex",
+      "mdxId": "6df1db89-efa8-4836-89ef-277b9656eb58"
+    },
+    {
+      "number": "49",
+      "title": "Festival Cultural e Problemas",
+      "date": "2024-12-06",
+      "src": "mangadex",
+      "mdxId": "eb9e526c-e863-4c21-bd50-1d3a2c435a76"
+    },
+    {
+      "number": "50",
+      "title": "Pós-festa e o lugar Especial",
+      "date": "2024-12-06",
+      "src": "mangadex",
+      "mdxId": "9eee65f6-13bc-498f-8c6e-5a6dd6a851ad"
+    },
+    {
+      "number": "51",
+      "title": "Desinteressado e consciente",
+      "date": "2025-01-17",
+      "src": "mangadex",
+      "mdxId": "e84c0e5b-3a21-4be9-9658-5ec1824615e1"
+    },
+    {
+      "number": "52",
+      "title": "O Aquário e Chamar pelo Nome",
+      "date": "2025-01-17",
+      "src": "mangadex",
+      "mdxId": "c897da2b-ede2-4f42-9a12-d47848e349d7"
+    },
+    {
+      "number": "53",
+      "title": "Melhores amigos e Distância",
+      "date": "2025-02-14",
+      "src": "mangadex",
+      "mdxId": "e877de9b-9089-4d56-9c33-ab29e8c48215"
+    },
+    {
+      "number": "54",
+      "title": "Colegas de turma e alegria",
+      "date": "2025-02-21",
+      "src": "mangadex",
+      "mdxId": "3418ed8d-5b47-404e-a09f-d7050e75131a"
+    },
+    {
+      "number": "54.1",
+      "title": "Notícia de pausa",
+      "date": "2025-02-21",
+      "src": "mangadex",
+      "mdxId": "f21d446d-a4ba-4e4f-8b26-09e089d22741"
+    },
+    {
+      "number": "54.2",
+      "title": "Aviso de Hiato",
+      "date": "2025-02-21",
+      "src": "mangadex",
+      "mdxId": "29f8fa9d-01a7-4316-8c7e-d1053372bfe8"
+    }
+  ]
+}

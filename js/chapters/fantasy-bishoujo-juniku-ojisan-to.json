@@ -1,0 +1,620 @@
+{
+  "pt": [
+    {
+      "number": "1",
+      "title": "Tiozão Virou Gatinha",
+      "date": "2020-10-30",
+      "src": "mangadex",
+      "mdxId": "0cf7c100-0afb-429f-9a5b-e2e23ff65de3"
+    },
+    {
+      "number": "1.5",
+      "title": "",
+      "date": "2020-11-09",
+      "src": "mangadex",
+      "mdxId": "d604a0c6-5fd1-418a-afc8-0c558dcc6c8f"
+    },
+    {
+      "number": "2",
+      "title": "Tiozão Loli e a Maldição da Deusa",
+      "date": "2020-11-09",
+      "src": "mangadex",
+      "mdxId": "131fc461-554a-4294-9873-ee2a3e5e4260"
+    },
+    {
+      "number": "3",
+      "title": "Tiozão Loli e o Treinamento",
+      "date": "2020-11-20",
+      "src": "mangadex",
+      "mdxId": "03237a88-61e4-4378-b11d-85134874609f"
+    },
+    {
+      "number": "4",
+      "title": "Tiozão Loli e o Portão para o Paraíso",
+      "date": "2020-11-28",
+      "src": "mangadex",
+      "mdxId": "7f94e1bd-58d0-4b96-a77b-7e8629fe76c2"
+    },
+    {
+      "number": "5",
+      "title": "Tiozão Loli e a Beleza Incomparável",
+      "date": "2020-11-28",
+      "src": "mangadex",
+      "mdxId": "cf75c097-f4c4-401d-aa3a-4d690584c119"
+    },
+    {
+      "number": "6",
+      "title": "Tiozão Loli e a Sedução",
+      "date": "2020-12-08",
+      "src": "mangadex",
+      "mdxId": "a8e24d84-e65c-4df8-a26e-88cc88cdafa3"
+    },
+    {
+      "number": "7",
+      "title": "Tiozão Loli e o Tesouro",
+      "date": "2020-12-08",
+      "src": "mangadex",
+      "mdxId": "4d2d45d5-162e-4ca7-bdee-acab0ca6461f"
+    },
+    {
+      "number": "8",
+      "title": "Tiozão Loli e a Elfa",
+      "date": "2020-12-08",
+      "src": "mangadex",
+      "mdxId": "ef459d0d-c1c0-4b76-a3fc-2e64742ffaeb"
+    },
+    {
+      "number": "9",
+      "title": "Tiozão Loli e o Concurso de Beleza",
+      "date": "2020-12-17",
+      "src": "mangadex",
+      "mdxId": "4b6b1d0f-d8ef-4b72-9a61-8022052ff27a"
+    },
+    {
+      "number": "10",
+      "title": "Tiozão Loli e a Elfa Furiosa",
+      "date": "2021-01-06",
+      "src": "mangadex",
+      "mdxId": "18dd9620-925a-4fa0-aa8e-3f2089c00524"
+    },
+    {
+      "number": "11",
+      "title": "Tiozão Loli e os Isekais",
+      "date": "2021-01-10",
+      "src": "mangadex",
+      "mdxId": "04fb94af-7868-4947-baa3-e237d1ad3398"
+    },
+    {
+      "number": "12",
+      "title": "Tiozão Loli e a Responsabilidade Alcoólica",
+      "date": "2021-01-29",
+      "src": "mangadex",
+      "mdxId": "6209934d-abbc-46c0-ba50-e7e18d81bc5d"
+    },
+    {
+      "number": "12.5",
+      "title": "",
+      "date": "2021-02-05",
+      "src": "mangadex",
+      "mdxId": "8e04abdf-fd0a-4d99-ba4f-b082efc310a8"
+    },
+    {
+      "number": "13",
+      "title": "Tiozão Loli e a Loja de Equipamentos",
+      "date": "2021-02-05",
+      "src": "mangadex",
+      "mdxId": "ac06df2a-6d1c-44ab-8e50-d59796fd0e81"
+    },
+    {
+      "number": "14",
+      "title": "Tiozão Loli e o Incrível Enfeite de Cabelo",
+      "date": "2021-02-05",
+      "src": "mangadex",
+      "mdxId": "bca65b76-f69f-4fc1-94c6-595840834518"
+    },
+    {
+      "number": "15",
+      "title": "Tiozão Loli e o Cavaleiro Sombrio",
+      "date": "2021-02-19",
+      "src": "mangadex",
+      "mdxId": "421dc56a-6edc-4f37-9d6a-fa8ec7037312"
+    },
+    {
+      "number": "16",
+      "title": "Tiozão Loli, a Espada e as Autoridades",
+      "date": "2021-03-14",
+      "src": "mangadex",
+      "mdxId": "9248d74a-c23d-43b2-b877-1876e20d4ecf"
+    },
+    {
+      "number": "17",
+      "title": "Tiozão Loli e a Missão",
+      "date": "2021-09-20",
+      "src": "mangadex",
+      "mdxId": "84c0ada2-ceab-4f20-836c-84b89ee88aea"
+    },
+    {
+      "number": "18",
+      "title": "Tiozão Loli e as Armaduras Vivas",
+      "date": "2021-09-20",
+      "src": "mangadex",
+      "mdxId": "a17bf4ca-df91-4ffc-ac27-f680f7274e66"
+    },
+    {
+      "number": "19",
+      "title": "Tiozão Loli e a Armadura do Rei Demônio",
+      "date": "2021-09-20",
+      "src": "mangadex",
+      "mdxId": "00b47b67-a845-4fb1-b3a7-1300b28fe0b5"
+    },
+    {
+      "number": "20",
+      "title": "Tiozão Loli e a Roupa do Namorado",
+      "date": "2021-09-20",
+      "src": "mangadex",
+      "mdxId": "cc3e75d2-6691-4fc3-901b-2cfcbbbfa4c8"
+    },
+    {
+      "number": "21",
+      "title": "Tiozão Loli e a Interrogatório",
+      "date": "2021-09-20",
+      "src": "mangadex",
+      "mdxId": "10703a5e-859a-4fe8-a59c-d54ee84f810f"
+    },
+    {
+      "number": "21.5",
+      "title": "",
+      "date": "2021-09-20",
+      "src": "mangadex",
+      "mdxId": "6d768683-e3af-4f4f-a716-92ef15fe0893"
+    },
+    {
+      "number": "22",
+      "title": "Tiozão Loli e o Primeiro Amor de um Jovem",
+      "date": "2021-09-20",
+      "src": "mangadex",
+      "mdxId": "7849f152-88d0-4f2b-a1c6-0d78789e417d"
+    },
+    {
+      "number": "23",
+      "title": "Tiozão Loli e a Deusa do Casaco Preto",
+      "date": "2021-09-20",
+      "src": "mangadex",
+      "mdxId": "25da1564-3901-4fcc-883d-525104452d07"
+    },
+    {
+      "number": "24",
+      "title": "",
+      "date": "2023-05-04",
+      "src": "mangadex",
+      "mdxId": "fd557bff-0606-4a8e-bbf6-61be450cac03"
+    },
+    {
+      "number": "25",
+      "title": "",
+      "date": "2023-05-04",
+      "src": "mangadex",
+      "mdxId": "23da58cb-fbb5-4085-8801-3d96bb1775e4"
+    },
+    {
+      "number": "26",
+      "title": "",
+      "date": "2023-05-04",
+      "src": "mangadex",
+      "mdxId": "036c47d9-d94c-4845-af3a-3ead72a4f702"
+    },
+    {
+      "number": "27",
+      "title": "",
+      "date": "2023-05-04",
+      "src": "mangadex",
+      "mdxId": "b08c7663-f5e2-4f67-b23d-e1481e90703d"
+    },
+    {
+      "number": "28",
+      "title": "",
+      "date": "2023-05-04",
+      "src": "mangadex",
+      "mdxId": "0898c0af-7f9a-4f95-8d44-14302b4fa5b7"
+    },
+    {
+      "number": "29",
+      "title": "",
+      "date": "2023-05-04",
+      "src": "mangadex",
+      "mdxId": "41fcc536-486a-4f09-a3f2-318b8d9e3aea"
+    },
+    {
+      "number": "30",
+      "title": "",
+      "date": "2023-05-04",
+      "src": "mangadex",
+      "mdxId": "c9c9009c-9c97-4785-b1ce-3a9c263ac586"
+    },
+    {
+      "number": "31",
+      "title": "",
+      "date": "2022-07-04",
+      "src": "mangadex",
+      "mdxId": "80202c4e-3f69-4325-aeb1-94bbf662783f"
+    },
+    {
+      "number": "32",
+      "title": "",
+      "date": "2022-07-04",
+      "src": "mangadex",
+      "mdxId": "069e4022-7338-47ab-9a9b-107cd79008d8"
+    },
+    {
+      "number": "33",
+      "title": "",
+      "date": "2022-07-15",
+      "src": "mangadex",
+      "mdxId": "1bd7403e-498e-4904-b942-5f04a6c3d625"
+    },
+    {
+      "number": "34",
+      "title": "",
+      "date": "2022-07-15",
+      "src": "mangadex",
+      "mdxId": "f6e25447-4380-48fd-a78e-1bd930f838ec"
+    },
+    {
+      "number": "35",
+      "title": "",
+      "date": "2022-07-15",
+      "src": "mangadex",
+      "mdxId": "5d2a776c-46bf-4fc3-b8d4-3bcf9d08a952"
+    },
+    {
+      "number": "36",
+      "title": "",
+      "date": "2022-07-15",
+      "src": "mangadex",
+      "mdxId": "a062bf22-fb54-42e2-b66f-30c4d589ce0b"
+    },
+    {
+      "number": "36.5",
+      "title": "",
+      "date": "2022-07-15",
+      "src": "mangadex",
+      "mdxId": "3c9c81c2-c5bc-40f2-992c-7bdd90d07abc"
+    },
+    {
+      "number": "37",
+      "title": "",
+      "date": "2022-07-16",
+      "src": "mangadex",
+      "mdxId": "f8018377-67bb-410c-8151-aae612637e6b"
+    },
+    {
+      "number": "38",
+      "title": "",
+      "date": "2022-08-19",
+      "src": "mangadex",
+      "mdxId": "3b73f69e-f112-4687-83bf-9fa8bee2eeb6"
+    },
+    {
+      "number": "39",
+      "title": "",
+      "date": "2022-08-19",
+      "src": "mangadex",
+      "mdxId": "af84fe56-5967-400a-b500-d7dec15f6696"
+    },
+    {
+      "number": "40",
+      "title": "",
+      "date": "2022-08-19",
+      "src": "mangadex",
+      "mdxId": "54658e34-50f5-4103-973e-b7a754950213"
+    },
+    {
+      "number": "41",
+      "title": "",
+      "date": "2022-08-19",
+      "src": "mangadex",
+      "mdxId": "22dfab05-e3bd-470a-a339-4449f8f840cc"
+    },
+    {
+      "number": "42",
+      "title": "",
+      "date": "2022-08-19",
+      "src": "mangadex",
+      "mdxId": "b910559f-1756-4dfe-bceb-dae57613dc70"
+    },
+    {
+      "number": "43",
+      "title": "",
+      "date": "2022-08-21",
+      "src": "mangadex",
+      "mdxId": "15b21d3b-5fd4-4311-afc4-a98f018789d2"
+    },
+    {
+      "number": "44",
+      "title": "",
+      "date": "2022-08-21",
+      "src": "mangadex",
+      "mdxId": "13d98c59-a867-459d-964f-ba36d9cca222"
+    },
+    {
+      "number": "45",
+      "title": "",
+      "date": "2022-08-21",
+      "src": "mangadex",
+      "mdxId": "6e131636-e2b4-415b-8f3c-156ea8a7783d"
+    },
+    {
+      "number": "46",
+      "title": "",
+      "date": "2023-04-30",
+      "src": "mangadex",
+      "mdxId": "52b547cc-5f18-49fc-8f2d-1bf51de3b2a1"
+    },
+    {
+      "number": "47",
+      "title": "",
+      "date": "2023-04-30",
+      "src": "mangadex",
+      "mdxId": "d7d8d7c3-2806-43a1-a888-2ff0aba7dc2b"
+    },
+    {
+      "number": "48",
+      "title": "",
+      "date": "2023-05-08",
+      "src": "mangadex",
+      "mdxId": "02d24eca-12a1-448f-a385-6eef7f629373"
+    },
+    {
+      "number": "48.5",
+      "title": "Isekai Bishoujo Juniku Ojisan to extra",
+      "date": "2024-02-25",
+      "src": "mangadex",
+      "mdxId": "1bf68185-36c3-4bce-860f-d305f1a0525c"
+    },
+    {
+      "number": "49",
+      "title": "",
+      "date": "2023-07-28",
+      "src": "mangadex",
+      "mdxId": "b098ec59-6f18-4577-859e-3ddca5fc009b"
+    },
+    {
+      "number": "50",
+      "title": "",
+      "date": "2023-07-28",
+      "src": "mangadex",
+      "mdxId": "38579841-5761-4e6c-b9c2-71f8afe90a19"
+    },
+    {
+      "number": "51",
+      "title": "Fabiniku Ojisan e suas Preocupações",
+      "date": "2024-02-18",
+      "src": "mangadex",
+      "mdxId": "c237dc48-4792-470f-89e5-10b4587ca1d3"
+    },
+    {
+      "number": "52",
+      "title": "Fabiniku Ojisan e Afrouxando",
+      "date": "2024-02-25",
+      "src": "mangadex",
+      "mdxId": "64733781-0919-426a-bdb9-eff19889001a"
+    },
+    {
+      "number": "52.5",
+      "title": "Isekai Bishoujo Juniku Ojisan to extra",
+      "date": "2024-02-25",
+      "src": "mangadex",
+      "mdxId": "de1a1ec9-50f5-4644-a29d-363491809082"
+    },
+    {
+      "number": "53",
+      "title": "Fabiniku Ojisan e Implicação",
+      "date": "2024-02-25",
+      "src": "mangadex",
+      "mdxId": "30b7c8c7-91d2-4163-b62b-d92c25510bac"
+    },
+    {
+      "number": "54",
+      "title": "Fabiniku Ojisan e Cooperador",
+      "date": "2024-02-25",
+      "src": "mangadex",
+      "mdxId": "4d924982-16ec-4c9b-8c0f-eb9e93e6a796"
+    },
+    {
+      "number": "55",
+      "title": "Fabiniku Ojisan e Arruaceiros",
+      "date": "2024-02-25",
+      "src": "mangadex",
+      "mdxId": "f2dcac7a-3c49-4bb6-ace7-34001e16a9ca"
+    },
+    {
+      "number": "56",
+      "title": "Fabiniku Ojisan e técnicas da espada.",
+      "date": "2024-02-25",
+      "src": "mangadex",
+      "mdxId": "8b68eb3e-7dfd-4212-bda4-b2f9b0ee847c"
+    },
+    {
+      "number": "57",
+      "title": "Fabiniku Ojisan e a Arma Final.",
+      "date": "2024-02-25",
+      "src": "mangadex",
+      "mdxId": "c578531c-dcb7-4f2c-ae58-fc9da3f00279"
+    },
+    {
+      "number": "58",
+      "title": "Fabiniku Ojisan e a Arma Final II.",
+      "date": "2024-02-25",
+      "src": "mangadex",
+      "mdxId": "70d11b1e-da7a-4168-b4ad-7ca3cd206cf8"
+    },
+    {
+      "number": "59",
+      "title": "Fabiniku Ojisan e a determinação para lutar.",
+      "date": "2024-03-20",
+      "src": "mangadex",
+      "mdxId": "ece3fd68-b0cb-4432-9927-b34a154075ad"
+    },
+    {
+      "number": "60",
+      "title": "Fabiniku Ojisan e provocações.",
+      "date": "2024-03-20",
+      "src": "mangadex",
+      "mdxId": "25197200-3d02-4603-85af-ed54684e162d"
+    },
+    {
+      "number": "61",
+      "title": "Fabiniku Ojisan e Berserk",
+      "date": "2024-03-20",
+      "src": "mangadex",
+      "mdxId": "1ac3bf63-d3b7-49ea-a766-17b018c025c8"
+    },
+    {
+      "number": "62",
+      "title": "Fabiniku Ojisan e Adultos",
+      "date": "2024-03-20",
+      "src": "mangadex",
+      "mdxId": "a45d0d17-6c05-4b73-bf9e-7b85833f3a01"
+    },
+    {
+      "number": "63",
+      "title": "Fabiniku Ojisan e Sentimentos verdadeiros.",
+      "date": "2024-03-20",
+      "src": "mangadex",
+      "mdxId": "fe62b434-4b7b-4800-b3b5-7d1bd15bedb6"
+    },
+    {
+      "number": "64",
+      "title": "Fabiniku Ojisan e Maldição.",
+      "date": "2024-03-20",
+      "src": "mangadex",
+      "mdxId": "e1979426-3ce8-4289-9168-9fd2d54c7e03"
+    },
+    {
+      "number": "64.5",
+      "title": "Extra",
+      "date": "2024-03-20",
+      "src": "mangadex",
+      "mdxId": "924878ad-47a6-4a89-ab28-8993590e445d"
+    },
+    {
+      "number": "65",
+      "title": "Fabiniku Ojisan e o último ataque.",
+      "date": "2024-03-20",
+      "src": "mangadex",
+      "mdxId": "636734c7-c982-4b4a-90a2-2a4dbb623b07"
+    },
+    {
+      "number": "66",
+      "title": "Fabiniku Ojisan e Elogios",
+      "date": "2024-03-20",
+      "src": "mangadex",
+      "mdxId": "76491e7d-1275-4b23-b706-8c7433a27830"
+    },
+    {
+      "number": "67",
+      "title": "Fabiniku Ojisan e Ajoelhando",
+      "date": "2024-03-20",
+      "src": "mangadex",
+      "mdxId": "fb608e38-b38c-4e93-be06-77298e7c7f7e"
+    },
+    {
+      "number": "68",
+      "title": "Fabiniku Ojisan e Cruz",
+      "date": "2024-03-20",
+      "src": "mangadex",
+      "mdxId": "5ddc9974-e8c0-44bf-8cfc-68516f344643"
+    },
+    {
+      "number": "69",
+      "title": "Fabiniku Ojisan e Jornada",
+      "date": "2024-03-20",
+      "src": "mangadex",
+      "mdxId": "3f757b8b-406a-4ef1-ba59-d3dd1406deff"
+    },
+    {
+      "number": "70",
+      "title": "Fabiniku Ojisan e Tempestade",
+      "date": "2024-03-20",
+      "src": "mangadex",
+      "mdxId": "2fc4bcf7-5bf5-4ada-b485-84a8a792d1f1"
+    },
+    {
+      "number": "71",
+      "title": "Fabiniku Ojisan e Conexões",
+      "date": "2024-03-24",
+      "src": "mangadex",
+      "mdxId": "5b82e4a7-83e9-4f98-8162-4998328fa9c9"
+    },
+    {
+      "number": "72",
+      "title": "Fabiniku Ojisan e a comedora de Deuses",
+      "date": "2024-03-31",
+      "src": "mangadex",
+      "mdxId": "8206dae7-5c76-4175-a3a0-84ff5fb2a80d"
+    },
+    {
+      "number": "73",
+      "title": "Fabiniku Ojisan e a Grande rota marítima",
+      "date": "2024-03-31",
+      "src": "mangadex",
+      "mdxId": "d3a364df-1698-43d6-bc3a-b29f278f5082"
+    },
+    {
+      "number": "74",
+      "title": "Fabiniku Ojisan e Inimigo",
+      "date": "2024-04-06",
+      "src": "mangadex",
+      "mdxId": "215f2dd9-1272-4db7-a1ed-5d05498eff84"
+    },
+    {
+      "number": "75",
+      "title": "Fabiniku Ojisan e gola aberta.",
+      "date": "2024-04-06",
+      "src": "mangadex",
+      "mdxId": "38569d02-b86a-4cc1-aef9-404f6242de70"
+    },
+    {
+      "number": "76",
+      "title": "Fabiniku Ojisan e trancar",
+      "date": "2024-04-14",
+      "src": "mangadex",
+      "mdxId": "c29db193-5d97-44bf-a1b8-334d2bea9da6"
+    },
+    {
+      "number": "77",
+      "title": "Fabiniku Ojisan e a chave roubada",
+      "date": "2024-04-15",
+      "src": "mangadex",
+      "mdxId": "7b407868-9f43-4eb8-b351-f2873e3a9b77"
+    },
+    {
+      "number": "78",
+      "title": "Fabiniku Ojisan e o portão de Takanawa",
+      "date": "2024-04-21",
+      "src": "mangadex",
+      "mdxId": "677048b5-5d01-476c-ba3d-3180ec4f9028"
+    },
+    {
+      "number": "79",
+      "title": "Fabiniku Ojisan e o Leilão",
+      "date": "2024-06-28",
+      "src": "mangadex",
+      "mdxId": "bd06993a-2a03-4d91-b298-f2d35c0b519b"
+    },
+    {
+      "number": "80",
+      "title": "Fabiniku Ojisan e uma pessoa em perigo",
+      "date": "2024-07-11",
+      "src": "mangadex",
+      "mdxId": "07da7999-1797-4ea0-91c5-0c6595507169"
+    },
+    {
+      "number": "81",
+      "title": "Fabiniku Ojisan e a garota Louvável",
+      "date": "2024-07-31",
+      "src": "mangadex",
+      "mdxId": "313221d4-fa58-41bb-931e-264dd278e26e"
+    }
+  ]
+}

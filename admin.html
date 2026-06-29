@@ -346,6 +346,13 @@
     </div>
   </div>
 
+  <!-- Fornecedores (inferido pela origem da capa) -->
+  <div class="scraper-cloud" id="suppliersCard" style="margin-top:28px; background:var(--surface); border:1px solid var(--border); border-radius:16px; padding:24px;">
+    <h2>📦 Fornecedores</h2>
+    <p style="font-size:0.82rem; color:var(--muted); margin:4px 0 18px;">Quantos mangás e capítulos cada fonte está fornecendo atualmente (inferido pela origem da capa).</p>
+    <div class="cards" id="supplierStats"></div>
+  </div>
+
   <!-- Agendamento Automático -->
   <div class="scraper-cloud" id="schedulerCard" style="display:none; margin-top:28px; background:var(--surface); border:1px solid var(--border); border-radius:16px; padding:24px;">
     <h2>📅 Agendamento de Atualizações Automáticas (Background)</h2>
@@ -987,6 +994,39 @@ function startPolling(runId, runUrl) {
 window.addEventListener('load', () => { loadHiddenList(); });
 
 connect();
+</script>
+<script src="/js/data-lite.js"></script>
+<script>
+  // Fornecedores: infere a fonte pela origem da capa e agrega mangás + capítulos.
+  function _supplierOf(m) {
+    var c = m.cover || '';
+    try { var mt = c.match(/url=([^&]+)/); if (mt) c = decodeURIComponent(mt[1]); } catch (e) {}
+    if (/mangafreak/i.test(c)) return ['MangaFreak', '🇬🇧', '#3b82f6'];
+    if (/leituramanga/i.test(c)) return ['LeituraManga', '🇧🇷', '#22c55e'];
+    if (/mangalivre/i.test(c)) return ['MangaLivre', '🇧🇷', '#eab308'];
+    if (/mundohentai/i.test(c)) return ['MundoHentai', '🔞', '#ef4444'];
+    return ['Outros', '🌐', '#888'];
+  }
+  function renderSuppliers() {
+    if (typeof MANGA_DATA === 'undefined') return;
+    var agg = {};
+    MANGA_DATA.forEach(function (m) {
+      var s = _supplierOf(m), k = s[0];
+      if (!agg[k]) agg[k] = { nome: k, flag: s[1], cor: s[2], mangas: 0, caps: 0 };
+      agg[k].mangas++; agg[k].caps += (m.chaptersCount || 0);
+    });
+    var list = Object.keys(agg).map(function (k) { return agg[k]; }).sort(function (a, b) { return b.mangas - a.mangas; });
+    var el = document.getElementById('supplierStats');
+    if (!el) return;
+    el.innerHTML = list.map(function (s) {
+      return '<div class="card" style="border-left:4px solid ' + s.cor + '">'
+        + '<div class="card-head"><div class="flag">' + s.flag + '</div><div>'
+        + '<div class="card-title">' + s.nome + '</div>'
+        + '<div class="card-sub">' + s.mangas.toLocaleString('pt-BR') + ' mangás · ' + s.caps.toLocaleString('pt-BR') + ' capítulos</div>'
+        + '</div></div></div>';
+    }).join('');
+  }
+  window.addEventListener('load', renderSuppliers);
 </script>
 </body>
 </html>

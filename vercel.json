@@ -3,6 +3,9 @@
   "outputDirectory": ".",
   "framework": null,
   "installCommand": "npm install",
+  "functions": {
+    "api/og-chapter.js": { "includeFiles": "{reader.html,js/manga-search.json}" }
+  },
   "headers": [
     {
       "source": "/sitemap.xml",
@@ -30,7 +33,7 @@
     }
   ],
   "rewrites": [
-    { "source": "/manga/:id/:cap", "destination": "/reader.html?manga=:id&cap=:cap" },
+    { "source": "/manga/:id/:cap", "destination": "/api/og-chapter?manga=:id&cap=:cap" },
     { "source": "/resolve-chapter", "destination": "/api/resolve-chapter" },
     { "source": "/api/auth/:action", "destination": "/api/auth?action=:action" },
     { "source": "/api/admin/:action", "destination": "/api/admin?action=:action" },

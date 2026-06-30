@@ -18,6 +18,7 @@ const CHAPTERS_DIR = path.join(__dirname, 'js', 'chapters');
 
 const FULL = process.argv.includes('--all');
 const MAX_PAGES = FULL ? 9999 : 3;
+const MAX_MANGAS = parseInt(process.env.H20_MAX || (FULL ? '99999' : '25'), 10); // mangás por execução (evita estourar tempo do CI)
 
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
@@ -76,7 +77,7 @@ function fetchH20Url(url, redirects = 0) {
 
 function parseH20ListPage(html) {
   const slugs = new Set();
-  const SKIP = new Set(['page', 'list-mode', 'manga-genre', 'wp-content', 'wp-includes', 'wp-admin']);
+  const SKIP = new Set(['page', 'list-mode', 'manga-genre', 'feed', 'wp-content', 'wp-includes', 'wp-admin']);
   for (const m of html.matchAll(/href="https?:\/\/hentai20\.io\/manga\/([^/"#]+)\/"/gi)) {
     const s = m[1];
     if (s && s.length > 2 && !SKIP.has(s) && !s.startsWith('wp-')) slugs.add(s);
@@ -92,32 +93,40 @@ function parseH20Post(html, mSlug) {
     || html.match(/<meta[^>]+content="([^"]+)"[^>]+property="og:title"/i);
   if (ogT) {
     title = decodeEntities(ogT[1])
-      .replace(/\s*[-–|]\s*(hentai20\.io|Read.*Online).*$/i, '').trim();
+      .replace(/\s*:\s*Read\s+Webtoon.*$/i, '')
+      .replace(/\s*[-–|]\s*(hentai20\.io|Read.*(Online|Webtoon)).*$/i, '').trim();
   }
   if (!title) {
     const h1 = html.match(/<h1[^>]*class="entry-title"[^>]*>\s*([^<]+)/i);
     if (h1) title = decodeEntities(h1[1].trim());
   }
 
+  // Capa: o tema Themesia NÃO expõe og:image — a capa está em div.thumb > img.
   let cover = '';
-  const ogImg = html.match(/<meta[^>]+property="og:image"\s+content="([^"]+)"/i)
-    || html.match(/<meta[^>]+content="([^"]+)"[^>]+property="og:image"/i);
-  if (ogImg) cover = ogImg[1];
+  const thumb = html.match(/class="thumb"[^>]*>\s*<img[^>]+src="([^"]+)"/i)
+    || html.match(/<img[^>]+class="[^"]*wp-post-image[^"]*"[^>]+src="([^"]+)"/i)
+    || html.match(/<meta[^>]+property="og:image"\s+content="([^"]+)"/i);
+  if (thumb) cover = thumb[1];
 
   let description = '';
   const ogD = html.match(/<meta[^>]+property="og:description"\s+content="([^"]+)"/i)
     || html.match(/<meta[^>]+name="description"\s+content="([^"]+)"/i);
   if (ogD) description = decodeEntities(ogD[1].trim());
 
-  const genreRefs = [
-    ...html.matchAll(/href="[^"]*\/genres?\/[^"/"]*\/"[^>]*>\s*([^<]+)\s*<\/a>/gi),
-    ...html.matchAll(/href="[^"]*\/tag\/[^"/"]*\/"[^>]*>\s*([^<]+)\s*<\/a>/gi)
-  ];
-  const genres = [...new Set(
-    genreRefs.map(m => decodeEntities(m[1].trim())).filter(g => g.length > 1 && g.length < 50)
-  )];
+  // Gêneros: SÓ os do mangá (container .seriestugenre/.mgen) — evita o lixo do
+  // menu global de gêneros (que enchia a lista com 40+ itens).
+  let genres = [];
+  const mg = html.match(/class="seriestugenre"[^>]*>([\s\S]*?)<\/div>/i)
+    || html.match(/class="mgen"[^>]*>([\s\S]*?)<\/span>/i);
+  if (mg) {
+    genres = [...new Set(
+      [...mg[1].matchAll(/>([^<]+)<\/a>/g)].map(m => decodeEntities(m[1].trim())).filter(g => g.length > 1 && g.length < 50)
+    )];
+  }
   if (genres.length === 0) genres.push('Hentai');
   if (!genres.some(g => g.toLowerCase().includes('hentai'))) genres.unshift('Hentai');
+  if (!genres.some(g => g.toLowerCase().includes('adult'))) genres.push('Adult');
+  genres = genres.slice(0, 12);
 
   const stM = html.match(/Status\s*<\/b>\s*:\s*([^<]+)/i) || html.match(/(Ongoing|Completed|On-Going|Complete)/i);
   const status = stM && !stM[1].toLowerCase().includes('complet') ? 'ongoing' : 'completed';
@@ -223,7 +232,7 @@ async function main() {
     return;
   }
   
-  const existingSlugs = new Set(data.filter(m => m.source === 'hentai20').map(m => m.id));
+  const byId = new Map(data.map(m => [m.id, m]));
   const allSlugs = new Set();
   
   try {
@@ -250,65 +259,62 @@ async function main() {
     return;
   }
   
-  const newSlugs = [...allSlugs].filter(s => !existingSlugs.has(s));
-  console.log(`- Encontrados ${allSlugs.size} slugs totais, ${newSlugs.length} novos.`);
-  
-  let newAdded = 0;
-  for (let i = 0; i < newSlugs.length; i++) {
-    const slug = newSlugs[i];
-    console.log(`- [${i+1}/${newSlugs.length}] Processando novo slug: ${slug}...`);
+  // Prioridade: REPROCESSA os hentai20 existentes (por id conhecido, conserta os
+  // 49 quebrados mesmo fora da lista recente) e depois adiciona os novos da lista.
+  // Pula slugs de outras fontes. Teto por execução p/ não estourar o tempo do CI.
+  const existingH20 = data.filter(m => m.source === 'hentai20').map(m => m.id);
+  const newOnes = [...allSlugs].filter(s => !byId.has(s));
+  const toProcess = [...new Set([...existingH20, ...newOnes])].slice(0, MAX_MANGAS);
+  console.log(`- ${existingH20.length} hentai20 existentes + ${newOnes.length} novos; processando ${toProcess.length} (teto ${MAX_MANGAS}).`);
+
+  let newAdded = 0, updated = 0;
+  for (let i = 0; i < toProcess.length; i++) {
+    const slug = toProcess[i];
+    const existing = byId.get(slug);
+    console.log(`- [${i+1}/${toProcess.length}] ${existing ? 'Reprocessando' : 'Novo'}: ${slug}...`);
     try {
       const html = await fetchH20Url(`${BASE_H20}/manga/${slug}/`);
       const { title, cover, description, genres, status, chapters } = parseH20Post(html, slug);
-      if (!title) {
-        console.warn(`⚠️ Sem título para ${slug}, pulando.`);
+      if (!title || !chapters.length) {
+        console.warn(`⚠️ Sem título/capítulos para ${slug}, pulando.`);
         continue;
       }
-      
+
+      const chapList = [];
+      for (let j = 0; j < chapters.length; j++) {
+        const ch = chapters[j];
+        const pages = await fetchH20ChapterPages(ch.url);
+        await sleep(350);
+        if (!pages.length) continue;
+        chapList.push({
+          id: `${slug}-ch-${ch.number}`, number: ch.number, title: ch.title,
+          date: new Date().toISOString(), pages, src: 'hentai20', chapterUrl: ch.url
+        });
+      }
+      if (!chapList.length) { console.warn(`⚠️ ${slug}: nenhuma página, pulando.`); continue; }
+      chapList.sort((a, b) => a.number - b.number);
+
       const mangaEntry = {
         id: slug, slug, title, altTitle: '',
         cover, banner: cover,
         author: 'Unknown', artist: 'Unknown',
-        status, year: new Date().getFullYear(), rating: 0,
+        status, year: (existing && existing.year) || new Date().getFullYear(), rating: 0,
         genres, description, descriptionEn: description,
-        chaptersCount: Math.max(chapters.length, 1),
+        chaptersCount: chapList.length,
         lang: 'en', hasPt: false, hasEn: true,
         source: 'hentai20'
       };
-      
-      const chapList = [];
-      for (let j = 0; j < chapters.length; j++) {
-        const ch = chapters[j];
-        console.log(`  -> Baixando páginas de: ${ch.title} (${ch.url})...`);
-        const pages = await fetchH20ChapterPages(ch.url);
-        chapList.push({
-          id: `${slug}-ch-${ch.number}`,
-          number: ch.number,
-          title: ch.title,
-          date: new Date().toISOString(),
-          pages,
-          src: 'hentai20',
-          chapterUrl: ch.url
-        });
-        await sleep(350);
-      }
-      
-      chapList.sort((a, b) => a.number - b.number);
-      mangaEntry.chaptersCount = chapList.length;
-      
+
       saveChObj(slug, { en: chapList });
-      data.push(mangaEntry);
-      newAdded++;
-      console.log(`  ✨ Adicionado: ${title} (${chapList.length} capítulos).`);
-      
+      if (existing) { Object.assign(existing, mangaEntry); updated++; console.log(`  ♻️ ${title} (${chapList.length} caps)`); }
+      else { data.push(mangaEntry); byId.set(slug, mangaEntry); newAdded++; console.log(`  ✨ ${title} (${chapList.length} caps)`); }
       saveMangaList(data);
       await sleep(500);
     } catch (e) {
       console.error(`⚠️ Erro ao processar ${slug}:`, e.message);
     }
   }
-  
-  console.log(`✅ Concluído! ${newAdded} novos mangás Hentai20 adicionados.`);
+  console.log(`\n✅ Hentai20: ${newAdded} novos, ${updated} reprocessados.`);
 }
 
 if (require.main === module) {

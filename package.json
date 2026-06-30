@@ -18,6 +18,8 @@
     "scrape:pt-all": "node leituramanga-scraper.cjs --all",
     "scrape:mdx": "node mangadex-scraper.cjs",
     "scrape:mdx-all": "node mangadex-scraper.cjs --all",
+    "scrape:h20": "node hentai20-scraper.cjs",
+    "scrape:h20-all": "node hentai20-scraper.cjs --all",
     "admin": "node admin-server.cjs"
   },
   "dependencies": {

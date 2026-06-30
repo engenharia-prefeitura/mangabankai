@@ -4,7 +4,8 @@
   "framework": null,
   "installCommand": "npm install",
   "functions": {
-    "api/og-chapter.js": { "includeFiles": "{reader.html,js/manga-search.json}" }
+    "api/og-chapter.js": { "includeFiles": "{reader.html,js/manga-search.json,js/chapters/**}" },
+    "api/resolve-chapter.js": { "includeFiles": "js/chapters/**" }
   },
   "headers": [
     {

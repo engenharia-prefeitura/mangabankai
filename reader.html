@@ -687,7 +687,7 @@
         return `
         <div class="scroll-page skeleton" data-page="${i + 1}" style="min-height:700px; display:flex; align-items:center; justify-content:center;">
           <img class="reader-page-img lazy-page-img"
-            data-src="${url}"
+            data-src="${rdProxyPage(url)}"
             alt="Página ${i + 1}"
             referrerPolicy="no-referrer"
             onload="this.classList.add('loaded'); this.parentElement.classList.remove('skeleton');"
@@ -785,6 +785,18 @@
       if (cover.startsWith('https://images.mangafreak.me/')) return '/api/img-proxy?url=' + encodeURIComponent(cover);
       if (cover.includes('placeholder.jpg')) return '';
       return cover;
+    }
+
+    function rdProxyPage(url) {
+      if (!url) return '';
+      const domainMatch = url.match(/^https?:\/\/([^/]+)/);
+      if (domainMatch) {
+        const domain = domainMatch[1];
+        if (domain.includes('tankouhentai.com') || domain.includes('tiamanhwa.com') || domain.includes('mangadistrict.com')) {
+          return '/api/img-proxy?url=' + encodeURIComponent(url);
+        }
+      }
+      return url;
     }
 
     // Bloco no fim do capítulo: navegação grande + mangás relacionados.

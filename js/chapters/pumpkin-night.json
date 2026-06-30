@@ -1,0 +1,858 @@
+{
+  "pt": [
+    {
+      "number": "1",
+      "title": "",
+      "date": "2020-02-13",
+      "src": "mangadex",
+      "mdxId": "e124a929-c75c-4877-a897-f3a083304a31"
+    },
+    {
+      "number": "2",
+      "title": "",
+      "date": "2020-02-13",
+      "src": "mangadex",
+      "mdxId": "57a7c986-7bc8-4849-bcf9-a562424e6804"
+    },
+    {
+      "number": "3",
+      "title": "",
+      "date": "2020-04-03",
+      "src": "mangadex",
+      "mdxId": "eb268866-219f-4d12-a133-a784e3380880"
+    },
+    {
+      "number": "4",
+      "title": "",
+      "date": "2021-08-25",
+      "src": "mangadex",
+      "mdxId": "d22ec8fc-2ed3-4f7f-979e-379c0d659dd0"
+    },
+    {
+      "number": "13",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "56243967-cd0e-4f00-9081-745a4a1803d9"
+    },
+    {
+      "number": "14",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "b34afa21-1969-45cc-ba3e-b1512ac8065f"
+    },
+    {
+      "number": "15",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "0675948e-d333-466f-9d64-02409a4a6e81"
+    },
+    {
+      "number": "16",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "53a3fd7d-759f-4097-9e04-73e28433a0c3"
+    },
+    {
+      "number": "17",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "dc61d25a-059f-4b57-a0c1-62983d2edec1"
+    },
+    {
+      "number": "18",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "dafd5f6c-9f81-4c0a-9e56-0676938a6c84"
+    },
+    {
+      "number": "19",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "98528838-9a9f-4a16-981d-c612ce5797ae"
+    },
+    {
+      "number": "19.5",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "56075ea9-c591-4285-b39d-87d29a65b241"
+    },
+    {
+      "number": "20",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "254765de-2855-44d9-9224-8b4d7b9e073e"
+    },
+    {
+      "number": "21",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "e5f6ae87-435b-4ea9-9b2c-7e6cfc435f1e"
+    },
+    {
+      "number": "22",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "f62299ef-3494-4ce6-a73a-8e85d1ff6095"
+    },
+    {
+      "number": "23",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "3b437516-ac49-4c6e-bbc9-e55741fdd088"
+    },
+    {
+      "number": "24",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "cf53d3d8-cc63-4979-b24e-9f9fe55b34bc"
+    },
+    {
+      "number": "25",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "2e6ffd26-75c3-4c9f-81c8-687c7e7e7210"
+    },
+    {
+      "number": "26",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "bd9bb9fa-6af1-4e90-97f1-9f0659a7c8ac"
+    },
+    {
+      "number": "27",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "450df0a4-ed7f-4180-9523-babd1fdc2242"
+    },
+    {
+      "number": "28",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "e59c9f87-5080-4c7a-93e1-1650a84c3e1b"
+    },
+    {
+      "number": "29",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "80d326cd-f7dc-493a-97bb-22935cff8e1f"
+    },
+    {
+      "number": "30",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "0cf2f4ee-6c5e-4399-a513-68acda53167d"
+    },
+    {
+      "number": "31",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "114f9ff9-542c-49a5-bd5e-2dbb6fb0866e"
+    },
+    {
+      "number": "32",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "336518e7-4566-4ef5-9a72-091135b687e5"
+    },
+    {
+      "number": "33",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "24d9f9f3-a482-4473-802b-95a466962473"
+    },
+    {
+      "number": "33.5",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "55f43307-3292-4892-8c2e-2870df161928"
+    },
+    {
+      "number": "34",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "8fcbb55f-ff14-4b9d-881e-ea458cfdcef6"
+    },
+    {
+      "number": "35",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "0433ecd0-d75c-4dfe-8821-aabc8b85eb03"
+    },
+    {
+      "number": "36",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "0348ba1e-ef3c-4408-b990-4f9ab7e10a18"
+    },
+    {
+      "number": "37",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "1dae0523-bfcb-4e47-bacf-bb9b97226147"
+    },
+    {
+      "number": "38",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "bafbc448-8e6c-4d4c-a22b-a2f81f3727a3"
+    },
+    {
+      "number": "39",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "89eb3539-5652-4e91-b61c-a3230b347647"
+    },
+    {
+      "number": "40",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "45ee1e42-c93b-4179-828a-64b72993554c"
+    },
+    {
+      "number": "41",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "e4949ad2-8cf9-46d6-b09b-802bfcf7954e"
+    },
+    {
+      "number": "42",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "58e7b50a-b725-41d2-af95-d5ae4bbfd00b"
+    },
+    {
+      "number": "43",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "28cad035-d644-4a27-b1f2-9f64e452b44a"
+    },
+    {
+      "number": "43.5",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "213d94aa-b91d-459d-bb0a-046f9fb8f335"
+    },
+    {
+      "number": "44",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "f0be5ff0-326a-46fd-aa85-808cd03c4f2b"
+    },
+    {
+      "number": "45",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "e1f7ec4b-1089-4ee9-a94a-26e5cc92fdda"
+    },
+    {
+      "number": "46",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "7ef556cc-6005-4d40-8054-2ac7c365a3a9"
+    },
+    {
+      "number": "47",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "8ab6b692-010d-44a1-8d77-4aa79eef3044"
+    },
+    {
+      "number": "48",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "ffc53529-cf75-4b1c-af42-0c1c8ca3f1c3"
+    },
+    {
+      "number": "49",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "afeb4cad-1d99-4ad1-9ae2-23f9555dd17d"
+    },
+    {
+      "number": "50",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "00612e67-51eb-4904-b0c2-58d3189ff050"
+    },
+    {
+      "number": "51",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "ce479659-b8db-4f36-9698-8bdd935e982d"
+    },
+    {
+      "number": "52",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "0ed6b872-bca6-46d0-936a-d9a2750e8a13"
+    },
+    {
+      "number": "53",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "109c60ab-2d6b-4188-ad07-3201c5964242"
+    },
+    {
+      "number": "54",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "4aa94d72-ff4f-40a2-a464-cbd22c8b3496"
+    },
+    {
+      "number": "55",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "3f9e564e-7e37-400a-8c60-155deda3e374"
+    },
+    {
+      "number": "56",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "567bf7c4-2ac8-4b14-af1e-b3c66333e4fb"
+    },
+    {
+      "number": "57",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "73813339-a82a-43c9-8219-268ced115f7b"
+    },
+    {
+      "number": "58",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "0f6abc69-c034-4d4e-b938-f074e3868db6"
+    },
+    {
+      "number": "59",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "2f3a3d02-c73a-48bb-97fd-32eafaca7acd"
+    },
+    {
+      "number": "60",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "57a257c8-22c0-4bd7-b695-19fabc5b2099"
+    },
+    {
+      "number": "61",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "438e0473-0763-446c-9dbf-5aa1ef99a901"
+    },
+    {
+      "number": "62",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "ea3dca88-2429-45a4-8c60-be5c9133c76a"
+    },
+    {
+      "number": "63",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "cc2b515b-6116-4215-856d-1e991273bfdf"
+    },
+    {
+      "number": "64",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "0a6c740e-8f67-48ac-bd0f-20ca20155cea"
+    },
+    {
+      "number": "65",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "9a116c55-f4a3-4577-93a5-d8e1c58ce7c8"
+    },
+    {
+      "number": "66",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "080f1337-a61e-4730-b8ba-29913cc07b2f"
+    },
+    {
+      "number": "67",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "da56b7cf-2ff5-42a9-9d54-a4816998c6ee"
+    },
+    {
+      "number": "68",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "f9995ab2-f30c-42d6-80d4-e6a82df91daa"
+    },
+    {
+      "number": "69",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "a268bbae-c925-4f4d-8cb6-67336e2cec26"
+    },
+    {
+      "number": "70",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "12e0fb0d-11c5-43b4-96a7-8c8ed73680b1"
+    },
+    {
+      "number": "71",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "4e807099-b446-437d-a812-01f2be6040a5"
+    },
+    {
+      "number": "72",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "1fcecf5c-9b94-4dbb-ba7f-ff71b1153929"
+    },
+    {
+      "number": "73",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "0e4ebfe1-cabd-43d6-8ce5-83661b26b143"
+    },
+    {
+      "number": "74",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "d69d3c3a-fbb3-496b-a010-ad6ff648d753"
+    },
+    {
+      "number": "75",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "aeb9d086-9eda-442f-8252-e55bbe018f66"
+    },
+    {
+      "number": "76",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "24aad70a-ab2e-455c-ab70-2e66690e97cd"
+    },
+    {
+      "number": "77",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "76fdfe5d-0aa2-4b55-881d-980baf6060b0"
+    },
+    {
+      "number": "78",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "65b877a9-d4ad-484f-a973-65d237dc45e4"
+    },
+    {
+      "number": "79",
+      "title": "",
+      "date": "2023-02-14",
+      "src": "mangadex",
+      "mdxId": "0dc1f90d-01d1-4f99-ac0d-8445c7aeccb4"
+    },
+    {
+      "number": "80",
+      "title": "",
+      "date": "2023-02-16",
+      "src": "mangadex",
+      "mdxId": "6d60b871-1796-42a7-9faa-e89df147f143"
+    },
+    {
+      "number": "81",
+      "title": "",
+      "date": "2023-02-16",
+      "src": "mangadex",
+      "mdxId": "caa1f163-2be1-49de-8053-5ee6e9c310af"
+    },
+    {
+      "number": "82",
+      "title": "",
+      "date": "2023-02-16",
+      "src": "mangadex",
+      "mdxId": "1211d273-e013-438b-a4ee-275981c8426b"
+    },
+    {
+      "number": "83",
+      "title": "",
+      "date": "2023-02-23",
+      "src": "mangadex",
+      "mdxId": "c0a3011c-3a74-4ee5-ab8f-19c56f30e171"
+    },
+    {
+      "number": "84",
+      "title": "",
+      "date": "2023-02-23",
+      "src": "mangadex",
+      "mdxId": "62051bc6-7131-44d9-9305-7b93dd88d65d"
+    },
+    {
+      "number": "85",
+      "title": "",
+      "date": "2023-03-27",
+      "src": "mangadex",
+      "mdxId": "2e3ef086-23e3-4f2e-ac1f-38b2a33199f4"
+    },
+    {
+      "number": "86",
+      "title": "",
+      "date": "2023-03-27",
+      "src": "mangadex",
+      "mdxId": "2ca8ffa2-fc64-4acd-ae57-97a3cf9dcdbb"
+    },
+    {
+      "number": "87",
+      "title": "",
+      "date": "2023-04-02",
+      "src": "mangadex",
+      "mdxId": "82a30748-8061-4478-be48-d20f3125f758"
+    },
+    {
+      "number": "88",
+      "title": "",
+      "date": "2023-04-02",
+      "src": "mangadex",
+      "mdxId": "bbd7d128-407c-488a-abf5-2be3fca930a4"
+    },
+    {
+      "number": "89",
+      "title": "",
+      "date": "2023-05-10",
+      "src": "mangadex",
+      "mdxId": "c0d0ee56-3d1a-4170-aac3-feb956c6dace"
+    },
+    {
+      "number": "90",
+      "title": "",
+      "date": "2023-05-19",
+      "src": "mangadex",
+      "mdxId": "f2725e92-5adf-43e4-8046-d017e0440589"
+    },
+    {
+      "number": "91",
+      "title": "",
+      "date": "2023-10-08",
+      "src": "mangadex",
+      "mdxId": "a3892771-f64e-4fbb-948b-b5ed5210290e"
+    },
+    {
+      "number": "92",
+      "title": "",
+      "date": "2023-10-08",
+      "src": "mangadex",
+      "mdxId": "f7726c39-eb53-457e-b6de-797529b7b176"
+    },
+    {
+      "number": "93",
+      "title": "",
+      "date": "2023-10-14",
+      "src": "mangadex",
+      "mdxId": "596544ff-391c-4385-aaa1-f78be5dd7f87"
+    },
+    {
+      "number": "94",
+      "title": "",
+      "date": "2023-10-28",
+      "src": "mangadex",
+      "mdxId": "213ac31e-a155-4ef3-967a-989dd10601e0"
+    },
+    {
+      "number": "95",
+      "title": "",
+      "date": "2023-10-28",
+      "src": "mangadex",
+      "mdxId": "22bf15b2-9875-4ecb-8787-a5d40d458b2d"
+    },
+    {
+      "number": "96",
+      "title": "",
+      "date": "2023-10-28",
+      "src": "mangadex",
+      "mdxId": "2763bde3-c102-4da7-990f-6387aca5fa50"
+    },
+    {
+      "number": "97",
+      "title": "",
+      "date": "2023-10-28",
+      "src": "mangadex",
+      "mdxId": "eb637aa3-a3d0-4569-b310-9f86319754df"
+    },
+    {
+      "number": "98",
+      "title": "",
+      "date": "2023-10-28",
+      "src": "mangadex",
+      "mdxId": "3e3af9ee-afce-42dc-9b88-4ac3b49437f0"
+    },
+    {
+      "number": "99",
+      "title": "",
+      "date": "2023-11-13",
+      "src": "mangadex",
+      "mdxId": "750361e0-412b-40d8-962a-e509c1e9ba8e"
+    },
+    {
+      "number": "100",
+      "title": "Ch. 100",
+      "date": "2023-11-11",
+      "src": "mangadex",
+      "mdxId": "3dabe803-b44c-498b-8cd3-321dfbe91675"
+    },
+    {
+      "number": "101",
+      "title": "",
+      "date": "2024-01-11",
+      "src": "mangadex",
+      "mdxId": "411737c2-b9ea-4702-a457-9fa8d408d083"
+    },
+    {
+      "number": "102",
+      "title": "Ch. 102",
+      "date": "2023-11-11",
+      "src": "mangadex",
+      "mdxId": "f212759f-4740-4285-9726-3adafecdbfdb"
+    },
+    {
+      "number": "103",
+      "title": "Ch. 103",
+      "date": "2023-11-11",
+      "src": "mangadex",
+      "mdxId": "8af2d91b-4082-42ef-92f9-0f3487d8ab7d"
+    },
+    {
+      "number": "104",
+      "title": "",
+      "date": "2024-01-11",
+      "src": "mangadex",
+      "mdxId": "67a30401-bf56-4c56-9657-088e5fbe215c"
+    },
+    {
+      "number": "105",
+      "title": "",
+      "date": "2024-02-26",
+      "src": "mangadex",
+      "mdxId": "2ff3965a-267b-45b8-8706-d58e300da9be"
+    },
+    {
+      "number": "106",
+      "title": "",
+      "date": "2024-04-18",
+      "src": "mangadex",
+      "mdxId": "e618cd59-a559-4129-a65a-bb69503cce4c"
+    },
+    {
+      "number": "107",
+      "title": "",
+      "date": "2024-04-19",
+      "src": "mangadex",
+      "mdxId": "ca436dc3-101a-47d7-b461-0612c933e18e"
+    },
+    {
+      "number": "108",
+      "title": "",
+      "date": "2024-05-17",
+      "src": "mangadex",
+      "mdxId": "ad0c2365-a553-4398-9a9c-09ac7027a307"
+    },
+    {
+      "number": "109",
+      "title": "",
+      "date": "2024-05-17",
+      "src": "mangadex",
+      "mdxId": "0973204f-9702-41fd-b01b-496289c4d115"
+    },
+    {
+      "number": "110",
+      "title": "",
+      "date": "2024-05-22",
+      "src": "mangadex",
+      "mdxId": "85aebe23-53dc-4ffb-a8d3-bb6a36bf582e"
+    },
+    {
+      "number": "111",
+      "title": "",
+      "date": "2024-05-22",
+      "src": "mangadex",
+      "mdxId": "a6fd1c09-72fb-46ae-bca3-7f6a6144faa2"
+    },
+    {
+      "number": "112",
+      "title": "",
+      "date": "2024-06-08",
+      "src": "mangadex",
+      "mdxId": "4b1c41aa-84ab-4b7d-9e6a-f52d30b2eb17"
+    },
+    {
+      "number": "113",
+      "title": "",
+      "date": "2024-06-08",
+      "src": "mangadex",
+      "mdxId": "85c2be1b-c673-4995-b1c1-3ada23a79aaf"
+    },
+    {
+      "number": "114",
+      "title": "",
+      "date": "2024-06-11",
+      "src": "mangadex",
+      "mdxId": "1c23690f-0d77-44b8-ac9f-6058c0c5c1b0"
+    },
+    {
+      "number": "115",
+      "title": "",
+      "date": "2024-06-20",
+      "src": "mangadex",
+      "mdxId": "559edb5c-9096-4c68-8720-b9ec5c66ea30"
+    },
+    {
+      "number": "116",
+      "title": "",
+      "date": "2024-06-25",
+      "src": "mangadex",
+      "mdxId": "f32b8303-665e-48b8-b490-25381bdcd840"
+    },
+    {
+      "number": "117",
+      "title": "",
+      "date": "2024-06-26",
+      "src": "mangadex",
+      "mdxId": "41f6d767-f7c8-488b-9d1e-29565d40bb3b"
+    },
+    {
+      "number": "118",
+      "title": "",
+      "date": "2024-09-15",
+      "src": "mangadex",
+      "mdxId": "38f50e9c-8092-4247-9850-2b9ba87ed6a4"
+    },
+    {
+      "number": "119",
+      "title": "",
+      "date": "2024-10-14",
+      "src": "mangadex",
+      "mdxId": "39c310be-c083-4a1b-a834-4710aa0ae993"
+    },
+    {
+      "number": "120",
+      "title": "",
+      "date": "2024-10-15",
+      "src": "mangadex",
+      "mdxId": "d1c55053-dabf-468e-8225-bb1f2a2b4c30"
+    },
+    {
+      "number": "121",
+      "title": "",
+      "date": "2024-11-18",
+      "src": "mangadex",
+      "mdxId": "274de1e9-bc7e-4c9c-a033-25babe5c0516"
+    },
+    {
+      "number": "122",
+      "title": "",
+      "date": "2024-12-22",
+      "src": "mangadex",
+      "mdxId": "87f80f31-2d9a-4268-8600-7353c8af9e47"
+    },
+    {
+      "number": "123",
+      "title": "",
+      "date": "2024-12-22",
+      "src": "mangadex",
+      "mdxId": "e68e22fc-083f-4937-a8c9-787b966090ba"
+    },
+    {
+      "number": "124",
+      "title": "",
+      "date": "2025-03-29",
+      "src": "mangadex",
+      "mdxId": "9b709153-0a97-4c4f-8c8b-0f93cda06ee7"
+    },
+    {
+      "number": "125",
+      "title": "",
+      "date": "2025-04-12",
+      "src": "mangadex",
+      "mdxId": "c68c9338-0ae1-4b2a-9d04-324c79c63867"
+    },
+    {
+      "number": "126",
+      "title": "",
+      "date": "2025-05-12",
+      "src": "mangadex",
+      "mdxId": "1555eb85-09f2-4f87-b6b2-ab65db2a5d43"
+    },
+    {
+      "number": "127",
+      "title": "",
+      "date": "2026-05-10",
+      "src": "mangadex",
+      "mdxId": "398c767f-0c43-40a0-b43f-09ad640b5f02"
+    }
+  ]
+}

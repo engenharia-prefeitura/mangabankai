@@ -1,0 +1,25 @@
+{
+  "pt": [
+    {
+      "number": "1",
+      "title": "O país dos magos",
+      "date": "2025-10-06",
+      "src": "mangadex",
+      "mdxId": "c15adcbb-6729-4c62-b3f8-760ab930496e"
+    },
+    {
+      "number": "2",
+      "title": "O país das flores",
+      "date": "2025-10-23",
+      "src": "mangadex",
+      "mdxId": "a73f8a12-d2c8-4889-b102-eaf74f4387be"
+    },
+    {
+      "number": "3",
+      "title": "Procurando fundos",
+      "date": "2025-11-27",
+      "src": "mangadex",
+      "mdxId": "e5fd1e90-a37e-4d25-9ce3-102eef3e18c2"
+    }
+  ]
+}

@@ -1,0 +1,795 @@
+{
+  "pt": [
+    {
+      "number": "1",
+      "title": "SCP-173",
+      "date": "2020-04-14",
+      "src": "mangadex",
+      "mdxId": "e1250bd0-5fdb-4a16-a694-c82bff1fe347"
+    },
+    {
+      "number": "2",
+      "title": "SCP-096",
+      "date": "2020-04-14",
+      "src": "mangadex",
+      "mdxId": "02262386-ae2d-43f4-998a-7ecccd443e58"
+    },
+    {
+      "number": "3",
+      "title": "SCP-914",
+      "date": "2020-04-14",
+      "src": "mangadex",
+      "mdxId": "a0956858-253f-4970-becf-a7b75cfdc810"
+    },
+    {
+      "number": "4",
+      "title": "SCP-682",
+      "date": "2020-04-14",
+      "src": "mangadex",
+      "mdxId": "3579979a-9bca-4ca6-bc7b-532b49c47b06"
+    },
+    {
+      "number": "5",
+      "title": "SCP-504",
+      "date": "2020-04-14",
+      "src": "mangadex",
+      "mdxId": "ab9b608f-b94e-4966-b7c1-40c62673bc9c"
+    },
+    {
+      "number": "6",
+      "title": "SCP-085",
+      "date": "2020-04-14",
+      "src": "mangadex",
+      "mdxId": "9acfbfa1-d171-44f2-a501-f2ef52155e87"
+    },
+    {
+      "number": "7",
+      "title": "SCP-2599",
+      "date": "2020-04-14",
+      "src": "mangadex",
+      "mdxId": "d15425d9-cb03-4164-9655-c5971a4224a2"
+    },
+    {
+      "number": "8",
+      "title": "SCP-963",
+      "date": "2020-04-14",
+      "src": "mangadex",
+      "mdxId": "8c7acaeb-dcc3-4da5-a5c8-cc22998d91b5"
+    },
+    {
+      "number": "9",
+      "title": "",
+      "date": "2020-04-14",
+      "src": "mangadex",
+      "mdxId": "8be14c67-f4f5-47a8-a618-897c966445ab"
+    },
+    {
+      "number": "10",
+      "title": "SCP-106",
+      "date": "2020-04-14",
+      "src": "mangadex",
+      "mdxId": "c6ed657b-98fe-4735-b2e3-ca1f0cf9b992"
+    },
+    {
+      "number": "11",
+      "title": "SCP-1048",
+      "date": "2020-04-14",
+      "src": "mangadex",
+      "mdxId": "c229d495-be39-4e43-8812-21a359e487e8"
+    },
+    {
+      "number": "12",
+      "title": "SCP-2295",
+      "date": "2020-04-14",
+      "src": "mangadex",
+      "mdxId": "e5590898-8860-4ba6-a66b-475881ad509d"
+    },
+    {
+      "number": "13",
+      "title": "SCP-040-JP",
+      "date": "2020-04-14",
+      "src": "mangadex",
+      "mdxId": "d9946f1c-f8cc-4dd9-b257-e7f67d234c0b"
+    },
+    {
+      "number": "14",
+      "title": "SCP-230",
+      "date": "2020-04-14",
+      "src": "mangadex",
+      "mdxId": "74c40d25-3f7b-4177-bdf7-71d56ef69922"
+    },
+    {
+      "number": "15",
+      "title": "SCP-2165",
+      "date": "2020-04-14",
+      "src": "mangadex",
+      "mdxId": "ce4e0013-06a1-49a8-bef1-1cc7b43c1fc0"
+    },
+    {
+      "number": "16",
+      "title": "SCP-053",
+      "date": "2020-04-25",
+      "src": "mangadex",
+      "mdxId": "95c9d731-e704-4bc2-ba4d-f092f0626a7d"
+    },
+    {
+      "number": "17",
+      "title": "●●|●●●●●|●●|●",
+      "date": "2020-04-25",
+      "src": "mangadex",
+      "mdxId": "c2782237-18be-4469-bbe2-2aa828bfa07f"
+    },
+    {
+      "number": "18",
+      "title": "SCP-835-JP",
+      "date": "2020-04-25",
+      "src": "mangadex",
+      "mdxId": "faa83268-655a-4336-b957-6bb2f77299a7"
+    },
+    {
+      "number": "19",
+      "title": "SCP-303",
+      "date": "2020-04-25",
+      "src": "mangadex",
+      "mdxId": "29bc24fe-3dfb-4f1b-929a-694132fa66c6"
+    },
+    {
+      "number": "20",
+      "title": "SCP-993",
+      "date": "2020-04-25",
+      "src": "mangadex",
+      "mdxId": "c93da7e3-f794-4966-bc43-7adbdc4cac75"
+    },
+    {
+      "number": "21",
+      "title": "SCP-343",
+      "date": "2020-05-26",
+      "src": "mangadex",
+      "mdxId": "45c2fbb9-ef4e-40ff-9a37-33caf63b8732"
+    },
+    {
+      "number": "22",
+      "title": "SCP-1192",
+      "date": "2020-05-26",
+      "src": "mangadex",
+      "mdxId": "c1d4c8f2-27ec-4896-9053-8725ae01bd7d"
+    },
+    {
+      "number": "23",
+      "title": "SCP-247",
+      "date": "2020-05-26",
+      "src": "mangadex",
+      "mdxId": "e135186f-e402-42bc-aafd-4c5fbabebaed"
+    },
+    {
+      "number": "24",
+      "title": "SCP-529",
+      "date": "2020-05-26",
+      "src": "mangadex",
+      "mdxId": "b9d05c83-ca60-491b-844a-f2f01b31a0cf"
+    },
+    {
+      "number": "25",
+      "title": "SCP-1316",
+      "date": "2020-05-26",
+      "src": "mangadex",
+      "mdxId": "e2784e26-cd72-4c0b-9ce2-c0d2fca16cd2"
+    },
+    {
+      "number": "26",
+      "title": "SCP-1545",
+      "date": "2020-07-07",
+      "src": "mangadex",
+      "mdxId": "e1a5b91b-215c-4f5c-8c7d-677d433d6d56"
+    },
+    {
+      "number": "27",
+      "title": "SCP-187",
+      "date": "2020-07-07",
+      "src": "mangadex",
+      "mdxId": "346be225-ae29-4fd5-a72f-619dd0127632"
+    },
+    {
+      "number": "28",
+      "title": "SCP-169",
+      "date": "2020-07-07",
+      "src": "mangadex",
+      "mdxId": "9f2a4e07-ffad-4ab6-8eca-6a002fc93ae5"
+    },
+    {
+      "number": "29",
+      "title": "SCP-348",
+      "date": "2020-07-07",
+      "src": "mangadex",
+      "mdxId": "af05fc33-1a37-4a13-a6bc-2b056da10297"
+    },
+    {
+      "number": "30",
+      "title": "SCP-2513",
+      "date": "2020-07-07",
+      "src": "mangadex",
+      "mdxId": "c66c16a7-56aa-4976-b7b5-627d45642fdf"
+    },
+    {
+      "number": "31",
+      "title": "SCP-191",
+      "date": "2020-08-20",
+      "src": "mangadex",
+      "mdxId": "404201da-d3b9-4b28-baf0-6384143d9c7d"
+    },
+    {
+      "number": "32",
+      "title": "SCP-2006",
+      "date": "2020-08-20",
+      "src": "mangadex",
+      "mdxId": "a90ec9a5-5479-49d2-a39d-e627d0d48776"
+    },
+    {
+      "number": "33",
+      "title": "SCP-2006",
+      "date": "2020-08-20",
+      "src": "mangadex",
+      "mdxId": "9291302a-5853-4e22-9b59-6d45d1c9202b"
+    },
+    {
+      "number": "34",
+      "title": "SCP-1422",
+      "date": "2020-08-20",
+      "src": "mangadex",
+      "mdxId": "ae37b952-979b-4efc-8113-c6e4bc104b64"
+    },
+    {
+      "number": "35",
+      "title": "SCP-2000",
+      "date": "2020-08-20",
+      "src": "mangadex",
+      "mdxId": "dbc2c971-f1fa-47f2-bac4-07c5b0456f49"
+    },
+    {
+      "number": "36",
+      "title": "SCP-1162",
+      "date": "2020-09-11",
+      "src": "mangadex",
+      "mdxId": "1817203a-abd3-46ba-b928-f9b9b41ed936"
+    },
+    {
+      "number": "37",
+      "title": "SCP-294",
+      "date": "2020-09-11",
+      "src": "mangadex",
+      "mdxId": "51660f32-3add-41fe-8818-af539a174a05"
+    },
+    {
+      "number": "38",
+      "title": "SCP-805",
+      "date": "2020-09-11",
+      "src": "mangadex",
+      "mdxId": "4651aa9e-88d6-4e53-bb53-ce46aee3ace4"
+    },
+    {
+      "number": "39",
+      "title": "SCP-539",
+      "date": "2020-09-11",
+      "src": "mangadex",
+      "mdxId": "fdace628-944a-4eb1-b111-8bc50eaadeb4"
+    },
+    {
+      "number": "40",
+      "title": "SCP-978",
+      "date": "2020-09-11",
+      "src": "mangadex",
+      "mdxId": "c0a35f5d-e706-42ab-91ba-0e45bb3cb271"
+    },
+    {
+      "number": "41",
+      "title": "",
+      "date": "2020-10-02",
+      "src": "mangadex",
+      "mdxId": "b5e6bafd-f78a-49da-8e4b-70664ca12876"
+    },
+    {
+      "number": "42",
+      "title": "SCP-706",
+      "date": "2020-10-02",
+      "src": "mangadex",
+      "mdxId": "50a70bce-1d4a-4fa8-a644-6e7de4cbb0ff"
+    },
+    {
+      "number": "43",
+      "title": "",
+      "date": "2020-10-02",
+      "src": "mangadex",
+      "mdxId": "cc793347-77e7-4906-be74-5d622d842400"
+    },
+    {
+      "number": "44",
+      "title": "",
+      "date": "2020-10-02",
+      "src": "mangadex",
+      "mdxId": "4769820b-9ceb-4471-9c26-c868c5858d9e"
+    },
+    {
+      "number": "45",
+      "title": "",
+      "date": "2020-10-02",
+      "src": "mangadex",
+      "mdxId": "4d071d2e-7978-422f-adcd-573f918eac26"
+    },
+    {
+      "number": "46",
+      "title": "",
+      "date": "2020-11-26",
+      "src": "mangadex",
+      "mdxId": "1a3e4799-4d29-4ffd-a51d-5eb73f9a0404"
+    },
+    {
+      "number": "46.1",
+      "title": "",
+      "date": "2020-10-02",
+      "src": "mangadex",
+      "mdxId": "e65197e3-2a28-4829-9d83-b2ec93a002eb"
+    },
+    {
+      "number": "47",
+      "title": "",
+      "date": "2020-11-26",
+      "src": "mangadex",
+      "mdxId": "afafb696-2d5f-4814-a354-7a8f2d9e8727"
+    },
+    {
+      "number": "48",
+      "title": "",
+      "date": "2020-11-26",
+      "src": "mangadex",
+      "mdxId": "0d74f766-285a-4066-bc95-e1b996fc9455"
+    },
+    {
+      "number": "49",
+      "title": "",
+      "date": "2020-11-26",
+      "src": "mangadex",
+      "mdxId": "0d099b62-43bb-492d-8055-0c9738bdb3fe"
+    },
+    {
+      "number": "50",
+      "title": "",
+      "date": "2020-11-26",
+      "src": "mangadex",
+      "mdxId": "54c5a412-cc99-45f5-9d51-f8b27b7314ca"
+    },
+    {
+      "number": "50.1",
+      "title": "",
+      "date": "2020-11-26",
+      "src": "mangadex",
+      "mdxId": "53dfaa43-ec92-47be-ac69-53aedc6893cf"
+    },
+    {
+      "number": "51",
+      "title": "",
+      "date": "2021-01-13",
+      "src": "mangadex",
+      "mdxId": "33fce220-d922-4b01-8f75-3c07af7c1554"
+    },
+    {
+      "number": "52",
+      "title": "",
+      "date": "2021-01-13",
+      "src": "mangadex",
+      "mdxId": "448c857a-473f-450c-8dcb-3cda34e51202"
+    },
+    {
+      "number": "53",
+      "title": "",
+      "date": "2021-01-13",
+      "src": "mangadex",
+      "mdxId": "8744627d-0a9f-4a66-a48d-a1be13373e4f"
+    },
+    {
+      "number": "54",
+      "title": "",
+      "date": "2021-01-13",
+      "src": "mangadex",
+      "mdxId": "07f0247d-4c51-4fc9-acba-f97daff51356"
+    },
+    {
+      "number": "55",
+      "title": "",
+      "date": "2021-01-13",
+      "src": "mangadex",
+      "mdxId": "58a4b54c-93d3-46cb-bdc9-4626351a6fb7"
+    },
+    {
+      "number": "56",
+      "title": "",
+      "date": "2021-03-04",
+      "src": "mangadex",
+      "mdxId": "2c3ea446-83b5-4492-b8e9-8ee23c87ba9c"
+    },
+    {
+      "number": "57",
+      "title": "",
+      "date": "2021-03-04",
+      "src": "mangadex",
+      "mdxId": "9d06190a-91d1-473a-ab74-e6e73d368ba8"
+    },
+    {
+      "number": "58",
+      "title": "",
+      "date": "2021-03-04",
+      "src": "mangadex",
+      "mdxId": "116462fa-daa4-4d11-97a0-df560db552e1"
+    },
+    {
+      "number": "59",
+      "title": "",
+      "date": "2021-03-04",
+      "src": "mangadex",
+      "mdxId": "0d0903e4-a1a8-4d76-bdd0-7a4bad844049"
+    },
+    {
+      "number": "60",
+      "title": "",
+      "date": "2021-03-04",
+      "src": "mangadex",
+      "mdxId": "6faaede4-cc89-4cdf-864a-4cad0cfdede5"
+    },
+    {
+      "number": "61",
+      "title": "",
+      "date": "2021-07-13",
+      "src": "mangadex",
+      "mdxId": "b4c2bf72-da34-4f01-b42d-ae8d06241115"
+    },
+    {
+      "number": "62",
+      "title": "",
+      "date": "2021-07-13",
+      "src": "mangadex",
+      "mdxId": "c565fda9-1491-4f48-b822-ec4667623e90"
+    },
+    {
+      "number": "63",
+      "title": "",
+      "date": "2021-07-13",
+      "src": "mangadex",
+      "mdxId": "07d676c3-a469-4f21-a47c-5a4c1bd90946"
+    },
+    {
+      "number": "64",
+      "title": "",
+      "date": "2021-07-13",
+      "src": "mangadex",
+      "mdxId": "31edf01e-87db-4fe0-ac3c-b49ad845ba68"
+    },
+    {
+      "number": "65",
+      "title": "",
+      "date": "2021-07-13",
+      "src": "mangadex",
+      "mdxId": "5c932600-5a18-4fb3-93ac-315f444ec980"
+    },
+    {
+      "number": "66",
+      "title": "",
+      "date": "2021-07-13",
+      "src": "mangadex",
+      "mdxId": "52372109-f5c6-4f98-84ba-4c6d3e95ee58"
+    },
+    {
+      "number": "66.1",
+      "title": "",
+      "date": "2021-07-13",
+      "src": "mangadex",
+      "mdxId": "98370a32-c85e-4f78-b418-dbac47fd6996"
+    },
+    {
+      "number": "67",
+      "title": "",
+      "date": "2021-07-13",
+      "src": "mangadex",
+      "mdxId": "837b79f9-8148-4f86-87aa-e9810a05f5ac"
+    },
+    {
+      "number": "68",
+      "title": "",
+      "date": "2021-07-13",
+      "src": "mangadex",
+      "mdxId": "b0b9864b-a9a8-4fe0-b177-84d7eacefa2f"
+    },
+    {
+      "number": "69",
+      "title": "",
+      "date": "2021-07-13",
+      "src": "mangadex",
+      "mdxId": "4a40714a-2252-4f43-8a1b-7ac553639d34"
+    },
+    {
+      "number": "70",
+      "title": "",
+      "date": "2021-07-13",
+      "src": "mangadex",
+      "mdxId": "7123884a-cc70-4faa-afcc-78ddb4fecb63"
+    },
+    {
+      "number": "71",
+      "title": "",
+      "date": "2021-07-13",
+      "src": "mangadex",
+      "mdxId": "7042fc28-a807-4fb0-94f5-adefb1659141"
+    },
+    {
+      "number": "72",
+      "title": "",
+      "date": "2021-07-13",
+      "src": "mangadex",
+      "mdxId": "15190a7d-777e-4fe8-be15-36105223cb62"
+    },
+    {
+      "number": "73",
+      "title": "",
+      "date": "2021-07-13",
+      "src": "mangadex",
+      "mdxId": "13686e23-b700-4f12-9c50-fae7e8b76283"
+    },
+    {
+      "number": "74",
+      "title": "",
+      "date": "2021-07-13",
+      "src": "mangadex",
+      "mdxId": "45feaf8e-1206-4fdc-ba4e-ead0a6bc8418"
+    },
+    {
+      "number": "75",
+      "title": "",
+      "date": "2021-07-13",
+      "src": "mangadex",
+      "mdxId": "02a86dcb-0090-4f91-87ee-c6c5f67c0317"
+    },
+    {
+      "number": "76",
+      "title": "",
+      "date": "2021-07-13",
+      "src": "mangadex",
+      "mdxId": "28bbe649-52eb-4fc0-9c07-9657dd9a1661"
+    },
+    {
+      "number": "77",
+      "title": "",
+      "date": "2021-07-13",
+      "src": "mangadex",
+      "mdxId": "a3a76504-0043-4fe9-bf95-c7af4f72fbd8"
+    },
+    {
+      "number": "78",
+      "title": "",
+      "date": "2021-07-13",
+      "src": "mangadex",
+      "mdxId": "9f8e21af-39ca-4fad-9d61-663a227cc8c9"
+    },
+    {
+      "number": "79",
+      "title": "",
+      "date": "2021-07-13",
+      "src": "mangadex",
+      "mdxId": "99c0ef89-21b9-4f02-aa17-d3f3dd951bcf"
+    },
+    {
+      "number": "80",
+      "title": "",
+      "date": "2021-07-13",
+      "src": "mangadex",
+      "mdxId": "6cc906ae-ad03-4f1b-a861-ec5b9da04022"
+    },
+    {
+      "number": "81",
+      "title": "SCP-137",
+      "date": "2021-07-24",
+      "src": "mangadex",
+      "mdxId": "4c8d709a-ac1f-4fab-be86-45d8eb1c88db"
+    },
+    {
+      "number": "82",
+      "title": "SCP-1370",
+      "date": "2021-07-24",
+      "src": "mangadex",
+      "mdxId": "a8ac567d-948a-4f6b-a2fa-c9490f6952e6"
+    },
+    {
+      "number": "83",
+      "title": "SCP-3883",
+      "date": "2021-07-24",
+      "src": "mangadex",
+      "mdxId": "8cc20b5a-168f-4f27-90b5-64e1db507da9"
+    },
+    {
+      "number": "84",
+      "title": "SCP-514",
+      "date": "2021-07-24",
+      "src": "mangadex",
+      "mdxId": "2d5cf38c-c0da-4f53-b0fd-425452a0b295"
+    },
+    {
+      "number": "85",
+      "title": "SCP-1306",
+      "date": "2021-07-24",
+      "src": "mangadex",
+      "mdxId": "f0e57fd8-6fac-4f48-be6e-d35b05e44aa3"
+    },
+    {
+      "number": "86",
+      "title": "SCP-1013",
+      "date": "2021-09-02",
+      "src": "mangadex",
+      "mdxId": "9d3d8cef-1d05-4f40-bc72-18b82b82653a"
+    },
+    {
+      "number": "87",
+      "title": "Coisas que Dr Bright não é autorizado a fazer na fundação, parte 2",
+      "date": "2021-09-02",
+      "src": "mangadex",
+      "mdxId": "1fe469fa-f244-4fd6-ab57-d0ee2bc92a16"
+    },
+    {
+      "number": "88",
+      "title": "SCP-035",
+      "date": "2021-09-02",
+      "src": "mangadex",
+      "mdxId": "061a1da7-cb54-4f37-a7e4-2218d6535f73"
+    },
+    {
+      "number": "89",
+      "title": "SCP-101-FR",
+      "date": "2021-09-02",
+      "src": "mangadex",
+      "mdxId": "64be1c1b-d96f-4fa6-8008-239da15994fb"
+    },
+    {
+      "number": "90",
+      "title": "SCP-774-JP",
+      "date": "2021-09-02",
+      "src": "mangadex",
+      "mdxId": "d193b75c-3519-4ff3-88c4-9d49330e3275"
+    },
+    {
+      "number": "91",
+      "title": "SCP-920",
+      "date": "2021-10-21",
+      "src": "mangadex",
+      "mdxId": "68febd79-d91d-4f5e-b102-b4ebcfe4eb64"
+    },
+    {
+      "number": "92",
+      "title": "SCP-846",
+      "date": "2021-10-21",
+      "src": "mangadex",
+      "mdxId": "2491592b-afda-4fff-b5e4-22865f40358a"
+    },
+    {
+      "number": "93",
+      "title": "SCP-387",
+      "date": "2021-10-21",
+      "src": "mangadex",
+      "mdxId": "1700cc53-bb25-4fa1-bf6a-b2bf3492fbc6"
+    },
+    {
+      "number": "94",
+      "title": "SCP-261",
+      "date": "2021-10-21",
+      "src": "mangadex",
+      "mdxId": "9a54b112-02dd-4f60-ad37-1bb3a3c00036"
+    },
+    {
+      "number": "95",
+      "title": "Log de Experimento 261 \"AD DE\" De SCP-261 (Venda Pandimensional)",
+      "date": "2021-10-21",
+      "src": "mangadex",
+      "mdxId": "c39cff48-f06a-4fdb-a46e-51dafd08bbbc"
+    },
+    {
+      "number": "96",
+      "title": "SCP-2790",
+      "date": "2022-01-28",
+      "src": "mangadex",
+      "mdxId": "3079db3d-ed72-493a-9caa-a2a99390f06e"
+    },
+    {
+      "number": "97",
+      "title": "SCP-3375",
+      "date": "2022-01-28",
+      "src": "mangadex",
+      "mdxId": "80eacd81-6787-4543-b546-fb7fcafc7a63"
+    },
+    {
+      "number": "98",
+      "title": "SCP-408",
+      "date": "2022-01-28",
+      "src": "mangadex",
+      "mdxId": "58183774-802c-406b-8131-0bee02275224"
+    },
+    {
+      "number": "99",
+      "title": "SCP-336",
+      "date": "2022-01-28",
+      "src": "mangadex",
+      "mdxId": "a38587a8-a828-4d76-ab0e-78c115ce26a1"
+    },
+    {
+      "number": "100",
+      "title": "SCP-239",
+      "date": "2022-01-28",
+      "src": "mangadex",
+      "mdxId": "0e76292a-5ca8-40c5-816a-e84bd6a1a95b"
+    },
+    {
+      "number": "101",
+      "title": "SCP-905-JP",
+      "date": "2023-03-05",
+      "src": "mangadex",
+      "mdxId": "f01397f0-2f98-4c8a-8862-1337878413d3"
+    },
+    {
+      "number": "102",
+      "title": "SCP-8900",
+      "date": "2023-03-05",
+      "src": "mangadex",
+      "mdxId": "af7db27f-ef7a-44ba-9fc2-0ddfee4077fd"
+    },
+    {
+      "number": "103",
+      "title": "SCP-738",
+      "date": "2023-03-05",
+      "src": "mangadex",
+      "mdxId": "30c3ebe3-4bae-47c6-8db3-b16be1aca3cd"
+    },
+    {
+      "number": "104",
+      "title": "SCP-132-JP",
+      "date": "2023-03-05",
+      "src": "mangadex",
+      "mdxId": "4736c217-b8b6-467c-91b3-22cd42e557ef"
+    },
+    {
+      "number": "105",
+      "title": "SCP-2019",
+      "date": "2023-03-05",
+      "src": "mangadex",
+      "mdxId": "30d17c9f-fc6b-4f36-ab6a-9af63673422e"
+    },
+    {
+      "number": "106",
+      "title": "SCP-2952",
+      "date": "2023-10-30",
+      "src": "mangadex",
+      "mdxId": "dfb4a0aa-184c-49c2-8a40-ee0c757434e5"
+    },
+    {
+      "number": "107",
+      "title": "SCP-1867",
+      "date": "2023-10-30",
+      "src": "mangadex",
+      "mdxId": "6bd7350f-f597-46ea-ba8d-7d4411a031f1"
+    },
+    {
+      "number": "108",
+      "title": "",
+      "date": "2023-12-18",
+      "src": "mangadex",
+      "mdxId": "690b347a-432f-4927-9030-205db65e7dab"
+    },
+    {
+      "number": "109",
+      "title": "",
+      "date": "2023-12-18",
+      "src": "mangadex",
+      "mdxId": "394c2e00-7531-4b05-b932-73a2f11e42a0"
+    },
+    {
+      "number": "110",
+      "title": "",
+      "date": "2023-12-18",
+      "src": "mangadex",
+      "mdxId": "d9776cee-4eab-42cd-b732-edd0794750ca"
+    }
+  ]
+}

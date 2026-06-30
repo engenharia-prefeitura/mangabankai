@@ -1,0 +1,676 @@
+{
+  "pt": [
+    {
+      "number": "1",
+      "title": "Comida da mamãe",
+      "date": "2020-02-15",
+      "src": "mangadex",
+      "mdxId": "a72560a9-593a-4082-9f4e-f8578a937838"
+    },
+    {
+      "number": "2",
+      "title": "Sobre a mesa",
+      "date": "2020-02-15",
+      "src": "mangadex",
+      "mdxId": "a9991631-8928-45e4-a826-57cefcdca9f0"
+    },
+    {
+      "number": "3",
+      "title": "Nova Mensagem",
+      "date": "2020-02-15",
+      "src": "mangadex",
+      "mdxId": "a7ca7a9d-0940-4e58-9916-19b007f4216a"
+    },
+    {
+      "number": "4",
+      "title": "Tipo Favorito",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "9b081516-6127-4f8f-b2cb-0c61aa0fd4bb"
+    },
+    {
+      "number": "5",
+      "title": "Achados e perdidos",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "bd523f23-a186-4d96-8270-f8b6fa4ffa4f"
+    },
+    {
+      "number": "6",
+      "title": "Assunto",
+      "date": "2020-06-03",
+      "src": "mangadex",
+      "mdxId": "33ca3c49-e71a-42a5-931e-d9ae36d08021"
+    },
+    {
+      "number": "7",
+      "title": "Novela da moda",
+      "date": "2020-06-03",
+      "src": "mangadex",
+      "mdxId": "0c63b76a-b909-4c63-8caa-770f37a77870"
+    },
+    {
+      "number": "8",
+      "title": "Falando sobre problemas",
+      "date": "2020-07-03",
+      "src": "mangadex",
+      "mdxId": "b9e2eb40-ac2d-4338-ae7e-d9f65a31762b"
+    },
+    {
+      "number": "9",
+      "title": "Um homem normalmente é...",
+      "date": "2020-07-03",
+      "src": "mangadex",
+      "mdxId": "e27439a0-9999-4bc3-9ff3-1049ddc4e811"
+    },
+    {
+      "number": "10",
+      "title": "Expectativas",
+      "date": "2020-07-09",
+      "src": "mangadex",
+      "mdxId": "a7461cdf-b076-4c87-b70f-e04e24fee3f0"
+    },
+    {
+      "number": "11",
+      "title": "Beijos",
+      "date": "2020-10-03",
+      "src": "mangadex",
+      "mdxId": "f35232c4-3e65-415b-8dba-7acc344d8dcc"
+    },
+    {
+      "number": "12",
+      "title": "High-five",
+      "date": "2022-04-24",
+      "src": "mangadex",
+      "mdxId": "48ae30d7-13f0-4a29-b71c-e0a918a41f28"
+    },
+    {
+      "number": "13",
+      "title": "",
+      "date": "2022-04-24",
+      "src": "mangadex",
+      "mdxId": "88c808d8-7ae6-4b97-8a93-507e83ebd3dc"
+    },
+    {
+      "number": "14",
+      "title": "",
+      "date": "2022-04-24",
+      "src": "mangadex",
+      "mdxId": "d5cb2dfd-c090-4df8-9ecf-1c7220151cae"
+    },
+    {
+      "number": "15",
+      "title": "",
+      "date": "2022-04-24",
+      "src": "mangadex",
+      "mdxId": "3aba39fd-e740-4b28-8c6c-04a072e1db28"
+    },
+    {
+      "number": "16",
+      "title": "",
+      "date": "2022-04-24",
+      "src": "mangadex",
+      "mdxId": "20942a8c-47f3-4f95-8d5b-1e853c6b8774"
+    },
+    {
+      "number": "17",
+      "title": "",
+      "date": "2022-04-24",
+      "src": "mangadex",
+      "mdxId": "586b879a-1f58-4f5e-828a-4b330aeac9ba"
+    },
+    {
+      "number": "18",
+      "title": "",
+      "date": "2022-04-24",
+      "src": "mangadex",
+      "mdxId": "3747029f-2baa-4edb-b49f-02a101182c13"
+    },
+    {
+      "number": "19",
+      "title": "Esse seu lado (especial Hiroki)",
+      "date": "2022-04-24",
+      "src": "mangadex",
+      "mdxId": "0bcb7f8e-72fe-42de-9978-9edeb7c356be"
+    },
+    {
+      "number": "20",
+      "title": "",
+      "date": "2022-04-24",
+      "src": "mangadex",
+      "mdxId": "f141f239-33a5-4b67-b2b9-67f6a06987c6"
+    },
+    {
+      "number": "21",
+      "title": "",
+      "date": "2022-04-24",
+      "src": "mangadex",
+      "mdxId": "35a453cb-e0f3-45c5-a759-c6a3fc800060"
+    },
+    {
+      "number": "22",
+      "title": "Físico inspirador",
+      "date": "2022-08-28",
+      "src": "mangadex",
+      "mdxId": "5930e374-5e19-4c6f-a6b7-3aa14eeea451"
+    },
+    {
+      "number": "23",
+      "title": "Garotas",
+      "date": "2022-12-01",
+      "src": "mangadex",
+      "mdxId": "e2a1fed5-d57d-44b1-8bc4-af41268c8e99"
+    },
+    {
+      "number": "24",
+      "title": "Afazeres",
+      "date": "2022-12-01",
+      "src": "mangadex",
+      "mdxId": "48ed67d2-a25a-4cef-bfac-4d513406b88d"
+    },
+    {
+      "number": "25",
+      "title": "Interesse Romântico",
+      "date": "2022-12-23",
+      "src": "mangadex",
+      "mdxId": "a31dd8f8-8f52-4700-b0ec-254975192f73"
+    },
+    {
+      "number": "26",
+      "title": "Tela Inicial",
+      "date": "2022-12-23",
+      "src": "mangadex",
+      "mdxId": "9229d0f8-fae2-48de-b4ed-99cf7ef8d585"
+    },
+    {
+      "number": "27",
+      "title": "Flashback do Hiroki: Você não era esse tipo de cara",
+      "date": "2022-12-23",
+      "src": "mangadex",
+      "mdxId": "93c95c90-44ed-425b-a06a-35d0f8132b11"
+    },
+    {
+      "number": "27.5",
+      "title": "",
+      "date": "2023-01-30",
+      "src": "mangadex",
+      "mdxId": "5365e6ec-c897-4098-a846-323de2f24255"
+    },
+    {
+      "number": "27.6",
+      "title": "",
+      "date": "2023-01-30",
+      "src": "mangadex",
+      "mdxId": "dd935f5d-b02e-4b34-872b-701b8bc33edb"
+    },
+    {
+      "number": "27.7",
+      "title": "",
+      "date": "2023-01-30",
+      "src": "mangadex",
+      "mdxId": "beb759a9-8158-4c84-86e2-3cf3af73b82f"
+    },
+    {
+      "number": "28",
+      "title": "",
+      "date": "2023-01-30",
+      "src": "mangadex",
+      "mdxId": "02d332cf-7bcc-4d34-8693-e5f0765d400f"
+    },
+    {
+      "number": "29",
+      "title": "",
+      "date": "2023-01-30",
+      "src": "mangadex",
+      "mdxId": "aaccd52c-b186-408d-955e-002dfa1bae6f"
+    },
+    {
+      "number": "30",
+      "title": "",
+      "date": "2023-01-30",
+      "src": "mangadex",
+      "mdxId": "deba36f2-8032-4421-86ac-da9d13ae6303"
+    },
+    {
+      "number": "31",
+      "title": "",
+      "date": "2023-01-30",
+      "src": "mangadex",
+      "mdxId": "91055c27-fb90-45a7-b290-74e7e0b0f63e"
+    },
+    {
+      "number": "32",
+      "title": "",
+      "date": "2023-02-05",
+      "src": "mangadex",
+      "mdxId": "96e79bed-65cb-4f8a-a9a4-c0d353411743"
+    },
+    {
+      "number": "33",
+      "title": "",
+      "date": "2023-02-05",
+      "src": "mangadex",
+      "mdxId": "38237a5d-e2a5-4ed8-afbb-925221243d65"
+    },
+    {
+      "number": "34",
+      "title": "",
+      "date": "2023-04-10",
+      "src": "mangadex",
+      "mdxId": "4c13da15-cfc7-487b-9b43-53c62277091f"
+    },
+    {
+      "number": "35",
+      "title": "",
+      "date": "2023-04-10",
+      "src": "mangadex",
+      "mdxId": "4a2bf672-742c-44e8-a429-410cd290e85a"
+    },
+    {
+      "number": "36",
+      "title": "",
+      "date": "2023-05-01",
+      "src": "mangadex",
+      "mdxId": "120296dd-1c50-40df-8b3b-5daf6d2d3494"
+    },
+    {
+      "number": "37",
+      "title": "",
+      "date": "2023-05-01",
+      "src": "mangadex",
+      "mdxId": "520bb960-dae5-4b99-b26b-7e2883977ff7"
+    },
+    {
+      "number": "38",
+      "title": "",
+      "date": "2023-05-01",
+      "src": "mangadex",
+      "mdxId": "b6367b44-ffa9-49cd-ad86-56cbf32ff4da"
+    },
+    {
+      "number": "39",
+      "title": "",
+      "date": "2023-05-01",
+      "src": "mangadex",
+      "mdxId": "a918e4e5-44b1-4dd9-b89b-70aed226d6f1"
+    },
+    {
+      "number": "40",
+      "title": "",
+      "date": "2023-05-01",
+      "src": "mangadex",
+      "mdxId": "66e3ec45-65a4-44f3-ac24-98cd6bfac3fc"
+    },
+    {
+      "number": "41",
+      "title": "",
+      "date": "2023-05-12",
+      "src": "mangadex",
+      "mdxId": "9a390cfe-0eea-4899-b1fe-5d2a2a5d0f17"
+    },
+    {
+      "number": "42",
+      "title": "",
+      "date": "2023-05-12",
+      "src": "mangadex",
+      "mdxId": "f4d49c13-bf1f-4cc8-a2b4-b868c5bea898"
+    },
+    {
+      "number": "43",
+      "title": "",
+      "date": "2023-05-12",
+      "src": "mangadex",
+      "mdxId": "a8da5b63-c47e-439e-ab47-316b6e7b445d"
+    },
+    {
+      "number": "44",
+      "title": "",
+      "date": "2023-05-16",
+      "src": "mangadex",
+      "mdxId": "c8064700-43fa-42a3-9d3a-00294e637a4e"
+    },
+    {
+      "number": "45",
+      "title": "",
+      "date": "2023-05-22",
+      "src": "mangadex",
+      "mdxId": "1887f2aa-b116-42d1-ab68-d3c6cf216232"
+    },
+    {
+      "number": "46",
+      "title": "",
+      "date": "2023-05-22",
+      "src": "mangadex",
+      "mdxId": "0edfaa40-d0fb-4af9-a478-c1329f8be63c"
+    },
+    {
+      "number": "47",
+      "title": "",
+      "date": "2023-07-05",
+      "src": "mangadex",
+      "mdxId": "80fb6db3-d75e-4f36-a409-2e3068556e47"
+    },
+    {
+      "number": "48",
+      "title": "Karaokê",
+      "date": "2024-01-16",
+      "src": "mangadex",
+      "mdxId": "4c88605e-7049-4e6a-8db8-a080c08d0bfa"
+    },
+    {
+      "number": "49",
+      "title": "Pelo menos por enquanto",
+      "date": "2024-02-11",
+      "src": "mangadex",
+      "mdxId": "be56dab4-a399-4443-b6d7-408c20187864"
+    },
+    {
+      "number": "50",
+      "title": "Possibilidades",
+      "date": "2024-02-21",
+      "src": "mangadex",
+      "mdxId": "5d312fdb-54eb-4594-bbb6-26c0b5974d16"
+    },
+    {
+      "number": "51",
+      "title": "Piano",
+      "date": "2024-03-08",
+      "src": "mangadex",
+      "mdxId": "5a861213-79ca-45d8-a876-526d1aabe27e"
+    },
+    {
+      "number": "52",
+      "title": "Tohno",
+      "date": "2024-04-19",
+      "src": "mangadex",
+      "mdxId": "8149b6c2-5f27-47e2-a5c9-57655323148a"
+    },
+    {
+      "number": "53",
+      "title": "Vai ficar tudo bem",
+      "date": "2024-05-07",
+      "src": "mangadex",
+      "mdxId": "42c94248-9063-4510-aa35-87c5ee77e161"
+    },
+    {
+      "number": "54",
+      "title": "Isso não parece certo",
+      "date": "2024-06-28",
+      "src": "mangadex",
+      "mdxId": "5603215c-9a2d-410f-9077-14d0a4d7b76e"
+    },
+    {
+      "number": "55",
+      "title": "Ideais e Vida real",
+      "date": "2024-07-21",
+      "src": "mangadex",
+      "mdxId": "54646d1f-d271-47b4-ade0-bd95497f3fb2"
+    },
+    {
+      "number": "56",
+      "title": "Yukata",
+      "date": "2024-07-24",
+      "src": "mangadex",
+      "mdxId": "b2bb3f8b-782c-4a87-ae48-3e579b60dd21"
+    },
+    {
+      "number": "57",
+      "title": "Cara legal (parte 1)",
+      "date": "2024-07-27",
+      "src": "mangadex",
+      "mdxId": "6a01ce18-655a-41e0-b2cc-bd86801c6ebd"
+    },
+    {
+      "number": "58",
+      "title": "Cara legal (parte 2)",
+      "date": "2024-07-29",
+      "src": "mangadex",
+      "mdxId": "fa8e3144-a90c-42dd-adc8-fea992f9a8cd"
+    },
+    {
+      "number": "59",
+      "title": "Irmãozão e irmãozinho",
+      "date": "2024-08-05",
+      "src": "mangadex",
+      "mdxId": "e044aacf-8deb-4cad-8b9a-901928a2ad5b"
+    },
+    {
+      "number": "60",
+      "title": "Pai e filho",
+      "date": "2024-08-18",
+      "src": "mangadex",
+      "mdxId": "d633b2af-d9b2-4a0a-9823-5bb39d0e5160"
+    },
+    {
+      "number": "61",
+      "title": "Como ele é!?",
+      "date": "2024-12-05",
+      "src": "mangadex",
+      "mdxId": "eaf12924-303c-43f6-81a6-359988cb6d66"
+    },
+    {
+      "number": "62",
+      "title": "Marmita",
+      "date": "2024-12-13",
+      "src": "mangadex",
+      "mdxId": "fa0b2ec6-ea98-42c7-accb-ca5ecd83fc2c"
+    },
+    {
+      "number": "63",
+      "title": "Grupo de amigos",
+      "date": "2024-12-24",
+      "src": "mangadex",
+      "mdxId": "16ee510e-0baf-41cf-8135-6d77b0bbdac4"
+    },
+    {
+      "number": "64",
+      "title": "A casa de banho",
+      "date": "2025-03-13",
+      "src": "mangadex",
+      "mdxId": "09c9eab0-a80e-4c3b-8684-871d84056b0b"
+    },
+    {
+      "number": "65",
+      "title": "Queer",
+      "date": "2025-04-10",
+      "src": "mangadex",
+      "mdxId": "975490b0-5d12-4d03-9702-09f19824d49f"
+    },
+    {
+      "number": "66",
+      "title": "Eu sou um Homem",
+      "date": "2025-05-08",
+      "src": "mangadex",
+      "mdxId": "04efea7b-20d0-4227-9906-44a2a035e8d8"
+    },
+    {
+      "number": "67",
+      "title": "Qualquer pessoa",
+      "date": "2025-10-07",
+      "src": "mangadex",
+      "mdxId": "e3eb91f6-3ea3-4df6-b49e-e758df569448"
+    },
+    {
+      "number": "68",
+      "title": "Namorada",
+      "date": "2025-10-07",
+      "src": "mangadex",
+      "mdxId": "b98dd9e2-a46c-46d9-bf74-a62e7c58ea78"
+    },
+    {
+      "number": "69",
+      "title": "Como amigo",
+      "date": "2025-10-07",
+      "src": "mangadex",
+      "mdxId": "69cb0e20-2345-4254-a265-bb58d2eb89db"
+    },
+    {
+      "number": "70",
+      "title": "Bonequinho (1)",
+      "date": "2025-10-07",
+      "src": "mangadex",
+      "mdxId": "2f651cd7-27e8-4366-bb30-0c3624fa7ca0"
+    },
+    {
+      "number": "71",
+      "title": "Direito",
+      "date": "2025-10-07",
+      "src": "mangadex",
+      "mdxId": "873ebada-ec18-43f5-bc9b-62741851763a"
+    },
+    {
+      "number": "72",
+      "title": "Habilidade",
+      "date": "2025-10-07",
+      "src": "mangadex",
+      "mdxId": "26431436-c9b3-4fdd-85ab-c72b74ac5139"
+    },
+    {
+      "number": "74",
+      "title": "Mesmo sem ser correspondido...",
+      "date": "2025-12-20",
+      "src": "mangadex",
+      "mdxId": "d6437890-4eae-4e0c-adc2-69daec312024"
+    },
+    {
+      "number": "75",
+      "title": "Sentimentos verdadeiros",
+      "date": "2025-12-20",
+      "src": "mangadex",
+      "mdxId": "8c1c7eb4-c506-4d92-ad7c-810b658a6681"
+    },
+    {
+      "number": "76",
+      "title": "Melhor Amigo",
+      "date": "2026-02-03",
+      "src": "mangadex",
+      "mdxId": "f55d8a37-759e-429b-a264-d4b99b080b27"
+    },
+    {
+      "number": "77",
+      "title": "Casamento",
+      "date": "2026-02-15",
+      "src": "mangadex",
+      "mdxId": "0f9beb50-0f50-471c-b705-3b37d314ff3e"
+    },
+    {
+      "number": "78",
+      "title": "Como um homem",
+      "date": "2026-02-15",
+      "src": "mangadex",
+      "mdxId": "11fb54a4-58a9-4597-bc77-21f2ee68314f"
+    },
+    {
+      "number": "79",
+      "title": "Para, mãe",
+      "date": "2026-02-15",
+      "src": "mangadex",
+      "mdxId": "92c2dee6-7d16-4abf-8e4d-030cf52e0761"
+    },
+    {
+      "number": "80",
+      "title": "Amigas",
+      "date": "2026-02-15",
+      "src": "mangadex",
+      "mdxId": "c4d46afb-cf43-4be0-ac30-6cfbcd1c7aa7"
+    },
+    {
+      "number": "81",
+      "title": "Cara desagradável",
+      "date": "2026-04-22",
+      "src": "mangadex",
+      "mdxId": "faf88dee-7f9f-4e1c-b502-bfb71a2062b8"
+    },
+    {
+      "number": "82",
+      "title": "Hiroki",
+      "date": "2026-04-22",
+      "src": "mangadex",
+      "mdxId": "8ace67d6-cfa7-46d1-a1e9-937b38efc81d"
+    },
+    {
+      "number": "83",
+      "title": "Daqui em diante",
+      "date": "2026-04-22",
+      "src": "mangadex",
+      "mdxId": "06a5cb04-1733-4bbf-a7dd-25eaa45e603b"
+    },
+    {
+      "number": "84",
+      "title": "Bonequinho (2)",
+      "date": "2026-04-22",
+      "src": "mangadex",
+      "mdxId": "87a2b3c2-3203-4f7c-8501-1d770dc8dcb9"
+    },
+    {
+      "number": "85",
+      "title": "Vídeos de Culinária",
+      "date": "2026-04-22",
+      "src": "mangadex",
+      "mdxId": "fa96ef70-e2f5-46d2-a615-2e3eb6e3d387"
+    },
+    {
+      "number": "86",
+      "title": "Cafunés",
+      "date": "2026-04-22",
+      "src": "mangadex",
+      "mdxId": "b08da0e8-645a-41f3-bcc2-58b1b80c5d88"
+    },
+    {
+      "number": "87",
+      "title": "Maquiagem",
+      "date": "2026-04-22",
+      "src": "mangadex",
+      "mdxId": "2a2fd437-8922-440f-a850-553e55db0760"
+    },
+    {
+      "number": "88",
+      "title": "Apresentação",
+      "date": "2026-04-22",
+      "src": "mangadex",
+      "mdxId": "414ea9de-f060-403e-b63b-294a40c24762"
+    },
+    {
+      "number": "89",
+      "title": "Vídeo de dança",
+      "date": "2026-04-22",
+      "src": "mangadex",
+      "mdxId": "1cf16a1e-e146-4ef5-9a7f-02a1ab86a699"
+    },
+    {
+      "number": "90",
+      "title": "Decisão",
+      "date": "2026-04-22",
+      "src": "mangadex",
+      "mdxId": "28a2b97a-9298-4357-a24b-9799011d3e7e"
+    },
+    {
+      "number": "91",
+      "title": "Declaração",
+      "date": "2026-04-22",
+      "src": "mangadex",
+      "mdxId": "ffdf2d4f-d354-41c7-9425-5a599e8b2aa3"
+    },
+    {
+      "number": "92",
+      "title": "Amigos",
+      "date": "2026-04-22",
+      "src": "mangadex",
+      "mdxId": "936aa777-9fbe-44ea-b369-dc48628d951c"
+    },
+    {
+      "number": "93",
+      "title": "Sorriso",
+      "date": "2026-04-22",
+      "src": "mangadex",
+      "mdxId": "8d2a54fa-6ff5-4f7d-aab4-472f2fd65091"
+    },
+    {
+      "number": "94",
+      "title": "Perguntas",
+      "date": "2026-04-22",
+      "src": "mangadex",
+      "mdxId": "98fa4054-49a2-4e2d-a13b-ffb09213aa8d"
+    }
+  ]
+}

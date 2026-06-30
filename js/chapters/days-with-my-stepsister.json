@@ -1,0 +1,361 @@
+{
+  "pt": [
+    {
+      "number": "1.1",
+      "title": "",
+      "date": "2022-02-02",
+      "src": "mangadex",
+      "mdxId": "ec93fad1-3d64-4d78-a12b-7cad687367b9"
+    },
+    {
+      "number": "1.2",
+      "title": "",
+      "date": "2022-02-02",
+      "src": "mangadex",
+      "mdxId": "be350412-9d14-4236-b0d9-e5b6c22e3f78"
+    },
+    {
+      "number": "2",
+      "title": "",
+      "date": "2022-02-02",
+      "src": "mangadex",
+      "mdxId": "d90e982c-2c42-4ec8-87c0-4880916c22a6"
+    },
+    {
+      "number": "3",
+      "title": "",
+      "date": "2022-04-16",
+      "src": "mangadex",
+      "mdxId": "e24705ec-0150-4a92-b9f0-46cfca4f0afa"
+    },
+    {
+      "number": "4",
+      "title": "",
+      "date": "2022-04-16",
+      "src": "mangadex",
+      "mdxId": "6618e08a-c52a-476d-adaf-b4ee81af22a9"
+    },
+    {
+      "number": "5",
+      "title": "",
+      "date": "2022-08-13",
+      "src": "mangadex",
+      "mdxId": "68936b96-33e0-477e-a087-c9b049504ec0"
+    },
+    {
+      "number": "6.1",
+      "title": "",
+      "date": "2022-08-13",
+      "src": "mangadex",
+      "mdxId": "7902138b-3a95-4ed6-b453-ff32b1277427"
+    },
+    {
+      "number": "6.2",
+      "title": "",
+      "date": "2022-08-13",
+      "src": "mangadex",
+      "mdxId": "5d4cee36-f4ce-4676-96b9-716f7b63b061"
+    },
+    {
+      "number": "7",
+      "title": "",
+      "date": "2022-08-13",
+      "src": "mangadex",
+      "mdxId": "33037112-bf00-4b14-8468-5f03c494d5b4"
+    },
+    {
+      "number": "8.1",
+      "title": "",
+      "date": "2022-08-13",
+      "src": "mangadex",
+      "mdxId": "f46b3a96-ddf6-46d2-adcd-ccaf395204ff"
+    },
+    {
+      "number": "8.2",
+      "title": "",
+      "date": "2022-08-13",
+      "src": "mangadex",
+      "mdxId": "6f43ac6d-25dc-4057-87ad-8f38202796fd"
+    },
+    {
+      "number": "9.1",
+      "title": "",
+      "date": "2022-09-19",
+      "src": "mangadex",
+      "mdxId": "d0d62c75-5458-49a2-ae08-5d387d391514"
+    },
+    {
+      "number": "9.2",
+      "title": "",
+      "date": "2022-12-14",
+      "src": "mangadex",
+      "mdxId": "1c2cf26f-340f-43b6-a05d-418bc9319674"
+    },
+    {
+      "number": "10.1",
+      "title": "",
+      "date": "2022-12-14",
+      "src": "mangadex",
+      "mdxId": "c0f98242-1556-42b5-ace0-0eb79b12a3ff"
+    },
+    {
+      "number": "10.2",
+      "title": "",
+      "date": "2023-01-11",
+      "src": "mangadex",
+      "mdxId": "1c4fa5f8-db09-42fd-a3ce-5c9b80cdc362"
+    },
+    {
+      "number": "11.1",
+      "title": "",
+      "date": "2023-01-11",
+      "src": "mangadex",
+      "mdxId": "c1620679-7d03-4ec0-b3a5-1971193f4c5c"
+    },
+    {
+      "number": "11.2",
+      "title": "",
+      "date": "2023-01-24",
+      "src": "mangadex",
+      "mdxId": "5be185da-da69-40db-b1b1-fd490a7d488b"
+    },
+    {
+      "number": "12.1",
+      "title": "",
+      "date": "2023-03-06",
+      "src": "mangadex",
+      "mdxId": "4d324c8c-ab23-4cf1-8174-1328d74c3fef"
+    },
+    {
+      "number": "12.2",
+      "title": "",
+      "date": "2023-03-06",
+      "src": "mangadex",
+      "mdxId": "9368eb04-8547-46ca-8ac2-81cfdef8d285"
+    },
+    {
+      "number": "13.1",
+      "title": "",
+      "date": "2023-07-15",
+      "src": "mangadex",
+      "mdxId": "4dc84a8c-6b6f-4fbf-98fe-ee00fa50d602"
+    },
+    {
+      "number": "13.2",
+      "title": "",
+      "date": "2023-09-06",
+      "src": "mangadex",
+      "mdxId": "f6346dfc-0ce5-4adf-bed1-d063c6846103"
+    },
+    {
+      "number": "14.1",
+      "title": "",
+      "date": "2023-09-15",
+      "src": "mangadex",
+      "mdxId": "e1892bb8-a46a-4fe6-8764-6d05d1273ba6"
+    },
+    {
+      "number": "14.2",
+      "title": "",
+      "date": "2024-01-23",
+      "src": "mangadex",
+      "mdxId": "66f9409f-3d0c-415a-b08f-cfbf611f05a7"
+    },
+    {
+      "number": "15.1",
+      "title": "",
+      "date": "2024-02-25",
+      "src": "mangadex",
+      "mdxId": "dbaaebd8-1d10-487c-86bb-e01166f16caf"
+    },
+    {
+      "number": "15.2",
+      "title": "",
+      "date": "2024-04-13",
+      "src": "mangadex",
+      "mdxId": "6f08d93d-cc23-4568-ad38-064f429c32b5"
+    },
+    {
+      "number": "16.1",
+      "title": "",
+      "date": "2024-04-13",
+      "src": "mangadex",
+      "mdxId": "8e163bb2-23d0-4550-8929-219a6f93a42d"
+    },
+    {
+      "number": "16.2",
+      "title": "",
+      "date": "2024-04-26",
+      "src": "mangadex",
+      "mdxId": "856deb95-6552-475c-b7a1-898503c5a271"
+    },
+    {
+      "number": "17.1",
+      "title": "",
+      "date": "2024-04-26",
+      "src": "mangadex",
+      "mdxId": "5d3b4e7e-fb0e-4e18-8f2d-362581bc1844"
+    },
+    {
+      "number": "17.2",
+      "title": "",
+      "date": "2024-04-27",
+      "src": "mangadex",
+      "mdxId": "b6aa7adc-5d90-4c20-ac89-12eb4230cfdc"
+    },
+    {
+      "number": "18.1",
+      "title": "",
+      "date": "2024-05-01",
+      "src": "mangadex",
+      "mdxId": "76d03f61-c45a-4a54-992d-8cc7dc7f8688"
+    },
+    {
+      "number": "18.2",
+      "title": "",
+      "date": "2024-05-22",
+      "src": "mangadex",
+      "mdxId": "310b59d0-d694-4d68-83f5-e03b2f30adca"
+    },
+    {
+      "number": "19.1",
+      "title": "",
+      "date": "2024-08-30",
+      "src": "mangadex",
+      "mdxId": "196d2576-4633-4cba-b02b-db8a633a4aa5"
+    },
+    {
+      "number": "19.2",
+      "title": "",
+      "date": "2024-09-09",
+      "src": "mangadex",
+      "mdxId": "8131d52d-3a0c-4991-abca-bf752504f206"
+    },
+    {
+      "number": "20.1",
+      "title": "",
+      "date": "2024-09-30",
+      "src": "mangadex",
+      "mdxId": "27277aa8-7578-4ad4-aa06-8d02e6a46f50"
+    },
+    {
+      "number": "20.2",
+      "title": "",
+      "date": "2025-02-23",
+      "src": "mangadex",
+      "mdxId": "8e75abd4-1872-4d38-8e50-344c82a58353"
+    },
+    {
+      "number": "21.1",
+      "title": "",
+      "date": "2025-02-23",
+      "src": "mangadex",
+      "mdxId": "202759f8-0415-4438-8d19-6fc82f1d781a"
+    },
+    {
+      "number": "21.2",
+      "title": "",
+      "date": "2025-02-23",
+      "src": "mangadex",
+      "mdxId": "5ae4cb10-a8a2-47e4-99ee-9fc7a73f60b0"
+    },
+    {
+      "number": "22.1",
+      "title": "",
+      "date": "2025-05-07",
+      "src": "mangadex",
+      "mdxId": "b012be98-29ff-466e-a147-315414933741"
+    },
+    {
+      "number": "22.2",
+      "title": "",
+      "date": "2025-10-02",
+      "src": "mangadex",
+      "mdxId": "5dc26d8a-25a9-4255-809b-657c39d960ce"
+    },
+    {
+      "number": "23.1",
+      "title": "",
+      "date": "2025-10-02",
+      "src": "mangadex",
+      "mdxId": "9c3fe5bf-3625-47d9-9125-7a642db79168"
+    },
+    {
+      "number": "23.2",
+      "title": "",
+      "date": "2025-10-12",
+      "src": "mangadex",
+      "mdxId": "7b084fff-5aa0-4312-ba11-3f9f1ad8467e"
+    },
+    {
+      "number": "24.1",
+      "title": "",
+      "date": "2025-11-21",
+      "src": "mangadex",
+      "mdxId": "d2d601de-5cca-47b2-b18b-5ef096fdef98"
+    },
+    {
+      "number": "24.2",
+      "title": "",
+      "date": "2025-11-21",
+      "src": "mangadex",
+      "mdxId": "7a158a6c-f28f-4781-a485-9465538e60e2"
+    },
+    {
+      "number": "25.1",
+      "title": "",
+      "date": "2025-12-11",
+      "src": "mangadex",
+      "mdxId": "3051d74e-3875-4e3b-9958-ceee33798189"
+    },
+    {
+      "number": "25.2",
+      "title": "",
+      "date": "2025-12-11",
+      "src": "mangadex",
+      "mdxId": "7d35ed68-2ac6-4ea4-99ef-5cea4843451d"
+    },
+    {
+      "number": "26.1",
+      "title": "",
+      "date": "2026-01-22",
+      "src": "mangadex",
+      "mdxId": "0e6e3b6b-dbda-496c-939c-0e3dfb6c542a"
+    },
+    {
+      "number": "26.2",
+      "title": "",
+      "date": "2026-01-22",
+      "src": "mangadex",
+      "mdxId": "f0d91e7e-f005-4062-9676-e71258043827"
+    },
+    {
+      "number": "27.1",
+      "title": "",
+      "date": "2026-05-06",
+      "src": "mangadex",
+      "mdxId": "7b6cc7fe-029c-441c-83d4-ff039a9acb8d"
+    },
+    {
+      "number": "27.2",
+      "title": "",
+      "date": "2026-05-06",
+      "src": "mangadex",
+      "mdxId": "e055ccd1-e766-44ef-8cdf-fab9b86168cf"
+    },
+    {
+      "number": "28.1",
+      "title": "",
+      "date": "2026-05-21",
+      "src": "mangadex",
+      "mdxId": "907e56c4-7331-49dc-9d87-14cadedb5c3f"
+    },
+    {
+      "number": "28.2",
+      "title": "",
+      "date": "2026-05-21",
+      "src": "mangadex",
+      "mdxId": "c8e4abd3-0e47-41db-b94e-f9dbe2afc93b"
+    }
+  ]
+}

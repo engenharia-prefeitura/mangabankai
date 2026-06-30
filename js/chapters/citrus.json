@@ -1,0 +1,424 @@
+{
+  "pt": [
+    {
+      "number": "1",
+      "title": "27 de Maio",
+      "date": "2020-01-24",
+      "src": "mangadex",
+      "mdxId": "fee6b58b-d415-4e1b-8fb5-6d325ded49f4"
+    },
+    {
+      "number": "2",
+      "title": "30 de Maio",
+      "date": "2020-01-24",
+      "src": "mangadex",
+      "mdxId": "7c4e52ab-7aef-44ad-92bc-150eafedcae4"
+    },
+    {
+      "number": "3",
+      "title": "2 de Junho",
+      "date": "2020-01-24",
+      "src": "mangadex",
+      "mdxId": "e4b7acf2-b401-4606-b3f8-26c8c7e27bda"
+    },
+    {
+      "number": "4",
+      "title": "13 de Junho",
+      "date": "2020-01-24",
+      "src": "mangadex",
+      "mdxId": "b730a3c9-3382-4d15-bb69-771c29a6d7f2"
+    },
+    {
+      "number": "5",
+      "title": "15 de Junho",
+      "date": "2020-01-24",
+      "src": "mangadex",
+      "mdxId": "535f5aab-43e9-4117-9d8d-bf91ab8fe03b"
+    },
+    {
+      "number": "6",
+      "title": "16 de Junho",
+      "date": "2020-01-24",
+      "src": "mangadex",
+      "mdxId": "e07bc141-7d4a-46eb-9174-37ae8f2b947e"
+    },
+    {
+      "number": "6.5",
+      "title": "16 de Junho ²",
+      "date": "2020-01-24",
+      "src": "mangadex",
+      "mdxId": "70fef261-fdad-42e4-b1dd-71224c39a320"
+    },
+    {
+      "number": "6.6",
+      "title": "MeiMei",
+      "date": "2020-01-25",
+      "src": "mangadex",
+      "mdxId": "e9fc57a3-5d44-4b21-969d-b693f3ed0230"
+    },
+    {
+      "number": "6.7",
+      "title": "Nomura Nene",
+      "date": "2020-01-25",
+      "src": "mangadex",
+      "mdxId": "c10ff241-1b40-4395-8b39-94f8362b036a"
+    },
+    {
+      "number": "6.8",
+      "title": "Baby Yuzu",
+      "date": "2020-02-16",
+      "src": "mangadex",
+      "mdxId": "267e5a19-a097-4177-b666-148a8488a30f"
+    },
+    {
+      "number": "7",
+      "title": "20 de Junho",
+      "date": "2020-01-24",
+      "src": "mangadex",
+      "mdxId": "f9e7c78a-016e-4803-81f8-a421630642ff"
+    },
+    {
+      "number": "7.5",
+      "title": "",
+      "date": "2021-07-29",
+      "src": "mangadex",
+      "mdxId": "c934112b-3173-4f36-b5b7-c2597293f28f"
+    },
+    {
+      "number": "7.6",
+      "title": "",
+      "date": "2021-07-29",
+      "src": "mangadex",
+      "mdxId": "f6120d1b-2718-4f70-85ff-958419ee1737"
+    },
+    {
+      "number": "7.7",
+      "title": "",
+      "date": "2021-07-29",
+      "src": "mangadex",
+      "mdxId": "a7b41d06-5009-4f8c-b544-2bbecc12f216"
+    },
+    {
+      "number": "8",
+      "title": "20 de Junho ²",
+      "date": "2020-01-24",
+      "src": "mangadex",
+      "mdxId": "6d633302-1dca-48f0-b2c2-38965880b80b"
+    },
+    {
+      "number": "9",
+      "title": "20 de Junho ³",
+      "date": "2020-01-24",
+      "src": "mangadex",
+      "mdxId": "9f39b32f-e6b7-4e1b-af63-4013e40b1fff"
+    },
+    {
+      "number": "10",
+      "title": "21 de Junho",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "8c4aa96f-ff63-478d-91aa-037820cea19d"
+    },
+    {
+      "number": "11",
+      "title": "21 de Junho²",
+      "date": "2020-03-21",
+      "src": "mangadex",
+      "mdxId": "09f5d82f-1475-433a-a581-0e9d41e8b765"
+    },
+    {
+      "number": "11.5",
+      "title": "Extra",
+      "date": "2020-05-19",
+      "src": "mangadex",
+      "mdxId": "dbb3ab68-548e-4821-b4af-07a8fada6ca2"
+    },
+    {
+      "number": "12",
+      "title": "24 a 28 de Junho",
+      "date": "2020-06-23",
+      "src": "mangadex",
+      "mdxId": "059ddfc9-bd70-4dc6-9861-1eb218a7e375"
+    },
+    {
+      "number": "12.4",
+      "title": "",
+      "date": "2020-10-06",
+      "src": "mangadex",
+      "mdxId": "bbe56c3b-27d5-4759-a085-2bf1d2618f6f"
+    },
+    {
+      "number": "12.5",
+      "title": "",
+      "date": "2021-07-29",
+      "src": "mangadex",
+      "mdxId": "4010a049-2e6f-4f32-aa5e-a47cc05e7490"
+    },
+    {
+      "number": "12.6",
+      "title": "",
+      "date": "2020-10-06",
+      "src": "mangadex",
+      "mdxId": "adcc06b0-acd6-4874-be99-962217c7073c"
+    },
+    {
+      "number": "12.7",
+      "title": "Baby Mei",
+      "date": "2020-10-06",
+      "src": "mangadex",
+      "mdxId": "87fda622-ab72-41c0-ac4d-a0205c53238e"
+    },
+    {
+      "number": "13",
+      "title": "",
+      "date": "2020-10-06",
+      "src": "mangadex",
+      "mdxId": "f7899d35-58a8-4d0d-9da8-57e956936c13"
+    },
+    {
+      "number": "14",
+      "title": "",
+      "date": "2020-10-20",
+      "src": "mangadex",
+      "mdxId": "95b25758-fb6a-4040-b0c2-bde23a5a9b7e"
+    },
+    {
+      "number": "14.1",
+      "title": "",
+      "date": "2020-11-10",
+      "src": "mangadex",
+      "mdxId": "a44a3036-0eb3-4e44-84b4-909dd10e7538"
+    },
+    {
+      "number": "15",
+      "title": "",
+      "date": "2020-11-20",
+      "src": "mangadex",
+      "mdxId": "afa09a0e-9198-4b58-a6a4-89881a7b9b96"
+    },
+    {
+      "number": "15.5",
+      "title": "",
+      "date": "2021-07-29",
+      "src": "mangadex",
+      "mdxId": "436f259d-12b9-4fb4-ab71-eff3a665771c"
+    },
+    {
+      "number": "16.1",
+      "title": "",
+      "date": "2020-12-22",
+      "src": "mangadex",
+      "mdxId": "ddd16970-248d-4239-a9cf-88a54d4d724c"
+    },
+    {
+      "number": "16.2",
+      "title": "",
+      "date": "2020-12-23",
+      "src": "mangadex",
+      "mdxId": "b8d2134d-b48a-43ea-b382-896baef78ac8"
+    },
+    {
+      "number": "17",
+      "title": "",
+      "date": "2021-01-21",
+      "src": "mangadex",
+      "mdxId": "564657eb-eb48-4755-a55f-98787e74d535"
+    },
+    {
+      "number": "17.1",
+      "title": "",
+      "date": "2021-07-29",
+      "src": "mangadex",
+      "mdxId": "c14d34b1-8fd7-4fd2-8e16-bf54bf3d2a84"
+    },
+    {
+      "number": "18",
+      "title": "",
+      "date": "2021-07-29",
+      "src": "mangadex",
+      "mdxId": "80722478-50fc-4f27-b27b-d306fb7a8375"
+    },
+    {
+      "number": "18.5",
+      "title": "",
+      "date": "2021-07-29",
+      "src": "mangadex",
+      "mdxId": "73a51dc9-a7a5-4f51-a25e-5b1814e826f9"
+    },
+    {
+      "number": "19",
+      "title": "",
+      "date": "2021-07-29",
+      "src": "mangadex",
+      "mdxId": "016c7b6a-6516-4fbe-8a19-44e50717bc2f"
+    },
+    {
+      "number": "20",
+      "title": "",
+      "date": "2021-07-29",
+      "src": "mangadex",
+      "mdxId": "fda82b53-2d86-4fc5-91d5-a259a3ced133"
+    },
+    {
+      "number": "21",
+      "title": "",
+      "date": "2021-08-24",
+      "src": "mangadex",
+      "mdxId": "e67023da-2fbe-4f6c-bdf5-2db451ea80aa"
+    },
+    {
+      "number": "22",
+      "title": "",
+      "date": "2021-09-20",
+      "src": "mangadex",
+      "mdxId": "14dd0e5d-4538-4fff-ad80-1a719024ffc8"
+    },
+    {
+      "number": "23",
+      "title": "",
+      "date": "2021-11-22",
+      "src": "mangadex",
+      "mdxId": "50a897c4-8361-4f62-bfed-7f075c59b585"
+    },
+    {
+      "number": "24",
+      "title": "",
+      "date": "2022-01-31",
+      "src": "mangadex",
+      "mdxId": "7e7e6224-6b71-4996-b5d0-16fbb4d6875e"
+    },
+    {
+      "number": "24.5",
+      "title": "Extras do volume 4",
+      "date": "2022-01-31",
+      "src": "mangadex",
+      "mdxId": "2b0b87aa-c4cd-4582-a920-1c97c566a957"
+    },
+    {
+      "number": "25",
+      "title": "",
+      "date": "2022-03-23",
+      "src": "mangadex",
+      "mdxId": "3fdf9cca-a79b-4767-90c3-68c8ab595447"
+    },
+    {
+      "number": "26",
+      "title": "",
+      "date": "2022-05-24",
+      "src": "mangadex",
+      "mdxId": "92a627d8-bac2-4201-bfb3-b1ac39f932ec"
+    },
+    {
+      "number": "27",
+      "title": "",
+      "date": "2022-08-24",
+      "src": "mangadex",
+      "mdxId": "2e6ba6cc-c2bf-45c7-8b28-a899f5a42970"
+    },
+    {
+      "number": "28",
+      "title": "",
+      "date": "2022-11-29",
+      "src": "mangadex",
+      "mdxId": "d130bb7b-6daa-4736-bcb9-9eeb61f33c5c"
+    },
+    {
+      "number": "29",
+      "title": "",
+      "date": "2023-01-04",
+      "src": "mangadex",
+      "mdxId": "4866e582-fded-42c1-9e4d-c7fd78668d9b"
+    },
+    {
+      "number": "30",
+      "title": "",
+      "date": "2023-01-19",
+      "src": "mangadex",
+      "mdxId": "a545b528-a3d5-409c-9e01-7400c102530f"
+    },
+    {
+      "number": "31",
+      "title": "",
+      "date": "2023-04-17",
+      "src": "mangadex",
+      "mdxId": "7da7da0b-c618-43d3-9e0e-14d1229b72e6"
+    },
+    {
+      "number": "31.5",
+      "title": "",
+      "date": "2023-05-27",
+      "src": "mangadex",
+      "mdxId": "556d9165-71fd-4b8a-a0cc-981c25d4871b"
+    },
+    {
+      "number": "32",
+      "title": "",
+      "date": "2023-05-27",
+      "src": "mangadex",
+      "mdxId": "b38b0de7-0328-4f80-8d39-ecb80d4e3e18"
+    },
+    {
+      "number": "33",
+      "title": "",
+      "date": "2023-06-30",
+      "src": "mangadex",
+      "mdxId": "54b21f72-abb5-44e0-92cc-54246aaff85c"
+    },
+    {
+      "number": "34",
+      "title": "",
+      "date": "2023-07-31",
+      "src": "mangadex",
+      "mdxId": "875761cc-e806-4a02-931c-7bb2a90081aa"
+    },
+    {
+      "number": "35",
+      "title": "30 de Setembro",
+      "date": "2023-10-25",
+      "src": "mangadex",
+      "mdxId": "38ff23d3-dbf1-4863-9759-776fbef7ad08"
+    },
+    {
+      "number": "36",
+      "title": "",
+      "date": "2024-05-20",
+      "src": "mangadex",
+      "mdxId": "e50c9ed4-d2ad-4feb-a80c-14007a8a2f3e"
+    },
+    {
+      "number": "36.5",
+      "title": "Extra do volume 6 - Um dia na vida de Yuzu e Mei",
+      "date": "2024-06-27",
+      "src": "mangadex",
+      "mdxId": "078a4cc9-97e2-4b72-a6bc-d3f967451909"
+    },
+    {
+      "number": "37",
+      "title": "Extra volume 6 - 7 de outubro",
+      "date": "2024-07-30",
+      "src": "mangadex",
+      "mdxId": "6b35cd87-5f1b-40db-9392-e151cab5af92"
+    },
+    {
+      "number": "38",
+      "title": "5 de outubro",
+      "date": "2024-12-04",
+      "src": "mangadex",
+      "mdxId": "b3dc6728-4382-471f-8498-d9c078c49b11"
+    },
+    {
+      "number": "39",
+      "title": "October 27th",
+      "date": "2025-05-03",
+      "src": "mangadex",
+      "mdxId": "3c56d680-8874-46e2-b91b-2100e5c47b97"
+    },
+    {
+      "number": "40",
+      "title": "4 de novembro",
+      "date": "2025-07-25",
+      "src": "mangadex",
+      "mdxId": "609855dc-965f-4d46-9886-eb2c0a8ebac0"
+    }
+  ]
+}

@@ -1,0 +1,816 @@
+{
+  "pt": [
+    {
+      "number": "1",
+      "title": "É Melhor Você Não Olhar Atrás da Cortina",
+      "date": "2018-10-04",
+      "src": "mangadex",
+      "mdxId": "83dfc108-beb8-4f8e-8a21-ce08f07273e3"
+    },
+    {
+      "number": "2",
+      "title": "Isso é Incrível pra Caramba, Né?",
+      "date": "2018-10-04",
+      "src": "mangadex",
+      "mdxId": "92075b16-47f6-4c42-b78a-8bbf137b80bb"
+    },
+    {
+      "number": "3",
+      "title": "Eu Me Pergunto Quantos Você Aguenta",
+      "date": "2018-10-04",
+      "src": "mangadex",
+      "mdxId": "7e8454b3-4e1e-4fc9-b9d6-d6bb3b8f794f"
+    },
+    {
+      "number": "4",
+      "title": "Eu Não Consigo Lidar com Aquele Clima",
+      "date": "2018-10-04",
+      "src": "mangadex",
+      "mdxId": "633eac4a-6716-4f2f-a111-707a2e8538fc"
+    },
+    {
+      "number": "5",
+      "title": "Droga, Eu Acho que Estou Apaixonada",
+      "date": "2018-10-04",
+      "src": "mangadex",
+      "mdxId": "293db291-71af-4f28-a1c5-aa5304b56bf7"
+    },
+    {
+      "number": "6",
+      "title": "Isso é.... divertido pra caramba",
+      "date": "2022-01-23",
+      "src": "mangadex",
+      "mdxId": "0402de57-f457-46ef-91ec-d15adf824e00"
+    },
+    {
+      "number": "7",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "5894be32-a75d-4ba1-9a3c-ab0ffb74a3c8"
+    },
+    {
+      "number": "8",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "9a4fe568-6ff6-4c8f-afcb-d398a6bdee0f"
+    },
+    {
+      "number": "9",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "daf0690e-653b-468c-bee5-951f03ee8066"
+    },
+    {
+      "number": "10",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "37b71686-c0eb-41b6-95dc-eac874c07d13"
+    },
+    {
+      "number": "11",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "efb79fcd-3e6a-4859-8ca8-9b50b64c1afc"
+    },
+    {
+      "number": "12",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "134a8f46-2975-4ab7-b3c8-0bd7a7ebe8b1"
+    },
+    {
+      "number": "13",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "f07dca05-b5a2-4a60-809f-6a33101504e4"
+    },
+    {
+      "number": "14",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "a78ed75d-5413-4ef3-a550-6523f9f72c5b"
+    },
+    {
+      "number": "15",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "12ce46d4-d744-4d41-b39d-90861d093413"
+    },
+    {
+      "number": "16",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "26a0ac25-c92b-48b2-9532-e4f0502a44e0"
+    },
+    {
+      "number": "17",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "404749ea-69cc-4beb-927e-7841e9d509b5"
+    },
+    {
+      "number": "18",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "2845f94a-c0cb-40bb-8352-9d2162d24526"
+    },
+    {
+      "number": "19",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "f02ef2f4-fc84-4d35-93da-8931423090c6"
+    },
+    {
+      "number": "20",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "47514e43-8a20-4726-bf44-647cbbd3802f"
+    },
+    {
+      "number": "21",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "8aee5662-dceb-4f1b-8b41-6ff7d5476fa0"
+    },
+    {
+      "number": "22",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "f50ea6b0-8335-4829-a2d7-f0d2b5d8bf96"
+    },
+    {
+      "number": "23",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "2889664d-0270-4325-abde-018ab731e572"
+    },
+    {
+      "number": "24",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "05bc4b5b-6dcf-4b94-89f9-459c3a4dfac3"
+    },
+    {
+      "number": "25",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "5c0de369-167f-4eb7-9679-118d27cade6d"
+    },
+    {
+      "number": "26",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "e94c7dbf-ee1d-4c38-98f2-adb234a17d2d"
+    },
+    {
+      "number": "27",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "9b0033ab-f1be-48a0-b7a9-b6dfb039e036"
+    },
+    {
+      "number": "28",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "61638c74-371b-4b26-b689-0f1602a19e0f"
+    },
+    {
+      "number": "29",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "570252b3-0811-431b-b370-a3f06576b751"
+    },
+    {
+      "number": "30",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "3fd6055e-6784-4d84-8654-5e1863a09e7c"
+    },
+    {
+      "number": "31",
+      "title": "Para me tornar a campeã de Killing Bites",
+      "date": "2018-07-06",
+      "src": "mangadex",
+      "mdxId": "e92bf11a-1be0-417a-8d64-4176c982071d"
+    },
+    {
+      "number": "32",
+      "title": "Eu não tenho medo da morte",
+      "date": "2018-07-06",
+      "src": "mangadex",
+      "mdxId": "fbde6797-230d-47eb-89c3-e1232c4c8d06"
+    },
+    {
+      "number": "33",
+      "title": "Você realmente vai me ajudar a me tornar um Brute?",
+      "date": "2018-07-06",
+      "src": "mangadex",
+      "mdxId": "83103f14-18f1-407e-bd16-dcf3f35a3d05"
+    },
+    {
+      "number": "34",
+      "title": "Por favor, poupe a Tasuku-chan",
+      "date": "2018-07-06",
+      "src": "mangadex",
+      "mdxId": "f1c42c28-a60e-42d3-b7ab-20fe11c0a408"
+    },
+    {
+      "number": "35",
+      "title": "Você perdeu, não foi?",
+      "date": "2018-07-06",
+      "src": "mangadex",
+      "mdxId": "7b779252-45a6-47e1-a05d-4f8590231d95"
+    },
+    {
+      "number": "36",
+      "title": "Killing Bites não é tão mole assim",
+      "date": "2018-07-06",
+      "src": "mangadex",
+      "mdxId": "8564d558-1a7e-4eb1-b22f-71e183383477"
+    },
+    {
+      "number": "37",
+      "title": "Meu Grande Ancestral",
+      "date": "2018-07-06",
+      "src": "mangadex",
+      "mdxId": "fec006d2-b872-49fb-aa65-85577121ccc9"
+    },
+    {
+      "number": "38",
+      "title": "Até Nos Tornarmos Campeões Não é Mais um Sonho Distante",
+      "date": "2018-07-10",
+      "src": "mangadex",
+      "mdxId": "0afd9bdc-346c-4646-acb9-434e2a89b215"
+    },
+    {
+      "number": "39",
+      "title": "Aah- Que Saco",
+      "date": "2018-11-10",
+      "src": "mangadex",
+      "mdxId": "bf3a9e78-3e0d-41e0-85e8-58bf96e46f2c"
+    },
+    {
+      "number": "40",
+      "title": "Por que você me matou?",
+      "date": "2018-12-13",
+      "src": "mangadex",
+      "mdxId": "6262908f-a09d-4a2d-9e55-0e583286c007"
+    },
+    {
+      "number": "41",
+      "title": "Por que o Nunuupi está comigo!",
+      "date": "2019-01-10",
+      "src": "mangadex",
+      "mdxId": "05f3bdb0-eb10-457c-9c34-a1c173ebe427"
+    },
+    {
+      "number": "42",
+      "title": "A sorte sorri para mim hoje",
+      "date": "2019-01-12",
+      "src": "mangadex",
+      "mdxId": "3cd6e47b-45ca-448c-899d-c4d26cae0a3f"
+    },
+    {
+      "number": "43",
+      "title": "Eu só quero ir para um lugar alto",
+      "date": "2019-01-28",
+      "src": "mangadex",
+      "mdxId": "d432b195-e0c3-482a-9c0f-c0f33a8640e8"
+    },
+    {
+      "number": "44",
+      "title": "Há quanto tempo, coelhinha",
+      "date": "2019-02-03",
+      "src": "mangadex",
+      "mdxId": "babd1002-c09c-4740-ac54-52ce2c9190b9"
+    },
+    {
+      "number": "45",
+      "title": "Isso dói tanto",
+      "date": "2019-02-12",
+      "src": "mangadex",
+      "mdxId": "acc0cddd-10d3-45a1-9045-1e983cf07887"
+    },
+    {
+      "number": "46",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "fbf3288d-56fe-426e-bfe3-7dbed9a70f87"
+    },
+    {
+      "number": "47",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "8c65ce93-3ef7-40da-a1d6-732dec97128e"
+    },
+    {
+      "number": "48",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "7cac206a-5822-41f0-a1a2-03128682c51a"
+    },
+    {
+      "number": "49",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "d59a3d4d-c27b-4b48-8c6a-aa5ceadeb882"
+    },
+    {
+      "number": "50",
+      "title": "",
+      "date": "2022-05-05",
+      "src": "mangadex",
+      "mdxId": "d562d532-452e-4107-b29f-016b6c2bfcb8"
+    },
+    {
+      "number": "51",
+      "title": "",
+      "date": "2022-07-17",
+      "src": "mangadex",
+      "mdxId": "188dc606-290b-48bd-aa19-ac55260dcc87"
+    },
+    {
+      "number": "52",
+      "title": "",
+      "date": "2022-07-17",
+      "src": "mangadex",
+      "mdxId": "f0ed53ba-f6a0-4989-bd8a-a52f70586f5b"
+    },
+    {
+      "number": "53",
+      "title": "",
+      "date": "2022-07-17",
+      "src": "mangadex",
+      "mdxId": "8ae5ac74-6055-4eed-9a57-1df107adadbc"
+    },
+    {
+      "number": "54",
+      "title": "",
+      "date": "2022-07-17",
+      "src": "mangadex",
+      "mdxId": "5ba41918-1321-4475-84cc-5bf83d48338a"
+    },
+    {
+      "number": "55",
+      "title": "",
+      "date": "2022-07-17",
+      "src": "mangadex",
+      "mdxId": "26c8db3b-d4bd-4630-a782-0cb5bf71919b"
+    },
+    {
+      "number": "56",
+      "title": "",
+      "date": "2022-07-17",
+      "src": "mangadex",
+      "mdxId": "9b73fd21-31a0-4973-a75b-d41488b177af"
+    },
+    {
+      "number": "57",
+      "title": "",
+      "date": "2022-07-17",
+      "src": "mangadex",
+      "mdxId": "a2ac7d8d-a0ab-494b-a3b8-0bf7b86b3264"
+    },
+    {
+      "number": "58",
+      "title": "",
+      "date": "2022-07-17",
+      "src": "mangadex",
+      "mdxId": "7dd712ca-eaad-4819-8b7b-c6e920245b2d"
+    },
+    {
+      "number": "59",
+      "title": "",
+      "date": "2022-07-17",
+      "src": "mangadex",
+      "mdxId": "88a71dc6-a946-4063-8119-ab3d75baf333"
+    },
+    {
+      "number": "60",
+      "title": "",
+      "date": "2022-07-17",
+      "src": "mangadex",
+      "mdxId": "0cc5d540-2f5e-4886-a03d-ba86b13056d7"
+    },
+    {
+      "number": "61",
+      "title": "",
+      "date": "2022-07-17",
+      "src": "mangadex",
+      "mdxId": "512e0bc3-6d47-403d-a21d-8814d1dd4e59"
+    },
+    {
+      "number": "62",
+      "title": "",
+      "date": "2022-07-17",
+      "src": "mangadex",
+      "mdxId": "8d743223-42a6-410d-a30a-bfb79ca91a4e"
+    },
+    {
+      "number": "63",
+      "title": "",
+      "date": "2022-07-17",
+      "src": "mangadex",
+      "mdxId": "225c0330-fd56-444b-9974-9bea0165ce12"
+    },
+    {
+      "number": "64",
+      "title": "",
+      "date": "2022-07-17",
+      "src": "mangadex",
+      "mdxId": "fa5f2c2b-948e-4056-906e-b4f471771dc3"
+    },
+    {
+      "number": "65",
+      "title": "",
+      "date": "2022-07-17",
+      "src": "mangadex",
+      "mdxId": "f4ed6b4c-95b3-4257-ae7b-0436cd442e09"
+    },
+    {
+      "number": "66",
+      "title": "",
+      "date": "2022-07-17",
+      "src": "mangadex",
+      "mdxId": "bef9bebb-0ae9-4790-8a7d-35c10a36f021"
+    },
+    {
+      "number": "67",
+      "title": "",
+      "date": "2022-07-17",
+      "src": "mangadex",
+      "mdxId": "3975524a-5743-41e4-a9f8-1e139b9bd8f3"
+    },
+    {
+      "number": "68",
+      "title": "",
+      "date": "2022-07-17",
+      "src": "mangadex",
+      "mdxId": "a3979d0c-35df-41ad-8908-c54a0d8370d1"
+    },
+    {
+      "number": "69",
+      "title": "",
+      "date": "2022-07-17",
+      "src": "mangadex",
+      "mdxId": "2bfa95ba-eea8-4e1e-9297-f03282e82aae"
+    },
+    {
+      "number": "70",
+      "title": "",
+      "date": "2022-07-17",
+      "src": "mangadex",
+      "mdxId": "5708a763-5a8a-4800-a94e-c8abe259ccae"
+    },
+    {
+      "number": "71",
+      "title": "",
+      "date": "2022-07-17",
+      "src": "mangadex",
+      "mdxId": "e1c466fb-349d-4343-9cde-6ef430793b51"
+    },
+    {
+      "number": "72",
+      "title": "",
+      "date": "2022-07-17",
+      "src": "mangadex",
+      "mdxId": "ff930294-82da-4aeb-bc75-d294f9e20143"
+    },
+    {
+      "number": "73",
+      "title": "",
+      "date": "2022-07-17",
+      "src": "mangadex",
+      "mdxId": "1e55e59b-6339-4970-a7a8-c4cc6babce13"
+    },
+    {
+      "number": "74",
+      "title": "",
+      "date": "2022-07-18",
+      "src": "mangadex",
+      "mdxId": "e80fda95-db06-49eb-9ef3-90c6235a03c8"
+    },
+    {
+      "number": "75",
+      "title": "",
+      "date": "2022-07-18",
+      "src": "mangadex",
+      "mdxId": "64ecd6b1-ae23-46bc-a382-e832df49c630"
+    },
+    {
+      "number": "76",
+      "title": "",
+      "date": "2022-07-18",
+      "src": "mangadex",
+      "mdxId": "ee9667c6-a4a7-4450-b99f-368ad9b4d795"
+    },
+    {
+      "number": "77",
+      "title": "",
+      "date": "2022-07-18",
+      "src": "mangadex",
+      "mdxId": "fd2f3e91-2468-4430-9812-d309598aeaf0"
+    },
+    {
+      "number": "78",
+      "title": "Eu quero voltar",
+      "date": "2022-07-18",
+      "src": "mangadex",
+      "mdxId": "d107e3b0-52e5-44b7-be81-1277a2898390"
+    },
+    {
+      "number": "79",
+      "title": "Eu tenho a mesma opinião",
+      "date": "2022-07-18",
+      "src": "mangadex",
+      "mdxId": "65a58200-4292-4147-b043-0d3b464b018f"
+    },
+    {
+      "number": "80",
+      "title": "Enorme",
+      "date": "2022-07-18",
+      "src": "mangadex",
+      "mdxId": "9cf4159a-0087-4854-988e-e0c9804e3fc4"
+    },
+    {
+      "number": "81",
+      "title": "Você vai ser morto por mim",
+      "date": "2022-07-18",
+      "src": "mangadex",
+      "mdxId": "e8b3c3c9-462e-4171-8293-ff221ad783ae"
+    },
+    {
+      "number": "82",
+      "title": "Sem esse sexto sentido, você nem deveria se preocupar",
+      "date": "2022-07-18",
+      "src": "mangadex",
+      "mdxId": "391cb9c2-3caf-413a-8693-5e1c28594c97"
+    },
+    {
+      "number": "83",
+      "title": "Quem é o idiota agora",
+      "date": "2022-07-18",
+      "src": "mangadex",
+      "mdxId": "d030317a-dd74-4bda-94bd-4c55dd1128d9"
+    },
+    {
+      "number": "84",
+      "title": "Quem diabos decidiu isso por mim?",
+      "date": "2022-07-18",
+      "src": "mangadex",
+      "mdxId": "cb2256d7-406d-4fe8-9f74-a6fe7ba4b52b"
+    },
+    {
+      "number": "85",
+      "title": "Eu fui gravemente ferido pelo seu ataque",
+      "date": "2022-07-18",
+      "src": "mangadex",
+      "mdxId": "bff7b5db-ce16-4840-8209-6ce66872a4f1"
+    },
+    {
+      "number": "86",
+      "title": "Não tem o que fazer, ela vai ter que ser o especial desta noite",
+      "date": "2022-07-18",
+      "src": "mangadex",
+      "mdxId": "6c754dc5-ca02-4e0b-aa85-0864d176d0fa"
+    },
+    {
+      "number": "87",
+      "title": "Você não é um guerreiro",
+      "date": "2022-07-18",
+      "src": "mangadex",
+      "mdxId": "3b43318b-00fd-46b4-b890-2bb6a0219b91"
+    },
+    {
+      "number": "88",
+      "title": "Honestamente, estou desapontada",
+      "date": "2022-07-18",
+      "src": "mangadex",
+      "mdxId": "e5224885-2eb9-4ee4-95bf-f1fa329592b0"
+    },
+    {
+      "number": "89",
+      "title": "Saber caçar está na minha natureza ♡",
+      "date": "2022-07-18",
+      "src": "mangadex",
+      "mdxId": "6c8b813c-6521-476b-9dc3-4c6251eb2376"
+    },
+    {
+      "number": "90",
+      "title": "Que mulher nojenta",
+      "date": "2022-07-18",
+      "src": "mangadex",
+      "mdxId": "42604963-4a46-400f-b9e0-7b554f9b5a48"
+    },
+    {
+      "number": "91",
+      "title": "Nunca soltar!",
+      "date": "2022-07-18",
+      "src": "mangadex",
+      "mdxId": "d34772b8-2b3f-4623-9ab6-af08fd19d160"
+    },
+    {
+      "number": "92",
+      "title": "Esse é o meu amor como um educador",
+      "date": "2022-07-18",
+      "src": "mangadex",
+      "mdxId": "557d134f-9af3-4f46-bccc-f168a3eede0d"
+    },
+    {
+      "number": "93",
+      "title": "Está bem frio, não acha?",
+      "date": "2022-07-18",
+      "src": "mangadex",
+      "mdxId": "72238264-a6ef-449e-8ffc-64e51349fb0d"
+    },
+    {
+      "number": "94",
+      "title": "Eu não consigo aguentar mais",
+      "date": "2022-07-18",
+      "src": "mangadex",
+      "mdxId": "c14a15f2-8a48-4928-af3b-e4fe64e96a8c"
+    },
+    {
+      "number": "95",
+      "title": "Eu perdi totalmente a minha confiança!",
+      "date": "2022-07-18",
+      "src": "mangadex",
+      "mdxId": "37c559da-1f26-4abc-bdc2-394e7490819d"
+    },
+    {
+      "number": "96",
+      "title": "Para resumir, acho que ela é invencível",
+      "date": "2022-07-18",
+      "src": "mangadex",
+      "mdxId": "ea9fdca0-9229-4c1d-aa64-e0808a836636"
+    },
+    {
+      "number": "97",
+      "title": "Desista com todas as suas forçar",
+      "date": "2022-07-18",
+      "src": "mangadex",
+      "mdxId": "05ff12c5-ce6a-40a7-847b-6fd9c5a1f98e"
+    },
+    {
+      "number": "98",
+      "title": "Quem você acha que é fraca",
+      "date": "2023-05-01",
+      "src": "mangadex",
+      "mdxId": "bbedcec8-e51a-430e-a0fd-5cf8cbd78a9a"
+    },
+    {
+      "number": "99",
+      "title": "",
+      "date": "2023-10-20",
+      "src": "mangadex",
+      "mdxId": "59305d3f-46c4-4893-8cb6-00bfb73cd6db"
+    },
+    {
+      "number": "99.5",
+      "title": "",
+      "date": "2023-10-20",
+      "src": "mangadex",
+      "mdxId": "26d22c25-f342-4d81-93fd-a5a1cd572df6"
+    },
+    {
+      "number": "100",
+      "title": "",
+      "date": "2023-10-20",
+      "src": "mangadex",
+      "mdxId": "ed7cf4be-4950-4137-a733-2e880b7f2f90"
+    },
+    {
+      "number": "101",
+      "title": "",
+      "date": "2023-10-20",
+      "src": "mangadex",
+      "mdxId": "167c4a93-9d43-4a61-b205-7e05256a8c9f"
+    },
+    {
+      "number": "102",
+      "title": "",
+      "date": "2023-10-20",
+      "src": "mangadex",
+      "mdxId": "edaf6766-3ec7-4d61-a02f-c3ca7648b89c"
+    },
+    {
+      "number": "103",
+      "title": "",
+      "date": "2023-10-20",
+      "src": "mangadex",
+      "mdxId": "d0b8fe21-0305-4a4f-b930-a065e096a7bd"
+    },
+    {
+      "number": "104",
+      "title": "",
+      "date": "2023-10-20",
+      "src": "mangadex",
+      "mdxId": "f618f978-53f6-4505-abca-c6fd0119f9a4"
+    },
+    {
+      "number": "105",
+      "title": "",
+      "date": "2023-10-20",
+      "src": "mangadex",
+      "mdxId": "81d792be-ede0-4d6a-96f7-3e012c31742c"
+    },
+    {
+      "number": "105.5",
+      "title": "",
+      "date": "2023-10-20",
+      "src": "mangadex",
+      "mdxId": "6b10ebb3-da94-4ab6-be9c-a9989fe7d20b"
+    },
+    {
+      "number": "106",
+      "title": "",
+      "date": "2023-10-20",
+      "src": "mangadex",
+      "mdxId": "94f95258-f464-4ce8-b6b7-5aea216e61cc"
+    },
+    {
+      "number": "107",
+      "title": "",
+      "date": "2023-10-20",
+      "src": "mangadex",
+      "mdxId": "b9b83c87-b34f-4573-811c-e2f17109c2fb"
+    },
+    {
+      "number": "108",
+      "title": "",
+      "date": "2023-10-20",
+      "src": "mangadex",
+      "mdxId": "a5751cff-e056-478e-80fb-d15172af6a51"
+    },
+    {
+      "number": "109",
+      "title": "",
+      "date": "2023-10-20",
+      "src": "mangadex",
+      "mdxId": "d50ab225-55c0-4c1f-95a4-d7d5b7f605c3"
+    },
+    {
+      "number": "110",
+      "title": "",
+      "date": "2023-10-20",
+      "src": "mangadex",
+      "mdxId": "bb73c663-e0c2-4e56-8c56-98eb50cdfa06"
+    },
+    {
+      "number": "111",
+      "title": "",
+      "date": "2023-10-20",
+      "src": "mangadex",
+      "mdxId": "cd17ec81-6997-47db-8b97-20ef6754b557"
+    },
+    {
+      "number": "112",
+      "title": "",
+      "date": "2023-10-20",
+      "src": "mangadex",
+      "mdxId": "40c0824c-e7bd-4938-9ba1-3265961fdf91"
+    },
+    {
+      "number": "113",
+      "title": "",
+      "date": "2023-10-20",
+      "src": "mangadex",
+      "mdxId": "ab0f2efa-45c4-4110-8e75-609b5797ce98"
+    },
+    {
+      "number": "114",
+      "title": "",
+      "date": "2023-10-20",
+      "src": "mangadex",
+      "mdxId": "0d0ddd50-831c-45d8-ad3a-4f3013844fcd"
+    }
+  ]
+}

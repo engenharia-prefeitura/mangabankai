@@ -1,0 +1,501 @@
+{
+  "pt": [
+    {
+      "number": "1",
+      "title": "Um menino \"Normal\"",
+      "date": "2023-07-26",
+      "src": "mangadex",
+      "mdxId": "6b508cb9-1b79-4e45-a0b0-e7057a2d8a88"
+    },
+    {
+      "number": "2",
+      "title": "Eu Quero Dar o Primeiro Passo",
+      "date": "2023-08-17",
+      "src": "mangadex",
+      "mdxId": "cc0f58a2-1fa4-4995-be9a-890fdf38870d"
+    },
+    {
+      "number": "3",
+      "title": "Perfeita Incompatibilidade",
+      "date": "2023-09-09",
+      "src": "mangadex",
+      "mdxId": "abc73810-6645-4d35-85fd-2b512395bf7b"
+    },
+    {
+      "number": "4",
+      "title": "Foi Divertido",
+      "date": "2023-09-09",
+      "src": "mangadex",
+      "mdxId": "c79e1020-78c8-4468-92a6-5cbf0314c727"
+    },
+    {
+      "number": "5",
+      "title": "Eu preciso dizer a ela",
+      "date": "2023-10-30",
+      "src": "mangadex",
+      "mdxId": "e5ba07d0-400a-4216-be4b-47de5ae5ef71"
+    },
+    {
+      "number": "6",
+      "title": "Está tudo bem?",
+      "date": "2024-01-21",
+      "src": "mangadex",
+      "mdxId": "0b7bf9c4-1bd4-4de9-bd58-b9cb7e282de4"
+    },
+    {
+      "number": "7",
+      "title": "Dia do encontro",
+      "date": "2024-01-21",
+      "src": "mangadex",
+      "mdxId": "833a81ba-16a1-4a76-94e6-e8570293ef89"
+    },
+    {
+      "number": "8",
+      "title": "Dia do encontro 2",
+      "date": "2024-01-21",
+      "src": "mangadex",
+      "mdxId": "11de8bcc-c5c7-4da4-bd04-a5b932824648"
+    },
+    {
+      "number": "9",
+      "title": "Segurando as mãos",
+      "date": "2024-01-21",
+      "src": "mangadex",
+      "mdxId": "7730caca-54ae-4f94-ac78-d5160d6883b0"
+    },
+    {
+      "number": "10",
+      "title": "Primeiro beijo",
+      "date": "2024-01-21",
+      "src": "mangadex",
+      "mdxId": "1876f7fe-feeb-48bc-882b-081dfa99d907"
+    },
+    {
+      "number": "11",
+      "title": "O que exatamente aconteceu?",
+      "date": "2024-01-21",
+      "src": "mangadex",
+      "mdxId": "18bd5699-e41f-44b3-8417-1359d4631b32"
+    },
+    {
+      "number": "12",
+      "title": "O passado de Kaede",
+      "date": "2024-01-21",
+      "src": "mangadex",
+      "mdxId": "c44bfe92-f124-4d64-afa7-31869e208acd"
+    },
+    {
+      "number": "13",
+      "title": "O passado de Kaede 2",
+      "date": "2024-01-21",
+      "src": "mangadex",
+      "mdxId": "b1f76777-1bfc-47c4-a8f9-a106db9fdc0e"
+    },
+    {
+      "number": "14",
+      "title": "Anormal",
+      "date": "2024-01-21",
+      "src": "mangadex",
+      "mdxId": "0f13b906-0efb-4ebe-9ca7-0295607a3a9c"
+    },
+    {
+      "number": "15",
+      "title": "Eu não quero saber",
+      "date": "2024-01-21",
+      "src": "mangadex",
+      "mdxId": "7e6b2a2b-e437-48b4-bfa3-7ff0d0ca8b17"
+    },
+    {
+      "number": "16",
+      "title": "Limite e bloqueio",
+      "date": "2024-01-21",
+      "src": "mangadex",
+      "mdxId": "16492efa-c8ad-4556-ac61-c5607ec2e725"
+    },
+    {
+      "number": "17",
+      "title": "Eu tive um romance deslumbrante",
+      "date": "2024-01-21",
+      "src": "mangadex",
+      "mdxId": "f6fbf651-d096-4842-beb9-685c8b542f44"
+    },
+    {
+      "number": "18",
+      "title": "Uma pessoa amável",
+      "date": "2024-01-21",
+      "src": "mangadex",
+      "mdxId": "6ff25db2-7246-4b83-871b-96dd6a532bf2"
+    },
+    {
+      "number": "19",
+      "title": "Sentimentos individuais",
+      "date": "2024-01-21",
+      "src": "mangadex",
+      "mdxId": "f5fbfbfe-27cb-44a4-9a80-7fab9020644a"
+    },
+    {
+      "number": "20",
+      "title": "Um novo começo",
+      "date": "2024-01-21",
+      "src": "mangadex",
+      "mdxId": "ff4621f1-ddcd-44fb-b48d-4258e7b44c09"
+    },
+    {
+      "number": "21",
+      "title": "Quero me manter positivo",
+      "date": "2024-01-22",
+      "src": "mangadex",
+      "mdxId": "9962a8bd-a771-47dd-a0e0-6a151fb33b41"
+    },
+    {
+      "number": "22",
+      "title": "Problemas do Sahara",
+      "date": "2024-01-23",
+      "src": "mangadex",
+      "mdxId": "2bf4920b-88ba-4117-b657-3c98ed913abc"
+    },
+    {
+      "number": "23",
+      "title": "As amigas da Tsubasa",
+      "date": "2024-01-24",
+      "src": "mangadex",
+      "mdxId": "f310bddc-4a0f-45a8-8a39-b5cfc8c5cad7"
+    },
+    {
+      "number": "24",
+      "title": "Mudanças ocultas",
+      "date": "2024-01-24",
+      "src": "mangadex",
+      "mdxId": "bea31c9d-96af-4ea5-b336-16939d91a300"
+    },
+    {
+      "number": "25",
+      "title": "Começando a brotar",
+      "date": "2024-01-24",
+      "src": "mangadex",
+      "mdxId": "c7b07ed4-8851-4321-a65e-6507ea87054a"
+    },
+    {
+      "number": "26",
+      "title": "Autoconsciente, e ao mesmo tempo...",
+      "date": "2024-01-24",
+      "src": "mangadex",
+      "mdxId": "082d4307-d6a6-47e8-a213-bb6e9fb82293"
+    },
+    {
+      "number": "27",
+      "title": "No telhado",
+      "date": "2024-01-24",
+      "src": "mangadex",
+      "mdxId": "03f2509f-9ebf-420f-b374-4af35a05982d"
+    },
+    {
+      "number": "28",
+      "title": "Tsubasa e Aya",
+      "date": "2024-01-24",
+      "src": "mangadex",
+      "mdxId": "0cd09fd6-5dd0-4e99-ab5f-35b12d10f019"
+    },
+    {
+      "number": "29",
+      "title": "Senso de distância",
+      "date": "2024-01-25",
+      "src": "mangadex",
+      "mdxId": "059c0b0d-6041-4a55-b0ba-864e23de92c2"
+    },
+    {
+      "number": "30",
+      "title": "Não diga que é um mal-entendido",
+      "date": "2024-01-25",
+      "src": "mangadex",
+      "mdxId": "f2589d7f-5675-46e3-975d-5999bfcd8952"
+    },
+    {
+      "number": "31",
+      "title": "Encontro com a Rio",
+      "date": "2024-01-25",
+      "src": "mangadex",
+      "mdxId": "cc3de096-9bf2-4141-8e10-1f275153deaa"
+    },
+    {
+      "number": "32",
+      "title": "O valor do \"normal\"",
+      "date": "2024-01-25",
+      "src": "mangadex",
+      "mdxId": "ac78331a-8f14-4588-9c53-862ce1d3fb85"
+    },
+    {
+      "number": "33",
+      "title": "Reencontro",
+      "date": "2024-01-25",
+      "src": "mangadex",
+      "mdxId": "58d851e5-0478-46dd-a39d-d952a61ff460"
+    },
+    {
+      "number": "34",
+      "title": "Separações",
+      "date": "2024-01-25",
+      "src": "mangadex",
+      "mdxId": "afdb5653-d395-4dad-a518-b0ffb86015e0"
+    },
+    {
+      "number": "35",
+      "title": "Um garoto normal",
+      "date": "2024-01-25",
+      "src": "mangadex",
+      "mdxId": "0cee97bd-e12d-4881-af3a-8a6945fceace"
+    },
+    {
+      "number": "36",
+      "title": "Menino invejoso",
+      "date": "2024-01-26",
+      "src": "mangadex",
+      "mdxId": "3863ef3d-bdf5-49be-aa23-c4e960b8d731"
+    },
+    {
+      "number": "37",
+      "title": "Eu fui salvo por você",
+      "date": "2024-01-26",
+      "src": "mangadex",
+      "mdxId": "0016e534-4d8a-4828-8546-94ce73053648"
+    },
+    {
+      "number": "38",
+      "title": "Encurtando distância",
+      "date": "2024-01-26",
+      "src": "mangadex",
+      "mdxId": "44645be8-52c6-45d1-823b-4d360b54890e"
+    },
+    {
+      "number": "39",
+      "title": "Um coração perturbado",
+      "date": "2024-01-28",
+      "src": "mangadex",
+      "mdxId": "927e0ce1-f4ee-4c3f-bca1-8eb950cfa1a5"
+    },
+    {
+      "number": "40",
+      "title": "Uma distância muito próxima",
+      "date": "2024-01-28",
+      "src": "mangadex",
+      "mdxId": "4acf370c-e034-495b-a7a6-d20a38e8b8e5"
+    },
+    {
+      "number": "41",
+      "title": "O que é um bom fã?",
+      "date": "2024-01-28",
+      "src": "mangadex",
+      "mdxId": "5780a82b-78cb-4956-bb2a-0783fbec1eb7"
+    },
+    {
+      "number": "42",
+      "title": "Primeiro beijo ",
+      "date": "2024-01-31",
+      "src": "mangadex",
+      "mdxId": "a8344acc-9e63-4e58-a539-150487b8d287"
+    },
+    {
+      "number": "43",
+      "title": "É só a minha família que é estranha ",
+      "date": "2024-02-14",
+      "src": "mangadex",
+      "mdxId": "e00672f3-c463-47cf-b5f9-1f238d50f18f"
+    },
+    {
+      "number": "44",
+      "title": "Motivo para viver ",
+      "date": "2024-02-29",
+      "src": "mangadex",
+      "mdxId": "a49d59c8-d038-41cc-a5e4-44b5c1ec2530"
+    },
+    {
+      "number": "45",
+      "title": "Complexo",
+      "date": "2024-03-13",
+      "src": "mangadex",
+      "mdxId": "cc06e975-de49-4382-8c63-3192c58b434e"
+    },
+    {
+      "number": "46",
+      "title": "Você não sabe de nada ",
+      "date": "2024-03-27",
+      "src": "mangadex",
+      "mdxId": "7404bb84-97c4-4a79-a6d0-8ae370cba231"
+    },
+    {
+      "number": "47",
+      "title": "Você não percebeu?",
+      "date": "2024-04-10",
+      "src": "mangadex",
+      "mdxId": "cee35943-b1ac-4baf-b5b6-7f42319a7f28"
+    },
+    {
+      "number": "48",
+      "title": "O passado de Kanon ",
+      "date": "2024-05-08",
+      "src": "mangadex",
+      "mdxId": "3a1f84b1-2464-40af-bcbf-a1e3d5cbe376"
+    },
+    {
+      "number": "49",
+      "title": "O passado de Kanon ②",
+      "date": "2024-05-22",
+      "src": "mangadex",
+      "mdxId": "bd52b774-9408-4761-8dbf-8de24e3c08d6"
+    },
+    {
+      "number": "50",
+      "title": "A Luz Naquele Dia ",
+      "date": "2024-06-06",
+      "src": "mangadex",
+      "mdxId": "60b246c1-f433-4a0a-b07b-87681e34bad7"
+    },
+    {
+      "number": "51",
+      "title": "Coração Brilhante ",
+      "date": "2024-06-19",
+      "src": "mangadex",
+      "mdxId": "91048bd4-4f2e-44b8-9672-254a4c638058"
+    },
+    {
+      "number": "52",
+      "title": "Foto Indiscreta ",
+      "date": "2024-07-03",
+      "src": "mangadex",
+      "mdxId": "3d83c7ec-1016-4a17-8a54-1566473069b5"
+    },
+    {
+      "number": "53",
+      "title": "Amigos e Namorados ",
+      "date": "2024-07-18",
+      "src": "mangadex",
+      "mdxId": "454be34d-03a0-40d3-a3d1-83d9ee628e78"
+    },
+    {
+      "number": "54",
+      "title": "Assediador ",
+      "date": "2024-07-31",
+      "src": "mangadex",
+      "mdxId": "7fab409e-567c-4c22-a5ba-84bca7695f53"
+    },
+    {
+      "number": "55",
+      "title": "Pai Tóxico",
+      "date": "2024-08-15",
+      "src": "mangadex",
+      "mdxId": "b977d942-1f76-4624-aed4-823f4a21b31c"
+    },
+    {
+      "number": "56",
+      "title": "Vocês não entenderiam ",
+      "date": "2024-09-01",
+      "src": "mangadex",
+      "mdxId": "dda3572f-5c93-4075-9f43-9daeb39c7f6a"
+    },
+    {
+      "number": "57",
+      "title": "Kanon e Yamato ",
+      "date": "2024-09-14",
+      "src": "mangadex",
+      "mdxId": "7b620bbf-d876-4ca3-b805-e4745621a519"
+    },
+    {
+      "number": "58",
+      "title": "Estou mais feliz agora ",
+      "date": "2024-09-26",
+      "src": "mangadex",
+      "mdxId": "eb166f8e-2d3c-4645-8277-abb699a41ee6"
+    },
+    {
+      "number": "59",
+      "title": "Brilho Ofuscante ",
+      "date": "2024-10-12",
+      "src": "mangadex",
+      "mdxId": "1ac5eabd-7856-4349-9030-47863fb48219"
+    },
+    {
+      "number": "60",
+      "title": "A última noite ",
+      "date": "2024-10-25",
+      "src": "mangadex",
+      "mdxId": "244eac9b-db8d-4cdc-9d1c-88fe9cbb707c"
+    },
+    {
+      "number": "61",
+      "title": "A luminescência do garoto",
+      "date": "2024-11-10",
+      "src": "mangadex",
+      "mdxId": "e6389f49-7804-4c73-9506-5c759415c30f"
+    },
+    {
+      "number": "61.5",
+      "title": "Extra",
+      "date": "2024-11-11",
+      "src": "mangadex",
+      "mdxId": "b32a7627-36db-463d-8b66-9faa07c75f13"
+    },
+    {
+      "number": "62",
+      "title": "Jovem Vazio",
+      "date": "2025-01-15",
+      "src": "mangadex",
+      "mdxId": "343a814e-98b0-4258-acd6-a406041abf56"
+    },
+    {
+      "number": "63",
+      "title": "Nova Funcionária",
+      "date": "2025-01-30",
+      "src": "mangadex",
+      "mdxId": "cb35bf63-9338-4d72-a229-c593c4848e40"
+    },
+    {
+      "number": "64",
+      "title": "As circunstâncias \"desse lado\"",
+      "date": "2025-03-10",
+      "src": "mangadex",
+      "mdxId": "3d4d00e2-e336-4186-addd-5dbd9540bdcc"
+    },
+    {
+      "number": "65",
+      "title": "A Resposta ",
+      "date": "2025-03-15",
+      "src": "mangadex",
+      "mdxId": "bccc27f2-6ed0-4918-b78d-32ffa6ce8e53"
+    },
+    {
+      "number": "66",
+      "title": "Distância entre pessoas do mesmo sexo",
+      "date": "2025-03-22",
+      "src": "mangadex",
+      "mdxId": "f3437b15-6685-47bb-8c67-1fbab3f84a2d"
+    },
+    {
+      "number": "67",
+      "title": "Sentimentos amorosos distorcidos ",
+      "date": "2025-03-29",
+      "src": "mangadex",
+      "mdxId": "0e64a7b7-ba75-4748-9669-176c96353dae"
+    },
+    {
+      "number": "68",
+      "title": "Noite Estrelada ",
+      "date": "2025-04-09",
+      "src": "mangadex",
+      "mdxId": "ab01ff06-765b-4ab4-ba03-360d00504d65"
+    },
+    {
+      "number": "69",
+      "title": "Noite Estrelada 2",
+      "date": "2025-11-22",
+      "src": "mangadex",
+      "mdxId": "afbcbfde-3159-4c62-a578-068eb4da6788"
+    },
+    {
+      "number": "70",
+      "title": "Idade",
+      "date": "2025-11-22",
+      "src": "mangadex",
+      "mdxId": "e8f848a0-b219-4705-9c87-17f1d88b1371"
+    }
+  ]
+}

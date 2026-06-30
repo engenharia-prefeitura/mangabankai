@@ -1,0 +1,634 @@
+{
+  "pt": [
+    {
+      "number": "0",
+      "title": "Prólogo",
+      "date": "2026-01-15",
+      "src": "mangadex",
+      "mdxId": "a313f004-c5f2-4b07-9365-c69841d2250a"
+    },
+    {
+      "number": "1",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "a3354b99-2907-4def-80be-e0b82889a925"
+    },
+    {
+      "number": "2",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "6e54d711-edae-4fe4-9945-b3bc278a885a"
+    },
+    {
+      "number": "3",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "75261f48-9110-4638-82d7-55972d7c6c93"
+    },
+    {
+      "number": "4",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "1bc983d1-3138-43a0-8c97-9996b4b368a8"
+    },
+    {
+      "number": "5",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "641e75ca-34bc-4af0-8c74-003535e79eb2"
+    },
+    {
+      "number": "6",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "047f9102-686b-4951-a6b9-59d9f89c4def"
+    },
+    {
+      "number": "6.5",
+      "title": "Intermissão",
+      "date": "2026-02-13",
+      "src": "mangadex",
+      "mdxId": "bea121a8-f736-441a-b31d-ca317e6b321a"
+    },
+    {
+      "number": "7",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "966e87ca-c2b5-4844-b8be-48bbfe623abf"
+    },
+    {
+      "number": "8",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "18df34a4-2a2e-414f-854a-db93f8b97838"
+    },
+    {
+      "number": "9",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "64b6246b-9f88-4f95-938e-784011ac149b"
+    },
+    {
+      "number": "10",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "fd114ad1-68d1-4963-b01c-880dfd1cc9bf"
+    },
+    {
+      "number": "11",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "0b3acb9b-ac67-4ca8-b18d-ff81b924b2c7"
+    },
+    {
+      "number": "12",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "0051c99c-abd3-4bd1-a10f-dcade5484bc3"
+    },
+    {
+      "number": "12.5",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "ac0590ae-fb02-4344-8962-8c7271569eac"
+    },
+    {
+      "number": "13",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "6a95be77-872f-41ff-9ca9-67a16c5541bc"
+    },
+    {
+      "number": "14",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "f5322606-9424-458d-a6ea-28d1e28dcef6"
+    },
+    {
+      "number": "15",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "8c093d56-3f91-42b0-9abc-08d478e5d05c"
+    },
+    {
+      "number": "16",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "adaf2734-d3e9-4dcc-8f03-4026b10824f1"
+    },
+    {
+      "number": "17",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "7fc39a43-be37-44e3-bfe9-b01a3c281e27"
+    },
+    {
+      "number": "18",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "951a75c6-302b-4cab-a1b9-d7d0dd88f3c8"
+    },
+    {
+      "number": "18.5",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "0a6b7a2a-aa84-48a0-8c44-207b4fbacb02"
+    },
+    {
+      "number": "19",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "6d40ed2f-59c0-42f6-b6d3-6d14cad880b3"
+    },
+    {
+      "number": "20",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "f422e6b5-f0a3-4b60-ba88-764f489b8552"
+    },
+    {
+      "number": "21",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "8933cf11-4934-4fdc-b91c-e0bbaac876fd"
+    },
+    {
+      "number": "22",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "0bf7cbfc-93fe-442d-be5b-2a5725b33775"
+    },
+    {
+      "number": "23",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "3d256d8a-b824-455c-a37c-1fff5f87b00c"
+    },
+    {
+      "number": "24",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "b4a20744-ab3c-4e60-b6f0-6bde643a7ae5"
+    },
+    {
+      "number": "24.5",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "521bdbbc-1edd-46c1-874b-889c656f4adf"
+    },
+    {
+      "number": "25",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "52b29854-a398-4cbb-be86-a089d8092cb1"
+    },
+    {
+      "number": "26",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "c9517fc8-df7c-43ea-adcf-17eb057357a9"
+    },
+    {
+      "number": "27",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "ba609f99-a296-4ea7-a108-02f421499a78"
+    },
+    {
+      "number": "28",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "e1663c24-21ea-4f20-8680-f606f426792b"
+    },
+    {
+      "number": "29",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "96a091ce-acc7-4d9c-9f28-1b279eb9515b"
+    },
+    {
+      "number": "30",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "ce4db596-1487-406c-b326-fcc20125bc01"
+    },
+    {
+      "number": "30.5",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "97547360-9d3a-4460-be88-96e005f451b3"
+    },
+    {
+      "number": "31",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "c9a1c93e-05e4-42c5-90b0-7958bb492447"
+    },
+    {
+      "number": "32",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "0dcbd705-d214-4915-b8f7-839b59f12cca"
+    },
+    {
+      "number": "33",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "f9b586b6-c4c9-4d70-a8b8-a992a72882c2"
+    },
+    {
+      "number": "34",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "8d3e8c81-7f3d-424b-aea7-67fc1a03d3a2"
+    },
+    {
+      "number": "35",
+      "title": "",
+      "date": "2021-01-02",
+      "src": "mangadex",
+      "mdxId": "7922def5-236e-4a14-998b-761999357579"
+    },
+    {
+      "number": "35.5",
+      "title": "",
+      "date": "2021-01-26",
+      "src": "mangadex",
+      "mdxId": "848dffde-2c3f-4bf5-b67b-86dcfd3078aa"
+    },
+    {
+      "number": "36",
+      "title": "",
+      "date": "2021-01-26",
+      "src": "mangadex",
+      "mdxId": "2a25347e-6150-44cd-9ad8-19e96f717089"
+    },
+    {
+      "number": "37",
+      "title": "",
+      "date": "2021-02-08",
+      "src": "mangadex",
+      "mdxId": "0492f211-44ef-46d5-8e20-e11e122af711"
+    },
+    {
+      "number": "38",
+      "title": "",
+      "date": "2021-03-02",
+      "src": "mangadex",
+      "mdxId": "736ad105-fdfa-47da-9ff1-50729ccf3f01"
+    },
+    {
+      "number": "39",
+      "title": "Amigo",
+      "date": "2021-03-19",
+      "src": "mangadex",
+      "mdxId": "a505e5e1-c37e-47e3-89b4-5be44346ed88"
+    },
+    {
+      "number": "40",
+      "title": "",
+      "date": "2025-03-07",
+      "src": "mangadex",
+      "mdxId": "5578205b-c0e0-40bc-b2a0-d586012e039b"
+    },
+    {
+      "number": "41",
+      "title": "Não Esqueça",
+      "date": "2025-03-07",
+      "src": "mangadex",
+      "mdxId": "5a029ff2-ee90-4e9c-b2f5-143252db94a0"
+    },
+    {
+      "number": "41.5",
+      "title": "Arquivo Especial",
+      "date": "2025-03-07",
+      "src": "mangadex",
+      "mdxId": "7b76cb6b-08a6-4a1c-8cc1-ebe03e32030f"
+    },
+    {
+      "number": "42",
+      "title": "Rastreando",
+      "date": "2025-03-07",
+      "src": "mangadex",
+      "mdxId": "17ba1ddd-b4de-49f6-bbf5-fccc42d8b041"
+    },
+    {
+      "number": "43",
+      "title": "Objetivo",
+      "date": "2025-03-07",
+      "src": "mangadex",
+      "mdxId": "51bdc43f-5957-4601-81c1-e1a9860d01e3"
+    },
+    {
+      "number": "44",
+      "title": "Dramático",
+      "date": "2025-03-07",
+      "src": "mangadex",
+      "mdxId": "0032c18a-debb-4fac-9199-4c9cd6ef0844"
+    },
+    {
+      "number": "45",
+      "title": "Sobrevivência",
+      "date": "2021-07-10",
+      "src": "mangadex",
+      "mdxId": "21933096-6de3-4f39-bf6e-5a9c5c0fb90d"
+    },
+    {
+      "number": "46",
+      "title": "Tiroteio",
+      "date": "2021-07-17",
+      "src": "mangadex",
+      "mdxId": "04969326-ca30-4fc8-abe9-53079f273153"
+    },
+    {
+      "number": "47",
+      "title": "Indecisão",
+      "date": "2021-07-24",
+      "src": "mangadex",
+      "mdxId": "9d67ee19-75fa-4f30-8987-6c325b1aa9e1"
+    },
+    {
+      "number": "47.5",
+      "title": "Especial",
+      "date": "2021-08-14",
+      "src": "mangadex",
+      "mdxId": "ad5cbb40-dc78-4fe3-ac58-7d121eb7742b"
+    },
+    {
+      "number": "48",
+      "title": "Linhagem",
+      "date": "2021-08-14",
+      "src": "mangadex",
+      "mdxId": "d3e7742c-7a41-4f86-b1bd-26a64e38fab2"
+    },
+    {
+      "number": "49",
+      "title": "Aquisição",
+      "date": "2021-09-04",
+      "src": "mangadex",
+      "mdxId": "50afe3aa-6069-4fa1-876a-72ca5744aeb5"
+    },
+    {
+      "number": "50",
+      "title": "Escalada",
+      "date": "2021-10-02",
+      "src": "mangadex",
+      "mdxId": "0938e9d9-216b-4fa3-8ce1-b0a04a78f0b9"
+    },
+    {
+      "number": "51",
+      "title": "Confissão",
+      "date": "2021-10-09",
+      "src": "mangadex",
+      "mdxId": "458904ae-fddc-4fb7-a909-dc89f4c0a457"
+    },
+    {
+      "number": "52",
+      "title": "Pena",
+      "date": "2021-10-23",
+      "src": "mangadex",
+      "mdxId": "456febf6-9b41-4f9c-8ddd-e8d77ac10d92"
+    },
+    {
+      "number": "53",
+      "title": "Levantar-se",
+      "date": "2021-11-06",
+      "src": "mangadex",
+      "mdxId": "e5d3396b-499d-4f96-ad69-db3e61bcc9b2"
+    },
+    {
+      "number": "53.5",
+      "title": "Especial",
+      "date": "2021-11-13",
+      "src": "mangadex",
+      "mdxId": "2aa8e99f-2d93-4fa3-abc2-044372d71d74"
+    },
+    {
+      "number": "54",
+      "title": "Resistir",
+      "date": "2021-11-20",
+      "src": "mangadex",
+      "mdxId": "1346cdc3-0357-4f64-9e4f-b1c31b427b5b"
+    },
+    {
+      "number": "55",
+      "title": "Proteger de...",
+      "date": "2021-11-27",
+      "src": "mangadex",
+      "mdxId": "71c2407e-5caa-4db2-ae15-35176f5ee9e6"
+    },
+    {
+      "number": "56",
+      "title": "Amanhecer",
+      "date": "2021-12-24",
+      "src": "mangadex",
+      "mdxId": "1cf16d34-ac4b-41ce-9c7e-e9d6fc7d93f7"
+    },
+    {
+      "number": "57",
+      "title": "Mudar",
+      "date": "2022-01-22",
+      "src": "mangadex",
+      "mdxId": "41069864-ebfd-4739-8a59-b8b89bfd9e2f"
+    },
+    {
+      "number": "58",
+      "title": "Voz",
+      "date": "2022-05-21",
+      "src": "mangadex",
+      "mdxId": "3e1c5688-7a9d-46dc-93ed-9c34494b2803"
+    },
+    {
+      "number": "59",
+      "title": "Coração",
+      "date": "2022-06-04",
+      "src": "mangadex",
+      "mdxId": "3dab77d2-ce9d-4ce2-a324-b980b291fae6"
+    },
+    {
+      "number": "59.5",
+      "title": "Arquivo Especial",
+      "date": "2022-06-11",
+      "src": "mangadex",
+      "mdxId": "2ba3f695-dbd7-446a-90b8-54b7d573be66"
+    },
+    {
+      "number": "60",
+      "title": "Enlouqueça",
+      "date": "2022-06-11",
+      "src": "mangadex",
+      "mdxId": "cff161ff-9776-4b5d-b6ac-e18e450e393d"
+    },
+    {
+      "number": "61",
+      "title": "Mímica",
+      "date": "2022-07-02",
+      "src": "mangadex",
+      "mdxId": "4cddfb0a-b056-479b-9fb8-eabd1eb1a1b7"
+    },
+    {
+      "number": "62",
+      "title": "Reunião",
+      "date": "2022-08-06",
+      "src": "mangadex",
+      "mdxId": "fcff73c4-a017-46e2-8882-1c2f2063d0ad"
+    },
+    {
+      "number": "63",
+      "title": "A Verdade",
+      "date": "2022-08-27",
+      "src": "mangadex",
+      "mdxId": "d0944239-9163-4862-b3c7-fd63ef8bb310"
+    },
+    {
+      "number": "64",
+      "title": "Mudança Gradual",
+      "date": "2023-02-05",
+      "src": "mangadex",
+      "mdxId": "2346b1d1-c6d4-4ca2-9269-a87ddfe243e1"
+    },
+    {
+      "number": "65",
+      "title": "Pistas Chaves",
+      "date": "2023-02-18",
+      "src": "mangadex",
+      "mdxId": "7fef6f7c-e760-431d-832f-ca94a3aa69d8"
+    },
+    {
+      "number": "66",
+      "title": "Truque Sujo",
+      "date": "2023-03-04",
+      "src": "mangadex",
+      "mdxId": "9f9ab9ef-7be8-44d4-b5a2-4097e098273d"
+    },
+    {
+      "number": "67",
+      "title": "A Vida É Cruel",
+      "date": "2023-03-11",
+      "src": "mangadex",
+      "mdxId": "161041a7-000a-4940-a527-3fab882d1ffa"
+    },
+    {
+      "number": "68",
+      "title": "Mau Presságio",
+      "date": "2023-04-01",
+      "src": "mangadex",
+      "mdxId": "20eac5c0-59ee-424a-8399-b133ce5aaaf1"
+    },
+    {
+      "number": "69",
+      "title": "Reviravolta",
+      "date": "2023-04-08",
+      "src": "mangadex",
+      "mdxId": "6c7a0f8c-b12d-4db0-bb85-6f4bcbe7fe76"
+    },
+    {
+      "number": "70",
+      "title": "Cheiro de Sangue",
+      "date": "2023-04-22",
+      "src": "mangadex",
+      "mdxId": "e996b96a-f452-49ea-a978-f7b41ed4432b"
+    },
+    {
+      "number": "71",
+      "title": "Vendido",
+      "date": "2023-05-06",
+      "src": "mangadex",
+      "mdxId": "5a477368-c341-48e9-a8e0-b8f614b43aca"
+    },
+    {
+      "number": "72",
+      "title": "Determinação",
+      "date": "2023-12-26",
+      "src": "mangadex",
+      "mdxId": "83e92d17-b976-4c91-8733-1180f0953cec"
+    },
+    {
+      "number": "73",
+      "title": "Invasão",
+      "date": "2024-04-20",
+      "src": "mangadex",
+      "mdxId": "84c1e2a3-cff2-405d-ba8b-2c238741cb51"
+    },
+    {
+      "number": "74",
+      "title": "Alívio",
+      "date": "2024-05-05",
+      "src": "mangadex",
+      "mdxId": "f47c14af-35e1-4e50-8998-90668584ad15"
+    },
+    {
+      "number": "75",
+      "title": "Como Um Gato",
+      "date": "2024-07-22",
+      "src": "mangadex",
+      "mdxId": "a2abaa0c-294d-4a8a-9f15-94b290ffd37e"
+    },
+    {
+      "number": "76",
+      "title": "Dizendo Adeus",
+      "date": "2024-08-31",
+      "src": "mangadex",
+      "mdxId": "fb62f107-8b6e-491e-bf35-40d71ddd6654"
+    },
+    {
+      "number": "77",
+      "title": "Caçador",
+      "date": "2024-10-05",
+      "src": "mangadex",
+      "mdxId": "8f1ff17f-014c-45ec-ba83-dd26260934d4"
+    },
+    {
+      "number": "78",
+      "title": "Caso Encerrado",
+      "date": "2024-10-26",
+      "src": "mangadex",
+      "mdxId": "3e8e6838-83f8-4480-9a43-4e9d783e9499"
+    },
+    {
+      "number": "79",
+      "title": "Até Mais",
+      "date": "2024-11-23",
+      "src": "mangadex",
+      "mdxId": "21297299-9158-4012-9cfe-b66be2aaee75"
+    }
+  ]
+}

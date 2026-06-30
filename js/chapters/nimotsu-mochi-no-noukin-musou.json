@@ -1,0 +1,270 @@
+{
+  "pt": [
+    {
+      "number": "1",
+      "title": "Expulso",
+      "date": "2024-03-10",
+      "src": "mangadex",
+      "mdxId": "30257d59-73c7-4f40-9542-05e3acae6f03"
+    },
+    {
+      "number": "2",
+      "title": "Donzela do Santuário Mio",
+      "date": "2024-03-13",
+      "src": "mangadex",
+      "mdxId": "5099989e-79ce-4137-b14a-0e78f1eef651"
+    },
+    {
+      "number": "3.1",
+      "title": "Donzela do Santuário Mio 2",
+      "date": "2024-03-15",
+      "src": "mangadex",
+      "mdxId": "af48b9e2-dbbf-4c73-bd1f-66d6ab0b21d7"
+    },
+    {
+      "number": "3.2",
+      "title": "Cap 3.2",
+      "date": "2024-03-16",
+      "src": "mangadex",
+      "mdxId": "37ee2a08-2568-48f5-8ddc-c70030ddc754"
+    },
+    {
+      "number": "4.1",
+      "title": "",
+      "date": "2024-03-19",
+      "src": "mangadex",
+      "mdxId": "34315833-afd2-4dfa-b76b-a43544983ff3"
+    },
+    {
+      "number": "4.2",
+      "title": "Cap. 4.2",
+      "date": "2024-03-27",
+      "src": "mangadex",
+      "mdxId": "a2d6e376-e300-4e05-869e-ccd3fef55560"
+    },
+    {
+      "number": "5.1",
+      "title": "Ponto Inicial da Jornada",
+      "date": "2024-04-03",
+      "src": "mangadex",
+      "mdxId": "460ac581-ecfd-4b38-a769-9fb2149721e0"
+    },
+    {
+      "number": "5.2",
+      "title": "",
+      "date": "2024-04-03",
+      "src": "mangadex",
+      "mdxId": "8d2aff88-d686-44b0-9341-200dc9704f48"
+    },
+    {
+      "number": "6.1",
+      "title": "",
+      "date": "2024-04-09",
+      "src": "mangadex",
+      "mdxId": "cc89e858-cc0d-488a-a41c-9c0a6dd4bcfc"
+    },
+    {
+      "number": "6.2",
+      "title": "",
+      "date": "2024-04-09",
+      "src": "mangadex",
+      "mdxId": "00816e84-ee14-4d24-954a-25822113dc4c"
+    },
+    {
+      "number": "7.1",
+      "title": "Início da Jornada Parte 3",
+      "date": "2024-04-17",
+      "src": "mangadex",
+      "mdxId": "04eb4633-9b56-4bb4-a5b9-329fec3a8170"
+    },
+    {
+      "number": "7.2",
+      "title": "",
+      "date": "2024-04-17",
+      "src": "mangadex",
+      "mdxId": "17047c95-ab92-4a03-b936-0efb4ead5670"
+    },
+    {
+      "number": "8.1",
+      "title": "Início da Jornada parte 4",
+      "date": "2024-04-25",
+      "src": "mangadex",
+      "mdxId": "c6eb4803-efb6-43e6-986f-bbf6a97f7ad4"
+    },
+    {
+      "number": "8.2",
+      "title": "",
+      "date": "2024-04-25",
+      "src": "mangadex",
+      "mdxId": "89169101-d4c6-4a0e-84ae-8db3456b0b57"
+    },
+    {
+      "number": "9.1",
+      "title": "",
+      "date": "2024-05-03",
+      "src": "mangadex",
+      "mdxId": "8414e83c-c298-4c75-a82c-986fe89dcfe1"
+    },
+    {
+      "number": "9.2",
+      "title": "",
+      "date": "2024-05-03",
+      "src": "mangadex",
+      "mdxId": "82f26fba-735b-4c0c-a267-05bfe7049ca0"
+    },
+    {
+      "number": "10.1",
+      "title": "",
+      "date": "2024-05-15",
+      "src": "mangadex",
+      "mdxId": "d456c8c7-1c0f-4be1-903d-23c4bd993357"
+    },
+    {
+      "number": "10.2",
+      "title": "",
+      "date": "2024-05-16",
+      "src": "mangadex",
+      "mdxId": "4760cd89-2757-4e44-bcd2-9ccaf708eb5e"
+    },
+    {
+      "number": "11.1",
+      "title": "",
+      "date": "2024-05-29",
+      "src": "mangadex",
+      "mdxId": "153794dd-3cdd-47ff-b171-32c38a34195a"
+    },
+    {
+      "number": "11.2",
+      "title": "",
+      "date": "2024-06-10",
+      "src": "mangadex",
+      "mdxId": "94374f23-3bb6-4ebc-8697-ad55cb1182f2"
+    },
+    {
+      "number": "12.1",
+      "title": "",
+      "date": "2024-07-02",
+      "src": "mangadex",
+      "mdxId": "20a59aab-699b-4c20-a17b-ba5223c503c0"
+    },
+    {
+      "number": "12.2",
+      "title": "",
+      "date": "2024-07-02",
+      "src": "mangadex",
+      "mdxId": "1ea44808-1ac3-4d7d-a416-0099f6db789f"
+    },
+    {
+      "number": "13.1",
+      "title": "",
+      "date": "2024-09-12",
+      "src": "mangadex",
+      "mdxId": "3917fc33-bd47-4f77-a97e-f5850120e65a"
+    },
+    {
+      "number": "13.2",
+      "title": "",
+      "date": "2024-09-12",
+      "src": "mangadex",
+      "mdxId": "47ab795c-735c-46d3-b93e-f23c1d2f7c5a"
+    },
+    {
+      "number": "14.1",
+      "title": "",
+      "date": "2024-09-22",
+      "src": "mangadex",
+      "mdxId": "d467eb6a-b42c-4c63-8b39-fe9978d1669e"
+    },
+    {
+      "number": "14.2",
+      "title": "",
+      "date": "2024-09-22",
+      "src": "mangadex",
+      "mdxId": "e66ab445-f996-4668-8712-f83322db4eab"
+    },
+    {
+      "number": "15.1",
+      "title": "",
+      "date": "2024-11-04",
+      "src": "mangadex",
+      "mdxId": "7cf37fe0-d3e8-44c9-81e3-98b9d32e46b2"
+    },
+    {
+      "number": "15.2",
+      "title": "",
+      "date": "2024-11-04",
+      "src": "mangadex",
+      "mdxId": "3cd32c45-200b-4364-8f0f-c34b0cb09446"
+    },
+    {
+      "number": "16",
+      "title": "",
+      "date": "2024-12-06",
+      "src": "mangadex",
+      "mdxId": "90dc779a-d5a2-48c2-88eb-291446b6d997"
+    },
+    {
+      "number": "16.5",
+      "title": "",
+      "date": "2024-12-06",
+      "src": "mangadex",
+      "mdxId": "32e78546-5079-4b78-9753-2ee4441c786c"
+    },
+    {
+      "number": "17",
+      "title": "",
+      "date": "2025-01-10",
+      "src": "mangadex",
+      "mdxId": "ee14d2ed-1bb8-4686-a299-7f2c5f3d289a"
+    },
+    {
+      "number": "17.5",
+      "title": "",
+      "date": "2025-01-24",
+      "src": "mangadex",
+      "mdxId": "a99d8901-1e4f-45ff-8151-9d7663339970"
+    },
+    {
+      "number": "18",
+      "title": "",
+      "date": "2025-02-28",
+      "src": "mangadex",
+      "mdxId": "03d5efc1-575a-46c8-9d83-6e7c18c25e5e"
+    },
+    {
+      "number": "18.5",
+      "title": "",
+      "date": "2025-02-28",
+      "src": "mangadex",
+      "mdxId": "58d41def-d77b-43b0-a0b6-e09ffd5a3234"
+    },
+    {
+      "number": "19",
+      "title": "",
+      "date": "2025-02-28",
+      "src": "mangadex",
+      "mdxId": "82d51ca6-63fc-4f8d-8661-0df872f6fc42"
+    },
+    {
+      "number": "19.5",
+      "title": "",
+      "date": "2025-03-07",
+      "src": "mangadex",
+      "mdxId": "aae188d0-bdc5-4e38-a1ca-0b9dcb10851f"
+    },
+    {
+      "number": "20",
+      "title": "",
+      "date": "2025-03-14",
+      "src": "mangadex",
+      "mdxId": "ab03860f-abb1-46ee-9064-3bf29b753125"
+    },
+    {
+      "number": "20.5",
+      "title": "",
+      "date": "2025-05-16",
+      "src": "mangadex",
+      "mdxId": "ac823de1-064f-4d3d-94dd-e061a6cec85d"
+    }
+  ]
+}

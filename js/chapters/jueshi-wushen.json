@@ -1,0 +1,4897 @@
+{
+  "pt": [
+    {
+      "number": "1.1",
+      "title": "",
+      "date": "2020-04-03",
+      "src": "mangadex",
+      "mdxId": "dafd1606-1cda-466e-89b2-4c3449da794c"
+    },
+    {
+      "number": "1.2",
+      "title": "",
+      "date": "2020-04-03",
+      "src": "mangadex",
+      "mdxId": "fe91cec5-59d4-48b3-b9f8-a3f13b8c04b9"
+    },
+    {
+      "number": "1.3",
+      "title": "",
+      "date": "2020-04-03",
+      "src": "mangadex",
+      "mdxId": "2bd1ce47-613b-4ccb-b8c8-15fa2963e440"
+    },
+    {
+      "number": "2.1",
+      "title": "",
+      "date": "2020-04-03",
+      "src": "mangadex",
+      "mdxId": "e1ff3304-bd7b-41f0-9e55-34eef4b8166c"
+    },
+    {
+      "number": "2.2",
+      "title": "",
+      "date": "2020-04-03",
+      "src": "mangadex",
+      "mdxId": "9ba180e4-55f1-4b06-83d6-c8efdf198fcb"
+    },
+    {
+      "number": "2.3",
+      "title": "",
+      "date": "2020-04-03",
+      "src": "mangadex",
+      "mdxId": "14fe39b3-468c-4c6b-9695-3eb83fbd7c84"
+    },
+    {
+      "number": "3.1",
+      "title": "",
+      "date": "2020-04-03",
+      "src": "mangadex",
+      "mdxId": "78c3fd41-5de2-43f6-8db2-1460fd53f10a"
+    },
+    {
+      "number": "3.2",
+      "title": "",
+      "date": "2020-04-03",
+      "src": "mangadex",
+      "mdxId": "b6550205-1faa-4b1d-8982-9ae1549c5a0f"
+    },
+    {
+      "number": "3.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "c1e6a515-33b7-42a8-8649-a0270df0f06c"
+    },
+    {
+      "number": "4.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "c2707f5c-4fae-45fc-aeff-92dd06ac2f70"
+    },
+    {
+      "number": "4.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "33e2f8a7-5d11-4a27-969e-ef1bd6d0c0ac"
+    },
+    {
+      "number": "4.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "c9c46980-16d3-4601-ab69-19a44db9c2ee"
+    },
+    {
+      "number": "5.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "08523c38-70e1-4d42-a6bf-ff755cdd1c67"
+    },
+    {
+      "number": "5.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "ce3f4451-7aef-46fe-a42c-5c3394800e89"
+    },
+    {
+      "number": "5.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "57f1fece-a27c-43d6-917d-9c2a46432997"
+    },
+    {
+      "number": "6.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "19aef42c-21fc-486e-9bbb-b2d75bbfcd24"
+    },
+    {
+      "number": "6.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "39847537-ed52-41ea-aac2-f64b0d66199c"
+    },
+    {
+      "number": "6.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "0aa0714d-2cf4-4c30-9b4c-572f75826fb8"
+    },
+    {
+      "number": "7.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "3bf4263d-6a92-4ace-a511-fb1edd0d1fec"
+    },
+    {
+      "number": "7.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "ba45ac0f-949a-4c7f-92c1-eabd4926550c"
+    },
+    {
+      "number": "7.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "6aff1344-a7bb-4daf-a380-9563d0887966"
+    },
+    {
+      "number": "8.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "30a8ca59-c29d-4b6c-bd4f-ea91d7ea7636"
+    },
+    {
+      "number": "8.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "5388cc51-01a6-4ac7-a693-6eb1893f9b84"
+    },
+    {
+      "number": "8.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "3bd24316-cf3f-491c-8548-f799a04585c7"
+    },
+    {
+      "number": "9.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "b02cc616-817f-4675-a4a5-3a10f5cb1322"
+    },
+    {
+      "number": "9.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "35a78c29-bda8-4398-9e00-049e7c6933f8"
+    },
+    {
+      "number": "9.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "1ecb2015-c80f-44e7-8b9e-43341c45c899"
+    },
+    {
+      "number": "10.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "1b498516-338a-410d-b72f-72b33468b5da"
+    },
+    {
+      "number": "10.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "9a52ed5f-32c4-4394-809f-80afb49efcff"
+    },
+    {
+      "number": "10.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "f79e0aee-4c04-4949-8701-893cb2f3dca9"
+    },
+    {
+      "number": "11.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "421ded43-e180-4a6b-9d06-e8789108d2c3"
+    },
+    {
+      "number": "11.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "9cbdd25c-c506-4630-a547-310d407980ce"
+    },
+    {
+      "number": "11.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "3beaea65-c1e3-40a6-98f1-ccad151c0862"
+    },
+    {
+      "number": "12.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "9d32f30c-9bdd-4821-bb41-cde541bb4261"
+    },
+    {
+      "number": "12.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "2c375811-8d57-4356-a8a9-0c8a292dbf2c"
+    },
+    {
+      "number": "12.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "79f01a75-2f09-40f4-9871-c14761b7c2fe"
+    },
+    {
+      "number": "13.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "e4ec8345-4012-4950-9354-bda536a8745e"
+    },
+    {
+      "number": "13.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "853ffdc6-a489-4142-be40-674b935dca3b"
+    },
+    {
+      "number": "13.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "581c1345-309b-4625-bcf8-44e359e15072"
+    },
+    {
+      "number": "14.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "a1bdb34b-07fc-4bee-a71f-1c23f00e155b"
+    },
+    {
+      "number": "14.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "45b08a12-828f-4b99-b988-0efaa507e997"
+    },
+    {
+      "number": "14.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "3479581b-5be2-4a59-bb1b-6fb3c9044ab4"
+    },
+    {
+      "number": "15.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "7199fe52-a0d8-4ce5-866d-26ef9c615e86"
+    },
+    {
+      "number": "15.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "000a0eb3-d590-4dfe-978e-9c0c0edda2f5"
+    },
+    {
+      "number": "15.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "e888260c-9a1f-497e-978e-5c8dd337edb7"
+    },
+    {
+      "number": "16.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "7364cece-f119-4635-9496-efa7e0cafdd4"
+    },
+    {
+      "number": "16.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "dcd1d97e-21cd-4a88-b524-5e2a1d51f769"
+    },
+    {
+      "number": "16.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "36d61825-0277-448a-bbb3-c107a3839c67"
+    },
+    {
+      "number": "17.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "73213c15-6c22-4ea0-a8ba-9ce0e7ff3583"
+    },
+    {
+      "number": "17.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "ca0a0a56-e65a-4e96-801d-a261bbcc032d"
+    },
+    {
+      "number": "17.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "60f1fb87-5047-4496-85f4-9621a0f043d8"
+    },
+    {
+      "number": "18.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "d0bcabfc-8dea-4b56-b311-60c49bf74249"
+    },
+    {
+      "number": "18.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "b8e7c8a7-379e-45ab-948e-7d9af7558dcb"
+    },
+    {
+      "number": "18.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "772d7a4d-df67-4816-a986-e668157f2cad"
+    },
+    {
+      "number": "19.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "0b5a27b0-bd6c-41be-8b99-4d6240a1fecf"
+    },
+    {
+      "number": "19.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "1b2874c4-2dbf-47dc-8203-c8cd96cda961"
+    },
+    {
+      "number": "19.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "136d5c9c-612f-4bff-bef6-ddad40107723"
+    },
+    {
+      "number": "20.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "d7e9e5ac-f795-42ae-a5b4-d88b2d1b6005"
+    },
+    {
+      "number": "20.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "13777121-4c04-4d9f-9a24-eeeb6f49950b"
+    },
+    {
+      "number": "20.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "06cc5d53-515a-4356-9018-03e87278a923"
+    },
+    {
+      "number": "21.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "7d0ca959-d3c7-41b0-8cd9-5e0a85fd095b"
+    },
+    {
+      "number": "21.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "cf3d3c5d-9679-4332-b97d-fbaa99f18fc8"
+    },
+    {
+      "number": "21.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "78140d0e-22b0-437f-9d8d-510be0abda47"
+    },
+    {
+      "number": "22.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "8dd98176-181a-461d-a608-23fb6ad978cb"
+    },
+    {
+      "number": "22.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "5dcfd2f0-4b1d-470b-9f61-f09aaab66b41"
+    },
+    {
+      "number": "22.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "82ebd4af-dd31-4ffe-8cec-b75084c2e089"
+    },
+    {
+      "number": "23.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "410fa72f-9f2c-46d3-99aa-f340ea185507"
+    },
+    {
+      "number": "23.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "39f2e4ec-8168-4676-a16c-e55d9a538056"
+    },
+    {
+      "number": "23.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "dedebfd0-3afe-41bc-97a5-bf0a8307c593"
+    },
+    {
+      "number": "24.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "c0772f61-dce1-47e2-993d-9ea605639cbf"
+    },
+    {
+      "number": "24.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "35a4f02e-073a-4c5f-bfa5-5c74f133da9d"
+    },
+    {
+      "number": "24.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "a91acde4-8aae-4485-a9b4-bdd3846297f6"
+    },
+    {
+      "number": "25.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "109e5276-db93-403a-b5d1-ed310a1436e5"
+    },
+    {
+      "number": "25.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "b3f4317b-4440-4281-a64a-88053ea949a1"
+    },
+    {
+      "number": "25.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "c53803c6-e5a7-4b1d-829a-6e6ce2a4ee74"
+    },
+    {
+      "number": "26.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "db0c6e06-412d-4cd0-a3f8-d22381904fc7"
+    },
+    {
+      "number": "26.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "7c8445c6-4404-4d29-9d74-4e6b706ae87d"
+    },
+    {
+      "number": "26.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "ca44656f-31b8-45a8-a781-f06b36e981cc"
+    },
+    {
+      "number": "27.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "7eee581a-40d4-427c-aec5-1cdbd85634d4"
+    },
+    {
+      "number": "27.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "77e575e2-8460-48f9-b04b-265bfbd0ee5d"
+    },
+    {
+      "number": "27.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "bfa46268-9a66-45eb-a80d-8b881c68d444"
+    },
+    {
+      "number": "28.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "fceed6d3-ae18-44dd-baea-da405eb434e7"
+    },
+    {
+      "number": "28.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "c4e06250-7a1e-43a4-8a17-8f1a2a6479ae"
+    },
+    {
+      "number": "28.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "2faa11e3-84f8-427c-80b5-0e1fe0caabdd"
+    },
+    {
+      "number": "29.1",
+      "title": "",
+      "date": "2018-07-18",
+      "src": "mangadex",
+      "mdxId": "0ad9e971-e8ee-4e90-b18e-97a430d8915b"
+    },
+    {
+      "number": "29.2",
+      "title": "",
+      "date": "2018-07-18",
+      "src": "mangadex",
+      "mdxId": "a8be8ebf-fa40-4c18-91ce-b36d09be14d8"
+    },
+    {
+      "number": "29.3",
+      "title": "",
+      "date": "2018-07-18",
+      "src": "mangadex",
+      "mdxId": "52633ec6-51c0-48ec-b1c7-84e28d30b05c"
+    },
+    {
+      "number": "30.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "40e09acc-402b-4388-bab3-8310f6a34afe"
+    },
+    {
+      "number": "30.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "ebcba84b-b75b-4391-a03f-2e991d90ff2e"
+    },
+    {
+      "number": "30.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "27ea0bb5-5c85-4946-b9a7-c40daa272396"
+    },
+    {
+      "number": "31.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "a97fa27f-f60f-4238-9f1c-8aa07403d772"
+    },
+    {
+      "number": "31.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "9ebeccac-e60f-4ef5-9d1f-6609583965fb"
+    },
+    {
+      "number": "31.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "ba7e8f3b-88c6-4e6f-ba5b-020d291f8389"
+    },
+    {
+      "number": "32.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "f343d5d9-bdf8-48b9-8fbc-af206930dc08"
+    },
+    {
+      "number": "32.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "4c28e754-938f-40ac-aa19-a4696c8c4ec8"
+    },
+    {
+      "number": "32.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "b9bfd454-aa9d-454e-bf82-70b51ff6d1fa"
+    },
+    {
+      "number": "33.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "a9e055df-9d71-491f-a3ff-2b1f8b70b6b6"
+    },
+    {
+      "number": "33.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "94603b0d-9cfa-4980-a2e8-f43cb5ec467d"
+    },
+    {
+      "number": "33.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "27ab16c3-e714-4ffe-8e18-60b04751af94"
+    },
+    {
+      "number": "34.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "619b3993-47bb-49d0-aac7-2e4bc0babc5b"
+    },
+    {
+      "number": "34.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "2577bd50-a433-4c02-a9d0-db28ecf979b2"
+    },
+    {
+      "number": "34.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "72682658-a52d-469c-907b-0ea7fb27929a"
+    },
+    {
+      "number": "35.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "8cdcd142-8d2f-4647-9038-9d1fb51f7746"
+    },
+    {
+      "number": "35.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "76e0ebf4-c033-4591-ac39-3c566ba362db"
+    },
+    {
+      "number": "35.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "ab4774a8-4772-41c1-b81e-7f310a0d8202"
+    },
+    {
+      "number": "36.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "d1d79ccf-a25f-47a6-923d-ac25004a76d4"
+    },
+    {
+      "number": "36.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "3b5a28c5-aaa9-4239-b97d-e5a306767780"
+    },
+    {
+      "number": "36.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "8a3f2ce0-3db1-42d1-afc9-ecf1c522258a"
+    },
+    {
+      "number": "37.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "82ed9aed-245b-4fb7-b8e9-2057a409a90a"
+    },
+    {
+      "number": "37.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "558e3e0c-96eb-4db3-8c9a-8af2a071363c"
+    },
+    {
+      "number": "37.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "732fd47d-cd2c-4ded-a191-b192b455ec01"
+    },
+    {
+      "number": "38.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "84082b9d-2aed-4360-874d-234336753963"
+    },
+    {
+      "number": "38.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "d8ca6a80-3c92-411d-8568-8976d5d06b78"
+    },
+    {
+      "number": "38.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "35b15fb1-d137-41e0-b520-a99f0197d243"
+    },
+    {
+      "number": "39.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "410aae5f-fc67-44e7-9812-fc7d4e88abdc"
+    },
+    {
+      "number": "39.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "94fe803a-63fb-4723-b86d-89293b97cae5"
+    },
+    {
+      "number": "39.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "c739306a-9a3d-4a22-a2bc-2a25aaf65993"
+    },
+    {
+      "number": "40.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "f2f55af7-4e01-4403-a927-182fe870bb7c"
+    },
+    {
+      "number": "40.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "526b24f4-f311-41a1-a43e-e50cbc9a498b"
+    },
+    {
+      "number": "40.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "0e8c5b4a-8256-4f04-a49d-0af34b449240"
+    },
+    {
+      "number": "41.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "45587610-2102-45be-bbb6-ccf330015c6c"
+    },
+    {
+      "number": "41.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "60058d6e-2f2d-4635-a81f-70485efe7fda"
+    },
+    {
+      "number": "41.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "762dd48b-487f-4a73-84fe-5fb69ee3ada9"
+    },
+    {
+      "number": "41.4",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "c803d8ed-a8b9-4f93-ae0e-ab7af5f7a25e"
+    },
+    {
+      "number": "41.5",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "5d7a12f6-f4aa-4e05-9809-138059c37bc0"
+    },
+    {
+      "number": "41.6",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "11fbe3a9-b8f6-44b0-b2d9-26dec62a08fd"
+    },
+    {
+      "number": "42.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "ec42e9be-86d2-4952-9fa7-7a4173d4cf3b"
+    },
+    {
+      "number": "42.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "1eec648c-c338-4960-9a5b-52d7a0c9280b"
+    },
+    {
+      "number": "42.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "24914bed-d9a6-4419-9c4b-6796add11eca"
+    },
+    {
+      "number": "43.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "2711c712-5413-49cf-acd0-670879633eee"
+    },
+    {
+      "number": "43.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "2e8efc68-af50-41ec-8255-05b78e7061e9"
+    },
+    {
+      "number": "43.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "dcbe734f-92ae-4756-9027-0170e7ae934d"
+    },
+    {
+      "number": "44.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "620b80c0-a714-44c7-9960-d2c365082b40"
+    },
+    {
+      "number": "44.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "4ceec395-49d9-4e22-9b8e-6ff0c5fceea8"
+    },
+    {
+      "number": "44.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "662b87dd-1f87-4095-a45d-c1f8721a6561"
+    },
+    {
+      "number": "45.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "f9ebc076-cc5a-45cc-be62-2d70dac6de6c"
+    },
+    {
+      "number": "45.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "32ef1a46-1296-4799-b204-fcc2ffa0d83c"
+    },
+    {
+      "number": "45.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "c83ce031-2c89-4c33-94a6-a1c44f6a6b60"
+    },
+    {
+      "number": "46.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "96c2908d-0dfd-4d62-acda-8f7af8e331bb"
+    },
+    {
+      "number": "46.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "3dbede60-6433-46f3-861d-43bd43667bb1"
+    },
+    {
+      "number": "46.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "013e3d48-b700-4395-bf2c-bbac236406fa"
+    },
+    {
+      "number": "47.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "2a3dbc5f-3748-412c-ae8a-5ad7067314de"
+    },
+    {
+      "number": "47.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "0bb6adc9-ce3d-4e73-8fe2-8e80f3bc0b77"
+    },
+    {
+      "number": "47.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "3c24308e-7be7-48e7-a16d-41921b732cef"
+    },
+    {
+      "number": "48.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "387200d6-0c59-4bb9-8aba-4596ba30ca00"
+    },
+    {
+      "number": "48.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "de92f01d-13f4-465d-8c27-ac9e57ca6fcb"
+    },
+    {
+      "number": "48.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "e1b29c74-d748-48bd-9281-4c9bb2d88f23"
+    },
+    {
+      "number": "49.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "5bb5c3d6-cefe-441f-b948-b089e5be8e18"
+    },
+    {
+      "number": "49.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "3e168535-1017-4042-a04b-31d5e929752a"
+    },
+    {
+      "number": "49.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "70346031-0090-4ccf-ace1-dca1d0251573"
+    },
+    {
+      "number": "50.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "7583c815-ed8f-4473-8817-e85aa9984a35"
+    },
+    {
+      "number": "50.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "eefde0e6-88ec-412e-a036-44773ff172b1"
+    },
+    {
+      "number": "50.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "f31fa21c-0e49-47de-bab1-e763480a46d3"
+    },
+    {
+      "number": "51.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "639cf949-b578-4656-8c26-9eedcd87fdd5"
+    },
+    {
+      "number": "51.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "c59e933f-fdfe-4b00-9a79-9f9392de8984"
+    },
+    {
+      "number": "51.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "f3b2f3ea-2a52-49df-b862-0142b49339ec"
+    },
+    {
+      "number": "52.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "ae610f83-51c5-49b4-9086-6b731dfde22c"
+    },
+    {
+      "number": "52.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "81e4c132-8a38-4912-947d-5a7ecf6caf47"
+    },
+    {
+      "number": "52.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "b4c169fa-08ce-4356-89bf-5f8ef38cdc2e"
+    },
+    {
+      "number": "53.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "fb62d326-55a7-4193-9559-b07b89675f8f"
+    },
+    {
+      "number": "53.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "5b660451-53ab-4415-a96e-b3a3dab55a5c"
+    },
+    {
+      "number": "53.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "3575e05c-cae5-4a6d-b092-1922d11331ad"
+    },
+    {
+      "number": "54.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "5f42c410-cb42-4f23-9fa5-954b899826ab"
+    },
+    {
+      "number": "54.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "5bb1ff5b-0cff-465e-9ec2-fcae9f8a609e"
+    },
+    {
+      "number": "54.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "f3f7b2ac-acc9-4df9-a321-33df074b886f"
+    },
+    {
+      "number": "55.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "19af9321-e05d-4f6e-82ac-cca432a22d05"
+    },
+    {
+      "number": "55.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "2531554e-4283-4d89-8d2c-497cee81a842"
+    },
+    {
+      "number": "55.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "4d07b2f2-d427-43f1-a792-821b18570255"
+    },
+    {
+      "number": "56.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "0b1323f0-928b-41e9-b752-9377f73ffea9"
+    },
+    {
+      "number": "56.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "9b0e1519-c352-41f2-b8c4-5ef1e6cc4b8b"
+    },
+    {
+      "number": "56.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "b0974240-955d-4e03-aae2-aeac5c958868"
+    },
+    {
+      "number": "57.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "b409de7c-fc4f-4f83-866e-04e6ab8abb15"
+    },
+    {
+      "number": "57.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "d8716ce7-130a-478f-b1c6-78a5d6ae0d3f"
+    },
+    {
+      "number": "57.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "dedfef74-3d5c-4ec9-9f21-66eeaeee1584"
+    },
+    {
+      "number": "58.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "a7d78c4d-971c-4b8d-a0e7-02248fe00593"
+    },
+    {
+      "number": "58.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "437c24e3-d53f-4c3d-9bb6-335e9d3297b5"
+    },
+    {
+      "number": "58.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "80bdcb79-de23-41a4-a483-204f5de767b5"
+    },
+    {
+      "number": "59.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "be6e0e3e-df35-407c-8218-43c35d75001d"
+    },
+    {
+      "number": "59.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "bd86e57e-9702-4363-b477-53abf06d4767"
+    },
+    {
+      "number": "59.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "23a4f641-2cc8-4106-a08d-9fec1e6cc83d"
+    },
+    {
+      "number": "60.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "b2837e7f-b1f4-41b8-9838-bbc5b5fade04"
+    },
+    {
+      "number": "60.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "6488d8da-3e96-4264-aa2b-eeb55d1f2e65"
+    },
+    {
+      "number": "60.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "ac5f0671-69f3-4cdf-93db-fcf0bec84434"
+    },
+    {
+      "number": "61.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "150d0b35-3882-490c-aac2-254b3cd11c1c"
+    },
+    {
+      "number": "61.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "0cf7687e-2996-4126-9c4d-7bb83eef77b8"
+    },
+    {
+      "number": "61.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "072eba3d-18d6-4061-8af0-c6d20951ffc6"
+    },
+    {
+      "number": "62.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "c018645a-559e-4a49-91cd-6e20a3bd6219"
+    },
+    {
+      "number": "62.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "3439f953-f8c0-444e-a4f8-2ec3f00cafe2"
+    },
+    {
+      "number": "62.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "00c6d0ab-768e-46e1-a5e9-be5a7ddab219"
+    },
+    {
+      "number": "63.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "5d64e99a-266e-4a27-9e68-f2bed996350b"
+    },
+    {
+      "number": "63.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "576f61db-387c-4d40-a986-b31feaa31c45"
+    },
+    {
+      "number": "63.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "da742d46-a2d6-4db4-b34b-e14c93690fff"
+    },
+    {
+      "number": "64.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "ae237024-ab13-4a7d-ad8c-6ea575dfd98a"
+    },
+    {
+      "number": "64.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "672d3d83-7e1c-4d7c-bf32-da7537643e7b"
+    },
+    {
+      "number": "64.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "f5e2a642-d166-46da-816e-77f1399062ae"
+    },
+    {
+      "number": "65.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "fc417423-fac5-4b46-a2d4-85402dc0aa0b"
+    },
+    {
+      "number": "65.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "ec424b79-646f-456a-9366-11e8952e4c3b"
+    },
+    {
+      "number": "65.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "1803d685-b283-4c86-963b-d3116943dc3a"
+    },
+    {
+      "number": "66.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "b404d0f0-c289-4764-bd74-130e058d9a29"
+    },
+    {
+      "number": "66.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "44ffbcd8-244f-46a0-927c-5116e6b5953d"
+    },
+    {
+      "number": "66.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "3c406b09-455d-40a5-b71a-f327ef1b6bd5"
+    },
+    {
+      "number": "67.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "142881ba-c12e-4d67-bb98-7fbbb6d8cb48"
+    },
+    {
+      "number": "67.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "58efca87-407d-4f3b-842e-98f10c8e05a0"
+    },
+    {
+      "number": "67.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "62b7aa37-0ce3-4d3c-b068-47e4cc6eb1f5"
+    },
+    {
+      "number": "68.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "95424b26-6e53-4def-9399-ef84d80f5621"
+    },
+    {
+      "number": "68.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "52a33b55-7cf0-4215-bc45-0c67e912fcf9"
+    },
+    {
+      "number": "68.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "702ac436-4bea-4098-8fca-93174390e444"
+    },
+    {
+      "number": "69.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "986493e7-c343-4923-b8c8-a06e463ae146"
+    },
+    {
+      "number": "69.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "7d4567e0-b6a9-4ee6-b3c1-738f7b508fd9"
+    },
+    {
+      "number": "69.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "d9b15d5f-cf72-4e8f-98b5-0f5edf966334"
+    },
+    {
+      "number": "70.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "a466441b-e01a-45a3-b6e8-4ddccf8a030b"
+    },
+    {
+      "number": "70.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "373be30b-4976-47b0-ab13-60a489b19df0"
+    },
+    {
+      "number": "70.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "58915659-0b4f-4742-b6b9-df75aff32147"
+    },
+    {
+      "number": "71.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "06cb0ab2-d96f-4978-a565-3d797cc3a7ff"
+    },
+    {
+      "number": "71.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "edc0f0f3-b2f3-4aae-aa7a-47bb38e59453"
+    },
+    {
+      "number": "71.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "a7a10b54-9756-487c-bf66-eae4d67af2ba"
+    },
+    {
+      "number": "72.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "05a17ff8-085f-4796-a5d8-6508ee05d58c"
+    },
+    {
+      "number": "72.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "356984a8-906f-4e35-b0d4-571d437c6291"
+    },
+    {
+      "number": "72.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "928884d5-d15e-4043-8bb9-157aff6f9b48"
+    },
+    {
+      "number": "73.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "0c257ee5-7d20-4777-98d8-12ffb42d2816"
+    },
+    {
+      "number": "73.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "6ff4f2b3-8620-4603-b9e6-7e08e74ae40f"
+    },
+    {
+      "number": "73.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "ff867992-2214-46b4-9626-dfb60d1f6fab"
+    },
+    {
+      "number": "74.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "3605720b-e790-46f8-8728-7321ce9fea95"
+    },
+    {
+      "number": "74.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "491fd03c-c324-4778-8bc0-64913116a1eb"
+    },
+    {
+      "number": "74.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "f68fd841-23b7-4a19-bf73-08f6cc277a66"
+    },
+    {
+      "number": "75.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "36e1583a-3b4d-45f5-860b-360ade9710b2"
+    },
+    {
+      "number": "75.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "f3666bea-9df6-4c88-8362-deafecc6cc5c"
+    },
+    {
+      "number": "75.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "3ddd45f2-f8aa-4e4a-97e5-34473bf5e696"
+    },
+    {
+      "number": "76.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "405da6b1-27b7-4ab4-8628-49d95b68abf9"
+    },
+    {
+      "number": "76.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "49408766-c366-40c4-a423-8467861ce391"
+    },
+    {
+      "number": "76.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "ab08345d-bc91-45e7-9ee1-69aefd3b30d6"
+    },
+    {
+      "number": "77.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "267f2861-b013-489a-ad8f-498a14520cd9"
+    },
+    {
+      "number": "77.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "7fc73ffc-497f-4632-a490-b06add022f08"
+    },
+    {
+      "number": "77.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "ae882232-4727-477d-be66-e7a9b8e6e89e"
+    },
+    {
+      "number": "78.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "19be0fd3-8284-440c-8422-5fb48506d112"
+    },
+    {
+      "number": "78.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "71e7b56c-f3c5-43c3-bf17-7baab45e90ee"
+    },
+    {
+      "number": "78.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "cf81ec4e-a9c4-42c3-ba4a-488bc139f661"
+    },
+    {
+      "number": "79.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "1ecba43a-c530-4d41-bc21-6ded0f369927"
+    },
+    {
+      "number": "79.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "f8211984-1e5d-4b81-b91f-d6474dfd37e1"
+    },
+    {
+      "number": "79.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "00cec35a-ba86-4151-b5d1-8ae34c250d6a"
+    },
+    {
+      "number": "80.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "416cf328-7d62-469d-ac71-87abd19081a4"
+    },
+    {
+      "number": "80.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "74028187-1297-4ac3-8f3d-2a11306fd601"
+    },
+    {
+      "number": "80.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "2883ae3f-d1f1-4f7b-a1ea-589f9488e7d6"
+    },
+    {
+      "number": "81.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "966b91c1-580c-42ff-834e-f26390b78fb7"
+    },
+    {
+      "number": "81.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "94e6a5ec-c6d2-48a9-8b50-d3c525cdf4c1"
+    },
+    {
+      "number": "81.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "43723b71-98db-47e6-b9e1-dd2c91548331"
+    },
+    {
+      "number": "82.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "82e1399f-3f1c-4bec-9cb9-44273a40c55a"
+    },
+    {
+      "number": "82.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "ce10b50e-6b7d-41e5-b69c-d3d35bb00d8c"
+    },
+    {
+      "number": "82.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "fcd20434-d870-46fb-99a3-7d82aa179f1a"
+    },
+    {
+      "number": "83.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "c5d69f07-8026-4c43-afe5-786f024b5571"
+    },
+    {
+      "number": "83.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "2784e17c-1113-4fc0-b6d1-7b390c1f005f"
+    },
+    {
+      "number": "83.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "36aea8d9-e651-4d3b-b6f9-2e9c0f2c6c4b"
+    },
+    {
+      "number": "84.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "3d7d5b14-b71a-4409-9a8a-e73469eaeacf"
+    },
+    {
+      "number": "84.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "46d84ba3-22cf-41b1-b282-29e3fd4bfe3a"
+    },
+    {
+      "number": "84.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "1e147624-56e0-463b-8cab-565b6531ba65"
+    },
+    {
+      "number": "85.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "c6f8bbf9-8e37-4145-aff3-c29b6b8221e6"
+    },
+    {
+      "number": "85.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "7b0aa203-54e9-4557-8930-d6d4b279bcd4"
+    },
+    {
+      "number": "85.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "50441731-8a3f-448d-8e15-c0650afd1a76"
+    },
+    {
+      "number": "86.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "6ebaeeff-ea22-4d89-a0c8-f5badfe39aee"
+    },
+    {
+      "number": "86.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "fb306d88-55d8-46a3-a1d6-9af7a533e41c"
+    },
+    {
+      "number": "86.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "aa67819a-a099-4174-acf9-1ac88ed60128"
+    },
+    {
+      "number": "87.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "256f3d0e-dae4-4b49-9640-dfef4663b692"
+    },
+    {
+      "number": "87.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "8059819b-2e95-4e67-bd9a-ee8ae4c45a16"
+    },
+    {
+      "number": "87.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "36e4544e-2210-4573-a89e-074666238258"
+    },
+    {
+      "number": "88.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "2869ed08-cd81-4b03-8273-ba1cc7b61c05"
+    },
+    {
+      "number": "88.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "b38d07c8-bc21-4bfd-b1ef-985b2c5e7797"
+    },
+    {
+      "number": "88.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "5b978bbf-bf26-4d20-8894-d17dba634b27"
+    },
+    {
+      "number": "89.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "99ee305f-b39d-41cf-be20-f41e693c6a22"
+    },
+    {
+      "number": "89.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "0d54bdb3-5796-4254-a8c2-0425716a17d4"
+    },
+    {
+      "number": "89.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "56d6beb6-40e9-4531-86ba-0e8f5b9e51eb"
+    },
+    {
+      "number": "90.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "ee895008-2c2c-46a6-9148-e0235c3e8bf9"
+    },
+    {
+      "number": "90.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "f45734c0-7095-42d5-8de4-0d60bff64f42"
+    },
+    {
+      "number": "90.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "81b1d3a1-291f-47f7-a4cd-0fb50e375e18"
+    },
+    {
+      "number": "91.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "c8124aa9-f680-44da-9adb-1df17b397954"
+    },
+    {
+      "number": "91.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "9188ad29-2f7e-4f05-b7f3-c99014d993a9"
+    },
+    {
+      "number": "91.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "97bd8eda-55a1-40bd-914a-3ab21a65b968"
+    },
+    {
+      "number": "92.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "7f050b6f-13d1-40ed-8757-9d1457863c40"
+    },
+    {
+      "number": "92.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "bf209a9b-a04d-4613-b628-1a5cca8c9131"
+    },
+    {
+      "number": "92.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "c32e3f61-3b4f-4a82-9c90-aa11fe0f838f"
+    },
+    {
+      "number": "93.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "818c41ee-b513-45b6-8159-be0d71a19eeb"
+    },
+    {
+      "number": "93.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "ae0b7328-20bf-424c-bda0-53f9ad71f47d"
+    },
+    {
+      "number": "93.3",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "2db55b81-a7a4-426d-9d58-8f7fb2e39206"
+    },
+    {
+      "number": "94.1",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "8a419621-7be2-4fc8-8ce7-95c630acc4d4"
+    },
+    {
+      "number": "94.2",
+      "title": "",
+      "date": "2020-02-25",
+      "src": "mangadex",
+      "mdxId": "9d4cd689-6b37-46ed-9d39-a6c21761cfb5"
+    },
+    {
+      "number": "94.3",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "90baa8ea-476b-4c56-b57a-a089c400ce15"
+    },
+    {
+      "number": "95.1",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "14e5e7cc-a328-4973-8c50-16e640fa319a"
+    },
+    {
+      "number": "95.2",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "b30aeb49-3afc-4d70-8104-c587bd79b52f"
+    },
+    {
+      "number": "95.3",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "d507fdec-9194-4420-91ec-18ba04783f14"
+    },
+    {
+      "number": "96.1",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "953fe3d3-8db8-4196-849b-1d3c4e45d074"
+    },
+    {
+      "number": "96.2",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "59a74690-8933-4df9-bb2b-4ee94564d278"
+    },
+    {
+      "number": "96.3",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "db778983-8056-4532-8da6-32519b15ee29"
+    },
+    {
+      "number": "97.1",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "20a9339c-792c-4a42-9920-3d899990f733"
+    },
+    {
+      "number": "97.2",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "a5ec3084-fd48-4994-8597-b072ed174a45"
+    },
+    {
+      "number": "97.3",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "040e6098-4948-4aee-a654-a3f74fd130b2"
+    },
+    {
+      "number": "98.1",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "45d0566a-867e-4125-9e18-b4080d1d5494"
+    },
+    {
+      "number": "98.2",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "078c87e8-f477-451e-9997-0a64887bd995"
+    },
+    {
+      "number": "98.3",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "5cc82de3-57f4-4a33-95cc-34ddbaab0f17"
+    },
+    {
+      "number": "99.1",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "3c486f33-bcd1-4574-9056-f35adc9c0203"
+    },
+    {
+      "number": "99.2",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "48d736fe-5e2c-4830-b935-317e255a7656"
+    },
+    {
+      "number": "99.3",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "26254d41-156b-4d46-931c-e479a311772c"
+    },
+    {
+      "number": "100.1",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "344b97af-02b2-4fd7-8a8e-eda84b44a1bc"
+    },
+    {
+      "number": "100.2",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "143de0d5-1844-4043-806e-22ed59f3d94d"
+    },
+    {
+      "number": "100.3",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "a1a29408-8ed1-402e-8b64-b1eaaca38e56"
+    },
+    {
+      "number": "101.1",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "25364c62-10b5-46ee-a0a1-9ff67e0f8b79"
+    },
+    {
+      "number": "101.2",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "417d4a41-1d5d-4949-8f7a-e5cb458df495"
+    },
+    {
+      "number": "101.3",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "6b30daab-29c4-4082-a136-52e36ddbd0c6"
+    },
+    {
+      "number": "102.1",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "fd8b8ea2-3ff3-4502-9932-714cf455b71b"
+    },
+    {
+      "number": "102.2",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "06552c20-eb81-45b2-8f2b-85c964bc1cc6"
+    },
+    {
+      "number": "102.3",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "9426f3c1-a76e-4585-937d-991833dfa99c"
+    },
+    {
+      "number": "103.1",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "f4e50260-c41a-4d61-b20a-dc89f61e177c"
+    },
+    {
+      "number": "103.2",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "e815094d-eab9-48fe-9a8e-2444912c20d2"
+    },
+    {
+      "number": "103.3",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "33401e07-6680-463d-8acc-cabca1a76cf1"
+    },
+    {
+      "number": "104.1",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "51609bc7-dc9c-4d61-95af-f0dd6e5e9f0b"
+    },
+    {
+      "number": "104.2",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "a95aa10a-3f4e-45e7-a4fa-2bd1c5b91b04"
+    },
+    {
+      "number": "104.3",
+      "title": "",
+      "date": "2020-02-26",
+      "src": "mangadex",
+      "mdxId": "64a4d472-cf13-4f7a-be18-b54591453c97"
+    },
+    {
+      "number": "105.1",
+      "title": "",
+      "date": "2020-03-07",
+      "src": "mangadex",
+      "mdxId": "9a1dca29-c6c0-40e7-95ff-bb6d084df6da"
+    },
+    {
+      "number": "105.2",
+      "title": "",
+      "date": "2020-03-07",
+      "src": "mangadex",
+      "mdxId": "58412190-baf6-4c9e-a480-b2accce3387e"
+    },
+    {
+      "number": "105.3",
+      "title": "",
+      "date": "2020-03-07",
+      "src": "mangadex",
+      "mdxId": "0303a8fa-2c1c-440c-86d9-f4e419a5dca7"
+    },
+    {
+      "number": "106.1",
+      "title": "",
+      "date": "2020-03-19",
+      "src": "mangadex",
+      "mdxId": "d789ac44-dd2a-4964-a848-d6328af288c4"
+    },
+    {
+      "number": "106.2",
+      "title": "",
+      "date": "2020-03-19",
+      "src": "mangadex",
+      "mdxId": "2cc2c428-d9e1-4caa-8381-46d00aad9c3e"
+    },
+    {
+      "number": "106.3",
+      "title": "",
+      "date": "2020-03-19",
+      "src": "mangadex",
+      "mdxId": "242b5496-6f61-471b-a806-d66148873601"
+    },
+    {
+      "number": "107.1",
+      "title": "",
+      "date": "2020-03-28",
+      "src": "mangadex",
+      "mdxId": "e693023b-8a95-4340-88c8-54c17a722fe7"
+    },
+    {
+      "number": "107.2",
+      "title": "",
+      "date": "2020-03-28",
+      "src": "mangadex",
+      "mdxId": "d7f97f72-ef42-44d4-8e88-609847ebe7b9"
+    },
+    {
+      "number": "107.3",
+      "title": "",
+      "date": "2020-03-28",
+      "src": "mangadex",
+      "mdxId": "9ec014b4-7eb1-40f9-9004-a6bc5a076bfd"
+    },
+    {
+      "number": "108.1",
+      "title": "",
+      "date": "2020-05-21",
+      "src": "mangadex",
+      "mdxId": "37ec6f1a-cacf-421a-a183-c270338f35c4"
+    },
+    {
+      "number": "108.2",
+      "title": "",
+      "date": "2020-05-22",
+      "src": "mangadex",
+      "mdxId": "434c07fe-c42b-455c-8442-ffab89a8259b"
+    },
+    {
+      "number": "108.3",
+      "title": "",
+      "date": "2020-05-22",
+      "src": "mangadex",
+      "mdxId": "da9b2ad2-f505-4374-8b3e-003c063c6685"
+    },
+    {
+      "number": "109.1",
+      "title": "",
+      "date": "2020-07-03",
+      "src": "mangadex",
+      "mdxId": "e11eeb45-ef8a-4044-bd33-f3acc2d7e89a"
+    },
+    {
+      "number": "109.2",
+      "title": "",
+      "date": "2020-07-03",
+      "src": "mangadex",
+      "mdxId": "22f1adee-77d1-41ac-a7a9-7b58f37f495f"
+    },
+    {
+      "number": "109.3",
+      "title": "",
+      "date": "2020-07-03",
+      "src": "mangadex",
+      "mdxId": "6386bd50-3c25-42aa-9051-dfa85e2dda64"
+    },
+    {
+      "number": "110.1",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "0a4a3eb1-e1c3-401a-9a46-29c0562309d7"
+    },
+    {
+      "number": "110.2",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "2d27e303-599c-4606-a1ff-5cb97a203aa1"
+    },
+    {
+      "number": "110.3",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "cb4c5c5a-1f3f-4659-bb2c-b332f81aeb78"
+    },
+    {
+      "number": "111.1",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "b2921c86-8f67-4586-b4af-fcfb821cc86f"
+    },
+    {
+      "number": "111.2",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "3ba2bad7-5346-4412-b692-236cd1fc1e9b"
+    },
+    {
+      "number": "111.3",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "d0badf32-a698-42d9-b10a-598927d6ae2e"
+    },
+    {
+      "number": "112.1",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "6499c93c-20d3-4971-9d19-54c121493591"
+    },
+    {
+      "number": "112.2",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "891a40e8-1bc6-438c-8aac-3fb6c48e7252"
+    },
+    {
+      "number": "112.3",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "9c836959-944f-4272-98df-24160a0ad403"
+    },
+    {
+      "number": "113.1",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "52b028f5-d1df-4030-b57c-9f86f5866c83"
+    },
+    {
+      "number": "113.2",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "b6282c12-d4e2-45ce-a9c4-1f8fb915479a"
+    },
+    {
+      "number": "113.3",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "8fa9dcab-accb-43a9-9796-aedf92c03cfe"
+    },
+    {
+      "number": "114.1",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "95faa216-4cbf-4629-baa3-9f7ba94335fc"
+    },
+    {
+      "number": "114.2",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "bebf6a7c-5612-49fe-8fa7-02ee906ea3fe"
+    },
+    {
+      "number": "114.3",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "e52a83ba-9973-4256-a925-879bc379ff16"
+    },
+    {
+      "number": "115.1",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "4cf45d3b-b4a2-43d9-89e1-4119921cccce"
+    },
+    {
+      "number": "115.2",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "e78821df-f9cd-4f97-a249-40418fe125ba"
+    },
+    {
+      "number": "115.3",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "9f03c4a4-c78a-4605-9da0-8a3fa699c04d"
+    },
+    {
+      "number": "116.1",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "d0904973-d1c6-44a2-b30e-be282fe6adf6"
+    },
+    {
+      "number": "116.2",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "a7cdf6e3-0b3e-4d15-84ef-11c617518dc8"
+    },
+    {
+      "number": "116.3",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "5cc1019f-0375-4ef8-85a2-f403ae5bc712"
+    },
+    {
+      "number": "117.1",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "704e0aac-84e2-4287-bdfc-b91813f096aa"
+    },
+    {
+      "number": "117.2",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "3adf0d11-133c-4afb-ab6f-f13240446d14"
+    },
+    {
+      "number": "117.3",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "f9ce90b7-287a-48bf-a7be-d6c711ad01c7"
+    },
+    {
+      "number": "118.1",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "cb6cf493-d684-493d-8e2d-5676fb01f076"
+    },
+    {
+      "number": "118.2",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "a28897c9-48e0-4106-b163-2eadf956f98a"
+    },
+    {
+      "number": "118.3",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "f46b381c-a4b0-421e-908a-ccb14f1f4c32"
+    },
+    {
+      "number": "119.1",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "b1188290-274b-4f1f-88f0-51eb881fc72a"
+    },
+    {
+      "number": "119.2",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "2dc3f8e9-1daf-4c37-a93b-1f54ce036b6f"
+    },
+    {
+      "number": "119.3",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "c728c093-f29c-44ea-93ad-31b0e99cbc62"
+    },
+    {
+      "number": "120.1",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "67f5226f-ca94-4ae1-9aea-81eb014a306b"
+    },
+    {
+      "number": "120.2",
+      "title": "",
+      "date": "2020-09-26",
+      "src": "mangadex",
+      "mdxId": "98151a1a-eabe-485a-8f0e-54326fc75ba8"
+    },
+    {
+      "number": "120.3",
+      "title": "",
+      "date": "2020-10-14",
+      "src": "mangadex",
+      "mdxId": "70a0fed4-0be6-42d7-86ed-e509cb7ba4a8"
+    },
+    {
+      "number": "121.1",
+      "title": "",
+      "date": "2020-10-14",
+      "src": "mangadex",
+      "mdxId": "b44891c6-8e14-4c77-807b-d49929392644"
+    },
+    {
+      "number": "121.2",
+      "title": "",
+      "date": "2020-10-14",
+      "src": "mangadex",
+      "mdxId": "9749f95c-3708-4a6c-80f5-6b8486ec095a"
+    },
+    {
+      "number": "121.3",
+      "title": "",
+      "date": "2020-10-14",
+      "src": "mangadex",
+      "mdxId": "7de9a69a-f62b-4d2b-9384-75c22d7bc309"
+    },
+    {
+      "number": "122.1",
+      "title": "",
+      "date": "2020-12-24",
+      "src": "mangadex",
+      "mdxId": "e304120d-e3f4-4a76-88d2-b1a523166a4e"
+    },
+    {
+      "number": "122.2",
+      "title": "",
+      "date": "2020-12-24",
+      "src": "mangadex",
+      "mdxId": "50913c1a-a31a-444a-97a2-1560a63e3f85"
+    },
+    {
+      "number": "122.3",
+      "title": "",
+      "date": "2020-12-24",
+      "src": "mangadex",
+      "mdxId": "5f642857-5d9f-4408-96e2-32a9e816966f"
+    },
+    {
+      "number": "123.1",
+      "title": "",
+      "date": "2020-12-24",
+      "src": "mangadex",
+      "mdxId": "05c3df54-f5ac-46f0-bfa7-29a06f283320"
+    },
+    {
+      "number": "123.2",
+      "title": "",
+      "date": "2020-12-24",
+      "src": "mangadex",
+      "mdxId": "3b370b8f-a55d-45ba-b0d3-dc940829e5e7"
+    },
+    {
+      "number": "123.3",
+      "title": "",
+      "date": "2020-12-24",
+      "src": "mangadex",
+      "mdxId": "98860bc1-42cf-4af4-b73c-80a2b44d9a93"
+    },
+    {
+      "number": "124.1",
+      "title": "",
+      "date": "2020-12-24",
+      "src": "mangadex",
+      "mdxId": "7259f977-49f8-4580-8c7a-7575754a52cd"
+    },
+    {
+      "number": "124.2",
+      "title": "",
+      "date": "2020-12-24",
+      "src": "mangadex",
+      "mdxId": "d3efa3d9-abad-4c2c-ac89-345885fa0e37"
+    },
+    {
+      "number": "124.3",
+      "title": "",
+      "date": "2021-01-05",
+      "src": "mangadex",
+      "mdxId": "1f11e75e-2c07-45a3-9a99-2187f7aa3708"
+    },
+    {
+      "number": "125.1",
+      "title": "",
+      "date": "2021-01-05",
+      "src": "mangadex",
+      "mdxId": "287c86e0-599a-4ebf-96ef-6184af6fbc5f"
+    },
+    {
+      "number": "125.2",
+      "title": "",
+      "date": "2021-01-05",
+      "src": "mangadex",
+      "mdxId": "14a75438-7305-4008-8d0c-8bd9346f01b7"
+    },
+    {
+      "number": "125.3",
+      "title": "",
+      "date": "2021-01-05",
+      "src": "mangadex",
+      "mdxId": "dfe851da-173c-4c1c-84a1-71eb3cf1ca1e"
+    },
+    {
+      "number": "126.1",
+      "title": "",
+      "date": "2021-01-05",
+      "src": "mangadex",
+      "mdxId": "fbcec807-3d07-4622-b529-54a1c8f24e4c"
+    },
+    {
+      "number": "126.2",
+      "title": "",
+      "date": "2021-01-05",
+      "src": "mangadex",
+      "mdxId": "93f574f2-0eeb-4ab8-8e67-219d94b8ddf2"
+    },
+    {
+      "number": "126.3",
+      "title": "",
+      "date": "2021-01-05",
+      "src": "mangadex",
+      "mdxId": "5a718130-f0ce-4dab-bee2-2f4c7e1810d5"
+    },
+    {
+      "number": "127.1",
+      "title": "",
+      "date": "2021-02-13",
+      "src": "mangadex",
+      "mdxId": "5dca608c-a6ca-45c1-a527-35d36264805c"
+    },
+    {
+      "number": "127.2",
+      "title": "",
+      "date": "2021-02-13",
+      "src": "mangadex",
+      "mdxId": "b1c918f8-2c12-4184-8c76-664f8efc66ae"
+    },
+    {
+      "number": "127.3",
+      "title": "",
+      "date": "2021-02-13",
+      "src": "mangadex",
+      "mdxId": "529d95b8-c637-4a01-889f-b3718b6831b4"
+    },
+    {
+      "number": "128.1",
+      "title": "",
+      "date": "2021-02-13",
+      "src": "mangadex",
+      "mdxId": "8cde8f9d-cb58-42eb-83c1-56b2012a91a1"
+    },
+    {
+      "number": "128.2",
+      "title": "",
+      "date": "2021-02-13",
+      "src": "mangadex",
+      "mdxId": "efc0e299-b9af-4b1f-af8b-167a71350dfb"
+    },
+    {
+      "number": "128.3",
+      "title": "",
+      "date": "2021-02-13",
+      "src": "mangadex",
+      "mdxId": "ee2cd3bc-9c2c-4efd-9cb7-20afe665b737"
+    },
+    {
+      "number": "129.1",
+      "title": "",
+      "date": "2021-02-13",
+      "src": "mangadex",
+      "mdxId": "a4b5705f-95d4-4d5c-8a1c-08f16f7efe86"
+    },
+    {
+      "number": "129.2",
+      "title": "",
+      "date": "2021-12-15",
+      "src": "mangadex",
+      "mdxId": "b6534c80-93d8-4d2f-a0ed-7b93e5841939"
+    },
+    {
+      "number": "129.3",
+      "title": "",
+      "date": "2021-12-15",
+      "src": "mangadex",
+      "mdxId": "e12ab175-778b-4d81-8a00-1c8616583733"
+    },
+    {
+      "number": "130.1",
+      "title": "",
+      "date": "2021-12-15",
+      "src": "mangadex",
+      "mdxId": "dba6b52a-2b8a-49ea-9375-f32ede07eafc"
+    },
+    {
+      "number": "130.2",
+      "title": "",
+      "date": "2021-12-15",
+      "src": "mangadex",
+      "mdxId": "ad0237de-fcbb-41f9-9302-5b8f9fc2e7fa"
+    },
+    {
+      "number": "130.3",
+      "title": "",
+      "date": "2021-12-15",
+      "src": "mangadex",
+      "mdxId": "f58b0f01-85a4-49e5-b8ac-f29a412dbecf"
+    },
+    {
+      "number": "131.1",
+      "title": "",
+      "date": "2021-12-15",
+      "src": "mangadex",
+      "mdxId": "9b9e10ee-7bd4-4cfa-9b81-fdba9c8530b5"
+    },
+    {
+      "number": "131.2",
+      "title": "",
+      "date": "2021-12-15",
+      "src": "mangadex",
+      "mdxId": "86583dc1-65c7-4646-8912-d233b0bc9099"
+    },
+    {
+      "number": "131.3",
+      "title": "",
+      "date": "2021-12-15",
+      "src": "mangadex",
+      "mdxId": "f1411b2a-afe6-4175-a698-25cb3555d693"
+    },
+    {
+      "number": "132.1",
+      "title": "",
+      "date": "2021-12-15",
+      "src": "mangadex",
+      "mdxId": "7224a15c-9b0c-4ed7-b48c-8ef45d012ddd"
+    },
+    {
+      "number": "132.2",
+      "title": "",
+      "date": "2021-12-15",
+      "src": "mangadex",
+      "mdxId": "c8ecb9e7-9b4f-4ed8-b97a-f25c2792358d"
+    },
+    {
+      "number": "132.3",
+      "title": "",
+      "date": "2021-12-15",
+      "src": "mangadex",
+      "mdxId": "5db0f608-5bad-4758-8029-91380f0ca412"
+    },
+    {
+      "number": "133.1",
+      "title": "",
+      "date": "2021-12-15",
+      "src": "mangadex",
+      "mdxId": "93441fa6-cd93-476e-ab97-ea9c2a0f414b"
+    },
+    {
+      "number": "133.2",
+      "title": "",
+      "date": "2021-12-15",
+      "src": "mangadex",
+      "mdxId": "981c0b59-9dad-45b1-aa36-c39614e65241"
+    },
+    {
+      "number": "133.3",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "372e7ce8-f309-4c27-b1fd-349d2806c7ef"
+    },
+    {
+      "number": "134.1",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "2e17c5f2-2611-47ac-996b-dc63ee2e22de"
+    },
+    {
+      "number": "134.2",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "f14d5856-6514-41f1-927b-83f4fb0aa5e7"
+    },
+    {
+      "number": "134.3",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "aceb92e2-3ad5-4e53-b417-e0bf285a2b70"
+    },
+    {
+      "number": "135.1",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "b350d4e0-a820-4571-91be-e27ead153ddb"
+    },
+    {
+      "number": "135.2",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "e5597b86-021e-4e7d-bf96-1d8aea4112e6"
+    },
+    {
+      "number": "135.3",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "fa7521a5-e82c-44a8-9722-b82bb019375d"
+    },
+    {
+      "number": "136.1",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "771fa7f4-1aaa-4798-b57c-440cbf891b3f"
+    },
+    {
+      "number": "136.2",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "0b73c69d-a394-4a08-be85-da70f5c42f7e"
+    },
+    {
+      "number": "136.3",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "20081db6-b0c5-4339-afda-ee68d7ebb3be"
+    },
+    {
+      "number": "137.1",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "722d4da0-9d9a-486c-b9bd-00fb7d5c3797"
+    },
+    {
+      "number": "137.2",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "8e77aaaf-cd09-4bb9-bb36-f614e9ac0c7b"
+    },
+    {
+      "number": "137.3",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "fa64eb01-0d56-4ab4-8aac-f8c4926906a5"
+    },
+    {
+      "number": "138.1",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "10a90437-b98d-4ec3-aa5c-8785cc9bbaeb"
+    },
+    {
+      "number": "138.2",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "8bcd0b0e-0b4d-4093-a192-67b374ef0a15"
+    },
+    {
+      "number": "138.3",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "982f5730-3423-4e69-9468-856787d12fce"
+    },
+    {
+      "number": "139.1",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "17677de5-1b5d-4eeb-908a-425eef28fa9c"
+    },
+    {
+      "number": "139.2",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "195dd9e4-cb3e-4f90-841b-a66b326c2fd7"
+    },
+    {
+      "number": "139.3",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "729b424c-3e1c-44b7-9fd4-bc470d24ed83"
+    },
+    {
+      "number": "140.1",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "78bf0ae2-206b-4e81-83c6-31c7a516987f"
+    },
+    {
+      "number": "140.2",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "36c92725-e19a-4898-bed6-98a000320dbf"
+    },
+    {
+      "number": "140.3",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "2c828ebc-4f92-4d15-bd19-ec17fb539b85"
+    },
+    {
+      "number": "141.1",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "15907a0c-23b8-4a8f-9bc8-03a3370e9729"
+    },
+    {
+      "number": "141.2",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "eed450dd-07ca-4a59-93f9-a103d461d6ee"
+    },
+    {
+      "number": "141.3",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "408bc38f-ce8d-40a5-9b6a-a14b16d9e4b1"
+    },
+    {
+      "number": "142.1",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "21150fa2-912d-48d2-988c-fdf5f24441b5"
+    },
+    {
+      "number": "142.2",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "af9a15b6-da1d-49a9-87bf-16c7804ea41c"
+    },
+    {
+      "number": "142.3",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "44d2fca9-5f6c-4408-8dc6-de31310ad048"
+    },
+    {
+      "number": "143.1",
+      "title": "",
+      "date": "2021-12-18",
+      "src": "mangadex",
+      "mdxId": "151f75a0-e012-4996-97c1-110f6de359dd"
+    },
+    {
+      "number": "143.2",
+      "title": "",
+      "date": "2021-12-20",
+      "src": "mangadex",
+      "mdxId": "aef9d38f-ff97-4d91-9056-31b8f7fa3a65"
+    },
+    {
+      "number": "143.3",
+      "title": "",
+      "date": "2021-12-25",
+      "src": "mangadex",
+      "mdxId": "3c8a5f70-3c4e-49ef-9e63-8809a65c68b5"
+    },
+    {
+      "number": "144.1",
+      "title": "",
+      "date": "2021-12-25",
+      "src": "mangadex",
+      "mdxId": "6df78618-38ce-4932-8d63-0c513e505482"
+    },
+    {
+      "number": "144.2",
+      "title": "",
+      "date": "2021-12-25",
+      "src": "mangadex",
+      "mdxId": "bfd66bc3-ae53-415d-97ec-60b7cfdf113e"
+    },
+    {
+      "number": "144.3",
+      "title": "",
+      "date": "2021-12-25",
+      "src": "mangadex",
+      "mdxId": "be3fca34-754d-4efb-a3d0-658942d12ccb"
+    },
+    {
+      "number": "145.1",
+      "title": "",
+      "date": "2021-12-25",
+      "src": "mangadex",
+      "mdxId": "66e7906f-a56c-46d2-867c-c61f8e3e33d3"
+    },
+    {
+      "number": "145.2",
+      "title": "",
+      "date": "2021-12-25",
+      "src": "mangadex",
+      "mdxId": "2d21c85f-c951-4d38-8197-4ce6b1faef0c"
+    },
+    {
+      "number": "145.3",
+      "title": "",
+      "date": "2021-12-25",
+      "src": "mangadex",
+      "mdxId": "509df74e-0980-498c-a11a-0e8b95af2f14"
+    },
+    {
+      "number": "146.1",
+      "title": "",
+      "date": "2021-12-25",
+      "src": "mangadex",
+      "mdxId": "a2aead31-1d06-4415-ab81-374073437fc8"
+    },
+    {
+      "number": "146.2",
+      "title": "",
+      "date": "2021-12-25",
+      "src": "mangadex",
+      "mdxId": "cc038822-62dd-4622-9fa4-b39f42d3e24d"
+    },
+    {
+      "number": "147.1",
+      "title": "",
+      "date": "2021-12-25",
+      "src": "mangadex",
+      "mdxId": "a9e639c7-22fb-4091-8c7d-8ab63d528c2f"
+    },
+    {
+      "number": "147.2",
+      "title": "",
+      "date": "2021-12-25",
+      "src": "mangadex",
+      "mdxId": "58097526-e9c7-4382-ab5d-f14dae4ba4d3"
+    },
+    {
+      "number": "147.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "f915d2cf-8641-48a8-a5bb-5a8a7b64e4f5"
+    },
+    {
+      "number": "148.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "0f2416e1-b638-4b67-b59e-017a2b94393b"
+    },
+    {
+      "number": "148.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "9efea87c-d976-4c79-88a1-bc2134d71228"
+    },
+    {
+      "number": "148.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "7dbe803f-2c06-4c80-8498-44a67156bd4f"
+    },
+    {
+      "number": "149.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "86caddf9-e666-4a95-ba95-bd0c75c9fd5d"
+    },
+    {
+      "number": "149.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "4340ca74-4f4b-4859-8f67-6e8b1a8a61da"
+    },
+    {
+      "number": "149.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "100eaaaa-b77d-43b7-8225-4e116cef516c"
+    },
+    {
+      "number": "150.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "a84bdd77-12ae-4e15-81e2-6b8130a5e813"
+    },
+    {
+      "number": "150.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "5ef7ed73-b9f0-481f-8c80-5ca5dee20c62"
+    },
+    {
+      "number": "150.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "4989180b-d2c9-441d-8338-3a6a13acc2a3"
+    },
+    {
+      "number": "151.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "51b1cc4d-536b-48c5-ad1b-485ce608c602"
+    },
+    {
+      "number": "151.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "91da5c4d-b04d-4ef6-a96a-7486dec9b2b5"
+    },
+    {
+      "number": "151.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "5f42bf7c-64e3-4e3f-b4ec-a282831f2e72"
+    },
+    {
+      "number": "152.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "950196a9-0945-41b7-8d3c-987103eeb704"
+    },
+    {
+      "number": "152.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "beb49528-71f9-4ff9-aca8-d197c9ddd693"
+    },
+    {
+      "number": "153.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "153cc2c3-60bf-4558-bba4-3beb41eb22f9"
+    },
+    {
+      "number": "153.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "dd7fccb0-cc38-498f-85dc-c7a7acaa9f50"
+    },
+    {
+      "number": "153.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "3c9b3292-8246-45b3-9a87-88dbd4083b10"
+    },
+    {
+      "number": "154.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "f5f1fc53-742f-4126-b8f4-f064046b524c"
+    },
+    {
+      "number": "154.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "98bdcc69-f5f1-41b4-8d7a-904a210e9fc5"
+    },
+    {
+      "number": "154.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "24590198-02d7-40a2-ad7c-266cef4dd6f6"
+    },
+    {
+      "number": "155.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "e5e144f2-dc15-4ed4-ac67-2823150dc418"
+    },
+    {
+      "number": "155.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "1d5c69ce-e355-4fb3-aee2-2e3e3108752d"
+    },
+    {
+      "number": "155.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "c159b9f7-5e8c-45e8-94e6-d2ccc869b299"
+    },
+    {
+      "number": "156.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "0c21b1da-cce9-4ede-87bd-368e2d3b090c"
+    },
+    {
+      "number": "156.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "d05ba94e-1056-4d7d-8f50-e2444f3cafe3"
+    },
+    {
+      "number": "156.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "3fea176f-46b1-48f2-b8b9-79fa0e96f0ae"
+    },
+    {
+      "number": "157.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "e8f546eb-2c71-4d31-8583-68df0242ba15"
+    },
+    {
+      "number": "157.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "e7f1fd12-5594-4005-909b-042e5b07c205"
+    },
+    {
+      "number": "157.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "708f7b1d-cb84-412e-9c51-e4f58829e7a9"
+    },
+    {
+      "number": "158.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "154bc133-dfdf-49e1-b384-f4145ebef3fa"
+    },
+    {
+      "number": "158.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "57321f4f-f7a9-4cea-a87e-16cde6494c54"
+    },
+    {
+      "number": "158.3",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "89f14f90-1cc7-48d9-8b2e-e43ee1e31c26"
+    },
+    {
+      "number": "159.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "433a4ca7-4703-4458-961c-f83f712131db"
+    },
+    {
+      "number": "159.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "67db0b38-44b8-4efd-b4bd-840e3dfe8e35"
+    },
+    {
+      "number": "159.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "b329042b-174c-43ee-872c-8fe21d6939eb"
+    },
+    {
+      "number": "160.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "73460e27-fcd5-488f-bee8-d0c43f0b266d"
+    },
+    {
+      "number": "160.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "3b7315bc-3ee1-4efa-8e1f-b3cf2bef15f5"
+    },
+    {
+      "number": "160.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "6c465b82-eae7-4198-84ed-5bd9716459d4"
+    },
+    {
+      "number": "161.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "aa20db82-74d1-44ce-80b9-1f5733bb43d5"
+    },
+    {
+      "number": "161.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "50944ae4-e081-44e2-ab26-08070b911f73"
+    },
+    {
+      "number": "161.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "2d4a3d1d-06c1-439e-97e0-7b7a0eaf0b12"
+    },
+    {
+      "number": "162.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "5cbdb320-96ee-4c94-8849-fbcc4fa35881"
+    },
+    {
+      "number": "162.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "4a7a9757-62b5-4104-9654-261192e0c6de"
+    },
+    {
+      "number": "162.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "de97846d-024e-4b63-97a2-abd8d82ff0d6"
+    },
+    {
+      "number": "163.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "c07e2cd3-bdfb-4b15-a5c7-0ca06ba43aee"
+    },
+    {
+      "number": "163.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "5d3a08a4-2cb7-4ee9-bca2-b9ce7a6db15f"
+    },
+    {
+      "number": "163.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "0542f2ce-336c-46d3-83be-58ada33b89f8"
+    },
+    {
+      "number": "164.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "10ab6459-3507-4ce3-9e5e-3c0efae0d057"
+    },
+    {
+      "number": "164.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "e5ab58e9-46bb-4bd5-9276-8d912222c314"
+    },
+    {
+      "number": "164.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "37a29591-ba73-4aee-82bb-690ef6bc3463"
+    },
+    {
+      "number": "165.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "dbb708c5-3dae-4505-beb2-6b90abc5dff3"
+    },
+    {
+      "number": "165.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "c80f2f61-7e56-4328-a200-d94162b8126e"
+    },
+    {
+      "number": "165.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "2b0f018c-efd6-445c-aa89-0209b3035c87"
+    },
+    {
+      "number": "166.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "5193ae75-4326-4d16-9586-fc56c7a5ad70"
+    },
+    {
+      "number": "166.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "5dcf4963-fdfd-4a39-9a68-507bdbc42d02"
+    },
+    {
+      "number": "166.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "84510143-9aa0-44a3-9f96-3ed4872a56a1"
+    },
+    {
+      "number": "167.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "11bafaec-af61-4233-b201-1289689cf723"
+    },
+    {
+      "number": "167.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "72a2e3d4-964e-493b-9915-80d39f50f66c"
+    },
+    {
+      "number": "167.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "65750b62-997a-43b1-acc8-031486312ecf"
+    },
+    {
+      "number": "168.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "a660fa2f-30fe-42a4-830d-8f53d4a6ac49"
+    },
+    {
+      "number": "168.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "e6890d7d-5084-4bcb-b677-22ac4ca11bdb"
+    },
+    {
+      "number": "168.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "7f304a8c-1852-49be-b414-007d31b5c783"
+    },
+    {
+      "number": "169.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "277696ea-d7e1-4b12-a894-a0c5775309db"
+    },
+    {
+      "number": "170.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "9fbdf0ff-a673-425d-b18d-c14b12bfa262"
+    },
+    {
+      "number": "170.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "02dc1bfa-9704-43c6-9791-a6d37063ca4b"
+    },
+    {
+      "number": "170.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "2f9535cf-20ac-4d22-9458-12a7b5ef4c86"
+    },
+    {
+      "number": "171.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "5522e5c0-afe8-4af0-9274-57bd413a1439"
+    },
+    {
+      "number": "171.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "35a336a6-0574-4216-81cd-8dccbd773ba9"
+    },
+    {
+      "number": "171.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "c5634bf6-dfae-4f1d-bdc4-46caf77914aa"
+    },
+    {
+      "number": "172.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "314f0155-598c-45cc-a52e-17dd6a56c7a3"
+    },
+    {
+      "number": "172.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "6de9ed09-37b2-40e0-ba0f-8fabe9ccad52"
+    },
+    {
+      "number": "172.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "0b95f613-cc3a-4e43-9a6a-647f1644f29d"
+    },
+    {
+      "number": "173.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "c34cb7bd-d98d-4081-8030-02d2e9b59337"
+    },
+    {
+      "number": "173.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "6979e0a3-4ec0-43f2-a2bb-892e3315a51d"
+    },
+    {
+      "number": "173.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "1ca6610c-5cf0-4842-8c85-4700da916baa"
+    },
+    {
+      "number": "174.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "126b0673-ed8a-4e82-9d48-ae6e58fdeb89"
+    },
+    {
+      "number": "174.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "b264c423-3526-48d1-950c-cc7d9864e271"
+    },
+    {
+      "number": "174.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "455e5227-de37-4ba3-9159-4ad06f781872"
+    },
+    {
+      "number": "175.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "79cd8971-3bc5-46cc-ba3c-237fd560d419"
+    },
+    {
+      "number": "175.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "90ce5fae-9df8-4cbd-ac28-bd9023b78e56"
+    },
+    {
+      "number": "175.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "c48b9582-b625-40e2-9915-2e19155a5d8d"
+    },
+    {
+      "number": "176.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "f4fd8eeb-ed4f-4bf4-9f0b-603cb569efa0"
+    },
+    {
+      "number": "176.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "bf76d2b6-5a9b-45a1-9d54-a1a3c8b380de"
+    },
+    {
+      "number": "176.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "6d3559ef-507b-4cee-ae55-71dfdb10e20f"
+    },
+    {
+      "number": "177.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "5561be37-9778-4d54-97f2-58947d295232"
+    },
+    {
+      "number": "177.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "db3d8a8e-2815-4f0b-92c6-c6ad3ff138cc"
+    },
+    {
+      "number": "177.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "3001a688-c79f-42ae-86d8-9a66136d0652"
+    },
+    {
+      "number": "178.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "473fd968-4403-46aa-8f0f-b5e4ebd02df6"
+    },
+    {
+      "number": "178.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "4ad1aa6d-94a5-4dc1-b50c-1693a51b8aee"
+    },
+    {
+      "number": "178.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "4e63e6b6-78e9-4c68-a7b1-c50922bbb316"
+    },
+    {
+      "number": "179.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "122260f0-f0c6-41d2-a02c-73d46e843e3c"
+    },
+    {
+      "number": "179.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "cfccbe21-8bff-49fe-a5f7-6a0ba0109878"
+    },
+    {
+      "number": "179.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "27016a37-a84d-4f87-84a0-b0b4e130e80a"
+    },
+    {
+      "number": "180.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "f7dc69c7-d067-41ee-adab-54e412c7ca0d"
+    },
+    {
+      "number": "180.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "57a7b828-1003-4774-9d42-1c20c28b88d1"
+    },
+    {
+      "number": "180.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "9b0b5aed-8284-4ee2-b900-4d4548031688"
+    },
+    {
+      "number": "181.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "69a5848e-4df9-4401-8392-e20ff3c62d3c"
+    },
+    {
+      "number": "181.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "51bbd8d6-a3d6-452a-ba40-b8db68f7590a"
+    },
+    {
+      "number": "181.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "740149bc-bfa9-4df5-9751-e51adce370de"
+    },
+    {
+      "number": "182.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "c8ddc9cb-ac50-4547-8b45-53eb2f43b12a"
+    },
+    {
+      "number": "182.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "cacc5b90-c247-4ec6-9885-000934007fa6"
+    },
+    {
+      "number": "182.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "057617d9-c22e-47a4-a696-e117314d4476"
+    },
+    {
+      "number": "183.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "08e56005-fc00-45f0-a0c5-1dd4ebfd0133"
+    },
+    {
+      "number": "183.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "f7e626ea-c73a-4abb-8b92-9a8666555572"
+    },
+    {
+      "number": "183.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "ec5f0092-3dca-4adc-9e4c-2d8bf9a48512"
+    },
+    {
+      "number": "184.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "6f1a83fa-a50b-4593-8994-51435f9970eb"
+    },
+    {
+      "number": "184.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "ea12ee9d-fc0f-4669-ba26-83e425f404a9"
+    },
+    {
+      "number": "184.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "9af69292-0892-49e8-a712-a4571041c86a"
+    },
+    {
+      "number": "185.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "b10a4eaa-afa8-4b61-bb7e-02e6d504b9b4"
+    },
+    {
+      "number": "185.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "32a565a1-fe32-4b54-bb7d-669514a63432"
+    },
+    {
+      "number": "186.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "71d04263-93b4-416c-be3e-54cff5d3714a"
+    },
+    {
+      "number": "186.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "50bcb46c-2ecd-4a98-817f-b9b10a367266"
+    },
+    {
+      "number": "186.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "4cf51020-937d-4203-8f3c-65a46e68c9bc"
+    },
+    {
+      "number": "187.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "bac2fb5f-4cdd-4b8a-bd48-31e2eafe836c"
+    },
+    {
+      "number": "187.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "12a2520b-16c3-4dec-bee5-4c1c1c8204d9"
+    },
+    {
+      "number": "187.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "bc40eaa3-8b5f-44dd-9bea-dd1620c4c47d"
+    },
+    {
+      "number": "188.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "aeb5fb6c-b83d-4189-9838-4198b1a04613"
+    },
+    {
+      "number": "188.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "fdb9bbfd-ca2c-4edd-aa5d-ca5cb4c22a77"
+    },
+    {
+      "number": "188.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "5794baf9-8c3f-431d-a57e-8cedab70bbcb"
+    },
+    {
+      "number": "189.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "d3f53eb9-a1c6-43ec-943c-423a6f38b017"
+    },
+    {
+      "number": "189.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "525ff685-47a8-4ce9-9eca-18c35316ed58"
+    },
+    {
+      "number": "189.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "056fdf6b-a8a7-4a2d-b6b0-79d8c6072e5f"
+    },
+    {
+      "number": "190.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "287acba4-1d50-4012-9fe5-6a161b60c87b"
+    },
+    {
+      "number": "190.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "69587ed8-dda8-4fea-b179-2fa61ab4393d"
+    },
+    {
+      "number": "190.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "103ee33c-be61-48ce-a8e7-f6ff14dc4ac5"
+    },
+    {
+      "number": "191.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "0f9b67f6-ee68-499d-bfc2-f807cfb432ea"
+    },
+    {
+      "number": "191.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "604b3e4b-67a5-4875-9434-fd25c914e90a"
+    },
+    {
+      "number": "191.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "ad31c634-d442-424e-b1ba-4ba02b82a7c7"
+    },
+    {
+      "number": "192.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "08d10240-9d65-403c-8145-84b089b4da12"
+    },
+    {
+      "number": "192.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "e9d23b51-bb42-4d1b-b050-4e7988b5e5b1"
+    },
+    {
+      "number": "192.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "54ba321c-09f8-4e80-83ce-9e182c57a8b2"
+    },
+    {
+      "number": "193.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "7acbeb6b-dd48-4484-90b6-e3b6b219ff76"
+    },
+    {
+      "number": "193.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "f11dbc6a-7345-4eb9-9065-2741f47af352"
+    },
+    {
+      "number": "193.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "71e5df80-3bdb-4032-9527-d95bec724e03"
+    },
+    {
+      "number": "194.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "357cb048-9c6e-40bd-8fc4-84083a2a5ce2"
+    },
+    {
+      "number": "194.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "affbd46f-fa3b-4346-8584-b010c40d7811"
+    },
+    {
+      "number": "194.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "6457028b-7c8d-4e43-9b7b-db6a1f90b025"
+    },
+    {
+      "number": "195.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "02e33bb1-879e-4114-9767-ded145f8f46b"
+    },
+    {
+      "number": "195.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "b8f1c2ef-5545-4646-8232-25afd783f714"
+    },
+    {
+      "number": "195.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "e982cde4-5b5f-4401-b099-a7ce500c1cde"
+    },
+    {
+      "number": "196.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "4b1ce647-3702-4f73-8a81-1dfc6273722c"
+    },
+    {
+      "number": "196.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "640dc6aa-6a9b-4047-bfe5-9aa7195dadb1"
+    },
+    {
+      "number": "196.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "689c75d6-659e-4ad8-83ae-be7baf5411cb"
+    },
+    {
+      "number": "197.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "5351d189-386e-4d89-9ed6-ad9c13a901d0"
+    },
+    {
+      "number": "197.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "2bf77d77-fd82-4d5d-b58f-08398eb4903c"
+    },
+    {
+      "number": "197.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "1c31aaae-105f-4777-b521-472f21f5458a"
+    },
+    {
+      "number": "197.4",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "b56924a3-8030-4497-925e-b298a16fe8e2"
+    },
+    {
+      "number": "198.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "ebce82ce-2b1e-4c48-b07e-398a54908b91"
+    },
+    {
+      "number": "198.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "0baf6456-a893-4d80-9ee4-47e274f20b80"
+    },
+    {
+      "number": "198.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "84549e86-5b44-4b23-9d1f-720c876c152a"
+    },
+    {
+      "number": "199.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "663a326a-3cdf-4317-91b1-99c0e2eca8c0"
+    },
+    {
+      "number": "199.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "58d63d75-b947-4851-8f2c-6537e0834e5f"
+    },
+    {
+      "number": "199.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "304ed936-2cd5-48f5-8575-16ca1e527a02"
+    },
+    {
+      "number": "200.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "58642c4b-b3a5-4aee-b839-68ad846ba6ac"
+    },
+    {
+      "number": "200.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "9bb62bff-504c-4715-a38d-6155fa236979"
+    },
+    {
+      "number": "200.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "f3a578bc-12be-4f09-bc56-650ac761ea58"
+    },
+    {
+      "number": "201.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "a9fb856d-1fd2-4e34-952a-d01c096f06bf"
+    },
+    {
+      "number": "201.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "869b992c-18e2-4db2-af3d-b0c341b99893"
+    },
+    {
+      "number": "201.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "305cf9ee-e578-48e3-b139-5b9ecc6d4dca"
+    },
+    {
+      "number": "202.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "db8d7790-ec4e-40ed-8816-b7e84939a05e"
+    },
+    {
+      "number": "202.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "d8686973-e2b8-4790-bded-4b6409081cf0"
+    },
+    {
+      "number": "202.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "c4fe1c1c-53b0-47c4-9399-ff59d3349304"
+    },
+    {
+      "number": "203.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "c0603693-c92a-4a04-8657-92d54c48c37b"
+    },
+    {
+      "number": "203.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "7fe5ad11-9c81-498a-9c89-3646fd3b9948"
+    },
+    {
+      "number": "203.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "3502e361-e34b-486d-908a-c2297e374ceb"
+    },
+    {
+      "number": "204.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "084fc3d6-3f58-4deb-abe9-15c20f938cd0"
+    },
+    {
+      "number": "204.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "e2e8eab2-153e-4f5c-b18f-24d689019f22"
+    },
+    {
+      "number": "204.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "c3097fad-d893-42a7-aede-95fa3b85550e"
+    },
+    {
+      "number": "205.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "f5045ceb-c38e-469c-aba2-62e16236919b"
+    },
+    {
+      "number": "205.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "10c9eaf9-7f52-4204-9722-355a7a316cb5"
+    },
+    {
+      "number": "205.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "8afea155-4066-46bb-b326-4bec2c618c9f"
+    },
+    {
+      "number": "206.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "39cea4e8-cd63-4d9d-8498-a79df7126951"
+    },
+    {
+      "number": "206.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "66b6d5bd-4fb8-4088-8362-d882e68b7e0d"
+    },
+    {
+      "number": "206.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "fd66e070-b25a-4166-8fa1-3ad65b77c8da"
+    },
+    {
+      "number": "207.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "d2400949-8d7d-498f-95c7-467c32e1fb5f"
+    },
+    {
+      "number": "207.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "c0100ee7-e524-4e40-a1d5-506ca8e58c1b"
+    },
+    {
+      "number": "207.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "7f1daab3-9d97-4107-867f-e0ff23704030"
+    },
+    {
+      "number": "208.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "c00980b9-8eaa-4249-b28b-6dd2260efd3f"
+    },
+    {
+      "number": "208.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "a9455b3f-8aad-4ef4-9374-dc99faab6fc5"
+    },
+    {
+      "number": "208.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "d02ce202-2c59-47ed-acb4-2e83cd467726"
+    },
+    {
+      "number": "209",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "43283cad-bc33-478b-b9b1-49ea58eb7551"
+    },
+    {
+      "number": "209.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "49020f14-d53b-436c-b6c2-c41ae95797cb"
+    },
+    {
+      "number": "209.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "6b840535-b1c1-4a88-a580-2d98f9592bfb"
+    },
+    {
+      "number": "209.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "1ab288f7-3bf4-45ae-92d0-2a1307c4f153"
+    },
+    {
+      "number": "210",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "632552a5-caae-40f1-9fb1-50f6cec82549"
+    },
+    {
+      "number": "210.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "d60d9375-0dbf-4d13-af73-83e9223369f4"
+    },
+    {
+      "number": "210.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "9bb16954-bfaf-4a3b-a52d-d53dcf31efff"
+    },
+    {
+      "number": "210.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "dfe15135-e702-4e0e-ac6c-92ae75ad0474"
+    },
+    {
+      "number": "211",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "e642b3ff-4a68-4fe4-9f8b-6e2f96ad331f"
+    },
+    {
+      "number": "211.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "472bb9d8-0e53-4a4d-9f13-1164e11a5647"
+    },
+    {
+      "number": "211.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "f4892f65-f4c3-4994-a846-ec5c72786b8e"
+    },
+    {
+      "number": "211.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "d39a384d-7b47-4897-92b4-b3d559b45c1e"
+    },
+    {
+      "number": "212.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "662be2de-c535-409f-b536-f20d784c4836"
+    },
+    {
+      "number": "212.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "726b06fa-0d32-47d8-bddf-c3a4f0b03d37"
+    },
+    {
+      "number": "212.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "b7d59152-86b7-4499-83f9-2bf8ba911bb4"
+    },
+    {
+      "number": "213.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "bf73180f-752d-4b59-81ff-0f762ee63e8d"
+    },
+    {
+      "number": "213.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "ea7f8d08-de52-4eb3-a5af-c975a380e21b"
+    },
+    {
+      "number": "213.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "de3a7622-b0d0-4000-aa76-9dac80e3dc96"
+    },
+    {
+      "number": "214.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "ee81e8cc-1340-4f8f-ad8f-995bf6459118"
+    },
+    {
+      "number": "214.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "57e377d1-b6a2-43e2-9130-5e3535c06caf"
+    },
+    {
+      "number": "214.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "e9b69d64-db32-4f73-92e6-29df6d83736e"
+    },
+    {
+      "number": "215.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "694a7e97-5652-439b-8633-01d1e39fe9c7"
+    },
+    {
+      "number": "215.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "49f73426-f8d7-4c21-8ba9-98b0b6e107fe"
+    },
+    {
+      "number": "215.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "6a741167-4ffb-46fc-bfed-86d1592e9c01"
+    },
+    {
+      "number": "216.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "61c9ee13-c002-4a84-a2bf-73e2d0d52587"
+    },
+    {
+      "number": "216.2",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "f05740a4-3c7f-4c1d-939b-cba6616f1164"
+    },
+    {
+      "number": "216.3",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "5137c6e9-e343-4130-9cc2-512891d0acb9"
+    },
+    {
+      "number": "217.1",
+      "title": "",
+      "date": "2025-02-04",
+      "src": "mangadex",
+      "mdxId": "bb49a1e2-d256-4eb4-a192-5fe4d454576c"
+    },
+    {
+      "number": "217.2",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "79ea2445-a087-4e71-9382-b64da596908d"
+    },
+    {
+      "number": "217.3",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "5c9fbb1c-4051-4c0d-bd33-ce9cd65e45ba"
+    },
+    {
+      "number": "218.1",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "bb493b48-c274-4bbf-b82f-b2b5fc3a357b"
+    },
+    {
+      "number": "218.2",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "00e60912-2896-45f3-9d9b-68e7d2fa13ab"
+    },
+    {
+      "number": "218.3",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "d96da491-8417-4fdd-a4fb-453fc63ce723"
+    },
+    {
+      "number": "219.2",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "2aeb7dd4-88dc-435d-8d05-4c38f2b79a64"
+    },
+    {
+      "number": "219.3",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "3d6677ed-bb59-424b-a2fe-551316c6077e"
+    },
+    {
+      "number": "220.1",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "50ccc59f-0881-44f0-87cb-7fea87c09433"
+    },
+    {
+      "number": "220.2",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "a888874c-910c-4487-acfa-b78fec8f729f"
+    },
+    {
+      "number": "220.3",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "722c8c1b-6e60-4067-881c-ba38086139de"
+    },
+    {
+      "number": "221.1",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "209ec19c-925a-4ab1-97b0-799a2cbe6605"
+    },
+    {
+      "number": "221.2",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "2c580d68-6c26-438f-b6d9-5cab7ff98b01"
+    },
+    {
+      "number": "221.3",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "b40130cc-540f-4203-a78f-32fcbdeb828a"
+    },
+    {
+      "number": "222.1",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "7288d3f9-758d-470f-ba85-9a5e7fdfc99d"
+    },
+    {
+      "number": "222.2",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "6ecc6c57-cc27-471f-88ae-99e516ad5e3b"
+    },
+    {
+      "number": "222.3",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "1ebe54f1-0ed0-4fd5-90b5-6c2ebd1ac30e"
+    },
+    {
+      "number": "223.1",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "2d760f4c-ed52-4fed-968b-c9c8c8461c25"
+    },
+    {
+      "number": "223.2",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "59b65af3-4bb4-48d5-a32e-1b17a4621521"
+    },
+    {
+      "number": "223.3",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "b9615d89-5022-4972-9230-4af85407b9b7"
+    },
+    {
+      "number": "224.1",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "bcb30ef5-a47a-4a38-968d-f6c71beca71f"
+    },
+    {
+      "number": "224.2",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "df2456a9-f8c3-470d-84a8-4fc9e64452f3"
+    },
+    {
+      "number": "224.3",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "e385ad89-7e9d-4f84-9731-c4b956992f9c"
+    },
+    {
+      "number": "225.1",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "3837de69-f2a3-45f0-a8a7-7ba7211c7ac7"
+    },
+    {
+      "number": "225.2",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "4e384385-b12b-4895-969c-4956ccd612c9"
+    },
+    {
+      "number": "225.3",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "a0af9e7a-6f9b-4640-9c75-81efdc295b38"
+    },
+    {
+      "number": "226.1",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "8332408f-4916-4388-b80d-27764d356f70"
+    },
+    {
+      "number": "226.2",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "c9f39f05-34ec-4cfc-a495-45820abc0637"
+    },
+    {
+      "number": "226.3",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "abf3eaea-71f5-4949-9b3b-9a4dd459dac3"
+    },
+    {
+      "number": "227.1",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "37a63b1b-1563-4274-bdb8-e80048e1ab0d"
+    },
+    {
+      "number": "227.2",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "79ca7309-514a-4305-b419-6c08b0f7e495"
+    },
+    {
+      "number": "227.3",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "4e252e45-a1eb-430d-b3f8-cac25e8d6809"
+    },
+    {
+      "number": "228.1",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "04472b1d-8724-4eda-b7dd-a7f56449b927"
+    },
+    {
+      "number": "228.2",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "4a3a2f94-cd87-48a2-8d74-bc5e782e5ba1"
+    },
+    {
+      "number": "228.3",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "5705a443-0e76-40e9-b8e6-04081c2258c0"
+    },
+    {
+      "number": "229.1",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "ae5d2924-8d98-4c1b-a7d7-7064b7e91c56"
+    },
+    {
+      "number": "229.2",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "cd566d58-345c-4ba7-86c3-ffeee4879aae"
+    },
+    {
+      "number": "229.3",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "f9ae78cd-2983-4c35-83a6-6814f725afef"
+    },
+    {
+      "number": "230.1",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "d871eec4-cdd9-49c4-9244-b20c01699134"
+    },
+    {
+      "number": "230.2",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "11d679e0-ce61-4060-8257-d7f9da7b586c"
+    },
+    {
+      "number": "230.3",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "2dc33e67-ad06-4ba2-b593-9e3655658c19"
+    },
+    {
+      "number": "231.1",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "08caa192-644c-4675-9828-ae0c1e37e64a"
+    },
+    {
+      "number": "231.2",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "39e515da-9dfb-40ed-8fee-28eec33ef493"
+    },
+    {
+      "number": "231.3",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "a6f87423-c32d-45a3-8bae-96249d7b7400"
+    },
+    {
+      "number": "232.1",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "4791ffa9-207b-4e52-853e-2ab4a314c2ac"
+    },
+    {
+      "number": "232.2",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "fcedb420-31c4-47ae-88e5-fc5754408aa8"
+    },
+    {
+      "number": "232.3",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "e871ba03-d31b-4d30-af80-2453e233e65e"
+    },
+    {
+      "number": "233.1",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "52dc40bd-592c-4c56-9a11-e9f167e3acb2"
+    },
+    {
+      "number": "233.2",
+      "title": "",
+      "date": "2025-02-05",
+      "src": "mangadex",
+      "mdxId": "3d982664-cd13-41a5-b6a3-d0a636876b63"
+    }
+  ]
+}

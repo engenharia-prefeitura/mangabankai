@@ -1,0 +1,536 @@
+{
+  "pt": [
+    {
+      "number": "6",
+      "title": "",
+      "date": "2023-07-08",
+      "src": "mangadex",
+      "mdxId": "4dfc1731-e4f0-4840-b995-3a26d80f57ec"
+    },
+    {
+      "number": "7",
+      "title": "",
+      "date": "2023-07-18",
+      "src": "mangadex",
+      "mdxId": "cf83acb6-d764-4835-a1e6-734913108a89"
+    },
+    {
+      "number": "9",
+      "title": "",
+      "date": "2023-10-12",
+      "src": "mangadex",
+      "mdxId": "581bc6ae-6a8e-4280-865c-82ab6c45dac0"
+    },
+    {
+      "number": "10",
+      "title": "",
+      "date": "2023-10-13",
+      "src": "mangadex",
+      "mdxId": "48f97f95-91cc-42f5-b46e-08b1ba4c063a"
+    },
+    {
+      "number": "18",
+      "title": "",
+      "date": "2024-01-05",
+      "src": "mangadex",
+      "mdxId": "87c66fb6-d518-492d-9dd7-fb490e5f3565"
+    },
+    {
+      "number": "22",
+      "title": "",
+      "date": "2024-02-21",
+      "src": "mangadex",
+      "mdxId": "dd978bfd-7c21-44ee-a2f5-69f388cc8ed7"
+    },
+    {
+      "number": "23",
+      "title": "",
+      "date": "2024-02-21",
+      "src": "mangadex",
+      "mdxId": "ee0e2895-385a-4127-86ec-baca20b9b9d8"
+    },
+    {
+      "number": "34",
+      "title": "Condução imprudente ao retornar de uma reunião de família.",
+      "date": "2024-06-05",
+      "src": "mangadex",
+      "mdxId": "c72d71bf-2a5d-4f6c-b1fd-05b425b4b94f"
+    },
+    {
+      "number": "35",
+      "title": "Os pais ficaram empolgados e pressionaram o professor durante a reunião de pais.",
+      "date": "2024-06-12",
+      "src": "mangadex",
+      "mdxId": "a1cc899f-456c-4558-94c9-97c09c270c71"
+    },
+    {
+      "number": "36",
+      "title": "Pais que dão dinheiro suspeito",
+      "date": "2024-06-24",
+      "src": "mangadex",
+      "mdxId": "fa2e6042-b139-4bea-9122-16a663308f7e"
+    },
+    {
+      "number": "37",
+      "title": "Pais preocupados com as amizades de seus filhos na adolescência",
+      "date": "2024-07-12",
+      "src": "mangadex",
+      "mdxId": "3a148537-d5b6-405c-ae1f-37fb00888efe"
+    },
+    {
+      "number": "37.5",
+      "title": "",
+      "date": "2024-08-10",
+      "src": "mangadex",
+      "mdxId": "6685fe02-b7b6-40eb-b113-3bf687125b17"
+    },
+    {
+      "number": "38",
+      "title": "O VERÃO DA GAROTA ALTA, TAKASHIMA",
+      "date": "2024-07-20",
+      "src": "mangadex",
+      "mdxId": "ce9c226c-2f0e-4a5b-b8e9-cb52e13ad4c1"
+    },
+    {
+      "number": "39",
+      "title": "PAIS SURPRESOS COM OS RESULTADOS DE SUA EDUCAÇÃO",
+      "date": "2024-08-02",
+      "src": "mangadex",
+      "mdxId": "81723407-c366-4f3f-bd2b-fca714495088"
+    },
+    {
+      "number": "39.5",
+      "title": "",
+      "date": "2024-08-10",
+      "src": "mangadex",
+      "mdxId": "db4fbe22-41c0-4728-8229-36128a53bad1"
+    },
+    {
+      "number": "39.6",
+      "title": "",
+      "date": "2024-08-20",
+      "src": "mangadex",
+      "mdxId": "eb1037bf-964c-409e-81ee-fcd2885fb5f3"
+    },
+    {
+      "number": "40",
+      "title": "",
+      "date": "2024-09-01",
+      "src": "mangadex",
+      "mdxId": "a861cac4-d2df-4de1-be1e-c9c7c44f357f"
+    },
+    {
+      "number": "41",
+      "title": "",
+      "date": "2024-09-01",
+      "src": "mangadex",
+      "mdxId": "a1fd1689-d78b-4cdb-8ade-7eda469afff1"
+    },
+    {
+      "number": "42",
+      "title": "",
+      "date": "2024-09-21",
+      "src": "mangadex",
+      "mdxId": "566f14d1-e296-417f-99d5-35a60750c518"
+    },
+    {
+      "number": "42.5",
+      "title": "",
+      "date": "2024-10-11",
+      "src": "mangadex",
+      "mdxId": "9e75345f-96f4-4798-9fc4-cf3ace5dd35f"
+    },
+    {
+      "number": "43",
+      "title": "Em pouco tempo, o pai mudou drasticamente",
+      "date": "2024-09-27",
+      "src": "mangadex",
+      "mdxId": "c4bc0557-9b90-4556-b8ef-ee59c4ab450e"
+    },
+    {
+      "number": "43.5",
+      "title": "",
+      "date": "2024-10-11",
+      "src": "mangadex",
+      "mdxId": "b1e90587-b213-448e-80f0-4fa37db3be45"
+    },
+    {
+      "number": "44",
+      "title": "",
+      "date": "2024-10-12",
+      "src": "mangadex",
+      "mdxId": "f546fda9-87d3-4b74-b32b-aac6b9b1f7ec"
+    },
+    {
+      "number": "45",
+      "title": "",
+      "date": "2024-10-28",
+      "src": "mangadex",
+      "mdxId": "b6123af0-1a99-4176-a28b-5a289bd0b7b2"
+    },
+    {
+      "number": "46",
+      "title": "",
+      "date": "2024-11-09",
+      "src": "mangadex",
+      "mdxId": "4a475d19-6bcb-4d8a-a900-34c9ba5951f0"
+    },
+    {
+      "number": "46.5",
+      "title": "",
+      "date": "2024-11-09",
+      "src": "mangadex",
+      "mdxId": "5eda6647-acba-44b7-bc2a-a4fc43442150"
+    },
+    {
+      "number": "47",
+      "title": "",
+      "date": "2024-11-27",
+      "src": "mangadex",
+      "mdxId": "7e430997-328b-4ab0-98ff-6b5b64306218"
+    },
+    {
+      "number": "48",
+      "title": "",
+      "date": "2024-12-09",
+      "src": "mangadex",
+      "mdxId": "6aba7e05-770c-4a7f-ac85-f5dae762017b"
+    },
+    {
+      "number": "49",
+      "title": "",
+      "date": "2024-12-14",
+      "src": "mangadex",
+      "mdxId": "d365917c-307c-4b30-8a06-277acae8bc07"
+    },
+    {
+      "number": "49.5",
+      "title": "",
+      "date": "2025-07-26",
+      "src": "mangadex",
+      "mdxId": "46101c5d-65c8-4d89-8d83-708889ebb4eb"
+    },
+    {
+      "number": "50",
+      "title": "",
+      "date": "2024-12-28",
+      "src": "mangadex",
+      "mdxId": "a0a70a39-e93a-4c6c-8a5b-c217d82c3e21"
+    },
+    {
+      "number": "51",
+      "title": "",
+      "date": "2025-07-07",
+      "src": "mangadex",
+      "mdxId": "604ac6c2-555f-475b-81fa-247b13f7f248"
+    },
+    {
+      "number": "52",
+      "title": "",
+      "date": "2025-07-07",
+      "src": "mangadex",
+      "mdxId": "64e08d47-bd59-4c15-b973-26fc78411104"
+    },
+    {
+      "number": "52.5",
+      "title": "",
+      "date": "2025-07-25",
+      "src": "mangadex",
+      "mdxId": "80ba4101-b5f9-4fe9-9ae6-1d4041a0d387"
+    },
+    {
+      "number": "53",
+      "title": "",
+      "date": "2025-07-20",
+      "src": "mangadex",
+      "mdxId": "2f949867-fbc4-4c14-9d33-26ac06b28ce7"
+    },
+    {
+      "number": "53.5",
+      "title": "",
+      "date": "2025-07-25",
+      "src": "mangadex",
+      "mdxId": "d0b76ee2-a05e-4351-a6a8-1faf107e522f"
+    },
+    {
+      "number": "54",
+      "title": "",
+      "date": "2025-08-03",
+      "src": "mangadex",
+      "mdxId": "c9aecff6-f049-4a4e-b444-819bf9fd0373"
+    },
+    {
+      "number": "54.5",
+      "title": "",
+      "date": "2025-08-03",
+      "src": "mangadex",
+      "mdxId": "3b2c6e3e-e778-4924-8aa1-a3f0626ab7c5"
+    },
+    {
+      "number": "55",
+      "title": "",
+      "date": "2025-08-16",
+      "src": "mangadex",
+      "mdxId": "d4f3fd5d-0137-4853-a369-d67d36c48a7e"
+    },
+    {
+      "number": "55.5",
+      "title": "",
+      "date": "2025-08-16",
+      "src": "mangadex",
+      "mdxId": "7bdd28a0-e611-4953-85a1-f488d0092603"
+    },
+    {
+      "number": "56",
+      "title": "",
+      "date": "2025-08-31",
+      "src": "mangadex",
+      "mdxId": "5834e297-92f1-4664-9152-3b3db4d95479"
+    },
+    {
+      "number": "56.5",
+      "title": "",
+      "date": "2025-08-31",
+      "src": "mangadex",
+      "mdxId": "68f692f1-d0e5-4e60-ad8b-289c886c8f2f"
+    },
+    {
+      "number": "57",
+      "title": "",
+      "date": "2025-09-14",
+      "src": "mangadex",
+      "mdxId": "5eea7449-41dd-4ba9-b75e-121179912c13"
+    },
+    {
+      "number": "57.5",
+      "title": "",
+      "date": "2025-09-14",
+      "src": "mangadex",
+      "mdxId": "394af370-83d7-4254-9610-61edc64a63b9"
+    },
+    {
+      "number": "58",
+      "title": "",
+      "date": "2025-09-28",
+      "src": "mangadex",
+      "mdxId": "ac303934-da9f-4af1-a4ff-c8832780080d"
+    },
+    {
+      "number": "58.5",
+      "title": "",
+      "date": "2025-09-28",
+      "src": "mangadex",
+      "mdxId": "018a7a66-a97e-4710-ae72-16097fe71ec9"
+    },
+    {
+      "number": "59",
+      "title": "",
+      "date": "2025-10-13",
+      "src": "mangadex",
+      "mdxId": "5fbb8d38-7913-4b51-aecd-b1d46d2c8131"
+    },
+    {
+      "number": "59.5",
+      "title": "",
+      "date": "2025-10-13",
+      "src": "mangadex",
+      "mdxId": "7707132a-eee1-4ee9-aba7-72242c409868"
+    },
+    {
+      "number": "60",
+      "title": "",
+      "date": "2025-10-28",
+      "src": "mangadex",
+      "mdxId": "3f3a92ed-d0ca-46c0-b871-54c55fe44b88"
+    },
+    {
+      "number": "60.5",
+      "title": "",
+      "date": "2025-10-28",
+      "src": "mangadex",
+      "mdxId": "eac541ff-d70f-41d8-a6d3-7740b66ff411"
+    },
+    {
+      "number": "61",
+      "title": "",
+      "date": "2025-11-15",
+      "src": "mangadex",
+      "mdxId": "0a370017-db29-46a1-a906-92e98ae81ab4"
+    },
+    {
+      "number": "61.5",
+      "title": "",
+      "date": "2025-11-15",
+      "src": "mangadex",
+      "mdxId": "d29c93d0-515a-4e56-8355-f9af1549d818"
+    },
+    {
+      "number": "62",
+      "title": "",
+      "date": "2025-11-23",
+      "src": "mangadex",
+      "mdxId": "5bd39970-aca9-4552-8048-7480459c005c"
+    },
+    {
+      "number": "62.5",
+      "title": "",
+      "date": "2025-11-23",
+      "src": "mangadex",
+      "mdxId": "40e0f6e2-bcc2-4cbc-8ffe-cc71bfbc8c84"
+    },
+    {
+      "number": "63",
+      "title": "",
+      "date": "2025-11-30",
+      "src": "mangadex",
+      "mdxId": "1efa517f-e2c4-487c-854d-3d1b8c112a0b"
+    },
+    {
+      "number": "63.5",
+      "title": "",
+      "date": "2025-11-30",
+      "src": "mangadex",
+      "mdxId": "247c22e9-c2d3-417c-91a2-56720c601d13"
+    },
+    {
+      "number": "64",
+      "title": "",
+      "date": "2025-12-21",
+      "src": "mangadex",
+      "mdxId": "29bb7dc4-c73a-4424-ae97-d0663885a018"
+    },
+    {
+      "number": "64.5",
+      "title": "",
+      "date": "2025-12-21",
+      "src": "mangadex",
+      "mdxId": "f9a71a19-544f-4d52-8ba9-fc0bdc3702aa"
+    },
+    {
+      "number": "65",
+      "title": "",
+      "date": "2026-02-04",
+      "src": "mangadex",
+      "mdxId": "66c54324-6f38-48a1-9ce2-17d32363734f"
+    },
+    {
+      "number": "65.5",
+      "title": "",
+      "date": "2026-02-04",
+      "src": "mangadex",
+      "mdxId": "746b91e7-be3b-421b-a98b-ca1b4e85416c"
+    },
+    {
+      "number": "66",
+      "title": "",
+      "date": "2026-02-05",
+      "src": "mangadex",
+      "mdxId": "c349834f-60c1-4a31-9e35-a4cb76ad9255"
+    },
+    {
+      "number": "66.5",
+      "title": "",
+      "date": "2026-02-05",
+      "src": "mangadex",
+      "mdxId": "8b46951d-0075-45e8-b364-f1053b3559cb"
+    },
+    {
+      "number": "67",
+      "title": "",
+      "date": "2026-02-07",
+      "src": "mangadex",
+      "mdxId": "87d81857-288a-494b-a062-065bdc23aa1d"
+    },
+    {
+      "number": "67.5",
+      "title": "",
+      "date": "2026-02-07",
+      "src": "mangadex",
+      "mdxId": "4132ee81-74a8-4ef4-ad44-0346ddb57314"
+    },
+    {
+      "number": "68",
+      "title": "",
+      "date": "2026-02-07",
+      "src": "mangadex",
+      "mdxId": "ec486170-27c0-4596-9d92-7dac4aaa0fbe"
+    },
+    {
+      "number": "68.5",
+      "title": "",
+      "date": "2026-02-07",
+      "src": "mangadex",
+      "mdxId": "9c44641e-fb11-42ee-b381-0a8d33f60198"
+    },
+    {
+      "number": "69",
+      "title": "",
+      "date": "2026-02-26",
+      "src": "mangadex",
+      "mdxId": "5ab889da-9415-4c92-8cab-20155a93a709"
+    },
+    {
+      "number": "69.5",
+      "title": "",
+      "date": "2026-02-26",
+      "src": "mangadex",
+      "mdxId": "cb29ed77-a4dc-4f97-ab0d-b07527d2c70c"
+    },
+    {
+      "number": "70",
+      "title": "",
+      "date": "2026-06-21",
+      "src": "mangadex",
+      "mdxId": "fa4eb63e-220a-4143-82f2-2f6d752634e9"
+    },
+    {
+      "number": "70.5",
+      "title": "",
+      "date": "2026-06-21",
+      "src": "mangadex",
+      "mdxId": "78953f3f-1aa3-4687-87c3-073561aca01a"
+    },
+    {
+      "number": "71",
+      "title": "",
+      "date": "2026-06-22",
+      "src": "mangadex",
+      "mdxId": "e29f5b12-dc01-4e23-ab38-aa87b915228a"
+    },
+    {
+      "number": "71.5",
+      "title": "",
+      "date": "2026-06-22",
+      "src": "mangadex",
+      "mdxId": "e9fd5b81-3e5c-42cc-bc45-0348c09b2d6d"
+    },
+    {
+      "number": "72",
+      "title": "",
+      "date": "2026-06-28",
+      "src": "mangadex",
+      "mdxId": "29022adb-bfff-411f-a385-2dff024fc790"
+    },
+    {
+      "number": "72.5",
+      "title": "",
+      "date": "2026-06-28",
+      "src": "mangadex",
+      "mdxId": "8c87cf84-4ee3-41df-8596-004c92ea9a8d"
+    },
+    {
+      "number": "73",
+      "title": "",
+      "date": "2026-06-28",
+      "src": "mangadex",
+      "mdxId": "4140f906-7122-4c5a-b374-950949a04dbd"
+    },
+    {
+      "number": "73.5",
+      "title": "",
+      "date": "2026-06-28",
+      "src": "mangadex",
+      "mdxId": "20b007f4-3b35-4d09-9c58-e9b4c0260c57"
+    }
+  ]
+}

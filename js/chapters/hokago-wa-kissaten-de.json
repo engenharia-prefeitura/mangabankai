@@ -1,0 +1,396 @@
+{
+  "pt": [
+    {
+      "number": "1",
+      "title": "Cafeteria Anêmona",
+      "date": "2018-06-19",
+      "src": "mangadex",
+      "mdxId": "e4ce72f3-2f8d-45d0-b6d7-c817512554d6"
+    },
+    {
+      "number": "2",
+      "title": "Fushimi-kun",
+      "date": "2018-06-19",
+      "src": "mangadex",
+      "mdxId": "b8b2aa49-5886-42d8-9c15-de8f2594d469"
+    },
+    {
+      "number": "3",
+      "title": "Amigas",
+      "date": "2018-06-19",
+      "src": "mangadex",
+      "mdxId": "d9052253-d2f3-4011-a06f-e6cf3ad3ae81"
+    },
+    {
+      "number": "4",
+      "title": "Pessoas Importantes",
+      "date": "2018-06-25",
+      "src": "mangadex",
+      "mdxId": "cc4eb489-2938-46ed-85ef-4e7b1c719d31"
+    },
+    {
+      "number": "5",
+      "title": "O Relacionamento Deles",
+      "date": "2018-06-25",
+      "src": "mangadex",
+      "mdxId": "6dca4d1c-32a1-40f8-aced-6cf2e46d5119"
+    },
+    {
+      "number": "6",
+      "title": "",
+      "date": "2018-10-20",
+      "src": "mangadex",
+      "mdxId": "0bb00db4-ca89-4ae6-9e60-da3fc09bf474"
+    },
+    {
+      "number": "7",
+      "title": "",
+      "date": "2018-12-18",
+      "src": "mangadex",
+      "mdxId": "6113afad-8bbf-4abf-a22e-7b9213e9aaaa"
+    },
+    {
+      "number": "8",
+      "title": "",
+      "date": "2020-04-12",
+      "src": "mangadex",
+      "mdxId": "5e541d9a-6c88-4a20-ae43-69c8bead6a49"
+    },
+    {
+      "number": "9",
+      "title": "Por que estou preocupado?",
+      "date": "2020-08-30",
+      "src": "mangadex",
+      "mdxId": "f1568a27-0eba-4eb4-b050-251ce1a7d15a"
+    },
+    {
+      "number": "10",
+      "title": "Tipo favorito",
+      "date": "2020-08-30",
+      "src": "mangadex",
+      "mdxId": "86516a03-b7bc-40d9-afe6-3617a32af871"
+    },
+    {
+      "number": "11",
+      "title": "Quero te conhecer melhor",
+      "date": "2020-08-30",
+      "src": "mangadex",
+      "mdxId": "f7e0ecef-056e-47c2-8776-5def3729e4f1"
+    },
+    {
+      "number": "12",
+      "title": "Natal",
+      "date": "2020-08-30",
+      "src": "mangadex",
+      "mdxId": "2268d389-51a3-4580-ac8f-2fa198bd89ca"
+    },
+    {
+      "number": "13",
+      "title": "Pai e Filho",
+      "date": "2020-08-30",
+      "src": "mangadex",
+      "mdxId": "58600e13-7aac-4019-9798-4760042d1371"
+    },
+    {
+      "number": "14",
+      "title": "Não foi um sonho",
+      "date": "2020-08-30",
+      "src": "mangadex",
+      "mdxId": "df8fe545-dda8-4764-810f-6c3b0d3c09ad"
+    },
+    {
+      "number": "15",
+      "title": "Doce e amargo",
+      "date": "2020-08-30",
+      "src": "mangadex",
+      "mdxId": "9f6a09b8-4dea-46bc-8743-07e7e9702c34"
+    },
+    {
+      "number": "16",
+      "title": "Sentimentos que quero confirmar",
+      "date": "2020-08-30",
+      "src": "mangadex",
+      "mdxId": "35a9e6f6-b232-4745-bc4b-c713626bfbbb"
+    },
+    {
+      "number": "17",
+      "title": "Amor e café",
+      "date": "2020-08-30",
+      "src": "mangadex",
+      "mdxId": "79ec561c-d246-4e21-965d-99257347a84e"
+    },
+    {
+      "number": "18",
+      "title": "Vou me esforçar",
+      "date": "2020-10-24",
+      "src": "mangadex",
+      "mdxId": "b72e49bf-e22e-4bf1-8709-dc278c01849a"
+    },
+    {
+      "number": "19",
+      "title": "O garoto solitário",
+      "date": "2020-11-09",
+      "src": "mangadex",
+      "mdxId": "2570fca8-069c-4a3b-ae22-29e77f6c62e5"
+    },
+    {
+      "number": "20",
+      "title": "Orgulho",
+      "date": "2021-09-06",
+      "src": "mangadex",
+      "mdxId": "b977ce1c-0fc1-4f01-a4dc-2b5558e8b713"
+    },
+    {
+      "number": "21",
+      "title": "Motivo",
+      "date": "2021-09-06",
+      "src": "mangadex",
+      "mdxId": "a4aea2f8-8cec-4f1d-84fe-b7f1b02382de"
+    },
+    {
+      "number": "22",
+      "title": "Desencontros",
+      "date": "2021-09-06",
+      "src": "mangadex",
+      "mdxId": "a5394da3-c805-4f0e-88ee-041022e60c23"
+    },
+    {
+      "number": "22.5",
+      "title": "Extra",
+      "date": "2021-09-06",
+      "src": "mangadex",
+      "mdxId": "8c3f3571-7d12-4ffb-879d-031d1c9d8f39"
+    },
+    {
+      "number": "23",
+      "title": "Coisas que eu não sei",
+      "date": "2021-09-06",
+      "src": "mangadex",
+      "mdxId": "ec769561-6206-4f3b-8cb0-bd329e85988a"
+    },
+    {
+      "number": "24",
+      "title": "Rival",
+      "date": "2021-09-06",
+      "src": "mangadex",
+      "mdxId": "cf56268c-aab2-4f86-aa51-944079ed1d89"
+    },
+    {
+      "number": "25",
+      "title": "A lógica e as emoções",
+      "date": "2021-09-06",
+      "src": "mangadex",
+      "mdxId": "ca6f0454-1efc-4f0c-9167-5bf43f73264f"
+    },
+    {
+      "number": "26",
+      "title": "Fazendo uma visita",
+      "date": "2021-09-06",
+      "src": "mangadex",
+      "mdxId": "7c679fe0-b9c9-4f1f-9952-da8c64bde68d"
+    },
+    {
+      "number": "27",
+      "title": "Desse jeito",
+      "date": "2021-09-06",
+      "src": "mangadex",
+      "mdxId": "f2eeb38e-1d11-4f43-9601-557eea4deabc"
+    },
+    {
+      "number": "28",
+      "title": "Promessa",
+      "date": "2021-09-06",
+      "src": "mangadex",
+      "mdxId": "670d4010-7b10-4f51-ba15-b81be648f2ef"
+    },
+    {
+      "number": "29",
+      "title": "A pessoa que eu gosto",
+      "date": "2021-09-06",
+      "src": "mangadex",
+      "mdxId": "eb5dafbd-2854-4f7a-bcac-bb1a053367db"
+    },
+    {
+      "number": "30",
+      "title": "Sinceridade e determinação",
+      "date": "2025-07-02",
+      "src": "mangadex",
+      "mdxId": "7a8f5df1-a13b-4442-b2e6-6497abc7c460"
+    },
+    {
+      "number": "30.5",
+      "title": "Extra: Um certo dia de folga",
+      "date": "2025-07-02",
+      "src": "mangadex",
+      "mdxId": "58c46fd0-0bfc-470b-a221-9b9f957a3879"
+    },
+    {
+      "number": "31",
+      "title": "O primeiro dia dos namorados",
+      "date": "2025-07-02",
+      "src": "mangadex",
+      "mdxId": "c4466098-a3ce-4b29-b367-d5d8e47b5bad"
+    },
+    {
+      "number": "32",
+      "title": "Momentos em que penso em você",
+      "date": "2025-07-02",
+      "src": "mangadex",
+      "mdxId": "c802781c-0502-4f46-9dac-c2a29f3e5c16"
+    },
+    {
+      "number": "33",
+      "title": "Sentimentos que transbordam",
+      "date": "2025-07-02",
+      "src": "mangadex",
+      "mdxId": "4074a8ec-a597-42f0-82a4-d4c521881d08"
+    },
+    {
+      "number": "34",
+      "title": "Não dá para ficar só esperando",
+      "date": "2025-07-02",
+      "src": "mangadex",
+      "mdxId": "5a081431-4636-4359-9656-9bb5224b253f"
+    },
+    {
+      "number": "35",
+      "title": "As mãos que agarrei",
+      "date": "2025-07-02",
+      "src": "mangadex",
+      "mdxId": "e9728bac-24ab-4b4c-b177-f5939371fdd4"
+    },
+    {
+      "number": "36",
+      "title": "Confissão",
+      "date": "2025-07-02",
+      "src": "mangadex",
+      "mdxId": "9adec04b-f107-420e-a796-3bdd5bc9d5ad"
+    },
+    {
+      "number": "37",
+      "title": "Seriedade com seriedade",
+      "date": "2025-07-02",
+      "src": "mangadex",
+      "mdxId": "00358d19-4f2a-4577-bad9-1c5e34fe4a4b"
+    },
+    {
+      "number": "38",
+      "title": "",
+      "date": "2024-09-27",
+      "src": "mangadex",
+      "mdxId": "c7dd9fa2-e49c-490e-9b25-69cafdc783c1"
+    },
+    {
+      "number": "38.5",
+      "title": "Extra",
+      "date": "2024-10-21",
+      "src": "mangadex",
+      "mdxId": "0eb6665e-1e0c-4e66-bfcc-e0498fe72a11"
+    },
+    {
+      "number": "39",
+      "title": "Esse Sentimento",
+      "date": "2025-06-27",
+      "src": "mangadex",
+      "mdxId": "acb2c32e-b012-49b8-855b-76d4e334c03e"
+    },
+    {
+      "number": "40",
+      "title": "O que sinto de verdade",
+      "date": "2025-07-02",
+      "src": "mangadex",
+      "mdxId": "f71387a5-2594-407b-9494-0575cf6d6c63"
+    },
+    {
+      "number": "41",
+      "title": "A continuação de um sonho",
+      "date": "2025-07-18",
+      "src": "mangadex",
+      "mdxId": "6c255b97-f717-4513-9f4f-a040371ad91d"
+    },
+    {
+      "number": "42",
+      "title": "",
+      "date": "2025-08-11",
+      "src": "mangadex",
+      "mdxId": "5f30e93b-85e8-4cb7-baf7-1508bac15c75"
+    },
+    {
+      "number": "43",
+      "title": "Eu te amo",
+      "date": "2025-08-13",
+      "src": "mangadex",
+      "mdxId": "3111aa62-556f-4347-9ace-b92f1f3da6f9"
+    },
+    {
+      "number": "44",
+      "title": "Eito-kun",
+      "date": "2025-08-17",
+      "src": "mangadex",
+      "mdxId": "e1394bc0-d0cc-4e43-bc62-cf10eed675a1"
+    },
+    {
+      "number": "45",
+      "title": "Nosso festival escolar (parte 1)",
+      "date": "2025-08-20",
+      "src": "mangadex",
+      "mdxId": "e0f551e8-8b7f-4bf3-ad9c-006645526728"
+    },
+    {
+      "number": "46",
+      "title": "Nosso festival escolar (parte 2)",
+      "date": "2025-08-31",
+      "src": "mangadex",
+      "mdxId": "bbf23c13-c5b0-47fe-83af-f2b87ead3d5f"
+    },
+    {
+      "number": "47",
+      "title": "Festival de verão chuvoso",
+      "date": "2025-09-01",
+      "src": "mangadex",
+      "mdxId": "df011ef0-e7c6-49aa-ae23-3ac44c0b5f79"
+    },
+    {
+      "number": "48",
+      "title": "Sua expressão",
+      "date": "2025-09-02",
+      "src": "mangadex",
+      "mdxId": "2541c803-acc9-4a4e-b619-13666c20e6fe"
+    },
+    {
+      "number": "49",
+      "title": "Nosso lugar",
+      "date": "2025-09-03",
+      "src": "mangadex",
+      "mdxId": "cd05a22b-3d93-4ec0-93f7-de9bfc66450c"
+    },
+    {
+      "number": "50",
+      "title": "Eu só preciso de você ",
+      "date": "2025-09-04",
+      "src": "mangadex",
+      "mdxId": "034f738d-de5b-4145-b5c8-3d8505cbe918"
+    },
+    {
+      "number": "51",
+      "title": "Sobre nós dois",
+      "date": "2025-09-05",
+      "src": "mangadex",
+      "mdxId": "921098b1-9159-4af2-b9a6-5c1c664177a4"
+    },
+    {
+      "number": "52",
+      "title": "Você não está sozinho",
+      "date": "2025-09-06",
+      "src": "mangadex",
+      "mdxId": "47a7b9a5-9280-48b1-b2ca-45f43b8fb0dd"
+    },
+    {
+      "number": "53",
+      "title": "Para quem eu amo, com quem eu amo ",
+      "date": "2025-09-07",
+      "src": "mangadex",
+      "mdxId": "6478f272-2f3a-4475-b485-efdf8092a772"
+    }
+  ]
+}

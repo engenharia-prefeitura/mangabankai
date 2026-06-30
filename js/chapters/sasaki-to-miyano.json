@@ -1,0 +1,396 @@
+{
+  "pt": [
+    {
+      "number": "1",
+      "title": "Sasaki e Miyano",
+      "date": "2026-02-01",
+      "src": "mangadex",
+      "mdxId": "b2115a3e-db7b-47a9-ab24-8bbf5f519b92"
+    },
+    {
+      "number": "2",
+      "title": "",
+      "date": "2021-12-10",
+      "src": "mangadex",
+      "mdxId": "5b072b7a-f48b-4ab9-bd98-139e581555f9"
+    },
+    {
+      "number": "3",
+      "title": "Laço",
+      "date": "2022-05-08",
+      "src": "mangadex",
+      "mdxId": "78842206-abba-4b8f-8e98-c8cf76d3e4ca"
+    },
+    {
+      "number": "4",
+      "title": "Primeira Vez",
+      "date": "2026-02-01",
+      "src": "mangadex",
+      "mdxId": "01bf7dd7-fcf2-4bf8-a585-262421c414bf"
+    },
+    {
+      "number": "5",
+      "title": "Pessoa que eu gosto",
+      "date": "2022-05-08",
+      "src": "mangadex",
+      "mdxId": "e26e913f-53b4-443a-8f8d-3bd94a32575b"
+    },
+    {
+      "number": "6",
+      "title": "Uma Razão",
+      "date": "2026-02-14",
+      "src": "mangadex",
+      "mdxId": "7467fbb4-2332-4e94-b338-17592eb03f06"
+    },
+    {
+      "number": "7",
+      "title": "Uma pequena história sobre o par no festival cultural",
+      "date": "2022-05-14",
+      "src": "mangadex",
+      "mdxId": "77612c03-423e-45bb-8942-c18221a10c09"
+    },
+    {
+      "number": "8",
+      "title": "Senpai É",
+      "date": "2026-02-22",
+      "src": "mangadex",
+      "mdxId": "207e2762-f25b-4936-9aea-5cc461d742cd"
+    },
+    {
+      "number": "9",
+      "title": " Devolvendo o Favor",
+      "date": "2026-03-07",
+      "src": "mangadex",
+      "mdxId": "8f3b3b1a-b73e-4abf-8e2a-d8776ee2eb7e"
+    },
+    {
+      "number": "10",
+      "title": "Apenas Mais Um Ano",
+      "date": "2026-03-07",
+      "src": "mangadex",
+      "mdxId": "3dd1ee22-c6bf-4868-8d08-850466aeafbd"
+    },
+    {
+      "number": "11",
+      "title": "Tão confuso",
+      "date": "2022-07-18",
+      "src": "mangadex",
+      "mdxId": "07298e68-d485-4c15-9f6b-8a6a20b2d454"
+    },
+    {
+      "number": "12",
+      "title": "No limite",
+      "date": "2022-07-18",
+      "src": "mangadex",
+      "mdxId": "6ee53bf0-359b-4f43-8eaf-7e837940a31a"
+    },
+    {
+      "number": "12.5",
+      "title": "De Volta ao Tópico Principal",
+      "date": "2026-03-31",
+      "src": "mangadex",
+      "mdxId": "3eaad01f-3397-44ca-8b81-a83c3e6f77dc"
+    },
+    {
+      "number": "12.7",
+      "title": "Um Pouco Sobre Hirano e seu Kouhai",
+      "date": "2026-03-31",
+      "src": "mangadex",
+      "mdxId": "fe461fac-479a-426f-8ef3-3d92e199cb9a"
+    },
+    {
+      "number": "13",
+      "title": "Um Por Um",
+      "date": "2022-09-27",
+      "src": "mangadex",
+      "mdxId": "d2f1c187-106e-47f9-a1ec-1053e1d8dcf4"
+    },
+    {
+      "number": "14",
+      "title": "Amor ",
+      "date": "2022-10-05",
+      "src": "mangadex",
+      "mdxId": "9beea397-cf6a-42b8-a6a4-9eea8f88cc04"
+    },
+    {
+      "number": "14.5",
+      "title": "",
+      "date": "2025-12-06",
+      "src": "mangadex",
+      "mdxId": "76bfe68f-5555-42c2-99dc-7483813f8bc7"
+    },
+    {
+      "number": "15",
+      "title": "",
+      "date": "2025-12-06",
+      "src": "mangadex",
+      "mdxId": "b848b390-cb62-4e58-863d-b766395daaed"
+    },
+    {
+      "number": "16",
+      "title": "",
+      "date": "2025-12-06",
+      "src": "mangadex",
+      "mdxId": "bb822dc8-4bce-4121-9f45-92b7c8703176"
+    },
+    {
+      "number": "17",
+      "title": "",
+      "date": "2025-12-13",
+      "src": "mangadex",
+      "mdxId": "9fd048d1-8352-44f0-89e9-fd11e20a02ff"
+    },
+    {
+      "number": "18",
+      "title": "",
+      "date": "2025-12-13",
+      "src": "mangadex",
+      "mdxId": "fa3fef44-d6cd-46e6-8caa-2ddebd405e51"
+    },
+    {
+      "number": "19",
+      "title": "Comitê",
+      "date": "2026-01-10",
+      "src": "mangadex",
+      "mdxId": "b1d2ab40-d5b9-41e1-b15f-f3b6e3b02d47"
+    },
+    {
+      "number": "20",
+      "title": "Ciúmes",
+      "date": "2026-01-18",
+      "src": "mangadex",
+      "mdxId": "43607645-b0ad-4da4-9344-02698779c313"
+    },
+    {
+      "number": "21",
+      "title": "Mudança",
+      "date": "2026-01-18",
+      "src": "mangadex",
+      "mdxId": "9e5c31f2-327f-4614-be15-a1ebd1af18a1"
+    },
+    {
+      "number": "21.5",
+      "title": "O Que Define Um Amado",
+      "date": "2026-02-01",
+      "src": "mangadex",
+      "mdxId": "c4b2ffa7-18a8-49c8-8fb7-54c63c7d28d8"
+    },
+    {
+      "number": "22",
+      "title": "Realização",
+      "date": "2026-02-01",
+      "src": "mangadex",
+      "mdxId": "c1dba412-550d-455e-bbaf-91be267917f6"
+    },
+    {
+      "number": "23",
+      "title": "Ponto de Virada",
+      "date": "2026-02-01",
+      "src": "mangadex",
+      "mdxId": "48beccc1-7bbf-4533-95b4-a64821adcf34"
+    },
+    {
+      "number": "23.5",
+      "title": "Querido Amado",
+      "date": "2026-02-01",
+      "src": "mangadex",
+      "mdxId": "7a392bb4-3fb9-4996-a566-1b90e9b59ef2"
+    },
+    {
+      "number": "24",
+      "title": "Admiração e Além",
+      "date": "2026-02-07",
+      "src": "mangadex",
+      "mdxId": "59256f9d-e7a3-46b6-8b1c-a4abee8233a1"
+    },
+    {
+      "number": "24.5",
+      "title": "Uma Pequena História de Antes do Festival Cultural",
+      "date": "2026-02-22",
+      "src": "mangadex",
+      "mdxId": "407e82e9-e0c9-465f-967c-d523d759b163"
+    },
+    {
+      "number": "25",
+      "title": "Febre e Esperança",
+      "date": "2026-02-22",
+      "src": "mangadex",
+      "mdxId": "f8f40ce8-596e-414f-8f59-7026c5c23e03"
+    },
+    {
+      "number": "26",
+      "title": " Último Festival Escolar",
+      "date": "2026-02-28",
+      "src": "mangadex",
+      "mdxId": "15ec4b62-448d-4a36-9af3-7e608943d7af"
+    },
+    {
+      "number": "27",
+      "title": "Romance",
+      "date": "2026-03-07",
+      "src": "mangadex",
+      "mdxId": "4aa92364-659a-45b9-a9cb-be65113c4855"
+    },
+    {
+      "number": "27.5",
+      "title": "Quando Ele Está Cansado",
+      "date": "2026-03-13",
+      "src": "mangadex",
+      "mdxId": "3b892c8d-eb3b-4124-92ac-be9b8a174af0"
+    },
+    {
+      "number": "28",
+      "title": "Um Ano De Diferença",
+      "date": "2026-03-24",
+      "src": "mangadex",
+      "mdxId": "fc80ec02-057e-46cb-8220-61584e6fc974"
+    },
+    {
+      "number": "29",
+      "title": "Por Muito Tempo",
+      "date": "2026-03-24",
+      "src": "mangadex",
+      "mdxId": "7762fd75-ec28-474a-a3bc-cee859ee7f73"
+    },
+    {
+      "number": "30",
+      "title": "Hoje",
+      "date": "2026-03-24",
+      "src": "mangadex",
+      "mdxId": "5e8c5a35-1707-45de-af9b-870a1a14620c"
+    },
+    {
+      "number": "31",
+      "title": "Amanhã",
+      "date": "2026-03-24",
+      "src": "mangadex",
+      "mdxId": "bfeecfa5-8db7-431e-98d5-d361901635fb"
+    },
+    {
+      "number": "33",
+      "title": " O Que É “Normal”",
+      "date": "2026-04-04",
+      "src": "mangadex",
+      "mdxId": "2f9567e8-d77e-467b-9f3e-4a723d8ef864"
+    },
+    {
+      "number": "33.3",
+      "title": "Uma História Sobre Um Certo Dia",
+      "date": "2026-04-04",
+      "src": "mangadex",
+      "mdxId": "91758604-17d1-4ea4-b9f3-94040da0fad7"
+    },
+    {
+      "number": "33.4",
+      "title": "Extra",
+      "date": "2026-04-10",
+      "src": "mangadex",
+      "mdxId": "bb5e80de-2dce-440a-95aa-5d47b8941033"
+    },
+    {
+      "number": "33.5",
+      "title": "Uma Pequena História Sobre Voltar Para Casa Da Escola",
+      "date": "2026-04-10",
+      "src": "mangadex",
+      "mdxId": "445e22a2-17c2-470c-a420-8dea2fd3913e"
+    },
+    {
+      "number": "34",
+      "title": "Visita ao Enfermo",
+      "date": "2026-04-10",
+      "src": "mangadex",
+      "mdxId": "f98d5445-569a-4bfe-89c5-d54854d1f3c3"
+    },
+    {
+      "number": "35",
+      "title": "Feito Em Casa",
+      "date": "2026-04-17",
+      "src": "mangadex",
+      "mdxId": "45cb4783-90c3-4257-96c1-37b780e8c7aa"
+    },
+    {
+      "number": "36",
+      "title": "Eu Menti",
+      "date": "2026-04-25",
+      "src": "mangadex",
+      "mdxId": "81411e04-b218-464f-a4a6-31bb06142c84"
+    },
+    {
+      "number": "37",
+      "title": "Irmã Mais Velha, Irmão Mais Novo",
+      "date": "2026-05-02",
+      "src": "mangadex",
+      "mdxId": "931e1c5c-30a2-4582-a338-df6cff67ffed"
+    },
+    {
+      "number": "38",
+      "title": "O Dia Antes",
+      "date": "2026-05-02",
+      "src": "mangadex",
+      "mdxId": "1a7c1624-80f3-4ebf-9831-0af6f1834b58"
+    },
+    {
+      "number": "39",
+      "title": "Formatura",
+      "date": "2026-05-10",
+      "src": "mangadex",
+      "mdxId": "2dea95cf-ebd6-46be-9358-2b9cd8f30bf9"
+    },
+    {
+      "number": "39.5",
+      "title": "Uma Pequena História Sobre As Férias De Verão",
+      "date": "2026-05-17",
+      "src": "mangadex",
+      "mdxId": "1a901e84-c91f-4ac3-9e20-458f8a67b195"
+    },
+    {
+      "number": "39.6",
+      "title": "CD DRAMA 2",
+      "date": "2026-05-23",
+      "src": "mangadex",
+      "mdxId": "ab4b13e3-fd7f-49a0-9140-679f3a398f8e"
+    },
+    {
+      "number": "39.7",
+      "title": "Capítulo Especial!",
+      "date": "2026-05-23",
+      "src": "mangadex",
+      "mdxId": "773deff3-69e4-4f79-97b3-450c968ed844"
+    },
+    {
+      "number": "40",
+      "title": "Primeira Vez",
+      "date": "2026-05-31",
+      "src": "mangadex",
+      "mdxId": "bb4b9bf1-b61e-4a76-bc21-aff21016488c"
+    },
+    {
+      "number": "41",
+      "title": "Marca",
+      "date": "2026-06-06",
+      "src": "mangadex",
+      "mdxId": "f9a6aef5-7db8-4f74-8f44-40c7bbcb4c5e"
+    },
+    {
+      "number": "42",
+      "title": "Em Troca",
+      "date": "2026-06-06",
+      "src": "mangadex",
+      "mdxId": "2e96f4af-b4ee-4fcb-b5c5-08db3a13f780"
+    },
+    {
+      "number": "42.3",
+      "title": "EXTRAS",
+      "date": "2026-06-13",
+      "src": "mangadex",
+      "mdxId": "fa8318fb-9e1d-47af-92dc-c02649493d72"
+    },
+    {
+      "number": "42.4",
+      "title": "EXTRAS 2",
+      "date": "2026-06-27",
+      "src": "mangadex",
+      "mdxId": "e6e4bdff-af66-4f8e-9635-13f30b465f94"
+    }
+  ]
+}

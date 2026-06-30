@@ -262,10 +262,14 @@ async function main() {
   // Prioridade: REPROCESSA os hentai20 existentes (por id conhecido, conserta os
   // 49 quebrados mesmo fora da lista recente) e depois adiciona os novos da lista.
   // Pula slugs de outras fontes. Teto por execução p/ não estourar o tempo do CI.
-  const existingH20 = data.filter(m => m.source === 'hentai20').map(m => m.id);
+  // Incremental: reprocessa só os QUEBRADOS (sem capa) — assim cada execução
+  // avança nos defeituosos e não re-baixa os já consertados. Full: reprocessa todos.
+  let existing = data.filter(m => m.source === 'hentai20');
+  if (!FULL) existing = existing.filter(m => !m.cover);
+  const existIds = existing.map(m => m.id);
   const newOnes = [...allSlugs].filter(s => !byId.has(s));
-  const toProcess = [...new Set([...existingH20, ...newOnes])].slice(0, MAX_MANGAS);
-  console.log(`- ${existingH20.length} hentai20 existentes + ${newOnes.length} novos; processando ${toProcess.length} (teto ${MAX_MANGAS}).`);
+  const toProcess = [...new Set([...existIds, ...newOnes])].slice(0, MAX_MANGAS);
+  console.log(`- ${existIds.length} hentai20 a reprocessar + ${newOnes.length} novos; processando ${toProcess.length} (teto ${MAX_MANGAS}).`);
 
   let newAdded = 0, updated = 0;
   for (let i = 0; i < toProcess.length; i++) {

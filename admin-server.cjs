@@ -8,6 +8,7 @@ const https = require('https');
 const zlib = require('zlib');
 const fs = require('fs');
 const path = require('path');
+const { spawn } = require('child_process');
 
 const PORT = 3001;
 const DATA_JS_PATH  = path.join(__dirname, 'js', 'data.js');
@@ -28,8 +29,7 @@ const API_ML    = 'https://mangalivre.blog/wp-json/wp/v2';
 // ── EN (Hentai20) ──────────────────────────────────────────────────────────────
 const BASE_H20  = 'https://hentai20.io';
 
-// ── PT (MundoHentai) ───────────────────────────────────────────────────────────
-const BASE_MH   = 'https://mundohentaioficial.com';
+
 
 // ── Velocidades ────────────────────────────────────────────────────────────────
 const DELAY_SAFE = 1200;   // ms por requisição — seguro
@@ -61,27 +61,34 @@ function loadState() {
     };
   }
   
-  // ensure subSteps exists
-  if (!s.pt.subSteps) {
-    s.pt.subSteps = [
-      { id: 'leituramanga', name: 'LeituraManga', status: 'idle', processed: 0, total: 0 },
-      { id: 'mangalivre', name: 'MangaLivre', status: 'idle', processed: 0, total: 0 },
-      { id: 'mundohentai', name: 'MundoHentai (+18)', status: 'idle', processed: 0, total: 0 }
-    ];
-  }
-  // Add mundohentai subStep to existing saved state if missing
-  if (s.pt.subSteps && !s.pt.subSteps.find(step => step.id === 'mundohentai')) {
-    s.pt.subSteps.push({ id: 'mundohentai', name: 'MundoHentai (+18)', status: 'idle', processed: 0, total: 0 });
-  }
-  if (!s.en.subSteps) {
-    s.en.subSteps = [
-      { id: 'mangafreak', name: 'MangaFreak', status: 'idle', processed: 0, total: 0 },
-      { id: 'hentai20', name: 'Hentai20.io (+18 EN)', status: 'idle', processed: 0, total: 0 }
-    ];
-  }
-  if (s.en.subSteps && !s.en.subSteps.find(step => step.id === 'hentai20')) {
-    s.en.subSteps.push({ id: 'hentai20', name: 'Hentai20.io (+18 EN)', status: 'idle', processed: 0, total: 0 });
-  }
+  const expectedPt = [
+    { id: 'leituramanga', name: 'LeituraManga' },
+    { id: 'mangalivre', name: 'MangaLivre' },
+    { id: 'tankouhentai', name: 'TankouHentai (+18 PT)' },
+    { id: 'tiamanhwa', name: 'TiaManhwa (+18 PT)' }
+  ];
+  const expectedEn = [
+    { id: 'mangafreak', name: 'MangaFreak' },
+    { id: 'hentai20', name: 'Hentai20.io (+18 EN)' },
+    { id: 'mangadistrict', name: 'MangaDistrict (+18 EN)' }
+  ];
+
+  const mapSteps = (existing, expected) => {
+    return expected.map(exp => {
+      const match = (existing || []).find(st => st.id === exp.id);
+      return {
+        id: exp.id,
+        name: exp.name,
+        status: match ? match.status : 'idle',
+        processed: match ? match.processed : 0,
+        total: match ? match.total : 0,
+        lastCompletedAt: match ? match.lastCompletedAt : undefined
+      };
+    });
+  };
+
+  s.pt.subSteps = mapSteps(s.pt.subSteps, expectedPt);
+  s.en.subSteps = mapSteps(s.en.subSteps, expectedEn);
 
   // Clean up running status on startup since the process is not running yet
   if (s.pt.status === 'running') {
@@ -364,9 +371,14 @@ async function fetchPtCatalog() {
 }
 
 function ptCover(slug) { return `${CDN_PT}${slug}/cover-md.webp`; }
+const BANNED_GENRE = /loli|lolicon|shota|shotacon|toddler|infantil|crian|menor|child\b|kid\b/i;
 function ptGenres(item) {
-  if (Array.isArray(item.genres) && item.genres.length) return item.genres.map(g => (g && g.name) ? g.name : g).filter(Boolean);
-  return ['Manhwa'];
+  let list = ['Manhwa'];
+  if (Array.isArray(item.genres) && item.genres.length) {
+    list = item.genres.map(g => (g && g.name) ? g.name : g).filter(Boolean);
+  }
+  const cleaned = list.map(g => BANNED_GENRE.test(g) ? 'Outros gêneros' : g);
+  return [...new Set(cleaned)];
 }
 function ptAuthor(item) {
   if (Array.isArray(item.authors) && item.authors.length && item.authors[0].name) return item.authors[0].name.trim();
@@ -626,7 +638,8 @@ async function fetchMlMangaDetailsHtml(slug, defaultTitle) {
     let gMatch;
     while ((gMatch = genreRegex.exec(html)) !== null) {
       const g = gMatch[1].trim();
-      if (g && !genres.includes(g)) genres.push(g);
+      const cleanG = BANNED_GENRE.test(g) ? 'Outros gêneros' : g;
+      if (cleanG && !genres.includes(cleanG)) genres.push(cleanG);
     }
     
     function getMetaValue(label) {
@@ -1249,295 +1262,88 @@ async function runH20Scrape(signal, mode) {
 }
 
 // ══════════════════════════════════════════════════════════════════════════════
-//  MH SCRAPER — mundohentaioficial.com
-//  HTML scraping (Cloudflare bloqueia WP REST API)
-//  Todo conteúdo marcado com genres:['Hentai'] → filtrado pelo modo adulto existente
-//  Imagens via /galeria?id={mhId}&img={n} — resolvidas on-demand pelo leitor
+//  MADARA SCRAPER PROCESS RUNNER
 // ══════════════════════════════════════════════════════════════════════════════
 
-function fetchMhUrl(url, redirects = 0) {
+function runExternalMadara(sourceName, lang, signal, subStepId) {
   return new Promise((resolve, reject) => {
-    if (redirects > 5) return reject(new Error('Too many redirects'));
-    const client = url.startsWith('https') ? https : http;
-    const req = client.get(url, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-        'Accept-Language': 'pt-BR,pt;q=0.9',
-        'Referer': BASE_MH + '/'
-      },
-      timeout: 30000
-    }, res => {
-      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
-        const next = res.headers.location.startsWith('http')
-          ? res.headers.location
-          : new URL(res.headers.location, url).href;
-        return fetchMhUrl(next, redirects + 1).then(resolve).catch(reject);
-      }
-      if (res.statusCode === 403) return reject(new Error('CF_BLOCKED:403'));
-      if (res.statusCode === 404) return reject(new Error('NOT_FOUND:404'));
-      if (res.statusCode === 429 || res.statusCode === 503)
-        return reject(new Error(`RATE_LIMIT:${res.statusCode}`));
-      let data = '';
-      res.on('data', c => data += c);
-      res.on('end', () => resolve(data));
-    });
-    req.on('error', reject);
-    req.on('timeout', () => { req.destroy(); reject(new Error('Timeout')); });
-  });
-}
+    if (signal.aborted) return reject(new Error('Aborted'));
 
-function parseMhPost(html) {
-  // Post ID
-  const idMatch = html.match(/data-id="(\d+)"/) || html.match(/download_manga\/(\d+)/) || html.match(/\?p=(\d+)/);
-  const mhId = idMatch ? parseInt(idMatch[1]) : null;
-
-  // Contagem de páginas
-  const pagesMatch = html.match(/<li><strong>P[aá]ginas?<\/strong>\s*(\d+)<\/li>/i);
-  const pageCount = pagesMatch ? parseInt(pagesMatch[1]) : 0;
-
-  // Título: extrai do <title> e remove sufixos do site
-  const titleMatch = html.match(/<title>(?:\[[^\]]*\]\s*)?([^|<]+)/i);
-  let title = titleMatch ? decodeEntities(titleMatch[1].trim()) : '';
-  // Remove sufixos comuns: " - Mundo Hentai", " – Mundo Hentai", " | MundoHentai", etc.
-  title = title.replace(/\s*[-–|]\s*(Mundo\s*Hentai[^|<]*|MundoHentai[^|<]*)$/i, '').trim();
-
-  // Capa: og:image
-  const coverMatch = html.match(/<meta[^>]+property="og:image"\s+content="([^"]+)"/i)
-    || html.match(/<meta[^>]+content="([^"]+)"[^>]+property="og:image"/i);
-  const cover = coverMatch ? coverMatch[1] : '';
-
-  // Sinopse/descrição: og:description ou meta description
-  const descMatch = html.match(/<meta[^>]+property="og:description"\s+content="([^"]+)"/i)
-    || html.match(/<meta[^>]+content="([^"]+)"[^>]+property="og:description"/i)
-    || html.match(/<meta[^>]+name="description"\s+content="([^"]+)"/i)
-    || html.match(/<meta[^>]+content="([^"]+)"[^>]+name="description"/i);
-  const description = descMatch ? decodeEntities(descMatch[1].trim()) : '';
-
-  // Tags
-  const tagMatches = [...html.matchAll(/href="https?:\/\/mundohentaioficial\.com\/tag\/[^"]*"\s+rel="tag">([^<]+)<\/a>/g)];
-  const tags = tagMatches.map(m => decodeEntities(m[1].trim()));
-
-  // Categorias (de links /category/)
-  const catMatches = [...html.matchAll(/href="https?:\/\/mundohentaioficial\.com\/category\/[^"]*"\s+title="([^"]+)"/g)];
-  const categories = catMatches.map(m => decodeEntities(m[1].trim()));
-
-  return { mhId, pageCount, title, cover, description, tags, categories };
-}
-function parseMhListPage(html) {
-  // Slugs a excluir (categorias, tags, páginas do sistema)
-  const EXCLUDED = new Set([
-    'category','tag','page','parodia','cor','personagens','parodias','tags',
-    'cadastro','entrar','contato','download_manga','galeria','feed',
-    'animes-hentai','manga-hentai','one-shot','hentai-sem-censura',
-    'hentai-3d','comics','jav','doujinshi','hentai','netorare',
-    'ahegao-hentai','milf','incesto','anal','super-hq','yaoi'
-  ]);
-
-  const slugs = new Set();
-  for (const m of html.matchAll(/href="https?:\/\/mundohentaioficial\.com\/([\w-]+)\/(?:[^"#?]*)"/g)) {
-    const slug = m[1];
-    if (
-      !EXCLUDED.has(slug) &&
-      slug.length > 8 &&
-      slug.includes('-') &&
-      !slug.startsWith('wp-') &&
-      !slug.startsWith('hentai-') &&
-      !slug.startsWith('super-')
-    ) {
-      slugs.add(slug);
+    const args = ['madara-scraper.cjs'];
+    if (state[lang].mode === 'all') {
+      args.push('--all');
     }
-  }
 
-  // Detecta total de páginas via links de paginação
-  const pageNums = [...html.matchAll(/\/page\/(\d+)\//g)].map(m => parseInt(m[1]));
-  const totalPages = pageNums.length > 0 ? Math.max(...pageNums) : 1;
-
-  return { slugs: [...slugs], totalPages };
-}
-
-async function fetchMhGalleryImage(mhId, imgNum) {
-  try {
-    const html = await fetchMhUrl(`${BASE_MH}/galeria?id=${mhId}&img=${imgNum}`);
-    // Tenta vários padrões para URL da imagem real
-    const patterns = [
-      /<meta[^>]+property="og:image"\s+content="([^"]+)"/i,
-      /<meta[^>]+content="([^"]+)"[^>]+property="og:image"/i,
-      /class="[^"]*(?:galeria|leitura|img-hentai|imagem-principal)[^"]*"[^>]*>[\s\S]{0,300}?<img[^>]+(?:data-src|src)="([^"]+)"/i,
-      /<img[^>]+src="(https?:\/\/mundohentaioficial\.com\/wp-content\/[^"]+\.(?:jpe?g|png|webp)[^"]*)"/i,
-      /<img[^>]+src="(https?:\/\/[^"]*\/wp-content\/[^"]+\.(?:jpe?g|png|webp))"/i
-    ];
-    for (const p of patterns) {
-      const mx = html.match(p);
-      if (mx && mx[1] && !/logo|Logo|icon|banner|cropped/i.test(mx[1])) {
-        return mx[1];
-      }
-    }
-  } catch (e) {}
-  return null;
-}
-
-async function fetchMhChapterPages(mhId, pageCount) {
-  if (!mhId || !pageCount) return [];
-  const indices = Array.from({ length: pageCount }, (_, i) => i + 1);
-  const results = new Array(pageCount).fill(null);
-  let nextIdx = 0;
-
-  // 5 workers paralelos para as páginas da galeria
-  await Promise.all(Array.from({ length: Math.min(5, pageCount) }, async () => {
-    while (nextIdx < indices.length) {
-      const idx = nextIdx++;
-      try { results[idx] = await fetchMhGalleryImage(mhId, indices[idx]); } catch (e) {}
-      await sleep(80);
-    }
-  }));
-
-  return results.filter(Boolean);
-}
-
-async function runMhScrape(signal, mode) {
-  const { data } = getMangaData();
-  updateSubStep('pt', 'mundohentai', { status: 'running', processed: 0, total: 0 });
-  broadcastState();
-
-  // Corrige títulos de itens MH já importados (remove sufixo " - Mundo Hentai")
-  let titleFixed = 0;
-  for (const m of data) {
-    if (m.source === 'mundohentai' && m.title) {
-      const cleaned = m.title.replace(/\s*[-–|]\s*(Mundo\s*Hentai[^|<]*|MundoHentai[^|<]*)$/i, '').trim();
-      if (cleaned !== m.title) { m.title = cleaned; titleFixed++; }
-    }
-  }
-  if (titleFixed > 0) { scheduleSave(); log('pt', `  MundoHentai: ${titleFixed} títulos corrigidos.`); }
-
-  const existingSlugs = new Set(data.filter(m => m.source === 'mundohentai').map(m => m.id));
-  let newAdded = 0;
-  const maxPages = mode === 'incremental' ? 3 : 9999;
-
-  // --- Fase A: busca a página 1 para saber totalPages ---
-  let totalPages = 1;
-  try {
-    const html1 = await fetchMhUrl(BASE_MH + '/');
-    const { totalPages: detected } = parseMhListPage(html1);
-    if (detected > 1) totalPages = Math.min(detected, maxPages);
-    log('pt', `  MundoHentai: ${totalPages} páginas de listagem a varrer.`);
-    updateSubStep('pt', 'mundohentai', { total: totalPages });
-
-    // coleta slugs da página 1 imediatamente
-    var { slugs: slugsP1 } = parseMhListPage(html1);
-    var allSlugs = new Set(slugsP1);
-
-    // --- Fase B: busca as demais páginas em paralelo (20 workers) ---
-    if (totalPages > 1) {
-      const pageQueue = [];
-      for (let p = 2; p <= totalPages; p++) pageQueue.push(p);
-      let nextPage = 0;
-      const pageResults = new Array(pageQueue.length).fill(null);
-
-      await Promise.all(Array.from({ length: Math.min(20, pageQueue.length) }, async () => {
-        while (nextPage < pageQueue.length && !signal.aborted) {
-          const qi = nextPage++;
-          const pageNum = pageQueue[qi];
-          const url = `${BASE_MH}/page/${pageNum}/`;
-          try {
-            const html = await fetchMhUrl(url);
-            const { slugs } = parseMhListPage(html);
-            pageResults[qi] = slugs;
-            updateSubStep('pt', 'mundohentai', { processed: pageNum });
-          } catch (e) {
-            log('pt', `⚠️ MundoHentai: Erro pág. ${pageNum}: ${e.message}`, 'warn');
-            pageResults[qi] = [];
-          }
-        }
-      }));
-
-      for (const slugList of pageResults) {
-        if (slugList) slugList.forEach(s => allSlugs.add(s));
-      }
-    }
-  } catch (e) {
-    log('pt', `⚠️ MundoHentai: Falha ao listar catálogo: ${e.message}`, 'warn');
-    updateSubStep('pt', 'mundohentai', { status: 'done', newAdded: 0 });
-    return;
-  }
-
-  if (signal.aborted) return;
-
-  // --- Fase C: processa apenas os slugs novos (5 workers) ---
-  const newSlugs = [...allSlugs].filter(s => !existingSlugs.has(s));
-  log('pt', `  MundoHentai: ${allSlugs.size} itens no catálogo, ${newSlugs.length} novos.`);
-  updateSubStep('pt', 'mundohentai', { total: newSlugs.length, processed: 0 });
-
-  let nextIdx = 0;
-  await Promise.all(Array.from({ length: Math.min(5, newSlugs.length || 1) }, async () => {
-    while (nextIdx < newSlugs.length && !signal.aborted) {
-      const slug = newSlugs[nextIdx++];
-      state.pt.current = [`MundoHentai: ${slug}`, '', '', ''];
-      broadcastState();
-
-      try {
-        const postHtml = await fetchMhUrl(`${BASE_MH}/${slug}/`);
-        const { mhId, pageCount, title, cover, description, tags, categories } = parseMhPost(postHtml);
-
-        if (!mhId || !title) {
-          log('pt', `⚠️ MundoHentai: Sem dados em ${slug}`, 'warn');
-          continue;
-        }
-
-        // Usa categorias e tags diretamente do site, sem mapeamento/normalização
-        const genres = [];
-        for (const cat of categories) {
-          if (cat && !genres.includes(cat)) genres.push(cat);
-        }
-        if (!genres.some(g => g.toLowerCase().includes('hentai'))) genres.unshift('Hentai');
-        for (const tag of tags) {
-          if (tag && !genres.includes(tag)) genres.push(tag);
-        }
-
-        const mangaEntry = {
-          id: slug, slug, title, altTitle: '',
-          cover: cover || `${BASE_MH}/galeria?id=${mhId}&img=1`,
-          banner: cover || `${BASE_MH}/galeria?id=${mhId}&img=1`,
-          author: 'Desconhecido', artist: 'Desconhecido',
-          status: 'completed', year: new Date().getFullYear(), rating: 0,
-          genres, description, descriptionPt: description,
-          chaptersCount: 1, lang: 'pt', hasPt: true, hasEn: false,
-          mhId, pageCount, source: 'mundohentai'
-        };
-        data.push(mangaEntry);
-        existingSlugs.add(slug);
-
-        const pages = await fetchMhChapterPages(mhId, pageCount);
-        saveChaptersFile(slug, {
-          pt: [{
-            id: `${slug}-chapter-1`,
-            number: 1,
-            title: 'Completo',
-            date: new Date().toISOString(),
-            pages,
-            src: 'mundohentai',
-            mhId,
-            pageCount
-          }]
-        });
-
-        log('pt', `  ✨ MundoHentai: +${title} (${pageCount} págs)`);
-        newAdded++;
-        updateSubStep('pt', 'mundohentai', { processed: newAdded, newAdded });
-      } catch (e) {
-        log('pt', `⚠️ MundoHentai: Erro em ${slug}: ${e.message}`, 'warn');
-      }
-      await sleep(150);
-    }
-  }));
-
-  scheduleSave();
-  if (!signal.aborted) {
-    log('pt', `✅ MundoHentai: ${newAdded} novos itens adicionados.`, 'success');
-    updateSubStep('pt', 'mundohentai', { status: 'done', newAdded });
-    state.pt.current = [];
+    log(lang, `🚀 Executando madara-scraper.cjs para ${sourceName}...`);
+    updateSubStep(lang, subStepId, { status: 'running', processed: 0, total: 0 });
     broadcastState();
-  }
+
+    const child = spawn('node', args, {
+      cwd: __dirname,
+      env: {
+        ...process.env,
+        MADARA_ONLY: sourceName,
+        MADARA_MAX: state[lang].mode === 'incremental' ? '20' : '99999'
+      }
+    });
+
+    const checkAbortInterval = setInterval(() => {
+      if (signal.aborted) {
+        clearInterval(checkAbortInterval);
+        child.kill();
+        reject(new Error('Aborted'));
+      }
+    }, 500);
+
+    let buffer = '';
+    child.stdout.on('data', data => {
+      buffer += data.toString();
+      const lines = buffer.split('\n');
+      buffer = lines.pop(); // keep partial line
+
+      for (const line of lines) {
+        const cleanLine = line.trim();
+        if (!cleanLine) continue;
+
+        log(lang, `[${sourceName}] ${cleanLine}`);
+
+        const sitemapMatch = cleanLine.match(/(\d+)\s+títulos\s+no\s+sitemap/i);
+        if (sitemapMatch) {
+          updateSubStep(lang, subStepId, { total: parseInt(sitemapMatch[1], 10) });
+          broadcastState();
+        }
+
+        const progressMatch = cleanLine.match(/^(✨|♻️)\s+(.*)\s+\((\d+)\s+caps/);
+        if (progressMatch) {
+          const step = state[lang].subSteps.find(st => st.id === subStepId);
+          const nextProcessed = (step ? step.processed : 0) + 1;
+          updateSubStep(lang, subStepId, { processed: nextProcessed });
+          state[lang].current = [`[${sourceName}] ${progressMatch[2]}`, '', '', ''];
+          broadcastState();
+        }
+      }
+    });
+
+    child.stderr.on('data', data => {
+      const errStr = data.toString().trim();
+      if (errStr) {
+        log(lang, `⚠️ [${sourceName} ERR] ${errStr}`, 'warn');
+      }
+    });
+
+    child.on('close', code => {
+      clearInterval(checkAbortInterval);
+      if (code === 0) {
+        updateSubStep(lang, subStepId, { status: 'done' });
+        log(lang, `✅ Fonte ${sourceName} concluída.`, 'success');
+        resolve();
+      } else {
+        updateSubStep(lang, subStepId, { status: 'error' });
+        reject(new Error(`Process exited with code ${code}`));
+      }
+      broadcastState();
+    });
+  });
 }
 async function runPtScrape(signal) {
   const s = state.pt;
@@ -1602,12 +1408,28 @@ async function runPtScrape(signal) {
     await runMlScrapePart(signal, s.mode || 'incremental');
     if (signal.aborted) throw new Error('Aborted');
 
-    // Fase 3: MundoHentai (+18) — DESATIVADO (fonte bloqueia IP de cloud; substituída
-    // por tankouhentai/tiamanhwa via madara-scraper.cjs). Mantido o código, sem chamar.
-    log('pt', '⏭️ MundoHentai desativado (substituído por Madara). Pulando.');
+    // Fase 3: TankouHentai (+18 PT)
+    const thStep = s.subSteps && s.subSteps.find(step => step.id === 'tankouhentai');
+    if (!thStep || thStep.status !== 'done') {
+      log('pt', '🚀 Iniciando Fase 3: Varredura TankouHentai (+18 PT)...');
+      await runExternalMadara('tankouhentai', 'pt', signal, 'tankouhentai');
+      if (signal.aborted) throw new Error('Aborted');
+    } else {
+      log('pt', '⏭️ Fase 3 (TankouHentai) já concluída. Pulando...');
+    }
+
+    // Fase 4: TiaManhwa (+18 PT)
+    const tmStep = s.subSteps && s.subSteps.find(step => step.id === 'tiamanhwa');
+    if (!tmStep || tmStep.status !== 'done') {
+      log('pt', '🚀 Iniciando Fase 4: Varredura TiaManhwa (+18 PT)...');
+      await runExternalMadara('tiamanhwa', 'pt', signal, 'tiamanhwa');
+      if (signal.aborted) throw new Error('Aborted');
+    } else {
+      log('pt', '⏭️ Fase 4 (TiaManhwa) já concluída. Pulando...');
+    }
 
     flushSave(); s.status = 'done'; s.current = [];
-    log('pt', `🎉 PT concluído com sucesso nas três fontes!`, 'success');
+    log('pt', `🎉 PT concluído com sucesso nas quatro fontes!`, 'success');
   } catch(e) {
     flushSave();
     if (e.message === 'Aborted') {
@@ -1937,8 +1759,18 @@ async function runEnScrape(signal) {
       log('en', '⏭️ Fase 2 (Hentai20) já concluída. Pulando...');
     }
 
+    // Fase 3: MangaDistrict (+18 EN)
+    const mdStep = s.subSteps && s.subSteps.find(step => step.id === 'mangadistrict');
+    if (!mdStep || mdStep.status !== 'done') {
+      log('en', '🚀 Iniciando Fase 3: Varredura MangaDistrict (+18 EN)...');
+      await runExternalMadara('mangadistrict', 'en', signal, 'mangadistrict');
+      if (signal.aborted) throw new Error('Aborted');
+    } else {
+      log('en', '⏭️ Fase 3 (MangaDistrict) já concluída. Pulando...');
+    }
+
     flushSave(); s.status = 'done'; s.current = [];
-    log('en', `🎉 EN concluído! ${s.processed} mangás atualizados.`, 'success');
+    log('en', `🎉 EN concluído! ${s.processed} mangás atualizados nas três fontes.`, 'success');
   } catch(e) {
     flushSave();
     if (e.message === 'Aborted') {
@@ -2106,8 +1938,6 @@ http.createServer((req, res) => {
       const ch = chapObj.pt && chapObj.pt.find(c => String(c.number) === String(chNum));
       if (ch && ch.src === 'mangalivre' && ch.mlId) {
         resolver = fetchMlChapterPages(ch.mlId);
-      } else if (ch && ch.src === 'mundohentai' && ch.mhId) {
-        resolver = fetchMhChapterPages(ch.mhId, ch.pageCount || 0);
       } else {
         resolver = fetchPtChapterPages(slug, chNum);
       }
@@ -2324,7 +2154,9 @@ http.createServer((req, res) => {
   console.log(`   Painel     → http://localhost:3000/admin.html`);
   console.log(`\n   PT: api.leituramanga.net (API JSON) | ${WORKERS_PT} workers | catálogo em 1 requisição`);
   console.log(`   EN: ww2.mangafreak.me (HTML) | 5 workers | delay configurável`);
-  console.log(`   MH: mundohentaioficial.com (HTML) | conteúdo +18`);
+  console.log(`   TH: tankouhentai.com (Madara) | conteúdo +18 PT`);
+  console.log(`   TM: tiamanhwa.com (Madara) | manhwas +18 PT`);
+  console.log(`   MD: mangadistrict.com (Madara) | mature +18 EN`);
   console.log(`   EN pages: [] vazio — imagens via CDN pattern em tempo de leitura\n`);
 
   // Inicializa o temporizador do agendador automático

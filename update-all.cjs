@@ -33,8 +33,8 @@ function main() {
   // 3.7. Atualiza lançamentos e capítulos do MangaDex (Português)
   runCommand('node mangadex-scraper.cjs');
 
-  // 3.9. Atualiza lançamentos e capítulos do MundoHentai (Português +18)
-  runCommand('node mundohentai-scraper.cjs');
+  // 3.9. Atualiza lançamentos e capítulos do Madara (Português/Inglês +18)
+  runCommand('node madara-scraper.cjs');
   
   // 4. Une metadados de capas, sinopse, autores e gera o data.js atualizado
   runCommand('node merge-meta.cjs');

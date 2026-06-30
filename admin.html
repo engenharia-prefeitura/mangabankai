@@ -524,13 +524,13 @@ function updateCard(lang, s) {
         } else if (step.status === 'idle') {
           stepPctLabel = `Aguardando`;
         }
-      } else if (step.id === 'mundohentai' || step.id === 'hentai20') {
+      } else if (['tankouhentai', 'tiamanhwa', 'mangadistrict', 'hentai20'].includes(step.id)) {
         if (step.status === 'running') {
-          stepPctLabel = step.total > 1
-            ? `Pág. ${step.processed} / ${step.total} — ${step.newAdded || 0} novos`
-            : (step.processed > 0 ? `Pág. ${step.processed} — ${step.newAdded || 0} novos` : `Iniciando...`);
+          stepPctLabel = step.total > 0
+            ? `Obra ${step.processed} / ${step.total} (${stepPct}%)`
+            : `Processando...`;
         } else if (step.status === 'done') {
-          stepPctLabel = `Concluído (${step.newAdded || step.processed || 0} novos)`;
+          stepPctLabel = `Concluído (${step.processed} obras)`;
         } else if (step.status === 'idle') {
           stepPctLabel = `Aguardando`;
         }
@@ -1009,7 +1009,9 @@ connect();
   // Fornecedores: usa o campo `source` (preciso, funciona sem capa); cai na
   // inferência por capa só pras fontes antigas que não gravam source.
   var _SUP = {
-    mundohentai:  ['MundoHentai', '🔞', '#ef4444'],
+    tankouhentai:  ['TankouHentai', '🔞', '#ff5722'],
+    tiamanhwa:     ['TiaManhwa', '🔞', '#8a2be2'],
+    mangadistrict: ['MangaDistrict', '🔞', '#4682b4'],
     hentai20:     ['Hentai20', '🔞', '#a855f7'],
     mangadex:     ['MangaDex', '📘', '#ff6740'],
     mangafreak:   ['MangaFreak', '🇬🇧', '#3b82f6'],
@@ -1023,7 +1025,9 @@ connect();
     if (/mangafreak/i.test(c)) return _SUP.mangafreak;
     if (/leituramanga/i.test(c)) return _SUP.leituramanga;
     if (/mangalivre/i.test(c)) return _SUP.mangalivre;
-    if (/mundohentai/i.test(c)) return _SUP.mundohentai;
+    if (/tankouhentai/i.test(c)) return _SUP.tankouhentai;
+    if (/tiamanhwa/i.test(c)) return _SUP.tiamanhwa;
+    if (/mangadistrict/i.test(c)) return _SUP.mangadistrict;
     if (/mangadex/i.test(c)) return _SUP.mangadex;
     return ['Outros', '🌐', '#888'];
   }
@@ -1083,8 +1087,8 @@ connect();
       if (m.hidden) return;
       if (!m.cover) semCapa.push(m);
       if (!(m.chaptersCount > 0)) zeroCaps.push(m);
-      // mundohentai/hentai20: páginas on-demand de fontes que bloqueiam cloud → não leem no site público
-      if (m.source === 'mundohentai' || m.source === 'hentai20') ilegivel.push(m);
+      // hentai20: páginas on-demand de fontes que bloqueiam cloud → não leem no site público
+      if (m.source === 'hentai20') ilegivel.push(m);
       if ((m.genres || []).length > 15) generosLixo.push(m);
       var t = (m.title || '').toLowerCase().trim();
       if (t) titleCount[t] = (titleCount[t] || 0) + 1;
@@ -1106,7 +1110,7 @@ connect();
     el.innerHTML =
       bloco('#ef4444', 'Sem capa (mostram "?")', semCapa, exemplos(semCapa))
       + bloco('#eab308', 'Sem capítulos (0)', zeroCaps, exemplos(zeroCaps))
-      + bloco('#a855f7', 'Ilegíveis no site público (mundohentai/hentai20)', ilegivel, exemplos(ilegivel))
+      + bloco('#a855f7', 'Ilegíveis no site público (Hentai20)', ilegivel, exemplos(ilegivel))
       + bloco('#3b82f6', 'Gêneros suspeitos (>15 — scraper pegou lixo)', generosLixo, exemplos(generosLixo))
       + bloco('#22c55e', 'Títulos duplicados', dup, dup.slice(0, 5).map(function (d) { return d.title + ' (' + d.n + 'x)'; }).join(' · ') + (dup.length > 5 ? ' …' : ''));
   }

@@ -32,7 +32,7 @@ const SOURCES = ONLY.length ? ALL_SOURCES.filter(s => ONLY.includes(s.name)) : A
 
 const FULL = process.argv.includes('--all');
 const MAX_MANGAS = parseInt(process.env.MADARA_MAX || (FULL ? '99999' : '20'), 10);
-const THROTTLE = 600;
+const THROTTLE = 150;
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
 // Gêneros banidos pela Adsterra → relabel para "Outros gêneros" (NÃO exclui a obra)
@@ -130,8 +130,11 @@ async function collectSlugs(src) {
 
 function parseMeta(html, src) {
   const get = (re) => { const m = html.match(re); return m ? decodeEntities(m[1].replace(/<[^>]+>/g, ' ')).replace(/\s+/g, ' ').trim() : ''; };
-  let title = get(/property="og:title"\s+content="([^"]+)"/i) || get(/class="post-title"[^>]*>\s*<h1[^>]*>([^<]+)/i);
-  title = title.replace(/\s*[-–|]\s*(Hentai|Manga|Manhwa|Tankoubon|Read.*|Mang[áa]).*$/i, '').trim();
+  let title = get(/property="og:title"\s+content="([^"]+)"/i)
+           || get(/class="post-title"[^>]*>\s*<h1[^>]*>([^<]+)/i)
+           || get(/<h1[^>]*>([^<]+)<\/h1>/i)
+           || get(/<title>([^<]+)<\/title>/i);
+  title = title.replace(/\s*[-–|]\s*(Hentai|Manga|Manhwa|Tankoubon|Read.*|Mang[áa]|Manga\s*District).*$/i, '').trim();
 
   const cover = (html.match(/class="summary_image"[\s\S]{0,260}?<img[^>]+(?:data-src|src)="([^"]+)"/i) || [])[1] || '';
 
@@ -152,7 +155,7 @@ function parseMeta(html, src) {
   const artist = (html.match(/class="artist-content"[^>]*>\s*<a[^>]*>([^<]+)/i) || [])[1] || author;
   const statusRaw = (html.match(/class="post-status"[\s\S]*?summary-content[^>]*>\s*([^<]+)/i) || [])[1] || itemVal('Status');
   const status = /complet|finaliz/i.test(statusRaw) ? 'completed' : 'ongoing';
-  const relRaw = itemVal('Release|Lançamento|Ano');
+  const relRaw = itemVal('(?:Release|Lançamento|Ano)');
   const year = parseInt((relRaw.match(/\d{4}/) || [])[0], 10) || new Date().getFullYear();
   const synopsis = get(/class="(?:summary__content|description-summary|manga-excerpt)[^"]*"[^>]*>([\s\S]*?)<\/div>/i).slice(0, 600);
   const postId = (html.match(/data-id="(\d+)"/i) || html.match(/shortlink[^>]+\?p=(\d+)/i) || [])[1] || '';
@@ -189,9 +192,8 @@ async function main() {
   const list = loadMangaList();
   const byId = new Map(list.map(m => [m.id, m]));
   // índice por idioma+títuloNorm pra dedup entre fontes madara
-  const madaraNames = new Set(ALL_SOURCES.map(s => s.name));
   const titleIndex = new Map(); // `${lang}|${norm}` -> manga
-  for (const m of list) if (madaraNames.has(m.source)) titleIndex.set(m.lang + '|' + norm(m.title), m);
+  for (const m of list) titleIndex.set((m.lang || 'pt') + '|' + norm(m.title), m);
 
   let added = 0, updated = 0, deduped = 0, processed = 0;
   for (const src of SOURCES) {
@@ -218,12 +220,52 @@ async function main() {
       if (!chapters.length) continue;
 
       const chObj = { [src.lang]: [] };
+      const chPath = path.join(CHAPTERS_DIR, id + '.json');
+      let existingChObj = {};
+      if (fs.existsSync(chPath)) {
+        try { existingChObj = JSON.parse(fs.readFileSync(chPath, 'utf8')); } catch (e) {}
+      }
+      const existingChList = existingChObj[src.lang] || [];
+      const existingChMap = new Map(existingChList.map(c => [String(c.number), c]));
+
+      const chaptersToScrape = [];
       for (const ch of chapters) {
-        await sleep(THROTTLE);
-        let chHtml; try { chHtml = await fetchUrl(ch.url, { referer: `https://${src.domain}/` }); } catch (e) { continue; }
-        const pages = parsePages(chHtml);
-        if (!pages.length) continue;
-        chObj[src.lang].push({ id: `${id}-ch-${ch.number}`, number: ch.number, title: ch.title, date: new Date().toISOString().slice(0, 10), pages, src: src.name, chapterUrl: ch.url });
+        const exist = existingChMap.get(String(ch.number));
+        if (exist && exist.pages && exist.pages.length > 0) {
+          chObj[src.lang].push(exist);
+        } else {
+          chaptersToScrape.push(ch);
+        }
+      }
+
+      if (chaptersToScrape.length > 0) {
+        const CONCURRENCY = 4;
+        let nextChIdx = 0;
+        const scrapeWorker = async () => {
+          while (nextChIdx < chaptersToScrape.length) {
+            const ch = chaptersToScrape[nextChIdx++];
+            if (!ch) continue;
+            await sleep(THROTTLE);
+            let chHtml;
+            try {
+              chHtml = await fetchUrl(ch.url, { referer: `https://${src.domain}/` });
+            } catch (e) {
+              continue;
+            }
+            const pages = parsePages(chHtml);
+            if (!pages.length) continue;
+            chObj[src.lang].push({
+              id: `${id}-ch-${ch.number}`,
+              number: ch.number,
+              title: ch.title,
+              date: new Date().toISOString().slice(0, 10),
+              pages,
+              src: src.name,
+              chapterUrl: ch.url
+            });
+          }
+        };
+        await Promise.all(Array.from({ length: CONCURRENCY }, scrapeWorker));
       }
       if (!chObj[src.lang].length) continue;
       chObj[src.lang].sort((a, b) => parseFloat(a.number) - parseFloat(b.number));

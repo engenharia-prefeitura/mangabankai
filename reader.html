@@ -339,7 +339,8 @@
 
         // 1) Servidor: devolve a lista exata e a salva no JSON do capítulo.
         try {
-          const res = await fetch(`${RESOLVE_BASE}/resolve-chapter?lang=${encodeURIComponent(lang)}&mangaId=${encodeURIComponent(slug)}&slug=${encodeURIComponent(mSlug)}&chNum=${encodeURIComponent(chapter.number)}`);
+          const mId = (manga && manga.id) ? manga.id : mangaId;
+          const res = await fetch(`${RESOLVE_BASE}/resolve-chapter?lang=${encodeURIComponent(lang)}&mangaId=${encodeURIComponent(mId)}&slug=${encodeURIComponent(mSlug)}&chNum=${encodeURIComponent(chapter.number)}`);
           const data = await res.json();
           if (data.success && data.pages && data.pages.length > 0) {
             pages = data.pages;

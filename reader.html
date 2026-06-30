@@ -317,8 +317,9 @@
       // Find the specific chapter
       let chapter = chaptersList.find(c => c.id === chapterId);
       if (!chapter) {
-        // Try finding by number
-        chapter = chaptersList.find(c => c.number === parseFloat(chapterId));
+        // Try finding by number — both sides as float to handle "01" vs 1 mismatch
+        const chFloat = parseFloat(chapterId);
+        chapter = chaptersList.find(c => String(c.number) === String(chapterId) || parseFloat(c.number) === chFloat);
       }
       if (!chapter) {
         showError('Capítulo não encontrado.');

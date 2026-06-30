@@ -1003,7 +1003,7 @@ window.addEventListener('load', () => { loadHiddenList(); });
 
 connect();
 </script>
-<script src="/js/data-lite.js"></script>
+<script>document.write('<script src="/js/data-lite.js?cb=' + Date.now() + '"><\/script>');</script>
 <script>
   // Fornecedores: usa o campo `source` (preciso, funciona sem capa); cai na
   // inferência por capa só pras fontes antigas que não gravam source.

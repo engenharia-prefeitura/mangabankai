@@ -46,6 +46,7 @@
     }
   ],
   "rewrites": [
+    { "source": "/api/inspect-fs", "destination": "/api/inspect-fs" },
     { "source": "/manga/:id/:cap", "destination": "/api/og-chapter?manga=:id&cap=:cap" },
     { "source": "/resolve-chapter", "destination": "/api/resolve-chapter" },
     { "source": "/api/auth/:action", "destination": "/api/auth?action=:action" },

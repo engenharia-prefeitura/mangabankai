@@ -108,11 +108,21 @@ async function fetchEnChapterPages(slug, chNum) {
   return [];
 }
 
-function loadChaptersFile(mangaId) {
+async function loadChaptersFile(mangaId, req) {
   try {
     const p = path.join(__dirname, '..', 'js', 'chapters', `${mangaId}.json`);
     if (fs.existsSync(p)) return JSON.parse(fs.readFileSync(p, 'utf8'));
   } catch (e) {}
+
+  try {
+    const host = (req && req.headers && req.headers.host) || 'mangabankai.vercel.app';
+    const protocol = host.includes('localhost') || host.includes('127.0.0.1') ? 'http' : 'https';
+    const url = `${protocol}://${host}/js/chapters/${mangaId}.json`;
+    const body = await fetchUrl(url);
+    if (body) return JSON.parse(body);
+  } catch (e) {
+    console.error("HTTP chapter load failed:", e.message);
+  }
   return {};
 }
 
@@ -152,9 +162,15 @@ module.exports = async (req, res) => {
     let pages = [];
 
     // Tenta carregar o arquivo do capítulo primeiro para descobrir o src real
-    const chapObj = loadChaptersFile(mangaId);
+    const chapObj = await loadChaptersFile(mangaId, req);
     const chList = chapObj[normalLang] || chapObj.pt || chapObj.en || [];
-    const ch = chList.find(c => String(c.number) === String(chNum));
+    const ch = chList.find(c => {
+      if (String(c.number) === String(chNum)) return true;
+      const fn1 = parseFloat(c.number);
+      const fn2 = parseFloat(chNum);
+      if (!isNaN(fn1) && !isNaN(fn2)) return fn1 === fn2;
+      return false;
+    });
 
     if (ch) {
       if (ch.pages && ch.pages.length > 0) {

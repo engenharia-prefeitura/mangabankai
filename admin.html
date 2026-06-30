@@ -346,11 +346,19 @@
     </div>
   </div>
 
-  <!-- Fornecedores (inferido pela origem da capa) -->
+  <!-- Fornecedores (por campo source) -->
   <div class="scraper-cloud" id="suppliersCard" style="margin-top:28px; background:var(--surface); border:1px solid var(--border); border-radius:16px; padding:24px;">
     <h2>📦 Fornecedores</h2>
-    <p style="font-size:0.82rem; color:var(--muted); margin:4px 0 18px;">Quantos mangás e capítulos cada fonte está fornecendo atualmente (inferido pela origem da capa).</p>
+    <p style="font-size:0.82rem; color:var(--muted); margin:4px 0 18px;">Quantos mangás e capítulos cada fonte está fornecendo atualmente.</p>
     <div class="cards" id="supplierStats"></div>
+  </div>
+
+  <!-- Diagnóstico de inconsistências -->
+  <div class="scraper-cloud" id="diagCard" style="margin-top:28px; background:var(--surface); border:1px solid var(--border); border-radius:16px; padding:24px;">
+    <h2>🔧 Diagnóstico de Inconsistências</h2>
+    <p style="font-size:0.82rem; color:var(--muted); margin:4px 0 14px;">Varre o catálogo e aponta problemas: capas faltando, sem capítulos, ilegíveis no site público, gêneros suspeitos e títulos duplicados.</p>
+    <button class="btn btn-start" onclick="runDiag()">▶ Rodar diagnóstico</button>
+    <div id="diagResults" style="margin-top:16px;"></div>
   </div>
 
   <!-- Agendamento Automático -->
@@ -997,15 +1005,25 @@ connect();
 </script>
 <script src="/js/data-lite.js"></script>
 <script>
-  // Fornecedores: infere a fonte pela origem da capa e agrega mangás + capítulos.
+  // Fornecedores: usa o campo `source` (preciso, funciona sem capa); cai na
+  // inferência por capa só pras fontes antigas que não gravam source.
+  var _SUP = {
+    mundohentai:  ['MundoHentai', '🔞', '#ef4444'],
+    hentai20:     ['Hentai20', '🔞', '#a855f7'],
+    mangadex:     ['MangaDex', '📘', '#ff6740'],
+    mangafreak:   ['MangaFreak', '🇬🇧', '#3b82f6'],
+    leituramanga: ['LeituraManga', '🇧🇷', '#22c55e'],
+    mangalivre:   ['MangaLivre', '🇧🇷', '#eab308']
+  };
   function _supplierOf(m) {
+    if (m.source && _SUP[m.source]) return _SUP[m.source];
     var c = m.cover || '';
     try { var mt = c.match(/url=([^&]+)/); if (mt) c = decodeURIComponent(mt[1]); } catch (e) {}
-    if (/mangafreak/i.test(c)) return ['MangaFreak', '🇬🇧', '#3b82f6'];
-    if (/leituramanga/i.test(c)) return ['LeituraManga', '🇧🇷', '#22c55e'];
-    if (/mangalivre/i.test(c)) return ['MangaLivre', '🇧🇷', '#eab308'];
-    if (/mundohentai/i.test(c)) return ['MundoHentai', '🔞', '#ef4444'];
-    if (/mangadex/i.test(c)) return ['MangaDex', '📘', '#ff6740'];
+    if (/mangafreak/i.test(c)) return _SUP.mangafreak;
+    if (/leituramanga/i.test(c)) return _SUP.leituramanga;
+    if (/mangalivre/i.test(c)) return _SUP.mangalivre;
+    if (/mundohentai/i.test(c)) return _SUP.mundohentai;
+    if (/mangadex/i.test(c)) return _SUP.mangadex;
     return ['Outros', '🌐', '#888'];
   }
   function renderSuppliers() {
@@ -1028,6 +1046,44 @@ connect();
     }).join('');
   }
   window.addEventListener('load', renderSuppliers);
+
+  // ── Diagnóstico de inconsistências ──────────────────────────────────────
+  function runDiag() {
+    var el = document.getElementById('diagResults');
+    if (typeof MANGA_DATA === 'undefined') { el.innerHTML = '<p style="color:var(--muted)">Dados ainda não carregados.</p>'; return; }
+    var semCapa = [], zeroCaps = [], ilegivel = [], generosLixo = [], dup = [];
+    var titleCount = {};
+    MANGA_DATA.forEach(function (m) {
+      if (m.hidden) return;
+      if (!m.cover) semCapa.push(m);
+      if (!(m.chaptersCount > 0)) zeroCaps.push(m);
+      // mundohentai/hentai20: páginas on-demand de fontes que bloqueiam cloud → não leem no site público
+      if (m.source === 'mundohentai' || m.source === 'hentai20') ilegivel.push(m);
+      if ((m.genres || []).length > 15) generosLixo.push(m);
+      var t = (m.title || '').toLowerCase().trim();
+      if (t) titleCount[t] = (titleCount[t] || 0) + 1;
+    });
+    Object.keys(titleCount).forEach(function (t) { if (titleCount[t] > 1) dup.push({ title: t, n: titleCount[t] }); });
+
+    function exemplos(arr, key) {
+      return arr.slice(0, 5).map(function (m) { return (m.title || m[key] || m.id || '?'); }).join(' · ') + (arr.length > 5 ? ' …' : '');
+    }
+    function bloco(cor, titulo, arr, exemploStr) {
+      var n = arr.length;
+      return '<div class="card" style="border-left:4px solid ' + (n ? cor : '#3a3a4a') + '; margin-bottom:10px;">'
+        + '<div style="padding:12px 14px;">'
+        + '<div style="font-weight:700; color:var(--text);">' + (n ? '⚠️ ' : '✅ ') + titulo + ': ' + n.toLocaleString('pt-BR') + '</div>'
+        + (n ? '<div style="font-size:0.78rem; color:var(--muted); margin-top:4px;">' + exemploStr + '</div>' : '')
+        + '</div></div>';
+    }
+
+    el.innerHTML =
+      bloco('#ef4444', 'Sem capa (mostram "?")', semCapa, exemplos(semCapa))
+      + bloco('#eab308', 'Sem capítulos (0)', zeroCaps, exemplos(zeroCaps))
+      + bloco('#a855f7', 'Ilegíveis no site público (mundohentai/hentai20)', ilegivel, exemplos(ilegivel))
+      + bloco('#3b82f6', 'Gêneros suspeitos (>15 — scraper pegou lixo)', generosLixo, exemplos(generosLixo))
+      + bloco('#22c55e', 'Títulos duplicados', dup, dup.slice(0, 5).map(function (d) { return d.title + ' (' + d.n + 'x)'; }).join(' · ') + (dup.length > 5 ? ' …' : ''));
+  }
 </script>
 </body>
 </html>

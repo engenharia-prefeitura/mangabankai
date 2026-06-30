@@ -82,6 +82,7 @@ function slimManga(m) {
   };
   if (m.latestChapter != null) out.latestChapter = m.latestChapter;
   if (m.hidden) out.hidden = true;
+  if (m.source) out.source = m.source; // fonte real (mundohentai, hentai20, mangadex…)
   if (isEligible(m)) out.ssg = 1; // tem página estática /manga/<id>/
   const d = m.description || m.descriptionPt || '';
   if (d) out.description = d.length > 180 ? d.slice(0, 180) : d;

@@ -349,8 +349,9 @@
   <!-- Fornecedores (por campo source) -->
   <div class="scraper-cloud" id="suppliersCard" style="margin-top:28px; background:var(--surface); border:1px solid var(--border); border-radius:16px; padding:24px;">
     <h2>📦 Fornecedores</h2>
-    <p style="font-size:0.82rem; color:var(--muted); margin:4px 0 18px;">Quantos mangás e capítulos cada fonte está fornecendo atualmente.</p>
+    <p style="font-size:0.82rem; color:var(--muted); margin:4px 0 18px;">Quantos mangás e capítulos cada fonte está fornecendo atualmente. <b>Clique num fornecedor</b> para ver as obras.</p>
     <div class="cards" id="supplierStats"></div>
+    <div id="supplierWorks" style="display:none; margin-top:6px;"></div>
   </div>
 
   <!-- Diagnóstico de inconsistências -->
@@ -1038,12 +1039,37 @@ connect();
     var el = document.getElementById('supplierStats');
     if (!el) return;
     el.innerHTML = list.map(function (s) {
-      return '<div class="card" style="border-left:4px solid ' + s.cor + '">'
+      return '<div class="card" style="border-left:4px solid ' + s.cor + '; cursor:pointer" title="Clique para ver as obras" onclick="showSupplierWorks(\'' + s.nome.replace(/'/g, "\\'") + '\')">'
         + '<div class="card-head"><div class="flag">' + s.flag + '</div><div>'
-        + '<div class="card-title">' + s.nome + '</div>'
+        + '<div class="card-title">' + s.nome + ' 🔍</div>'
         + '<div class="card-sub">' + s.mangas.toLocaleString('pt-BR') + ' mangás · ' + s.caps.toLocaleString('pt-BR') + ' capítulos</div>'
         + '</div></div></div>';
     }).join('');
+  }
+
+  // Investigar: lista as obras de um fornecedor (com busca).
+  function showSupplierWorks(nome) {
+    var box = document.getElementById('supplierWorks');
+    if (!box || typeof MANGA_DATA === 'undefined') return;
+    var works = MANGA_DATA.filter(function (m) { return !m.hidden && _supplierOf(m)[0] === nome; })
+      .sort(function (a, b) { return (a.title || '').localeCompare(b.title || ''); });
+    box.style.display = 'block';
+    box.innerHTML = '<div style="display:flex;justify-content:space-between;align-items:center;margin:14px 0 8px">'
+      + '<strong style="color:var(--text)">' + nome + ' — ' + works.length.toLocaleString('pt-BR') + ' obras</strong>'
+      + '<button class="btn" style="padding:4px 10px;font-size:0.75rem" onclick="document.getElementById(\'supplierWorks\').style.display=\'none\'">✕ fechar</button></div>'
+      + '<input id="swSearch" placeholder="Filtrar por título..." style="width:100%;padding:8px 10px;margin-bottom:8px;background:var(--bg);border:1px solid var(--border);border-radius:8px;color:var(--text)" oninput="_swFilter()">'
+      + '<div id="swList" style="max-height:340px;overflow:auto;font-size:0.82rem;line-height:1.7"></div>';
+    window._swWorks = works;
+    _swFilter();
+  }
+  function _swFilter() {
+    var q = (document.getElementById('swSearch') || {}).value || '';
+    var nq = q.toLowerCase();
+    var rows = (window._swWorks || []).filter(function (m) { return !nq || (m.title || '').toLowerCase().indexOf(nq) >= 0; }).slice(0, 500);
+    document.getElementById('swList').innerHTML = rows.map(function (m) {
+      return '<div style="padding:3px 0;border-bottom:1px solid var(--border)"><a href="/manga/' + m.id + '/" target="_blank" style="color:var(--text)">'
+        + (m.title || m.id) + '</a> <span style="color:var(--muted)">· ' + (m.chaptersCount || 0) + ' caps · ' + (m.lang || '') + (m.cover ? '' : ' · <span style="color:#ef4444">SEM CAPA</span>') + '</span></div>';
+    }).join('') + ((window._swWorks || []).length > 500 ? '<div style="color:var(--muted);padding:6px 0">… (500 primeiros; refine a busca)</div>' : '');
   }
   window.addEventListener('load', renderSuppliers);
 

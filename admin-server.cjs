@@ -1602,15 +1602,9 @@ async function runPtScrape(signal) {
     await runMlScrapePart(signal, s.mode || 'incremental');
     if (signal.aborted) throw new Error('Aborted');
 
-    // Fase 3: MundoHentai (+18)
-    const mhStepNow = s.subSteps && s.subSteps.find(step => step.id === 'mundohentai');
-    if (!mhStepNow || mhStepNow.status !== 'done') {
-      log('pt', '🚀 Iniciando Fase 3: Varredura MundoHentai.com (+18)...');
-      await runMhScrape(signal, s.mode || 'incremental');
-      if (signal.aborted) throw new Error('Aborted');
-    } else {
-      log('pt', '⏭️ Fase 3 (MundoHentai) já concluída. Pulando...');
-    }
+    // Fase 3: MundoHentai (+18) — DESATIVADO (fonte bloqueia IP de cloud; substituída
+    // por tankouhentai/tiamanhwa via madara-scraper.cjs). Mantido o código, sem chamar.
+    log('pt', '⏭️ MundoHentai desativado (substituído por Madara). Pulando.');
 
     flushSave(); s.status = 'done'; s.current = [];
     log('pt', `🎉 PT concluído com sucesso nas três fontes!`, 'success');

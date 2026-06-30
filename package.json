@@ -20,6 +20,8 @@
     "scrape:mdx-all": "node mangadex-scraper.cjs --all",
     "scrape:h20": "node hentai20-scraper.cjs",
     "scrape:h20-all": "node hentai20-scraper.cjs --all",
+    "scrape:madara": "node madara-scraper.cjs",
+    "scrape:madara-all": "node madara-scraper.cjs --all",
     "admin": "node admin-server.cjs"
   },
   "dependencies": {

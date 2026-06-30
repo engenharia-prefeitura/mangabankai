@@ -73,14 +73,14 @@ jobs:
           node mangadex-scraper.cjs $ARG || true
         shell: bash
 
-      - name: PT — MundoHentai
+      - name: PT — Hentai (Madara — tankouhentai + tiamanhwa)
         if: ${{ env.SHOULD_RUN == 'true' && github.event.inputs.target != 'en-only' && env.SCRAPE_LANG != 'en' }}
         run: |
           ARG=""
           if [ "${{ env.SCRAPE_MODE }}" = "full" ]; then
             ARG="--all"
           fi
-          node mundohentai-scraper.cjs $ARG || true
+          MADARA_ONLY=tankouhentai,tiamanhwa node madara-scraper.cjs $ARG || true
         shell: bash
 
       - name: EN — MangaFreak (lista)
@@ -105,6 +105,16 @@ jobs:
             ARG="--all"
           fi
           node hentai20-scraper.cjs $ARG || true
+        shell: bash
+
+      - name: EN — Hentai (Madara — mangadistrict)
+        if: ${{ env.SHOULD_RUN == 'true' && github.event.inputs.target != 'pt-only' && env.SCRAPE_LANG != 'pt' }}
+        run: |
+          ARG=""
+          if [ "${{ env.SCRAPE_MODE }}" = "full" ]; then
+            ARG="--all"
+          fi
+          MADARA_ONLY=mangadistrict node madara-scraper.cjs $ARG || true
         shell: bash
 
       - name: Mesclar metadados

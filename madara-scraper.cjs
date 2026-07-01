@@ -244,6 +244,75 @@ function parsePages(html) {
   return [...new Set(imgs)].filter(u => /^https?:\/\//.test(u) && !/logo|avatar|icon|cropped|-\d+x\d+\.(?:jpe?g|png|webp)/i.test(u));
 }
 
+// Produz o mangá (rede + parsing) SEM mexer em estado compartilhado.
+// Retorna { id, slug, meta, chObj, manga } ou null. Seguro para rodar em paralelo.
+async function produceManga(src, slug) {
+  const id = `${src.name}-${slug}`;
+  let html;
+  try { html = await fetchUrl(`https://${src.domain}/${src.cpt}/${slug}/`); } catch (e) { return null; }
+  const meta = parseMeta(html, src);
+  if (!meta.title) return null;
+
+  const chapters = await getChapters(src, slug);
+  if (!chapters.length) return null;
+
+  const chObj = { [src.lang]: [] };
+  const chPath = path.join(CHAPTERS_DIR, id + '.json');
+  let existingChObj = {};
+  if (fs.existsSync(chPath)) {
+    try { existingChObj = JSON.parse(fs.readFileSync(chPath, 'utf8')); } catch (e) {}
+  }
+  const existingChMap = new Map((existingChObj[src.lang] || []).map(c => [String(c.number), c]));
+
+  const chaptersToScrape = [];
+  for (const ch of chapters) {
+    const exist = existingChMap.get(String(ch.number));
+    if (exist && exist.pages && exist.pages.length > 0) {
+      chObj[src.lang].push(exist);            // já pré-gravado → mantém (leitura instantânea)
+    } else if (src.pagesMode === 'lazy') {
+      // Modo lazy: guarda só a URL; páginas resolvidas sob demanda no reader.
+      chObj[src.lang].push({
+        id: `${id}-ch-${ch.number}`, number: ch.number, title: ch.title,
+        date: new Date().toISOString().slice(0, 10), pages: [], src: src.name, chapterUrl: ch.url
+      });
+    } else {
+      chaptersToScrape.push(ch);
+    }
+  }
+
+  if (chaptersToScrape.length > 0) {
+    const CONCURRENCY = 4;
+    let nextChIdx = 0;
+    const scrapeWorker = async () => {
+      while (nextChIdx < chaptersToScrape.length) {
+        const ch = chaptersToScrape[nextChIdx++];
+        if (!ch) continue;
+        await sleep(THROTTLE);
+        let chHtml;
+        try { chHtml = await fetchUrl(ch.url, { referer: `https://${src.domain}/` }); } catch (e) { continue; }
+        const pages = parsePages(chHtml);
+        if (!pages.length) continue;
+        chObj[src.lang].push({
+          id: `${id}-ch-${ch.number}`, number: ch.number, title: ch.title,
+          date: new Date().toISOString().slice(0, 10), pages, src: src.name, chapterUrl: ch.url
+        });
+      }
+    };
+    await Promise.all(Array.from({ length: CONCURRENCY }, scrapeWorker));
+  }
+  if (!chObj[src.lang].length) return null;
+  chObj[src.lang].sort((a, b) => parseFloat(a.number) - parseFloat(b.number));
+
+  const manga = {
+    id, slug, title: meta.title, altTitle: '', cover: meta.cover, banner: meta.cover,
+    author: meta.author, artist: meta.artist, status: meta.status, year: meta.year, rating: 0,
+    genres: meta.genres, description: meta.synopsis, descriptionPt: src.lang === 'pt' ? meta.synopsis : '',
+    chaptersCount: chObj[src.lang].length, lang: src.lang, hasPt: src.lang === 'pt', hasEn: src.lang === 'en',
+    source: src.name
+  };
+  return { id, slug, meta, chObj, manga };
+}
+
 async function main() {
   console.log(`📚 Madara scraper — ${FULL ? 'FULL' : 'incremental'} | fontes: ${SOURCES.map(s => s.name).join(', ')} | máx ${MAX_MANGAS}`);
   const list = loadMangaList();
@@ -262,111 +331,47 @@ async function main() {
     const existIds = new Set(list.filter(m => m.source === src.name).map(m => m.id));
     if (!FULL) slugs = slugs.filter(s => !existIds.has(`${src.name}-${s}`) || !byId.get(`${src.name}-${s}`).cover);
 
-    for (const slug of slugs) {
-      if (processed >= MAX_MANGAS) break;
-      processed++;
-      const id = `${src.name}-${slug}`;
-      await sleep(THROTTLE);
-      let html;
-      try { html = await fetchUrl(`https://${src.domain}/${src.cpt}/${slug}/`); } catch (e) { continue; }
-      const meta = parseMeta(html, src);
-      if (!meta.title) continue;
-
-      await sleep(THROTTLE);
-      const chapters = await getChapters(src, slug);
-      if (!chapters.length) continue;
-
-      const chObj = { [src.lang]: [] };
-      const chPath = path.join(CHAPTERS_DIR, id + '.json');
-      let existingChObj = {};
-      if (fs.existsSync(chPath)) {
-        try { existingChObj = JSON.parse(fs.readFileSync(chPath, 'utf8')); } catch (e) {}
-      }
-      const existingChList = existingChObj[src.lang] || [];
-      const existingChMap = new Map(existingChList.map(c => [String(c.number), c]));
-
-      const chaptersToScrape = [];
-      for (const ch of chapters) {
-        const exist = existingChMap.get(String(ch.number));
-        if (exist && exist.pages && exist.pages.length > 0) {
-          chObj[src.lang].push(exist);            // já pré-gravado → mantém (leitura instantânea)
-        } else if (src.pagesMode === 'lazy') {
-          // Modo lazy: guarda só a URL; páginas resolvidas sob demanda no reader.
-          chObj[src.lang].push({
-            id: `${id}-ch-${ch.number}`,
-            number: ch.number,
-            title: ch.title,
-            date: new Date().toISOString().slice(0, 10),
-            pages: [],
-            src: src.name,
-            chapterUrl: ch.url
-          });
-        } else {
-          chaptersToScrape.push(ch);
-        }
-      }
-
-      if (chaptersToScrape.length > 0) {
-        const CONCURRENCY = 4;
-        let nextChIdx = 0;
-        const scrapeWorker = async () => {
-          while (nextChIdx < chaptersToScrape.length) {
-            const ch = chaptersToScrape[nextChIdx++];
-            if (!ch) continue;
-            await sleep(THROTTLE);
-            let chHtml;
-            try {
-              chHtml = await fetchUrl(ch.url, { referer: `https://${src.domain}/` });
-            } catch (e) {
-              continue;
-            }
-            const pages = parsePages(chHtml);
-            if (!pages.length) continue;
-            chObj[src.lang].push({
-              id: `${id}-ch-${ch.number}`,
-              number: ch.number,
-              title: ch.title,
-              date: new Date().toISOString().slice(0, 10),
-              pages,
-              src: src.name,
-              chapterUrl: ch.url
-            });
-          }
-        };
-        await Promise.all(Array.from({ length: CONCURRENCY }, scrapeWorker));
-      }
-      if (!chObj[src.lang].length) continue;
-      chObj[src.lang].sort((a, b) => parseFloat(a.number) - parseFloat(b.number));
-
-      const manga = {
-        id, slug, title: meta.title, altTitle: '', cover: meta.cover, banner: meta.cover,
-        author: meta.author, artist: meta.artist, status: meta.status, year: meta.year, rating: 0,
-        genres: meta.genres, description: meta.synopsis, descriptionPt: src.lang === 'pt' ? meta.synopsis : '',
-        chaptersCount: chObj[src.lang].length, lang: src.lang, hasPt: src.lang === 'pt', hasEn: src.lang === 'en',
-        source: src.name
-      };
-
-      // ── dedup entre fontes (mesmo idioma): mantém a com MAIS capítulos ──
+    // Aplica um resultado produzido (dedup + escrita) de forma SERIALIZADA:
+    // é síncrono e não tem await, então nunca intercala entre workers.
+    let sinceSave = 0;
+    const applyResult = (r) => {
+      const { id, meta, chObj, manga } = r;
       const key = src.lang + '|' + norm(meta.title);
       const rival = titleIndex.get(key);
       if (rival && rival.id !== id) {
-        if ((rival.chaptersCount || 0) >= manga.chaptersCount) { deduped++; continue; } // rival ganha, descarta este
-        // este ganha: remove o rival
+        if ((rival.chaptersCount || 0) >= manga.chaptersCount) { deduped++; return; } // rival ganha
         const ri = list.findIndex(m => m.id === rival.id);
         if (ri >= 0) list.splice(ri, 1);
         byId.delete(rival.id);
         try { fs.unlinkSync(path.join(CHAPTERS_DIR, rival.id + '.json')); } catch (e) {}
         deduped++;
       }
-
       saveChObj(id, chObj);
       const existing = byId.get(id);
       if (existing) { Object.assign(existing, manga); updated++; }
       else { list.push(manga); byId.set(id, manga); added++; }
       titleIndex.set(key, manga);
-      saveMangaList(list);
+      if (++sinceSave >= 25) { saveMangaList(list); sinceSave = 0; }
       console.log(`  ${existing ? '♻️' : '✨'} ${meta.title} (${manga.chaptersCount} caps, ${meta.genres.length} gen)`);
-    }
+    };
+
+    // Pool de workers: a REDE roda em paralelo (produceManga), a ESCRITA é serial.
+    const MANGA_CONCURRENCY = parseInt(process.env.MADARA_CONCURRENCY || '6', 10);
+    let nextIdx = 0;
+    const worker = async () => {
+      while (true) {
+        if (processed >= MAX_MANGAS) return;
+        const i = nextIdx++;
+        if (i >= slugs.length) return;
+        processed++;
+        await sleep(THROTTLE);
+        let r = null;
+        try { r = await produceManga(src, slugs[i]); } catch (e) { r = null; }
+        if (r) applyResult(r);
+      }
+    };
+    await Promise.all(Array.from({ length: MANGA_CONCURRENCY }, worker));
+    saveMangaList(list); // salva o restante ao fim de cada fonte
   }
   console.log(`\n🎉 Madara: ${added} novos, ${updated} atualizados, ${deduped} dedup.`);
 }

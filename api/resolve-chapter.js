@@ -8,6 +8,9 @@ const CDN_PT  = 'https://cdn.leituramanga.net/';
 const BASE_EN = 'https://ww2.mangafreak.me';
 const API_ML  = 'https://mangalivre.blog/wp-json/wp/v2';
 
+// Fontes Madara com páginas resolvidas sob demanda (armazenam só chapterUrl).
+const MADARA_SRC = new Set(['mangalivre-to', 'tankouhentai', 'tiamanhwa', 'mangadistrict']);
+
 function fetchUrl(url, redirects = 0) {
   return new Promise((resolve, reject) => {
     if (redirects > 5) return reject(new Error('Too many redirects'));
@@ -137,6 +140,20 @@ async function loadChaptersFile(mangaId, req) {
   return {};
 }
 
+// Sites Madara (mangalivre.to, tankouhentai, tiamanhwa, mangadistrict…):
+// a página do capítulo traz as imagens em <img id="image-N"> / .wp-manga-chapter-img.
+// Resolvida sob demanda para o scraper não precisar pré-baixar cada capítulo.
+async function fetchMadaraChapterPages(chapterUrl) {
+  try {
+    const html = await fetchUrl(chapterUrl);
+    const imgs = [];
+    const grab = (tag) => { const m = tag.match(/(?:data-src|data-lazy-src|src)="\s*([^"]+?)\s*"/i); if (m) imgs.push(m[1].trim()); };
+    for (const m of html.matchAll(/<img[^>]*\bclass="[^"]*wp-manga-chapter-img[^"]*"[^>]*>/gi)) grab(m[0]);
+    if (!imgs.length) for (const m of html.matchAll(/<img[^>]*\bid="image-\d+"[^>]*>/gi)) grab(m[0]);
+    return [...new Set(imgs)].filter(u => /^https?:\/\//.test(u) && !/logo|avatar|icon|cropped|-\d+x\d+\.(?:jpe?g|png|webp)/i.test(u));
+  } catch (e) { return []; }
+}
+
 async function fetchH20ChapterPages(chapterUrl) {
   try {
     const html = await fetchUrl(chapterUrl);
@@ -160,6 +177,16 @@ async function fetchH20ChapterPages(chapterUrl) {
 module.exports = async (req, res) => {
   if (req.method !== 'GET') {
     return res.status(405).json({ success: false, error: 'Method not allowed' });
+  }
+
+  // TESTE TEMPORÁRIO: valida se a Vercel consegue resolver um capítulo Madara.
+  if (req.query && req.query.madaraUrl) {
+    try {
+      const pages = await fetchMadaraChapterPages(req.query.madaraUrl);
+      return res.status(200).json({ ok: true, count: pages.length, first: pages[0] || null });
+    } catch (e) {
+      return res.status(200).json({ ok: false, error: e.message });
+    }
   }
 
   const { mangaId, slug, chNum, lang = 'pt' } = req.query || {};
@@ -198,6 +225,10 @@ module.exports = async (req, res) => {
         if (ch.chapterUrl) {
           pages = await fetchH20ChapterPages(ch.chapterUrl);
         }
+      } else if (MADARA_SRC.has(ch.src) && ch.chapterUrl) {
+        // Sites Madara resolvidos sob demanda (páginas não pré-gravadas).
+        knownSrcResolved = true;
+        pages = await fetchMadaraChapterPages(ch.chapterUrl);
       } else if (ch.src === 'mundohentai') {
         // Se as páginas estiverem vazias e for mundohentai, retornamos o erro amigável de rodar localmente.
         // Se as páginas estiverem salvas no JSON, o if acima (ch.pages.length > 0) já as retornou com sucesso.

@@ -19,11 +19,28 @@ function loadReader() {
   return _reader;
 }
 
+// Índice completo (slim) a partir do data-lite.js — inclui gêneros/slug/capa,
+// necessários para injetar a meta do mangá no leitor (leitura sob demanda).
 let _mangas = null;
 function loadMangas() {
   if (_mangas == null) {
-    try { _mangas = JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'js', 'manga-search.json'), 'utf8')); }
-    catch (e) { _mangas = []; }
+    try {
+      const js = fs.readFileSync(path.join(__dirname, '..', 'js', 'data-lite.js'), 'utf8');
+      const marker = js.indexOf('MANGA_DATA = [');
+      const start = js.indexOf('[', marker);
+      let depth = 0, inStr = false, esc = false, end = start;
+      for (let i = start; i < js.length; i++) {
+        const c = js[i];
+        if (esc) { esc = false; continue; }
+        if (c === '\\') { esc = true; continue; }
+        if (c === '"') { inStr = !inStr; continue; }
+        if (!inStr) { if (c === '[') depth++; else if (c === ']') { depth--; if (!depth) { end = i + 1; break; } } }
+      }
+      _mangas = JSON.parse(js.substring(start, end));
+    } catch (e) {
+      try { _mangas = JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'js', 'manga-search.json'), 'utf8')); }
+      catch (e2) { _mangas = []; }
+    }
   }
   return _mangas;
 }
@@ -62,6 +79,16 @@ module.exports = async (req, res) => {
       title = 'Leitor — MangaBankai';
       desc = 'Leia capítulos de mangá online no MangaBankai.';
       image = SITE + '/img/logo.png';
+    }
+
+    // Injeta a meta do ÚNICO mangá → o leitor não baixa o catálogo (leitura sob demanda).
+    // Se o mangá não for encontrado, não injeta e o reader-data.js cai no data-lite.
+    if (m) {
+      const mangaJson = JSON.stringify(m).replace(/</g, '\\u003c');
+      html = html.replace(
+        '<script src="/js/reader-data.js"></script>',
+        '<script>window.__MB_MANGA__=' + mangaJson + ';</script><script src="/js/reader-data.js"></script>'
+      );
     }
 
     html = html.replace(/<title>[^<]*<\/title>/, '<title>' + esc(title) + '</title>');

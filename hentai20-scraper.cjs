@@ -11,6 +11,7 @@ const path = require('path');
 const http = require('http');
 const https = require('https');
 const zlib = require('zlib');
+const { resolveCap } = require('./lib/scraper-config.cjs');
 
 const BASE_H20 = 'https://hentai20.io';
 const DATA_JS_PATH = path.join(__dirname, 'js', 'data.js');
@@ -18,7 +19,12 @@ const CHAPTERS_DIR = path.join(__dirname, 'js', 'chapters');
 
 const FULL = process.argv.includes('--all');
 const MAX_PAGES = FULL ? 9999 : 3;
-const MAX_MANGAS = parseInt(process.env.H20_MAX || (FULL ? '99999' : '25'), 10); // mangás por execução (evita estourar tempo do CI)
+// Teto de obras NOVAS por execução (obras existentes são refrescadas à parte, barato).
+// Precedência: H20_MAX (env) > scraper-config.json > default. --all ignora o teto.
+const MAX_MANGAS = resolveCap({ key: 'hentai20', envVar: 'H20_MAX', incrementalDefault: 25, fullDefault: 99999, full: FULL });
+// Teto de obras EXISTENTES refrescadas por execução (refresh é barato: preserva
+// páginas já baixadas e só busca capítulos novos). Só se aplica no incremental.
+const REFRESH_MAX = parseInt(process.env.H20_REFRESH_MAX || '60', 10);
 
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
@@ -259,17 +265,24 @@ async function main() {
     return;
   }
   
-  // Prioridade: REPROCESSA os hentai20 existentes (por id conhecido, conserta os
-  // 49 quebrados mesmo fora da lista recente) e depois adiciona os novos da lista.
-  // Pula slugs de outras fontes. Teto por execução p/ não estourar o tempo do CI.
-  // Incremental: reprocessa só os QUEBRADOS (sem capa) — assim cada execução
-  // avança nos defeituosos e não re-baixa os já consertados. Full: reprocessa todos.
-  let existing = data.filter(m => m.source === 'hentai20');
-  if (!FULL) existing = existing.filter(m => !m.cover);
-  const existIds = existing.map(m => m.id);
-  const newOnes = [...allSlugs].filter(s => !byId.has(s));
-  const toProcess = [...new Set([...existIds, ...newOnes])].slice(0, MAX_MANGAS);
-  console.log(`- ${existIds.length} hentai20 a reprocessar + ${newOnes.length} novos; processando ${toProcess.length} (teto ${MAX_MANGAS}).`);
+  // Seleção do que processar nesta execução:
+  //  1) NOVOS — slugs da listagem "latest" ainda não catalogados (caros: baixam
+  //     todas as páginas). Limitados por MAX_MANGAS = "obras novas por execução".
+  //  2) REFRESH — obras hentai20 já existentes que reapareceram na listagem
+  //     "latest" (ordenada por atualização) → provavelmente ganharam capítulo
+  //     novo. Barato: preserva páginas já baixadas e só busca capítulos novos.
+  //     Limitado por REFRESH_MAX.
+  //  3) QUEBRADOS — obras existentes sem capa, para auto-reparo (caras). Só no
+  //     incremental; no --all tudo já é reprocessado.
+  const h20Existing = data.filter(m => m.source === 'hentai20');
+  const newOnes = [...allSlugs].filter(s => !byId.has(s)).slice(0, MAX_MANGAS);
+  const refreshIds = FULL
+    ? h20Existing.map(m => m.id)
+    : [...allSlugs].filter(s => byId.has(s) && byId.get(s).source === 'hentai20').slice(0, REFRESH_MAX);
+  const seen = new Set([...newOnes, ...refreshIds]);
+  const brokenIds = FULL ? [] : h20Existing.filter(m => !m.cover && !seen.has(m.id)).map(m => m.id).slice(0, MAX_MANGAS);
+  const toProcess = [...new Set([...newOnes, ...refreshIds, ...brokenIds])];
+  console.log(`- ${newOnes.length} novos + ${refreshIds.length} refresh (caps novos) + ${brokenIds.length} quebrados = ${toProcess.length} a processar.`);
 
   let newAdded = 0, updated = 0;
   for (let i = 0; i < toProcess.length; i++) {
@@ -284,12 +297,28 @@ async function main() {
         continue;
       }
 
+      // Preserva páginas já baixadas: só busca páginas dos capítulos NOVOS.
+      // Torna o refresh de obras existentes barato (0 fetch se nada mudou).
+      let existingChObj = {};
+      try {
+        const chPath = path.join(CHAPTERS_DIR, `${slug}.json`);
+        if (fs.existsSync(chPath)) existingChObj = JSON.parse(fs.readFileSync(chPath, 'utf8'));
+      } catch (e) {}
+      const existingChMap = new Map((existingChObj.en || []).map(c => [String(c.number), c]));
+
       const chapList = [];
+      let newChapters = 0;
       for (let j = 0; j < chapters.length; j++) {
         const ch = chapters[j];
+        const prev = existingChMap.get(String(ch.number));
+        if (prev && prev.pages && prev.pages.length > 0) {
+          chapList.push(prev); // já baixado → mantém (não re-baixa)
+          continue;
+        }
         const pages = await fetchH20ChapterPages(ch.url);
         await sleep(350);
         if (!pages.length) continue;
+        newChapters++;
         chapList.push({
           id: `${slug}-ch-${ch.number}`, number: ch.number, title: ch.title,
           date: new Date().toISOString(), pages, src: 'hentai20', chapterUrl: ch.url
@@ -310,8 +339,13 @@ async function main() {
       };
 
       saveChObj(slug, { en: chapList });
-      if (existing) { Object.assign(existing, mangaEntry); updated++; console.log(`  ♻️ ${title} (${chapList.length} caps)`); }
-      else { data.push(mangaEntry); byId.set(slug, mangaEntry); newAdded++; console.log(`  ✨ ${title} (${chapList.length} caps)`); }
+      if (existing) {
+        Object.assign(existing, mangaEntry); updated++;
+        console.log(`  ♻️ ${title} (${chapList.length} caps${newChapters ? `, +${newChapters} novo(s)` : ', sem novidade'})`);
+      } else {
+        data.push(mangaEntry); byId.set(slug, mangaEntry); newAdded++;
+        console.log(`  ✨ ${title} (${chapList.length} caps)`);
+      }
       saveMangaList(data);
       await sleep(500);
     } catch (e) {

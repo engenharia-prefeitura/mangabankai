@@ -1,0 +1,10 @@
+{
+  "_comment": "Teto de obras NOVAS por execução de cada scraper (modo incremental). Editável pela aba Admin do painel. Precedência: variável de ambiente > este arquivo > default embutido. O modo --all (full) ignora este teto. leituramanga e mangalivre são movidos por feed de lançamentos (não usam teto numérico de obras novas — o valor aqui é apenas informativo).",
+  "mangafreak": 40,
+  "hentai20": 25,
+  "mangadex": 1000,
+  "madara": 20,
+  "mundohentai": 10,
+  "leituramanga": 0,
+  "mangalivre": 0
+}

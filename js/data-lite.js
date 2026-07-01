@@ -195,8 +195,7 @@ function getChapters(slug, lang) {
   if (!manga) return [];
   if (!chaptersData || !chaptersData[manga.id]) return [];
   var entry = chaptersData[manga.id];
-  if (lang !== 'en' && entry[lang]) return entry[lang];
-  return entry['en'] || entry[Object.keys(entry)[0]] || [];
+  return (entry[lang] && entry[lang].length > 0) ? entry[lang] : [];
 }
 
 async function discoverPages(chapter, slug) {

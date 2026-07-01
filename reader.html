@@ -503,7 +503,7 @@
       if (window.MangaLoader) {
         host.innerHTML = '<div class="reader-loader" style="min-height:60vh;display:flex;align-items:center;justify-content:center"></div>';
         stopReaderLoader();
-        _mbReaderLoader = MangaLoader.mount(host.querySelector('.reader-loader'));
+        _mbReaderLoader = MangaLoader.mount(host.querySelector('.reader-loader'), 'reader');
       } else {
         host.innerHTML = `<div class="page-placeholder">${msg}</div>`;
       }

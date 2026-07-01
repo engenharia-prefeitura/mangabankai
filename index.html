@@ -35,7 +35,7 @@
 <body>
   <script>ADS.guard();</script>
   <script>
-    window.MangaLoader && MangaLoader.splash();
+    window.MangaLoader && MangaLoader.splash('home');
     // Fallback: nunca deixa o splash preso mesmo se o conteúdo falhar ao carregar.
     window.addEventListener('load', function () { setTimeout(function () { window.MangaLoader && MangaLoader.hideSplash(0); }, 4000); });
   </script>

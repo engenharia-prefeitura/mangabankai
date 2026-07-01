@@ -29,6 +29,7 @@
   <link rel="dns-prefetch" href="https://pl30096192.effectivecpmnetwork.com">
   <script src="/js/pub.js"></script>
   <script src="/js/loading-anim.js"></script>
+  <script src="/js/push.js"></script>
 </head>
 <body>
   <script>ADS.guard();</script>
@@ -454,6 +455,12 @@
       renderPages();
       saveProgress(slug, chapter.id, 0, pages.length, chapter.number);
       if (window.registerMangaView) window.registerMangaView(slug);
+
+      // Convite de notificações após 60s de leitura (uma vez por sessão).
+      if (window.MangaPush && !window._mbPushScheduled) {
+        window._mbPushScheduled = true;
+        MangaPush.inviteAfter(60000);
+      }
 
       ADS.renderPopunder();
     }

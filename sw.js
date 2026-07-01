@@ -24,6 +24,38 @@ self.addEventListener('activate', (e) => {
   );
 });
 
+// ── Web Push ────────────────────────────────────────────────────────────────
+// Recebe o push (capítulo novo) e mostra a notificação.
+self.addEventListener('push', (e) => {
+  let data = {};
+  try { data = e.data ? e.data.json() : {}; } catch (_) {}
+  const title = data.title || 'MangaBankai';
+  const options = {
+    body: data.body || 'Novo capítulo disponível!',
+    icon: data.icon || '/img/loading-circ/frame_000.webp',
+    badge: '/img/loading-circ/frame_000.webp',
+    image: data.image || undefined,
+    tag: data.tag || 'mangabankai-chapter',
+    renotify: true,
+    data: { url: data.url || '/' }
+  };
+  e.waitUntil(self.registration.showNotification(title, options));
+});
+
+// Ao clicar na notificação, foca uma aba aberta ou abre a URL da obra.
+self.addEventListener('notificationclick', (e) => {
+  e.notification.close();
+  const target = (e.notification.data && e.notification.data.url) || '/';
+  e.waitUntil(
+    self.clients.matchAll({ type: 'window', includeUncontrolled: true }).then((list) => {
+      for (const c of list) {
+        if ('focus' in c) { c.navigate && c.navigate(target); return c.focus(); }
+      }
+      return self.clients.openWindow(target);
+    })
+  );
+});
+
 self.addEventListener('fetch', (e) => {
   const req = e.request;
   if (req.method !== 'GET') return;

@@ -23,8 +23,13 @@
   <link rel="preconnect" href="https://www.highperformanceformat.com">
   <link rel="dns-prefetch" href="https://www.highperformanceformat.com">
   <script src="js/pub.js"></script>
+  <script src="/js/loading-anim.js"></script>
 </head>
 <body>
+  <script>
+    window.MangaLoader && MangaLoader.splash();
+    window.addEventListener('load', function () { window.MangaLoader && MangaLoader.hideSplash(600); });
+  </script>
   <script>ADS.guard();</script>
   <div id="filterOverlay" class="filter-overlay" onclick="toggleFilterDrawer()"></div>
   <header class="header">

@@ -30,9 +30,15 @@
   <link rel="dns-prefetch" href="https://pl30096193.effectivecpmnetwork.com">
   <link rel="dns-prefetch" href="https://pl30096195.effectivecpmnetwork.com">
   <script src="js/pub.js"></script>
+  <script src="/js/loading-anim.js"></script>
 </head>
 <body>
   <script>ADS.guard();</script>
+  <script>
+    window.MangaLoader && MangaLoader.splash();
+    // Fallback: nunca deixa o splash preso mesmo se o conteúdo falhar ao carregar.
+    window.addEventListener('load', function () { setTimeout(function () { window.MangaLoader && MangaLoader.hideSplash(0); }, 4000); });
+  </script>
   <header class="header">
     <div class="header-inner">
       <a href="index.html" class="logo"><img src="img/logo.png" alt="MangaBankai" class="logo-img"></a>
@@ -265,6 +271,8 @@
       renderCarousel(recent.slice(0, 24), 'recentRow');
       renderCarousel(popular, 'popularRow');
       renderCarousel(novidades, 'newRow');
+      // Conteúdo principal pronto → esconde o splash (com tempo mínimo de exibição).
+      if (window.MangaLoader) MangaLoader.hideSplash(700);
 
       // Seção +18: só quando modo adulto ativo
       const _homeAdult = typeof localStorage !== 'undefined' && localStorage.getItem('ms_adult_mode') === 'true';

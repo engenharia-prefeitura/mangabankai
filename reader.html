@@ -28,6 +28,7 @@
   <link rel="dns-prefetch" href="https://pl30096193.effectivecpmnetwork.com">
   <link rel="dns-prefetch" href="https://pl30096192.effectivecpmnetwork.com">
   <script src="/js/pub.js"></script>
+  <script src="/js/loading-anim.js"></script>
 </head>
 <body>
   <script>ADS.guard();</script>
@@ -478,6 +479,7 @@
     }
 
     function showError(msg) {
+      stopReaderLoader();
       const rp = document.getElementById('readerPages');
       if (rp) {
         rp.style.display = 'block';
@@ -488,14 +490,22 @@
       }
       document.getElementById('readerNav').style.display = 'none';
     }
+    let _mbReaderLoader = null;
+    function stopReaderLoader() {
+      if (_mbReaderLoader) { try { _mbReaderLoader.stop(); } catch (e) {} _mbReaderLoader = null; }
+    }
     function showMessage(msg) {
       const rp = document.getElementById('readerPages');
-      if (rp) {
-        rp.style.display = 'block';
-        rp.innerHTML = `<div class="page-placeholder">${msg}</div>`;
+      const host = rp || document.getElementById('readerContent');
+      if (!host) return;
+      if (rp) rp.style.display = 'block';
+      // Anima o loader do MangaBankai durante o carregamento das páginas.
+      if (window.MangaLoader) {
+        host.innerHTML = '<div class="reader-loader" style="min-height:60vh;display:flex;align-items:center;justify-content:center"></div>';
+        stopReaderLoader();
+        _mbReaderLoader = MangaLoader.mount(host.querySelector('.reader-loader'));
       } else {
-        document.getElementById('readerContent').innerHTML =
-          `<div style="text-align:center;padding:80px 20px;color:var(--text-muted)">${msg}</div>`;
+        host.innerHTML = `<div class="page-placeholder">${msg}</div>`;
       }
     }
 
@@ -570,6 +580,7 @@
 
     // ========== RENDER PAGES ==========
     function renderPages() {
+      stopReaderLoader();
       const mode = document.getElementById('pageMode').value;
       if (mode === 'scroll') return renderScrollMode();
 
@@ -686,6 +697,7 @@
     // ========== SCROLL MODE ==========
     let scrollObserver = null;
     function renderScrollMode() {
+      stopReaderLoader();
       const container = document.getElementById('readerScroll');
       container.style.display = 'block';
       const rp = document.getElementById('readerPages');

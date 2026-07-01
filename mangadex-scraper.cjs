@@ -16,13 +16,15 @@
 
 const fs = require('fs');
 const path = require('path');
+const { getCap } = require('./lib/scraper-config.cjs');
 
 const API = 'https://api.mangadex.org';
 const UA = 'MangaBankaiBot/1.0 (eng.dennylsonsantos@gmail.com)';
 const DATA_JS_PATH = path.join(__dirname, 'js', 'data.js');
 const CHAPTERS_DIR = path.join(__dirname, 'js', 'chapters');
 
-const TARGET = parseInt(process.env.MDX_TARGET || '1000', 10);   // total mangadex desejado no site
+// total mangadex desejado no site: MDX_TARGET (env) > scraper-config.json > 1000
+const TARGET = getCap('mangadex', 'MDX_TARGET', 1000);
 const FULL = process.argv.includes('--all');
 const PER_RUN = FULL ? TARGET : 150;                              // novos por execução
 const RATINGS = ['safe', 'suggestive'];                          // sem +18 neste lote

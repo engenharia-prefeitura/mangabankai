@@ -12,12 +12,16 @@ const path = require('path');
 const http = require('http');
 const https = require('https');
 
+const { resolveCap } = require('./lib/scraper-config.cjs');
+
 const BASE_MH = 'https://mundohentaioficial.com';
 const DATA_JS_PATH = path.join(__dirname, 'js', 'data.js');
 const CHAPTERS_DIR = path.join(__dirname, 'js', 'chapters');
 
 const FULL = process.argv.includes('--all');
 const MAX_PAGES = FULL ? 9999 : 3;
+// Teto de obras NOVAS por execução (config/env). --all ignora.
+const MAX_MANGAS = resolveCap({ key: 'mundohentai', envVar: 'MH_MAX', incrementalDefault: 10, fullDefault: 99999, full: FULL });
 
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
@@ -256,9 +260,14 @@ async function main() {
     return;
   }
   
-  const newSlugs = [...allSlugs].filter(s => !existingSlugs.has(s));
+  let newSlugs = [...allSlugs].filter(s => !existingSlugs.has(s));
   console.log(`- Encontrados ${allSlugs.size} slugs totais, ${newSlugs.length} novos.`);
-  
+  // Teto de obras novas por execução (config/env). --all processa todos.
+  if (!FULL && newSlugs.length > MAX_MANGAS) {
+    console.log(`- Limitando a ${MAX_MANGAS} novas nesta execução (teto).`);
+    newSlugs = newSlugs.slice(0, MAX_MANGAS);
+  }
+
   let newAdded = 0;
   for (let i = 0; i < newSlugs.length; i++) {
     const slug = newSlugs[i];

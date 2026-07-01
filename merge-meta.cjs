@@ -242,13 +242,18 @@ async function loadChapters(mangaId) {
     var mapped = {};
     Object.keys(raw).forEach(function(lang) {
       mapped[lang] = raw[lang].map(function(ch) {
-        return {
+        var entry = {
           id: ch.id,
           number: ch.number,
           title: ch.title,
           date: ch.date,
           pages: ch.pages ? ch.pages.map(function(p) { return resolveCdnUrl(p); }) : []
         };
+        if (ch.src)        entry.src        = ch.src;
+        if (ch.mdxId)      entry.mdxId      = ch.mdxId;
+        if (ch.mlId)       entry.mlId       = ch.mlId;
+        if (ch.chapterUrl) entry.chapterUrl = ch.chapterUrl;
+        return entry;
       });
     });
     chaptersData[manga.id] = mapped;

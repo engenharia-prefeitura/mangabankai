@@ -330,32 +330,44 @@
       currentPageIdx = 0;
       pages = chapter.pages || [];
 
-      // Resolve as páginas sob demanda pelo servidor (lista EXATA, sem 404) — PT e EN.
-      // EN cai na descoberta no cliente só se o painel não responder.
+      // Resolve as páginas sob demanda — PT e EN.
       if (pages.length === 0 && chapter.number) {
         const mSlug = manga ? manga.slug : slug;
         const isLocal = ['localhost', '127.0.0.1', ''].includes(location.hostname);
         const RESOLVE_BASE = window.RESOLVE_BASE || (isLocal ? 'http://localhost:3001' : location.origin);
         showMessage('Carregando páginas...');
 
-        // 1) Servidor: devolve a lista exata e a salva no JSON do capítulo.
-        try {
-          const mId = (manga && manga.id) ? manga.id : mangaId;
-          const res = await fetch(`${RESOLVE_BASE}/resolve-chapter?lang=${encodeURIComponent(lang)}&mangaId=${encodeURIComponent(mId)}&slug=${encodeURIComponent(mSlug)}&chNum=${encodeURIComponent(chapter.number)}`);
-          const data = await res.json();
-          if (data.success && data.pages && data.pages.length > 0) {
-            pages = data.pages;
-            chapter.pages = pages;
-          }
-        } catch (e) { /* segue para o fallback abaixo */ }
+        // 1) MangaDex: API pública sem CORS — resolve direto no browser.
+        if (chapter.src === 'mangadex' && chapter.mdxId) {
+          try {
+            const mdxR = await fetch(`https://api.mangadex.org/at-home/server/${chapter.mdxId}`);
+            const mdxD = await mdxR.json();
+            if (mdxD.baseUrl && mdxD.chapter && mdxD.chapter.hash && Array.isArray(mdxD.chapter.data) && mdxD.chapter.data.length > 0) {
+              pages = mdxD.chapter.data.map(fn => `${mdxD.baseUrl}/data/${mdxD.chapter.hash}/${fn}`);
+              chapter.pages = pages;
+            }
+          } catch (e) { /* segue para o servidor */ }
+        }
 
-        // 2) Fallback
+        // 2) Servidor: para outros providers ou fallback MangaDex.
         if (pages.length === 0) {
-          if (lang === 'pt') {
+          try {
+            const mId = (manga && manga.id) ? manga.id : mangaId;
+            const res = await fetch(`${RESOLVE_BASE}/resolve-chapter?lang=${encodeURIComponent(lang)}&mangaId=${encodeURIComponent(mId)}&slug=${encodeURIComponent(mSlug)}&chNum=${encodeURIComponent(chapter.number)}`);
+            const data = await res.json();
+            if (data.success && data.pages && data.pages.length > 0) {
+              pages = data.pages;
+              chapter.pages = pages;
+            }
+          } catch (e) { /* segue para o fallback */ }
+        }
+
+        // 3) Fallback
+        if (pages.length === 0) {
+          if (lang === 'pt' && chapter.src !== 'mangadex') {
             showError('Não foi possível obter as páginas. Verifique se o painel admin está rodando na porta 3001.');
             return;
           }
-          // EN: descoberta no cliente como último recurso (caso o painel esteja off)
           showMessage('Descobrindo páginas...');
           pages = await discoverPages(chapter, mSlug);
           if (pages.length === 0) {

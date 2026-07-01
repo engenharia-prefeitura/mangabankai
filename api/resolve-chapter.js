@@ -188,9 +188,9 @@ module.exports = async (req, res) => {
           pages: []
         });
       } else if (ch.src === 'mangadex' && ch.mdxId) {
-        pages = await fetchMdxChapterPages(ch.mdxId);
+        try { pages = await fetchMdxChapterPages(ch.mdxId); } catch (e) { pages = []; }
       } else if (ch.src === 'mangalivre' && ch.mlId) {
-        pages = await fetchMlChapterPages(ch.mlId);
+        try { pages = await fetchMlChapterPages(ch.mlId); } catch (e) { pages = []; }
       } else if (ch.src === 'leituramanga') {
         pages = await fetchPtChapterPages(slug, chNum);
       } else if (ch.src === 'mangafreak') {

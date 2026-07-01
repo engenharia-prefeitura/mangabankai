@@ -63,14 +63,17 @@ jobs:
           node mangalivre-scraper.cjs $ARG || true
         shell: bash
 
-      - name: PT — MangaDex
+      # MangaDex desativado: a API at-home bloqueia o egress da Vercel (400/HTML)
+      # e o CORS não libera a origem de produção, então as páginas nunca carregam.
+      # Substituído pelo mangalivre.to (Madara, páginas pré-gravadas, sem bloqueio).
+      - name: PT — MangaLivre.to (Madara — mainstream)
         if: ${{ env.SHOULD_RUN == 'true' && github.event.inputs.target != 'en-only' && env.SCRAPE_LANG != 'en' }}
         run: |
           ARG=""
           if [ "${{ env.SCRAPE_MODE }}" = "full" ]; then
             ARG="--all"
           fi
-          node mangadex-scraper.cjs $ARG || true
+          MADARA_ONLY=mangalivre-to node madara-scraper.cjs $ARG || true
         shell: bash
 
       - name: PT — Hentai (Madara — tankouhentai + tiamanhwa)

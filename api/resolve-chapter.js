@@ -32,22 +32,6 @@ function fetchUrl(url, redirects = 0) {
   });
 }
 
-// DIAGNÓSTICO: fetch cru que expõe status/headers/redirect sem seguir redirect,
-// e permite mandar headers extras (Accept). Usado só para investigar a MangaDex.
-function fetchRaw(url, extraHeaders) {
-  return new Promise((resolve, reject) => {
-    const client = url.startsWith('https') ? https : http;
-    const headers = Object.assign({ 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' }, extraHeaders || {});
-    const req = client.get(url, { headers, timeout: 20000 }, res => {
-      let data = '';
-      res.on('data', c => data += c);
-      res.on('end', () => resolve({ status: res.statusCode, location: res.headers.location || null, ctype: res.headers['content-type'] || null, body: data }));
-    });
-    req.on('error', reject);
-    req.on('timeout', () => { req.destroy(); reject(new Error('Timeout')); });
-  });
-}
-
 function extractRsc(html) {
   const matches = html.match(/self\.__next_f\.push\(\[1,"([\s\S]*?)"\]\)/g) || [];
   return matches.map(m => {
@@ -68,16 +52,15 @@ async function fetchPtChapterPages(slug, chNum) {
   return pages;
 }
 
-let __mdxDebug = null; // diagnóstico temporário
-
 async function fetchMdxChapterPages(chapterId) {
   // MangaDex@Home: pega baseUrl + hash + arquivos (URLs temporárias, resolvidas na hora).
+  // OBS: a MangaDex bloqueia o egress serverless da Vercel (responde 400/HTML), então
+  // esta resolução em runtime não funciona em produção. Mantida só por retrocompat.
   let lastErr;
   for (let attempt = 0; attempt < 2; attempt++) {
     try {
-      const r = await fetchRaw('https://api.mangadex.org/at-home/server/' + chapterId, { 'Accept': 'application/json' });
-      __mdxDebug = { attempt, status: r.status, location: r.location, ctype: r.ctype, bodySnippet: String(r.body).slice(0, 200) };
-      const data = JSON.parse(r.body);
+      const body = await fetchUrl('https://api.mangadex.org/at-home/server/' + chapterId);
+      const data = JSON.parse(body);
       const base = data.baseUrl;
       const hash = data.chapter && data.chapter.hash;
       const files = (data.chapter && data.chapter.data) || [];
@@ -85,7 +68,6 @@ async function fetchMdxChapterPages(chapterId) {
       return files.map(fn => `${base}/data/${hash}/${fn}`);
     } catch (e) {
       lastErr = e;
-      __mdxDebug = Object.assign({}, __mdxDebug || {}, { attempt, error: e.message });
     }
   }
   console.error('fetchMdxChapterPages failed:', lastErr && lastErr.message);
@@ -247,9 +229,6 @@ module.exports = async (req, res) => {
     }
 
     if (pages.length === 0) {
-      if (req.query && req.query.debug) {
-        return res.status(404).json({ success: false, error: 'Nenhuma página encontrada', chFound: !!ch, chSrc: ch && ch.src, mdxDebug: __mdxDebug });
-      }
       return res.status(404).json({ success: false, error: 'Nenhuma página encontrada' });
     }
 

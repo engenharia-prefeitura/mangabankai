@@ -22,10 +22,15 @@ const DATA_JS_PATH = path.join(__dirname, 'js', 'data.js');
 const CHAPTERS_DIR = path.join(__dirname, 'js', 'chapters');
 
 // ── Fontes (todas Madara) ──────────────────────────────────────────────────
+// adult:true  → força rótulo "Hentai" e relabel de gêneros banidos (sites +18).
+// adult:false → mangá mainstream (não força Hentai).
+// chaptersFrom:'sitemap' → descobre capítulos pelos wp-manga-chapters-sitemap*.xml
+//   (para sites cujo endpoint /ajax/chapters/ está desativado).
 const ALL_SOURCES = [
-  { name: 'tankouhentai',  domain: 'tankouhentai.com',  cpt: 'manga',  lang: 'pt' },
-  { name: 'tiamanhwa',     domain: 'tiamanhwa.com',     cpt: 'manhwa', lang: 'pt' },
-  { name: 'mangadistrict', domain: 'mangadistrict.com', cpt: 'series', lang: 'en' }
+  { name: 'tankouhentai',  domain: 'tankouhentai.com',  cpt: 'manga',  lang: 'pt', adult: true },
+  { name: 'tiamanhwa',     domain: 'tiamanhwa.com',     cpt: 'manhwa', lang: 'pt', adult: true },
+  { name: 'mangadistrict', domain: 'mangadistrict.com', cpt: 'series', lang: 'en', adult: true },
+  { name: 'mangalivre-to', domain: 'mangalivre.to',     cpt: 'manga',  lang: 'pt', adult: false, chaptersFrom: 'sitemap' }
 ];
 const ONLY = (process.env.MADARA_ONLY || '').split(',').map(s => s.trim()).filter(Boolean);
 const SOURCES = ONLY.length ? ALL_SOURCES.filter(s => ONLY.includes(s.name)) : ALL_SOURCES;
@@ -125,6 +130,14 @@ async function collectSlugs(src) {
       await sleep(THROTTLE);
     } catch (e) {}
   }
+  // Fontes por sitemap de capítulos: o sitemap de mangás costuma ser limitado,
+  // então também incluímos todo slug que tenha capítulos listados.
+  if (src.chaptersFrom === 'sitemap') {
+    try {
+      const map = await buildChapterSitemapMap(src);
+      for (const slug of map.keys()) slugs.push(slug);
+    } catch (e) {}
+  }
   return [...new Set(slugs)];
 }
 
@@ -143,8 +156,14 @@ function parseMeta(html, src) {
   if (g) genres = [...new Set([...g[1].matchAll(/>([^<]+)<\/a>/g)].map(m => decodeEntities(m[1]).trim()).filter(Boolean))];
   // relabel banidos (não exclui a obra)
   genres = [...new Set(genres.map(x => BANNED_GENRE.test(x) ? OUTROS : x))];
-  if (!genres.length) genres = ['Hentai'];
-  if (!genres.some(x => /hentai|adult/i.test(x))) genres.push('Hentai');
+  if (src.adult) {
+    // Sites +18: garante o rótulo Hentai para caírem no modo adulto.
+    if (!genres.length) genres = ['Hentai'];
+    if (!genres.some(x => /hentai|adult/i.test(x))) genres.push('Hentai');
+  } else {
+    // Mainstream: não força Hentai; só um fallback neutro se vier vazio.
+    if (!genres.length) genres = ['Manga'];
+  }
   genres = genres.slice(0, 14);
 
   const itemVal = (label) => {
@@ -163,7 +182,41 @@ function parseMeta(html, src) {
   return { title, cover: decodeEntities(cover), genres, author: decodeEntities(author), artist: decodeEntities(artist), status, year, synopsis, postId };
 }
 
+// Cache por domínio: slug -> [{number, url, title}] montado a partir dos
+// wp-manga-chapters-sitemap*.xml. Usado por fontes com chaptersFrom:'sitemap'.
+const _chapterSitemapCache = new Map();
+async function buildChapterSitemapMap(src) {
+  if (_chapterSitemapCache.has(src.domain)) return _chapterSitemapCache.get(src.domain);
+  const base = `https://${src.domain}`;
+  const sitemaps = new Set();
+  try {
+    const idx = await fetchUrl(`${base}/sitemap_index.xml`);
+    for (const m of idx.matchAll(/<loc>([^<]*wp-manga-chapters-sitemap[0-9]*\.xml)<\/loc>/gi)) sitemaps.add(m[1]);
+  } catch (e) {}
+  const map = new Map(); // slug -> Map(number -> {number,url,title})
+  const chRe = new RegExp(`<loc>(https?://${src.domain.replace(/\./g, '\\.')}/${src.cpt}/([^/<]+)/(?:cap[ií]tulo|chapter|cap)-([0-9.]+)/?)</loc>`, 'gi');
+  for (const sm of sitemaps) {
+    let xml;
+    try { xml = await fetchUrl(sm); } catch (e) { continue; }
+    for (const m of xml.matchAll(chRe)) {
+      const [, url, slug, num] = m;
+      if (!map.has(slug)) map.set(slug, new Map());
+      const inner = map.get(slug);
+      if (!inner.has(num)) inner.set(num, { number: num, url, title: `Capítulo ${num}` });
+    }
+    await sleep(THROTTLE);
+  }
+  _chapterSitemapCache.set(src.domain, map);
+  return map;
+}
+
 async function getChapters(src, slug) {
+  if (src.chaptersFrom === 'sitemap') {
+    const map = await buildChapterSitemapMap(src);
+    const inner = map.get(slug);
+    if (!inner) return [];
+    return [...inner.values()].sort((a, b) => parseFloat(a.number) - parseFloat(b.number));
+  }
   const url = `https://${src.domain}/${src.cpt}/${slug}/ajax/chapters/`;
   let html;
   try { html = await fetchUrl(url, { method: 'POST', ajax: true, referer: `https://${src.domain}/${src.cpt}/${slug}/` }); }

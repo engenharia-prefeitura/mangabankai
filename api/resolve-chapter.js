@@ -54,13 +54,24 @@ async function fetchPtChapterPages(slug, chNum) {
 
 async function fetchMdxChapterPages(chapterId) {
   // MangaDex@Home: pega baseUrl + hash + arquivos (URLs temporárias, resolvidas na hora).
-  const body = await fetchUrl('https://api.mangadex.org/at-home/server/' + chapterId);
-  const data = JSON.parse(body);
-  const base = data.baseUrl;
-  const hash = data.chapter && data.chapter.hash;
-  const files = (data.chapter && data.chapter.data) || [];
-  if (!base || !hash || !files.length) return [];
-  return files.map(fn => `${base}/data/${hash}/${fn}`);
+  // A infra da MangaDex é distribuída em vários nós de borda e às vezes um deles
+  // falha/trava, então tentamos mais de uma vez antes de desistir.
+  let lastErr;
+  for (let attempt = 0; attempt < 2; attempt++) {
+    try {
+      const body = await fetchUrl('https://api.mangadex.org/at-home/server/' + chapterId);
+      const data = JSON.parse(body);
+      const base = data.baseUrl;
+      const hash = data.chapter && data.chapter.hash;
+      const files = (data.chapter && data.chapter.data) || [];
+      if (!base || !hash || !files.length) return [];
+      return files.map(fn => `${base}/data/${hash}/${fn}`);
+    } catch (e) {
+      lastErr = e;
+    }
+  }
+  console.error('fetchMdxChapterPages failed:', lastErr && lastErr.message);
+  return [];
 }
 
 async function fetchMlChapterPages(mlId) {
@@ -172,10 +183,18 @@ module.exports = async (req, res) => {
       return false;
     });
 
+    // Só cai no scraper genérico (leituramanga/mangafreak) quando o capítulo não
+    // tem um provider conhecido — se o src é explícito (mangadex, mangalivre,
+    // hentai20) e o resolvedor dele falhou, tentar leituramanga/mangafreak é
+    // inútil (site errado) e só mascara o erro real com um 404 genérico.
+    let knownSrcResolved = false;
+
     if (ch) {
       if (ch.pages && ch.pages.length > 0) {
         pages = ch.pages;
+        knownSrcResolved = true;
       } else if (ch.src === 'hentai20') {
+        knownSrcResolved = true;
         if (ch.chapterUrl) {
           pages = await fetchH20ChapterPages(ch.chapterUrl);
         }
@@ -188,8 +207,10 @@ module.exports = async (req, res) => {
           pages: []
         });
       } else if (ch.src === 'mangadex' && ch.mdxId) {
+        knownSrcResolved = true;
         try { pages = await fetchMdxChapterPages(ch.mdxId); } catch (e) { pages = []; }
       } else if (ch.src === 'mangalivre' && ch.mlId) {
+        knownSrcResolved = true;
         try { pages = await fetchMlChapterPages(ch.mlId); } catch (e) { pages = []; }
       } else if (ch.src === 'leituramanga') {
         pages = await fetchPtChapterPages(slug, chNum);
@@ -198,8 +219,8 @@ module.exports = async (req, res) => {
       }
     }
 
-    // Fallback caso não encontre o capítulo ou ele não tenha resolvido por src
-    if (pages.length === 0) {
+    // Fallback caso não encontre o capítulo ou ele não tenha um src conhecido
+    if (pages.length === 0 && !knownSrcResolved) {
       if (normalLang === 'en') {
         pages = await fetchEnChapterPages(slug, chNum);
       } else {

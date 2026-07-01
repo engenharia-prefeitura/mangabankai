@@ -338,15 +338,20 @@
         showMessage('Carregando páginas...');
 
         // 1) MangaDex: API pública sem CORS — resolve direto no browser.
+        // Os nós de borda da MangaDex são inconsistentes (alguns não enviam
+        // Access-Control-Allow-Origin), então tentamos algumas vezes antes
+        // de desistir e cair para o servidor.
         if (chapter.src === 'mangadex' && chapter.mdxId) {
-          try {
-            const mdxR = await fetch(`https://api.mangadex.org/at-home/server/${chapter.mdxId}`);
-            const mdxD = await mdxR.json();
-            if (mdxD.baseUrl && mdxD.chapter && mdxD.chapter.hash && Array.isArray(mdxD.chapter.data) && mdxD.chapter.data.length > 0) {
-              pages = mdxD.chapter.data.map(fn => `${mdxD.baseUrl}/data/${mdxD.chapter.hash}/${fn}`);
-              chapter.pages = pages;
-            }
-          } catch (e) { /* segue para o servidor */ }
+          for (let attempt = 0; attempt < 3 && pages.length === 0; attempt++) {
+            try {
+              const mdxR = await fetch(`https://api.mangadex.org/at-home/server/${chapter.mdxId}`);
+              const mdxD = await mdxR.json();
+              if (mdxD.baseUrl && mdxD.chapter && mdxD.chapter.hash && Array.isArray(mdxD.chapter.data) && mdxD.chapter.data.length > 0) {
+                pages = mdxD.chapter.data.map(fn => `${mdxD.baseUrl}/data/${mdxD.chapter.hash}/${fn}`);
+                chapter.pages = pages;
+              }
+            } catch (e) { /* tenta de novo — pode cair em outro nó de borda */ }
+          }
         }
 
         // 2) Servidor: para outros providers ou fallback MangaDex.

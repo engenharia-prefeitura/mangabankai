@@ -60,6 +60,9 @@ async function sendToAll(pool, subs, payloadObj) {
 async function main() {
   const pool = createPool({ connectionString: DATABASE_URL });
   try {
+    // Garante as tabelas (idempotente) — o pipeline pode rodar antes de qualquer inscrição.
+    await pool.query(`CREATE TABLE IF NOT EXISTS push_subscriptions (endpoint TEXT PRIMARY KEY, p256dh TEXT NOT NULL, auth TEXT NOT NULL, created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP)`);
+    await pool.query(`CREATE TABLE IF NOT EXISTS manga_notify_state (manga_id VARCHAR(100) PRIMARY KEY, last_count INTEGER NOT NULL DEFAULT 0, updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP)`);
     const catalog = loadCatalog();
     const stRes = await pool.query('SELECT manga_id, last_count FROM manga_notify_state');
     const state = new Map((stRes.rows || []).map(r => [r.manga_id, r.last_count]));

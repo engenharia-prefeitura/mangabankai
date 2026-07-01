@@ -8136,9 +8136,16 @@
     },
     {
       "id": "detective-conan-1163",
-      "number": 1163,
-      "title": "Chapter 1163",
+      "number": "1163",
+      "title": "",
       "date": "2026/06/24",
+      "pages": []
+    },
+    {
+      "id": "detective-conan-1164",
+      "number": "1164",
+      "title": "",
+      "date": "2026/07/01",
       "pages": []
     }
   ],

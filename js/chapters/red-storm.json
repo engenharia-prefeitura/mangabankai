@@ -3250,9 +3250,16 @@
     },
     {
       "id": "red-storm-465",
-      "number": 465,
-      "title": "Chapter 465",
+      "number": "465",
+      "title": "",
       "date": "2026/06/24",
+      "pages": []
+    },
+    {
+      "id": "red-storm-466",
+      "number": "466",
+      "title": "",
+      "date": "2026/07/01",
       "pages": []
     }
   ]

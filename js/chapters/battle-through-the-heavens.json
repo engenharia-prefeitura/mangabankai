@@ -3635,9 +3635,16 @@
     },
     {
       "id": "battle-through-the-heavens-520",
-      "number": 520,
-      "title": "Chapter 520",
+      "number": "520",
+      "title": "",
       "date": "2026/06/23",
+      "pages": []
+    },
+    {
+      "id": "battle-through-the-heavens-521",
+      "number": "521",
+      "title": "",
+      "date": "2026/06/29",
       "pages": []
     }
   ]

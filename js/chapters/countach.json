@@ -1829,9 +1829,23 @@
     },
     {
       "id": "countach-260",
-      "number": 260,
-      "title": "Chapter 260",
+      "number": "260",
+      "title": "",
       "date": "2026/06/24",
+      "pages": []
+    },
+    {
+      "id": "countach-261",
+      "number": "261",
+      "title": "",
+      "date": "2026/06/28",
+      "pages": []
+    },
+    {
+      "id": "countach-262",
+      "number": "262",
+      "title": "",
+      "date": "2026/07/01",
       "pages": []
     }
   ]

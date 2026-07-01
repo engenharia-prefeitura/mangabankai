@@ -2102,9 +2102,16 @@
     },
     {
       "id": "kakkou-no-iinazuke-300",
-      "number": 300,
-      "title": "Chapter 300",
+      "number": "300",
+      "title": "",
       "date": "2026/06/23",
+      "pages": []
+    },
+    {
+      "id": "kakkou-no-iinazuke-301",
+      "number": "301",
+      "title": "",
+      "date": "2026/06/30",
       "pages": []
     }
   ]

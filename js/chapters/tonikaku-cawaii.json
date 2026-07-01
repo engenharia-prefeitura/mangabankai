@@ -2452,9 +2452,16 @@
     },
     {
       "id": "tonikaku-cawaii-351",
-      "number": 351,
-      "title": "Chapter 351",
+      "number": "351",
+      "title": "",
       "date": "2026/06/24",
+      "pages": []
+    },
+    {
+      "id": "tonikaku-cawaii-352",
+      "number": "352",
+      "title": "",
+      "date": "2026/07/01",
       "pages": []
     }
   ]

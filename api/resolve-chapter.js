@@ -32,6 +32,22 @@ function fetchUrl(url, redirects = 0) {
   });
 }
 
+// DIAGNÓSTICO: fetch cru que expõe status/headers/redirect sem seguir redirect,
+// e permite mandar headers extras (Accept). Usado só para investigar a MangaDex.
+function fetchRaw(url, extraHeaders) {
+  return new Promise((resolve, reject) => {
+    const client = url.startsWith('https') ? https : http;
+    const headers = Object.assign({ 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' }, extraHeaders || {});
+    const req = client.get(url, { headers, timeout: 20000 }, res => {
+      let data = '';
+      res.on('data', c => data += c);
+      res.on('end', () => resolve({ status: res.statusCode, location: res.headers.location || null, ctype: res.headers['content-type'] || null, body: data }));
+    });
+    req.on('error', reject);
+    req.on('timeout', () => { req.destroy(); reject(new Error('Timeout')); });
+  });
+}
+
 function extractRsc(html) {
   const matches = html.match(/self\.__next_f\.push\(\[1,"([\s\S]*?)"\]\)/g) || [];
   return matches.map(m => {
@@ -56,14 +72,12 @@ let __mdxDebug = null; // diagnóstico temporário
 
 async function fetchMdxChapterPages(chapterId) {
   // MangaDex@Home: pega baseUrl + hash + arquivos (URLs temporárias, resolvidas na hora).
-  // A infra da MangaDex é distribuída em vários nós de borda e às vezes um deles
-  // falha/trava, então tentamos mais de uma vez antes de desistir.
   let lastErr;
   for (let attempt = 0; attempt < 2; attempt++) {
     try {
-      const body = await fetchUrl('https://api.mangadex.org/at-home/server/' + chapterId);
-      __mdxDebug = { attempt, bodySnippet: String(body).slice(0, 300) };
-      const data = JSON.parse(body);
+      const r = await fetchRaw('https://api.mangadex.org/at-home/server/' + chapterId, { 'Accept': 'application/json' });
+      __mdxDebug = { attempt, status: r.status, location: r.location, ctype: r.ctype, bodySnippet: String(r.body).slice(0, 200) };
+      const data = JSON.parse(r.body);
       const base = data.baseUrl;
       const hash = data.chapter && data.chapter.hash;
       const files = (data.chapter && data.chapter.data) || [];
@@ -71,7 +85,7 @@ async function fetchMdxChapterPages(chapterId) {
       return files.map(fn => `${base}/data/${hash}/${fn}`);
     } catch (e) {
       lastErr = e;
-      __mdxDebug = Object.assign({}, __mdxDebug, { attempt, error: e.message });
+      __mdxDebug = Object.assign({}, __mdxDebug || {}, { attempt, error: e.message });
     }
   }
   console.error('fetchMdxChapterPages failed:', lastErr && lastErr.message);

@@ -52,6 +52,8 @@ async function fetchPtChapterPages(slug, chNum) {
   return pages;
 }
 
+let __mdxDebug = null; // diagnóstico temporário
+
 async function fetchMdxChapterPages(chapterId) {
   // MangaDex@Home: pega baseUrl + hash + arquivos (URLs temporárias, resolvidas na hora).
   // A infra da MangaDex é distribuída em vários nós de borda e às vezes um deles
@@ -60,6 +62,7 @@ async function fetchMdxChapterPages(chapterId) {
   for (let attempt = 0; attempt < 2; attempt++) {
     try {
       const body = await fetchUrl('https://api.mangadex.org/at-home/server/' + chapterId);
+      __mdxDebug = { attempt, bodySnippet: String(body).slice(0, 300) };
       const data = JSON.parse(body);
       const base = data.baseUrl;
       const hash = data.chapter && data.chapter.hash;
@@ -68,6 +71,7 @@ async function fetchMdxChapterPages(chapterId) {
       return files.map(fn => `${base}/data/${hash}/${fn}`);
     } catch (e) {
       lastErr = e;
+      __mdxDebug = { attempt, error: e.message };
     }
   }
   console.error('fetchMdxChapterPages failed:', lastErr && lastErr.message);
@@ -229,6 +233,9 @@ module.exports = async (req, res) => {
     }
 
     if (pages.length === 0) {
+      if (req.query && req.query.debug) {
+        return res.status(404).json({ success: false, error: 'Nenhuma página encontrada', chFound: !!ch, chSrc: ch && ch.src, mdxDebug: __mdxDebug });
+      }
       return res.status(404).json({ success: false, error: 'Nenhuma página encontrada' });
     }
 

@@ -228,8 +228,13 @@
       }
     }
   </style>
+  <script src="/js/loading-anim.js"></script>
 </head>
 <body>
+  <script>
+    window.MangaLoader && MangaLoader.splash('home');
+    window.addEventListener('load', function () { window.MangaLoader && MangaLoader.hideSplash(600); });
+  </script>
   <header class="header">
     <div class="header-inner">
       <a href="/" class="logo"><img src="/img/logo.png" alt="MangaBankai" class="logo-img"></a>

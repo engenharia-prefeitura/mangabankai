@@ -200,4 +200,39 @@
       }, wait);
     }
   };
+
+  // ── Loader durante NAVEGAÇÃO ─────────────────────────────────────────────
+  // Site multi-página: o splash do destino só aparece depois de baixar/renderizar.
+  // Aqui mostramos o loader na PÁGINA ATUAL assim que a navegação começa, cobrindo
+  // o vão (perceptível no mobile lento) ao ir pro catálogo, abrir obra ou recarregar.
+  function setForPath(p) {
+    if (/\/manga\/[^/]+\/[^/]+/.test(p)) return 'reader';         // /manga/<id>/<cap>
+    if (/catalog\.html/.test(p)) return 'catalog';
+    if (/manga\.html/.test(p) || /\/manga\/[^/]+\/?$/.test(p)) return 'manga';
+    return 'home';
+  }
+  function isInternal(url) {
+    try { return new URL(url, location.href).origin === location.origin; } catch (e) { return false; }
+  }
+  document.addEventListener('click', function (e) {
+    if (e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+    var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
+    if (!a) return;
+    var href = a.getAttribute('href');
+    if (!href || href.charAt(0) === '#' || /^(javascript:|mailto:|tel:|data:)/i.test(href)) return;
+    if (a.target && a.target !== '_self') return;
+    if (a.hasAttribute('download')) return;
+    if (!isInternal(href)) return;
+    var u; try { u = new URL(href, location.href); } catch (e2) { return; }
+    if (u.pathname === location.pathname && u.search === location.search) return; // só âncora/mesma URL
+    window.MangaLoader.splash(setForPath(u.pathname));
+  }, true);
+  // Navegações via JS (window.location = …) e recarregar a página.
+  window.addEventListener('beforeunload', function () {
+    window.MangaLoader.splash(setForPath(location.pathname));
+  });
+  // Voltar pelo histórico (bfcache) restaura a página com o splash preso → remove.
+  window.addEventListener('pageshow', function (e) {
+    if (e.persisted) window.MangaLoader.hideSplash(0);
+  });
 })();

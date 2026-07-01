@@ -17,6 +17,7 @@ const http = require('http');
 const zlib = require('zlib');
 const fs = require('fs');
 const path = require('path');
+const { resolveCap } = require('./lib/scraper-config.cjs');
 
 const DATA_JS_PATH = path.join(__dirname, 'js', 'data.js');
 const CHAPTERS_DIR = path.join(__dirname, 'js', 'chapters');
@@ -40,7 +41,12 @@ const ONLY = (process.env.MADARA_ONLY || '').split(',').map(s => s.trim()).filte
 const SOURCES = ONLY.length ? ALL_SOURCES.filter(s => ONLY.includes(s.name)) : ALL_SOURCES;
 
 const FULL = process.argv.includes('--all');
-const MAX_MANGAS = parseInt(process.env.MADARA_MAX || (FULL ? '99999' : '20'), 10);
+// Teto de obras NOVAS por execução (compartilhado entre as fontes desta invocação).
+// Precedência: MADARA_MAX (env) > scraper-config.json > default. --all ignora o teto.
+const MAX_MANGAS = resolveCap({ key: 'madara', envVar: 'MADARA_MAX', incrementalDefault: 20, fullDefault: 99999, full: FULL });
+// Teto de obras EXISTENTES refrescadas por fonte/execução (barato: modo lazy não
+// baixa páginas; produceManga preserva páginas já gravadas e capta capítulos novos).
+const REFRESH_MAX = parseInt(process.env.MADARA_REFRESH_MAX || '40', 10);
 const THROTTLE = 150;
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
@@ -321,15 +327,41 @@ async function main() {
   const titleIndex = new Map(); // `${lang}|${norm}` -> manga
   for (const m of list) titleIndex.set((m.lang || 'pt') + '|' + norm(m.title), m);
 
-  let added = 0, updated = 0, deduped = 0, processed = 0;
+  let added = 0, updated = 0, deduped = 0, newBudgetUsed = 0;
   for (const src of SOURCES) {
-    if (processed >= MAX_MANGAS) break;
     console.log(`\n── ${src.name} (${src.domain}) ──`);
     let slugs = await collectSlugs(src);
     console.log(`  ${slugs.length} títulos no sitemap.`);
-    // incremental: prioriza os que faltam/quebrados desta fonte
-    const existIds = new Set(list.filter(m => m.source === src.name).map(m => m.id));
-    if (!FULL) slugs = slugs.filter(s => !existIds.has(`${src.name}-${s}`) || !byId.get(`${src.name}-${s}`).cover);
+
+    if (!FULL) {
+      // Seleção incremental por fonte:
+      //  • NOVOS — slugs ainda não catalogados. Limitados pelo teto global de
+      //    "obras novas por execução" (MAX_MANGAS), compartilhado entre as fontes
+      //    desta invocação.
+      //  • REFRESH — obras existentes que podem ter ganho capítulo novo: as EM
+      //    ANDAMENTO (status != completed) e as QUEBRADAS (sem capa). Barato no
+      //    modo lazy (produceManga preserva páginas já gravadas e capta capítulos
+      //    novos). Amostradas aleatoriamente (rotação justa entre execuções) e
+      //    limitadas por REFRESH_MAX.
+      const idOf = s => `${src.name}-${s}`;
+      const newSlugs = slugs.filter(s => !byId.has(idOf(s)));
+      let refreshSlugs = slugs.filter(s => {
+        const m = byId.get(idOf(s));
+        return m && (!m.cover || m.status !== 'completed');
+      });
+      // Fisher-Yates parcial para amostrar REFRESH_MAX ao acaso (cobre todo o
+      // catálogo ao longo de várias execuções, sem depender de checkpoint).
+      for (let i = refreshSlugs.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [refreshSlugs[i], refreshSlugs[j]] = [refreshSlugs[j], refreshSlugs[i]];
+      }
+      const remainNew = Math.max(0, MAX_MANGAS - newBudgetUsed);
+      const pickedNew = newSlugs.slice(0, remainNew);
+      newBudgetUsed += pickedNew.length;
+      const pickedRefresh = refreshSlugs.slice(0, REFRESH_MAX);
+      slugs = [...new Set([...pickedNew, ...pickedRefresh])];
+      console.log(`  → ${pickedNew.length} novos + ${pickedRefresh.length} refresh = ${slugs.length} a processar (teto novos ${MAX_MANGAS}, refresh ${REFRESH_MAX}).`);
+    }
 
     // Aplica um resultado produzido (dedup + escrita) de forma SERIALIZADA:
     // é síncrono e não tem await, então nunca intercala entre workers.
@@ -360,10 +392,8 @@ async function main() {
     let nextIdx = 0;
     const worker = async () => {
       while (true) {
-        if (processed >= MAX_MANGAS) return;
         const i = nextIdx++;
         if (i >= slugs.length) return;
-        processed++;
         await sleep(THROTTLE);
         let r = null;
         try { r = await produceManga(src, slugs[i]); } catch (e) { r = null; }

@@ -14,6 +14,7 @@ const PORT = 3001;
 const DATA_JS_PATH  = path.join(__dirname, 'js', 'data.js');
 const CHAPTERS_DIR  = path.join(__dirname, 'js', 'chapters');
 const MF_LIST_FILE  = path.join(__dirname, 'js', 'mf-manga-list.json');
+const SCRAPER_CONFIG_FILE = path.join(__dirname, 'scraper-config.json');
 
 // ── EN (MangaFreak) ─────────────────────────────────────────────────────────────
 const BASE_EN   = 'https://ww2.mangafreak.me';   // mesmo do mf-chapter-scraper.cjs
@@ -2123,6 +2124,42 @@ http.createServer((req, res) => {
         res.end(JSON.stringify({ ok: true, transition_delay: state.transition_delay }));
       } catch (e) {
         res.writeHead(400); res.end(JSON.stringify({ ok: false, error: e.message }));
+      }
+    });
+    return;
+  }
+
+  // GET /scraper-config — teto de obras novas por scraper (scraper-config.json)
+  if (pathname === '/scraper-config' && req.method === 'GET') {
+    let cfg = {};
+    try { cfg = JSON.parse(fs.readFileSync(SCRAPER_CONFIG_FILE, 'utf8')); } catch (e) {}
+    res.writeHead(200, { 'Content-Type': 'application/json' });
+    return res.end(JSON.stringify(cfg));
+  }
+
+  // POST /scraper-config — atualiza os tetos (mescla, preserva _comment)
+  if (pathname === '/scraper-config' && req.method === 'POST') {
+    let body = '';
+    req.on('data', d => { body += d; });
+    req.on('end', () => {
+      try {
+        const incoming = JSON.parse(body || '{}');
+        let cfg = {};
+        try { cfg = JSON.parse(fs.readFileSync(SCRAPER_CONFIG_FILE, 'utf8')); } catch (e) {}
+        const KEYS = ['mangafreak', 'hentai20', 'mangadex', 'madara', 'mundohentai', 'leituramanga', 'mangalivre'];
+        for (const k of KEYS) {
+          if (incoming[k] != null) {
+            const v = parseInt(incoming[k], 10);
+            if (!isNaN(v) && v >= 0) cfg[k] = v;
+          }
+        }
+        fs.writeFileSync(SCRAPER_CONFIG_FILE, JSON.stringify(cfg, null, 2) + '\n', 'utf8');
+        log('system', `⚙️ Tetos de scraper atualizados: ${KEYS.filter(k=>incoming[k]!=null).map(k=>`${k}=${cfg[k]}`).join(', ')}`, 'info');
+        res.writeHead(200, { 'Content-Type': 'application/json' });
+        res.end(JSON.stringify({ ok: true, config: cfg }));
+      } catch (e) {
+        res.writeHead(400, { 'Content-Type': 'application/json' });
+        res.end(JSON.stringify({ ok: false, error: e.message }));
       }
     });
     return;

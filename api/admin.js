@@ -141,30 +141,48 @@ async function scrapeStatus(req, res) {
 }
 
 // ── settings ───────────────────────────────────────────────────────────
+// Teto de obras NOVAS por execução de cada scraper. Persistido no site_settings
+// (chave cap_<provider>) e aplicado no scraper-config.json pelo check-scheduler
+// no início de cada execução do workflow. Defaults espelham scraper-config.json.
+const CAP_KEYS = {
+  mangafreak: 40, hentai20: 25, mangadex: 1000,
+  madara: 20, mundohentai: 10, leituramanga: 0, mangalivre: 0
+};
+function capsFrom(data) {
+  const caps = {};
+  for (const k of Object.keys(CAP_KEYS)) {
+    const v = parseInt(data['cap_' + k], 10);
+    caps[k] = isNaN(v) ? CAP_KEYS[k] : v;
+  }
+  return caps;
+}
+function settingsPayload(data) {
+  return {
+    ok: true,
+    transition_delay: parseInt(data['transition_delay'] || '10', 10),
+    caps: capsFrom(data),
+    scheduler: {
+      enabled: data['scheduler_enabled'] === 'true',
+      interval: data['scheduler_interval'] || '12h',
+      lang: data['scheduler_lang'] || 'pt',
+      mode: data['scheduler_mode'] || 'incremental',
+      lastRun: data['scheduler_last_run'] ? parseInt(data['scheduler_last_run'], 10) : null,
+      lastStatus: data['scheduler_last_status'] || null
+    }
+  };
+}
+
 async function settings(req, res) {
   if (!await isAdmin(req)) return res.status(403).json({ error: 'Forbidden' });
   const sql = await ensureConnection();
   if (req.method === 'GET') {
     const r = await sql`SELECT key, value FROM site_settings`;
     const data = {};
-    (r.rows || []).forEach(row => {
-      data[row.key] = row.value;
-    });
-    return res.status(200).json({
-      ok: true,
-      transition_delay: parseInt(data['transition_delay'] || '10', 10),
-      scheduler: {
-        enabled: data['scheduler_enabled'] === 'true',
-        interval: data['scheduler_interval'] || '12h',
-        lang: data['scheduler_lang'] || 'pt',
-        mode: data['scheduler_mode'] || 'incremental',
-        lastRun: data['scheduler_last_run'] ? parseInt(data['scheduler_last_run'], 10) : null,
-        lastStatus: data['scheduler_last_status'] || null
-      }
-    });
+    (r.rows || []).forEach(row => { data[row.key] = row.value; });
+    return res.status(200).json(settingsPayload(data));
   }
   if (req.method === 'POST') {
-    const { transition_delay, scheduler } = req.body || {};
+    const { transition_delay, scheduler, caps } = req.body || {};
     if (transition_delay !== undefined) {
       const delay = parseInt(transition_delay, 10);
       const val = String(isNaN(delay) ? 10 : delay);
@@ -172,6 +190,16 @@ async function settings(req, res) {
         INSERT INTO site_settings (key, value) VALUES ('transition_delay', ${val})
         ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value
       `;
+    }
+    if (caps !== undefined && caps && typeof caps === 'object') {
+      const queries = [];
+      for (const k of Object.keys(CAP_KEYS)) {
+        if (caps[k] == null) continue;
+        const v = parseInt(caps[k], 10);
+        if (isNaN(v) || v < 0) continue;
+        queries.push(sql`INSERT INTO site_settings (key, value) VALUES (${'cap_' + k}, ${String(v)}) ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value`);
+      }
+      if (queries.length) await Promise.all(queries);
     }
     if (scheduler !== undefined) {
       const { enabled, interval, lang, mode } = scheduler;
@@ -186,21 +214,8 @@ async function settings(req, res) {
     // Read them back
     const r = await sql`SELECT key, value FROM site_settings`;
     const data = {};
-    (r.rows || []).forEach(row => {
-      data[row.key] = row.value;
-    });
-    return res.status(200).json({
-      ok: true,
-      transition_delay: parseInt(data['transition_delay'] || '10', 10),
-      scheduler: {
-        enabled: data['scheduler_enabled'] === 'true',
-        interval: data['scheduler_interval'] || '12h',
-        lang: data['scheduler_lang'] || 'pt',
-        mode: data['scheduler_mode'] || 'incremental',
-        lastRun: data['scheduler_last_run'] ? parseInt(data['scheduler_last_run'], 10) : null,
-        lastStatus: data['scheduler_last_status'] || null
-      }
-    });
+    (r.rows || []).forEach(row => { data[row.key] = row.value; });
+    return res.status(200).json(settingsPayload(data));
   }
   res.setHeader('Allow', ['GET', 'POST']);
   return res.status(405).json({ error: 'Método não permitido' });

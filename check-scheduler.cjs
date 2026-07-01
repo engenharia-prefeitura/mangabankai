@@ -4,7 +4,34 @@
 // e se já passou tempo suficiente desde a última execução.
 
 const fs = require('fs');
+const path = require('path');
 const { createPool } = require('@vercel/postgres');
+
+// Lê os tetos por scraper (cap_<provider>) do banco e aplica no scraper-config.json
+// desta checkout antes dos scrapers rodarem. O arquivo não é commitado pelo
+// workflow — é regenerado do banco a cada execução (o painel é a fonte de verdade).
+async function syncScraperConfig(client) {
+  try {
+    const res = await client.query("SELECT key, value FROM site_settings WHERE key LIKE 'cap_%'");
+    const rows = res.rows || [];
+    if (!rows.length) return;
+    const cfgPath = path.join(__dirname, 'scraper-config.json');
+    let cfg = {};
+    try { cfg = JSON.parse(fs.readFileSync(cfgPath, 'utf8')); } catch (e) {}
+    let changed = false;
+    for (const row of rows) {
+      const key = row.key.replace(/^cap_/, '');
+      const v = parseInt(row.value, 10);
+      if (!isNaN(v) && v >= 0 && cfg[key] !== v) { cfg[key] = v; changed = true; }
+    }
+    if (changed) {
+      fs.writeFileSync(cfgPath, JSON.stringify(cfg, null, 2) + '\n', 'utf8');
+      console.log('⚙️ scraper-config.json atualizado a partir do painel (tetos por scraper).');
+    }
+  } catch (e) {
+    console.error('Falha ao sincronizar scraper-config.json:', e.message);
+  }
+}
 
 async function run() {
   const isDispatch = process.env.GITHUB_EVENT_NAME === 'workflow_dispatch';
@@ -22,6 +49,7 @@ async function run() {
           client.query("INSERT INTO site_settings (key, value) VALUES ('scheduler_last_run', $1) ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value", [String(now)]),
           client.query("INSERT INTO site_settings (key, value) VALUES ('scheduler_last_status', 'running') ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value")
         ]);
+        await syncScraperConfig(client);
         console.log('Banco de dados atualizado para início manual.');
         await client.end();
       } catch (err) {
@@ -97,7 +125,8 @@ async function run() {
       client.query("INSERT INTO site_settings (key, value) VALUES ('scheduler_last_run', $1) ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value", [String(now)]),
       client.query("INSERT INTO site_settings (key, value) VALUES ('scheduler_last_status', 'running') ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value")
     ]);
-    
+    await syncScraperConfig(client);
+
     fs.appendFileSync(process.env.GITHUB_ENV, 'SHOULD_RUN=true\n');
     fs.appendFileSync(process.env.GITHUB_ENV, `SCRAPE_LANG=${targetLang}\n`);
     fs.appendFileSync(process.env.GITHUB_ENV, `SCRAPE_MODE=${targetMode}\n`);

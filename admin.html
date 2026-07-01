@@ -433,6 +433,43 @@
     </div>
   </div>
 
+  <!-- Tetos por Scraper -->
+  <div class="scraper-cloud" id="scraperCapsCard" style="display:none; margin-top: 28px; background:var(--surface); border:1px solid var(--border); border-radius:16px; padding:24px;">
+    <h2>📥 Obras Novas por Atualização (por fornecedor)</h2>
+    <p style="font-size:0.82rem; color:var(--muted); margin-bottom:6px; margin-top:4px;">
+      Quantas obras <strong>novas</strong> cada scraper adiciona por execução no modo incremental. Se o fornecedor tiver menos novas que o teto, pega só o que houver (sem erro). Independente disso, os capítulos novos das obras já existentes são sempre verificados.
+    </p>
+    <p style="font-size:0.76rem; color:var(--muted); margin-bottom:18px;">
+      A atualização completa (<em>--all</em>) ignora estes tetos. LeituraManga e MangaLivre são movidos por feed de lançamentos (o valor não se aplica).
+    </p>
+    <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(150px, 1fr)); gap:16px; margin-bottom:18px;">
+      <div>
+        <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">MangaFreak (EN)</label>
+        <input type="number" id="capMangafreak" min="0" max="99999" style="width:100%; background:var(--surface2); border:1px solid var(--border); padding:8px 12px; border-radius:8px; color:var(--text); outline:none;">
+      </div>
+      <div>
+        <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">Hentai20 (EN +18)</label>
+        <input type="number" id="capHentai20" min="0" max="99999" style="width:100%; background:var(--surface2); border:1px solid var(--border); padding:8px 12px; border-radius:8px; color:var(--text); outline:none;">
+      </div>
+      <div>
+        <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">Madara (tankou/tia/district/ml.to)</label>
+        <input type="number" id="capMadara" min="0" max="99999" style="width:100%; background:var(--surface2); border:1px solid var(--border); padding:8px 12px; border-radius:8px; color:var(--text); outline:none;">
+      </div>
+      <div>
+        <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">MundoHentai (PT +18)</label>
+        <input type="number" id="capMundohentai" min="0" max="99999" style="width:100%; background:var(--surface2); border:1px solid var(--border); padding:8px 12px; border-radius:8px; color:var(--text); outline:none;">
+      </div>
+      <div>
+        <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">MangaDex (alvo total)</label>
+        <input type="number" id="capMangadex" min="0" max="99999" style="width:100%; background:var(--surface2); border:1px solid var(--border); padding:8px 12px; border-radius:8px; color:var(--text); outline:none;">
+      </div>
+    </div>
+    <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:12px;">
+      <div id="capsInfo" style="font-size:0.8rem; color:var(--muted);">Aguardando configurações...</div>
+      <button class="btn btn-resume" id="saveCapsBtn" onclick="saveScraperCaps()">Salvar Tetos</button>
+    </div>
+  </div>
+
   <!-- Visibilidade -->
   <div class="log-box" id="visibilityBox">
     <div class="log-head">
@@ -615,6 +652,7 @@ function applyMsg(d) {
 function connect() {
   document.getElementById('generalSettingsCard').style.display = 'block';
   document.getElementById('schedulerCard').style.display = 'block';
+  document.getElementById('scraperCapsCard').style.display = 'block';
   fetchGeneralSettings();
 
   if (!SCRAPER_URL) {
@@ -628,6 +666,8 @@ function connect() {
   // Local: usa admin-server.cjs; esconde a seção de scraping na nuvem.
   document.getElementById('scraperCloud').style.display = 'none';
   document.getElementById('schedulerCard').style.display = 'block';
+  // No modo local o /settings não traz os tetos; busca-os do endpoint próprio.
+  fetch(`${SCRAPER_URL}/scraper-config`).then(r => r.ok ? r.json() : null).then(c => { if (c) updateCapsDisplay(c); }).catch(() => {});
   if (es) { es.close(); es = null; }
   try {
     es = new EventSource(`${SCRAPER_URL}/events`);
@@ -823,9 +863,57 @@ async function fetchGeneralSettings() {
       const data = await res.json();
       updateGeneralSettingsDisplay(data.transition_delay);
       if (data.scheduler) updateSchedulerDisplay(data.scheduler, true);
+      if (data.caps) updateCapsDisplay(data.caps);
     }
   } catch (e) {
     console.error('Erro ao carregar configurações gerais:', e);
+  }
+}
+
+function updateCapsDisplay(caps) {
+  if (!caps) return;
+  const set = (id, v) => { const el = document.getElementById(id); if (el && v != null) el.value = v; };
+  set('capMangafreak', caps.mangafreak);
+  set('capHentai20', caps.hentai20);
+  set('capMadara', caps.madara);
+  set('capMundohentai', caps.mundohentai);
+  set('capMangadex', caps.mangadex);
+  document.getElementById('capsInfo').innerHTML = '✅ Tetos carregados. Aplicam-se na próxima atualização.';
+}
+
+async function saveScraperCaps() {
+  const caps = {
+    mangafreak: parseInt(document.getElementById('capMangafreak').value, 10),
+    hentai20: parseInt(document.getElementById('capHentai20').value, 10),
+    madara: parseInt(document.getElementById('capMadara').value, 10),
+    mundohentai: parseInt(document.getElementById('capMundohentai').value, 10),
+    mangadex: parseInt(document.getElementById('capMangadex').value, 10)
+  };
+  // No admin local (SCRAPER_URL setado) o endpoint é /scraper-config e recebe o
+  // objeto direto; no deployado vai para /api/admin/settings dentro de { caps }.
+  const local = !!SCRAPER_URL;
+  const url = local ? `${SCRAPER_URL}/scraper-config` : `/api/admin/settings`;
+  const body = local ? caps : { caps };
+  const btn = document.getElementById('saveCapsBtn');
+  btn.disabled = true; btn.textContent = 'Salvando...';
+  try {
+    const res = await fetch(url, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(body)
+    });
+    if (res.ok) {
+      const data = await res.json();
+      if (data.caps) updateCapsDisplay(data.caps);
+      else if (data.config) updateCapsDisplay(data.config);
+      alert('Tetos por scraper salvos com sucesso! Serão aplicados na próxima atualização.');
+    } else {
+      alert('Erro ao salvar os tetos.');
+    }
+  } catch (e) {
+    alert('Erro de conexão ao salvar os tetos: ' + e.message);
+  } finally {
+    btn.disabled = false; btn.textContent = 'Salvar Tetos';
   }
 }
 

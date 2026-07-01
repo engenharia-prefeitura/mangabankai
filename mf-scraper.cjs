@@ -135,31 +135,11 @@ async function scrapeAllListing(updateMode = false) {
     } catch (err) {
       // Continue on errors
     }
-    await new Promise(r => setTimeout(r, DELAY));
-  }
-
-  const doneSlugs = new Set(existing.map(m => m.slug));
-  const total = TOTAL_PAGES;
-
-  for (let page = 1; page <= total; page++) {
-    process.stdout.write(`\r  Pagina ${page}/${total}...`);
-    try {
-      const items = await scrapeListing(page);
-      for (const item of items) {
-        if (!doneSlugs.has(item.slug)) {
-          existing.push(item);
-          doneSlugs.add(item.slug);
-        }
-      }
-      // Save progress
-      if (page % 10 === 0) {
-        fs.writeFileSync(filePath, JSON.stringify(existing, null, 2), 'utf8');
-      }
-    } catch (e) {
-      console.log(`\n  ⚠️ Erro na página ${page}: ${e.message}`);
+    // Salva progresso a cada 10 páginas
+    if (page % 10 === 0) {
+      fs.writeFileSync(filePath, JSON.stringify(existing, null, 2), 'utf8');
     }
-    // Delay to avoid rate limiting
-    await new Promise(r => setTimeout(r, 300));
+    await new Promise(r => setTimeout(r, DELAY));
   }
 
   fs.writeFileSync(filePath, JSON.stringify(existing, null, 2), 'utf8');

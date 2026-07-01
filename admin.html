@@ -1013,10 +1013,10 @@ connect();
     tiamanhwa:     ['TiaManhwa', '🔞', '#8a2be2'],
     mangadistrict: ['MangaDistrict', '🔞', '#4682b4'],
     hentai20:     ['Hentai20', '🔞', '#a855f7'],
-    mangadex:     ['MangaDex', '📘', '#ff6740'],
     mangafreak:   ['MangaFreak', '🇬🇧', '#3b82f6'],
     leituramanga: ['LeituraManga', '🇧🇷', '#22c55e'],
-    mangalivre:   ['MangaLivre', '🇧🇷', '#eab308']
+    mangalivre:   ['MangaLivre', '🇧🇷', '#eab308'],
+    'mangalivre-to': ['MangaLivre.to', '🇧🇷', '#f59e0b']
   };
   function _supplierOf(m) {
     if (m.source && _SUP[m.source]) return _SUP[m.source];
@@ -1028,7 +1028,8 @@ connect();
     if (/tankouhentai/i.test(c)) return _SUP.tankouhentai;
     if (/tiamanhwa/i.test(c)) return _SUP.tiamanhwa;
     if (/mangadistrict/i.test(c)) return _SUP.mangadistrict;
-    if (/mangadex/i.test(c)) return _SUP.mangadex;
+    // MangaDex foi descontinuado; obras com capa hospedada no mangadex.org
+    // pertencem a outra fonte (só reusam a imagem) → não rotular como MangaDex.
     return ['Outros', '🌐', '#888'];
   }
   function renderSuppliers() {

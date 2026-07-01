@@ -179,16 +179,6 @@ module.exports = async (req, res) => {
     return res.status(405).json({ success: false, error: 'Method not allowed' });
   }
 
-  // TESTE TEMPORÁRIO: valida se a Vercel consegue resolver um capítulo Madara.
-  if (req.query && req.query.madaraUrl) {
-    try {
-      const pages = await fetchMadaraChapterPages(req.query.madaraUrl);
-      return res.status(200).json({ ok: true, count: pages.length, first: pages[0] || null });
-    } catch (e) {
-      return res.status(200).json({ ok: false, error: e.message });
-    }
-  }
-
   const { mangaId, slug, chNum, lang = 'pt' } = req.query || {};
   if (!mangaId || !slug || !chNum) {
     return res.status(400).json({ success: false, error: 'Missing parameters: mangaId, slug, chNum' });

@@ -26,11 +26,15 @@ const CHAPTERS_DIR = path.join(__dirname, 'js', 'chapters');
 // adult:false → mangá mainstream (não força Hentai).
 // chaptersFrom:'sitemap' → descobre capítulos pelos wp-manga-chapters-sitemap*.xml
 //   (para sites cujo endpoint /ajax/chapters/ está desativado).
+// pagesMode:'lazy' → guarda só a lista de capítulos (chapterUrl) com pages:[],
+//   resolvidas sob demanda pelo /resolve-chapter (Vercel alcança esses sites).
+//   Torna o scrape do site inteiro ~1-2 min (sem baixar cada capítulo).
+//   Capítulos já pré-gravados (com pages) são preservados.
 const ALL_SOURCES = [
-  { name: 'tankouhentai',  domain: 'tankouhentai.com',  cpt: 'manga',  lang: 'pt', adult: true },
-  { name: 'tiamanhwa',     domain: 'tiamanhwa.com',     cpt: 'manhwa', lang: 'pt', adult: true },
-  { name: 'mangadistrict', domain: 'mangadistrict.com', cpt: 'series', lang: 'en', adult: true },
-  { name: 'mangalivre-to', domain: 'mangalivre.to',     cpt: 'manga',  lang: 'pt', adult: false, chaptersFrom: 'sitemap' }
+  { name: 'tankouhentai',  domain: 'tankouhentai.com',  cpt: 'manga',  lang: 'pt', adult: true,  pagesMode: 'lazy' },
+  { name: 'tiamanhwa',     domain: 'tiamanhwa.com',     cpt: 'manhwa', lang: 'pt', adult: true,  pagesMode: 'lazy' },
+  { name: 'mangadistrict', domain: 'mangadistrict.com', cpt: 'series', lang: 'en', adult: true,  pagesMode: 'lazy' },
+  { name: 'mangalivre-to', domain: 'mangalivre.to',     cpt: 'manga',  lang: 'pt', adult: false, chaptersFrom: 'sitemap', pagesMode: 'lazy' }
 ];
 const ONLY = (process.env.MADARA_ONLY || '').split(',').map(s => s.trim()).filter(Boolean);
 const SOURCES = ONLY.length ? ALL_SOURCES.filter(s => ONLY.includes(s.name)) : ALL_SOURCES;
@@ -285,7 +289,18 @@ async function main() {
       for (const ch of chapters) {
         const exist = existingChMap.get(String(ch.number));
         if (exist && exist.pages && exist.pages.length > 0) {
-          chObj[src.lang].push(exist);
+          chObj[src.lang].push(exist);            // já pré-gravado → mantém (leitura instantânea)
+        } else if (src.pagesMode === 'lazy') {
+          // Modo lazy: guarda só a URL; páginas resolvidas sob demanda no reader.
+          chObj[src.lang].push({
+            id: `${id}-ch-${ch.number}`,
+            number: ch.number,
+            title: ch.title,
+            date: new Date().toISOString().slice(0, 10),
+            pages: [],
+            src: src.name,
+            chapterUrl: ch.url
+          });
         } else {
           chaptersToScrape.push(ch);
         }

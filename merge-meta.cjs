@@ -29,8 +29,17 @@ const jsonStr = dataJs.substring(arrayStart, arrayEnd);
 const mangaList = JSON.parse(jsonStr);
 console.log('Parsed', mangaList.length, 'manga entries');
 
+function decodeEntities(s) {
+  return String(s)
+    .replace(/&#0?39;|&#x27;|&apos;/gi, "'")
+    .replace(/&amp;/gi, '&')
+    .replace(/&quot;/gi, '"')
+    .replace(/&lt;/gi, '<')
+    .replace(/&gt;/gi, '>')
+    .replace(/&#(\d+);/g, (_, d) => String.fromCharCode(parseInt(d, 10)));
+}
 function normalizeGenre(g) {
-  return g.replace(/_/g, ' ');
+  return decodeEntities(String(g).replace(/_/g, ' ')).replace(/\s+/g, ' ').trim();
 }
 
 mangaList.forEach((m, i) => {
@@ -66,8 +75,26 @@ mangaList.forEach((m, i) => {
 
 console.log('Manga updated:', updated);
 
+// Normaliza os gêneros de TODAS as obras (não só as que têm meta do MangaFreak,
+// mas também os +18 de madara/hentai20/mundohentai) e monta o ALL_GENRES a partir
+// do catálogo inteiro, descartando lixo (mojibake / vazio). Sem isto, os gêneros
+// +18 e em português nunca entram no filtro de gêneros.
+genreSet = new Set();
+const MOJIBAKE = /�/;
+mangaList.forEach(m => {
+  if (!Array.isArray(m.genres)) return;
+  const clean = [];
+  for (const g of m.genres) {
+    const ng = normalizeGenre(g);
+    if (!ng || MOJIBAKE.test(ng)) continue;
+    clean.push(ng);
+    genreSet.add(ng);
+  }
+  m.genres = [...new Set(clean)];
+});
+
 // Build new ALL_GENRES
-const allGenres = [...genreSet].sort();
+const allGenres = [...genreSet].sort((a, b) => a.localeCompare(b, 'pt-BR'));
 console.log('Genres:', allGenres.length, allGenres.slice(0, 10), '...');
 
 // Rebuild data.js
@@ -175,21 +202,21 @@ function filterManga(opts) {
 
 const ALL_GENRES = ${JSON.stringify(allGenres)};
 
+var ADULT_GENRE_KW = ['hentai','adulto','adult','+18','18+','nsfw','ecchi','smut','mature','maduro','erotic','erótic','erotica','bdsm','futanari','loli','shota','inces','tentacul','tentácul','zoofilia','obsceno','sem censura','uncensor','censura','nudez','nudity','sexual','sexo','mindbreak','ahegao','netorare','fetich','fetish','omegaverse','vanilla','borderline h'];
+function isAdultGenre(g) {
+  var s = String(g).toLowerCase();
+  return ADULT_GENRE_KW.some(function (k) { return s.indexOf(k) !== -1; });
+}
 function getAvailableGenres() {
-  const adultGenres = ['Adulto', 'Hentai', 'Ecchi', 'Mature', 'Smut'];
-  const adultMode = typeof localStorage !== 'undefined' && localStorage.getItem('ms_adult_mode') === 'true';
+  var adultMode = typeof localStorage !== 'undefined' && localStorage.getItem('ms_adult_mode') === 'true';
   if (adultMode) {
-    const nonAdult = ALL_GENRES.filter(g => !adultGenres.includes(g));
-    const activeAdult = ALL_GENRES.filter(g => adultGenres.includes(g));
-    activeAdult.sort((a, b) => {
-      if (a === 'Adulto') return -1;
-      if (b === 'Adulto') return 1;
-      return a.localeCompare(b, 'pt-BR');
-    });
-    return [...activeAdult, ...nonAdult];
-  } else {
-    return ALL_GENRES;
+    // Modo +18: gêneros adultos primeiro (em ordem), depois os demais.
+    var activeAdult = ALL_GENRES.filter(isAdultGenre).sort(function (a, b) { return a.localeCompare(b, 'pt-BR'); });
+    var nonAdult = ALL_GENRES.filter(function (g) { return !isAdultGenre(g); });
+    return activeAdult.concat(nonAdult);
   }
+  // Modo livre: esconde os gêneros +18.
+  return ALL_GENRES.filter(function (g) { return !isAdultGenre(g); });
 }
 
 let chaptersData = null;

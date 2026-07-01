@@ -71,7 +71,7 @@ async function fetchMdxChapterPages(chapterId) {
       return files.map(fn => `${base}/data/${hash}/${fn}`);
     } catch (e) {
       lastErr = e;
-      __mdxDebug = { attempt, error: e.message };
+      __mdxDebug = Object.assign({}, __mdxDebug, { attempt, error: e.message });
     }
   }
   console.error('fetchMdxChapterPages failed:', lastErr && lastErr.message);

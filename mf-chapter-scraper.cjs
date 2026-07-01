@@ -8,6 +8,10 @@ const DELAY = 200;
 const CONCURRENCY = 5;
 const RESUME_FILE = path.join(__dirname, 'js', 'mf-chapters-progress.json');
 const OUTPUT_FILE = path.join(__dirname, 'js', 'mf-chapters-data.json');
+// Teto de obras EXISTENTES re-scrapeadas por execução quando a contagem de
+// capítulos da lista cresceu (evita re-scrape gigante na 1ª execução). --all: sem teto.
+const FULL = process.argv.includes('--all');
+const REFRESH_MAX = parseInt(process.env.MF_REFRESH_MAX || (FULL ? '999999' : '400'), 10);
 
 const mangaList = require(path.join(__dirname, 'js', 'mf-manga-list.json'));
 
@@ -32,15 +36,20 @@ function fetch(url, redirects) {
 function delay(ms) { return new Promise(r => setTimeout(r, ms)); }
 
 let processed = new Set();
+// counts[slug] = contagem de capítulos que a lista mostrava na última vez que
+// escrapeamos este mangá. Usada para detectar crescimento genuíno (capítulo
+// novo) sem re-scrape perpétuo por divergência de contagem.
+let counts = {};
 
 if (fs.existsSync(RESUME_FILE)) {
   const saved = JSON.parse(fs.readFileSync(RESUME_FILE, 'utf8'));
   processed = new Set(saved.processed || []);
+  counts = saved.counts || {};
   console.log(`Resuming: ${processed.size} already processed`);
 }
 
 function saveProgress() {
-  fs.writeFileSync(RESUME_FILE, JSON.stringify({ processed: [...processed] }), 'utf8');
+  fs.writeFileSync(RESUME_FILE, JSON.stringify({ processed: [...processed], counts }), 'utf8');
 }
 
 function extractChapters(html, slug) {
@@ -72,10 +81,21 @@ function extractChapters(html, slug) {
   });
 }
 
+function mangaIdOf(manga) {
+  return manga.id || manga.slug.toLowerCase().replace(/_/g, '-');
+}
+
+// Quantos capítulos a lista indica a MAIS do que na última vez que escrapeamos
+// este mangá. Sinal barato (usa a contagem já capturada por mf-scraper), sem
+// fetch extra, e sem churn perpétuo (compara com o último visto, não com o site).
+function chapterGap(manga) {
+  const listed = parseInt(manga.chapters, 10) || 0;
+  return listed - (counts[manga.slug] || 0);
+}
+
 async function processManga(manga) {
   const slug = manga.slug;
-  if (processed.has(slug)) return;
-  
+
   try {
     const html = await fetch(`${BASE}/Manga/${slug}`);
     const chapters = extractChapters(html, slug);
@@ -104,10 +124,12 @@ async function processManga(manga) {
       }));
       
       existing['en'] = newEnChapters;
-      
+
       fs.writeFileSync(targetFile, JSON.stringify(existing, null, 2), 'utf8');
+      // Registra a contagem vista na lista → base para detectar crescimento futuro.
+      counts[slug] = parseInt(manga.chapters, 10) || newEnChapters.length;
     }
-    
+
     processed.add(slug);
     const pct = ((processed.size / mangaList.length) * 100).toFixed(1);
     process.stdout.write(`\r${pct}% - ${slug}: ${chapters.length} chs        `);
@@ -122,10 +144,23 @@ async function processManga(manga) {
 
 async function main() {
   console.log(`=== Fase 2: Extraindo capítulos de ${mangaList.length} mangás ===`);
-  
-  const toProcess = mangaList.filter(m => !processed.has(m.slug));
-  console.log(`Pendentes: ${toProcess.length}`);
-  
+
+  // NOVOS — nunca processados. Sempre entram.
+  const novos = mangaList.filter(m => !processed.has(m.slug));
+  // REFRESH — já processados mas cuja lista indica MAIS capítulos do que temos
+  // salvo (ganharam capítulo novo). Prioriza o maior atraso e limita por
+  // REFRESH_MAX para não re-scrapear tudo de uma vez.
+  const refresh = mangaList
+    .filter(m => processed.has(m.slug))
+    .map(m => ({ m, gap: chapterGap(m) }))
+    .filter(x => x.gap > 0)
+    .sort((a, b) => b.gap - a.gap)
+    .slice(0, REFRESH_MAX)
+    .map(x => x.m);
+
+  const toProcess = [...novos, ...refresh];
+  console.log(`Pendentes: ${novos.length} novos + ${refresh.length} com capítulos novos (teto refresh ${REFRESH_MAX}) = ${toProcess.length}`);
+
   for (let i = 0; i < toProcess.length; i += CONCURRENCY) {
     const batch = toProcess.slice(i, i + CONCURRENCY);
     await Promise.all(batch.map(m => processManga(m).then(() => delay(DELAY))));

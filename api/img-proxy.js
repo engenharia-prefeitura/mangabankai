@@ -1,6 +1,16 @@
 // img-proxy v3 — suporta: mangafreak, leituramanga, mangalivre, mundohentai, mangadex
 const https = require('https');
 const http = require('http');
+const zlib = require('zlib');
+
+function decompress(buf, encoding) {
+  switch ((encoding || '').toLowerCase()) {
+    case 'gzip': return zlib.gunzipSync(buf);
+    case 'br': return zlib.brotliDecompressSync(buf);
+    case 'deflate': return zlib.inflateSync(buf);
+    default: return buf;
+  }
+}
 
 function fetchBinary(url, redirects = 0) {
   return new Promise((resolve, reject) => {
@@ -34,11 +44,17 @@ function fetchBinary(url, redirects = 0) {
       }
       const chunks = [];
       res.on('data', c => chunks.push(c));
-      res.on('end', () => resolve({
-        buf: Buffer.concat(chunks),
-        contentType: res.headers['content-type'] || 'image/jpeg',
-        status: res.statusCode
-      }));
+      res.on('end', () => {
+        let buf = Buffer.concat(chunks);
+        try {
+          buf = decompress(buf, res.headers['content-encoding']);
+        } catch (_) { /* corpo já vem descomprimido apesar do header — usa como está */ }
+        resolve({
+          buf,
+          contentType: res.headers['content-type'] || 'image/jpeg',
+          status: res.statusCode
+        });
+      });
     });
     req.on('error', reject);
     req.on('timeout', () => { req.destroy(); reject(new Error('Timeout')); });

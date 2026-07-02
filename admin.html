@@ -206,24 +206,36 @@
     }
     
     /* Estatísticas */
+    .stats-tabs { display:flex; gap:8px; margin-bottom:18px; flex-wrap:wrap; }
+    .stats-tab { padding:8px 14px; border-radius:10px; border:1px solid var(--border); background:var(--surface2); color:var(--muted); font-family:'Inter',sans-serif; font-size:0.8rem; font-weight:600; cursor:pointer; transition:all .2s; }
+    .stats-tab.active { border-color:var(--accent); color:var(--text); background:rgba(108,99,255,.15); }
+    .stats-pane { display:none; }
+    .stats-pane.active { display:block; }
     .kpis { display:grid; grid-template-columns:repeat(auto-fit, minmax(150px, 1fr)); gap:12px; margin-bottom:20px; }
-    .kpi { background:var(--surface2); border:1px solid var(--border); border-radius:12px; padding:14px 12px; text-align:center; }
-    .kpi-v { font-size:1.35rem; font-weight:700; color:var(--text); }
-    .kpi-l { font-size:0.68rem; color:var(--muted); margin-top:4px; text-transform:uppercase; letter-spacing:.4px; }
-    .kpi-s { font-size:0.68rem; color:var(--accent); margin-top:2px; }
-    .chart-box { background:var(--surface2); border:1px solid var(--border); border-radius:12px; padding:14px; margin-bottom:16px; }
-    .chart-title { font-size:0.78rem; color:var(--muted); margin-bottom:10px; font-weight:600; }
+    .kpi { background:var(--surface2); border:1px solid var(--border); border-radius:12px; padding:14px 12px; text-align:center; min-width:0; }
+    .kpi-v { font-size:1.3rem; font-weight:700; color:var(--text); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .kpi-l { font-size:0.66rem; color:var(--muted); margin-top:4px; text-transform:uppercase; letter-spacing:.4px; }
+    .kpi-s { font-size:0.68rem; color:var(--accent); margin-top:2px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .chart-box { background:var(--surface2); border:1px solid var(--border); border-radius:12px; padding:14px; margin-bottom:16px; min-width:0; overflow:hidden; }
+    .chart-title { font-size:0.78rem; color:var(--text); margin-bottom:2px; font-weight:600; }
+    .chart-sub { font-size:0.68rem; color:var(--muted); margin-bottom:10px; }
     .bars { display:flex; align-items:flex-end; gap:2px; height:90px; }
     .bars .bar { flex:1; background:linear-gradient(180deg,var(--accent),rgba(108,99,255,.35)); border-radius:3px 3px 0 0; min-height:2px; position:relative; }
     .bars .bar:hover::after { content:attr(data-tip); position:absolute; bottom:100%; left:50%; transform:translateX(-50%); background:#000; color:#fff; font-size:0.65rem; padding:3px 7px; border-radius:6px; white-space:nowrap; z-index:5; margin-bottom:4px; }
-    .stats-grid2 { display:grid; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); gap:16px; margin-bottom:16px; }
-    .stbl { width:100%; border-collapse:collapse; font-size:0.78rem; }
+    .stats-grid2 { display:grid; grid-template-columns:1fr 1fr; gap:16px; margin-bottom:16px; }
+    @media (max-width: 700px) { .stats-grid2 { grid-template-columns:1fr; } }
+    /* table-layout:fixed + ellipsis → título longo nunca vaza do card */
+    .stbl { width:100%; border-collapse:collapse; font-size:0.78rem; table-layout:fixed; }
     .stbl th { text-align:left; color:var(--muted); font-weight:600; padding:6px 8px; border-bottom:1px solid var(--border); font-size:0.7rem; text-transform:uppercase; letter-spacing:.4px; }
     .stbl td { padding:6px 8px; border-bottom:1px solid rgba(255,255,255,0.04); color:var(--text); }
-    .stbl td.num { text-align:right; color:var(--accent); font-weight:700; }
-    .stbl-wrap { max-height:320px; overflow-y:auto; }
-    .stbl-wrap::-webkit-scrollbar { width:4px; }
+    .stbl th, .stbl td { overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .stbl td.num, .stbl th.num { text-align:right; color:var(--accent); font-weight:700; }
+    .stbl .c-rank { width:30px; }
+    .stbl .c-val { width:76px; }
+    .stbl-wrap { max-height:340px; overflow-y:auto; overflow-x:auto; }
+    .stbl-wrap::-webkit-scrollbar { width:4px; height:4px; }
     .stbl-wrap::-webkit-scrollbar-thumb { background:var(--border); border-radius:2px; }
+    .stbl.wide { min-width:720px; } /* tabela de usuários rola na horizontal no mobile */
     .mini-btn { padding:4px 10px; border-radius:6px; border:none; cursor:pointer; font-size:0.72rem; font-weight:600; font-family:'Inter',sans-serif; }
 
     @media (max-width: 768px) {
@@ -276,8 +288,13 @@
     <h2>📊 Estatísticas do Site</h2>
     <p style="font-size:0.82rem; color:var(--muted); margin:4px 0 16px;">
       Usuários, tempo de uso (cadastrados e anônimos), rankings de leitura, buscas sem resultado e reports de capítulos.
-      O tempo de uso passa a contar a partir de agora (telemetria nova).
     </p>
+    <div class="stats-tabs" id="statsTabs" style="display:none;">
+      <button class="stats-tab active" data-pane="overview" onclick="switchStatsTab('overview')">📈 Visão Geral</button>
+      <button class="stats-tab" data-pane="rankings" onclick="switchStatsTab('rankings')">🏆 Rankings</button>
+      <button class="stats-tab" data-pane="users" onclick="switchStatsTab('users')">👤 Usuários</button>
+      <button class="stats-tab" data-pane="feedback" onclick="switchStatsTab('feedback')">🔍 Buscas &amp; Reports</button>
+    </div>
     <div id="statsBody" style="color:var(--muted); font-size:0.85rem;">Carregando estatísticas…</div>
   </div>
 
@@ -1171,12 +1188,22 @@ function barsChart(rows, valueKey, tipFn) {
     return '<div class="bar" style="height:' + pct + '%" data-tip="' + tipFn(r) + '"></div>';
   }).join('') + '</div>';
 }
-function topTable(title, rows, valueLabel) {
+function topTable(title, sub, rows, valueLabel) {
   const body = (rows && rows.length)
-    ? rows.map((r, i) => '<tr><td style="color:var(--muted)">' + (i + 1) + '.</td><td style="max-width:180px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">'
+    ? rows.map((r, i) => '<tr><td style="color:var(--muted)">' + (i + 1) + '.</td><td title="' + escHtml(r.title || r.manga_id) + '">'
         + '<a href="/manga/' + r.manga_id + '/" target="_blank" style="color:var(--text);text-decoration:none">' + escHtml(r.title || r.manga_id) + '</a></td><td class="num">' + Number(r.n).toLocaleString('pt-BR') + '</td></tr>').join('')
     : '<tr><td colspan="3" style="color:var(--muted)">Sem dados ainda.</td></tr>';
-  return '<div class="chart-box"><div class="chart-title">' + title + '</div><table class="stbl"><thead><tr><th></th><th>Mangá</th><th style="text-align:right">' + valueLabel + '</th></tr></thead><tbody>' + body + '</tbody></table></div>';
+  return '<div class="chart-box"><div class="chart-title">' + title + '</div>'
+    + (sub ? '<div class="chart-sub">' + sub + '</div>' : '')
+    + '<table class="stbl"><colgroup><col class="c-rank"><col><col class="c-val"></colgroup>'
+    + '<thead><tr><th></th><th>Mangá</th><th class="num">' + valueLabel + '</th></tr></thead><tbody>' + body + '</tbody></table></div>';
+}
+
+function switchStatsTab(name) {
+  document.querySelectorAll('#statsTabs .stats-tab').forEach(b =>
+    b.classList.toggle('active', b.getAttribute('data-pane') === name));
+  document.querySelectorAll('#statsBody .stats-pane').forEach(p =>
+    p.classList.toggle('active', p.id === 'pane-' + name));
 }
 
 async function loadStats() {
@@ -1195,11 +1222,11 @@ function renderStats(d) {
   const u = d.usage || {};
   const ret = d.retention7d || { base: 0, returned: 0 };
   const retPct = ret.base > 0 ? Math.round(ret.returned / ret.base * 100) + '%' : '—';
-  const devices = (d.devices7d || []).map(x => x.device + ' ' + x.n).join(' · ') || '—';
+  const devices = (d.devices7d || []).map(x => (x.device === 'mobile' ? '📱 ' : '🖥 ') + x.n).join(' · ') || '—';
   document.getElementById('pushSubsCount').textContent = (d.push.total || 0).toLocaleString('pt-BR');
 
-  // KPIs
-  let html = '<div class="kpis">'
+  // ── Aba 1: Visão Geral (KPIs + gráficos) ─────────────────────────────
+  let overview = '<div class="kpis">'
     + kpi(Number(d.users.total).toLocaleString('pt-BR'), 'Usuários cadastrados')
     + kpi(Number(d.push.total).toLocaleString('pt-BR'), 'Push ativos', d.push.linked + ' ligados a contas')
     + kpi(Number(u.dau || 0).toLocaleString('pt-BR'), 'Visitantes hoje')
@@ -1209,30 +1236,28 @@ function renderStats(d) {
     + kpi(fmtDur(u.reading_7d), 'Tempo de leitura 7d', fmtDur(u.reading_30d) + ' em 30d')
     + kpi(Number(u.pages_7d || 0).toLocaleString('pt-BR'), 'Páginas lidas 7d', Number(u.pages_30d || 0).toLocaleString('pt-BR') + ' em 30d')
     + kpi(retPct, 'Retenção 7 dias', ret.returned + ' de ' + ret.base + ' voltaram')
-    + kpi(devices, 'Dispositivos 7d')
+    + kpi(devices, 'Dispositivos 7d', 'mobile · desktop')
     + '</div>';
-
-  // Gráficos
-  html += '<div class="stats-grid2">'
-    + '<div class="chart-box"><div class="chart-title">👥 Visitantes por dia (30d)</div>'
+  overview += '<div class="stats-grid2">'
+    + '<div class="chart-box"><div class="chart-title">👥 Visitantes por dia</div><div class="chart-sub">Últimos 30 dias (passe o mouse para detalhes)</div>'
     + barsChart(d.usagePerDay, 'visitors', r => fmtDate(r.d) + ': ' + r.visitors + ' visitantes · ' + fmtDur(r.secs)) + '</div>'
-    + '<div class="chart-box"><div class="chart-title">✍️ Cadastros por dia (30d)</div>'
+    + '<div class="chart-box"><div class="chart-title">✍️ Cadastros por dia</div><div class="chart-sub">Últimos 30 dias</div>'
     + barsChart(d.signupsPerDay, 'n', r => fmtDate(r.d) + ': ' + r.n + ' cadastros') + '</div>'
     + '</div>';
 
-  // Rankings
-  html += '<div class="stats-grid2">'
-    + topTable('🔥 Em alta (7 dias)', d.top.trending7d, 'views')
-    + topTable('📖 Mais lidos (histórico)', d.top.read, 'leitores')
-    + topTable('❤️ Mais favoritados', d.top.favorited, 'favs')
-    + topTable('👁 Mais vistos (total)', d.top.viewed, 'views')
+  // ── Aba 2: Rankings (2 colunas) ──────────────────────────────────────
+  const rankings = '<div class="stats-grid2">'
+    + topTable('🔥 Em alta na semana', 'Views nos últimos 7 dias', d.top.trending7d, 'views')
+    + topTable('👁 Mais vistos', 'Views acumuladas desde o início', d.top.viewed, 'views')
+    + topTable('📖 Mais lidos por contas', 'Quantos usuários cadastrados têm progresso de leitura na obra (anônimos não entram)', d.top.read, 'contas')
+    + topTable('❤️ Mais favoritados', 'Quantas contas favoritaram a obra', d.top.favorited, 'contas')
     + '</div>';
 
-  // Usuários
+  // ── Aba 3: Usuários ──────────────────────────────────────────────────
   const usersRows = (d.users.list || []).map(usr => {
     const online = usr.seconds_total > 0 ? fmtDur(usr.seconds_total) : '—';
     return '<tr>'
-      + '<td>' + escHtml(usr.username) + (usr.role === 'admin' ? ' <span style="color:var(--accent2);font-size:0.65rem">ADMIN</span>' : '') + '</td>'
+      + '<td title="' + escHtml(usr.username) + '">' + escHtml(usr.username) + (usr.role === 'admin' ? ' <span style="color:var(--accent2);font-size:0.65rem">ADMIN</span>' : '') + '</td>'
       + '<td>' + fmtDate(usr.created_at) + '</td>'
       + '<td class="num">' + usr.reads + '</td>'
       + '<td class="num">' + usr.favs + '</td>'
@@ -1242,30 +1267,40 @@ function renderStats(d) {
       + '<td><button class="mini-btn" style="background:var(--surface);border:1px solid var(--border);color:var(--text)" onclick="viewUserReading(' + usr.id + ', \'' + escHtml(usr.username).replace(/'/g, '') + '\')">📖 leituras</button></td>'
       + '</tr>';
   }).join('') || '<tr><td colspan="8" style="color:var(--muted)">Nenhum usuário cadastrado.</td></tr>';
-  html += '<div class="chart-box"><div class="chart-title">👤 Usuários cadastrados (' + d.users.total + ')</div>'
-    + '<div class="stbl-wrap"><table class="stbl"><thead><tr><th>Usuário</th><th>Cadastro</th><th style="text-align:right">Leituras</th><th style="text-align:right">Favs</th><th>Tempo de uso</th><th>Push</th><th>Última leitura</th><th></th></tr></thead><tbody>'
+  const users = '<div class="chart-box"><div class="chart-title">👤 Usuários cadastrados (' + d.users.total + ')</div>'
+    + '<div class="chart-sub">Clique em "leituras" para ver o histórico completo de cada um</div>'
+    + '<div class="stbl-wrap"><table class="stbl wide">'
+    + '<colgroup><col style="width:140px"><col style="width:80px"><col style="width:70px"><col style="width:60px"><col style="width:100px"><col style="width:60px"><col style="width:100px"><col style="width:110px"></colgroup>'
+    + '<thead><tr><th>Usuário</th><th>Cadastro</th><th class="num">Leituras</th><th class="num">Favs</th><th>Tempo de uso</th><th>Push</th><th>Última leitura</th><th></th></tr></thead><tbody>'
     + usersRows + '</tbody></table></div></div>';
 
-  // Buscas sem resultado + Reports
+  // ── Aba 4: Buscas & Reports ──────────────────────────────────────────
   const missRows = (d.searchMisses || []).map(m =>
-    '<tr><td>' + escHtml(m.query) + '</td><td class="num">' + m.count + '</td><td style="color:var(--muted)">' + fmtDate(m.last_at) + '</td></tr>'
+    '<tr><td title="' + escHtml(m.query) + '">' + escHtml(m.query) + '</td><td class="num">' + m.count + '</td><td style="color:var(--muted)">' + fmtDate(m.last_at) + '</td></tr>'
   ).join('') || '<tr><td colspan="3" style="color:var(--muted)">Nenhuma busca sem resultado registrada.</td></tr>';
   const repRows = (d.reports || []).map(r => {
     const reasonLabel = { broken: '🖼️ imagens', wrong: '🔀 cap. errado', other: '❓ outro' }[r.reason] || r.reason;
-    return '<tr><td style="max-width:160px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">'
+    return '<tr><td title="' + escHtml(r.title || r.manga_id) + '">'
       + '<a href="/manga/' + r.manga_id + '/' + encodeURIComponent(r.chapter) + '" target="_blank" style="color:var(--text)">' + escHtml(r.title || r.manga_id) + '</a></td>'
-      + '<td>Cap. ' + escHtml(r.chapter) + '</td><td>' + reasonLabel + '</td><td class="num">' + r.count + '×</td>'
+      + '<td>' + escHtml(r.chapter) + '</td><td>' + reasonLabel + '</td><td class="num">' + r.count + '×</td>'
       + '<td><button class="mini-btn" style="background:var(--green);color:#000" onclick="resolveReport(' + r.id + ', this)">✓ Resolver</button></td></tr>';
   }).join('') || '<tr><td colspan="5" style="color:var(--muted)">Nenhum report aberto. 🎉</td></tr>';
-
-  html += '<div class="stats-grid2">'
-    + '<div class="chart-box"><div class="chart-title">🔍 Buscas sem resultado (o que os leitores querem e não têm)</div>'
-    + '<div class="stbl-wrap"><table class="stbl"><thead><tr><th>Termo</th><th style="text-align:right">Vezes</th><th>Última</th></tr></thead><tbody>' + missRows + '</tbody></table></div></div>'
-    + '<div class="chart-box"><div class="chart-title">⚠️ Capítulos reportados com problema</div>'
-    + '<div class="stbl-wrap"><table class="stbl"><thead><tr><th>Mangá</th><th>Cap.</th><th>Motivo</th><th style="text-align:right">Reports</th><th></th></tr></thead><tbody>' + repRows + '</tbody></table></div></div>'
+  const feedback = '<div class="stats-grid2">'
+    + '<div class="chart-box"><div class="chart-title">🔍 Buscas sem resultado</div><div class="chart-sub">O que os leitores procuram e o site ainda não tem</div>'
+    + '<div class="stbl-wrap"><table class="stbl"><colgroup><col><col class="c-val"><col style="width:80px"></colgroup>'
+    + '<thead><tr><th>Termo</th><th class="num">Vezes</th><th>Última</th></tr></thead><tbody>' + missRows + '</tbody></table></div></div>'
+    + '<div class="chart-box"><div class="chart-title">⚠️ Capítulos reportados</div><div class="chart-sub">Problemas apontados pelos leitores no botão do leitor</div>'
+    + '<div class="stbl-wrap"><table class="stbl"><colgroup><col><col style="width:60px"><col style="width:96px"><col style="width:64px"><col style="width:92px"></colgroup>'
+    + '<thead><tr><th>Mangá</th><th>Cap.</th><th>Motivo</th><th class="num">Qtd</th><th></th></tr></thead><tbody>' + repRows + '</tbody></table></div></div>'
     + '</div>';
 
-  el.innerHTML = html;
+  el.style.color = '';
+  el.innerHTML =
+    '<div class="stats-pane active" id="pane-overview">' + overview + '</div>'
+    + '<div class="stats-pane" id="pane-rankings">' + rankings + '</div>'
+    + '<div class="stats-pane" id="pane-users">' + users + '</div>'
+    + '<div class="stats-pane" id="pane-feedback">' + feedback + '</div>';
+  document.getElementById('statsTabs').style.display = 'flex';
 }
 
 async function viewUserReading(userId, username) {
@@ -1284,11 +1319,12 @@ async function viewUserReading(userId, username) {
     const data = await res.json();
     const rows = (data.reading || []).map(r => {
       const pct = r.total_pages > 0 ? Math.round((r.page_index + 1) / r.total_pages * 100) : 0;
-      return '<tr><td style="max-width:220px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">'
+      return '<tr><td title="' + escHtml(r.title || r.manga_id) + '">'
         + '<a href="/manga/' + r.manga_id + '/" target="_blank" style="color:var(--text)">' + escHtml(r.title || r.manga_id) + '</a></td>'
         + '<td>' + escHtml(String(r.chapter_id)) + '</td><td class="num">' + pct + '%</td><td style="color:var(--muted)">' + fmtDate(r.updated_at) + '</td></tr>';
     }).join('') || '<tr><td colspan="4" style="color:var(--muted)">Este usuário ainda não leu nada.</td></tr>';
-    document.getElementById('urBody').innerHTML = '<table class="stbl"><thead><tr><th>Mangá</th><th>Capítulo</th><th style="text-align:right">Prog.</th><th>Quando</th></tr></thead><tbody>' + rows + '</tbody></table>';
+    document.getElementById('urBody').innerHTML = '<table class="stbl"><colgroup><col><col style="width:110px"><col style="width:56px"><col style="width:80px"></colgroup>'
+      + '<thead><tr><th>Mangá</th><th>Capítulo</th><th class="num">Prog.</th><th>Quando</th></tr></thead><tbody>' + rows + '</tbody></table>';
   } catch (e) {
     document.getElementById('urBody').textContent = 'Erro ao carregar.';
   }

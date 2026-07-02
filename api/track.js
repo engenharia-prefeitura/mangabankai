@@ -6,8 +6,9 @@
 // então se houver sessão válida o uso é ligado ao usuário logado.
 const { ensureConnection } = require('../lib/db');
 const jwt = require('jsonwebtoken');
+const { checkRateLimit, getClientIp } = require('../lib/rate-limit');
 
-const JWT_SECRET = process.env.JWT_SECRET || 'mangabankai-secret-default-key-12345';
+const JWT_SECRET = process.env.JWT_SECRET;
 
 function getCookieValue(str, name) {
   if (!str) return null;
@@ -93,6 +94,18 @@ async function report(req, res) {
 }
 
 module.exports = async (req, res) => {
+  if (!JWT_SECRET) {
+    return res.status(500).json({ ok: false, error: 'Segredo JWT não configurado no servidor' });
+  }
+
+  const ip = getClientIp(req);
+  // Rate limit para telemetria por IP (60 requisições por minuto)
+  const trackLimit = await checkRateLimit(`track_ip:${ip}`, 60, 60);
+  if (trackLimit.limited) {
+    res.setHeader('Retry-After', trackLimit.retryAfter);
+    return res.status(429).json({ ok: false, error: 'Muitas requisições de telemetria.' });
+  }
+
   if (req.method !== 'POST') {
     res.setHeader('Allow', ['POST']);
     return res.status(405).json({ ok: false, error: 'Método não permitido' });

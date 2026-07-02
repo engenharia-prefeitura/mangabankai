@@ -5,7 +5,7 @@
 const { ensureConnection } = require('../lib/db');
 const jwt = require('jsonwebtoken');
 
-const JWT_SECRET = process.env.JWT_SECRET || 'mangabankai-secret-default-key-12345';
+const JWT_SECRET = process.env.JWT_SECRET;
 
 // Chave pública VAPID (pode ficar no código; a privada é secret no envio).
 const VAPID_PUBLIC = process.env.VAPID_PUBLIC ||
@@ -19,6 +19,9 @@ function userIdFrom(req) {
 }
 
 module.exports = async (req, res) => {
+  if (!JWT_SECRET) {
+    return res.status(500).json({ error: 'Segredo JWT não configurado no servidor' });
+  }
   const action = (req.query && req.query.action) || '';
 
   if (req.method === 'GET' && action === 'key') {

@@ -4,7 +4,7 @@ const https = require('https');
 const fs = require('fs');
 const path = require('path');
 
-const JWT_SECRET = process.env.JWT_SECRET || 'mangabankai-secret-default-key-12345';
+const JWT_SECRET = process.env.JWT_SECRET;
 // .trim() remove \r\n ou espaços acidentais (ex: token colado via PowerShell echo)
 const GITHUB_PAT = (process.env.GITHUB_PAT || '').trim();
 const GITHUB_OWNER = 'engenharia-prefeitura';
@@ -398,6 +398,9 @@ async function reportResolve(req, res) {
 
 // ── router ─────────────────────────────────────────────────────────────
 module.exports = async (req, res) => {
+  if (!JWT_SECRET) {
+    return res.status(500).json({ error: 'Segredo JWT não configurado no servidor' });
+  }
   const action = (req.query && req.query.action) || '';
   if (action === 'search-manga') return searchManga(req, res);
   if (action === 'toggle-hidden') return toggleHidden(req, res);

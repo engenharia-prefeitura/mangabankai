@@ -1,7 +1,7 @@
 const { ensureConnection } = require('../lib/db');
 const jwt = require('jsonwebtoken');
 
-const JWT_SECRET = process.env.JWT_SECRET || 'mangabankai-secret-default-key-12345';
+const JWT_SECRET = process.env.JWT_SECRET;
 
 function getCookieValue(str, name) {
   if (!str) return null;
@@ -133,6 +133,9 @@ async function history(req, res) {
 }
 
 module.exports = async (req, res) => {
+  if (!JWT_SECRET) {
+    return res.status(500).json({ error: 'Segredo JWT não configurado no servidor' });
+  }
   const action = (req.query && req.query.action) || '';
   if (action === 'favorites') return favorites(req, res);
   if (action === 'views') return views(req, res);

@@ -820,3 +820,62 @@ window.registerMangaView = function(mangaId) {
 window.addEventListener('DOMContentLoaded', () => {
   window.checkAuth();
 });
+
+// ========== DETECTOR DE DEVTOOLS (Proteção contra Curiosos) ==========
+(function () {
+  // Ignora se for localhost para facilitar desenvolvimento
+  if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
+    return;
+  }
+
+  // Bypass via query param (?bypass_dt=1) ou localStorage para permitir depuração autorizada em produção
+  if (window.location.search.includes('bypass_dt=1')) {
+    localStorage.setItem('mb_bypass_devtools', '1');
+  }
+  if (localStorage.getItem('mb_bypass_devtools') === '1') {
+    return;
+  }
+
+  // Checa se o usuário atual é admin. Se sim, bypass automático
+  function checkAdminAndDetect() {
+    if (window.currentUser && window.currentUser.role === 'admin') {
+      return;
+    }
+
+    const start = performance.now();
+    // A declaração debugger pausa a execução se o DevTools estiver aberto.
+    // Se demorar mais de 100ms entre as medidas de tempo, assume-se que está aberto.
+    debugger;
+    const end = performance.now();
+
+    if (end - start > 100) {
+      document.body.innerHTML = `
+        <div style="
+          display:flex;
+          flex-direction:column;
+          align-items:center;
+          justify-content:center;
+          height:100vh;
+          background:#0b0b10;
+          color:#e8e8ef;
+          font-family:sans-serif;
+          font-size:1.15rem;
+          font-weight:600;
+          text-align:center;
+          padding:24px;
+          box-sizing:border-box;
+        ">
+          <span style="font-size:2.5rem;margin-bottom:16px;">🛡️</span>
+          Ferramentas de desenvolvedor desativadas para esta sessão.
+        </div>
+      `;
+      // Recarrega recursivamente para congelar o DevTools
+      setTimeout(function () {
+        window.location.reload();
+      }, 500);
+    }
+  }
+
+  // Inicia o intervalo de monitoramento periódico (a cada 2 segundos)
+  setInterval(checkAdminAndDetect, 2000);
+})();

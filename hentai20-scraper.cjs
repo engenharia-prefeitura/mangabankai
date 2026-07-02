@@ -343,20 +343,16 @@ async function main() {
       for (let j = 0; j < chapters.length; j++) {
         const ch = chapters[j];
         const prev = existingChMap.get(String(ch.number));
-        if (prev && prev.pages && prev.pages.length > 0) {
-          chapList.push(prev); // já baixado → mantém (não re-baixa)
+        if (prev) {
+          chapList.push(prev); // já catalogado → mantém (mesmo com pages:[])
           continue;
         }
-        const pages = await fetchH20ChapterPages(ch.url);
-        await sleep(350);
-        if (!pages.length) continue;
         newChapters++;
         chapList.push({
           id: `${slug}-ch-${ch.number}`, number: ch.number, title: ch.title,
-          date: new Date().toISOString(), pages, src: 'hentai20', chapterUrl: ch.url
+          date: new Date().toISOString(), pages: [], src: 'hentai20', chapterUrl: ch.url
         });
       }
-      if (!chapList.length) { console.warn(`⚠️ ${slug}: nenhuma página, pulando.`); continue; }
       chapList.sort((a, b) => a.number - b.number);
 
       const mangaEntry = {

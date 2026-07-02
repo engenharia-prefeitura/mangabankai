@@ -1248,17 +1248,15 @@ async function runH20Scrape(signal, mode) {
         const chapList = [];
         for (let j = 0; j < chapters.length; j++) {
           const ch = chapters[j];
-          const pages = await fetchH20ChapterPages(ch.url);
           chapList.push({
             id: `${slug}-ch-${ch.number}`,
             number: ch.number,
             title: ch.title,
             date: new Date().toISOString(),
-            pages,
+            pages: [],
             src: 'hentai20',
             chapterUrl: ch.url
           });
-          await sleep(350);
         }
         chapList.sort((a, b) => a.number - b.number);
         mangaEntry.chaptersCount = chapList.length;
@@ -1956,7 +1954,13 @@ http.createServer((req, res) => {
     log(lang, `🔍 Resolvendo páginas (${lang.toUpperCase()}): ${mangaId} cap ${chNum}`);
     let resolver;
     if (lang === 'en') {
-      resolver = fetchEnChapterPages(slug, chNum);
+      const chapObj = loadChaptersFile(mangaId);
+      const ch = chapObj.en && chapObj.en.find(c => String(c.number) === String(chNum));
+      if (ch && ch.src === 'hentai20' && ch.chapterUrl) {
+        resolver = fetchH20ChapterPages(ch.chapterUrl);
+      } else {
+        resolver = fetchEnChapterPages(slug, chNum);
+      }
     } else {
       const chapObj = loadChaptersFile(mangaId);
       const ch = chapObj.pt && chapObj.pt.find(c => String(c.number) === String(chNum));

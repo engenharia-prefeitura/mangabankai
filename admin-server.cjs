@@ -1167,25 +1167,48 @@ async function runH20Scrape(signal, mode) {
 
   // Fase A: descobre slugs nas páginas de listagem
   try {
-    const html1 = await fetchH20Url(`${BASE_H20}/manga/?m_orderby=latest`);
-    const { slugs: s1, totalPages: tp } = parseH20ListPage(html1);
-    s1.forEach(s => allSlugs.add(s));
-    const totalPages = Math.min(tp, maxPages);
-    log('en', `  Hentai20: ${totalPages} pág(s), ${allSlugs.size} slug(s) na pág. 1.`);
-    updateSubStep('en', 'hentai20', { total: totalPages });
+    let p = 1;
+    let consecutiveEmptyOrDup = 0;
+    log('en', `  Hentai20: Buscando catálogo...`);
 
-    if (totalPages > 1) {
-      let nextP = 2;
-      await Promise.all(Array.from({ length: Math.min(10, totalPages - 1) }, async () => {
-        while (nextP <= totalPages && !signal.aborted) {
-          const p = nextP++;
-          try {
-            const html = await fetchH20Url(`${BASE_H20}/manga/page/${p}/?m_orderby=latest`);
-            parseH20ListPage(html).slugs.forEach(s => allSlugs.add(s));
-          } catch (e) { log('en', `⚠️ Hentai20: Erro pág.${p}: ${e.message}`, 'warn'); }
-          await sleep(250);
+    while (p <= maxPages && !signal.aborted) {
+      try {
+        const url = p === 1 ? `${BASE_H20}/manga/?m_orderby=latest` : `${BASE_H20}/manga/?page=${p}&m_orderby=latest`;
+        const html = await fetchH20Url(url);
+        const { slugs } = parseH20ListPage(html);
+
+        if (!slugs || slugs.length === 0 || html.includes('class="no-results"') || html.includes('not-found')) {
+          log('en', `  Hentai20: Fim do catálogo detectado na página ${p}.`);
+          break;
         }
-      }));
+
+        let newSlugsCount = 0;
+        for (const s of slugs) {
+          if (!allSlugs.has(s)) {
+            allSlugs.add(s);
+            newSlugsCount++;
+          }
+        }
+
+        log('en', `  Hentai20: Página ${p} carregada (${slugs.length} obras, ${newSlugsCount} novas).`);
+        updateSubStep('en', 'hentai20', { processed: p, total: maxPages === 9999 ? p + 1 : maxPages });
+
+        if (newSlugsCount === 0) {
+          consecutiveEmptyOrDup++;
+          if (consecutiveEmptyOrDup >= 2) {
+            log('en', `  Hentai20: Fim do catálogo ou repetição detectada.`);
+            break;
+          }
+        } else {
+          consecutiveEmptyOrDup = 0;
+        }
+
+        p++;
+        await sleep(350);
+      } catch (e) {
+        log('en', `⚠️ Hentai20: Erro pág.${p}: ${e.message}`, 'warn');
+        break;
+      }
     }
   } catch (e) {
     log('en', `⚠️ Hentai20: Falha ao listar catálogo: ${e.message}`, 'warn');

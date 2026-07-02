@@ -242,22 +242,54 @@ async function main() {
   const allSlugs = new Set();
   
   try {
-    const html1 = await fetchH20Url(`${BASE_H20}/manga/?m_orderby=latest`);
-    const { slugs: s1, totalPages: tp } = parseH20ListPage(html1);
-    s1.forEach(s => allSlugs.add(s));
+    let p = 1;
+    let consecutiveEmptyOrDup = 0;
+    console.log(`- Escaneando páginas do catálogo (teto: ${MAX_PAGES} páginas)...`);
     
-    const pagesToScan = Math.min(tp, MAX_PAGES);
-    console.log(`- Catálogo tem ${tp} páginas. Escaneando ${pagesToScan} páginas...`);
-    
-    for (let p = 2; p <= pagesToScan; p++) {
+    while (p <= MAX_PAGES) {
       try {
-        const html = await fetchH20Url(`${BASE_H20}/manga/page/${p}/?m_orderby=latest`);
+        const url = p === 1 ? `${BASE_H20}/manga/?m_orderby=latest` : `${BASE_H20}/manga/?page=${p}&m_orderby=latest`;
+        const html = await fetchH20Url(url);
         const { slugs } = parseH20ListPage(html);
-        slugs.forEach(s => allSlugs.add(s));
-        console.log(`  Página ${p} escaneada: ${slugs.length} slugs.`);
+        
+        if (!slugs || slugs.length === 0 || html.includes('class="no-results"') || html.includes('not-found')) {
+          console.log(`- Fim do catálogo ou página vazia detectada na página ${p}.`);
+          break;
+        }
+
+        let newSlugsCount = 0;
+        for (const s of slugs) {
+          if (!allSlugs.has(s)) {
+            allSlugs.add(s);
+            newSlugsCount++;
+          }
+        }
+        
+        console.log(`  Página ${p} escaneada: ${slugs.length} slugs (${newSlugsCount} novos nesta varredura).`);
+
+        if (newSlugsCount === 0) {
+          consecutiveEmptyOrDup++;
+          if (consecutiveEmptyOrDup >= 2) {
+            console.log(`- Interrompendo: nenhuma nova obra encontrada nas últimas 2 páginas (página ${p}).`);
+            break;
+          }
+        } else {
+          consecutiveEmptyOrDup = 0;
+        }
+
+        if (!FULL) {
+          const newAddedInScan = [...allSlugs].filter(s => !byId.has(s)).length;
+          if (newAddedInScan >= MAX_MANGAS) {
+            console.log(`- Atingido o limite de ${MAX_MANGAS} novas obras configurado para execução incremental.`);
+            break;
+          }
+        }
+
+        p++;
         await sleep(400);
       } catch (e) {
         console.error(`⚠️ Erro na página ${p}: ${e.message}`);
+        break;
       }
     }
   } catch (e) {

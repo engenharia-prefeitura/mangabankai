@@ -57,6 +57,7 @@ function isFavorite(mangaId) { return getFavorites().includes(mangaId); }
 
 // Continue Reading
 function saveProgress(mangaId, chapterId, pageIndex, totalPages, chapterNumber) {
+  if (typeof window._mbCountPage === 'function') window._mbCountPage(); // telemetria: página lida
   const data = LS.get('continue', {});
   data[mangaId] = { chapterId, chapterNumber, pageIndex, totalPages, updatedAt: Date.now() };
   LS.set('continue', data);
@@ -395,6 +396,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const results = searchManga(q).slice(0, 6);
       if (!dropdown) return;
       if (results.length === 0) {
+        if (typeof window._mbSearchMiss === 'function') window._mbSearchMiss(q);
         dropdown.innerHTML = '<div class="s-item"><div class="s-info"><h4>Nenhum resultado</h4></div></div>';
       } else {
         dropdown.innerHTML = results.map(m => `
@@ -754,6 +756,65 @@ window.registerMangaView = function(mangaId) {
   fetch(`/api/manga/views?mangaId=${encodeURIComponent(mangaId)}`, { method: 'POST' })
     .catch(() => {});
 };
+
+// ========== TELEMETRIA DE USO (tempo no site / leitura / páginas) ==========
+// Acumula segundos localmente (só com a aba visível) e envia UM beacon ao sair
+// da página — pouquíssimas escritas no banco. O visitante recebe um ID anônimo
+// aleatório; se estiver logado, o servidor liga o uso ao usuário pelo cookie.
+(function () {
+  var anonId = LS.get('anon_id');
+  if (!anonId) {
+    anonId = (window.crypto && crypto.randomUUID)
+      ? crypto.randomUUID()
+      : 'a' + Date.now().toString(36) + Math.random().toString(36).slice(2, 12);
+    LS.set('anon_id', anonId);
+  }
+
+  var secs = 0, reading = 0, pagesRead = 0;
+  function isReaderPage() { return !!document.getElementById('readerContent'); }
+
+  setInterval(function () {
+    if (document.visibilityState === 'visible') {
+      secs += 5;
+      if (isReaderPage()) reading += 5;
+    }
+  }, 5000);
+
+  // Chamado pelo saveProgress (leitor) a cada troca de página.
+  window._mbCountPage = function () { pagesRead++; };
+
+  function flush() {
+    if (secs < 5 && pagesRead === 0) return;
+    var payload = JSON.stringify({
+      anonId: anonId,
+      seconds: secs,
+      reading: reading,
+      pages: pagesRead,
+      device: window.innerWidth <= 768 ? 'mobile' : 'desktop'
+    });
+    secs = 0; reading = 0; pagesRead = 0;
+    try {
+      navigator.sendBeacon('/api/track?action=usage', new Blob([payload], { type: 'application/json' }));
+    } catch (e) {}
+  }
+
+  document.addEventListener('visibilitychange', function () {
+    if (document.visibilityState === 'hidden') flush();
+  });
+  window.addEventListener('pagehide', flush);
+
+  // Busca sem resultado → registra (1x por termo por sessão, mín. 3 letras).
+  var _missSent = {};
+  window._mbSearchMiss = function (q) {
+    q = (q || '').toLowerCase().trim();
+    if (q.length < 3 || _missSent[q]) return;
+    _missSent[q] = true;
+    try {
+      navigator.sendBeacon('/api/track?action=search-miss',
+        new Blob([JSON.stringify({ q: q })], { type: 'application/json' }));
+    } catch (e) {}
+  };
+})();
 
 // Iniciar verificação de autenticação na carga da página
 window.addEventListener('DOMContentLoaded', () => {

@@ -49,6 +49,11 @@ async function views(req, res) {
       ON CONFLICT (manga_id) DO UPDATE SET count = manga_views.count + 1, updated_at = CURRENT_TIMESTAMP
       RETURNING count
     `;
+    // Registro diário → alimenta o "em alta da semana" no painel de estatísticas.
+    await sql`
+      INSERT INTO manga_views_daily (manga_id, date, count) VALUES (${mangaId}, CURRENT_DATE, 1)
+      ON CONFLICT (manga_id, date) DO UPDATE SET count = manga_views_daily.count + 1
+    `.catch(() => {});
     return res.status(200).json({ success: true, count: r.rows[0].count });
   }
   res.setHeader('Allow', ['GET', 'POST']);

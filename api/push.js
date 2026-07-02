@@ -3,10 +3,20 @@
 //   POST /api/push?action=unsubscribe body: { endpoint }
 //   GET  /api/push?action=key         → { publicKey }  (chave VAPID pública)
 const { ensureConnection } = require('../lib/db');
+const jwt = require('jsonwebtoken');
+
+const JWT_SECRET = process.env.JWT_SECRET || 'mangabankai-secret-default-key-12345';
 
 // Chave pública VAPID (pode ficar no código; a privada é secret no envio).
 const VAPID_PUBLIC = process.env.VAPID_PUBLIC ||
   'BCsxGB0ZQFEB82SX2fMoMFOtjdJgABW-W3kCl2JQ4IXbToVjvOuUcY5agED9pLNT5o854SpyPneQBobdepGnfbw';
+
+// Se houver sessão válida, liga a inscrição ao usuário (para estatísticas).
+function userIdFrom(req) {
+  const m = (req.headers.cookie || '').match(/(^|;\s*)mb_session=([^;]*)/);
+  if (!m) return null;
+  try { return jwt.verify(decodeURIComponent(m[2]), JWT_SECRET).id || null; } catch { return null; }
+}
 
 module.exports = async (req, res) => {
   const action = (req.query && req.query.action) || '';
@@ -42,10 +52,14 @@ module.exports = async (req, res) => {
     if (!endpoint || !keys || !keys.p256dh || !keys.auth) {
       return res.status(400).json({ ok: false, error: 'subscription inválida' });
     }
+    const userId = userIdFrom(req);
     await sql`
-      INSERT INTO push_subscriptions (endpoint, p256dh, auth)
-      VALUES (${endpoint}, ${keys.p256dh}, ${keys.auth})
-      ON CONFLICT (endpoint) DO UPDATE SET p256dh = EXCLUDED.p256dh, auth = EXCLUDED.auth
+      INSERT INTO push_subscriptions (endpoint, p256dh, auth, user_id)
+      VALUES (${endpoint}, ${keys.p256dh}, ${keys.auth}, ${userId})
+      ON CONFLICT (endpoint) DO UPDATE SET
+        p256dh = EXCLUDED.p256dh,
+        auth = EXCLUDED.auth,
+        user_id = COALESCE(EXCLUDED.user_id, push_subscriptions.user_id)
     `;
     return res.status(200).json({ ok: true });
   } catch (e) {

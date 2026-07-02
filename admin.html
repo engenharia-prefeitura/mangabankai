@@ -205,6 +205,27 @@
       100% { opacity: 0.6; }
     }
     
+    /* Estatísticas */
+    .kpis { display:grid; grid-template-columns:repeat(auto-fit, minmax(150px, 1fr)); gap:12px; margin-bottom:20px; }
+    .kpi { background:var(--surface2); border:1px solid var(--border); border-radius:12px; padding:14px 12px; text-align:center; }
+    .kpi-v { font-size:1.35rem; font-weight:700; color:var(--text); }
+    .kpi-l { font-size:0.68rem; color:var(--muted); margin-top:4px; text-transform:uppercase; letter-spacing:.4px; }
+    .kpi-s { font-size:0.68rem; color:var(--accent); margin-top:2px; }
+    .chart-box { background:var(--surface2); border:1px solid var(--border); border-radius:12px; padding:14px; margin-bottom:16px; }
+    .chart-title { font-size:0.78rem; color:var(--muted); margin-bottom:10px; font-weight:600; }
+    .bars { display:flex; align-items:flex-end; gap:2px; height:90px; }
+    .bars .bar { flex:1; background:linear-gradient(180deg,var(--accent),rgba(108,99,255,.35)); border-radius:3px 3px 0 0; min-height:2px; position:relative; }
+    .bars .bar:hover::after { content:attr(data-tip); position:absolute; bottom:100%; left:50%; transform:translateX(-50%); background:#000; color:#fff; font-size:0.65rem; padding:3px 7px; border-radius:6px; white-space:nowrap; z-index:5; margin-bottom:4px; }
+    .stats-grid2 { display:grid; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); gap:16px; margin-bottom:16px; }
+    .stbl { width:100%; border-collapse:collapse; font-size:0.78rem; }
+    .stbl th { text-align:left; color:var(--muted); font-weight:600; padding:6px 8px; border-bottom:1px solid var(--border); font-size:0.7rem; text-transform:uppercase; letter-spacing:.4px; }
+    .stbl td { padding:6px 8px; border-bottom:1px solid rgba(255,255,255,0.04); color:var(--text); }
+    .stbl td.num { text-align:right; color:var(--accent); font-weight:700; }
+    .stbl-wrap { max-height:320px; overflow-y:auto; }
+    .stbl-wrap::-webkit-scrollbar { width:4px; }
+    .stbl-wrap::-webkit-scrollbar-thumb { background:var(--border); border-radius:2px; }
+    .mini-btn { padding:4px 10px; border-radius:6px; border:none; cursor:pointer; font-size:0.72rem; font-weight:600; font-family:'Inter',sans-serif; }
+
     @media (max-width: 768px) {
       header { padding: 12px 16px; flex-wrap: wrap; gap: 8px; }
       .logo { font-size: 1.2rem; }
@@ -248,6 +269,42 @@
       <button class="btn" style="background:var(--en);color:#fff" onclick="triggerScrape('en-only')">🇬🇧 Só EN</button>
     </div>
     <div class="run-status" id="runStatus"></div>
+  </div>
+
+  <!-- Estatísticas do Site -->
+  <div class="scraper-cloud" id="statsCard">
+    <h2>📊 Estatísticas do Site</h2>
+    <p style="font-size:0.82rem; color:var(--muted); margin:4px 0 16px;">
+      Usuários, tempo de uso (cadastrados e anônimos), rankings de leitura, buscas sem resultado e reports de capítulos.
+      O tempo de uso passa a contar a partir de agora (telemetria nova).
+    </p>
+    <div id="statsBody" style="color:var(--muted); font-size:0.85rem;">Carregando estatísticas…</div>
+  </div>
+
+  <!-- Notificação Push Manual -->
+  <div class="scraper-cloud" id="pushCard">
+    <h2>🔔 Enviar Notificação Push</h2>
+    <p style="font-size:0.82rem; color:var(--muted); margin:4px 0 16px;">
+      Envia uma notificação para <strong id="pushSubsCount">…</strong> dispositivos inscritos. Use com moderação.
+    </p>
+    <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(220px, 1fr)); gap:12px; margin-bottom:12px;">
+      <div>
+        <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">Título (até 80)</label>
+        <input type="text" id="pushTitle" maxlength="80" placeholder="Ex: Promoção de fim de semana 🎉" style="width:100%; background:var(--surface2); border:1px solid var(--border); padding:8px 12px; border-radius:8px; color:var(--text); outline:none;">
+      </div>
+      <div>
+        <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">Mensagem (até 200)</label>
+        <input type="text" id="pushBody" maxlength="200" placeholder="Ex: Novos mangás adicionados, confira!" style="width:100%; background:var(--surface2); border:1px solid var(--border); padding:8px 12px; border-radius:8px; color:var(--text); outline:none;">
+      </div>
+      <div>
+        <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">Link ao clicar (opcional)</label>
+        <input type="text" id="pushUrl" placeholder="https://mangabankai.vercel.app/" style="width:100%; background:var(--surface2); border:1px solid var(--border); padding:8px 12px; border-radius:8px; color:var(--text); outline:none;">
+      </div>
+    </div>
+    <div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
+      <button class="btn btn-resume" id="pushSendBtn" onclick="sendManualPush()">📤 Enviar para Todos</button>
+      <span id="pushSendInfo" style="font-size:0.8rem; color:var(--muted);"></span>
+    </div>
   </div>
 
   <div class="cards" id="scraperCards">
@@ -1087,8 +1144,202 @@ function startPolling(runId, runUrl) {
   }, 15000); // verifica a cada 15s
 }
 
+// ── Estatísticas do Site ────────────────────────────────────────────────
+function fmtDur(secs) {
+  secs = Number(secs) || 0;
+  if (secs < 60) return secs + 's';
+  const m = Math.floor(secs / 60);
+  if (m < 60) return m + 'min';
+  const h = Math.floor(m / 60);
+  if (h < 48) return h + 'h ' + (m % 60) + 'min';
+  return Math.floor(h / 24) + 'd ' + (h % 24) + 'h';
+}
+function fmtDate(d) {
+  if (!d) return '—';
+  return new Date(d).toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit', year: '2-digit' });
+}
+function kpi(v, label, sub) {
+  return '<div class="kpi"><div class="kpi-v">' + v + '</div><div class="kpi-l">' + label + '</div>'
+    + (sub ? '<div class="kpi-s">' + sub + '</div>' : '') + '</div>';
+}
+function barsChart(rows, valueKey, tipFn) {
+  if (!rows || !rows.length) return '<div style="color:var(--muted);font-size:0.75rem;padding:20px 0;text-align:center">Sem dados ainda.</div>';
+  const max = Math.max.apply(null, rows.map(r => Number(r[valueKey]) || 0)) || 1;
+  return '<div class="bars">' + rows.map(r => {
+    const v = Number(r[valueKey]) || 0;
+    const pct = Math.max(2, Math.round(v / max * 100));
+    return '<div class="bar" style="height:' + pct + '%" data-tip="' + tipFn(r) + '"></div>';
+  }).join('') + '</div>';
+}
+function topTable(title, rows, valueLabel) {
+  const body = (rows && rows.length)
+    ? rows.map((r, i) => '<tr><td style="color:var(--muted)">' + (i + 1) + '.</td><td style="max-width:180px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">'
+        + '<a href="/manga/' + r.manga_id + '/" target="_blank" style="color:var(--text);text-decoration:none">' + escHtml(r.title || r.manga_id) + '</a></td><td class="num">' + Number(r.n).toLocaleString('pt-BR') + '</td></tr>').join('')
+    : '<tr><td colspan="3" style="color:var(--muted)">Sem dados ainda.</td></tr>';
+  return '<div class="chart-box"><div class="chart-title">' + title + '</div><table class="stbl"><thead><tr><th></th><th>Mangá</th><th style="text-align:right">' + valueLabel + '</th></tr></thead><tbody>' + body + '</tbody></table></div>';
+}
+
+async function loadStats() {
+  const el = document.getElementById('statsBody');
+  try {
+    const res = await fetch('/api/admin/stats');
+    if (!res.ok) { el.innerHTML = '⚠️ Erro ao carregar estatísticas (' + res.status + ').'; return; }
+    renderStats(await res.json());
+  } catch (e) {
+    el.innerHTML = '⚠️ Erro de conexão ao carregar estatísticas.';
+  }
+}
+
+function renderStats(d) {
+  const el = document.getElementById('statsBody');
+  const u = d.usage || {};
+  const ret = d.retention7d || { base: 0, returned: 0 };
+  const retPct = ret.base > 0 ? Math.round(ret.returned / ret.base * 100) + '%' : '—';
+  const devices = (d.devices7d || []).map(x => x.device + ' ' + x.n).join(' · ') || '—';
+  document.getElementById('pushSubsCount').textContent = (d.push.total || 0).toLocaleString('pt-BR');
+
+  // KPIs
+  let html = '<div class="kpis">'
+    + kpi(Number(d.users.total).toLocaleString('pt-BR'), 'Usuários cadastrados')
+    + kpi(Number(d.push.total).toLocaleString('pt-BR'), 'Push ativos', d.push.linked + ' ligados a contas')
+    + kpi(Number(u.dau || 0).toLocaleString('pt-BR'), 'Visitantes hoje')
+    + kpi(Number(u.wau || 0).toLocaleString('pt-BR'), 'Visitantes 7 dias', (u.wau_logged || 0) + ' logados')
+    + kpi(Number(u.mau || 0).toLocaleString('pt-BR'), 'Visitantes 30 dias')
+    + kpi(fmtDur(u.secs_7d), 'Tempo de uso 7d', fmtDur(u.secs_30d) + ' em 30d')
+    + kpi(fmtDur(u.reading_7d), 'Tempo de leitura 7d', fmtDur(u.reading_30d) + ' em 30d')
+    + kpi(Number(u.pages_7d || 0).toLocaleString('pt-BR'), 'Páginas lidas 7d', Number(u.pages_30d || 0).toLocaleString('pt-BR') + ' em 30d')
+    + kpi(retPct, 'Retenção 7 dias', ret.returned + ' de ' + ret.base + ' voltaram')
+    + kpi(devices, 'Dispositivos 7d')
+    + '</div>';
+
+  // Gráficos
+  html += '<div class="stats-grid2">'
+    + '<div class="chart-box"><div class="chart-title">👥 Visitantes por dia (30d)</div>'
+    + barsChart(d.usagePerDay, 'visitors', r => fmtDate(r.d) + ': ' + r.visitors + ' visitantes · ' + fmtDur(r.secs)) + '</div>'
+    + '<div class="chart-box"><div class="chart-title">✍️ Cadastros por dia (30d)</div>'
+    + barsChart(d.signupsPerDay, 'n', r => fmtDate(r.d) + ': ' + r.n + ' cadastros') + '</div>'
+    + '</div>';
+
+  // Rankings
+  html += '<div class="stats-grid2">'
+    + topTable('🔥 Em alta (7 dias)', d.top.trending7d, 'views')
+    + topTable('📖 Mais lidos (histórico)', d.top.read, 'leitores')
+    + topTable('❤️ Mais favoritados', d.top.favorited, 'favs')
+    + topTable('👁 Mais vistos (total)', d.top.viewed, 'views')
+    + '</div>';
+
+  // Usuários
+  const usersRows = (d.users.list || []).map(usr => {
+    const online = usr.seconds_total > 0 ? fmtDur(usr.seconds_total) : '—';
+    return '<tr>'
+      + '<td>' + escHtml(usr.username) + (usr.role === 'admin' ? ' <span style="color:var(--accent2);font-size:0.65rem">ADMIN</span>' : '') + '</td>'
+      + '<td>' + fmtDate(usr.created_at) + '</td>'
+      + '<td class="num">' + usr.reads + '</td>'
+      + '<td class="num">' + usr.favs + '</td>'
+      + '<td>' + online + '</td>'
+      + '<td>' + (usr.push_devices > 0 ? '🔔 ' + usr.push_devices : '—') + '</td>'
+      + '<td>' + fmtDate(usr.last_read) + '</td>'
+      + '<td><button class="mini-btn" style="background:var(--surface);border:1px solid var(--border);color:var(--text)" onclick="viewUserReading(' + usr.id + ', \'' + escHtml(usr.username).replace(/'/g, '') + '\')">📖 leituras</button></td>'
+      + '</tr>';
+  }).join('') || '<tr><td colspan="8" style="color:var(--muted)">Nenhum usuário cadastrado.</td></tr>';
+  html += '<div class="chart-box"><div class="chart-title">👤 Usuários cadastrados (' + d.users.total + ')</div>'
+    + '<div class="stbl-wrap"><table class="stbl"><thead><tr><th>Usuário</th><th>Cadastro</th><th style="text-align:right">Leituras</th><th style="text-align:right">Favs</th><th>Tempo de uso</th><th>Push</th><th>Última leitura</th><th></th></tr></thead><tbody>'
+    + usersRows + '</tbody></table></div></div>';
+
+  // Buscas sem resultado + Reports
+  const missRows = (d.searchMisses || []).map(m =>
+    '<tr><td>' + escHtml(m.query) + '</td><td class="num">' + m.count + '</td><td style="color:var(--muted)">' + fmtDate(m.last_at) + '</td></tr>'
+  ).join('') || '<tr><td colspan="3" style="color:var(--muted)">Nenhuma busca sem resultado registrada.</td></tr>';
+  const repRows = (d.reports || []).map(r => {
+    const reasonLabel = { broken: '🖼️ imagens', wrong: '🔀 cap. errado', other: '❓ outro' }[r.reason] || r.reason;
+    return '<tr><td style="max-width:160px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">'
+      + '<a href="/manga/' + r.manga_id + '/' + encodeURIComponent(r.chapter) + '" target="_blank" style="color:var(--text)">' + escHtml(r.title || r.manga_id) + '</a></td>'
+      + '<td>Cap. ' + escHtml(r.chapter) + '</td><td>' + reasonLabel + '</td><td class="num">' + r.count + '×</td>'
+      + '<td><button class="mini-btn" style="background:var(--green);color:#000" onclick="resolveReport(' + r.id + ', this)">✓ Resolver</button></td></tr>';
+  }).join('') || '<tr><td colspan="5" style="color:var(--muted)">Nenhum report aberto. 🎉</td></tr>';
+
+  html += '<div class="stats-grid2">'
+    + '<div class="chart-box"><div class="chart-title">🔍 Buscas sem resultado (o que os leitores querem e não têm)</div>'
+    + '<div class="stbl-wrap"><table class="stbl"><thead><tr><th>Termo</th><th style="text-align:right">Vezes</th><th>Última</th></tr></thead><tbody>' + missRows + '</tbody></table></div></div>'
+    + '<div class="chart-box"><div class="chart-title">⚠️ Capítulos reportados com problema</div>'
+    + '<div class="stbl-wrap"><table class="stbl"><thead><tr><th>Mangá</th><th>Cap.</th><th>Motivo</th><th style="text-align:right">Reports</th><th></th></tr></thead><tbody>' + repRows + '</tbody></table></div></div>'
+    + '</div>';
+
+  el.innerHTML = html;
+}
+
+async function viewUserReading(userId, username) {
+  let overlay = document.getElementById('urOverlay');
+  if (overlay) overlay.remove();
+  overlay = document.createElement('div');
+  overlay.id = 'urOverlay';
+  overlay.style.cssText = 'position:fixed;inset:0;background:rgba(0,0,0,0.7);z-index:10000;display:flex;align-items:center;justify-content:center;padding:20px;';
+  overlay.onclick = e => { if (e.target === overlay) overlay.remove(); };
+  overlay.innerHTML = '<div style="background:var(--surface);border:1px solid var(--border);border-radius:16px;padding:24px;max-width:560px;width:100%;max-height:80vh;overflow-y:auto">'
+    + '<h3 style="font-size:1rem;margin-bottom:14px">📖 Leituras de <span style="color:var(--accent)">' + escHtml(username) + '</span></h3>'
+    + '<div id="urBody" style="color:var(--muted);font-size:0.85rem">Carregando…</div></div>';
+  document.body.appendChild(overlay);
+  try {
+    const res = await fetch('/api/admin/user-reading?userId=' + userId);
+    const data = await res.json();
+    const rows = (data.reading || []).map(r => {
+      const pct = r.total_pages > 0 ? Math.round((r.page_index + 1) / r.total_pages * 100) : 0;
+      return '<tr><td style="max-width:220px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">'
+        + '<a href="/manga/' + r.manga_id + '/" target="_blank" style="color:var(--text)">' + escHtml(r.title || r.manga_id) + '</a></td>'
+        + '<td>' + escHtml(String(r.chapter_id)) + '</td><td class="num">' + pct + '%</td><td style="color:var(--muted)">' + fmtDate(r.updated_at) + '</td></tr>';
+    }).join('') || '<tr><td colspan="4" style="color:var(--muted)">Este usuário ainda não leu nada.</td></tr>';
+    document.getElementById('urBody').innerHTML = '<table class="stbl"><thead><tr><th>Mangá</th><th>Capítulo</th><th style="text-align:right">Prog.</th><th>Quando</th></tr></thead><tbody>' + rows + '</tbody></table>';
+  } catch (e) {
+    document.getElementById('urBody').textContent = 'Erro ao carregar.';
+  }
+}
+
+async function resolveReport(id, btn) {
+  btn.disabled = true; btn.textContent = '…';
+  try {
+    await fetch('/api/admin/report-resolve', {
+      method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ id })
+    });
+    btn.closest('tr').style.opacity = '0.35';
+    btn.textContent = '✓ Resolvido';
+  } catch (e) {
+    btn.disabled = false; btn.textContent = '✓ Resolver';
+  }
+}
+
+async function sendManualPush() {
+  const title = document.getElementById('pushTitle').value.trim();
+  const body = document.getElementById('pushBody').value.trim();
+  const url = document.getElementById('pushUrl').value.trim();
+  const info = document.getElementById('pushSendInfo');
+  if (!title || !body) { info.textContent = '⚠️ Preencha título e mensagem.'; return; }
+  if (!confirm('Enviar esta notificação para TODOS os dispositivos inscritos?\n\n' + title + '\n' + body)) return;
+  const btn = document.getElementById('pushSendBtn');
+  btn.disabled = true; btn.textContent = 'Enviando…'; info.textContent = '';
+  try {
+    const res = await fetch('/api/admin/push-send', {
+      method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ title, body, url: url || undefined })
+    });
+    const data = await res.json();
+    if (data.ok) {
+      info.textContent = `✅ Enviada para ${data.sent} de ${data.total} dispositivos` + (data.removed ? ` (${data.removed} inscrições mortas removidas)` : '') + '.';
+      document.getElementById('pushTitle').value = '';
+      document.getElementById('pushBody').value = '';
+      document.getElementById('pushUrl').value = '';
+    } else {
+      info.textContent = '❌ ' + (data.error || 'Falha no envio.');
+    }
+  } catch (e) {
+    info.textContent = '❌ Erro de conexão: ' + e.message;
+  } finally {
+    btn.disabled = false; btn.textContent = '📤 Enviar para Todos';
+  }
+}
+
 // Load hidden list on page load
-window.addEventListener('load', () => { loadHiddenList(); });
+window.addEventListener('load', () => { loadHiddenList(); loadStats(); });
 
 connect();
 </script>

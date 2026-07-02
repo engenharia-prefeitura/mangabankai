@@ -12,7 +12,8 @@
     .profile-container {
       max-width: 1000px;
       margin: 0 auto;
-      padding: 40px 24px;
+      /* fluido: 40px no desktop, encolhe até 16px/12px em telas pequenas */
+      padding: clamp(16px, 4vw, 40px) clamp(12px, 3vw, 24px);
     }
     .profile-card {
       background: var(--bg-card);
@@ -79,7 +80,11 @@
       border-bottom: 1px solid var(--border);
       gap: 24px;
       margin-bottom: 24px;
+      /* abas roláveis no mobile em vez de estourar a largura */
+      overflow-x: auto;
+      scrollbar-width: none;
     }
+    .profile-tabs-nav::-webkit-scrollbar { display: none; }
     .profile-tab-btn {
       background: none;
       border: none;
@@ -91,6 +96,8 @@
       position: relative;
       transition: color 0.2s;
       font-family: inherit;
+      white-space: nowrap;
+      flex-shrink: 0;
     }
     .profile-tab-btn:hover {
       color: var(--text-primary);
@@ -212,20 +219,56 @@
         width: 100%;
         justify-content: center;
       }
+      /* Item do histórico em 2 linhas: capa+info em cima, botões embaixo em
+         largura total — mais compacto que a coluna centralizada de antes. */
       .history-item {
-        flex-direction: column;
-        align-items: stretch;
-        text-align: center;
+        display: grid;
+        grid-template-columns: 60px 1fr;
+        grid-template-areas:
+          "cover info"
+          "actions actions";
+        gap: 12px 14px;
+        align-items: center;
+        text-align: left;
       }
+      .history-item:hover { transform: none; }
       .history-cover {
-        margin: 0 auto;
+        grid-area: cover;
         width: 60px;
         height: 84px;
+        margin: 0;
       }
+      .history-info { grid-area: info; }
       .history-actions {
-        margin-top: 12px;
-        justify-content: center;
+        grid-area: actions;
+        margin-top: 0;
+        gap: 10px;
       }
+      .history-actions .btn {
+        flex: 1;
+        text-align: center;
+        padding: 10px 12px;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .profile-card {
+        padding: 18px 14px;
+        gap: 14px;
+        margin-bottom: 20px;
+      }
+      .profile-avatar {
+        width: 64px;
+        height: 64px;
+        font-size: 1.7rem;
+      }
+      .profile-info h2 { font-size: 1.25rem; }
+      .profile-tabs-nav { gap: 16px; margin-bottom: 16px; }
+      .profile-tab-btn { font-size: 0.9rem; }
+      .history-list { gap: 12px; }
+      .history-item { padding: 12px; }
+      .history-info h3 { font-size: 0.95rem; }
+      .history-progress-label { font-size: 0.72rem; }
     }
   </style>
   <script src="/js/loading-anim.js"></script>

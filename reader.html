@@ -88,6 +88,7 @@
         <div class="right">
           <select id="langSelect" onchange="switchReaderLang(this.value)" style="margin-right: 8px; display: none; padding: 4px 8px; border-radius: 4px; border: 1px solid var(--border); background: #000; color: #fff;"></select>
           <select id="chapterSelect" onchange="loadChapterBySelect(this.value)"></select>
+          <button class="rh-btn" onclick="openReportMenu()" title="Reportar problema no capítulo">⚠️</button>
           <button class="rh-btn" onclick="toggleSettings()" title="Configurações">⚙️</button>
           <button class="rh-btn" onclick="toggleFullscreen()" title="Tela Cheia">⛶</button>
         </div>
@@ -163,6 +164,43 @@
     let pages = [];
     let realPageCount = 0;
     let chaptersList = [];
+
+    // ========== REPORTAR CAPÍTULO COM PROBLEMA ==========
+    function openReportMenu() {
+      if (!currentMangaSlug || !currentChapter) return;
+      var old = document.getElementById('mbReportOverlay');
+      if (old) old.remove();
+      var overlay = document.createElement('div');
+      overlay.id = 'mbReportOverlay';
+      overlay.style.cssText = 'position:fixed;inset:0;background:rgba(0,0,0,0.65);z-index:10000;display:flex;align-items:center;justify-content:center;padding:20px;';
+      overlay.onclick = function (e) { if (e.target === overlay) overlay.remove(); };
+      var box = document.createElement('div');
+      box.style.cssText = 'background:#16161f;border:1px solid #262633;border-radius:16px;padding:24px;max-width:360px;width:100%;';
+      box.innerHTML = '<h3 style="margin:0 0 6px;font-size:1.05rem;color:#e8e8ef">⚠️ Reportar problema</h3>'
+        + '<p style="margin:0 0 16px;font-size:0.82rem;color:#9898a8">Capítulo ' + (currentChapter.number || '') + ' — o que está errado?</p>'
+        + '<div style="display:flex;flex-direction:column;gap:10px">'
+        + '<button data-reason="broken" style="padding:12px 14px;border-radius:10px;background:#ef446e;color:#fff;border:none;font-weight:600;cursor:pointer;font-family:inherit">🖼️ Imagens não carregam</button>'
+        + '<button data-reason="wrong" style="padding:12px 14px;border-radius:10px;background:#f59e0b;color:#141018;border:none;font-weight:600;cursor:pointer;font-family:inherit">🔀 Capítulo errado / fora de ordem</button>'
+        + '<button data-reason="other" style="padding:12px 14px;border-radius:10px;background:rgba(255,255,255,0.08);color:#e8e8ef;border:none;font-weight:600;cursor:pointer;font-family:inherit">❓ Outro problema</button>'
+        + '</div>';
+      overlay.appendChild(box);
+      document.body.appendChild(overlay);
+      box.querySelectorAll('button[data-reason]').forEach(function (btn) {
+        btn.onclick = function () {
+          sendChapterReport(btn.getAttribute('data-reason'));
+          overlay.remove();
+        };
+      });
+    }
+    function sendChapterReport(reason) {
+      var chapter = String(currentChapter.number != null ? currentChapter.number : currentChapter.id);
+      fetch('/api/track?action=report', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ mangaId: currentMangaSlug, chapter: chapter, reason: reason })
+      }).catch(function () {});
+      showToast('Obrigado! Problema <span class="toast-accent">reportado</span>. 🙏');
+    }
 
     // ========== URL PARAMS ==========
     function getParams() {

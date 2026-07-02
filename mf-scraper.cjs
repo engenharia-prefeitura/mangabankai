@@ -16,11 +16,14 @@ const https = require('https');
 const http = require('http');
 const fs = require('fs');
 const path = require('path');
+const { resolveCap } = require('./lib/scraper-config.cjs');
 
 const BASE = 'https://ww1.mangafreak.me';
 const CDN = 'https://images.mangafreak.me';
 const TOTAL_PAGES = 150;
 const PARALLEL = 3;
+const DELAY = 300;
+const FETCH_TIMEOUT = 30000;
 
 // CDN Mapping (placeholders)
 const CDN_MAP = {
@@ -36,9 +39,10 @@ function fetch(url, redirects) {
   return new Promise((resolve, reject) => {
     if (redirects > 5) return reject(new Error('Too many redirects'));
     const client = url.startsWith('https') ? https : http;
-    client.get(url, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {
+    const req = client.get(url, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
         const next = res.headers.location.startsWith('http') ? res.headers.location : new URL(res.headers.location, url).href;
+        res.resume(); // descarta o corpo para liberar o socket, senão o processo nunca encerra
         fetch(next, redirects + 1).then(resolve).catch(reject);
         return;
       }
@@ -46,6 +50,7 @@ function fetch(url, redirects) {
       res.on('data', chunk => data += chunk);
       res.on('end', () => resolve(data));
     }).on('error', reject);
+    req.setTimeout(FETCH_TIMEOUT, () => req.destroy(new Error(`Timeout: ${url}`)));
   });
 }
 
@@ -113,23 +118,34 @@ async function scrapeAllListing(updateMode = false) {
   let newCount = 0;
   let noNewStreak = 0;
 
+  // Teto de obras novas por execução (painel Admin → scraper-config.json).
+  // Precedência: MF_NEW_MAX (env) > config > 40. Modo full ignora o teto.
+  const NEW_CAP = resolveCap({ key: 'mangafreak', envVar: 'MF_NEW_MAX', incrementalDefault: 40, fullDefault: Infinity, full: !updateMode });
+
   for (let page = 1; page <= total; page++) {
     process.stdout.write(`\r  Pagina ${page}/${total}...`);
     try {
       const items = await scrapeListing(page);
+      let newInPage = 0;
       for (const item of items) {
         if (!doneSlugs.has(item.slug)) {
           existing.push(item);
           doneSlugs.add(item.slug);
           newCount++;
-          noNewStreak = 0;
-        } else if (updateMode) {
-          noNewStreak++;
+          newInPage++;
         }
+      }
+      if (updateMode) {
+        noNewStreak = newInPage > 0 ? 0 : noNewStreak + 1;
       }
       // Early exit in update mode: if last 5 pages had no new manga, we're done
       if (updateMode && noNewStreak >= 5) {
         console.log(`\n  Parando: ${noNewStreak} páginas sem mangás novos.`);
+        break;
+      }
+      // Teto de obras novas atingido nesta execução
+      if (updateMode && newCount >= NEW_CAP) {
+        console.log(`\n  Parando: teto de ${NEW_CAP} obras novas atingido nesta execução.`);
         break;
       }
     } catch (err) {
@@ -306,4 +322,5 @@ function getChapters(slug, lang) {
 `;
 }
 
-main().catch(console.error);
+// exit explícito: garante que nenhum socket esquecido segure o processo aberto
+main().then(() => process.exit(0)).catch(err => { console.error(err); process.exit(1); });

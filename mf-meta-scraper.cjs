@@ -17,9 +17,10 @@ function fetch(url, redirects) {
   return new Promise((resolve, reject) => {
     if (redirects > 5) return reject(new Error('Too many redirects'));
     const client = url.startsWith('https') ? https : http;
-    client.get(url, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {
+    const req = client.get(url, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
         const next = res.headers.location.startsWith('http') ? res.headers.location : new URL(res.headers.location, url).href;
+        res.resume(); // descarta o corpo para liberar o socket, senão o processo nunca encerra
         fetch(next, redirects + 1).then(resolve).catch(reject);
         return;
       }
@@ -27,6 +28,7 @@ function fetch(url, redirects) {
       res.on('data', c => d += c);
       res.on('end', () => resolve(d));
     }).on('error', reject);
+    req.setTimeout(30000, () => req.destroy(new Error(`Timeout: ${url}`)));
   });
 }
 
@@ -127,4 +129,5 @@ async function main() {
   console.log('Output: ' + OUTPUT_FILE);
 }
 
-main().catch(console.error);
+// exit explícito: garante que nenhum socket esquecido segure o processo aberto
+main().then(() => process.exit(0)).catch(err => { console.error(err); process.exit(1); });

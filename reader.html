@@ -890,7 +890,7 @@
         currentPageIdx = spreads[newSpreadIdx][0];
         renderPages();
         if (currentMangaSlug && currentChapter) {
-          saveProgress(currentMangaSlug, currentChapter.id, currentPageIdx, pages.length);
+          saveProgress(currentMangaSlug, currentChapter.id, currentPageIdx, pages.length, currentChapter.number);
         }
       }
     }
@@ -1074,7 +1074,7 @@
         
         currentPageIdx = visiblePage;
         if (currentMangaSlug && currentChapter) {
-          saveProgress(currentMangaSlug, currentChapter.id, currentPageIdx, pages.length);
+          saveProgress(currentMangaSlug, currentChapter.id, currentPageIdx, pages.length, currentChapter.number);
         }
       }, 300);
     });

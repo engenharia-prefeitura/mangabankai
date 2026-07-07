@@ -85,7 +85,7 @@ async function history(req, res) {
 
   if (req.method === 'GET') {
     const r = await sql`
-      SELECT manga_id, chapter_id, page_index, total_pages, updated_at 
+      SELECT manga_id, chapter_id, chapter_number, page_index, total_pages, updated_at 
       FROM reading_progress 
       WHERE user_id = ${userId} 
       ORDER BY updated_at DESC
@@ -94,6 +94,7 @@ async function history(req, res) {
     (r.rows || []).forEach(row => {
       progress[row.manga_id] = {
         chapterId: row.chapter_id,
+        chapterNumber: row.chapter_number,
         pageIndex: row.page_index,
         totalPages: row.total_pages,
         updatedAt: new Date(row.updated_at).getTime()
@@ -103,14 +104,16 @@ async function history(req, res) {
   }
 
   if (req.method === 'POST') {
-    const { mangaId, chapterId, pageIndex, totalPages } = req.body || {};
+    const { mangaId, chapterId, chapterNumber, pageIndex, totalPages } = req.body || {};
     if (!mangaId || !chapterId) return res.status(400).json({ error: 'Parâmetros insuficientes' });
     
+    const chNumStr = chapterNumber != null ? String(chapterNumber) : null;
     await sql`
-      INSERT INTO reading_progress (user_id, manga_id, chapter_id, page_index, total_pages, updated_at) 
-      VALUES (${userId}, ${mangaId}, ${chapterId}, ${pageIndex}, ${totalPages}, CURRENT_TIMESTAMP)
+      INSERT INTO reading_progress (user_id, manga_id, chapter_id, chapter_number, page_index, total_pages, updated_at) 
+      VALUES (${userId}, ${mangaId}, ${chapterId}, ${chNumStr}, ${pageIndex}, ${totalPages}, CURRENT_TIMESTAMP)
       ON CONFLICT (user_id, manga_id) DO UPDATE SET 
         chapter_id = EXCLUDED.chapter_id, 
+        chapter_number = EXCLUDED.chapter_number,
         page_index = EXCLUDED.page_index, 
         total_pages = EXCLUDED.total_pages, 
         updated_at = CURRENT_TIMESTAMP

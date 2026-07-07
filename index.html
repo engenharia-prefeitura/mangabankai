@@ -241,19 +241,34 @@
       const grid = document.getElementById('continueGrid');
       const _crAdult = typeof localStorage !== 'undefined' && localStorage.getItem('ms_adult_mode') === 'true';
       const _crAdultGenres = ['Adulto', 'Hentai', 'Ecchi', 'Mature', 'Smut'];
+
+      function cleanChapterLabel(chapterNumber, chapterId) {
+        if (chapterNumber != null && chapterNumber !== '') return String(chapterNumber);
+        if (!chapterId) return '';
+        const s = String(chapterId);
+        if (/^\d+(\.\d+)?$/.test(s)) return s;
+        let match = s.match(/(?:-|_|\b)(?:ch|cap|c)(?:a|ap|apter)?(?:-|_|\b)?(\d+(?:\.\d+)?)/i);
+        if (match) return match[1];
+        match = s.match(/(?:-|_)+(\d+(?:\.\d+)?)$/);
+        if (match) return match[1];
+        match = s.match(/\b(\d+(?:\.\d+)?)\b/);
+        if (match) return match[1];
+        return s.replace(/^(mangadistrict-|chap_|-)+/gi, '').replace(/-official|-reboot|-ch|-cap/gi, '');
+      }
+
       const items = entries.sort((a, b) => (b[1].updatedAt || 0) - (a[1].updatedAt || 0)).slice(0, 12).map(([mangaId, prog]) => {
         const manga = getManga(mangaId);
         if (!manga) return null;
         if (!_crAdult && (_crAdultGenres.some(g => (manga.genres || []).includes(g)))) return null;
-        const pct = prog.totalPages > 0 ? Math.min(100, Math.round((prog.pageIndex / prog.totalPages) * 100)) : 0;
+        const pct = prog.totalPages > 0 ? Math.min(100, Math.round(((prog.pageIndex + 1) / prog.totalPages) * 100)) : 0;
         
         const card = document.createElement('a');
         card.className = 'manga-card continue-card';
-        card.href = `/manga/${mangaId}/${prog.chapterNumber != null ? prog.chapterNumber : prog.chapterId}`;
+        card.href = `/manga/${mangaId}/${prog.chapterNumber != null && prog.chapterNumber !== '' ? prog.chapterNumber : prog.chapterId}`;
         card.innerHTML = `
           <div class="cover">
             <img src="${manga.cover}" alt="${manga.title}" referrerPolicy="no-referrer" loading="lazy" decoding="async" onerror="this.src='https://placehold.co/300x400/1a1a1a/444?text=?'">
-            <span class="badge ongoing" style="background:#6c63ff; border:none;">Cap. ${prog.chapterNumber != null ? prog.chapterNumber : prog.chapterId}</span>
+            <span class="badge ongoing" style="background:#6c63ff; border:none;">Cap. ${cleanChapterLabel(prog.chapterNumber, prog.chapterId)}</span>
             <div class="continue-pct-bar" style="position:absolute; bottom:0; left:0; width:100%; height:4px; background:rgba(255,255,255,0.2); z-index:2;">
               <div class="continue-pct-fill" style="width:${pct}%; height:100%; background:#6c63ff;"></div>
             </div>

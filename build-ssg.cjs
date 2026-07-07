@@ -326,6 +326,9 @@ function renderPage(m, chObj) {
     <div class="detail-tab-content active">
       <h2>Sinopse</h2>
       <div class="description">${htmlEscape(synopsis)}</div>
+      <!-- NATIVE BANNER (Abaixo da Sinopse) -->
+      <div class="ad-banner-fixed ad-native" id="ad-ssg-synopsis-native" style="margin: 20px auto 16px;"></div>
+      <script>ADS.lazy(document.getElementById('ad-ssg-synopsis-native'), ADS.renderNative);</script>
       <div class="info-grid">
         <div class="info-item"><label>Autor</label><span>${htmlEscape(m.author || 'Desconhecido')}</span></div>
         <div class="info-item"><label>Artista</label><span>${htmlEscape(m.artist || m.author || 'Desconhecido')}</span></div>

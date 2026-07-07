@@ -501,6 +501,64 @@
       }
 
       ADS.renderPopunder();
+
+      // Prefetch next chapter images after 5 seconds to avoid competing with current page resources
+      setTimeout(() => {
+        prefetchNextChapter(slug, chIdx, lang);
+      }, 5000);
+    }
+
+    // Prefetch next chapter images in background
+    async function prefetchNextChapter(slug, chIdx, lang) {
+      const nextIdx = chIdx + 1;
+      if (nextIdx >= chaptersList.length) return;
+      const nextCh = chaptersList[nextIdx];
+      if (!nextCh) return;
+
+      console.debug('[PREFETCH] Iniciando prefetch do próximo capítulo:', nextCh.number);
+
+      let nextPages = nextCh.pages || [];
+      if (nextPages.length === 0 && nextCh.number) {
+        try {
+          const manga = getManga(slug);
+          const mSlug = manga ? manga.slug : slug;
+          
+          if (nextCh.src === 'mangadex' && nextCh.mdxId) {
+            try {
+              const mdxR = await fetch(`https://api.mangadex.org/at-home/server/${nextCh.mdxId}`);
+              const mdxD = await mdxR.json();
+              if (mdxD.baseUrl && mdxD.chapter && mdxD.chapter.hash && Array.isArray(mdxD.chapter.data) && mdxD.chapter.data.length > 0) {
+                nextPages = mdxD.chapter.data.map(fn => `${mdxD.baseUrl}/data/${mdxD.chapter.hash}/${fn}`);
+                nextCh.pages = nextPages;
+              }
+            } catch (e) {}
+          }
+          
+          if (nextPages.length === 0) {
+            const isLocal = ['localhost', '127.0.0.1', ''].includes(location.hostname);
+            const RESOLVE_BASE = window.RESOLVE_BASE || (isLocal ? 'http://localhost:3001' : location.origin);
+            const mId = (manga && manga.id) ? manga.id : slug;
+            const res = await fetch(`${RESOLVE_BASE}/resolve-chapter?lang=${encodeURIComponent(lang)}&mangaId=${encodeURIComponent(mId)}&slug=${encodeURIComponent(mSlug)}&chNum=${encodeURIComponent(nextCh.number)}`);
+            const data = await res.json();
+            if (data.success && data.pages && data.pages.length > 0) {
+              nextPages = data.pages;
+              nextCh.pages = nextPages;
+            }
+          }
+        } catch (e) {
+          console.debug('[PREFETCH] Erro ao buscar páginas para prefetch:', e);
+        }
+      }
+
+      if (nextPages.length > 0) {
+        console.debug('[PREFETCH] Pré-carregando imagens do capítulo', nextCh.number);
+        nextPages.slice(0, 5).forEach(url => {
+          if (url && url !== '__AD_MID__' && url !== '__AD_END__') {
+            const img = new Image();
+            img.src = rdProxyPage(url);
+          }
+        });
+      }
     }
 
     function loadChapterBySelect(capNumber) {

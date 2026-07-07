@@ -331,6 +331,8 @@
       var synopsis = cleanSynopsis(rawSynopsis);
       document.getElementById('tabOverview').innerHTML = `
         <div class="description">${synopsis}</div>
+        <!-- NATIVE BANNER (Abaixo da Sinopse) -->
+        <div class="ad-banner-fixed ad-native" id="ad-synopsis-native" style="margin: 20px auto 16px;"></div>
         <div class="info-grid">
           <div class="info-item"><label>Autor</label><span>${manga.author || 'Desconhecido'}</span></div>
           <div class="info-item"><label>Artista</label><span>${manga.artist || manga.author || 'Desconhecido'}</span></div>
@@ -342,6 +344,7 @@
         </div>
         <p class="takedown-link"><a href="/takedown.html?manga=${encodeURIComponent(manga.id)}" rel="nofollow">© É o titular dos direitos desta obra? Solicitar desindexação</a></p>
       `;
+      ADS.lazy(document.getElementById('ad-synopsis-native'), ADS.renderNative);
 
       // Tab 2: Chapters
       var chSection = document.getElementById('tabChapters');

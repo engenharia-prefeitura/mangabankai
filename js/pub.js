@@ -4,14 +4,37 @@ const ADS = (function () {
   // blob: preserva a origem do site (https://mangabankai.vercel.app) para que os
   // scripts do Adsterra identifiquem o publisher corretamente — diferente de srcdoc
   // que cria origem opaca (null) e causa delays de 2+ min no matching de anúncios.
-  function _iframe(container, html, w, h) {
-    if (!container) return;
+  const activeIntervals = new Map();
+  const visibilityObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      const container = entry.target;
+      if (entry.isIntersecting) {
+        if (!activeIntervals.has(container)) {
+          const interval = setInterval(() => {
+            const html = container.dataset.adHtml;
+            const w = parseInt(container.dataset.adW, 10) || 0;
+            const h = parseInt(container.dataset.adH, 10) || 0;
+            if (html) {
+              container.innerHTML = '';
+              _createIframeElement(container, html, w, h);
+              console.debug('[ADS] Auto-refresh do banner realizado');
+            }
+          }, 45000);
+          activeIntervals.set(container, interval);
+        }
+      } else {
+        if (activeIntervals.has(container)) {
+          clearInterval(activeIntervals.get(container));
+          activeIntervals.delete(container);
+        }
+      }
+    });
+  }, { threshold: 0.1 });
+
+  function _createIframeElement(container, html, w, h) {
     const t0 = performance.now();
     const label = w ? (w + '×' + h) : 'native';
 
-    // A2 — placeholder shimmer enquanto o criativo não pinta. O iframe fica por
-    // cima; quando o anúncio carrega ele cobre o shimmer. Removido após timeout
-    // de segurança para não animar para sempre.
     container.classList.add('ad-loading');
     const stopShimmer = setTimeout(function () { container.classList.remove('ad-loading'); }, 6000);
 
@@ -32,11 +55,20 @@ const ADS = (function () {
     fr.src = url;
     fr.addEventListener('load', function () {
       URL.revokeObjectURL(url);
-      // dá ~1.2s pro criativo pintar dentro do iframe, então tira o shimmer
       setTimeout(function () { clearTimeout(stopShimmer); container.classList.remove('ad-loading'); }, 1200);
       console.debug('[ADS] ' + label + ' carregado em ' + Math.round(performance.now() - t0) + 'ms');
     }, {once: true});
     container.appendChild(fr);
+
+    visibilityObserver.observe(container);
+  }
+
+  function _iframe(container, html, w, h) {
+    if (!container) return;
+    container.dataset.adHtml = html;
+    container.dataset.adW = w;
+    container.dataset.adH = h;
+    _createIframeElement(container, html, w, h);
   }
 
   return {

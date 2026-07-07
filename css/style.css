@@ -851,33 +851,22 @@ img { max-width: 100%; display: block; }
 }
 
 /* Continue Reading */
-.continue-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 12px; }
-.continue-item {
-  display: flex;
-  gap: 14px;
-  background: var(--bg-card);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 12px;
-  cursor: pointer;
-  transition: all var(--transition);
-}
-.continue-item:hover { background: var(--bg-hover); transform: translateX(4px); }
-.continue-item img { width: 50px; height: 68px; object-fit: cover; border-radius: 4px; }
-.continue-item .ci-info { flex: 1; min-width: 0; }
-.continue-item .ci-info h4 { font-size: 0.85rem; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.continue-item .ci-info .ci-chap { font-size: 0.75rem; color: var(--text-muted); margin: 2px 0; }
-.continue-item .ci-info .ci-progress {
-  height: 4px;
-  background: var(--bg-hover);
-  border-radius: 2px;
-  margin-top: 6px;
+.manga-card.continue-card .cover {
+  position: relative;
   overflow: hidden;
 }
-.continue-item .ci-info .ci-progress .ci-fill {
+.manga-card.continue-card .continue-pct-bar {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  background: rgba(255, 255, 255, 0.2);
+  z-index: 2;
+}
+.manga-card.continue-card .continue-pct-fill {
   height: 100%;
   background: var(--accent);
-  border-radius: 2px;
   transition: width 0.5s ease;
 }
 
@@ -1512,7 +1501,6 @@ img { max-width: 100%; display: block; }
     width: 100%;
   }
   .footer-grid { grid-template-columns: 1fr; }
-  .continue-grid { grid-template-columns: 1fr; }
   .back-top { bottom: 16px; right: 16px; width: 38px; height: 38px; font-size: 1rem; }
 }
 @media (max-width: 480px) {

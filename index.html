@@ -88,7 +88,11 @@
       <div class="section-header">
         <div class="left"><span class="icon">📚</span><h2>Continuar Lendo</h2></div>
       </div>
-      <div class="continue-grid" id="continueGrid"></div>
+      <div class="row-wrap">
+        <button class="row-arrow left" aria-label="Anterior" onclick="scrollRow('continueGrid',-1)">‹</button>
+        <div class="manga-grid row-carousel" id="continueGrid"></div>
+        <button class="row-arrow right" aria-label="Próximo" onclick="scrollRow('continueGrid',1)">›</button>
+      </div>
     </section>
 
     <!-- Recently Updated (data real) -->
@@ -237,22 +241,36 @@
       const grid = document.getElementById('continueGrid');
       const _crAdult = typeof localStorage !== 'undefined' && localStorage.getItem('ms_adult_mode') === 'true';
       const _crAdultGenres = ['Adulto', 'Hentai', 'Ecchi', 'Mature', 'Smut'];
-      const items = entries.sort((a, b) => (b[1].updatedAt || 0) - (a[1].updatedAt || 0)).slice(0, 6).map(([mangaId, prog]) => {
+      const items = entries.sort((a, b) => (b[1].updatedAt || 0) - (a[1].updatedAt || 0)).slice(0, 12).map(([mangaId, prog]) => {
         const manga = getManga(mangaId);
-        if (!manga) return '';
-        if (!_crAdult && (_crAdultGenres.some(g => (manga.genres || []).includes(g)))) return '';
+        if (!manga) return null;
+        if (!_crAdult && (_crAdultGenres.some(g => (manga.genres || []).includes(g)))) return null;
         const pct = prog.totalPages > 0 ? Math.min(100, Math.round((prog.pageIndex / prog.totalPages) * 100)) : 0;
-        return `
-          <div class="continue-item" onclick="window.location.href='/manga/${mangaId}/${prog.chapterNumber != null ? prog.chapterNumber : prog.chapterId}'">
-            <img src="${manga.cover}" alt="${manga.title}" referrerPolicy="no-referrer" onerror="this.src='https://placehold.co/50x68/1a1a1a/444?text=?'">
-            <div class="ci-info">
-              <h4>${manga.title}</h4>
-              <div class="ci-chap">Cap. ${prog.chapterNumber != null ? prog.chapterNumber : prog.chapterId} · ${pct}%</div>
-              <div class="ci-progress"><div class="ci-fill" style="width:${pct}%"></div></div>
+        
+        const card = document.createElement('a');
+        card.className = 'manga-card continue-card';
+        card.href = `/manga/${mangaId}/${prog.chapterNumber != null ? prog.chapterNumber : prog.chapterId}`;
+        card.innerHTML = `
+          <div class="cover">
+            <img src="${manga.cover}" alt="${manga.title}" referrerPolicy="no-referrer" loading="lazy" decoding="async" onerror="this.src='https://placehold.co/300x400/1a1a1a/444?text=?'">
+            <span class="badge ongoing" style="background:#6c63ff; border:none;">Cap. ${prog.chapterNumber != null ? prog.chapterNumber : prog.chapterId}</span>
+            <div class="continue-pct-bar" style="position:absolute; bottom:0; left:0; width:100%; height:4px; background:rgba(255,255,255,0.2); z-index:2;">
+              <div class="continue-pct-fill" style="width:${pct}%; height:100%; background:#6c63ff;"></div>
             </div>
-          </div>`;
-      }).filter(Boolean).join('');
-      if (items) { grid.innerHTML = items; section.style.display = 'block'; }
+          </div>
+          <div class="info">
+            <h3 style="margin-bottom:2px;">${manga.title}</h3>
+            <div class="meta" style="font-size:0.75rem; color:var(--text-muted)">Lido ${pct}%</div>
+          </div>
+        `;
+        return card;
+      }).filter(Boolean);
+      
+      if (items.length > 0) {
+        grid.innerHTML = '';
+        items.forEach(el => grid.appendChild(el));
+        section.style.display = 'block';
+      }
     })();
 
     // ========== RECÊNCIA (home.json) → HERO + FILEIRAS ==========

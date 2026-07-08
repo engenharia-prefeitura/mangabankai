@@ -60508,7 +60508,7 @@ let MANGA_DATA = [
     ],
     "description": "“The onahole… moved?!”",
     "descriptionEn": "“The onahole… moved?!”",
-    "chaptersCount": 102,
+    "chaptersCount": 103,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -253517,6 +253517,31 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "all-my-old-classmates-are-hookers",
+    "slug": "all-my-old-classmates-are-hookers",
+    "title": "All My Old Classmates Are Hookers",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2026/07/all-my-old-classmates-are-hookers-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2026/07/all-my-old-classmates-are-hookers-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Adult",
+      "Hentai",
+      "Seinen"
+    ],
+    "description": "“Did you think all girls on the street fuck for money?”",
+    "descriptionEn": "“Did you think all girls on the street fuck for money?”",
+    "chaptersCount": 51,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

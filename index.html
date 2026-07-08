@@ -536,8 +536,12 @@
       document.getElementById('siteNewsAlert').style.display = 'none';
     };
 
-    // Run check on load
-    window.addEventListener('load', checkSiteNews);
+    // Run check as soon as DOM is ready to avoid waiting for slow ads/images
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', checkSiteNews);
+    } else {
+      checkSiteNews();
+    }
   </script>
   <script>ADS.renderSocialBar();</script>
 </body>

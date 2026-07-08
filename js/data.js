@@ -232196,7 +232196,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Minhas Sete Noivas São Todas Vilãs, um manhua em português.",
     "descriptionPt": "Leia Minhas Sete Noivas São Todas Vilãs, um manhua em português.",
-    "chaptersCount": 64,
+    "chaptersCount": 65,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253488,6 +253488,32 @@ let MANGA_DATA = [
     "description": "Leia Accidental Love, um manhwa em português.",
     "descriptionPt": "Leia Accidental Love, um manhwa em português.",
     "chaptersCount": 100,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "a-bebe-prisioneira-do-castelo-de-inverno",
+    "slug": "a-bebe-prisioneira-do-castelo-de-inverno",
+    "title": "A Bebê Prisioneira do Castelo de Inverno",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-bebe-prisioneira-do-castelo-de-inverno/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-bebe-prisioneira-do-castelo-de-inverno/cover-md.webp",
+    "author": "RYU Hee-on",
+    "artist": "RYU Hee-on",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Familia",
+      "Manhwa"
+    ],
+    "description": "Leia A Bebê Prisioneira do Castelo de Inverno, um manhwa em português.",
+    "descriptionPt": "Leia A Bebê Prisioneira do Castelo de Inverno, um manhwa em português.",
+    "chaptersCount": 101,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

@@ -1,0 +1,1327 @@
+{
+  "en": [
+    {
+      "id": "dagashi-kashi-1",
+      "number": "1",
+      "title": "The Sweets Shop",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-2",
+      "number": "2",
+      "title": "Umai Bou",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-3",
+      "number": "3",
+      "title": "Potato Fry",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-4",
+      "number": "4",
+      "title": "Kinako Bou",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-5",
+      "number": "5",
+      "title": "Namaiki Beer",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-6",
+      "number": "6",
+      "title": "Morocco Fruit Yogul",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-7",
+      "number": "7",
+      "title": "Coffee Gyuunyuu Candy",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-8",
+      "number": "8",
+      "title": "Young Doughnuts",
+      "date": "2015/04/29",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-9",
+      "number": "9",
+      "title": "Butamen",
+      "date": "2015/04/29",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-10",
+      "number": "10",
+      "title": "Kurukuru Bou Jelly",
+      "date": "2015/04/29",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-11",
+      "number": "11",
+      "title": "Fue Ramune",
+      "date": "2015/05/14",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-12",
+      "number": "12",
+      "title": "",
+      "date": "2015/06/02",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-13",
+      "number": "13",
+      "title": "Ramune",
+      "date": "2015/06/19",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-14",
+      "number": "14",
+      "title": "Cocoa Cigarettes",
+      "date": "2015/08/11",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-15",
+      "number": "15",
+      "title": "Puchi Puchi Uranai Choco",
+      "date": "2015/08/11",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-16",
+      "number": "16",
+      "title": "",
+      "date": "2015/08/11",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-17",
+      "number": "17",
+      "title": "",
+      "date": "2015/08/19",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-18",
+      "number": "18",
+      "title": "",
+      "date": "2015/08/19",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-19",
+      "number": "19",
+      "title": "",
+      "date": "2015/08/26",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-20",
+      "number": "20",
+      "title": "",
+      "date": "2015/09/10",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-21",
+      "number": "21",
+      "title": "",
+      "date": "2015/09/19",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-22",
+      "number": "22",
+      "title": "",
+      "date": "2015/09/29",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-23",
+      "number": "23",
+      "title": "",
+      "date": "2015/09/30",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-24",
+      "number": "24",
+      "title": "",
+      "date": "2015/10/02",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-25",
+      "number": "25",
+      "title": "",
+      "date": "2015/10/29",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-26",
+      "number": "26",
+      "title": "",
+      "date": "2015/12/07",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-27",
+      "number": "27",
+      "title": "",
+      "date": "2015/12/07",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-28",
+      "number": "28",
+      "title": "",
+      "date": "2015/12/08",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-29",
+      "number": "29",
+      "title": "",
+      "date": "2015/12/09",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-30",
+      "number": "30",
+      "title": "",
+      "date": "2015/12/14",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-31",
+      "number": "31",
+      "title": "",
+      "date": "2015/12/18",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-32",
+      "number": "32",
+      "title": "",
+      "date": "2015/12/18",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-33",
+      "number": "33",
+      "title": "",
+      "date": "2015/12/20",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-34",
+      "number": "34",
+      "title": "",
+      "date": "2015/12/24",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-35",
+      "number": "35",
+      "title": "",
+      "date": "2016/01/01",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-36",
+      "number": "36",
+      "title": "",
+      "date": "2016/01/03",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-37",
+      "number": "37",
+      "title": "",
+      "date": "2016/01/09",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-38",
+      "number": "38",
+      "title": "",
+      "date": "2016/01/11",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-39",
+      "number": "39",
+      "title": "",
+      "date": "2016/05/01",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-40",
+      "number": "40",
+      "title": "",
+      "date": "2016/05/23",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-41",
+      "number": "41",
+      "title": "",
+      "date": "2016/05/30",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-42",
+      "number": "42",
+      "title": "",
+      "date": "2016/06/09",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-43",
+      "number": "43",
+      "title": "",
+      "date": "2016/06/17",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-44",
+      "number": "44",
+      "title": "",
+      "date": "2016/07/12",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-45",
+      "number": "45",
+      "title": "",
+      "date": "2017/02/19",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-46",
+      "number": "46",
+      "title": "",
+      "date": "2017/02/19",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-47",
+      "number": "47",
+      "title": "",
+      "date": "2017/02/19",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-48",
+      "number": "48",
+      "title": "",
+      "date": "2017/04/04",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-49",
+      "number": "49",
+      "title": "",
+      "date": "2017/04/04",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-50",
+      "number": "50",
+      "title": "",
+      "date": "2017/04/22",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-51",
+      "number": "51",
+      "title": "",
+      "date": "2017/04/26",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-52",
+      "number": "52",
+      "title": "",
+      "date": "2017/04/26",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-53",
+      "number": "53",
+      "title": "",
+      "date": "2017/04/26",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-54",
+      "number": "54",
+      "title": "",
+      "date": "2017/04/26",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-55",
+      "number": "55",
+      "title": "",
+      "date": "2017/04/26",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-56",
+      "number": "56",
+      "title": "",
+      "date": "2017/04/26",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-57",
+      "number": "57",
+      "title": "",
+      "date": "2017/05/03",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-58",
+      "number": "58",
+      "title": "",
+      "date": "2017/05/11",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-59",
+      "number": "59",
+      "title": "",
+      "date": "2017/05/20",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-60",
+      "number": "60",
+      "title": "",
+      "date": "2017/05/25",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-61",
+      "number": "61",
+      "title": "",
+      "date": "2017/05/25",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-62",
+      "number": "62",
+      "title": "",
+      "date": "2017/05/30",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-63",
+      "number": "63",
+      "title": "",
+      "date": "2017/06/06",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-64",
+      "number": "64",
+      "title": "",
+      "date": "2017/06/20",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-65",
+      "number": "65",
+      "title": "",
+      "date": "2017/07/04",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-66",
+      "number": "66",
+      "title": "",
+      "date": "2017/07/04",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-67",
+      "number": "67",
+      "title": "",
+      "date": "2017/07/16",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-68",
+      "number": "68",
+      "title": "",
+      "date": "2017/07/25",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-69",
+      "number": "69",
+      "title": "",
+      "date": "2017/08/05",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-70",
+      "number": "70",
+      "title": "Mini Cola",
+      "date": "2017/08/07",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-71",
+      "number": "71",
+      "title": "",
+      "date": "2017/08/15",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-72",
+      "number": "72",
+      "title": "",
+      "date": "2017/08/15",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-73",
+      "number": "73",
+      "title": "Makeup Classes",
+      "date": "2017/08/18",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-74",
+      "number": "74",
+      "title": "Puchi Gum",
+      "date": "2017/08/23",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-75",
+      "number": "75",
+      "title": "",
+      "date": "2017/09/06",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-76",
+      "number": "76",
+      "title": "",
+      "date": "2017/09/06",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-77",
+      "number": "77",
+      "title": "",
+      "date": "2017/09/11",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-78",
+      "number": "78",
+      "title": "Black Thunder",
+      "date": "2017/09/19",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-79",
+      "number": "79",
+      "title": "Marble",
+      "date": "2017/09/19",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-80",
+      "number": "80",
+      "title": "",
+      "date": "2017/10/04",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-81",
+      "number": "81",
+      "title": "",
+      "date": "2017/10/04",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-82",
+      "number": "82",
+      "title": "",
+      "date": "2017/10/07",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-83",
+      "number": "83",
+      "title": "Donguri Gum",
+      "date": "2017/10/09",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-84",
+      "number": "84",
+      "title": "Beigoma",
+      "date": "2017/10/12",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-85",
+      "number": "85",
+      "title": "Disappear!! Candy",
+      "date": "2017/10/19",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-86",
+      "number": "86",
+      "title": "",
+      "date": "2017/10/25",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-87",
+      "number": "87",
+      "title": "",
+      "date": "2017/11/01",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-88q",
+      "number": "88q",
+      "title": "Big Katsu",
+      "date": "2017/11/07",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-89",
+      "number": "89",
+      "title": "",
+      "date": "2017/11/20",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-90",
+      "number": "90",
+      "title": "",
+      "date": "2017/11/20",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-91",
+      "number": "91",
+      "title": "",
+      "date": "2017/11/28",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-92",
+      "number": "92",
+      "title": "",
+      "date": "2017/12/04",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-93",
+      "number": "93",
+      "title": "",
+      "date": "2017/12/12",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-94",
+      "number": "94",
+      "title": "",
+      "date": "2017/12/15",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-95",
+      "number": "95",
+      "title": "",
+      "date": "2017/12/23",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-96",
+      "number": "96",
+      "title": "",
+      "date": "2017/12/29",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-97",
+      "number": "97",
+      "title": "",
+      "date": "2017/12/31",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-98",
+      "number": "98",
+      "title": "",
+      "date": "2018/01/10",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-99",
+      "number": "99",
+      "title": "",
+      "date": "2018/01/10",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-100",
+      "number": "100",
+      "title": "",
+      "date": "2018/01/12",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-101",
+      "number": "101",
+      "title": "",
+      "date": "2018/01/20",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-102",
+      "number": "102",
+      "title": "",
+      "date": "2018/01/20",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-103",
+      "number": "103",
+      "title": "",
+      "date": "2018/01/22",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-104",
+      "number": "104",
+      "title": "",
+      "date": "2018/01/22",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-105",
+      "number": "105",
+      "title": "",
+      "date": "2018/01/24",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-106",
+      "number": "106",
+      "title": "",
+      "date": "2018/01/28",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-107",
+      "number": "107",
+      "title": "",
+      "date": "2018/01/30",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-108",
+      "number": "108",
+      "title": "",
+      "date": "2018/01/30",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-109",
+      "number": "109",
+      "title": "",
+      "date": "2018/02/06",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-110",
+      "number": "110",
+      "title": "",
+      "date": "2018/02/08",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-111",
+      "number": "111",
+      "title": "",
+      "date": "2018/02/09",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-112",
+      "number": "112",
+      "title": "",
+      "date": "2018/02/16",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-113",
+      "number": "113",
+      "title": "",
+      "date": "2018/02/20",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-114",
+      "number": "114",
+      "title": "",
+      "date": "2018/02/24",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-115",
+      "number": "115",
+      "title": "",
+      "date": "2018/02/25",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-116",
+      "number": "116",
+      "title": "",
+      "date": "2018/03/08",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-117",
+      "number": "117",
+      "title": "",
+      "date": "2018/03/08",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-118",
+      "number": "118",
+      "title": "",
+      "date": "2018/03/12",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-119",
+      "number": "119",
+      "title": "",
+      "date": "2018/03/23",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-120",
+      "number": "120",
+      "title": "",
+      "date": "2018/03/24",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-121",
+      "number": "121",
+      "title": "",
+      "date": "2018/03/31",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-122",
+      "number": "122",
+      "title": "",
+      "date": "2018/04/05",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-123",
+      "number": "123",
+      "title": "",
+      "date": "2018/04/08",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-124",
+      "number": "124",
+      "title": "",
+      "date": "2018/04/19",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-125",
+      "number": "125",
+      "title": "",
+      "date": "2018/05/02",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-126",
+      "number": "126",
+      "title": "",
+      "date": "2018/05/08",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-127",
+      "number": "127",
+      "title": "",
+      "date": "2018/05/17",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-128",
+      "number": "128",
+      "title": "",
+      "date": "2018/05/25",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-129",
+      "number": "129",
+      "title": "New Mochitarou",
+      "date": "2018/06/19",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-130",
+      "number": "130",
+      "title": "",
+      "date": "2018/09/25",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-131",
+      "number": "131",
+      "title": "",
+      "date": "2018/10/10",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-132",
+      "number": "132",
+      "title": "",
+      "date": "2018/10/22",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-133",
+      "number": "133",
+      "title": "",
+      "date": "2018/11/15",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-134",
+      "number": "134",
+      "title": "",
+      "date": "2018/12/01",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-135",
+      "number": "135",
+      "title": "",
+      "date": "2018/12/31",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-136",
+      "number": "136",
+      "title": "",
+      "date": "2019/01/13",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-137",
+      "number": "137",
+      "title": "",
+      "date": "2019/02/12",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-138",
+      "number": "138",
+      "title": "",
+      "date": "2019/02/18",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-139",
+      "number": "139",
+      "title": "",
+      "date": "2019/02/28",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-140",
+      "number": "140",
+      "title": "",
+      "date": "2019/03/10",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-141",
+      "number": "141",
+      "title": "",
+      "date": "2019/03/19",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-142",
+      "number": "142",
+      "title": "",
+      "date": "2019/03/27",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-143",
+      "number": "143",
+      "title": "",
+      "date": "2019/04/05",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-144",
+      "number": "144",
+      "title": "",
+      "date": "2019/04/20",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-145",
+      "number": "145",
+      "title": "",
+      "date": "2019/04/30",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-146",
+      "number": "146",
+      "title": "",
+      "date": "2019/05/12",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-147",
+      "number": "147",
+      "title": "",
+      "date": "2019/06/02",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-148",
+      "number": "148",
+      "title": "New Year s Pocket Money",
+      "date": "2019/06/19",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-149",
+      "number": "149",
+      "title": "",
+      "date": "2019/07/01",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-150",
+      "number": "150",
+      "title": "",
+      "date": "2019/07/17",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-151",
+      "number": "151",
+      "title": "Kinoko and Takenoko",
+      "date": "2019/07/31",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-152",
+      "number": "152",
+      "title": "",
+      "date": "2019/08/23",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-153",
+      "number": "153",
+      "title": "60 Minute Candy",
+      "date": "2019/08/30",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-154",
+      "number": "154",
+      "title": "Sweet Pudding Stick",
+      "date": "2019/09/11",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-155",
+      "number": "155",
+      "title": "Sweet Date",
+      "date": "2019/09/25",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-156",
+      "number": "156",
+      "title": "Fidget Spinner",
+      "date": "2019/10/12",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-157",
+      "number": "157",
+      "title": "Stem Lettuce",
+      "date": "2019/10/30",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-158",
+      "number": "158",
+      "title": "Glass Ramune Bottle",
+      "date": "2019/11/13",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-159",
+      "number": "159",
+      "title": "Sour Spray",
+      "date": "2019/12/09",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-160",
+      "number": "160",
+      "title": "",
+      "date": "2020/04/21",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-161",
+      "number": "161",
+      "title": "",
+      "date": "2020/04/21",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-162",
+      "number": "162",
+      "title": "",
+      "date": "2020/04/21",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-163",
+      "number": "163",
+      "title": "",
+      "date": "2020/04/21",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-164",
+      "number": "164",
+      "title": "",
+      "date": "2020/05/20",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-165",
+      "number": "165",
+      "title": "Chameleon Candy",
+      "date": "2020/08/25",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-166",
+      "number": "166",
+      "title": "Corn Potage",
+      "date": "2020/08/25",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-167",
+      "number": "167",
+      "title": "Girl's Party",
+      "date": "2020/11/18",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-168",
+      "number": "168",
+      "title": "",
+      "date": "2020/11/29",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-169",
+      "number": "169",
+      "title": "Love Talk",
+      "date": "2020/12/10",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-170",
+      "number": "170",
+      "title": "",
+      "date": "2020/12/19",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-171",
+      "number": "171",
+      "title": "",
+      "date": "2020/12/19",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-172",
+      "number": "172",
+      "title": "Kibi Dango",
+      "date": "2021/04/07",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-173",
+      "number": "173",
+      "title": "",
+      "date": "2021/07/12",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-174",
+      "number": "174",
+      "title": "",
+      "date": "2021/07/12",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-175",
+      "number": "175",
+      "title": "",
+      "date": "2021/07/12",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-176",
+      "number": "176",
+      "title": "Fruit Ramune Candy",
+      "date": "2021/12/28",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-177",
+      "number": "177",
+      "title": "",
+      "date": "2021/12/29",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-178",
+      "number": "178",
+      "title": "So Obvious",
+      "date": "2021/12/30",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-179",
+      "number": "179",
+      "title": "Family's the Best",
+      "date": "2022/01/01",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-180",
+      "number": "180",
+      "title": "",
+      "date": "2022/04/10",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-181",
+      "number": "181",
+      "title": "",
+      "date": "2022/08/19",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-182",
+      "number": "182",
+      "title": "",
+      "date": "2022/08/19",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-183",
+      "number": "183",
+      "title": "",
+      "date": "2022/08/19",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-184",
+      "number": "184",
+      "title": "",
+      "date": "2022/08/19",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-185",
+      "number": "185",
+      "title": "",
+      "date": "2022/08/19",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-186",
+      "number": "186",
+      "title": "",
+      "date": "2022/08/19",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-186a",
+      "number": "186a",
+      "title": "",
+      "date": "2022/09/25",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-186e",
+      "number": "186e",
+      "title": "",
+      "date": "2023/12/30",
+      "pages": []
+    },
+    {
+      "id": "dagashi-kashi-186f",
+      "number": "186f",
+      "title": "",
+      "date": "2023/12/30",
+      "pages": []
+    }
+  ]
+}

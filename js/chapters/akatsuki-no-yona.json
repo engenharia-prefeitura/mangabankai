@@ -1,0 +1,4513 @@
+{
+  "en": [
+    {
+      "id": "akatsuki-no-yona-1",
+      "number": "1",
+      "title": "Princess Yona",
+      "date": "2011/10/26",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-2",
+      "number": "2",
+      "title": "A Torn Bond",
+      "date": "2011/10/26",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-3",
+      "number": "3",
+      "title": "Hands Held Firmly Behind His Back",
+      "date": "2011/10/26",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-4",
+      "number": "4",
+      "title": "Beneath The Sky",
+      "date": "2011/10/26",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-5",
+      "number": "5",
+      "title": "I'm Just Breathing",
+      "date": "2011/10/26",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-6",
+      "number": "6",
+      "title": "The Wind Tribe",
+      "date": "2011/10/26",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-7",
+      "number": "7",
+      "title": "The Spear Kept Within The Heart",
+      "date": "2011/10/26",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-8",
+      "number": "8",
+      "title": "I Decided For Myself",
+      "date": "2011/10/26",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-9",
+      "number": "9",
+      "title": "Roar",
+      "date": "2011/10/26",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-10",
+      "number": "10",
+      "title": "Red Hair",
+      "date": "2011/11/12",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-11",
+      "number": "11",
+      "title": "The Crowning Of a New King",
+      "date": "2011/12/02",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-12",
+      "number": "12",
+      "title": "The Valley Where God's Voice Summoned",
+      "date": "2012/01/26",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-13",
+      "number": "13",
+      "title": "God's Will",
+      "date": "2012/03/03",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-14",
+      "number": "14",
+      "title": "The Chosen Door",
+      "date": "2012/03/10",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-15",
+      "number": "15",
+      "title": "Shaken Resolution",
+      "date": "2012/03/23",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-16",
+      "number": "16",
+      "title": "Location Of The Dragon",
+      "date": "2012/06/01",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-17",
+      "number": "17",
+      "title": "Location Of The Dragon",
+      "date": "2012/06/01",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-18",
+      "number": "18",
+      "title": "The Dragon's Claw",
+      "date": "2012/06/30",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-19",
+      "number": "19",
+      "title": "Here And There",
+      "date": "2012/08/13",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-20",
+      "number": "20",
+      "title": "People of The Cellars",
+      "date": "2012/09/27",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-21",
+      "number": "21",
+      "title": "The Masked Dragon",
+      "date": "2012/10/04",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-22",
+      "number": "22",
+      "title": "Calling Out To Each Other",
+      "date": "2012/11/13",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-23",
+      "number": "23",
+      "title": "Echoing Fear",
+      "date": "2012/12/06",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-24",
+      "number": "24",
+      "title": "Light",
+      "date": "2012/12/18",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-25",
+      "number": "25",
+      "title": "Given Name",
+      "date": "2012/12/18",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-26",
+      "number": "26",
+      "title": "Onward To a New Land",
+      "date": "2013/01/01",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-27",
+      "number": "27",
+      "title": "The Third Dragon",
+      "date": "2013/01/20",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-28",
+      "number": "28",
+      "title": "The Pirates of Awa",
+      "date": "2013/01/31",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-29",
+      "number": "29",
+      "title": "Yona's Current Location",
+      "date": "2013/04/03",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-30",
+      "number": "30",
+      "title": "Negotiations",
+      "date": "2013/04/03",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-31",
+      "number": "31",
+      "title": "The Senjusou Test",
+      "date": "2013/04/03",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-32",
+      "number": "32",
+      "title": "Connections",
+      "date": "2013/05/17",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-33",
+      "number": "33",
+      "title": "Battle Preparations",
+      "date": "2013/05/17",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-34",
+      "number": "34",
+      "title": "Chain Of Courage",
+      "date": "2013/06/07",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-35",
+      "number": "35",
+      "title": "Sweetly-Scented Cargo",
+      "date": "2013/06/22",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-36",
+      "number": "36",
+      "title": "Fireworks",
+      "date": "2013/07/04",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-37",
+      "number": "37",
+      "title": "The Night History Is Made",
+      "date": "2013/07/21",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-38",
+      "number": "38",
+      "title": "On the Night of the Feast",
+      "date": "2013/08/02",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-39",
+      "number": "39",
+      "title": "The Dark Clouds of Dawn",
+      "date": "2013/08/22",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-40",
+      "number": "40",
+      "title": "The Morning of Promise",
+      "date": "2013/09/18",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-41",
+      "number": "41",
+      "title": "We Are Dragons, We Are Humans",
+      "date": "2013/11/24",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-42",
+      "number": "42",
+      "title": "Everyone is Assembled",
+      "date": "2014/01/23",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-43",
+      "number": "43",
+      "title": "From This Point on",
+      "date": "2014/04/10",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-44",
+      "number": "44",
+      "title": "Each One's Motivations",
+      "date": "2014/05/20",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-45",
+      "number": "45",
+      "title": "Battle Game",
+      "date": "2014/06/18",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-46",
+      "number": "46",
+      "title": "Leveling The Earth",
+      "date": "2014/07/19",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-47",
+      "number": "47",
+      "title": "Sweet Rain",
+      "date": "2014/08/26",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-48",
+      "number": "48",
+      "title": "Bad Attraction",
+      "date": "2014/10/18",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-49",
+      "number": "49",
+      "title": "The Dark Dragon and the Happy Hungry Bunch",
+      "date": "2014/11/24",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-50",
+      "number": "50",
+      "title": "The Release",
+      "date": "2014/11/24",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-51",
+      "number": "51",
+      "title": "Entranced",
+      "date": "2014/11/24",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-52",
+      "number": "52",
+      "title": "Where There's a Will, There's a Way",
+      "date": "2014/11/24",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-53",
+      "number": "53",
+      "title": "Where There's a Will, There's a Way",
+      "date": "2014/11/24",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-54",
+      "number": "54",
+      "title": "Kusanagi Mizuho",
+      "date": "2014/12/08",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-55",
+      "number": "55",
+      "title": "Like A Dream",
+      "date": "2014/12/08",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-56",
+      "number": "56",
+      "title": "Can't Put Out Fire With Fire",
+      "date": "2014/12/24",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-57",
+      "number": "57",
+      "title": "People Can't Imagine That Which They Don't Know",
+      "date": "2014/12/24",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-58",
+      "number": "58",
+      "title": "Backbone And Cowardice",
+      "date": "2015/01/07",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-59",
+      "number": "59",
+      "title": "You Are In My Players",
+      "date": "2015/01/07",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-60",
+      "number": "60",
+      "title": "Young Lives In The Wild part 1",
+      "date": "2015/01/07",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-61",
+      "number": "61",
+      "title": "Young Lives In The Wild part 2",
+      "date": "2015/01/07",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-62",
+      "number": "62",
+      "title": "Before The Blade Arrives",
+      "date": "2015/01/07",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-63",
+      "number": "63",
+      "title": "Shaken Journey",
+      "date": "2015/01/07",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-64",
+      "number": "64",
+      "title": "Sen Province Of  The Kai Empires",
+      "date": "2015/01/07",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-65",
+      "number": "65",
+      "title": "The Beggining Of The Fire Festivale",
+      "date": "2015/01/07",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-66",
+      "number": "66",
+      "title": "This Not smile Without Fire",
+      "date": "2015/01/19",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-67",
+      "number": "67",
+      "title": "Flames",
+      "date": "2015/01/19",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-68",
+      "number": "68",
+      "title": "Those Who Protect The Fire",
+      "date": "2015/02/02",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-69",
+      "number": "69",
+      "title": "Sings Of A Grand Fire",
+      "date": "2015/02/02",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-70",
+      "number": "70",
+      "title": "A Blazzing Obession",
+      "date": "2015/02/16",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-71",
+      "number": "71",
+      "title": "The Sky's Baton of Command",
+      "date": "2015/03/02",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-72",
+      "number": "72",
+      "title": "Those Who Lead",
+      "date": "2015/03/02",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-73",
+      "number": "73",
+      "title": "In the Wilderness, I Saw the King's Dream",
+      "date": "2015/03/16",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-74",
+      "number": "74",
+      "title": "The Flowers Blooming in Your Footprints",
+      "date": "2015/03/17",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-75",
+      "number": "75",
+      "title": "Three Conditions",
+      "date": "2015/04/05",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-76",
+      "number": "76",
+      "title": "The Wanderer's Market",
+      "date": "2015/04/05",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-77",
+      "number": "77",
+      "title": "A Town Drenched in Drizzle",
+      "date": "2015/04/05",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-78",
+      "number": "78",
+      "title": "The Nadai Eroding Shisen",
+      "date": "2015/04/05",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-79",
+      "number": "79",
+      "title": "Just Looking",
+      "date": "2015/04/05",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-80",
+      "number": "80",
+      "title": "Vortex",
+      "date": "2015/04/05",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-81",
+      "number": "81",
+      "title": "Bottomless Whirlpool",
+      "date": "2015/04/05",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-82",
+      "number": "82",
+      "title": "Swearing Resolution Upon that Blade",
+      "date": "2015/04/05",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-83",
+      "number": "83",
+      "title": "I can hear the sound of invisible tears",
+      "date": "2015/04/13",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-84",
+      "number": "84",
+      "title": "We Part Here",
+      "date": "2015/04/20",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-85",
+      "number": "85",
+      "title": "To Sensui",
+      "date": "2015/05/04",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-86",
+      "number": "86",
+      "title": "Meetings Which Create People",
+      "date": "2015/05/04",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-87",
+      "number": "87",
+      "title": "Pursuit",
+      "date": "2015/05/19",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-88",
+      "number": "88",
+      "title": "Those Eyes are the Same Color as the Sea",
+      "date": "2015/05/19",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-89",
+      "number": "89",
+      "title": "The Allies Whose Faces Cannot Be Seen",
+      "date": "2015/05/19",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-90",
+      "number": "90",
+      "title": "The Sharp Edge Of Anger",
+      "date": "2015/05/19",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-91",
+      "number": "91",
+      "title": "He Was A Very Dear Friend.",
+      "date": "2015/05/19",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-92",
+      "number": "92",
+      "title": "Looking At The Sky,Searching For Your Smile.",
+      "date": "2015/05/19",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-93",
+      "number": "93",
+      "title": "Please Take Care",
+      "date": "2015/06/29",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-94",
+      "number": "94",
+      "title": "The Era will Not Stop",
+      "date": "2015/06/29",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-95",
+      "number": "95",
+      "title": "The Boy from Another Land",
+      "date": "2015/07/14",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-96",
+      "number": "96",
+      "title": "Dark cloud",
+      "date": "2015/07/19",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-97",
+      "number": "97",
+      "title": "Traveling to Search for Answers",
+      "date": "2015/07/28",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-98",
+      "number": "98",
+      "title": "Run",
+      "date": "2015/07/28",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-99",
+      "number": "99",
+      "title": "An Endless Battle",
+      "date": "2015/08/11",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-100",
+      "number": "100",
+      "title": "Unbreakable Body",
+      "date": "2015/08/24",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-101",
+      "number": "101",
+      "title": "The Original Dragon",
+      "date": "2015/08/24",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-102",
+      "number": "102",
+      "title": "A Temporary Fort",
+      "date": "2016/02/29",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-103",
+      "number": "103",
+      "title": "Our Lord Lies in Slumber",
+      "date": "2015/09/21",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-104",
+      "number": "104",
+      "title": "A Boat that Arrives Nowhere",
+      "date": "2015/09/21",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-105",
+      "number": "105",
+      "title": "A Red Star Ascends",
+      "date": "2015/09/21",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-106",
+      "number": "106",
+      "title": "The Forest Lushing Blue, first part",
+      "date": "2015/11/30",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-107",
+      "number": "107",
+      "title": "The Forest Lushing Blue, middle part",
+      "date": "2015/11/30",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-108",
+      "number": "108",
+      "title": "The Forest Lushing Blue, final part",
+      "date": "2015/11/30",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-109",
+      "number": "109",
+      "title": "What goes around comes around",
+      "date": "2015/12/29",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-110",
+      "number": "110",
+      "title": "A little gift",
+      "date": "2015/12/29",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-111",
+      "number": "111",
+      "title": "A Town Where People Vanish",
+      "date": "2016/01/07",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-112",
+      "number": "112",
+      "title": "A Temporary Fort",
+      "date": "2016/02/29",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-113",
+      "number": "113",
+      "title": "Let's Fight",
+      "date": "2016/04/07",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-114",
+      "number": "114",
+      "title": "When I Can Say My Most Heartfelt Words",
+      "date": "2016/04/07",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-115",
+      "number": "115",
+      "title": "Council of War",
+      "date": "2016/04/08",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-116",
+      "number": "116",
+      "title": "Enemies and Allies",
+      "date": "2016/04/08",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-117",
+      "number": "117",
+      "title": "In My Heart I Swore",
+      "date": "2016/04/10",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-118",
+      "number": "118",
+      "title": "To Your Side",
+      "date": "2016/04/12",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-119",
+      "number": "119",
+      "title": "Kushibi's Fort",
+      "date": "2016/04/18",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-120",
+      "number": "120",
+      "title": "Reach",
+      "date": "2016/04/19",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-121",
+      "number": "121",
+      "title": "Since That Day",
+      "date": "2016/05/26",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-122",
+      "number": "122",
+      "title": "Close To You",
+      "date": "2016/06/14",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-123",
+      "number": "123",
+      "title": "Bottled Up Feelings",
+      "date": "2016/07/11",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-124",
+      "number": "124",
+      "title": "Bottled Up Feelings",
+      "date": "2016/07/21",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-125",
+      "number": "125",
+      "title": "Those Who Had Dreams",
+      "date": "2016/08/07",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-126",
+      "number": "126",
+      "title": "Pursuers",
+      "date": "2016/08/23",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-127",
+      "number": "127",
+      "title": "The Princess of Xing",
+      "date": "2016/09/11",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-128",
+      "number": "128",
+      "title": "Confrontation",
+      "date": "2016/10/07",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-129",
+      "number": "129",
+      "title": "Surprise Attack",
+      "date": "2016/10/22",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-130",
+      "number": "130",
+      "title": "Monsters from a Neighboring Country",
+      "date": "2016/11/07",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-131",
+      "number": "131",
+      "title": "The King of Carnage",
+      "date": "2016/12/04",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-132",
+      "number": "132",
+      "title": "The Five Stars",
+      "date": "2016/12/25",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-133",
+      "number": "133",
+      "title": "Proof",
+      "date": "2017/01/24",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-134",
+      "number": "134",
+      "title": "The Path We Have Come Upon",
+      "date": "2017/02/22",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-135",
+      "number": "135",
+      "title": "A Friendly Face",
+      "date": "2017/03/06",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-136",
+      "number": "136",
+      "title": "Message",
+      "date": "2017/03/20",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-137",
+      "number": "137",
+      "title": "To Those Who Would Aid Us",
+      "date": "2017/04/25",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-138",
+      "number": "138",
+      "title": "A Disturbance",
+      "date": "2017/05/02",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-139",
+      "number": "139",
+      "title": "The Heart of the Sludge",
+      "date": "2017/05/22",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-140",
+      "number": "140",
+      "title": "Encounter",
+      "date": "2017/06/09",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-141",
+      "number": "141",
+      "title": "Influence",
+      "date": "2017/07/11",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-142",
+      "number": "142",
+      "title": "A Rallying Wave",
+      "date": "2017/07/24",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-143",
+      "number": "143",
+      "title": "This Body Is Unyielding",
+      "date": "2017/08/22",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-144",
+      "number": "144",
+      "title": "Rage",
+      "date": "2017/09/11",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-145",
+      "number": "145",
+      "title": "What Is Right",
+      "date": "2017/09/28",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-146",
+      "number": "146",
+      "title": "A Convenient Sense of Justice As A Shield",
+      "date": "2017/10/09",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-147",
+      "number": "147",
+      "title": "Awe",
+      "date": "2017/11/18",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-148",
+      "number": "148",
+      "title": "Oh Light, Don't Fade",
+      "date": "2017/11/27",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-149",
+      "number": "149",
+      "title": "Meaningless Title",
+      "date": "2017/12/08",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-150",
+      "number": "150",
+      "title": "Conclusion",
+      "date": "2017/12/08",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-151",
+      "number": "151",
+      "title": "The you I dont know",
+      "date": "2017/12/27",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-152",
+      "number": "152",
+      "title": "Ive got more than one important thing in my life, You know",
+      "date": "2017/12/27",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-153",
+      "number": "153",
+      "title": "A rare, clear day",
+      "date": "2018/01/29",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-154",
+      "number": "154",
+      "title": "Things to worry over",
+      "date": "2018/02/19",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-155",
+      "number": "155",
+      "title": "",
+      "date": "2018/03/06",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-156",
+      "number": "156",
+      "title": "I wont lose it",
+      "date": "2018/04/10",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-157",
+      "number": "157",
+      "title": "An undiscardable admiration",
+      "date": "2018/05/11",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-158",
+      "number": "158",
+      "title": "Baseless Rumors",
+      "date": "2018/05/30",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-159",
+      "number": "159",
+      "title": "",
+      "date": "2018/06/28",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-160",
+      "number": "160",
+      "title": "Kye Sook from Above",
+      "date": "2018/07/09",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-161",
+      "number": "161",
+      "title": "Lady Iguni is not Pleased",
+      "date": "2018/07/28",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-162",
+      "number": "162",
+      "title": "Tactics",
+      "date": "2018/08/27",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-163",
+      "number": "163",
+      "title": "Lending a hand",
+      "date": "2018/09/09",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-164",
+      "number": "164",
+      "title": "Their Aim",
+      "date": "2018/10/20",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-165",
+      "number": "165",
+      "title": "Enemy  Territory",
+      "date": "2018/11/13",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-166",
+      "number": "166",
+      "title": "Fighting Power",
+      "date": "2018/11/26",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-167",
+      "number": "167",
+      "title": "Too heavy to bear",
+      "date": "2018/12/20",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-168",
+      "number": "168",
+      "title": "The Finest Decoy",
+      "date": "2019/01/13",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-169",
+      "number": "169",
+      "title": "The Talented Pair",
+      "date": "2019/01/28",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-170",
+      "number": "170",
+      "title": "Front Lines",
+      "date": "2019/02/08",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-171",
+      "number": "171",
+      "title": "Yearning To Meet",
+      "date": "2019/02/22",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-172",
+      "number": "172",
+      "title": "Reignited Embers",
+      "date": "2019/03/08",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-173",
+      "number": "173",
+      "title": "Youll Return What You Took",
+      "date": "2019/04/06",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-174",
+      "number": "174",
+      "title": "",
+      "date": "2019/04/23",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-175",
+      "number": "175",
+      "title": "I called over and over in my dreams",
+      "date": "2019/05/20",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-176",
+      "number": "176",
+      "title": "Could You Hear Me?",
+      "date": "2019/06/07",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-177",
+      "number": "177",
+      "title": "I Mean I Heard You",
+      "date": "2019/07/07",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-178",
+      "number": "178",
+      "title": "Doubt Swen by a Proposal",
+      "date": "2019/07/23",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-179",
+      "number": "179",
+      "title": "Empty Cheers",
+      "date": "2019/08/07",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-180",
+      "number": "180",
+      "title": "Unveiling",
+      "date": "2019/08/23",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-181",
+      "number": "181",
+      "title": "Opening Battle",
+      "date": "2019/10/10",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-182",
+      "number": "182",
+      "title": "Dose of Poison",
+      "date": "2019/10/21",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-183",
+      "number": "183",
+      "title": "Closing Curtains",
+      "date": "2019/11/13",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-184",
+      "number": "184",
+      "title": "Differents Views",
+      "date": "2019/12/07",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-185",
+      "number": "185",
+      "title": "",
+      "date": "2019/12/23",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-186",
+      "number": "186",
+      "title": "The Unconfronted Issue",
+      "date": "2020/01/06",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-187",
+      "number": "187",
+      "title": "",
+      "date": "2020/01/21",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-188",
+      "number": "188",
+      "title": "Chasing Eyes",
+      "date": "2020/02/21",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-189",
+      "number": "189",
+      "title": "The Crimson Dragon King",
+      "date": "2020/03/06",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-190",
+      "number": "190",
+      "title": "The Founder's Kin",
+      "date": "2020/04/05",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-191",
+      "number": "191",
+      "title": "Yon-hi's Reminiscences + Let's Get Some Tea Before We Go Home",
+      "date": "2020/05/01",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-192",
+      "number": "192",
+      "title": "A castle where the voice of the gods reverberates",
+      "date": "2020/05/20",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-193",
+      "number": "193",
+      "title": "The price of being a favourite",
+      "date": "2020/06/21",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-194",
+      "number": "194",
+      "title": "Red blood obsession",
+      "date": "2020/08/06",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-195",
+      "number": "195",
+      "title": "The Last Wish",
+      "date": "2020/08/21",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-196",
+      "number": "196",
+      "title": "The pain that was inflicted, on those who inflicted it",
+      "date": "2020/09/05",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-197",
+      "number": "197",
+      "title": "Unsteady Handwriting",
+      "date": "2020/10/04",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-198",
+      "number": "198",
+      "title": "Member of the Royal Family",
+      "date": "2020/10/21",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-199",
+      "number": "199",
+      "title": "The South Kai Dignitaries",
+      "date": "2020/11/04",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-200",
+      "number": "200",
+      "title": "No time left",
+      "date": "2020/12/03",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-201",
+      "number": "201",
+      "title": "Gloom",
+      "date": "2020/12/18",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-202",
+      "number": "202",
+      "title": "Poisonous Guest",
+      "date": "2021/01/04",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-203",
+      "number": "203",
+      "title": "Delusion of being robbed",
+      "date": "2021/02/04",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-204",
+      "number": "204",
+      "title": "One-sided Love",
+      "date": "2021/03/05",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-205",
+      "number": "205",
+      "title": "A crying voice in the night",
+      "date": "2021/03/18",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-206",
+      "number": "206",
+      "title": "The Discarded Things, one at a Time",
+      "date": "2021/04/05",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-207",
+      "number": "207",
+      "title": "Unravelling",
+      "date": "2021/04/19",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-208",
+      "number": "208",
+      "title": "Afraid of sleeping and not waking up",
+      "date": "2021/06/06",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-209",
+      "number": "209",
+      "title": "Secret Order",
+      "date": "2021/06/23",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-210",
+      "number": "210",
+      "title": "Fatal Wound",
+      "date": "2021/07/05",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-211",
+      "number": "211",
+      "title": "As is natural",
+      "date": "2021/07/20",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-212",
+      "number": "212",
+      "title": "Yoon off to Awa",
+      "date": "2021/08/18",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-213",
+      "number": "213",
+      "title": "A Dazzling Horseman",
+      "date": "2021/09/02",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-214",
+      "number": "214",
+      "title": "The Cost Of Risking Your Life",
+      "date": "2021/09/18",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-215",
+      "number": "215",
+      "title": "The fall of Kin province",
+      "date": "2021/10/05",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-216",
+      "number": "216",
+      "title": "Overflowing",
+      "date": "2021/11/05",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-217",
+      "number": "217",
+      "title": "Tightly Closed Lid",
+      "date": "2021/12/03",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-218",
+      "number": "218",
+      "title": "The Horn That Beckons War",
+      "date": "2021/12/19",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-219",
+      "number": "219",
+      "title": "Human Weapon",
+      "date": "2022/01/03",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-220",
+      "number": "220",
+      "title": "Crush Them",
+      "date": "2022/02/06",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-221",
+      "number": "221",
+      "title": "Where Our Hearts Belong",
+      "date": "2022/03/04",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-222",
+      "number": "222",
+      "title": "Standing side by side",
+      "date": "2022/03/19",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-223",
+      "number": "223",
+      "title": "",
+      "date": "2022/04/05",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-224",
+      "number": "224",
+      "title": "",
+      "date": "2022/04/21",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-224e",
+      "number": "224e",
+      "title": "",
+      "date": "2022/04/26",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-225",
+      "number": "225",
+      "title": "",
+      "date": "2022/05/20",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-226",
+      "number": "226",
+      "title": "",
+      "date": "2022/06/04",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-227",
+      "number": "227",
+      "title": "Squirmings in the dead of night",
+      "date": "2022/07/06",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-228",
+      "number": "228",
+      "title": "",
+      "date": "2022/07/21",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-229",
+      "number": "229",
+      "title": "",
+      "date": "2022/08/09",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-230",
+      "number": "230",
+      "title": "",
+      "date": "2022/09/06",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-231",
+      "number": "231",
+      "title": "",
+      "date": "2022/09/22",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-232",
+      "number": "232",
+      "title": "",
+      "date": "2022/10/08",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-233",
+      "number": "233",
+      "title": "Making an Entrance",
+      "date": "2022/11/06",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-234",
+      "number": "234",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-235",
+      "number": "235",
+      "title": "",
+      "date": "2022/12/08",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-236",
+      "number": "236",
+      "title": "",
+      "date": "2023/01/09",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-237",
+      "number": "237",
+      "title": "",
+      "date": "2023/01/22",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-238",
+      "number": "238",
+      "title": "",
+      "date": "2023/02/06",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-239",
+      "number": "239",
+      "title": "The will to fight and the meaning of fighting adversity",
+      "date": "2023/03/06",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-240",
+      "number": "240",
+      "title": "Refusal",
+      "date": "2023/04/07",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-241",
+      "number": "241",
+      "title": "",
+      "date": "2023/04/23",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-242",
+      "number": "242",
+      "title": "",
+      "date": "2023/05/21",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-243",
+      "number": "243",
+      "title": "",
+      "date": "2023/06/04",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-244",
+      "number": "244",
+      "title": "",
+      "date": "2023/06/19",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-245",
+      "number": "245",
+      "title": "",
+      "date": "2023/07/04",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-246",
+      "number": "246",
+      "title": "",
+      "date": "2023/08/03",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-247",
+      "number": "247",
+      "title": "",
+      "date": "2023/09/04",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-248",
+      "number": "248",
+      "title": "",
+      "date": "2023/10/04",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-249",
+      "number": "249",
+      "title": "",
+      "date": "2023/10/19",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-250",
+      "number": "250",
+      "title": "",
+      "date": "2023/11/03",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-251",
+      "number": "251",
+      "title": "",
+      "date": "2023/12/04",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-252",
+      "number": "252",
+      "title": "",
+      "date": "2024/01/03",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-253",
+      "number": "253",
+      "title": "",
+      "date": "2024/02/04",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-254",
+      "number": "254",
+      "title": "",
+      "date": "2024/02/19",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-255",
+      "number": "255",
+      "title": "",
+      "date": "2024/03/04",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-256",
+      "number": "256",
+      "title": "",
+      "date": "2024/04/04",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-257",
+      "number": "257",
+      "title": "",
+      "date": "2024/04/19",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-258",
+      "number": "258",
+      "title": "",
+      "date": "2024/06/05",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-259",
+      "number": "259",
+      "title": "",
+      "date": "2024/06/19",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-260",
+      "number": "260",
+      "title": "",
+      "date": "2024/07/04",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-261",
+      "number": "261",
+      "title": "",
+      "date": "2024/08/04",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-262",
+      "number": "262",
+      "title": "",
+      "date": "2024/09/04",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-263",
+      "number": "263",
+      "title": "",
+      "date": "2024/10/03",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-264",
+      "number": "264",
+      "title": "",
+      "date": "2024/11/04",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-265",
+      "number": "265",
+      "title": "",
+      "date": "2024/12/05",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-266",
+      "number": "266",
+      "title": "",
+      "date": "2025/01/03",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-267",
+      "number": "267",
+      "title": "",
+      "date": "2025/02/06",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-268",
+      "number": "268",
+      "title": "",
+      "date": "2025/03/07",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-269",
+      "number": "269",
+      "title": "",
+      "date": "2025/04/17",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-270",
+      "number": "270",
+      "title": "",
+      "date": "2025/06/09",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-271",
+      "number": "271",
+      "title": "",
+      "date": "2025/07/04",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-272",
+      "number": "272",
+      "title": "",
+      "date": "2025/10/04",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-273",
+      "number": "273",
+      "title": "",
+      "date": "2025/10/20",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-274",
+      "number": "274",
+      "title": "",
+      "date": "2025/11/04",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-275",
+      "number": "275",
+      "title": "",
+      "date": "2025/12/05",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-276",
+      "number": "276",
+      "title": "",
+      "date": "2025/12/18",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-276a",
+      "number": "276a",
+      "title": "",
+      "date": "2026/03/01",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-276b",
+      "number": "276b",
+      "title": "",
+      "date": "2026/04/25",
+      "pages": []
+    },
+    {
+      "id": "akatsuki-no-yona-276c",
+      "number": "276c",
+      "title": "",
+      "date": "2026/06/13",
+      "pages": []
+    }
+  ],
+  "pt": [
+    {
+      "id": "akatsuki-no-yona-chapter-1",
+      "number": 1,
+      "title": "Akatsuki no Yona – Capítulo 1",
+      "date": "2025-12-03T13:20:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 984348
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-2",
+      "number": 2,
+      "title": "Akatsuki no Yona – Capítulo 2",
+      "date": "2025-12-03T13:20:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 984347
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-3",
+      "number": 3,
+      "title": "Akatsuki no Yona – Capítulo 3",
+      "date": "2025-12-03T13:20:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 984341
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-4",
+      "number": 4,
+      "title": "Akatsuki no Yona – Capítulo 4",
+      "date": "2025-12-03T13:20:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 984340
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-5",
+      "number": 5,
+      "title": "Akatsuki no Yona – Capítulo 5",
+      "date": "2025-12-03T13:20:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 984345
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-6",
+      "number": 6,
+      "title": "Akatsuki no Yona – Capítulo 6",
+      "date": "2025-12-03T13:20:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 984342
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-7",
+      "number": 7,
+      "title": "Akatsuki no Yona – Capítulo 7",
+      "date": "2025-12-03T13:20:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 984343
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-8",
+      "number": 8,
+      "title": "Akatsuki no Yona – Capítulo 8",
+      "date": "2025-12-03T13:20:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 984349
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-9",
+      "number": 9,
+      "title": "Akatsuki no Yona – Capítulo 9",
+      "date": "2025-12-03T13:20:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 984346
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-10",
+      "number": 10,
+      "title": "Akatsuki no Yona – Capítulo 10",
+      "date": "2025-12-03T13:20:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 984344
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-11",
+      "number": 11,
+      "title": "Akatsuki no Yona – Capítulo 11",
+      "date": "2025-12-03T13:22:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 984702
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-12",
+      "number": 12,
+      "title": "Akatsuki no Yona – Capítulo 12",
+      "date": "2025-12-03T13:22:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 984700
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-13",
+      "number": 13,
+      "title": "Akatsuki no Yona – Capítulo 13",
+      "date": "2025-12-03T13:22:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 984697
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-14",
+      "number": 14,
+      "title": "Akatsuki no Yona – Capítulo 14",
+      "date": "2025-12-03T13:22:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 984704
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-15",
+      "number": 15,
+      "title": "Akatsuki no Yona – Capítulo 15",
+      "date": "2025-12-03T13:22:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 984696
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-16",
+      "number": 16,
+      "title": "Akatsuki no Yona – Capítulo 16",
+      "date": "2025-12-03T13:22:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 984703
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-17",
+      "number": 17,
+      "title": "Akatsuki no Yona – Capítulo 17",
+      "date": "2025-12-03T13:22:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 984705
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-18",
+      "number": 18,
+      "title": "Akatsuki no Yona – Capítulo 18",
+      "date": "2025-12-03T13:22:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 984699
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-19",
+      "number": 19,
+      "title": "Akatsuki no Yona – Capítulo 19",
+      "date": "2025-12-03T13:22:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 984701
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-20",
+      "number": 20,
+      "title": "Akatsuki no Yona – Capítulo 20",
+      "date": "2025-12-03T13:22:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 984698
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-21",
+      "number": 21,
+      "title": "Akatsuki no Yona – Capítulo 21",
+      "date": "2025-12-03T13:22:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985029
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-22",
+      "number": 22,
+      "title": "Akatsuki no Yona – Capítulo 22",
+      "date": "2025-12-03T13:22:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985032
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-23",
+      "number": 23,
+      "title": "Akatsuki no Yona – Capítulo 23",
+      "date": "2025-12-03T13:22:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985026
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-24",
+      "number": 24,
+      "title": "Akatsuki no Yona – Capítulo 24",
+      "date": "2025-12-03T13:22:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985024
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-25",
+      "number": 25,
+      "title": "Akatsuki no Yona – Capítulo 25",
+      "date": "2025-12-03T13:22:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985023
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-26",
+      "number": 26,
+      "title": "Akatsuki no Yona – Capítulo 26",
+      "date": "2025-12-03T13:22:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985025
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-27",
+      "number": 27,
+      "title": "Akatsuki no Yona – Capítulo 27",
+      "date": "2025-12-03T13:22:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985028
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-28",
+      "number": 28,
+      "title": "Akatsuki no Yona – Capítulo 28",
+      "date": "2025-12-03T13:22:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985031
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-29",
+      "number": 29,
+      "title": "Akatsuki no Yona – Capítulo 29",
+      "date": "2025-12-03T13:22:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985027
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-30",
+      "number": 30,
+      "title": "Akatsuki no Yona – Capítulo 30 – Negociações",
+      "date": "2025-12-03T13:22:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985030
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-31",
+      "number": 31,
+      "title": "Akatsuki no Yona – Capítulo 31 – O teste Senjusou",
+      "date": "2025-12-03T13:23:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985364
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-32",
+      "number": 32,
+      "title": "Akatsuki no Yona – Capítulo 32 – Conexões",
+      "date": "2025-12-03T13:23:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985365
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-33",
+      "number": 33,
+      "title": "Akatsuki no Yona – Capítulo 33 – Preparações para a batalha",
+      "date": "2025-12-03T13:23:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985368
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-34",
+      "number": 34,
+      "title": "Akatsuki no Yona – Capítulo 34 – Corrente de Coragem",
+      "date": "2025-12-03T13:23:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985366
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-35",
+      "number": 35,
+      "title": "Akatsuki no Yona – Capítulo 35 – Carga de Aroma Doce",
+      "date": "2025-12-03T13:23:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985361
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-36",
+      "number": 36,
+      "title": "Akatsuki no Yona – Capítulo 36 – Fogos de Artifício",
+      "date": "2025-12-03T13:23:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985370
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-37",
+      "number": 37,
+      "title": "Akatsuki no Yona – Capítulo 37 – A Noite Histórica é Feita",
+      "date": "2025-12-03T13:23:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985362
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-38",
+      "number": 38,
+      "title": "Akatsuki no Yona – Capítulo 38 – Na Noite de Festa",
+      "date": "2025-12-03T13:23:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985369
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-39",
+      "number": 39,
+      "title": "Akatsuki no Yona – Capítulo 39 – As Nuvens Escuras da Madrugada",
+      "date": "2025-12-03T13:23:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985367
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-40",
+      "number": 40,
+      "title": "Akatsuki no Yona – Capítulo 40 – A Alvorada da Promessa",
+      "date": "2025-12-03T13:23:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985363
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-41",
+      "number": 41,
+      "title": "Akatsuki no Yona – Capítulo 41 – Nós somos dragões, nós somos humanos",
+      "date": "2025-12-03T13:24:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985695
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-42",
+      "number": 42,
+      "title": "Akatsuki no Yona – Capítulo 42 – Todo mundo está reunido",
+      "date": "2025-12-03T13:24:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985688
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-43",
+      "number": 43,
+      "title": "Akatsuki no Yona – Capítulo 43 – A partir deste ponto",
+      "date": "2025-12-03T13:24:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985694
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-44",
+      "number": 44,
+      "title": "Akatsuki no Yona – Capítulo 44 – As motivações de cada um",
+      "date": "2025-12-03T13:24:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985692
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-45",
+      "number": 45,
+      "title": "Akatsuki no Yona – Capítulo 45 – Jogo de Batalha",
+      "date": "2025-12-03T13:24:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985691
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-46",
+      "number": 46,
+      "title": "Akatsuki no Yona – Capítulo 46 – Derrubando a Terra",
+      "date": "2025-12-03T13:24:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985690
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-47",
+      "number": 47,
+      "title": "Akatsuki no Yona – Capítulo 47 – Doce Chuva",
+      "date": "2025-12-03T13:24:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985696
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-48",
+      "number": 48,
+      "title": "Akatsuki no Yona – Capítulo 48 – Má atração",
+      "date": "2025-12-03T13:24:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985693
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-49",
+      "number": 49,
+      "title": "Akatsuki no Yona – Capítulo 49 – O Dragão Maligno e o Bando Faminto e Feliz",
+      "date": "2025-12-03T13:24:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985697
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-50",
+      "number": 50,
+      "title": "Akatsuki no Yona – Capítulo 50 – A Libertação",
+      "date": "2025-12-03T13:24:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 985689
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-51",
+      "number": 51,
+      "title": "Akatsuki no Yona – Capítulo 51 – Em Transe",
+      "date": "2025-12-03T13:24:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986038
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-52",
+      "number": 52,
+      "title": "Akatsuki no Yona – Capítulo 52 – Onde há um desejo, há um caminho",
+      "date": "2025-12-03T13:24:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986033
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-53",
+      "number": 53,
+      "title": "Akatsuki no Yona – Capítulo 53 – Lorde Tae-Jun, que quer seguir o seu caminho",
+      "date": "2025-12-03T13:24:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986036
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-54",
+      "number": 54,
+      "title": "Akatsuki no Yona – Capítulo 54 – É um Fantasma",
+      "date": "2025-12-03T13:24:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986037
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-55",
+      "number": 55,
+      "title": "Akatsuki no Yona – Capítulo 55 – Como um sonho",
+      "date": "2025-12-03T13:24:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986032
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-56",
+      "number": 56,
+      "title": "Akatsuki no Yona – Capítulo 56 – Não se pode apagar fogo com fogo",
+      "date": "2025-12-03T13:24:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986039
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-57",
+      "number": 57,
+      "title": "Akatsuki no Yona – Capítulo 57 – Pessoas não conseguem imaginar o que elas não sabem",
+      "date": "2025-12-03T13:24:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986035
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-58",
+      "number": 58,
+      "title": "Akatsuki no Yona – Capítulo 58 – Coragem e covardia",
+      "date": "2025-12-03T13:24:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986034
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-59",
+      "number": 59,
+      "title": "Akatsuki no Yona – Capítulo 59 – Você está nas minhas preces",
+      "date": "2025-12-03T13:24:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986040
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-60",
+      "number": 60,
+      "title": "Akatsuki no Yona – Capítulo 60 – Folhas Jovens ao Vento, parte 1",
+      "date": "2025-12-03T13:24:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986031
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-61",
+      "number": 61,
+      "title": "Akatsuki no Yona – Capítulo 61 – Folhas Jovens ao Vento, parte 2",
+      "date": "2025-12-03T13:25:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986389
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-62",
+      "number": 62,
+      "title": "Akatsuki no Yona – Capítulo 62 – Antes da espada chegar",
+      "date": "2025-12-03T13:25:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986382
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-63",
+      "number": 63,
+      "title": "Akatsuki no Yona – Capítulo 63 – Jornada Abalada",
+      "date": "2025-12-03T13:25:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986388
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-64",
+      "number": 64,
+      "title": "Akatsuki no Yona – Capítulo 64 – Província Sen do Império Kai – Vilarejo Senri",
+      "date": "2025-12-03T13:25:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986385
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-65",
+      "number": 65,
+      "title": "Akatsuki no Yona – Capítulo 65 – O início do festival do fogo",
+      "date": "2025-12-03T13:25:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986387
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-66",
+      "number": 66,
+      "title": "Akatsuki no Yona – Capítulo 66 – Não há Fumaça sem Fogo",
+      "date": "2025-12-03T13:25:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986384
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-67",
+      "number": 67,
+      "title": "Akatsuki no Yona – Capítulo 67 – Chamas",
+      "date": "2025-12-03T13:25:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986386
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-68",
+      "number": 68,
+      "title": "Akatsuki no Yona – Capítulo 68 – Aqueles que protegem o fogo",
+      "date": "2025-12-03T13:25:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986380
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-69",
+      "number": 69,
+      "title": "Akatsuki no Yona – Capítulo 69 – Sinais de um grande fogo",
+      "date": "2025-12-03T13:25:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986381
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-70",
+      "number": 70,
+      "title": "Akatsuki no Yona – Capítulo 70 – Uma obsessão ardente",
+      "date": "2025-12-03T13:25:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986383
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-70.1",
+      "number": 70.1,
+      "title": "Akatsuki no Yona – Capítulo 70.1 – Sobre aquelas costas",
+      "date": "2025-12-03T13:26:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986734
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-71",
+      "number": 71,
+      "title": "Akatsuki no Yona – Capítulo 71 – A batuta de comando do céu",
+      "date": "2025-12-03T13:26:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986731
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-72",
+      "number": 72,
+      "title": "Akatsuki no Yona – Capítulo 72 – Aqueles que lideram.",
+      "date": "2025-12-03T13:26:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986730
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-73",
+      "number": 73,
+      "title": "Akatsuki no Yona – Capítulo 73 – No deserto, eu vi o sonho do rei",
+      "date": "2025-12-03T13:26:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986732
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-74",
+      "number": 74,
+      "title": "Akatsuki no Yona – Capítulo 74 – As flores desabrocham nos seus passos",
+      "date": "2025-12-03T13:26:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986728
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-75",
+      "number": 75,
+      "title": "Akatsuki no Yona – Capítulo 75 – Três condições",
+      "date": "2025-12-03T13:26:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986735
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-76",
+      "number": 76,
+      "title": "Akatsuki no Yona – Capítulo 76 – O mercado dos viajantes",
+      "date": "2025-12-03T13:26:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986727
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-77",
+      "number": 77,
+      "title": "Akatsuki no Yona – Capítulo 77 – Uma cidade encharcada em garoa",
+      "date": "2025-12-03T13:26:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986733
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-78",
+      "number": 78,
+      "title": "Akatsuki no Yona – Capítulo 78 – O Nadai corroendo Shisen",
+      "date": "2025-12-03T13:26:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986726
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-79",
+      "number": 79,
+      "title": "Akatsuki no Yona – Capítulo 79 – Apenas observando",
+      "date": "2025-12-03T13:26:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 986729
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-80",
+      "number": 80,
+      "title": "Akatsuki no Yona – Capítulo 80 – Furacão",
+      "date": "2025-12-03T13:27:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987088
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-81",
+      "number": 81,
+      "title": "Akatsuki no Yona – Capítulo 81 – Redemoinho sem fundo",
+      "date": "2025-12-03T13:27:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987094
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-82",
+      "number": 82,
+      "title": "Akatsuki no Yona – Capítulo 82 – Juramento determinado sobre aquela espada",
+      "date": "2025-12-03T13:27:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987087
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-83",
+      "number": 83,
+      "title": "Akatsuki no Yona – Capítulo 83 – O som de lágrimas invisíveis",
+      "date": "2025-12-03T13:27:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987095
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-84",
+      "number": 84,
+      "title": "Akatsuki no Yona – Capítulo 84 – Nos separamos aqui",
+      "date": "2025-12-03T13:27:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987089
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-85",
+      "number": 85,
+      "title": "Akatsuki no Yona – Capítulo 85 – Para Sensui",
+      "date": "2025-12-03T13:27:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987090
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-86",
+      "number": 86,
+      "title": "Akatsuki no Yona – Capítulo 86 – Encontros que exibem pessoas",
+      "date": "2025-12-03T13:27:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987091
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-87",
+      "number": 87,
+      "title": "Akatsuki no Yona – Capítulo 87 – Perseguição",
+      "date": "2025-12-03T13:27:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987096
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-88",
+      "number": 88,
+      "title": "Akatsuki no Yona – Capítulo 88 – Aqueles olhos são da mesma cor do mar",
+      "date": "2025-12-03T13:27:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987092
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-89",
+      "number": 89,
+      "title": "Akatsuki no Yona – Capítulo 89 – O rosto invisível de um aliado",
+      "date": "2025-12-03T13:27:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987093
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-90",
+      "number": 90,
+      "title": "Akatsuki no Yona – Capítulo 90 – O objeto de fúria",
+      "date": "2025-12-03T13:28:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987451
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-91",
+      "number": 91,
+      "title": "Akatsuki no Yona – Capítulo 91 – Ele era um amigo muito valioso",
+      "date": "2025-12-03T13:28:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987443
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-92",
+      "number": 92,
+      "title": "Akatsuki no Yona – Capítulo 92 – No céu, eu procuro o seu rosto sorridente",
+      "date": "2025-12-03T13:28:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987445
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-93",
+      "number": 93,
+      "title": "Akatsuki no Yona – Capítulo 93 – Por favor, cuide-se",
+      "date": "2025-12-03T13:28:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987446
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-94",
+      "number": 94,
+      "title": "Akatsuki no Yona – Capítulo 94 – Esta era não vai parar",
+      "date": "2025-12-03T13:28:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987449
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-95",
+      "number": 95,
+      "title": "Akatsuki no Yona – Capítulo 95 – O garoto de outra terra",
+      "date": "2025-12-03T13:28:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987450
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-96",
+      "number": 96,
+      "title": "Akatsuki no Yona – Capítulo 96 – Nuvens escuras",
+      "date": "2025-12-03T13:28:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987452
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-97",
+      "number": 97,
+      "title": "Akatsuki no Yona – Capítulo 97 – Viajando em busca de respostas",
+      "date": "2025-12-03T13:28:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987444
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-98",
+      "number": 98,
+      "title": "Akatsuki no Yona – Capítulo 98 – Corra",
+      "date": "2025-12-03T13:28:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987448
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-99",
+      "number": 99,
+      "title": "Akatsuki no Yona – Capítulo 99 – Uma batalha interminável",
+      "date": "2025-12-03T13:28:05Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987447
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-99.1",
+      "number": 99.1,
+      "title": "Akatsuki no Yona – Capítulo 99.1 – Voe",
+      "date": "2025-12-03T13:28:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987800
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-100",
+      "number": 100,
+      "title": "Akatsuki no Yona – Capítulo 100 – Corpo Indestrutível",
+      "date": "2025-12-03T13:28:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987797
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-101",
+      "number": 101,
+      "title": "Akatsuki no Yona – Capítulo 101 – O Dragão Original",
+      "date": "2025-12-03T13:28:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987791
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-102",
+      "number": 102,
+      "title": "Akatsuki no Yona – Capítulo 102 – As Crianças dos Deuses",
+      "date": "2025-12-03T13:28:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987796
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-103",
+      "number": 103,
+      "title": "Akatsuki no Yona – Capítulo 103 – Nosso Lorde Encontra-se Dormindo",
+      "date": "2025-12-03T13:28:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987792
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-104",
+      "number": 104,
+      "title": "Akatsuki no Yona – Capítulo 104 – Um barco que chega a lugar nenhum",
+      "date": "2025-12-03T13:28:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987793
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-105",
+      "number": 105,
+      "title": "Akatsuki no Yona – Capítulo 105 – e extra – Uma Estrela Vermelha Ascende",
+      "date": "2025-12-03T13:28:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987794
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-106",
+      "number": 106,
+      "title": "Akatsuki no Yona – Capítulo 106 – A Floresta Azul Exuberante, primeira parte",
+      "date": "2025-12-03T13:28:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987795
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-107",
+      "number": 107,
+      "title": "Akatsuki no Yona – Capítulo 107 – A Floresta Azul Exuberante, parte central",
+      "date": "2025-12-03T13:28:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987798
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-108",
+      "number": 108,
+      "title": "Akatsuki no Yona – Capítulo 108 – A Floresta Azul Exuberante, parte final",
+      "date": "2025-12-03T13:28:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 987799
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-109",
+      "number": 109,
+      "title": "Akatsuki no Yona – Capítulo 109 – Um lugar para o próximo",
+      "date": "2025-12-03T13:29:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988148
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-110",
+      "number": 110,
+      "title": "Akatsuki no Yona – Capítulo 110 – Um pequeno presente",
+      "date": "2025-12-03T13:29:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988146
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-111",
+      "number": 111,
+      "title": "Akatsuki no Yona – Capítulo 111 – A cidade com pessoas que desaparecem e extra",
+      "date": "2025-12-03T13:29:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988152
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-112",
+      "number": 112,
+      "title": "Akatsuki no Yona – Capítulo 112 – Fortaleza Mosaico",
+      "date": "2025-12-03T13:29:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988147
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-113",
+      "number": 113,
+      "title": "Akatsuki no Yona – Capítulo 113 – Lutem",
+      "date": "2025-12-03T13:29:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988154
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-114",
+      "number": 114,
+      "title": "Akatsuki no Yona – Capítulo 114 – Eu serei capaz de dizer isto algum dia",
+      "date": "2025-12-03T13:29:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988150
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-115",
+      "number": 115,
+      "title": "Akatsuki no Yona – Capítulo 115 – Encontro estratégico",
+      "date": "2025-12-03T13:29:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988151
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-116",
+      "number": 116,
+      "title": "Akatsuki no Yona – Capítulo 116 – O inimigo é, o aliado é",
+      "date": "2025-12-03T13:29:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988153
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-117",
+      "number": 117,
+      "title": "Akatsuki no Yona – Capítulo 117 – Eu juro no meu coração",
+      "date": "2025-12-03T13:29:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988149
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-118",
+      "number": 118,
+      "title": "Akatsuki no Yona – Capítulo 118 – Ao seu lado",
+      "date": "2025-12-03T13:29:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988155
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-119",
+      "number": 119,
+      "title": "Akatsuki no Yona – Capítulo 119 – Fortaleza de Kushibi",
+      "date": "2025-12-03T13:30:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988503
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-120",
+      "number": 120,
+      "title": "Akatsuki no Yona – Capítulo 120 – Alcance",
+      "date": "2025-12-03T13:30:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988502
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-121",
+      "number": 121,
+      "title": "Akatsuki no Yona – Capítulo 121 – Desde aquele dia",
+      "date": "2025-12-03T13:30:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988506
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-122",
+      "number": 122,
+      "title": "Akatsuki no Yona – Capítulo 122 – Perto de você",
+      "date": "2025-12-03T13:30:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988504
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-123",
+      "number": 123,
+      "title": "Akatsuki no Yona – Capítulo 123 – Sentimentos não expressos",
+      "date": "2025-12-03T13:30:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988501
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-123.1",
+      "number": 123.1,
+      "title": "Akatsuki no Yona – Capítulo 123.1 – Extra",
+      "date": "2025-12-03T13:30:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988505
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-124",
+      "number": 124,
+      "title": "Akatsuki no Yona – Capítulo 124 – Obrigada por vir",
+      "date": "2025-12-03T13:30:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988507
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-125",
+      "number": 125,
+      "title": "Akatsuki no Yona – Capítulo 125 – Aqueles que sonhavam",
+      "date": "2025-12-03T13:30:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988508
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-126",
+      "number": 126,
+      "title": "Akatsuki no Yona – Capítulo 126 – Perseguidores",
+      "date": "2025-12-03T13:30:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988510
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-127",
+      "number": 127,
+      "title": "Akatsuki no Yona – Capítulo 127 – A princesa de Xing",
+      "date": "2025-12-03T13:30:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988509
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-128",
+      "number": 128,
+      "title": "Akatsuki no Yona – Capítulo 128 – Confronto",
+      "date": "2025-12-03T13:31:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988829
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-129",
+      "number": 129,
+      "title": "Akatsuki no Yona – Capítulo 129 – Ataque surpresa",
+      "date": "2025-12-03T13:31:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988824
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-130",
+      "number": 130,
+      "title": "Akatsuki no Yona – Capítulo 130 – Monstros de um país vizinho",
+      "date": "2025-12-03T13:31:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988831
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-131",
+      "number": 131,
+      "title": "Akatsuki no Yona – Capítulo 131 – O rei da carnificina",
+      "date": "2025-12-03T13:31:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988826
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-132",
+      "number": 132,
+      "title": "Akatsuki no Yona – Capítulo 132 – As cinco estrelas de Xing",
+      "date": "2025-12-03T13:31:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988832
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-133",
+      "number": 133,
+      "title": "Akatsuki no Yona – Capítulo 133 – Comprovação",
+      "date": "2025-12-03T13:31:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988825
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-134",
+      "number": 134,
+      "title": "Akatsuki no Yona – Capítulo 134 – O caminho que encontramos",
+      "date": "2025-12-03T13:31:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988827
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-134.1",
+      "number": 134.1,
+      "title": "Akatsuki no Yona – Capítulo 134.1 – Extra 01 O ano passa e outro ano chega",
+      "date": "2025-12-03T13:31:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988830
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-134.2",
+      "number": 134.2,
+      "title": "Akatsuki no Yona – Capítulo 134.2 – Extra 2 Fique saudável",
+      "date": "2025-12-03T13:31:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988823
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-135",
+      "number": 135,
+      "title": "Akatsuki no Yona – Capítulo 135 – Um rosto familiar",
+      "date": "2025-12-03T13:31:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 988828
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-136",
+      "number": 136,
+      "title": "Akatsuki no Yona – Capítulo 136 – Mensagem",
+      "date": "2025-12-03T13:32:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989169
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-137",
+      "number": 137,
+      "title": "Akatsuki no Yona – Capítulo 137 – Aqueles que nos ajudarão",
+      "date": "2025-12-03T13:32:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989172
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-138",
+      "number": 138,
+      "title": "Akatsuki no Yona – Capítulo 138 – Confusão",
+      "date": "2025-12-03T13:32:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989173
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-139",
+      "number": 139,
+      "title": "Akatsuki no Yona – Capítulo 139 – Na lama",
+      "date": "2025-12-03T13:32:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989170
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-140",
+      "number": 140,
+      "title": "Akatsuki no Yona – Capítulo 140 – Encontro",
+      "date": "2025-12-03T13:32:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989166
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-141",
+      "number": 141,
+      "title": "Akatsuki no Yona – Capítulo 141 – Influência",
+      "date": "2025-12-03T13:32:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989167
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-142",
+      "number": 142,
+      "title": "Akatsuki no Yona – Capítulo 142 – Uma maré de reuniões",
+      "date": "2025-12-03T13:32:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989168
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-143",
+      "number": 143,
+      "title": "Akatsuki no Yona – Capítulo 143 – Este corpo é inflexível",
+      "date": "2025-12-03T13:32:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989171
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-144",
+      "number": 144,
+      "title": "Akatsuki no Yona – Capítulo 144 – Fúria",
+      "date": "2025-12-03T13:32:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989174
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-145",
+      "number": 145,
+      "title": "Akatsuki no Yona – Capítulo 145 – O que é certo",
+      "date": "2025-12-03T13:32:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989165
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-146",
+      "number": 146,
+      "title": "Akatsuki no Yona – Capítulo 146 – Um senso de justiça conveniente como escudo e Extra",
+      "date": "2025-12-03T13:32:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989519
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-147",
+      "number": 147,
+      "title": "Akatsuki no Yona – Capítulo 147 – Medo",
+      "date": "2025-12-03T13:32:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989520
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-148",
+      "number": 148,
+      "title": "Akatsuki no Yona – Capítulo 148 – Ó luz, não se apague",
+      "date": "2025-12-03T13:32:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989518
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-149",
+      "number": 149,
+      "title": "Akatsuki no Yona – Capítulo 149 – Deusa",
+      "date": "2025-12-03T13:32:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989527
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-150",
+      "number": 150,
+      "title": "Akatsuki no Yona – Capítulo 150 – Conclusão",
+      "date": "2025-12-03T13:32:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989525
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-151",
+      "number": 151,
+      "title": "Akatsuki no Yona – Capítulo 151 – Um você que não conheço",
+      "date": "2025-12-03T13:32:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989524
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-152",
+      "number": 152,
+      "title": "Akatsuki no Yona – Capítulo 152 – Tenho mais de uma coisa importante na minha vida, sabia",
+      "date": "2025-12-03T13:32:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989522
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-153",
+      "number": 153,
+      "title": "Akatsuki no Yona – Capítulo 153 – Um raro dia ensolarado",
+      "date": "2025-12-03T13:32:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989526
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-154",
+      "number": 154,
+      "title": "Akatsuki no Yona – Capítulo 154 – Preocupações",
+      "date": "2025-12-03T13:32:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989523
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-155",
+      "number": 155,
+      "title": "Akatsuki no Yona – Capítulo 155 – A verdade nascida de uma mentira",
+      "date": "2025-12-03T13:32:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989521
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-156",
+      "number": 156,
+      "title": "Akatsuki no Yona – Capítulo 156 – Eu não perderei",
+      "date": "2025-12-03T13:33:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989893
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-157.1",
+      "number": 157.1,
+      "title": "Akatsuki no Yona – Capítulo 157.1 – Extras 1 e 2 Torneio de artes maciais e Fique saudável 3",
+      "date": "2025-12-03T13:33:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989889
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-158",
+      "number": 158,
+      "title": "Akatsuki no Yona – Capítulo 158 – Boatos infundados",
+      "date": "2025-12-03T13:33:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989890
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-159",
+      "number": 159,
+      "title": "Akatsuki no Yona – Capítulo 159 – O despreparo do Tae-Jun",
+      "date": "2025-12-03T13:33:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989897
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-160",
+      "number": 160,
+      "title": "Akatsuki no Yona – Capítulo 160 – Kye-sook acima",
+      "date": "2025-12-03T13:33:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989892
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-161",
+      "number": 161,
+      "title": "Akatsuki no Yona – Capítulo 161 – A dama Iguni está irritada",
+      "date": "2025-12-03T13:33:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989894
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-162",
+      "number": 162,
+      "title": "Akatsuki no Yona – Capítulo 162 – Táticas",
+      "date": "2025-12-03T13:33:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989895
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-163",
+      "number": 163,
+      "title": "Akatsuki no Yona – Capítulo 163 – Dando uma mão",
+      "date": "2025-12-03T13:33:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989888
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-164",
+      "number": 164,
+      "title": "Akatsuki no Yona – Capítulo 164 – O alvo",
+      "date": "2025-12-03T13:33:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989896
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-165",
+      "number": 165,
+      "title": "Akatsuki no Yona – Capítulo 165 – Território inimigo",
+      "date": "2025-12-03T13:33:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 989891
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-166",
+      "number": 166,
+      "title": "Akatsuki no Yona – Capítulo 166 – Poder de luta",
+      "date": "2025-12-03T13:34:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990252
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-167",
+      "number": 167,
+      "title": "Akatsuki no Yona – Capítulo 167 – Peso demais para suportar",
+      "date": "2025-12-03T13:34:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990256
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-168",
+      "number": 168,
+      "title": "Akatsuki no Yona – Capítulo 168 – O melhor chamariz",
+      "date": "2025-12-03T13:34:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990250
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-169",
+      "number": 169,
+      "title": "Akatsuki no Yona – Capítulo 169 – Dois talentos",
+      "date": "2025-12-03T13:34:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990254
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-170",
+      "number": 170,
+      "title": "Akatsuki no Yona – Capítulo 170 – Linhas de Frente",
+      "date": "2025-12-03T13:34:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990253
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-171",
+      "number": 171,
+      "title": "Akatsuki no Yona – Capítulo 171 – Ansiando encontrar",
+      "date": "2025-12-03T13:34:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990248
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-172",
+      "number": 172,
+      "title": "Akatsuki no Yona – Capítulo 172 – Reinado em chamas",
+      "date": "2025-12-03T13:34:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990249
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-173",
+      "number": 173,
+      "title": "Akatsuki no Yona – Capítulo 173 – Você devolverá o que pegou",
+      "date": "2025-12-03T13:34:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990255
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-174",
+      "number": 174,
+      "title": "Akatsuki no Yona – Capítulo 174 – Bem aqui",
+      "date": "2025-12-03T13:34:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990257
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-175",
+      "number": 175,
+      "title": "Akatsuki no Yona – Capítulo 175 – Eu te chamei de novo e de novo nos meus sonhos",
+      "date": "2025-12-03T13:34:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990251
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-176",
+      "number": 176,
+      "title": "Akatsuki no Yona – Capítulo 176 – Está me ouvindo",
+      "date": "2025-12-03T14:37:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990599
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-177",
+      "number": 177,
+      "title": "Akatsuki no Yona – Capítulo 177 – Sim, te ouvi",
+      "date": "2025-12-03T14:37:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990606
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-178",
+      "number": 178,
+      "title": "Akatsuki no Yona – Capítulo 178 – Dúvidas causadas por uma proposta",
+      "date": "2025-12-03T14:37:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990603
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-179",
+      "number": 179,
+      "title": "Akatsuki no Yona – Capítulo 179 – Felicidade vazia",
+      "date": "2025-12-03T14:37:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990604
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-180",
+      "number": 180,
+      "title": "Akatsuki no Yona – Capítulo 180 – Revelação",
+      "date": "2025-12-03T14:37:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990598
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-181",
+      "number": 181,
+      "title": "Akatsuki no Yona – Capítulo 181 – Início da batalha",
+      "date": "2025-12-03T14:37:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990600
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-182",
+      "number": 182,
+      "title": "Akatsuki no Yona – Capítulo 182 – Dose de veneno",
+      "date": "2025-12-03T14:37:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990602
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-183",
+      "number": 183,
+      "title": "Akatsuki no Yona – Capítulo 183 – Fechando as cortinas",
+      "date": "2025-12-03T14:37:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990605
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-184",
+      "number": 184,
+      "title": "Akatsuki no Yona – Capítulo 184 – Visões diferentes",
+      "date": "2025-12-03T14:37:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990601
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-185",
+      "number": 185,
+      "title": "Akatsuki no Yona – Capítulo 185 – Saudade",
+      "date": "2025-12-03T14:37:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990597
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-186",
+      "number": 186,
+      "title": "Akatsuki no Yona – Capítulo 186 – O que deve ser confrontado",
+      "date": "2025-12-03T14:37:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990925
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-187",
+      "number": 187,
+      "title": "Akatsuki no Yona – Capítulo 187 – Segredo",
+      "date": "2025-12-03T14:37:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990930
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-188",
+      "number": 188,
+      "title": "Akatsuki no Yona – Capítulo 188 – Olhos perseguidores",
+      "date": "2025-12-03T14:37:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990926
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-189",
+      "number": 189,
+      "title": "Akatsuki no Yona – Capítulo 189 – O dragão rei escarlate",
+      "date": "2025-12-03T14:37:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990934
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-190",
+      "number": 190,
+      "title": "Akatsuki no Yona – Capítulo 190 – Linhagem do fundador",
+      "date": "2025-12-03T14:37:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990928
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-191",
+      "number": 191,
+      "title": "Akatsuki no Yona – Capítulo 191 – As lembranças de Yong-hi",
+      "date": "2025-12-03T14:37:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990931
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-192",
+      "number": 192,
+      "title": "Akatsuki no Yona – Capítulo 192 – O castelo está ecoando as vozes dos Deuses",
+      "date": "2025-12-03T14:37:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990933
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-193",
+      "number": 193,
+      "title": "Akatsuki no Yona – Capítulo 193 – O preço de ser favorecida",
+      "date": "2025-12-03T14:37:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990927
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-194",
+      "number": 194,
+      "title": "Akatsuki no Yona – Capítulo 194 – Obsessão com o cabelo vermelho",
+      "date": "2025-12-03T14:37:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990932
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-195",
+      "number": 195,
+      "title": "Akatsuki no Yona – Capítulo 195 – O desejo final",
+      "date": "2025-12-03T14:37:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 990929
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-196",
+      "number": 196,
+      "title": "Akatsuki no Yona – Capítulo 196 – A dor foi causada naqueles que causaram dor",
+      "date": "2025-12-03T14:38:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 991261
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-197",
+      "number": 197,
+      "title": "Akatsuki no Yona – Capítulo 197 – Escrita instável",
+      "date": "2025-12-03T14:38:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 991253
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-198",
+      "number": 198,
+      "title": "Akatsuki no Yona – Capítulo 198 – Membro da família real",
+      "date": "2025-12-03T14:38:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 991255
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-199",
+      "number": 199,
+      "title": "Akatsuki no Yona – Capítulo 199 – As autoridades de Kai do Sul",
+      "date": "2025-12-03T14:38:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 991257
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-200",
+      "number": 200,
+      "title": "Akatsuki no Yona – Capítulo 200 – Agora ou nunca",
+      "date": "2025-12-03T14:38:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 991254
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-201",
+      "number": 201,
+      "title": "Akatsuki no Yona – Capítulo 201 – Sombra",
+      "date": "2025-12-03T14:38:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 991252
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-202",
+      "number": 202,
+      "title": "Akatsuki no Yona – Capítulo 202",
+      "date": "2025-12-03T14:38:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 991259
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-203",
+      "number": 203,
+      "title": "Akatsuki no Yona – Capítulo 203",
+      "date": "2025-12-03T14:38:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 991260
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-204",
+      "number": 204,
+      "title": "Akatsuki no Yona – Capítulo 204",
+      "date": "2025-12-03T14:39:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 991584
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-204.5",
+      "number": 204.5,
+      "title": "Akatsuki no Yona – Capítulo 204.5 – Vamos voltar para casa após tomar um chá",
+      "date": "2025-12-03T14:39:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 991581
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-204.6",
+      "number": 204.6,
+      "title": "Akatsuki no Yona – Capítulo 204.6",
+      "date": "2025-12-03T14:39:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 991577
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-205",
+      "number": 205,
+      "title": "Akatsuki no Yona – Capítulo 205",
+      "date": "2025-12-03T14:39:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 991582
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-206",
+      "number": 206,
+      "title": "Akatsuki no Yona – Capítulo 206 – Coisas descartadas, uma de cada vez",
+      "date": "2025-12-03T14:39:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 991579
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-207",
+      "number": 207,
+      "title": "Akatsuki no Yona – Capítulo 207 – Revelações",
+      "date": "2025-12-03T14:39:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 991578
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-208",
+      "number": 208,
+      "title": "Akatsuki no Yona – Capítulo 208 – Com medo de dormir e não acordar mais",
+      "date": "2025-12-03T14:39:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 991583
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-209",
+      "number": 209,
+      "title": "Akatsuki no Yona – Capítulo 209 – Ordem secreta",
+      "date": "2025-12-03T14:39:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 991585
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-210",
+      "number": 210,
+      "title": "Akatsuki no Yona – Capítulo 210 – Ferida fatal",
+      "date": "2025-12-03T14:40:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 991873
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-211",
+      "number": 211,
+      "title": "Akatsuki no Yona – Capítulo 211 – Como de costume",
+      "date": "2025-12-03T14:40:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 991870
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-212",
+      "number": 212,
+      "title": "Akatsuki no Yona – Capítulo 212 – Yoon parte para Awa",
+      "date": "2025-12-03T14:40:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 991871
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-213",
+      "number": 213,
+      "title": "Akatsuki no Yona – Capítulo 213 – Um guerreiro notável",
+      "date": "2025-12-03T14:40:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 991869
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-214",
+      "number": 214,
+      "title": "Akatsuki no Yona – Capítulo 214 – O preço por arriscar a vida",
+      "date": "2025-12-03T14:40:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 991874
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-215",
+      "number": 215,
+      "title": "Akatsuki no Yona – Capítulo 215 – A queda da província de Kin",
+      "date": "2025-12-03T14:40:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 991876
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-216",
+      "number": 216,
+      "title": "Akatsuki no Yona – Capítulo 216 – Sentimentos que transbordam",
+      "date": "2025-12-03T14:40:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 991875
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-217",
+      "number": 217,
+      "title": "Akatsuki no Yona – Capítulo 217 – Caixa firmemente fechada",
+      "date": "2025-12-03T14:40:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 991868
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-218",
+      "number": 218,
+      "title": "Akatsuki no Yona – Capítulo 218 – O trompete que anuncia a guerra",
+      "date": "2025-12-03T14:40:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 991872
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-219",
+      "number": 219,
+      "title": "Akatsuki no Yona – Capítulo 219 – Arma humana",
+      "date": "2025-12-03T14:40:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 991867
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-220",
+      "number": 220,
+      "title": "Akatsuki no Yona – Capítulo 220 – Destruição violenta",
+      "date": "2025-12-03T14:40:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992164
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-221",
+      "number": 221,
+      "title": "Akatsuki no Yona – Capítulo 221 – Onde moram nossos sentimentos",
+      "date": "2025-12-03T14:40:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992167
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-222",
+      "number": 222,
+      "title": "Akatsuki no Yona – Capítulo 222 – O dia em que andamos lado a lado",
+      "date": "2025-12-03T14:40:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992166
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-223",
+      "number": 223,
+      "title": "Akatsuki no Yona – Capítulo 223 – Tudo ou nada",
+      "date": "2025-12-03T14:40:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992168
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-224",
+      "number": 224,
+      "title": "Akatsuki no Yona – Capítulo 224 – Superando limites",
+      "date": "2025-12-03T14:40:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992162
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-224.5",
+      "number": 224.5,
+      "title": "Akatsuki no Yona – Capítulo 224.5 – Era uma vez, em uma terra muito, muito distante&#8230;",
+      "date": "2025-12-03T14:40:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992161
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-225",
+      "number": 225,
+      "title": "Akatsuki no Yona – Capítulo 225 – Um respirar aliviado",
+      "date": "2025-12-03T14:40:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992163
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-226",
+      "number": 226,
+      "title": "Akatsuki no Yona – Capítulo 226 – Um tranquilo amanhecer",
+      "date": "2025-12-03T14:40:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992159
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-227",
+      "number": 227,
+      "title": "Akatsuki no Yona – Capítulo 227 – Sombras que se arrastam na calada da noite",
+      "date": "2025-12-03T14:40:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992165
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-228",
+      "number": 228,
+      "title": "Akatsuki no Yona – Capítulo 228 – Revolta",
+      "date": "2025-12-03T14:40:45Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992160
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-229",
+      "number": 229,
+      "title": "Akatsuki no Yona – Capítulo 229 – Possessão",
+      "date": "2025-12-03T14:41:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992453
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-230",
+      "number": 230,
+      "title": "Akatsuki no Yona – Capítulo 230 – Espalhando veneno",
+      "date": "2025-12-03T14:41:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992456
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-231",
+      "number": 231,
+      "title": "Akatsuki no Yona – Capítulo 231 – Sonhos com chamas",
+      "date": "2025-12-03T14:41:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992450
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-232",
+      "number": 232,
+      "title": "Akatsuki no Yona – Capítulo 232 – Sonhos que se tornam realidade",
+      "date": "2025-12-03T14:41:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992452
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-233",
+      "number": 233,
+      "title": "Akatsuki no Yona – Capítulo 233 – Fazendo uma grande entrada",
+      "date": "2025-12-03T14:41:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992449
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-234",
+      "number": 234,
+      "title": "Akatsuki no Yona – Capítulo 234 – Quem não arrisca não petisca",
+      "date": "2025-12-03T14:41:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992457
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-235",
+      "number": 235,
+      "title": "Akatsuki no Yona – Capítulo 235 – Um companheiro para compartilhar alegrias e tristezas",
+      "date": "2025-12-03T14:41:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992448
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-236",
+      "number": 236,
+      "title": "Akatsuki no Yona – Capítulo 236 – Relíquia",
+      "date": "2025-12-03T14:41:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992455
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-237",
+      "number": 237,
+      "title": "Akatsuki no Yona – Capítulo 237 – Para onde eu sou chamado",
+      "date": "2025-12-03T14:41:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992451
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-238",
+      "number": 238,
+      "title": "Akatsuki no Yona – Capítulo 238 – As regras do campo de batalha",
+      "date": "2025-12-03T14:41:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992454
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-239",
+      "number": 239,
+      "title": "Akatsuki no Yona – Capítulo 239 – A vontade de lutar e o significado de lutar contra a adversidade",
+      "date": "2025-12-03T14:42:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992758
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-240",
+      "number": 240,
+      "title": "Akatsuki no Yona – Capítulo 240 – Recusa",
+      "date": "2025-12-03T14:42:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992752
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-241",
+      "number": 241,
+      "title": "Akatsuki no Yona – Capítulo 241 – Se eu tivesse nascido em outro lugar",
+      "date": "2025-12-03T14:42:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992750
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-242",
+      "number": 242,
+      "title": "Akatsuki no Yona – Capítulo 242 – Os dragões desaparecidos",
+      "date": "2025-12-03T14:42:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992751
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-243",
+      "number": 243,
+      "title": "Akatsuki no Yona – Capítulo 243 – A noite em que nossos caminhos se separaram",
+      "date": "2025-12-03T14:42:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992756
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-244",
+      "number": 244,
+      "title": "Akatsuki no Yona – Capítulo 244 – Uma partida tranquila",
+      "date": "2025-12-03T14:42:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992753
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-245",
+      "number": 245,
+      "title": "Akatsuki no Yona – Capítulo 245 – Começou",
+      "date": "2025-12-03T14:42:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992754
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-246",
+      "number": 246,
+      "title": "Akatsuki no Yona – Capítulo 246 – Eu não posso ir mais longe",
+      "date": "2025-12-03T14:42:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992755
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-247",
+      "number": 247,
+      "title": "Akatsuki no Yona – Capítulo 247 – Uma fraca luz",
+      "date": "2025-12-03T14:42:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 992759
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-248",
+      "number": 248,
+      "title": "Akatsuki no Yona – Capítulo 248 – Perseguindo a sombra azul",
+      "date": "2025-12-03T14:42:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 993095
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-249",
+      "number": 249,
+      "title": "Akatsuki no Yona – Capítulo 249 – Continue unido",
+      "date": "2025-12-03T14:42:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 993093
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-250",
+      "number": 250,
+      "title": "Akatsuki no Yona – Capítulo 250 – Para o lugar onde não há tristeza",
+      "date": "2025-12-03T14:42:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 993099
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-251",
+      "number": 251,
+      "title": "Akatsuki no Yona – Capítulo 251 – Dividir",
+      "date": "2025-12-03T14:42:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 993098
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-252",
+      "number": 252,
+      "title": "Akatsuki no Yona – Capítulo 252 – Mesmo que eu não possa voltar atrás",
+      "date": "2025-12-03T14:42:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 993092
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-253",
+      "number": 253,
+      "title": "Akatsuki no Yona – Capítulo 253 – O amigo que não nos chama pelo nome",
+      "date": "2025-12-03T14:42:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 993090
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-254",
+      "number": 254,
+      "title": "Akatsuki no Yona – Capítulo 254 – Se eu não puder vê-los de novo",
+      "date": "2025-12-03T14:42:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 993091
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-255",
+      "number": 255,
+      "title": "Akatsuki no Yona – Capítulo 255 – O que conversamos por último?",
+      "date": "2025-12-03T14:42:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 993097
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-256",
+      "number": 256,
+      "title": "Akatsuki no Yona – Capítulo 256 – Aquele que deseja viver, e aquele que implora pela morte",
+      "date": "2025-12-03T14:42:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 993094
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-257",
+      "number": 257,
+      "title": "Akatsuki no Yona – Capítulo 257 – Um fogo aceso em meu coração",
+      "date": "2025-12-03T14:42:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 993096
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-257.5",
+      "number": 257.5,
+      "title": "Akatsuki no Yona – Capítulo 257.5 – 4koma do 50º Aniversário de Hana to Yume",
+      "date": "2025-12-03T14:43:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 993434
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-258",
+      "number": 258,
+      "title": "Akatsuki no Yona – Capítulo 258 – Já perdemos demais",
+      "date": "2025-12-03T14:43:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 993437
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-259",
+      "number": 259,
+      "title": "Akatsuki no Yona – Capítulo 259 – Uma espada vazia",
+      "date": "2025-12-03T14:43:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 993438
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-260",
+      "number": 260,
+      "title": "Akatsuki no Yona – Capítulo 260 – As palavras que eu não queria dizer",
+      "date": "2025-12-03T14:43:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 993435
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-261",
+      "number": 261,
+      "title": "Akatsuki no Yona – Capítulo 261 – A escuridão chega",
+      "date": "2025-12-03T14:43:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 993441
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-262",
+      "number": 262,
+      "title": "Akatsuki no Yona – Capítulo 262 – Visitantes caóticos no castelo",
+      "date": "2025-12-03T14:43:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 993443
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-263",
+      "number": 263,
+      "title": "Akatsuki no Yona – Capítulo 263 – Um mundo sem dor",
+      "date": "2025-12-03T14:43:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 993442
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-264",
+      "number": 264,
+      "title": "Akatsuki no Yona – Capítulo 264 – Na palma de sua mão",
+      "date": "2025-12-03T14:43:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 993439
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-265",
+      "number": 265,
+      "title": "Akatsuki no Yona – Capítulo 265 – Pensei que os guerreiros dragão fossem lamentáveis",
+      "date": "2025-12-03T14:43:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 993440
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-266",
+      "number": 266,
+      "title": "Akatsuki no Yona – Capítulo 266 – Perseguindo os tempos de um dia distante",
+      "date": "2025-12-03T14:43:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 993436
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-267",
+      "number": 267,
+      "title": "Akatsuki no Yona – Capítulo 267 – De um passado distante, rumo ao meu futuro",
+      "date": "2025-12-03T14:44:26Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 993758
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-268",
+      "number": 268,
+      "title": "Akatsuki no Yona – Capítulo 268 – As balanças que pesam no coração",
+      "date": "2025-12-03T14:44:26Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 993754
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-269",
+      "number": 269,
+      "title": "Akatsuki no Yona – Capítulo 269 – Aquele que nem os deuses intimidam",
+      "date": "2025-12-03T14:44:26Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 993751
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-270",
+      "number": 270,
+      "title": "Akatsuki no Yona – Capítulo 270 – Rumo ao abismo",
+      "date": "2025-12-03T14:44:26Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 993752
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-271",
+      "number": 271,
+      "title": "Akatsuki no Yona – Capítulo 271 – Um paraíso em pedaços",
+      "date": "2025-12-03T14:44:26Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 993756
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-272",
+      "number": 272,
+      "title": "Akatsuki no Yona – Capítulo 272 – Um fracasso claro",
+      "date": "2025-12-03T14:44:26Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 993750
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-273",
+      "number": 273,
+      "title": "Akatsuki no Yona – Capítulo 273 – O mar de areia",
+      "date": "2025-12-03T14:44:26Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 993757
+    },
+    {
+      "id": "akatsuki-no-yona-chapter-274",
+      "number": 274,
+      "title": "Akatsuki no Yona – Capítulo 274 – O escudo inabalável",
+      "date": "2025-12-03T14:45:15Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 994069
+    }
+  ]
+}

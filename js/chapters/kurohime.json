@@ -1,0 +1,571 @@
+{
+  "en": [
+    {
+      "id": "kurohime-0",
+      "number": "0",
+      "title": "Prologue 3#Kaon",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-1",
+      "number": "1",
+      "title": "Magic Canon User",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-2",
+      "number": "2",
+      "title": "Magical Canon Bullet + Heart of Gem",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-3",
+      "number": "3",
+      "title": "Kurohime's Love",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-4",
+      "number": "4",
+      "title": "Kyo-Kyo Witch - Part 1",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-5",
+      "number": "5",
+      "title": "Kyo-Kyo Witch - Part 2",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-6",
+      "number": "6",
+      "title": "Asura - Part 1",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-7",
+      "number": "7",
+      "title": "Asura - Part 2",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-8",
+      "number": "8",
+      "title": "Maya's Horse Carriage",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-9",
+      "number": "9",
+      "title": "Shinigami Angel - Part 1",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-10",
+      "number": "10",
+      "title": "Shinigami Angel - Part 2",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-11",
+      "number": "11",
+      "title": "River of Three Crossings",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-12",
+      "number": "12",
+      "title": "The Legend of Kurohime - Part 1",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-13",
+      "number": "13",
+      "title": "The Legend of Kurohime Part 2",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-14",
+      "number": "14",
+      "title": "Shinigami Daaku Rei",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-15",
+      "number": "15",
+      "title": "The River of Love",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-16",
+      "number": "16",
+      "title": "The Beginning of a New Journey",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-17",
+      "number": "17",
+      "title": "Mermaid Princess",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-18",
+      "number": "18",
+      "title": "Fuji's Sea of Trees",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-19",
+      "number": "19",
+      "title": "Princess Yamato 1",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-20",
+      "number": "20",
+      "title": "Princess Yamato 2",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-21",
+      "number": "21",
+      "title": "Lotus",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-22",
+      "number": "22",
+      "title": "Momohime",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-23",
+      "number": "23",
+      "title": "Demon Island",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-24",
+      "number": "24",
+      "title": "Genbu",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-25",
+      "number": "25",
+      "title": "Princess Yasha",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-26",
+      "number": "26",
+      "title": "Reunion",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-27",
+      "number": "27",
+      "title": "Gourmet Town",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-28",
+      "number": "28",
+      "title": "Yukionna",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-29",
+      "number": "29",
+      "title": "",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-30",
+      "number": "30",
+      "title": "Dark Zero 1",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-31",
+      "number": "31",
+      "title": "Dark Zero 2",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-32",
+      "number": "32",
+      "title": "Big Edo City 1",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-33",
+      "number": "33",
+      "title": "Big Edo City 2",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-34",
+      "number": "34",
+      "title": "Big Edo City 3",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-35",
+      "number": "35",
+      "title": "Zero - To The Past -",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-36",
+      "number": "36",
+      "title": "Zero - Brothers -",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-37",
+      "number": "37",
+      "title": "Zero - Lion Castle",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-38",
+      "number": "38",
+      "title": "Zero - Materen",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-39",
+      "number": "39",
+      "title": "Zero - Soudo",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-40",
+      "number": "40",
+      "title": "Zero - Shinigami of the Materen",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-41",
+      "number": "41",
+      "title": "Zero - Dokku",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-42",
+      "number": "42",
+      "title": "Zero - The Prison Castle",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-43",
+      "number": "43",
+      "title": "Zero - The Bond of Blood 1",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-44",
+      "number": "44",
+      "title": "Zero - The Bond of Blood 2",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-45",
+      "number": "45",
+      "title": "Zero Himiko",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-46",
+      "number": "46",
+      "title": "Zero - The Choice 1",
+      "date": "2009/08/17",
+      "pages": []
+    },
+    {
+      "id": "kurohime-47",
+      "number": "47",
+      "title": "Zero - The Choice 2",
+      "date": "2009/08/29",
+      "pages": []
+    },
+    {
+      "id": "kurohime-48",
+      "number": "48",
+      "title": "Ouka's Mistake",
+      "date": "2009/09/16",
+      "pages": []
+    },
+    {
+      "id": "kurohime-49",
+      "number": "49",
+      "title": "Fighting Ouka",
+      "date": "2009/09/16",
+      "pages": []
+    },
+    {
+      "id": "kurohime-50",
+      "number": "50",
+      "title": "Magic Gun Seal",
+      "date": "2009/09/19",
+      "pages": []
+    },
+    {
+      "id": "kurohime-51",
+      "number": "51",
+      "title": "Beginning of a Legend",
+      "date": "2009/09/19",
+      "pages": []
+    },
+    {
+      "id": "kurohime-52",
+      "number": "52",
+      "title": "Prison Fight",
+      "date": "2009/09/19",
+      "pages": []
+    },
+    {
+      "id": "kurohime-53",
+      "number": "53",
+      "title": "Dark Power",
+      "date": "2009/09/19",
+      "pages": []
+    },
+    {
+      "id": "kurohime-54",
+      "number": "54",
+      "title": "It Comes From Heaven",
+      "date": "2010/01/20",
+      "pages": []
+    },
+    {
+      "id": "kurohime-55",
+      "number": "55",
+      "title": "3 Mistakes",
+      "date": "2010/01/21",
+      "pages": []
+    },
+    {
+      "id": "kurohime-56",
+      "number": "56",
+      "title": "Great People",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "kurohime-57",
+      "number": "57",
+      "title": "Secret Agreement",
+      "date": "2010/02/13",
+      "pages": []
+    },
+    {
+      "id": "kurohime-58",
+      "number": "58",
+      "title": "Secret Talk",
+      "date": "2010/02/21",
+      "pages": []
+    },
+    {
+      "id": "kurohime-59",
+      "number": "59",
+      "title": "The Brothers` Decision",
+      "date": "2010/03/01",
+      "pages": []
+    },
+    {
+      "id": "kurohime-60",
+      "number": "60",
+      "title": "Their Fight",
+      "date": "2010/03/27",
+      "pages": []
+    },
+    {
+      "id": "kurohime-61",
+      "number": "61",
+      "title": "Rei`s Decision",
+      "date": "2010/04/02",
+      "pages": []
+    },
+    {
+      "id": "kurohime-62",
+      "number": "62",
+      "title": "Zero`s Decision",
+      "date": "2010/04/02",
+      "pages": []
+    },
+    {
+      "id": "kurohime-63",
+      "number": "63",
+      "title": "Selection of Souls",
+      "date": "2010/05/01",
+      "pages": []
+    },
+    {
+      "id": "kurohime-64",
+      "number": "64",
+      "title": "Offered By Zero 1",
+      "date": "2010/05/14",
+      "pages": []
+    },
+    {
+      "id": "kurohime-65",
+      "number": "65",
+      "title": "Offered By Zero 2",
+      "date": "2010/05/14",
+      "pages": []
+    },
+    {
+      "id": "kurohime-66",
+      "number": "66",
+      "title": "Departure",
+      "date": "2010/05/15",
+      "pages": []
+    },
+    {
+      "id": "kurohime-67",
+      "number": "67",
+      "title": "How The World Should Be",
+      "date": "2010/05/16",
+      "pages": []
+    },
+    {
+      "id": "kurohime-68",
+      "number": "68",
+      "title": "Asura The Spirit",
+      "date": "2010/05/18",
+      "pages": []
+    },
+    {
+      "id": "kurohime-69",
+      "number": "69",
+      "title": "Spirits",
+      "date": "2010/05/18",
+      "pages": []
+    },
+    {
+      "id": "kurohime-70",
+      "number": "70",
+      "title": "Asura`s Village",
+      "date": "2010/06/06",
+      "pages": []
+    },
+    {
+      "id": "kurohime-71",
+      "number": "71",
+      "title": "71",
+      "date": "2010/06/06",
+      "pages": []
+    },
+    {
+      "id": "kurohime-72",
+      "number": "72",
+      "title": "Asura`s Choice",
+      "date": "2010/06/13",
+      "pages": []
+    },
+    {
+      "id": "kurohime-73",
+      "number": "73",
+      "title": "A God Descends",
+      "date": "2010/07/02",
+      "pages": []
+    },
+    {
+      "id": "kurohime-74",
+      "number": "74",
+      "title": "The Planet`s Life",
+      "date": "2010/07/20",
+      "pages": []
+    },
+    {
+      "id": "kurohime-75",
+      "number": "75",
+      "title": "Hidden Feeling",
+      "date": "2010/08/18",
+      "pages": []
+    },
+    {
+      "id": "kurohime-76",
+      "number": "76",
+      "title": "First Love",
+      "date": "2010/10/03",
+      "pages": []
+    },
+    {
+      "id": "kurohime-77",
+      "number": "77",
+      "title": "Future of Despair",
+      "date": "2010/11/13",
+      "pages": []
+    },
+    {
+      "id": "kurohime-78",
+      "number": "78",
+      "title": "Affection",
+      "date": "2011/01/02",
+      "pages": []
+    },
+    {
+      "id": "kurohime-79",
+      "number": "79",
+      "title": "Time of Destruction",
+      "date": "2011/02/06",
+      "pages": []
+    },
+    {
+      "id": "kurohime-80",
+      "number": "80",
+      "title": "END",
+      "date": "2011/03/07",
+      "pages": []
+    }
+  ]
+}

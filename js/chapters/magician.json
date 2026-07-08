@@ -1,0 +1,3679 @@
+{
+  "en": [
+    {
+      "id": "magician-1",
+      "number": "1",
+      "title": "Madosa Eldermask",
+      "date": "2010/06/06",
+      "pages": []
+    },
+    {
+      "id": "magician-2",
+      "number": "2",
+      "title": "Ethermask",
+      "date": "2010/08/12",
+      "pages": []
+    },
+    {
+      "id": "magician-3",
+      "number": "3",
+      "title": "Push",
+      "date": "2010/08/12",
+      "pages": []
+    },
+    {
+      "id": "magician-4",
+      "number": "4",
+      "title": "Make That Quick",
+      "date": "2010/09/08",
+      "pages": []
+    },
+    {
+      "id": "magician-5",
+      "number": "5",
+      "title": "5",
+      "date": "2010/09/27",
+      "pages": []
+    },
+    {
+      "id": "magician-6",
+      "number": "6",
+      "title": "6",
+      "date": "2010/11/19",
+      "pages": []
+    },
+    {
+      "id": "magician-7",
+      "number": "7",
+      "title": "",
+      "date": "2010/11/26",
+      "pages": []
+    },
+    {
+      "id": "magician-8",
+      "number": "8",
+      "title": "",
+      "date": "2010/12/02",
+      "pages": []
+    },
+    {
+      "id": "magician-9",
+      "number": "9",
+      "title": "",
+      "date": "2010/12/17",
+      "pages": []
+    },
+    {
+      "id": "magician-10",
+      "number": "10",
+      "title": "",
+      "date": "2010/12/23",
+      "pages": []
+    },
+    {
+      "id": "magician-11",
+      "number": "11",
+      "title": "",
+      "date": "2010/12/30",
+      "pages": []
+    },
+    {
+      "id": "magician-12",
+      "number": "12",
+      "title": "",
+      "date": "2011/01/06",
+      "pages": []
+    },
+    {
+      "id": "magician-13",
+      "number": "13",
+      "title": "",
+      "date": "2011/01/13",
+      "pages": []
+    },
+    {
+      "id": "magician-14",
+      "number": "14",
+      "title": "",
+      "date": "2011/01/21",
+      "pages": []
+    },
+    {
+      "id": "magician-15",
+      "number": "15",
+      "title": "",
+      "date": "2011/01/27",
+      "pages": []
+    },
+    {
+      "id": "magician-16",
+      "number": "16",
+      "title": "",
+      "date": "2011/02/03",
+      "pages": []
+    },
+    {
+      "id": "magician-17",
+      "number": "17",
+      "title": "",
+      "date": "2011/02/11",
+      "pages": []
+    },
+    {
+      "id": "magician-18",
+      "number": "18",
+      "title": "",
+      "date": "2011/02/11",
+      "pages": []
+    },
+    {
+      "id": "magician-19",
+      "number": "19",
+      "title": "",
+      "date": "2011/02/17",
+      "pages": []
+    },
+    {
+      "id": "magician-20",
+      "number": "20",
+      "title": "",
+      "date": "2011/02/17",
+      "pages": []
+    },
+    {
+      "id": "magician-21",
+      "number": "21",
+      "title": "",
+      "date": "2011/02/24",
+      "pages": []
+    },
+    {
+      "id": "magician-22",
+      "number": "22",
+      "title": "",
+      "date": "2011/02/24",
+      "pages": []
+    },
+    {
+      "id": "magician-23",
+      "number": "23",
+      "title": "",
+      "date": "2011/03/04",
+      "pages": []
+    },
+    {
+      "id": "magician-24",
+      "number": "24",
+      "title": "",
+      "date": "2011/03/04",
+      "pages": []
+    },
+    {
+      "id": "magician-25",
+      "number": "25",
+      "title": "",
+      "date": "2011/03/13",
+      "pages": []
+    },
+    {
+      "id": "magician-26",
+      "number": "26",
+      "title": "",
+      "date": "2011/03/13",
+      "pages": []
+    },
+    {
+      "id": "magician-27",
+      "number": "27",
+      "title": "",
+      "date": "2011/03/20",
+      "pages": []
+    },
+    {
+      "id": "magician-28",
+      "number": "28",
+      "title": "",
+      "date": "2011/03/20",
+      "pages": []
+    },
+    {
+      "id": "magician-29",
+      "number": "29",
+      "title": "",
+      "date": "2011/03/27",
+      "pages": []
+    },
+    {
+      "id": "magician-30",
+      "number": "30",
+      "title": "",
+      "date": "2011/03/27",
+      "pages": []
+    },
+    {
+      "id": "magician-31",
+      "number": "31",
+      "title": "",
+      "date": "2011/04/03",
+      "pages": []
+    },
+    {
+      "id": "magician-32",
+      "number": "32",
+      "title": "",
+      "date": "2011/04/06",
+      "pages": []
+    },
+    {
+      "id": "magician-33",
+      "number": "33",
+      "title": "",
+      "date": "2011/04/10",
+      "pages": []
+    },
+    {
+      "id": "magician-34",
+      "number": "34",
+      "title": "",
+      "date": "2011/04/10",
+      "pages": []
+    },
+    {
+      "id": "magician-35",
+      "number": "35",
+      "title": "",
+      "date": "2011/04/16",
+      "pages": []
+    },
+    {
+      "id": "magician-36",
+      "number": "36",
+      "title": "",
+      "date": "2011/04/16",
+      "pages": []
+    },
+    {
+      "id": "magician-37",
+      "number": "37",
+      "title": "",
+      "date": "2011/04/23",
+      "pages": []
+    },
+    {
+      "id": "magician-38",
+      "number": "38",
+      "title": "",
+      "date": "2011/04/23",
+      "pages": []
+    },
+    {
+      "id": "magician-39",
+      "number": "39",
+      "title": "",
+      "date": "2011/04/30",
+      "pages": []
+    },
+    {
+      "id": "magician-40",
+      "number": "40",
+      "title": "",
+      "date": "2011/04/30",
+      "pages": []
+    },
+    {
+      "id": "magician-41",
+      "number": "41",
+      "title": "",
+      "date": "2011/05/07",
+      "pages": []
+    },
+    {
+      "id": "magician-42",
+      "number": "42",
+      "title": "",
+      "date": "2011/05/14",
+      "pages": []
+    },
+    {
+      "id": "magician-43",
+      "number": "43",
+      "title": "",
+      "date": "2011/05/21",
+      "pages": []
+    },
+    {
+      "id": "magician-44",
+      "number": "44",
+      "title": "",
+      "date": "2011/05/28",
+      "pages": []
+    },
+    {
+      "id": "magician-45",
+      "number": "45",
+      "title": "",
+      "date": "2011/05/31",
+      "pages": []
+    },
+    {
+      "id": "magician-46",
+      "number": "46",
+      "title": "",
+      "date": "2011/06/04",
+      "pages": []
+    },
+    {
+      "id": "magician-47",
+      "number": "47",
+      "title": "",
+      "date": "2011/06/11",
+      "pages": []
+    },
+    {
+      "id": "magician-48",
+      "number": "48",
+      "title": "",
+      "date": "2011/06/18",
+      "pages": []
+    },
+    {
+      "id": "magician-49",
+      "number": "49",
+      "title": "",
+      "date": "2011/06/22",
+      "pages": []
+    },
+    {
+      "id": "magician-50",
+      "number": "50",
+      "title": "",
+      "date": "2011/06/23",
+      "pages": []
+    },
+    {
+      "id": "magician-51",
+      "number": "51",
+      "title": "",
+      "date": "2011/06/25",
+      "pages": []
+    },
+    {
+      "id": "magician-52",
+      "number": "52",
+      "title": "",
+      "date": "2011/06/27",
+      "pages": []
+    },
+    {
+      "id": "magician-53",
+      "number": "53",
+      "title": "",
+      "date": "2011/06/27",
+      "pages": []
+    },
+    {
+      "id": "magician-54",
+      "number": "54",
+      "title": "",
+      "date": "2011/06/28",
+      "pages": []
+    },
+    {
+      "id": "magician-55",
+      "number": "55",
+      "title": "",
+      "date": "2011/06/30",
+      "pages": []
+    },
+    {
+      "id": "magician-56",
+      "number": "56",
+      "title": "",
+      "date": "2011/06/30",
+      "pages": []
+    },
+    {
+      "id": "magician-57",
+      "number": "57",
+      "title": "",
+      "date": "2011/07/01",
+      "pages": []
+    },
+    {
+      "id": "magician-58",
+      "number": "58",
+      "title": "",
+      "date": "2011/07/02",
+      "pages": []
+    },
+    {
+      "id": "magician-59",
+      "number": "59",
+      "title": "",
+      "date": "2011/07/09",
+      "pages": []
+    },
+    {
+      "id": "magician-60",
+      "number": "60",
+      "title": "",
+      "date": "2011/07/16",
+      "pages": []
+    },
+    {
+      "id": "magician-61",
+      "number": "61",
+      "title": "",
+      "date": "2011/07/23",
+      "pages": []
+    },
+    {
+      "id": "magician-62",
+      "number": "62",
+      "title": "",
+      "date": "2011/07/30",
+      "pages": []
+    },
+    {
+      "id": "magician-63",
+      "number": "63",
+      "title": "",
+      "date": "2011/08/06",
+      "pages": []
+    },
+    {
+      "id": "magician-64",
+      "number": "64",
+      "title": "",
+      "date": "2011/08/13",
+      "pages": []
+    },
+    {
+      "id": "magician-65",
+      "number": "65",
+      "title": "",
+      "date": "2011/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-66",
+      "number": "66",
+      "title": "",
+      "date": "2011/08/27",
+      "pages": []
+    },
+    {
+      "id": "magician-67",
+      "number": "67",
+      "title": "",
+      "date": "2011/09/02",
+      "pages": []
+    },
+    {
+      "id": "magician-68",
+      "number": "68",
+      "title": "",
+      "date": "2011/09/09",
+      "pages": []
+    },
+    {
+      "id": "magician-69",
+      "number": "69",
+      "title": "",
+      "date": "2011/09/17",
+      "pages": []
+    },
+    {
+      "id": "magician-70",
+      "number": "70",
+      "title": "",
+      "date": "2011/09/24",
+      "pages": []
+    },
+    {
+      "id": "magician-71",
+      "number": "71",
+      "title": "",
+      "date": "2011/09/30",
+      "pages": []
+    },
+    {
+      "id": "magician-72",
+      "number": "72",
+      "title": "",
+      "date": "2011/10/14",
+      "pages": []
+    },
+    {
+      "id": "magician-73",
+      "number": "73",
+      "title": "",
+      "date": "2011/10/14",
+      "pages": []
+    },
+    {
+      "id": "magician-74",
+      "number": "74",
+      "title": "",
+      "date": "2011/10/21",
+      "pages": []
+    },
+    {
+      "id": "magician-75",
+      "number": "75",
+      "title": "",
+      "date": "2011/10/28",
+      "pages": []
+    },
+    {
+      "id": "magician-76",
+      "number": "76",
+      "title": "",
+      "date": "2011/11/03",
+      "pages": []
+    },
+    {
+      "id": "magician-77",
+      "number": "77",
+      "title": "",
+      "date": "2011/11/10",
+      "pages": []
+    },
+    {
+      "id": "magician-78",
+      "number": "78",
+      "title": "",
+      "date": "2011/11/17",
+      "pages": []
+    },
+    {
+      "id": "magician-79",
+      "number": "79",
+      "title": "",
+      "date": "2011/11/24",
+      "pages": []
+    },
+    {
+      "id": "magician-80",
+      "number": "80",
+      "title": "",
+      "date": "2011/12/01",
+      "pages": []
+    },
+    {
+      "id": "magician-81",
+      "number": "81",
+      "title": "",
+      "date": "2011/12/08",
+      "pages": []
+    },
+    {
+      "id": "magician-82",
+      "number": "82",
+      "title": "",
+      "date": "2011/12/15",
+      "pages": []
+    },
+    {
+      "id": "magician-83",
+      "number": "83",
+      "title": "",
+      "date": "2011/12/22",
+      "pages": []
+    },
+    {
+      "id": "magician-84",
+      "number": "84",
+      "title": "",
+      "date": "2011/12/30",
+      "pages": []
+    },
+    {
+      "id": "magician-85",
+      "number": "85",
+      "title": "",
+      "date": "2012/01/05",
+      "pages": []
+    },
+    {
+      "id": "magician-86",
+      "number": "86",
+      "title": "",
+      "date": "2012/01/19",
+      "pages": []
+    },
+    {
+      "id": "magician-87",
+      "number": "87",
+      "title": "",
+      "date": "2012/02/19",
+      "pages": []
+    },
+    {
+      "id": "magician-88",
+      "number": "88",
+      "title": "",
+      "date": "2012/02/19",
+      "pages": []
+    },
+    {
+      "id": "magician-89",
+      "number": "89",
+      "title": "",
+      "date": "2012/02/20",
+      "pages": []
+    },
+    {
+      "id": "magician-90",
+      "number": "90",
+      "title": "",
+      "date": "2012/02/21",
+      "pages": []
+    },
+    {
+      "id": "magician-91",
+      "number": "91",
+      "title": "",
+      "date": "2012/02/23",
+      "pages": []
+    },
+    {
+      "id": "magician-92",
+      "number": "92",
+      "title": "",
+      "date": "2012/02/24",
+      "pages": []
+    },
+    {
+      "id": "magician-93",
+      "number": "93",
+      "title": "",
+      "date": "2012/02/24",
+      "pages": []
+    },
+    {
+      "id": "magician-94",
+      "number": "94",
+      "title": "",
+      "date": "2012/02/26",
+      "pages": []
+    },
+    {
+      "id": "magician-95",
+      "number": "95",
+      "title": "",
+      "date": "2012/02/27",
+      "pages": []
+    },
+    {
+      "id": "magician-96",
+      "number": "96",
+      "title": "",
+      "date": "2012/02/27",
+      "pages": []
+    },
+    {
+      "id": "magician-97",
+      "number": "97",
+      "title": "",
+      "date": "2012/03/01",
+      "pages": []
+    },
+    {
+      "id": "magician-98",
+      "number": "98",
+      "title": "",
+      "date": "2012/03/01",
+      "pages": []
+    },
+    {
+      "id": "magician-99",
+      "number": "99",
+      "title": "",
+      "date": "2012/03/02",
+      "pages": []
+    },
+    {
+      "id": "magician-100",
+      "number": "100",
+      "title": "",
+      "date": "2012/03/12",
+      "pages": []
+    },
+    {
+      "id": "magician-101",
+      "number": "101",
+      "title": "",
+      "date": "2012/03/17",
+      "pages": []
+    },
+    {
+      "id": "magician-102",
+      "number": "102",
+      "title": "",
+      "date": "2012/03/27",
+      "pages": []
+    },
+    {
+      "id": "magician-103",
+      "number": "103",
+      "title": "",
+      "date": "2012/04/04",
+      "pages": []
+    },
+    {
+      "id": "magician-104",
+      "number": "104",
+      "title": "",
+      "date": "2012/04/29",
+      "pages": []
+    },
+    {
+      "id": "magician-105",
+      "number": "105",
+      "title": "",
+      "date": "2012/05/07",
+      "pages": []
+    },
+    {
+      "id": "magician-106",
+      "number": "106",
+      "title": "",
+      "date": "2012/05/07",
+      "pages": []
+    },
+    {
+      "id": "magician-107",
+      "number": "107",
+      "title": "",
+      "date": "2012/05/07",
+      "pages": []
+    },
+    {
+      "id": "magician-108",
+      "number": "108",
+      "title": "",
+      "date": "2012/05/07",
+      "pages": []
+    },
+    {
+      "id": "magician-109",
+      "number": "109",
+      "title": "",
+      "date": "2012/05/07",
+      "pages": []
+    },
+    {
+      "id": "magician-110",
+      "number": "110",
+      "title": "",
+      "date": "2012/05/07",
+      "pages": []
+    },
+    {
+      "id": "magician-111",
+      "number": "111",
+      "title": "",
+      "date": "2012/05/07",
+      "pages": []
+    },
+    {
+      "id": "magician-112",
+      "number": "112",
+      "title": "",
+      "date": "2012/05/07",
+      "pages": []
+    },
+    {
+      "id": "magician-113",
+      "number": "113",
+      "title": "",
+      "date": "2012/05/07",
+      "pages": []
+    },
+    {
+      "id": "magician-114",
+      "number": "114",
+      "title": "",
+      "date": "2012/05/07",
+      "pages": []
+    },
+    {
+      "id": "magician-115",
+      "number": "115",
+      "title": "",
+      "date": "2012/05/07",
+      "pages": []
+    },
+    {
+      "id": "magician-116",
+      "number": "116",
+      "title": "",
+      "date": "2012/05/07",
+      "pages": []
+    },
+    {
+      "id": "magician-117",
+      "number": "117",
+      "title": "",
+      "date": "2012/05/07",
+      "pages": []
+    },
+    {
+      "id": "magician-118",
+      "number": "118",
+      "title": "",
+      "date": "2012/05/07",
+      "pages": []
+    },
+    {
+      "id": "magician-119",
+      "number": "119",
+      "title": "",
+      "date": "2012/05/07",
+      "pages": []
+    },
+    {
+      "id": "magician-120",
+      "number": "120",
+      "title": "",
+      "date": "2012/05/07",
+      "pages": []
+    },
+    {
+      "id": "magician-121",
+      "number": "121",
+      "title": "",
+      "date": "2012/05/07",
+      "pages": []
+    },
+    {
+      "id": "magician-122",
+      "number": "122",
+      "title": "",
+      "date": "2012/05/07",
+      "pages": []
+    },
+    {
+      "id": "magician-123",
+      "number": "123",
+      "title": "",
+      "date": "2012/05/07",
+      "pages": []
+    },
+    {
+      "id": "magician-124",
+      "number": "124",
+      "title": "",
+      "date": "2012/05/11",
+      "pages": []
+    },
+    {
+      "id": "magician-125",
+      "number": "125",
+      "title": "",
+      "date": "2012/05/11",
+      "pages": []
+    },
+    {
+      "id": "magician-126",
+      "number": "126",
+      "title": "",
+      "date": "2012/05/11",
+      "pages": []
+    },
+    {
+      "id": "magician-127",
+      "number": "127",
+      "title": "",
+      "date": "2012/05/11",
+      "pages": []
+    },
+    {
+      "id": "magician-128",
+      "number": "128",
+      "title": "",
+      "date": "2012/05/13",
+      "pages": []
+    },
+    {
+      "id": "magician-129",
+      "number": "129",
+      "title": "",
+      "date": "2012/05/13",
+      "pages": []
+    },
+    {
+      "id": "magician-130",
+      "number": "130",
+      "title": "",
+      "date": "2012/05/13",
+      "pages": []
+    },
+    {
+      "id": "magician-131",
+      "number": "131",
+      "title": "",
+      "date": "2012/05/13",
+      "pages": []
+    },
+    {
+      "id": "magician-132",
+      "number": "132",
+      "title": "",
+      "date": "2012/06/01",
+      "pages": []
+    },
+    {
+      "id": "magician-133",
+      "number": "133",
+      "title": "",
+      "date": "2012/06/01",
+      "pages": []
+    },
+    {
+      "id": "magician-134",
+      "number": "134",
+      "title": "",
+      "date": "2012/06/01",
+      "pages": []
+    },
+    {
+      "id": "magician-135",
+      "number": "135",
+      "title": "",
+      "date": "2012/06/01",
+      "pages": []
+    },
+    {
+      "id": "magician-136",
+      "number": "136",
+      "title": "",
+      "date": "2012/06/01",
+      "pages": []
+    },
+    {
+      "id": "magician-137",
+      "number": "137",
+      "title": "",
+      "date": "2012/06/01",
+      "pages": []
+    },
+    {
+      "id": "magician-138",
+      "number": "138",
+      "title": "",
+      "date": "2012/06/01",
+      "pages": []
+    },
+    {
+      "id": "magician-139",
+      "number": "139",
+      "title": "",
+      "date": "2012/06/01",
+      "pages": []
+    },
+    {
+      "id": "magician-140",
+      "number": "140",
+      "title": "",
+      "date": "2012/06/01",
+      "pages": []
+    },
+    {
+      "id": "magician-141",
+      "number": "141",
+      "title": "",
+      "date": "2012/06/01",
+      "pages": []
+    },
+    {
+      "id": "magician-142",
+      "number": "142",
+      "title": "",
+      "date": "2012/06/01",
+      "pages": []
+    },
+    {
+      "id": "magician-143",
+      "number": "143",
+      "title": "",
+      "date": "2012/06/01",
+      "pages": []
+    },
+    {
+      "id": "magician-144",
+      "number": "144",
+      "title": "",
+      "date": "2012/06/01",
+      "pages": []
+    },
+    {
+      "id": "magician-145",
+      "number": "145",
+      "title": "Volume 2 Ch 145",
+      "date": "2014/04/11",
+      "pages": []
+    },
+    {
+      "id": "magician-146",
+      "number": "146",
+      "title": "",
+      "date": "2012/06/05",
+      "pages": []
+    },
+    {
+      "id": "magician-147",
+      "number": "147",
+      "title": "",
+      "date": "2012/06/05",
+      "pages": []
+    },
+    {
+      "id": "magician-148",
+      "number": "148",
+      "title": "",
+      "date": "2012/06/06",
+      "pages": []
+    },
+    {
+      "id": "magician-149",
+      "number": "149",
+      "title": "",
+      "date": "2012/06/07",
+      "pages": []
+    },
+    {
+      "id": "magician-150",
+      "number": "150",
+      "title": "",
+      "date": "2012/06/08",
+      "pages": []
+    },
+    {
+      "id": "magician-151",
+      "number": "151",
+      "title": "",
+      "date": "2012/06/10",
+      "pages": []
+    },
+    {
+      "id": "magician-152",
+      "number": "152",
+      "title": "",
+      "date": "2012/06/10",
+      "pages": []
+    },
+    {
+      "id": "magician-153",
+      "number": "153",
+      "title": "",
+      "date": "2012/06/11",
+      "pages": []
+    },
+    {
+      "id": "magician-154",
+      "number": "154",
+      "title": "",
+      "date": "2012/06/13",
+      "pages": []
+    },
+    {
+      "id": "magician-155",
+      "number": "155",
+      "title": "",
+      "date": "2012/06/15",
+      "pages": []
+    },
+    {
+      "id": "magician-156",
+      "number": "156",
+      "title": "",
+      "date": "2012/06/23",
+      "pages": []
+    },
+    {
+      "id": "magician-157",
+      "number": "157",
+      "title": "",
+      "date": "2012/06/23",
+      "pages": []
+    },
+    {
+      "id": "magician-158",
+      "number": "158",
+      "title": "",
+      "date": "2012/06/23",
+      "pages": []
+    },
+    {
+      "id": "magician-159",
+      "number": "159",
+      "title": "",
+      "date": "2012/06/23",
+      "pages": []
+    },
+    {
+      "id": "magician-160",
+      "number": "160",
+      "title": "",
+      "date": "2012/06/23",
+      "pages": []
+    },
+    {
+      "id": "magician-161",
+      "number": "161",
+      "title": "",
+      "date": "2012/06/23",
+      "pages": []
+    },
+    {
+      "id": "magician-162",
+      "number": "162",
+      "title": "",
+      "date": "2012/06/27",
+      "pages": []
+    },
+    {
+      "id": "magician-163",
+      "number": "163",
+      "title": "",
+      "date": "2012/06/27",
+      "pages": []
+    },
+    {
+      "id": "magician-164",
+      "number": "164",
+      "title": "",
+      "date": "2012/06/28",
+      "pages": []
+    },
+    {
+      "id": "magician-165",
+      "number": "165",
+      "title": "",
+      "date": "2012/07/01",
+      "pages": []
+    },
+    {
+      "id": "magician-166",
+      "number": "166",
+      "title": "",
+      "date": "2012/07/01",
+      "pages": []
+    },
+    {
+      "id": "magician-167",
+      "number": "167",
+      "title": "",
+      "date": "2012/07/02",
+      "pages": []
+    },
+    {
+      "id": "magician-168",
+      "number": "168",
+      "title": "",
+      "date": "2012/07/02",
+      "pages": []
+    },
+    {
+      "id": "magician-169",
+      "number": "169",
+      "title": "",
+      "date": "2012/07/04",
+      "pages": []
+    },
+    {
+      "id": "magician-170",
+      "number": "170",
+      "title": "",
+      "date": "2012/07/04",
+      "pages": []
+    },
+    {
+      "id": "magician-171",
+      "number": "171",
+      "title": "",
+      "date": "2012/07/06",
+      "pages": []
+    },
+    {
+      "id": "magician-172",
+      "number": "172",
+      "title": "",
+      "date": "2012/07/07",
+      "pages": []
+    },
+    {
+      "id": "magician-173",
+      "number": "173",
+      "title": "",
+      "date": "2012/07/08",
+      "pages": []
+    },
+    {
+      "id": "magician-174",
+      "number": "174",
+      "title": "",
+      "date": "2012/07/09",
+      "pages": []
+    },
+    {
+      "id": "magician-175",
+      "number": "175",
+      "title": "",
+      "date": "2012/07/10",
+      "pages": []
+    },
+    {
+      "id": "magician-176",
+      "number": "176",
+      "title": "",
+      "date": "2012/07/10",
+      "pages": []
+    },
+    {
+      "id": "magician-177",
+      "number": "177",
+      "title": "",
+      "date": "2012/07/11",
+      "pages": []
+    },
+    {
+      "id": "magician-178",
+      "number": "178",
+      "title": "",
+      "date": "2012/07/12",
+      "pages": []
+    },
+    {
+      "id": "magician-179",
+      "number": "179",
+      "title": "",
+      "date": "2012/07/13",
+      "pages": []
+    },
+    {
+      "id": "magician-180",
+      "number": "180",
+      "title": "",
+      "date": "2012/07/14",
+      "pages": []
+    },
+    {
+      "id": "magician-181",
+      "number": "181",
+      "title": "Volume 2 Ch 1",
+      "date": "2012/07/15",
+      "pages": []
+    },
+    {
+      "id": "magician-182",
+      "number": "182",
+      "title": "Volume 2 Ch 2",
+      "date": "2012/07/18",
+      "pages": []
+    },
+    {
+      "id": "magician-183",
+      "number": "183",
+      "title": "Volume 2 Ch 3",
+      "date": "2012/07/19",
+      "pages": []
+    },
+    {
+      "id": "magician-184",
+      "number": "184",
+      "title": "Volume 2 Ch 4",
+      "date": "2012/07/20",
+      "pages": []
+    },
+    {
+      "id": "magician-185",
+      "number": "185",
+      "title": "Volume 2 Ch 5",
+      "date": "2012/07/22",
+      "pages": []
+    },
+    {
+      "id": "magician-186",
+      "number": "186",
+      "title": "Volume 2 Ch 6",
+      "date": "2012/07/23",
+      "pages": []
+    },
+    {
+      "id": "magician-187",
+      "number": "187",
+      "title": "Volume 2 Ch 7",
+      "date": "2012/07/24",
+      "pages": []
+    },
+    {
+      "id": "magician-188",
+      "number": "188",
+      "title": "Volume 2 Ch 8",
+      "date": "2012/07/25",
+      "pages": []
+    },
+    {
+      "id": "magician-189",
+      "number": "189",
+      "title": "Volume 2 Ch 9",
+      "date": "2012/07/26",
+      "pages": []
+    },
+    {
+      "id": "magician-190",
+      "number": "190",
+      "title": "Volume 2 Ch 10",
+      "date": "2012/07/29",
+      "pages": []
+    },
+    {
+      "id": "magician-191",
+      "number": "191",
+      "title": "Volume 2 Ch 11",
+      "date": "2012/07/30",
+      "pages": []
+    },
+    {
+      "id": "magician-192",
+      "number": "192",
+      "title": "Volume 2 Ch 12",
+      "date": "2012/07/31",
+      "pages": []
+    },
+    {
+      "id": "magician-193",
+      "number": "193",
+      "title": "Volume 2 Ch 13",
+      "date": "2012/08/03",
+      "pages": []
+    },
+    {
+      "id": "magician-194",
+      "number": "194",
+      "title": "Volume 2 Ch 14",
+      "date": "2012/08/04",
+      "pages": []
+    },
+    {
+      "id": "magician-195",
+      "number": "195",
+      "title": "Volume 2 Ch 15",
+      "date": "2012/08/06",
+      "pages": []
+    },
+    {
+      "id": "magician-196",
+      "number": "196",
+      "title": "Volume 2 Ch 16",
+      "date": "2012/08/09",
+      "pages": []
+    },
+    {
+      "id": "magician-197",
+      "number": "197",
+      "title": "Volume 2 Ch 17",
+      "date": "2012/08/12",
+      "pages": []
+    },
+    {
+      "id": "magician-198",
+      "number": "198",
+      "title": "Volume 2 Ch 18",
+      "date": "2012/08/15",
+      "pages": []
+    },
+    {
+      "id": "magician-199",
+      "number": "199",
+      "title": "Volume 2 Ch 19",
+      "date": "2012/08/15",
+      "pages": []
+    },
+    {
+      "id": "magician-200",
+      "number": "200",
+      "title": "Volume 2 Ch 20",
+      "date": "2012/08/16",
+      "pages": []
+    },
+    {
+      "id": "magician-201",
+      "number": "201",
+      "title": "Volume 2 Ch 21",
+      "date": "2012/08/19",
+      "pages": []
+    },
+    {
+      "id": "magician-202",
+      "number": "202",
+      "title": "Volume 2 Ch 22",
+      "date": "2012/08/21",
+      "pages": []
+    },
+    {
+      "id": "magician-203",
+      "number": "203",
+      "title": "Volume 2 Ch 23",
+      "date": "2012/08/24",
+      "pages": []
+    },
+    {
+      "id": "magician-204",
+      "number": "204",
+      "title": "Volume 2 Ch 24",
+      "date": "2012/08/27",
+      "pages": []
+    },
+    {
+      "id": "magician-205",
+      "number": "205",
+      "title": "Volume 2 Ch 25",
+      "date": "2012/08/31",
+      "pages": []
+    },
+    {
+      "id": "magician-206",
+      "number": "206",
+      "title": "Volume 2 Ch 26",
+      "date": "2012/09/03",
+      "pages": []
+    },
+    {
+      "id": "magician-207",
+      "number": "207",
+      "title": "Volume 2 Ch 27",
+      "date": "2012/09/07",
+      "pages": []
+    },
+    {
+      "id": "magician-208",
+      "number": "208",
+      "title": "Volume 2 Ch 28",
+      "date": "2012/09/10",
+      "pages": []
+    },
+    {
+      "id": "magician-209",
+      "number": "209",
+      "title": "Volume 2 Ch 29",
+      "date": "2012/09/14",
+      "pages": []
+    },
+    {
+      "id": "magician-210",
+      "number": "210",
+      "title": "Volume 2 Ch 30",
+      "date": "2012/09/16",
+      "pages": []
+    },
+    {
+      "id": "magician-211",
+      "number": "211",
+      "title": "Volume 2 Ch 31",
+      "date": "2012/09/17",
+      "pages": []
+    },
+    {
+      "id": "magician-212",
+      "number": "212",
+      "title": "Volume 2 Ch 32",
+      "date": "2012/09/17",
+      "pages": []
+    },
+    {
+      "id": "magician-213",
+      "number": "213",
+      "title": "Volume 2 Ch 33",
+      "date": "2012/09/21",
+      "pages": []
+    },
+    {
+      "id": "magician-214",
+      "number": "214",
+      "title": "Volume 2 Ch 34",
+      "date": "2012/09/24",
+      "pages": []
+    },
+    {
+      "id": "magician-215",
+      "number": "215",
+      "title": "Volume 2 Ch 35",
+      "date": "2012/09/28",
+      "pages": []
+    },
+    {
+      "id": "magician-216",
+      "number": "216",
+      "title": "Volume 2 Ch 36",
+      "date": "2012/09/29",
+      "pages": []
+    },
+    {
+      "id": "magician-217",
+      "number": "217",
+      "title": "Volume 2 Ch 37",
+      "date": "2012/09/30",
+      "pages": []
+    },
+    {
+      "id": "magician-218",
+      "number": "218",
+      "title": "Volume 2 Ch 38",
+      "date": "2012/10/01",
+      "pages": []
+    },
+    {
+      "id": "magician-219",
+      "number": "219",
+      "title": "Volume 2 Ch 39",
+      "date": "2012/10/02",
+      "pages": []
+    },
+    {
+      "id": "magician-220",
+      "number": "220",
+      "title": "Volume 2 Ch 40",
+      "date": "2012/10/03",
+      "pages": []
+    },
+    {
+      "id": "magician-221",
+      "number": "221",
+      "title": "Volume 2 Ch 41",
+      "date": "2012/10/04",
+      "pages": []
+    },
+    {
+      "id": "magician-222",
+      "number": "222",
+      "title": "Volume 2 Ch 42",
+      "date": "2012/10/05",
+      "pages": []
+    },
+    {
+      "id": "magician-223",
+      "number": "223",
+      "title": "Volume 2 Ch 43",
+      "date": "2012/10/09",
+      "pages": []
+    },
+    {
+      "id": "magician-224",
+      "number": "224",
+      "title": "Volume 2 Ch 44",
+      "date": "2012/10/12",
+      "pages": []
+    },
+    {
+      "id": "magician-225",
+      "number": "225",
+      "title": "Volume 2 Ch 45",
+      "date": "2012/10/16",
+      "pages": []
+    },
+    {
+      "id": "magician-226",
+      "number": "226",
+      "title": "Volume 2 Ch 46",
+      "date": "2012/10/19",
+      "pages": []
+    },
+    {
+      "id": "magician-227",
+      "number": "227",
+      "title": "Volume 2 Ch 47",
+      "date": "2012/10/22",
+      "pages": []
+    },
+    {
+      "id": "magician-228",
+      "number": "228",
+      "title": "Volume 2 Ch 48",
+      "date": "2012/11/02",
+      "pages": []
+    },
+    {
+      "id": "magician-229",
+      "number": "229",
+      "title": "Volume 2 Ch 49",
+      "date": "2012/11/05",
+      "pages": []
+    },
+    {
+      "id": "magician-230",
+      "number": "230",
+      "title": "Volume 2 Ch 50",
+      "date": "2012/11/09",
+      "pages": []
+    },
+    {
+      "id": "magician-231",
+      "number": "231",
+      "title": "Volume 2 Ch 51",
+      "date": "2012/11/12",
+      "pages": []
+    },
+    {
+      "id": "magician-232",
+      "number": "232",
+      "title": "Volume 2 Ch 52",
+      "date": "2012/11/16",
+      "pages": []
+    },
+    {
+      "id": "magician-233",
+      "number": "233",
+      "title": "Volume 2 Ch 53",
+      "date": "2012/11/19",
+      "pages": []
+    },
+    {
+      "id": "magician-234",
+      "number": "234",
+      "title": "Volume 2 Ch 54",
+      "date": "2012/11/23",
+      "pages": []
+    },
+    {
+      "id": "magician-235",
+      "number": "235",
+      "title": "Volume 2 Ch 55",
+      "date": "2012/11/30",
+      "pages": []
+    },
+    {
+      "id": "magician-236",
+      "number": "236",
+      "title": "Volume 2 Ch 56",
+      "date": "2012/12/03",
+      "pages": []
+    },
+    {
+      "id": "magician-237",
+      "number": "237",
+      "title": "Volume 2 Ch 57",
+      "date": "2012/12/21",
+      "pages": []
+    },
+    {
+      "id": "magician-238",
+      "number": "238",
+      "title": "Volume 2 Ch 58",
+      "date": "2012/12/24",
+      "pages": []
+    },
+    {
+      "id": "magician-239",
+      "number": "239",
+      "title": "Volume 2 Ch 59",
+      "date": "2012/12/25",
+      "pages": []
+    },
+    {
+      "id": "magician-240",
+      "number": "240",
+      "title": "Volume 2 Ch 60",
+      "date": "2012/12/26",
+      "pages": []
+    },
+    {
+      "id": "magician-241",
+      "number": "241",
+      "title": "Volume 2 Ch 61",
+      "date": "2012/12/27",
+      "pages": []
+    },
+    {
+      "id": "magician-242",
+      "number": "242",
+      "title": "Volume 2 Ch 62",
+      "date": "2012/12/28",
+      "pages": []
+    },
+    {
+      "id": "magician-243",
+      "number": "243",
+      "title": "Volume 2 Ch 63",
+      "date": "2012/12/29",
+      "pages": []
+    },
+    {
+      "id": "magician-244",
+      "number": "244",
+      "title": "Volume 2 Ch 64",
+      "date": "2012/12/30",
+      "pages": []
+    },
+    {
+      "id": "magician-245",
+      "number": "245",
+      "title": "Volume 2 Ch 65",
+      "date": "2012/12/31",
+      "pages": []
+    },
+    {
+      "id": "magician-246",
+      "number": "246",
+      "title": "Volume 2 Ch 66",
+      "date": "2013/01/07",
+      "pages": []
+    },
+    {
+      "id": "magician-247",
+      "number": "247",
+      "title": "Volume 2 Ch 67",
+      "date": "2013/01/11",
+      "pages": []
+    },
+    {
+      "id": "magician-248",
+      "number": "248",
+      "title": "Volume 2 Ch 68",
+      "date": "2013/01/14",
+      "pages": []
+    },
+    {
+      "id": "magician-249",
+      "number": "249",
+      "title": "Volume 2 Ch 69",
+      "date": "2013/01/18",
+      "pages": []
+    },
+    {
+      "id": "magician-250",
+      "number": "250",
+      "title": "Volume 2 Ch 70",
+      "date": "2013/01/21",
+      "pages": []
+    },
+    {
+      "id": "magician-251",
+      "number": "251",
+      "title": "Volume 2 Ch 71",
+      "date": "2013/01/25",
+      "pages": []
+    },
+    {
+      "id": "magician-252",
+      "number": "252",
+      "title": "Volume 2 Ch 72",
+      "date": "2013/01/28",
+      "pages": []
+    },
+    {
+      "id": "magician-253",
+      "number": "253",
+      "title": "Volume 2 Ch 73",
+      "date": "2013/02/01",
+      "pages": []
+    },
+    {
+      "id": "magician-254",
+      "number": "254",
+      "title": "Volume 2 Ch 74",
+      "date": "2013/02/04",
+      "pages": []
+    },
+    {
+      "id": "magician-255",
+      "number": "255",
+      "title": "Volume 2 Ch 75",
+      "date": "2013/02/15",
+      "pages": []
+    },
+    {
+      "id": "magician-256",
+      "number": "256",
+      "title": "Volume 2 Ch 76",
+      "date": "2013/04/12",
+      "pages": []
+    },
+    {
+      "id": "magician-257",
+      "number": "257",
+      "title": "Volume 2 Ch 77",
+      "date": "2013/02/22",
+      "pages": []
+    },
+    {
+      "id": "magician-258",
+      "number": "258",
+      "title": "Volume 2 Ch 78",
+      "date": "2013/02/25",
+      "pages": []
+    },
+    {
+      "id": "magician-259",
+      "number": "259",
+      "title": "Volume 2 Ch 79",
+      "date": "2013/03/01",
+      "pages": []
+    },
+    {
+      "id": "magician-260",
+      "number": "260",
+      "title": "Volume 2 Ch 80",
+      "date": "2013/03/04",
+      "pages": []
+    },
+    {
+      "id": "magician-261",
+      "number": "261",
+      "title": "Volume 2 Ch 81",
+      "date": "2013/03/08",
+      "pages": []
+    },
+    {
+      "id": "magician-262",
+      "number": "262",
+      "title": "Volume 2 Ch 82",
+      "date": "2013/03/11",
+      "pages": []
+    },
+    {
+      "id": "magician-263",
+      "number": "263",
+      "title": "Volume 2 Ch 83",
+      "date": "2013/03/25",
+      "pages": []
+    },
+    {
+      "id": "magician-264",
+      "number": "264",
+      "title": "Volume 2 Ch 84",
+      "date": "2013/04/01",
+      "pages": []
+    },
+    {
+      "id": "magician-265",
+      "number": "265",
+      "title": "Volume 2 Ch 85",
+      "date": "2013/04/05",
+      "pages": []
+    },
+    {
+      "id": "magician-266",
+      "number": "266",
+      "title": "Volume 2 Ch 86",
+      "date": "2013/04/12",
+      "pages": []
+    },
+    {
+      "id": "magician-267",
+      "number": "267",
+      "title": "Volume 2 Ch 90",
+      "date": "2013/05/04",
+      "pages": []
+    },
+    {
+      "id": "magician-268",
+      "number": "268",
+      "title": "Volume 2 Ch 88",
+      "date": "2013/04/27",
+      "pages": []
+    },
+    {
+      "id": "magician-269",
+      "number": "269",
+      "title": "Volume 2 Ch 89",
+      "date": "2013/05/03",
+      "pages": []
+    },
+    {
+      "id": "magician-270",
+      "number": "270",
+      "title": "Volume 2 Ch 90",
+      "date": "2013/05/05",
+      "pages": []
+    },
+    {
+      "id": "magician-271",
+      "number": "271",
+      "title": "Volume 2 Ch 91",
+      "date": "2013/05/05",
+      "pages": []
+    },
+    {
+      "id": "magician-272",
+      "number": "272",
+      "title": "Volume 2 Ch 92",
+      "date": "2013/05/06",
+      "pages": []
+    },
+    {
+      "id": "magician-273",
+      "number": "273",
+      "title": "Volume 2 Ch 93",
+      "date": "2013/05/17",
+      "pages": []
+    },
+    {
+      "id": "magician-274",
+      "number": "274",
+      "title": "Volume 2 Ch 94",
+      "date": "2013/05/17",
+      "pages": []
+    },
+    {
+      "id": "magician-275",
+      "number": "275",
+      "title": "Volume 2 Ch 95",
+      "date": "2013/05/24",
+      "pages": []
+    },
+    {
+      "id": "magician-276",
+      "number": "276",
+      "title": "Volume 2 Ch 96",
+      "date": "2013/05/31",
+      "pages": []
+    },
+    {
+      "id": "magician-277",
+      "number": "277",
+      "title": "Volume 2 Ch 97",
+      "date": "2013/06/07",
+      "pages": []
+    },
+    {
+      "id": "magician-278",
+      "number": "278",
+      "title": "Volume 2 Ch 98",
+      "date": "2013/06/07",
+      "pages": []
+    },
+    {
+      "id": "magician-279",
+      "number": "279",
+      "title": "Volume 2 Ch 99",
+      "date": "2013/06/21",
+      "pages": []
+    },
+    {
+      "id": "magician-280",
+      "number": "280",
+      "title": "Volume 2 Ch 100",
+      "date": "2013/06/28",
+      "pages": []
+    },
+    {
+      "id": "magician-281",
+      "number": "281",
+      "title": "Volume 2 Ch 101",
+      "date": "2013/06/29",
+      "pages": []
+    },
+    {
+      "id": "magician-282",
+      "number": "282",
+      "title": "Volume 2 Ch 102",
+      "date": "2013/07/02",
+      "pages": []
+    },
+    {
+      "id": "magician-283",
+      "number": "283",
+      "title": "Volume 2 Ch 103",
+      "date": "2013/07/13",
+      "pages": []
+    },
+    {
+      "id": "magician-284",
+      "number": "284",
+      "title": "Volume 2 Ch 104",
+      "date": "2013/07/19",
+      "pages": []
+    },
+    {
+      "id": "magician-285",
+      "number": "285",
+      "title": "Volume 2 Ch 105",
+      "date": "2013/07/26",
+      "pages": []
+    },
+    {
+      "id": "magician-286",
+      "number": "286",
+      "title": "Volume 2 Ch 106",
+      "date": "2013/08/02",
+      "pages": []
+    },
+    {
+      "id": "magician-287",
+      "number": "287",
+      "title": "Volume 2 Ch 107",
+      "date": "2013/08/16",
+      "pages": []
+    },
+    {
+      "id": "magician-288",
+      "number": "288",
+      "title": "Volume 2 Ch 108",
+      "date": "2013/08/17",
+      "pages": []
+    },
+    {
+      "id": "magician-289",
+      "number": "289",
+      "title": "Volume 2 Ch 109",
+      "date": "2013/08/23",
+      "pages": []
+    },
+    {
+      "id": "magician-290",
+      "number": "290",
+      "title": "Volume 2 Ch 110",
+      "date": "2013/08/30",
+      "pages": []
+    },
+    {
+      "id": "magician-291",
+      "number": "291",
+      "title": "Volume 2 Ch 111",
+      "date": "2013/09/07",
+      "pages": []
+    },
+    {
+      "id": "magician-292",
+      "number": "292",
+      "title": "Volume 2 Ch 112",
+      "date": "2013/09/07",
+      "pages": []
+    },
+    {
+      "id": "magician-293",
+      "number": "293",
+      "title": "Volume 2 Ch 113",
+      "date": "2013/09/07",
+      "pages": []
+    },
+    {
+      "id": "magician-294",
+      "number": "294",
+      "title": "Volume 2 Ch 114",
+      "date": "2013/09/08",
+      "pages": []
+    },
+    {
+      "id": "magician-295",
+      "number": "295",
+      "title": "Volume 2 Ch 115",
+      "date": "2013/09/08",
+      "pages": []
+    },
+    {
+      "id": "magician-296",
+      "number": "296",
+      "title": "Volume 2 Ch 116",
+      "date": "2013/09/08",
+      "pages": []
+    },
+    {
+      "id": "magician-297",
+      "number": "297",
+      "title": "Volume 2 Ch 117",
+      "date": "2013/09/08",
+      "pages": []
+    },
+    {
+      "id": "magician-298",
+      "number": "298",
+      "title": "Volume 2 Ch 118",
+      "date": "2013/09/09",
+      "pages": []
+    },
+    {
+      "id": "magician-299",
+      "number": "299",
+      "title": "Volume 2 Ch 119",
+      "date": "2013/09/09",
+      "pages": []
+    },
+    {
+      "id": "magician-300",
+      "number": "300",
+      "title": "Volume 2 Ch 120",
+      "date": "2013/09/09",
+      "pages": []
+    },
+    {
+      "id": "magician-301",
+      "number": "301",
+      "title": "Volume 2 Ch 121",
+      "date": "2013/09/09",
+      "pages": []
+    },
+    {
+      "id": "magician-302",
+      "number": "302",
+      "title": "Volume 2 Ch 122",
+      "date": "2013/09/09",
+      "pages": []
+    },
+    {
+      "id": "magician-303",
+      "number": "303",
+      "title": "Volume 2 Ch 123",
+      "date": "2013/09/09",
+      "pages": []
+    },
+    {
+      "id": "magician-304",
+      "number": "304",
+      "title": "Volume 2 Ch 124",
+      "date": "2013/09/09",
+      "pages": []
+    },
+    {
+      "id": "magician-305",
+      "number": "305",
+      "title": "Volume 2 Ch 125",
+      "date": "2013/09/09",
+      "pages": []
+    },
+    {
+      "id": "magician-306",
+      "number": "306",
+      "title": "Volume 2 Ch 126",
+      "date": "2013/10/24",
+      "pages": []
+    },
+    {
+      "id": "magician-307",
+      "number": "307",
+      "title": "Volume 2 Ch 127",
+      "date": "2013/10/24",
+      "pages": []
+    },
+    {
+      "id": "magician-308",
+      "number": "308",
+      "title": "Volume 2 Ch 128",
+      "date": "2014/01/01",
+      "pages": []
+    },
+    {
+      "id": "magician-309",
+      "number": "309",
+      "title": "Volume 2 Ch 129",
+      "date": "2014/01/02",
+      "pages": []
+    },
+    {
+      "id": "magician-310",
+      "number": "310",
+      "title": "Volume 2 Ch 130",
+      "date": "2014/01/03",
+      "pages": []
+    },
+    {
+      "id": "magician-311",
+      "number": "311",
+      "title": "Volume 2 Ch 131",
+      "date": "2014/01/11",
+      "pages": []
+    },
+    {
+      "id": "magician-312",
+      "number": "312",
+      "title": "Volume 2 Ch 132",
+      "date": "2014/01/11",
+      "pages": []
+    },
+    {
+      "id": "magician-313",
+      "number": "313",
+      "title": "Volume 2 Ch 133",
+      "date": "2014/01/12",
+      "pages": []
+    },
+    {
+      "id": "magician-314",
+      "number": "314",
+      "title": "Volume 2 Ch 134",
+      "date": "2014/01/30",
+      "pages": []
+    },
+    {
+      "id": "magician-315",
+      "number": "315",
+      "title": "Volume 2 Ch 135",
+      "date": "2014/01/30",
+      "pages": []
+    },
+    {
+      "id": "magician-316",
+      "number": "316",
+      "title": "Volume 2 Ch 136",
+      "date": "2014/02/01",
+      "pages": []
+    },
+    {
+      "id": "magician-317",
+      "number": "317",
+      "title": "Volume 2 Ch 137",
+      "date": "2014/02/22",
+      "pages": []
+    },
+    {
+      "id": "magician-318",
+      "number": "318",
+      "title": "Volume 2 Ch 138",
+      "date": "2014/02/23",
+      "pages": []
+    },
+    {
+      "id": "magician-319",
+      "number": "319",
+      "title": "Volume 2 Ch 139",
+      "date": "2014/02/23",
+      "pages": []
+    },
+    {
+      "id": "magician-320",
+      "number": "320",
+      "title": "Volume 2 Ch 140",
+      "date": "2014/03/30",
+      "pages": []
+    },
+    {
+      "id": "magician-321",
+      "number": "321",
+      "title": "Volume 2 Ch 141",
+      "date": "2014/04/01",
+      "pages": []
+    },
+    {
+      "id": "magician-322",
+      "number": "322",
+      "title": "Volume 2 Ch 142",
+      "date": "2014/04/11",
+      "pages": []
+    },
+    {
+      "id": "magician-323",
+      "number": "323",
+      "title": "Volume 2 Ch 143",
+      "date": "2014/04/11",
+      "pages": []
+    },
+    {
+      "id": "magician-324",
+      "number": "324",
+      "title": "Volume 2 Ch 144",
+      "date": "2014/04/11",
+      "pages": []
+    },
+    {
+      "id": "magician-325",
+      "number": "325",
+      "title": "Volume 2 Ch 145",
+      "date": "2014/04/13",
+      "pages": []
+    },
+    {
+      "id": "magician-326",
+      "number": "326",
+      "title": "Volume 2 Ch 146",
+      "date": "2014/04/13",
+      "pages": []
+    },
+    {
+      "id": "magician-327",
+      "number": "327",
+      "title": "Volume 2 Ch 147",
+      "date": "2014/04/13",
+      "pages": []
+    },
+    {
+      "id": "magician-328",
+      "number": "328",
+      "title": "Volume 2 Ch 148",
+      "date": "2014/04/16",
+      "pages": []
+    },
+    {
+      "id": "magician-329",
+      "number": "329",
+      "title": "Volume 2 Ch 149",
+      "date": "2014/04/18",
+      "pages": []
+    },
+    {
+      "id": "magician-330",
+      "number": "330",
+      "title": "Volume 2 Ch 150",
+      "date": "2014/05/16",
+      "pages": []
+    },
+    {
+      "id": "magician-331",
+      "number": "331",
+      "title": "Volume 2 Ch 151",
+      "date": "2014/05/16",
+      "pages": []
+    },
+    {
+      "id": "magician-332",
+      "number": "332",
+      "title": "Volume 2 Ch 152",
+      "date": "2014/05/16",
+      "pages": []
+    },
+    {
+      "id": "magician-333",
+      "number": "333",
+      "title": "Volume 2 Ch 153",
+      "date": "2014/05/21",
+      "pages": []
+    },
+    {
+      "id": "magician-334",
+      "number": "334",
+      "title": "Volume 2 Ch 154 Confusion (1)",
+      "date": "2014/06/06",
+      "pages": []
+    },
+    {
+      "id": "magician-335",
+      "number": "335",
+      "title": "Volume 2 Ch 155 Confusion (2)",
+      "date": "2014/06/06",
+      "pages": []
+    },
+    {
+      "id": "magician-336",
+      "number": "336",
+      "title": "Volume 2 Ch 156 Confusion (3)",
+      "date": "2014/06/06",
+      "pages": []
+    },
+    {
+      "id": "magician-337",
+      "number": "337",
+      "title": "Volume 2 Ch 157 Confusion (4)",
+      "date": "2014/06/06",
+      "pages": []
+    },
+    {
+      "id": "magician-338",
+      "number": "338",
+      "title": "Volume 2 Ch 158 Confusion (5)",
+      "date": "2014/06/06",
+      "pages": []
+    },
+    {
+      "id": "magician-339",
+      "number": "339",
+      "title": "Volume 2 Ch 159 Confusion (6)",
+      "date": "2014/06/06",
+      "pages": []
+    },
+    {
+      "id": "magician-340",
+      "number": "340",
+      "title": "Volume 2 Ch 160 Beginning (1)",
+      "date": "2014/06/06",
+      "pages": []
+    },
+    {
+      "id": "magician-341",
+      "number": "341",
+      "title": "Volume 2 Ch 161 Beginning (2)",
+      "date": "2014/06/06",
+      "pages": []
+    },
+    {
+      "id": "magician-342",
+      "number": "342",
+      "title": "Volume 2 Ch 162 Beginning (3)",
+      "date": "2014/06/06",
+      "pages": []
+    },
+    {
+      "id": "magician-343",
+      "number": "343",
+      "title": "Volume 2 Ch 163 Beginning (4)",
+      "date": "2014/06/06",
+      "pages": []
+    },
+    {
+      "id": "magician-344",
+      "number": "344",
+      "title": "Volume 2 Ch 163 Beginning (5)",
+      "date": "2014/06/21",
+      "pages": []
+    },
+    {
+      "id": "magician-345",
+      "number": "345",
+      "title": "Volume 2 Ch 165 Iremi and I.....(01)",
+      "date": "2014/06/21",
+      "pages": []
+    },
+    {
+      "id": "magician-346",
+      "number": "346",
+      "title": "Volume 2 Ch 166 Iremi and I.....(02)",
+      "date": "2014/06/21",
+      "pages": []
+    },
+    {
+      "id": "magician-347",
+      "number": "347",
+      "title": "Volume 2 Ch 167 Iremi and I.....(03)",
+      "date": "2014/06/29",
+      "pages": []
+    },
+    {
+      "id": "magician-348",
+      "number": "348",
+      "title": "Volume 2 Ch 168 Iremi and I.....(04)",
+      "date": "2014/07/18",
+      "pages": []
+    },
+    {
+      "id": "magician-349",
+      "number": "349",
+      "title": "Volume 2 Ch 169 Iremi and I.....(05)",
+      "date": "2014/07/18",
+      "pages": []
+    },
+    {
+      "id": "magician-350",
+      "number": "350",
+      "title": "Volume 2 Ch 170 Iremi and I.....(06)",
+      "date": "2014/07/18",
+      "pages": []
+    },
+    {
+      "id": "magician-351",
+      "number": "351",
+      "title": "Volume 2 Ch 171 Truth (001)",
+      "date": "2014/07/25",
+      "pages": []
+    },
+    {
+      "id": "magician-352",
+      "number": "352",
+      "title": "Volume 2 Ch 172 Truth (002)",
+      "date": "2014/08/04",
+      "pages": []
+    },
+    {
+      "id": "magician-353",
+      "number": "353",
+      "title": "Volume 2 Ch 173 Truth (003)",
+      "date": "2014/08/08",
+      "pages": []
+    },
+    {
+      "id": "magician-354",
+      "number": "354",
+      "title": "Volume 2 Ch 174 Truth (004)",
+      "date": "2014/08/21",
+      "pages": []
+    },
+    {
+      "id": "magician-355",
+      "number": "355",
+      "title": "Volume 2 Ch 175 Truth (005)",
+      "date": "2014/08/25",
+      "pages": []
+    },
+    {
+      "id": "magician-356",
+      "number": "356",
+      "title": "Volume 2 Ch 176 Those That Live in the Past (01)",
+      "date": "2014/09/02",
+      "pages": []
+    },
+    {
+      "id": "magician-357",
+      "number": "357",
+      "title": "",
+      "date": "2014/09/05",
+      "pages": []
+    },
+    {
+      "id": "magician-358",
+      "number": "358",
+      "title": "Volume 2 Ch 178 Those That Live in the Past (03)",
+      "date": "2014/09/26",
+      "pages": []
+    },
+    {
+      "id": "magician-359",
+      "number": "359",
+      "title": "Volume 2 Ch 179 Those That Live in the Past (04)",
+      "date": "2014/09/26",
+      "pages": []
+    },
+    {
+      "id": "magician-360",
+      "number": "360",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-361",
+      "number": "361",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-362",
+      "number": "362",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-363",
+      "number": "363",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-364",
+      "number": "364",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-365",
+      "number": "365",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-366",
+      "number": "366",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-367",
+      "number": "367",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-368",
+      "number": "368",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-369",
+      "number": "369",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-370",
+      "number": "370",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-371",
+      "number": "371",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-372",
+      "number": "372",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-373",
+      "number": "373",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-374",
+      "number": "374",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-375",
+      "number": "375",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-376",
+      "number": "376",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-377",
+      "number": "377",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-378",
+      "number": "378",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-379",
+      "number": "379",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-380",
+      "number": "380",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-381",
+      "number": "381",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-382",
+      "number": "382",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-383",
+      "number": "383",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-384",
+      "number": "384",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-385",
+      "number": "385",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-386",
+      "number": "386",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-387",
+      "number": "387",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-388",
+      "number": "388",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-389",
+      "number": "389",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-390",
+      "number": "390",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-391",
+      "number": "391",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-392",
+      "number": "392",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-393",
+      "number": "393",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-394",
+      "number": "394",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-395",
+      "number": "395",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-396",
+      "number": "396",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-397",
+      "number": "397",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-398",
+      "number": "398",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-399",
+      "number": "399",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-400",
+      "number": "400",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-401",
+      "number": "401",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-402",
+      "number": "402",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-403",
+      "number": "403",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-404",
+      "number": "404",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-405",
+      "number": "405",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-406",
+      "number": "406",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-407",
+      "number": "407",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-408",
+      "number": "408",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-409",
+      "number": "409",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-410",
+      "number": "410",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-411",
+      "number": "411",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-412",
+      "number": "412",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-413",
+      "number": "413",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-414",
+      "number": "414",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-415",
+      "number": "415",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-416",
+      "number": "416",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-417",
+      "number": "417",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-418",
+      "number": "418",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-419",
+      "number": "419",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-420",
+      "number": "420",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-421",
+      "number": "421",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-422",
+      "number": "422",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-423",
+      "number": "423",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-424",
+      "number": "424",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-425",
+      "number": "425",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-426",
+      "number": "426",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-427",
+      "number": "427",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-428",
+      "number": "428",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-429",
+      "number": "429",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-430",
+      "number": "430",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-431",
+      "number": "431",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-432",
+      "number": "432",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-433",
+      "number": "433",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-434",
+      "number": "434",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-435",
+      "number": "435",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-436",
+      "number": "436",
+      "title": "",
+      "date": "2018/08/20",
+      "pages": []
+    },
+    {
+      "id": "magician-437",
+      "number": "437",
+      "title": "",
+      "date": "2018/08/26",
+      "pages": []
+    },
+    {
+      "id": "magician-438",
+      "number": "438",
+      "title": "",
+      "date": "2018/09/09",
+      "pages": []
+    },
+    {
+      "id": "magician-439",
+      "number": "439",
+      "title": "",
+      "date": "2018/09/09",
+      "pages": []
+    },
+    {
+      "id": "magician-440",
+      "number": "440",
+      "title": "",
+      "date": "2018/09/16",
+      "pages": []
+    },
+    {
+      "id": "magician-441",
+      "number": "441",
+      "title": "",
+      "date": "2018/09/23",
+      "pages": []
+    },
+    {
+      "id": "magician-442",
+      "number": "442",
+      "title": "",
+      "date": "2018/09/30",
+      "pages": []
+    },
+    {
+      "id": "magician-443",
+      "number": "443",
+      "title": "",
+      "date": "2018/10/07",
+      "pages": []
+    },
+    {
+      "id": "magician-444",
+      "number": "444",
+      "title": "",
+      "date": "2018/10/14",
+      "pages": []
+    },
+    {
+      "id": "magician-445",
+      "number": "445",
+      "title": "",
+      "date": "2018/10/21",
+      "pages": []
+    },
+    {
+      "id": "magician-446",
+      "number": "446",
+      "title": "",
+      "date": "2018/10/28",
+      "pages": []
+    },
+    {
+      "id": "magician-447",
+      "number": "447",
+      "title": "",
+      "date": "2018/11/04",
+      "pages": []
+    },
+    {
+      "id": "magician-448",
+      "number": "448",
+      "title": "",
+      "date": "2018/11/11",
+      "pages": []
+    },
+    {
+      "id": "magician-449",
+      "number": "449",
+      "title": "",
+      "date": "2018/11/18",
+      "pages": []
+    },
+    {
+      "id": "magician-450",
+      "number": "450",
+      "title": "",
+      "date": "2018/11/25",
+      "pages": []
+    },
+    {
+      "id": "magician-451",
+      "number": "451",
+      "title": "",
+      "date": "2018/12/02",
+      "pages": []
+    },
+    {
+      "id": "magician-452",
+      "number": "452",
+      "title": "",
+      "date": "2018/12/09",
+      "pages": []
+    },
+    {
+      "id": "magician-453",
+      "number": "453",
+      "title": "",
+      "date": "2018/12/16",
+      "pages": []
+    },
+    {
+      "id": "magician-454",
+      "number": "454",
+      "title": "",
+      "date": "2018/12/23",
+      "pages": []
+    },
+    {
+      "id": "magician-455",
+      "number": "455",
+      "title": "",
+      "date": "2019/01/06",
+      "pages": []
+    },
+    {
+      "id": "magician-456",
+      "number": "456",
+      "title": "",
+      "date": "2019/01/06",
+      "pages": []
+    },
+    {
+      "id": "magician-457",
+      "number": "457",
+      "title": "",
+      "date": "2019/01/13",
+      "pages": []
+    },
+    {
+      "id": "magician-458",
+      "number": "458",
+      "title": "",
+      "date": "2019/01/20",
+      "pages": []
+    },
+    {
+      "id": "magician-459",
+      "number": "459",
+      "title": "",
+      "date": "2019/01/27",
+      "pages": []
+    },
+    {
+      "id": "magician-460",
+      "number": "460",
+      "title": "",
+      "date": "2019/02/03",
+      "pages": []
+    },
+    {
+      "id": "magician-461",
+      "number": "461",
+      "title": "",
+      "date": "2019/02/10",
+      "pages": []
+    },
+    {
+      "id": "magician-462",
+      "number": "462",
+      "title": "",
+      "date": "2019/02/17",
+      "pages": []
+    },
+    {
+      "id": "magician-463",
+      "number": "463",
+      "title": "To the palace",
+      "date": "2019/02/24",
+      "pages": []
+    },
+    {
+      "id": "magician-464",
+      "number": "464",
+      "title": "",
+      "date": "2019/03/03",
+      "pages": []
+    },
+    {
+      "id": "magician-465",
+      "number": "465",
+      "title": "",
+      "date": "2019/03/10",
+      "pages": []
+    },
+    {
+      "id": "magician-466",
+      "number": "466",
+      "title": "",
+      "date": "2019/03/17",
+      "pages": []
+    },
+    {
+      "id": "magician-467",
+      "number": "467",
+      "title": "",
+      "date": "2019/03/24",
+      "pages": []
+    },
+    {
+      "id": "magician-468",
+      "number": "468",
+      "title": "",
+      "date": "2019/03/31",
+      "pages": []
+    },
+    {
+      "id": "magician-469",
+      "number": "469",
+      "title": "",
+      "date": "2019/04/07",
+      "pages": []
+    },
+    {
+      "id": "magician-470",
+      "number": "470",
+      "title": "",
+      "date": "2019/04/14",
+      "pages": []
+    },
+    {
+      "id": "magician-471",
+      "number": "471",
+      "title": "",
+      "date": "2019/04/21",
+      "pages": []
+    },
+    {
+      "id": "magician-472",
+      "number": "472",
+      "title": "",
+      "date": "2019/04/28",
+      "pages": []
+    },
+    {
+      "id": "magician-473",
+      "number": "473",
+      "title": "",
+      "date": "2019/05/05",
+      "pages": []
+    },
+    {
+      "id": "magician-474",
+      "number": "474",
+      "title": "",
+      "date": "2019/05/12",
+      "pages": []
+    },
+    {
+      "id": "magician-475",
+      "number": "475",
+      "title": "",
+      "date": "2019/05/19",
+      "pages": []
+    },
+    {
+      "id": "magician-476",
+      "number": "476",
+      "title": "",
+      "date": "2019/05/26",
+      "pages": []
+    },
+    {
+      "id": "magician-477",
+      "number": "477",
+      "title": "",
+      "date": "2019/06/02",
+      "pages": []
+    },
+    {
+      "id": "magician-478",
+      "number": "478",
+      "title": "",
+      "date": "2019/06/09",
+      "pages": []
+    },
+    {
+      "id": "magician-479",
+      "number": "479",
+      "title": "",
+      "date": "2019/06/16",
+      "pages": []
+    },
+    {
+      "id": "magician-480",
+      "number": "480",
+      "title": "",
+      "date": "2019/06/23",
+      "pages": []
+    },
+    {
+      "id": "magician-481",
+      "number": "481",
+      "title": "",
+      "date": "2019/06/30",
+      "pages": []
+    },
+    {
+      "id": "magician-482",
+      "number": "482",
+      "title": "",
+      "date": "2019/07/07",
+      "pages": []
+    },
+    {
+      "id": "magician-483",
+      "number": "483",
+      "title": "",
+      "date": "2019/07/14",
+      "pages": []
+    },
+    {
+      "id": "magician-484",
+      "number": "484",
+      "title": "",
+      "date": "2019/07/21",
+      "pages": []
+    },
+    {
+      "id": "magician-485",
+      "number": "485",
+      "title": "",
+      "date": "2019/07/28",
+      "pages": []
+    },
+    {
+      "id": "magician-486",
+      "number": "486",
+      "title": "",
+      "date": "2019/08/04",
+      "pages": []
+    },
+    {
+      "id": "magician-487",
+      "number": "487",
+      "title": "",
+      "date": "2019/08/11",
+      "pages": []
+    },
+    {
+      "id": "magician-488",
+      "number": "488",
+      "title": "",
+      "date": "2019/08/18",
+      "pages": []
+    },
+    {
+      "id": "magician-489",
+      "number": "489",
+      "title": "",
+      "date": "2019/08/25",
+      "pages": []
+    },
+    {
+      "id": "magician-490",
+      "number": "490",
+      "title": "",
+      "date": "2019/09/01",
+      "pages": []
+    },
+    {
+      "id": "magician-491",
+      "number": "491",
+      "title": "",
+      "date": "2019/09/08",
+      "pages": []
+    },
+    {
+      "id": "magician-492",
+      "number": "492",
+      "title": "",
+      "date": "2019/09/15",
+      "pages": []
+    },
+    {
+      "id": "magician-493",
+      "number": "493",
+      "title": "",
+      "date": "2019/09/22",
+      "pages": []
+    },
+    {
+      "id": "magician-494",
+      "number": "494",
+      "title": "",
+      "date": "2019/09/29",
+      "pages": []
+    },
+    {
+      "id": "magician-495",
+      "number": "495",
+      "title": "",
+      "date": "2019/10/06",
+      "pages": []
+    },
+    {
+      "id": "magician-496",
+      "number": "496",
+      "title": "",
+      "date": "2019/10/13",
+      "pages": []
+    },
+    {
+      "id": "magician-497",
+      "number": "497",
+      "title": "",
+      "date": "2019/10/20",
+      "pages": []
+    },
+    {
+      "id": "magician-498",
+      "number": "498",
+      "title": "",
+      "date": "2019/10/27",
+      "pages": []
+    },
+    {
+      "id": "magician-499",
+      "number": "499",
+      "title": "",
+      "date": "2019/11/03",
+      "pages": []
+    },
+    {
+      "id": "magician-500",
+      "number": "500",
+      "title": "",
+      "date": "2019/11/10",
+      "pages": []
+    },
+    {
+      "id": "magician-501",
+      "number": "501",
+      "title": "",
+      "date": "2019/11/17",
+      "pages": []
+    },
+    {
+      "id": "magician-502",
+      "number": "502",
+      "title": "",
+      "date": "2019/11/24",
+      "pages": []
+    },
+    {
+      "id": "magician-503",
+      "number": "503",
+      "title": "",
+      "date": "2019/12/01",
+      "pages": []
+    },
+    {
+      "id": "magician-504",
+      "number": "504",
+      "title": "",
+      "date": "2019/12/08",
+      "pages": []
+    },
+    {
+      "id": "magician-505",
+      "number": "505",
+      "title": "",
+      "date": "2019/12/15",
+      "pages": []
+    },
+    {
+      "id": "magician-506",
+      "number": "506",
+      "title": "",
+      "date": "2019/12/22",
+      "pages": []
+    },
+    {
+      "id": "magician-507",
+      "number": "507",
+      "title": "",
+      "date": "2019/12/29",
+      "pages": []
+    },
+    {
+      "id": "magician-508",
+      "number": "508",
+      "title": "",
+      "date": "2020/01/05",
+      "pages": []
+    },
+    {
+      "id": "magician-509",
+      "number": "509",
+      "title": "",
+      "date": "2020/01/12",
+      "pages": []
+    },
+    {
+      "id": "magician-510",
+      "number": "510",
+      "title": "",
+      "date": "2020/01/19",
+      "pages": []
+    },
+    {
+      "id": "magician-511",
+      "number": "511",
+      "title": "",
+      "date": "2020/01/26",
+      "pages": []
+    },
+    {
+      "id": "magician-512",
+      "number": "512",
+      "title": "",
+      "date": "2020/02/02",
+      "pages": []
+    },
+    {
+      "id": "magician-513",
+      "number": "513",
+      "title": "",
+      "date": "2020/02/09",
+      "pages": []
+    },
+    {
+      "id": "magician-514",
+      "number": "514",
+      "title": "",
+      "date": "2020/02/16",
+      "pages": []
+    },
+    {
+      "id": "magician-515",
+      "number": "515",
+      "title": "",
+      "date": "2020/02/23",
+      "pages": []
+    },
+    {
+      "id": "magician-516",
+      "number": "516",
+      "title": "",
+      "date": "2020/03/01",
+      "pages": []
+    },
+    {
+      "id": "magician-517",
+      "number": "517",
+      "title": "",
+      "date": "2020/03/08",
+      "pages": []
+    },
+    {
+      "id": "magician-518",
+      "number": "518",
+      "title": "",
+      "date": "2020/03/15",
+      "pages": []
+    },
+    {
+      "id": "magician-519",
+      "number": "519",
+      "title": "",
+      "date": "2020/03/22",
+      "pages": []
+    },
+    {
+      "id": "magician-520",
+      "number": "520",
+      "title": "",
+      "date": "2020/03/29",
+      "pages": []
+    },
+    {
+      "id": "magician-521",
+      "number": "521",
+      "title": "",
+      "date": "2020/04/05",
+      "pages": []
+    },
+    {
+      "id": "magician-522",
+      "number": "522",
+      "title": "",
+      "date": "2020/04/12",
+      "pages": []
+    },
+    {
+      "id": "magician-523",
+      "number": "523",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "magician-524",
+      "number": "524",
+      "title": "",
+      "date": "2020/04/26",
+      "pages": []
+    },
+    {
+      "id": "magician-525",
+      "number": "525",
+      "title": "",
+      "date": "2020/05/03",
+      "pages": []
+    }
+  ]
+}

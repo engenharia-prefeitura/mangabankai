@@ -1,0 +1,44 @@
+node_modules/
+
+# Claude Code (sessões e configurações locais)
+.claude/
+
+# Arquivos de backup e temporários
+*.bak
+admin-progress.json
+
+# Variáveis de ambiente
+.env
+.env.local
+.env.*.local
+
+# Vercel CLI (não necessário com integração GitHub)
+.vercel/
+
+# Arquivos gerados pelo build — commitados pelo GitHub Actions para manter o site atualizado
+# js/data-lite.js  ← Removido do ignore: gerado e commitado pelo workflow
+# js/home.json     ← Removido do ignore
+# js/manga-search.json ← Removido do ignore
+# sitemap.xml      ← Removido do ignore
+
+# Páginas SSG geradas no build da Vercel (/manga/<id>/index.html) — não vão pro
+# git; são recriadas a cada deploy a partir de data.js + js/chapters/.
+/manga/
+
+# Sitemaps filhos gerados no build (sitemap-1.xml, …). O índice sitemap.xml é
+# commitado; os filhos são recriados a cada deploy a partir do build-sitemap.cjs.
+/sitemap-*.xml
+
+# Logo original em alta (o site usa img/logo.png otimizada)
+/logo.png
+
+# Pasta de monetização — usar apenas quando solicitado
+arquivo_monetizar_usar_apenas_quando_solcitado/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*

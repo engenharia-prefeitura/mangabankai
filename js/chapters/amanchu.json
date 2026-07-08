@@ -1,0 +1,515 @@
+{
+  "en": [
+    {
+      "id": "amanchu-1",
+      "number": "1",
+      "title": "1",
+      "date": "2009/10/25",
+      "pages": []
+    },
+    {
+      "id": "amanchu-2",
+      "number": "2",
+      "title": "2",
+      "date": "2009/10/25",
+      "pages": []
+    },
+    {
+      "id": "amanchu-3",
+      "number": "3",
+      "title": "3",
+      "date": "2009/10/25",
+      "pages": []
+    },
+    {
+      "id": "amanchu-4",
+      "number": "4",
+      "title": "4",
+      "date": "2009/10/25",
+      "pages": []
+    },
+    {
+      "id": "amanchu-5",
+      "number": "5",
+      "title": "5",
+      "date": "2009/10/25",
+      "pages": []
+    },
+    {
+      "id": "amanchu-6",
+      "number": "6",
+      "title": "6",
+      "date": "2009/10/25",
+      "pages": []
+    },
+    {
+      "id": "amanchu-7",
+      "number": "7",
+      "title": "7",
+      "date": "2009/10/25",
+      "pages": []
+    },
+    {
+      "id": "amanchu-8",
+      "number": "8",
+      "title": "8",
+      "date": "2009/10/25",
+      "pages": []
+    },
+    {
+      "id": "amanchu-9",
+      "number": "9",
+      "title": "9",
+      "date": "2009/10/25",
+      "pages": []
+    },
+    {
+      "id": "amanchu-10",
+      "number": "10",
+      "title": "10",
+      "date": "2009/10/25",
+      "pages": []
+    },
+    {
+      "id": "amanchu-11",
+      "number": "11",
+      "title": "11",
+      "date": "2009/10/25",
+      "pages": []
+    },
+    {
+      "id": "amanchu-12",
+      "number": "12",
+      "title": "12",
+      "date": "2009/12/01",
+      "pages": []
+    },
+    {
+      "id": "amanchu-13",
+      "number": "13",
+      "title": "13",
+      "date": "2010/01/26",
+      "pages": []
+    },
+    {
+      "id": "amanchu-14",
+      "number": "14",
+      "title": "14",
+      "date": "2010/02/22",
+      "pages": []
+    },
+    {
+      "id": "amanchu-15",
+      "number": "15",
+      "title": "15",
+      "date": "2010/03/05",
+      "pages": []
+    },
+    {
+      "id": "amanchu-16",
+      "number": "16",
+      "title": "16",
+      "date": "2010/04/07",
+      "pages": []
+    },
+    {
+      "id": "amanchu-17",
+      "number": "17",
+      "title": "17",
+      "date": "2010/05/17",
+      "pages": []
+    },
+    {
+      "id": "amanchu-18",
+      "number": "18",
+      "title": "18",
+      "date": "2010/06/17",
+      "pages": []
+    },
+    {
+      "id": "amanchu-19",
+      "number": "19",
+      "title": "",
+      "date": "2011/04/16",
+      "pages": []
+    },
+    {
+      "id": "amanchu-20",
+      "number": "20",
+      "title": "",
+      "date": "2011/04/16",
+      "pages": []
+    },
+    {
+      "id": "amanchu-21",
+      "number": "21",
+      "title": "",
+      "date": "2011/04/16",
+      "pages": []
+    },
+    {
+      "id": "amanchu-22",
+      "number": "22",
+      "title": "",
+      "date": "2011/12/23",
+      "pages": []
+    },
+    {
+      "id": "amanchu-23",
+      "number": "23",
+      "title": "",
+      "date": "2011/12/23",
+      "pages": []
+    },
+    {
+      "id": "amanchu-24",
+      "number": "24",
+      "title": "",
+      "date": "2012/06/03",
+      "pages": []
+    },
+    {
+      "id": "amanchu-25",
+      "number": "25",
+      "title": "",
+      "date": "2012/11/15",
+      "pages": []
+    },
+    {
+      "id": "amanchu-26",
+      "number": "26",
+      "title": "",
+      "date": "2012/11/15",
+      "pages": []
+    },
+    {
+      "id": "amanchu-27",
+      "number": "27",
+      "title": "",
+      "date": "2012/11/15",
+      "pages": []
+    },
+    {
+      "id": "amanchu-28",
+      "number": "28",
+      "title": "",
+      "date": "2012/11/15",
+      "pages": []
+    },
+    {
+      "id": "amanchu-29",
+      "number": "29",
+      "title": "",
+      "date": "2012/11/15",
+      "pages": []
+    },
+    {
+      "id": "amanchu-30",
+      "number": "30",
+      "title": "",
+      "date": "2012/12/07",
+      "pages": []
+    },
+    {
+      "id": "amanchu-31",
+      "number": "31",
+      "title": "",
+      "date": "2013/09/13",
+      "pages": []
+    },
+    {
+      "id": "amanchu-32",
+      "number": "32",
+      "title": "",
+      "date": "2013/09/30",
+      "pages": []
+    },
+    {
+      "id": "amanchu-33",
+      "number": "33",
+      "title": "",
+      "date": "2014/02/02",
+      "pages": []
+    },
+    {
+      "id": "amanchu-34",
+      "number": "34",
+      "title": "",
+      "date": "2014/07/07",
+      "pages": []
+    },
+    {
+      "id": "amanchu-35",
+      "number": "35",
+      "title": "",
+      "date": "2014/10/14",
+      "pages": []
+    },
+    {
+      "id": "amanchu-36",
+      "number": "36",
+      "title": "",
+      "date": "2014/12/26",
+      "pages": []
+    },
+    {
+      "id": "amanchu-37",
+      "number": "37",
+      "title": "",
+      "date": "2015/07/04",
+      "pages": []
+    },
+    {
+      "id": "amanchu-38",
+      "number": "38",
+      "title": "",
+      "date": "2015/08/06",
+      "pages": []
+    },
+    {
+      "id": "amanchu-39",
+      "number": "39",
+      "title": "",
+      "date": "2015/10/01",
+      "pages": []
+    },
+    {
+      "id": "amanchu-40",
+      "number": "40",
+      "title": "",
+      "date": "2015/10/23",
+      "pages": []
+    },
+    {
+      "id": "amanchu-41",
+      "number": "41",
+      "title": "",
+      "date": "2015/11/01",
+      "pages": []
+    },
+    {
+      "id": "amanchu-42",
+      "number": "42",
+      "title": "",
+      "date": "2015/11/05",
+      "pages": []
+    },
+    {
+      "id": "amanchu-43",
+      "number": "43",
+      "title": "",
+      "date": "2016/02/10",
+      "pages": []
+    },
+    {
+      "id": "amanchu-44",
+      "number": "44",
+      "title": "",
+      "date": "2016/03/21",
+      "pages": []
+    },
+    {
+      "id": "amanchu-45",
+      "number": "45",
+      "title": "",
+      "date": "2016/03/21",
+      "pages": []
+    },
+    {
+      "id": "amanchu-46",
+      "number": "46",
+      "title": "",
+      "date": "2016/04/24",
+      "pages": []
+    },
+    {
+      "id": "amanchu-47",
+      "number": "47",
+      "title": "",
+      "date": "2016/04/24",
+      "pages": []
+    },
+    {
+      "id": "amanchu-48",
+      "number": "48",
+      "title": "",
+      "date": "2016/04/24",
+      "pages": []
+    },
+    {
+      "id": "amanchu-49",
+      "number": "49",
+      "title": "",
+      "date": "2016/05/31",
+      "pages": []
+    },
+    {
+      "id": "amanchu-50",
+      "number": "50",
+      "title": "",
+      "date": "2016/07/05",
+      "pages": []
+    },
+    {
+      "id": "amanchu-51",
+      "number": "51",
+      "title": "",
+      "date": "2016/09/14",
+      "pages": []
+    },
+    {
+      "id": "amanchu-52",
+      "number": "52",
+      "title": "",
+      "date": "2016/12/26",
+      "pages": []
+    },
+    {
+      "id": "amanchu-53",
+      "number": "53",
+      "title": "",
+      "date": "2017/05/12",
+      "pages": []
+    },
+    {
+      "id": "amanchu-54",
+      "number": "54",
+      "title": "",
+      "date": "2017/05/12",
+      "pages": []
+    },
+    {
+      "id": "amanchu-55",
+      "number": "55",
+      "title": "",
+      "date": "2017/05/22",
+      "pages": []
+    },
+    {
+      "id": "amanchu-56",
+      "number": "56",
+      "title": "",
+      "date": "2017/06/26",
+      "pages": []
+    },
+    {
+      "id": "amanchu-57",
+      "number": "57",
+      "title": "",
+      "date": "2017/12/04",
+      "pages": []
+    },
+    {
+      "id": "amanchu-58",
+      "number": "58",
+      "title": "",
+      "date": "2018/04/03",
+      "pages": []
+    },
+    {
+      "id": "amanchu-59",
+      "number": "59",
+      "title": "",
+      "date": "2018/05/08",
+      "pages": []
+    },
+    {
+      "id": "amanchu-60",
+      "number": "60",
+      "title": "",
+      "date": "2018/05/08",
+      "pages": []
+    },
+    {
+      "id": "amanchu-61",
+      "number": "61",
+      "title": "",
+      "date": "2018/05/08",
+      "pages": []
+    },
+    {
+      "id": "amanchu-62",
+      "number": "62",
+      "title": "",
+      "date": "2018/05/08",
+      "pages": []
+    },
+    {
+      "id": "amanchu-63",
+      "number": "63",
+      "title": "",
+      "date": "2018/05/08",
+      "pages": []
+    },
+    {
+      "id": "amanchu-64",
+      "number": "64",
+      "title": "",
+      "date": "2018/08/19",
+      "pages": []
+    },
+    {
+      "id": "amanchu-65",
+      "number": "65",
+      "title": "",
+      "date": "2018/08/29",
+      "pages": []
+    },
+    {
+      "id": "amanchu-66",
+      "number": "66",
+      "title": "",
+      "date": "2018/12/27",
+      "pages": []
+    },
+    {
+      "id": "amanchu-67",
+      "number": "67",
+      "title": "",
+      "date": "2020/06/16",
+      "pages": []
+    },
+    {
+      "id": "amanchu-68",
+      "number": "68",
+      "title": "Dragon King Shrine",
+      "date": "2021/01/21",
+      "pages": []
+    },
+    {
+      "id": "amanchu-69",
+      "number": "69",
+      "title": "Okomori",
+      "date": "2021/10/15",
+      "pages": []
+    },
+    {
+      "id": "amanchu-70",
+      "number": "70",
+      "title": "Grand Autumn Festival",
+      "date": "2022/10/06",
+      "pages": []
+    },
+    {
+      "id": "amanchu-71",
+      "number": "71",
+      "title": "",
+      "date": "2025/05/01",
+      "pages": []
+    },
+    {
+      "id": "amanchu-72",
+      "number": "72",
+      "title": "",
+      "date": "2025/05/13",
+      "pages": []
+    },
+    {
+      "id": "amanchu-73",
+      "number": "73",
+      "title": "",
+      "date": "2025/05/13",
+      "pages": []
+    }
+  ]
+}

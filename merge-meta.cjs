@@ -1,0 +1,384 @@
+const fs = require('fs');
+const metaData = require('./js/mf-meta-data.json');
+
+// Read data.js content
+let dataJs = fs.readFileSync('./js/data.js', 'utf8');
+
+// Extract the MANGA_DATA array
+let updated = 0;
+let genreSet = new Set();
+
+const marker = dataJs.indexOf('MANGA_DATA = [');
+if (marker < 0) throw new Error('MANGA_DATA não encontrado em data.js');
+const arrayStart = dataJs.indexOf('[', marker);
+// Find matching ] - parser string-aware: ignora [ e ] dentro de strings JSON
+let depth = 0, inStr = false, esc = false;
+let arrayEnd = arrayStart;
+for (let i = arrayStart; i < dataJs.length; i++) {
+  const c = dataJs[i];
+  if (esc) { esc = false; continue; }
+  if (c === '\\') { esc = true; continue; }
+  if (c === '"') { inStr = !inStr; continue; }
+  if (!inStr) {
+    if (c === '[') depth++;
+    else if (c === ']') { depth--; if (depth === 0) { arrayEnd = i + 1; break; } }
+  }
+}
+
+const jsonStr = dataJs.substring(arrayStart, arrayEnd);
+const mangaList = JSON.parse(jsonStr);
+console.log('Parsed', mangaList.length, 'manga entries');
+
+function decodeEntities(s) {
+  return String(s)
+    .replace(/&#0?39;|&#x27;|&apos;/gi, "'")
+    .replace(/&amp;/gi, '&')
+    .replace(/&quot;/gi, '"')
+    .replace(/&lt;/gi, '<')
+    .replace(/&gt;/gi, '>')
+    .replace(/&#(\d+);/g, (_, d) => String.fromCharCode(parseInt(d, 10)));
+}
+function normalizeGenre(g) {
+  return decodeEntities(String(g).replace(/_/g, ' ')).replace(/\s+/g, ' ').trim();
+}
+
+mangaList.forEach((m, i) => {
+  // Check chapter file to set language availability flags
+  const chPath = `./js/chapters/${m.id}.json`;
+  let hasPt = false;
+  let hasEn = m.lang === 'en'; // default for English manga
+  
+  if (fs.existsSync(chPath)) {
+    try {
+      const chData = JSON.parse(fs.readFileSync(chPath, 'utf8'));
+      if (chData.pt && chData.pt.length > 0) hasPt = true;
+      if (chData.en && chData.en.length > 0) hasEn = true;
+    } catch (e) {}
+  }
+  m.hasPt = hasPt;
+  m.hasEn = hasEn;
+
+  const meta = metaData[m.slug];
+  if (!meta) return;
+  
+  if (meta.description) m.description = meta.description;
+  if (meta.genres && meta.genres.length > 0) {
+    m.genres = meta.genres.map(normalizeGenre);
+    meta.genres.forEach(g => genreSet.add(normalizeGenre(g)));
+  }
+  if (meta.author) m.author = meta.author;
+  if (meta.artist) m.artist = meta.artist;
+  if (meta.year) m.year = parseInt(meta.year, 10);
+  if (meta.altTitle && meta.altTitle !== m.title) m.altTitle = meta.altTitle;
+  updated++;
+});
+
+console.log('Manga updated:', updated);
+
+// Normaliza os gêneros de TODAS as obras (não só as que têm meta do MangaFreak,
+// mas também os +18 de madara/hentai20/mundohentai) e monta o ALL_GENRES a partir
+// do catálogo inteiro, descartando lixo (mojibake / vazio). Sem isto, os gêneros
+// +18 e em português nunca entram no filtro de gêneros.
+genreSet = new Set();
+const MOJIBAKE = /�/;
+mangaList.forEach(m => {
+  if (!Array.isArray(m.genres)) return;
+  const clean = [];
+  for (const g of m.genres) {
+    const ng = normalizeGenre(g);
+    if (!ng || MOJIBAKE.test(ng)) continue;
+    clean.push(ng);
+    genreSet.add(ng);
+  }
+  m.genres = [...new Set(clean)];
+});
+
+// Build new ALL_GENRES
+const allGenres = [...genreSet].sort((a, b) => a.localeCompare(b, 'pt-BR'));
+console.log('Genres:', allGenres.length, allGenres.slice(0, 10), '...');
+
+// Rebuild data.js
+const newArrayJson = JSON.stringify(mangaList, null, 2);
+
+// Functions to append
+const functions = `
+const ORIGINAL_MANGA_DATA = [...MANGA_DATA];
+function applyGlobalMangaDataFilter() {
+  if (typeof localStorage === 'undefined') return;
+  try {
+    let globalLang = 'all';
+    
+    // Check URL parameters first for lang override
+    if (typeof window !== 'undefined' && window.location.search) {
+      const params = new URLSearchParams(window.location.search);
+      const urlLang = params.get('lang');
+      if (urlLang === 'pt' || urlLang === 'en' || urlLang === 'all') {
+        localStorage.setItem('ms_global_lang', JSON.stringify(urlLang));
+        globalLang = urlLang;
+      }
+    }
+    
+    if (globalLang === 'all') {
+      const val = localStorage.getItem('ms_global_lang');
+      globalLang = val ? JSON.parse(val) : 'all';
+    }
+    
+    const valAdult = localStorage.getItem('ms_adult_mode');
+    const adultMode = valAdult ? JSON.parse(valAdult) : false;
+
+    let list = [...ORIGINAL_MANGA_DATA];
+
+    // Obras desindexadas (hidden_manga) ficam fora de todas as listagens.
+    list = list.filter(m => !m.hidden);
+
+    if (globalLang === 'pt') {
+      list = list.filter(m => m.hasPt);
+    } else if (globalLang === 'en') {
+      list = list.filter(m => m.hasEn || m.lang === 'en');
+    }
+
+    /*
+    if (!adultMode) {
+      const adultGenres = ['Adulto', 'Hentai', 'Ecchi', 'Mature', 'Smut'];
+      list = list.filter(m => {
+        const genres = m.genres || [];
+        return !genres.some(g => adultGenres.includes(g));
+      });
+    }
+    */
+
+    MANGA_DATA = list;
+  } catch(e) {}
+}
+applyGlobalMangaDataFilter();
+
+const CDN_MAP = {
+  "$MFK": "https://images.mangafreak.me",
+  "$TEMP": "https://temp.compsci88.com",
+  "$HOT": "https://scans-hot.planeptune.us",
+  "$LST": "https://scans.lastation.us",
+  "$LOW": "https://official.lowee.us"
+};
+
+function resolveCdnUrl(url) {
+  for (const [ph, domain] of Object.entries(CDN_MAP)) {
+    if (url.startsWith(ph)) return url.replace(ph, domain);
+  }
+  return url;
+}
+
+function getManga(slugOrId) {
+  return ORIGINAL_MANGA_DATA.find(m => m.slug === slugOrId || m.id === slugOrId);
+}
+
+function searchManga(query) {
+  const q = query.toLowerCase().trim();
+  if (!q) return [];
+  return MANGA_DATA.filter(m =>
+    m.title.toLowerCase().includes(q) ||
+    m.slug.includes(q)
+  ).slice(0, 10);
+}
+
+function filterManga(opts) {
+  opts = opts || {};
+  const query = opts.query || '';
+  const genres = opts.genres || [];
+  const sort = opts.sort || 'updated';
+  const status = opts.status || '';
+  let results = [...MANGA_DATA];
+  if (query) {
+    const q = query.toLowerCase().trim();
+    results = results.filter(m =>
+      m.title.toLowerCase().includes(q) ||
+      (m.altTitle || '').toLowerCase().includes(q) ||
+      m.slug.includes(q)
+    );
+  }
+  if (genres.length > 0) results = results.filter(m => genres.every(g => (m.genres || []).includes(g)));
+  if (status) results = results.filter(m => m.status === status);
+  // Modo livre: esconde títulos +18 no catálogo (mesma regra das fileiras da home).
+  const _adultOn = typeof localStorage !== 'undefined' && localStorage.getItem('ms_adult_mode') === 'true';
+  if (!_adultOn) results = results.filter(m => !(m.genres || []).some(isAdultGenre));
+  // Datas reais de atualização (js/home.json), quando a página as carregou.
+  const _updMap = (typeof window !== 'undefined' && window.HOME_DATA && window.HOME_DATA.updated) || null;
+  const _updAt = m => { const i = _updMap && _updMap[m.id]; return (i && i.date) || 0; };
+  switch (sort) {
+    case 'title':
+      results.sort((a, b) => a.title.localeCompare(b.title, 'pt-BR'));
+      break;
+    case 'chapters':
+      results.sort((a, b) => (b.chaptersCount || 0) - (a.chaptersCount || 0));
+      break;
+    case 'year':
+      results.sort((a, b) => (b.year || 0) - (a.year || 0));
+      break;
+    case 'updated':
+    case 'recent':
+    default:
+      if (_updMap) results.sort((a, b) => _updAt(b) - _updAt(a) || (b.chaptersCount || 0) - (a.chaptersCount || 0));
+      else results.sort((a, b) => (b.chaptersCount || 0) - (a.chaptersCount || 0));
+      break;
+  }
+  return results;
+}
+
+const ALL_GENRES = ${JSON.stringify(allGenres)};
+
+var ADULT_GENRE_KW = ['hentai','adulto','adult','+18','18+','nsfw','ecchi','smut','mature','maduro','erotic','erótic','erotica','bdsm','futanari','loli','shota','inces','tentacul','tentácul','zoofilia','obsceno','sem censura','uncensor','censura','nudez','nudity','sexual','sexo','mindbreak','ahegao','netorare','fetich','fetish','omegaverse','vanilla','borderline h'];
+function isAdultGenre(g) {
+  var s = String(g).toLowerCase();
+  return ADULT_GENRE_KW.some(function (k) { return s.indexOf(k) !== -1; });
+}
+function getAvailableGenres() {
+  var adultMode = typeof localStorage !== 'undefined' && localStorage.getItem('ms_adult_mode') === 'true';
+  if (adultMode) {
+    // Modo +18: gêneros adultos primeiro (em ordem), depois os demais.
+    var activeAdult = ALL_GENRES.filter(isAdultGenre).sort(function (a, b) { return a.localeCompare(b, 'pt-BR'); });
+    var nonAdult = ALL_GENRES.filter(function (g) { return !isAdultGenre(g); });
+    return activeAdult.concat(nonAdult);
+  }
+  // Modo livre: esconde os gêneros +18.
+  return ALL_GENRES.filter(function (g) { return !isAdultGenre(g); });
+}
+
+let chaptersData = null;
+let mfChaptersData = null;
+let mfChaptersLoading = false;
+
+function getChapterImageUrl(slug, chNumber, pageNum) {
+  var slugLower = slug.toLowerCase().replace(/ /g, '_');
+  var ch = String(chNumber);
+  var chFolder = slugLower + '_' + ch;
+  return 'https://images.mangafreak.me/mangas/' + slugLower + '/' + chFolder + '/' + chFolder + '_' + pageNum + '.jpg';
+}
+
+async function loadMfChapters() {
+  if (mfChaptersData) return mfChaptersData;
+  if (mfChaptersLoading) {
+    while (mfChaptersLoading) await new Promise(r => setTimeout(r, 100));
+    return mfChaptersData;
+  }
+  mfChaptersLoading = true;
+  try {
+    var res = await fetch('/js/mf-chapters-data.json');
+    var raw = await res.json();
+    var out = {};
+    Object.keys(raw).forEach(function(k) {
+      out[k] = raw[k].map(function(ch) {
+        return { id: ch.number, number: ch.number, title: ch.title, date: ch.date };
+      });
+    });
+    mfChaptersData = out;
+    return out;
+  } catch(e) {
+    return {};
+  } finally {
+    mfChaptersLoading = false;
+  }
+}
+
+async function loadChapters(mangaId) {
+  if (!mangaId) return {};
+  var manga = getManga(mangaId);
+  if (!manga) return {};
+
+  if (!chaptersData) chaptersData = {};
+  if (chaptersData[manga.id]) return chaptersData[manga.id];
+
+  try {
+    var res = await fetch('/js/chapters/' + manga.id + '.json');
+    var raw = await res.json();
+    var mapped = {};
+    Object.keys(raw).forEach(function(lang) {
+      mapped[lang] = raw[lang].map(function(ch) {
+        var entry = {
+          id: ch.id,
+          number: ch.number,
+          title: ch.title,
+          date: ch.date,
+          pages: ch.pages ? ch.pages.map(function(p) { return resolveCdnUrl(p); }) : []
+        };
+        if (ch.src)        entry.src        = ch.src;
+        if (ch.mdxId)      entry.mdxId      = ch.mdxId;
+        if (ch.mlId)       entry.mlId       = ch.mlId;
+        if (ch.chapterUrl) entry.chapterUrl = ch.chapterUrl;
+        return entry;
+      });
+    });
+    chaptersData[manga.id] = mapped;
+    return mapped;
+  } catch(e) {
+    chaptersData[manga.id] = {};
+    return {};
+  }
+}
+
+function getChapters(slug, lang) {
+  lang = lang || 'en';
+  var manga = getManga(slug);
+  if (!manga) return [];
+  if (!chaptersData || !chaptersData[manga.id]) return [];
+  var entry = chaptersData[manga.id];
+  return (entry[lang] && entry[lang].length > 0) ? entry[lang] : [];
+}
+
+async function discoverPages(chapter, slug) {
+  if (!chapter.pages || chapter.pages.length > 0) return chapter.pages;
+  var cacheKey = 'pgcnt_' + slug + '_' + chapter.number;
+  var cached = localStorage.getItem(cacheKey);
+  if (cached) {
+    var count = parseInt(cached, 10);
+    if (count > 0) {
+      var slugLower = slug.toLowerCase().replace(/ /g, '_');
+      var ch = String(chapter.number);
+      var chFolder = slugLower + '_' + ch;
+      var pages = [];
+      for (var i = 1; i <= count; i++) {
+        pages.push('https://images.mangafreak.me/mangas/' + slugLower + '/' + chFolder + '/' + chFolder + '_' + i + '.jpg');
+      }
+      chapter.pages = pages;
+      return pages;
+    }
+  }
+  var pages = [];
+  var batchSize = 3;
+  var p = 1;
+  var done = false;
+  while (!done && p < 200) {
+    var batch = [];
+    for (var b = 0; b < batchSize; b++) batch.push(p + b);
+    var results = await Promise.all(batch.map(function(n) {
+      return testImageUrl(getChapterImageUrl(slug, chapter.number, n));
+    }));
+    for (var j = 0; j < results.length; j++) {
+      if (results[j]) {
+        pages.push(getChapterImageUrl(slug, chapter.number, batch[j]));
+      } else {
+        done = true;
+        break;
+      }
+    }
+    p += batchSize;
+  }
+  chapter.pages = pages;
+  if (pages.length > 0) localStorage.setItem(cacheKey, String(pages.length));
+  return pages;
+}
+
+function testImageUrl(url) {
+  return new Promise(function(resolve) {
+    var img = new Image();
+    var timeout = setTimeout(function() { img.src = ''; resolve(false); }, 4000);
+    img.onload = function() { clearTimeout(timeout); resolve(true); };
+    img.onerror = function() { clearTimeout(timeout); resolve(false); };
+    img.referrerPolicy = 'no-referrer';
+    img.src = url;
+  });
+}
+`;
+
+fs.writeFileSync('./js/data.js', 'let MANGA_DATA = ' + newArrayJson + ';\n' + functions);
+const sizeMb = (Buffer.byteLength(newArrayJson, 'utf8') / 1024 / 1024).toFixed(2);
+console.log('data.js written: ' + sizeMb + ' MB');
+console.log('Total manga: ' + mangaList.length);

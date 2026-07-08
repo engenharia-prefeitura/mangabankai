@@ -1,0 +1,536 @@
+{
+  "en": [
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-1",
+      "number": "1",
+      "title": "",
+      "date": "2019/02/19",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-2",
+      "number": "2",
+      "title": "",
+      "date": "2020/03/26",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-3",
+      "number": "3",
+      "title": "",
+      "date": "2020/03/26",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-4",
+      "number": "4",
+      "title": "",
+      "date": "2020/03/26",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-5",
+      "number": "5",
+      "title": "",
+      "date": "2020/03/26",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-6",
+      "number": "6",
+      "title": "",
+      "date": "2020/08/16",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-7",
+      "number": "7",
+      "title": "",
+      "date": "2020/08/16",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-8",
+      "number": "8",
+      "title": "",
+      "date": "2022/01/25",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-9",
+      "number": "9",
+      "title": "",
+      "date": "2022/01/25",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-10",
+      "number": "10",
+      "title": "",
+      "date": "2022/01/25",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-11",
+      "number": "11",
+      "title": "",
+      "date": "2022/07/21",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-12",
+      "number": "12",
+      "title": "",
+      "date": "2022/07/21",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-13",
+      "number": "13",
+      "title": "",
+      "date": "2022/07/21",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-14",
+      "number": "14",
+      "title": "",
+      "date": "2022/07/21",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-15",
+      "number": "15",
+      "title": "",
+      "date": "2022/07/21",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-16",
+      "number": "16",
+      "title": "",
+      "date": "2023/03/21",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-17",
+      "number": "17",
+      "title": "",
+      "date": "2023/03/21",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-18",
+      "number": "18",
+      "title": "",
+      "date": "2023/03/21",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-19",
+      "number": "19",
+      "title": "",
+      "date": "2023/03/21",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-19e",
+      "number": "19e",
+      "title": "",
+      "date": "2023/03/21",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-21",
+      "number": "21",
+      "title": "",
+      "date": "2024/02/01",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-22",
+      "number": "22",
+      "title": "",
+      "date": "2024/02/07",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-23",
+      "number": "23",
+      "title": "",
+      "date": "2024/02/07",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-23e",
+      "number": "23e",
+      "title": "",
+      "date": "2024/02/07",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-23f",
+      "number": "23f",
+      "title": "",
+      "date": "2024/02/21",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-24",
+      "number": "24",
+      "title": "",
+      "date": "2024/02/21",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-25",
+      "number": "25",
+      "title": "",
+      "date": "2024/02/21",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-26",
+      "number": "26",
+      "title": "",
+      "date": "2024/02/21",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-27",
+      "number": "27",
+      "title": "",
+      "date": "2024/02/21",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-28",
+      "number": "28",
+      "title": "",
+      "date": "2024/02/21",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-28e",
+      "number": "28e",
+      "title": "",
+      "date": "2024/02/21",
+      "pages": []
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-32e",
+      "number": "32e",
+      "title": "",
+      "date": "2025/07/17",
+      "pages": []
+    }
+  ],
+  "pt": [
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-1",
+      "number": 1,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 1",
+      "date": "2025-12-18T21:53:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1022576
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-2",
+      "number": 2,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 2",
+      "date": "2025-12-18T21:53:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1022582
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-3",
+      "number": 3,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 3",
+      "date": "2025-12-18T21:53:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1022579
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-4",
+      "number": 4,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 4",
+      "date": "2025-12-18T21:53:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1022580
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-5",
+      "number": 5,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 5",
+      "date": "2025-12-18T21:53:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1022581
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-5.5",
+      "number": 5.5,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 5.5",
+      "date": "2025-12-18T21:53:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1022575
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-6",
+      "number": 6,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 6",
+      "date": "2025-12-18T21:53:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1022574
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-7",
+      "number": 7,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 7",
+      "date": "2025-12-18T21:53:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1022578
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-8",
+      "number": 8,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 8",
+      "date": "2025-12-18T21:53:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1022577
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-9",
+      "number": 9,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 9",
+      "date": "2026-02-22T21:09:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1116221
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-10",
+      "number": 10,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 10",
+      "date": "2026-02-22T21:10:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1116259
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-10.5",
+      "number": 10.5,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 10.5",
+      "date": "2026-02-22T21:10:16Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1116258
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-11",
+      "number": 11,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 11",
+      "date": "2026-02-22T21:10:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1116260
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-12",
+      "number": 12,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 12",
+      "date": "2026-02-22T21:10:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1116261
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-13",
+      "number": 13,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 13",
+      "date": "2026-04-04T14:20:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1161871
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-14",
+      "number": 14,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 14",
+      "date": "2026-04-04T14:20:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1161872
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-15",
+      "number": 15,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 15",
+      "date": "2026-04-04T14:20:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1161870
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-16",
+      "number": 16,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 16",
+      "date": "2026-04-07T15:39:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1178536
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-17",
+      "number": 17,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 17",
+      "date": "2026-04-07T15:39:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1178535
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-18",
+      "number": 18,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 18",
+      "date": "2026-04-15T14:06:46Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1183073
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-19",
+      "number": 19,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 19",
+      "date": "2026-04-15T14:07:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1183123
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-19.5",
+      "number": 19.5,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 19.5",
+      "date": "2026-04-15T14:07:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1183113
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-20",
+      "number": 20,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 20",
+      "date": "2026-04-15T14:07:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1183130
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-21",
+      "number": 21,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 21",
+      "date": "2026-04-15T14:07:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1183129
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-22",
+      "number": 22,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 22",
+      "date": "2026-04-15T14:07:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1183125
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-23",
+      "number": 23,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 23",
+      "date": "2026-04-15T14:07:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1183127
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-23.5",
+      "number": 23.5,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 23.5",
+      "date": "2026-04-15T14:07:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1183112
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-24",
+      "number": 24,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 24",
+      "date": "2026-04-15T14:07:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1183124
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-25",
+      "number": 25,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 25",
+      "date": "2026-04-15T14:07:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1183128
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-26",
+      "number": 26,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 26",
+      "date": "2026-04-15T14:07:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1183126
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-27",
+      "number": 27,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 27",
+      "date": "2026-04-15T14:09:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1183423
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-28",
+      "number": 28,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 28",
+      "date": "2026-04-15T14:09:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1183424
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-28.5",
+      "number": 28.5,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 28.5",
+      "date": "2026-04-15T14:09:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1183415
+    },
+    {
+      "id": "goblin-slayer-gaiden-2-tsubanari-no-daikatana-chapter-29",
+      "number": 29,
+      "title": "Goblin Slayer Gaiden 2: Tsubanari no Daikatana – Capítulo 29",
+      "date": "2026-04-24T03:24:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1189798
+    }
+  ]
+}

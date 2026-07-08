@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="clckd" content="d9ede29b2e690cac6402e0eaed412d13" />
+  <meta name="google-site-verification" content="zGYqtFE8uccFf1wiaV_yDT0P1MeXWhiCknVGlsrC7Xc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="referrer" content="no-referrer">
+  <title>MangaBankai — Ler Mangá Online Grátis em Português</title>
+  <meta name="description" content="Leia mangás e manhwas online grátis em português, com novos capítulos todos os dias. One Piece, Solo Leveling, Bleach e milhares de títulos no MangaBankai.">
+  <meta name="theme-color" content="#6c63ff">
+  <link rel="manifest" href="manifest.json">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="MangaBankai">
+  <meta property="og:title" content="MangaBankai — Ler Mangá Online Grátis em Português">
+  <meta property="og:description" content="Leia mangás e manhwas online grátis em português, com novos capítulos todos os dias. Milhares de títulos no MangaBankai.">
+  <meta property="og:url" content="https://mangabankai.vercel.app/">
+  <meta property="og:image" content="https://mangabankai.vercel.app/img/logo.png">
+  <meta name="twitter:image" content="https://mangabankai.vercel.app/img/logo.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://mangabankai.vercel.app/">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"MangaBankai","alternateName":"Manga Bankai","url":"https://mangabankai.vercel.app/","inLanguage":"pt-BR","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://mangabankai.vercel.app/catalog.html?q={search_term_string}"},"query-input":"required name=search_term_string"}}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"MangaBankai","alternateName":"Manga Bankai","url":"https://mangabankai.vercel.app/","logo":"https://mangabankai.vercel.app/img/logo.png"}</script>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" type="image/png" href="/img/logo.png">
+  <link rel="apple-touch-icon" href="/img/logo.png">
+  <link rel="preconnect" href="https://www.highperformanceformat.com">
+  <link rel="preconnect" href="https://pl30096193.effectivecpmnetwork.com">
+  <link rel="preconnect" href="https://pl30096195.effectivecpmnetwork.com">
+  <link rel="dns-prefetch" href="https://www.highperformanceformat.com">
+  <link rel="dns-prefetch" href="https://pl30096193.effectivecpmnetwork.com">
+  <link rel="dns-prefetch" href="https://pl30096195.effectivecpmnetwork.com">
+  <script src="js/pub.js"></script>
+  <script src="/js/loading-anim.js"></script>
+</head>
+<body>
+  <script>ADS.guard();</script>
+  <script>
+    window.MangaLoader && MangaLoader.splash('home');
+    // Fallback: nunca deixa o splash preso mesmo se o conteúdo falhar ao carregar.
+    window.addEventListener('load', function () { setTimeout(function () { window.MangaLoader && MangaLoader.hideSplash(0); }, 4000); });
+  </script>
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="logo"><img src="img/logo.png" alt="MangaBankai" class="logo-img"></a>
+      <button class="header-hamburger" aria-label="Abrir menu" onclick="toggleHeaderMenu()">☰</button>
+      <div class="header-menu" id="headerMenu">
+      <nav class="nav">
+        <a href="index.html" class="active">Início</a>
+        <a href="catalog.html">Catálogo</a>
+      </nav>
+      </div>
+      <div class="header-menu-overlay" id="headerMenuOverlay" onclick="toggleHeaderMenu()"></div>
+      <div class="search-bar">
+        <input type="text" id="searchInput" placeholder="Pesquisar mangás..." autocomplete="off">
+        <button class="search-btn" onclick="const q=document.getElementById('searchInput').value.trim();if(q)window.location.href='catalog.html?q='+encodeURIComponent(q)">🔍</button>
+        <div class="search-dropdown" id="searchDropdown"></div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Carousel -->
+  <section class="hero">
+    <div class="hero-carousel" id="heroCarousel"></div>
+    <div class="hero-dots" id="heroDots"></div>
+  </section>
+
+  <!-- BANNER 728x90 (Abaixo do Carrossel) -->
+  <div class="ad-banner-fixed ad-728" id="ad-home-728"></div>
+  <script>ADS.renderBanner728(document.getElementById('ad-home-728'));</script>
+
+  <!-- Quick Stats Bar -->
+  <div class="stats-bar">
+    <div class="container stats-inner">
+      <div class="stat-item"><span class="stat-num" id="statMangas">8.707</span><span class="stat-label">Mangás</span></div>
+      <div class="stat-item"><span class="stat-num" id="statChapters">417.072</span><span class="stat-label">Capítulos</span></div>
+      <div class="stat-item"><span class="stat-num" id="statGenres">169</span><span class="stat-label">Gêneros</span></div>
+      <div class="stat-item"><span class="stat-num" id="statAuthors">5.180</span><span class="stat-label">Autores</span></div>
+    </div>
+    <div style="text-align:center; padding:0 0 18px;">
+      <button class="btn btn-secondary" onclick="shareLink('MangaBankai', 'Leia mangás e manhwas online grátis em português no MangaBankai 📖', 'https://mangabankai.vercel.app/')">🔗 Compartilhar o MangaBankai</button>
+    </div>
+  </div>
+
+  <div class="container">
+    <!-- Continue Reading -->
+    <section class="section" id="continueSection" style="display:none">
+      <div class="section-header">
+        <div class="left"><span class="icon">📚</span><h2>Continuar Lendo</h2></div>
+      </div>
+      <div class="continue-grid" id="continueGrid"></div>
+    </section>
+
+    <!-- Recently Updated (data real) -->
+    <section class="section">
+      <div class="section-header">
+        <div class="left"><span class="icon">🆕</span><h2>Atualizados Recentemente</h2></div>
+        <a href="catalog.html?sort=updated" class="view-all">Ver todos →</a>
+      </div>
+      <div class="row-wrap">
+        <button class="row-arrow left" aria-label="Anterior" onclick="scrollRow('recentRow',-1)">‹</button>
+        <div class="manga-grid row-carousel" id="recentRow"><!--pr:recent:s--><a class="manga-card" href="/manga/necromante-do-cla-da-espada/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fcdn.leituramanga.net%2Fnecromante-do-cla-da-espada%2Fcover-md.webp" alt="Necromante do Clã da Espada" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Necromante do Clã da Espada</h3></div></a><a class="manga-card" href="/manga/o-setimo-principe-quer-escapar/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fcdn.leituramanga.net%2Fo-setimo-principe-quer-escapar%2Fcover-md.webp" alt="O sétimo príncipe quer escapar" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>O sétimo príncipe quer escapar</h3></div></a><a class="manga-card" href="/manga/o-retorno-do-ranker/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fcdn.leituramanga.net%2Fo-retorno-do-ranker%2Fcover-md.webp" alt="O Retorno do Ranker" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>O Retorno do Ranker</h3></div></a><a class="manga-card" href="/manga/eu-obtive-um-item-mitico/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fcdn.leituramanga.net%2Feu-obtive-um-item-mitico%2Fcover-md.webp" alt="Eu Obtive um Item Mítico" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Eu Obtive um Item Mítico</h3></div></a><a class="manga-card" href="/manga/deus-marcial-pay-to-win/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fcdn.leituramanga.net%2Fdeus-marcial-pay-to-win%2Fcover-md.webp" alt="Deus Marcial Pay-to-Win" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Deus Marcial Pay-to-Win</h3></div></a><a class="manga-card" href="/manga/o-mago-negro-retorna-apos-66666-anos/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fcdn.leituramanga.net%2Fo-mago-negro-retorna-apos-66666-anos%2Fcover-md.webp" alt="O Mago Negro Retorna Após 66666 Anos" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>O Mago Negro Retorna Após 66666 Anos</h3></div></a><a class="manga-card" href="/manga/o-comeco-depois-do-fim/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fcdn.leituramanga.net%2Fo-comeco-depois-do-fim%2Fcover-md.webp" alt="O Começo Depois do Fim" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>O Começo Depois do Fim</h3></div></a><a class="manga-card" href="/manga/comecando-com-13-tracos-ocultos/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fcdn.leituramanga.net%2Fcomecando-com-13-tracos-ocultos%2Fcover-md.webp" alt="Começando com 13 Traços Ocultos" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Começando com 13 Traços Ocultos</h3></div></a><a class="manga-card" href="/manga/coracao-ferido/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fcdn.leituramanga.net%2Fcoracao-ferido%2Fcover-md.webp" alt="Coração Ferido" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Coração Ferido</h3></div></a><a class="manga-card" href="/manga/o-desejo-do-diabo/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fcdn.leituramanga.net%2Fo-desejo-do-diabo%2Fcover-md.webp" alt="O Desejo do Diabo" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>O Desejo do Diabo</h3></div></a><a class="manga-card" href="/manga/a-mansao-que-aguarda-a-primavera/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fcdn.leituramanga.net%2Fa-mansao-que-aguarda-a-primavera%2Fcover-md.webp" alt="A Mansão Que aguarda A Primavera" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>A Mansão Que aguarda A Primavera</h3></div></a><a class="manga-card" href="/manga/ola-griffin-o-passaro-fofinho/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fcdn.leituramanga.net%2Fola-griffin-o-passaro-fofinho%2Fcover-md.webp" alt="Olá, Griffin, o pássaro Fofinho!" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Olá, Griffin, o pássaro Fofinho!</h3></div></a><a class="manga-card" href="/manga/o-restaurante-do-arquimago/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fcdn.leituramanga.net%2Fo-restaurante-do-arquimago%2Fcover-md.webp" alt="O restaurante do arquimago" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>O restaurante do arquimago</h3></div></a><a class="manga-card" href="/manga/a-pervert-s-daily-life/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fhentai20.io%2Fwp-content%2Fuploads%2F2024%2F08%2Fa-perverts-daily-life-01-193x278.jpg" alt="A Pervert’s Daily Life" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>A Pervert’s Daily Life</h3></div></a><a class="manga-card" href="/manga/unico-fazendeiro-da-torre/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fcdn.leituramanga.net%2Funico-fazendeiro-da-torre%2Fcover-md.webp" alt="Único Fazendeiro da Torre" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Único Fazendeiro da Torre</h3></div></a><a class="manga-card" href="/manga/escolha-seu-marido-cuidadosamente/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fcdn.leituramanga.net%2Fescolha-seu-marido-cuidadosamente%2Fcover-md.webp" alt="Escolha Seu Marido Cuidadosamente" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Escolha Seu Marido Cuidadosamente</h3></div></a><a class="manga-card" href="/manga/f-my-ex/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fcdn.leituramanga.net%2Ff-my-ex%2Fcover-md.webp" alt="F My Ex" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>F My Ex</h3></div></a><a class="manga-card" href="/manga/bebi-a-pocao-do-amor-destinada-ao-meu-marido/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fcdn.leituramanga.net%2Fbebi-a-pocao-do-amor-destinada-ao-meu-marido%2Fcover-md.webp" alt="Bebi a Poção do Amor Destinada ao Meu Marido" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Bebi a Poção do Amor Destinada ao Meu Marido</h3></div></a><a class="manga-card" href="/manga/amu/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fhentai20.io%2Fwp-content%2Fuploads%2F2024%2F08%2Famu-193x278.jpg" alt="AMU" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>AMU</h3></div></a><a class="manga-card" href="/manga/all-girl-sharehouse/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fhentai20.io%2Fwp-content%2Fuploads%2F2025%2F03%2Fall-girl-sharehouse-193x278.jpg" alt="All-Girl Sharehouse" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>All-Girl Sharehouse</h3></div></a><a class="manga-card" href="/manga/alive-and-swell/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fhentai20.io%2Fwp-content%2Fuploads%2F2024%2F08%2Falive-and-swell-193x278.jpg" alt="Alive and Swell" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Alive and Swell</h3></div></a><a class="manga-card" href="/manga/adamasu-no-majotachi/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fhentai20.io%2Fwp-content%2Fuploads%2F2024%2F08%2Fadamasu-no-majotachi-193x278.jpg" alt="Adamasu no Majotachi" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Adamasu no Majotachi</h3></div></a><a class="manga-card" href="/manga/a-tale-of-tails/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fhentai20.io%2Fwp-content%2Fuploads%2F2024%2F08%2Fa-tale-of-tails-193x278.jpg" alt="A Tale of Tails" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>A Tale of Tails</h3></div></a><a class="manga-card" href="/manga/a-killer-woman/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fhentai20.io%2Fwp-content%2Fuploads%2F2024%2F08%2Fa-killer-woman-01-193x278.jpg" alt="A Killer Woman" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>A Killer Woman</h3></div></a><!--pr:recent:e--></div>
+        <button class="row-arrow right" aria-label="Próximo" onclick="scrollRow('recentRow',1)">›</button>
+      </div>
+    </section>
+
+    <!-- Popular -->
+    <section class="section section-highlight">
+      <div class="section-header">
+        <div class="left"><span class="icon">🔥</span><h2>Mais Populares</h2></div>
+        <a href="catalog.html?sort=chapters" class="view-all">Ver todos →</a>
+      </div>
+      <div class="row-wrap">
+        <button class="row-arrow left" aria-label="Anterior" onclick="scrollRow('popularRow',-1)">‹</button>
+        <div class="manga-grid row-carousel" id="popularRow"><!--pr:popular:s--><a class="manga-card" href="/manga/martial-peak/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fmartial_peak.jpg" alt="Martial Peak" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Martial Peak</h3></div></a><a class="manga-card" href="/manga/hajime-no-ippo/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fhajime_no_ippo.jpg" alt="Hajime no Ippo" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Hajime no Ippo</h3></div></a><a class="manga-card" href="/manga/mugiwaras-hajime-no-ippo/"><div class="cover"><img src="https://cdn.mugiverso.com/mugiwarasoficial/wp-content/uploads/2026/02/81Z5ftSqMuL-193x278.webp" alt="Hajime no Ippo - Mugiwaras Oficial" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Hajime no Ippo - Mugiwaras Oficial</h3></div></a><a class="manga-card" href="/manga/one-piece/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fone_piece.jpg" alt="One Piece" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>One Piece</h3></div></a><a class="manga-card" href="/manga/detective-conan/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fdetective_conan.jpg" alt="Detective Conan" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Detective Conan</h3></div></a><a class="manga-card" href="/manga/mugiwaras-one-piece/"><div class="cover"><img src="https://mugiwarasoficial.com/wp-content/uploads/2026/02/HLTkvNSWEAACgXz-193x278.webp" alt="One Piece - Mugiwaras Oficial" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>One Piece - Mugiwaras Oficial</h3></div></a><a class="manga-card" href="/manga/tomo-chan-wa-onnanoko/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Ftomo_chan_wa_onnanoko.jpg" alt="Tomo-Chan wa Onnanoko!" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Tomo-Chan wa Onnanoko!</h3></div></a><a class="manga-card" href="/manga/mugiwaras-manga-kingdom/"><div class="cover"><img src="https://cdn.mugiverso.com/mugiwarasoficial/wp-content/uploads/2026/02/0290390-couverture1-xcgzbqmbjsupczr3ec0z-il738fb4atu27vix-p76kfurfi6tfqklg-cover-full-193x278.webp" alt="Manga Kingdom - Mugiwaras Oficial" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Manga Kingdom - Mugiwaras Oficial</h3></div></a><a class="manga-card" href="/manga/star-martial-god-technique/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fstar_martial_god_technique.jpg" alt="Star Martial God Technique" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Star Martial God Technique</h3></div></a><a class="manga-card" href="/manga/magic-emperor/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fcdn.leituramanga.net%2Fmagic-emperor%2Fcover-md.webp" alt="Magic Emperor" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Magic Emperor</h3></div></a><a class="manga-card" href="/manga/kingdom/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fkingdom.jpg" alt="Kingdom" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Kingdom</h3></div></a><a class="manga-card" href="/manga/im-the-great-immortal/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fim_the_great_immortal.jpg" alt="I'm the Great Immortal" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>I'm the Great Immortal</h3></div></a><a class="manga-card" href="/manga/against-the-gods/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fagainst_the_gods.jpg" alt="Against the Gods" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Against the Gods</h3></div></a><a class="manga-card" href="/manga/iron-ladies/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Firon_ladies.jpg" alt="Iron Ladies" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Iron Ladies</h3></div></a><a class="manga-card" href="/manga/the-ruler-of-the-land/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fthe_ruler_of_the_land.jpg" alt="The Ruler of the Land" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>The Ruler of the Land</h3></div></a><a class="manga-card" href="/manga/initial-d/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Finitial_d.jpg" alt="Initial D" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Initial D</h3></div></a><a class="manga-card" href="/manga/kubera/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fkubera.jpg" alt="Kubera" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Kubera</h3></div></a><a class="manga-card" href="/manga/gintama/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fgintama.jpg" alt="Gintama" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Gintama</h3></div></a><a class="manga-card" href="/manga/naruto/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fnaruto.jpg" alt="Naruto" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Naruto</h3></div></a><a class="manga-card" href="/manga/release-that-witch/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Frelease_that_witch.jpg" alt="Release That Witch" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Release That Witch</h3></div></a><a class="manga-card" href="/manga/bleach/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fbleach.jpg" alt="Bleach" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Bleach</h3></div></a><a class="manga-card" href="/manga/mugiwaras-bleach-manga/"><div class="cover"><img src="https://cdn.mugiverso.com/mugiwarasoficial/wp-content/uploads/2026/02/81TQIEutf0L._AC_UF10001000_QL80_-193x278.webp" alt="Bleach - Mugiwaras Oficial" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Bleach - Mugiwaras Oficial</h3></div></a><a class="manga-card" href="/manga/king-of-apocalypse/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fking_of_apocalypse.jpg" alt="King of Apocalypse" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>King of Apocalypse</h3></div></a><a class="manga-card" href="/manga/mugiwaras-imperador-demoniaco/"><div class="cover"><img src="https://cdn.mugiverso.com/mugiwarasoficial/wp-content/uploads/2026/04/demonic-emperor-v0-aldmq1743aob1-193x278.webp" alt="Imperador Demoníaco - Mugiwaras Oficial" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Imperador Demoníaco - Mugiwaras Oficial</h3></div></a><!--pr:popular:e--></div>
+        <button class="row-arrow right" aria-label="Próximo" onclick="scrollRow('popularRow',1)">›</button>
+      </div>
+    </section>
+
+    <!-- +18 (só aparece quando modo adulto está ativo) -->
+    <section class="section" id="adultSection" style="display:none">
+      <div class="section-header">
+        <div class="left"><span class="icon">🔞</span><h2>+18 / Hentai</h2></div>
+        <a href="catalog.html?genre=Hentai" class="view-all">Ver todos →</a>
+      </div>
+      <div class="row-wrap">
+        <button class="row-arrow left" aria-label="Anterior" onclick="scrollRow('adultRow',-1)">‹</button>
+        <div class="manga-grid row-carousel" id="adultRow"></div>
+        <button class="row-arrow right" aria-label="Próximo" onclick="scrollRow('adultRow',1)">›</button>
+      </div>
+    </section>
+
+    <!-- New / by year -->
+    <section class="section">
+      <div class="section-header">
+        <div class="left"><span class="icon">✨</span><h2>Novidades</h2></div>
+        <a href="catalog.html?sort=year" class="view-all">Ver todos →</a>
+      </div>
+      <div class="row-wrap">
+        <button class="row-arrow left" aria-label="Anterior" onclick="scrollRow('newRow',-1)">‹</button>
+        <div class="manga-grid row-carousel" id="newRow"><!--pr:new:s--><a class="manga-card" href="/manga/my-wife-is-a-demon-queen/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fmy_wife_is_a_demon_queen.jpg" alt="My Wife is a Demon Queen" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>My Wife is a Demon Queen</h3></div></a><a class="manga-card" href="/manga/arigatights/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Farigatights.jpg" alt="Arigatights" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Arigatights</h3></div></a><a class="manga-card" href="/manga/samurai-8/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fsamurai_8.jpg" alt="Samurai 8" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Samurai 8</h3></div></a><a class="manga-card" href="/manga/my-hero-academia/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fmy_hero_academia.jpg" alt="My Hero Academia" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>My Hero Academia</h3></div></a><a class="manga-card" href="/manga/hero-i-quit-a-long-time-ago/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fhero_i_quit_a_long_time_ago.jpg" alt="Hero? I Quit A Long Time Ago" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Hero? I Quit A Long Time Ago</h3></div></a><a class="manga-card" href="/manga/arifureta-shokugyou-de-sekai-saikyou/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Farifureta_shokugyou_de_sekai_saikyou.jpg" alt="Arifureta Shokugyou de Sekai Saikyou" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Arifureta Shokugyou de Sekai Saikyou</h3></div></a><a class="manga-card" href="/manga/goblin-slayer/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fgoblin_slayer.jpg" alt="Goblin Slayer" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Goblin Slayer</h3></div></a><a class="manga-card" href="/manga/my-friend-is-a-magical-girl/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fmy_friend_is_a_magical_girl.jpg" alt="My Friend Is a Magical Girl" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>My Friend Is a Magical Girl</h3></div></a><a class="manga-card" href="/manga/diamond-no-ace-act-ii/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fdiamond_no_ace_act_ii.jpg" alt="Diamond no Ace Act II" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Diamond no Ace Act II</h3></div></a><a class="manga-card" href="/manga/kengan-omega/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fkengan_omega.jpg" alt="Kengan Omega" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Kengan Omega</h3></div></a><a class="manga-card" href="manga.html?id=boku-no-hero-academia"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fboku_no_hero_academia.jpg" alt="Boku no Hero Academia" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Boku no Hero Academia</h3></div></a><a class="manga-card" href="manga.html?id=tower-of-god"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Ftower_of_god.jpg" alt="Tower of God" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Tower of God</h3></div></a><a class="manga-card" href="/manga/versatile-mage/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fversatile_mage.jpg" alt="Versatile Mage" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Versatile Mage</h3></div></a><a class="manga-card" href="/manga/kimi-wa-008/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fkimi_wa_008.jpg" alt="Kimi wa 008" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Kimi wa 008</h3></div></a><a class="manga-card" href="/manga/i-was-trash/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fi_was_trash.jpg" alt="I Was Trash" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>I Was Trash</h3></div></a><a class="manga-card" href="/manga/jimi-na-kensei-wa-sore-demo-saikyou-desu/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fjimi_na_kensei_wa_sore_demo_saikyou_desu.jpg" alt="Jimi na Kensei wa Sore Demo Saikyou desu" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Jimi na Kensei wa Sore Demo Saikyou desu</h3></div></a><a class="manga-card" href="/manga/kenja-no-mago/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fkenja_no_mago.jpg" alt="Kenja No Mago" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Kenja No Mago</h3></div></a><a class="manga-card" href="/manga/kengan-ashua/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fkengan_ashua.jpg" alt="Kengan Ashua" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Kengan Ashua</h3></div></a><a class="manga-card" href="/manga/suki-desu-suzuki-kun/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fsuki_desu_suzuki_kun.jpg" alt="Suki Desu Suzuki-Kun" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Suki Desu Suzuki-Kun</h3></div></a><a class="manga-card" href="/manga/apotheosis/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fapotheosis.jpg" alt="Apotheosis" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Apotheosis</h3></div></a><a class="manga-card" href="/manga/bakemonogatari/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fbakemonogatari.jpg" alt="Bakemonogatari" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Bakemonogatari</h3></div></a><a class="manga-card" href="/manga/survival-story-of-a-sword-king-in-a-fantasy-world/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fsurvival_story_of_a_sword_king_in_a_fantasy_world.jpg" alt="Survival Story of a Sword King in a Fantasy World" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Survival Story of a Sword King in a Fantasy World</h3></div></a><a class="manga-card" href="/manga/yuan-zun/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fyuan_zun.jpg" alt="Yuan Zun" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>Yuan Zun</h3></div></a><a class="manga-card" href="/manga/to-you-the-immortal/"><div class="cover"><img src="/api/img-proxy?url=https%3A%2F%2Fimages.mangafreak.me%2Fmanga_images%2Fto_you_the_immortal.jpg" alt="To You, The Immortal" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div><div class="info"><h3>To You, The Immortal</h3></div></a><!--pr:new:e--></div>
+        <button class="row-arrow right" aria-label="Próximo" onclick="scrollRow('newRow',1)">›</button>
+      </div>
+    </section>
+
+    <!-- Completos (para maratonar) -->
+    <section class="section">
+      <div class="section-header">
+        <div class="left"><span class="icon">✅</span><h2>Completos para Maratonar</h2></div>
+        <a href="catalog.html?status=completed" class="view-all">Ver todos →</a>
+      </div>
+      <div class="row-wrap">
+        <button class="row-arrow left" aria-label="Anterior" onclick="scrollRow('completedRow',-1)">‹</button>
+        <div class="manga-grid row-carousel" id="completedRow"></div>
+        <button class="row-arrow right" aria-label="Próximo" onclick="scrollRow('completedRow',1)">›</button>
+      </div>
+    </section>
+
+    <!-- NATIVE BANNER (Grid — parece card de manga) -->
+    <div class="ad-banner-fixed ad-native" id="ad-home-native"></div>
+    <script>ADS.lazy(document.getElementById('ad-home-native'), ADS.renderNative);</script>
+
+    <!-- Fileiras por gênero (sorteadas a cada visita) -->
+    <div id="genreRows"></div>
+
+    <!-- Browse by Genre -->
+    <section class="section section-genre">
+      <div class="section-header">
+        <div class="left"><span class="icon">🏷️</span><h2>Explorar por Gênero</h2></div>
+      </div>
+      <div class="genre-wall" id="genreQuickNav"></div>
+    </section>
+  </div>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <div class="logo"><img src="img/logo.png" alt="MangaBankai" class="logo-img"></div>
+          <p>MangaBankai é um indexador de mangás online — os links apontam para conteúdos hospedados por terceiros.</p>
+        </div>
+        <div>
+          <h4>Navegação</h4>
+          <ul>
+            <li><a href="index.html">Início</a></li>
+            <li><a href="catalog.html">Catálogo</a></li>
+            <li><a href="terms.html">Termos de Uso</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Gêneros</h4>
+          <ul id="footerGenres"></ul>
+        </div>
+        <div>
+          <h4>Status</h4>
+          <ul>
+            <li><a href="catalog.html">Em Andamento</a></li>
+            <li><a href="catalog.html">Completo</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2026 MangaBankai. Lages-SC. Indexamos links públicos de terceiros; não hospedamos nenhum conteúdo.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/data-lite.js"></script>
+  <script src="js/main.js"></script>
+  <script>
+    // ========== STATS (imediato) ==========
+    document.getElementById('statMangas').textContent = MANGA_DATA.length.toLocaleString('pt-BR');
+    document.getElementById('statChapters').textContent = MANGA_DATA.reduce((s, m) => s + (m.chaptersCount || 0), 0).toLocaleString('pt-BR');
+    document.getElementById('statGenres').textContent = getAvailableGenres().length;
+    document.getElementById('statAuthors').textContent = [...new Set(MANGA_DATA.map(m => m.author))].length.toLocaleString('pt-BR');
+
+    // ========== GENRE PILLS ==========
+    const colors = ['#e53935','#ffb300','#7c4dff','#ff6b35','#00bcd4','#5c6bc0','#43a047','#78909c','#7b1fa2','#546e7a','#1565c0','#00897b'];
+    document.getElementById('genreQuickNav').innerHTML = getAvailableGenres().map((g, i) =>
+      '<a href="catalog.html?genre=' + encodeURIComponent(g) + '" class="genre-pill" style="--g-color:' + colors[i % colors.length] + '">' + g + '</a>'
+    ).join('');
+    document.getElementById('footerGenres').innerHTML = getAvailableGenres().slice(0, 8).map(function(g) {
+      return '<li><a href="catalog.html?genre=' + encodeURIComponent(g) + '">' + g + '</a></li>';
+    }).join('');
+
+    // ========== CONTINUE READING ==========
+    (async function() {
+      // Espera o login resolver (authChecked) para usar o histórico da CONTA (servidor)
+      // quando logado, em vez do localStorage — evita divergência com o perfil.
+      await new Promise(ok => {
+        if (window.authChecked) return ok();
+        const _t = setInterval(() => { if (window.authChecked) { clearInterval(_t); ok(); } }, 30);
+      });
+      const entries = Object.entries(getAllProgress());
+      if (entries.length === 0) return;
+      const section = document.getElementById('continueSection');
+      const grid = document.getElementById('continueGrid');
+      const _crAdult = typeof localStorage !== 'undefined' && localStorage.getItem('ms_adult_mode') === 'true';
+      const _crAdultGenres = ['Adulto', 'Hentai', 'Ecchi', 'Mature', 'Smut'];
+      const items = entries.sort((a, b) => (b[1].updatedAt || 0) - (a[1].updatedAt || 0)).slice(0, 6).map(([mangaId, prog]) => {
+        const manga = getManga(mangaId);
+        if (!manga) return '';
+        if (!_crAdult && (_crAdultGenres.some(g => (manga.genres || []).includes(g)))) return '';
+        const pct = prog.totalPages > 0 ? Math.min(100, Math.round((prog.pageIndex / prog.totalPages) * 100)) : 0;
+        return `
+          <div class="continue-item" onclick="window.location.href='/manga/${mangaId}/${prog.chapterNumber != null ? prog.chapterNumber : prog.chapterId}'">
+            <img src="${manga.cover}" alt="${manga.title}" referrerPolicy="no-referrer" onerror="this.src='https://placehold.co/50x68/1a1a1a/444?text=?'">
+            <div class="ci-info">
+              <h4>${manga.title}</h4>
+              <div class="ci-chap">Cap. ${prog.chapterNumber != null ? prog.chapterNumber : prog.chapterId} · ${pct}%</div>
+              <div class="ci-progress"><div class="ci-fill" style="width:${pct}%"></div></div>
+            </div>
+          </div>`;
+      }).filter(Boolean).join('');
+      if (items) { grid.innerHTML = items; section.style.display = 'block'; }
+    })();
+
+    // ========== RECÊNCIA (home.json) → HERO + FILEIRAS ==========
+    (async function() {
+      let home = null;
+      try {
+        const res = await fetch('js/home.json', { cache: 'no-cache' });
+        if (res.ok) { home = await res.json(); window.HOME_DATA = home; }
+      } catch (e) {}
+
+      // Lista "atualizados recentemente" a partir do home.json (com fallback).
+      let recent = [];
+      if (home && Array.isArray(home.recent)) {
+        recent = home.recent.map(r => getManga(r.id)).filter(Boolean);
+        const _hrAdult = typeof localStorage !== 'undefined' && localStorage.getItem('ms_adult_mode') === 'true';
+        if (!_hrAdult) {
+          const _hrAdultGenres = ['Adulto', 'Hentai', 'Ecchi', 'Mature', 'Smut'];
+          recent = recent.filter(m => !_hrAdultGenres.some(g => (m.genres || []).includes(g)));
+        }
+      }
+      const byChapters = [...MANGA_DATA].sort((a, b) => (b.chaptersCount || 0) - (a.chaptersCount || 0));
+      if (recent.length === 0) recent = byChapters; // fallback se não houver home.json
+
+      const popular = byChapters.slice(0, 24);
+      const novidades = [...MANGA_DATA].sort((a, b) => (b.year || 0) - (a.year || 0)).slice(0, 24);
+
+      // HERO curado: dentre os recém-atualizados, prioriza os mais populares.
+      const heroPool = (recent.length >= 5 ? recent.slice(0, 25) : byChapters.slice(0, 25));
+      const hero = [...heroPool].sort((a, b) => (b.chaptersCount || 0) - (a.chaptersCount || 0)).slice(0, 5);
+      buildHero(hero);
+
+      // Fileiras
+      renderCarousel(recent.slice(0, 24), 'recentRow');
+      renderCarousel(popular, 'popularRow');
+      renderCarousel(novidades, 'newRow');
+
+      // Completos + fileiras por gênero (usam data real de atualização quando há)
+      const dateOf = m => { const i = (home && home.updated && home.updated[m.id]) || null; return (i && i.date) || 0; };
+      const _sAdultGenres = ['Adulto', 'Hentai', 'Ecchi', 'Mature', 'Smut'];
+      const _sAdultOn = typeof localStorage !== 'undefined' && localStorage.getItem('ms_adult_mode') === 'true';
+      const visiblePool = _sAdultOn ? [...MANGA_DATA] : MANGA_DATA.filter(m => !_sAdultGenres.some(g => (m.genres || []).includes(g)));
+      const completed = visiblePool
+        .filter(m => m.status !== 'ongoing')
+        .sort((a, b) => dateOf(b) - dateOf(a) || (b.chaptersCount || 0) - (a.chaptersCount || 0))
+        .slice(0, 24);
+      renderCarousel(completed, 'completedRow');
+      buildGenreRows(visiblePool, dateOf);
+      // Conteúdo principal pronto → esconde o splash (com tempo mínimo de exibição).
+      if (window.MangaLoader) MangaLoader.hideSplash(700);
+
+      // Seção +18: só quando modo adulto ativo
+      const _homeAdult = typeof localStorage !== 'undefined' && localStorage.getItem('ms_adult_mode') === 'true';
+      if (_homeAdult) {
+        const isAdultGenre = g => { const l = g.toLowerCase(); return l.includes('hentai') || l === 'adulto' || l === 'adult' || l === 'ecchi' || l === 'mature' || l === 'smut'; };
+        // Pega do ORIGINAL_MANGA_DATA para não depender da ordem de MANGA_DATA
+        const adultList = ORIGINAL_MANGA_DATA.filter(m => (m.genres || []).some(isAdultGenre));
+        // Ordena por data de atualização (home.json) se disponível, senão por id
+        const dateMap = (home && home.updated) ? home.updated : {};
+        adultList.sort((a, b) => (dateMap[b.id] ? dateMap[b.id].date || 0 : 0) - (dateMap[a.id] ? dateMap[a.id].date || 0 : 0));
+        if (adultList.length > 0) {
+          document.getElementById('adultSection').style.display = '';
+          renderCarousel(adultList.slice(0, 24), 'adultRow');
+        }
+      }
+    })();
+
+    // ========== HERO ==========
+    function buildHero(list) {
+      const carousel = document.getElementById('heroCarousel');
+      const dots = document.getElementById('heroDots');
+      if (!carousel || list.length === 0) return;
+      let current = 0, autoTimer;
+
+      carousel.innerHTML = list.map((m, i) => {
+        const info = (window.HOME_DATA && window.HOME_DATA.updated && window.HOME_DATA.updated[m.id]) || null;
+        return `
+        <div class="hero-slide ${i === 0 ? 'active' : ''}" data-index="${i}">
+          <div class="hero-bg" style="background-image:url('${m.cover}')"></div>
+          <div class="hero-poster">
+            <img src="${m.cover}" alt="${m.title}" referrerPolicy="no-referrer" onerror="this.style.display='none'">
+          </div>
+          <div class="content">
+            <div class="hero-curation-tag">🔥 Destaque da Semana</div>
+            <h1>${m.title}</h1>
+            <div class="hero-badges">
+              <span class="hero-status-tag ${m.status === 'ongoing' ? 'ongoing' : 'completed'}">
+                <span class="status-dot"></span>
+                ${m.status === 'ongoing' ? 'Em Andamento' : 'Completo'}
+              </span>
+              ${info ? `<span class="hero-chapter-tag">Cap. ${info.ch}${info.date ? ' · ' + relativeTime(info.date) : ''}</span>` : ''}
+            </div>
+            <div class="hero-meta">
+              <span>${m.year || ''}</span>
+              <span>${(m.genres || []).slice(0, 3).join(' · ')}</span>
+              <span>${m.author || ''}</span>
+            </div>
+            <p class="hero-desc">${m.description || ''}</p>
+            <div class="hero-actions">
+              <a href="${mangaUrl(m)}" class="btn btn-primary">📖 Ler agora</a>
+              <a href="${mangaUrl(m)}" class="btn btn-secondary">Detalhes</a>
+            </div>
+          </div>
+        </div>`;
+      }).join('');
+
+      dots.innerHTML = list.map((_, i) => `<button class="${i === 0 ? 'active' : ''}" onclick="goToSlide(${i})"></button>`).join('');
+      window.goToSlide = (idx) => {
+        document.querySelectorAll('.hero-slide').forEach((s, i) => s.classList.toggle('active', i === idx));
+        document.querySelectorAll('.hero-dots button').forEach((b, i) => b.classList.toggle('active', i === idx));
+        current = idx; resetAuto();
+      };
+      function nextSlide() { goToSlide((current + 1) % list.length); }
+      function resetAuto() { clearInterval(autoTimer); autoTimer = setInterval(nextSlide, 5500); }
+      resetAuto();
+
+      // Arraste do mouse / swipe para trocar de slide
+      let dragX = null, dragged = false;
+      carousel.style.cursor = 'grab';
+      carousel.addEventListener('dragstart', e => e.preventDefault());
+      carousel.addEventListener('pointerdown', (e) => {
+        dragX = e.clientX;
+        dragged = false;
+        carousel.style.cursor = 'grabbing';
+        carousel.setPointerCapture(e.pointerId);
+      });
+      carousel.addEventListener('pointermove', (e) => { if (dragX !== null && Math.abs(e.clientX - dragX) > 8) dragged = true; });
+      const endDrag = (e) => {
+        carousel.style.cursor = 'grab';
+        if (dragX === null) return;
+        const dx = (e.clientX || dragX) - dragX;
+        dragX = null;
+        if (Math.abs(dx) > 50) {
+          if (dx < 0) goToSlide((current + 1) % list.length);
+          else goToSlide((current - 1 + list.length) % list.length);
+        }
+      };
+      carousel.addEventListener('pointerup', endDrag);
+      carousel.addEventListener('pointerleave', endDrag);
+      // Evita que um arraste vire clique no botão "Ler agora"
+      carousel.addEventListener('click', (e) => { if (dragged) { e.preventDefault(); e.stopPropagation(); } }, true);
+    }
+
+    // ========== FILEIRAS POR GÊNERO (sorteadas a cada visita) ==========
+    const GENRE_ICONS = { 'Ação': '⚔️', 'Aventura': '🗺️', 'Comédia': '😂', 'Drama': '🎭', 'Fantasia': '🧙', 'Romance': '💕', 'Terror': '👻', 'Horror': '👻', 'Isekai': '🌀', 'Artes Marciais': '🥋', 'Esporte': '🏆', 'Esportes': '🏆', 'Mistério': '🕵️', 'Sci-Fi': '🚀', 'Ficção Científica': '🚀', 'Sobrenatural': '🔮', 'Escolar': '🏫', 'Seinen': '🗡️', 'Shounen': '🔥', 'Shoujo': '🌸', 'Slice of Life': '☕', 'Fatia da Vida': '☕', 'Psicológico': '🧠', 'Magia': '✨', 'Manhwa': '📖', 'Webtoon': '📱' };
+    function buildGenreRows(pool, dateOf) {
+      const container = document.getElementById('genreRows');
+      if (!container) return;
+      const counts = {};
+      pool.forEach(m => (m.genres || []).forEach(g => { counts[g] = (counts[g] || 0) + 1; }));
+      // Só gêneros "de vitrine" (evita tags técnicas tipo "Adaptation", "Full Color").
+      const CURATED = ['Ação', 'Aventura', 'Comédia', 'Drama', 'Fantasia', 'Romance', 'Terror', 'Horror', 'Isekai', 'Artes Marciais', 'Mistério', 'Sobrenatural', 'Escolar', 'Seinen', 'Shounen', 'Shoujo', 'Josei', 'Esporte', 'Esportes', 'Slice of Life', 'Fatia da Vida', 'Psicológico', 'Magia', 'Ficção Científica', 'Sci-Fi', 'Mecha', 'Manhwa', 'Manhua', 'Webtoon', 'Wuxia', 'Murim', 'Vilã', 'Realeza', 'Reencarnação', 'Regressão', 'Sistema', 'Apocalipse', 'Vingança'];
+      // Sorteia 3 por visita entre os curados com acervo relevante.
+      const available = getAvailableGenres();
+      const candidates = CURATED.filter(g => available.includes(g) && (counts[g] || 0) >= 40);
+      for (let i = candidates.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [candidates[i], candidates[j]] = [candidates[j], candidates[i]];
+      }
+      const picked = candidates.slice(0, 3);
+      container.innerHTML = picked.map((g, idx) => `
+        <section class="section">
+          <div class="section-header">
+            <div class="left"><span class="icon">${GENRE_ICONS[g] || '🏷️'}</span><h2>${g}</h2></div>
+            <a href="catalog.html?genre=${encodeURIComponent(g)}" class="view-all">Ver todos →</a>
+          </div>
+          <div class="row-wrap">
+            <button class="row-arrow left" aria-label="Anterior" onclick="scrollRow('genreRow${idx}',-1)">‹</button>
+            <div class="manga-grid row-carousel" id="genreRow${idx}"></div>
+            <button class="row-arrow right" aria-label="Próximo" onclick="scrollRow('genreRow${idx}',1)">›</button>
+          </div>
+        </section>`).join('');
+      picked.forEach((g, idx) => {
+        const items = pool
+          .filter(m => (m.genres || []).includes(g))
+          .sort((a, b) => dateOf(b) - dateOf(a) || (b.chaptersCount || 0) - (a.chaptersCount || 0))
+          .slice(0, 24);
+        renderCarousel(items, 'genreRow' + idx);
+      });
+    }
+
+    // Rolagem das fileiras pelos botões ‹ ›
+    window.scrollRow = function(id, dir) {
+      const el = document.getElementById(id);
+      if (el) el.scrollBy({ left: dir * Math.round(el.clientWidth * 0.85), behavior: 'smooth' });
+    };
+  </script>
+  <script>ADS.renderSocialBar();</script>
+</body>
+</html>

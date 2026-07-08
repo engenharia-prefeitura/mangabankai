@@ -1,0 +1,145 @@
+[
+  {
+    "_id": "6a09cfd789bcbe6e1d0ec8c5",
+    "title": "Jardim de Maio",
+    "status": 1,
+    "genres": [
+      {
+        "name": "Drama",
+        "slug": "drama"
+      },
+      {
+        "name": "Shoujo",
+        "slug": "shoujo"
+      },
+      {
+        "name": "Romance",
+        "slug": "romance"
+      },
+      {
+        "name": "Historico",
+        "slug": "historico"
+      },
+      {
+        "name": "Manhwa",
+        "slug": "manhwa"
+      }
+    ],
+    "readerAccessRule": {
+      "type": "public"
+    },
+    "backlinks": [],
+    "createdAt": "2026-05-17T14:25:27.701Z",
+    "slug": "jardim-de-maio",
+    "releaseYear": 2026,
+    "authors": [
+      {
+        "name": "Seo Damyeon",
+        "slug": "seo-damyeon"
+      }
+    ],
+    "chapters": [
+      {
+        "chapterNumber": 16,
+        "title": "Capítulo 16"
+      }
+    ]
+  },
+  {
+    "_id": "69e4fdb0e6bd154efa90853c",
+    "title": "Sakamoto Days",
+    "status": 1,
+    "genres": [
+      {
+        "name": "Comedia",
+        "slug": "comedia"
+      },
+      {
+        "name": "Shounen",
+        "slug": "shounen"
+      },
+      {
+        "name": "Slice of Life",
+        "slug": "slice-of-life"
+      },
+      {
+        "name": "Maduro",
+        "slug": "maduro"
+      },
+      {
+        "name": "Manga",
+        "isAdult": false,
+        "slug": "manga"
+      },
+      {
+        "name": "Suspense",
+        "isAdult": false,
+        "slug": "suspense"
+      }
+    ],
+    "backlinks": [],
+    "createdAt": "2026-04-19T16:07:12.315Z",
+    "slug": "sakamoto-days",
+    "releaseYear": 2020,
+    "authors": [
+      {
+        "name": "SUZUKI Yuuto",
+        "slug": "suzuki-yuuto"
+      }
+    ],
+    "chapters": [
+      {
+        "chapterNumber": 266,
+        "title": "Capítulo 264"
+      }
+    ]
+  },
+  {
+    "_id": "69e4f254e6bd154efa844b9c",
+    "title": "Boruto Two Blue Vortex",
+    "status": 1,
+    "genres": [
+      {
+        "name": "Drama",
+        "slug": "drama"
+      },
+      {
+        "name": "Shounen",
+        "slug": "shounen"
+      },
+      {
+        "name": "Fantasia",
+        "slug": "fantasia"
+      },
+      {
+        "name": "Aventura",
+        "slug": "aventura"
+      },
+      {
+        "name": "Sci-Fi",
+        "slug": "sci-fi"
+      },
+      {
+        "name": "Manga",
+        "isAdult": false,
+        "slug": "manga"
+      }
+    ],
+    "backlinks": [],
+    "createdAt": "2026-04-19T15:18:44.677Z",
+    "slug": "boruto-two-blue-vortex",
+    "releaseYear": 2023,
+    "authors": [
+      {
+        "name": "KISHIMOTO Masashi",
+        "slug": "kishimoto-masashi"
+      }
+    ],
+    "chapters": [
+      {
+        "chapterNumber": 35,
+        "title": "Capítulo 35"
+      }
+    ]
+  }
+]

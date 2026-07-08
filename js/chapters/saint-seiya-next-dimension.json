@@ -1,0 +1,830 @@
+{
+  "en": [
+    {
+      "id": "saint-seiya-next-dimension-0",
+      "number": "0",
+      "title": "Prologue",
+      "date": "2010/01/22",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-1",
+      "number": "1",
+      "title": "Dohko and Shion",
+      "date": "2010/01/22",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-2",
+      "number": "2",
+      "title": "Aroon",
+      "date": "2010/01/22",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-3",
+      "number": "3",
+      "title": "Tenma",
+      "date": "2010/01/22",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-4",
+      "number": "4",
+      "title": "Friend",
+      "date": "2010/01/22",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-5",
+      "number": "5",
+      "title": "Hades' Sword",
+      "date": "2010/01/22",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-6",
+      "number": "6",
+      "title": "Hades' Awakening",
+      "date": "2010/01/22",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-7",
+      "number": "7",
+      "title": "Hades' Castle",
+      "date": "2010/01/22",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-8",
+      "number": "8",
+      "title": "Specters",
+      "date": "2010/01/22",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-9",
+      "number": "9",
+      "title": "Barrier",
+      "date": "2010/01/22",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-10",
+      "number": "10",
+      "title": "Suikyo",
+      "date": "2010/01/22",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-11",
+      "number": "11",
+      "title": "Warmth",
+      "date": "2010/01/22",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-12",
+      "number": "12",
+      "title": "The Waters of Crateris",
+      "date": "2010/01/22",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-13",
+      "number": "13",
+      "title": "Izo and Ox",
+      "date": "2010/01/22",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-14",
+      "number": "14",
+      "title": "Bracelet of Flowers",
+      "date": "2010/01/22",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-15",
+      "number": "15",
+      "title": "The Temple of the Moon",
+      "date": "2010/01/22",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-16",
+      "number": "16",
+      "title": "As Long as there is Love",
+      "date": "2010/01/22",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-17",
+      "number": "17",
+      "title": "Lascoumoune",
+      "date": "2010/01/22",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-18",
+      "number": "18",
+      "title": "Immortal Bird",
+      "date": "2010/01/22",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-19",
+      "number": "19",
+      "title": "The Portal of Space and Time",
+      "date": "2010/01/22",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-20",
+      "number": "20",
+      "title": "The Birth of Athena",
+      "date": "2010/03/28",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-21",
+      "number": "21",
+      "title": "The Pope's Dagger",
+      "date": "2010/04/28",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-22",
+      "number": "22",
+      "title": "To Athena's Side",
+      "date": "2010/06/05",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-23",
+      "number": "23",
+      "title": "To Athena's Side",
+      "date": "2010/07/13",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-24",
+      "number": "24",
+      "title": "Crystal Wall",
+      "date": "2015/03/11",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-25",
+      "number": "25",
+      "title": "Tears of Blood",
+      "date": "2015/03/11",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-26",
+      "number": "26",
+      "title": "The guidance of Athena",
+      "date": "2015/03/11",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-27",
+      "number": "27",
+      "title": "Deadly combat in the Temple of the White Ram",
+      "date": "2015/03/11",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-28",
+      "number": "28",
+      "title": "Suisho",
+      "date": "2015/03/11",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-29",
+      "number": "29",
+      "title": "Ice Spears",
+      "date": "2015/03/11",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-30",
+      "number": "30",
+      "title": "One-winged Fallen angel",
+      "date": "2015/03/11",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-31",
+      "number": "31",
+      "title": "Gemini's Labyrinth",
+      "date": "2015/03/11",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-32",
+      "number": "32",
+      "title": "Premonition to a deadly battle",
+      "date": "2015/03/11",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-33",
+      "number": "33",
+      "title": "Deadly battle in the Temple of the Twins",
+      "date": "2015/03/11",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-34",
+      "number": "34",
+      "title": "Gemini Abel",
+      "date": "2015/03/11",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-35",
+      "number": "35",
+      "title": "Cain & Abel",
+      "date": "2015/03/11",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-36",
+      "number": "36",
+      "title": "Deathtoll, the coffin maker",
+      "date": "2015/03/11",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-37",
+      "number": "37",
+      "title": "Omerta",
+      "date": "2015/03/11",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-38",
+      "number": "38",
+      "title": "The Sacrifice of the Maou Ken",
+      "date": "2015/03/11",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-39",
+      "number": "39",
+      "title": "The Warmth Of That Day",
+      "date": "2015/03/11",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-40",
+      "number": "40",
+      "title": "Moving On",
+      "date": "2015/03/11",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-41",
+      "number": "41",
+      "title": "",
+      "date": "2015/03/11",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-42",
+      "number": "42",
+      "title": "Star Point of Resuscitation",
+      "date": "2015/03/11",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-43",
+      "number": "43",
+      "title": "Leo Kaiser",
+      "date": "2015/03/11",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-44",
+      "number": "44",
+      "title": "Fist of Light",
+      "date": "2015/03/11",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-45",
+      "number": "45",
+      "title": "The Mischief of the Gods",
+      "date": "2015/03/11",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-46",
+      "number": "46",
+      "title": "The Labyrinth of the Gods",
+      "date": "2015/03/15",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-47",
+      "number": "47",
+      "title": "The Compassion of the Warrior",
+      "date": "2015/03/18",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-48",
+      "number": "48",
+      "title": "Burning Friendship",
+      "date": "2015/03/23",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-49",
+      "number": "49",
+      "title": "The Gate of Death",
+      "date": "2015/03/31",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-50",
+      "number": "50",
+      "title": "The Great Light",
+      "date": "2015/04/08",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-51",
+      "number": "51",
+      "title": "Dragon and Swan",
+      "date": "2015/07/14",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-52",
+      "number": "52",
+      "title": "",
+      "date": "2015/11/15",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-53",
+      "number": "53",
+      "title": "",
+      "date": "2016/04/08",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-54",
+      "number": "54",
+      "title": "",
+      "date": "2016/08/20",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-55",
+      "number": "55",
+      "title": "",
+      "date": "2017/08/02",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-56",
+      "number": "56",
+      "title": "",
+      "date": "2017/08/08",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-57",
+      "number": "57",
+      "title": "Tenbu Hourin",
+      "date": "2017/08/16",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-59",
+      "number": "59",
+      "title": "",
+      "date": "2017/10/06",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-60",
+      "number": "60",
+      "title": "",
+      "date": "2017/10/06",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-61",
+      "number": "61",
+      "title": "",
+      "date": "2017/10/06",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-62",
+      "number": "62",
+      "title": "Flag Of Revolution",
+      "date": "2017/10/12",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-63",
+      "number": "63",
+      "title": "Deathly Battle In The Underworld",
+      "date": "2017/10/18",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-64",
+      "number": "64",
+      "title": "SYABADABADAA",
+      "date": "2017/10/20",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-65",
+      "number": "65",
+      "title": "Funeral",
+      "date": "2017/11/03",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-66",
+      "number": "66",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-67",
+      "number": "67",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-68",
+      "number": "68",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-69",
+      "number": "69",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-70",
+      "number": "70",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-71",
+      "number": "71",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-72",
+      "number": "72",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-73",
+      "number": "73",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-74",
+      "number": "74",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-75",
+      "number": "75",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-76",
+      "number": "76",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-77",
+      "number": "77",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-78",
+      "number": "78",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-79",
+      "number": "79",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-80",
+      "number": "80",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-81",
+      "number": "81",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-82",
+      "number": "82",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-83",
+      "number": "83",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-84",
+      "number": "84",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-85",
+      "number": "85",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-86",
+      "number": "86",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-87",
+      "number": "87",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-88",
+      "number": "88",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-89",
+      "number": "89",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-90",
+      "number": "90",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-91",
+      "number": "91",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-92",
+      "number": "92",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-93",
+      "number": "93",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-94",
+      "number": "94",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-95",
+      "number": "95",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-96",
+      "number": "96",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-97",
+      "number": "97",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-98",
+      "number": "98",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-99",
+      "number": "99",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-100",
+      "number": "100",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-101",
+      "number": "101",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-102",
+      "number": "102",
+      "title": "",
+      "date": "2022/11/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-103",
+      "number": "103",
+      "title": "",
+      "date": "2023/05/19",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-104",
+      "number": "104",
+      "title": "Towards the land of the living",
+      "date": "2023/05/21",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-105",
+      "number": "105",
+      "title": "Flowers ties",
+      "date": "2023/05/21",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-106",
+      "number": "106",
+      "title": "The voice of the heart",
+      "date": "2023/05/21",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-107",
+      "number": "107",
+      "title": "The vanishing of Ecarlate",
+      "date": "2023/05/21",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-108",
+      "number": "108",
+      "title": "",
+      "date": "2023/06/10",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-109",
+      "number": "109",
+      "title": "",
+      "date": "2023/06/10",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-110",
+      "number": "110",
+      "title": "",
+      "date": "2023/06/10",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-111",
+      "number": "111",
+      "title": "",
+      "date": "2024/05/17",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-112",
+      "number": "112",
+      "title": "",
+      "date": "2024/05/23",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-113",
+      "number": "113",
+      "title": "",
+      "date": "2024/05/30",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-114",
+      "number": "114",
+      "title": "",
+      "date": "2024/06/06",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-115",
+      "number": "115",
+      "title": "",
+      "date": "2024/06/13",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-116",
+      "number": "116",
+      "title": "",
+      "date": "2024/06/20",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-117",
+      "number": "117",
+      "title": "",
+      "date": "2024/06/27",
+      "pages": []
+    },
+    {
+      "id": "saint-seiya-next-dimension-118",
+      "number": "118",
+      "title": "",
+      "date": "2024/07/04",
+      "pages": []
+    }
+  ]
+}

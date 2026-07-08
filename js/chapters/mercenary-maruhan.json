@@ -1,0 +1,550 @@
+{
+  "en": [
+    {
+      "id": "mercenary-maruhan-1",
+      "number": "1",
+      "title": "",
+      "date": "2013/07/05",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-2",
+      "number": "2",
+      "title": "",
+      "date": "2013/07/05",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-3",
+      "number": "3",
+      "title": "Request",
+      "date": "2013/07/05",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-4",
+      "number": "4",
+      "title": "Annas Fingers",
+      "date": "2013/07/05",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-5",
+      "number": "5",
+      "title": "Lord",
+      "date": "2013/07/09",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-6",
+      "number": "6",
+      "title": "Chaotic Fight",
+      "date": "2013/08/14",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-7",
+      "number": "7",
+      "title": "The New Mercenary King",
+      "date": "2013/08/20",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-8",
+      "number": "8",
+      "title": "Trap",
+      "date": "2013/08/28",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-9",
+      "number": "9",
+      "title": "Confrontation",
+      "date": "2013/10/22",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-10",
+      "number": "10",
+      "title": "Resolve",
+      "date": "2013/10/31",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-11",
+      "number": "11",
+      "title": "Desperate Battle",
+      "date": "2013/11/25",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-12",
+      "number": "12",
+      "title": "New Beginning",
+      "date": "2014/08/17",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-13",
+      "number": "13",
+      "title": "Chaos",
+      "date": "2014/08/17",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-14",
+      "number": "14",
+      "title": "Counter Attack",
+      "date": "2014/08/17",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-15",
+      "number": "15",
+      "title": "Truth And Lies (1)",
+      "date": "2014/08/17",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-16",
+      "number": "16",
+      "title": "Truth And Lies (2)",
+      "date": "2014/08/20",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-17",
+      "number": "17",
+      "title": "Guide",
+      "date": "2014/08/20",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-18",
+      "number": "18",
+      "title": "Moyong-So's Secret",
+      "date": "2014/08/20",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-19",
+      "number": "19",
+      "title": "The Girl In the Rain",
+      "date": "2014/08/22",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-20",
+      "number": "20",
+      "title": "Phantom",
+      "date": "2014/08/22",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-21",
+      "number": "21",
+      "title": "Antagonism",
+      "date": "2014/08/22",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-22",
+      "number": "22",
+      "title": "Crisis",
+      "date": "2014/08/22",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-23",
+      "number": "23",
+      "title": "Fighting Spirit",
+      "date": "2014/08/22",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-24",
+      "number": "24",
+      "title": "Glimpse",
+      "date": "2014/08/23",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-25",
+      "number": "25",
+      "title": "Conspiracy",
+      "date": "2014/08/23",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-26",
+      "number": "26",
+      "title": "Destruction",
+      "date": "2014/08/26",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-27",
+      "number": "27",
+      "title": "Disappearance",
+      "date": "2014/09/13",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-28",
+      "number": "28",
+      "title": "Face Eaters",
+      "date": "2014/09/15",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-29",
+      "number": "29",
+      "title": "Hidden Arrow",
+      "date": "2014/09/15",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-30",
+      "number": "30",
+      "title": "Merge",
+      "date": "2014/09/16",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-31",
+      "number": "31",
+      "title": "Gare",
+      "date": "2014/09/17",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-32",
+      "number": "32",
+      "title": "New World",
+      "date": "2014/09/17",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-33",
+      "number": "33",
+      "title": "Gate",
+      "date": "2014/09/17",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-34",
+      "number": "34",
+      "title": "To The World Outside",
+      "date": "2014/09/20",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-35",
+      "number": "35",
+      "title": "Son Of Ramo",
+      "date": "2014/09/22",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-36",
+      "number": "36",
+      "title": "Nightmare and Reality",
+      "date": "2014/09/24",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-37",
+      "number": "37",
+      "title": "Organize",
+      "date": "2014/09/29",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-38",
+      "number": "38",
+      "title": "Decisive Attacks",
+      "date": "2014/09/29",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-39",
+      "number": "39",
+      "title": "Advance",
+      "date": "2014/09/29",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-40",
+      "number": "40",
+      "title": "Advance",
+      "date": "2014/09/29",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-41",
+      "number": "41",
+      "title": "Ambush With the Fog",
+      "date": "2014/09/30",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-42",
+      "number": "42",
+      "title": "Kidnapped",
+      "date": "2014/09/30",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-43",
+      "number": "43",
+      "title": "Eye of the Storm",
+      "date": "2014/09/30",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-44",
+      "number": "44",
+      "title": "Besieged",
+      "date": "2014/09/30",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-45",
+      "number": "45",
+      "title": "Brutal Duel",
+      "date": "2014/09/30",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-46",
+      "number": "46",
+      "title": "Into the Abyss",
+      "date": "2014/09/30",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-47",
+      "number": "47",
+      "title": "Sword of My Father",
+      "date": "2014/09/30",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-48",
+      "number": "48",
+      "title": "Lured",
+      "date": "2014/10/02",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-49",
+      "number": "49",
+      "title": "Moyong-So's Answer",
+      "date": "2014/10/02",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-50",
+      "number": "50",
+      "title": "Warsong",
+      "date": "2014/11/05",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-51",
+      "number": "51",
+      "title": "Betrayer",
+      "date": "2014/11/05",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-52",
+      "number": "52",
+      "title": "Unintentional Encounter",
+      "date": "2014/11/05",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-53",
+      "number": "53",
+      "title": "Campanion",
+      "date": "2014/11/09",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-54",
+      "number": "54",
+      "title": "turbulent Destinies",
+      "date": "2014/11/09",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-55",
+      "number": "55",
+      "title": "Price For A Life",
+      "date": "2014/11/09",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-56",
+      "number": "56",
+      "title": "Fragment Of The Past",
+      "date": "2014/11/12",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-57",
+      "number": "57",
+      "title": "The Screams From Daram's Castle",
+      "date": "2014/11/16",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-58",
+      "number": "58",
+      "title": "Collapsing Castle",
+      "date": "2014/11/16",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-59",
+      "number": "59",
+      "title": "Road to Destruction",
+      "date": "2014/11/16",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-60",
+      "number": "60",
+      "title": "To The Death",
+      "date": "2014/11/19",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-61",
+      "number": "61",
+      "title": "Rebel Forces",
+      "date": "2014/11/19",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-62",
+      "number": "62",
+      "title": "Past Karma",
+      "date": "2014/11/24",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-63",
+      "number": "63",
+      "title": "The Price of His Sin",
+      "date": "2014/12/05",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-64",
+      "number": "64",
+      "title": "",
+      "date": "2015/02/17",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-65",
+      "number": "65",
+      "title": "",
+      "date": "2015/02/22",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-66",
+      "number": "66",
+      "title": "",
+      "date": "2015/03/12",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-67",
+      "number": "67",
+      "title": "Guiding Omen",
+      "date": "2015/03/16",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-68",
+      "number": "68",
+      "title": "The King Lord's Descent",
+      "date": "2015/03/20",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-69",
+      "number": "69",
+      "title": "King Lord Ramo",
+      "date": "2015/03/21",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-70",
+      "number": "70",
+      "title": "Man of Tenacity",
+      "date": "2015/03/25",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-71",
+      "number": "71",
+      "title": "Again Forwards!",
+      "date": "2015/04/04",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-72",
+      "number": "72",
+      "title": "Like A Fire",
+      "date": "2015/04/11",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-73",
+      "number": "73",
+      "title": "Opportunity and Revenge",
+      "date": "2015/05/18",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-74",
+      "number": "74",
+      "title": "",
+      "date": "2015/06/27",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-75",
+      "number": "75",
+      "title": "Emperor Shamakal",
+      "date": "2015/07/03",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-76",
+      "number": "76",
+      "title": "King of Darkness",
+      "date": "2015/08/12",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-77",
+      "number": "77",
+      "title": "Nightmare's Identity",
+      "date": "2015/08/12",
+      "pages": []
+    },
+    {
+      "id": "mercenary-maruhan-78",
+      "number": "78",
+      "title": "What Choice",
+      "date": "2015/08/12",
+      "pages": []
+    }
+  ]
+}

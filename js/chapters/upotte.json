@@ -1,0 +1,753 @@
+{
+  "en": [
+    {
+      "id": "upotte-1",
+      "number": "1",
+      "title": "",
+      "date": "2009/10/13",
+      "pages": []
+    },
+    {
+      "id": "upotte-2",
+      "number": "2",
+      "title": "2",
+      "date": "2009/11/04",
+      "pages": []
+    },
+    {
+      "id": "upotte-3",
+      "number": "3",
+      "title": "3",
+      "date": "2009/11/08",
+      "pages": []
+    },
+    {
+      "id": "upotte-4",
+      "number": "4",
+      "title": "4",
+      "date": "2009/11/08",
+      "pages": []
+    },
+    {
+      "id": "upotte-5",
+      "number": "5",
+      "title": "5",
+      "date": "2009/11/17",
+      "pages": []
+    },
+    {
+      "id": "upotte-6",
+      "number": "6",
+      "title": "6",
+      "date": "2010/01/06",
+      "pages": []
+    },
+    {
+      "id": "upotte-7",
+      "number": "7",
+      "title": "7",
+      "date": "2010/05/20",
+      "pages": []
+    },
+    {
+      "id": "upotte-8",
+      "number": "8",
+      "title": "8",
+      "date": "2010/05/28",
+      "pages": []
+    },
+    {
+      "id": "upotte-9",
+      "number": "9",
+      "title": "",
+      "date": "2011/04/29",
+      "pages": []
+    },
+    {
+      "id": "upotte-10",
+      "number": "10",
+      "title": "",
+      "date": "2011/04/29",
+      "pages": []
+    },
+    {
+      "id": "upotte-11",
+      "number": "11",
+      "title": "",
+      "date": "2011/04/29",
+      "pages": []
+    },
+    {
+      "id": "upotte-12",
+      "number": "12",
+      "title": "",
+      "date": "2011/06/26",
+      "pages": []
+    },
+    {
+      "id": "upotte-13",
+      "number": "13",
+      "title": "",
+      "date": "2011/07/31",
+      "pages": []
+    },
+    {
+      "id": "upotte-14",
+      "number": "14",
+      "title": "",
+      "date": "2011/12/28",
+      "pages": []
+    },
+    {
+      "id": "upotte-15",
+      "number": "15",
+      "title": "",
+      "date": "2012/02/02",
+      "pages": []
+    },
+    {
+      "id": "upotte-16",
+      "number": "16",
+      "title": "",
+      "date": "2012/04/28",
+      "pages": []
+    },
+    {
+      "id": "upotte-17",
+      "number": "17",
+      "title": "",
+      "date": "2012/04/28",
+      "pages": []
+    },
+    {
+      "id": "upotte-18",
+      "number": "18",
+      "title": "",
+      "date": "2012/04/28",
+      "pages": []
+    },
+    {
+      "id": "upotte-19",
+      "number": "19",
+      "title": "",
+      "date": "2012/04/28",
+      "pages": []
+    },
+    {
+      "id": "upotte-21",
+      "number": "21",
+      "title": "",
+      "date": "2012/08/19",
+      "pages": []
+    },
+    {
+      "id": "upotte-22",
+      "number": "22",
+      "title": "",
+      "date": "2012/08/19",
+      "pages": []
+    },
+    {
+      "id": "upotte-23",
+      "number": "23",
+      "title": "",
+      "date": "2012/08/19",
+      "pages": []
+    },
+    {
+      "id": "upotte-24",
+      "number": "24",
+      "title": "",
+      "date": "2012/08/19",
+      "pages": []
+    },
+    {
+      "id": "upotte-25",
+      "number": "25",
+      "title": "",
+      "date": "2012/08/19",
+      "pages": []
+    },
+    {
+      "id": "upotte-26",
+      "number": "26",
+      "title": "",
+      "date": "2012/08/19",
+      "pages": []
+    },
+    {
+      "id": "upotte-27",
+      "number": "27",
+      "title": "",
+      "date": "2012/08/19",
+      "pages": []
+    },
+    {
+      "id": "upotte-28",
+      "number": "28",
+      "title": "",
+      "date": "2012/08/19",
+      "pages": []
+    },
+    {
+      "id": "upotte-29",
+      "number": "29",
+      "title": "",
+      "date": "2012/08/19",
+      "pages": []
+    },
+    {
+      "id": "upotte-30",
+      "number": "30",
+      "title": "",
+      "date": "2012/08/19",
+      "pages": []
+    },
+    {
+      "id": "upotte-31",
+      "number": "31",
+      "title": "",
+      "date": "2012/08/19",
+      "pages": []
+    },
+    {
+      "id": "upotte-32",
+      "number": "32",
+      "title": "",
+      "date": "2012/08/19",
+      "pages": []
+    },
+    {
+      "id": "upotte-33",
+      "number": "33",
+      "title": "",
+      "date": "2012/08/19",
+      "pages": []
+    },
+    {
+      "id": "upotte-34",
+      "number": "34",
+      "title": "",
+      "date": "2012/08/19",
+      "pages": []
+    },
+    {
+      "id": "upotte-35",
+      "number": "35",
+      "title": "",
+      "date": "2012/09/01",
+      "pages": []
+    },
+    {
+      "id": "upotte-36",
+      "number": "36",
+      "title": "",
+      "date": "2012/12/15",
+      "pages": []
+    },
+    {
+      "id": "upotte-37",
+      "number": "37",
+      "title": "",
+      "date": "2013/01/06",
+      "pages": []
+    },
+    {
+      "id": "upotte-38",
+      "number": "38",
+      "title": "",
+      "date": "2013/01/06",
+      "pages": []
+    },
+    {
+      "id": "upotte-39",
+      "number": "39",
+      "title": "",
+      "date": "2013/02/27",
+      "pages": []
+    },
+    {
+      "id": "upotte-40",
+      "number": "40",
+      "title": "",
+      "date": "2013/03/03",
+      "pages": []
+    },
+    {
+      "id": "upotte-41",
+      "number": "41",
+      "title": "",
+      "date": "2013/04/02",
+      "pages": []
+    },
+    {
+      "id": "upotte-42",
+      "number": "42",
+      "title": "",
+      "date": "2013/09/30",
+      "pages": []
+    },
+    {
+      "id": "upotte-43",
+      "number": "43",
+      "title": "",
+      "date": "2013/09/30",
+      "pages": []
+    },
+    {
+      "id": "upotte-44",
+      "number": "44",
+      "title": "",
+      "date": "2013/09/30",
+      "pages": []
+    },
+    {
+      "id": "upotte-45",
+      "number": "45",
+      "title": "",
+      "date": "2013/09/30",
+      "pages": []
+    },
+    {
+      "id": "upotte-46",
+      "number": "46",
+      "title": "",
+      "date": "2013/09/30",
+      "pages": []
+    },
+    {
+      "id": "upotte-47",
+      "number": "47",
+      "title": "",
+      "date": "2014/02/03",
+      "pages": []
+    },
+    {
+      "id": "upotte-48",
+      "number": "48",
+      "title": "",
+      "date": "2014/02/03",
+      "pages": []
+    },
+    {
+      "id": "upotte-49",
+      "number": "49",
+      "title": "",
+      "date": "2014/02/03",
+      "pages": []
+    },
+    {
+      "id": "upotte-50",
+      "number": "50",
+      "title": "",
+      "date": "2014/03/11",
+      "pages": []
+    },
+    {
+      "id": "upotte-51",
+      "number": "51",
+      "title": "",
+      "date": "2014/07/01",
+      "pages": []
+    },
+    {
+      "id": "upotte-52",
+      "number": "52",
+      "title": "",
+      "date": "2014/07/01",
+      "pages": []
+    },
+    {
+      "id": "upotte-53",
+      "number": "53",
+      "title": "",
+      "date": "2014/07/01",
+      "pages": []
+    },
+    {
+      "id": "upotte-54",
+      "number": "54",
+      "title": "",
+      "date": "2014/09/26",
+      "pages": []
+    },
+    {
+      "id": "upotte-55",
+      "number": "55",
+      "title": "",
+      "date": "2014/09/26",
+      "pages": []
+    },
+    {
+      "id": "upotte-56",
+      "number": "56",
+      "title": "",
+      "date": "2014/10/29",
+      "pages": []
+    },
+    {
+      "id": "upotte-57",
+      "number": "57",
+      "title": "",
+      "date": "2014/11/18",
+      "pages": []
+    },
+    {
+      "id": "upotte-58",
+      "number": "58",
+      "title": "",
+      "date": "2015/03/30",
+      "pages": []
+    },
+    {
+      "id": "upotte-59",
+      "number": "59",
+      "title": "",
+      "date": "2015/03/30",
+      "pages": []
+    },
+    {
+      "id": "upotte-60",
+      "number": "60",
+      "title": "",
+      "date": "2015/05/04",
+      "pages": []
+    },
+    {
+      "id": "upotte-61",
+      "number": "61",
+      "title": "",
+      "date": "2015/05/04",
+      "pages": []
+    },
+    {
+      "id": "upotte-62",
+      "number": "62",
+      "title": "",
+      "date": "2015/07/15",
+      "pages": []
+    },
+    {
+      "id": "upotte-63",
+      "number": "63",
+      "title": "",
+      "date": "2015/09/06",
+      "pages": []
+    },
+    {
+      "id": "upotte-64",
+      "number": "64",
+      "title": "",
+      "date": "2016/04/24",
+      "pages": []
+    },
+    {
+      "id": "upotte-65",
+      "number": "65",
+      "title": "",
+      "date": "2016/04/24",
+      "pages": []
+    },
+    {
+      "id": "upotte-66",
+      "number": "66",
+      "title": "",
+      "date": "2016/04/24",
+      "pages": []
+    },
+    {
+      "id": "upotte-67",
+      "number": "67",
+      "title": "",
+      "date": "2016/04/24",
+      "pages": []
+    },
+    {
+      "id": "upotte-68",
+      "number": "68",
+      "title": "",
+      "date": "2016/04/24",
+      "pages": []
+    },
+    {
+      "id": "upotte-69",
+      "number": "69",
+      "title": "",
+      "date": "2016/05/01",
+      "pages": []
+    },
+    {
+      "id": "upotte-70",
+      "number": "70",
+      "title": "",
+      "date": "2016/07/13",
+      "pages": []
+    },
+    {
+      "id": "upotte-71",
+      "number": "71",
+      "title": "",
+      "date": "2016/07/13",
+      "pages": []
+    },
+    {
+      "id": "upotte-72",
+      "number": "72",
+      "title": "",
+      "date": "2016/08/08",
+      "pages": []
+    },
+    {
+      "id": "upotte-73",
+      "number": "73",
+      "title": "",
+      "date": "2016/11/02",
+      "pages": []
+    },
+    {
+      "id": "upotte-74",
+      "number": "74",
+      "title": "",
+      "date": "2016/11/02",
+      "pages": []
+    },
+    {
+      "id": "upotte-75",
+      "number": "75",
+      "title": "",
+      "date": "2016/12/22",
+      "pages": []
+    },
+    {
+      "id": "upotte-76",
+      "number": "76",
+      "title": "",
+      "date": "2017/01/23",
+      "pages": []
+    },
+    {
+      "id": "upotte-77",
+      "number": "77",
+      "title": "",
+      "date": "2017/03/28",
+      "pages": []
+    },
+    {
+      "id": "upotte-78",
+      "number": "78",
+      "title": "",
+      "date": "2017/03/28",
+      "pages": []
+    },
+    {
+      "id": "upotte-79",
+      "number": "79",
+      "title": "",
+      "date": "2017/04/08",
+      "pages": []
+    },
+    {
+      "id": "upotte-80",
+      "number": "80",
+      "title": "",
+      "date": "2018/03/20",
+      "pages": []
+    },
+    {
+      "id": "upotte-81",
+      "number": "81",
+      "title": "",
+      "date": "2018/03/20",
+      "pages": []
+    },
+    {
+      "id": "upotte-82",
+      "number": "82",
+      "title": "",
+      "date": "2018/03/20",
+      "pages": []
+    },
+    {
+      "id": "upotte-83",
+      "number": "83",
+      "title": "",
+      "date": "2018/03/20",
+      "pages": []
+    },
+    {
+      "id": "upotte-84",
+      "number": "84",
+      "title": "",
+      "date": "2018/03/20",
+      "pages": []
+    },
+    {
+      "id": "upotte-85",
+      "number": "85",
+      "title": "",
+      "date": "2018/03/20",
+      "pages": []
+    },
+    {
+      "id": "upotte-86",
+      "number": "86",
+      "title": "",
+      "date": "2018/03/20",
+      "pages": []
+    },
+    {
+      "id": "upotte-87",
+      "number": "87",
+      "title": "",
+      "date": "2018/06/22",
+      "pages": []
+    },
+    {
+      "id": "upotte-88",
+      "number": "88",
+      "title": "",
+      "date": "2018/06/22",
+      "pages": []
+    },
+    {
+      "id": "upotte-89",
+      "number": "89",
+      "title": "",
+      "date": "2018/06/22",
+      "pages": []
+    },
+    {
+      "id": "upotte-90",
+      "number": "90",
+      "title": "",
+      "date": "2018/06/22",
+      "pages": []
+    },
+    {
+      "id": "upotte-91",
+      "number": "91",
+      "title": "",
+      "date": "2018/10/18",
+      "pages": []
+    },
+    {
+      "id": "upotte-92",
+      "number": "92",
+      "title": "",
+      "date": "2019/03/08",
+      "pages": []
+    },
+    {
+      "id": "upotte-93",
+      "number": "93",
+      "title": "Tightly Knit Bonds",
+      "date": "2019/08/13",
+      "pages": []
+    },
+    {
+      "id": "upotte-94",
+      "number": "94",
+      "title": "Pointing at",
+      "date": "2019/08/13",
+      "pages": []
+    },
+    {
+      "id": "upotte-95",
+      "number": "95",
+      "title": "Squarely she stands, outstanding big sister!!",
+      "date": "2019/12/29",
+      "pages": []
+    },
+    {
+      "id": "upotte-96",
+      "number": "96",
+      "title": "",
+      "date": "2020/04/21",
+      "pages": []
+    },
+    {
+      "id": "upotte-97",
+      "number": "97",
+      "title": "",
+      "date": "2020/07/17",
+      "pages": []
+    },
+    {
+      "id": "upotte-98",
+      "number": "98",
+      "title": "Refreshing Body and Heart at the Onsen",
+      "date": "2020/07/29",
+      "pages": []
+    },
+    {
+      "id": "upotte-99",
+      "number": "99",
+      "title": "Settle the conclusion!!",
+      "date": "2020/10/04",
+      "pages": []
+    },
+    {
+      "id": "upotte-100",
+      "number": "100",
+      "title": "100 - VS The Traitor BM59-!!",
+      "date": "2020/10/11",
+      "pages": []
+    },
+    {
+      "id": "upotte-101",
+      "number": "101",
+      "title": "This Leisurely Bunch Certainly Must've Passed Time Joyfully-",
+      "date": "2020/11/21",
+      "pages": []
+    },
+    {
+      "id": "upotte-102",
+      "number": "102",
+      "title": "Fierce Battle, Getting Heated!!",
+      "date": "2021/02/16",
+      "pages": []
+    },
+    {
+      "id": "upotte-103",
+      "number": "103",
+      "title": "",
+      "date": "2021/04/14",
+      "pages": []
+    },
+    {
+      "id": "upotte-104",
+      "number": "104",
+      "title": "",
+      "date": "2021/08/23",
+      "pages": []
+    },
+    {
+      "id": "upotte-105",
+      "number": "105",
+      "title": "Actually... we're assault rifles",
+      "date": "2022/12/05",
+      "pages": []
+    },
+    {
+      "id": "upotte-106",
+      "number": "106",
+      "title": "The long gone peaceful days. A scene from a rainy day.",
+      "date": "2023/06/01",
+      "pages": []
+    },
+    {
+      "id": "upotte-107",
+      "number": "107",
+      "title": "",
+      "date": "2024/02/29",
+      "pages": []
+    },
+    {
+      "id": "upotte-108",
+      "number": "108",
+      "title": "",
+      "date": "2025/03/18",
+      "pages": []
+    }
+  ]
+}

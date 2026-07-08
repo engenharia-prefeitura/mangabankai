@@ -1,0 +1,620 @@
+{
+  "en": [
+    {
+      "id": "tobaku-haouden-rei-gyankihen-1",
+      "number": "1",
+      "title": "",
+      "date": "2011/07/14",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-2",
+      "number": "2",
+      "title": "Secret Scheme",
+      "date": "2011/07/31",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-3",
+      "number": "3",
+      "title": "Strategy",
+      "date": "2011/07/31",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-4",
+      "number": "4",
+      "title": "Perfect",
+      "date": "2011/08/02",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-5",
+      "number": "5",
+      "title": "The Unknown",
+      "date": "2011/08/16",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-6",
+      "number": "6",
+      "title": "Information",
+      "date": "2011/12/06",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-7",
+      "number": "7",
+      "title": "Calculation",
+      "date": "2011/12/06",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-8",
+      "number": "8",
+      "title": "Magic",
+      "date": "2012/01/01",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-9",
+      "number": "9",
+      "title": "Trust",
+      "date": "2012/01/05",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-10",
+      "number": "10",
+      "title": "Conclusion",
+      "date": "2012/01/05",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-11",
+      "number": "11",
+      "title": "Progress",
+      "date": "2012/01/05",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-12",
+      "number": "12",
+      "title": "Establishment",
+      "date": "2012/01/05",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-13",
+      "number": "13",
+      "title": "Lynching",
+      "date": "2012/01/07",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-14",
+      "number": "14",
+      "title": "Pure",
+      "date": "2012/01/07",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-15",
+      "number": "15",
+      "title": "The Set Play",
+      "date": "2012/01/07",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-16",
+      "number": "16",
+      "title": "Carelessness",
+      "date": "2012/01/07",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-17",
+      "number": "17",
+      "title": "Right",
+      "date": "2012/03/26",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-18",
+      "number": "18",
+      "title": "Offense And Defense",
+      "date": "2012/03/27",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-19",
+      "number": "19",
+      "title": "How",
+      "date": "2012/03/28",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-20",
+      "number": "20",
+      "title": "A Miracle!",
+      "date": "2012/03/29",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-21",
+      "number": "21",
+      "title": "Fate",
+      "date": "2012/04/01",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-22",
+      "number": "22",
+      "title": "Proper",
+      "date": "2012/04/01",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-23",
+      "number": "23",
+      "title": "Blunder",
+      "date": "2012/04/03",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-24",
+      "number": "24",
+      "title": "Guess",
+      "date": "2012/04/04",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-25",
+      "number": "25",
+      "title": "Suspicion",
+      "date": "2012/04/06",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-26",
+      "number": "26",
+      "title": "Concealment",
+      "date": "2012/06/25",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-27",
+      "number": "27",
+      "title": "Expectation",
+      "date": "2012/06/25",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-28",
+      "number": "28",
+      "title": "Formation",
+      "date": "2012/06/27",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-29",
+      "number": "29",
+      "title": "Hidden Power",
+      "date": "2012/06/27",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-30",
+      "number": "30",
+      "title": "Tail",
+      "date": "2012/06/28",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-31",
+      "number": "31",
+      "title": "Sure Bet",
+      "date": "2012/06/28",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-32",
+      "number": "32",
+      "title": "Clairveyance",
+      "date": "2012/06/29",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-33",
+      "number": "33",
+      "title": "Demon",
+      "date": "2012/06/29",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-34",
+      "number": "34",
+      "title": "Celessal",
+      "date": "2012/06/29",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-35",
+      "number": "35",
+      "title": "Life",
+      "date": "2012/08/23",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-36",
+      "number": "36",
+      "title": "Responsibility",
+      "date": "2012/08/30",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-37",
+      "number": "37",
+      "title": "Reasoning",
+      "date": "2012/08/30",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-38",
+      "number": "38",
+      "title": "",
+      "date": "2012/08/30",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-39",
+      "number": "39",
+      "title": "Prudence",
+      "date": "2012/08/31",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-40",
+      "number": "40",
+      "title": "Code",
+      "date": "2012/09/03",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-41",
+      "number": "41",
+      "title": "Meeting",
+      "date": "2012/09/03",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-42",
+      "number": "42",
+      "title": "Synopsis",
+      "date": "2012/09/03",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-43",
+      "number": "43",
+      "title": "Patience",
+      "date": "2012/09/03",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-44",
+      "number": "44",
+      "title": "Conjecture",
+      "date": "2012/11/23",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-45",
+      "number": "45",
+      "title": "Hike",
+      "date": "2012/11/23",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-46",
+      "number": "46",
+      "title": "True Meaning",
+      "date": "2012/11/25",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-47",
+      "number": "47",
+      "title": "Descent",
+      "date": "2012/11/25",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-48",
+      "number": "48",
+      "title": "Bird's Eye View",
+      "date": "2012/11/28",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-49",
+      "number": "49",
+      "title": "Past Boys",
+      "date": "2012/11/28",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-50",
+      "number": "50",
+      "title": "Impatience",
+      "date": "2012/11/28",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-51",
+      "number": "51",
+      "title": "Dead Trip",
+      "date": "2012/12/01",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-52",
+      "number": "52",
+      "title": "Memory",
+      "date": "2012/12/01",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-53",
+      "number": "53",
+      "title": "Outlook",
+      "date": "2013/05/16",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-54",
+      "number": "54",
+      "title": "Together",
+      "date": "2013/05/16",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-55",
+      "number": "55",
+      "title": "Progress",
+      "date": "2013/05/17",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-56",
+      "number": "56",
+      "title": "Reminiscing",
+      "date": "2013/05/17",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-57",
+      "number": "57",
+      "title": "Rescue",
+      "date": "2013/05/19",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-58",
+      "number": "58",
+      "title": "Heaven's Blessing",
+      "date": "2013/05/20",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-59",
+      "number": "59",
+      "title": "Dinner",
+      "date": "2013/05/22",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-60",
+      "number": "60",
+      "title": "Concern",
+      "date": "2013/05/27",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-61",
+      "number": "61",
+      "title": "Dire",
+      "date": "2013/05/27",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-62",
+      "number": "62",
+      "title": "Investigation",
+      "date": "2013/08/18",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-63",
+      "number": "63",
+      "title": "Surroundings",
+      "date": "2013/08/19",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-64",
+      "number": "64",
+      "title": "Shacks",
+      "date": "2013/08/24",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-65",
+      "number": "65",
+      "title": "Urgent Business",
+      "date": "2013/08/24",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-66",
+      "number": "66",
+      "title": "A Voice Calling For Help...!?",
+      "date": "2013/08/27",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-67",
+      "number": "67",
+      "title": "Sign",
+      "date": "2013/08/30",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-68",
+      "number": "68",
+      "title": "Deep Breath",
+      "date": "2013/09/02",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-69",
+      "number": "69",
+      "title": "Long Awaited Find",
+      "date": "2013/09/03",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-70",
+      "number": "70",
+      "title": "Darkness",
+      "date": "2013/09/05",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-71",
+      "number": "71",
+      "title": "Letters",
+      "date": "2013/09/11",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-72",
+      "number": "72",
+      "title": "Mad Dash",
+      "date": "2013/09/12",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-73",
+      "number": "73",
+      "title": "Smokescreen",
+      "date": "2013/09/14",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-74",
+      "number": "74",
+      "title": "Mark",
+      "date": "2013/09/16",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-75",
+      "number": "75",
+      "title": "Suspicion",
+      "date": "2013/09/18",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-76",
+      "number": "76",
+      "title": "Agitation",
+      "date": "2013/09/20",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-77",
+      "number": "77",
+      "title": "Lone",
+      "date": "2013/09/21",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-78",
+      "number": "78",
+      "title": "Remains",
+      "date": "2013/09/25",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-79",
+      "number": "79",
+      "title": "Appearance",
+      "date": "2013/09/25",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-80",
+      "number": "80",
+      "title": "Bikou",
+      "date": "2013/10/03",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-81",
+      "number": "81",
+      "title": "Wish",
+      "date": "2013/10/04",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-82",
+      "number": "82",
+      "title": "Perspective",
+      "date": "2013/10/06",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-83",
+      "number": "83",
+      "title": "Instant",
+      "date": "2013/10/07",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-84",
+      "number": "84",
+      "title": "Fervor",
+      "date": "2013/10/09",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-85",
+      "number": "85",
+      "title": "Criminal",
+      "date": "2013/10/10",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-86",
+      "number": "86",
+      "title": "Anxiety",
+      "date": "2013/10/11",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-87",
+      "number": "87",
+      "title": "Reward",
+      "date": "2013/10/14",
+      "pages": []
+    },
+    {
+      "id": "tobaku-haouden-rei-gyankihen-88",
+      "number": "88",
+      "title": "Fate (End)",
+      "date": "2013/10/14",
+      "pages": []
+    }
+  ]
+}

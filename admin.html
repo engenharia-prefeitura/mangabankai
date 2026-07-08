@@ -1,0 +1,1576 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script>
+    // Shield de Segurança do Administrador
+    (async function() {
+      try {
+        const res = await fetch('/api/auth/check-admin');
+        const data = await res.json();
+        if (!res.ok || !data.isAdmin) {
+          // Apaga o HTML e redireciona instantaneamente
+          document.documentElement.innerHTML = '<div style="background:#0a0a0f;color:#fff;display:flex;align-items:center;justify-content:center;height:100vh;font-family:sans-serif;font-weight:600;">Acesso Proibido. Redirecionando...</div>';
+          window.location.replace('index.html');
+        } else {
+          // Libera o acesso exibindo o body
+          document.documentElement.classList.add('admin-authorized');
+        }
+      } catch (e) {
+        document.documentElement.innerHTML = '<div style="background:#0a0a0f;color:#fff;display:flex;align-items:center;justify-content:center;height:100vh;font-family:sans-serif;font-weight:600;">Erro de Autenticação. Redirecionando...</div>';
+        window.location.replace('index.html');
+      }
+    })();
+  </script>
+  <style>
+    /* Ocultar o body por padrão até confirmar que é admin no backend */
+    html:not(.admin-authorized) body {
+      display: none !important;
+    }
+  </style>
+  <title>MangaBankai — Administração</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0a0a0f; --surface: #13131a; --surface2: #1c1c28;
+      --border: rgba(255,255,255,0.08); --accent: #6c63ff; --accent2: #ff6584;
+      --green: #22c55e; --yellow: #f59e0b; --red: #ef4444;
+      --text: #e2e8f0; --muted: #64748b; --pt: #22c55e; --en: #6c63ff;
+    }
+    * { margin:0; padding:0; box-sizing:border-box; }
+    body { font-family:'Inter',sans-serif; background:var(--bg); color:var(--text); min-height:100vh; }
+
+    header { background:var(--surface); border-bottom:1px solid var(--border); padding:16px 32px; display:flex; align-items:center; gap:16px; }
+    .logo { font-size:1.4rem; font-weight:700; letter-spacing:-0.5px; }
+    .logo span { color:var(--accent); }
+    .badge { background:linear-gradient(135deg,var(--accent),var(--accent2)); color:#fff; font-size:.7rem; font-weight:700; padding:3px 10px; border-radius:20px; letter-spacing:1px; text-transform:uppercase; }
+    .nav-link { margin-left:auto; color:var(--muted); text-decoration:none; font-size:.875rem; transition:color .2s; }
+    .nav-link:hover { color:var(--text); }
+
+    .container { max-width:1200px; margin:0 auto; padding:32px 24px; }
+
+    /* Connection */
+    .conn-status { display:flex; align-items:center; gap:8px; font-size:.78rem; color:var(--muted); margin-bottom:20px; }
+    .conn-dot { width:8px; height:8px; border-radius:50%; background:var(--red); transition:background .3s; }
+    .conn-dot.ok { background:var(--green); }
+    .notice { background:rgba(245,158,11,.1); border:1px solid rgba(245,158,11,.3); border-radius:12px; padding:14px 18px; font-size:.85rem; color:var(--yellow); margin-bottom:20px; display:none; }
+    .notice.show { display:block; }
+    .notice code { background:rgba(0,0,0,.3); padding:2px 7px; border-radius:5px; }
+
+    /* Scraper remoto */
+    .scraper-cloud { background:var(--surface); border:1px solid var(--border); border-radius:16px; padding:24px; margin-bottom:28px; }
+    .scraper-cloud h2 { font-size:1rem; font-weight:600; margin-bottom:16px; }
+    .trigger-btns { display:flex; gap:10px; flex-wrap:wrap; margin-bottom:16px; }
+    .run-status { background:var(--surface2); border-radius:10px; padding:14px 16px; font-size:.85rem; display:none; }
+    .run-status.show { display:block; }
+    .run-status a { color:var(--accent); text-decoration:none; }
+    .run-status a:hover { text-decoration:underline; }
+    .run-dot { display:inline-block; width:8px; height:8px; border-radius:50%; margin-right:6px; background:var(--muted); }
+    .run-dot.queued { background:var(--yellow); }
+    .run-dot.in_progress { background:var(--green); animation:pulse 1.5s infinite; }
+    .run-dot.completed { background:var(--green); }
+    .run-dot.failed { background:var(--red); }
+
+    /* Cards */
+    .cards { display:grid; grid-template-columns:1fr 1fr; gap:20px; margin-bottom:28px; }
+    .card { background:var(--surface); border:1px solid var(--border); border-radius:16px; padding:24px; position:relative; overflow:hidden; }
+    .card::before { content:''; position:absolute; top:0; left:0; right:0; height:3px; }
+    .card.pt::before { background:linear-gradient(90deg,var(--pt),#4ade80); }
+    .card.en::before { background:linear-gradient(90deg,var(--en),var(--accent2)); }
+
+    .card-head { display:flex; align-items:center; gap:12px; margin-bottom:18px; }
+    .flag { font-size:1.8rem; }
+    .card-title { font-size:1.05rem; font-weight:600; }
+    .card-sub { font-size:.78rem; color:var(--muted); }
+    .status-pill { margin-left:auto; padding:4px 12px; border-radius:20px; font-size:.72rem; font-weight:700; text-transform:uppercase; letter-spacing:.5px; }
+    .s-idle { background:rgba(100,116,139,.2); color:var(--muted); }
+    .s-running { background:rgba(34,197,94,.15); color:var(--green); animation:pulse 2s infinite; }
+    .s-paused { background:rgba(245,158,11,.15); color:var(--yellow); }
+    .s-done { background:rgba(34,197,94,.15); color:var(--green); }
+    .s-error { background:rgba(239,68,68,.15); color:var(--red); }
+    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.6} }
+
+    /* Speed toggle */
+    .speed-row { display:flex; align-items:center; gap:8px; margin-bottom:14px; font-size:.8rem; color:var(--muted); }
+    .speed-btn { padding:4px 10px; border-radius:8px; border:1px solid var(--border); background:var(--surface2); color:var(--muted); font-size:.75rem; cursor:pointer; font-family:'Inter',sans-serif; transition:all .2s; }
+    .speed-btn.active { border-color:var(--accent); color:var(--text); background:rgba(108,99,255,.15); }
+    .speed-btn.active.fast { border-color:var(--green); color:var(--green); background:rgba(34,197,94,.1); }
+
+    /* Progress */
+    .prog-row { display:flex; justify-content:space-between; font-size:.78rem; color:var(--muted); margin-bottom:7px; }
+    .prog-bar { height:8px; background:var(--surface2); border-radius:4px; overflow:hidden; margin-bottom:10px; }
+    .prog-fill { height:100%; border-radius:4px; transition:width .5s ease; }
+    .card.pt .prog-fill { background:linear-gradient(90deg,var(--pt),#4ade80); }
+    .card.en .prog-fill { background:linear-gradient(90deg,var(--en),var(--accent2)); }
+
+    /* Workers */
+    .workers { display:flex; flex-direction:column; gap:4px; margin-bottom:12px; }
+    .worker { display:flex; align-items:center; gap:8px; font-size:.75rem; }
+    .worker-dot { width:6px; height:6px; border-radius:50%; background:var(--surface2); flex-shrink:0; transition:background .3s; }
+    .worker-dot.active { background:var(--green); animation:pulse 1.5s infinite; }
+    .worker-slug { color:var(--muted); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+
+    /* Stats */
+    .stats { display:flex; gap:12px; margin-bottom:16px; }
+    .stat { flex:1; text-align:center; background:var(--surface2); border-radius:10px; padding:10px 6px; }
+    .stat-v { font-size:1.15rem; font-weight:700; }
+    .stat-l { font-size:.68rem; color:var(--muted); margin-top:2px; }
+
+    /* Buttons */
+    .btns { display:flex; gap:8px; flex-wrap:wrap; }
+    .btn { padding:8px 16px; border-radius:10px; border:none; font-size:.83rem; font-weight:600; cursor:pointer; transition:all .2s; font-family:'Inter',sans-serif; }
+    .btn:disabled { opacity:.4; cursor:not-allowed; }
+    .btn-start { background:var(--green); color:#000; }
+    .btn-start:hover:not(:disabled) { background:#4ade80; transform:translateY(-1px); }
+    .btn-pause { background:var(--yellow); color:#000; }
+    .btn-pause:hover:not(:disabled) { background:#fcd34d; transform:translateY(-1px); }
+    .btn-resume { background:var(--accent); color:#fff; }
+    .btn-resume:hover:not(:disabled) { filter:brightness(1.2); transform:translateY(-1px); }
+    .btn-reset { background:var(--surface2); color:var(--muted); border:1px solid var(--border); }
+    .btn-reset:hover:not(:disabled) { color:var(--red); border-color:var(--red); }
+
+    /* Log */
+    .log-box { background:var(--surface); border:1px solid var(--border); border-radius:16px; padding:24px; }
+    .log-head { display:flex; align-items:center; margin-bottom:14px; }
+    .log-head h2 { font-size:1rem; font-weight:600; }
+    .btn-clr { margin-left:auto; padding:5px 12px; font-size:.75rem; border-radius:8px; background:var(--surface2); border:1px solid var(--border); color:var(--muted); cursor:pointer; font-family:'Inter',sans-serif; transition:all .2s; }
+    .btn-clr:hover { color:var(--text); }
+    .log-wrap { height:400px; overflow-y:auto; background:#07070d; border-radius:10px; padding:14px; font-family:'Courier New',monospace; font-size:.76rem; line-height:1.65; }
+    .log-wrap::-webkit-scrollbar { width:4px; }
+    .log-wrap::-webkit-scrollbar-thumb { background:var(--border); border-radius:2px; }
+    .le { display:flex; gap:10px; margin-bottom:2px; }
+    .lt { color:#2d3748; flex-shrink:0; }
+    .ll { flex-shrink:0; font-weight:700; width:26px; }
+    .ll.pt { color:var(--pt); }
+    .ll.en { color:var(--en); }
+    .lm { color:#64748b; }
+    .lm.success { color:var(--green); }
+    .lm.error { color:var(--red); }
+    .lm.warn { color:var(--yellow); }
+    
+    /* Substeps progress display */
+    .substep-row {
+      background: rgba(255,255,255,0.02);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 8px 12px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .substep-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.8rem;
+    }
+    .substep-name {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-weight: 600;
+    }
+    .substep-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: #4a5568;
+    }
+    .substep-dot.idle { background: #4a5568; }
+    .substep-dot.running { background: var(--accent); box-shadow: 0 0 8px var(--accent); animation: pulse 1.5s infinite; }
+    .substep-dot.done { background: var(--green); }
+    .substep-dot.paused { background: var(--yellow); }
+    .substep-dot.error { background: var(--red); }
+    
+    .substep-bar {
+      height: 4px;
+      background: rgba(255,255,255,0.05);
+      border-radius: 2px;
+      overflow: hidden;
+    }
+    .substep-fill {
+      height: 100%;
+      background: var(--accent);
+      width: 0%;
+      transition: width 0.3s ease;
+    }
+    .substep-fill.done {
+      background: var(--green);
+    }
+    @keyframes pulse {
+      0% { opacity: 0.6; }
+      50% { opacity: 1; }
+      100% { opacity: 0.6; }
+    }
+    
+    /* Estatísticas */
+    .stats-tabs { display:flex; gap:8px; margin-bottom:18px; flex-wrap:wrap; }
+    .stats-tab { padding:8px 14px; border-radius:10px; border:1px solid var(--border); background:var(--surface2); color:var(--muted); font-family:'Inter',sans-serif; font-size:0.8rem; font-weight:600; cursor:pointer; transition:all .2s; }
+    .stats-tab.active { border-color:var(--accent); color:var(--text); background:rgba(108,99,255,.15); }
+    .stats-pane { display:none; }
+    .stats-pane.active { display:block; }
+    .kpis { display:grid; grid-template-columns:repeat(auto-fit, minmax(150px, 1fr)); gap:12px; margin-bottom:20px; }
+    .kpi { background:var(--surface2); border:1px solid var(--border); border-radius:12px; padding:14px 12px; text-align:center; min-width:0; }
+    .kpi-v { font-size:1.3rem; font-weight:700; color:var(--text); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .kpi-l { font-size:0.66rem; color:var(--muted); margin-top:4px; text-transform:uppercase; letter-spacing:.4px; }
+    .kpi-s { font-size:0.68rem; color:var(--accent); margin-top:2px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .chart-box { background:var(--surface2); border:1px solid var(--border); border-radius:12px; padding:14px; margin-bottom:16px; min-width:0; overflow:hidden; }
+    .chart-title { font-size:0.78rem; color:var(--text); margin-bottom:2px; font-weight:600; }
+    .chart-sub { font-size:0.68rem; color:var(--muted); margin-bottom:10px; }
+    .bars { display:flex; align-items:flex-end; gap:2px; height:90px; }
+    .bars .bar { flex:1; background:linear-gradient(180deg,var(--accent),rgba(108,99,255,.35)); border-radius:3px 3px 0 0; min-height:2px; position:relative; }
+    .bars .bar:hover::after { content:attr(data-tip); position:absolute; bottom:100%; left:50%; transform:translateX(-50%); background:#000; color:#fff; font-size:0.65rem; padding:3px 7px; border-radius:6px; white-space:nowrap; z-index:5; margin-bottom:4px; }
+    .stats-grid2 { display:grid; grid-template-columns:1fr 1fr; gap:16px; margin-bottom:16px; }
+    @media (max-width: 700px) { .stats-grid2 { grid-template-columns:1fr; } }
+    /* table-layout:fixed + ellipsis → título longo nunca vaza do card */
+    .stbl { width:100%; border-collapse:collapse; font-size:0.78rem; table-layout:fixed; }
+    .stbl th { text-align:left; color:var(--muted); font-weight:600; padding:6px 8px; border-bottom:1px solid var(--border); font-size:0.7rem; text-transform:uppercase; letter-spacing:.4px; }
+    .stbl td { padding:6px 8px; border-bottom:1px solid rgba(255,255,255,0.04); color:var(--text); }
+    .stbl th, .stbl td { overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .stbl td.num, .stbl th.num { text-align:right; color:var(--accent); font-weight:700; }
+    .stbl .c-rank { width:30px; }
+    .stbl .c-val { width:76px; }
+    .stbl-wrap { max-height:340px; overflow-y:auto; overflow-x:auto; }
+    .stbl-wrap::-webkit-scrollbar { width:4px; height:4px; }
+    .stbl-wrap::-webkit-scrollbar-thumb { background:var(--border); border-radius:2px; }
+    .stbl.wide { min-width:720px; } /* tabela de usuários rola na horizontal no mobile */
+    .mini-btn { padding:4px 10px; border-radius:6px; border:none; cursor:pointer; font-size:0.72rem; font-weight:600; font-family:'Inter',sans-serif; }
+
+    @media (max-width: 768px) {
+      header { padding: 12px 16px; flex-wrap: wrap; gap: 8px; }
+      .logo { font-size: 1.2rem; }
+      .badge { font-size: 0.65rem; padding: 2px 8px; }
+      .nav-link { font-size: 0.8rem; }
+      .container { padding: 16px 12px; }
+      .cards { grid-template-columns: 1fr; gap: 16px; }
+      .card { padding: 16px; }
+      .stats { gap: 8px; }
+      .stat { padding: 8px 4px; }
+      .stat-v { font-size: 1rem; }
+      .stat-l { font-size: 0.6rem; }
+      .btn { padding: 8px 12px; font-size: 0.78rem; }
+      .log-box { padding: 16px; }
+      .log-wrap { height: 300px; padding: 10px; font-size: 0.72rem; }
+    }
+  </style>
+</head>
+<body>
+<header>
+  <div class="logo">Manga<span>Bankai</span></div>
+  <div class="badge">Admin</div>
+  <a href="index.html" class="nav-link">← Voltar ao Site</a>
+</header>
+
+<div class="container">
+  <div class="conn-status">
+    <div class="conn-dot" id="connDot"></div>
+    <span id="connLabel">Conectando...</span>
+  </div>
+  <div class="notice" id="notice">
+    ⚠️ Servidor admin offline. Abra um terminal e execute: <code>node admin-server.cjs</code>
+  </div>
+
+  <!-- Scraper via GitHub Actions (funciona em qualquer lugar) -->
+  <div class="scraper-cloud" id="scraperCloud">
+    <h2>🔄 Atualizar Dados dos Mangás</h2>
+    <div class="trigger-btns">
+      <button class="btn btn-start" onclick="triggerScrape('all')">▶ Atualizar Tudo</button>
+      <button class="btn" style="background:var(--pt);color:#000" onclick="triggerScrape('pt-only')">🇧🇷 Só PT</button>
+      <button class="btn" style="background:var(--en);color:#fff" onclick="triggerScrape('en-only')">🇬🇧 Só EN</button>
+    </div>
+    <div class="run-status" id="runStatus"></div>
+  </div>
+
+  <!-- Estatísticas do Site -->
+  <div class="scraper-cloud" id="statsCard">
+    <h2>📊 Estatísticas do Site</h2>
+    <p style="font-size:0.82rem; color:var(--muted); margin:4px 0 16px;">
+      Usuários, tempo de uso (cadastrados e anônimos), rankings de leitura, buscas sem resultado e reports de capítulos.
+    </p>
+    <div class="stats-tabs" id="statsTabs" style="display:none;">
+      <button class="stats-tab active" data-pane="overview" onclick="switchStatsTab('overview')">📈 Visão Geral</button>
+      <button class="stats-tab" data-pane="rankings" onclick="switchStatsTab('rankings')">🏆 Rankings</button>
+      <button class="stats-tab" data-pane="users" onclick="switchStatsTab('users')">👤 Usuários</button>
+      <button class="stats-tab" data-pane="feedback" onclick="switchStatsTab('feedback')">🔍 Buscas &amp; Reports</button>
+    </div>
+    <div id="statsBody" style="color:var(--muted); font-size:0.85rem;">Carregando estatísticas…</div>
+  </div>
+
+  <!-- Solicitações de Desindexação (titulares de direitos) -->
+  <div class="scraper-cloud" id="takedownCard">
+    <h2>© Solicitações de Desindexação</h2>
+    <p style="font-size:0.82rem; color:var(--muted); margin:4px 0 16px;">
+      Pedidos formais de titulares de direitos (Termos §2). O comprovante é sempre um PDF no Google Drive já validado pelo sistema.
+      <strong>Aprovar</strong> insere a obra na lista de ocultos (sai do catálogo, do sitemap e da página estática no próximo build).
+    </p>
+    <div id="takedownBody" style="color:var(--muted); font-size:0.85rem;">Carregando solicitações…</div>
+  </div>
+
+  <!-- Notificação Push Manual -->
+  <div class="scraper-cloud" id="pushCard">
+    <h2>🔔 Enviar Notificação Push</h2>
+    <p style="font-size:0.82rem; color:var(--muted); margin:4px 0 16px;">
+      Envia uma notificação para <strong id="pushSubsCount">…</strong> dispositivos inscritos. Use com moderação.
+    </p>
+    <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(220px, 1fr)); gap:12px; margin-bottom:12px;">
+      <div>
+        <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">Título (até 80)</label>
+        <input type="text" id="pushTitle" maxlength="80" placeholder="Ex: Promoção de fim de semana 🎉" style="width:100%; background:var(--surface2); border:1px solid var(--border); padding:8px 12px; border-radius:8px; color:var(--text); outline:none;">
+      </div>
+      <div>
+        <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">Mensagem (até 200)</label>
+        <input type="text" id="pushBody" maxlength="200" placeholder="Ex: Novos mangás adicionados, confira!" style="width:100%; background:var(--surface2); border:1px solid var(--border); padding:8px 12px; border-radius:8px; color:var(--text); outline:none;">
+      </div>
+      <div>
+        <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">Link ao clicar (opcional)</label>
+        <input type="text" id="pushUrl" placeholder="https://mangabankai.vercel.app/" style="width:100%; background:var(--surface2); border:1px solid var(--border); padding:8px 12px; border-radius:8px; color:var(--text); outline:none;">
+      </div>
+    </div>
+    <div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
+      <button class="btn btn-resume" id="pushSendBtn" onclick="sendManualPush()">📤 Enviar para Todos</button>
+      <span id="pushSendInfo" style="font-size:0.8rem; color:var(--muted);"></span>
+    </div>
+  </div>
+
+  <div class="cards" id="scraperCards">
+    <!-- PT -->
+    <div class="card pt">
+      <div class="card-head">
+        <div class="flag">🇧🇷</div>
+        <div>
+          <div class="card-title">Português (LeituraManga + MangaLivre)</div>
+          <div class="card-sub">Varredura dupla em PT (APIs JSON)</div>
+        </div>
+        <div class="status-pill s-idle" id="ptStatus">Ocioso</div>
+      </div>
+
+      <div class="speed-row">
+        <span>Velocidade:</span>
+        <button class="speed-btn active fast" id="ptSpeedFast" onclick="setSpeed('pt','fast')">⚡ Rápido (sem espera)</button>
+        <button class="speed-btn" id="ptSpeedSafe" onclick="setSpeed('pt','safe')">🛡 Seguro (350ms)</button>
+      </div>
+
+      <div class="speed-row" style="margin-top: 8px; margin-bottom: 14px;">
+        <span>Modo Varredura:</span>
+        <button class="speed-btn active fast" id="ptModeIncremental" onclick="setMode('pt','incremental')">⚡ Rápida (novidades)</button>
+        <button class="speed-btn" id="ptModeFull" onclick="setMode('pt','full')">📦 Completa (Catálogo)</button>
+      </div>
+
+      <div class="prog-row"><span>Progresso Geral</span><span id="ptPct">0 / 0 (0%)</span></div>
+      <div class="prog-bar"><div class="prog-fill" id="ptFill" style="width:0%"></div></div>
+      <div class="substeps-container" id="ptSubSteps" style="margin-top: 12px; display: flex; flex-direction: column; gap: 8px;"></div>
+
+      <div class="workers" id="ptWorkers">
+        <div class="worker" id="ptW0"><div class="worker-dot"></div><span class="worker-slug">Worker 1 — aguardando</span></div>
+        <div class="worker" id="ptW1"><div class="worker-dot"></div><span class="worker-slug">Worker 2 — aguardando</span></div>
+        <div class="worker" id="ptW2"><div class="worker-dot"></div><span class="worker-slug">Worker 3 — aguardando</span></div>
+        <div class="worker" id="ptW3"><div class="worker-dot"></div><span class="worker-slug">Worker 4 — aguardando</span></div>
+      </div>
+
+      <div class="stats">
+        <div class="stat"><div class="stat-v" id="ptDone">0</div><div class="stat-l">Processados</div></div>
+        <div class="stat"><div class="stat-v" id="ptTotal">0</div><div class="stat-l">Total</div></div>
+        <div class="stat"><div class="stat-v" id="ptErr">0</div><div class="stat-l">Erros</div></div>
+        <div class="stat"><div class="stat-v" id="ptQ">0</div><div class="stat-l">Na Fila</div></div>
+      </div>
+      <div class="btns">
+        <button class="btn btn-start" id="ptStart" onclick="go('pt','start')">▶ Iniciar</button>
+        <button class="btn btn-pause" id="ptPause" onclick="go('pt','pause')" style="display:none">⏸ Pausar</button>
+        <button class="btn btn-resume" id="ptResume" onclick="go('pt','resume')" style="display:none">▶ Retomar</button>
+        <button class="btn btn-reset" id="ptReset" onclick="reset('pt')">↺ Reiniciar</button>
+      </div>
+    </div>
+
+    <!-- EN -->
+    <div class="card en">
+      <div class="card-head">
+        <div class="flag">🇬🇧</div>
+        <div>
+          <div class="card-title">English (MangaFreak + Hentai20.io)</div>
+          <div class="card-sub">MangaFreak • Hentai20.io (+18) • 2 workers paralelos</div>
+        </div>
+        <div class="status-pill s-idle" id="enStatus">Ocioso</div>
+      </div>
+
+      <div class="speed-row">
+        <span>Velocidade:</span>
+        <button class="speed-btn active fast" id="enSpeedFast" onclick="setSpeed('en','fast')">⚡ Rápido (400ms)</button>
+        <button class="speed-btn" id="enSpeedSafe" onclick="setSpeed('en','safe')">🛡 Seguro (1.2s)</button>
+      </div>
+
+      <div class="speed-row" style="margin-top: 8px; margin-bottom: 14px;">
+        <span>Modo Varredura:</span>
+        <button class="speed-btn active fast" id="enModeIncremental" onclick="setMode('en','incremental')">⚡ Rápida (Lançamentos)</button>
+        <button class="speed-btn" id="enModeFull" onclick="setMode('en','full')">📦 Completa (Catálogo)</button>
+      </div>
+
+      <div class="prog-row"><span>Progresso Geral</span><span id="enPct">0 / 0 (0%)</span></div>
+      <div class="prog-bar"><div class="prog-fill" id="enFill" style="width:0%"></div></div>
+      <div class="substeps-container" id="enSubSteps" style="margin-top: 12px; display: flex; flex-direction: column; gap: 8px;"></div>
+
+      <div class="workers" id="enWorkers">
+        <div class="worker" id="enW0"><div class="worker-dot"></div><span class="worker-slug">Worker 1 — aguardando</span></div>
+        <div class="worker" id="enW1"><div class="worker-dot"></div><span class="worker-slug">Worker 2 — aguardando</span></div>
+      </div>
+
+      <div class="stats">
+        <div class="stat"><div class="stat-v" id="enDone">0</div><div class="stat-l">Processados</div></div>
+        <div class="stat"><div class="stat-v" id="enTotal">0</div><div class="stat-l">Total</div></div>
+        <div class="stat"><div class="stat-v" id="enErr">0</div><div class="stat-l">Erros</div></div>
+        <div class="stat"><div class="stat-v" id="enQ">0</div><div class="stat-l">Na Fila</div></div>
+      </div>
+      <div class="btns">
+        <button class="btn btn-start" id="enStart" onclick="go('en','start')">▶ Iniciar</button>
+        <button class="btn btn-pause" id="enPause" onclick="go('en','pause')" style="display:none">⏸ Pausar</button>
+        <button class="btn btn-resume" id="enResume" onclick="go('en','resume')" style="display:none">▶ Retomar</button>
+        <button class="btn btn-reset" id="enReset" onclick="reset('en')">↺ Reiniciar</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Fornecedores (por campo source) -->
+  <div class="scraper-cloud" id="suppliersCard" style="margin-top:28px; background:var(--surface); border:1px solid var(--border); border-radius:16px; padding:24px;">
+    <h2>📦 Fornecedores</h2>
+    <p style="font-size:0.82rem; color:var(--muted); margin:4px 0 18px;">Quantos mangás e capítulos cada fonte está fornecendo atualmente. <b>Clique num fornecedor</b> para ver as obras.</p>
+    <div class="cards" id="supplierStats"></div>
+    <div id="supplierWorks" style="display:none; margin-top:6px;"></div>
+  </div>
+
+  <!-- Diagnóstico de inconsistências -->
+  <div class="scraper-cloud" id="diagCard" style="margin-top:28px; background:var(--surface); border:1px solid var(--border); border-radius:16px; padding:24px;">
+    <h2>🔧 Diagnóstico de Inconsistências</h2>
+    <p style="font-size:0.82rem; color:var(--muted); margin:4px 0 14px;">Varre o catálogo e aponta problemas: capas faltando, sem capítulos, ilegíveis no site público, gêneros suspeitos e títulos duplicados.</p>
+    <button class="btn btn-start" onclick="runDiag()">▶ Rodar diagnóstico</button>
+    <div id="diagResults" style="margin-top:16px;"></div>
+  </div>
+
+  <!-- Agendamento Automático -->
+  <div class="scraper-cloud" id="schedulerCard" style="display:none; margin-top:28px; background:var(--surface); border:1px solid var(--border); border-radius:16px; padding:24px;">
+    <h2>📅 Agendamento de Atualizações Automáticas (Background)</h2>
+    <p style="font-size:0.82rem; color:var(--muted); margin-bottom:18px; margin-top:4px;">
+      Configure atualizações automáticas que rodam em segundo plano no servidor, mesmo com esta tela fechada.
+    </p>
+    <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(200px, 1fr)); gap:16px; margin-bottom:18px;">
+      <div>
+        <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">Status do Agendador</label>
+        <select id="schedEnabled" style="width:100%; background:var(--surface2); border:1px solid var(--border); padding:8px 12px; border-radius:8px; color:var(--text); outline:none;">
+          <option value="false">Desativado</option>
+          <option value="true">Ativado</option>
+        </select>
+      </div>
+      <div>
+        <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">Frequência</label>
+        <select id="schedInterval" style="width:100%; background:var(--surface2); border:1px solid var(--border); padding:8px 12px; border-radius:8px; color:var(--text); outline:none;">
+          <option value="1h">A cada 1 hora</option>
+          <option value="6h">A cada 6 horas</option>
+          <option value="12h">A cada 12 horas</option>
+          <option value="1d">A cada 24 horas (Diário)</option>
+          <option value="3am">Diário de madrugada (03:00 AM)</option>
+        </select>
+      </div>
+      <div>
+        <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">Idioma(s)</label>
+        <select id="schedLang" style="width:100%; background:var(--surface2); border:1px solid var(--border); padding:8px 12px; border-radius:8px; color:var(--text); outline:none;">
+          <option value="pt">Apenas Português</option>
+          <option value="en">Apenas Inglês</option>
+          <option value="both">Ambos (PT & EN)</option>
+        </select>
+      </div>
+      <div>
+        <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">Modo de Atualização</label>
+        <select id="schedMode" style="width:100%; background:var(--surface2); border:1px solid var(--border); padding:8px 12px; border-radius:8px; color:var(--text); outline:none;">
+          <option value="incremental">Atualização Rápida (novidades)</option>
+          <option value="full">Atualização Completa (catálogo)</option>
+        </select>
+      </div>
+    </div>
+    <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:12px;">
+      <div id="schedInfo" style="font-size:0.8rem; color:var(--muted);">
+        Carregando informações do agendador...
+      </div>
+      <button class="btn btn-resume" id="saveSchedulerBtn" onclick="saveScheduler()">Salvar Configurações</button>
+    </div>
+  </div>
+
+  <!-- Configurações Gerais -->
+  <div class="scraper-cloud" id="generalSettingsCard" style="display:none; margin-top: 28px; background:var(--surface); border:1px solid var(--border); border-radius:16px; padding:24px;">
+    <h2>⚙️ Configurações Gerais do Site</h2>
+    <p style="font-size:0.82rem; color:var(--muted); margin-bottom:18px; margin-top:4px;">
+      Ajuste o comportamento geral do leitor e de anúncios do MangaBankai.
+    </p>
+    <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(200px, 1fr)); gap:16px; margin-bottom:18px;">
+      <div>
+        <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">Tempo de Bloqueio do Próximo Capítulo</label>
+        <div style="display:flex; align-items:center; gap:8px;">
+          <input type="number" id="settingTransitionDelay" min="0" max="60" style="flex:1; background:var(--surface2); border:1px solid var(--border); padding:8px 12px; border-radius:8px; color:var(--text); outline:none;" placeholder="Padrão: 10">
+          <span style="font-size:0.8rem; color:var(--muted)">segundos</span>
+        </div>
+      </div>
+    </div>
+    <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:12px;">
+      <div id="settingsInfo" style="font-size:0.8rem; color:var(--muted);">
+        Aguardando configurações...
+      </div>
+      <button class="btn btn-resume" id="saveSettingsBtn" onclick="saveGeneralSettings()">Salvar Configurações</button>
+    </div>
+  </div>
+
+  <!-- Tetos por Scraper -->
+  <div class="scraper-cloud" id="scraperCapsCard" style="display:none; margin-top: 28px; background:var(--surface); border:1px solid var(--border); border-radius:16px; padding:24px;">
+    <h2>📥 Obras Novas por Atualização (por fornecedor)</h2>
+    <p style="font-size:0.82rem; color:var(--muted); margin-bottom:6px; margin-top:4px;">
+      Quantas obras <strong>novas</strong> cada scraper adiciona por execução no modo incremental. Se o fornecedor tiver menos novas que o teto, pega só o que houver (sem erro). Independente disso, os capítulos novos das obras já existentes são sempre verificados.
+    </p>
+    <p style="font-size:0.76rem; color:var(--muted); margin-bottom:18px;">
+      A atualização completa (<em>--all</em>) ignora estes tetos. LeituraManga e MangaLivre são movidos por feed de lançamentos (o valor não se aplica).
+    </p>
+    <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(150px, 1fr)); gap:16px; margin-bottom:18px;">
+      <div>
+        <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">MangaFreak (EN)</label>
+        <input type="number" id="capMangafreak" min="0" max="99999" style="width:100%; background:var(--surface2); border:1px solid var(--border); padding:8px 12px; border-radius:8px; color:var(--text); outline:none;">
+      </div>
+      <div>
+        <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">Hentai20 (EN +18)</label>
+        <input type="number" id="capHentai20" min="0" max="99999" style="width:100%; background:var(--surface2); border:1px solid var(--border); padding:8px 12px; border-radius:8px; color:var(--text); outline:none;">
+      </div>
+      <div>
+        <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">Madara (tankou/tia/district/ml.to)</label>
+        <input type="number" id="capMadara" min="0" max="99999" style="width:100%; background:var(--surface2); border:1px solid var(--border); padding:8px 12px; border-radius:8px; color:var(--text); outline:none;">
+      </div>
+      <div>
+        <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">MundoHentai (PT +18)</label>
+        <input type="number" id="capMundohentai" min="0" max="99999" style="width:100%; background:var(--surface2); border:1px solid var(--border); padding:8px 12px; border-radius:8px; color:var(--text); outline:none;">
+      </div>
+      <div>
+        <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">MangaDex (alvo total)</label>
+        <input type="number" id="capMangadex" min="0" max="99999" style="width:100%; background:var(--surface2); border:1px solid var(--border); padding:8px 12px; border-radius:8px; color:var(--text); outline:none;">
+      </div>
+    </div>
+    <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:12px;">
+      <div id="capsInfo" style="font-size:0.8rem; color:var(--muted);">Aguardando configurações...</div>
+      <button class="btn btn-resume" id="saveCapsBtn" onclick="saveScraperCaps()">Salvar Tetos</button>
+    </div>
+  </div>
+
+  <!-- Visibilidade -->
+  <div class="log-box" id="visibilityBox">
+    <div class="log-head">
+      <h2>🙈 Gerenciar Visibilidade</h2>
+    </div>
+    <div style="padding:16px 20px">
+      <div style="display:flex;gap:10px;margin-bottom:14px">
+        <input id="visSearch" type="text" placeholder="Buscar mangá pelo nome..."
+          style="flex:1;padding:9px 13px;border-radius:8px;border:1.5px solid #e2e8f0;font-size:14px;outline:none"
+          oninput="visDebounce()"
+          onfocus="this.style.borderColor='#667eea'"
+          onblur="this.style.borderColor='#e2e8f0'"
+        />
+        <button class="btn btn-start" style="padding:9px 18px;font-size:13px" onclick="visSearch()">Buscar</button>
+      </div>
+      <div id="visResults" style="display:flex;flex-direction:column;gap:6px;max-height:340px;overflow-y:auto"></div>
+      <div id="visHiddenSection" style="margin-top:18px;display:none">
+        <div style="font-size:12px;font-weight:600;color:#718096;text-transform:uppercase;letter-spacing:.05em;margin-bottom:8px">
+          🚫 Ocultos atualmente (<span id="visHiddenCount">0</span>)
+        </div>
+        <div id="visHiddenList" style="display:flex;flex-direction:column;gap:6px;max-height:240px;overflow-y:auto"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Log -->
+  <div class="log-box" id="logBox">
+    <div class="log-head">
+      <h2>📋 Log em Tempo Real</h2>
+      <button class="btn-clr" onclick="go(null,'clear-log')">Limpar</button>
+    </div>
+    <div class="log-wrap" id="logWrap">
+      <div style="color:#2d3748;text-align:center;padding:40px 0">Aguardando conexão...</div>
+    </div>
+  </div>
+</div>
+
+<script>
+const SCRAPER_URL = null;
+const VIS_BASE = '/api/admin';
+
+let es = null;
+const labels = { idle:'Ocioso', running:'Rodando', paused:'Pausado', done:'Concluído', error:'Erro' };
+const cls    = { idle:'s-idle', running:'s-running', paused:'s-paused', done:'s-done', error:'s-error' };
+let speeds = { pt: 'fast', en: 'fast' };
+let modes  = { pt: 'incremental', en: 'incremental' };
+
+function setConn(ok) {
+  document.getElementById('connDot').classList.toggle('ok', ok);
+  document.getElementById('connLabel').textContent = ok ? 'Servidor admin conectado ✓' : 'Servidor admin offline (scraping desativado)';
+  document.getElementById('notice').classList.toggle('show', !ok);
+}
+
+function updateWorkers(lang, current) {
+  const workers = Array.isArray(current) ? current : [current];
+  workers.forEach((slug, i) => {
+    const row = document.getElementById(`${lang}W${i}`);
+    if (!row) return;
+    const dot = row.querySelector('.worker-dot');
+    const lbl = row.querySelector('.worker-slug');
+    if (slug) { dot.classList.add('active'); lbl.textContent = slug; lbl.style.color = ''; }
+    else { dot.classList.remove('active'); lbl.textContent = `Worker ${i+1} — aguardando`; lbl.style.color = '#2d3748'; }
+  });
+}
+
+function updateCard(lang, s) {
+  const pct = s.total > 0 ? Math.round(s.processed / s.total * 100) : 0;
+  document.getElementById(`${lang}Status`).textContent = labels[s.status] || s.status;
+  document.getElementById(`${lang}Status`).className = 'status-pill ' + (cls[s.status] || 's-idle');
+  document.getElementById(`${lang}Fill`).style.width = pct + '%';
+  document.getElementById(`${lang}Pct`).textContent = `${s.processed} / ${s.total} (${pct}%)`;
+  document.getElementById(`${lang}Done`).textContent = s.processed;
+  document.getElementById(`${lang}Total`).textContent = s.total;
+  document.getElementById(`${lang}Err`).textContent = s.errors;
+  document.getElementById(`${lang}Q`).textContent = s.queueLen !== undefined ? s.queueLen : 0;
+
+  // Render Sub-steps progress
+  const substepsContainer = document.getElementById(`${lang}SubSteps`);
+  if (substepsContainer && Array.isArray(s.subSteps)) {
+    substepsContainer.innerHTML = s.subSteps.map(step => {
+      const stepPct = step.total > 0 ? Math.min(100, Math.round(step.processed / step.total * 100)) : 0;
+      let stepPctLabel = `${step.processed} / ${step.total} (${stepPct}%)`;
+      
+      if (step.id === 'mangalivre') {
+        if (step.status === 'running') {
+          stepPctLabel = step.total < 900 ? `Página ${step.processed} / ${step.total}` : `Página ${step.processed}`;
+        } else if (step.status === 'done') {
+          stepPctLabel = `Concluído (${step.processed} pág)`;
+        } else if (step.status === 'idle') {
+          stepPctLabel = `Aguardando`;
+        }
+      } else if (['tankouhentai', 'tiamanhwa', 'mangadistrict', 'hentai20'].includes(step.id)) {
+        if (step.status === 'running') {
+          stepPctLabel = step.total > 0
+            ? `Obra ${step.processed} / ${step.total} (${stepPct}%)`
+            : `Processando...`;
+        } else if (step.status === 'done') {
+          stepPctLabel = `Concluído (${step.processed} obras)`;
+        } else if (step.status === 'idle') {
+          stepPctLabel = `Aguardando`;
+        }
+      }
+
+      const dotCls = step.status; // idle, running, done, paused, error
+      const fillCls = step.status === 'done' ? 'done' : '';
+      const completedInfo = (step.status === 'done' && step.lastCompletedAt)
+        ? `<div style="font-size:0.7rem;color:var(--muted);margin-top:2px;">Concluído às ${new Date(step.lastCompletedAt).toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'})} de ${new Date(step.lastCompletedAt).toLocaleDateString('pt-BR',{day:'2-digit',month:'2-digit'})}</div>`
+        : '';
+
+      return `
+        <div class="substep-row">
+          <div class="substep-header">
+            <span class="substep-name">
+              <span class="substep-dot ${dotCls}"></span>
+              ${step.name}
+            </span>
+            <span style="color:var(--muted); font-size:0.75rem;">${stepPctLabel}</span>
+          </div>
+          <div class="substep-bar">
+            <div class="substep-fill ${fillCls}" style="width: ${stepPct}%"></div>
+          </div>
+          ${completedInfo}
+        </div>
+      `;
+    }).join('');
+  }
+
+  if (s.speed) {
+    speeds[lang] = s.speed;
+    document.getElementById(`${lang}SpeedFast`).classList.toggle('active', s.speed === 'fast');
+    document.getElementById(`${lang}SpeedFast`).classList.toggle('fast', s.speed === 'fast');
+    document.getElementById(`${lang}SpeedSafe`).classList.toggle('active', s.speed === 'safe');
+  }
+
+  if (s.mode) {
+    modes[lang] = s.mode;
+    document.getElementById(`${lang}ModeIncremental`).classList.toggle('active', s.mode === 'incremental');
+    document.getElementById(`${lang}ModeIncremental`).classList.toggle('fast', s.mode === 'incremental');
+    document.getElementById(`${lang}ModeFull`).classList.toggle('active', s.mode === 'full');
+  }
+
+  updateWorkers(lang, s.current || []);
+
+  const running = s.status === 'running';
+  const paused  = s.status === 'paused';
+  const idle    = s.status === 'idle' || s.status === 'done';
+  document.getElementById(`${lang}Start`).style.display  = idle ? '' : 'none';
+  document.getElementById(`${lang}Pause`).style.display  = running ? '' : 'none';
+  document.getElementById(`${lang}Resume`).style.display = paused ? '' : 'none';
+  document.getElementById(`${lang}Reset`).disabled = running;
+}
+
+function renderLog(log) {
+  if (!log || !log.length) {
+    document.getElementById('logWrap').innerHTML = '<div style="color:#2d3748;text-align:center;padding:40px 0">Nenhuma atividade ainda.</div>';
+    return;
+  }
+  document.getElementById('logWrap').innerHTML = log.map(e => {
+    const t = new Date(e.time).toLocaleTimeString('pt-BR');
+    return `<div class="le"><span class="lt">${t}</span><span class="ll ${e.lang||''}">${e.lang ? e.lang.toUpperCase() : '--'}</span><span class="lm ${e.type||''}">${e.msg || e.message || ''}</span></div>`;
+  }).join('');
+}
+
+function applyMsg(d) {
+  if (d.state) {
+    updateCard('pt', d.state.pt);
+    updateCard('en', d.state.en);
+    if (d.state.scheduler) updateSchedulerDisplay(d.state.scheduler);
+    if (d.state.transition_delay !== undefined) updateGeneralSettingsDisplay(d.state.transition_delay);
+  }
+  if (d.log) renderLog(d.log);
+  if (d.entry && d.state) {
+    updateCard('pt', d.state.pt);
+    updateCard('en', d.state.en);
+    if (d.state.scheduler) updateSchedulerDisplay(d.state.scheduler);
+    if (d.state.transition_delay !== undefined) updateGeneralSettingsDisplay(d.state.transition_delay);
+  }
+}
+
+function connect() {
+  document.getElementById('generalSettingsCard').style.display = 'block';
+  document.getElementById('schedulerCard').style.display = 'block';
+  document.getElementById('scraperCapsCard').style.display = 'block';
+  fetchGeneralSettings();
+
+  if (!SCRAPER_URL) {
+    // No Vercel: usa o scraper via GitHub Actions (seção scraperCloud).
+    // Esconde os controles do servidor local (cards de workers, log em tempo real, status de conexão).
+    document.querySelector('.conn-status').style.display = 'none';
+    document.getElementById('scraperCards').style.display = 'none';
+    document.getElementById('logBox').style.display = 'none';
+    return;
+  }
+  // Local: usa admin-server.cjs; esconde a seção de scraping na nuvem.
+  document.getElementById('scraperCloud').style.display = 'none';
+  document.getElementById('schedulerCard').style.display = 'block';
+  // No modo local o /settings não traz os tetos; busca-os do endpoint próprio.
+  fetch(`${SCRAPER_URL}/scraper-config`).then(r => r.ok ? r.json() : null).then(c => { if (c) updateCapsDisplay(c); }).catch(() => {});
+  if (es) { es.close(); es = null; }
+  try {
+    es = new EventSource(`${SCRAPER_URL}/events`);
+    es.onopen = async () => {
+      setConn(true);
+      const d = await fetch(`${SCRAPER_URL}/state`).then(r => r.json()).catch(() => null);
+      if (d) {
+        updateCard('pt', d.pt);
+        updateCard('en', d.en);
+        if (d.scheduler) updateSchedulerDisplay(d.scheduler, true);
+        if (d.transition_delay !== undefined) updateGeneralSettingsDisplay(d.transition_delay);
+        if (d.log) renderLog(d.log);
+      }
+    };
+    es.onmessage = e => { try { applyMsg(JSON.parse(e.data)); } catch(_) {} };
+    es.onerror = () => { setConn(false); es.close(); setTimeout(connect, 3000); };
+  } catch(_) { setConn(false); setTimeout(connect, 3000); }
+}
+
+function setSpeed(lang, speed) {
+  if (!SCRAPER_URL) return;
+  speeds[lang] = speed;
+  document.getElementById(`${lang}SpeedFast`).classList.toggle('active', speed === 'fast');
+  document.getElementById(`${lang}SpeedFast`).classList.toggle('fast', speed === 'fast');
+  document.getElementById(`${lang}SpeedSafe`).classList.toggle('active', speed === 'safe');
+  document.getElementById(`${lang}SpeedSafe`).classList.toggle('fast', false);
+  post({ action: 'set-speed', lang, speed });
+}
+
+function setMode(lang, mode) {
+  if (!SCRAPER_URL) return;
+  modes[lang] = mode;
+  document.getElementById(`${lang}ModeIncremental`).classList.toggle('active', mode === 'incremental');
+  document.getElementById(`${lang}ModeIncremental`).classList.toggle('fast', mode === 'incremental');
+  document.getElementById(`${lang}ModeFull`).classList.toggle('active', mode === 'full');
+  post({ action: 'set-mode', lang, mode });
+}
+
+async function go(lang, action) {
+  if (!SCRAPER_URL) return;
+  const speed = lang ? speeds[lang] : undefined;
+  const mode = lang ? modes[lang] : undefined;
+  await post({ lang, action, speed, mode });
+  const d = await fetch(`${SCRAPER_URL}/state`).then(r => r.json()).catch(() => null);
+  if (d) {
+    updateCard('pt', d.pt);
+    updateCard('en', d.en);
+    if (d.scheduler) updateSchedulerDisplay(d.scheduler);
+    if (d.transition_delay !== undefined) updateGeneralSettingsDisplay(d.transition_delay);
+    if (d.log) renderLog(d.log);
+  }
+}
+
+async function reset(lang) {
+  if (!SCRAPER_URL) return;
+  await post({ lang, action: 'reset' });
+  const d = await fetch(`${SCRAPER_URL}/state`).then(r => r.json()).catch(() => null);
+  if (d) {
+    updateCard('pt', d.pt);
+    updateCard('en', d.en);
+    if (d.scheduler) updateSchedulerDisplay(d.scheduler);
+    if (d.transition_delay !== undefined) updateGeneralSettingsDisplay(d.transition_delay);
+  }
+}
+
+async function post(body) {
+  if (!SCRAPER_URL) return;
+  try {
+    await fetch(`${SCRAPER_URL}/control`, { method: 'POST', headers: {'Content-Type':'application/json'}, body: JSON.stringify(body) });
+  } catch(_) {}
+}
+
+// ── Funções do Agendador Automático ─────────────────────────────────────────────
+function updateSchedulerDisplay(sched, populateInputs = false) {
+  if (!sched) return;
+  
+  if (populateInputs) {
+    document.getElementById('schedEnabled').value = String(sched.enabled);
+    document.getElementById('schedInterval').value = sched.interval;
+    document.getElementById('schedLang').value = sched.lang;
+    document.getElementById('schedMode').value = sched.mode;
+  }
+  
+  const infoEl = document.getElementById('schedInfo');
+  if (!infoEl) return;
+  
+  const last = sched.lastRun ? new Date(sched.lastRun).toLocaleString('pt-BR') : 'Nunca';
+  
+  let next = 'Nenhuma';
+  if (sched.enabled) {
+    if (sched.lastRun) {
+      const intervalStr = sched.interval || '12h';
+      const num = parseInt(intervalStr, 10);
+      let intervalMs = 12 * 60 * 60 * 1000;
+      if (intervalStr.endsWith('h')) intervalMs = num * 60 * 60 * 1000;
+      else if (intervalStr.endsWith('d')) intervalMs = num * 24 * 60 * 60 * 1000;
+      else if (intervalStr.endsWith('m')) intervalMs = num * 60 * 1000;
+      next = new Date(sched.lastRun + intervalMs).toLocaleString('pt-BR');
+    } else {
+      const nextHour = new Date();
+      nextHour.setHours(nextHour.getHours() + 1);
+      nextHour.setMinutes(0);
+      nextHour.setSeconds(0);
+      nextHour.setMilliseconds(0);
+      next = nextHour.toLocaleString('pt-BR') + ' (Aprox.)';
+    }
+  }
+  
+  if (sched.enabled) {
+    let statusLabel = 'Ativo';
+    let statusColor = 'var(--green)';
+    let statusIcon = '🟢';
+    
+    if (sched.lastStatus === 'running') {
+      statusIcon = '🔄';
+      statusLabel = 'Atualizando na Nuvem...';
+      statusColor = 'var(--yellow)';
+    } else if (sched.lastStatus === 'failure') {
+      statusIcon = '⚠️';
+      statusLabel = 'Ativo (Última Falhou)';
+      statusColor = 'var(--red)';
+    } else if (sched.lastStatus === 'success') {
+      statusLabel = 'Ativo (Sucesso)';
+    }
+
+    infoEl.innerHTML = `${statusIcon} <strong>Agendador ${statusLabel}</strong> | Última: ${last} | Próxima: <strong>${next}</strong>`;
+    infoEl.style.color = statusColor;
+  } else {
+    infoEl.innerHTML = `⚪ <strong>Agendador Desativado</strong> | Última: ${last}`;
+    infoEl.style.color = 'var(--muted)';
+  }
+}
+
+async function saveScheduler() {
+  const enabled = document.getElementById('schedEnabled').value === 'true';
+  const interval = document.getElementById('schedInterval').value;
+  const lang = document.getElementById('schedLang').value;
+  const mode = document.getElementById('schedMode').value;
+  
+  const btn = document.getElementById('saveSchedulerBtn');
+  btn.disabled = true;
+  btn.textContent = 'Salvando...';
+
+  let triggerNow = false;
+  if (enabled && !SCRAPER_URL) {
+    triggerNow = confirm('Configurações salvas! Deseja iniciar uma atualização em nuvem agora para começar o ciclo imediatamente?');
+  }
+  
+  const nowTimestamp = Date.now();
+  const schedulerData = { enabled, interval, lang, mode };
+  if (triggerNow) {
+    schedulerData.lastRun = nowTimestamp;
+  }
+
+  const url = SCRAPER_URL ? `${SCRAPER_URL}/scheduler-config` : `/api/admin/settings`;
+  const body = SCRAPER_URL 
+    ? JSON.stringify({ enabled, interval, lang, mode }) 
+    : JSON.stringify({ scheduler: schedulerData });
+
+  try {
+    const res = await fetch(url, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body
+    });
+    const data = await res.json();
+    if (data.ok) {
+      updateSchedulerDisplay(data.scheduler);
+      alert('Configurações do agendador salvas com sucesso!');
+      if (triggerNow) {
+        let target = 'all';
+        if (lang === 'pt') target = 'pt-only';
+        else if (lang === 'en') target = 'en-only';
+        triggerScrape(target);
+      }
+    } else {
+      alert('Erro ao salvar configurações: ' + (data.error || 'erro desconhecido'));
+    }
+  } catch (e) {
+    alert('Erro de conexão ao salvar configurações: ' + e.message);
+  } finally {
+    btn.disabled = false;
+    btn.textContent = 'Salvar Configurações';
+  }
+}
+
+// ── Funções de Configurações Gerais ─────────────────────────────────────────────
+async function fetchGeneralSettings() {
+  const url = SCRAPER_URL ? `${SCRAPER_URL}/settings` : `/api/admin/settings`;
+  try {
+    const res = await fetch(url);
+    if (res.ok) {
+      const data = await res.json();
+      updateGeneralSettingsDisplay(data.transition_delay);
+      if (data.scheduler) updateSchedulerDisplay(data.scheduler, true);
+      if (data.caps) updateCapsDisplay(data.caps);
+    }
+  } catch (e) {
+    console.error('Erro ao carregar configurações gerais:', e);
+  }
+}
+
+function updateCapsDisplay(caps) {
+  if (!caps) return;
+  const set = (id, v) => { const el = document.getElementById(id); if (el && v != null) el.value = v; };
+  set('capMangafreak', caps.mangafreak);
+  set('capHentai20', caps.hentai20);
+  set('capMadara', caps.madara);
+  set('capMundohentai', caps.mundohentai);
+  set('capMangadex', caps.mangadex);
+  document.getElementById('capsInfo').innerHTML = '✅ Tetos carregados. Aplicam-se na próxima atualização.';
+}
+
+async function saveScraperCaps() {
+  const caps = {
+    mangafreak: parseInt(document.getElementById('capMangafreak').value, 10),
+    hentai20: parseInt(document.getElementById('capHentai20').value, 10),
+    madara: parseInt(document.getElementById('capMadara').value, 10),
+    mundohentai: parseInt(document.getElementById('capMundohentai').value, 10),
+    mangadex: parseInt(document.getElementById('capMangadex').value, 10)
+  };
+  // No admin local (SCRAPER_URL setado) o endpoint é /scraper-config e recebe o
+  // objeto direto; no deployado vai para /api/admin/settings dentro de { caps }.
+  const local = !!SCRAPER_URL;
+  const url = local ? `${SCRAPER_URL}/scraper-config` : `/api/admin/settings`;
+  const body = local ? caps : { caps };
+  const btn = document.getElementById('saveCapsBtn');
+  btn.disabled = true; btn.textContent = 'Salvando...';
+  try {
+    const res = await fetch(url, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(body)
+    });
+    if (res.ok) {
+      const data = await res.json();
+      if (data.caps) updateCapsDisplay(data.caps);
+      else if (data.config) updateCapsDisplay(data.config);
+      alert('Tetos por scraper salvos com sucesso! Serão aplicados na próxima atualização.');
+    } else {
+      alert('Erro ao salvar os tetos.');
+    }
+  } catch (e) {
+    alert('Erro de conexão ao salvar os tetos: ' + e.message);
+  } finally {
+    btn.disabled = false; btn.textContent = 'Salvar Tetos';
+  }
+}
+
+function updateGeneralSettingsDisplay(delay) {
+  const delayVal = typeof delay !== 'undefined' ? delay : 10;
+  document.getElementById('settingTransitionDelay').value = delayVal;
+  document.getElementById('settingsInfo').innerHTML = `⏱️ Bloqueio atual: <strong>${delayVal} segundos</strong>`;
+}
+
+async function saveGeneralSettings() {
+  const delayVal = parseInt(document.getElementById('settingTransitionDelay').value, 10);
+  const delay = isNaN(delayVal) ? 10 : delayVal;
+
+  const url = SCRAPER_URL ? `${SCRAPER_URL}/settings` : `/api/admin/settings`;
+  const btn = document.getElementById('saveSettingsBtn');
+  btn.disabled = true;
+  btn.textContent = 'Salvando...';
+
+  try {
+    const res = await fetch(url, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ transition_delay: delay })
+    });
+    if (res.ok) {
+      const data = await res.json();
+      updateGeneralSettingsDisplay(data.transition_delay);
+      alert('Configurações gerais salvas com sucesso!');
+    } else {
+      alert('Erro ao salvar configurações.');
+    }
+  } catch (e) {
+    alert('Erro de conexão ao salvar configurações: ' + e.message);
+  } finally {
+    btn.disabled = false;
+    btn.textContent = 'Salvar Configurações';
+  }
+}
+
+// ── Gerenciar Visibilidade ──────────────────────────────────────────────
+let _visTimer = null;
+
+function visDebounce() {
+  clearTimeout(_visTimer);
+  _visTimer = setTimeout(visSearch, 400);
+}
+
+async function visSearch() {
+  const q = document.getElementById('visSearch').value.trim();
+  const res = await fetch(`${VIS_BASE}/search-manga?q=${encodeURIComponent(q)}`).then(r => r.json()).catch(() => []);
+  renderVisResults(res, 'visResults', true);
+  await loadHiddenList();
+}
+
+async function loadHiddenList() {
+  const hidden = await fetch(`${VIS_BASE}/search-manga?q=`).then(r => r.json()).catch(() => []);
+  const sec = document.getElementById('visHiddenSection');
+  const list = document.getElementById('visHiddenList');
+  const count = document.getElementById('visHiddenCount');
+  if (hidden.length === 0) {
+    sec.style.display = 'none';
+    return;
+  }
+  sec.style.display = '';
+  count.textContent = hidden.length;
+  renderVisResults(hidden, 'visHiddenList', false);
+}
+
+function renderVisResults(items, containerId, showAll) {
+  const container = document.getElementById(containerId);
+  if (!items.length) {
+    container.innerHTML = showAll
+      ? '<div style="color:#718096;font-size:13px;padding:8px 0">Nenhum mangá encontrado.</div>'
+      : '';
+    return;
+  }
+  container.innerHTML = items.map(m => {
+    const isHidden = !!m.hidden;
+    const srcBadge = m.source ? `<span style="font-size:10px;padding:2px 6px;border-radius:4px;background:#edf2f7;color:#718096;margin-left:6px">${m.source}</span>` : '';
+    const btn = isHidden
+      ? `<button onclick="toggleHidden('${m.id}', false)" style="padding:5px 12px;border-radius:6px;border:none;cursor:pointer;font-size:12px;font-weight:600;background:#48bb78;color:#fff">✅ Restaurar</button>`
+      : `<button onclick="toggleHidden('${m.id}', true)" style="padding:5px 12px;border-radius:6px;border:none;cursor:pointer;font-size:12px;font-weight:600;background:#fc8181;color:#fff">🚫 Ocultar</button>`;
+    const hiddenBadge = isHidden
+      ? `<span style="font-size:10px;padding:2px 6px;border-radius:4px;background:#fff5f5;color:#e53e3e;font-weight:600;margin-left:6px">OCULTO</span>`
+      : '';
+    const cover = m.cover ? `<img src="${m.cover}" style="width:36px;height:50px;object-fit:cover;border-radius:4px;flex-shrink:0" onerror="this.style.display='none'">` : `<div style="width:36px;height:50px;background:#e2e8f0;border-radius:4px;flex-shrink:0"></div>`;
+    return `
+      <div style="display:flex;align-items:center;gap:10px;padding:8px 10px;background:#f7fafc;border-radius:8px;border:1px solid #e2e8f0">
+        ${cover}
+        <div style="flex:1;min-width:0">
+          <div style="font-size:13px;font-weight:600;color:#2d3748;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">
+            ${escHtml(m.title)}${hiddenBadge}${srcBadge}
+          </div>
+          <div style="font-size:11px;color:#a0aec0;margin-top:2px">${m.slug}</div>
+        </div>
+        ${btn}
+      </div>`;
+  }).join('');
+}
+
+function escHtml(s) {
+  return (s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+async function toggleHidden(id, hidden) {
+  await fetch(`${VIS_BASE}/toggle-hidden`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ id, hidden })
+  }).catch(() => {});
+  await visSearch();
+}
+
+// ── Scraper via GitHub Actions ─────────────────────────────────────────
+let _pollInterval = null;
+
+async function triggerScrape(target) {
+  // Quando servidor local está conectado, usa go() diretamente (inclui hentai20 no EN)
+  if (SCRAPER_URL) {
+    if (target === 'all' || target === 'pt-only') await go('pt', 'start');
+    if (target === 'all' || target === 'en-only') await go('en', 'start');
+    return;
+  }
+
+  // Modo nuvem: dispara GitHub Actions
+  const statusEl = document.getElementById('runStatus');
+  statusEl.className = 'run-status show';
+  statusEl.innerHTML = '<span class="run-dot queued"></span> Disparando workflow...';
+
+  try {
+    const res = await fetch('/api/admin/trigger-scrape', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ target })
+    });
+    const data = await res.json();
+    if (!data.ok) {
+      statusEl.innerHTML = `<span class="run-dot failed"></span> Erro: ${data.error || 'falha ao disparar'}`;
+      return;
+    }
+    showRunStatus({ status: data.status || 'queued', runUrl: data.runUrl, conclusion: null });
+    if (data.runId) startPolling(data.runId, data.runUrl);
+  } catch (e) {
+    statusEl.innerHTML = `<span class="run-dot failed"></span> Erro de rede: ${e.message}`;
+  }
+}
+
+function showRunStatus({ status, conclusion, runUrl }) {
+  const statusEl = document.getElementById('runStatus');
+  const dotCls = conclusion === 'failure' ? 'failed' : (status === 'completed' ? 'completed' : status);
+  let label;
+  if (status === 'queued') label = 'Na fila...';
+  else if (status === 'in_progress') label = 'Scraping em andamento...';
+  else if (status === 'completed' && conclusion === 'success') label = '✅ Concluído! O site será atualizado em breve.';
+  else if (status === 'completed') label = `⚠️ Finalizado com status: ${conclusion}`;
+  else label = status;
+
+  statusEl.className = 'run-status show';
+  statusEl.innerHTML = `<span class="run-dot ${dotCls}"></span> ${label} — <a href="${runUrl}" target="_blank">Ver progresso no GitHub Actions ↗</a>`;
+}
+
+function startPolling(runId, runUrl) {
+  if (_pollInterval) clearInterval(_pollInterval);
+  _pollInterval = setInterval(async () => {
+    try {
+      const res = await fetch(`/api/admin/scrape-status?runId=${runId}`);
+      const data = await res.json();
+      showRunStatus({ status: data.status, conclusion: data.conclusion, runUrl: data.runUrl || runUrl });
+      if (data.status === 'completed') clearInterval(_pollInterval);
+    } catch (_) {}
+  }, 15000); // verifica a cada 15s
+}
+
+// ── Estatísticas do Site ────────────────────────────────────────────────
+function fmtDur(secs) {
+  secs = Number(secs) || 0;
+  if (secs < 60) return secs + 's';
+  const m = Math.floor(secs / 60);
+  if (m < 60) return m + 'min';
+  const h = Math.floor(m / 60);
+  if (h < 48) return h + 'h ' + (m % 60) + 'min';
+  return Math.floor(h / 24) + 'd ' + (h % 24) + 'h';
+}
+function fmtDate(d) {
+  if (!d) return '—';
+  return new Date(d).toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit', year: '2-digit' });
+}
+function kpi(v, label, sub) {
+  return '<div class="kpi"><div class="kpi-v">' + v + '</div><div class="kpi-l">' + label + '</div>'
+    + (sub ? '<div class="kpi-s">' + sub + '</div>' : '') + '</div>';
+}
+function barsChart(rows, valueKey, tipFn) {
+  if (!rows || !rows.length) return '<div style="color:var(--muted);font-size:0.75rem;padding:20px 0;text-align:center">Sem dados ainda.</div>';
+  const max = Math.max.apply(null, rows.map(r => Number(r[valueKey]) || 0)) || 1;
+  return '<div class="bars">' + rows.map(r => {
+    const v = Number(r[valueKey]) || 0;
+    const pct = Math.max(2, Math.round(v / max * 100));
+    return '<div class="bar" style="height:' + pct + '%" data-tip="' + tipFn(r) + '"></div>';
+  }).join('') + '</div>';
+}
+function topTable(title, sub, rows, valueLabel) {
+  const body = (rows && rows.length)
+    ? rows.map((r, i) => '<tr><td style="color:var(--muted)">' + (i + 1) + '.</td><td title="' + escHtml(r.title || r.manga_id) + '">'
+        + '<a href="/manga/' + r.manga_id + '/" target="_blank" style="color:var(--text);text-decoration:none">' + escHtml(r.title || r.manga_id) + '</a></td><td class="num">' + Number(r.n).toLocaleString('pt-BR') + '</td></tr>').join('')
+    : '<tr><td colspan="3" style="color:var(--muted)">Sem dados ainda.</td></tr>';
+  return '<div class="chart-box"><div class="chart-title">' + title + '</div>'
+    + (sub ? '<div class="chart-sub">' + sub + '</div>' : '')
+    + '<table class="stbl"><colgroup><col class="c-rank"><col><col class="c-val"></colgroup>'
+    + '<thead><tr><th></th><th>Mangá</th><th class="num">' + valueLabel + '</th></tr></thead><tbody>' + body + '</tbody></table></div>';
+}
+
+function switchStatsTab(name) {
+  document.querySelectorAll('#statsTabs .stats-tab').forEach(b =>
+    b.classList.toggle('active', b.getAttribute('data-pane') === name));
+  document.querySelectorAll('#statsBody .stats-pane').forEach(p =>
+    p.classList.toggle('active', p.id === 'pane-' + name));
+}
+
+async function loadStats() {
+  const el = document.getElementById('statsBody');
+  try {
+    const res = await fetch('/api/admin/stats');
+    if (!res.ok) { el.innerHTML = '⚠️ Erro ao carregar estatísticas (' + res.status + ').'; return; }
+    renderStats(await res.json());
+  } catch (e) {
+    el.innerHTML = '⚠️ Erro de conexão ao carregar estatísticas.';
+  }
+}
+
+function renderStats(d) {
+  const el = document.getElementById('statsBody');
+  const u = d.usage || {};
+  const ret = d.retention7d || { base: 0, returned: 0 };
+  const retPct = ret.base > 0 ? Math.round(ret.returned / ret.base * 100) + '%' : '—';
+  const devices = (d.devices7d || []).map(x => (x.device === 'mobile' ? '📱 ' : '🖥 ') + x.n).join(' · ') || '—';
+  document.getElementById('pushSubsCount').textContent = (d.push.total || 0).toLocaleString('pt-BR');
+
+  // ── Aba 1: Visão Geral (KPIs + gráficos) ─────────────────────────────
+  let overview = '<div class="kpis">'
+    + kpi(Number(d.users.total).toLocaleString('pt-BR'), 'Usuários cadastrados')
+    + kpi(Number(d.push.total).toLocaleString('pt-BR'), 'Push ativos', d.push.linked + ' ligados a contas')
+    + kpi(Number(u.dau || 0).toLocaleString('pt-BR'), 'Visitantes hoje')
+    + kpi(Number(u.wau || 0).toLocaleString('pt-BR'), 'Visitantes 7 dias', (u.wau_logged || 0) + ' logados')
+    + kpi(Number(u.mau || 0).toLocaleString('pt-BR'), 'Visitantes 30 dias')
+    + kpi(fmtDur(u.secs_7d), 'Tempo de uso 7d', fmtDur(u.secs_30d) + ' em 30d')
+    + kpi(fmtDur(u.reading_7d), 'Tempo de leitura 7d', fmtDur(u.reading_30d) + ' em 30d')
+    + kpi(Number(u.pages_7d || 0).toLocaleString('pt-BR'), 'Páginas lidas 7d', Number(u.pages_30d || 0).toLocaleString('pt-BR') + ' em 30d')
+    + kpi(retPct, 'Retenção 7 dias', ret.returned + ' de ' + ret.base + ' voltaram')
+    + kpi(devices, 'Dispositivos 7d', 'mobile · desktop')
+    + '</div>';
+  overview += '<div class="stats-grid2">'
+    + '<div class="chart-box"><div class="chart-title">👥 Visitantes por dia</div><div class="chart-sub">Últimos 30 dias (passe o mouse para detalhes)</div>'
+    + barsChart(d.usagePerDay, 'visitors', r => fmtDate(r.d) + ': ' + r.visitors + ' visitantes · ' + fmtDur(r.secs)) + '</div>'
+    + '<div class="chart-box"><div class="chart-title">✍️ Cadastros por dia</div><div class="chart-sub">Últimos 30 dias</div>'
+    + barsChart(d.signupsPerDay, 'n', r => fmtDate(r.d) + ': ' + r.n + ' cadastros') + '</div>'
+    + '</div>';
+
+  // ── Aba 2: Rankings (2 colunas) ──────────────────────────────────────
+  const rankings = '<div class="stats-grid2">'
+    + topTable('🔥 Em alta na semana', 'Views nos últimos 7 dias', d.top.trending7d, 'views')
+    + topTable('👁 Mais vistos', 'Views acumuladas desde o início', d.top.viewed, 'views')
+    + topTable('📖 Mais lidos por contas', 'Quantos usuários cadastrados têm progresso de leitura na obra (anônimos não entram)', d.top.read, 'contas')
+    + topTable('❤️ Mais favoritados', 'Quantas contas favoritaram a obra', d.top.favorited, 'contas')
+    + '</div>';
+
+  // ── Aba 3: Usuários ──────────────────────────────────────────────────
+  const usersRows = (d.users.list || []).map(usr => {
+    const online = usr.seconds_total > 0 ? fmtDur(usr.seconds_total) : '—';
+    return '<tr>'
+      + '<td title="' + escHtml(usr.username) + '">' + escHtml(usr.username) + (usr.role === 'admin' ? ' <span style="color:var(--accent2);font-size:0.65rem">ADMIN</span>' : '') + '</td>'
+      + '<td>' + fmtDate(usr.created_at) + '</td>'
+      + '<td class="num">' + usr.reads + '</td>'
+      + '<td class="num">' + usr.favs + '</td>'
+      + '<td>' + online + '</td>'
+      + '<td>' + (usr.push_devices > 0 ? '🔔 ' + usr.push_devices : '—') + '</td>'
+      + '<td>' + fmtDate(usr.last_read) + '</td>'
+      + '<td><button class="mini-btn" style="background:var(--surface);border:1px solid var(--border);color:var(--text)" onclick="viewUserReading(' + usr.id + ', \'' + escHtml(usr.username).replace(/'/g, '') + '\')">📖 leituras</button></td>'
+      + '</tr>';
+  }).join('') || '<tr><td colspan="8" style="color:var(--muted)">Nenhum usuário cadastrado.</td></tr>';
+  const users = '<div class="chart-box"><div class="chart-title">👤 Usuários cadastrados (' + d.users.total + ')</div>'
+    + '<div class="chart-sub">Clique em "leituras" para ver o histórico completo de cada um</div>'
+    + '<div class="stbl-wrap"><table class="stbl wide">'
+    + '<colgroup><col style="width:140px"><col style="width:80px"><col style="width:70px"><col style="width:60px"><col style="width:100px"><col style="width:60px"><col style="width:100px"><col style="width:110px"></colgroup>'
+    + '<thead><tr><th>Usuário</th><th>Cadastro</th><th class="num">Leituras</th><th class="num">Favs</th><th>Tempo de uso</th><th>Push</th><th>Última leitura</th><th></th></tr></thead><tbody>'
+    + usersRows + '</tbody></table></div></div>';
+
+  // ── Aba 4: Buscas & Reports ──────────────────────────────────────────
+  const missRows = (d.searchMisses || []).map(m =>
+    '<tr><td title="' + escHtml(m.query) + '">' + escHtml(m.query) + '</td><td class="num">' + m.count + '</td><td style="color:var(--muted)">' + fmtDate(m.last_at) + '</td></tr>'
+  ).join('') || '<tr><td colspan="3" style="color:var(--muted)">Nenhuma busca sem resultado registrada.</td></tr>';
+  const repRows = (d.reports || []).map(r => {
+    const reasonLabel = { broken: '🖼️ imagens', wrong: '🔀 cap. errado', other: '❓ outro' }[r.reason] || r.reason;
+    return '<tr><td title="' + escHtml(r.title || r.manga_id) + '">'
+      + '<a href="/manga/' + r.manga_id + '/' + encodeURIComponent(r.chapter) + '" target="_blank" style="color:var(--text)">' + escHtml(r.title || r.manga_id) + '</a></td>'
+      + '<td>' + escHtml(r.chapter) + '</td><td>' + reasonLabel + '</td><td class="num">' + r.count + '×</td>'
+      + '<td><button class="mini-btn" style="background:var(--green);color:#000" onclick="resolveReport(' + r.id + ', this)">✓ Resolver</button></td></tr>';
+  }).join('') || '<tr><td colspan="5" style="color:var(--muted)">Nenhum report aberto. 🎉</td></tr>';
+  const feedback = '<div class="stats-grid2">'
+    + '<div class="chart-box"><div class="chart-title">🔍 Buscas sem resultado</div><div class="chart-sub">O que os leitores procuram e o site ainda não tem</div>'
+    + '<div class="stbl-wrap"><table class="stbl"><colgroup><col><col class="c-val"><col style="width:80px"></colgroup>'
+    + '<thead><tr><th>Termo</th><th class="num">Vezes</th><th>Última</th></tr></thead><tbody>' + missRows + '</tbody></table></div></div>'
+    + '<div class="chart-box"><div class="chart-title">⚠️ Capítulos reportados</div><div class="chart-sub">Problemas apontados pelos leitores no botão do leitor</div>'
+    + '<div class="stbl-wrap"><table class="stbl"><colgroup><col><col style="width:60px"><col style="width:96px"><col style="width:64px"><col style="width:92px"></colgroup>'
+    + '<thead><tr><th>Mangá</th><th>Cap.</th><th>Motivo</th><th class="num">Qtd</th><th></th></tr></thead><tbody>' + repRows + '</tbody></table></div></div>'
+    + '</div>';
+
+  el.style.color = '';
+  el.innerHTML =
+    '<div class="stats-pane active" id="pane-overview">' + overview + '</div>'
+    + '<div class="stats-pane" id="pane-rankings">' + rankings + '</div>'
+    + '<div class="stats-pane" id="pane-users">' + users + '</div>'
+    + '<div class="stats-pane" id="pane-feedback">' + feedback + '</div>';
+  document.getElementById('statsTabs').style.display = 'flex';
+}
+
+async function viewUserReading(userId, username) {
+  let overlay = document.getElementById('urOverlay');
+  if (overlay) overlay.remove();
+  overlay = document.createElement('div');
+  overlay.id = 'urOverlay';
+  overlay.style.cssText = 'position:fixed;inset:0;background:rgba(0,0,0,0.7);z-index:10000;display:flex;align-items:center;justify-content:center;padding:20px;';
+  overlay.onclick = e => { if (e.target === overlay) overlay.remove(); };
+  overlay.innerHTML = '<div style="background:var(--surface);border:1px solid var(--border);border-radius:16px;padding:24px;max-width:560px;width:100%;max-height:80vh;overflow-y:auto">'
+    + '<h3 style="font-size:1rem;margin-bottom:14px">📖 Leituras de <span style="color:var(--accent)">' + escHtml(username) + '</span></h3>'
+    + '<div id="urBody" style="color:var(--muted);font-size:0.85rem">Carregando…</div></div>';
+  document.body.appendChild(overlay);
+  try {
+    const res = await fetch('/api/admin/user-reading?userId=' + userId);
+    const data = await res.json();
+    const rows = (data.reading || []).map(r => {
+      const pct = r.total_pages > 0 ? Math.round((r.page_index + 1) / r.total_pages * 100) : 0;
+      return '<tr><td title="' + escHtml(r.title || r.manga_id) + '">'
+        + '<a href="/manga/' + r.manga_id + '/" target="_blank" style="color:var(--text)">' + escHtml(r.title || r.manga_id) + '</a></td>'
+        + '<td>' + escHtml(String(r.chapter_id)) + '</td><td class="num">' + pct + '%</td><td style="color:var(--muted)">' + fmtDate(r.updated_at) + '</td></tr>';
+    }).join('') || '<tr><td colspan="4" style="color:var(--muted)">Este usuário ainda não leu nada.</td></tr>';
+    document.getElementById('urBody').innerHTML = '<table class="stbl"><colgroup><col><col style="width:110px"><col style="width:56px"><col style="width:80px"></colgroup>'
+      + '<thead><tr><th>Mangá</th><th>Capítulo</th><th class="num">Prog.</th><th>Quando</th></tr></thead><tbody>' + rows + '</tbody></table>';
+  } catch (e) {
+    document.getElementById('urBody').textContent = 'Erro ao carregar.';
+  }
+}
+
+async function resolveReport(id, btn) {
+  btn.disabled = true; btn.textContent = '…';
+  try {
+    await fetch('/api/admin/report-resolve', {
+      method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ id })
+    });
+    btn.closest('tr').style.opacity = '0.35';
+    btn.textContent = '✓ Resolvido';
+  } catch (e) {
+    btn.disabled = false; btn.textContent = '✓ Resolver';
+  }
+}
+
+async function sendManualPush() {
+  const title = document.getElementById('pushTitle').value.trim();
+  const body = document.getElementById('pushBody').value.trim();
+  const url = document.getElementById('pushUrl').value.trim();
+  const info = document.getElementById('pushSendInfo');
+  if (!title || !body) { info.textContent = '⚠️ Preencha título e mensagem.'; return; }
+  if (!confirm('Enviar esta notificação para TODOS os dispositivos inscritos?\n\n' + title + '\n' + body)) return;
+  const btn = document.getElementById('pushSendBtn');
+  btn.disabled = true; btn.textContent = 'Enviando…'; info.textContent = '';
+  try {
+    const res = await fetch('/api/admin/push-send', {
+      method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ title, body, url: url || undefined })
+    });
+    const data = await res.json();
+    if (data.ok) {
+      info.textContent = `✅ Enviada para ${data.sent} de ${data.total} dispositivos` + (data.removed ? ` (${data.removed} inscrições mortas removidas)` : '') + '.';
+      document.getElementById('pushTitle').value = '';
+      document.getElementById('pushBody').value = '';
+      document.getElementById('pushUrl').value = '';
+    } else {
+      info.textContent = '❌ ' + (data.error || 'Falha no envio.');
+    }
+  } catch (e) {
+    info.textContent = '❌ Erro de conexão: ' + e.message;
+  } finally {
+    btn.disabled = false; btn.textContent = '📤 Enviar para Todos';
+  }
+}
+
+// ── Solicitações de desindexação ──────────────────────────────────────
+const TD_STATUS = {
+  pending:  { label: '⏳ Em análise', color: '#ffb300' },
+  approved: { label: '✅ Aprovada',   color: '#3fb950' },
+  rejected: { label: '❌ Recusada',   color: '#ef446e' }
+};
+const TD_REL = { autor: 'Autor(a)', editora: 'Editora', representante: 'Representante legal', distribuidor: 'Distribuidor licenciado' };
+const tdEsc = s => String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+
+async function loadTakedowns() {
+  const body = document.getElementById('takedownBody');
+  try {
+    const res = await fetch('/api/admin/takedowns');
+    if (!res.ok) { body.textContent = 'Sem acesso (faça login como admin no site).'; return; }
+    const reqs = (await res.json()).requests || [];
+    if (reqs.length === 0) { body.textContent = 'Nenhuma solicitação de desindexação. 🎉'; return; }
+    body.innerHTML = reqs.map(t => {
+      const st = TD_STATUS[t.status] || TD_STATUS.pending;
+      const when = t.created_at ? new Date(t.created_at).toLocaleString('pt-BR') : '';
+      const actions = t.status === 'pending'
+        ? `<div style="display:flex; gap:8px; flex-wrap:wrap; margin-top:10px;">
+             <button class="btn btn-start" onclick="resolveTakedown(${t.id}, true, this)">✅ Aprovar e desindexar</button>
+             <button class="btn" style="background:rgba(239,68,110,.15); color:#ef446e; border:1px solid rgba(239,68,110,.4);" onclick="resolveTakedown(${t.id}, false, this)">❌ Recusar</button>
+           </div>`
+        : (t.admin_note ? `<div style="font-size:0.78rem; color:var(--muted); margin-top:8px;">Motivo: ${tdEsc(t.admin_note)}</div>` : '');
+      return `
+        <div style="border:1px solid var(--border); border-radius:10px; padding:14px 16px; margin-bottom:12px; background:var(--surface2);">
+          <div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
+            <strong style="font-size:0.95rem;">#${t.id} · ${tdEsc(t.manga_title)}</strong>
+            <span style="font-size:0.78rem; font-weight:700; color:${st.color};">${st.label}</span>
+            <span style="font-size:0.75rem; color:var(--muted); margin-left:auto;">${when}</span>
+          </div>
+          <div style="font-size:0.8rem; color:var(--muted); margin-top:8px; line-height:1.7;">
+            <div><strong style="color:var(--text)">Solicitante:</strong> ${tdEsc(t.full_name)} (${TD_REL[t.relationship] || tdEsc(t.relationship)}) · conta: ${tdEsc(t.username || '?')}</div>
+            <div><strong style="color:var(--text)">E-mail:</strong> ${tdEsc(t.contact_email)}</div>
+            <div><strong style="color:var(--text)">Comprovante:</strong> <a href="${tdEsc(t.proof_url)}" target="_blank" rel="noopener noreferrer" style="color:var(--accent);">abrir PDF no Google Drive ↗</a></div>
+            ${t.details ? `<div><strong style="color:var(--text)">Detalhes:</strong> ${tdEsc(t.details)}</div>` : ''}
+          </div>
+          ${actions}
+        </div>`;
+    }).join('');
+  } catch (e) {
+    body.textContent = 'Erro ao carregar solicitações: ' + e.message;
+  }
+}
+
+async function resolveTakedown(id, approve, btn) {
+  let note = '';
+  if (!approve) {
+    note = prompt('Motivo da recusa (o solicitante verá esta mensagem no perfil):') || '';
+    if (!note.trim()) return;
+  } else if (!confirm('Aprovar a solicitação #' + id + '?\n\nA obra será DESINDEXADA da plataforma (lista de ocultos).')) {
+    return;
+  }
+  btn.disabled = true; btn.textContent = '…';
+  try {
+    const res = await fetch('/api/admin/takedown-resolve', {
+      method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ id, approve, note })
+    });
+    const data = await res.json();
+    if (!data.ok) throw new Error(data.error || 'falha');
+    loadTakedowns();
+    if (approve) loadHiddenList();
+  } catch (e) {
+    alert('Erro: ' + e.message);
+    btn.disabled = false;
+  }
+}
+
+// Load hidden list on page load
+window.addEventListener('load', () => { loadHiddenList(); loadStats(); loadTakedowns(); });
+
+connect();
+</script>
+<script>document.write('<script src="/js/data-lite.js?cb=' + Date.now() + '"><\/script>');</script>
+<script>
+  // Fornecedores: usa o campo `source` (preciso, funciona sem capa); cai na
+  // inferência por capa só pras fontes antigas que não gravam source.
+  var _SUP = {
+    tankouhentai:  ['TankouHentai', '🔞', '#ff5722'],
+    tiamanhwa:     ['TiaManhwa', '🔞', '#8a2be2'],
+    mangadistrict: ['MangaDistrict', '🔞', '#4682b4'],
+    hentai20:     ['Hentai20', '🔞', '#a855f7'],
+    mangafreak:   ['MangaFreak', '🇬🇧', '#3b82f6'],
+    leituramanga: ['LeituraManga', '🇧🇷', '#22c55e'],
+    mangalivre:   ['MangaLivre', '🇧🇷', '#eab308'],
+    'mangalivre-to': ['MangaLivre.to', '🇧🇷', '#f59e0b'],
+    mugiwaras:       ['Mugiwaras', '🇧🇷', '#ef4444']
+  };
+  function _supplierOf(m) {
+    if (m.source && _SUP[m.source]) return _SUP[m.source];
+    var c = m.cover || '';
+    try { var mt = c.match(/url=([^&]+)/); if (mt) c = decodeURIComponent(mt[1]); } catch (e) {}
+    if (/mangafreak/i.test(c)) return _SUP.mangafreak;
+    if (/leituramanga/i.test(c)) return _SUP.leituramanga;
+    if (/mangalivre/i.test(c)) return _SUP.mangalivre;
+    if (/tankouhentai/i.test(c)) return _SUP.tankouhentai;
+    if (/tiamanhwa/i.test(c)) return _SUP.tiamanhwa;
+    if (/mangadistrict/i.test(c)) return _SUP.mangadistrict;
+    // MangaDex foi descontinuado; obras com capa hospedada no mangadex.org
+    // pertencem a outra fonte (só reusam a imagem) → não rotular como MangaDex.
+    return ['Outros', '🌐', '#888'];
+  }
+  function renderSuppliers() {
+    if (typeof MANGA_DATA === 'undefined') return;
+    var agg = {};
+    MANGA_DATA.forEach(function (m) {
+      var s = _supplierOf(m), k = s[0];
+      if (!agg[k]) agg[k] = { nome: k, flag: s[1], cor: s[2], mangas: 0, caps: 0 };
+      agg[k].mangas++; agg[k].caps += (m.chaptersCount || 0);
+    });
+    var list = Object.keys(agg).map(function (k) { return agg[k]; }).sort(function (a, b) { return b.mangas - a.mangas; });
+    var el = document.getElementById('supplierStats');
+    if (!el) return;
+    el.innerHTML = list.map(function (s) {
+      return '<div class="card" style="border-left:4px solid ' + s.cor + '; cursor:pointer" title="Clique para ver as obras" onclick="showSupplierWorks(\'' + s.nome.replace(/'/g, "\\'") + '\')">'
+        + '<div class="card-head"><div class="flag">' + s.flag + '</div><div>'
+        + '<div class="card-title">' + s.nome + ' 🔍</div>'
+        + '<div class="card-sub">' + s.mangas.toLocaleString('pt-BR') + ' mangás · ' + s.caps.toLocaleString('pt-BR') + ' capítulos</div>'
+        + '</div></div></div>';
+    }).join('');
+  }
+
+  // Investigar: lista as obras de um fornecedor (com busca).
+  function showSupplierWorks(nome) {
+    var box = document.getElementById('supplierWorks');
+    if (!box || typeof MANGA_DATA === 'undefined') return;
+    var works = MANGA_DATA.filter(function (m) { return !m.hidden && _supplierOf(m)[0] === nome; })
+      .sort(function (a, b) { return (a.title || '').localeCompare(b.title || ''); });
+    box.style.display = 'block';
+    box.innerHTML = '<div style="display:flex;justify-content:space-between;align-items:center;margin:14px 0 8px">'
+      + '<strong style="color:var(--text)">' + nome + ' — ' + works.length.toLocaleString('pt-BR') + ' obras</strong>'
+      + '<button class="btn" style="padding:4px 10px;font-size:0.75rem" onclick="document.getElementById(\'supplierWorks\').style.display=\'none\'">✕ fechar</button></div>'
+      + '<input id="swSearch" placeholder="Filtrar por título..." style="width:100%;padding:8px 10px;margin-bottom:8px;background:var(--bg);border:1px solid var(--border);border-radius:8px;color:var(--text)" oninput="_swFilter()">'
+      + '<div id="swList" style="max-height:340px;overflow:auto;font-size:0.82rem;line-height:1.7"></div>';
+    window._swWorks = works;
+    _swFilter();
+  }
+  function _swFilter() {
+    var q = (document.getElementById('swSearch') || {}).value || '';
+    var nq = q.toLowerCase();
+    var rows = (window._swWorks || []).filter(function (m) { return !nq || (m.title || '').toLowerCase().indexOf(nq) >= 0; }).slice(0, 500);
+    document.getElementById('swList').innerHTML = rows.map(function (m) {
+      return '<div style="padding:3px 0;border-bottom:1px solid var(--border)"><a href="/manga/' + m.id + '/" target="_blank" style="color:var(--text)">'
+        + (m.title || m.id) + '</a> <span style="color:var(--muted)">· ' + (m.chaptersCount || 0) + ' caps · ' + (m.lang || '') + (m.cover ? '' : ' · <span style="color:#ef4444">SEM CAPA</span>') + '</span></div>';
+    }).join('') + ((window._swWorks || []).length > 500 ? '<div style="color:var(--muted);padding:6px 0">… (500 primeiros; refine a busca)</div>' : '');
+  }
+  window.addEventListener('load', renderSuppliers);
+
+  // ── Diagnóstico de inconsistências ──────────────────────────────────────
+  function runDiag() {
+    var el = document.getElementById('diagResults');
+    if (typeof MANGA_DATA === 'undefined') { el.innerHTML = '<p style="color:var(--muted)">Dados ainda não carregados.</p>'; return; }
+    var semCapa = [], zeroCaps = [], ilegivel = [], generosLixo = [], dup = [];
+    var titleCount = {};
+    MANGA_DATA.forEach(function (m) {
+      if (m.hidden) return;
+      if (!m.cover) semCapa.push(m);
+      if (!(m.chaptersCount > 0)) zeroCaps.push(m);
+      // hentai20: páginas on-demand de fontes que bloqueiam cloud → não leem no site público
+      if (m.source === 'hentai20') ilegivel.push(m);
+      if ((m.genres || []).length > 15) generosLixo.push(m);
+      var t = (m.title || '').toLowerCase().trim();
+      if (t) titleCount[t] = (titleCount[t] || 0) + 1;
+    });
+    Object.keys(titleCount).forEach(function (t) { if (titleCount[t] > 1) dup.push({ title: t, n: titleCount[t] }); });
+
+    function exemplos(arr, key) {
+      return arr.slice(0, 5).map(function (m) { return (m.title || m[key] || m.id || '?'); }).join(' · ') + (arr.length > 5 ? ' …' : '');
+    }
+    function bloco(cor, titulo, arr, exemploStr) {
+      var n = arr.length;
+      return '<div class="card" style="border-left:4px solid ' + (n ? cor : '#3a3a4a') + '; margin-bottom:10px;">'
+        + '<div style="padding:12px 14px;">'
+        + '<div style="font-weight:700; color:var(--text);">' + (n ? '⚠️ ' : '✅ ') + titulo + ': ' + n.toLocaleString('pt-BR') + '</div>'
+        + (n ? '<div style="font-size:0.78rem; color:var(--muted); margin-top:4px;">' + exemploStr + '</div>' : '')
+        + '</div></div>';
+    }
+
+    el.innerHTML =
+      bloco('#ef4444', 'Sem capa (mostram "?")', semCapa, exemplos(semCapa))
+      + bloco('#eab308', 'Sem capítulos (0)', zeroCaps, exemplos(zeroCaps))
+      + bloco('#a855f7', 'Ilegíveis no site público (Hentai20)', ilegivel, exemplos(ilegivel))
+      + bloco('#3b82f6', 'Gêneros suspeitos (>15 — scraper pegou lixo)', generosLixo, exemplos(generosLixo))
+      + bloco('#22c55e', 'Títulos duplicados', dup, dup.slice(0, 5).map(function (d) { return d.title + ' (' + d.n + 'x)'; }).join(' · ') + (dup.length > 5 ? ' …' : ''));
+  }
+</script>
+</body>
+</html>

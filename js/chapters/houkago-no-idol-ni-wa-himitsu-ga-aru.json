@@ -1,0 +1,806 @@
+{
+  "en": [
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-1",
+      "number": "1",
+      "title": "Kuromiya-san's Secret",
+      "date": "2023/09/18",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-2",
+      "number": "2",
+      "title": "Kuromiya-san's Weakness",
+      "date": "2023/09/18",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-3",
+      "number": "3",
+      "title": "Kuromiya-san's Singing voice",
+      "date": "2023/09/18",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-4",
+      "number": "4",
+      "title": "Kuromiya-san's ON/OFF",
+      "date": "2023/09/18",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-5",
+      "number": "5",
+      "title": "Kuromiya-san's sense of danger",
+      "date": "2023/09/18",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-6",
+      "number": "6",
+      "title": "Kuromiya-san and Merit",
+      "date": "2023/09/18",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-7",
+      "number": "7",
+      "title": "Kuromiya-san's Reason",
+      "date": "2023/09/18",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-8",
+      "number": "8",
+      "title": "Talking on phone with Kuromiya-san",
+      "date": "2023/09/18",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-9",
+      "number": "9",
+      "title": "Kuromiya-san and The Childhood Friend",
+      "date": "2023/09/18",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-10",
+      "number": "10",
+      "title": "Kuromiya-san and the childhood friend 2",
+      "date": "2023/09/18",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-11",
+      "number": "11",
+      "title": "Kuromiya-san's Growth",
+      "date": "2023/09/18",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-12",
+      "number": "12",
+      "title": "Kuromiya-san's Performance",
+      "date": "2023/09/18",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-13",
+      "number": "13",
+      "title": "Kuromiya-san's Gratitude",
+      "date": "2023/09/18",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-14",
+      "number": "14",
+      "title": "Kuromiya-san's Gratitude 2",
+      "date": "2023/09/18",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-15",
+      "number": "15",
+      "title": "Kuromiya-san's Secret",
+      "date": "2023/09/18",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-16",
+      "number": "16",
+      "title": "",
+      "date": "2023/10/15",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-17",
+      "number": "17",
+      "title": "",
+      "date": "2023/10/15",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-17a",
+      "number": "17a",
+      "title": "",
+      "date": "2023/11/15",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-18",
+      "number": "18",
+      "title": "",
+      "date": "2023/11/26",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-19",
+      "number": "19",
+      "title": "",
+      "date": "2023/12/09",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-20",
+      "number": "20",
+      "title": "Kuromiya-san's present",
+      "date": "2023/12/10",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-21",
+      "number": "21",
+      "title": "",
+      "date": "2023/12/10",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-22",
+      "number": "22",
+      "title": "",
+      "date": "2023/12/11",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-23",
+      "number": "23",
+      "title": "",
+      "date": "2023/12/23",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-24",
+      "number": "24",
+      "title": "",
+      "date": "2023/12/30",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-25",
+      "number": "25",
+      "title": "",
+      "date": "2023/12/31",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-26",
+      "number": "26",
+      "title": "",
+      "date": "2024/01/01",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-27",
+      "number": "27",
+      "title": "Kuromiya-san and the aquarium 2",
+      "date": "2024/01/01",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-28",
+      "number": "28",
+      "title": "",
+      "date": "2024/02/06",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-29",
+      "number": "29",
+      "title": "",
+      "date": "2024/02/10",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-30",
+      "number": "30",
+      "title": "",
+      "date": "2024/03/02",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-31",
+      "number": "31",
+      "title": "Kuromiya-san and The Sea",
+      "date": "2024/03/04",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-32",
+      "number": "32",
+      "title": "",
+      "date": "2024/03/11",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-33",
+      "number": "33",
+      "title": "",
+      "date": "2024/03/27",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-34",
+      "number": "34",
+      "title": "",
+      "date": "2024/03/29",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-35",
+      "number": "35",
+      "title": "",
+      "date": "2024/04/17",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-36",
+      "number": "36",
+      "title": "",
+      "date": "2024/05/09",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-37",
+      "number": "37",
+      "title": "",
+      "date": "2024/06/03",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-38",
+      "number": "38",
+      "title": "",
+      "date": "2024/07/20",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-39",
+      "number": "39",
+      "title": "",
+      "date": "2024/07/20",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-40",
+      "number": "40",
+      "title": "",
+      "date": "2024/07/21",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-41",
+      "number": "41",
+      "title": "",
+      "date": "2024/08/04",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-42",
+      "number": "42",
+      "title": "",
+      "date": "2024/09/05",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-43",
+      "number": "43",
+      "title": "",
+      "date": "2024/09/14",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-44",
+      "number": "44",
+      "title": "",
+      "date": "2024/10/26",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-45",
+      "number": "45",
+      "title": "",
+      "date": "2024/11/10",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-46",
+      "number": "46",
+      "title": "",
+      "date": "2024/11/24",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-47",
+      "number": "47",
+      "title": "",
+      "date": "2025/02/22",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-48",
+      "number": "48",
+      "title": "",
+      "date": "2025/02/23",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-49",
+      "number": "49",
+      "title": "",
+      "date": "2025/02/23",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-50",
+      "number": "50",
+      "title": "",
+      "date": "2025/03/11",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-51",
+      "number": "51",
+      "title": "",
+      "date": "2025/03/11",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-52",
+      "number": "52",
+      "title": "",
+      "date": "2025/03/11",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-53",
+      "number": "53",
+      "title": "",
+      "date": "2025/03/12",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-54",
+      "number": "54",
+      "title": "",
+      "date": "2025/03/13",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-55",
+      "number": "55",
+      "title": "",
+      "date": "2025/06/01",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-56",
+      "number": "56",
+      "title": "",
+      "date": "2025/09/05",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-57",
+      "number": "57",
+      "title": "",
+      "date": "2025/09/05",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-58",
+      "number": "58",
+      "title": "",
+      "date": "2025/09/06",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-59",
+      "number": "59",
+      "title": "",
+      "date": "2025/09/07",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-60",
+      "number": "60",
+      "title": "",
+      "date": "2025/09/12",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-61",
+      "number": "61",
+      "title": "",
+      "date": "2025/09/12",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-62",
+      "number": "62",
+      "title": "",
+      "date": "2025/09/12",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-63",
+      "number": "63",
+      "title": "",
+      "date": "2025/09/12",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-64",
+      "number": "64",
+      "title": "",
+      "date": "2025/09/12",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-65",
+      "number": "65",
+      "title": "",
+      "date": "2025/09/12",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-66",
+      "number": "66",
+      "title": "",
+      "date": "2025/09/14",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-67",
+      "number": "67",
+      "title": "",
+      "date": "2025/09/28",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-68",
+      "number": "68",
+      "title": "",
+      "date": "2025/10/12",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-69",
+      "number": "69",
+      "title": "",
+      "date": "2025/10/26",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-70",
+      "number": "70",
+      "title": "",
+      "date": "2025/11/09",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-71",
+      "number": "71",
+      "title": "",
+      "date": "2025/11/09",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-72",
+      "number": "72",
+      "title": "",
+      "date": "2025/11/24",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-73",
+      "number": "73",
+      "title": "",
+      "date": "2025/12/14",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-74",
+      "number": "74",
+      "title": "",
+      "date": "2025/12/29",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-75",
+      "number": "75",
+      "title": "",
+      "date": "2026/01/19",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-76",
+      "number": "76",
+      "title": "",
+      "date": "2026/02/01",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-77",
+      "number": "77",
+      "title": "",
+      "date": "2026/02/17",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-78",
+      "number": "78",
+      "title": "",
+      "date": "2026/03/01",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-79",
+      "number": "79",
+      "title": "",
+      "date": "2026/03/15",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-80",
+      "number": "80",
+      "title": "",
+      "date": "2026/03/30",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-81",
+      "number": "81",
+      "title": "",
+      "date": "2026/04/13",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-82",
+      "number": "82",
+      "title": "",
+      "date": "2026/05/05",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-83",
+      "number": "83",
+      "title": "",
+      "date": "2026/05/25",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-84",
+      "number": "84",
+      "title": "",
+      "date": "2026/06/06",
+      "pages": []
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-85",
+      "number": "85",
+      "title": "",
+      "date": "2026/06/23",
+      "pages": []
+    }
+  ],
+  "pt": [
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-chapter-1",
+      "number": 1,
+      "title": "Houkago no Idol ni wa Himitsu ga Aru – Capítulo 1",
+      "date": "2026-03-12T14:12:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1138592
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-chapter-2",
+      "number": 2,
+      "title": "Houkago no Idol ni wa Himitsu ga Aru – Capítulo 2",
+      "date": "2026-03-12T14:12:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1138596
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-chapter-3",
+      "number": 3,
+      "title": "Houkago no Idol ni wa Himitsu ga Aru – Capítulo 3",
+      "date": "2026-03-12T14:12:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1138597
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-chapter-4",
+      "number": 4,
+      "title": "Houkago no Idol ni wa Himitsu ga Aru – Capítulo 4",
+      "date": "2026-03-12T14:12:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1138591
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-chapter-5",
+      "number": 5,
+      "title": "Houkago no Idol ni wa Himitsu ga Aru – Capítulo 5",
+      "date": "2026-03-12T14:12:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1138594
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-chapter-6",
+      "number": 6,
+      "title": "Houkago no Idol ni wa Himitsu ga Aru – Capítulo 6",
+      "date": "2026-03-12T14:12:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1138600
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-chapter-7",
+      "number": 7,
+      "title": "Houkago no Idol ni wa Himitsu ga Aru – Capítulo 7 – O motivo de Kuromiya-san",
+      "date": "2026-03-12T14:12:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1138598
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-chapter-8",
+      "number": 8,
+      "title": "Houkago no Idol ni wa Himitsu ga Aru – Capítulo 8 – Falando pelo telefone com Kuromiya-san",
+      "date": "2026-03-12T14:12:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1138593
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-chapter-9",
+      "number": 9,
+      "title": "Houkago no Idol ni wa Himitsu ga Aru – Capítulo 9",
+      "date": "2026-03-12T14:12:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1138599
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-chapter-10",
+      "number": 10,
+      "title": "Houkago no Idol ni wa Himitsu ga Aru – Capítulo 10 – Kuromiya-san e a amiga de infância (2)",
+      "date": "2026-03-12T14:12:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1138595
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-chapter-10.5",
+      "number": 10.5,
+      "title": "Houkago no Idol ni wa Himitsu ga Aru – Capítulo 10.5 – ATUALIZAÇÃO DE TRADUÇÃO",
+      "date": "2026-03-12T14:12:59Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1138834
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-chapter-11",
+      "number": 11,
+      "title": "Houkago no Idol ni wa Himitsu ga Aru – Capítulo 11 – Crescimento da Kuromiiya-san",
+      "date": "2026-03-12T14:13:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1138843
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-chapter-12",
+      "number": 12,
+      "title": "Houkago no Idol ni wa Himitsu ga Aru – Capítulo 12 – Perfomance de Kuromiya-san",
+      "date": "2026-03-12T14:13:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1138841
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-chapter-13",
+      "number": 13,
+      "title": "Houkago no Idol ni wa Himitsu ga Aru – Capítulo 13 – A gratidão de Kuromiya-san",
+      "date": "2026-03-12T14:13:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1138837
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-chapter-14",
+      "number": 14,
+      "title": "Houkago no Idol ni wa Himitsu ga Aru – Capítulo 14 – A GRATIDÃO DE KUROMIYA-SAN ②",
+      "date": "2026-03-12T14:13:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1138842
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-chapter-15",
+      "number": 15,
+      "title": "Houkago no Idol ni wa Himitsu ga Aru – Capítulo 15 – SEGREDO DE KUROMIYA-SAN",
+      "date": "2026-03-12T14:13:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1138838
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-chapter-16",
+      "number": 16,
+      "title": "Houkago no Idol ni wa Himitsu ga Aru – Capítulo 16 – KUROMIYA-SAN ESTÁ AGINDO",
+      "date": "2026-03-12T14:13:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1138839
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-chapter-17",
+      "number": 17,
+      "title": "Houkago no Idol ni wa Himitsu ga Aru – Capítulo 17 – AS ROUPAS SAZONAIS DA KUROMIYA-SAN",
+      "date": "2026-03-12T14:13:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1138844
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-chapter-18",
+      "number": 18,
+      "title": "Houkago no Idol ni wa Himitsu ga Aru – Capítulo 18 – UM DIA DA KUROMIYA-SAN",
+      "date": "2026-03-12T14:13:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1138840
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-chapter-19",
+      "number": 19,
+      "title": "Houkago no Idol ni wa Himitsu ga Aru – Capítulo 19 – A COMPAIXÃO DA KUROMIYA-SAN",
+      "date": "2026-03-12T14:13:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1138846
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-chapter-20",
+      "number": 20,
+      "title": "Houkago no Idol ni wa Himitsu ga Aru – Capítulo 20 – PRESENTE DA KUROMIYA-SAN",
+      "date": "2026-03-12T14:13:36Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1139036
+    },
+    {
+      "id": "houkago-no-idol-ni-wa-himitsu-ga-aru-chapter-21",
+      "number": 21,
+      "title": "Houkago no Idol ni wa Himitsu ga Aru – Capítulo 21 – KUROMIYA-SAN E SUAS SENPAIS",
+      "date": "2026-03-12T14:13:36Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1139035
+    }
+  ]
+}

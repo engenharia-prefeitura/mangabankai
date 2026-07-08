@@ -1,0 +1,816 @@
+{
+  "en": [
+    {
+      "id": "video-girl-ai-1",
+      "number": "1",
+      "title": "The Distance Between Two Hearts",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-2",
+      "number": "2",
+      "title": "What Should We Do",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-3",
+      "number": "3",
+      "title": "Bust Line",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-4",
+      "number": "4",
+      "title": "The One Who Takes Care of You",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-5",
+      "number": "5",
+      "title": "The Day of Yota's First Date",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-6",
+      "number": "6",
+      "title": "Confessions - Part 1",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-7",
+      "number": "7",
+      "title": "Confessions - Part 2",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-8",
+      "number": "8",
+      "title": "Awaken the Dream",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-9",
+      "number": "9",
+      "title": "Where Did Ai Go",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-10",
+      "number": "10",
+      "title": "Disappeared!",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-11",
+      "number": "11",
+      "title": "Youta Leaving Home",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-12",
+      "number": "12",
+      "title": "Do You Hate Me",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-13",
+      "number": "13",
+      "title": "At Home",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-14",
+      "number": "14",
+      "title": "I Like You",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-15",
+      "number": "15",
+      "title": "My Heartache",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-16",
+      "number": "16",
+      "title": "The Last Kindness",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-17",
+      "number": "17",
+      "title": "Sad Couple",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-18",
+      "number": "18",
+      "title": "The Glass Staircase",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-19",
+      "number": "19",
+      "title": "The Electric Shock of a Broken Heart",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-20",
+      "number": "20",
+      "title": "Play",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-21",
+      "number": "21",
+      "title": "Senpai",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-22",
+      "number": "22",
+      "title": "Unspeakable Words",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-23",
+      "number": "23",
+      "title": "A Sad Game of Tag",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-24",
+      "number": "24",
+      "title": "Each One's Decision",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-25",
+      "number": "25",
+      "title": "Relaxing My Body",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-26",
+      "number": "26",
+      "title": "Deepening Feelings",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-27",
+      "number": "27",
+      "title": "Pieces of Memories",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-28",
+      "number": "28",
+      "title": "I Don't Wanna Go Home",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-29",
+      "number": "29",
+      "title": "Under the Roof",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-30",
+      "number": "30",
+      "title": "The Long Night",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-31",
+      "number": "31",
+      "title": "Sorry",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-32",
+      "number": "32",
+      "title": "Cancel",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-33",
+      "number": "33",
+      "title": "Stealing Love",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-34",
+      "number": "34",
+      "title": "Stand by You",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-35",
+      "number": "35",
+      "title": "Courage",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-36",
+      "number": "36",
+      "title": "Kindness",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-37",
+      "number": "37",
+      "title": "Video Girl Mai",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-38",
+      "number": "38",
+      "title": "Love",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-39",
+      "number": "39",
+      "title": "Conflict",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-40",
+      "number": "40",
+      "title": "Contrary",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-41",
+      "number": "41",
+      "title": "Like Before",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-42",
+      "number": "42",
+      "title": "Slide",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-43",
+      "number": "43",
+      "title": "Passing Each Other",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-44",
+      "number": "44",
+      "title": "Hesitation",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-45",
+      "number": "45",
+      "title": "Can You Forget",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-46",
+      "number": "46",
+      "title": "Eh",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-47",
+      "number": "47",
+      "title": "It's Not True!",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-48",
+      "number": "48",
+      "title": "Both, Rejected People",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-49",
+      "number": "49",
+      "title": "The Warm Hand",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-50",
+      "number": "50",
+      "title": "Attack",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-51",
+      "number": "51",
+      "title": "Unexpectedly",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-52",
+      "number": "52",
+      "title": "The Kiss of Death",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-53",
+      "number": "53",
+      "title": "Don't Give Up Your Life",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-54",
+      "number": "54",
+      "title": "Ai's Magnetism",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-55",
+      "number": "55",
+      "title": "Conditioned Miracle",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-56",
+      "number": "56",
+      "title": "Image",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-57",
+      "number": "57",
+      "title": "An Emotional Time Travel",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-58",
+      "number": "58",
+      "title": "Storm",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-59",
+      "number": "59",
+      "title": "Suspicion",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-60",
+      "number": "60",
+      "title": "Contempt",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-61",
+      "number": "61",
+      "title": "Determination",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-62",
+      "number": "62",
+      "title": "A Girl Like You",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-63",
+      "number": "63",
+      "title": "Youta, You're Weird!",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-64",
+      "number": "64",
+      "title": "Tracing That Day",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-65",
+      "number": "65",
+      "title": "Getting Sick of You",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-66",
+      "number": "66",
+      "title": "What Did He Feel at That Time",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-67",
+      "number": "67",
+      "title": "Stay With Me",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-68",
+      "number": "68",
+      "title": "Scolding Myseld",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-69",
+      "number": "69",
+      "title": "Making A Difference",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-70",
+      "number": "70",
+      "title": "Ai's Scenario",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-71",
+      "number": "71",
+      "title": "Memory",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-72",
+      "number": "72",
+      "title": "The Kiss",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-73",
+      "number": "73",
+      "title": "Scared",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-74",
+      "number": "74",
+      "title": "Awakening Emotions",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-75",
+      "number": "75",
+      "title": "Illustration Board",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-76",
+      "number": "76",
+      "title": "A Girl's Feelings",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-77",
+      "number": "77",
+      "title": "Secret",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-78",
+      "number": "78",
+      "title": "The Answering Machine 1",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-79",
+      "number": "79",
+      "title": "The Answering Machine 2",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-80",
+      "number": "80",
+      "title": "No Reason",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-81",
+      "number": "81",
+      "title": "The Countdown on Life",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-82",
+      "number": "82",
+      "title": "It's Jealousy",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-83",
+      "number": "83",
+      "title": "The Chance",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-84",
+      "number": "84",
+      "title": "I Won't Run Away",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-85",
+      "number": "85",
+      "title": "Like Snow",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-86",
+      "number": "86",
+      "title": "The Limit 1",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-87",
+      "number": "87",
+      "title": "The Limit 2",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-88",
+      "number": "88",
+      "title": "Even Though I'm Not Human",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-89",
+      "number": "89",
+      "title": "The Flu",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-90",
+      "number": "90",
+      "title": "Cool Guy",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-91",
+      "number": "91",
+      "title": "A Beautiful Mind",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-92",
+      "number": "92",
+      "title": "A Painful Face",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-93",
+      "number": "93",
+      "title": "You Told Me!",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-94",
+      "number": "94",
+      "title": "The Hopeless Person",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-95",
+      "number": "95",
+      "title": "A-Moment of Fate",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-96",
+      "number": "96",
+      "title": "The Things Natsumi Left Behind",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-97",
+      "number": "97",
+      "title": "The Lie",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-98",
+      "number": "98",
+      "title": "Continuation of Dreams",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-99",
+      "number": "99",
+      "title": "I Like Moemi-chan",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-100",
+      "number": "100",
+      "title": "Separation",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-101",
+      "number": "101",
+      "title": "Eager to Return",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-102",
+      "number": "102",
+      "title": "Cannot Hate",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-103",
+      "number": "103",
+      "title": "Trust Me",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-104",
+      "number": "104",
+      "title": "Happy Day",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-105",
+      "number": "105",
+      "title": "Happy Tears",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-106",
+      "number": "106",
+      "title": "A Change in Feelings",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-107",
+      "number": "107",
+      "title": "The Elder",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-108",
+      "number": "108",
+      "title": "Passionate Love",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-109",
+      "number": "109",
+      "title": "Bet Your Life",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-110",
+      "number": "110",
+      "title": "With Beautiful, White Snow",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-111",
+      "number": "111",
+      "title": "Medicine to Erase Memories",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-112",
+      "number": "112",
+      "title": "Eve of the Final Playing Time",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-113",
+      "number": "113",
+      "title": "Youta's Erased Memory",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-114",
+      "number": "114",
+      "title": "Just Before Ai's Disappearance",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-115",
+      "number": "115",
+      "title": "Separation Kiss - The Day Ai Disappears",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "video-girl-ai-116",
+      "number": "116",
+      "title": "FINAL CHAPTER - Everyone's Feelings",
+      "date": "2009/08/01",
+      "pages": []
+    }
+  ]
+}

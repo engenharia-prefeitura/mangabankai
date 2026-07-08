@@ -1,0 +1,739 @@
+{
+  "en": [
+    {
+      "id": "saru-lock-1",
+      "number": "1",
+      "title": "1",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-2",
+      "number": "2",
+      "title": "2",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-3",
+      "number": "3",
+      "title": "3",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-4",
+      "number": "4",
+      "title": "4",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-5",
+      "number": "5",
+      "title": "5",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-6",
+      "number": "6",
+      "title": "6",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-7",
+      "number": "7",
+      "title": "7",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-8",
+      "number": "8",
+      "title": "8",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-9",
+      "number": "9",
+      "title": "9",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-10",
+      "number": "10",
+      "title": "10",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-11",
+      "number": "11",
+      "title": "11",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-12",
+      "number": "12",
+      "title": "12",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-13",
+      "number": "13",
+      "title": "13",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-14",
+      "number": "14",
+      "title": "14",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-15",
+      "number": "15",
+      "title": "15",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-16",
+      "number": "16",
+      "title": "16",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-17",
+      "number": "17",
+      "title": "17",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-18",
+      "number": "18",
+      "title": "18",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-19",
+      "number": "19",
+      "title": "19",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-20",
+      "number": "20",
+      "title": "20",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-21",
+      "number": "21",
+      "title": "21",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-22",
+      "number": "22",
+      "title": "22",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-23",
+      "number": "23",
+      "title": "23",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-24",
+      "number": "24",
+      "title": "24",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-25",
+      "number": "25",
+      "title": "25",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-26",
+      "number": "26",
+      "title": "26",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-27",
+      "number": "27",
+      "title": "27",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-28",
+      "number": "28",
+      "title": "28",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-29",
+      "number": "29",
+      "title": "29",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-30",
+      "number": "30",
+      "title": "30",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-31",
+      "number": "31",
+      "title": "31",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-32",
+      "number": "32",
+      "title": "32",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-33",
+      "number": "33",
+      "title": "33",
+      "date": "2009/10/28",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-34",
+      "number": "34",
+      "title": "34",
+      "date": "2009/11/13",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-35",
+      "number": "35",
+      "title": "Saru, Trapped!",
+      "date": "2010/02/26",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-36",
+      "number": "36",
+      "title": "Going South On Route 246!",
+      "date": "2010/11/10",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-37",
+      "number": "37",
+      "title": "Christmas Eve Car Chase 1",
+      "date": "2010/11/10",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-38",
+      "number": "38",
+      "title": "Christmas Eve Car Chase 2",
+      "date": "2010/11/10",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-39",
+      "number": "39",
+      "title": "Christmas Eve Car Chase 3",
+      "date": "2010/11/10",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-40",
+      "number": "40",
+      "title": "Finale To The Incident!!",
+      "date": "2010/11/10",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-41",
+      "number": "41",
+      "title": "Saru's Hospitalization!",
+      "date": "2011/01/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-42",
+      "number": "42",
+      "title": "The Search For Initial F!!",
+      "date": "2011/02/01",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-43",
+      "number": "43",
+      "title": "Confession of a Judo Club Member",
+      "date": "2011/02/22",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-44",
+      "number": "44",
+      "title": "Mission Imposible!!!",
+      "date": "2011/12/06",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-45",
+      "number": "45",
+      "title": "Tragedy In F",
+      "date": "2011/12/25",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-46",
+      "number": "46",
+      "title": "A Photographer In Distress",
+      "date": "2011/12/25",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-47",
+      "number": "47",
+      "title": "Miho, The Stalker!!",
+      "date": "2012/01/05",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-48",
+      "number": "48",
+      "title": "Saru, The Detective!!",
+      "date": "2012/02/02",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-49",
+      "number": "49",
+      "title": "The Trap Is Set!!",
+      "date": "2012/03/11",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-50",
+      "number": "50",
+      "title": "Irrefutable Proof",
+      "date": "2012/05/06",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-51",
+      "number": "51",
+      "title": "Stalker's True Face!!",
+      "date": "2012/07/21",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-52",
+      "number": "52",
+      "title": "The Mysteries Of The City",
+      "date": "2013/11/13",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-53",
+      "number": "53",
+      "title": "A Young Woman in the City!!",
+      "date": "2013/04/30",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-54",
+      "number": "54",
+      "title": "Operation Rescue!!",
+      "date": "2013/11/13",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-55",
+      "number": "55",
+      "title": "The Search Continues!!",
+      "date": "2013/11/13",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-56",
+      "number": "56",
+      "title": "Close Call!!",
+      "date": "2013/12/31",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-57",
+      "number": "57",
+      "title": "Urban Misadventure",
+      "date": "2014/05/03",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-58",
+      "number": "58",
+      "title": "Declaration",
+      "date": "2014/05/03",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-59",
+      "number": "59",
+      "title": "Find The Crows!",
+      "date": "2014/05/03",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-60",
+      "number": "60",
+      "title": "Commander",
+      "date": "2014/08/01",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-61",
+      "number": "61",
+      "title": "Mission 3 - Spoils of War!!!",
+      "date": "2014/11/02",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-62",
+      "number": "62",
+      "title": "Mission 4 - A Ne Target",
+      "date": "2015/04/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-63",
+      "number": "63",
+      "title": "Death to the Vanquish!",
+      "date": "2015/04/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-64",
+      "number": "64",
+      "title": "",
+      "date": "2015/05/13",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-65",
+      "number": "65",
+      "title": "",
+      "date": "2016/12/24",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-66",
+      "number": "66",
+      "title": "",
+      "date": "2016/12/24",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-67",
+      "number": "67",
+      "title": "",
+      "date": "2016/12/25",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-68",
+      "number": "68",
+      "title": "",
+      "date": "2016/12/26",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-69",
+      "number": "69",
+      "title": "",
+      "date": "2017/01/08",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-70",
+      "number": "70",
+      "title": "",
+      "date": "2017/01/08",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-71",
+      "number": "71",
+      "title": "",
+      "date": "2017/08/14",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-72",
+      "number": "72",
+      "title": "",
+      "date": "2017/08/14",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-73",
+      "number": "73",
+      "title": "",
+      "date": "2017/08/14",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-74",
+      "number": "74",
+      "title": "",
+      "date": "2017/08/14",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-75",
+      "number": "75",
+      "title": "",
+      "date": "2017/08/14",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-76",
+      "number": "76",
+      "title": "",
+      "date": "2017/08/14",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-77",
+      "number": "77",
+      "title": "",
+      "date": "2017/08/14",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-78",
+      "number": "78",
+      "title": "",
+      "date": "2017/08/14",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-79",
+      "number": "79",
+      "title": "",
+      "date": "2017/08/14",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-80",
+      "number": "80",
+      "title": "",
+      "date": "2017/08/14",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-81",
+      "number": "81",
+      "title": "",
+      "date": "2019/07/25",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-82",
+      "number": "82",
+      "title": "",
+      "date": "2019/07/25",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-83",
+      "number": "83",
+      "title": "",
+      "date": "2019/07/25",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-84",
+      "number": "84",
+      "title": "",
+      "date": "2019/07/25",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-85",
+      "number": "85",
+      "title": "",
+      "date": "2019/07/25",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-86",
+      "number": "86",
+      "title": "",
+      "date": "2019/07/25",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-87",
+      "number": "87",
+      "title": "",
+      "date": "2019/07/25",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-88",
+      "number": "88",
+      "title": "",
+      "date": "2019/07/25",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-89",
+      "number": "89",
+      "title": "The keys to the Mustang! (1)",
+      "date": "2019/08/06",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-90",
+      "number": "90",
+      "title": "The keys to the Mustang! (2)",
+      "date": "2019/10/28",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-91",
+      "number": "91",
+      "title": "Saitos job!",
+      "date": "2019/10/28",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-92",
+      "number": "92",
+      "title": "Arakis Treasure",
+      "date": "2019/10/28",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-93",
+      "number": "93",
+      "title": "Saito's Office!",
+      "date": "2020/06/21",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-94",
+      "number": "94",
+      "title": "The Hunt for the Red Mustang",
+      "date": "2020/07/06",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-95",
+      "number": "95",
+      "title": "Meeting of Mustangs!",
+      "date": "2020/10/16",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-96",
+      "number": "96",
+      "title": "Araki's Confession!",
+      "date": "2021/01/20",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-97",
+      "number": "97",
+      "title": "The Notebook",
+      "date": "2021/10/11",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-98",
+      "number": "98",
+      "title": "A beautiful legacy",
+      "date": "2021/10/11",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-99",
+      "number": "99",
+      "title": "Saru's day out",
+      "date": "2021/10/11",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-100",
+      "number": "100",
+      "title": "An unexpected reunion",
+      "date": "2021/10/11",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-101",
+      "number": "101",
+      "title": "Who is JIn?",
+      "date": "2021/11/04",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-102",
+      "number": "102",
+      "title": "Saito and Jin",
+      "date": "2022/02/09",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-103",
+      "number": "103",
+      "title": "Battle of the strongest",
+      "date": "2022/02/09",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-104",
+      "number": "104",
+      "title": "The Birth of the Heaven's Crows",
+      "date": "2022/03/21",
+      "pages": []
+    },
+    {
+      "id": "saru-lock-105",
+      "number": "105",
+      "title": "Change",
+      "date": "2022/03/21",
+      "pages": []
+    }
+  ]
+}

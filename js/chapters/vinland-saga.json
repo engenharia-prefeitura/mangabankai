@@ -1,0 +1,3560 @@
+{
+  "en": [
+    {
+      "id": "vinland-saga-1",
+      "number": "1",
+      "title": "Normanni",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-2",
+      "number": "2",
+      "title": "Somewhere Not Here",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-3",
+      "number": "3",
+      "title": "The End Beyond the Sea",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-4",
+      "number": "4",
+      "title": "Unbroken Chains",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-5",
+      "number": "5",
+      "title": "troll",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-6",
+      "number": "6",
+      "title": "Messenger From The Battlefield",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-7",
+      "number": "7",
+      "title": "Sword",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-8",
+      "number": "8",
+      "title": "Beginning of The Journey",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-9",
+      "number": "9",
+      "title": "A Trap in Distant Seas",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-10",
+      "number": "10",
+      "title": "Night Awake",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-11",
+      "number": "11",
+      "title": "Cage",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-12",
+      "number": "12",
+      "title": "Greater Than Any Monster",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-13",
+      "number": "13",
+      "title": "Smell",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-14",
+      "number": "14",
+      "title": "The Sword of Thors",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-15",
+      "number": "15",
+      "title": "A True Warrior",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-16",
+      "number": "16",
+      "title": "The Death of Thors",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-17",
+      "number": "17",
+      "title": "England, 1008",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-18",
+      "number": "18",
+      "title": "England, 1013",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-19",
+      "number": "19",
+      "title": "Battle On London Bridge",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-20",
+      "number": "20",
+      "title": "Ragnarok",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-21",
+      "number": "21",
+      "title": "Valhalla",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-22",
+      "number": "22",
+      "title": "Son of a Troll",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-23",
+      "number": "23",
+      "title": "Reinforcement",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-24",
+      "number": "24",
+      "title": "The Land on the Other Side",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-25",
+      "number": "25",
+      "title": "The Bluff",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-26",
+      "number": "26",
+      "title": "Artorius",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-27",
+      "number": "27",
+      "title": "The Warrior and the Monk",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-28",
+      "number": "28",
+      "title": "Battle in the Darkness",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-29",
+      "number": "29",
+      "title": "Father and Son",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-30",
+      "number": "30",
+      "title": "Master and Servant's Dining Table",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-31",
+      "number": "31",
+      "title": "History of Beasts",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-32",
+      "number": "32",
+      "title": "Deserters",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-33",
+      "number": "33",
+      "title": "Betrayal",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-34",
+      "number": "34",
+      "title": "Avalon",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-35",
+      "number": "35",
+      "title": "Contact",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-36",
+      "number": "36",
+      "title": "The Two on the Battlefield",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-37",
+      "number": "37",
+      "title": "The Meaning of Love",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-38",
+      "number": "38",
+      "title": "Outside the Cradle",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-39",
+      "number": "39",
+      "title": "The King Awakens",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-40",
+      "number": "40",
+      "title": "The Story of Thors",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-41",
+      "number": "41",
+      "title": "Joint Battle",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-42",
+      "number": "42",
+      "title": "Arbitration",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-43",
+      "number": "43",
+      "title": "",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-44",
+      "number": "44",
+      "title": "The Curse of the Crown",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-45",
+      "number": "45",
+      "title": "The Last Friend",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-46",
+      "number": "46",
+      "title": "Two Wolves",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-47",
+      "number": "47",
+      "title": "There is no Hero",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-48",
+      "number": "48",
+      "title": "Reunion",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-49",
+      "number": "49",
+      "title": "",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-50",
+      "number": "50",
+      "title": "",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-51",
+      "number": "51",
+      "title": "Miscalculation",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-52",
+      "number": "52",
+      "title": "Legend of the Hero",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-53",
+      "number": "53",
+      "title": "King of Britain's Rage",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-54",
+      "number": "54",
+      "title": "End of the Prologue",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-55",
+      "number": "55",
+      "title": "Slave",
+      "date": "2009/07/09",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-56",
+      "number": "56",
+      "title": "Ketil Farm",
+      "date": "2009/08/08",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-57",
+      "number": "57",
+      "title": "Young Master",
+      "date": "2009/10/02",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-58",
+      "number": "58",
+      "title": "A Human That Can Be Killed",
+      "date": "2009/10/29",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-59",
+      "number": "59",
+      "title": "Snake",
+      "date": "2009/11/24",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-60",
+      "number": "60",
+      "title": "His First Friend",
+      "date": "2009/12/23",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-61",
+      "number": "61",
+      "title": "The Bloodstained Road",
+      "date": "2010/01/22",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-62",
+      "number": "62",
+      "title": "Canute's Method",
+      "date": "2010/02/23",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-63",
+      "number": "63",
+      "title": "Need a Horse",
+      "date": "2010/04/02",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-64",
+      "number": "64",
+      "title": "Need a Horse 2",
+      "date": "2010/04/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-65",
+      "number": "65",
+      "title": "At The Head of The Household`s Home",
+      "date": "2010/07/27",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-66",
+      "number": "66",
+      "title": "Sprouting",
+      "date": "2010/08/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-67",
+      "number": "67",
+      "title": "Iron-Fist Ketil",
+      "date": "2010/09/29",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-68",
+      "number": "68",
+      "title": "An Empty Man",
+      "date": "2010/10/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-69",
+      "number": "69",
+      "title": "Bullying",
+      "date": "2010/12/01",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-70",
+      "number": "70",
+      "title": "The Dream's Contents",
+      "date": "2010/12/28",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-71",
+      "number": "71",
+      "title": "Oath",
+      "date": "2011/01/26",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-72",
+      "number": "72",
+      "title": "The Cursed Head",
+      "date": "2011/04/01",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-73",
+      "number": "73",
+      "title": "When We Become Free",
+      "date": "2011/05/13",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-74",
+      "number": "74",
+      "title": "Escaped Slave",
+      "date": "2011/05/24",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-75",
+      "number": "75",
+      "title": "A King And His Sword",
+      "date": "2011/07/26",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-76",
+      "number": "76",
+      "title": "Orman's Performance",
+      "date": "2011/08/26",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-77",
+      "number": "77",
+      "title": "Insult",
+      "date": "2011/09/27",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-78",
+      "number": "78",
+      "title": "Treason",
+      "date": "2011/11/26",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-79",
+      "number": "79",
+      "title": "Looming Of Dark Clouds",
+      "date": "2011/12/29",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-80",
+      "number": "80",
+      "title": "Gardar's Raid",
+      "date": "2012/01/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-81",
+      "number": "81",
+      "title": "",
+      "date": "2012/03/24",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-82",
+      "number": "82",
+      "title": "Ropes",
+      "date": "2012/04/27",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-83",
+      "number": "83",
+      "title": "Atonement",
+      "date": "2012/06/24",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-84",
+      "number": "84",
+      "title": "Self-Deluded Fantasy",
+      "date": "2012/07/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-85",
+      "number": "85",
+      "title": "Confrontation",
+      "date": "2012/08/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-86",
+      "number": "86",
+      "title": "Irretrievable Lives",
+      "date": "2012/09/26",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-87",
+      "number": "87",
+      "title": "Night Before The Storm",
+      "date": "2012/10/27",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-88",
+      "number": "88",
+      "title": "Punishment",
+      "date": "2012/11/26",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-89",
+      "number": "89",
+      "title": "The Night Before Battle",
+      "date": "2012/12/27",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-90",
+      "number": "90",
+      "title": "The Price For A Meal",
+      "date": "2013/01/24",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-91",
+      "number": "91",
+      "title": "Battle at Ketil's Farm",
+      "date": "2013/02/27",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-92",
+      "number": "92",
+      "title": "100 Seconds",
+      "date": "2013/03/24",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-93",
+      "number": "93",
+      "title": "Birthday of a Warrior",
+      "date": "2013/07/28",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-94",
+      "number": "94",
+      "title": "Capitulation Offer",
+      "date": "2013/07/28",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-95",
+      "number": "95",
+      "title": "Forgotten Thing",
+      "date": "2013/08/26",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-96",
+      "number": "96",
+      "title": "No Enemies",
+      "date": "2013/08/26",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-97",
+      "number": "97",
+      "title": "The King who Mounted an Insurrection",
+      "date": "2013/11/22",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-98",
+      "number": "98",
+      "title": "The Two Paradises",
+      "date": "2013/11/22",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-99",
+      "number": "99",
+      "title": "Setting Sail",
+      "date": "2013/11/22",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-100",
+      "number": "100",
+      "title": "Return",
+      "date": "2014/03/10",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-101",
+      "number": "101",
+      "title": "The Fettered Tern",
+      "date": "2014/03/10",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-102",
+      "number": "102",
+      "title": "The fettered tern (002)",
+      "date": "2014/04/04",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-103",
+      "number": "103",
+      "title": "The Fettered Tern (003)",
+      "date": "2014/06/29",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-104",
+      "number": "104",
+      "title": "The Fettered Tern (004)",
+      "date": "2014/06/29",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-105",
+      "number": "105",
+      "title": "The Fettered Tern (005)",
+      "date": "2014/06/29",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-106",
+      "number": "106",
+      "title": "The Fettered Tern (006)",
+      "date": "2014/08/03",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-107",
+      "number": "107",
+      "title": "The Fettered Tern (007)",
+      "date": "2014/08/29",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-108",
+      "number": "108",
+      "title": "The Fettered Tern (008)",
+      "date": "2014/09/27",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-109",
+      "number": "109",
+      "title": "Unfettered Tern (009)",
+      "date": "2015/03/01",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-110",
+      "number": "110",
+      "title": "Crossing the North Sea",
+      "date": "2015/03/01",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-111",
+      "number": "111",
+      "title": "From a Warrior to a Warrior",
+      "date": "2015/03/01",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-112",
+      "number": "112",
+      "title": "The Duty of Revenge",
+      "date": "2015/03/01",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-113",
+      "number": "113",
+      "title": "Troublesome Guys",
+      "date": "2015/03/02",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-114",
+      "number": "114",
+      "title": "The Hunter and the Hunted (001)",
+      "date": "2015/03/27",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-115",
+      "number": "115",
+      "title": "The Hunter and the Hunted (002)",
+      "date": "2015/04/24",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-116",
+      "number": "116",
+      "title": "The Hunter and the Hunted (003)",
+      "date": "2015/05/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-117",
+      "number": "117",
+      "title": "The Hunter and the Hunted (004)",
+      "date": "2015/08/24",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-118",
+      "number": "118",
+      "title": "The Hunter and The Hunted (005)",
+      "date": "2015/08/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-119",
+      "number": "119",
+      "title": "The Hunter and The Hunted (006)",
+      "date": "2015/08/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-120",
+      "number": "120",
+      "title": "The Hunter and the Hunted (007)",
+      "date": "2015/09/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-121",
+      "number": "121",
+      "title": "The Hunter and the Hunted (008)",
+      "date": "2015/10/26",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-122",
+      "number": "122",
+      "title": "",
+      "date": "2015/11/26",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-123",
+      "number": "123",
+      "title": "A Borrowed Life",
+      "date": "2015/12/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-124",
+      "number": "124",
+      "title": "Departure from Norway",
+      "date": "2016/01/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-125",
+      "number": "125",
+      "title": "Baltic Sea War (001)",
+      "date": "2016/04/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-126",
+      "number": "126",
+      "title": "Baltic Sea War (002)",
+      "date": "2016/04/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-127",
+      "number": "127",
+      "title": "Baltic Sea War (003)",
+      "date": "2016/04/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-128",
+      "number": "128",
+      "title": "Baltic Sea War (004)",
+      "date": "2016/05/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-129",
+      "number": "129",
+      "title": "Baltic Sea War (005)",
+      "date": "2016/06/26",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-130",
+      "number": "130",
+      "title": "Baltic Sea War (006)",
+      "date": "2016/07/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-131",
+      "number": "131",
+      "title": "",
+      "date": "2016/08/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-132",
+      "number": "132",
+      "title": "",
+      "date": "2016/10/27",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-133",
+      "number": "133",
+      "title": "",
+      "date": "2016/11/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-134",
+      "number": "134",
+      "title": "",
+      "date": "2016/12/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-135",
+      "number": "135",
+      "title": "",
+      "date": "2017/01/26",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-136",
+      "number": "136",
+      "title": "",
+      "date": "2017/02/26",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-137",
+      "number": "137",
+      "title": "The baltic sea war 13",
+      "date": "2017/03/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-138",
+      "number": "138",
+      "title": "Baltic Sea War",
+      "date": "2017/04/26",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-139",
+      "number": "139",
+      "title": "The Baltic Sea War 15",
+      "date": "2017/05/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-140",
+      "number": "140",
+      "title": "The Baltic Sea War 16",
+      "date": "2017/06/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-141",
+      "number": "141",
+      "title": "The Baltic Sea War 17",
+      "date": "2017/07/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-142",
+      "number": "142",
+      "title": "The Baltic Sea War 18",
+      "date": "2017/08/26",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-143",
+      "number": "143",
+      "title": "",
+      "date": "2017/09/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-144",
+      "number": "144",
+      "title": "",
+      "date": "2017/10/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-145",
+      "number": "145",
+      "title": "",
+      "date": "2017/11/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-146",
+      "number": "146",
+      "title": "The Baltic Sea War 22",
+      "date": "2017/12/26",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-147",
+      "number": "147",
+      "title": "The Baltic Sea War 23",
+      "date": "2018/02/24",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-148",
+      "number": "148",
+      "title": "The Baltic Sea War 24",
+      "date": "2018/03/24",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-149",
+      "number": "149",
+      "title": "",
+      "date": "2018/04/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-150",
+      "number": "150",
+      "title": "",
+      "date": "2018/05/27",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-151",
+      "number": "151",
+      "title": "",
+      "date": "2018/06/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-152",
+      "number": "152",
+      "title": "",
+      "date": "2018/07/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-153",
+      "number": "153",
+      "title": "",
+      "date": "2018/08/26",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-154",
+      "number": "154",
+      "title": "",
+      "date": "2018/09/26",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-155",
+      "number": "155",
+      "title": "",
+      "date": "2018/10/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-156",
+      "number": "156",
+      "title": "The Baltic Sea War 32",
+      "date": "2018/11/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-157",
+      "number": "157",
+      "title": "",
+      "date": "2018/12/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-158",
+      "number": "158",
+      "title": "",
+      "date": "2019/01/28",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-159",
+      "number": "159",
+      "title": "",
+      "date": "2019/03/27",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-160",
+      "number": "160",
+      "title": "",
+      "date": "2019/04/29",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-161",
+      "number": "161",
+      "title": "Sigurds decision",
+      "date": "2019/05/30",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-162",
+      "number": "162",
+      "title": "The return of Sigurd",
+      "date": "2019/07/01",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-163",
+      "number": "163",
+      "title": "",
+      "date": "2019/07/27",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-164",
+      "number": "164",
+      "title": "Sigurd Defiant",
+      "date": "2019/08/28",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-165",
+      "number": "165",
+      "title": "",
+      "date": "2019/09/26",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-166",
+      "number": "166",
+      "title": "Vinland Saga",
+      "date": "2019/11/02",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-167",
+      "number": "167",
+      "title": "Sailing For The West 1",
+      "date": "2019/12/05",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-168",
+      "number": "168",
+      "title": "",
+      "date": "2019/12/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-169",
+      "number": "169",
+      "title": "Sailing for the West (3)",
+      "date": "2020/01/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-170",
+      "number": "170",
+      "title": "Sailing for the West 4",
+      "date": "2020/02/26",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-171",
+      "number": "171",
+      "title": "Sailing West Part 5",
+      "date": "2020/04/24",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-172",
+      "number": "172",
+      "title": "Sailing West Part 6",
+      "date": "2020/05/24",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-173",
+      "number": "173",
+      "title": "",
+      "date": "2020/06/24",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-174",
+      "number": "174",
+      "title": "Sailing West Part 8",
+      "date": "2020/07/23",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-175",
+      "number": "175",
+      "title": "Sailing West Part 9",
+      "date": "2020/08/24",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-176",
+      "number": "176",
+      "title": "Sailing West Part 10 + Assassin's Creed: Valhalla x Vinland Saga",
+      "date": "2020/10/24",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-177",
+      "number": "177",
+      "title": "Sailing West Part 11",
+      "date": "2020/11/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-178",
+      "number": "178",
+      "title": "Sailing West Part 12",
+      "date": "2020/12/26",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-179",
+      "number": "179",
+      "title": "Sailing West Part 13",
+      "date": "2021/01/24",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-180",
+      "number": "180",
+      "title": "Sailing West Part 14",
+      "date": "2021/02/27",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-181",
+      "number": "181",
+      "title": "Name of the Village",
+      "date": "2021/03/27",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-182",
+      "number": "182",
+      "title": "The Scariest Man",
+      "date": "2021/04/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-183",
+      "number": "183",
+      "title": "The Indigenous People",
+      "date": "2021/05/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-184",
+      "number": "184",
+      "title": "Lnu",
+      "date": "2021/06/29",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-185",
+      "number": "185",
+      "title": "Nisqauji'j's Dream",
+      "date": "2021/07/29",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-186",
+      "number": "186",
+      "title": "Cordelia's Agony",
+      "date": "2021/10/04",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-187",
+      "number": "187",
+      "title": "Nisquaji'j's Expedition",
+      "date": "2021/10/24",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-188",
+      "number": "188",
+      "title": "Hild and the God of the Forest",
+      "date": "2021/11/26",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-189",
+      "number": "189",
+      "title": "Misqe'g Pi'gw's Ritual",
+      "date": "2021/12/28",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-190",
+      "number": "190",
+      "title": "Talking About Ragnarok",
+      "date": "2022/01/28",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-191",
+      "number": "191",
+      "title": "The Day",
+      "date": "2022/02/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-192",
+      "number": "192",
+      "title": "Thousand Years Voyage Part 1",
+      "date": "2022/03/28",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-192e",
+      "number": "192e",
+      "title": "",
+      "date": "2022/04/01",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-193",
+      "number": "193",
+      "title": "Thousand Year Voyage Part 2",
+      "date": "2022/05/24",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-194",
+      "number": "194",
+      "title": "Thousand Year Voyage Part 3",
+      "date": "2022/06/24",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-195",
+      "number": "195",
+      "title": "Thousand Year Voyage Part 4",
+      "date": "2022/07/24",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-196",
+      "number": "196",
+      "title": "Thousand Year Voyage Part 5",
+      "date": "2022/08/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-197",
+      "number": "197",
+      "title": "",
+      "date": "2022/09/23",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-198",
+      "number": "198",
+      "title": "",
+      "date": "2022/11/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-199",
+      "number": "199",
+      "title": "",
+      "date": "2023/01/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-200",
+      "number": "200",
+      "title": "",
+      "date": "2023/03/26",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-201",
+      "number": "201",
+      "title": "",
+      "date": "2023/04/24",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-202",
+      "number": "202",
+      "title": "",
+      "date": "2023/05/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-203",
+      "number": "203",
+      "title": "Thousand Year Voyage Part 12",
+      "date": "2023/06/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-204",
+      "number": "204",
+      "title": "",
+      "date": "2023/07/24",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-205",
+      "number": "205",
+      "title": "",
+      "date": "2023/08/28",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-206",
+      "number": "206",
+      "title": "Thousand Year Voyage Part 15",
+      "date": "2023/09/27",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-207",
+      "number": "207",
+      "title": "",
+      "date": "2023/11/24",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-208",
+      "number": "208",
+      "title": "Thousand Year Voyage Part 17",
+      "date": "2024/01/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-209",
+      "number": "209",
+      "title": "Thousand Year Voyage Part 18",
+      "date": "2024/02/23",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-210",
+      "number": "210",
+      "title": "",
+      "date": "2024/04/28",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-211",
+      "number": "211",
+      "title": "",
+      "date": "2024/05/26",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-212",
+      "number": "212",
+      "title": "",
+      "date": "2024/06/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-213",
+      "number": "213",
+      "title": "",
+      "date": "2024/08/25",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-214",
+      "number": "214",
+      "title": "",
+      "date": "2024/09/24",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-215",
+      "number": "215",
+      "title": "",
+      "date": "2024/10/24",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-216",
+      "number": "216",
+      "title": "",
+      "date": "2024/11/24",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-217",
+      "number": "217",
+      "title": "",
+      "date": "2025/01/27",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-218",
+      "number": "218",
+      "title": "",
+      "date": "2025/03/24",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-219",
+      "number": "219",
+      "title": "",
+      "date": "2025/05/28",
+      "pages": []
+    },
+    {
+      "id": "vinland-saga-220",
+      "number": "220",
+      "title": "",
+      "date": "2025/07/25",
+      "pages": []
+    }
+  ],
+  "pt": [
+    {
+      "id": "vinland-saga-chapter-1",
+      "number": 1,
+      "title": "Vinland Saga – Capítulo 1",
+      "date": "2025-03-29T21:30:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 220582
+    },
+    {
+      "id": "vinland-saga-chapter-2",
+      "number": 2,
+      "title": "Vinland Saga – Capítulo 2",
+      "date": "2025-03-29T21:30:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 220583
+    },
+    {
+      "id": "vinland-saga-chapter-3",
+      "number": 3,
+      "title": "Vinland Saga – Capítulo 3",
+      "date": "2025-03-29T21:30:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 220584
+    },
+    {
+      "id": "vinland-saga-chapter-4",
+      "number": 4,
+      "title": "Vinland Saga – Capítulo 4",
+      "date": "2025-03-29T21:30:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 220581
+    },
+    {
+      "id": "vinland-saga-chapter-5",
+      "number": 5,
+      "title": "Vinland Saga – Capítulo 5",
+      "date": "2025-03-29T21:30:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 220587
+    },
+    {
+      "id": "vinland-saga-chapter-5.5",
+      "number": 5.5,
+      "title": "Vinland Saga – Capítulo 5.5 – Extras do Volume 1",
+      "date": "2025-03-29T21:30:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 220585
+    },
+    {
+      "id": "vinland-saga-chapter-6",
+      "number": 6,
+      "title": "Vinland Saga – Capítulo 6",
+      "date": "2025-03-29T21:30:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 220588
+    },
+    {
+      "id": "vinland-saga-chapter-7",
+      "number": 7,
+      "title": "Vinland Saga – Capítulo 7",
+      "date": "2025-03-29T21:30:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 220589
+    },
+    {
+      "id": "vinland-saga-chapter-8",
+      "number": 8,
+      "title": "Vinland Saga – Capítulo 8",
+      "date": "2025-03-29T21:30:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 220586
+    },
+    {
+      "id": "vinland-saga-chapter-9",
+      "number": 9,
+      "title": "Vinland Saga – Capítulo 9",
+      "date": "2025-03-29T21:30:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 220590
+    },
+    {
+      "id": "vinland-saga-chapter-10",
+      "number": 10,
+      "title": "Vinland Saga – Capítulo 10",
+      "date": "2025-03-29T21:31:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 220806
+    },
+    {
+      "id": "vinland-saga-chapter-11",
+      "number": 11,
+      "title": "Vinland Saga – Capítulo 11",
+      "date": "2025-03-29T21:31:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 220807
+    },
+    {
+      "id": "vinland-saga-chapter-12",
+      "number": 12,
+      "title": "Vinland Saga – Capítulo 12",
+      "date": "2025-03-29T21:31:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 220808
+    },
+    {
+      "id": "vinland-saga-chapter-13",
+      "number": 13,
+      "title": "Vinland Saga – Capítulo 13",
+      "date": "2025-03-29T21:31:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 220810
+    },
+    {
+      "id": "vinland-saga-chapter-14",
+      "number": 14,
+      "title": "Vinland Saga – Capítulo 14",
+      "date": "2025-03-29T21:31:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 220809
+    },
+    {
+      "id": "vinland-saga-chapter-15",
+      "number": 15,
+      "title": "Vinland Saga – Capítulo 15",
+      "date": "2025-03-29T21:31:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 220812
+    },
+    {
+      "id": "vinland-saga-chapter-16",
+      "number": 16,
+      "title": "Vinland Saga – Capítulo 16",
+      "date": "2025-03-29T21:31:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 220811
+    },
+    {
+      "id": "vinland-saga-chapter-16.5",
+      "number": 16.5,
+      "title": "Vinland Saga – Capítulo 16.5 – Extras do Volume 2",
+      "date": "2025-03-29T21:31:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 220815
+    },
+    {
+      "id": "vinland-saga-chapter-17",
+      "number": 17,
+      "title": "Vinland Saga – Capítulo 17",
+      "date": "2025-03-29T21:31:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 220813
+    },
+    {
+      "id": "vinland-saga-chapter-18",
+      "number": 18,
+      "title": "Vinland Saga – Capítulo 18",
+      "date": "2025-03-29T21:31:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 220814
+    },
+    {
+      "id": "vinland-saga-chapter-19",
+      "number": 19,
+      "title": "Vinland Saga – Capítulo 19",
+      "date": "2025-03-29T21:33:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221078
+    },
+    {
+      "id": "vinland-saga-chapter-20",
+      "number": 20,
+      "title": "Vinland Saga – Capítulo 20",
+      "date": "2025-03-29T21:33:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221084
+    },
+    {
+      "id": "vinland-saga-chapter-21",
+      "number": 21,
+      "title": "Vinland Saga – Capítulo 21",
+      "date": "2025-03-29T21:33:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221082
+    },
+    {
+      "id": "vinland-saga-chapter-21.5",
+      "number": 21.5,
+      "title": "Vinland Saga – Capítulo 21.5",
+      "date": "2025-03-29T21:33:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221083
+    },
+    {
+      "id": "vinland-saga-chapter-22",
+      "number": 22,
+      "title": "Vinland Saga – Capítulo 22",
+      "date": "2025-03-29T21:33:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221080
+    },
+    {
+      "id": "vinland-saga-chapter-23",
+      "number": 23,
+      "title": "Vinland Saga – Capítulo 23",
+      "date": "2025-03-29T21:33:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221081
+    },
+    {
+      "id": "vinland-saga-chapter-24",
+      "number": 24,
+      "title": "Vinland Saga – Capítulo 24",
+      "date": "2025-03-29T21:33:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221085
+    },
+    {
+      "id": "vinland-saga-chapter-25",
+      "number": 25,
+      "title": "Vinland Saga – Capítulo 25",
+      "date": "2025-03-29T21:33:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221086
+    },
+    {
+      "id": "vinland-saga-chapter-26",
+      "number": 26,
+      "title": "Vinland Saga – Capítulo 26",
+      "date": "2025-03-29T21:33:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221087
+    },
+    {
+      "id": "vinland-saga-chapter-27",
+      "number": 27,
+      "title": "Vinland Saga – Capítulo 27",
+      "date": "2025-03-29T21:33:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221088
+    },
+    {
+      "id": "vinland-saga-chapter-28",
+      "number": 28,
+      "title": "Vinland Saga – Capítulo 28",
+      "date": "2025-03-29T21:35:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221360
+    },
+    {
+      "id": "vinland-saga-chapter-29",
+      "number": 29,
+      "title": "Vinland Saga – Capítulo 29",
+      "date": "2025-03-29T21:35:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221359
+    },
+    {
+      "id": "vinland-saga-chapter-30",
+      "number": 30,
+      "title": "Vinland Saga – Capítulo 30",
+      "date": "2025-03-29T21:35:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221351
+    },
+    {
+      "id": "vinland-saga-chapter-31",
+      "number": 31,
+      "title": "Vinland Saga – Capítulo 31",
+      "date": "2025-03-29T21:35:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221355
+    },
+    {
+      "id": "vinland-saga-chapter-32",
+      "number": 32,
+      "title": "Vinland Saga – Capítulo 32",
+      "date": "2025-03-29T21:35:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221354
+    },
+    {
+      "id": "vinland-saga-chapter-33",
+      "number": 33,
+      "title": "Vinland Saga – Capítulo 33",
+      "date": "2025-03-29T21:35:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221357
+    },
+    {
+      "id": "vinland-saga-chapter-34",
+      "number": 34,
+      "title": "Vinland Saga – Capítulo 34",
+      "date": "2025-03-29T21:35:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221352
+    },
+    {
+      "id": "vinland-saga-chapter-35",
+      "number": 35,
+      "title": "Vinland Saga – Capítulo 35",
+      "date": "2025-03-29T21:35:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221356
+    },
+    {
+      "id": "vinland-saga-chapter-36",
+      "number": 36,
+      "title": "Vinland Saga – Capítulo 36",
+      "date": "2025-03-29T21:35:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221353
+    },
+    {
+      "id": "vinland-saga-chapter-37",
+      "number": 37,
+      "title": "Vinland Saga – Capítulo 37",
+      "date": "2025-03-29T21:35:20Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221358
+    },
+    {
+      "id": "vinland-saga-chapter-38",
+      "number": 38,
+      "title": "Vinland Saga – Capítulo 38",
+      "date": "2025-03-29T21:37:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221613
+    },
+    {
+      "id": "vinland-saga-chapter-39",
+      "number": 39,
+      "title": "Vinland Saga – Capítulo 39",
+      "date": "2025-03-29T21:37:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221615
+    },
+    {
+      "id": "vinland-saga-chapter-40",
+      "number": 40,
+      "title": "Vinland Saga – Capítulo 40",
+      "date": "2025-03-29T21:37:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221614
+    },
+    {
+      "id": "vinland-saga-chapter-41",
+      "number": 41,
+      "title": "Vinland Saga – Capítulo 41",
+      "date": "2025-03-29T21:37:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221618
+    },
+    {
+      "id": "vinland-saga-chapter-42",
+      "number": 42,
+      "title": "Vinland Saga – Capítulo 42",
+      "date": "2025-03-29T21:37:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221616
+    },
+    {
+      "id": "vinland-saga-chapter-43",
+      "number": 43,
+      "title": "Vinland Saga – Capítulo 43",
+      "date": "2025-03-29T21:37:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221611
+    },
+    {
+      "id": "vinland-saga-chapter-44",
+      "number": 44,
+      "title": "Vinland Saga – Capítulo 44",
+      "date": "2025-03-29T21:37:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221610
+    },
+    {
+      "id": "vinland-saga-chapter-45",
+      "number": 45,
+      "title": "Vinland Saga – Capítulo 45",
+      "date": "2025-03-29T21:37:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221612
+    },
+    {
+      "id": "vinland-saga-chapter-46",
+      "number": 46,
+      "title": "Vinland Saga – Capítulo 46",
+      "date": "2025-03-29T21:37:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221609
+    },
+    {
+      "id": "vinland-saga-chapter-47",
+      "number": 47,
+      "title": "Vinland Saga – Capítulo 47",
+      "date": "2025-03-29T21:37:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221617
+    },
+    {
+      "id": "vinland-saga-chapter-48",
+      "number": 48,
+      "title": "Vinland Saga – Capítulo 48",
+      "date": "2025-03-29T21:38:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221913
+    },
+    {
+      "id": "vinland-saga-chapter-49",
+      "number": 49,
+      "title": "Vinland Saga – Capítulo 49",
+      "date": "2025-03-29T21:38:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221915
+    },
+    {
+      "id": "vinland-saga-chapter-50",
+      "number": 50,
+      "title": "Vinland Saga – Capítulo 50",
+      "date": "2025-03-29T21:38:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221919
+    },
+    {
+      "id": "vinland-saga-chapter-51",
+      "number": 51,
+      "title": "Vinland Saga – Capítulo 51",
+      "date": "2025-03-29T21:38:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221920
+    },
+    {
+      "id": "vinland-saga-chapter-52",
+      "number": 52,
+      "title": "Vinland Saga – Capítulo 52",
+      "date": "2025-03-29T21:38:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221914
+    },
+    {
+      "id": "vinland-saga-chapter-53",
+      "number": 53,
+      "title": "Vinland Saga – Capítulo 53",
+      "date": "2025-03-29T21:38:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221916
+    },
+    {
+      "id": "vinland-saga-chapter-54",
+      "number": 54,
+      "title": "Vinland Saga – Capítulo 54",
+      "date": "2025-03-29T21:38:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221918
+    },
+    {
+      "id": "vinland-saga-chapter-55",
+      "number": 55,
+      "title": "Vinland Saga – Capítulo 55",
+      "date": "2025-03-29T21:38:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221912
+    },
+    {
+      "id": "vinland-saga-chapter-56",
+      "number": 56,
+      "title": "Vinland Saga – Capítulo 56",
+      "date": "2025-03-29T21:38:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221911
+    },
+    {
+      "id": "vinland-saga-chapter-57",
+      "number": 57,
+      "title": "Vinland Saga – Capítulo 57",
+      "date": "2025-03-29T21:38:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 221917
+    },
+    {
+      "id": "vinland-saga-chapter-58",
+      "number": 58,
+      "title": "Vinland Saga – Capítulo 58",
+      "date": "2025-03-29T21:40:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222212
+    },
+    {
+      "id": "vinland-saga-chapter-59",
+      "number": 59,
+      "title": "Vinland Saga – Capítulo 59",
+      "date": "2025-03-29T21:40:26Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222207
+    },
+    {
+      "id": "vinland-saga-chapter-60",
+      "number": 60,
+      "title": "Vinland Saga – Capítulo 60",
+      "date": "2025-03-29T21:40:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222213
+    },
+    {
+      "id": "vinland-saga-chapter-61",
+      "number": 61,
+      "title": "Vinland Saga – Capítulo 61",
+      "date": "2025-03-29T21:40:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222214
+    },
+    {
+      "id": "vinland-saga-chapter-62",
+      "number": 62,
+      "title": "Vinland Saga – Capítulo 62",
+      "date": "2025-03-29T21:40:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222216
+    },
+    {
+      "id": "vinland-saga-chapter-63",
+      "number": 63,
+      "title": "Vinland Saga – Capítulo 63",
+      "date": "2025-03-29T21:40:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222215
+    },
+    {
+      "id": "vinland-saga-chapter-64",
+      "number": 64,
+      "title": "Vinland Saga – Capítulo 64",
+      "date": "2025-03-29T21:40:26Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222211
+    },
+    {
+      "id": "vinland-saga-chapter-65",
+      "number": 65,
+      "title": "Vinland Saga – Capítulo 65",
+      "date": "2025-03-29T21:40:26Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222209
+    },
+    {
+      "id": "vinland-saga-chapter-66",
+      "number": 66,
+      "title": "Vinland Saga – Capítulo 66",
+      "date": "2025-03-29T21:40:26Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222210
+    },
+    {
+      "id": "vinland-saga-chapter-67",
+      "number": 67,
+      "title": "Vinland Saga – Capítulo 67",
+      "date": "2025-03-29T21:40:26Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222208
+    },
+    {
+      "id": "vinland-saga-chapter-68",
+      "number": 68,
+      "title": "Vinland Saga – Capítulo 68",
+      "date": "2025-03-29T21:42:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222531
+    },
+    {
+      "id": "vinland-saga-chapter-69",
+      "number": 69,
+      "title": "Vinland Saga – Capítulo 69",
+      "date": "2025-03-29T21:42:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222539
+    },
+    {
+      "id": "vinland-saga-chapter-70",
+      "number": 70,
+      "title": "Vinland Saga – Capítulo 70",
+      "date": "2025-03-29T21:42:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222536
+    },
+    {
+      "id": "vinland-saga-chapter-71",
+      "number": 71,
+      "title": "Vinland Saga – Capítulo 71",
+      "date": "2025-03-29T21:42:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222537
+    },
+    {
+      "id": "vinland-saga-chapter-72",
+      "number": 72,
+      "title": "Vinland Saga – Capítulo 72",
+      "date": "2025-03-29T21:42:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222542
+    },
+    {
+      "id": "vinland-saga-chapter-73",
+      "number": 73,
+      "title": "Vinland Saga – Capítulo 73",
+      "date": "2025-03-29T21:42:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222538
+    },
+    {
+      "id": "vinland-saga-chapter-74",
+      "number": 74,
+      "title": "Vinland Saga – Capítulo 74",
+      "date": "2025-03-29T21:42:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222544
+    },
+    {
+      "id": "vinland-saga-chapter-75",
+      "number": 75,
+      "title": "Vinland Saga – Capítulo 75",
+      "date": "2025-03-29T21:42:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222543
+    },
+    {
+      "id": "vinland-saga-chapter-76",
+      "number": 76,
+      "title": "Vinland Saga – Capítulo 76",
+      "date": "2025-03-29T21:42:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222541
+    },
+    {
+      "id": "vinland-saga-chapter-77",
+      "number": 77,
+      "title": "Vinland Saga – Capítulo 77",
+      "date": "2025-03-29T21:42:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222540
+    },
+    {
+      "id": "vinland-saga-chapter-78",
+      "number": 78,
+      "title": "Vinland Saga – Capítulo 78",
+      "date": "2025-03-29T21:43:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222826
+    },
+    {
+      "id": "vinland-saga-chapter-79",
+      "number": 79,
+      "title": "Vinland Saga – Capítulo 79",
+      "date": "2025-03-29T21:43:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222825
+    },
+    {
+      "id": "vinland-saga-chapter-80",
+      "number": 80,
+      "title": "Vinland Saga – Capítulo 80",
+      "date": "2025-03-29T21:43:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222833
+    },
+    {
+      "id": "vinland-saga-chapter-81",
+      "number": 81,
+      "title": "Vinland Saga – Capítulo 81",
+      "date": "2025-03-29T21:43:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222831
+    },
+    {
+      "id": "vinland-saga-chapter-82",
+      "number": 82,
+      "title": "Vinland Saga – Capítulo 82",
+      "date": "2025-03-29T21:43:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222830
+    },
+    {
+      "id": "vinland-saga-chapter-83",
+      "number": 83,
+      "title": "Vinland Saga – Capítulo 83",
+      "date": "2025-03-29T21:43:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222824
+    },
+    {
+      "id": "vinland-saga-chapter-84",
+      "number": 84,
+      "title": "Vinland Saga – Capítulo 84",
+      "date": "2025-03-29T21:43:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222832
+    },
+    {
+      "id": "vinland-saga-chapter-85",
+      "number": 85,
+      "title": "Vinland Saga – Capítulo 85",
+      "date": "2025-03-29T21:43:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222828
+    },
+    {
+      "id": "vinland-saga-chapter-86",
+      "number": 86,
+      "title": "Vinland Saga – Capítulo 86",
+      "date": "2025-03-29T21:43:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222827
+    },
+    {
+      "id": "vinland-saga-chapter-87",
+      "number": 87,
+      "title": "Vinland Saga – Capítulo 87",
+      "date": "2025-03-29T21:43:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 222829
+    },
+    {
+      "id": "vinland-saga-chapter-88",
+      "number": 88,
+      "title": "Vinland Saga – Capítulo 88",
+      "date": "2025-03-29T21:45:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223105
+    },
+    {
+      "id": "vinland-saga-chapter-89",
+      "number": 89,
+      "title": "Vinland Saga – Capítulo 89",
+      "date": "2025-03-29T21:45:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223100
+    },
+    {
+      "id": "vinland-saga-chapter-90",
+      "number": 90,
+      "title": "Vinland Saga – Capítulo 90",
+      "date": "2025-03-29T21:45:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223097
+    },
+    {
+      "id": "vinland-saga-chapter-91",
+      "number": 91,
+      "title": "Vinland Saga – Capítulo 91",
+      "date": "2025-03-29T21:45:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223106
+    },
+    {
+      "id": "vinland-saga-chapter-92",
+      "number": 92,
+      "title": "Vinland Saga – Capítulo 92",
+      "date": "2025-03-29T21:45:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223104
+    },
+    {
+      "id": "vinland-saga-chapter-93",
+      "number": 93,
+      "title": "Vinland Saga – Capítulo 93",
+      "date": "2025-03-29T21:45:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223095
+    },
+    {
+      "id": "vinland-saga-chapter-94",
+      "number": 94,
+      "title": "Vinland Saga – Capítulo 94",
+      "date": "2025-03-29T21:45:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223094
+    },
+    {
+      "id": "vinland-saga-chapter-95",
+      "number": 95,
+      "title": "Vinland Saga – Capítulo 95",
+      "date": "2025-03-29T21:45:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223102
+    },
+    {
+      "id": "vinland-saga-chapter-96",
+      "number": 96,
+      "title": "Vinland Saga – Capítulo 96",
+      "date": "2025-03-29T21:45:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223098
+    },
+    {
+      "id": "vinland-saga-chapter-97",
+      "number": 97,
+      "title": "Vinland Saga – Capítulo 97",
+      "date": "2025-03-29T21:45:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223099
+    },
+    {
+      "id": "vinland-saga-chapter-98",
+      "number": 98,
+      "title": "Vinland Saga – Capítulo 98",
+      "date": "2025-03-29T21:47:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223387
+    },
+    {
+      "id": "vinland-saga-chapter-99",
+      "number": 99,
+      "title": "Vinland Saga – Capítulo 99",
+      "date": "2025-03-29T21:47:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223396
+    },
+    {
+      "id": "vinland-saga-chapter-100",
+      "number": 100,
+      "title": "Vinland Saga – Capítulo 100",
+      "date": "2025-03-29T21:47:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223391
+    },
+    {
+      "id": "vinland-saga-chapter-101",
+      "number": 101,
+      "title": "Vinland Saga – Capítulo 101",
+      "date": "2025-03-29T21:47:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223399
+    },
+    {
+      "id": "vinland-saga-chapter-102",
+      "number": 102,
+      "title": "Vinland Saga – Capítulo 102",
+      "date": "2025-03-29T21:47:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223397
+    },
+    {
+      "id": "vinland-saga-chapter-103",
+      "number": 103,
+      "title": "Vinland Saga – Capítulo 103",
+      "date": "2025-03-29T21:47:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223398
+    },
+    {
+      "id": "vinland-saga-chapter-104",
+      "number": 104,
+      "title": "Vinland Saga – Capítulo 104",
+      "date": "2025-03-29T21:47:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223394
+    },
+    {
+      "id": "vinland-saga-chapter-105",
+      "number": 105,
+      "title": "Vinland Saga – Capítulo 105",
+      "date": "2025-03-29T21:47:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223392
+    },
+    {
+      "id": "vinland-saga-chapter-106",
+      "number": 106,
+      "title": "Vinland Saga – Capítulo 106",
+      "date": "2025-03-29T21:47:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223393
+    },
+    {
+      "id": "vinland-saga-chapter-107",
+      "number": 107,
+      "title": "Vinland Saga – Capítulo 107",
+      "date": "2025-03-29T21:47:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223395
+    },
+    {
+      "id": "vinland-saga-chapter-108",
+      "number": 108,
+      "title": "Vinland Saga – Capítulo 108",
+      "date": "2025-03-29T21:48:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223826
+    },
+    {
+      "id": "vinland-saga-chapter-109",
+      "number": 109,
+      "title": "Vinland Saga – Capítulo 109",
+      "date": "2025-03-29T21:48:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223827
+    },
+    {
+      "id": "vinland-saga-chapter-110",
+      "number": 110,
+      "title": "Vinland Saga – Capítulo 110",
+      "date": "2025-03-29T21:48:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223829
+    },
+    {
+      "id": "vinland-saga-chapter-111",
+      "number": 111,
+      "title": "Vinland Saga – Capítulo 111",
+      "date": "2025-03-29T21:48:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223828
+    },
+    {
+      "id": "vinland-saga-chapter-112",
+      "number": 112,
+      "title": "Vinland Saga – Capítulo 112",
+      "date": "2025-03-29T21:48:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223825
+    },
+    {
+      "id": "vinland-saga-chapter-113",
+      "number": 113,
+      "title": "Vinland Saga – Capítulo 113",
+      "date": "2025-03-29T21:48:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223830
+    },
+    {
+      "id": "vinland-saga-chapter-114",
+      "number": 114,
+      "title": "Vinland Saga – Capítulo 114",
+      "date": "2025-03-29T21:48:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223831
+    },
+    {
+      "id": "vinland-saga-chapter-115",
+      "number": 115,
+      "title": "Vinland Saga – Capítulo 115",
+      "date": "2025-03-29T21:48:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223833
+    },
+    {
+      "id": "vinland-saga-chapter-116",
+      "number": 116,
+      "title": "Vinland Saga – Capítulo 116",
+      "date": "2025-03-29T21:48:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223835
+    },
+    {
+      "id": "vinland-saga-chapter-117",
+      "number": 117,
+      "title": "Vinland Saga – Capítulo 117",
+      "date": "2025-03-29T21:48:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 223834
+    },
+    {
+      "id": "vinland-saga-chapter-118",
+      "number": 118,
+      "title": "Vinland Saga – Capítulo 118",
+      "date": "2025-03-29T21:50:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224122
+    },
+    {
+      "id": "vinland-saga-chapter-119",
+      "number": 119,
+      "title": "Vinland Saga – Capítulo 119",
+      "date": "2025-03-29T21:50:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224121
+    },
+    {
+      "id": "vinland-saga-chapter-120",
+      "number": 120,
+      "title": "Vinland Saga – Capítulo 120",
+      "date": "2025-03-29T21:50:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224127
+    },
+    {
+      "id": "vinland-saga-chapter-121",
+      "number": 121,
+      "title": "Vinland Saga – Capítulo 121",
+      "date": "2025-03-29T21:50:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224118
+    },
+    {
+      "id": "vinland-saga-chapter-122",
+      "number": 122,
+      "title": "Vinland Saga – Capítulo 122",
+      "date": "2025-03-29T21:50:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224124
+    },
+    {
+      "id": "vinland-saga-chapter-123",
+      "number": 123,
+      "title": "Vinland Saga – Capítulo 123",
+      "date": "2025-03-29T21:50:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224126
+    },
+    {
+      "id": "vinland-saga-chapter-124",
+      "number": 124,
+      "title": "Vinland Saga – Capítulo 124",
+      "date": "2025-03-29T21:50:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224123
+    },
+    {
+      "id": "vinland-saga-chapter-125",
+      "number": 125,
+      "title": "Vinland Saga – Capítulo 125",
+      "date": "2025-03-29T21:50:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224119
+    },
+    {
+      "id": "vinland-saga-chapter-126",
+      "number": 126,
+      "title": "Vinland Saga – Capítulo 126",
+      "date": "2025-03-29T21:50:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224120
+    },
+    {
+      "id": "vinland-saga-chapter-127",
+      "number": 127,
+      "title": "Vinland Saga – Capítulo 127",
+      "date": "2025-03-29T21:50:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224125
+    },
+    {
+      "id": "vinland-saga-chapter-128",
+      "number": 128,
+      "title": "Vinland Saga – Capítulo 128",
+      "date": "2025-03-29T21:52:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224409
+    },
+    {
+      "id": "vinland-saga-chapter-129",
+      "number": 129,
+      "title": "Vinland Saga – Capítulo 129",
+      "date": "2025-03-29T21:52:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224412
+    },
+    {
+      "id": "vinland-saga-chapter-130",
+      "number": 130,
+      "title": "Vinland Saga – Capítulo 130",
+      "date": "2025-03-29T21:52:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224416
+    },
+    {
+      "id": "vinland-saga-chapter-131",
+      "number": 131,
+      "title": "Vinland Saga – Capítulo 131",
+      "date": "2025-03-29T21:52:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224413
+    },
+    {
+      "id": "vinland-saga-chapter-132",
+      "number": 132,
+      "title": "Vinland Saga – Capítulo 132",
+      "date": "2025-03-29T21:52:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224415
+    },
+    {
+      "id": "vinland-saga-chapter-133",
+      "number": 133,
+      "title": "Vinland Saga – Capítulo 133",
+      "date": "2025-03-29T21:52:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224410
+    },
+    {
+      "id": "vinland-saga-chapter-134",
+      "number": 134,
+      "title": "Vinland Saga – Capítulo 134",
+      "date": "2025-03-29T21:52:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224411
+    },
+    {
+      "id": "vinland-saga-chapter-135",
+      "number": 135,
+      "title": "Vinland Saga – Capítulo 135",
+      "date": "2025-03-29T21:52:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224417
+    },
+    {
+      "id": "vinland-saga-chapter-136",
+      "number": 136,
+      "title": "Vinland Saga – Capítulo 136",
+      "date": "2025-03-29T21:52:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224408
+    },
+    {
+      "id": "vinland-saga-chapter-137",
+      "number": 137,
+      "title": "Vinland Saga – Capítulo 137",
+      "date": "2025-03-29T21:52:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224414
+    },
+    {
+      "id": "vinland-saga-chapter-138",
+      "number": 138,
+      "title": "Vinland Saga – Capítulo 138",
+      "date": "2025-03-29T21:53:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224679
+    },
+    {
+      "id": "vinland-saga-chapter-139",
+      "number": 139,
+      "title": "Vinland Saga – Capítulo 139",
+      "date": "2025-03-29T21:53:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224681
+    },
+    {
+      "id": "vinland-saga-chapter-140",
+      "number": 140,
+      "title": "Vinland Saga – Capítulo 140",
+      "date": "2025-03-29T21:53:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224685
+    },
+    {
+      "id": "vinland-saga-chapter-141",
+      "number": 141,
+      "title": "Vinland Saga – Capítulo 141",
+      "date": "2025-03-29T21:53:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224680
+    },
+    {
+      "id": "vinland-saga-chapter-142",
+      "number": 142,
+      "title": "Vinland Saga – Capítulo 142",
+      "date": "2025-03-29T21:53:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224687
+    },
+    {
+      "id": "vinland-saga-chapter-143",
+      "number": 143,
+      "title": "Vinland Saga – Capítulo 143",
+      "date": "2025-03-29T21:53:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224682
+    },
+    {
+      "id": "vinland-saga-chapter-144",
+      "number": 144,
+      "title": "Vinland Saga – Capítulo 144",
+      "date": "2025-03-29T21:53:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224678
+    },
+    {
+      "id": "vinland-saga-chapter-145",
+      "number": 145,
+      "title": "Vinland Saga – Capítulo 145 – Guerra do Mar Báltico 21",
+      "date": "2025-03-29T21:53:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224686
+    },
+    {
+      "id": "vinland-saga-chapter-146",
+      "number": 146,
+      "title": "Vinland Saga – Capítulo 146 – Guerra do Mar Báltico ㉒",
+      "date": "2025-03-29T21:53:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224684
+    },
+    {
+      "id": "vinland-saga-chapter-147",
+      "number": 147,
+      "title": "Vinland Saga – Capítulo 147 – Guerra do Mar Báltico ㉓",
+      "date": "2025-03-29T21:55:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224911
+    },
+    {
+      "id": "vinland-saga-chapter-148",
+      "number": 148,
+      "title": "Vinland Saga – Capítulo 148 – Guerra do Mar Báltico ㉔",
+      "date": "2025-03-29T21:55:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224910
+    },
+    {
+      "id": "vinland-saga-chapter-149",
+      "number": 149,
+      "title": "Vinland Saga – Capítulo 149 – Guerra do Mar Báltico ㉕",
+      "date": "2025-03-29T21:55:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224912
+    },
+    {
+      "id": "vinland-saga-chapter-150",
+      "number": 150,
+      "title": "Vinland Saga – Capítulo 150 – Guerra do Mar Báltico ㉖",
+      "date": "2025-03-29T21:55:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224913
+    },
+    {
+      "id": "vinland-saga-chapter-151",
+      "number": 151,
+      "title": "Vinland Saga – Capítulo 151 – Guerra do Mar Báltico ㉗",
+      "date": "2025-03-29T21:55:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224908
+    },
+    {
+      "id": "vinland-saga-chapter-152",
+      "number": 152,
+      "title": "Vinland Saga – Capítulo 152",
+      "date": "2025-03-29T21:55:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224914
+    },
+    {
+      "id": "vinland-saga-chapter-153",
+      "number": 153,
+      "title": "Vinland Saga – Capítulo 153",
+      "date": "2025-03-29T21:55:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224909
+    },
+    {
+      "id": "vinland-saga-chapter-154",
+      "number": 154,
+      "title": "Vinland Saga – Capítulo 154",
+      "date": "2025-03-29T21:55:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224916
+    },
+    {
+      "id": "vinland-saga-chapter-155",
+      "number": 155,
+      "title": "Vinland Saga – Capítulo 155",
+      "date": "2025-03-29T21:55:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 224915
+    },
+    {
+      "id": "vinland-saga-chapter-156",
+      "number": 156,
+      "title": "Vinland Saga – Capítulo 156",
+      "date": "2025-03-29T21:57:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225153
+    },
+    {
+      "id": "vinland-saga-chapter-157",
+      "number": 157,
+      "title": "Vinland Saga – Capítulo 157",
+      "date": "2025-03-29T21:57:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225157
+    },
+    {
+      "id": "vinland-saga-chapter-158",
+      "number": 158,
+      "title": "Vinland Saga – Capítulo 158",
+      "date": "2025-03-29T21:57:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225155
+    },
+    {
+      "id": "vinland-saga-chapter-159",
+      "number": 159,
+      "title": "Vinland Saga – Capítulo 159",
+      "date": "2025-03-29T21:57:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225154
+    },
+    {
+      "id": "vinland-saga-chapter-160",
+      "number": 160,
+      "title": "Vinland Saga – Capítulo 160",
+      "date": "2025-03-29T21:57:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225156
+    },
+    {
+      "id": "vinland-saga-chapter-161",
+      "number": 161,
+      "title": "Vinland Saga – Capítulo 161 – A Decisão de Sigurd",
+      "date": "2025-03-29T21:57:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225158
+    },
+    {
+      "id": "vinland-saga-chapter-162",
+      "number": 162,
+      "title": "Vinland Saga – Capítulo 162 – O Regresso de Sigurd",
+      "date": "2025-03-29T21:57:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225160
+    },
+    {
+      "id": "vinland-saga-chapter-163",
+      "number": 163,
+      "title": "Vinland Saga – Capítulo 163 – Sig e Hatt",
+      "date": "2025-03-29T21:57:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225162
+    },
+    {
+      "id": "vinland-saga-chapter-164",
+      "number": 164,
+      "title": "Vinland Saga – Capítulo 164 – Sigurd Desafiante",
+      "date": "2025-03-29T21:57:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225159
+    },
+    {
+      "id": "vinland-saga-chapter-165",
+      "number": 165,
+      "title": "Vinland Saga – Capítulo 165 – A Despedida de Sigurd",
+      "date": "2025-03-29T21:57:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225161
+    },
+    {
+      "id": "vinland-saga-chapter-166",
+      "number": 166,
+      "title": "Vinland Saga – Capítulo 166 – Vinland Saga",
+      "date": "2025-03-29T21:58:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225418
+    },
+    {
+      "id": "vinland-saga-chapter-167",
+      "number": 167,
+      "title": "Vinland Saga – Capítulo 167",
+      "date": "2025-03-29T21:58:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225416
+    },
+    {
+      "id": "vinland-saga-chapter-168",
+      "number": 168,
+      "title": "Vinland Saga – Capítulo 168 – Zarpando Para o Oeste (2)",
+      "date": "2025-03-29T21:58:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225419
+    },
+    {
+      "id": "vinland-saga-chapter-169",
+      "number": 169,
+      "title": "Vinland Saga – Capítulo 169 – Zarpando para o oeste (3)",
+      "date": "2025-03-29T21:58:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225420
+    },
+    {
+      "id": "vinland-saga-chapter-170",
+      "number": 170,
+      "title": "Vinland Saga – Capítulo 170 – Zarpando Para o Oeste (4)",
+      "date": "2025-03-29T21:58:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225421
+    },
+    {
+      "id": "vinland-saga-chapter-171",
+      "number": 171,
+      "title": "Vinland Saga – Capítulo 171 – Zarpando Para o Oeste (5)",
+      "date": "2025-03-29T21:58:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225422
+    },
+    {
+      "id": "vinland-saga-chapter-172",
+      "number": 172,
+      "title": "Vinland Saga – Capítulo 172",
+      "date": "2025-03-29T21:58:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225417
+    },
+    {
+      "id": "vinland-saga-chapter-173",
+      "number": 173,
+      "title": "Vinland Saga – Capítulo 173 – Zarpando para o oeste (7)",
+      "date": "2025-03-29T21:58:48Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225423
+    },
+    {
+      "id": "vinland-saga-chapter-174",
+      "number": 174,
+      "title": "Vinland Saga – Capítulo 174 – Velejando ao Oeste Parte 8",
+      "date": "2025-03-29T21:58:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225425
+    },
+    {
+      "id": "vinland-saga-chapter-175",
+      "number": 175,
+      "title": "Vinland Saga – Capítulo 175 – Zarpando Para o Oeste Parte 9",
+      "date": "2025-03-29T21:58:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225424
+    },
+    {
+      "id": "vinland-saga-chapter-176",
+      "number": 176,
+      "title": "Vinland Saga – Capítulo 176",
+      "date": "2025-03-29T22:00:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225660
+    },
+    {
+      "id": "vinland-saga-chapter-176.5",
+      "number": 176.5,
+      "title": "Vinland Saga – Capítulo 176.5",
+      "date": "2025-03-29T22:00:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225655
+    },
+    {
+      "id": "vinland-saga-chapter-177",
+      "number": 177,
+      "title": "Vinland Saga – Capítulo 177 – Zarpando para o oeste (11)",
+      "date": "2025-03-29T22:00:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225654
+    },
+    {
+      "id": "vinland-saga-chapter-178",
+      "number": 178,
+      "title": "Vinland Saga – Capítulo 178 – Zarpando para o oeste (12)",
+      "date": "2025-03-29T22:00:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225658
+    },
+    {
+      "id": "vinland-saga-chapter-179",
+      "number": 179,
+      "title": "Vinland Saga – Capítulo 179 – Zarpando para o oeste (13)",
+      "date": "2025-03-29T22:00:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225656
+    },
+    {
+      "id": "vinland-saga-chapter-180",
+      "number": 180,
+      "title": "Vinland Saga – Capítulo 180",
+      "date": "2025-03-29T22:00:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225659
+    },
+    {
+      "id": "vinland-saga-chapter-181",
+      "number": 181,
+      "title": "Vinland Saga – Capítulo 181",
+      "date": "2025-03-29T22:00:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225661
+    },
+    {
+      "id": "vinland-saga-chapter-182",
+      "number": 182,
+      "title": "Vinland Saga – Capítulo 182",
+      "date": "2025-03-29T22:00:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225653
+    },
+    {
+      "id": "vinland-saga-chapter-183",
+      "number": 183,
+      "title": "Vinland Saga – Capítulo 183",
+      "date": "2025-03-29T22:00:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225657
+    },
+    {
+      "id": "vinland-saga-chapter-184",
+      "number": 184,
+      "title": "Vinland Saga – Capítulo 184",
+      "date": "2025-03-29T22:00:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 225663
+    },
+    {
+      "id": "vinland-saga-chapter-185",
+      "number": 185,
+      "title": "Vinland Saga – Capítulo 185",
+      "date": "2025-03-30T03:00:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 226100
+    },
+    {
+      "id": "vinland-saga-chapter-186",
+      "number": 186,
+      "title": "Vinland Saga – Capítulo 186 – A Agonia de Cordelia",
+      "date": "2025-03-30T03:00:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 226105
+    },
+    {
+      "id": "vinland-saga-chapter-187",
+      "number": 187,
+      "title": "Vinland Saga – Capítulo 187 – Expedição de Nisquaji",
+      "date": "2025-03-30T03:00:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 226103
+    },
+    {
+      "id": "vinland-saga-chapter-188",
+      "number": 188,
+      "title": "Vinland Saga – Capítulo 188 – Hild e o Deus da Floresta",
+      "date": "2025-03-30T03:00:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 226101
+    },
+    {
+      "id": "vinland-saga-chapter-189",
+      "number": 189,
+      "title": "Vinland Saga – Capítulo 189",
+      "date": "2025-03-30T03:00:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 226099
+    },
+    {
+      "id": "vinland-saga-chapter-190",
+      "number": 190,
+      "title": "Vinland Saga – Capítulo 190 – Falando sobre o Ragnarok",
+      "date": "2025-03-30T03:00:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 226097
+    },
+    {
+      "id": "vinland-saga-chapter-191",
+      "number": 191,
+      "title": "Vinland Saga – Capítulo 191 – O dia",
+      "date": "2025-03-30T03:00:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 226098
+    },
+    {
+      "id": "vinland-saga-chapter-192",
+      "number": 192,
+      "title": "Vinland Saga – Capítulo 192 – Viagem do milésimo ano Parte 1",
+      "date": "2025-03-30T03:00:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 226102
+    },
+    {
+      "id": "vinland-saga-chapter-192.5",
+      "number": 192.5,
+      "title": "Vinland Saga – Capítulo 192.5 – Omake",
+      "date": "2025-03-30T03:01:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 226345
+    },
+    {
+      "id": "vinland-saga-chapter-193",
+      "number": 193,
+      "title": "Vinland Saga – Capítulo 193 – Viagem de Mil anos, Parte 2",
+      "date": "2025-03-30T03:01:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 226338
+    },
+    {
+      "id": "vinland-saga-chapter-194",
+      "number": 194,
+      "title": "Vinland Saga – Capítulo 194 – Viagem de Mil anos, Parte 3",
+      "date": "2025-03-30T03:01:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 226342
+    },
+    {
+      "id": "vinland-saga-chapter-195",
+      "number": 195,
+      "title": "Vinland Saga – Capítulo 195 – Viagem de Mil Anos Parte 4",
+      "date": "2025-03-30T03:01:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 226339
+    },
+    {
+      "id": "vinland-saga-chapter-196",
+      "number": 196,
+      "title": "Vinland Saga – Capítulo 196 – Viagem de Mil Anos Parte 5",
+      "date": "2025-03-30T03:01:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 226343
+    },
+    {
+      "id": "vinland-saga-chapter-197",
+      "number": 197,
+      "title": "Vinland Saga – Capítulo 197 – Viagem de Mil Anos Parte 6",
+      "date": "2025-03-30T03:01:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 226344
+    },
+    {
+      "id": "vinland-saga-chapter-198",
+      "number": 198,
+      "title": "Vinland Saga – Capítulo 198 – Viagem de Mil anos, Parte 7",
+      "date": "2025-03-30T03:03:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 226548
+    },
+    {
+      "id": "vinland-saga-chapter-199",
+      "number": 199,
+      "title": "Vinland Saga – Capítulo 199 – Viagem de Mil anos, Parte 8",
+      "date": "2025-03-30T03:03:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 226551
+    },
+    {
+      "id": "vinland-saga-chapter-200",
+      "number": 200,
+      "title": "Vinland Saga – Capítulo 200 – Viagem de Mil anos, Parte 9",
+      "date": "2025-03-30T03:03:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 226547
+    },
+    {
+      "id": "vinland-saga-chapter-201",
+      "number": 201,
+      "title": "Vinland Saga – Capítulo 201 – Viagem de Mil anos, Parte 10",
+      "date": "2025-03-30T03:03:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 226546
+    },
+    {
+      "id": "vinland-saga-chapter-202",
+      "number": 202,
+      "title": "Vinland Saga – Capítulo 202 – Viagem de Mil Anos, Parte 11",
+      "date": "2025-03-30T03:03:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 226549
+    },
+    {
+      "id": "vinland-saga-chapter-203",
+      "number": 203,
+      "title": "Vinland Saga – Capítulo 203 – Viagem de Mil Anos, Parte 12",
+      "date": "2025-03-30T03:04:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 226748
+    },
+    {
+      "id": "vinland-saga-chapter-204",
+      "number": 204,
+      "title": "Vinland Saga – Capítulo 204 – Viagem de Mil Anos, Parte 13",
+      "date": "2025-03-30T03:04:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 226750
+    },
+    {
+      "id": "vinland-saga-chapter-205",
+      "number": 205,
+      "title": "Vinland Saga – Capítulo 205 – Viagem de Mil Anos, Parte 14",
+      "date": "2025-03-30T03:04:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 226749
+    },
+    {
+      "id": "vinland-saga-chapter-206",
+      "number": 206,
+      "title": "Vinland Saga – Capítulo 206 – Viagem de Mil Anos, Parte 15",
+      "date": "2025-03-30T03:04:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 226746
+    },
+    {
+      "id": "vinland-saga-chapter-207",
+      "number": 207,
+      "title": "Vinland Saga – Capítulo 207 – Viagem de Mil anos, Parte 16",
+      "date": "2025-03-30T03:04:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 226745
+    },
+    {
+      "id": "vinland-saga-chapter-208",
+      "number": 208,
+      "title": "Vinland Saga – Capítulo 208 – Viagem de Mil anos, Parte 17",
+      "date": "2025-03-30T03:04:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 226747
+    },
+    {
+      "id": "vinland-saga-chapter-209",
+      "number": 209,
+      "title": "Vinland Saga – Capítulo 209 – Viagem de Mil anos, Parte 18",
+      "date": "2025-03-30T03:06:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 227011
+    },
+    {
+      "id": "vinland-saga-chapter-210",
+      "number": 210,
+      "title": "Vinland Saga – Capítulo 210 – Viagem de Mil anos, Parte 19",
+      "date": "2025-03-30T03:06:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 227017
+    },
+    {
+      "id": "vinland-saga-chapter-211",
+      "number": 211,
+      "title": "Vinland Saga – Capítulo 211 – Viagem de Mil anos, Parte 20",
+      "date": "2025-03-30T03:06:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 227015
+    },
+    {
+      "id": "vinland-saga-chapter-212",
+      "number": 212,
+      "title": "Vinland Saga – Capítulo 212 – Viagem de Mil anos, Parte 21",
+      "date": "2025-03-30T03:06:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 227012
+    },
+    {
+      "id": "vinland-saga-chapter-213",
+      "number": 213,
+      "title": "Vinland Saga – Capítulo 213 – Viagem de Mil anos, Parte 22",
+      "date": "2025-03-30T03:06:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 227010
+    },
+    {
+      "id": "vinland-saga-chapter-214",
+      "number": 214,
+      "title": "Vinland Saga – Capítulo 214 – Viagem de Mil anos, Parte 23",
+      "date": "2025-03-30T03:06:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 227013
+    },
+    {
+      "id": "vinland-saga-chapter-215",
+      "number": 215,
+      "title": "Vinland Saga – Capítulo 215 – Viagem de Mil anos, Parte 24",
+      "date": "2025-03-30T03:06:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 227016
+    },
+    {
+      "id": "vinland-saga-chapter-216",
+      "number": 216,
+      "title": "Vinland Saga – Capítulo 216 – Viagem de Mil anos, Parte 25",
+      "date": "2025-03-30T03:06:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 227014
+    },
+    {
+      "id": "vinland-saga-chapter-217",
+      "number": 217,
+      "title": "Vinland Saga – Capítulo 217 – Viagem de Mil anos, Parte 26",
+      "date": "2025-03-30T03:06:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 227018
+    },
+    {
+      "id": "vinland-saga-chapter-218",
+      "number": 218,
+      "title": "Vinland Saga – Capítulo 218 – Viagem de Mil anos, Parte 27",
+      "date": "2025-03-30T03:06:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 227019
+    }
+  ]
+}

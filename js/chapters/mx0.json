@@ -1,0 +1,697 @@
+{
+  "en": [
+    {
+      "id": "mx0-1",
+      "number": "1",
+      "title": "Magic School",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-2",
+      "number": "2",
+      "title": "Kuzumi Taiga is Taiga Kuzumi",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-3",
+      "number": "3",
+      "title": "Beginning the School Life",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-4",
+      "number": "4",
+      "title": "Escape",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-5",
+      "number": "5",
+      "title": "Form a Party",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-6",
+      "number": "6",
+      "title": "Those Two Are Siblings",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-7",
+      "number": "7",
+      "title": "Third Period - Outside Magic Practice Class",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-8",
+      "number": "8",
+      "title": "Where Is The Plate 1",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-9",
+      "number": "9",
+      "title": "Where is the Plate 2",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-10",
+      "number": "10",
+      "title": "Where is the Plate 3",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-11",
+      "number": "11",
+      "title": "An Unexpected Meeting",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-12",
+      "number": "12",
+      "title": "The Student Council Magic Executive Committee",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-13",
+      "number": "13",
+      "title": "Discord",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-14",
+      "number": "14",
+      "title": "Confrontation",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-15",
+      "number": "15",
+      "title": "The 2 At That Time",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-16",
+      "number": "16",
+      "title": "Ise's Willpower",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-17",
+      "number": "17",
+      "title": "Temporary Compromise",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-18",
+      "number": "18",
+      "title": "M0 Plate",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-19",
+      "number": "19",
+      "title": "Magic Examination 1",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-20",
+      "number": "20",
+      "title": "Magic Examination 2",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-21",
+      "number": "21",
+      "title": "Magic Examination 3",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-22",
+      "number": "22",
+      "title": "Magic Examination 4",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-23",
+      "number": "23",
+      "title": "Magic Examination 5",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-24",
+      "number": "24",
+      "title": "Magic Examination 6",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-25",
+      "number": "25",
+      "title": "Magic Examination 7",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-26",
+      "number": "26",
+      "title": "Magic Exam Last",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-27",
+      "number": "27",
+      "title": "Magic Department Ban Lifted",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-28",
+      "number": "28",
+      "title": "Kuzumi Taiga's Expedition Group",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-29",
+      "number": "29",
+      "title": "Strange Cave",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-30",
+      "number": "30",
+      "title": "Magic Flower",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-31",
+      "number": "31",
+      "title": "It's Hard Being a Man",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-32",
+      "number": "32",
+      "title": "Expedition Over",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-33",
+      "number": "33",
+      "title": "Lucy Doing Things Her Way",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-34",
+      "number": "34",
+      "title": "Provocation",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-35",
+      "number": "35",
+      "title": "Mosaic Panic",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-36",
+      "number": "36",
+      "title": "Class Matches 1",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-37",
+      "number": "37",
+      "title": "Class Matches 2",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-38",
+      "number": "38",
+      "title": "Class Matches 3",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-39",
+      "number": "39",
+      "title": "Class Matches 4",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-40",
+      "number": "40",
+      "title": "Class Matches - Intermission",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-41",
+      "number": "41",
+      "title": "Class Matches 5",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-42",
+      "number": "42",
+      "title": "Class Matches 6",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-43",
+      "number": "43",
+      "title": "Class Matches 7",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-44",
+      "number": "44",
+      "title": "Class Matches 8",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-45",
+      "number": "45",
+      "title": "Class Matches 9",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-46",
+      "number": "46",
+      "title": "Class Matches 10",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-47",
+      "number": "47",
+      "title": "Class Matches 11",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-48",
+      "number": "48",
+      "title": "Class Matches 12",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-49",
+      "number": "49",
+      "title": "Class Matches 13",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-50",
+      "number": "50",
+      "title": "Class Matches 14",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-51",
+      "number": "51",
+      "title": "Class Matches 15",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-52",
+      "number": "52",
+      "title": "Class Matches Epilogue",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-53",
+      "number": "53",
+      "title": "Back to the Starting Point 1",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-54",
+      "number": "54",
+      "title": "Back to the Starting Point 2",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-55",
+      "number": "55",
+      "title": "Back to the Starting Point 3",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-56",
+      "number": "56",
+      "title": "Back to the Starting Point 4",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-57",
+      "number": "57",
+      "title": "Back to the Starting Point 5",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-58",
+      "number": "58",
+      "title": "Kuzumi Kokuha is Kokuha Kuzumi",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-59",
+      "number": "59",
+      "title": "Skateboard-kun and Megane-chan",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-60",
+      "number": "60",
+      "title": "Summer Oasis - Before",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-61",
+      "number": "61",
+      "title": "Summer Oasis - After",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-62",
+      "number": "62",
+      "title": "M0, A Road of Thorns",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-63",
+      "number": "63",
+      "title": "M0 Fire",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-64",
+      "number": "64",
+      "title": "M0, A New Journey",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-65",
+      "number": "65",
+      "title": "M0 Fight!",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-66",
+      "number": "66",
+      "title": "Ways to Erase Magic",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-67",
+      "number": "67",
+      "title": "The Second Term Starts",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-68",
+      "number": "68",
+      "title": "The Man Called Kuzumi",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-69",
+      "number": "69",
+      "title": "M0's True Form",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-70",
+      "number": "70",
+      "title": "Taiga And Akira's Room",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-71",
+      "number": "71",
+      "title": "The Cultural Festival Is In Trouble",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-72",
+      "number": "72",
+      "title": "The Cultural Festival - Part 2",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-73",
+      "number": "73",
+      "title": "The Cultural Festival - Part 3",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-74",
+      "number": "74",
+      "title": "The-Cultural Festival - Part 4",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-75",
+      "number": "75",
+      "title": "The Cultural Festival - Part V",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-76",
+      "number": "76",
+      "title": "The Cultural Festival - Part VI",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-77",
+      "number": "77",
+      "title": "Chapter 77",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-78",
+      "number": "78",
+      "title": "Chapter 78",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-79",
+      "number": "79",
+      "title": "",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-80",
+      "number": "80",
+      "title": "",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-81",
+      "number": "81",
+      "title": "",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-82",
+      "number": "82",
+      "title": "Class 1-C's Gothic Lolita Coffee Shop",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-83",
+      "number": "83",
+      "title": "2nd Magical Examination",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-84",
+      "number": "84",
+      "title": "2nd Magical Examination Part 2",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-85",
+      "number": "85",
+      "title": "2nd Magical Examination Part Three",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-86",
+      "number": "86",
+      "title": "2nd Magical Examination Part Four",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-87",
+      "number": "87",
+      "title": "2nd Magical Examination Part Five",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-88",
+      "number": "88",
+      "title": "Black Plate",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-89",
+      "number": "89",
+      "title": "Level 1",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-90",
+      "number": "90",
+      "title": "The Tall Wall",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-91",
+      "number": "91",
+      "title": "Faraway Goal",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-92",
+      "number": "92",
+      "title": "Revenge Level 1",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-93",
+      "number": "93",
+      "title": "The New Plate is the Black M0",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-94",
+      "number": "94",
+      "title": "Magic Debut",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-95",
+      "number": "95",
+      "title": "10 (+ 2) Pudding",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-96",
+      "number": "96",
+      "title": "The Secret Between the Two",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-97",
+      "number": "97",
+      "title": "Farewell Seinagi",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-98",
+      "number": "98",
+      "title": "Farewell Seinagi 2",
+      "date": "2009/08/01",
+      "pages": []
+    },
+    {
+      "id": "mx0-99",
+      "number": "99",
+      "title": "Farewell Seinagi 3",
+      "date": "2009/08/01",
+      "pages": []
+    }
+  ]
+}

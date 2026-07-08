@@ -1,0 +1,688 @@
+{
+  "pt": [
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-1",
+      "number": 1,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 1 – O Exorcista Kiyoshi Harai",
+      "date": "2025-06-17T15:48:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636291
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-2",
+      "number": 2,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 2 – Talvez eu faça um monte de amigos!",
+      "date": "2025-06-17T15:48:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636297
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-3",
+      "number": 3,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 3 – Restaurante Chinês Portões do Inferno",
+      "date": "2025-06-17T15:48:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636294
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-4",
+      "number": 4,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 4 – Kiyoshi e Akari",
+      "date": "2025-06-17T15:48:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636296
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-5",
+      "number": 5,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 5 – Kiyoshi, o estudante do Ensino Médio",
+      "date": "2025-06-17T15:48:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636298
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-6",
+      "number": 6,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 6 – Nehan e Jack Joe",
+      "date": "2025-06-17T15:48:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636292
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-7",
+      "number": 7,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 7 – Paladino Cruzado",
+      "date": "2025-06-17T15:48:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636293
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-8",
+      "number": 8,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 8 – Salvador",
+      "date": "2025-06-17T15:48:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636299
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-8.1",
+      "number": 8.1,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 8.1 – Extras do Volume 1",
+      "date": "2025-06-17T15:48:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636300
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-9",
+      "number": 9,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 9 – Kiyoshi Determinado",
+      "date": "2025-06-17T15:48:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636295
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-10",
+      "number": 10,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 10 – Vamos Jogar Boliche",
+      "date": "2025-06-17T15:49:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636535
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-11",
+      "number": 11,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 11 – O Exorcista Sosuke",
+      "date": "2025-06-17T15:49:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636537
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-12",
+      "number": 12,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 12 – O Teste de Grã-Cruz",
+      "date": "2025-06-17T15:49:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636534
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-13",
+      "number": 13,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 13 – Batalha na Floresta da Lembrança",
+      "date": "2025-06-17T15:49:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636536
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-14",
+      "number": 14,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 14 – A Feroz Besta da Floresta da Lembrança",
+      "date": "2025-06-17T15:49:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636533
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-15",
+      "number": 15,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 15 – O Teste Final",
+      "date": "2025-06-17T15:49:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636540
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-16",
+      "number": 16,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 16 – Fundamentos de um Grã-Cruz",
+      "date": "2025-06-17T15:49:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636538
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-17",
+      "number": 17,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 17 – Grã-Cruz",
+      "date": "2025-06-17T15:49:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636532
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-18",
+      "number": 18,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 18 – O Clube de Investigação Ocultista da Escola Secundária de Naraku",
+      "date": "2025-06-17T15:49:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636531
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-19",
+      "number": 19,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 19 – Sakaki vs Yuda",
+      "date": "2025-06-17T15:49:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636539
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-20",
+      "number": 20,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 20 – A Descida do Supremo Lorde Demônio",
+      "date": "2025-06-17T15:49:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636741
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-21",
+      "number": 21,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 21 – Kiyoshi e o Supremo Lorde Demônio",
+      "date": "2025-06-17T15:49:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636736
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-22",
+      "number": 22,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 22 – Asuta Roth",
+      "date": "2025-06-17T15:49:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636743
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-23",
+      "number": 23,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 23 – Lágrimas de Kiyoshi",
+      "date": "2025-06-17T15:49:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636735
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-24",
+      "number": 24,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 24 – Vamos para a Fonte Termal",
+      "date": "2025-06-17T15:49:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636744
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-25",
+      "number": 25,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 25 – Vamos jogar Ping-Pong de Poder Restringido",
+      "date": "2025-06-17T15:49:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636740
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-26",
+      "number": 26,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 26 – Uma Promessa de Fonte Termal",
+      "date": "2025-06-17T15:49:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636738
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-27",
+      "number": 27,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 27 – Hora do Treinamento de Kiyoshi e Sakaki",
+      "date": "2025-06-17T15:49:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636739
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-28",
+      "number": 28,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 28 – O Príncipe em um Cavalo Branco nos Portões do Inferno",
+      "date": "2025-06-17T15:49:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636737
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-29",
+      "number": 29,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 29 – 6 de Junho, 2 da manhã.",
+      "date": "2025-06-17T15:49:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636742
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-30",
+      "number": 30,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 30 – Welcome to the Black Parade",
+      "date": "2025-06-17T15:50:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636946
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-31",
+      "number": 31,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 31 – Os Lordes Demônios Entram em Campo",
+      "date": "2025-06-17T15:50:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636943
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-32",
+      "number": 32,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 32 – O Quinto Lorde Demônio, Bakku Yoraku",
+      "date": "2025-06-17T15:50:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636947
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-33",
+      "number": 33,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 33 – Lutem, Nehan e JJ!",
+      "date": "2025-06-17T15:50:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636942
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-34",
+      "number": 34,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 34 – O Passado de Jack Joe",
+      "date": "2025-06-17T15:50:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636945
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-35",
+      "number": 35,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 35 – Até Logo",
+      "date": "2025-06-17T15:50:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636940
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-36",
+      "number": 36,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 36 – O Sexto Lorde Demônio, Hydrako",
+      "date": "2025-06-17T15:50:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636948
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-37",
+      "number": 37,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 37 – Babá",
+      "date": "2025-06-17T15:50:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636941
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-38",
+      "number": 38,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 38 – O Quarto Lorde Demônio, Gorgon Mede",
+      "date": "2025-06-17T15:50:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636949
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-39",
+      "number": 39,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 39 – O Primeiro Lorde Demônio, Tonjinchi",
+      "date": "2025-06-17T15:50:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 636944
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-40",
+      "number": 40,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 40 – Deixa Comigo",
+      "date": "2025-06-17T15:50:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 637157
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-41",
+      "number": 41,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 41 – O Sonho de Sosuke Hitsugi",
+      "date": "2025-06-17T15:50:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 637153
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-42",
+      "number": 42,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 42 – Prosperando no Fio da Navalha",
+      "date": "2025-06-17T15:50:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 637158
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-43",
+      "number": 43,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 43 – Asuta Roth Vs. Kyoka Kurogane",
+      "date": "2025-06-17T15:50:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 637155
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-44",
+      "number": 44,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 44 – Duelo",
+      "date": "2025-06-17T15:50:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 637154
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-45",
+      "number": 45,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 45 – Tsurugi Hijiri vs O Primeiro Lorde Demônio, Tonjinchi",
+      "date": "2025-06-17T15:50:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 637160
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-46",
+      "number": 46,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 46 – Coisas que somente um Paladino Cruzado pode ver",
+      "date": "2025-06-17T15:50:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 637159
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-47",
+      "number": 47,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 47 – A Batalha Final na Cidade de Naraku",
+      "date": "2025-06-17T15:50:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 637156
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-48",
+      "number": 48,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 48 – A Crença do Jogador",
+      "date": "2025-10-10T14:27:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 781048
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-49",
+      "number": 49,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 49 – Yuda &#038; A Irmã",
+      "date": "2025-10-10T14:27:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 781049
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-50",
+      "number": 50,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 50 – Senhor Sakaki, O Exorcista",
+      "date": "2025-10-10T14:27:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 781256
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-51",
+      "number": 51,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 51 – Sakaki &#038; Yuda",
+      "date": "2025-10-10T14:27:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 781255
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-52",
+      "number": 52,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 52 – O Verdadeiro Valor de Roth",
+      "date": "2025-10-10T14:27:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 781264
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-53",
+      "number": 53,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 53 – Pior Pesadelo Favorito",
+      "date": "2025-10-10T14:27:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 781261
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-54",
+      "number": 54,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 54 – A Parceira de Kiyoshi",
+      "date": "2025-10-10T14:27:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 781259
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-55",
+      "number": 55,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 55 – A Confissão de Roth",
+      "date": "2025-10-10T14:27:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 781262
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-56",
+      "number": 56,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 56 – Cidade de Naraku ao Nascer do Sol",
+      "date": "2025-10-10T14:27:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 781257
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-57",
+      "number": 57,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 57 – A Black Parade -Fim-",
+      "date": "2025-10-10T14:27:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 781263
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-58",
+      "number": 58,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 58 – O Bastão a ser Passado",
+      "date": "2025-10-10T14:27:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 781258
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-59",
+      "number": 59,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 59 – Cross Paladins se reúnem",
+      "date": "2025-10-10T14:27:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 781260
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-60",
+      "number": 60,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 60 – Vamos Ficar na Casa do Hitsugi",
+      "date": "2025-10-10T14:28:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 781470
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-61",
+      "number": 61,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 61 – Reunião de Exorcistas",
+      "date": "2025-10-10T14:28:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 781472
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-62",
+      "number": 62,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 62 – Vamos pro Reino dos Demônios",
+      "date": "2025-10-10T14:28:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 781469
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-63",
+      "number": 63,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 63 – O Hambúrguer do McDores Favorito de Todos",
+      "date": "2025-10-10T14:28:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 781471
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-64",
+      "number": 64,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 64 – O Cross Paladin Goro Shishido",
+      "date": "2025-10-17T14:21:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 836939
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-65",
+      "number": 65,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 65 – Goro Shishido vs. Helze Gaga",
+      "date": "2025-11-08T15:19:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 859395
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-66",
+      "number": 66,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 66 – Um Amigo no Reino dos Demônios",
+      "date": "2025-11-08T15:19:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 859396
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-67",
+      "number": 67,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 67 – A Grande Corrida da Retomada do Castelo do Lorde Demônio",
+      "date": "2025-11-19T02:04:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 942922
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-68",
+      "number": 68,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 68 – O Supremo Lorde Demônio Helze Bub",
+      "date": "2026-02-04T18:05:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1091640
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-69",
+      "number": 69,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 69 – Véspera do Confronto",
+      "date": "2026-02-04T18:05:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1091641
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-70",
+      "number": 70,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 70 – Kiyoshi entra de cabeça nos problemas do Reino dos Demônios",
+      "date": "2026-02-04T18:05:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1091687
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-71",
+      "number": 71,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 71 – Um Kiyoshi Enfrenta Mil",
+      "date": "2026-02-04T18:05:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1091685
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-72",
+      "number": 72,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 72 – Kiyoshi in Yamada House",
+      "date": "2026-02-04T18:05:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1091686
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-73",
+      "number": 73,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 73 – Goro Shishido vs Helze Lulu",
+      "date": "2026-02-16T14:21:36Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1105211
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-74",
+      "number": 74,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 74 – Um Buquê, Com Amor",
+      "date": "2026-02-16T14:21:36Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1105213
+    },
+    {
+      "id": "exorcist-no-kiyoshi-kun-chapter-75",
+      "number": 75,
+      "title": "Exorcist no Kiyoshi-kun – Capítulo 75 – O Filho Mais Velho, Helze Bobo",
+      "date": "2026-02-16T14:21:36Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1105212
+    }
+  ]
+}

@@ -1,0 +1,774 @@
+{
+  "en": [
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-1",
+      "number": "1",
+      "title": "",
+      "date": "2011/06/27",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-2",
+      "number": "2",
+      "title": "",
+      "date": "2011/06/27",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-3",
+      "number": "3",
+      "title": "",
+      "date": "2011/07/20",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-4",
+      "number": "4",
+      "title": "",
+      "date": "2011/10/03",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-5",
+      "number": "5",
+      "title": "",
+      "date": "2011/10/31",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-6",
+      "number": "6",
+      "title": "",
+      "date": "2011/12/21",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-7",
+      "number": "7",
+      "title": "",
+      "date": "2012/01/11",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-8",
+      "number": "8",
+      "title": "",
+      "date": "2012/06/12",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-9",
+      "number": "9",
+      "title": "",
+      "date": "2012/06/12",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-10",
+      "number": "10",
+      "title": "",
+      "date": "2012/06/12",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-11",
+      "number": "11",
+      "title": "",
+      "date": "2012/06/12",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-12",
+      "number": "12",
+      "title": "",
+      "date": "2012/07/05",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-13",
+      "number": "13",
+      "title": "",
+      "date": "2012/08/05",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-14",
+      "number": "14",
+      "title": "",
+      "date": "2012/10/08",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-15",
+      "number": "15",
+      "title": "",
+      "date": "2012/11/08",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-16",
+      "number": "16",
+      "title": "",
+      "date": "2012/12/08",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-17",
+      "number": "17",
+      "title": "",
+      "date": "2012/12/31",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-18",
+      "number": "18",
+      "title": "Trouble with the Curve",
+      "date": "2013/02/02",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-19",
+      "number": "19",
+      "title": "",
+      "date": "2013/03/21",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-20",
+      "number": "20",
+      "title": "",
+      "date": "2013/04/19",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-21",
+      "number": "21",
+      "title": "The Secret of Shakedown Road",
+      "date": "2013/06/08",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-22",
+      "number": "22",
+      "title": "",
+      "date": "2013/06/20",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-23",
+      "number": "23",
+      "title": "",
+      "date": "2013/08/13",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-24",
+      "number": "24",
+      "title": "Tsurugi's Mystery",
+      "date": "2013/10/26",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-25",
+      "number": "25",
+      "title": "Meet With Jousuke Higashikata!",
+      "date": "2013/10/26",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-26",
+      "number": "26",
+      "title": "The Resident of the Underground Room",
+      "date": "2013/11/22",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-27",
+      "number": "27",
+      "title": "People Under Suspicion",
+      "date": "2014/01/20",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-28",
+      "number": "28",
+      "title": "The Terror of the Higashikata Family Garden",
+      "date": "2014/02/10",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-29",
+      "number": "29",
+      "title": "They Approach",
+      "date": "2014/02/21",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-30",
+      "number": "30",
+      "title": "Pursuit",
+      "date": "2014/03/23",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-31",
+      "number": "31",
+      "title": "Love of Gravity",
+      "date": "2014/07/22",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-32",
+      "number": "32",
+      "title": "Yagiyama Yotsuyu's Ambition",
+      "date": "2014/07/22",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-33",
+      "number": "33",
+      "title": "Fifth Generation",
+      "date": "2014/07/22",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-34",
+      "number": "34",
+      "title": "That Man, Joubin",
+      "date": "2014/07/22",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-35",
+      "number": "35",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-36",
+      "number": "36",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-37",
+      "number": "37",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-38",
+      "number": "38",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-39",
+      "number": "39",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-40",
+      "number": "40",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-41",
+      "number": "41",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-42",
+      "number": "42",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-43",
+      "number": "43",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-44",
+      "number": "44",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-45",
+      "number": "45",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-46",
+      "number": "46",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-47",
+      "number": "47",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-48",
+      "number": "48",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-49",
+      "number": "49",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-50",
+      "number": "50",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-51",
+      "number": "51",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-52",
+      "number": "52",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-53",
+      "number": "53",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-54",
+      "number": "54",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-55",
+      "number": "55",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-56",
+      "number": "56",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-57",
+      "number": "57",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-58",
+      "number": "58",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-59",
+      "number": "59",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-60",
+      "number": "60",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-61",
+      "number": "61",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-62",
+      "number": "62",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-63",
+      "number": "63",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-64",
+      "number": "64",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-65",
+      "number": "65",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-66",
+      "number": "66",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-67",
+      "number": "67",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-68",
+      "number": "68",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-69",
+      "number": "69",
+      "title": "",
+      "date": "2017/09/24",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-70",
+      "number": "70",
+      "title": "",
+      "date": "2018/07/19",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-71",
+      "number": "71",
+      "title": "",
+      "date": "2018/07/19",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-72",
+      "number": "72",
+      "title": "",
+      "date": "2018/07/19",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-73",
+      "number": "73",
+      "title": "",
+      "date": "2018/07/19",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-74",
+      "number": "74",
+      "title": "",
+      "date": "2018/07/19",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-75",
+      "number": "75",
+      "title": "",
+      "date": "2018/07/19",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-76",
+      "number": "76",
+      "title": "",
+      "date": "2018/07/19",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-77",
+      "number": "77",
+      "title": "",
+      "date": "2018/07/19",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-78",
+      "number": "78",
+      "title": "",
+      "date": "2018/09/19",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-79",
+      "number": "79",
+      "title": "",
+      "date": "2018/09/19",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-80",
+      "number": "80",
+      "title": "",
+      "date": "2018/10/18",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-81",
+      "number": "81",
+      "title": "",
+      "date": "2018/11/19",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-82",
+      "number": "82",
+      "title": "",
+      "date": "2020/06/20",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-83",
+      "number": "83",
+      "title": "",
+      "date": "2020/06/20",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-84",
+      "number": "84",
+      "title": "",
+      "date": "2020/06/20",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-85",
+      "number": "85",
+      "title": "",
+      "date": "2020/06/20",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-86",
+      "number": "86",
+      "title": "",
+      "date": "2020/06/20",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-87",
+      "number": "87",
+      "title": "",
+      "date": "2020/06/20",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-88",
+      "number": "88",
+      "title": "",
+      "date": "2020/06/20",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-89",
+      "number": "89",
+      "title": "",
+      "date": "2020/06/20",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-90",
+      "number": "90",
+      "title": "",
+      "date": "2020/06/20",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-91",
+      "number": "91",
+      "title": "",
+      "date": "2020/06/20",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-92",
+      "number": "92",
+      "title": "",
+      "date": "2020/06/20",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-93",
+      "number": "93",
+      "title": "",
+      "date": "2020/06/20",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-94",
+      "number": "94",
+      "title": "",
+      "date": "2020/06/20",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-95",
+      "number": "95",
+      "title": "",
+      "date": "2020/06/20",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-96",
+      "number": "96",
+      "title": "",
+      "date": "2020/06/20",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-97",
+      "number": "97",
+      "title": "",
+      "date": "2020/06/20",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-98",
+      "number": "98",
+      "title": "",
+      "date": "2020/06/20",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-99",
+      "number": "99",
+      "title": "",
+      "date": "2020/07/17",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-100",
+      "number": "100",
+      "title": "",
+      "date": "2020/08/18",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-101",
+      "number": "101",
+      "title": "Endless Calamity Part 7",
+      "date": "2020/10/16",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-102",
+      "number": "102",
+      "title": "",
+      "date": "2020/11/18",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-103",
+      "number": "103",
+      "title": "Endless Calamity Part 9",
+      "date": "2020/12/18",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-104",
+      "number": "104",
+      "title": "Endless Calamity Part 10",
+      "date": "2021/01/18",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-105",
+      "number": "105",
+      "title": "Invisible Soap Bubbles",
+      "date": "2021/02/18",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-106",
+      "number": "106",
+      "title": "Go Beyond",
+      "date": "2021/04/18",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-107",
+      "number": "107",
+      "title": "Higashikata Kaato's \"Attack\"",
+      "date": "2021/05/18",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-108",
+      "number": "108",
+      "title": "The Last Calamity",
+      "date": "2021/06/18",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-109",
+      "number": "109",
+      "title": "The Radio Gaga Incident",
+      "date": "2021/07/15",
+      "pages": []
+    },
+    {
+      "id": "jojos-bizarre-adventure-part-8-jojolion-110",
+      "number": "110",
+      "title": "",
+      "date": "2021/08/18",
+      "pages": []
+    }
+  ]
+}

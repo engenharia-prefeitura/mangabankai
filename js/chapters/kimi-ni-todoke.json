@@ -1,0 +1,795 @@
+{
+  "en": [
+    {
+      "id": "kimi-ni-todoke-0",
+      "number": "0",
+      "title": "0#Prologue",
+      "date": "2009/08/02",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-1",
+      "number": "1",
+      "title": "Seat Change",
+      "date": "2009/08/02",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-2",
+      "number": "2",
+      "title": "After School",
+      "date": "2009/08/02",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-3",
+      "number": "3",
+      "title": "Smile",
+      "date": "2009/08/02",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-4",
+      "number": "4",
+      "title": "Rumors",
+      "date": "2009/08/02",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-5",
+      "number": "5",
+      "title": "True Feelings",
+      "date": "2009/08/02",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-6",
+      "number": "6",
+      "title": "Decision",
+      "date": "2009/08/02",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-7",
+      "number": "7",
+      "title": "Friends",
+      "date": "2009/08/02",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-8",
+      "number": "8",
+      "title": "Saturday Night",
+      "date": "2009/08/02",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-9",
+      "number": "9",
+      "title": "Practicing Freedom",
+      "date": "2009/08/02",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-10",
+      "number": "10",
+      "title": "New Friend",
+      "date": "2009/08/02",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-11",
+      "number": "11",
+      "title": "Cooperation",
+      "date": "2009/08/02",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-12",
+      "number": "12",
+      "title": "Special",
+      "date": "2009/08/02",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-13",
+      "number": "13",
+      "title": "I Want to Know",
+      "date": "2009/08/02",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-14",
+      "number": "14",
+      "title": "Feelings of Love",
+      "date": "2009/08/02",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-15",
+      "number": "15",
+      "title": "Love",
+      "date": "2009/08/02",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-16",
+      "number": "16",
+      "title": "Kurumi",
+      "date": "2009/08/02",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-17",
+      "number": "17",
+      "title": "Rival",
+      "date": "2009/12/12",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-18",
+      "number": "18",
+      "title": "Day Off",
+      "date": "2009/12/12",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-19",
+      "number": "19",
+      "title": "Love of 1000 Cranes",
+      "date": "2009/12/12",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-20",
+      "number": "20",
+      "title": "Big Bro Returns",
+      "date": "2009/12/12",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-21",
+      "number": "21",
+      "title": "Dream",
+      "date": "2009/12/12",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-22",
+      "number": "22",
+      "title": "Mini Skirt",
+      "date": "2009/12/12",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-23",
+      "number": "23",
+      "title": "First Snow",
+      "date": "2009/12/12",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-24",
+      "number": "24",
+      "title": "Christmas",
+      "date": "2009/12/20",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-25",
+      "number": "25",
+      "title": "Two",
+      "date": "2009/12/27",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-26",
+      "number": "26",
+      "title": "Birthday",
+      "date": "2009/12/27",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-27",
+      "number": "27",
+      "title": "New Year's",
+      "date": "2010/01/02",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-28",
+      "number": "28",
+      "title": "Valentine",
+      "date": "2010/01/02",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-29",
+      "number": "29",
+      "title": "2nd Grader",
+      "date": "2010/01/09",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-30",
+      "number": "30",
+      "title": "Forget",
+      "date": "2010/01/18",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-31",
+      "number": "31",
+      "title": "Far",
+      "date": "2010/01/18",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-32",
+      "number": "32",
+      "title": "Dont Understand",
+      "date": "2010/01/23",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-33",
+      "number": "33",
+      "title": "Run",
+      "date": "2010/01/29",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-34",
+      "number": "34",
+      "title": "Person That I Liked",
+      "date": "2010/02/08",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-35",
+      "number": "35",
+      "title": "Kindness And Annoyance",
+      "date": "2010/02/08",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-36",
+      "number": "36",
+      "title": "What Are You Looking At?",
+      "date": "2010/02/15",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-37",
+      "number": "37",
+      "title": "Just Give Up",
+      "date": "2010/02/15",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-38",
+      "number": "38",
+      "title": "Reach",
+      "date": "2010/02/26",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-39",
+      "number": "39",
+      "title": "Confess",
+      "date": "2010/03/07",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-40",
+      "number": "40",
+      "title": "The Long Long Night",
+      "date": "2010/03/20",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-41",
+      "number": "41",
+      "title": "After The Festival",
+      "date": "2010/03/20",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-42",
+      "number": "42",
+      "title": "Sawako And Kurumi",
+      "date": "2010/03/27",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-43",
+      "number": "43",
+      "title": "An All Natural Teen Story",
+      "date": "2010/04/10",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-44",
+      "number": "44",
+      "title": "Total Natural Color, Youthful Gravity",
+      "date": "2010/04/24",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-45",
+      "number": "45",
+      "title": "It is Almost Summer",
+      "date": "2010/05/30",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-46",
+      "number": "46",
+      "title": "Today",
+      "date": "2010/07/08",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-47",
+      "number": "47",
+      "title": "Summer",
+      "date": "2010/09/24",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-48",
+      "number": "48",
+      "title": "Thump",
+      "date": "2010/09/24",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-49",
+      "number": "49",
+      "title": "Hottest Manga",
+      "date": "2010/10/28",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-50",
+      "number": "50",
+      "title": "Big Voice",
+      "date": "2010/10/28",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-51",
+      "number": "51",
+      "title": "Always Yearning For You",
+      "date": "2010/12/31",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-52",
+      "number": "52",
+      "title": "The Two of Them Slowly Walked Down The Road Together",
+      "date": "2010/12/31",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-53",
+      "number": "53",
+      "title": "Even in Reality, It's Like a Dream",
+      "date": "2010/12/31",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-54",
+      "number": "54",
+      "title": "",
+      "date": "2011/02/23",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-55",
+      "number": "55",
+      "title": "The Field Trip At Kitahoro High School",
+      "date": "2011/02/23",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-56",
+      "number": "56",
+      "title": "The Field Trip At Okinawa!",
+      "date": "2011/03/24",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-57",
+      "number": "57",
+      "title": "The Third Day At The Field Trip In Okinawa!",
+      "date": "2011/04/19",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-58",
+      "number": "58",
+      "title": "",
+      "date": "2011/05/23",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-59",
+      "number": "59",
+      "title": "",
+      "date": "2011/07/10",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-60",
+      "number": "60",
+      "title": "",
+      "date": "2011/10/13",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-61",
+      "number": "61",
+      "title": "",
+      "date": "2011/10/25",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-62",
+      "number": "62",
+      "title": "Prologue",
+      "date": "2011/11/18",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-63",
+      "number": "63",
+      "title": "",
+      "date": "2011/12/15",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-64",
+      "number": "64",
+      "title": "",
+      "date": "2012/01/18",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-65",
+      "number": "65",
+      "title": "",
+      "date": "2012/02/17",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-66",
+      "number": "66",
+      "title": "",
+      "date": "2012/03/17",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-67",
+      "number": "67",
+      "title": "",
+      "date": "2012/04/16",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-68",
+      "number": "68",
+      "title": "",
+      "date": "2012/05/17",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-69",
+      "number": "69",
+      "title": "",
+      "date": "2012/06/17",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-70",
+      "number": "70",
+      "title": "",
+      "date": "2012/07/14",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-71",
+      "number": "71",
+      "title": "",
+      "date": "2012/08/18",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-72",
+      "number": "72",
+      "title": "",
+      "date": "2012/09/18",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-73",
+      "number": "73",
+      "title": "",
+      "date": "2012/10/19",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-74",
+      "number": "74",
+      "title": "",
+      "date": "2012/11/21",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-75",
+      "number": "75",
+      "title": "",
+      "date": "2012/12/19",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-76",
+      "number": "76",
+      "title": "",
+      "date": "2013/02/20",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-77",
+      "number": "77",
+      "title": "",
+      "date": "2013/03/20",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-78",
+      "number": "78",
+      "title": "",
+      "date": "2013/04/17",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-79",
+      "number": "79",
+      "title": "",
+      "date": "2013/05/21",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-80",
+      "number": "80",
+      "title": "",
+      "date": "2013/06/24",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-81",
+      "number": "81",
+      "title": "",
+      "date": "2013/07/21",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-82",
+      "number": "82",
+      "title": "",
+      "date": "2013/08/28",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-83",
+      "number": "83",
+      "title": "",
+      "date": "2013/09/26",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-84",
+      "number": "84",
+      "title": "",
+      "date": "2013/11/02",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-85",
+      "number": "85",
+      "title": "",
+      "date": "2013/12/05",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-86",
+      "number": "86",
+      "title": "",
+      "date": "2014/01/22",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-87",
+      "number": "87",
+      "title": "",
+      "date": "2014/03/16",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-88",
+      "number": "88",
+      "title": "",
+      "date": "2014/04/27",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-89",
+      "number": "89",
+      "title": "",
+      "date": "2014/05/15",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-90",
+      "number": "90",
+      "title": "",
+      "date": "2014/06/16",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-91",
+      "number": "91",
+      "title": "",
+      "date": "2014/07/28",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-92",
+      "number": "92",
+      "title": "",
+      "date": "2014/08/14",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-93",
+      "number": "93",
+      "title": "",
+      "date": "2014/10/28",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-94",
+      "number": "94",
+      "title": "",
+      "date": "2014/12/31",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-95",
+      "number": "95",
+      "title": "",
+      "date": "2015/01/08",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-96",
+      "number": "96",
+      "title": "",
+      "date": "2015/03/22",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-97",
+      "number": "97",
+      "title": "",
+      "date": "2015/05/14",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-98",
+      "number": "98",
+      "title": "",
+      "date": "2015/06/01",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-99",
+      "number": "99",
+      "title": "",
+      "date": "2015/06/10",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-100",
+      "number": "100",
+      "title": "",
+      "date": "2016/02/15",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-101",
+      "number": "101",
+      "title": "",
+      "date": "2016/02/18",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-102",
+      "number": "102",
+      "title": "",
+      "date": "2016/10/19",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-103",
+      "number": "103",
+      "title": "",
+      "date": "2017/01/30",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-104",
+      "number": "104",
+      "title": "",
+      "date": "2017/02/02",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-105",
+      "number": "105",
+      "title": "",
+      "date": "2017/02/08",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-106",
+      "number": "106",
+      "title": "",
+      "date": "2017/02/17",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-107",
+      "number": "107",
+      "title": "",
+      "date": "2017/03/03",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-108",
+      "number": "108",
+      "title": "",
+      "date": "2017/03/04",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-109",
+      "number": "109",
+      "title": "",
+      "date": "2017/03/17",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-110",
+      "number": "110",
+      "title": "",
+      "date": "2017/03/31",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-111",
+      "number": "111",
+      "title": "",
+      "date": "2017/05/05",
+      "pages": []
+    },
+    {
+      "id": "kimi-ni-todoke-112",
+      "number": "112",
+      "title": "",
+      "date": "2017/05/26",
+      "pages": []
+    }
+  ]
+}

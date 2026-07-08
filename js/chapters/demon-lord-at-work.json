@@ -1,0 +1,788 @@
+{
+  "en": [
+    {
+      "id": "demon-lord-at-work-1",
+      "number": "1",
+      "title": "Maou works part time at Sasadzuka",
+      "date": "2013/04/04",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-2",
+      "number": "2",
+      "title": "Maou receives a mysterious text",
+      "date": "2013/04/04",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-3",
+      "number": "3",
+      "title": "Maou, Dating a Kouhai",
+      "date": "2013/04/04",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-4",
+      "number": "4",
+      "title": "The Demon Lord and the Hero's Entangled Paths",
+      "date": "2013/04/04",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-5",
+      "number": "5",
+      "title": "The Hero is touched by the Kindness of humankind",
+      "date": "2013/04/04",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-6",
+      "number": "6",
+      "title": "Maou-sama Takes Them on an Excursion - Part 1",
+      "date": "2013/04/04",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-7",
+      "number": "7",
+      "title": "Maou Makes a Girl Cry without Even Knowing It",
+      "date": "2013/04/11",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-8",
+      "number": "8",
+      "title": "Maou Exposes Everything",
+      "date": "2013/05/03",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-9",
+      "number": "9",
+      "title": "Maou Collapses",
+      "date": "2013/06/03",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-10",
+      "number": "10",
+      "title": "Maou Archives Something Not Quite Epic",
+      "date": "2013/08/12",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-11",
+      "number": "11",
+      "title": "Maou Goes To Work",
+      "date": "2013/08/18",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-12",
+      "number": "12",
+      "title": "Maou Gets to Know his Neighbours",
+      "date": "2014/01/15",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-13",
+      "number": "13",
+      "title": "The Hero Makes a Background Check",
+      "date": "2014/02/05",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-14",
+      "number": "14",
+      "title": "The Demon Lord Boasts Greatly",
+      "date": "2014/04/08",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-15",
+      "number": "15",
+      "title": "The Hero Gets Asked for a Favor",
+      "date": "2014/07/21",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-16",
+      "number": "16",
+      "title": "A Confession of Love to Satan",
+      "date": "2015/03/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-17",
+      "number": "17",
+      "title": "The Hero Clears Up A Misunderstanding",
+      "date": "2015/07/03",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-18",
+      "number": "18",
+      "title": "The Hero Organizes A Hatagaya-Bound Party",
+      "date": "2015/07/03",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-19",
+      "number": "19",
+      "title": "The Hero Knows Her Position",
+      "date": "2015/07/21",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-20",
+      "number": "20",
+      "title": "The Hero Clarifies Her Work",
+      "date": "2015/07/21",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-21",
+      "number": "21",
+      "title": "The Devil King Rushes To The Rescue",
+      "date": "2015/07/28",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-22",
+      "number": "22",
+      "title": "",
+      "date": "2015/09/28",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-23",
+      "number": "23",
+      "title": "The Duties of the Devil As A Manager",
+      "date": "2015/12/24",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-24",
+      "number": "24",
+      "title": "",
+      "date": "2016/08/02",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-25",
+      "number": "25",
+      "title": "",
+      "date": "2016/08/02",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-26",
+      "number": "26",
+      "title": "",
+      "date": "2016/08/02",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-27",
+      "number": "27",
+      "title": "",
+      "date": "2016/08/02",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-28",
+      "number": "28",
+      "title": "",
+      "date": "2017/02/28",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-29",
+      "number": "29",
+      "title": "",
+      "date": "2017/02/28",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-30",
+      "number": "30",
+      "title": "",
+      "date": "2017/02/28",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-31",
+      "number": "31",
+      "title": "",
+      "date": "2017/02/28",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-32",
+      "number": "32",
+      "title": "",
+      "date": "2017/06/30",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-33",
+      "number": "33",
+      "title": "",
+      "date": "2017/06/30",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-34",
+      "number": "34",
+      "title": "",
+      "date": "2017/06/30",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-35",
+      "number": "35",
+      "title": "",
+      "date": "2017/06/30",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-36",
+      "number": "36",
+      "title": "",
+      "date": "2017/07/03",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-37",
+      "number": "37",
+      "title": "",
+      "date": "2017/07/03",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-38",
+      "number": "38",
+      "title": "",
+      "date": "2017/07/03",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-39",
+      "number": "39",
+      "title": "",
+      "date": "2017/07/11",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-40",
+      "number": "40",
+      "title": "The Devil Lands A New Job",
+      "date": "2017/08/28",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-41",
+      "number": "41",
+      "title": "The Devil Remodels A Seaside Snack Bar",
+      "date": "2017/08/28",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-42",
+      "number": "42",
+      "title": "The Devil Runs Into Something A Tad Unexpected On Kimigahama Beach",
+      "date": "2017/08/28",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-43",
+      "number": "43",
+      "title": "The Hero Lands A Telling Blow At The Beach House",
+      "date": "2017/08/28",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-44",
+      "number": "44",
+      "title": "The Devil Has A Proposal For His Boss",
+      "date": "2017/08/30",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-45",
+      "number": "45",
+      "title": "The Devil Throws His Weight Around A Little",
+      "date": "2017/08/30",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-46",
+      "number": "46",
+      "title": "The Devil Basks In The Glories Of Choshi + Bonus Manga",
+      "date": "2017/08/30",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-47",
+      "number": "47",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-48",
+      "number": "48",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-49",
+      "number": "49",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-50",
+      "number": "50",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-51",
+      "number": "51",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-52",
+      "number": "52",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-53",
+      "number": "53",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-54",
+      "number": "54",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-55",
+      "number": "55",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-56",
+      "number": "56",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-57",
+      "number": "57",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-58",
+      "number": "58",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-59",
+      "number": "59",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-60",
+      "number": "60",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-61",
+      "number": "61",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-62",
+      "number": "62",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-63",
+      "number": "63",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-64",
+      "number": "64",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-65",
+      "number": "65",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-66",
+      "number": "66",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-67",
+      "number": "67",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-68",
+      "number": "68",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-69",
+      "number": "69",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-70",
+      "number": "70",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-71",
+      "number": "71",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-72",
+      "number": "72",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-73",
+      "number": "73",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-74",
+      "number": "74",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-75",
+      "number": "75",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-76",
+      "number": "76",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-77",
+      "number": "77",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-78",
+      "number": "78",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-79",
+      "number": "79",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-80",
+      "number": "80",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-81",
+      "number": "81",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-82",
+      "number": "82",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-83",
+      "number": "83",
+      "title": "",
+      "date": "2020/04/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-84",
+      "number": "84",
+      "title": "",
+      "date": "2020/04/22",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-85",
+      "number": "85",
+      "title": "",
+      "date": "2020/06/08",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-86",
+      "number": "86",
+      "title": "",
+      "date": "2020/06/08",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-87",
+      "number": "87",
+      "title": "",
+      "date": "2020/06/08",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-88",
+      "number": "88",
+      "title": "",
+      "date": "2020/07/08",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-89",
+      "number": "89",
+      "title": "",
+      "date": "2020/09/03",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-90",
+      "number": "90",
+      "title": "",
+      "date": "2020/12/16",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-91",
+      "number": "91",
+      "title": "",
+      "date": "2020/12/16",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-92",
+      "number": "92",
+      "title": "",
+      "date": "2020/12/16",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-93",
+      "number": "93",
+      "title": "",
+      "date": "2021/02/06",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-94",
+      "number": "94",
+      "title": "",
+      "date": "2021/06/02",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-95",
+      "number": "95",
+      "title": "",
+      "date": "2021/06/11",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-96",
+      "number": "96",
+      "title": "",
+      "date": "2021/06/11",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-97",
+      "number": "97",
+      "title": "",
+      "date": "2021/07/23",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-98",
+      "number": "98",
+      "title": "",
+      "date": "2021/09/09",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-99",
+      "number": "99",
+      "title": "",
+      "date": "2021/11/25",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-100",
+      "number": "100",
+      "title": "",
+      "date": "2021/11/30",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-101",
+      "number": "101",
+      "title": "",
+      "date": "2021/12/08",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-102",
+      "number": "102",
+      "title": "",
+      "date": "2022/01/05",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-103",
+      "number": "103",
+      "title": "",
+      "date": "2022/07/19",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-104",
+      "number": "104",
+      "title": "",
+      "date": "2022/07/21",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-105",
+      "number": "105",
+      "title": "",
+      "date": "2022/08/09",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-106",
+      "number": "106",
+      "title": "",
+      "date": "2022/08/09",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-107",
+      "number": "107",
+      "title": "",
+      "date": "2022/09/24",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-108",
+      "number": "108",
+      "title": "",
+      "date": "2022/09/24",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-109",
+      "number": "109",
+      "title": "",
+      "date": "2023/02/16",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-110",
+      "number": "110",
+      "title": "",
+      "date": "2023/02/18",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-111",
+      "number": "111",
+      "title": "",
+      "date": "2023/02/20",
+      "pages": []
+    },
+    {
+      "id": "demon-lord-at-work-112",
+      "number": "112",
+      "title": "",
+      "date": "2023/02/24",
+      "pages": []
+    }
+  ]
+}

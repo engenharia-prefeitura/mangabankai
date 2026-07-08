@@ -1,0 +1,767 @@
+{
+  "en": [
+    {
+      "id": "desert-punk-1",
+      "number": "1",
+      "title": "Volume 1",
+      "date": "2011/02/18",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-2",
+      "number": "2",
+      "title": "Volume 2",
+      "date": "2011/02/18",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-3",
+      "number": "3",
+      "title": "Volume 3",
+      "date": "2011/02/18",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-4",
+      "number": "4",
+      "title": "Volume 4",
+      "date": "2011/08/04",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-5",
+      "number": "5",
+      "title": "Volume 5",
+      "date": "2011/08/04",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-6",
+      "number": "6",
+      "title": "Volume 6 Chapter 31",
+      "date": "2013/02/14",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-32",
+      "number": "32",
+      "title": "",
+      "date": "2013/03/20",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-33",
+      "number": "33",
+      "title": "",
+      "date": "2013/03/20",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-34",
+      "number": "34",
+      "title": "",
+      "date": "2013/03/20",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-35",
+      "number": "35",
+      "title": "",
+      "date": "2013/03/20",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-36",
+      "number": "36",
+      "title": "",
+      "date": "2013/03/20",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-37",
+      "number": "37",
+      "title": "",
+      "date": "2013/04/22",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-38",
+      "number": "38",
+      "title": "",
+      "date": "2013/05/04",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-39",
+      "number": "39",
+      "title": "",
+      "date": "2013/05/12",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-40",
+      "number": "40",
+      "title": "",
+      "date": "2013/06/10",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-41",
+      "number": "41",
+      "title": "",
+      "date": "2013/06/24",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-42",
+      "number": "42",
+      "title": "",
+      "date": "2013/06/24",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-43",
+      "number": "43",
+      "title": "",
+      "date": "2013/07/05",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-44",
+      "number": "44",
+      "title": "",
+      "date": "2013/07/11",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-45",
+      "number": "45",
+      "title": "",
+      "date": "2013/07/17",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-46",
+      "number": "46",
+      "title": "",
+      "date": "2013/07/24",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-47",
+      "number": "47",
+      "title": "",
+      "date": "2013/08/02",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-48",
+      "number": "48",
+      "title": "",
+      "date": "2013/08/17",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-49",
+      "number": "49",
+      "title": "",
+      "date": "2013/08/24",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-50",
+      "number": "50",
+      "title": "",
+      "date": "2013/09/08",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-51",
+      "number": "51",
+      "title": "",
+      "date": "2013/09/08",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-52",
+      "number": "52",
+      "title": "",
+      "date": "2013/09/16",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-53",
+      "number": "53",
+      "title": "",
+      "date": "2013/09/28",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-54",
+      "number": "54",
+      "title": "",
+      "date": "2013/10/20",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-55",
+      "number": "55",
+      "title": "",
+      "date": "2013/12/28",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-56",
+      "number": "56",
+      "title": "",
+      "date": "2014/01/01",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-57",
+      "number": "57",
+      "title": "",
+      "date": "2014/01/08",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-58",
+      "number": "58",
+      "title": "",
+      "date": "2014/01/19",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-59",
+      "number": "59",
+      "title": "",
+      "date": "2014/02/01",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-60",
+      "number": "60",
+      "title": "",
+      "date": "2014/03/16",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-61",
+      "number": "61",
+      "title": "",
+      "date": "2014/08/24",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-62",
+      "number": "62",
+      "title": "",
+      "date": "2015/02/09",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-63",
+      "number": "63",
+      "title": "",
+      "date": "2015/02/10",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-64",
+      "number": "64",
+      "title": "",
+      "date": "2015/02/10",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-65",
+      "number": "65",
+      "title": "",
+      "date": "2015/02/10",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-66",
+      "number": "66",
+      "title": "",
+      "date": "2015/02/12",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-67",
+      "number": "67",
+      "title": "",
+      "date": "2015/02/12",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-68",
+      "number": "68",
+      "title": "",
+      "date": "2015/02/15",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-69",
+      "number": "69",
+      "title": "",
+      "date": "2015/02/15",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-70",
+      "number": "70",
+      "title": "",
+      "date": "2015/02/15",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-71",
+      "number": "71",
+      "title": "",
+      "date": "2015/02/15",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-72",
+      "number": "72",
+      "title": "",
+      "date": "2015/02/20",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-73",
+      "number": "73",
+      "title": "",
+      "date": "2015/02/20",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-74",
+      "number": "74",
+      "title": "",
+      "date": "2015/02/20",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-75",
+      "number": "75",
+      "title": "",
+      "date": "2015/02/22",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-76",
+      "number": "76",
+      "title": "",
+      "date": "2015/02/22",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-77",
+      "number": "77",
+      "title": "",
+      "date": "2015/02/22",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-78",
+      "number": "78",
+      "title": "",
+      "date": "2015/02/26",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-79",
+      "number": "79",
+      "title": "",
+      "date": "2015/02/26",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-80",
+      "number": "80",
+      "title": "",
+      "date": "2015/03/03",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-81",
+      "number": "81",
+      "title": "",
+      "date": "2015/03/12",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-82",
+      "number": "82",
+      "title": "",
+      "date": "2016/03/02",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-83",
+      "number": "83",
+      "title": "",
+      "date": "2016/03/07",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-84",
+      "number": "84",
+      "title": "",
+      "date": "2016/03/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-85",
+      "number": "85",
+      "title": "",
+      "date": "2016/03/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-86",
+      "number": "86",
+      "title": "",
+      "date": "2016/03/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-87",
+      "number": "87",
+      "title": "",
+      "date": "2017/03/22",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-88",
+      "number": "88",
+      "title": "",
+      "date": "2017/03/22",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-89",
+      "number": "89",
+      "title": "",
+      "date": "2017/03/22",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-90",
+      "number": "90",
+      "title": "",
+      "date": "2017/03/22",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-91",
+      "number": "91",
+      "title": "",
+      "date": "2017/05/24",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-92",
+      "number": "92",
+      "title": "",
+      "date": "2017/05/24",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-93",
+      "number": "93",
+      "title": "",
+      "date": "2017/05/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-94",
+      "number": "94",
+      "title": "",
+      "date": "2018/04/16",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-95",
+      "number": "95",
+      "title": "",
+      "date": "2018/04/16",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-96",
+      "number": "96",
+      "title": "",
+      "date": "2018/04/16",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-97",
+      "number": "97",
+      "title": "",
+      "date": "2018/07/16",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-98",
+      "number": "98",
+      "title": "",
+      "date": "2018/07/16",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-99",
+      "number": "99",
+      "title": "",
+      "date": "2018/07/16",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-100",
+      "number": "100",
+      "title": "",
+      "date": "2018/07/16",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-101",
+      "number": "101",
+      "title": "",
+      "date": "2018/07/16",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-102",
+      "number": "102",
+      "title": "",
+      "date": "2018/07/16",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-103",
+      "number": "103",
+      "title": "",
+      "date": "2018/07/16",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-104",
+      "number": "104",
+      "title": "",
+      "date": "2021/08/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-105",
+      "number": "105",
+      "title": "",
+      "date": "2021/08/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-106",
+      "number": "106",
+      "title": "",
+      "date": "2021/08/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-107",
+      "number": "107",
+      "title": "",
+      "date": "2021/08/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-108",
+      "number": "108",
+      "title": "",
+      "date": "2021/08/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-109",
+      "number": "109",
+      "title": "",
+      "date": "2021/08/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-110",
+      "number": "110",
+      "title": "",
+      "date": "2021/08/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-111",
+      "number": "111",
+      "title": "",
+      "date": "2021/08/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-112",
+      "number": "112",
+      "title": "",
+      "date": "2021/08/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-113",
+      "number": "113",
+      "title": "",
+      "date": "2021/08/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-114",
+      "number": "114",
+      "title": "",
+      "date": "2021/08/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-115",
+      "number": "115",
+      "title": "",
+      "date": "2021/08/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-116",
+      "number": "116",
+      "title": "",
+      "date": "2021/08/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-117",
+      "number": "117",
+      "title": "",
+      "date": "2021/08/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-118",
+      "number": "118",
+      "title": "",
+      "date": "2021/08/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-119",
+      "number": "119",
+      "title": "",
+      "date": "2021/08/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-120",
+      "number": "120",
+      "title": "",
+      "date": "2021/08/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-121",
+      "number": "121",
+      "title": "",
+      "date": "2021/08/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-122",
+      "number": "122",
+      "title": "",
+      "date": "2021/08/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-123",
+      "number": "123",
+      "title": "",
+      "date": "2021/08/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-124",
+      "number": "124",
+      "title": "",
+      "date": "2021/08/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-125",
+      "number": "125",
+      "title": "",
+      "date": "2021/08/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-126",
+      "number": "126",
+      "title": "",
+      "date": "2021/08/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-127",
+      "number": "127",
+      "title": "",
+      "date": "2021/08/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-128",
+      "number": "128",
+      "title": "",
+      "date": "2021/08/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-129",
+      "number": "129",
+      "title": "",
+      "date": "2021/08/30",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-130",
+      "number": "130",
+      "title": "",
+      "date": "2024/01/26",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-131",
+      "number": "131",
+      "title": "",
+      "date": "2024/01/26",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-132",
+      "number": "132",
+      "title": "",
+      "date": "2024/02/22",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-133",
+      "number": "133",
+      "title": "",
+      "date": "2024/03/14",
+      "pages": []
+    },
+    {
+      "id": "desert-punk-139",
+      "number": "139",
+      "title": "",
+      "date": "2024/03/31",
+      "pages": []
+    }
+  ]
+}

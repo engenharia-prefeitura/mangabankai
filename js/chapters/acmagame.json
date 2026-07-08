@@ -1,0 +1,536 @@
+{
+  "en": [
+    {
+      "id": "acmagame-1",
+      "number": "1",
+      "title": "",
+      "date": "2017/12/11",
+      "pages": []
+    },
+    {
+      "id": "acmagame-2",
+      "number": "2",
+      "title": "",
+      "date": "2018/03/25",
+      "pages": []
+    },
+    {
+      "id": "acmagame-3",
+      "number": "3",
+      "title": "",
+      "date": "2018/03/25",
+      "pages": []
+    },
+    {
+      "id": "acmagame-4",
+      "number": "4",
+      "title": "",
+      "date": "2018/04/25",
+      "pages": []
+    },
+    {
+      "id": "acmagame-5",
+      "number": "5",
+      "title": "",
+      "date": "2018/04/25",
+      "pages": []
+    },
+    {
+      "id": "acmagame-6",
+      "number": "6",
+      "title": "",
+      "date": "2018/05/15",
+      "pages": []
+    },
+    {
+      "id": "acmagame-7",
+      "number": "7",
+      "title": "",
+      "date": "2018/06/27",
+      "pages": []
+    },
+    {
+      "id": "acmagame-8",
+      "number": "8",
+      "title": "",
+      "date": "2018/06/27",
+      "pages": []
+    },
+    {
+      "id": "acmagame-9",
+      "number": "9",
+      "title": "",
+      "date": "2018/11/14",
+      "pages": []
+    },
+    {
+      "id": "acmagame-10",
+      "number": "10",
+      "title": "",
+      "date": "2018/11/14",
+      "pages": []
+    },
+    {
+      "id": "acmagame-11",
+      "number": "11",
+      "title": "",
+      "date": "2018/11/14",
+      "pages": []
+    },
+    {
+      "id": "acmagame-12",
+      "number": "12",
+      "title": "",
+      "date": "2018/11/14",
+      "pages": []
+    },
+    {
+      "id": "acmagame-13",
+      "number": "13",
+      "title": "",
+      "date": "2018/11/14",
+      "pages": []
+    },
+    {
+      "id": "acmagame-14",
+      "number": "14",
+      "title": "",
+      "date": "2018/11/14",
+      "pages": []
+    },
+    {
+      "id": "acmagame-15",
+      "number": "15",
+      "title": "",
+      "date": "2018/12/05",
+      "pages": []
+    },
+    {
+      "id": "acmagame-16",
+      "number": "16",
+      "title": "",
+      "date": "2019/01/02",
+      "pages": []
+    },
+    {
+      "id": "acmagame-17",
+      "number": "17",
+      "title": "Genius Gambler",
+      "date": "2019/01/02",
+      "pages": []
+    },
+    {
+      "id": "acmagame-18",
+      "number": "18",
+      "title": "Completely Exposed",
+      "date": "2019/01/02",
+      "pages": []
+    },
+    {
+      "id": "acmagame-19",
+      "number": "19",
+      "title": "Making",
+      "date": "2019/01/30",
+      "pages": []
+    },
+    {
+      "id": "acmagame-20",
+      "number": "20",
+      "title": "",
+      "date": "2019/02/11",
+      "pages": []
+    },
+    {
+      "id": "acmagame-21",
+      "number": "21",
+      "title": "",
+      "date": "2019/02/26",
+      "pages": []
+    },
+    {
+      "id": "acmagame-22",
+      "number": "22",
+      "title": "Man Up",
+      "date": "2019/03/14",
+      "pages": []
+    },
+    {
+      "id": "acmagame-23",
+      "number": "23",
+      "title": "",
+      "date": "2019/04/03",
+      "pages": []
+    },
+    {
+      "id": "acmagame-24",
+      "number": "24",
+      "title": "",
+      "date": "2019/04/09",
+      "pages": []
+    },
+    {
+      "id": "acmagame-25",
+      "number": "25",
+      "title": "",
+      "date": "2019/07/01",
+      "pages": []
+    },
+    {
+      "id": "acmagame-26",
+      "number": "26",
+      "title": "Family",
+      "date": "2019/09/10",
+      "pages": []
+    },
+    {
+      "id": "acmagame-27",
+      "number": "27",
+      "title": "Gungnir",
+      "date": "2019/11/26",
+      "pages": []
+    },
+    {
+      "id": "acmagame-28",
+      "number": "28",
+      "title": "Resolution",
+      "date": "2019/12/25",
+      "pages": []
+    },
+    {
+      "id": "acmagame-29",
+      "number": "29",
+      "title": "Leave of Absence",
+      "date": "2020/04/10",
+      "pages": []
+    },
+    {
+      "id": "acmagame-30",
+      "number": "30",
+      "title": "Contact",
+      "date": "2020/04/27",
+      "pages": []
+    },
+    {
+      "id": "acmagame-31",
+      "number": "31",
+      "title": "The Guide",
+      "date": "2020/05/13",
+      "pages": []
+    },
+    {
+      "id": "acmagame-32",
+      "number": "32",
+      "title": "1%",
+      "date": "2020/09/26",
+      "pages": []
+    },
+    {
+      "id": "acmagame-33",
+      "number": "33",
+      "title": "Great Justice",
+      "date": "2020/10/10",
+      "pages": []
+    },
+    {
+      "id": "acmagame-34",
+      "number": "34",
+      "title": "A Necessary Sacrifice",
+      "date": "2020/10/16",
+      "pages": []
+    },
+    {
+      "id": "acmagame-35",
+      "number": "35",
+      "title": "Hundred Contest",
+      "date": "2020/11/20",
+      "pages": []
+    },
+    {
+      "id": "acmagame-36",
+      "number": "36",
+      "title": "Certain Victory",
+      "date": "2020/11/20",
+      "pages": []
+    },
+    {
+      "id": "acmagame-37",
+      "number": "37",
+      "title": "Crucial Time",
+      "date": "2020/12/03",
+      "pages": []
+    },
+    {
+      "id": "acmagame-38",
+      "number": "38",
+      "title": "Patient",
+      "date": "2021/01/01",
+      "pages": []
+    },
+    {
+      "id": "acmagame-39",
+      "number": "39",
+      "title": "The Experience of Defeat",
+      "date": "2021/01/01",
+      "pages": []
+    },
+    {
+      "id": "acmagame-40",
+      "number": "40",
+      "title": "The Real Deal",
+      "date": "2021/01/16",
+      "pages": []
+    },
+    {
+      "id": "acmagame-41",
+      "number": "41",
+      "title": "Memory",
+      "date": "2021/03/10",
+      "pages": []
+    },
+    {
+      "id": "acmagame-42",
+      "number": "42",
+      "title": "After Nagakute's Match",
+      "date": "2021/07/08",
+      "pages": []
+    },
+    {
+      "id": "acmagame-43",
+      "number": "43",
+      "title": "Massacre",
+      "date": "2021/07/08",
+      "pages": []
+    },
+    {
+      "id": "acmagame-44",
+      "number": "44",
+      "title": "Strategy Meeting",
+      "date": "2021/07/08",
+      "pages": []
+    },
+    {
+      "id": "acmagame-45",
+      "number": "45",
+      "title": "The Ghost of a Best Friend",
+      "date": "2021/07/08",
+      "pages": []
+    },
+    {
+      "id": "acmagame-46",
+      "number": "46",
+      "title": "Hostage",
+      "date": "2021/07/29",
+      "pages": []
+    },
+    {
+      "id": "acmagame-47",
+      "number": "47",
+      "title": "Shikibe Yukari",
+      "date": "2021/09/05",
+      "pages": []
+    },
+    {
+      "id": "acmagame-48",
+      "number": "48",
+      "title": "Tournament Start",
+      "date": "2021/09/20",
+      "pages": []
+    },
+    {
+      "id": "acmagame-49",
+      "number": "49",
+      "title": "Hide and See",
+      "date": "2021/12/05",
+      "pages": []
+    },
+    {
+      "id": "acmagame-50",
+      "number": "50",
+      "title": "Acting Ability",
+      "date": "2022/01/21",
+      "pages": []
+    },
+    {
+      "id": "acmagame-51",
+      "number": "51",
+      "title": "Fake Plan",
+      "date": "2022/03/18",
+      "pages": []
+    },
+    {
+      "id": "acmagame-52",
+      "number": "52",
+      "title": "Cloning and Invisibility",
+      "date": "2022/06/15",
+      "pages": []
+    },
+    {
+      "id": "acmagame-53",
+      "number": "53",
+      "title": "Limit",
+      "date": "2022/07/08",
+      "pages": []
+    },
+    {
+      "id": "acmagame-54",
+      "number": "54",
+      "title": "",
+      "date": "2022/08/08",
+      "pages": []
+    },
+    {
+      "id": "acmagame-55",
+      "number": "55",
+      "title": "",
+      "date": "2022/08/08",
+      "pages": []
+    },
+    {
+      "id": "acmagame-56",
+      "number": "56",
+      "title": "",
+      "date": "2022/09/20",
+      "pages": []
+    },
+    {
+      "id": "acmagame-57",
+      "number": "57",
+      "title": "",
+      "date": "2022/09/20",
+      "pages": []
+    },
+    {
+      "id": "acmagame-58",
+      "number": "58",
+      "title": "",
+      "date": "2022/12/03",
+      "pages": []
+    },
+    {
+      "id": "acmagame-59",
+      "number": "59",
+      "title": "",
+      "date": "2023/04/29",
+      "pages": []
+    },
+    {
+      "id": "acmagame-60",
+      "number": "60",
+      "title": "",
+      "date": "2023/12/26",
+      "pages": []
+    },
+    {
+      "id": "acmagame-61",
+      "number": "61",
+      "title": "",
+      "date": "2023/12/26",
+      "pages": []
+    },
+    {
+      "id": "acmagame-62",
+      "number": "62",
+      "title": "",
+      "date": "2024/04/29",
+      "pages": []
+    },
+    {
+      "id": "acmagame-63",
+      "number": "63",
+      "title": "",
+      "date": "2024/04/29",
+      "pages": []
+    },
+    {
+      "id": "acmagame-64",
+      "number": "64",
+      "title": "",
+      "date": "2024/04/29",
+      "pages": []
+    },
+    {
+      "id": "acmagame-65",
+      "number": "65",
+      "title": "",
+      "date": "2024/04/29",
+      "pages": []
+    },
+    {
+      "id": "acmagame-66",
+      "number": "66",
+      "title": "",
+      "date": "2024/04/29",
+      "pages": []
+    },
+    {
+      "id": "acmagame-67",
+      "number": "67",
+      "title": "",
+      "date": "2024/04/29",
+      "pages": []
+    },
+    {
+      "id": "acmagame-68",
+      "number": "68",
+      "title": "",
+      "date": "2024/04/29",
+      "pages": []
+    },
+    {
+      "id": "acmagame-69",
+      "number": "69",
+      "title": "",
+      "date": "2024/04/29",
+      "pages": []
+    },
+    {
+      "id": "acmagame-70",
+      "number": "70",
+      "title": "",
+      "date": "2024/04/29",
+      "pages": []
+    },
+    {
+      "id": "acmagame-71",
+      "number": "71",
+      "title": "",
+      "date": "2024/04/30",
+      "pages": []
+    },
+    {
+      "id": "acmagame-72",
+      "number": "72",
+      "title": "",
+      "date": "2024/04/30",
+      "pages": []
+    },
+    {
+      "id": "acmagame-73",
+      "number": "73",
+      "title": "",
+      "date": "2024/04/30",
+      "pages": []
+    },
+    {
+      "id": "acmagame-74",
+      "number": "74",
+      "title": "",
+      "date": "2024/04/30",
+      "pages": []
+    },
+    {
+      "id": "acmagame-75",
+      "number": "75",
+      "title": "",
+      "date": "2024/04/30",
+      "pages": []
+    },
+    {
+      "id": "acmagame-76",
+      "number": "76",
+      "title": "",
+      "date": "2024/04/30",
+      "pages": []
+    }
+  ]
+}

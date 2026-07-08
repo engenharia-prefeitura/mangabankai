@@ -1,0 +1,634 @@
+{
+  "en": [
+    {
+      "id": "helck-1",
+      "number": "1",
+      "title": "Hero Helck",
+      "date": "2015/12/27",
+      "pages": []
+    },
+    {
+      "id": "helck-2",
+      "number": "2",
+      "title": "Card Tower",
+      "date": "2015/12/27",
+      "pages": []
+    },
+    {
+      "id": "helck-3",
+      "number": "3",
+      "title": "Unforeseen Situation",
+      "date": "2015/12/27",
+      "pages": []
+    },
+    {
+      "id": "helck-4",
+      "number": "4",
+      "title": "Racing Match",
+      "date": "2015/12/27",
+      "pages": []
+    },
+    {
+      "id": "helck-5",
+      "number": "5",
+      "title": "Proposition",
+      "date": "2015/12/27",
+      "pages": []
+    },
+    {
+      "id": "helck-6",
+      "number": "6",
+      "title": "Management Staff Anne",
+      "date": "2015/12/27",
+      "pages": []
+    },
+    {
+      "id": "helck-7",
+      "number": "7",
+      "title": "Devastated Land",
+      "date": "2015/12/27",
+      "pages": []
+    },
+    {
+      "id": "helck-8",
+      "number": "8",
+      "title": "Abandoned Underground Passage",
+      "date": "2015/12/27",
+      "pages": []
+    },
+    {
+      "id": "helck-9",
+      "number": "9",
+      "title": "Unknown Enemy, Winged Soldiers",
+      "date": "2015/12/27",
+      "pages": []
+    },
+    {
+      "id": "helck-10",
+      "number": "10",
+      "title": "Shock",
+      "date": "2015/12/27",
+      "pages": []
+    },
+    {
+      "id": "helck-11",
+      "number": "11",
+      "title": "Hyura of the Aharudo Race",
+      "date": "2015/12/27",
+      "pages": []
+    },
+    {
+      "id": "helck-12",
+      "number": "12",
+      "title": "Gate",
+      "date": "2015/12/27",
+      "pages": []
+    },
+    {
+      "id": "helck-13",
+      "number": "13",
+      "title": "Ocean",
+      "date": "2015/12/29",
+      "pages": []
+    },
+    {
+      "id": "helck-14",
+      "number": "14",
+      "title": "Speculation",
+      "date": "2015/12/29",
+      "pages": []
+    },
+    {
+      "id": "helck-15",
+      "number": "15",
+      "title": "The Village in a Remote Island",
+      "date": "2015/12/29",
+      "pages": []
+    },
+    {
+      "id": "helck-16",
+      "number": "16",
+      "title": "At the Campfire",
+      "date": "2015/12/29",
+      "pages": []
+    },
+    {
+      "id": "helck-17",
+      "number": "17",
+      "title": "Attack, Winged Soldiers",
+      "date": "2015/12/29",
+      "pages": []
+    },
+    {
+      "id": "helck-18",
+      "number": "18",
+      "title": "Azudora of the Four Heavenly Kings",
+      "date": "2015/12/29",
+      "pages": []
+    },
+    {
+      "id": "helck-19",
+      "number": "19",
+      "title": "The Human King",
+      "date": "2015/12/31",
+      "pages": []
+    },
+    {
+      "id": "helck-20",
+      "number": "20",
+      "title": "Strategy Meeting",
+      "date": "2016/01/02",
+      "pages": []
+    },
+    {
+      "id": "helck-21",
+      "number": "21",
+      "title": "Endeavor",
+      "date": "2016/01/02",
+      "pages": []
+    },
+    {
+      "id": "helck-22",
+      "number": "22",
+      "title": "Witch-sama",
+      "date": "2016/01/02",
+      "pages": []
+    },
+    {
+      "id": "helck-23",
+      "number": "23",
+      "title": "To the Continent",
+      "date": "2016/01/02",
+      "pages": []
+    },
+    {
+      "id": "helck-24",
+      "number": "24",
+      "title": "Sea Monster",
+      "date": "2016/01/04",
+      "pages": []
+    },
+    {
+      "id": "helck-25",
+      "number": "25",
+      "title": "Goal",
+      "date": "2016/01/04",
+      "pages": []
+    },
+    {
+      "id": "helck-26",
+      "number": "26",
+      "title": "Barbarian Tribe Toosu-men",
+      "date": "2016/01/04",
+      "pages": []
+    },
+    {
+      "id": "helck-27",
+      "number": "27",
+      "title": "Toosu-men King's Power",
+      "date": "2016/01/04",
+      "pages": []
+    },
+    {
+      "id": "helck-28",
+      "number": "28",
+      "title": "Omen",
+      "date": "2016/01/04",
+      "pages": []
+    },
+    {
+      "id": "helck-31",
+      "number": "31",
+      "title": "",
+      "date": "2016/01/07",
+      "pages": []
+    },
+    {
+      "id": "helck-32",
+      "number": "32",
+      "title": "",
+      "date": "2016/01/07",
+      "pages": []
+    },
+    {
+      "id": "helck-33",
+      "number": "33",
+      "title": "",
+      "date": "2016/01/07",
+      "pages": []
+    },
+    {
+      "id": "helck-34",
+      "number": "34",
+      "title": "",
+      "date": "2016/01/09",
+      "pages": []
+    },
+    {
+      "id": "helck-35",
+      "number": "35",
+      "title": "",
+      "date": "2016/01/09",
+      "pages": []
+    },
+    {
+      "id": "helck-36",
+      "number": "36",
+      "title": "",
+      "date": "2016/01/10",
+      "pages": []
+    },
+    {
+      "id": "helck-37",
+      "number": "37",
+      "title": "",
+      "date": "2016/01/10",
+      "pages": []
+    },
+    {
+      "id": "helck-38",
+      "number": "38",
+      "title": "",
+      "date": "2016/01/12",
+      "pages": []
+    },
+    {
+      "id": "helck-39",
+      "number": "39",
+      "title": "",
+      "date": "2016/01/12",
+      "pages": []
+    },
+    {
+      "id": "helck-40",
+      "number": "40",
+      "title": "",
+      "date": "2016/01/12",
+      "pages": []
+    },
+    {
+      "id": "helck-41",
+      "number": "41",
+      "title": "",
+      "date": "2016/01/13",
+      "pages": []
+    },
+    {
+      "id": "helck-42",
+      "number": "42",
+      "title": "",
+      "date": "2016/01/13",
+      "pages": []
+    },
+    {
+      "id": "helck-43",
+      "number": "43",
+      "title": "",
+      "date": "2016/01/13",
+      "pages": []
+    },
+    {
+      "id": "helck-44",
+      "number": "44",
+      "title": "",
+      "date": "2016/01/13",
+      "pages": []
+    },
+    {
+      "id": "helck-45",
+      "number": "45",
+      "title": "",
+      "date": "2016/01/14",
+      "pages": []
+    },
+    {
+      "id": "helck-46",
+      "number": "46",
+      "title": "",
+      "date": "2016/01/14",
+      "pages": []
+    },
+    {
+      "id": "helck-47",
+      "number": "47",
+      "title": "",
+      "date": "2016/01/14",
+      "pages": []
+    },
+    {
+      "id": "helck-48",
+      "number": "48",
+      "title": "",
+      "date": "2016/01/14",
+      "pages": []
+    },
+    {
+      "id": "helck-49",
+      "number": "49",
+      "title": "",
+      "date": "2016/01/14",
+      "pages": []
+    },
+    {
+      "id": "helck-50",
+      "number": "50",
+      "title": "",
+      "date": "2016/01/15",
+      "pages": []
+    },
+    {
+      "id": "helck-51",
+      "number": "51",
+      "title": "",
+      "date": "2016/01/15",
+      "pages": []
+    },
+    {
+      "id": "helck-52",
+      "number": "52",
+      "title": "",
+      "date": "2016/01/15",
+      "pages": []
+    },
+    {
+      "id": "helck-53",
+      "number": "53",
+      "title": "",
+      "date": "2016/01/18",
+      "pages": []
+    },
+    {
+      "id": "helck-54",
+      "number": "54",
+      "title": "",
+      "date": "2016/01/18",
+      "pages": []
+    },
+    {
+      "id": "helck-55",
+      "number": "55",
+      "title": "",
+      "date": "2016/01/18",
+      "pages": []
+    },
+    {
+      "id": "helck-56",
+      "number": "56",
+      "title": "",
+      "date": "2016/01/18",
+      "pages": []
+    },
+    {
+      "id": "helck-57",
+      "number": "57",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "helck-58",
+      "number": "58",
+      "title": "",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "helck-59",
+      "number": "59",
+      "title": "",
+      "date": "2016/01/31",
+      "pages": []
+    },
+    {
+      "id": "helck-60",
+      "number": "60",
+      "title": "",
+      "date": "2016/01/31",
+      "pages": []
+    },
+    {
+      "id": "helck-61",
+      "number": "61",
+      "title": "",
+      "date": "2016/02/09",
+      "pages": []
+    },
+    {
+      "id": "helck-62",
+      "number": "62",
+      "title": "",
+      "date": "2016/02/09",
+      "pages": []
+    },
+    {
+      "id": "helck-63",
+      "number": "63",
+      "title": "",
+      "date": "2016/02/22",
+      "pages": []
+    },
+    {
+      "id": "helck-64",
+      "number": "64",
+      "title": "",
+      "date": "2016/03/14",
+      "pages": []
+    },
+    {
+      "id": "helck-65",
+      "number": "65",
+      "title": "",
+      "date": "2016/04/05",
+      "pages": []
+    },
+    {
+      "id": "helck-66",
+      "number": "66",
+      "title": "",
+      "date": "2016/04/11",
+      "pages": []
+    },
+    {
+      "id": "helck-67",
+      "number": "67",
+      "title": "",
+      "date": "2016/04/20",
+      "pages": []
+    },
+    {
+      "id": "helck-68",
+      "number": "68",
+      "title": "",
+      "date": "2016/04/25",
+      "pages": []
+    },
+    {
+      "id": "helck-69",
+      "number": "69",
+      "title": "",
+      "date": "2016/05/25",
+      "pages": []
+    },
+    {
+      "id": "helck-70",
+      "number": "70",
+      "title": "",
+      "date": "2016/05/25",
+      "pages": []
+    },
+    {
+      "id": "helck-71",
+      "number": "71",
+      "title": "",
+      "date": "2016/06/16",
+      "pages": []
+    },
+    {
+      "id": "helck-72",
+      "number": "72",
+      "title": "",
+      "date": "2016/07/04",
+      "pages": []
+    },
+    {
+      "id": "helck-73",
+      "number": "73",
+      "title": "",
+      "date": "2016/07/14",
+      "pages": []
+    },
+    {
+      "id": "helck-74",
+      "number": "74",
+      "title": "",
+      "date": "2016/07/25",
+      "pages": []
+    },
+    {
+      "id": "helck-75",
+      "number": "75",
+      "title": "",
+      "date": "2016/08/17",
+      "pages": []
+    },
+    {
+      "id": "helck-76",
+      "number": "76",
+      "title": "",
+      "date": "2016/08/26",
+      "pages": []
+    },
+    {
+      "id": "helck-77",
+      "number": "77",
+      "title": "",
+      "date": "2016/10/04",
+      "pages": []
+    },
+    {
+      "id": "helck-78",
+      "number": "78",
+      "title": "",
+      "date": "2016/11/19",
+      "pages": []
+    },
+    {
+      "id": "helck-79",
+      "number": "79",
+      "title": "",
+      "date": "2016/12/18",
+      "pages": []
+    },
+    {
+      "id": "helck-80",
+      "number": "80",
+      "title": "",
+      "date": "2016/12/27",
+      "pages": []
+    },
+    {
+      "id": "helck-81",
+      "number": "81",
+      "title": "",
+      "date": "2016/12/27",
+      "pages": []
+    },
+    {
+      "id": "helck-82",
+      "number": "82",
+      "title": "",
+      "date": "2017/01/25",
+      "pages": []
+    },
+    {
+      "id": "helck-83",
+      "number": "83",
+      "title": "",
+      "date": "2017/01/25",
+      "pages": []
+    },
+    {
+      "id": "helck-84",
+      "number": "84",
+      "title": "",
+      "date": "2017/01/25",
+      "pages": []
+    },
+    {
+      "id": "helck-85",
+      "number": "85",
+      "title": "",
+      "date": "2017/01/25",
+      "pages": []
+    },
+    {
+      "id": "helck-86",
+      "number": "86",
+      "title": "",
+      "date": "2017/01/25",
+      "pages": []
+    },
+    {
+      "id": "helck-87",
+      "number": "87",
+      "title": "",
+      "date": "2017/01/25",
+      "pages": []
+    },
+    {
+      "id": "helck-88",
+      "number": "88",
+      "title": "",
+      "date": "2017/02/06",
+      "pages": []
+    },
+    {
+      "id": "helck-89",
+      "number": "89",
+      "title": "",
+      "date": "2017/02/20",
+      "pages": []
+    },
+    {
+      "id": "helck-90",
+      "number": "90",
+      "title": "",
+      "date": "2017/03/06",
+      "pages": []
+    },
+    {
+      "id": "helck-91",
+      "number": "91",
+      "title": "",
+      "date": "2017/03/20",
+      "pages": []
+    },
+    {
+      "id": "helck-93",
+      "number": "93",
+      "title": "",
+      "date": "2017/06/07",
+      "pages": []
+    }
+  ]
+}

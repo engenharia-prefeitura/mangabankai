@@ -1,0 +1,599 @@
+{
+  "en": [
+    {
+      "id": "arago-1",
+      "number": "1",
+      "title": "",
+      "date": "2009/12/26",
+      "pages": []
+    },
+    {
+      "id": "arago-2",
+      "number": "2",
+      "title": "2",
+      "date": "2010/01/08",
+      "pages": []
+    },
+    {
+      "id": "arago-3",
+      "number": "3",
+      "title": "Rio",
+      "date": "2010/01/17",
+      "pages": []
+    },
+    {
+      "id": "arago-4",
+      "number": "4",
+      "title": "Destination of The Ghost Bus",
+      "date": "2010/01/23",
+      "pages": []
+    },
+    {
+      "id": "arago-5",
+      "number": "5",
+      "title": "The Things I Want To Protect",
+      "date": "2010/01/29",
+      "pages": []
+    },
+    {
+      "id": "arago-6",
+      "number": "6",
+      "title": "Ewan`s Shadow",
+      "date": "2010/02/05",
+      "pages": []
+    },
+    {
+      "id": "arago-7",
+      "number": "7",
+      "title": "",
+      "date": "2010/02/12",
+      "pages": []
+    },
+    {
+      "id": "arago-8",
+      "number": "8",
+      "title": "True Chracter Revealed",
+      "date": "2010/02/16",
+      "pages": []
+    },
+    {
+      "id": "arago-9",
+      "number": "9",
+      "title": "Vim Patior",
+      "date": "2010/02/27",
+      "pages": []
+    },
+    {
+      "id": "arago-10",
+      "number": "10",
+      "title": "Second Case",
+      "date": "2010/03/02",
+      "pages": []
+    },
+    {
+      "id": "arago-11",
+      "number": "11",
+      "title": "The Cult Has Captured Arago",
+      "date": "2010/03/15",
+      "pages": []
+    },
+    {
+      "id": "arago-12",
+      "number": "12",
+      "title": "The Treasure of Erin",
+      "date": "2010/03/22",
+      "pages": []
+    },
+    {
+      "id": "arago-13",
+      "number": "13",
+      "title": "Brionac`s Power",
+      "date": "2010/03/28",
+      "pages": []
+    },
+    {
+      "id": "arago-14",
+      "number": "14",
+      "title": "The Arrowhead of Fairies",
+      "date": "2010/04/03",
+      "pages": []
+    },
+    {
+      "id": "arago-15",
+      "number": "15",
+      "title": "The Grey Museum",
+      "date": "2010/04/12",
+      "pages": []
+    },
+    {
+      "id": "arago-16",
+      "number": "16",
+      "title": "Joe`s Past",
+      "date": "2010/04/18",
+      "pages": []
+    },
+    {
+      "id": "arago-17",
+      "number": "17",
+      "title": "Joe, Has He Mistaken Arago For Patchman...?",
+      "date": "2010/04/27",
+      "pages": []
+    },
+    {
+      "id": "arago-18",
+      "number": "18",
+      "title": "Teamwork",
+      "date": "2010/05/03",
+      "pages": []
+    },
+    {
+      "id": "arago-19",
+      "number": "19",
+      "title": "I am Sorry",
+      "date": "2010/05/22",
+      "pages": []
+    },
+    {
+      "id": "arago-20",
+      "number": "20",
+      "title": "The Return of the King",
+      "date": "2010/05/27",
+      "pages": []
+    },
+    {
+      "id": "arago-21",
+      "number": "21",
+      "title": "Resurrection",
+      "date": "2010/05/31",
+      "pages": []
+    },
+    {
+      "id": "arago-22",
+      "number": "22",
+      "title": "Divided Seed",
+      "date": "2010/06/08",
+      "pages": []
+    },
+    {
+      "id": "arago-23",
+      "number": "23",
+      "title": "It's Really Him",
+      "date": "2010/06/20",
+      "pages": []
+    },
+    {
+      "id": "arago-24",
+      "number": "24",
+      "title": "Seth's Prediction",
+      "date": "2010/06/25",
+      "pages": []
+    },
+    {
+      "id": "arago-25",
+      "number": "25",
+      "title": "Coco E Colo",
+      "date": "2010/06/27",
+      "pages": []
+    },
+    {
+      "id": "arago-26",
+      "number": "26",
+      "title": "Not Bad",
+      "date": "2010/07/05",
+      "pages": []
+    },
+    {
+      "id": "arago-27",
+      "number": "27",
+      "title": "A Date On The Day Off",
+      "date": "2010/07/14",
+      "pages": []
+    },
+    {
+      "id": "arago-28",
+      "number": "28",
+      "title": "Tell Me!",
+      "date": "2010/07/20",
+      "pages": []
+    },
+    {
+      "id": "arago-29",
+      "number": "29",
+      "title": "Even Though I",
+      "date": "2010/07/30",
+      "pages": []
+    },
+    {
+      "id": "arago-30",
+      "number": "30",
+      "title": "Dont Touch Her",
+      "date": "2010/08/04",
+      "pages": []
+    },
+    {
+      "id": "arago-31",
+      "number": "31",
+      "title": "Out of Control",
+      "date": "2010/08/11",
+      "pages": []
+    },
+    {
+      "id": "arago-32",
+      "number": "32",
+      "title": "Looking Out For Me",
+      "date": "2010/08/26",
+      "pages": []
+    },
+    {
+      "id": "arago-33",
+      "number": "33",
+      "title": "Monster of Legends",
+      "date": "2010/09/02",
+      "pages": []
+    },
+    {
+      "id": "arago-34",
+      "number": "34",
+      "title": "Incredibly Fierce - Incredibly Huge!",
+      "date": "2010/09/07",
+      "pages": []
+    },
+    {
+      "id": "arago-35",
+      "number": "35",
+      "title": "Counter-Measure",
+      "date": "2010/09/16",
+      "pages": []
+    },
+    {
+      "id": "arago-36",
+      "number": "36",
+      "title": "Fellow Warriors",
+      "date": "2010/09/20",
+      "pages": []
+    },
+    {
+      "id": "arago-37",
+      "number": "37",
+      "title": "Glitch",
+      "date": "2010/09/29",
+      "pages": []
+    },
+    {
+      "id": "arago-38",
+      "number": "38",
+      "title": "Lonely",
+      "date": "2010/10/07",
+      "pages": []
+    },
+    {
+      "id": "arago-39",
+      "number": "39",
+      "title": "The Black Worseman",
+      "date": "2010/10/18",
+      "pages": []
+    },
+    {
+      "id": "arago-40",
+      "number": "40",
+      "title": "Mechanical Soldier",
+      "date": "2010/10/20",
+      "pages": []
+    },
+    {
+      "id": "arago-41",
+      "number": "41",
+      "title": "Curve",
+      "date": "2010/10/28",
+      "pages": []
+    },
+    {
+      "id": "arago-42",
+      "number": "42",
+      "title": "Basement",
+      "date": "2010/11/03",
+      "pages": []
+    },
+    {
+      "id": "arago-43",
+      "number": "43",
+      "title": "Extraction",
+      "date": "2010/11/09",
+      "pages": []
+    },
+    {
+      "id": "arago-44",
+      "number": "44",
+      "title": "Rage",
+      "date": "2010/11/16",
+      "pages": []
+    },
+    {
+      "id": "arago-45",
+      "number": "45",
+      "title": "Monster",
+      "date": "2010/11/22",
+      "pages": []
+    },
+    {
+      "id": "arago-46",
+      "number": "46",
+      "title": "Another World",
+      "date": "2010/12/07",
+      "pages": []
+    },
+    {
+      "id": "arago-47",
+      "number": "47",
+      "title": "Resave",
+      "date": "2010/12/07",
+      "pages": []
+    },
+    {
+      "id": "arago-48",
+      "number": "48",
+      "title": "Treasures",
+      "date": "2010/12/21",
+      "pages": []
+    },
+    {
+      "id": "arago-49",
+      "number": "49",
+      "title": "White Horseman",
+      "date": "2010/12/31",
+      "pages": []
+    },
+    {
+      "id": "arago-50",
+      "number": "50",
+      "title": "The Great Search",
+      "date": "2011/01/07",
+      "pages": []
+    },
+    {
+      "id": "arago-51",
+      "number": "51",
+      "title": "",
+      "date": "2011/01/22",
+      "pages": []
+    },
+    {
+      "id": "arago-52",
+      "number": "52",
+      "title": "Accelerate",
+      "date": "2011/01/24",
+      "pages": []
+    },
+    {
+      "id": "arago-53",
+      "number": "53",
+      "title": "Choice",
+      "date": "2011/02/02",
+      "pages": []
+    },
+    {
+      "id": "arago-54",
+      "number": "54",
+      "title": "Doubt",
+      "date": "2011/02/08",
+      "pages": []
+    },
+    {
+      "id": "arago-55",
+      "number": "55",
+      "title": "The Demonic Blade",
+      "date": "2011/02/16",
+      "pages": []
+    },
+    {
+      "id": "arago-56",
+      "number": "56",
+      "title": "An Assasian  With TheFace Of An Angel",
+      "date": "2011/02/25",
+      "pages": []
+    },
+    {
+      "id": "arago-57",
+      "number": "57",
+      "title": "The Demonic Blade",
+      "date": "2011/03/03",
+      "pages": []
+    },
+    {
+      "id": "arago-58",
+      "number": "58",
+      "title": "New Force",
+      "date": "2011/03/08",
+      "pages": []
+    },
+    {
+      "id": "arago-59",
+      "number": "59",
+      "title": "Dirty",
+      "date": "2011/03/16",
+      "pages": []
+    },
+    {
+      "id": "arago-60",
+      "number": "60",
+      "title": "Executioner",
+      "date": "2011/03/25",
+      "pages": []
+    },
+    {
+      "id": "arago-61",
+      "number": "61",
+      "title": "Only Hope",
+      "date": "2011/04/02",
+      "pages": []
+    },
+    {
+      "id": "arago-62",
+      "number": "62",
+      "title": "",
+      "date": "2011/04/13",
+      "pages": []
+    },
+    {
+      "id": "arago-63",
+      "number": "63",
+      "title": "",
+      "date": "2011/04/13",
+      "pages": []
+    },
+    {
+      "id": "arago-64",
+      "number": "64",
+      "title": "A New Development!!",
+      "date": "2011/04/21",
+      "pages": []
+    },
+    {
+      "id": "arago-65",
+      "number": "65",
+      "title": "The Path I Belive In",
+      "date": "2011/05/21",
+      "pages": []
+    },
+    {
+      "id": "arago-66",
+      "number": "66",
+      "title": "Salvation",
+      "date": "2011/07/05",
+      "pages": []
+    },
+    {
+      "id": "arago-67",
+      "number": "67",
+      "title": "The Last Supper",
+      "date": "2011/07/05",
+      "pages": []
+    },
+    {
+      "id": "arago-68",
+      "number": "68",
+      "title": "Now, To The Place Of Death",
+      "date": "2011/07/05",
+      "pages": []
+    },
+    {
+      "id": "arago-69",
+      "number": "69",
+      "title": "Sniper",
+      "date": "2011/07/12",
+      "pages": []
+    },
+    {
+      "id": "arago-70",
+      "number": "70",
+      "title": "Target",
+      "date": "2011/07/16",
+      "pages": []
+    },
+    {
+      "id": "arago-71",
+      "number": "71",
+      "title": "Comrades",
+      "date": "2011/07/21",
+      "pages": []
+    },
+    {
+      "id": "arago-72",
+      "number": "72",
+      "title": "Pride",
+      "date": "2011/07/25",
+      "pages": []
+    },
+    {
+      "id": "arago-73",
+      "number": "73",
+      "title": "Breakdown",
+      "date": "2011/08/06",
+      "pages": []
+    },
+    {
+      "id": "arago-74",
+      "number": "74",
+      "title": "Trauma",
+      "date": "2011/08/06",
+      "pages": []
+    },
+    {
+      "id": "arago-75",
+      "number": "75",
+      "title": "Wolf Woman",
+      "date": "2011/08/09",
+      "pages": []
+    },
+    {
+      "id": "arago-76",
+      "number": "76",
+      "title": "Promise",
+      "date": "2011/08/21",
+      "pages": []
+    },
+    {
+      "id": "arago-77",
+      "number": "77",
+      "title": "The Four Seeds",
+      "date": "2011/08/21",
+      "pages": []
+    },
+    {
+      "id": "arago-78",
+      "number": "78",
+      "title": "The Fight Inside the Stone",
+      "date": "2011/08/21",
+      "pages": []
+    },
+    {
+      "id": "arago-79",
+      "number": "79",
+      "title": "The Power Difference",
+      "date": "2011/08/21",
+      "pages": []
+    },
+    {
+      "id": "arago-80",
+      "number": "80",
+      "title": "Inherited Will",
+      "date": "2011/08/24",
+      "pages": []
+    },
+    {
+      "id": "arago-81",
+      "number": "81",
+      "title": "Humans",
+      "date": "2011/09/06",
+      "pages": []
+    },
+    {
+      "id": "arago-82",
+      "number": "82",
+      "title": "The Fated Conclusion",
+      "date": "2011/09/12",
+      "pages": []
+    },
+    {
+      "id": "arago-83",
+      "number": "83",
+      "title": "Son",
+      "date": "2011/09/17",
+      "pages": []
+    },
+    {
+      "id": "arago-84",
+      "number": "84",
+      "title": "",
+      "date": "2011/09/20",
+      "pages": []
+    },
+    {
+      "id": "arago-85",
+      "number": "85",
+      "title": "Everyone Together",
+      "date": "2011/10/02",
+      "pages": []
+    }
+  ]
+}

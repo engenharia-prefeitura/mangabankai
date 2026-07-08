@@ -1,0 +1,185 @@
+name: Atualizar Mangas
+
+# Workflow de atualizacao automatica dos mangas (PT + EN)
+on:
+  workflow_dispatch:
+    inputs:
+      target:
+        description: 'Scraper a executar'
+        required: false
+        default: 'all'
+        type: choice
+        options:
+          - all
+          - pt-only
+          - en-only
+  schedule:
+    - cron: '0 * * * *'  # Executa a cada 1 hora automaticamente para verificar se é a hora
+
+# Permite que o GITHUB_TOKEN faça push das atualizacoes de volta ao repo
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Instalar dependências
+        run: npm install
+
+      - name: Verificar se deve rodar
+        id: check
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+        run: node check-scheduler.cjs
+
+      - name: PT — LeituraManga
+        if: ${{ env.SHOULD_RUN == 'true' && github.event.inputs.target != 'en-only' && env.SCRAPE_LANG != 'en' }}
+        run: |
+          ARG=""
+          if [ "${{ env.SCRAPE_MODE }}" = "full" ]; then
+            ARG="--all"
+          fi
+          node leituramanga-scraper.cjs $ARG || true
+        shell: bash
+
+      - name: PT — MangaLivre
+        if: ${{ env.SHOULD_RUN == 'true' && github.event.inputs.target != 'en-only' && env.SCRAPE_LANG != 'en' }}
+        run: |
+          ARG=""
+          if [ "${{ env.SCRAPE_MODE }}" = "full" ]; then
+            ARG="--all"
+          fi
+          node mangalivre-scraper.cjs $ARG || true
+        shell: bash
+
+      # MangaDex desativado: a API at-home bloqueia o egress da Vercel (400/HTML)
+      # e o CORS não libera a origem de produção, então as páginas nunca carregam.
+      # Substituído pelo Mugiwaras (Madara — mainstream).
+      - name: PT — Mugiwaras (Madara — mainstream)
+        if: ${{ env.SHOULD_RUN == 'true' && github.event.inputs.target != 'en-only' && env.SCRAPE_LANG != 'en' }}
+        run: |
+          ARG=""
+          if [ "${{ env.SCRAPE_MODE }}" = "full" ]; then
+            ARG="--all"
+          fi
+          MADARA_ONLY=mugiwaras node madara-scraper.cjs $ARG || true
+        shell: bash
+
+      - name: PT — Hentai (Madara — tankouhentai + tiamanhwa)
+        if: ${{ env.SHOULD_RUN == 'true' && github.event.inputs.target != 'en-only' && env.SCRAPE_LANG != 'en' }}
+        run: |
+          ARG=""
+          if [ "${{ env.SCRAPE_MODE }}" = "full" ]; then
+            ARG="--all"
+          fi
+          MADARA_ONLY=tankouhentai,tiamanhwa node madara-scraper.cjs $ARG || true
+        shell: bash
+
+      - name: EN — MangaFreak (lista)
+        if: ${{ env.SHOULD_RUN == 'true' && github.event.inputs.target != 'pt-only' && env.SCRAPE_LANG != 'pt' }}
+        run: |
+          ARG="--update"
+          if [ "${{ env.SCRAPE_MODE }}" = "full" ]; then
+            ARG=""
+          fi
+          node mf-scraper.cjs $ARG || true
+        shell: bash
+
+      - name: EN — MangaFreak (capítulos)
+        if: ${{ env.SHOULD_RUN == 'true' && github.event.inputs.target != 'pt-only' && env.SCRAPE_LANG != 'pt' }}
+        run: node mf-chapter-scraper.cjs || true
+
+      - name: EN — Hentai20
+        if: ${{ env.SHOULD_RUN == 'true' && github.event.inputs.target != 'pt-only' && env.SCRAPE_LANG != 'pt' }}
+        run: |
+          ARG=""
+          if [ "${{ env.SCRAPE_MODE }}" = "full" ]; then
+            ARG="--all"
+          fi
+          node hentai20-scraper.cjs $ARG || true
+        shell: bash
+
+      - name: EN — Hentai (Madara — mangadistrict)
+        if: ${{ env.SHOULD_RUN == 'true' && github.event.inputs.target != 'pt-only' && env.SCRAPE_LANG != 'pt' }}
+        run: |
+          ARG=""
+          if [ "${{ env.SCRAPE_MODE }}" = "full" ]; then
+            ARG="--all"
+          fi
+          MADARA_ONLY=mangadistrict node madara-scraper.cjs $ARG || true
+        shell: bash
+
+      - name: Mesclar metadados
+        if: ${{ env.SHOULD_RUN == 'true' }}
+        run: node merge-meta.cjs || true
+
+      - name: Sincronizar obras desindexadas (hidden_manga)
+        if: ${{ env.SHOULD_RUN == 'true' }}
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+        run: node sync-hidden.cjs || true
+
+      - name: Build estático (data-lite, home, sitemap)
+        if: ${{ env.SHOULD_RUN == 'true' }}
+        run: npm run build || true
+
+      - name: Notificar capítulos novos (Web Push)
+        if: ${{ env.SHOULD_RUN == 'true' }}
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          VAPID_PUBLIC: ${{ secrets.VAPID_PUBLIC }}
+          VAPID_PRIVATE: ${{ secrets.VAPID_PRIVATE }}
+          SITE_URL: https://mangabankai.vercel.app
+        run: node send-push.cjs || true
+
+      - name: Commit e push das atualizações
+        if: ${{ env.SHOULD_RUN == 'true' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add js/data.js js/chapters/ js/data-lite.js js/home.json js/manga-search.json sitemap.xml js/mf-chapters-progress.json
+          if git diff --staged --quiet; then
+            echo "Nenhuma mudança nos dados."
+          else
+            git commit -m "chore: atualização automática de mangás"
+            git push
+          fi
+
+      - name: Reportar sucesso ao banco
+        if: ${{ success() && env.SHOULD_RUN == 'true' }}
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+        run: |
+          node -e "
+            const { createPool } = require('@vercel/postgres');
+            const pool = createPool({ connectionString: process.env.DATABASE_URL });
+            pool.query(\`INSERT INTO site_settings (key, value) VALUES ('scheduler_last_status', 'success') ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value\`).then(() => {
+              console.log('Status de sucesso enviado ao banco.');
+              pool.end();
+            });
+          "
+
+      - name: Reportar falha ao banco
+        if: ${{ failure() && env.SHOULD_RUN == 'true' }}
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+        run: |
+          node -e "
+            const { createPool } = require('@vercel/postgres');
+            const pool = createPool({ connectionString: process.env.DATABASE_URL });
+            pool.query(\`INSERT INTO site_settings (key, value) VALUES ('scheduler_last_status', 'failure') ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value\`).then(() => {
+              console.log('Status de falha enviado ao banco.');
+              pool.end();
+            });
+          "

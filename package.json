@@ -1,0 +1,33 @@
+{
+  "name": "manga-reader",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node build-lite.cjs && node build-home.cjs && node build-home-prerender.cjs && node build-sitemap.cjs",
+    "build:sitemap": "node build-sitemap.cjs",
+    "start": "node start.cjs",
+    "build:lite": "node build-lite.cjs",
+    "build:home": "node build-home.cjs",
+    "dev": "npx http-server . -p 3000 -c-1 --cors",
+    "scrape": "node scraper.js",
+    "scrape:all": "node scraper.js --all",
+    "scrape:mf": "node mf-scraper.cjs",
+    "scrape:chapters": "node mf-chapter-scraper.cjs",
+    "update": "node update-all.cjs",
+    "scrape:pt": "node leituramanga-scraper.cjs",
+    "scrape:pt-all": "node leituramanga-scraper.cjs --all",
+    "scrape:mdx": "node mangadex-scraper.cjs",
+    "scrape:mdx-all": "node mangadex-scraper.cjs --all",
+    "scrape:h20": "node hentai20-scraper.cjs",
+    "scrape:h20-all": "node hentai20-scraper.cjs --all",
+    "scrape:madara": "node madara-scraper.cjs",
+    "scrape:madara-all": "node madara-scraper.cjs --all",
+    "admin": "node admin-server.cjs"
+  },
+  "dependencies": {
+    "@vercel/postgres": "^0.10.0",
+    "bcryptjs": "^3.0.3",
+    "jsonwebtoken": "^9.0.3",
+    "web-push": "^3.6.7"
+  }
+}

@@ -1,0 +1,655 @@
+{
+  "en": [
+    {
+      "id": "shirogane-no-nina-1",
+      "number": "1",
+      "title": "The Girl of Hopes and Dreams",
+      "date": "2013/12/12",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-2",
+      "number": "2",
+      "title": "",
+      "date": "2013/12/12",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-3",
+      "number": "3",
+      "title": "It's Not Embarrassing",
+      "date": "2013/12/12",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-4",
+      "number": "4",
+      "title": "Treasure This",
+      "date": "2013/12/12",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-5",
+      "number": "5",
+      "title": "Midnight Conversations",
+      "date": "2013/12/12",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-6",
+      "number": "6",
+      "title": "A Rest by the Lakeside",
+      "date": "2013/12/12",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-7",
+      "number": "7",
+      "title": "A Voice I Want to Hear, a Face I Want to See",
+      "date": "2013/12/12",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-8",
+      "number": "8",
+      "title": "A New Taste",
+      "date": "2013/12/12",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-9",
+      "number": "9",
+      "title": "A Great Name",
+      "date": "2013/12/26",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-10",
+      "number": "10",
+      "title": "With You, I Can...",
+      "date": "2013/12/26",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-11",
+      "number": "11",
+      "title": "Challenge!",
+      "date": "2013/12/31",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-12",
+      "number": "12",
+      "title": "Waterside Play",
+      "date": "2014/01/15",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-13",
+      "number": "13",
+      "title": "Nina Tried To Make It",
+      "date": "2014/02/04",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-14",
+      "number": "14",
+      "title": "A Step Forward",
+      "date": "2014/02/05",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-15",
+      "number": "15",
+      "title": "Changed Relationship of the Two",
+      "date": "2014/02/05",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-16",
+      "number": "16",
+      "title": "Father's View, Mother's View",
+      "date": "2014/02/07",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-17",
+      "number": "17",
+      "title": "Let's Study",
+      "date": "2014/02/09",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-18",
+      "number": "18",
+      "title": "It's Cold And Delicious",
+      "date": "2014/09/16",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-19",
+      "number": "19",
+      "title": "It's Too Early To Worry About It",
+      "date": "2014/09/16",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-20",
+      "number": "20",
+      "title": "A Board Game Of Dreams",
+      "date": "2014/09/16",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-21",
+      "number": "21",
+      "title": "Family Time",
+      "date": "2014/09/16",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-22",
+      "number": "22",
+      "title": "Dawn",
+      "date": "2014/09/16",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-23",
+      "number": "23",
+      "title": "A Reward For Your Hard Work",
+      "date": "2014/09/16",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-24",
+      "number": "24",
+      "title": "Girl Talk",
+      "date": "2014/09/16",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-25",
+      "number": "25",
+      "title": "Fully Prepared",
+      "date": "2014/09/16",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-26",
+      "number": "26",
+      "title": "During And After The Festival",
+      "date": "2014/09/16",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-36",
+      "number": "36",
+      "title": "Ink and Brush",
+      "date": "2014/09/16",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-37",
+      "number": "37",
+      "title": "Tomorrow Can't Come Soon Enough",
+      "date": "2014/09/16",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-39",
+      "number": "39",
+      "title": "Pilgrimage to Akiba(Part Two)",
+      "date": "2014/09/16",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-40",
+      "number": "40",
+      "title": "Purikura And Friends",
+      "date": "2014/09/16",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-41",
+      "number": "41",
+      "title": "Someone Who'll Scold You",
+      "date": "2014/09/16",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-42",
+      "number": "42",
+      "title": "Someone Who Worries About You",
+      "date": "2014/09/16",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-43",
+      "number": "43",
+      "title": "DodgeBall",
+      "date": "2014/09/16",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-44",
+      "number": "44",
+      "title": "The Warmth of My Feet",
+      "date": "2014/09/16",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-45",
+      "number": "45",
+      "title": "Do You Want the Egg Or Not !",
+      "date": "2014/09/16",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-46",
+      "number": "46",
+      "title": "The One In the Middle",
+      "date": "2014/10/08",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-47",
+      "number": "47",
+      "title": "Shouting My Love",
+      "date": "2014/10/21",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-48",
+      "number": "48",
+      "title": "Friends On Ice",
+      "date": "2014/11/18",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-49",
+      "number": "49",
+      "title": "Older Sister Mother come here",
+      "date": "2014/11/18",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-50",
+      "number": "50",
+      "title": "Just Parent and Child",
+      "date": "2014/12/16",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-51",
+      "number": "51",
+      "title": "The Face of Goodbye",
+      "date": "2015/01/20",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-52",
+      "number": "52",
+      "title": "Presents For All",
+      "date": "2015/01/20",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-53",
+      "number": "53",
+      "title": "Heavy Eyelids",
+      "date": "2015/02/03",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-54",
+      "number": "54",
+      "title": "A New Year",
+      "date": "2015/03/23",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-55",
+      "number": "55",
+      "title": "Let's Do It Together",
+      "date": "2015/04/08",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-56",
+      "number": "56",
+      "title": "Within the Snow",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-57",
+      "number": "57",
+      "title": "Walking in The Wintertime",
+      "date": "2015/06/16",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-58",
+      "number": "58",
+      "title": "Consideration",
+      "date": "2015/06/16",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-59",
+      "number": "59",
+      "title": "Enjoying February 003rd",
+      "date": "2015/06/16",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-60",
+      "number": "60",
+      "title": "This is My First",
+      "date": "2015/08/04",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-61",
+      "number": "61",
+      "title": "Festival of Flames (Part 1)",
+      "date": "2015/08/04",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-62",
+      "number": "62",
+      "title": "Festival of Flames (Part 002)",
+      "date": "2015/10/09",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-63",
+      "number": "63",
+      "title": "Warp and Fry",
+      "date": "2015/09/16",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-64",
+      "number": "64",
+      "title": "From Mother To Daughter",
+      "date": "2015/10/09",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-65",
+      "number": "65",
+      "title": "A Lost Birthday",
+      "date": "2015/10/21",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-66",
+      "number": "66",
+      "title": "The March Promise",
+      "date": "2015/11/18",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-67",
+      "number": "67",
+      "title": "Let's Go Find Them",
+      "date": "2015/12/02",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-68",
+      "number": "68",
+      "title": "Voices of Encouragement",
+      "date": "2015/12/16",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-69",
+      "number": "69",
+      "title": "Can't Wait For Spring",
+      "date": "2016/01/20",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-70",
+      "number": "70",
+      "title": "",
+      "date": "2016/02/03",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-71",
+      "number": "71",
+      "title": "",
+      "date": "2016/03/16",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-72",
+      "number": "72",
+      "title": "",
+      "date": "2016/03/16",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-73",
+      "number": "73",
+      "title": "",
+      "date": "2016/04/06",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-74",
+      "number": "74",
+      "title": "",
+      "date": "2016/04/20",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-75",
+      "number": "75",
+      "title": "",
+      "date": "2016/05/23",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-76",
+      "number": "76",
+      "title": "",
+      "date": "2016/06/12",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-77",
+      "number": "77",
+      "title": "",
+      "date": "2016/08/03",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-78",
+      "number": "78",
+      "title": "",
+      "date": "2016/08/03",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-79",
+      "number": "79",
+      "title": "",
+      "date": "2016/08/03",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-80",
+      "number": "80",
+      "title": "",
+      "date": "2016/08/17",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-81",
+      "number": "81",
+      "title": "",
+      "date": "2016/09/21",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-82",
+      "number": "82",
+      "title": "",
+      "date": "2016/10/08",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-83",
+      "number": "83",
+      "title": "",
+      "date": "2016/10/19",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-84",
+      "number": "84",
+      "title": "",
+      "date": "2016/11/16",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-85",
+      "number": "85",
+      "title": "",
+      "date": "2016/12/12",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-86",
+      "number": "86",
+      "title": "",
+      "date": "2016/12/21",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-87",
+      "number": "87",
+      "title": "",
+      "date": "2017/01/22",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-88",
+      "number": "88",
+      "title": "",
+      "date": "2017/02/09",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-89",
+      "number": "89",
+      "title": "",
+      "date": "2017/05/18",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-90",
+      "number": "90",
+      "title": "",
+      "date": "2017/05/18",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-91",
+      "number": "91",
+      "title": "",
+      "date": "2017/05/18",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-92",
+      "number": "92",
+      "title": "",
+      "date": "2017/05/18",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-93",
+      "number": "93",
+      "title": "",
+      "date": "2017/05/18",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-94",
+      "number": "94",
+      "title": "",
+      "date": "2017/06/09",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-95",
+      "number": "95",
+      "title": "Inspired Shaved Ice",
+      "date": "2017/06/22",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-96",
+      "number": "96",
+      "title": "",
+      "date": "2017/07/25",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-98",
+      "number": "98",
+      "title": "",
+      "date": "2017/10/10",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-99",
+      "number": "99",
+      "title": "",
+      "date": "2017/10/10",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-100",
+      "number": "100",
+      "title": "",
+      "date": "2017/10/24",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-101",
+      "number": "101",
+      "title": "",
+      "date": "2017/10/24",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-102",
+      "number": "102",
+      "title": "",
+      "date": "2018/01/12",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-103",
+      "number": "103",
+      "title": "",
+      "date": "2018/01/12",
+      "pages": []
+    },
+    {
+      "id": "shirogane-no-nina-104",
+      "number": "104",
+      "title": "",
+      "date": "2018/01/12",
+      "pages": []
+    }
+  ]
+}

@@ -1,0 +1,1607 @@
+{
+  "en": [
+    {
+      "id": "nisekoi-1",
+      "number": "1",
+      "title": "Promise",
+      "date": "2011/11/06",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-2",
+      "number": "2",
+      "title": "Question",
+      "date": "2011/11/12",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-3",
+      "number": "3",
+      "title": "First",
+      "date": "2011/11/22",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-4",
+      "number": "4",
+      "title": "Encounter",
+      "date": "2011/11/27",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-5",
+      "number": "5",
+      "title": "Plenty",
+      "date": "2011/12/01",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-6",
+      "number": "6",
+      "title": "Similar",
+      "date": "2011/12/09",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-7",
+      "number": "7",
+      "title": "Handmade",
+      "date": "2011/12/16",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-8",
+      "number": "8",
+      "title": "Home Visit",
+      "date": "2011/12/29",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-9",
+      "number": "9",
+      "title": "Getting Closer",
+      "date": "2012/01/13",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-10",
+      "number": "10",
+      "title": "Swimming",
+      "date": "2012/01/19",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-11",
+      "number": "11",
+      "title": "Keyhole",
+      "date": "2012/01/27",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-12",
+      "number": "12",
+      "title": "Spoiler",
+      "date": "2012/02/03",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-13",
+      "number": "13",
+      "title": "Zawsze in Love",
+      "date": "2012/02/10",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-14",
+      "number": "14",
+      "title": "Lending and Borrowing",
+      "date": "2012/02/17",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-15",
+      "number": "15",
+      "title": "Rival",
+      "date": "2012/02/23",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-16",
+      "number": "16",
+      "title": "Duel",
+      "date": "2012/03/04",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-17",
+      "number": "17",
+      "title": "Cute",
+      "date": "2012/03/09",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-18",
+      "number": "18",
+      "title": "Happiness",
+      "date": "2012/03/16",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-19",
+      "number": "19",
+      "title": "Visiting the Ill",
+      "date": "2012/03/24",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-20",
+      "number": "20",
+      "title": "Ditz",
+      "date": "2012/03/30",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-21",
+      "number": "21",
+      "title": "Scar",
+      "date": "2012/04/06",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-22",
+      "number": "22",
+      "title": "Hot Springs",
+      "date": "2012/04/14",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-23",
+      "number": "23",
+      "title": "Girls",
+      "date": "2012/04/22",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-24",
+      "number": "24",
+      "title": "Lottery",
+      "date": "2012/05/03",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-25",
+      "number": "25",
+      "title": "How To Call",
+      "date": "2012/05/14",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-26",
+      "number": "26",
+      "title": "Love",
+      "date": "2012/05/27",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-27",
+      "number": "27",
+      "title": "Detour",
+      "date": "2012/05/31",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-28",
+      "number": "28",
+      "title": "Celebration",
+      "date": "2012/06/07",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-29",
+      "number": "29",
+      "title": "Confirmation",
+      "date": "2012/06/09",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-30",
+      "number": "30",
+      "title": "Picture",
+      "date": "2012/06/21",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-31",
+      "number": "31",
+      "title": "Afterschool",
+      "date": "2012/06/21",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-32",
+      "number": "32",
+      "title": "Lovey-Dovey",
+      "date": "2012/07/06",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-33",
+      "number": "33",
+      "title": "Mayhem",
+      "date": "2012/07/17",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-34",
+      "number": "34",
+      "title": "Pursuit",
+      "date": "2012/07/17",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-35",
+      "number": "35",
+      "title": "Explosion",
+      "date": "2012/07/24",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-36",
+      "number": "36",
+      "title": "Three",
+      "date": "2012/07/30",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-37",
+      "number": "37",
+      "title": "Greetings",
+      "date": "2012/08/07",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-38",
+      "number": "38",
+      "title": "Work",
+      "date": "2012/09/03",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-39",
+      "number": "39",
+      "title": "Typhoon",
+      "date": "2012/09/09",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-40",
+      "number": "40",
+      "title": "Liar",
+      "date": "2012/09/09",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-41",
+      "number": "41",
+      "title": "Stray Dog",
+      "date": "2012/09/20",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-42",
+      "number": "42",
+      "title": "Temple Festival",
+      "date": "2012/09/22",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-43",
+      "number": "43",
+      "title": "Good Fortune",
+      "date": "2012/09/25",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-44",
+      "number": "44",
+      "title": "At the Beach",
+      "date": "2012/09/29",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-45",
+      "number": "45",
+      "title": "Hazy",
+      "date": "2012/10/07",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-46",
+      "number": "46",
+      "title": "Dramatic Play",
+      "date": "2012/10/12",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-47",
+      "number": "47",
+      "title": "Together",
+      "date": "2012/10/24",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-48",
+      "number": "48",
+      "title": "Curtain Raiser",
+      "date": "2012/10/30",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-49",
+      "number": "49",
+      "title": "Showtime",
+      "date": "2012/11/02",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-50",
+      "number": "50",
+      "title": "Leading Actor",
+      "date": "2012/11/12",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-51",
+      "number": "51",
+      "title": "From Here on Out",
+      "date": "2012/11/18",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-52",
+      "number": "52",
+      "title": "Measurement",
+      "date": "2012/11/24",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-53",
+      "number": "53",
+      "title": "Fortunes",
+      "date": "2012/12/04",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-54",
+      "number": "54",
+      "title": "Fate (Fight)",
+      "date": "2012/12/07",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-55",
+      "number": "55",
+      "title": "Match",
+      "date": "2012/12/23",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-56",
+      "number": "56",
+      "title": "Teach Me",
+      "date": "2012/12/24",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-57",
+      "number": "57",
+      "title": "Notice",
+      "date": "2012/12/30",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-58",
+      "number": "58",
+      "title": "Loss",
+      "date": "2013/01/19",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-59",
+      "number": "59",
+      "title": "It�s Been a While",
+      "date": "2013/01/24",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-60",
+      "number": "60",
+      "title": "Necessity",
+      "date": "2013/01/31",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-61",
+      "number": "61",
+      "title": "Mother",
+      "date": "2013/02/07",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-62",
+      "number": "62",
+      "title": "Reason",
+      "date": "2013/02/14",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-63",
+      "number": "63",
+      "title": "After That",
+      "date": "2013/02/23",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-64",
+      "number": "64",
+      "title": "Shrine Maiden",
+      "date": "2013/03/01",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-65",
+      "number": "65",
+      "title": "Change",
+      "date": "2013/03/09",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-66",
+      "number": "66",
+      "title": "Changing Seats",
+      "date": "2013/03/15",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-67",
+      "number": "67",
+      "title": "Delicious",
+      "date": "2013/03/23",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-68",
+      "number": "68",
+      "title": "That Is",
+      "date": "2013/03/28",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-69",
+      "number": "69",
+      "title": "Almost",
+      "date": "2013/04/04",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-70",
+      "number": "70",
+      "title": "Handcuffs",
+      "date": "2013/04/12",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-71",
+      "number": "71",
+      "title": "Work",
+      "date": "2013/04/19",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-72",
+      "number": "72",
+      "title": "Marathon",
+      "date": "2013/04/26",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-73",
+      "number": "73",
+      "title": "Indirect",
+      "date": "2013/05/10",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-74",
+      "number": "74",
+      "title": "A Huge Lie",
+      "date": "2013/05/17",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-75",
+      "number": "75",
+      "title": "Kamikaze",
+      "date": "2013/05/24",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-76",
+      "number": "76",
+      "title": "Little Sister",
+      "date": "2013/05/31",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-77",
+      "number": "77",
+      "title": "Work",
+      "date": "2013/06/08",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-78",
+      "number": "78",
+      "title": "Give It Back",
+      "date": "2013/06/14",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-79",
+      "number": "79",
+      "title": "Peace",
+      "date": "2013/06/21",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-80",
+      "number": "80",
+      "title": "Suspension Bridge",
+      "date": "2013/06/28",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-81",
+      "number": "81",
+      "title": "Bath House",
+      "date": "2013/07/04",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-82",
+      "number": "82",
+      "title": "Cleaning",
+      "date": "2013/07/11",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-83",
+      "number": "83",
+      "title": "Crush",
+      "date": "2013/07/20",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-84",
+      "number": "84",
+      "title": "Friend",
+      "date": "2013/07/26",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-85",
+      "number": "85",
+      "title": "Support",
+      "date": "2013/08/01",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-86",
+      "number": "86",
+      "title": "Sick Visit",
+      "date": "2013/08/09",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-87",
+      "number": "87",
+      "title": "What A Day",
+      "date": "2013/08/27",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-88",
+      "number": "88",
+      "title": "Loss",
+      "date": "2013/08/30",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-89",
+      "number": "89",
+      "title": "Reenactment",
+      "date": "2013/09/06",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-90",
+      "number": "90",
+      "title": "Blue",
+      "date": "2013/09/12",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-91",
+      "number": "91",
+      "title": "Frustration",
+      "date": "2013/09/19",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-92",
+      "number": "92",
+      "title": "Bouquet",
+      "date": "2013/09/27",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-93",
+      "number": "93",
+      "title": "I Want To Lose Weight",
+      "date": "2013/10/04",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-94",
+      "number": "94",
+      "title": "Costume",
+      "date": "2013/10/10",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-95",
+      "number": "95",
+      "title": "Old Man",
+      "date": "2013/10/18",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-96",
+      "number": "96",
+      "title": "Imagination",
+      "date": "2013/10/25",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-97",
+      "number": "97",
+      "title": "Please",
+      "date": "2013/10/31",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-98",
+      "number": "98",
+      "title": "Good Morning",
+      "date": "2013/11/08",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-99",
+      "number": "99",
+      "title": "Feeble",
+      "date": "2013/11/15",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-100",
+      "number": "100",
+      "title": "Try",
+      "date": "2013/11/22",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-101",
+      "number": "101",
+      "title": "Cakery",
+      "date": "2013/12/01",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-102",
+      "number": "102",
+      "title": "Cheer",
+      "date": "2013/12/06",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-103",
+      "number": "103",
+      "title": "Overcome",
+      "date": "2013/12/15",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-104",
+      "number": "104",
+      "title": "Raku-Sama",
+      "date": "2013/12/21",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-105",
+      "number": "105",
+      "title": "Tanabata",
+      "date": "2013/12/28",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-106",
+      "number": "106",
+      "title": "Investigation",
+      "date": "2014/01/17",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-107",
+      "number": "107",
+      "title": "Festival",
+      "date": "2014/01/26",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-108",
+      "number": "108",
+      "title": "Question",
+      "date": "2014/02/01",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-109",
+      "number": "109",
+      "title": "Akward",
+      "date": "2014/02/08",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-110",
+      "number": "110",
+      "title": "Outing",
+      "date": "2014/02/15",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-111",
+      "number": "111",
+      "title": "Charming",
+      "date": "2014/02/21",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-112",
+      "number": "112",
+      "title": "Step",
+      "date": "2014/02/28",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-113",
+      "number": "113",
+      "title": "Great-Grandfather",
+      "date": "2014/03/06",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-114",
+      "number": "114",
+      "title": "One Millimeter",
+      "date": "2014/03/14",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-115",
+      "number": "115",
+      "title": "Relief",
+      "date": "2014/03/20",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-116",
+      "number": "116",
+      "title": "Boxed Lunch",
+      "date": "2014/03/31",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-117",
+      "number": "117",
+      "title": "Stomach Pain",
+      "date": "2014/04/04",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-118",
+      "number": "118",
+      "title": "Nee-san",
+      "date": "2014/04/12",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-119",
+      "number": "119",
+      "title": "Teacher",
+      "date": "2014/04/18",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-120",
+      "number": "120",
+      "title": "Need to Know",
+      "date": "2014/04/25",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-121",
+      "number": "121",
+      "title": "Younger Brother",
+      "date": "2014/05/09",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-122",
+      "number": "122",
+      "title": "Interview",
+      "date": "2014/05/16",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-123",
+      "number": "123",
+      "title": "Suitable",
+      "date": "2014/05/24",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-124",
+      "number": "124",
+      "title": "Lady",
+      "date": "2014/05/30",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-125",
+      "number": "125",
+      "title": "Girls",
+      "date": "2014/06/05",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-126",
+      "number": "126",
+      "title": "Declaration",
+      "date": "2014/06/13",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-127",
+      "number": "127",
+      "title": "King",
+      "date": "2014/06/19",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-128",
+      "number": "128",
+      "title": "Connect",
+      "date": "2014/06/26",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-129",
+      "number": "129",
+      "title": "Cold",
+      "date": "2014/07/03",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-130",
+      "number": "130",
+      "title": "Interview",
+      "date": "2014/07/11",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-131",
+      "number": "131",
+      "title": "Plan",
+      "date": "2014/07/18",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-132",
+      "number": "132",
+      "title": "Beauty Pageant",
+      "date": "2014/07/24",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-133",
+      "number": "133",
+      "title": "One on One",
+      "date": "2014/07/30",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-134",
+      "number": "134",
+      "title": "Choice",
+      "date": "2014/08/07",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-135",
+      "number": "135",
+      "title": "Singing Voice",
+      "date": "2014/08/22",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-136",
+      "number": "136",
+      "title": "Identical",
+      "date": "2014/08/29",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-137",
+      "number": "137",
+      "title": "I'm Glad",
+      "date": "2014/09/06",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-138",
+      "number": "138",
+      "title": "Great Luck",
+      "date": "2014/09/11",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-139",
+      "number": "139",
+      "title": "Speech",
+      "date": "2014/09/20",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-140",
+      "number": "140",
+      "title": "Slumber",
+      "date": "2014/10/04",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-141",
+      "number": "141",
+      "title": "Sincere",
+      "date": "2014/10/04",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-142",
+      "number": "142",
+      "title": "Animal",
+      "date": "2014/10/10",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-143",
+      "number": "143",
+      "title": "Work",
+      "date": "2014/10/17",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-144",
+      "number": "144",
+      "title": "Staying the Night",
+      "date": "2014/10/24",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-145",
+      "number": "145",
+      "title": "Athletics",
+      "date": "2014/10/30",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-146",
+      "number": "146",
+      "title": "Perfect",
+      "date": "2014/11/07",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-147",
+      "number": "147",
+      "title": "Yui-Nee",
+      "date": "2014/11/15",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-148",
+      "number": "148",
+      "title": "Successor",
+      "date": "2014/11/22",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-149",
+      "number": "149",
+      "title": "Ojou",
+      "date": "2014/11/28",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-150",
+      "number": "150",
+      "title": "Deciding Groups",
+      "date": "2014/12/07",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-151",
+      "number": "151",
+      "title": "Trouble",
+      "date": "2014/12/13",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-152",
+      "number": "152",
+      "title": "Sound Asleep",
+      "date": "2014/12/20",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-153",
+      "number": "153",
+      "title": "Action Movie",
+      "date": "2014/12/28",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-154",
+      "number": "154",
+      "title": "Happy",
+      "date": "2015/01/16",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-155",
+      "number": "155",
+      "title": "A Certain Thing",
+      "date": "2015/01/23",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-156",
+      "number": "156",
+      "title": "One Shot",
+      "date": "2015/01/30",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-157",
+      "number": "157",
+      "title": "Transfer",
+      "date": "2015/02/06",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-158",
+      "number": "158",
+      "title": "Question",
+      "date": "2015/02/13",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-159",
+      "number": "159",
+      "title": "Good Idea",
+      "date": "2015/02/20",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-160",
+      "number": "160",
+      "title": "I Want to See Him",
+      "date": "2015/02/28",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-161",
+      "number": "161",
+      "title": "Trap",
+      "date": "2015/03/06",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-162",
+      "number": "162",
+      "title": "I Understand",
+      "date": "2015/03/13",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-163",
+      "number": "163",
+      "title": "Scrap",
+      "date": "2015/03/20",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-164",
+      "number": "164",
+      "title": "Magical",
+      "date": "2015/03/28",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-165",
+      "number": "165",
+      "title": "Magical",
+      "date": "2015/04/03",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-166",
+      "number": "166",
+      "title": "Looking forward to it",
+      "date": "2015/04/11",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-167",
+      "number": "167",
+      "title": "Choice",
+      "date": "2015/04/17",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-168",
+      "number": "168",
+      "title": "Understood",
+      "date": "2015/04/25",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-169",
+      "number": "169",
+      "title": "Vacation",
+      "date": "2015/05/09",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-170",
+      "number": "170",
+      "title": "Survive",
+      "date": "2015/05/16",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-171",
+      "number": "171",
+      "title": "True Feelings",
+      "date": "2015/05/25",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-172",
+      "number": "172",
+      "title": "Shrine Visit",
+      "date": "2015/06/01",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-173",
+      "number": "173",
+      "title": "Something's Changed",
+      "date": "2015/06/06",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-174",
+      "number": "174",
+      "title": "I Have Someone",
+      "date": "2015/06/13",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-175",
+      "number": "175",
+      "title": "Agitated",
+      "date": "2015/06/20",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-176",
+      "number": "176",
+      "title": "Child",
+      "date": "2015/06/27",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-177",
+      "number": "177",
+      "title": "Now That I Think About It",
+      "date": "2015/07/04",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-178",
+      "number": "178",
+      "title": "To Become An Adult",
+      "date": "2015/07/17",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-179",
+      "number": "179",
+      "title": "An Order",
+      "date": "2015/07/25",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-180",
+      "number": "180",
+      "title": "I've Been Watching",
+      "date": "2015/07/31",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-181",
+      "number": "181",
+      "title": "Limit",
+      "date": "2015/08/08",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-182",
+      "number": "182",
+      "title": "Contract",
+      "date": "2015/08/23",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-183",
+      "number": "183",
+      "title": "Message",
+      "date": "2015/08/30",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-184",
+      "number": "184",
+      "title": "Role",
+      "date": "2015/09/05",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-185",
+      "number": "185",
+      "title": "Battle",
+      "date": "2015/09/12",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-186",
+      "number": "186",
+      "title": "Why",
+      "date": "2015/09/18",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-187",
+      "number": "187",
+      "title": "Dungeon",
+      "date": "2015/09/25",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-188",
+      "number": "188",
+      "title": "To Mari",
+      "date": "2015/10/03",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-189",
+      "number": "189",
+      "title": "Marriage",
+      "date": "2015/10/09",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-190",
+      "number": "190",
+      "title": "Take Me Away",
+      "date": "2015/10/16",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-191",
+      "number": "191",
+      "title": "Sorry to Make You Wait",
+      "date": "2015/10/23",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-192",
+      "number": "192",
+      "title": "Personal Interest",
+      "date": "2015/10/30",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-193",
+      "number": "193",
+      "title": "Take Fight",
+      "date": "2015/11/06",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-194",
+      "number": "194",
+      "title": "Not One Bit",
+      "date": "2015/11/15",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-195",
+      "number": "195",
+      "title": "The Center",
+      "date": "2015/11/21",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-196",
+      "number": "196",
+      "title": "Be Brave",
+      "date": "2015/12/01",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-197",
+      "number": "197",
+      "title": "Cheer Up",
+      "date": "2015/12/05",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-198",
+      "number": "198",
+      "title": "Coincidence",
+      "date": "2015/12/12",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-199",
+      "number": "199",
+      "title": "True Love",
+      "date": "2015/12/19",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-200",
+      "number": "200",
+      "title": "Realized",
+      "date": "2016/01/06",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-201",
+      "number": "201",
+      "title": "Spring Breeze",
+      "date": "2016/01/19",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-202",
+      "number": "202",
+      "title": "Serious",
+      "date": "2016/01/27",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-203",
+      "number": "203",
+      "title": "Beginning",
+      "date": "2016/02/01",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-204",
+      "number": "204",
+      "title": "Chance",
+      "date": "2016/02/10",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-205",
+      "number": "205",
+      "title": "That's What You Would Call It",
+      "date": "2016/02/17",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-206",
+      "number": "206",
+      "title": "One Day",
+      "date": "2016/02/22",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-207",
+      "number": "207",
+      "title": "University",
+      "date": "2016/03/01",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-208",
+      "number": "208",
+      "title": "Someone I Look Up To",
+      "date": "2016/03/08",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-209",
+      "number": "209",
+      "title": "Problematic",
+      "date": "2016/03/15",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-210",
+      "number": "210",
+      "title": "I've Decided",
+      "date": "2016/03/21",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-211",
+      "number": "211",
+      "title": "On the Night of Falling Stars",
+      "date": "2016/03/29",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-212",
+      "number": "212",
+      "title": "Bye-Bye",
+      "date": "2016/04/04",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-213",
+      "number": "213",
+      "title": "Continuation",
+      "date": "2016/04/11",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-214",
+      "number": "214",
+      "title": "Whereabouts",
+      "date": "2016/04/18",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-215",
+      "number": "215",
+      "title": "Do You Like Him",
+      "date": "2016/04/22",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-216",
+      "number": "216",
+      "title": "The Truth",
+      "date": "2016/05/11",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-217",
+      "number": "217",
+      "title": "Decided",
+      "date": "2016/05/13",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-218",
+      "number": "218",
+      "title": "It's kind of...",
+      "date": "2016/05/20",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-219",
+      "number": "219",
+      "title": "In The End",
+      "date": "2016/05/27",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-220",
+      "number": "220",
+      "title": "The Last Page",
+      "date": "2016/06/05",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-221",
+      "number": "221",
+      "title": "The Truth",
+      "date": "2016/06/12",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-222",
+      "number": "222",
+      "title": "Fake",
+      "date": "2016/06/16",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-223",
+      "number": "223",
+      "title": "Suprised",
+      "date": "2016/06/24",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-224",
+      "number": "224",
+      "title": "I Can't Do That",
+      "date": "2016/07/01",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-225",
+      "number": "225",
+      "title": "",
+      "date": "2016/07/07",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-226",
+      "number": "226",
+      "title": "Farewell",
+      "date": "2016/07/13",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-227",
+      "number": "227",
+      "title": "Nisekoi",
+      "date": "2016/07/21",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-228",
+      "number": "228",
+      "title": "Journey",
+      "date": "2016/07/28",
+      "pages": []
+    },
+    {
+      "id": "nisekoi-229",
+      "number": "229",
+      "title": "Promise",
+      "date": "2016/08/04",
+      "pages": []
+    }
+  ]
+}

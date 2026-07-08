@@ -1,0 +1,704 @@
+{
+  "en": [
+    {
+      "id": "defense-devil-1",
+      "number": "1",
+      "title": "Judgement 1",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-2",
+      "number": "2",
+      "title": "Judgement 2 - Apple Tree",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-3",
+      "number": "3",
+      "title": "Judgement 2 - Apple Tree 2",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-4",
+      "number": "4",
+      "title": "Judgement 2 - Apple Tree 3",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-5",
+      "number": "5",
+      "title": "Judgement 2 - Apple Tree 4",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-6",
+      "number": "6",
+      "title": "Judgement 2 - Apple Tree 5",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-7",
+      "number": "7",
+      "title": "Judgement 3 - Hero 1",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-8",
+      "number": "8",
+      "title": "Judgement 3 - Hero 2",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-9",
+      "number": "9",
+      "title": "Judgement 3 - Hero 3",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-10",
+      "number": "10",
+      "title": "Judgment 3 Hero 4",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-11",
+      "number": "11",
+      "title": "Judgement 3 - Hero 5",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-12",
+      "number": "12",
+      "title": "Judgement 3 - Hero 6",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-13",
+      "number": "13",
+      "title": "Judgment 3 Hero 7",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-14",
+      "number": "14",
+      "title": "Judgment 3 Hero 8",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-15",
+      "number": "15",
+      "title": "Judgement 4 - Mysterious Woman 1",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-16",
+      "number": "16",
+      "title": "Judgement 4 - Mysterious Woman 2",
+      "date": "2009/08/14",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-17",
+      "number": "17",
+      "title": "Judgement 4 - Mysterious Woman 3",
+      "date": "2009/08/14",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-18",
+      "number": "18",
+      "title": "Judgement 4 - Mysterious Woman 4",
+      "date": "2009/08/27",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-19",
+      "number": "19",
+      "title": "Judgement 4 - Mysterious Woman 5",
+      "date": "2009/09/01",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-20",
+      "number": "20",
+      "title": "Judgement 5 - Kucabara's Wisdom",
+      "date": "2009/09/09",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-21",
+      "number": "21",
+      "title": "Judgement 5 - Kucabara's Wisdom 2",
+      "date": "2009/09/12",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-22",
+      "number": "22",
+      "title": "Judgement 5 - Kucabara's Wisdom 3",
+      "date": "2009/09/20",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-23",
+      "number": "23",
+      "title": "Judgement 5 - Kucabara's Wisdom 4",
+      "date": "2009/10/07",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-24",
+      "number": "24",
+      "title": "Judgment 5 - Kucabara's Wisdom 5",
+      "date": "2009/10/19",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-25",
+      "number": "25",
+      "title": "Judgment 5 - Kucabara's Wisdom 6",
+      "date": "2009/10/26",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-26",
+      "number": "26",
+      "title": "The Key To The Demon World 1",
+      "date": "2009/11/15",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-27",
+      "number": "27",
+      "title": "The Key To The Demon World 2",
+      "date": "2009/11/15",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-28",
+      "number": "28",
+      "title": "The Key To The Demon World 3",
+      "date": "2009/11/15",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-29",
+      "number": "29",
+      "title": "The Key To The Demon World 4",
+      "date": "2009/11/21",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-30",
+      "number": "30",
+      "title": "The Key To The Demon World 5",
+      "date": "2009/11/28",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-31",
+      "number": "31",
+      "title": "The Key To The Demon World 6",
+      "date": "2009/12/05",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-32",
+      "number": "32",
+      "title": "",
+      "date": "2009/12/26",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-33",
+      "number": "33",
+      "title": "",
+      "date": "2010/01/03",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-34",
+      "number": "34",
+      "title": "Judgment 6 - The Key To The Demon World 9",
+      "date": "2010/01/06",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-35",
+      "number": "35",
+      "title": "",
+      "date": "2010/01/29",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-36",
+      "number": "36",
+      "title": "Judgement 8 Night Before Departure",
+      "date": "2010/02/07",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-37",
+      "number": "37",
+      "title": "Judgment 9 Invitation",
+      "date": "2010/02/11",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-38",
+      "number": "38",
+      "title": "Judgement 10 A Promise And A Contract",
+      "date": "2010/02/15",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-39",
+      "number": "39",
+      "title": "Judgement 10 Kucabara Brother",
+      "date": "2010/02/27",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-40",
+      "number": "40",
+      "title": "Judgmen-12 Man&amp;Woman",
+      "date": "2010/03/10",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-41",
+      "number": "41",
+      "title": "Jody",
+      "date": "2010/03/23",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-42",
+      "number": "42",
+      "title": "Judgment 14 - Brillheart",
+      "date": "2010/03/26",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-43",
+      "number": "43",
+      "title": "Judgment 15 - Kelsa",
+      "date": "2010/04/03",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-44",
+      "number": "44",
+      "title": "",
+      "date": "2010/04/12",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-45",
+      "number": "45",
+      "title": "",
+      "date": "2010/04/12",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-46",
+      "number": "46",
+      "title": "Judgment - 18 Old Woman And Little Girl",
+      "date": "2010/04/21",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-47",
+      "number": "47",
+      "title": "Judgement 18 - A Gift from Jupiter",
+      "date": "2010/04/26",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-48",
+      "number": "48",
+      "title": "Judgement 20 - Advantage and Disadvantage",
+      "date": "2010/05/03",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-49",
+      "number": "49",
+      "title": "Judgement 21: Wall of Despair",
+      "date": "2010/05/16",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-50",
+      "number": "50",
+      "title": "",
+      "date": "2010/05/30",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-51",
+      "number": "51",
+      "title": "The Friend Of The Prince",
+      "date": "2010/06/10",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-52",
+      "number": "52",
+      "title": "Coliseum",
+      "date": "2010/06/12",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-53",
+      "number": "53",
+      "title": "Hole of Distress",
+      "date": "2010/06/23",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-54",
+      "number": "54",
+      "title": "Judgement 26 - Death of Bichula",
+      "date": "2010/06/26",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-55",
+      "number": "55",
+      "title": "Judgement 27 - The Promise that We Made that Time",
+      "date": "2010/07/05",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-56",
+      "number": "56",
+      "title": "Judgement 28 - An Idiotwould Look That Way",
+      "date": "2010/07/14",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-57",
+      "number": "57",
+      "title": "Judgement 29 - Idamaria's Dream",
+      "date": "2010/07/20",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-58",
+      "number": "58",
+      "title": "Judgement 30 - Operation Gasoline Hustle",
+      "date": "2010/07/29",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-59",
+      "number": "59",
+      "title": "Judgement 31- Shugarl And Jupiter",
+      "date": "2010/08/04",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-60",
+      "number": "60",
+      "title": "Judgement 32 - The Sky s Rock",
+      "date": "2010/08/08",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-61",
+      "number": "61",
+      "title": "Judgement 33 - Stone Hell",
+      "date": "2010/08/24",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-62",
+      "number": "62",
+      "title": "Judgement 34 - Gigades Baptism",
+      "date": "2010/08/30",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-63",
+      "number": "63",
+      "title": "Judgement 35 - Football",
+      "date": "2010/09/06",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-64",
+      "number": "64",
+      "title": "Judgement 36 - Children`s Room",
+      "date": "2010/09/13",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-65",
+      "number": "65",
+      "title": "Judgement 37 - To Win Without Fighting",
+      "date": "2010/09/19",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-66",
+      "number": "66",
+      "title": "Judgement 38 - Y`s Past",
+      "date": "2010/09/29",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-67",
+      "number": "67",
+      "title": "Judgement 39 - Samus",
+      "date": "2010/10/04",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-68",
+      "number": "68",
+      "title": "Judgement 40 - Oasis",
+      "date": "2010/10/10",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-69",
+      "number": "69",
+      "title": "Judgement 41 - Calculation Mistake",
+      "date": "2010/10/18",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-70",
+      "number": "70",
+      "title": "Hummingbird",
+      "date": "2010/10/26",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-71",
+      "number": "71",
+      "title": "Kanto",
+      "date": "2010/11/01",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-72",
+      "number": "72",
+      "title": "Father Selma",
+      "date": "2010/11/09",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-73",
+      "number": "73",
+      "title": "Phoenix Hell",
+      "date": "2010/11/19",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-74",
+      "number": "74",
+      "title": "The Man In The Mirror",
+      "date": "2010/11/24",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-75",
+      "number": "75",
+      "title": "Innocence Item",
+      "date": "2010/12/01",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-76",
+      "number": "76",
+      "title": "Right Turn",
+      "date": "2010/12/06",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-77",
+      "number": "77",
+      "title": "Shugarl's Sixth Sense",
+      "date": "2010/12/20",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-78",
+      "number": "78",
+      "title": "Interrogation",
+      "date": "2011/01/02",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-79",
+      "number": "79",
+      "title": "True Form",
+      "date": "2011/01/10",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-80",
+      "number": "80",
+      "title": "Subspace",
+      "date": "2011/01/21",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-81",
+      "number": "81",
+      "title": "Dogfight",
+      "date": "2011/01/30",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-82",
+      "number": "82",
+      "title": "A Small, Small Love Song",
+      "date": "2011/02/04",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-83",
+      "number": "83",
+      "title": "",
+      "date": "2011/02/07",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-84",
+      "number": "84",
+      "title": "A Secret Between The Two of Us",
+      "date": "2011/02/14",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-85",
+      "number": "85",
+      "title": "Elimone's Conffession",
+      "date": "2011/02/20",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-86",
+      "number": "86",
+      "title": "Lilith's Resurrection",
+      "date": "2011/03/02",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-87",
+      "number": "87",
+      "title": "The Mysterious Painting",
+      "date": "2011/03/14",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-88",
+      "number": "88",
+      "title": "You Are The Best ,Onii-Chan",
+      "date": "2011/03/25",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-89",
+      "number": "89",
+      "title": "Kelia's Recollection",
+      "date": "2011/03/25",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-90",
+      "number": "90",
+      "title": "Collecting Clerk",
+      "date": "2011/03/31",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-91",
+      "number": "91",
+      "title": "The Pride of a Devil",
+      "date": "2011/04/05",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-92",
+      "number": "92",
+      "title": "A Promise With Father",
+      "date": "2011/04/18",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-93",
+      "number": "93",
+      "title": "Kucabara's Smile",
+      "date": "2011/04/21",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-94",
+      "number": "94",
+      "title": "A Fallen Angel",
+      "date": "2011/04/27",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-95",
+      "number": "95",
+      "title": "Idamaria And Shugarl",
+      "date": "2011/05/06",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-96",
+      "number": "96",
+      "title": "If We Join Our Forces",
+      "date": "2011/05/21",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-97",
+      "number": "97",
+      "title": "The Arrival of The Angels",
+      "date": "2011/05/28",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-98",
+      "number": "98",
+      "title": "A Month Later...",
+      "date": "2011/06/01",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-99",
+      "number": "99",
+      "title": "I Miss You...",
+      "date": "2011/06/12",
+      "pages": []
+    },
+    {
+      "id": "defense-devil-100",
+      "number": "100",
+      "title": "",
+      "date": "2011/07/29",
+      "pages": []
+    }
+  ]
+}

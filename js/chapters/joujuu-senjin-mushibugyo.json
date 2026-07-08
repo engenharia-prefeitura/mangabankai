@@ -1,0 +1,2216 @@
+{
+  "en": [
+    {
+      "id": "joujuu-senjin-mushibugyo-1",
+      "number": "1",
+      "title": "I'm Leaving",
+      "date": "2012/06/07",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-2",
+      "number": "2",
+      "title": "Tsukishima Jinbee has Arrived!!!!",
+      "date": "2012/06/07",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-3",
+      "number": "3",
+      "title": "Shining Star",
+      "date": "2012/06/07",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-4",
+      "number": "4",
+      "title": "The Peace of Edo is in My Hands",
+      "date": "2012/06/07",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-5",
+      "number": "5",
+      "title": "The Specialist",
+      "date": "2012/06/07",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-6",
+      "number": "6",
+      "title": "How Magnificent",
+      "date": "2012/06/07",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-7",
+      "number": "7",
+      "title": "I Want To Know Everything!",
+      "date": "2012/06/18",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-8",
+      "number": "8",
+      "title": "Yahoo!!!!",
+      "date": "2012/06/28",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-9",
+      "number": "9",
+      "title": "Leave it to me!!!",
+      "date": "2012/07/11",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-10",
+      "number": "10",
+      "title": "The Male And Female Oohitonomi!!!",
+      "date": "2012/08/08",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-11",
+      "number": "11",
+      "title": "I Forgot.... The Reason",
+      "date": "2012/08/20",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-12",
+      "number": "12",
+      "title": "The Flower Viewing Counter Measure",
+      "date": "2012/10/29",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-13",
+      "number": "13",
+      "title": "Rival?",
+      "date": "2012/10/29",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-14",
+      "number": "14",
+      "title": "Around the Back",
+      "date": "2012/11/10",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-15",
+      "number": "15",
+      "title": "Rival!",
+      "date": "2012/12/04",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-16",
+      "number": "16",
+      "title": "Knowledge is Justice",
+      "date": "2013/02/16",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-17",
+      "number": "17",
+      "title": "The Tale Of Dreams",
+      "date": "2013/03/20",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-18",
+      "number": "18",
+      "title": "What Nagatomi Maru Saw",
+      "date": "2013/03/26",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-19",
+      "number": "19",
+      "title": "The Incident of the Peculiar Thief",
+      "date": "2013/05/07",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-20",
+      "number": "20",
+      "title": "Sound of a Flute",
+      "date": "2013/05/20",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-21",
+      "number": "21",
+      "title": "Konjacs",
+      "date": "2013/05/29",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-22",
+      "number": "22",
+      "title": "The First Payday, The First Holiday",
+      "date": "2013/06/12",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-23",
+      "number": "23",
+      "title": "An Important Person",
+      "date": "2013/06/19",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-24",
+      "number": "24",
+      "title": "The Season is Summer",
+      "date": "2013/06/25",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-25",
+      "number": "25",
+      "title": "Rule",
+      "date": "2013/06/29",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-26",
+      "number": "26",
+      "title": "Sai No Kata",
+      "date": "2013/07/04",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-27",
+      "number": "27",
+      "title": "Fuubutsushi",
+      "date": "2013/07/18",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-28",
+      "number": "28",
+      "title": "Seclusion",
+      "date": "2013/07/29",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-29",
+      "number": "29",
+      "title": "True Warrior",
+      "date": "2013/08/22",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-30",
+      "number": "30",
+      "title": "Honey Trap",
+      "date": "2013/09/29",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-31",
+      "number": "31",
+      "title": "Haru the Hostage",
+      "date": "2014/01/15",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-32",
+      "number": "32",
+      "title": "The Hideout",
+      "date": "2014/01/15",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-33",
+      "number": "33",
+      "title": "From Above",
+      "date": "2014/05/22",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-34",
+      "number": "34",
+      "title": "Worst Pick",
+      "date": "2014/05/22",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-35",
+      "number": "35",
+      "title": "Dissolution",
+      "date": "2014/06/02",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-36",
+      "number": "36",
+      "title": "Supervisor's Conference",
+      "date": "2014/06/02",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-37",
+      "number": "37",
+      "title": "Everyone In Town",
+      "date": "2014/06/05",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-38",
+      "number": "38",
+      "title": "How To Go About One's Businesss",
+      "date": "2014/06/08",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-39",
+      "number": "39",
+      "title": "Till The End",
+      "date": "2014/06/16",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-40",
+      "number": "40",
+      "title": "Autumn After Summer's Passing",
+      "date": "2014/07/12",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-41",
+      "number": "41",
+      "title": "Set Sail",
+      "date": "2014/07/12",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-42",
+      "number": "42",
+      "title": "Mushi Hunters Manako",
+      "date": "2014/08/20",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-43",
+      "number": "43",
+      "title": "Underling...?",
+      "date": "2014/09/10",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-44",
+      "number": "44",
+      "title": "",
+      "date": "2015/06/15",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-45",
+      "number": "45",
+      "title": "The Attendant",
+      "date": "2015/06/15",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-46",
+      "number": "46",
+      "title": "Entangled",
+      "date": "2015/06/15",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-47",
+      "number": "47",
+      "title": "Warmth",
+      "date": "2015/06/15",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-48",
+      "number": "48",
+      "title": "Black winds And the Black mushi smith",
+      "date": "2015/06/15",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-49",
+      "number": "49",
+      "title": "For My Sake",
+      "date": "2015/06/15",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-50",
+      "number": "50",
+      "title": "Arrival OF The capital Petrol",
+      "date": "2015/06/15",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-51",
+      "number": "51",
+      "title": "Hachijou Island's Offense and Defense",
+      "date": "2015/06/15",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-52",
+      "number": "52",
+      "title": "Awakening",
+      "date": "2015/08/16",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-53",
+      "number": "53",
+      "title": "Berserk",
+      "date": "2015/09/29",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-54",
+      "number": "54",
+      "title": "Rampage's End",
+      "date": "2015/10/05",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-55",
+      "number": "55",
+      "title": "Return",
+      "date": "2015/10/05",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-56",
+      "number": "56",
+      "title": "Jinbee's Long Awaited Debate",
+      "date": "2015/12/02",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-57",
+      "number": "57",
+      "title": "",
+      "date": "2017/04/30",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-58",
+      "number": "58",
+      "title": "Promise",
+      "date": "2017/10/13",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-59",
+      "number": "59",
+      "title": "Japans #1 Mountain",
+      "date": "2017/10/13",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-60",
+      "number": "60",
+      "title": "Mt. Fujis 36 Blades",
+      "date": "2017/10/13",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-61",
+      "number": "61",
+      "title": "Last Day",
+      "date": "2017/11/08",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-62",
+      "number": "62",
+      "title": "",
+      "date": "2020/03/14",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-63",
+      "number": "63",
+      "title": "",
+      "date": "2020/03/14",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-64",
+      "number": "64",
+      "title": "",
+      "date": "2020/03/14",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-65",
+      "number": "65",
+      "title": "",
+      "date": "2020/03/14",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-66",
+      "number": "66",
+      "title": "",
+      "date": "2020/03/14",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-67",
+      "number": "67",
+      "title": "",
+      "date": "2020/03/14",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-68",
+      "number": "68",
+      "title": "",
+      "date": "2020/03/14",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-69",
+      "number": "69",
+      "title": "",
+      "date": "2020/03/14",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-70",
+      "number": "70",
+      "title": "",
+      "date": "2020/03/14",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-71",
+      "number": "71",
+      "title": "",
+      "date": "2020/03/26",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-72",
+      "number": "72",
+      "title": "",
+      "date": "2020/03/26",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-73",
+      "number": "73",
+      "title": "",
+      "date": "2020/03/26",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-74",
+      "number": "74",
+      "title": "",
+      "date": "2020/03/26",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-75",
+      "number": "75",
+      "title": "We Have to Go",
+      "date": "2020/03/30",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-76",
+      "number": "76",
+      "title": "",
+      "date": "2020/04/08",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-77",
+      "number": "77",
+      "title": "",
+      "date": "2020/04/08",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-78",
+      "number": "78",
+      "title": "",
+      "date": "2020/04/16",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-79",
+      "number": "79",
+      "title": "",
+      "date": "2020/04/16",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-80",
+      "number": "80",
+      "title": "Smile",
+      "date": "2020/04/20",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-81",
+      "number": "81",
+      "title": "An Idea",
+      "date": "2020/04/22",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-82",
+      "number": "82",
+      "title": "Their \"Attendant\"",
+      "date": "2020/04/27",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-83",
+      "number": "83",
+      "title": "Fun",
+      "date": "2020/04/29",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-84",
+      "number": "84",
+      "title": "Deadline",
+      "date": "2020/05/04",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-85",
+      "number": "85",
+      "title": "Declaration of War",
+      "date": "2020/05/08",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-86",
+      "number": "86",
+      "title": "",
+      "date": "2020/05/12",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-87",
+      "number": "87",
+      "title": "",
+      "date": "2020/05/15",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-88",
+      "number": "88",
+      "title": "",
+      "date": "2020/05/19",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-89",
+      "number": "89",
+      "title": "",
+      "date": "2020/05/22",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-90",
+      "number": "90",
+      "title": "",
+      "date": "2020/05/26",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-91",
+      "number": "91",
+      "title": "",
+      "date": "2020/05/29",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-92",
+      "number": "92",
+      "title": "",
+      "date": "2020/06/02",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-93",
+      "number": "93",
+      "title": "Battle All Alone",
+      "date": "2020/06/05",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-94",
+      "number": "94",
+      "title": "School",
+      "date": "2020/06/09",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-95",
+      "number": "95",
+      "title": "Namu Amida Butsu",
+      "date": "2020/06/12",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-96",
+      "number": "96",
+      "title": "Villain",
+      "date": "2020/06/16",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-97",
+      "number": "97",
+      "title": "Debt",
+      "date": "2020/06/18",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-98",
+      "number": "98",
+      "title": "Just A Little Bit",
+      "date": "2020/06/22",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-99",
+      "number": "99",
+      "title": "",
+      "date": "2020/06/26",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-100",
+      "number": "100",
+      "title": "Trinity",
+      "date": "2020/06/30",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-101",
+      "number": "101",
+      "title": "Please Be Safe",
+      "date": "2020/07/04",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-102",
+      "number": "102",
+      "title": "The Number 2 and Number 3",
+      "date": "2020/07/08",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-103",
+      "number": "103",
+      "title": "The Fight of Three Tomoe",
+      "date": "2020/07/14",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-104",
+      "number": "104",
+      "title": "The Worst Case",
+      "date": "2020/07/14",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-105",
+      "number": "105",
+      "title": "",
+      "date": "2020/07/20",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-106",
+      "number": "106",
+      "title": "",
+      "date": "2020/07/21",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-107",
+      "number": "107",
+      "title": "",
+      "date": "2020/07/21",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-108",
+      "number": "108",
+      "title": "",
+      "date": "2020/07/21",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-109",
+      "number": "109",
+      "title": "",
+      "date": "2020/07/21",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-110",
+      "number": "110",
+      "title": "",
+      "date": "2020/07/21",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-111",
+      "number": "111",
+      "title": "",
+      "date": "2020/07/21",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-112",
+      "number": "112",
+      "title": "",
+      "date": "2020/07/21",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-113",
+      "number": "113",
+      "title": "",
+      "date": "2020/07/21",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-114",
+      "number": "114",
+      "title": "",
+      "date": "2020/07/21",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-115",
+      "number": "115",
+      "title": "",
+      "date": "2020/07/21",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-116",
+      "number": "116",
+      "title": "",
+      "date": "2020/07/21",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-117",
+      "number": "117",
+      "title": "",
+      "date": "2020/07/21",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-118",
+      "number": "118",
+      "title": "",
+      "date": "2020/07/21",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-119",
+      "number": "119",
+      "title": "",
+      "date": "2020/07/21",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-120",
+      "number": "120",
+      "title": "",
+      "date": "2020/07/21",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-121",
+      "number": "121",
+      "title": "",
+      "date": "2020/07/25",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-122",
+      "number": "122",
+      "title": "The Eternal Bug",
+      "date": "2020/08/04",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-123",
+      "number": "123",
+      "title": "Reunion",
+      "date": "2020/08/07",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-124",
+      "number": "124",
+      "title": "Return to Edo",
+      "date": "2020/08/10",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-125",
+      "number": "125",
+      "title": "The Bug Hunters' Counselor",
+      "date": "2020/08/14",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-126",
+      "number": "126",
+      "title": "Oharu's Struggle",
+      "date": "2020/08/18",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-127",
+      "number": "127",
+      "title": "Misunderstanding",
+      "date": "2020/08/21",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-128",
+      "number": "128",
+      "title": "Bugmanification",
+      "date": "2020/08/24",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-129",
+      "number": "129",
+      "title": "Pops",
+      "date": "2020/08/29",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-130",
+      "number": "130",
+      "title": "Store Opening",
+      "date": "2020/09/01",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-131",
+      "number": "131",
+      "title": "Eight-Province Patrol Squad",
+      "date": "2020/09/04",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-132",
+      "number": "132",
+      "title": "The Eight Provinces' Crisis",
+      "date": "2020/09/08",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-133",
+      "number": "133",
+      "title": "Kaitsuburi's Move",
+      "date": "2020/09/11",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-134",
+      "number": "134",
+      "title": "Us",
+      "date": "2020/09/16",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-135",
+      "number": "135",
+      "title": "Reinforcements Join the Battle!",
+      "date": "2020/09/19",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-136",
+      "number": "136",
+      "title": "Report",
+      "date": "2020/09/22",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-137",
+      "number": "137",
+      "title": "Hibachi and Mugai (First Part)",
+      "date": "2020/09/25",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-138",
+      "number": "138",
+      "title": "Hibachi and Mugai (Final Part)",
+      "date": "2020/09/29",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-139",
+      "number": "139",
+      "title": "Irori and Tenma (First Part)",
+      "date": "2020/10/02",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-140",
+      "number": "140",
+      "title": "Irori and Tenma (Final Part)",
+      "date": "2020/10/07",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-141",
+      "number": "141",
+      "title": "Fugaku Boulder-Smashing Thrust",
+      "date": "2020/10/09",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-142",
+      "number": "142",
+      "title": "The Mysterious Structure",
+      "date": "2020/10/13",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-143",
+      "number": "143",
+      "title": "Team",
+      "date": "2020/10/16",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-144",
+      "number": "144",
+      "title": "A No-Holds-Barred Gathering",
+      "date": "2020/10/20",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-145",
+      "number": "145",
+      "title": "Anthill Invasion",
+      "date": "2020/10/23",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-146",
+      "number": "146",
+      "title": "No Enemies + Omake",
+      "date": "2020/10/27",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-147",
+      "number": "147",
+      "title": "Anthill",
+      "date": "2020/10/30",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-148",
+      "number": "148",
+      "title": "Yagyuu Shinkage Style (First Part)",
+      "date": "2020/11/03",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-149",
+      "number": "149",
+      "title": "Yagyuu Shinkage Style (Final Part)",
+      "date": "2020/11/05",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-150",
+      "number": "150",
+      "title": "Fungus Garden",
+      "date": "2020/11/10",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-151",
+      "number": "151",
+      "title": "Prayer",
+      "date": "2020/11/12",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-152",
+      "number": "152",
+      "title": "Kikyou",
+      "date": "2020/11/16",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-153",
+      "number": "153",
+      "title": "Chance of Victory",
+      "date": "2020/11/20",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-154",
+      "number": "154",
+      "title": "Medicinal Bullet \"Rakan\"",
+      "date": "2020/11/24",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-155",
+      "number": "155",
+      "title": "Utopia",
+      "date": "2020/11/26",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-156",
+      "number": "156",
+      "title": "I Will! I Will!!",
+      "date": "2020/12/02",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-157",
+      "number": "157",
+      "title": "Way Too Late",
+      "date": "2020/12/04",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-158",
+      "number": "158",
+      "title": "Cadaver",
+      "date": "2020/12/07",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-159",
+      "number": "159",
+      "title": "Dignity",
+      "date": "2020/12/11",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-160",
+      "number": "160",
+      "title": "Next Time Around",
+      "date": "2020/12/15",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-161",
+      "number": "161",
+      "title": "The Road Home",
+      "date": "2020/12/18",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-162",
+      "number": "162",
+      "title": "Heat",
+      "date": "2020/12/22",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-163",
+      "number": "163",
+      "title": "I Have Some Business...",
+      "date": "2020/12/25",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-164",
+      "number": "164",
+      "title": "Roots",
+      "date": "2020/12/28",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-165",
+      "number": "165",
+      "title": "A Thousand Years Ago",
+      "date": "2020/12/28",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-166",
+      "number": "166",
+      "title": "Ain't Got Any",
+      "date": "2021/01/04",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-167",
+      "number": "167",
+      "title": "Sora",
+      "date": "2021/01/08",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-168",
+      "number": "168",
+      "title": "Power And Obligation",
+      "date": "2021/01/12",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-169",
+      "number": "169",
+      "title": "You Fool!",
+      "date": "2021/01/15",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-170",
+      "number": "170",
+      "title": "I Will Not Hesitate!!!",
+      "date": "2021/01/19",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-171",
+      "number": "171",
+      "title": "No Way!!!",
+      "date": "2021/01/21",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-172",
+      "number": "172",
+      "title": "Jingaitou Shin'uchi",
+      "date": "2021/01/25",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-173",
+      "number": "173",
+      "title": "Believe",
+      "date": "2021/01/27",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-174",
+      "number": "174",
+      "title": "Kanae and Genjuurou (First Part)",
+      "date": "2021/02/03",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-175",
+      "number": "175",
+      "title": "Kanae and Genjuurou (Final Part)",
+      "date": "2021/02/08",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-176",
+      "number": "176",
+      "title": "Oharu's Marriage Interview",
+      "date": "2021/02/08",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-177",
+      "number": "177",
+      "title": "",
+      "date": "2021/02/12",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-178",
+      "number": "178",
+      "title": "Feelings",
+      "date": "2021/02/16",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-179",
+      "number": "179",
+      "title": "Three Years Ago",
+      "date": "2021/02/20",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-180",
+      "number": "180",
+      "title": "In Winter",
+      "date": "2021/02/23",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-181",
+      "number": "181",
+      "title": "Fall Will End",
+      "date": "2021/02/26",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-182",
+      "number": "182",
+      "title": "March!!!",
+      "date": "2021/03/01",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-183",
+      "number": "183",
+      "title": "It Doesn't Matter!",
+      "date": "2021/03/05",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-184",
+      "number": "184",
+      "title": "Charge!!!",
+      "date": "2021/03/09",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-185",
+      "number": "185",
+      "title": "In The Way",
+      "date": "2021/03/12",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-186",
+      "number": "186",
+      "title": "You, Bastard, Are Strong",
+      "date": "2021/03/16",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-187",
+      "number": "187",
+      "title": "Predict",
+      "date": "2021/03/18",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-188",
+      "number": "188",
+      "title": "What Foolishness",
+      "date": "2021/04/15",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-189",
+      "number": "189",
+      "title": "That Guy",
+      "date": "2021/04/15",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-190",
+      "number": "190",
+      "title": "Muro Kyuusou",
+      "date": "2021/04/15",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-191",
+      "number": "191",
+      "title": "In Group",
+      "date": "2021/04/15",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-192",
+      "number": "192",
+      "title": "Formation",
+      "date": "2021/04/15",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-193",
+      "number": "193",
+      "title": "Style",
+      "date": "2021/04/15",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-194",
+      "number": "194",
+      "title": "Back when we were kids",
+      "date": "2021/04/16",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-195",
+      "number": "195",
+      "title": "Future",
+      "date": "2021/04/22",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-196",
+      "number": "196",
+      "title": "Light",
+      "date": "2021/04/24",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-197",
+      "number": "197",
+      "title": "A Strange Guy",
+      "date": "2021/04/28",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-198",
+      "number": "198",
+      "title": "The Results of Training",
+      "date": "2021/05/01",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-199",
+      "number": "199",
+      "title": "Amenohahakiri no Tsurugi",
+      "date": "2021/05/06",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-200",
+      "number": "200",
+      "title": "Run",
+      "date": "2021/05/09",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-201",
+      "number": "201",
+      "title": "Come at me!!",
+      "date": "2021/05/11",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-202",
+      "number": "202",
+      "title": "Make Them Surrender",
+      "date": "2021/05/15",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-203",
+      "number": "203",
+      "title": "Muro and Ieshige",
+      "date": "2021/05/19",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-204",
+      "number": "204",
+      "title": "Muro and Ieshige Final Part",
+      "date": "2021/05/22",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-205",
+      "number": "205",
+      "title": "The Two Battlefields",
+      "date": "2021/05/28",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-206",
+      "number": "206",
+      "title": "Lethal Move and Kingship",
+      "date": "2021/05/28",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-207",
+      "number": "207",
+      "title": "With Our Power",
+      "date": "2021/06/02",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-208",
+      "number": "208",
+      "title": "",
+      "date": "2021/06/04",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-209",
+      "number": "209",
+      "title": "Fugaku Taizangiri",
+      "date": "2021/06/08",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-210",
+      "number": "210",
+      "title": "What a wonderful world",
+      "date": "2021/06/10",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-211",
+      "number": "211",
+      "title": "Bite 'Em!!!",
+      "date": "2021/06/16",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-212",
+      "number": "212",
+      "title": "Curtain Call",
+      "date": "2021/06/18",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-213",
+      "number": "213",
+      "title": "One Day...",
+      "date": "2021/06/22",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-214",
+      "number": "214",
+      "title": "Girls' Talk",
+      "date": "2021/06/25",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-215",
+      "number": "215",
+      "title": "Battle Message",
+      "date": "2021/06/30",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-216",
+      "number": "216",
+      "title": "Reaction",
+      "date": "2021/07/03",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-217",
+      "number": "217",
+      "title": "No longer needed",
+      "date": "2021/07/08",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-218",
+      "number": "218",
+      "title": "Reach...!!!",
+      "date": "2021/07/09",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-219",
+      "number": "219",
+      "title": "",
+      "date": "2021/07/14",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-220",
+      "number": "220",
+      "title": "Battle Conviction",
+      "date": "2021/07/16",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-221",
+      "number": "221",
+      "title": "",
+      "date": "2021/07/25",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-222",
+      "number": "222",
+      "title": "",
+      "date": "2021/07/25",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-223",
+      "number": "223",
+      "title": "The Time",
+      "date": "2021/07/28",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-224",
+      "number": "224",
+      "title": "Chance Meeting",
+      "date": "2021/07/31",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-225",
+      "number": "225",
+      "title": "Tragedy",
+      "date": "2021/08/04",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-226",
+      "number": "226",
+      "title": "Lonely",
+      "date": "2021/08/06",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-227",
+      "number": "227",
+      "title": "Imago",
+      "date": "2021/08/11",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-228",
+      "number": "228",
+      "title": "Mastermind",
+      "date": "2021/08/13",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-229",
+      "number": "229",
+      "title": "Geshi, Formerly Known as Gaikotsu",
+      "date": "2021/08/17",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-230",
+      "number": "230",
+      "title": "You are so wrong",
+      "date": "2021/08/20",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-231",
+      "number": "231",
+      "title": "Salvation and Despair",
+      "date": "2021/08/25",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-232",
+      "number": "232",
+      "title": "Unforgivable",
+      "date": "2021/08/28",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-233",
+      "number": "233",
+      "title": "Prospects of Victory and Hope",
+      "date": "2021/09/01",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-234",
+      "number": "234",
+      "title": "As You Wish To",
+      "date": "2021/09/03",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-235",
+      "number": "235",
+      "title": "Imperial Court Patrol Squad",
+      "date": "2021/09/09",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-236",
+      "number": "236",
+      "title": "Natsume's Mistake",
+      "date": "2021/09/11",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-237",
+      "number": "237",
+      "title": "No Longer There",
+      "date": "2021/09/16",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-238",
+      "number": "238",
+      "title": "Number One",
+      "date": "2021/09/18",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-239",
+      "number": "239",
+      "title": "You and I",
+      "date": "2021/09/23",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-240",
+      "number": "240",
+      "title": "Me and You",
+      "date": "2021/09/26",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-241",
+      "number": "241",
+      "title": "Setoff (First Part)",
+      "date": "2021/09/28",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-242",
+      "number": "242",
+      "title": "Setoff (Final Part)",
+      "date": "2021/10/02",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-243",
+      "number": "243",
+      "title": "To Osaka Castle",
+      "date": "2021/10/08",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-244",
+      "number": "244",
+      "title": "Dispersal",
+      "date": "2021/10/09",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-245",
+      "number": "245",
+      "title": "The Weak",
+      "date": "2021/10/16",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-246",
+      "number": "246",
+      "title": "Strong One",
+      "date": "2021/10/16",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-247",
+      "number": "247",
+      "title": "Osaka",
+      "date": "2021/10/20",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-248",
+      "number": "248",
+      "title": "Shangri-La",
+      "date": "2021/10/23",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-249",
+      "number": "249",
+      "title": "The Village With No People",
+      "date": "2021/10/28",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-250",
+      "number": "250",
+      "title": "The Incomplete God",
+      "date": "2021/10/30",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-251",
+      "number": "251",
+      "title": "Inside the Cacoon",
+      "date": "2021/11/04",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-252",
+      "number": "252",
+      "title": "Minor Business",
+      "date": "2021/11/05",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-253",
+      "number": "253",
+      "title": "The Offence and Defense Outside the Castle",
+      "date": "2021/11/10",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-254",
+      "number": "254",
+      "title": "The Infiltration Plan",
+      "date": "2021/11/14",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-255",
+      "number": "255",
+      "title": "The Eve of the Final Battle",
+      "date": "2021/11/18",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-256",
+      "number": "256",
+      "title": "Executing. Resolutely",
+      "date": "2021/11/20",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-257",
+      "number": "257",
+      "title": "Kotori's Ability",
+      "date": "2021/11/25",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-258",
+      "number": "258",
+      "title": "Abnormality",
+      "date": "2021/11/26",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-259",
+      "number": "259",
+      "title": "Kotori and Jinbee",
+      "date": "2021/12/02",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-260",
+      "number": "260",
+      "title": "The Eternal Spirit's Power",
+      "date": "2021/12/05",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-261",
+      "number": "261",
+      "title": "The Stolen Power",
+      "date": "2021/12/09",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-262",
+      "number": "262",
+      "title": "Just One Person",
+      "date": "2021/12/12",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-263",
+      "number": "263",
+      "title": "Hate Your Guts",
+      "date": "2021/12/14",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-264",
+      "number": "264",
+      "title": "Not Worth Fearing",
+      "date": "2021/12/18",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-265",
+      "number": "265",
+      "title": "All-Out Showdown",
+      "date": "2021/12/21",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-266",
+      "number": "266",
+      "title": "Thin Line Between Offence and Defence",
+      "date": "2021/12/28",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-267",
+      "number": "267",
+      "title": "What is a God?",
+      "date": "2021/12/31",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-268",
+      "number": "268",
+      "title": "Request and Compensation",
+      "date": "2022/01/06",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-269",
+      "number": "269",
+      "title": "Someone I Admire",
+      "date": "2022/01/07",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-270",
+      "number": "270",
+      "title": "I Am Chinpou-Style",
+      "date": "2022/01/12",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-271",
+      "number": "271",
+      "title": "Grandfather's Wish",
+      "date": "2022/01/15",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-272",
+      "number": "272",
+      "title": "Feelings Are Everything",
+      "date": "2022/01/21",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-273",
+      "number": "273",
+      "title": "Rage and Bloodthirst",
+      "date": "2022/01/23",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-274",
+      "number": "274",
+      "title": "Chizuru",
+      "date": "2022/01/26",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-275",
+      "number": "275",
+      "title": "Thank You",
+      "date": "2022/01/28",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-276",
+      "number": "276",
+      "title": "Sorry",
+      "date": "2022/02/01",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-277",
+      "number": "277",
+      "title": "The Meaning Of This Sword",
+      "date": "2022/02/06",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-278",
+      "number": "278",
+      "title": "Reach",
+      "date": "2022/02/08",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-279",
+      "number": "279",
+      "title": "The Feelings That Reached",
+      "date": "2022/02/12",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-280",
+      "number": "280",
+      "title": "1%",
+      "date": "2022/02/17",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-281",
+      "number": "281",
+      "title": "Escape",
+      "date": "2022/02/20",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-282",
+      "number": "282",
+      "title": "Wave of Poison",
+      "date": "2022/02/22",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-283",
+      "number": "283",
+      "title": "Atonement",
+      "date": "2022/02/26",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-284",
+      "number": "284",
+      "title": "The Mushikari Bond",
+      "date": "2022/03/03",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-285",
+      "number": "285",
+      "title": "Oo and Uro",
+      "date": "2022/03/06",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-286",
+      "number": "286",
+      "title": "",
+      "date": "2022/03/11",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-287",
+      "number": "287",
+      "title": "Determined Tenma",
+      "date": "2022/03/12",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-288",
+      "number": "288",
+      "title": "The Person He Admires",
+      "date": "2022/03/15",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-289",
+      "number": "289",
+      "title": "Gotou and Semikaze",
+      "date": "2022/03/21",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-290",
+      "number": "290",
+      "title": "The Brother's Bond",
+      "date": "2022/03/24",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-291",
+      "number": "291",
+      "title": "Offence and Defence - Two Sides of the Same Coin",
+      "date": "2022/03/26",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-292",
+      "number": "292",
+      "title": "The Wings' Specialty",
+      "date": "2022/03/29",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-293",
+      "number": "293",
+      "title": "",
+      "date": "2022/04/02",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-294",
+      "number": "294",
+      "title": "",
+      "date": "2022/04/05",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-295",
+      "number": "295",
+      "title": "",
+      "date": "2022/04/06",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-296",
+      "number": "296",
+      "title": "Begin The Counterattack",
+      "date": "2022/04/07",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-297",
+      "number": "297",
+      "title": "",
+      "date": "2022/04/13",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-298",
+      "number": "298",
+      "title": "",
+      "date": "2022/04/16",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-299",
+      "number": "299",
+      "title": "Retreat",
+      "date": "2022/04/17",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-300",
+      "number": "300",
+      "title": "",
+      "date": "2022/04/19",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-301",
+      "number": "301",
+      "title": "",
+      "date": "2022/04/22",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-302",
+      "number": "302",
+      "title": "",
+      "date": "2022/04/25",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-303",
+      "number": "303",
+      "title": "",
+      "date": "2022/04/28",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-304",
+      "number": "304",
+      "title": "",
+      "date": "2022/05/01",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-305",
+      "number": "305",
+      "title": "",
+      "date": "2022/05/02",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-306",
+      "number": "306",
+      "title": "",
+      "date": "2022/05/03",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-307",
+      "number": "307",
+      "title": "",
+      "date": "2022/05/05",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-308",
+      "number": "308",
+      "title": "",
+      "date": "2022/05/10",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-309",
+      "number": "309",
+      "title": "",
+      "date": "2022/05/14",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-310",
+      "number": "310",
+      "title": "",
+      "date": "2022/05/17",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-311",
+      "number": "311",
+      "title": "",
+      "date": "2022/05/20",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-312",
+      "number": "312",
+      "title": "The End of the Path You've Been Walking",
+      "date": "2022/05/25",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-313",
+      "number": "313",
+      "title": "",
+      "date": "2022/05/25",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-314",
+      "number": "314",
+      "title": "",
+      "date": "2022/05/29",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-315",
+      "number": "315",
+      "title": "",
+      "date": "2022/06/02",
+      "pages": []
+    },
+    {
+      "id": "joujuu-senjin-mushibugyo-316",
+      "number": "316",
+      "title": "",
+      "date": "2022/06/05",
+      "pages": []
+    }
+  ]
+}

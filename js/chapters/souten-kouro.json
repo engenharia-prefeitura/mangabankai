@@ -1,0 +1,522 @@
+{
+  "en": [
+    {
+      "id": "souten-kouro-1",
+      "number": "1",
+      "title": "Ton`s Capital",
+      "date": "2010/02/14",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-2",
+      "number": "2",
+      "title": "Ah Man`s Sword",
+      "date": "2010/02/14",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-3",
+      "number": "3",
+      "title": "The Coming Of The Herculean Youth",
+      "date": "2010/02/15",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-4",
+      "number": "4",
+      "title": "Xu Chu`s Heavenly Aid",
+      "date": "2010/02/20",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-5",
+      "number": "5",
+      "title": "Reunion",
+      "date": "2010/03/10",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-6",
+      "number": "6",
+      "title": "Horseback Dialogue",
+      "date": "2010/03/14",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-7",
+      "number": "7",
+      "title": "The Finger That Summons the Golden Sands",
+      "date": "2010/03/14",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-8",
+      "number": "8",
+      "title": "Shui Jing",
+      "date": "2010/03/14",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-9",
+      "number": "9",
+      "title": "The Smoke Genie",
+      "date": "2010/03/14",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-10",
+      "number": "10",
+      "title": "The Lewd Monster",
+      "date": "2010/04/02",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-11",
+      "number": "11",
+      "title": "Cao Cao`s Chaofu",
+      "date": "2010/04/08",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-12",
+      "number": "12",
+      "title": "Amore!!",
+      "date": "2010/04/09",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-13",
+      "number": "13",
+      "title": "Sh?i Jing, Ablaze",
+      "date": "2010/04/09",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-14",
+      "number": "14",
+      "title": "Zhang Rang`s Wound",
+      "date": "2010/05/02",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-15",
+      "number": "15",
+      "title": "Crane in the Clouds",
+      "date": "2010/07/16",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-16",
+      "number": "16",
+      "title": "The Emperor",
+      "date": "2010/07/16",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-17",
+      "number": "17",
+      "title": "The Demon",
+      "date": "2010/07/16",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-18",
+      "number": "18",
+      "title": "Heaven`s Fayi",
+      "date": "2010/07/19",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-19",
+      "number": "19",
+      "title": "The Hawk And The Gate",
+      "date": "2010/08/06",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-20",
+      "number": "20",
+      "title": "The Five Colored Rod",
+      "date": "2010/08/06",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-21",
+      "number": "21",
+      "title": "The Puppet And The Scales",
+      "date": "2010/08/13",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-22",
+      "number": "22",
+      "title": "The Ten Attendants",
+      "date": "2010/09/01",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-23",
+      "number": "23",
+      "title": "The Divine Peach Court",
+      "date": "2010/09/01",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-24",
+      "number": "24",
+      "title": "His Highness, Dan Gong",
+      "date": "2010/10/03",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-25",
+      "number": "25",
+      "title": "Wicked Scheme",
+      "date": "2010/10/03",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-26",
+      "number": "26",
+      "title": "Cao Cao`s Dance",
+      "date": "2010/10/18",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-27",
+      "number": "27",
+      "title": "The Fiery Banquet",
+      "date": "2010/10/24",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-28",
+      "number": "28",
+      "title": "Distant Heaven",
+      "date": "2010/12/08",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-29",
+      "number": "29",
+      "title": "Cao Cao, Eastward",
+      "date": "2010/12/08",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-30",
+      "number": "30",
+      "title": "Liu Bei Xuande",
+      "date": "2010/12/08",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-31",
+      "number": "31",
+      "title": "The Demon Pouch",
+      "date": "2010/12/08",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-32",
+      "number": "32",
+      "title": "The Man Who Hunts Heads",
+      "date": "2011/02/14",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-33",
+      "number": "33",
+      "title": "Heaven_'s Vessel",
+      "date": "2011/02/21",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-34",
+      "number": "34",
+      "title": "New Strength",
+      "date": "2011/03/24",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-35",
+      "number": "35",
+      "title": "The Sensual Songstress",
+      "date": "2011/09/25",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-36",
+      "number": "36",
+      "title": "Sho Who Gives Birth To Emperors",
+      "date": "2011/10/08",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-37",
+      "number": "37",
+      "title": "Cease This Flattery!",
+      "date": "2011/10/08",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-38",
+      "number": "38",
+      "title": "Enter Xun Yu",
+      "date": "2011/10/08",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-39",
+      "number": "39",
+      "title": "A Host Of Dragons Awakens",
+      "date": "2011/10/19",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-40",
+      "number": "40",
+      "title": "We Have Arrived",
+      "date": "2011/10/19",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-41",
+      "number": "41",
+      "title": "As Fast As Lightning",
+      "date": "2011/10/19",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-42",
+      "number": "42",
+      "title": "Heaven, Earth, Man",
+      "date": "2012/06/11",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-43",
+      "number": "43",
+      "title": "The Third Man",
+      "date": "2012/06/12",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-44",
+      "number": "44",
+      "title": "Cavalries Have Retreat Paths",
+      "date": "2012/06/13",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-45",
+      "number": "45",
+      "title": "The Head-Hunting Demon Pouch",
+      "date": "2012/07/24",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-46",
+      "number": "46",
+      "title": "The Two Zhangs",
+      "date": "2013/03/20",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-47",
+      "number": "47",
+      "title": "The Rebellion's Mountain Pass",
+      "date": "2013/03/20",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-48",
+      "number": "48",
+      "title": "Plundering Command",
+      "date": "2013/03/20",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-49",
+      "number": "49",
+      "title": "The Great Virtuous Teacher Rises to the Heavens",
+      "date": "2013/03/20",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-50",
+      "number": "50",
+      "title": "Evil Omen",
+      "date": "2013/03/20",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-51",
+      "number": "51",
+      "title": "The Emperor's Death",
+      "date": "2013/03/20",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-52",
+      "number": "52",
+      "title": "A Beast in a World Without Men",
+      "date": "2013/03/20",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-53",
+      "number": "53",
+      "title": "The Outrageous Ones",
+      "date": "2013/03/20",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-54",
+      "number": "54",
+      "title": "Enter Lü Bu",
+      "date": "2013/03/20",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-55",
+      "number": "55",
+      "title": "The Pledge of Terror",
+      "date": "2013/03/20",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-56",
+      "number": "56",
+      "title": "The Dialogue of Flames",
+      "date": "2013/03/20",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-57",
+      "number": "57",
+      "title": "Lü Boshe",
+      "date": "2013/03/20",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-58",
+      "number": "58",
+      "title": "Souten Kouro 058 The Rival Chiefs Stand -",
+      "date": "2014/06/24",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-59",
+      "number": "59",
+      "title": "Xu Rong Arrives",
+      "date": "2014/06/25",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-60",
+      "number": "60",
+      "title": "How Reckless of You, Cao Cao!",
+      "date": "2014/06/29",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-61",
+      "number": "61",
+      "title": "No Means of Talking",
+      "date": "2014/07/13",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-62",
+      "number": "62",
+      "title": "In Suanzao",
+      "date": "2015/08/31",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-63",
+      "number": "63",
+      "title": "Where is Cao Cao!",
+      "date": "2015/08/31",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-64",
+      "number": "64",
+      "title": "Where is Cao Cao!",
+      "date": "2015/08/31",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-65",
+      "number": "65",
+      "title": "Lü Bu Soars",
+      "date": "2015/08/31",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-66",
+      "number": "66",
+      "title": "Guan Yu's Valor",
+      "date": "2015/08/31",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-67",
+      "number": "67",
+      "title": "Move the Tides of War!",
+      "date": "2015/08/31",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-68",
+      "number": "68",
+      "title": "The Great Cause on Top of the Cliff",
+      "date": "2015/08/31",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-69",
+      "number": "69",
+      "title": "The Five-Colored Dragon",
+      "date": "2015/09/06",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-70",
+      "number": "70",
+      "title": "Guo Jia and Xun Yu",
+      "date": "2015/09/06",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-71",
+      "number": "71",
+      "title": "The Birth of Diao Chan",
+      "date": "2015/09/13",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-72",
+      "number": "72",
+      "title": "The Herculean Youth Returns",
+      "date": "2015/09/13",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-73",
+      "number": "73",
+      "title": "The Giant Star Rises to the Heavens",
+      "date": "2015/10/02",
+      "pages": []
+    },
+    {
+      "id": "souten-kouro-74",
+      "number": "74",
+      "title": "He Who Marries the Poisonous Snake",
+      "date": "2015/10/02",
+      "pages": []
+    }
+  ]
+}

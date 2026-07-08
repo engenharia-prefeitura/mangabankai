@@ -1,0 +1,480 @@
+{
+  "en": [
+    {
+      "id": "gal-gohan-1",
+      "number": "1",
+      "title": "Handmade Cookies",
+      "date": "2017/05/31",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-2",
+      "number": "2",
+      "title": "Freshly-Grilled Fish",
+      "date": "2017/05/31",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-3",
+      "number": "3",
+      "title": "The Omurice of Jealousy",
+      "date": "2017/05/31",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-4",
+      "number": "4",
+      "title": "A Crepe on a Date",
+      "date": "2017/05/31",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-5",
+      "number": "5",
+      "title": "Piping Hot Pot-au-Feu",
+      "date": "2017/05/31",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-6",
+      "number": "6",
+      "title": "Slimming with Bang Bang Chicken!",
+      "date": "2017/05/31",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-7",
+      "number": "7",
+      "title": "Sweet Honey Lemons",
+      "date": "2017/05/31",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-8",
+      "number": "8",
+      "title": "Heart-Pounding Yakisoba",
+      "date": "2017/05/31",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-9",
+      "number": "9",
+      "title": "Porridge and Embarrassment",
+      "date": "2017/06/26",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-10",
+      "number": "10",
+      "title": "Red Hot Fried Rice",
+      "date": "2017/07/16",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-11",
+      "number": "11",
+      "title": "The Way to a Man�s Heart�",
+      "date": "2017/08/01",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-12",
+      "number": "12",
+      "title": "A Barbeque for Two",
+      "date": "2017/08/15",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-13",
+      "number": "13",
+      "title": "Sempai Steak",
+      "date": "2017/08/30",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-14",
+      "number": "14",
+      "title": "A Secret Lunchbox",
+      "date": "2017/09/11",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-15",
+      "number": "15",
+      "title": "",
+      "date": "2017/10/30",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-16",
+      "number": "16",
+      "title": "",
+      "date": "2017/10/30",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-17",
+      "number": "17",
+      "title": "",
+      "date": "2017/11/14",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-18",
+      "number": "18",
+      "title": "",
+      "date": "2017/12/24",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-19",
+      "number": "19",
+      "title": "",
+      "date": "2017/12/24",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-20",
+      "number": "20",
+      "title": "",
+      "date": "2017/12/24",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-21",
+      "number": "21",
+      "title": "",
+      "date": "2018/02/01",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-22",
+      "number": "22",
+      "title": "",
+      "date": "2018/02/10",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-23",
+      "number": "23",
+      "title": "",
+      "date": "2018/02/26",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-24",
+      "number": "24",
+      "title": "",
+      "date": "2018/03/11",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-25",
+      "number": "25",
+      "title": "",
+      "date": "2018/03/24",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-26",
+      "number": "26",
+      "title": "",
+      "date": "2018/04/30",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-27",
+      "number": "27",
+      "title": "",
+      "date": "2018/05/13",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-28",
+      "number": "28",
+      "title": "",
+      "date": "2018/05/25",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-29",
+      "number": "29",
+      "title": "",
+      "date": "2018/06/11",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-30",
+      "number": "30",
+      "title": "",
+      "date": "2018/06/25",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-31",
+      "number": "31",
+      "title": "",
+      "date": "2018/07/14",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-32",
+      "number": "32",
+      "title": "",
+      "date": "2018/07/28",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-33",
+      "number": "33",
+      "title": "",
+      "date": "2018/08/12",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-34",
+      "number": "34",
+      "title": "",
+      "date": "2018/08/26",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-35",
+      "number": "35",
+      "title": "",
+      "date": "2018/09/29",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-36",
+      "number": "36",
+      "title": "",
+      "date": "2018/10/14",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-37",
+      "number": "37",
+      "title": "",
+      "date": "2018/10/27",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-38",
+      "number": "38",
+      "title": "",
+      "date": "2018/11/11",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-39",
+      "number": "39",
+      "title": "",
+      "date": "2018/11/24",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-40",
+      "number": "40",
+      "title": "",
+      "date": "2018/12/16",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-41",
+      "number": "41",
+      "title": "",
+      "date": "2019/01/04",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-42",
+      "number": "42",
+      "title": "",
+      "date": "2019/01/27",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-43",
+      "number": "43",
+      "title": "",
+      "date": "2019/02/09",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-44",
+      "number": "44",
+      "title": "The Okinawa Assault Part 2",
+      "date": "2019/02/24",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-45",
+      "number": "45",
+      "title": "Classmate Game",
+      "date": "2019/03/07",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-46",
+      "number": "46",
+      "title": "A Lovers Lunch",
+      "date": "2019/03/17",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-47",
+      "number": "47",
+      "title": "",
+      "date": "2019/04/01",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-48",
+      "number": "48",
+      "title": "An Unexpected Sleepover",
+      "date": "2019/04/21",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-49",
+      "number": "49",
+      "title": "",
+      "date": "2019/05/05",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-50",
+      "number": "50",
+      "title": "A Risky Job",
+      "date": "2019/06/02",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-51",
+      "number": "51",
+      "title": "A Wishful Shrine Visit",
+      "date": "2019/06/16",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-52",
+      "number": "52",
+      "title": "",
+      "date": "2019/06/29",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-53",
+      "number": "53",
+      "title": "A Skimpy Valentines",
+      "date": "2019/07/16",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-54",
+      "number": "54",
+      "title": "",
+      "date": "2019/07/27",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-55",
+      "number": "55",
+      "title": "Waiting for the Rains to Clear",
+      "date": "2019/08/10",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-56",
+      "number": "56",
+      "title": "The Omelette of Youth",
+      "date": "2019/09/14",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-57",
+      "number": "57",
+      "title": "Graduation",
+      "date": "2019/09/28",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-58",
+      "number": "58",
+      "title": "Try-Out Pancakes",
+      "date": "2019/10/12",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-59",
+      "number": "59",
+      "title": "Heating Up at the Night Pool",
+      "date": "2019/10/27",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-60",
+      "number": "60",
+      "title": "A Bouquet for Me",
+      "date": "2019/11/09",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-61",
+      "number": "61",
+      "title": "A Titillating Taste Test",
+      "date": "2019/11/24",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-62",
+      "number": "62",
+      "title": "Cookies and Love Letters",
+      "date": "2019/12/14",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-63",
+      "number": "63",
+      "title": "",
+      "date": "2020/01/16",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-64",
+      "number": "64",
+      "title": "Moo Moo Barbeque",
+      "date": "2020/01/24",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-65",
+      "number": "65",
+      "title": "",
+      "date": "2020/02/14",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-66",
+      "number": "66",
+      "title": "A Supportive Beer",
+      "date": "2020/03/14",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-67",
+      "number": "67",
+      "title": "A Surprise Cake",
+      "date": "2020/03/16",
+      "pages": []
+    },
+    {
+      "id": "gal-gohan-68",
+      "number": "68",
+      "title": "Gal Gohan",
+      "date": "2020/03/29",
+      "pages": []
+    }
+  ]
+}

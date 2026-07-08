@@ -1,0 +1,305 @@
+{
+  "en": [
+    {
+      "id": "gensou-gourmet-1",
+      "number": "1",
+      "title": "",
+      "date": "2018/11/20",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-2",
+      "number": "2",
+      "title": "",
+      "date": "2018/11/20",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-3",
+      "number": "3",
+      "title": "Opals of the Firefly Tree",
+      "date": "2019/03/14",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-4",
+      "number": "4",
+      "title": "",
+      "date": "2019/03/14",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-5",
+      "number": "5",
+      "title": "",
+      "date": "2019/07/10",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-6",
+      "number": "6",
+      "title": "",
+      "date": "2019/07/10",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-7",
+      "number": "7",
+      "title": "A Nobles Feast",
+      "date": "2019/08/27",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-8",
+      "number": "8",
+      "title": "Sylphin and the Dresses",
+      "date": "2019/12/03",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-9",
+      "number": "9",
+      "title": "",
+      "date": "2020/03/09",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-10",
+      "number": "10",
+      "title": "",
+      "date": "2020/03/09",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-11",
+      "number": "11",
+      "title": "Water Fruit",
+      "date": "2020/05/04",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-12",
+      "number": "12",
+      "title": "The Master Inventor",
+      "date": "2020/06/08",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-13",
+      "number": "13",
+      "title": "Light Road",
+      "date": "2020/08/04",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-14",
+      "number": "14",
+      "title": "The Unfaltering Woods",
+      "date": "2020/09/07",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-15",
+      "number": "15",
+      "title": "Frost Mammoth",
+      "date": "2020/10/30",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-16",
+      "number": "16",
+      "title": "A Dish of Raw Slime",
+      "date": "2020/12/08",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-17",
+      "number": "17",
+      "title": "Black Supreme Lizard Fried Rice",
+      "date": "2021/01/02",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-18",
+      "number": "18",
+      "title": "Totato Stew",
+      "date": "2021/02/10",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-19",
+      "number": "19",
+      "title": "Sylphin's Visit Home",
+      "date": "2021/12/23",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-20",
+      "number": "20",
+      "title": "",
+      "date": "2022/05/08",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-21",
+      "number": "21",
+      "title": "Glass Rose",
+      "date": "2022/06/05",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-22",
+      "number": "22",
+      "title": "King Clams Steamed with Fruit Wine",
+      "date": "2022/09/06",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-23",
+      "number": "23",
+      "title": "",
+      "date": "2022/12/05",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-24",
+      "number": "24",
+      "title": "",
+      "date": "2023/06/02",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-24e",
+      "number": "24e",
+      "title": "",
+      "date": "2023/06/02",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-25",
+      "number": "25",
+      "title": "",
+      "date": "2023/06/04",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-26",
+      "number": "26",
+      "title": "",
+      "date": "2023/06/06",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-27",
+      "number": "27",
+      "title": "",
+      "date": "2023/06/10",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-28",
+      "number": "28",
+      "title": "",
+      "date": "2023/06/17",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-29",
+      "number": "29",
+      "title": "",
+      "date": "2023/06/22",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-30",
+      "number": "30",
+      "title": "",
+      "date": "2023/06/22",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-31",
+      "number": "31",
+      "title": "",
+      "date": "2023/06/27",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-32",
+      "number": "32",
+      "title": "",
+      "date": "2023/06/28",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-33",
+      "number": "33",
+      "title": "",
+      "date": "2023/06/28",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-34",
+      "number": "34",
+      "title": "",
+      "date": "2023/06/30",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-35",
+      "number": "35",
+      "title": "",
+      "date": "2023/08/22",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-36",
+      "number": "36",
+      "title": "",
+      "date": "2024/03/28",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-37",
+      "number": "37",
+      "title": "",
+      "date": "2024/06/26",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-38",
+      "number": "38",
+      "title": "",
+      "date": "2024/07/10",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-39",
+      "number": "39",
+      "title": "",
+      "date": "2024/07/24",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-40",
+      "number": "40",
+      "title": "",
+      "date": "2024/07/25",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-41",
+      "number": "41",
+      "title": "",
+      "date": "2024/08/01",
+      "pages": []
+    },
+    {
+      "id": "gensou-gourmet-42",
+      "number": "42",
+      "title": "",
+      "date": "2024/08/17",
+      "pages": []
+    }
+  ]
+}

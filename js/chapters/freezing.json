@@ -1,0 +1,1572 @@
+{
+  "en": [
+    {
+      "id": "freezing-1",
+      "number": "1",
+      "title": "The Untouchable Queen",
+      "date": "2009/08/16",
+      "pages": []
+    },
+    {
+      "id": "freezing-2",
+      "number": "2",
+      "title": "The Hunted Girl",
+      "date": "2009/08/16",
+      "pages": []
+    },
+    {
+      "id": "freezing-3",
+      "number": "3",
+      "title": "Pandora vs Pandora",
+      "date": "2009/08/16",
+      "pages": []
+    },
+    {
+      "id": "freezing-4",
+      "number": "4",
+      "title": "Retaliation",
+      "date": "2009/08/16",
+      "pages": []
+    },
+    {
+      "id": "freezing-5",
+      "number": "5",
+      "title": "Target",
+      "date": "2009/08/16",
+      "pages": []
+    },
+    {
+      "id": "freezing-6",
+      "number": "6",
+      "title": "The Difference in Power",
+      "date": "2009/08/16",
+      "pages": []
+    },
+    {
+      "id": "freezing-7",
+      "number": "7",
+      "title": "The Restrained Ingrid 1",
+      "date": "2009/08/16",
+      "pages": []
+    },
+    {
+      "id": "freezing-8",
+      "number": "8",
+      "title": "The Restrained Ingrid 2",
+      "date": "2009/08/16",
+      "pages": []
+    },
+    {
+      "id": "freezing-9",
+      "number": "9",
+      "title": "Decision",
+      "date": "2009/08/16",
+      "pages": []
+    },
+    {
+      "id": "freezing-10",
+      "number": "10",
+      "title": "The Visitor From Tibet",
+      "date": "2009/08/16",
+      "pages": []
+    },
+    {
+      "id": "freezing-11",
+      "number": "11",
+      "title": "Her Name Is Rana Linchen",
+      "date": "2009/08/16",
+      "pages": []
+    },
+    {
+      "id": "freezing-12",
+      "number": "12",
+      "title": "A Sign of Rivalry",
+      "date": "2009/08/16",
+      "pages": []
+    },
+    {
+      "id": "freezing-13",
+      "number": "13",
+      "title": "Stigma Body",
+      "date": "2009/08/16",
+      "pages": []
+    },
+    {
+      "id": "freezing-14",
+      "number": "14",
+      "title": "Strategy",
+      "date": "2009/08/16",
+      "pages": []
+    },
+    {
+      "id": "freezing-15",
+      "number": "15",
+      "title": "Rana's Strength",
+      "date": "2009/09/02",
+      "pages": []
+    },
+    {
+      "id": "freezing-16",
+      "number": "16",
+      "title": "Mortal Combat",
+      "date": "2009/09/13",
+      "pages": []
+    },
+    {
+      "id": "freezing-17",
+      "number": "17",
+      "title": "Punishment",
+      "date": "2009/10/01",
+      "pages": []
+    },
+    {
+      "id": "freezing-18",
+      "number": "18",
+      "title": "The Majestic 3rd Years Part 1",
+      "date": "2009/10/01",
+      "pages": []
+    },
+    {
+      "id": "freezing-19",
+      "number": "19",
+      "title": "The Majestic 3rd Year 2",
+      "date": "2009/10/12",
+      "pages": []
+    },
+    {
+      "id": "freezing-20",
+      "number": "20",
+      "title": "Reminiscence",
+      "date": "2009/11/02",
+      "pages": []
+    },
+    {
+      "id": "freezing-21",
+      "number": "21",
+      "title": "Counterattack!!",
+      "date": "2009/11/10",
+      "pages": []
+    },
+    {
+      "id": "freezing-22",
+      "number": "22",
+      "title": "Each's Respective Pride",
+      "date": "2009/11/10",
+      "pages": []
+    },
+    {
+      "id": "freezing-23",
+      "number": "23",
+      "title": "Sharpened Stone",
+      "date": "2009/11/14",
+      "pages": []
+    },
+    {
+      "id": "freezing-24",
+      "number": "24",
+      "title": "Conclusion",
+      "date": "2009/12/02",
+      "pages": []
+    },
+    {
+      "id": "freezing-25",
+      "number": "25",
+      "title": "East Genetics",
+      "date": "2009/12/27",
+      "pages": []
+    },
+    {
+      "id": "freezing-26",
+      "number": "26",
+      "title": "Cassie Lockheart",
+      "date": "2010/01/08",
+      "pages": []
+    },
+    {
+      "id": "freezing-27",
+      "number": "27",
+      "title": "Corrosion",
+      "date": "2010/02/08",
+      "pages": []
+    },
+    {
+      "id": "freezing-28",
+      "number": "28",
+      "title": "A Looming Threat",
+      "date": "2010/02/13",
+      "pages": []
+    },
+    {
+      "id": "freezing-29",
+      "number": "29",
+      "title": "Nova Form",
+      "date": "2010/03/08",
+      "pages": []
+    },
+    {
+      "id": "freezing-30",
+      "number": "30",
+      "title": "Target Location",
+      "date": "2010/04/13",
+      "pages": []
+    },
+    {
+      "id": "freezing-31",
+      "number": "31",
+      "title": "Desperate Struggle",
+      "date": "2010/05/01",
+      "pages": []
+    },
+    {
+      "id": "freezing-32",
+      "number": "32",
+      "title": "Elizabeth Mayberry",
+      "date": "2010/06/02",
+      "pages": []
+    },
+    {
+      "id": "freezing-33",
+      "number": "33",
+      "title": "Trauma",
+      "date": "2010/08/06",
+      "pages": []
+    },
+    {
+      "id": "freezing-34",
+      "number": "34",
+      "title": "No Interval",
+      "date": "2010/10/12",
+      "pages": []
+    },
+    {
+      "id": "freezing-35",
+      "number": "35",
+      "title": "Comrade",
+      "date": "2010/11/14",
+      "pages": []
+    },
+    {
+      "id": "freezing-36",
+      "number": "36",
+      "title": "Stigmata of Sympathy",
+      "date": "2010/12/27",
+      "pages": []
+    },
+    {
+      "id": "freezing-37",
+      "number": "37",
+      "title": "Shocking Finale",
+      "date": "2011/01/26",
+      "pages": []
+    },
+    {
+      "id": "freezing-38",
+      "number": "38",
+      "title": "Dinner Party",
+      "date": "2011/02/03",
+      "pages": []
+    },
+    {
+      "id": "freezing-39",
+      "number": "39",
+      "title": "Invitation",
+      "date": "2011/02/12",
+      "pages": []
+    },
+    {
+      "id": "freezing-40",
+      "number": "40",
+      "title": "To The Tropical Islands",
+      "date": "2011/02/27",
+      "pages": []
+    },
+    {
+      "id": "freezing-41",
+      "number": "41",
+      "title": "The Older Sister's Feelings",
+      "date": "2011/03/07",
+      "pages": []
+    },
+    {
+      "id": "freezing-42",
+      "number": "42",
+      "title": "Bound",
+      "date": "2011/04/08",
+      "pages": []
+    },
+    {
+      "id": "freezing-43",
+      "number": "43",
+      "title": "Jealous Lover",
+      "date": "2011/05/07",
+      "pages": []
+    },
+    {
+      "id": "freezing-44",
+      "number": "44",
+      "title": "Highlight Scene",
+      "date": "2011/05/13",
+      "pages": []
+    },
+    {
+      "id": "freezing-45",
+      "number": "45",
+      "title": "True Feelings",
+      "date": "2011/05/17",
+      "pages": []
+    },
+    {
+      "id": "freezing-46",
+      "number": "46",
+      "title": "Mark of Slavery",
+      "date": "2011/06/05",
+      "pages": []
+    },
+    {
+      "id": "freezing-47",
+      "number": "47",
+      "title": "Bonds",
+      "date": "2011/06/16",
+      "pages": []
+    },
+    {
+      "id": "freezing-48",
+      "number": "48",
+      "title": "Released Shackles",
+      "date": "2011/06/24",
+      "pages": []
+    },
+    {
+      "id": "freezing-49",
+      "number": "49",
+      "title": "Siblings 1",
+      "date": "2011/07/15",
+      "pages": []
+    },
+    {
+      "id": "freezing-50",
+      "number": "50",
+      "title": "Siblings 2",
+      "date": "2011/07/24",
+      "pages": []
+    },
+    {
+      "id": "freezing-51",
+      "number": "51",
+      "title": "The E Pandora Project",
+      "date": "2011/08/03",
+      "pages": []
+    },
+    {
+      "id": "freezing-52",
+      "number": "52",
+      "title": "Forger That, Let's Play Soccer!!",
+      "date": "2011/08/29",
+      "pages": []
+    },
+    {
+      "id": "freezing-53",
+      "number": "53",
+      "title": "Sub-Zero Earth",
+      "date": "2011/09/24",
+      "pages": []
+    },
+    {
+      "id": "freezing-54",
+      "number": "54",
+      "title": "Pandora vs Pandora",
+      "date": "2011/09/26",
+      "pages": []
+    },
+    {
+      "id": "freezing-55",
+      "number": "55",
+      "title": "Difference In Strength",
+      "date": "2011/09/27",
+      "pages": []
+    },
+    {
+      "id": "freezing-56",
+      "number": "56",
+      "title": "Those Who Crawl Along The Ground",
+      "date": "2011/09/27",
+      "pages": []
+    },
+    {
+      "id": "freezing-57",
+      "number": "57",
+      "title": "Mark IV",
+      "date": "2011/09/28",
+      "pages": []
+    },
+    {
+      "id": "freezing-58",
+      "number": "58",
+      "title": "Scarlet Ohara",
+      "date": "2011/10/03",
+      "pages": []
+    },
+    {
+      "id": "freezing-59",
+      "number": "59",
+      "title": "Compensation For Sacrifices",
+      "date": "2011/10/03",
+      "pages": []
+    },
+    {
+      "id": "freezing-60",
+      "number": "60",
+      "title": "The Cost Of Sacrifice II",
+      "date": "2011/10/24",
+      "pages": []
+    },
+    {
+      "id": "freezing-61",
+      "number": "61",
+      "title": "Typhon Tempest",
+      "date": "2011/11/25",
+      "pages": []
+    },
+    {
+      "id": "freezing-62",
+      "number": "62",
+      "title": "Death of a Comrade",
+      "date": "2011/12/10",
+      "pages": []
+    },
+    {
+      "id": "freezing-63",
+      "number": "63",
+      "title": "Doubt",
+      "date": "2012/01/14",
+      "pages": []
+    },
+    {
+      "id": "freezing-64",
+      "number": "64",
+      "title": "Determination",
+      "date": "2012/01/15",
+      "pages": []
+    },
+    {
+      "id": "freezing-65",
+      "number": "65",
+      "title": "Impasse",
+      "date": "2012/02/05",
+      "pages": []
+    },
+    {
+      "id": "freezing-66",
+      "number": "66",
+      "title": "Fantasy And Reality",
+      "date": "2012/03/28",
+      "pages": []
+    },
+    {
+      "id": "freezing-67",
+      "number": "67",
+      "title": "Ruthless Decision",
+      "date": "2012/03/29",
+      "pages": []
+    },
+    {
+      "id": "freezing-68",
+      "number": "68",
+      "title": "Rebellion",
+      "date": "2012/04/07",
+      "pages": []
+    },
+    {
+      "id": "freezing-69",
+      "number": "69",
+      "title": "Elizabeth's Resolve",
+      "date": "2012/04/07",
+      "pages": []
+    },
+    {
+      "id": "freezing-70",
+      "number": "70",
+      "title": "Rebels",
+      "date": "2012/04/07",
+      "pages": []
+    },
+    {
+      "id": "freezing-72",
+      "number": "72",
+      "title": "Fierce Battle",
+      "date": "2012/04/07",
+      "pages": []
+    },
+    {
+      "id": "freezing-73",
+      "number": "73",
+      "title": "Conflict I",
+      "date": "2012/04/11",
+      "pages": []
+    },
+    {
+      "id": "freezing-74",
+      "number": "74",
+      "title": "Conflict II",
+      "date": "2012/04/12",
+      "pages": []
+    },
+    {
+      "id": "freezing-75",
+      "number": "75",
+      "title": "Charles Bonaparte",
+      "date": "2012/04/16",
+      "pages": []
+    },
+    {
+      "id": "freezing-76",
+      "number": "76",
+      "title": "Condition for Victory",
+      "date": "2012/04/19",
+      "pages": []
+    },
+    {
+      "id": "freezing-77",
+      "number": "77",
+      "title": "Difference in Experience",
+      "date": "2012/04/25",
+      "pages": []
+    },
+    {
+      "id": "freezing-78",
+      "number": "78",
+      "title": "Monster, Part I",
+      "date": "2012/04/27",
+      "pages": []
+    },
+    {
+      "id": "freezing-79",
+      "number": "79",
+      "title": "Monster, Part II",
+      "date": "2012/04/29",
+      "pages": []
+    },
+    {
+      "id": "freezing-80",
+      "number": "80",
+      "title": "An Unforgivable Existence",
+      "date": "2012/04/29",
+      "pages": []
+    },
+    {
+      "id": "freezing-81",
+      "number": "81",
+      "title": "The Forbidden Door",
+      "date": "2012/05/01",
+      "pages": []
+    },
+    {
+      "id": "freezing-82",
+      "number": "82",
+      "title": "Resonance",
+      "date": "2012/05/03",
+      "pages": []
+    },
+    {
+      "id": "freezing-83",
+      "number": "83",
+      "title": "Resonance, Part II",
+      "date": "2012/05/04",
+      "pages": []
+    },
+    {
+      "id": "freezing-84",
+      "number": "84",
+      "title": "Connected Hearts",
+      "date": "2012/05/07",
+      "pages": []
+    },
+    {
+      "id": "freezing-85",
+      "number": "85",
+      "title": "The Depths of One's Memory",
+      "date": "2012/05/08",
+      "pages": []
+    },
+    {
+      "id": "freezing-86",
+      "number": "86",
+      "title": "Anti-Nova, Part 1",
+      "date": "2012/05/09",
+      "pages": []
+    },
+    {
+      "id": "freezing-87",
+      "number": "87",
+      "title": "Anti-Nova, Part 2",
+      "date": "2012/05/10",
+      "pages": []
+    },
+    {
+      "id": "freezing-88",
+      "number": "88",
+      "title": "Illusion Turn",
+      "date": "2012/05/10",
+      "pages": []
+    },
+    {
+      "id": "freezing-89",
+      "number": "89",
+      "title": "Heart to Heart",
+      "date": "2012/05/13",
+      "pages": []
+    },
+    {
+      "id": "freezing-90",
+      "number": "90",
+      "title": "Friends",
+      "date": "2012/05/15",
+      "pages": []
+    },
+    {
+      "id": "freezing-91",
+      "number": "91",
+      "title": "The Meaning of That Smile",
+      "date": "2012/05/16",
+      "pages": []
+    },
+    {
+      "id": "freezing-92",
+      "number": "92",
+      "title": "What She Left Behind",
+      "date": "2012/06/06",
+      "pages": []
+    },
+    {
+      "id": "freezing-93",
+      "number": "93",
+      "title": "A Time For Change I",
+      "date": "2012/06/06",
+      "pages": []
+    },
+    {
+      "id": "freezing-94",
+      "number": "94",
+      "title": "A Time For Change II",
+      "date": "2012/06/06",
+      "pages": []
+    },
+    {
+      "id": "freezing-95",
+      "number": "95",
+      "title": "A Time For Change III",
+      "date": "2012/06/06",
+      "pages": []
+    },
+    {
+      "id": "freezing-96",
+      "number": "96",
+      "title": "A Time For Change IV",
+      "date": "2012/06/06",
+      "pages": []
+    },
+    {
+      "id": "freezing-97",
+      "number": "97",
+      "title": "Prelude To The Storm",
+      "date": "2012/06/10",
+      "pages": []
+    },
+    {
+      "id": "freezing-98",
+      "number": "98",
+      "title": "Exercise",
+      "date": "2012/06/15",
+      "pages": []
+    },
+    {
+      "id": "freezing-99",
+      "number": "99",
+      "title": "Valkyries - Part 1",
+      "date": "2012/06/15",
+      "pages": []
+    },
+    {
+      "id": "freezing-100",
+      "number": "100",
+      "title": "Valkyries - Part 2",
+      "date": "2012/06/22",
+      "pages": []
+    },
+    {
+      "id": "freezing-101",
+      "number": "101",
+      "title": "A Promise To A Rival",
+      "date": "2012/06/28",
+      "pages": []
+    },
+    {
+      "id": "freezing-102",
+      "number": "102",
+      "title": "Ouka Tenjouin",
+      "date": "2012/07/09",
+      "pages": []
+    },
+    {
+      "id": "freezing-103",
+      "number": "103",
+      "title": "Team 13",
+      "date": "2012/08/09",
+      "pages": []
+    },
+    {
+      "id": "freezing-104",
+      "number": "104",
+      "title": "Kazuha Has Left",
+      "date": "2012/08/14",
+      "pages": []
+    },
+    {
+      "id": "freezing-105",
+      "number": "105",
+      "title": "Causes of Rupture - Part 1",
+      "date": "2012/08/31",
+      "pages": []
+    },
+    {
+      "id": "freezing-106",
+      "number": "106",
+      "title": "Causes of Rupture - Part 2",
+      "date": "2012/09/21",
+      "pages": []
+    },
+    {
+      "id": "freezing-107",
+      "number": "107",
+      "title": "Causes of Rupture - Part 3",
+      "date": "2012/09/21",
+      "pages": []
+    },
+    {
+      "id": "freezing-108",
+      "number": "108",
+      "title": "Thoughts of a Grandfather",
+      "date": "2012/11/14",
+      "pages": []
+    },
+    {
+      "id": "freezing-109",
+      "number": "109",
+      "title": "Old Memories",
+      "date": "2012/11/14",
+      "pages": []
+    },
+    {
+      "id": "freezing-110",
+      "number": "110",
+      "title": "A Risky Situation - Part 1",
+      "date": "2012/11/19",
+      "pages": []
+    },
+    {
+      "id": "freezing-111",
+      "number": "111",
+      "title": "A Risky Situation - Part 2",
+      "date": "2012/11/26",
+      "pages": []
+    },
+    {
+      "id": "freezing-112",
+      "number": "112",
+      "title": "Unsolicited",
+      "date": "2012/11/27",
+      "pages": []
+    },
+    {
+      "id": "freezing-113",
+      "number": "113",
+      "title": "Were you Waiting for Me?",
+      "date": "2012/12/01",
+      "pages": []
+    },
+    {
+      "id": "freezing-114",
+      "number": "114",
+      "title": "Plasma Weapons",
+      "date": "2012/12/31",
+      "pages": []
+    },
+    {
+      "id": "freezing-115",
+      "number": "115",
+      "title": "Maria",
+      "date": "2013/01/03",
+      "pages": []
+    },
+    {
+      "id": "freezing-116",
+      "number": "116",
+      "title": "Joint Excercise - Part 1",
+      "date": "2013/01/10",
+      "pages": []
+    },
+    {
+      "id": "freezing-117",
+      "number": "117",
+      "title": "Joint Excercise - Part 2",
+      "date": "2013/01/22",
+      "pages": []
+    },
+    {
+      "id": "freezing-118",
+      "number": "118",
+      "title": "Cries - Part 1",
+      "date": "2013/02/21",
+      "pages": []
+    },
+    {
+      "id": "freezing-119",
+      "number": "119",
+      "title": "Alas - Part 2",
+      "date": "2013/03/21",
+      "pages": []
+    },
+    {
+      "id": "freezing-120",
+      "number": "120",
+      "title": "Cries - Part 3",
+      "date": "2013/03/21",
+      "pages": []
+    },
+    {
+      "id": "freezing-121",
+      "number": "121",
+      "title": "Plan",
+      "date": "2013/04/01",
+      "pages": []
+    },
+    {
+      "id": "freezing-122",
+      "number": "122",
+      "title": "Transcendence",
+      "date": "2013/04/19",
+      "pages": []
+    },
+    {
+      "id": "freezing-123",
+      "number": "123",
+      "title": "With All Yourself",
+      "date": "2013/04/24",
+      "pages": []
+    },
+    {
+      "id": "freezing-124",
+      "number": "124",
+      "title": "New Power",
+      "date": "2013/05/26",
+      "pages": []
+    },
+    {
+      "id": "freezing-125",
+      "number": "125",
+      "title": "Beyond",
+      "date": "2013/07/06",
+      "pages": []
+    },
+    {
+      "id": "freezing-126",
+      "number": "126",
+      "title": "New Life Forms",
+      "date": "2013/07/06",
+      "pages": []
+    },
+    {
+      "id": "freezing-127",
+      "number": "127",
+      "title": "Anxiety",
+      "date": "2013/08/01",
+      "pages": []
+    },
+    {
+      "id": "freezing-128",
+      "number": "128",
+      "title": "Growth",
+      "date": "2013/09/07",
+      "pages": []
+    },
+    {
+      "id": "freezing-129",
+      "number": "129",
+      "title": "Sacrifice",
+      "date": "2013/09/07",
+      "pages": []
+    },
+    {
+      "id": "freezing-130",
+      "number": "130",
+      "title": "Courage",
+      "date": "2013/09/07",
+      "pages": []
+    },
+    {
+      "id": "freezing-131",
+      "number": "131",
+      "title": "Overwhelming",
+      "date": "2013/09/27",
+      "pages": []
+    },
+    {
+      "id": "freezing-132",
+      "number": "132",
+      "title": "Return",
+      "date": "2013/09/27",
+      "pages": []
+    },
+    {
+      "id": "freezing-133",
+      "number": "133",
+      "title": "Trust",
+      "date": "2013/09/27",
+      "pages": []
+    },
+    {
+      "id": "freezing-134",
+      "number": "134",
+      "title": "Violated",
+      "date": "2013/10/05",
+      "pages": []
+    },
+    {
+      "id": "freezing-135",
+      "number": "135",
+      "title": "The Immortal Pandora",
+      "date": "2013/11/07",
+      "pages": []
+    },
+    {
+      "id": "freezing-136",
+      "number": "136",
+      "title": "A Cry From the Soul",
+      "date": "2013/11/07",
+      "pages": []
+    },
+    {
+      "id": "freezing-137",
+      "number": "137",
+      "title": "Difference In Strength",
+      "date": "2013/11/17",
+      "pages": []
+    },
+    {
+      "id": "freezing-138",
+      "number": "138",
+      "title": "Light Speed Bullet",
+      "date": "2013/11/17",
+      "pages": []
+    },
+    {
+      "id": "freezing-139",
+      "number": "139",
+      "title": "Guardians",
+      "date": "2013/11/23",
+      "pages": []
+    },
+    {
+      "id": "freezing-140",
+      "number": "140",
+      "title": "Legends",
+      "date": "2013/11/23",
+      "pages": []
+    },
+    {
+      "id": "freezing-141",
+      "number": "141",
+      "title": "The Sisters from Lab 13, Part I",
+      "date": "2013/12/02",
+      "pages": []
+    },
+    {
+      "id": "freezing-142",
+      "number": "142",
+      "title": "The Sisters of Lab 13, Part II",
+      "date": "2013/12/26",
+      "pages": []
+    },
+    {
+      "id": "freezing-143",
+      "number": "143",
+      "title": "Temporary Stalement",
+      "date": "2014/01/10",
+      "pages": []
+    },
+    {
+      "id": "freezing-144",
+      "number": "144",
+      "title": "Distant Memories",
+      "date": "2014/01/17",
+      "pages": []
+    },
+    {
+      "id": "freezing-145",
+      "number": "145",
+      "title": "Blood Bond",
+      "date": "2014/01/23",
+      "pages": []
+    },
+    {
+      "id": "freezing-146",
+      "number": "146",
+      "title": "Definition of a Human Being",
+      "date": "2014/01/31",
+      "pages": []
+    },
+    {
+      "id": "freezing-147",
+      "number": "147",
+      "title": "Preliminary Battle Part I",
+      "date": "2014/02/08",
+      "pages": []
+    },
+    {
+      "id": "freezing-148",
+      "number": "148",
+      "title": "Preliminary Battle Part II",
+      "date": "2014/03/22",
+      "pages": []
+    },
+    {
+      "id": "freezing-149",
+      "number": "149",
+      "title": "Failure List",
+      "date": "2014/03/22",
+      "pages": []
+    },
+    {
+      "id": "freezing-150",
+      "number": "150",
+      "title": "Restart",
+      "date": "2014/03/22",
+      "pages": []
+    },
+    {
+      "id": "freezing-151",
+      "number": "151",
+      "title": "A Brief Reprieve",
+      "date": "2014/03/22",
+      "pages": []
+    },
+    {
+      "id": "freezing-152",
+      "number": "152",
+      "title": "Motherhood",
+      "date": "2014/03/22",
+      "pages": []
+    },
+    {
+      "id": "freezing-153",
+      "number": "153",
+      "title": "Behind Her Smile",
+      "date": "2014/03/22",
+      "pages": []
+    },
+    {
+      "id": "freezing-154",
+      "number": "154",
+      "title": "Family Bonds",
+      "date": "2014/03/28",
+      "pages": []
+    },
+    {
+      "id": "freezing-155",
+      "number": "155",
+      "title": "Busters Mobilize I",
+      "date": "2014/04/19",
+      "pages": []
+    },
+    {
+      "id": "freezing-156",
+      "number": "156",
+      "title": "Busters Mobilize II",
+      "date": "2014/05/03",
+      "pages": []
+    },
+    {
+      "id": "freezing-157",
+      "number": "157",
+      "title": "Raid",
+      "date": "2014/05/03",
+      "pages": []
+    },
+    {
+      "id": "freezing-158",
+      "number": "158",
+      "title": "License to Kill",
+      "date": "2014/05/10",
+      "pages": []
+    },
+    {
+      "id": "freezing-159",
+      "number": "159",
+      "title": "Vicious",
+      "date": "2014/05/24",
+      "pages": []
+    },
+    {
+      "id": "freezing-160",
+      "number": "160",
+      "title": "he Busters' Terrifying Might I",
+      "date": "2014/05/31",
+      "pages": []
+    },
+    {
+      "id": "freezing-161",
+      "number": "161",
+      "title": "The Busters' Terrifying Might II",
+      "date": "2014/06/14",
+      "pages": []
+    },
+    {
+      "id": "freezing-162",
+      "number": "162",
+      "title": "The Busters' Terrifying Might III",
+      "date": "2014/07/12",
+      "pages": []
+    },
+    {
+      "id": "freezing-163",
+      "number": "163",
+      "title": "Humiliation",
+      "date": "2014/07/19",
+      "pages": []
+    },
+    {
+      "id": "freezing-164",
+      "number": "164",
+      "title": "Anti-Freezing I",
+      "date": "2014/08/02",
+      "pages": []
+    },
+    {
+      "id": "freezing-165",
+      "number": "165",
+      "title": "Anti-Freezing II",
+      "date": "2014/08/09",
+      "pages": []
+    },
+    {
+      "id": "freezing-166",
+      "number": "166",
+      "title": "Inevitable",
+      "date": "2014/08/16",
+      "pages": []
+    },
+    {
+      "id": "freezing-167",
+      "number": "167",
+      "title": "True Nature",
+      "date": "2014/08/23",
+      "pages": []
+    },
+    {
+      "id": "freezing-168",
+      "number": "168",
+      "title": "Weakness",
+      "date": "2014/09/06",
+      "pages": []
+    },
+    {
+      "id": "freezing-169",
+      "number": "169",
+      "title": "Weakness - Part 2",
+      "date": "2014/12/19",
+      "pages": []
+    },
+    {
+      "id": "freezing-170",
+      "number": "170",
+      "title": "Shared Past I",
+      "date": "2015/01/03",
+      "pages": []
+    },
+    {
+      "id": "freezing-171",
+      "number": "171",
+      "title": "Shared Past II",
+      "date": "2015/01/17",
+      "pages": []
+    },
+    {
+      "id": "freezing-172",
+      "number": "172",
+      "title": "Devilish",
+      "date": "2015/01/31",
+      "pages": []
+    },
+    {
+      "id": "freezing-173",
+      "number": "173",
+      "title": "Struggle",
+      "date": "2015/01/31",
+      "pages": []
+    },
+    {
+      "id": "freezing-174",
+      "number": "174",
+      "title": "Sudden Change",
+      "date": "2015/02/14",
+      "pages": []
+    },
+    {
+      "id": "freezing-175",
+      "number": "175",
+      "title": "Way Out",
+      "date": "2015/02/21",
+      "pages": []
+    },
+    {
+      "id": "freezing-176",
+      "number": "176",
+      "title": "Comeback",
+      "date": "2015/03/07",
+      "pages": []
+    },
+    {
+      "id": "freezing-177",
+      "number": "177",
+      "title": "Simulacrum",
+      "date": "2015/03/07",
+      "pages": []
+    },
+    {
+      "id": "freezing-178",
+      "number": "178",
+      "title": "Created Existences",
+      "date": "2015/03/14",
+      "pages": []
+    },
+    {
+      "id": "freezing-179",
+      "number": "179",
+      "title": "Illusion I",
+      "date": "2015/04/03",
+      "pages": []
+    },
+    {
+      "id": "freezing-180",
+      "number": "180",
+      "title": "Illusion II",
+      "date": "2015/04/20",
+      "pages": []
+    },
+    {
+      "id": "freezing-181",
+      "number": "181",
+      "title": "Soul",
+      "date": "2015/04/20",
+      "pages": []
+    },
+    {
+      "id": "freezing-182",
+      "number": "182",
+      "title": "Sacrifice",
+      "date": "2015/05/04",
+      "pages": []
+    },
+    {
+      "id": "freezing-183",
+      "number": "183",
+      "title": "Legacy of the Past",
+      "date": "2015/06/14",
+      "pages": []
+    },
+    {
+      "id": "freezing-184",
+      "number": "184",
+      "title": "Aoi Ryuuichi",
+      "date": "2015/07/12",
+      "pages": []
+    },
+    {
+      "id": "freezing-185",
+      "number": "185",
+      "title": "Siblings",
+      "date": "2015/07/19",
+      "pages": []
+    },
+    {
+      "id": "freezing-186",
+      "number": "186",
+      "title": "Mask I",
+      "date": "2015/08/01",
+      "pages": []
+    },
+    {
+      "id": "freezing-187",
+      "number": "187",
+      "title": "Mask II",
+      "date": "2015/08/01",
+      "pages": []
+    },
+    {
+      "id": "freezing-188",
+      "number": "188",
+      "title": "Decision",
+      "date": "2015/08/08",
+      "pages": []
+    },
+    {
+      "id": "freezing-189",
+      "number": "189",
+      "title": "Substitute",
+      "date": "2015/08/14",
+      "pages": []
+    },
+    {
+      "id": "freezing-190",
+      "number": "190",
+      "title": "Rejection I",
+      "date": "2015/09/19",
+      "pages": []
+    },
+    {
+      "id": "freezing-191",
+      "number": "191",
+      "title": "Rejection II",
+      "date": "2015/09/26",
+      "pages": []
+    },
+    {
+      "id": "freezing-192",
+      "number": "192",
+      "title": "Rejection III",
+      "date": "2015/10/02",
+      "pages": []
+    },
+    {
+      "id": "freezing-193",
+      "number": "193",
+      "title": "Role I",
+      "date": "2015/10/09",
+      "pages": []
+    },
+    {
+      "id": "freezing-194",
+      "number": "194",
+      "title": "Role II",
+      "date": "2015/10/16",
+      "pages": []
+    },
+    {
+      "id": "freezing-195",
+      "number": "195",
+      "title": "Values",
+      "date": "2015/10/23",
+      "pages": []
+    },
+    {
+      "id": "freezing-196",
+      "number": "196",
+      "title": "Suitable Power",
+      "date": "2015/10/30",
+      "pages": []
+    },
+    {
+      "id": "freezing-197",
+      "number": "197",
+      "title": "Turning Point",
+      "date": "2016/02/12",
+      "pages": []
+    },
+    {
+      "id": "freezing-198",
+      "number": "198",
+      "title": "Noise",
+      "date": "2016/02/12",
+      "pages": []
+    },
+    {
+      "id": "freezing-199",
+      "number": "199",
+      "title": "Arrival Of The War Princess",
+      "date": "2016/03/15",
+      "pages": []
+    },
+    {
+      "id": "freezing-200",
+      "number": "200",
+      "title": "Arcadia",
+      "date": "2016/03/16",
+      "pages": []
+    },
+    {
+      "id": "freezing-201",
+      "number": "201",
+      "title": "Chapter 201",
+      "date": "2016/03/18",
+      "pages": []
+    },
+    {
+      "id": "freezing-202",
+      "number": "202",
+      "title": "Mother",
+      "date": "2016/06/27",
+      "pages": []
+    },
+    {
+      "id": "freezing-203",
+      "number": "203",
+      "title": "Chapter 203",
+      "date": "2016/06/27",
+      "pages": []
+    },
+    {
+      "id": "freezing-204",
+      "number": "204",
+      "title": "Chapter 204",
+      "date": "2016/06/27",
+      "pages": []
+    },
+    {
+      "id": "freezing-205",
+      "number": "205",
+      "title": "Vol 26",
+      "date": "2016/08/17",
+      "pages": []
+    },
+    {
+      "id": "freezing-206",
+      "number": "206",
+      "title": "Vol 26Chapter 206",
+      "date": "2016/08/17",
+      "pages": []
+    },
+    {
+      "id": "freezing-207",
+      "number": "207",
+      "title": "Vol 26Chapter 207",
+      "date": "2016/08/17",
+      "pages": []
+    },
+    {
+      "id": "freezing-208",
+      "number": "208",
+      "title": "Vol 31Freezing 208 rev2",
+      "date": "2017/02/19",
+      "pages": []
+    },
+    {
+      "id": "freezing-209",
+      "number": "209",
+      "title": "Vol 31Chapter 209",
+      "date": "2017/02/19",
+      "pages": []
+    },
+    {
+      "id": "freezing-210",
+      "number": "210",
+      "title": "",
+      "date": "2017/08/04",
+      "pages": []
+    },
+    {
+      "id": "freezing-211",
+      "number": "211",
+      "title": "",
+      "date": "2017/08/11",
+      "pages": []
+    },
+    {
+      "id": "freezing-212",
+      "number": "212",
+      "title": "",
+      "date": "2017/10/25",
+      "pages": []
+    },
+    {
+      "id": "freezing-213",
+      "number": "213",
+      "title": "",
+      "date": "2018/01/08",
+      "pages": []
+    },
+    {
+      "id": "freezing-214",
+      "number": "214",
+      "title": "",
+      "date": "2018/01/08",
+      "pages": []
+    },
+    {
+      "id": "freezing-215",
+      "number": "215",
+      "title": "",
+      "date": "2018/02/26",
+      "pages": []
+    },
+    {
+      "id": "freezing-216",
+      "number": "216",
+      "title": "",
+      "date": "2018/04/15",
+      "pages": []
+    },
+    {
+      "id": "freezing-217",
+      "number": "217",
+      "title": "",
+      "date": "2018/06/04",
+      "pages": []
+    },
+    {
+      "id": "freezing-218",
+      "number": "218",
+      "title": "",
+      "date": "2018/07/30",
+      "pages": []
+    },
+    {
+      "id": "freezing-219",
+      "number": "219",
+      "title": "",
+      "date": "2018/09/30",
+      "pages": []
+    },
+    {
+      "id": "freezing-220",
+      "number": "220",
+      "title": "",
+      "date": "2018/10/03",
+      "pages": []
+    },
+    {
+      "id": "freezing-221",
+      "number": "221",
+      "title": "",
+      "date": "2018/10/16",
+      "pages": []
+    },
+    {
+      "id": "freezing-222",
+      "number": "222",
+      "title": "",
+      "date": "2019/01/16",
+      "pages": []
+    },
+    {
+      "id": "freezing-223",
+      "number": "223",
+      "title": "",
+      "date": "2019/01/16",
+      "pages": []
+    },
+    {
+      "id": "freezing-224",
+      "number": "224",
+      "title": "",
+      "date": "2019/01/16",
+      "pages": []
+    },
+    {
+      "id": "freezing-225",
+      "number": "225",
+      "title": "",
+      "date": "2019/01/17",
+      "pages": []
+    }
+  ]
+}

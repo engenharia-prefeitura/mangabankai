@@ -1,0 +1,683 @@
+{
+  "en": [
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-1",
+      "number": "1",
+      "title": "Yoshiki",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-2",
+      "number": "2",
+      "title": "Mikako",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-3",
+      "number": "3",
+      "title": "Kaito",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-4",
+      "number": "4",
+      "title": "Shibuya",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-5",
+      "number": "5",
+      "title": "Exposure",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-6",
+      "number": "6",
+      "title": "Girl Friends",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-7",
+      "number": "7",
+      "title": "Cross",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-8",
+      "number": "8",
+      "title": "Behind Closed Doors",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-9",
+      "number": "9",
+      "title": "Bud",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-10",
+      "number": "10",
+      "title": "Thunder",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-11",
+      "number": "11",
+      "title": "Deception",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-12",
+      "number": "12",
+      "title": "Graduation",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-13",
+      "number": "13",
+      "title": "Breakup",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-14",
+      "number": "14",
+      "title": "Punishment",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-15",
+      "number": "15",
+      "title": "Sleepover",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-16",
+      "number": "16",
+      "title": "Parasite",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-17",
+      "number": "17",
+      "title": "Refrain",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-18",
+      "number": "18",
+      "title": "Ambush",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-19",
+      "number": "19",
+      "title": "Slave",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-20",
+      "number": "20",
+      "title": "Guilty",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-21",
+      "number": "21",
+      "title": "Unexpected",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-22",
+      "number": "22",
+      "title": "Kiss",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-23",
+      "number": "23",
+      "title": "Distasteful",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-24",
+      "number": "24",
+      "title": "First Love",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-25",
+      "number": "25",
+      "title": "Suspicion",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-26",
+      "number": "26",
+      "title": "Shadow",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-27",
+      "number": "27",
+      "title": "Stifling",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-28",
+      "number": "28",
+      "title": "Intent",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-29",
+      "number": "29",
+      "title": "Bud",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-30",
+      "number": "30",
+      "title": "Love Hotel",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-31",
+      "number": "31",
+      "title": "Separation",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-32",
+      "number": "32",
+      "title": "Outside",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-33",
+      "number": "33",
+      "title": "Men and Women",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-34",
+      "number": "34",
+      "title": "Fuck Buddies",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-35",
+      "number": "35",
+      "title": "Yuki",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-36",
+      "number": "36",
+      "title": "The Road Ahead",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-37",
+      "number": "37",
+      "title": "Dead End",
+      "date": "2015/05/27",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-38",
+      "number": "38",
+      "title": "Another World",
+      "date": "2015/05/27",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-39",
+      "number": "39",
+      "title": "Temptation",
+      "date": "2015/05/27",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-40",
+      "number": "40",
+      "title": "Falter",
+      "date": "2015/05/27",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-41",
+      "number": "41",
+      "title": "Lies",
+      "date": "2015/07/28",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-42",
+      "number": "42",
+      "title": "Starting Point",
+      "date": "2015/07/28",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-43",
+      "number": "43",
+      "title": "Vexing",
+      "date": "2015/07/28",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-44",
+      "number": "44",
+      "title": "Day and Night",
+      "date": "2015/07/28",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-45",
+      "number": "45",
+      "title": "Girls",
+      "date": "2015/10/28",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-46",
+      "number": "46",
+      "title": "Breach of Contract",
+      "date": "2015/10/28",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-47",
+      "number": "47",
+      "title": "True Colors",
+      "date": "2015/10/28",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-48",
+      "number": "48",
+      "title": "Reality",
+      "date": "2015/10/28",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-49",
+      "number": "49",
+      "title": "Bad",
+      "date": "2015/10/28",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-50",
+      "number": "50",
+      "title": "Vice",
+      "date": "2015/10/28",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-51",
+      "number": "51",
+      "title": "Deadlock",
+      "date": "2015/11/28",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-52",
+      "number": "52",
+      "title": "A like",
+      "date": "2015/11/28",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-53",
+      "number": "53",
+      "title": "Alike",
+      "date": "2015/12/25",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-54",
+      "number": "54",
+      "title": "Tears",
+      "date": "2015/12/25",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-55",
+      "number": "55",
+      "title": "Attitude",
+      "date": "2015/12/25",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-56",
+      "number": "56",
+      "title": "Benefit",
+      "date": "2015/12/25",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-57",
+      "number": "57",
+      "title": "Bias",
+      "date": "2015/12/25",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-58",
+      "number": "58",
+      "title": "Out",
+      "date": "2015/12/25",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-59",
+      "number": "59",
+      "title": "",
+      "date": "2016/10/26",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-60",
+      "number": "60",
+      "title": "",
+      "date": "2016/10/26",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-61",
+      "number": "61",
+      "title": "",
+      "date": "2016/10/26",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-62",
+      "number": "62",
+      "title": "",
+      "date": "2016/10/26",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-63",
+      "number": "63",
+      "title": "",
+      "date": "2016/10/26",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-64",
+      "number": "64",
+      "title": "",
+      "date": "2016/10/26",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-65",
+      "number": "65",
+      "title": "",
+      "date": "2016/10/26",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-66",
+      "number": "66",
+      "title": "",
+      "date": "2016/10/26",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-67",
+      "number": "67",
+      "title": "",
+      "date": "2016/10/26",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-68",
+      "number": "68",
+      "title": "",
+      "date": "2016/10/26",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-69",
+      "number": "69",
+      "title": "",
+      "date": "2016/10/26",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-70",
+      "number": "70",
+      "title": "",
+      "date": "2016/10/26",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-71",
+      "number": "71",
+      "title": "",
+      "date": "2016/10/26",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-72",
+      "number": "72",
+      "title": "",
+      "date": "2016/10/26",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-73",
+      "number": "73",
+      "title": "",
+      "date": "2016/10/26",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-74",
+      "number": "74",
+      "title": "",
+      "date": "2016/10/26",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-75",
+      "number": "75",
+      "title": "",
+      "date": "2016/10/26",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-77",
+      "number": "77",
+      "title": "",
+      "date": "2016/10/26",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-78",
+      "number": "78",
+      "title": "",
+      "date": "2016/10/26",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-79",
+      "number": "79",
+      "title": "",
+      "date": "2016/10/26",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-80",
+      "number": "80",
+      "title": "",
+      "date": "2016/10/26",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-81",
+      "number": "81",
+      "title": "",
+      "date": "2016/11/21",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-82",
+      "number": "82",
+      "title": "",
+      "date": "2016/11/21",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-83",
+      "number": "83",
+      "title": "",
+      "date": "2016/11/21",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-84",
+      "number": "84",
+      "title": "",
+      "date": "2016/12/22",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-85",
+      "number": "85",
+      "title": "",
+      "date": "2016/12/22",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-86",
+      "number": "86",
+      "title": "",
+      "date": "2016/12/22",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-87",
+      "number": "87",
+      "title": "",
+      "date": "2016/12/22",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-88",
+      "number": "88",
+      "title": "",
+      "date": "2016/12/22",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-89",
+      "number": "89",
+      "title": "",
+      "date": "2017/01/17",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-90",
+      "number": "90",
+      "title": "",
+      "date": "2017/01/17",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-91",
+      "number": "91",
+      "title": "",
+      "date": "2017/01/17",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-92",
+      "number": "92",
+      "title": "",
+      "date": "2017/02/04",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-93",
+      "number": "93",
+      "title": "",
+      "date": "2017/02/04",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-94",
+      "number": "94",
+      "title": "",
+      "date": "2017/02/04",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-95",
+      "number": "95",
+      "title": "",
+      "date": "2017/03/10",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-96",
+      "number": "96",
+      "title": "",
+      "date": "2017/03/10",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-97",
+      "number": "97",
+      "title": "",
+      "date": "2017/04/10",
+      "pages": []
+    },
+    {
+      "id": "himegoto-juukyuusai-no-seifuku-98",
+      "number": "98",
+      "title": "",
+      "date": "2017/04/10",
+      "pages": []
+    }
+  ]
+}

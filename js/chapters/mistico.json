@@ -1,0 +1,699 @@
+{
+  "pt": [
+    {
+      "id": "mistico-chapter-0",
+      "number": 0,
+      "title": "Capítulo 0",
+      "date": "2026-06-23T19:52:57.737Z",
+      "pages": [
+        "https://cdn.leituramanga.net/mistico/capitulo-00/page-1-1.webp",
+        "https://cdn.leituramanga.net/mistico/capitulo-00/page-1-2.webp",
+        "https://cdn.leituramanga.net/mistico/capitulo-00/page-1-3.webp",
+        "https://cdn.leituramanga.net/mistico/capitulo-00/page-2-1.webp",
+        "https://cdn.leituramanga.net/mistico/capitulo-00/page-2-2.webp",
+        "https://cdn.leituramanga.net/mistico/capitulo-00/page-3-1.webp",
+        "https://cdn.leituramanga.net/mistico/capitulo-00/page-3-2.webp",
+        "https://cdn.leituramanga.net/mistico/capitulo-00/page-3-3.webp",
+        "https://cdn.leituramanga.net/mistico/capitulo-00/page-4-1.webp",
+        "https://cdn.leituramanga.net/mistico/capitulo-00/page-4-2.webp",
+        "https://cdn.leituramanga.net/mistico/capitulo-00/page-5-1.webp",
+        "https://cdn.leituramanga.net/mistico/capitulo-00/page-5-2.webp",
+        "https://cdn.leituramanga.net/mistico/capitulo-00/page-6-1.webp",
+        "https://cdn.leituramanga.net/mistico/capitulo-00/page-6-2.webp",
+        "https://cdn.leituramanga.net/mistico/capitulo-00/page-7-1.webp",
+        "https://cdn.leituramanga.net/mistico/capitulo-00/page-7-2.webp",
+        "https://cdn.leituramanga.net/mistico/capitulo-00/page-7-3.webp",
+        "https://cdn.leituramanga.net/mistico/capitulo-00/page-8-1.webp",
+        "https://cdn.leituramanga.net/mistico/capitulo-00/page-8-2.webp"
+      ]
+    },
+    {
+      "id": "mistico-chapter-1",
+      "number": 1,
+      "title": "Capítulo 01",
+      "date": "2026-04-05T04:03:42.241Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-2",
+      "number": 2,
+      "title": "Capítulo 02",
+      "date": "2026-04-05T04:04:55.798Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-3",
+      "number": 3,
+      "title": "Capítulo 03",
+      "date": "2026-04-05T04:06:09.595Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-4",
+      "number": 4,
+      "title": "Capítulo 04",
+      "date": "2026-04-05T04:07:22.380Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-5",
+      "number": 5,
+      "title": "Capítulo 05",
+      "date": "2026-04-05T04:08:06.427Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-6",
+      "number": 6,
+      "title": "Capítulo 06",
+      "date": "2026-04-05T04:09:27.272Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-7",
+      "number": 7,
+      "title": "Capítulo 07",
+      "date": "2026-04-05T04:10:34.990Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-8",
+      "number": 8,
+      "title": "Capítulo 08",
+      "date": "2026-04-05T04:11:43.241Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-9",
+      "number": 9,
+      "title": "Capítulo 09",
+      "date": "2026-04-05T04:12:37.554Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-10",
+      "number": 10,
+      "title": "Capítulo 10",
+      "date": "2026-04-05T04:13:28.909Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-11",
+      "number": 11,
+      "title": "Capítulo 11",
+      "date": "2026-04-05T04:14:22.729Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-12",
+      "number": 12,
+      "title": "Capítulo 12",
+      "date": "2026-04-05T04:15:14.941Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-13",
+      "number": 13,
+      "title": "Capítulo 13",
+      "date": "2026-04-05T04:16:04.242Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-14",
+      "number": 14,
+      "title": "Capítulo 14",
+      "date": "2026-04-05T04:17:00.012Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-15",
+      "number": 15,
+      "title": "Capítulo 15",
+      "date": "2026-04-05T04:17:53.343Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-16",
+      "number": 16,
+      "title": "Capítulo 16",
+      "date": "2026-04-05T04:18:41.211Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-17",
+      "number": 17,
+      "title": "Capítulo 17",
+      "date": "2026-04-05T04:19:30.521Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-18",
+      "number": 18,
+      "title": "Capítulo 18",
+      "date": "2026-04-05T04:20:22.247Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-19",
+      "number": 19,
+      "title": "Capítulo 19",
+      "date": "2026-04-05T04:21:14.091Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-20",
+      "number": 20,
+      "title": "Capítulo 20",
+      "date": "2026-04-05T04:22:05.382Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-21",
+      "number": 21,
+      "title": "Capítulo 21",
+      "date": "2026-04-05T04:22:54.368Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-22",
+      "number": 22,
+      "title": "Capítulo 22",
+      "date": "2026-04-05T04:23:49.654Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-23",
+      "number": 23,
+      "title": "Capítulo 23",
+      "date": "2026-04-05T04:24:45.009Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-24",
+      "number": 24,
+      "title": "Capítulo 24",
+      "date": "2026-04-05T04:25:38.173Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-25",
+      "number": 25,
+      "title": "Capítulo 25",
+      "date": "2026-04-05T04:26:34.967Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-26",
+      "number": 26,
+      "title": "Capítulo 26",
+      "date": "2026-04-05T04:27:26.793Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-27",
+      "number": 27,
+      "title": "Capítulo 27",
+      "date": "2026-04-05T04:28:18.996Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-28",
+      "number": 28,
+      "title": "Capítulo 28",
+      "date": "2026-04-05T04:29:14.030Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-29",
+      "number": 29,
+      "title": "Capítulo 29",
+      "date": "2026-04-05T04:29:31.674Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-30",
+      "number": 30,
+      "title": "Capítulo 30",
+      "date": "2026-04-05T04:30:26.514Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-31",
+      "number": 31,
+      "title": "Capítulo 31",
+      "date": "2026-04-05T04:31:25.792Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-32",
+      "number": 32,
+      "title": "Capítulo 32",
+      "date": "2026-04-05T04:32:24.288Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-33",
+      "number": 33,
+      "title": "Capítulo 33",
+      "date": "2026-04-05T04:33:17.529Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-34",
+      "number": 34,
+      "title": "Capítulo 34",
+      "date": "2026-04-05T04:34:14.201Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-35",
+      "number": 35,
+      "title": "Capítulo 35",
+      "date": "2026-04-05T04:35:15.070Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-36",
+      "number": 36,
+      "title": "Capítulo 36",
+      "date": "2026-04-05T04:36:12.315Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-37",
+      "number": 37,
+      "title": "Capítulo 37",
+      "date": "2026-04-05T04:37:06.205Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-38",
+      "number": 38,
+      "title": "Capítulo 38",
+      "date": "2026-04-05T04:38:03.307Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-39",
+      "number": 39,
+      "title": "Capítulo 39",
+      "date": "2026-04-05T04:39:01.471Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-40",
+      "number": 40,
+      "title": "Capítulo 40",
+      "date": "2026-04-05T04:39:47.511Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-41",
+      "number": 41,
+      "title": "Capítulo 41",
+      "date": "2026-04-05T04:40:46.037Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-42",
+      "number": 42,
+      "title": "Capítulo 42",
+      "date": "2026-04-05T04:41:54.021Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-43",
+      "number": 43,
+      "title": "Capítulo 43",
+      "date": "2026-04-05T04:43:04.623Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-44",
+      "number": 44,
+      "title": "Capítulo 44",
+      "date": "2026-04-05T04:44:12.354Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-45",
+      "number": 45,
+      "title": "Capítulo 45",
+      "date": "2026-04-05T04:45:26.739Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-46",
+      "number": 46,
+      "title": "Capítulo 46",
+      "date": "2026-04-05T04:46:38.845Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-47",
+      "number": 47,
+      "title": "Capítulo 47",
+      "date": "2026-04-05T04:47:49.742Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-48",
+      "number": 48,
+      "title": "Capítulo 48",
+      "date": "2026-04-05T04:48:58.529Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-49",
+      "number": 49,
+      "title": "Capítulo 49",
+      "date": "2026-04-05T04:50:10.572Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-50",
+      "number": 50,
+      "title": "Capítulo 50",
+      "date": "2026-04-05T04:51:30.718Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-51",
+      "number": 51,
+      "title": "Capítulo 51",
+      "date": "2026-04-05T04:52:43.140Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-52",
+      "number": 52,
+      "title": "Capítulo 52",
+      "date": "2026-04-05T04:53:33.531Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-53",
+      "number": 53,
+      "title": "Capítulo 53",
+      "date": "2026-04-05T04:54:36.191Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-54",
+      "number": 54,
+      "title": "Capítulo 54",
+      "date": "2026-04-05T04:55:49.349Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-55",
+      "number": 55,
+      "title": "Capítulo 55",
+      "date": "2026-04-05T04:56:33.477Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-56",
+      "number": 56,
+      "title": "Capítulo 56",
+      "date": "2026-04-05T04:57:24.385Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-57",
+      "number": 57,
+      "title": "Capítulo 57",
+      "date": "2026-04-05T04:58:16.061Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-58",
+      "number": 58,
+      "title": "Capítulo 58",
+      "date": "2026-04-05T04:59:07.619Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-59",
+      "number": 59,
+      "title": "Capítulo 59",
+      "date": "2026-04-05T05:00:01.315Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-60",
+      "number": 60,
+      "title": "Capítulo 60",
+      "date": "2026-04-05T05:00:50.710Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-61",
+      "number": 61,
+      "title": "Capítulo 61",
+      "date": "2026-04-05T05:01:41.315Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-62",
+      "number": 62,
+      "title": "Capítulo 62",
+      "date": "2026-04-05T05:02:20.487Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-63",
+      "number": 63,
+      "title": "Capítulo 63",
+      "date": "2026-04-05T05:03:10.244Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-64",
+      "number": 64,
+      "title": "Capítulo 64",
+      "date": "2026-04-05T05:03:46.743Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-65",
+      "number": 65,
+      "title": "Capítulo 65",
+      "date": "2026-04-05T05:04:34.266Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-66",
+      "number": 66,
+      "title": "Capítulo 66",
+      "date": "2026-04-05T05:05:19.782Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-67",
+      "number": 67,
+      "title": "Capítulo 67",
+      "date": "2026-04-05T05:06:07.925Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-68",
+      "number": 68,
+      "title": "Capítulo 68",
+      "date": "2026-04-05T05:06:52.690Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-69",
+      "number": 69,
+      "title": "Capítulo 69",
+      "date": "2026-04-05T05:07:43.527Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-70",
+      "number": 70,
+      "title": "Capítulo 70",
+      "date": "2026-04-05T05:08:31.674Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-71",
+      "number": 71,
+      "title": "Capítulo 71",
+      "date": "2026-04-05T05:09:13.856Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-72",
+      "number": 72,
+      "title": "Capítulo 72",
+      "date": "2026-04-05T05:09:52.709Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-73",
+      "number": 73,
+      "title": "Capítulo 73",
+      "date": "2026-04-05T05:10:40.418Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-74",
+      "number": 74,
+      "title": "Capítulo 74",
+      "date": "2026-04-05T05:11:25.932Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-75",
+      "number": 75,
+      "title": "Capítulo 75",
+      "date": "2026-04-05T05:12:11.780Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-76",
+      "number": 76,
+      "title": "Capítulo 76",
+      "date": "2026-04-05T05:12:53.987Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-77",
+      "number": 77,
+      "title": "Capítulo 77",
+      "date": "2026-04-05T05:13:36.524Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-78",
+      "number": 78,
+      "title": "Capítulo 78",
+      "date": "2026-04-05T05:14:22.317Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-79",
+      "number": 79,
+      "title": "Capítulo 79",
+      "date": "2026-04-05T05:15:05.070Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-80",
+      "number": 80,
+      "title": "Capítulo 80",
+      "date": "2026-04-05T05:15:47.142Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-81",
+      "number": 81,
+      "title": "Capítulo 81",
+      "date": "2026-04-05T05:16:31.161Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-82",
+      "number": 82,
+      "title": "Capítulo 82",
+      "date": "2026-04-05T05:17:14.456Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-83",
+      "number": 83,
+      "title": "Capítulo 83",
+      "date": "2026-04-05T05:18:01.193Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-84",
+      "number": 84,
+      "title": "Capítulo 84",
+      "date": "2026-04-05T05:18:42.477Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-85",
+      "number": 85,
+      "title": "Capítulo 85",
+      "date": "2026-04-05T05:19:26.815Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-86",
+      "number": 86,
+      "title": "Capítulo 86",
+      "date": "2026-04-05T05:20:14.417Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-87",
+      "number": 87,
+      "title": "Capítulo 87",
+      "date": "2026-04-05T05:20:57.923Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-88",
+      "number": 88,
+      "title": "Capítulo 88",
+      "date": "2026-04-05T05:21:40.771Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-89",
+      "number": 89,
+      "title": "Capítulo 89",
+      "date": "2026-04-05T05:22:26.733Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-90",
+      "number": 90,
+      "title": "Capítulo 90",
+      "date": "2026-04-05T05:23:17.852Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-91",
+      "number": 91,
+      "title": "Capítulo 91 - Fim da História Principal",
+      "date": "2026-04-05T05:24:17.759Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-91.92",
+      "number": 91.92,
+      "title": "Capítulo 92 - Extra 01",
+      "date": "2026-04-05T05:25:12.494Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-91.93",
+      "number": 91.93,
+      "title": "Capítulo 93 - Extra 02",
+      "date": "2026-04-05T05:26:02.724Z",
+      "pages": []
+    },
+    {
+      "id": "mistico-chapter-94",
+      "number": 94,
+      "title": "Capítulo 94",
+      "date": "2026-06-23T19:52:58.299Z",
+      "pages": [
+        "https://cdn.leituramanga.net/mistico/capitulo-94-epilogo/page-1-1.webp",
+        "https://cdn.leituramanga.net/mistico/capitulo-94-epilogo/page-1-2.webp",
+        "https://cdn.leituramanga.net/mistico/capitulo-94-epilogo/page-2-1.webp",
+        "https://cdn.leituramanga.net/mistico/capitulo-94-epilogo/page-2-2.webp",
+        "https://cdn.leituramanga.net/mistico/capitulo-94-epilogo/page-2-3.webp",
+        "https://cdn.leituramanga.net/mistico/capitulo-94-epilogo/page-3-1.webp",
+        "https://cdn.leituramanga.net/mistico/capitulo-94-epilogo/page-3-2.webp",
+        "https://cdn.leituramanga.net/mistico/capitulo-94-epilogo/page-3-3.webp",
+        "https://cdn.leituramanga.net/mistico/capitulo-94-epilogo/page-4"
+      ]
+    }
+  ]
+}

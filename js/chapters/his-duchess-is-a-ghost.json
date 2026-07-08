@@ -1,0 +1,41 @@
+{
+  "pt": [
+    {
+      "id": "his-duchess-is-a-ghost-chapter-0",
+      "number": 0,
+      "title": "Capítulo 0",
+      "date": "2026-06-23T20:13:42.647Z",
+      "pages": [
+        "https://cdn.leituramanga.net/his-duchess-is-a-ghost/1/page-1.webp",
+        "https://cdn.leituramanga.net/his-duchess-is-a-ghost/1/page-2-1.webp",
+        "https://cdn.leituramanga.net/his-duchess-is-a-ghost/1/page-2-2.webp"
+      ]
+    },
+    {
+      "id": "his-duchess-is-a-ghost-chapter-1.1",
+      "number": 1.1,
+      "title": "Capítulo 1.1",
+      "date": "2024-11-01T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "his-duchess-is-a-ghost-chapter-1.2",
+      "number": 1.2,
+      "title": "Capítulo 1.2",
+      "date": "2024-11-01T00:00:00.000Z",
+      "pages": []
+    },
+    {
+      "id": "his-duchess-is-a-ghost-chapter-1.3",
+      "number": 1.3,
+      "title": "Capítulo 1.3",
+      "date": "2026-06-23T20:13:43.056Z",
+      "pages": [
+        "https://cdn.leituramanga.net/his-duchess-is-a-ghost/4/page-1.webp",
+        "https://cdn.leituramanga.net/his-duchess-is-a-ghost/4/page-2-1.webp",
+        "https://cdn.leituramanga.net/his-duchess-is-a-ghost/4/page-2-2.webp",
+        "https://cdn.leituramanga.net/his-duchess-is-a-ghost/4/page-3.webp"
+      ]
+    }
+  ]
+}

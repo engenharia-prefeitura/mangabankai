@@ -1,0 +1,928 @@
+{
+  "en": [
+    {
+      "id": "kill-me-baby-1",
+      "number": "1",
+      "title": "",
+      "date": "2010/03/06",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-2",
+      "number": "2",
+      "title": "2",
+      "date": "2010/03/06",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-3",
+      "number": "3",
+      "title": "3",
+      "date": "2010/03/06",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-4",
+      "number": "4",
+      "title": "4",
+      "date": "2010/03/12",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-5",
+      "number": "5",
+      "title": "5",
+      "date": "2010/03/30",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-6",
+      "number": "6",
+      "title": "6",
+      "date": "2010/03/30",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-7",
+      "number": "7",
+      "title": "7",
+      "date": "2010/04/09",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-8",
+      "number": "8",
+      "title": "8",
+      "date": "2010/04/19",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-9",
+      "number": "9",
+      "title": "9",
+      "date": "2010/05/01",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-10",
+      "number": "10",
+      "title": "10",
+      "date": "2010/05/10",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-11",
+      "number": "11",
+      "title": "11",
+      "date": "2010/05/22",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-12",
+      "number": "12",
+      "title": "12",
+      "date": "2010/05/23",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-13",
+      "number": "13",
+      "title": "13",
+      "date": "2010/06/02",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-14",
+      "number": "14",
+      "title": "14",
+      "date": "2010/06/02",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-15",
+      "number": "15",
+      "title": "15",
+      "date": "2010/07/26",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-16",
+      "number": "16",
+      "title": "16",
+      "date": "2010/08/09",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-17",
+      "number": "17",
+      "title": "17",
+      "date": "2010/08/13",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-18",
+      "number": "18",
+      "title": "18",
+      "date": "2010/09/07",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-19",
+      "number": "19",
+      "title": "19",
+      "date": "2010/09/24",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-20",
+      "number": "20",
+      "title": "20",
+      "date": "2010/10/21",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-21",
+      "number": "21",
+      "title": "21",
+      "date": "2010/10/21",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-22",
+      "number": "22",
+      "title": "Vol 2 Ch 8",
+      "date": "2010/10/21",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-23",
+      "number": "23",
+      "title": "Vol 2 Ch9",
+      "date": "2010/12/29",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-24",
+      "number": "24",
+      "title": "Vol 2 Ch10",
+      "date": "2010/12/29",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-25",
+      "number": "25",
+      "title": "Vol 2 Ch11",
+      "date": "2011/01/02",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-26",
+      "number": "26",
+      "title": "Vol 2 Ch12",
+      "date": "2011/01/21",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-27",
+      "number": "27",
+      "title": "Vol 2 Ch13",
+      "date": "2011/01/21",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-28",
+      "number": "28",
+      "title": "",
+      "date": "2011/11/04",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-29",
+      "number": "29",
+      "title": "",
+      "date": "2011/11/06",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-30",
+      "number": "30",
+      "title": "",
+      "date": "2011/11/16",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-31",
+      "number": "31",
+      "title": "",
+      "date": "2011/11/17",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-32",
+      "number": "32",
+      "title": "",
+      "date": "2011/11/24",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-33",
+      "number": "33",
+      "title": "",
+      "date": "2012/01/03",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-34",
+      "number": "34",
+      "title": "",
+      "date": "2012/06/23",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-35",
+      "number": "35",
+      "title": "",
+      "date": "2012/07/03",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-36",
+      "number": "36",
+      "title": "",
+      "date": "2012/07/13",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-37",
+      "number": "37",
+      "title": "",
+      "date": "2012/07/19",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-38",
+      "number": "38",
+      "title": "",
+      "date": "2012/08/06",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-39",
+      "number": "39",
+      "title": "",
+      "date": "2012/08/07",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-40",
+      "number": "40",
+      "title": "",
+      "date": "2012/10/31",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-41",
+      "number": "41",
+      "title": "",
+      "date": "2012/11/19",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-42",
+      "number": "42",
+      "title": "",
+      "date": "2012/11/27",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-43",
+      "number": "43",
+      "title": "",
+      "date": "2013/01/13",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-44",
+      "number": "44",
+      "title": "",
+      "date": "2013/01/13",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-45",
+      "number": "45",
+      "title": "",
+      "date": "2013/01/13",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-46",
+      "number": "46",
+      "title": "",
+      "date": "2013/03/10",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-47",
+      "number": "47",
+      "title": "",
+      "date": "2013/05/05",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-48",
+      "number": "48",
+      "title": "",
+      "date": "2013/05/05",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-49",
+      "number": "49",
+      "title": "",
+      "date": "2013/05/05",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-50",
+      "number": "50",
+      "title": "",
+      "date": "2013/05/06",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-51",
+      "number": "51",
+      "title": "",
+      "date": "2013/05/06",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-52",
+      "number": "52",
+      "title": "",
+      "date": "2013/05/06",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-53",
+      "number": "53",
+      "title": "",
+      "date": "2013/05/06",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-54",
+      "number": "54",
+      "title": "",
+      "date": "2013/05/06",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-55",
+      "number": "55",
+      "title": "",
+      "date": "2013/05/06",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-56",
+      "number": "56",
+      "title": "",
+      "date": "2013/11/03",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-57",
+      "number": "57",
+      "title": "",
+      "date": "2013/12/17",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-58",
+      "number": "58",
+      "title": "",
+      "date": "2013/12/19",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-59",
+      "number": "59",
+      "title": "",
+      "date": "2014/01/02",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-60",
+      "number": "60",
+      "title": "",
+      "date": "2014/01/04",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-61",
+      "number": "61",
+      "title": "",
+      "date": "2014/01/11",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-62",
+      "number": "62",
+      "title": "",
+      "date": "2014/03/20",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-63",
+      "number": "63",
+      "title": "",
+      "date": "2014/04/05",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-64",
+      "number": "64",
+      "title": "",
+      "date": "2014/05/03",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-65",
+      "number": "65",
+      "title": "",
+      "date": "2014/06/03",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-66",
+      "number": "66",
+      "title": "",
+      "date": "2014/06/21",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-67",
+      "number": "67",
+      "title": "",
+      "date": "2014/06/29",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-68",
+      "number": "68",
+      "title": "",
+      "date": "2016/07/08",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-69",
+      "number": "69",
+      "title": "",
+      "date": "2016/07/08",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-70",
+      "number": "70",
+      "title": "",
+      "date": "2018/07/17",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-71",
+      "number": "71",
+      "title": "",
+      "date": "2018/07/19",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-72",
+      "number": "72",
+      "title": "",
+      "date": "2018/07/31",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-73",
+      "number": "73",
+      "title": "",
+      "date": "2018/08/05",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-74",
+      "number": "74",
+      "title": "",
+      "date": "2018/10/10",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-75",
+      "number": "75",
+      "title": "",
+      "date": "2018/10/10",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-76",
+      "number": "76",
+      "title": "",
+      "date": "2018/10/10",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-77",
+      "number": "77",
+      "title": "",
+      "date": "2018/10/18",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-78",
+      "number": "78",
+      "title": "",
+      "date": "2018/10/18",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-79",
+      "number": "79",
+      "title": "",
+      "date": "2018/11/01",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-80",
+      "number": "80",
+      "title": "",
+      "date": "2018/11/22",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-81",
+      "number": "81",
+      "title": "",
+      "date": "2018/11/22",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-82",
+      "number": "82",
+      "title": "",
+      "date": "2018/11/22",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-83",
+      "number": "83",
+      "title": "",
+      "date": "2018/12/25",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-84",
+      "number": "84",
+      "title": "",
+      "date": "2019/01/01",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-85",
+      "number": "85",
+      "title": "",
+      "date": "2019/01/01",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-86",
+      "number": "86",
+      "title": "",
+      "date": "2019/01/11",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-87",
+      "number": "87",
+      "title": "",
+      "date": "2019/01/11",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-88",
+      "number": "88",
+      "title": "",
+      "date": "2019/01/20",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-89",
+      "number": "89",
+      "title": "",
+      "date": "2019/01/31",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-90",
+      "number": "90",
+      "title": "",
+      "date": "2019/02/06",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-91",
+      "number": "91",
+      "title": "",
+      "date": "2019/02/18",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-92",
+      "number": "92",
+      "title": "",
+      "date": "2019/05/24",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-93",
+      "number": "93",
+      "title": "",
+      "date": "2019/05/24",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-94",
+      "number": "94",
+      "title": "",
+      "date": "2019/06/26",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-95",
+      "number": "95",
+      "title": "",
+      "date": "2019/07/06",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-96",
+      "number": "96",
+      "title": "",
+      "date": "2019/07/17",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-97",
+      "number": "97",
+      "title": "",
+      "date": "2019/07/24",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-98",
+      "number": "98",
+      "title": "",
+      "date": "2019/07/28",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-99",
+      "number": "99",
+      "title": "",
+      "date": "2019/08/02",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-100",
+      "number": "100",
+      "title": "",
+      "date": "2019/08/06",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-101",
+      "number": "101",
+      "title": "",
+      "date": "2019/08/11",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-102",
+      "number": "102",
+      "title": "",
+      "date": "2019/08/19",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-103",
+      "number": "103",
+      "title": "",
+      "date": "2019/08/25",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-104",
+      "number": "104",
+      "title": "",
+      "date": "2019/09/01",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-105",
+      "number": "105",
+      "title": "",
+      "date": "2019/09/08",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-106",
+      "number": "106",
+      "title": "",
+      "date": "2019/09/15",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-107",
+      "number": "107",
+      "title": "",
+      "date": "2019/11/30",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-108",
+      "number": "108",
+      "title": "",
+      "date": "2019/12/24",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-109",
+      "number": "109",
+      "title": "",
+      "date": "2020/01/28",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-110",
+      "number": "110",
+      "title": "",
+      "date": "2020/01/28",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-111",
+      "number": "111",
+      "title": "",
+      "date": "2020/02/08",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-112",
+      "number": "112",
+      "title": "",
+      "date": "2020/03/13",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-113",
+      "number": "113",
+      "title": "",
+      "date": "2020/03/13",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-114",
+      "number": "114",
+      "title": "",
+      "date": "2020/08/19",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-115",
+      "number": "115",
+      "title": "",
+      "date": "2020/08/19",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-116",
+      "number": "116",
+      "title": "",
+      "date": "2022/09/22",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-117",
+      "number": "117",
+      "title": "",
+      "date": "2022/09/22",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-118",
+      "number": "118",
+      "title": "",
+      "date": "2022/09/22",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-119",
+      "number": "119",
+      "title": "",
+      "date": "2022/10/06",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-120",
+      "number": "120",
+      "title": "",
+      "date": "2023/07/12",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-121",
+      "number": "121",
+      "title": "",
+      "date": "2023/08/07",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-122",
+      "number": "122",
+      "title": "",
+      "date": "2023/08/13",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-123",
+      "number": "123",
+      "title": "",
+      "date": "2023/08/16",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-125",
+      "number": "125",
+      "title": "",
+      "date": "2023/08/24",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-126",
+      "number": "126",
+      "title": "",
+      "date": "2023/08/30",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-127",
+      "number": "127",
+      "title": "",
+      "date": "2023/09/26",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-128",
+      "number": "128",
+      "title": "",
+      "date": "2023/09/26",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-129",
+      "number": "129",
+      "title": "",
+      "date": "2023/10/10",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-130",
+      "number": "130",
+      "title": "",
+      "date": "2023/10/12",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-131",
+      "number": "131",
+      "title": "",
+      "date": "2023/10/29",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-132",
+      "number": "132",
+      "title": "",
+      "date": "2023/11/08",
+      "pages": []
+    },
+    {
+      "id": "kill-me-baby-132e",
+      "number": "132e",
+      "title": "",
+      "date": "2024/10/02",
+      "pages": []
+    }
+  ]
+}

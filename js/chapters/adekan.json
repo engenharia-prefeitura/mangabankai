@@ -1,0 +1,494 @@
+{
+  "en": [
+    {
+      "id": "adekan-1",
+      "number": "1",
+      "title": "Hanayomebashi (Bride`s Bridge)",
+      "date": "2009/11/01",
+      "pages": []
+    },
+    {
+      "id": "adekan-2",
+      "number": "2",
+      "title": "Awase Kagami (Juxtaposed Mirrors)",
+      "date": "2009/11/01",
+      "pages": []
+    },
+    {
+      "id": "adekan-3",
+      "number": "3",
+      "title": "",
+      "date": "2013/06/05",
+      "pages": []
+    },
+    {
+      "id": "adekan-4",
+      "number": "4",
+      "title": "",
+      "date": "2013/06/05",
+      "pages": []
+    },
+    {
+      "id": "adekan-5",
+      "number": "5",
+      "title": "",
+      "date": "2013/06/05",
+      "pages": []
+    },
+    {
+      "id": "adekan-6",
+      "number": "6",
+      "title": "",
+      "date": "2013/06/05",
+      "pages": []
+    },
+    {
+      "id": "adekan-7",
+      "number": "7",
+      "title": "The Spring Beast",
+      "date": "2013/06/05",
+      "pages": []
+    },
+    {
+      "id": "adekan-8",
+      "number": "8",
+      "title": "Embalmed Memories",
+      "date": "2013/06/05",
+      "pages": []
+    },
+    {
+      "id": "adekan-9",
+      "number": "9",
+      "title": "What Happened After:Three Snapshots of the Women",
+      "date": "2013/06/05",
+      "pages": []
+    },
+    {
+      "id": "adekan-10",
+      "number": "10",
+      "title": "The Red Veil",
+      "date": "2013/06/05",
+      "pages": []
+    },
+    {
+      "id": "adekan-11",
+      "number": "11",
+      "title": "What The Mermaid Wishes",
+      "date": "2013/06/05",
+      "pages": []
+    },
+    {
+      "id": "adekan-12",
+      "number": "12",
+      "title": "The Benefactor",
+      "date": "2013/06/05",
+      "pages": []
+    },
+    {
+      "id": "adekan-13",
+      "number": "13",
+      "title": "The Young Man's Trap (Part 1)",
+      "date": "2013/06/05",
+      "pages": []
+    },
+    {
+      "id": "adekan-14",
+      "number": "14",
+      "title": "The Young Man's Trap (Part 2)",
+      "date": "2013/06/21",
+      "pages": []
+    },
+    {
+      "id": "adekan-15",
+      "number": "15",
+      "title": "",
+      "date": "2013/07/03",
+      "pages": []
+    },
+    {
+      "id": "adekan-16",
+      "number": "16",
+      "title": "The Two Benika, Part 1",
+      "date": "2013/07/17",
+      "pages": []
+    },
+    {
+      "id": "adekan-17",
+      "number": "17",
+      "title": "The Two Benika, Part 2",
+      "date": "2013/08/21",
+      "pages": []
+    },
+    {
+      "id": "adekan-18",
+      "number": "18",
+      "title": "The Fog of Gento Police Station, Part 1",
+      "date": "2013/08/21",
+      "pages": []
+    },
+    {
+      "id": "adekan-19",
+      "number": "19",
+      "title": "The Fog of Gento Police Station, Part 2",
+      "date": "2013/09/18",
+      "pages": []
+    },
+    {
+      "id": "adekan-20",
+      "number": "20",
+      "title": "Festival",
+      "date": "2013/09/18",
+      "pages": []
+    },
+    {
+      "id": "adekan-21",
+      "number": "21",
+      "title": "The Innocent Infiltrator",
+      "date": "2013/10/02",
+      "pages": []
+    },
+    {
+      "id": "adekan-22",
+      "number": "22",
+      "title": "The Innocent Infiltrator (Part 1)",
+      "date": "2013/10/30",
+      "pages": []
+    },
+    {
+      "id": "adekan-23",
+      "number": "23",
+      "title": "The Living Flower (Part 1)",
+      "date": "2013/11/20",
+      "pages": []
+    },
+    {
+      "id": "adekan-24",
+      "number": "24",
+      "title": "The Living Flower, Part 2",
+      "date": "2013/12/25",
+      "pages": []
+    },
+    {
+      "id": "adekan-25",
+      "number": "25",
+      "title": "The Living Flower",
+      "date": "2013/12/25",
+      "pages": []
+    },
+    {
+      "id": "adekan-26",
+      "number": "26",
+      "title": "When I Peek Into This Depths Part1",
+      "date": "2014/01/10",
+      "pages": []
+    },
+    {
+      "id": "adekan-27",
+      "number": "27",
+      "title": "When I Peek Into His Depths",
+      "date": "2014/03/26",
+      "pages": []
+    },
+    {
+      "id": "adekan-28",
+      "number": "28",
+      "title": "When I Peek Into This Depths",
+      "date": "2014/05/10",
+      "pages": []
+    },
+    {
+      "id": "adekan-29",
+      "number": "29",
+      "title": "When I Peek Into This Depth",
+      "date": "2014/06/13",
+      "pages": []
+    },
+    {
+      "id": "adekan-30",
+      "number": "30",
+      "title": "When I Peek Into His Depths, Part 005",
+      "date": "2014/07/05",
+      "pages": []
+    },
+    {
+      "id": "adekan-31",
+      "number": "31",
+      "title": "",
+      "date": "2014/12/31",
+      "pages": []
+    },
+    {
+      "id": "adekan-32",
+      "number": "32",
+      "title": "Love Part 1",
+      "date": "2015/04/29",
+      "pages": []
+    },
+    {
+      "id": "adekan-33",
+      "number": "33",
+      "title": "",
+      "date": "2015/11/13",
+      "pages": []
+    },
+    {
+      "id": "adekan-34",
+      "number": "34",
+      "title": "",
+      "date": "2015/11/13",
+      "pages": []
+    },
+    {
+      "id": "adekan-35",
+      "number": "35",
+      "title": "",
+      "date": "2015/11/13",
+      "pages": []
+    },
+    {
+      "id": "adekan-36",
+      "number": "36",
+      "title": "",
+      "date": "2015/11/13",
+      "pages": []
+    },
+    {
+      "id": "adekan-37",
+      "number": "37",
+      "title": "",
+      "date": "2015/11/13",
+      "pages": []
+    },
+    {
+      "id": "adekan-38",
+      "number": "38",
+      "title": "",
+      "date": "2015/11/13",
+      "pages": []
+    },
+    {
+      "id": "adekan-39",
+      "number": "39",
+      "title": "",
+      "date": "2015/11/13",
+      "pages": []
+    },
+    {
+      "id": "adekan-40",
+      "number": "40",
+      "title": "",
+      "date": "2015/11/13",
+      "pages": []
+    },
+    {
+      "id": "adekan-41",
+      "number": "41",
+      "title": "",
+      "date": "2015/11/13",
+      "pages": []
+    },
+    {
+      "id": "adekan-42",
+      "number": "42",
+      "title": "",
+      "date": "2015/11/13",
+      "pages": []
+    },
+    {
+      "id": "adekan-43",
+      "number": "43",
+      "title": "",
+      "date": "2015/11/22",
+      "pages": []
+    },
+    {
+      "id": "adekan-44",
+      "number": "44",
+      "title": "",
+      "date": "2015/12/12",
+      "pages": []
+    },
+    {
+      "id": "adekan-45",
+      "number": "45",
+      "title": "",
+      "date": "2016/01/16",
+      "pages": []
+    },
+    {
+      "id": "adekan-46",
+      "number": "46",
+      "title": "",
+      "date": "2016/03/06",
+      "pages": []
+    },
+    {
+      "id": "adekan-47",
+      "number": "47",
+      "title": "",
+      "date": "2016/05/03",
+      "pages": []
+    },
+    {
+      "id": "adekan-48",
+      "number": "48",
+      "title": "",
+      "date": "2016/07/08",
+      "pages": []
+    },
+    {
+      "id": "adekan-49",
+      "number": "49",
+      "title": "",
+      "date": "2016/11/08",
+      "pages": []
+    },
+    {
+      "id": "adekan-50",
+      "number": "50",
+      "title": "",
+      "date": "2017/01/05",
+      "pages": []
+    },
+    {
+      "id": "adekan-51",
+      "number": "51",
+      "title": "",
+      "date": "2017/01/05",
+      "pages": []
+    },
+    {
+      "id": "adekan-52",
+      "number": "52",
+      "title": "",
+      "date": "2017/05/28",
+      "pages": []
+    },
+    {
+      "id": "adekan-53",
+      "number": "53",
+      "title": "",
+      "date": "2017/05/28",
+      "pages": []
+    },
+    {
+      "id": "adekan-54",
+      "number": "54",
+      "title": "",
+      "date": "2018/09/12",
+      "pages": []
+    },
+    {
+      "id": "adekan-55",
+      "number": "55",
+      "title": "",
+      "date": "2018/09/12",
+      "pages": []
+    },
+    {
+      "id": "adekan-56",
+      "number": "56",
+      "title": "",
+      "date": "2018/09/12",
+      "pages": []
+    },
+    {
+      "id": "adekan-57",
+      "number": "57",
+      "title": "",
+      "date": "2018/09/12",
+      "pages": []
+    },
+    {
+      "id": "adekan-58",
+      "number": "58",
+      "title": "",
+      "date": "2018/09/12",
+      "pages": []
+    },
+    {
+      "id": "adekan-59",
+      "number": "59",
+      "title": "",
+      "date": "2018/09/12",
+      "pages": []
+    },
+    {
+      "id": "adekan-60",
+      "number": "60",
+      "title": "",
+      "date": "2018/09/12",
+      "pages": []
+    },
+    {
+      "id": "adekan-61",
+      "number": "61",
+      "title": "",
+      "date": "2018/09/12",
+      "pages": []
+    },
+    {
+      "id": "adekan-62",
+      "number": "62",
+      "title": "",
+      "date": "2025/02/11",
+      "pages": []
+    },
+    {
+      "id": "adekan-63",
+      "number": "63",
+      "title": "",
+      "date": "2025/03/30",
+      "pages": []
+    },
+    {
+      "id": "adekan-64",
+      "number": "64",
+      "title": "",
+      "date": "2025/05/04",
+      "pages": []
+    },
+    {
+      "id": "adekan-65a",
+      "number": "65a",
+      "title": "",
+      "date": "2025/06/09",
+      "pages": []
+    },
+    {
+      "id": "adekan-65b",
+      "number": "65b",
+      "title": "",
+      "date": "2025/07/11",
+      "pages": []
+    },
+    {
+      "id": "adekan-66",
+      "number": "66",
+      "title": "",
+      "date": "2025/08/14",
+      "pages": []
+    },
+    {
+      "id": "adekan-67",
+      "number": "67",
+      "title": "",
+      "date": "2026/02/01",
+      "pages": []
+    },
+    {
+      "id": "adekan-68",
+      "number": "68",
+      "title": "",
+      "date": "2026/02/18",
+      "pages": []
+    },
+    {
+      "id": "adekan-69",
+      "number": "69",
+      "title": "",
+      "date": "2026/03/28",
+      "pages": []
+    }
+  ]
+}

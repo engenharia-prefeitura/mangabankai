@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="referrer" content="no-referrer">
+  <title>Catálogo — MangaBankai</title>
+  <meta name="description" content="Explore o catálogo completo de mangás e manhwas.">
+  <meta name="theme-color" content="#6c63ff">
+  <link rel="manifest" href="manifest.json">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="MangaBankai">
+  <meta property="og:title" content="Catálogo — MangaBankai">
+  <meta property="og:description" content="Explore o catálogo completo de mangás e manhwas.">
+  <meta property="og:url" content="https://mangabankai.vercel.app/catalog.html">
+  <meta property="og:image" content="https://mangabankai.vercel.app/img/logo.png">
+  <meta name="twitter:image" content="https://mangabankai.vercel.app/img/logo.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://mangabankai.vercel.app/catalog.html">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" type="image/png" href="/img/logo.png">
+  <link rel="apple-touch-icon" href="/img/logo.png">
+  <link rel="preconnect" href="https://www.highperformanceformat.com">
+  <link rel="dns-prefetch" href="https://www.highperformanceformat.com">
+  <script src="js/pub.js"></script>
+  <script src="/js/loading-anim.js"></script>
+</head>
+<body>
+  <script>
+    window.MangaLoader && MangaLoader.splash('catalog');
+    window.addEventListener('load', function () { window.MangaLoader && MangaLoader.hideSplash(600); });
+  </script>
+  <script>ADS.guard();</script>
+  <div id="filterOverlay" class="filter-overlay" onclick="toggleFilterDrawer()"></div>
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="logo"><img src="img/logo.png" alt="MangaBankai" class="logo-img"></a>
+      <button class="header-hamburger" aria-label="Abrir menu" onclick="toggleHeaderMenu()">☰</button>
+      <div class="header-menu" id="headerMenu">
+      <nav class="nav">
+        <a href="index.html">Início</a>
+        <a href="catalog.html" class="active">Catálogo</a>
+      </nav>
+      </div>
+      <div class="header-menu-overlay" id="headerMenuOverlay" onclick="toggleHeaderMenu()"></div>
+      <div class="search-bar">
+        <input type="text" id="searchInput" placeholder="Pesquisar mangás..." autocomplete="off">
+        <button class="search-btn" onclick="const q=document.getElementById('searchInput').value.trim();if(q)window.location.href='catalog.html?q='+encodeURIComponent(q)">🔍</button>
+        <div class="search-dropdown" id="searchDropdown"></div>
+      </div>
+    </div>
+  </header>
+
+  <div class="catalog-header">
+    <div class="container">
+      <div class="breadcrumb" style="padding:0 0 8px">
+        <a href="index.html">Início</a>
+        <span class="sep">›</span>
+        <span>Catálogo</span>
+      </div>
+      <div class="ch-content">
+        <h1>Catálogo Completo</h1>
+        <p>Explore todos os mangás disponíveis.</p>
+      </div>
+    </div>
+  </div>
+
+  <section class="catalog-layout container">
+    <aside class="filter-sidebar">
+      <h3 style="display:flex;align-items:center;gap:10px;width:100%;">
+        Filtros 
+        <span class="clear-filters" onclick="resetFilters()">Limpar todos</span>
+        <span class="close-filters" onclick="toggleFilterDrawer()" style="display:none; cursor:pointer; font-size:1.2rem; color:var(--text-muted); margin-left:auto;">✕</span>
+      </h3>
+
+      <div class="filter-group">
+        <label>Busca</label>
+        <input type="text" id="filterQuery" placeholder="Nome do mangá..." autocomplete="off">
+      </div>
+
+      <div class="filter-group">
+        <label>Ordenar</label>
+        <select id="filterSort">
+          <option value="updated">Atualizados Recentemente</option>
+          <option value="title">A-Z</option>
+          <option value="chapters">Mais Capítulos</option>
+          <option value="year">Lançamentos (ano)</option>
+        </select>
+      </div>
+
+      <div class="filter-group">
+        <label>Status</label>
+        <select id="filterStatus">
+          <option value="">Todos</option>
+          <option value="ongoing">Em Andamento</option>
+          <option value="completed">Completo</option>
+        </select>
+      </div>
+
+      <div class="filter-group">
+        <label>Gêneros</label>
+        <div id="genreFilters" class="genre-checkboxes"></div>
+      </div>
+    </aside>
+
+    <div>
+      <div class="catalog-toolbar">
+        <div class="left">
+          <button id="btnToggleFilters" class="btn-toggle-filters" onclick="toggleFilterDrawer()">🔍 Filtrar</button>
+          <span class="result-count" id="resultCount">Carregando...</span>
+          <div class="view-toggle">
+            <button id="viewGrid" class="active" onclick="setView('grid')" title="Grade">⊞</button>
+            <button id="viewList" onclick="setView('list')" title="Lista">☰</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="active-filters" id="activeFilters"></div>
+
+      <div class="manga-grid" id="catalogGrid">
+        <div class="skeleton-card"></div>
+        <div class="skeleton-card"></div>
+        <div class="skeleton-card"></div>
+        <div class="skeleton-card"></div>
+      </div>
+
+      <div class="pagination" id="pagination"></div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <div class="logo"><img src="img/logo.png" alt="MangaBankai" class="logo-img"></div>
+          <p>MangaBankai é um indexador de mangás online — os links apontam para conteúdos hospedados por terceiros.</p>
+        </div>
+        <div>
+          <h4>Navegação</h4>
+          <ul>
+            <li><a href="index.html">Início</a></li>
+            <li><a href="catalog.html">Catálogo</a></li>
+            <li><a href="terms.html">Termos de Uso</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Gêneros</h4>
+          <ul>
+            <li><a href="catalog.html?genre=Ação">Ação</a></li>
+            <li><a href="catalog.html?genre=Comédia">Comédia</a></li>
+            <li><a href="catalog.html?genre=Fantasia">Fantasia</a></li>
+            <li><a href="catalog.html?genre=Shounen">Shounen</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Status</h4>
+          <ul>
+            <li><a href="catalog.html?status=ongoing">Em Andamento</a></li>
+            <li><a href="catalog.html?status=completed">Completo</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2026 MangaBankai. Lages-SC. Indexamos links públicos de terceiros; não hospedamos nenhum conteúdo.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/data-lite.js"></script>
+  <script src="js/main.js"></script>
+  <script>
+    function toggleFilterDrawer() {
+      const sidebar = document.querySelector('.filter-sidebar');
+      const overlay = document.getElementById('filterOverlay');
+      sidebar.classList.toggle('open');
+      overlay.classList.toggle('open');
+      document.body.classList.toggle('no-scroll', sidebar.classList.contains('open'));
+    }
+
+    let currentPage = 1;
+    let currentFilters = {};
+    let currentView = 'grid';
+    let perPageCache = 0;
+
+    // Fileiras sempre completas: itens por página é múltiplo exato das colunas visíveis.
+    function itemsPerPage() {
+      if (currentView === 'list') return 24;
+      var cols = 0;
+      try {
+        var grid = document.getElementById('catalogGrid');
+        cols = getComputedStyle(grid).gridTemplateColumns.split(' ').filter(Boolean).length;
+      } catch (e) {}
+      if (!cols || cols < 2) return 24;
+      // Telas estreitas (2-3 colunas) ganham mais fileiras para a página não ficar curta.
+      return cols * (cols <= 3 ? 8 : 5);
+    }
+
+    function getUrlParams() {
+      const p = new URLSearchParams(window.location.search);
+      let sort = p.get('sort') || 'updated';
+      if (sort === 'recent') sort = 'updated'; // alias antigo
+      return {
+        q: p.get('q') || '',
+        sort: sort,
+        status: p.get('status') || '',
+        genres: p.getAll('genre'),
+        page: Math.max(1, parseInt(p.get('page'), 10) || 1)
+      };
+    }
+
+    // Reflete filtros e página na URL — link compartilhável e voltar mantém o estado.
+    function syncUrl() {
+      const p = new URLSearchParams();
+      if (currentFilters.query) p.set('q', currentFilters.query);
+      if (currentFilters.sort && currentFilters.sort !== 'updated') p.set('sort', currentFilters.sort);
+      if (currentFilters.status) p.set('status', currentFilters.status);
+      (currentFilters.genres || []).forEach(g => p.append('genre', g));
+      if (currentPage > 1) p.set('page', currentPage);
+      const qs = p.toString();
+      history.replaceState(null, '', window.location.pathname + (qs ? '?' + qs : ''));
+    }
+
+    function readFiltersFromUI() {
+      currentFilters = {
+        query: document.getElementById('filterQuery').value.trim(),
+        sort: document.getElementById('filterSort').value,
+        status: document.getElementById('filterStatus').value,
+        genres: [...document.querySelectorAll('#genreFilters input:checked')].map(cb => cb.value)
+      };
+    }
+
+    function applyFilters() {
+      readFiltersFromUI();
+      currentPage = 1;
+      renderCatalog();
+      renderActiveFilters();
+    }
+
+    function renderActiveFilters() {
+      const container = document.getElementById('activeFilters');
+      const chips = [];
+      if (currentFilters.query) chips.push({ label: '"' + currentFilters.query + '"', key: 'query' });
+      if (currentFilters.status) chips.push({ label: currentFilters.status === 'ongoing' ? 'Em Andamento' : 'Completo', key: 'status' });
+      if (currentFilters.genres && currentFilters.genres.length > 0) {
+        currentFilters.genres.forEach(function(g) {
+          chips.push({ label: g, key: 'genre:' + g });
+        });
+      }
+      if (chips.length === 0) { container.innerHTML = ''; return; }
+      container.innerHTML = chips.map(function(c) {
+        return '<span class="active-filter">' + c.label + ' <span class="remove" onclick="removeFilter(\'' + c.key + '\')">×</span></span>';
+      }).join('');
+    }
+
+    window.removeFilter = function(key) {
+      if (key === 'query') document.getElementById('filterQuery').value = '';
+      if (key === 'status') document.getElementById('filterStatus').value = '';
+      if (key.startsWith('genre:')) {
+        const cb = document.querySelector('#genreFilters input[value="' + key.replace('genre:', '') + '"]');
+        if (cb) cb.checked = false;
+      }
+      applyFilters();
+    };
+
+    function resetFilters() {
+      document.getElementById('filterQuery').value = '';
+      document.getElementById('filterSort').value = 'updated';
+      document.getElementById('filterStatus').value = '';
+      document.querySelectorAll('#genreFilters input:checked').forEach(function(cb) { cb.checked = false; });
+      applyFilters();
+    }
+
+    function setView(view) {
+      currentView = view;
+      document.getElementById('viewGrid').classList.toggle('active', view === 'grid');
+      document.getElementById('viewList').classList.toggle('active', view === 'list');
+      renderCatalog();
+    }
+
+    function renderCatalog() {
+      var perPage = itemsPerPage();
+      perPageCache = perPage;
+      var results = filterManga(currentFilters);
+      var totalItems = results.length;
+      if (totalItems === 0 && currentFilters.query && typeof window._mbSearchMiss === 'function') {
+        window._mbSearchMiss(currentFilters.query); // telemetria: busca sem resultado
+      }
+      var totalPages = Math.ceil(totalItems / perPage) || 1;
+      if (currentPage > totalPages) currentPage = totalPages;
+      var start = (currentPage - 1) * perPage;
+      var pageItems = results.slice(start, start + perPage);
+
+      document.getElementById('resultCount').textContent = pageItems.length + ' de ' + totalItems.toLocaleString('pt-BR') + ' mangás';
+      renderMangaGrid(pageItems, 'catalogGrid', currentView === 'list');
+      renderPagination(totalPages);
+      syncUrl();
+    }
+
+    function goToPage(page) {
+      currentPage = page;
+      renderCatalog();
+      var toolbar = document.querySelector('.catalog-toolbar');
+      var top = toolbar ? toolbar.getBoundingClientRect().top + window.pageYOffset - 80 : 0;
+      window.scrollTo({ top: Math.max(0, top), behavior: 'smooth' });
+    }
+
+    function renderPagination(totalPages) {
+      var c = document.getElementById('pagination');
+      c.innerHTML = '';
+      if (totalPages <= 1) return;
+
+      function addBtn(label, page, opts) {
+        opts = opts || {};
+        var btn = document.createElement('button');
+        btn.textContent = label;
+        if (opts.title) btn.title = opts.title;
+        if (opts.active) btn.classList.add('active');
+        btn.disabled = !!opts.disabled;
+        if (!opts.disabled && !opts.active) btn.onclick = function() { goToPage(page); };
+        c.appendChild(btn);
+      }
+
+      addBtn('«', 1, { title: 'Primeira página', disabled: currentPage === 1 });
+      addBtn('‹', currentPage - 1, { title: 'Página anterior', disabled: currentPage === 1 });
+
+      var startPage = Math.max(1, currentPage - 2);
+      var endPage = Math.min(totalPages, startPage + 4);
+      if (endPage - startPage < 4) startPage = Math.max(1, endPage - 4);
+      for (var i = startPage; i <= endPage; i++) addBtn(i, i, { active: i === currentPage });
+
+      addBtn('›', currentPage + 1, { title: 'Próxima página', disabled: currentPage === totalPages });
+      addBtn('»', totalPages, { title: 'Última página', disabled: currentPage === totalPages });
+
+      // "Página X de Y" + pular direto para uma página
+      var info = document.createElement('div');
+      info.className = 'pagination-info';
+      info.innerHTML = 'Página <strong>' + currentPage.toLocaleString('pt-BR') + '</strong> de <strong>' + totalPages.toLocaleString('pt-BR') + '</strong>';
+      var jump = document.createElement('span');
+      jump.className = 'pagination-jump';
+      var input = document.createElement('input');
+      input.type = 'number';
+      input.min = 1;
+      input.max = totalPages;
+      input.placeholder = 'Nº';
+      input.setAttribute('aria-label', 'Ir para página');
+      var go = document.createElement('button');
+      go.textContent = 'Ir';
+      function jumpTo() {
+        var p = parseInt(input.value, 10);
+        if (p) goToPage(Math.min(totalPages, Math.max(1, p)));
+      }
+      go.onclick = jumpTo;
+      input.onkeydown = function(e) { if (e.key === 'Enter') jumpTo(); };
+      jump.appendChild(input);
+      jump.appendChild(go);
+      info.appendChild(jump);
+      c.appendChild(info);
+    }
+
+    // Recalcula itens por página quando a janela muda de tamanho (mantém o 1º item visível)
+    var _rszTimer;
+    window.addEventListener('resize', function() {
+      clearTimeout(_rszTimer);
+      _rszTimer = setTimeout(function() {
+        var newPer = itemsPerPage();
+        if (newPer === perPageCache) return;
+        var firstIdx = (currentPage - 1) * (perPageCache || newPer);
+        currentPage = Math.floor(firstIdx / newPer) + 1;
+        renderCatalog();
+      }, 250);
+    });
+
+    // Init: render genre checkboxes
+    (function() {
+      var gc = document.getElementById('genreFilters');
+      getAvailableGenres().forEach(function(g) {
+        var label = document.createElement('label');
+        label.className = 'genre-cb';
+        var cb = document.createElement('input');
+        cb.type = 'checkbox';
+        cb.value = g;
+        cb.onchange = applyFilters;
+        label.appendChild(cb);
+        label.appendChild(document.createTextNode(' ' + g));
+        gc.appendChild(label);
+      });
+    })();
+
+    // Init: eventos dos controles da sidebar
+    (function() {
+      var _qTimer;
+      var q = document.getElementById('filterQuery');
+      q.addEventListener('input', function() { clearTimeout(_qTimer); _qTimer = setTimeout(applyFilters, 300); });
+      q.addEventListener('keydown', function(e) { if (e.key === 'Enter') { clearTimeout(_qTimer); applyFilters(); } });
+      document.getElementById('filterSort').addEventListener('change', applyFilters);
+      document.getElementById('filterStatus').addEventListener('change', applyFilters);
+    })();
+
+    // Init from URL params (+ datas reais de atualização do home.json)
+    (async function() {
+      var params = getUrlParams();
+      if (params.q) document.getElementById('filterQuery').value = params.q;
+      document.getElementById('filterSort').value = params.sort;
+      document.getElementById('filterStatus').value = params.status;
+      if (params.genres.length > 0) {
+        params.genres.forEach(function(g) {
+          var cb = document.querySelector('#genreFilters input[value="' + g + '"]');
+          if (cb) cb.checked = true;
+        });
+      }
+      // Carrega as datas de atualização antes da 1ª renderização (sort "updated" real).
+      try {
+        var res = await fetch('js/home.json', { cache: 'no-cache' });
+        if (res.ok) window.HOME_DATA = await res.json();
+      } catch (e) {}
+      readFiltersFromUI();
+      currentPage = params.page;
+      renderCatalog();
+      renderActiveFilters();
+    })();
+  </script>
+</body>
+</html>

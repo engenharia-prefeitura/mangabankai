@@ -1,0 +1,5238 @@
+{
+  "en": [
+    {
+      "id": "vagabond-1",
+      "number": "1",
+      "title": "Shinmen Takezo",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-2",
+      "number": "2",
+      "title": "Akemi",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-3",
+      "number": "3",
+      "title": "Oko",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-4",
+      "number": "4",
+      "title": "The Brigand Tsujikaze",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-5",
+      "number": "5",
+      "title": "Blood Game",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-6",
+      "number": "6",
+      "title": "The Troubles of Honiden Matahachi at Seventeen",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-7",
+      "number": "7",
+      "title": "Farewell Takezo",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-8",
+      "number": "8",
+      "title": "Miyamoto Village",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-9",
+      "number": "9",
+      "title": "Fiancee",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-10",
+      "number": "10",
+      "title": "Left Behind",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-11",
+      "number": "11",
+      "title": "Demon",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-12",
+      "number": "12",
+      "title": "Takuan",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-13",
+      "number": "13",
+      "title": "Life",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-14",
+      "number": "14",
+      "title": "Cut Down",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-15",
+      "number": "15",
+      "title": "No Fear",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-16",
+      "number": "16",
+      "title": "Captured",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-17",
+      "number": "17",
+      "title": "Invincible Under the Sun",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-18",
+      "number": "18",
+      "title": "Tree of Shame",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-19",
+      "number": "19",
+      "title": "The Demons Child",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-20",
+      "number": "20",
+      "title": "Death",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-21",
+      "number": "21",
+      "title": "A Place in the Sun",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-22",
+      "number": "22",
+      "title": "Miyamoto Musashi",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-23",
+      "number": "23",
+      "title": "First Step",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-24",
+      "number": "24",
+      "title": "The Challenge",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-25",
+      "number": "25",
+      "title": "Chaos at the Yoshioka School",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-26",
+      "number": "26",
+      "title": "The Master",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-27",
+      "number": "27",
+      "title": "Instinct",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-28",
+      "number": "28",
+      "title": "Demon II",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-29",
+      "number": "29",
+      "title": "Ignorance",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-30",
+      "number": "30",
+      "title": "A Single Stroke",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-31",
+      "number": "31",
+      "title": "Inferno",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-32",
+      "number": "32",
+      "title": "Wanderers",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-33",
+      "number": "33",
+      "title": "Departures",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-34",
+      "number": "34",
+      "title": "Departures II",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-35",
+      "number": "35",
+      "title": "Distraction",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-36",
+      "number": "36",
+      "title": "Hozoin",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-37",
+      "number": "37",
+      "title": "Bloodthirst",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-38",
+      "number": "38",
+      "title": "Graceless",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-39",
+      "number": "39",
+      "title": "Inshun",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-40",
+      "number": "40",
+      "title": "Agon",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-41",
+      "number": "41",
+      "title": "The Assassin",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-42",
+      "number": "42",
+      "title": "Howl",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-43",
+      "number": "43",
+      "title": "Inshuns Spear",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-44",
+      "number": "44",
+      "title": "Life",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-45",
+      "number": "45",
+      "title": "Unease",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-46",
+      "number": "46",
+      "title": "The Demon Within",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-47",
+      "number": "47",
+      "title": "Fear",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-48",
+      "number": "48",
+      "title": "Fear II",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-49",
+      "number": "49",
+      "title": "Fear III",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-50",
+      "number": "50",
+      "title": "Surviving",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-51",
+      "number": "51",
+      "title": "Lying Low",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-52",
+      "number": "52",
+      "title": "Lying Low II",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-53",
+      "number": "53",
+      "title": "Journey",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-54",
+      "number": "54",
+      "title": "Vision",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-55",
+      "number": "55",
+      "title": "The Decision of a Formerly Kept Man",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-56",
+      "number": "56",
+      "title": "Osaka",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-57",
+      "number": "57",
+      "title": "Vermin",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-58",
+      "number": "58",
+      "title": "Sasaki Kojiro",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-59",
+      "number": "59",
+      "title": "Hozoin Pickles",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-60",
+      "number": "60",
+      "title": "Duels Eve",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-61",
+      "number": "61",
+      "title": "Duels Eve II",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-62",
+      "number": "62",
+      "title": "Dawn",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-63",
+      "number": "63",
+      "title": "Spiders Thread",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-64",
+      "number": "64",
+      "title": "Heaven and Earth",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-65",
+      "number": "65",
+      "title": "Legacy",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-66",
+      "number": "66",
+      "title": "The Master",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-67",
+      "number": "67",
+      "title": "Kami izumi Ise no Kami Hidetsuna",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-68",
+      "number": "68",
+      "title": "No Sword",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-69",
+      "number": "69",
+      "title": "Life II",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-70",
+      "number": "70",
+      "title": "Life III",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-71",
+      "number": "71",
+      "title": "Inshun",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-72",
+      "number": "72",
+      "title": "Shinnosuke",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-73",
+      "number": "73",
+      "title": "Playing in the Sand",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-74",
+      "number": "74",
+      "title": "Sudden Storm",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-75",
+      "number": "75",
+      "title": "Survivors",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-76",
+      "number": "76",
+      "title": "Dont Put Your Life on Line",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-77",
+      "number": "77",
+      "title": "They Call Me Sensei",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-78",
+      "number": "78",
+      "title": "Ascending Dragon",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-79",
+      "number": "79",
+      "title": "The Yagyu",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-80",
+      "number": "80",
+      "title": "Coming Home",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-81",
+      "number": "81",
+      "title": "The Peony Message",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-82",
+      "number": "82",
+      "title": "Successor to the Invincible",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-83",
+      "number": "83",
+      "title": "Legacy",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-84",
+      "number": "84",
+      "title": "Promise",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-85",
+      "number": "85",
+      "title": "Ship of Stone",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-86",
+      "number": "86",
+      "title": "A Round of Discussion",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-87",
+      "number": "87",
+      "title": "Provocateur",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-88",
+      "number": "88",
+      "title": "Disciple",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-89",
+      "number": "89",
+      "title": "One Man Battle",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-90",
+      "number": "90",
+      "title": "The Battle",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-91",
+      "number": "91",
+      "title": "Bamboo Flute",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-92",
+      "number": "92",
+      "title": "The Four Senior Disciples",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-93",
+      "number": "93",
+      "title": "Valor",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-94",
+      "number": "94",
+      "title": "Retribution",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-95",
+      "number": "95",
+      "title": "Longing",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-96",
+      "number": "96",
+      "title": "Reunion",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-97",
+      "number": "97",
+      "title": "Sliding Door",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-98",
+      "number": "98",
+      "title": "Unrivaled",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-99",
+      "number": "99",
+      "title": "Son of the Invincible",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-100",
+      "number": "100",
+      "title": "The Real Thing",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-101",
+      "number": "101",
+      "title": "Blue Sky",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-102",
+      "number": "102",
+      "title": "The Infinite Universe",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-103",
+      "number": "103",
+      "title": "Farewell at Dawn",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-104",
+      "number": "104",
+      "title": "Autumn Sky",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-105",
+      "number": "105",
+      "title": "Journey",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-106",
+      "number": "106",
+      "title": "Footprints",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-107",
+      "number": "107",
+      "title": "The Road to Ise",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-108",
+      "number": "108",
+      "title": "Summit",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-109",
+      "number": "109",
+      "title": "Sea of Clouds",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-110",
+      "number": "110",
+      "title": "Uncle Gon",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-111",
+      "number": "111",
+      "title": "Lowlife",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-112",
+      "number": "112",
+      "title": "Mother",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-113",
+      "number": "113",
+      "title": "Osugi's Ordeal",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-114",
+      "number": "114",
+      "title": "He and I",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-115",
+      "number": "115",
+      "title": "Apparition",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-116",
+      "number": "116",
+      "title": "Baiken",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-117",
+      "number": "117",
+      "title": "Chain and Sicklev",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-118",
+      "number": "118",
+      "title": "Rindo",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-119",
+      "number": "119",
+      "title": "The Girl and the God of Death",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-120",
+      "number": "120",
+      "title": "The Resurrection of the God of Death",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-121",
+      "number": "121",
+      "title": "Two Swords",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-122",
+      "number": "122",
+      "title": "Moths",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-123",
+      "number": "123",
+      "title": "Akebi Fruit",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-124",
+      "number": "124",
+      "title": "Connections",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-125",
+      "number": "125",
+      "title": "Spiral",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-126",
+      "number": "126",
+      "title": "Tsujikaze Kohei Part One",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-127",
+      "number": "127",
+      "title": "Tsujikaze Kohei Part Two",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-128",
+      "number": "128",
+      "title": "The Letter",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-129",
+      "number": "129",
+      "title": "Hands",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-130",
+      "number": "130",
+      "title": "Glimmering Waves",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-131",
+      "number": "131",
+      "title": "Seaweed",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-132",
+      "number": "132",
+      "title": "Fate",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-133",
+      "number": "133",
+      "title": "To Live by the Sword",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-134",
+      "number": "134",
+      "title": "Driftwood",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-135",
+      "number": "135",
+      "title": "The Plan",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-136",
+      "number": "136",
+      "title": "Kojiro and Tenki",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-137",
+      "number": "137",
+      "title": "A Gift from the Sea",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-138",
+      "number": "138",
+      "title": "Farewell Kojiro",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-139",
+      "number": "139",
+      "title": "Butterfly",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-140",
+      "number": "140",
+      "title": "Flames",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-141",
+      "number": "141",
+      "title": "Sword Against Sword",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-142",
+      "number": "142",
+      "title": "Savior",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-143",
+      "number": "143",
+      "title": "The Kanemaki Dojo",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-144",
+      "number": "144",
+      "title": "Master and Pupil",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-145",
+      "number": "145",
+      "title": "The Fifth Year of Keicho",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-146",
+      "number": "146",
+      "title": "Senior Disciple",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-147",
+      "number": "147",
+      "title": "Jisas Cocoon",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-148",
+      "number": "148",
+      "title": "Tiger",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-149",
+      "number": "149",
+      "title": "Blood Bath",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-150",
+      "number": "150",
+      "title": "Mad Tiger",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-151",
+      "number": "151",
+      "title": "Numb",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-152",
+      "number": "152",
+      "title": "Brothers",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-153",
+      "number": "153",
+      "title": "Blood Battle",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-154",
+      "number": "154",
+      "title": "Shore of Blood",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-155",
+      "number": "155",
+      "title": "The Departure",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-156",
+      "number": "156",
+      "title": "A Complete Life",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-157",
+      "number": "157",
+      "title": "Ganryu",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-158",
+      "number": "158",
+      "title": "Muso Gonnosuke",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-159",
+      "number": "159",
+      "title": "The Stage",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-160",
+      "number": "160",
+      "title": "Battlefield",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-161",
+      "number": "161",
+      "title": "Those Who Defy Death",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-162",
+      "number": "162",
+      "title": "Rampage of the Beast",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-163",
+      "number": "163",
+      "title": "Six OClock at Sekigahara",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-164",
+      "number": "164",
+      "title": "Refugee Hunters",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-165",
+      "number": "165",
+      "title": "Death Torches",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-166",
+      "number": "166",
+      "title": "First Friend",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-167",
+      "number": "167",
+      "title": "Mountain of Shattered Dreams",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-168",
+      "number": "168",
+      "title": "Over the Mountain",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-169",
+      "number": "169",
+      "title": "The Distant Ocean",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-170",
+      "number": "170",
+      "title": "Strands of the Departed",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-171",
+      "number": "171",
+      "title": "The Sword",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-172",
+      "number": "172",
+      "title": "Sons",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-173",
+      "number": "173",
+      "title": "The Desire to Fight",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-174",
+      "number": "174",
+      "title": "Ichizo",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-175",
+      "number": "175",
+      "title": "Younger Brother",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-176",
+      "number": "176",
+      "title": "Open Mind",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-177",
+      "number": "177",
+      "title": "Koun and Kojiro",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-178",
+      "number": "178",
+      "title": "Koun and Kojiro II",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-179",
+      "number": "179",
+      "title": "Koun and Kojiro III",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-180",
+      "number": "180",
+      "title": "Gathering in Kyoto",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-181",
+      "number": "181",
+      "title": "Carving Demons",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-182",
+      "number": "182",
+      "title": "First Snow",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-183",
+      "number": "183",
+      "title": "The Same Moon",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-184",
+      "number": "184",
+      "title": "Eagle and Ant",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-185",
+      "number": "185",
+      "title": "Rendaiji",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-186",
+      "number": "186",
+      "title": "Altercation After Dark",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-187",
+      "number": "187",
+      "title": "Before Dawn",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-188",
+      "number": "188",
+      "title": "The Place Where I Belong",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-189",
+      "number": "189",
+      "title": "Burdened",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-190",
+      "number": "190",
+      "title": "The Death of Seijuro",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-191",
+      "number": "191",
+      "title": "Painting with Water",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-192",
+      "number": "192",
+      "title": "Koetsu and Myoshu",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-193",
+      "number": "193",
+      "title": "Bedlam in Kyoto",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-194",
+      "number": "194",
+      "title": "Talk of the Town",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-195",
+      "number": "195",
+      "title": "Confrontation of Rivals",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-196",
+      "number": "196",
+      "title": "Return of the Vainglorious",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-197",
+      "number": "197",
+      "title": "The Real Kojiro",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-198",
+      "number": "198",
+      "title": "Grass,Snow and Blood",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-199",
+      "number": "199",
+      "title": "Kojiro and Matahachi",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-200",
+      "number": "200",
+      "title": "Two Kojiros",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-201",
+      "number": "201",
+      "title": "Ladder to Success",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-202",
+      "number": "202",
+      "title": "Presumptuous",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-203",
+      "number": "203",
+      "title": "The Day After Tomorrow",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-204",
+      "number": "204",
+      "title": "Sword Sharpening",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-205",
+      "number": "205",
+      "title": "Sottaku",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-206",
+      "number": "206",
+      "title": "Straightforward",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-207",
+      "number": "207",
+      "title": "Afternoon Nap",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-208",
+      "number": "208",
+      "title": "Chance Encounter",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-209",
+      "number": "209",
+      "title": "The Long Road",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-210",
+      "number": "210",
+      "title": "Sport With a Rival",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-211",
+      "number": "211",
+      "title": "The Night Before",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-212",
+      "number": "212",
+      "title": "Tomorrow Brings Rosy Checks",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-213",
+      "number": "213",
+      "title": "Rubbish",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-214",
+      "number": "214",
+      "title": "Rengeoin",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-215",
+      "number": "215",
+      "title": "This Is How I'd Kill Him",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-216",
+      "number": "216",
+      "title": "A Year After",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-217",
+      "number": "217",
+      "title": "Forward, Denshichiro!",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-218",
+      "number": "218",
+      "title": "Death",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-219",
+      "number": "219",
+      "title": "Inseperable Relations",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-220",
+      "number": "220",
+      "title": "Honor And Hatred",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-221",
+      "number": "221",
+      "title": "An Old Friend",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-222",
+      "number": "222",
+      "title": "Friends",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-223",
+      "number": "223",
+      "title": "Musings In A Tree",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-224",
+      "number": "224",
+      "title": "The Drooping Pine Of Ichijoji",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-225",
+      "number": "225",
+      "title": "Musashi and the Seventy",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-226",
+      "number": "226",
+      "title": "In The Bosom Of The Yoshioka",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-227",
+      "number": "227",
+      "title": "Lone Force",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-228",
+      "number": "228",
+      "title": "Clustered",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-229",
+      "number": "229",
+      "title": "The Rapids",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-230",
+      "number": "230",
+      "title": "A Yellow Sky",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-231",
+      "number": "231",
+      "title": "Exhaustion",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-232",
+      "number": "232",
+      "title": "Life",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-233",
+      "number": "233",
+      "title": "Finds the Way",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-234",
+      "number": "234",
+      "title": "Heaps",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-235",
+      "number": "235",
+      "title": "The Depth",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-236",
+      "number": "236",
+      "title": "The End of the Battle",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-237",
+      "number": "237",
+      "title": "In the Way",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-238",
+      "number": "238",
+      "title": "Necessary to the Era",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-239",
+      "number": "239",
+      "title": "Mud of Blood",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-240",
+      "number": "240",
+      "title": "A Chance Meeting",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-241",
+      "number": "241",
+      "title": "One Stroke of the Sword",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-242",
+      "number": "242",
+      "title": "The End of the Battle",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-243",
+      "number": "243",
+      "title": "Frogs",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-244",
+      "number": "244",
+      "title": "The Solitary Way",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-245",
+      "number": "245",
+      "title": "Reunion",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-246",
+      "number": "246",
+      "title": "Nothing's Changed",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-247",
+      "number": "247",
+      "title": "While You Sleep",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-248",
+      "number": "248",
+      "title": "Pulse",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-249",
+      "number": "249",
+      "title": "The Man in the Rumors",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-250",
+      "number": "250",
+      "title": "An End to Fighting",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-251",
+      "number": "251",
+      "title": "Prayer",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-252",
+      "number": "252",
+      "title": "An Imprisoned Musashi",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-253",
+      "number": "253",
+      "title": "To Live by the Sword",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-254",
+      "number": "254",
+      "title": "Home",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-255",
+      "number": "255",
+      "title": "Questions",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-256",
+      "number": "256",
+      "title": "Voices",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-257",
+      "number": "257",
+      "title": "Contradiction",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-258",
+      "number": "258",
+      "title": "The Glowing Light in the Depths",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-259",
+      "number": "259",
+      "title": "The Stick",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-260",
+      "number": "260",
+      "title": "The Flames of Hatred",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-261",
+      "number": "261",
+      "title": "Moonlight",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-262",
+      "number": "262",
+      "title": "Separation",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-263",
+      "number": "263",
+      "title": "The Facts of a Dream",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-264",
+      "number": "264",
+      "title": "Heat Haze",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-265",
+      "number": "265",
+      "title": "Just That Much",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-266",
+      "number": "266",
+      "title": "Fragments",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-267",
+      "number": "267",
+      "title": "Crossroads",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-268",
+      "number": "268",
+      "title": "On the Edge of the Sword",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-269",
+      "number": "269",
+      "title": "Light",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-270",
+      "number": "270",
+      "title": "Vagabond",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-271",
+      "number": "271",
+      "title": "Within the Ring",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-272",
+      "number": "272",
+      "title": "Dreams Worn Out And Returning Home",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-273",
+      "number": "273",
+      "title": "Mother And Child",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-274",
+      "number": "274",
+      "title": "Mother",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-275",
+      "number": "275",
+      "title": "Liar",
+      "date": "2009/07/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-276",
+      "number": "276",
+      "title": "A Chance Meeting",
+      "date": "2009/08/02",
+      "pages": []
+    },
+    {
+      "id": "vagabond-277",
+      "number": "277",
+      "title": "A Friend",
+      "date": "2009/08/02",
+      "pages": []
+    },
+    {
+      "id": "vagabond-278",
+      "number": "278",
+      "title": "Treasure",
+      "date": "2009/08/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-279",
+      "number": "279",
+      "title": "Aspiration",
+      "date": "2009/09/04",
+      "pages": []
+    },
+    {
+      "id": "vagabond-280",
+      "number": "280",
+      "title": "Ittousai, the Demon Swordsman",
+      "date": "2009/09/11",
+      "pages": []
+    },
+    {
+      "id": "vagabond-281",
+      "number": "281",
+      "title": "A Great Man Falls",
+      "date": "2009/09/19",
+      "pages": []
+    },
+    {
+      "id": "vagabond-282",
+      "number": "282",
+      "title": "This Form",
+      "date": "2009/10/19",
+      "pages": []
+    },
+    {
+      "id": "vagabond-283",
+      "number": "283",
+      "title": "Thirteen Years Old",
+      "date": "2009/10/19",
+      "pages": []
+    },
+    {
+      "id": "vagabond-284",
+      "number": "284",
+      "title": "The Spiral",
+      "date": "2009/12/02",
+      "pages": []
+    },
+    {
+      "id": "vagabond-285",
+      "number": "285",
+      "title": "Learning to Smile",
+      "date": "2009/12/02",
+      "pages": []
+    },
+    {
+      "id": "vagabond-286",
+      "number": "286",
+      "title": "Tiger and Tiger",
+      "date": "2009/12/02",
+      "pages": []
+    },
+    {
+      "id": "vagabond-287",
+      "number": "287",
+      "title": "The Way of without a Blade",
+      "date": "2009/12/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-288",
+      "number": "288",
+      "title": "Kokura",
+      "date": "2010/01/27",
+      "pages": []
+    },
+    {
+      "id": "vagabond-289",
+      "number": "289",
+      "title": "The Music Inside",
+      "date": "2010/02/04",
+      "pages": []
+    },
+    {
+      "id": "vagabond-290",
+      "number": "290",
+      "title": "The World of People",
+      "date": "2010/02/11",
+      "pages": []
+    },
+    {
+      "id": "vagabond-291",
+      "number": "291",
+      "title": "7 Years",
+      "date": "2010/03/04",
+      "pages": []
+    },
+    {
+      "id": "vagabond-292",
+      "number": "292",
+      "title": "Profile",
+      "date": "2010/05/09",
+      "pages": []
+    },
+    {
+      "id": "vagabond-293",
+      "number": "293",
+      "title": "Tremors",
+      "date": "2010/04/10",
+      "pages": []
+    },
+    {
+      "id": "vagabond-294",
+      "number": "294",
+      "title": "Give it Up",
+      "date": "2010/04/15",
+      "pages": []
+    },
+    {
+      "id": "vagabond-295",
+      "number": "295",
+      "title": "Paper Baloon",
+      "date": "2010/04/29",
+      "pages": []
+    },
+    {
+      "id": "vagabond-296",
+      "number": "296",
+      "title": "Kojirous City",
+      "date": "2010/05/16",
+      "pages": []
+    },
+    {
+      "id": "vagabond-297",
+      "number": "297",
+      "title": "The Flower of Kakura",
+      "date": "2010/09/28",
+      "pages": []
+    },
+    {
+      "id": "vagabond-298",
+      "number": "298",
+      "title": "Instructor",
+      "date": "2010/10/02",
+      "pages": []
+    },
+    {
+      "id": "vagabond-299",
+      "number": "299",
+      "title": "Mogura",
+      "date": "2010/10/10",
+      "pages": []
+    },
+    {
+      "id": "vagabond-300",
+      "number": "300",
+      "title": "The Future of Our Freedom",
+      "date": "2010/11/08",
+      "pages": []
+    },
+    {
+      "id": "vagabond-301",
+      "number": "301",
+      "title": "At the End of the Journey",
+      "date": "2012/03/16",
+      "pages": []
+    },
+    {
+      "id": "vagabond-302",
+      "number": "302",
+      "title": "Children Of The Earth",
+      "date": "2012/04/22",
+      "pages": []
+    },
+    {
+      "id": "vagabond-303",
+      "number": "303",
+      "title": "Rainy Soil",
+      "date": "2012/05/28",
+      "pages": []
+    },
+    {
+      "id": "vagabond-304",
+      "number": "304",
+      "title": "Overflowing Water",
+      "date": "2013/03/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-305",
+      "number": "305",
+      "title": "The Water Path",
+      "date": "2013/03/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-306",
+      "number": "306",
+      "title": "Infinite Smiles",
+      "date": "2013/03/08",
+      "pages": []
+    },
+    {
+      "id": "vagabond-307",
+      "number": "307",
+      "title": "The Tip",
+      "date": "2013/03/17",
+      "pages": []
+    },
+    {
+      "id": "vagabond-308",
+      "number": "308",
+      "title": "Logusgts",
+      "date": "2013/03/26",
+      "pages": []
+    },
+    {
+      "id": "vagabond-309",
+      "number": "309",
+      "title": "Earth",
+      "date": "2013/04/08",
+      "pages": []
+    },
+    {
+      "id": "vagabond-310",
+      "number": "310",
+      "title": "Late Autumn",
+      "date": "2013/04/08",
+      "pages": []
+    },
+    {
+      "id": "vagabond-311",
+      "number": "311",
+      "title": "A Lively Life",
+      "date": "2013/04/22",
+      "pages": []
+    },
+    {
+      "id": "vagabond-312",
+      "number": "312",
+      "title": "The Fool's Paddy Field!",
+      "date": "2013/04/26",
+      "pages": []
+    },
+    {
+      "id": "vagabond-313",
+      "number": "313",
+      "title": "A Corpse and Lives",
+      "date": "2013/05/01",
+      "pages": []
+    },
+    {
+      "id": "vagabond-314",
+      "number": "314",
+      "title": "Breath",
+      "date": "2013/05/06",
+      "pages": []
+    },
+    {
+      "id": "vagabond-315",
+      "number": "315",
+      "title": "When the Water Warms",
+      "date": "2013/05/25",
+      "pages": []
+    },
+    {
+      "id": "vagabond-316",
+      "number": "316",
+      "title": "Spring Thunder",
+      "date": "2013/06/23",
+      "pages": []
+    },
+    {
+      "id": "vagabond-317",
+      "number": "317",
+      "title": "Pure and Clear",
+      "date": "2013/07/26",
+      "pages": []
+    },
+    {
+      "id": "vagabond-318",
+      "number": "318",
+      "title": "Spring",
+      "date": "2013/09/19",
+      "pages": []
+    },
+    {
+      "id": "vagabond-319",
+      "number": "319",
+      "title": "Something Frail",
+      "date": "2013/10/23",
+      "pages": []
+    },
+    {
+      "id": "vagabond-320",
+      "number": "320",
+      "title": "Ridges Between Ride Field",
+      "date": "2013/11/26",
+      "pages": []
+    },
+    {
+      "id": "vagabond-321",
+      "number": "321",
+      "title": "Shuhsaku Collapses",
+      "date": "2014/01/08",
+      "pages": []
+    },
+    {
+      "id": "vagabond-322",
+      "number": "322",
+      "title": "Dragonflies",
+      "date": "2014/01/19",
+      "pages": []
+    },
+    {
+      "id": "vagabond-323",
+      "number": "323",
+      "title": "Travel Clothes",
+      "date": "2015/02/05",
+      "pages": []
+    },
+    {
+      "id": "vagabond-324",
+      "number": "324",
+      "title": "Kokura's Treasure",
+      "date": "2015/02/23",
+      "pages": []
+    },
+    {
+      "id": "vagabond-325",
+      "number": "325",
+      "title": "Noted Treasure",
+      "date": "2015/03/30",
+      "pages": []
+    },
+    {
+      "id": "vagabond-326",
+      "number": "326",
+      "title": "samurai",
+      "date": "2015/04/25",
+      "pages": []
+    },
+    {
+      "id": "vagabond-327",
+      "number": "327",
+      "title": "The Man Named Tadaoki",
+      "date": "2015/05/24",
+      "pages": []
+    }
+  ],
+  "pt": [
+    {
+      "id": "vagabond-chapter-1",
+      "number": 1,
+      "title": "Vagabond – Capítulo 1 – Shimen Takezo",
+      "date": "2025-04-03T00:06:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329676
+    },
+    {
+      "id": "vagabond-chapter-2",
+      "number": 2,
+      "title": "Vagabond – Capítulo 2 – Akemi",
+      "date": "2025-04-03T00:06:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329680
+    },
+    {
+      "id": "vagabond-chapter-3",
+      "number": 3,
+      "title": "Vagabond – Capítulo 3 – Okoo.",
+      "date": "2025-04-03T00:06:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329675
+    },
+    {
+      "id": "vagabond-chapter-4",
+      "number": 4,
+      "title": "Vagabond – Capítulo 4 – Tsujizake, O Bandido",
+      "date": "2025-04-03T00:06:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329682
+    },
+    {
+      "id": "vagabond-chapter-5",
+      "number": 5,
+      "title": "Vagabond – Capítulo 5 – Jogo Sangrento",
+      "date": "2025-04-03T00:06:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329684
+    },
+    {
+      "id": "vagabond-chapter-6",
+      "number": 6,
+      "title": "Vagabond – Capítulo 6 – Os Problemas de Hon&#8217;iden Matahachi aos Dezessete Anos",
+      "date": "2025-04-03T00:06:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329677
+    },
+    {
+      "id": "vagabond-chapter-7",
+      "number": 7,
+      "title": "Vagabond – Capítulo 7 – Adeus Takezou",
+      "date": "2025-04-03T00:06:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329681
+    },
+    {
+      "id": "vagabond-chapter-8",
+      "number": 8,
+      "title": "Vagabond – Capítulo 8 – Vilarejo Miyamoto",
+      "date": "2025-04-03T00:06:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329683
+    },
+    {
+      "id": "vagabond-chapter-9",
+      "number": 9,
+      "title": "Vagabond – Capítulo 9 – Noiva",
+      "date": "2025-04-03T00:06:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329678
+    },
+    {
+      "id": "vagabond-chapter-10",
+      "number": 10,
+      "title": "Vagabond – Capítulo 10 – Deixada Para Trás",
+      "date": "2025-04-03T00:06:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329679
+    },
+    {
+      "id": "vagabond-chapter-11",
+      "number": 11,
+      "title": "Vagabond – Capítulo 11",
+      "date": "2025-04-03T00:07:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329925
+    },
+    {
+      "id": "vagabond-chapter-12",
+      "number": 12,
+      "title": "Vagabond – Capítulo 12",
+      "date": "2025-04-03T00:07:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329931
+    },
+    {
+      "id": "vagabond-chapter-13",
+      "number": 13,
+      "title": "Vagabond – Capítulo 13",
+      "date": "2025-04-03T00:07:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329930
+    },
+    {
+      "id": "vagabond-chapter-14",
+      "number": 14,
+      "title": "Vagabond – Capítulo 14",
+      "date": "2025-04-03T00:07:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329924
+    },
+    {
+      "id": "vagabond-chapter-15",
+      "number": 15,
+      "title": "Vagabond – Capítulo 15 – Sem Medo",
+      "date": "2025-04-03T00:07:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329928
+    },
+    {
+      "id": "vagabond-chapter-16",
+      "number": 16,
+      "title": "Vagabond – Capítulo 16 – Captura",
+      "date": "2025-04-03T00:07:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329923
+    },
+    {
+      "id": "vagabond-chapter-17",
+      "number": 17,
+      "title": "Vagabond – Capítulo 17 – Invencível Sob o Sol",
+      "date": "2025-04-03T00:07:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329926
+    },
+    {
+      "id": "vagabond-chapter-18",
+      "number": 18,
+      "title": "Vagabond – Capítulo 18",
+      "date": "2025-04-03T00:07:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329932
+    },
+    {
+      "id": "vagabond-chapter-19",
+      "number": 19,
+      "title": "Vagabond – Capítulo 19 – Filho do Demônio",
+      "date": "2025-04-03T00:07:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329929
+    },
+    {
+      "id": "vagabond-chapter-20",
+      "number": 20,
+      "title": "Vagabond – Capítulo 20",
+      "date": "2025-04-03T00:07:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 329927
+    },
+    {
+      "id": "vagabond-chapter-21",
+      "number": 21,
+      "title": "Vagabond – Capítulo 21",
+      "date": "2025-04-03T00:08:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330143
+    },
+    {
+      "id": "vagabond-chapter-22",
+      "number": 22,
+      "title": "Vagabond – Capítulo 22",
+      "date": "2025-04-03T00:08:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330140
+    },
+    {
+      "id": "vagabond-chapter-23",
+      "number": 23,
+      "title": "Vagabond – Capítulo 23 – Primeiro Passo",
+      "date": "2025-04-03T00:08:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330141
+    },
+    {
+      "id": "vagabond-chapter-24",
+      "number": 24,
+      "title": "Vagabond – Capítulo 24",
+      "date": "2025-04-03T00:08:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330148
+    },
+    {
+      "id": "vagabond-chapter-25",
+      "number": 25,
+      "title": "Vagabond – Capítulo 25 – Caos na Escola Yoshioka",
+      "date": "2025-04-03T00:08:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330145
+    },
+    {
+      "id": "vagabond-chapter-26",
+      "number": 26,
+      "title": "Vagabond – Capítulo 26",
+      "date": "2025-04-03T00:08:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330146
+    },
+    {
+      "id": "vagabond-chapter-27",
+      "number": 27,
+      "title": "Vagabond – Capítulo 27",
+      "date": "2025-04-03T00:08:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330144
+    },
+    {
+      "id": "vagabond-chapter-28",
+      "number": 28,
+      "title": "Vagabond – Capítulo 28 – Demônio (2)",
+      "date": "2025-04-03T00:08:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330147
+    },
+    {
+      "id": "vagabond-chapter-29",
+      "number": 29,
+      "title": "Vagabond – Capítulo 29 – Ignorância",
+      "date": "2025-04-03T00:08:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330149
+    },
+    {
+      "id": "vagabond-chapter-30",
+      "number": 30,
+      "title": "Vagabond – Capítulo 30",
+      "date": "2025-04-03T00:08:06Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330142
+    },
+    {
+      "id": "vagabond-chapter-31",
+      "number": 31,
+      "title": "Vagabond – Capítulo 31 – Inferno",
+      "date": "2025-04-03T00:08:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330371
+    },
+    {
+      "id": "vagabond-chapter-32",
+      "number": 32,
+      "title": "Vagabond – Capítulo 32",
+      "date": "2025-04-03T00:08:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330366
+    },
+    {
+      "id": "vagabond-chapter-33",
+      "number": 33,
+      "title": "Vagabond – Capítulo 33 – Partidas",
+      "date": "2025-04-03T00:08:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330372
+    },
+    {
+      "id": "vagabond-chapter-34",
+      "number": 34,
+      "title": "Vagabond – Capítulo 34 – Partidas(2)",
+      "date": "2025-04-03T00:08:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330370
+    },
+    {
+      "id": "vagabond-chapter-35",
+      "number": 35,
+      "title": "Vagabond – Capítulo 35 – Distração",
+      "date": "2025-04-03T00:08:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330369
+    },
+    {
+      "id": "vagabond-chapter-36",
+      "number": 36,
+      "title": "Vagabond – Capítulo 36 – Houzouin",
+      "date": "2025-04-03T00:08:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330364
+    },
+    {
+      "id": "vagabond-chapter-37",
+      "number": 37,
+      "title": "Vagabond – Capítulo 37 – Sede de Sangue",
+      "date": "2025-04-03T00:08:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330373
+    },
+    {
+      "id": "vagabond-chapter-38",
+      "number": 38,
+      "title": "Vagabond – Capítulo 38 – Deselegante",
+      "date": "2025-04-03T00:08:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330367
+    },
+    {
+      "id": "vagabond-chapter-39",
+      "number": 39,
+      "title": "Vagabond – Capítulo 39 – Inshun",
+      "date": "2025-04-03T00:08:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330365
+    },
+    {
+      "id": "vagabond-chapter-40",
+      "number": 40,
+      "title": "Vagabond – Capítulo 40 – Agon",
+      "date": "2025-04-03T00:09:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330597
+    },
+    {
+      "id": "vagabond-chapter-41",
+      "number": 41,
+      "title": "Vagabond – Capítulo 41 – Assassino",
+      "date": "2025-04-03T00:09:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330594
+    },
+    {
+      "id": "vagabond-chapter-42",
+      "number": 42,
+      "title": "Vagabond – Capítulo 42 – Uivo",
+      "date": "2025-04-03T00:09:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330595
+    },
+    {
+      "id": "vagabond-chapter-43",
+      "number": 43,
+      "title": "Vagabond – Capítulo 43 – Lança do Inshun",
+      "date": "2025-04-03T00:09:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330596
+    },
+    {
+      "id": "vagabond-chapter-44",
+      "number": 44,
+      "title": "Vagabond – Capítulo 44",
+      "date": "2025-04-03T00:09:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330601
+    },
+    {
+      "id": "vagabond-chapter-45",
+      "number": 45,
+      "title": "Vagabond – Capítulo 45",
+      "date": "2025-04-03T00:09:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330598
+    },
+    {
+      "id": "vagabond-chapter-46",
+      "number": 46,
+      "title": "Vagabond – Capítulo 46 – Demônio Interior",
+      "date": "2025-04-03T00:09:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330593
+    },
+    {
+      "id": "vagabond-chapter-47",
+      "number": 47,
+      "title": "Vagabond – Capítulo 47 – Medo",
+      "date": "2025-04-03T00:09:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330600
+    },
+    {
+      "id": "vagabond-chapter-48",
+      "number": 48,
+      "title": "Vagabond – Capítulo 48",
+      "date": "2025-04-03T00:09:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330599
+    },
+    {
+      "id": "vagabond-chapter-49",
+      "number": 49,
+      "title": "Vagabond – Capítulo 49 – Medo (3)",
+      "date": "2025-04-03T00:09:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330602
+    },
+    {
+      "id": "vagabond-chapter-50",
+      "number": 50,
+      "title": "Vagabond – Capítulo 50",
+      "date": "2025-04-03T00:10:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330815
+    },
+    {
+      "id": "vagabond-chapter-51",
+      "number": 51,
+      "title": "Vagabond – Capítulo 51 – Sendo Discreto",
+      "date": "2025-04-03T00:10:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330823
+    },
+    {
+      "id": "vagabond-chapter-52",
+      "number": 52,
+      "title": "Vagabond – Capítulo 52 – Sendo Discreto (2)",
+      "date": "2025-04-03T00:10:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330822
+    },
+    {
+      "id": "vagabond-chapter-53",
+      "number": 53,
+      "title": "Vagabond – Capítulo 53 – Jornada",
+      "date": "2025-04-03T00:10:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330816
+    },
+    {
+      "id": "vagabond-chapter-54",
+      "number": 54,
+      "title": "Vagabond – Capítulo 54 – Visão",
+      "date": "2025-04-03T00:10:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330817
+    },
+    {
+      "id": "vagabond-chapter-55",
+      "number": 55,
+      "title": "Vagabond – Capítulo 55",
+      "date": "2025-04-03T00:10:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330814
+    },
+    {
+      "id": "vagabond-chapter-56",
+      "number": 56,
+      "title": "Vagabond – Capítulo 56 – Osaka",
+      "date": "2025-04-03T00:10:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330818
+    },
+    {
+      "id": "vagabond-chapter-57",
+      "number": 57,
+      "title": "Vagabond – Capítulo 57",
+      "date": "2025-04-03T00:10:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330820
+    },
+    {
+      "id": "vagabond-chapter-58",
+      "number": 58,
+      "title": "Vagabond – Capítulo 58 – Sasaki Kojirou",
+      "date": "2025-04-03T00:10:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330819
+    },
+    {
+      "id": "vagabond-chapter-59",
+      "number": 59,
+      "title": "Vagabond – Capítulo 59 – Picles de Houzouin",
+      "date": "2025-04-03T00:10:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 330821
+    },
+    {
+      "id": "vagabond-chapter-60",
+      "number": 60,
+      "title": "Vagabond – Capítulo 60 – Véspera do Duelo",
+      "date": "2025-04-03T00:11:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331037
+    },
+    {
+      "id": "vagabond-chapter-61",
+      "number": 61,
+      "title": "Vagabond – Capítulo 61 – Véspera do Duelo (2)",
+      "date": "2025-04-03T00:11:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331032
+    },
+    {
+      "id": "vagabond-chapter-62",
+      "number": 62,
+      "title": "Vagabond – Capítulo 62 – Amanhecendo",
+      "date": "2025-04-03T00:11:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331034
+    },
+    {
+      "id": "vagabond-chapter-63",
+      "number": 63,
+      "title": "Vagabond – Capítulo 63",
+      "date": "2025-04-03T00:11:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331033
+    },
+    {
+      "id": "vagabond-chapter-64",
+      "number": 64,
+      "title": "Vagabond – Capítulo 64",
+      "date": "2025-04-03T00:11:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331036
+    },
+    {
+      "id": "vagabond-chapter-65",
+      "number": 65,
+      "title": "Vagabond – Capítulo 65 – Legado",
+      "date": "2025-04-03T00:11:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331030
+    },
+    {
+      "id": "vagabond-chapter-66",
+      "number": 66,
+      "title": "Vagabond – Capítulo 66",
+      "date": "2025-04-03T00:11:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331038
+    },
+    {
+      "id": "vagabond-chapter-67",
+      "number": 67,
+      "title": "Vagabond – Capítulo 67",
+      "date": "2025-04-03T00:11:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331039
+    },
+    {
+      "id": "vagabond-chapter-68",
+      "number": 68,
+      "title": "Vagabond – Capítulo 68 – Sem Espada",
+      "date": "2025-04-03T00:11:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331035
+    },
+    {
+      "id": "vagabond-chapter-69",
+      "number": 69,
+      "title": "Vagabond – Capítulo 69 – Vida (2)",
+      "date": "2025-04-03T00:11:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331031
+    },
+    {
+      "id": "vagabond-chapter-70",
+      "number": 70,
+      "title": "Vagabond – Capítulo 70",
+      "date": "2025-04-03T00:12:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331246
+    },
+    {
+      "id": "vagabond-chapter-71",
+      "number": 71,
+      "title": "Vagabond – Capítulo 71",
+      "date": "2025-04-03T00:12:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331240
+    },
+    {
+      "id": "vagabond-chapter-72",
+      "number": 72,
+      "title": "Vagabond – Capítulo 72",
+      "date": "2025-04-03T00:12:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331242
+    },
+    {
+      "id": "vagabond-chapter-73",
+      "number": 73,
+      "title": "Vagabond – Capítulo 73",
+      "date": "2025-04-03T00:12:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331245
+    },
+    {
+      "id": "vagabond-chapter-74",
+      "number": 74,
+      "title": "Vagabond – Capítulo 74 – Tempestade Repentina",
+      "date": "2025-04-03T00:12:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331241
+    },
+    {
+      "id": "vagabond-chapter-75",
+      "number": 75,
+      "title": "Vagabond – Capítulo 75 – Sobreviventes",
+      "date": "2025-04-03T00:12:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331238
+    },
+    {
+      "id": "vagabond-chapter-76",
+      "number": 76,
+      "title": "Vagabond – Capítulo 76 – Não Coloque a Sua Vida em Risco",
+      "date": "2025-04-03T00:12:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331237
+    },
+    {
+      "id": "vagabond-chapter-77",
+      "number": 77,
+      "title": "Vagabond – Capítulo 77 – Eles Me Chamam de &#8220;Sensei&#8221;",
+      "date": "2025-04-03T00:12:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331244
+    },
+    {
+      "id": "vagabond-chapter-78",
+      "number": 78,
+      "title": "Vagabond – Capítulo 78 – Dragão Ascendente",
+      "date": "2025-04-03T00:12:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331239
+    },
+    {
+      "id": "vagabond-chapter-79",
+      "number": 79,
+      "title": "Vagabond – Capítulo 79",
+      "date": "2025-04-03T00:12:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331243
+    },
+    {
+      "id": "vagabond-chapter-80",
+      "number": 80,
+      "title": "Vagabond – Capítulo 80 – Indo Para Casa",
+      "date": "2025-04-03T00:12:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331453
+    },
+    {
+      "id": "vagabond-chapter-81",
+      "number": 81,
+      "title": "Vagabond – Capítulo 81",
+      "date": "2025-04-03T00:12:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331456
+    },
+    {
+      "id": "vagabond-chapter-82",
+      "number": 82,
+      "title": "Vagabond – Capítulo 82",
+      "date": "2025-04-03T00:12:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331450
+    },
+    {
+      "id": "vagabond-chapter-83",
+      "number": 83,
+      "title": "Vagabond – Capítulo 83",
+      "date": "2025-04-03T00:12:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331454
+    },
+    {
+      "id": "vagabond-chapter-84",
+      "number": 84,
+      "title": "Vagabond – Capítulo 84",
+      "date": "2025-04-03T00:12:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331452
+    },
+    {
+      "id": "vagabond-chapter-85",
+      "number": 85,
+      "title": "Vagabond – Capítulo 85",
+      "date": "2025-04-03T00:12:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331451
+    },
+    {
+      "id": "vagabond-chapter-86",
+      "number": 86,
+      "title": "Vagabond – Capítulo 86",
+      "date": "2025-04-03T00:12:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331448
+    },
+    {
+      "id": "vagabond-chapter-87",
+      "number": 87,
+      "title": "Vagabond – Capítulo 87",
+      "date": "2025-04-03T00:12:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331457
+    },
+    {
+      "id": "vagabond-chapter-88",
+      "number": 88,
+      "title": "Vagabond – Capítulo 88",
+      "date": "2025-04-03T00:12:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331449
+    },
+    {
+      "id": "vagabond-chapter-89",
+      "number": 89,
+      "title": "Vagabond – Capítulo 89",
+      "date": "2025-04-03T00:12:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331455
+    },
+    {
+      "id": "vagabond-chapter-90",
+      "number": 90,
+      "title": "Vagabond – Capítulo 90",
+      "date": "2025-04-03T00:13:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331657
+    },
+    {
+      "id": "vagabond-chapter-91",
+      "number": 91,
+      "title": "Vagabond – Capítulo 91",
+      "date": "2025-04-03T00:13:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331661
+    },
+    {
+      "id": "vagabond-chapter-92",
+      "number": 92,
+      "title": "Vagabond – Capítulo 92",
+      "date": "2025-04-03T00:13:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331660
+    },
+    {
+      "id": "vagabond-chapter-93",
+      "number": 93,
+      "title": "Vagabond – Capítulo 93",
+      "date": "2025-04-03T00:13:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331656
+    },
+    {
+      "id": "vagabond-chapter-94",
+      "number": 94,
+      "title": "Vagabond – Capítulo 94",
+      "date": "2025-04-03T00:13:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331659
+    },
+    {
+      "id": "vagabond-chapter-95",
+      "number": 95,
+      "title": "Vagabond – Capítulo 95",
+      "date": "2025-04-03T00:13:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331652
+    },
+    {
+      "id": "vagabond-chapter-96",
+      "number": 96,
+      "title": "Vagabond – Capítulo 96",
+      "date": "2025-04-03T00:13:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331658
+    },
+    {
+      "id": "vagabond-chapter-97",
+      "number": 97,
+      "title": "Vagabond – Capítulo 97",
+      "date": "2025-04-03T00:13:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331654
+    },
+    {
+      "id": "vagabond-chapter-98",
+      "number": 98,
+      "title": "Vagabond – Capítulo 98",
+      "date": "2025-04-03T00:13:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331653
+    },
+    {
+      "id": "vagabond-chapter-99",
+      "number": 99,
+      "title": "Vagabond – Capítulo 99",
+      "date": "2025-04-03T00:13:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331655
+    },
+    {
+      "id": "vagabond-chapter-100",
+      "number": 100,
+      "title": "Vagabond – Capítulo 100",
+      "date": "2025-04-03T00:14:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331848
+    },
+    {
+      "id": "vagabond-chapter-101",
+      "number": 101,
+      "title": "Vagabond – Capítulo 101",
+      "date": "2025-04-03T00:14:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331846
+    },
+    {
+      "id": "vagabond-chapter-102",
+      "number": 102,
+      "title": "Vagabond – Capítulo 102",
+      "date": "2025-04-03T00:14:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331851
+    },
+    {
+      "id": "vagabond-chapter-103",
+      "number": 103,
+      "title": "Vagabond – Capítulo 103",
+      "date": "2025-04-03T00:14:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331847
+    },
+    {
+      "id": "vagabond-chapter-104",
+      "number": 104,
+      "title": "Vagabond – Capítulo 104",
+      "date": "2025-04-03T00:14:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331849
+    },
+    {
+      "id": "vagabond-chapter-105",
+      "number": 105,
+      "title": "Vagabond – Capítulo 105",
+      "date": "2025-04-03T00:14:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331852
+    },
+    {
+      "id": "vagabond-chapter-106",
+      "number": 106,
+      "title": "Vagabond – Capítulo 106",
+      "date": "2025-04-03T00:14:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331850
+    },
+    {
+      "id": "vagabond-chapter-107",
+      "number": 107,
+      "title": "Vagabond – Capítulo 107",
+      "date": "2025-04-03T00:14:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331853
+    },
+    {
+      "id": "vagabond-chapter-108",
+      "number": 108,
+      "title": "Vagabond – Capítulo 108",
+      "date": "2025-04-03T00:14:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331854
+    },
+    {
+      "id": "vagabond-chapter-109",
+      "number": 109,
+      "title": "Vagabond – Capítulo 109",
+      "date": "2025-04-03T00:14:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 331855
+    },
+    {
+      "id": "vagabond-chapter-110",
+      "number": 110,
+      "title": "Vagabond – Capítulo 110",
+      "date": "2025-04-03T00:14:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332061
+    },
+    {
+      "id": "vagabond-chapter-111",
+      "number": 111,
+      "title": "Vagabond – Capítulo 111",
+      "date": "2025-04-03T00:14:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332055
+    },
+    {
+      "id": "vagabond-chapter-112",
+      "number": 112,
+      "title": "Vagabond – Capítulo 112",
+      "date": "2025-04-03T00:14:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332058
+    },
+    {
+      "id": "vagabond-chapter-113",
+      "number": 113,
+      "title": "Vagabond – Capítulo 113",
+      "date": "2025-04-03T00:14:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332064
+    },
+    {
+      "id": "vagabond-chapter-114",
+      "number": 114,
+      "title": "Vagabond – Capítulo 114",
+      "date": "2025-04-03T00:14:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332056
+    },
+    {
+      "id": "vagabond-chapter-115",
+      "number": 115,
+      "title": "Vagabond – Capítulo 115",
+      "date": "2025-04-03T00:14:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332059
+    },
+    {
+      "id": "vagabond-chapter-116",
+      "number": 116,
+      "title": "Vagabond – Capítulo 116",
+      "date": "2025-04-03T00:14:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332060
+    },
+    {
+      "id": "vagabond-chapter-117",
+      "number": 117,
+      "title": "Vagabond – Capítulo 117",
+      "date": "2025-04-03T00:14:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332063
+    },
+    {
+      "id": "vagabond-chapter-118",
+      "number": 118,
+      "title": "Vagabond – Capítulo 118",
+      "date": "2025-04-03T00:14:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332057
+    },
+    {
+      "id": "vagabond-chapter-119",
+      "number": 119,
+      "title": "Vagabond – Capítulo 119",
+      "date": "2025-04-03T00:14:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332062
+    },
+    {
+      "id": "vagabond-chapter-120",
+      "number": 120,
+      "title": "Vagabond – Capítulo 120",
+      "date": "2025-04-03T00:15:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332272
+    },
+    {
+      "id": "vagabond-chapter-121",
+      "number": 121,
+      "title": "Vagabond – Capítulo 121",
+      "date": "2025-04-03T00:15:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332265
+    },
+    {
+      "id": "vagabond-chapter-122",
+      "number": 122,
+      "title": "Vagabond – Capítulo 122",
+      "date": "2025-04-03T00:15:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332263
+    },
+    {
+      "id": "vagabond-chapter-123",
+      "number": 123,
+      "title": "Vagabond – Capítulo 123",
+      "date": "2025-04-03T00:15:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332269
+    },
+    {
+      "id": "vagabond-chapter-124",
+      "number": 124,
+      "title": "Vagabond – Capítulo 124",
+      "date": "2025-04-03T00:15:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332270
+    },
+    {
+      "id": "vagabond-chapter-125",
+      "number": 125,
+      "title": "Vagabond – Capítulo 125",
+      "date": "2025-04-03T00:15:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332264
+    },
+    {
+      "id": "vagabond-chapter-126",
+      "number": 126,
+      "title": "Vagabond – Capítulo 126",
+      "date": "2025-04-03T00:15:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332268
+    },
+    {
+      "id": "vagabond-chapter-127",
+      "number": 127,
+      "title": "Vagabond – Capítulo 127",
+      "date": "2025-04-03T00:15:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332271
+    },
+    {
+      "id": "vagabond-chapter-128",
+      "number": 128,
+      "title": "Vagabond – Capítulo 128",
+      "date": "2025-04-03T00:15:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332267
+    },
+    {
+      "id": "vagabond-chapter-129",
+      "number": 129,
+      "title": "Vagabond – Capítulo 129",
+      "date": "2025-04-03T00:15:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332266
+    },
+    {
+      "id": "vagabond-chapter-130",
+      "number": 130,
+      "title": "Vagabond – Capítulo 130",
+      "date": "2025-04-03T00:16:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332468
+    },
+    {
+      "id": "vagabond-chapter-131",
+      "number": 131,
+      "title": "Vagabond – Capítulo 131",
+      "date": "2025-04-03T00:16:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332471
+    },
+    {
+      "id": "vagabond-chapter-132",
+      "number": 132,
+      "title": "Vagabond – Capítulo 132",
+      "date": "2025-04-03T00:16:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332469
+    },
+    {
+      "id": "vagabond-chapter-133",
+      "number": 133,
+      "title": "Vagabond – Capítulo 133",
+      "date": "2025-04-03T00:16:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332467
+    },
+    {
+      "id": "vagabond-chapter-134",
+      "number": 134,
+      "title": "Vagabond – Capítulo 134",
+      "date": "2025-04-03T00:16:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332474
+    },
+    {
+      "id": "vagabond-chapter-135",
+      "number": 135,
+      "title": "Vagabond – Capítulo 135",
+      "date": "2025-04-03T00:16:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332473
+    },
+    {
+      "id": "vagabond-chapter-136",
+      "number": 136,
+      "title": "Vagabond – Capítulo 136",
+      "date": "2025-04-03T00:16:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332476
+    },
+    {
+      "id": "vagabond-chapter-137",
+      "number": 137,
+      "title": "Vagabond – Capítulo 137",
+      "date": "2025-04-03T00:16:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332470
+    },
+    {
+      "id": "vagabond-chapter-138",
+      "number": 138,
+      "title": "Vagabond – Capítulo 138",
+      "date": "2025-04-03T00:16:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332472
+    },
+    {
+      "id": "vagabond-chapter-139",
+      "number": 139,
+      "title": "Vagabond – Capítulo 139",
+      "date": "2025-04-03T00:16:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332475
+    },
+    {
+      "id": "vagabond-chapter-140",
+      "number": 140,
+      "title": "Vagabond – Capítulo 140",
+      "date": "2025-04-03T00:17:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332713
+    },
+    {
+      "id": "vagabond-chapter-141",
+      "number": 141,
+      "title": "Vagabond – Capítulo 141",
+      "date": "2025-04-03T00:17:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332715
+    },
+    {
+      "id": "vagabond-chapter-142",
+      "number": 142,
+      "title": "Vagabond – Capítulo 142",
+      "date": "2025-04-03T00:17:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332709
+    },
+    {
+      "id": "vagabond-chapter-143",
+      "number": 143,
+      "title": "Vagabond – Capítulo 143",
+      "date": "2025-04-03T00:17:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332717
+    },
+    {
+      "id": "vagabond-chapter-144",
+      "number": 144,
+      "title": "Vagabond – Capítulo 144",
+      "date": "2025-04-03T00:17:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332718
+    },
+    {
+      "id": "vagabond-chapter-145",
+      "number": 145,
+      "title": "Vagabond – Capítulo 145",
+      "date": "2025-04-03T00:17:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332714
+    },
+    {
+      "id": "vagabond-chapter-146",
+      "number": 146,
+      "title": "Vagabond – Capítulo 146",
+      "date": "2025-04-03T00:17:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332710
+    },
+    {
+      "id": "vagabond-chapter-147",
+      "number": 147,
+      "title": "Vagabond – Capítulo 147",
+      "date": "2025-04-03T00:17:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332711
+    },
+    {
+      "id": "vagabond-chapter-148",
+      "number": 148,
+      "title": "Vagabond – Capítulo 148",
+      "date": "2025-04-03T00:17:02Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332712
+    },
+    {
+      "id": "vagabond-chapter-149",
+      "number": 149,
+      "title": "Vagabond – Capítulo 149",
+      "date": "2025-04-03T00:17:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332716
+    },
+    {
+      "id": "vagabond-chapter-150",
+      "number": 150,
+      "title": "Vagabond – Capítulo 150",
+      "date": "2025-04-03T00:17:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332980
+    },
+    {
+      "id": "vagabond-chapter-151",
+      "number": 151,
+      "title": "Vagabond – Capítulo 151",
+      "date": "2025-04-03T00:17:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332974
+    },
+    {
+      "id": "vagabond-chapter-152",
+      "number": 152,
+      "title": "Vagabond – Capítulo 152",
+      "date": "2025-04-03T00:17:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332976
+    },
+    {
+      "id": "vagabond-chapter-153",
+      "number": 153,
+      "title": "Vagabond – Capítulo 153",
+      "date": "2025-04-03T00:17:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332983
+    },
+    {
+      "id": "vagabond-chapter-154",
+      "number": 154,
+      "title": "Vagabond – Capítulo 154",
+      "date": "2025-04-03T00:17:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332981
+    },
+    {
+      "id": "vagabond-chapter-155",
+      "number": 155,
+      "title": "Vagabond – Capítulo 155",
+      "date": "2025-04-03T00:17:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332982
+    },
+    {
+      "id": "vagabond-chapter-156",
+      "number": 156,
+      "title": "Vagabond – Capítulo 156",
+      "date": "2025-04-03T00:17:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332978
+    },
+    {
+      "id": "vagabond-chapter-157",
+      "number": 157,
+      "title": "Vagabond – Capítulo 157",
+      "date": "2025-04-03T00:17:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332977
+    },
+    {
+      "id": "vagabond-chapter-158",
+      "number": 158,
+      "title": "Vagabond – Capítulo 158",
+      "date": "2025-04-03T00:17:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332975
+    },
+    {
+      "id": "vagabond-chapter-159",
+      "number": 159,
+      "title": "Vagabond – Capítulo 159",
+      "date": "2025-04-03T00:17:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 332979
+    },
+    {
+      "id": "vagabond-chapter-160",
+      "number": 160,
+      "title": "Vagabond – Capítulo 160",
+      "date": "2025-04-03T00:18:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333232
+    },
+    {
+      "id": "vagabond-chapter-161",
+      "number": 161,
+      "title": "Vagabond – Capítulo 161",
+      "date": "2025-04-03T00:18:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333237
+    },
+    {
+      "id": "vagabond-chapter-162",
+      "number": 162,
+      "title": "Vagabond – Capítulo 162",
+      "date": "2025-04-03T00:18:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333240
+    },
+    {
+      "id": "vagabond-chapter-163",
+      "number": 163,
+      "title": "Vagabond – Capítulo 163",
+      "date": "2025-04-03T00:18:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333238
+    },
+    {
+      "id": "vagabond-chapter-164",
+      "number": 164,
+      "title": "Vagabond – Capítulo 164",
+      "date": "2025-04-03T00:18:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333234
+    },
+    {
+      "id": "vagabond-chapter-165",
+      "number": 165,
+      "title": "Vagabond – Capítulo 165",
+      "date": "2025-04-03T00:18:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333233
+    },
+    {
+      "id": "vagabond-chapter-166",
+      "number": 166,
+      "title": "Vagabond – Capítulo 166",
+      "date": "2025-04-03T00:18:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333236
+    },
+    {
+      "id": "vagabond-chapter-167",
+      "number": 167,
+      "title": "Vagabond – Capítulo 167",
+      "date": "2025-04-03T00:18:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333239
+    },
+    {
+      "id": "vagabond-chapter-168",
+      "number": 168,
+      "title": "Vagabond – Capítulo 168",
+      "date": "2025-04-03T00:18:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333241
+    },
+    {
+      "id": "vagabond-chapter-169",
+      "number": 169,
+      "title": "Vagabond – Capítulo 169",
+      "date": "2025-04-03T00:18:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333235
+    },
+    {
+      "id": "vagabond-chapter-170",
+      "number": 170,
+      "title": "Vagabond – Capítulo 170",
+      "date": "2025-04-03T00:19:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333484
+    },
+    {
+      "id": "vagabond-chapter-171",
+      "number": 171,
+      "title": "Vagabond – Capítulo 171",
+      "date": "2025-04-03T00:19:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333492
+    },
+    {
+      "id": "vagabond-chapter-172",
+      "number": 172,
+      "title": "Vagabond – Capítulo 172",
+      "date": "2025-04-03T00:19:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333487
+    },
+    {
+      "id": "vagabond-chapter-173",
+      "number": 173,
+      "title": "Vagabond – Capítulo 173",
+      "date": "2025-04-03T00:19:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333486
+    },
+    {
+      "id": "vagabond-chapter-174",
+      "number": 174,
+      "title": "Vagabond – Capítulo 174",
+      "date": "2025-04-03T00:19:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333491
+    },
+    {
+      "id": "vagabond-chapter-175",
+      "number": 175,
+      "title": "Vagabond – Capítulo 175",
+      "date": "2025-04-03T00:19:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333488
+    },
+    {
+      "id": "vagabond-chapter-176",
+      "number": 176,
+      "title": "Vagabond – Capítulo 176",
+      "date": "2025-04-03T00:19:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333483
+    },
+    {
+      "id": "vagabond-chapter-177",
+      "number": 177,
+      "title": "Vagabond – Capítulo 177",
+      "date": "2025-04-03T00:19:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333485
+    },
+    {
+      "id": "vagabond-chapter-178",
+      "number": 178,
+      "title": "Vagabond – Capítulo 178",
+      "date": "2025-04-03T00:19:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333490
+    },
+    {
+      "id": "vagabond-chapter-179",
+      "number": 179,
+      "title": "Vagabond – Capítulo 179",
+      "date": "2025-04-03T00:19:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333489
+    },
+    {
+      "id": "vagabond-chapter-180",
+      "number": 180,
+      "title": "Vagabond – Capítulo 180",
+      "date": "2025-04-03T00:20:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333742
+    },
+    {
+      "id": "vagabond-chapter-181",
+      "number": 181,
+      "title": "Vagabond – Capítulo 181",
+      "date": "2025-04-03T00:20:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333743
+    },
+    {
+      "id": "vagabond-chapter-182",
+      "number": 182,
+      "title": "Vagabond – Capítulo 182",
+      "date": "2025-04-03T00:20:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333736
+    },
+    {
+      "id": "vagabond-chapter-183",
+      "number": 183,
+      "title": "Vagabond – Capítulo 183",
+      "date": "2025-04-03T00:20:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333737
+    },
+    {
+      "id": "vagabond-chapter-184",
+      "number": 184,
+      "title": "Vagabond – Capítulo 184",
+      "date": "2025-04-03T00:20:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333738
+    },
+    {
+      "id": "vagabond-chapter-185",
+      "number": 185,
+      "title": "Vagabond – Capítulo 185",
+      "date": "2025-04-03T00:20:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333740
+    },
+    {
+      "id": "vagabond-chapter-186",
+      "number": 186,
+      "title": "Vagabond – Capítulo 186",
+      "date": "2025-04-03T00:20:37Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333739
+    },
+    {
+      "id": "vagabond-chapter-187",
+      "number": 187,
+      "title": "Vagabond – Capítulo 187",
+      "date": "2025-04-03T00:20:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333745
+    },
+    {
+      "id": "vagabond-chapter-188",
+      "number": 188,
+      "title": "Vagabond – Capítulo 188",
+      "date": "2025-04-03T00:20:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333741
+    },
+    {
+      "id": "vagabond-chapter-189",
+      "number": 189,
+      "title": "Vagabond – Capítulo 189",
+      "date": "2025-04-03T00:20:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333744
+    },
+    {
+      "id": "vagabond-chapter-190",
+      "number": 190,
+      "title": "Vagabond – Capítulo 190",
+      "date": "2025-04-03T00:21:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333966
+    },
+    {
+      "id": "vagabond-chapter-191",
+      "number": 191,
+      "title": "Vagabond – Capítulo 191",
+      "date": "2025-04-03T00:21:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333962
+    },
+    {
+      "id": "vagabond-chapter-192",
+      "number": 192,
+      "title": "Vagabond – Capítulo 192",
+      "date": "2025-04-03T00:21:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333968
+    },
+    {
+      "id": "vagabond-chapter-193",
+      "number": 193,
+      "title": "Vagabond – Capítulo 193",
+      "date": "2025-04-03T00:21:36Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333971
+    },
+    {
+      "id": "vagabond-chapter-194",
+      "number": 194,
+      "title": "Vagabond – Capítulo 194",
+      "date": "2025-04-03T00:21:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333967
+    },
+    {
+      "id": "vagabond-chapter-195",
+      "number": 195,
+      "title": "Vagabond – Capítulo 195",
+      "date": "2025-04-03T00:21:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333963
+    },
+    {
+      "id": "vagabond-chapter-196",
+      "number": 196,
+      "title": "Vagabond – Capítulo 196",
+      "date": "2025-04-03T00:21:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333964
+    },
+    {
+      "id": "vagabond-chapter-197",
+      "number": 197,
+      "title": "Vagabond – Capítulo 197",
+      "date": "2025-04-03T00:21:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333965
+    },
+    {
+      "id": "vagabond-chapter-198",
+      "number": 198,
+      "title": "Vagabond – Capítulo 198",
+      "date": "2025-04-03T00:21:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333969
+    },
+    {
+      "id": "vagabond-chapter-199",
+      "number": 199,
+      "title": "Vagabond – Capítulo 199",
+      "date": "2025-04-03T00:21:36Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 333970
+    },
+    {
+      "id": "vagabond-chapter-200",
+      "number": 200,
+      "title": "Vagabond – Capítulo 200",
+      "date": "2025-04-03T00:22:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334189
+    },
+    {
+      "id": "vagabond-chapter-201",
+      "number": 201,
+      "title": "Vagabond – Capítulo 201",
+      "date": "2025-04-03T00:22:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334184
+    },
+    {
+      "id": "vagabond-chapter-202",
+      "number": 202,
+      "title": "Vagabond – Capítulo 202",
+      "date": "2025-04-03T00:22:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334187
+    },
+    {
+      "id": "vagabond-chapter-203",
+      "number": 203,
+      "title": "Vagabond – Capítulo 203",
+      "date": "2025-04-03T00:22:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334182
+    },
+    {
+      "id": "vagabond-chapter-204",
+      "number": 204,
+      "title": "Vagabond – Capítulo 204",
+      "date": "2025-04-03T00:22:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334185
+    },
+    {
+      "id": "vagabond-chapter-205",
+      "number": 205,
+      "title": "Vagabond – Capítulo 205",
+      "date": "2025-04-03T00:22:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334188
+    },
+    {
+      "id": "vagabond-chapter-206",
+      "number": 206,
+      "title": "Vagabond – Capítulo 206",
+      "date": "2025-04-03T00:22:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334180
+    },
+    {
+      "id": "vagabond-chapter-207",
+      "number": 207,
+      "title": "Vagabond – Capítulo 207",
+      "date": "2025-04-03T00:22:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334186
+    },
+    {
+      "id": "vagabond-chapter-208",
+      "number": 208,
+      "title": "Vagabond – Capítulo 208",
+      "date": "2025-04-03T00:22:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334183
+    },
+    {
+      "id": "vagabond-chapter-209",
+      "number": 209,
+      "title": "Vagabond – Capítulo 209",
+      "date": "2025-04-03T00:22:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334181
+    },
+    {
+      "id": "vagabond-chapter-210",
+      "number": 210,
+      "title": "Vagabond – Capítulo 210",
+      "date": "2025-04-03T00:23:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334406
+    },
+    {
+      "id": "vagabond-chapter-211",
+      "number": 211,
+      "title": "Vagabond – Capítulo 211",
+      "date": "2025-04-03T00:23:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334407
+    },
+    {
+      "id": "vagabond-chapter-212",
+      "number": 212,
+      "title": "Vagabond – Capítulo 212",
+      "date": "2025-04-03T00:23:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334400
+    },
+    {
+      "id": "vagabond-chapter-213",
+      "number": 213,
+      "title": "Vagabond – Capítulo 213",
+      "date": "2025-04-03T00:23:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334402
+    },
+    {
+      "id": "vagabond-chapter-214",
+      "number": 214,
+      "title": "Vagabond – Capítulo 214",
+      "date": "2025-04-03T00:23:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334401
+    },
+    {
+      "id": "vagabond-chapter-215",
+      "number": 215,
+      "title": "Vagabond – Capítulo 215",
+      "date": "2025-04-03T00:23:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334404
+    },
+    {
+      "id": "vagabond-chapter-216",
+      "number": 216,
+      "title": "Vagabond – Capítulo 216",
+      "date": "2025-04-03T00:23:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334405
+    },
+    {
+      "id": "vagabond-chapter-217",
+      "number": 217,
+      "title": "Vagabond – Capítulo 217",
+      "date": "2025-04-03T00:23:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334409
+    },
+    {
+      "id": "vagabond-chapter-218",
+      "number": 218,
+      "title": "Vagabond – Capítulo 218",
+      "date": "2025-04-03T00:23:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334408
+    },
+    {
+      "id": "vagabond-chapter-219",
+      "number": 219,
+      "title": "Vagabond – Capítulo 219",
+      "date": "2025-04-03T00:23:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334403
+    },
+    {
+      "id": "vagabond-chapter-220",
+      "number": 220,
+      "title": "Vagabond – Capítulo 220",
+      "date": "2025-04-03T00:23:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334615
+    },
+    {
+      "id": "vagabond-chapter-221",
+      "number": 221,
+      "title": "Vagabond – Capítulo 221",
+      "date": "2025-04-03T00:23:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334616
+    },
+    {
+      "id": "vagabond-chapter-222",
+      "number": 222,
+      "title": "Vagabond – Capítulo 222",
+      "date": "2025-04-03T00:23:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334613
+    },
+    {
+      "id": "vagabond-chapter-223",
+      "number": 223,
+      "title": "Vagabond – Capítulo 223",
+      "date": "2025-04-03T00:23:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334609
+    },
+    {
+      "id": "vagabond-chapter-224",
+      "number": 224,
+      "title": "Vagabond – Capítulo 224",
+      "date": "2025-04-03T00:23:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334611
+    },
+    {
+      "id": "vagabond-chapter-225",
+      "number": 225,
+      "title": "Vagabond – Capítulo 225",
+      "date": "2025-04-03T00:23:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334608
+    },
+    {
+      "id": "vagabond-chapter-226",
+      "number": 226,
+      "title": "Vagabond – Capítulo 226",
+      "date": "2025-04-03T00:23:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334610
+    },
+    {
+      "id": "vagabond-chapter-227",
+      "number": 227,
+      "title": "Vagabond – Capítulo 227",
+      "date": "2025-04-03T00:23:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334612
+    },
+    {
+      "id": "vagabond-chapter-228",
+      "number": 228,
+      "title": "Vagabond – Capítulo 228",
+      "date": "2025-04-03T00:23:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334614
+    },
+    {
+      "id": "vagabond-chapter-229",
+      "number": 229,
+      "title": "Vagabond – Capítulo 229",
+      "date": "2025-04-03T00:23:54Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334607
+    },
+    {
+      "id": "vagabond-chapter-230",
+      "number": 230,
+      "title": "Vagabond – Capítulo 230",
+      "date": "2025-04-03T00:24:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334811
+    },
+    {
+      "id": "vagabond-chapter-231",
+      "number": 231,
+      "title": "Vagabond – Capítulo 231",
+      "date": "2025-04-03T00:24:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334810
+    },
+    {
+      "id": "vagabond-chapter-232",
+      "number": 232,
+      "title": "Vagabond – Capítulo 232",
+      "date": "2025-04-03T00:24:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334818
+    },
+    {
+      "id": "vagabond-chapter-233",
+      "number": 233,
+      "title": "Vagabond – Capítulo 233",
+      "date": "2025-04-03T00:24:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334813
+    },
+    {
+      "id": "vagabond-chapter-234",
+      "number": 234,
+      "title": "Vagabond – Capítulo 234",
+      "date": "2025-04-03T00:24:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334812
+    },
+    {
+      "id": "vagabond-chapter-235",
+      "number": 235,
+      "title": "Vagabond – Capítulo 235",
+      "date": "2025-04-03T00:24:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334815
+    },
+    {
+      "id": "vagabond-chapter-236",
+      "number": 236,
+      "title": "Vagabond – Capítulo 236",
+      "date": "2025-04-03T00:24:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334814
+    },
+    {
+      "id": "vagabond-chapter-237",
+      "number": 237,
+      "title": "Vagabond – Capítulo 237",
+      "date": "2025-04-03T00:24:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334817
+    },
+    {
+      "id": "vagabond-chapter-238",
+      "number": 238,
+      "title": "Vagabond – Capítulo 238",
+      "date": "2025-04-03T00:24:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334816
+    },
+    {
+      "id": "vagabond-chapter-239",
+      "number": 239,
+      "title": "Vagabond – Capítulo 239",
+      "date": "2025-04-03T00:24:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 334819
+    },
+    {
+      "id": "vagabond-chapter-240",
+      "number": 240,
+      "title": "Vagabond – Capítulo 240",
+      "date": "2025-04-03T00:25:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335016
+    },
+    {
+      "id": "vagabond-chapter-241",
+      "number": 241,
+      "title": "Vagabond – Capítulo 241",
+      "date": "2025-04-03T00:25:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335014
+    },
+    {
+      "id": "vagabond-chapter-242",
+      "number": 242,
+      "title": "Vagabond – Capítulo 242",
+      "date": "2025-04-03T00:25:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335010
+    },
+    {
+      "id": "vagabond-chapter-243",
+      "number": 243,
+      "title": "Vagabond – Capítulo 243",
+      "date": "2025-04-03T00:25:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335017
+    },
+    {
+      "id": "vagabond-chapter-244",
+      "number": 244,
+      "title": "Vagabond – Capítulo 244",
+      "date": "2025-04-03T00:25:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335011
+    },
+    {
+      "id": "vagabond-chapter-245",
+      "number": 245,
+      "title": "Vagabond – Capítulo 245",
+      "date": "2025-04-03T00:25:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335013
+    },
+    {
+      "id": "vagabond-chapter-246",
+      "number": 246,
+      "title": "Vagabond – Capítulo 246",
+      "date": "2025-04-03T00:25:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335009
+    },
+    {
+      "id": "vagabond-chapter-247",
+      "number": 247,
+      "title": "Vagabond – Capítulo 247",
+      "date": "2025-04-03T00:25:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335015
+    },
+    {
+      "id": "vagabond-chapter-248",
+      "number": 248,
+      "title": "Vagabond – Capítulo 248",
+      "date": "2025-04-03T00:25:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335012
+    },
+    {
+      "id": "vagabond-chapter-249",
+      "number": 249,
+      "title": "Vagabond – Capítulo 249",
+      "date": "2025-04-03T00:25:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335008
+    },
+    {
+      "id": "vagabond-chapter-250",
+      "number": 250,
+      "title": "Vagabond – Capítulo 250",
+      "date": "2025-04-03T00:26:14Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335232
+    },
+    {
+      "id": "vagabond-chapter-251",
+      "number": 251,
+      "title": "Vagabond – Capítulo 251",
+      "date": "2025-04-03T00:26:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335226
+    },
+    {
+      "id": "vagabond-chapter-252",
+      "number": 252,
+      "title": "Vagabond – Capítulo 252",
+      "date": "2025-04-03T00:26:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335223
+    },
+    {
+      "id": "vagabond-chapter-253",
+      "number": 253,
+      "title": "Vagabond – Capítulo 253",
+      "date": "2025-04-03T00:26:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335227
+    },
+    {
+      "id": "vagabond-chapter-254",
+      "number": 254,
+      "title": "Vagabond – Capítulo 254",
+      "date": "2025-04-03T00:26:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335224
+    },
+    {
+      "id": "vagabond-chapter-255",
+      "number": 255,
+      "title": "Vagabond – Capítulo 255",
+      "date": "2025-04-03T00:26:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335229
+    },
+    {
+      "id": "vagabond-chapter-256",
+      "number": 256,
+      "title": "Vagabond – Capítulo 256",
+      "date": "2025-04-03T00:26:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335228
+    },
+    {
+      "id": "vagabond-chapter-257",
+      "number": 257,
+      "title": "Vagabond – Capítulo 257",
+      "date": "2025-04-03T00:26:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335230
+    },
+    {
+      "id": "vagabond-chapter-258",
+      "number": 258,
+      "title": "Vagabond – Capítulo 258",
+      "date": "2025-04-03T00:26:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335225
+    },
+    {
+      "id": "vagabond-chapter-259",
+      "number": 259,
+      "title": "Vagabond – Capítulo 259",
+      "date": "2025-04-03T00:26:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335231
+    },
+    {
+      "id": "vagabond-chapter-260",
+      "number": 260,
+      "title": "Vagabond – Capítulo 260",
+      "date": "2025-04-03T00:26:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335431
+    },
+    {
+      "id": "vagabond-chapter-261",
+      "number": 261,
+      "title": "Vagabond – Capítulo 261",
+      "date": "2025-04-03T00:26:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335434
+    },
+    {
+      "id": "vagabond-chapter-262",
+      "number": 262,
+      "title": "Vagabond – Capítulo 262",
+      "date": "2025-04-03T00:26:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335432
+    },
+    {
+      "id": "vagabond-chapter-263",
+      "number": 263,
+      "title": "Vagabond – Capítulo 263",
+      "date": "2025-04-03T00:26:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335425
+    },
+    {
+      "id": "vagabond-chapter-264",
+      "number": 264,
+      "title": "Vagabond – Capítulo 264",
+      "date": "2025-04-03T00:26:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335427
+    },
+    {
+      "id": "vagabond-chapter-265",
+      "number": 265,
+      "title": "Vagabond – Capítulo 265",
+      "date": "2025-04-03T00:26:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335426
+    },
+    {
+      "id": "vagabond-chapter-266",
+      "number": 266,
+      "title": "Vagabond – Capítulo 266",
+      "date": "2025-04-03T00:26:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335429
+    },
+    {
+      "id": "vagabond-chapter-267",
+      "number": 267,
+      "title": "Vagabond – Capítulo 267",
+      "date": "2025-04-03T00:26:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335430
+    },
+    {
+      "id": "vagabond-chapter-268",
+      "number": 268,
+      "title": "Vagabond – Capítulo 268",
+      "date": "2025-04-03T00:26:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335428
+    },
+    {
+      "id": "vagabond-chapter-269",
+      "number": 269,
+      "title": "Vagabond – Capítulo 269",
+      "date": "2025-04-03T00:26:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335433
+    },
+    {
+      "id": "vagabond-chapter-270",
+      "number": 270,
+      "title": "Vagabond – Capítulo 270",
+      "date": "2025-04-03T00:27:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335643
+    },
+    {
+      "id": "vagabond-chapter-271",
+      "number": 271,
+      "title": "Vagabond – Capítulo 271",
+      "date": "2025-04-03T00:27:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335647
+    },
+    {
+      "id": "vagabond-chapter-272",
+      "number": 272,
+      "title": "Vagabond – Capítulo 272",
+      "date": "2025-04-03T00:27:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335642
+    },
+    {
+      "id": "vagabond-chapter-273",
+      "number": 273,
+      "title": "Vagabond – Capítulo 273",
+      "date": "2025-04-03T00:27:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335639
+    },
+    {
+      "id": "vagabond-chapter-274",
+      "number": 274,
+      "title": "Vagabond – Capítulo 274",
+      "date": "2025-04-03T00:27:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335645
+    },
+    {
+      "id": "vagabond-chapter-275",
+      "number": 275,
+      "title": "Vagabond – Capítulo 275",
+      "date": "2025-04-03T00:27:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335638
+    },
+    {
+      "id": "vagabond-chapter-276",
+      "number": 276,
+      "title": "Vagabond – Capítulo 276",
+      "date": "2025-04-03T00:27:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335646
+    },
+    {
+      "id": "vagabond-chapter-277",
+      "number": 277,
+      "title": "Vagabond – Capítulo 277",
+      "date": "2025-04-03T00:27:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335644
+    },
+    {
+      "id": "vagabond-chapter-278",
+      "number": 278,
+      "title": "Vagabond – Capítulo 278",
+      "date": "2025-04-03T00:27:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335640
+    },
+    {
+      "id": "vagabond-chapter-279",
+      "number": 279,
+      "title": "Vagabond – Capítulo 279",
+      "date": "2025-04-03T00:27:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335641
+    },
+    {
+      "id": "vagabond-chapter-280",
+      "number": 280,
+      "title": "Vagabond – Capítulo 280",
+      "date": "2025-04-03T00:28:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335858
+    },
+    {
+      "id": "vagabond-chapter-281",
+      "number": 281,
+      "title": "Vagabond – Capítulo 281",
+      "date": "2025-04-03T00:28:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335857
+    },
+    {
+      "id": "vagabond-chapter-282",
+      "number": 282,
+      "title": "Vagabond – Capítulo 282",
+      "date": "2025-04-03T00:28:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335861
+    },
+    {
+      "id": "vagabond-chapter-283",
+      "number": 283,
+      "title": "Vagabond – Capítulo 283",
+      "date": "2025-04-03T00:28:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335860
+    },
+    {
+      "id": "vagabond-chapter-284",
+      "number": 284,
+      "title": "Vagabond – Capítulo 284",
+      "date": "2025-04-03T00:28:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335866
+    },
+    {
+      "id": "vagabond-chapter-285",
+      "number": 285,
+      "title": "Vagabond – Capítulo 285",
+      "date": "2025-04-03T00:28:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335859
+    },
+    {
+      "id": "vagabond-chapter-286",
+      "number": 286,
+      "title": "Vagabond – Capítulo 286",
+      "date": "2025-04-03T00:28:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335863
+    },
+    {
+      "id": "vagabond-chapter-287",
+      "number": 287,
+      "title": "Vagabond – Capítulo 287",
+      "date": "2025-04-03T00:28:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335864
+    },
+    {
+      "id": "vagabond-chapter-288",
+      "number": 288,
+      "title": "Vagabond – Capítulo 288",
+      "date": "2025-04-03T00:28:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335865
+    },
+    {
+      "id": "vagabond-chapter-289",
+      "number": 289,
+      "title": "Vagabond – Capítulo 289",
+      "date": "2025-04-03T00:28:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 335862
+    },
+    {
+      "id": "vagabond-chapter-290",
+      "number": 290,
+      "title": "Vagabond – Capítulo 290",
+      "date": "2025-04-03T00:29:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336061
+    },
+    {
+      "id": "vagabond-chapter-291",
+      "number": 291,
+      "title": "Vagabond – Capítulo 291",
+      "date": "2025-04-03T00:29:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336052
+    },
+    {
+      "id": "vagabond-chapter-292",
+      "number": 292,
+      "title": "Vagabond – Capítulo 292",
+      "date": "2025-04-03T00:29:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336053
+    },
+    {
+      "id": "vagabond-chapter-293",
+      "number": 293,
+      "title": "Vagabond – Capítulo 293",
+      "date": "2025-04-03T00:29:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336055
+    },
+    {
+      "id": "vagabond-chapter-294",
+      "number": 294,
+      "title": "Vagabond – Capítulo 294",
+      "date": "2025-04-03T00:29:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336056
+    },
+    {
+      "id": "vagabond-chapter-295",
+      "number": 295,
+      "title": "Vagabond – Capítulo 295",
+      "date": "2025-04-03T00:29:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336057
+    },
+    {
+      "id": "vagabond-chapter-296",
+      "number": 296,
+      "title": "Vagabond – Capítulo 296",
+      "date": "2025-04-03T00:29:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336058
+    },
+    {
+      "id": "vagabond-chapter-297",
+      "number": 297,
+      "title": "Vagabond – Capítulo 297",
+      "date": "2025-04-03T00:29:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336059
+    },
+    {
+      "id": "vagabond-chapter-298",
+      "number": 298,
+      "title": "Vagabond – Capítulo 298",
+      "date": "2025-04-03T00:29:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336060
+    },
+    {
+      "id": "vagabond-chapter-299",
+      "number": 299,
+      "title": "Vagabond – Capítulo 299",
+      "date": "2025-04-03T00:29:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336054
+    },
+    {
+      "id": "vagabond-chapter-300",
+      "number": 300,
+      "title": "Vagabond – Capítulo 300",
+      "date": "2025-04-03T00:29:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336263
+    },
+    {
+      "id": "vagabond-chapter-301",
+      "number": 301,
+      "title": "Vagabond – Capítulo 301",
+      "date": "2025-04-03T00:29:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336267
+    },
+    {
+      "id": "vagabond-chapter-302",
+      "number": 302,
+      "title": "Vagabond – Capítulo 302",
+      "date": "2025-04-03T00:29:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336262
+    },
+    {
+      "id": "vagabond-chapter-303",
+      "number": 303,
+      "title": "Vagabond – Capítulo 303",
+      "date": "2025-04-03T00:29:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336266
+    },
+    {
+      "id": "vagabond-chapter-304",
+      "number": 304,
+      "title": "Vagabond – Capítulo 304",
+      "date": "2025-04-03T00:29:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336268
+    },
+    {
+      "id": "vagabond-chapter-305",
+      "number": 305,
+      "title": "Vagabond – Capítulo 305",
+      "date": "2025-04-03T00:29:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336264
+    },
+    {
+      "id": "vagabond-chapter-306",
+      "number": 306,
+      "title": "Vagabond – Capítulo 306",
+      "date": "2025-04-03T00:29:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336261
+    },
+    {
+      "id": "vagabond-chapter-307",
+      "number": 307,
+      "title": "Vagabond – Capítulo 307",
+      "date": "2025-04-03T00:29:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336265
+    },
+    {
+      "id": "vagabond-chapter-308",
+      "number": 308,
+      "title": "Vagabond – Capítulo 308",
+      "date": "2025-04-03T00:29:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336270
+    },
+    {
+      "id": "vagabond-chapter-309",
+      "number": 309,
+      "title": "Vagabond – Capítulo 309",
+      "date": "2025-04-03T00:29:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336269
+    },
+    {
+      "id": "vagabond-chapter-310",
+      "number": 310,
+      "title": "Vagabond – Capítulo 310",
+      "date": "2025-04-03T00:31:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336612
+    },
+    {
+      "id": "vagabond-chapter-311",
+      "number": 311,
+      "title": "Vagabond – Capítulo 311",
+      "date": "2025-04-03T00:31:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336614
+    },
+    {
+      "id": "vagabond-chapter-312",
+      "number": 312,
+      "title": "Vagabond – Capítulo 312",
+      "date": "2025-04-03T00:31:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336617
+    },
+    {
+      "id": "vagabond-chapter-313",
+      "number": 313,
+      "title": "Vagabond – Capítulo 313",
+      "date": "2025-04-03T00:31:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336615
+    },
+    {
+      "id": "vagabond-chapter-314",
+      "number": 314,
+      "title": "Vagabond – Capítulo 314",
+      "date": "2025-04-03T00:31:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336613
+    },
+    {
+      "id": "vagabond-chapter-315",
+      "number": 315,
+      "title": "Vagabond – Capítulo 315",
+      "date": "2025-04-03T00:31:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336616
+    },
+    {
+      "id": "vagabond-chapter-316",
+      "number": 316,
+      "title": "Vagabond – Capítulo 316",
+      "date": "2025-04-03T00:31:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336620
+    },
+    {
+      "id": "vagabond-chapter-317",
+      "number": 317,
+      "title": "Vagabond – Capítulo 317",
+      "date": "2025-04-03T00:31:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336619
+    },
+    {
+      "id": "vagabond-chapter-318",
+      "number": 318,
+      "title": "Vagabond – Capítulo 318",
+      "date": "2025-04-03T00:31:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336621
+    },
+    {
+      "id": "vagabond-chapter-319",
+      "number": 319,
+      "title": "Vagabond – Capítulo 319",
+      "date": "2025-04-03T00:31:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336618
+    },
+    {
+      "id": "vagabond-chapter-320",
+      "number": 320,
+      "title": "Vagabond – Capítulo 320",
+      "date": "2025-04-03T00:32:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336943
+    },
+    {
+      "id": "vagabond-chapter-321",
+      "number": 321,
+      "title": "Vagabond – Capítulo 321",
+      "date": "2025-04-03T00:32:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336947
+    },
+    {
+      "id": "vagabond-chapter-322",
+      "number": 322,
+      "title": "Vagabond – Capítulo 322",
+      "date": "2025-04-03T00:32:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336940
+    },
+    {
+      "id": "vagabond-chapter-323",
+      "number": 323,
+      "title": "Vagabond – Capítulo 323",
+      "date": "2025-04-03T00:32:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336941
+    },
+    {
+      "id": "vagabond-chapter-324",
+      "number": 324,
+      "title": "Vagabond – Capítulo 324",
+      "date": "2025-04-03T00:32:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336942
+    },
+    {
+      "id": "vagabond-chapter-325",
+      "number": 325,
+      "title": "Vagabond – Capítulo 325",
+      "date": "2025-04-03T00:32:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336944
+    },
+    {
+      "id": "vagabond-chapter-326",
+      "number": 326,
+      "title": "Vagabond – Capítulo 326",
+      "date": "2025-04-03T00:32:24Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336945
+    },
+    {
+      "id": "vagabond-chapter-327",
+      "number": 327,
+      "title": "Vagabond – Capítulo 327",
+      "date": "2025-04-03T00:32:25Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 336946
+    }
+  ]
+}

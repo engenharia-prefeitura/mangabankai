@@ -1,0 +1,508 @@
+{
+  "en": [
+    {
+      "id": "black-bird-1",
+      "number": "1",
+      "title": "1",
+      "date": "2009/11/07",
+      "pages": []
+    },
+    {
+      "id": "black-bird-2",
+      "number": "2",
+      "title": "2",
+      "date": "2009/11/07",
+      "pages": []
+    },
+    {
+      "id": "black-bird-3",
+      "number": "3",
+      "title": "3",
+      "date": "2009/11/07",
+      "pages": []
+    },
+    {
+      "id": "black-bird-4",
+      "number": "4",
+      "title": "4",
+      "date": "2009/11/07",
+      "pages": []
+    },
+    {
+      "id": "black-bird-5",
+      "number": "5",
+      "title": "5",
+      "date": "2009/11/07",
+      "pages": []
+    },
+    {
+      "id": "black-bird-6",
+      "number": "6",
+      "title": "6",
+      "date": "2009/11/07",
+      "pages": []
+    },
+    {
+      "id": "black-bird-7",
+      "number": "7",
+      "title": "7",
+      "date": "2009/11/07",
+      "pages": []
+    },
+    {
+      "id": "black-bird-8",
+      "number": "8",
+      "title": "8",
+      "date": "2009/11/11",
+      "pages": []
+    },
+    {
+      "id": "black-bird-9",
+      "number": "9",
+      "title": "9",
+      "date": "2009/11/11",
+      "pages": []
+    },
+    {
+      "id": "black-bird-10",
+      "number": "10",
+      "title": "10",
+      "date": "2010/02/02",
+      "pages": []
+    },
+    {
+      "id": "black-bird-11",
+      "number": "11",
+      "title": "11",
+      "date": "2010/02/22",
+      "pages": []
+    },
+    {
+      "id": "black-bird-12",
+      "number": "12",
+      "title": "12",
+      "date": "2010/02/26",
+      "pages": []
+    },
+    {
+      "id": "black-bird-13",
+      "number": "13",
+      "title": "13",
+      "date": "2010/02/28",
+      "pages": []
+    },
+    {
+      "id": "black-bird-14",
+      "number": "14",
+      "title": "14",
+      "date": "2010/03/11",
+      "pages": []
+    },
+    {
+      "id": "black-bird-15",
+      "number": "15",
+      "title": "15",
+      "date": "2010/05/23",
+      "pages": []
+    },
+    {
+      "id": "black-bird-16",
+      "number": "16",
+      "title": "16",
+      "date": "2010/05/31",
+      "pages": []
+    },
+    {
+      "id": "black-bird-17",
+      "number": "17",
+      "title": "17",
+      "date": "2010/06/02",
+      "pages": []
+    },
+    {
+      "id": "black-bird-18",
+      "number": "18",
+      "title": "18",
+      "date": "2010/06/17",
+      "pages": []
+    },
+    {
+      "id": "black-bird-19",
+      "number": "19",
+      "title": "19",
+      "date": "2010/06/24",
+      "pages": []
+    },
+    {
+      "id": "black-bird-20",
+      "number": "20",
+      "title": "20",
+      "date": "2010/06/28",
+      "pages": []
+    },
+    {
+      "id": "black-bird-21",
+      "number": "21",
+      "title": "21",
+      "date": "2010/10/03",
+      "pages": []
+    },
+    {
+      "id": "black-bird-22",
+      "number": "22",
+      "title": "22",
+      "date": "2010/10/11",
+      "pages": []
+    },
+    {
+      "id": "black-bird-23",
+      "number": "23",
+      "title": "23",
+      "date": "2010/11/21",
+      "pages": []
+    },
+    {
+      "id": "black-bird-24",
+      "number": "24",
+      "title": "24",
+      "date": "2010/11/21",
+      "pages": []
+    },
+    {
+      "id": "black-bird-25",
+      "number": "25",
+      "title": "",
+      "date": "2010/12/25",
+      "pages": []
+    },
+    {
+      "id": "black-bird-26",
+      "number": "26",
+      "title": "",
+      "date": "2011/03/06",
+      "pages": []
+    },
+    {
+      "id": "black-bird-27",
+      "number": "27",
+      "title": "",
+      "date": "2011/05/04",
+      "pages": []
+    },
+    {
+      "id": "black-bird-28",
+      "number": "28",
+      "title": "",
+      "date": "2011/05/04",
+      "pages": []
+    },
+    {
+      "id": "black-bird-29",
+      "number": "29",
+      "title": "",
+      "date": "2011/09/09",
+      "pages": []
+    },
+    {
+      "id": "black-bird-30",
+      "number": "30",
+      "title": "",
+      "date": "2011/09/16",
+      "pages": []
+    },
+    {
+      "id": "black-bird-31",
+      "number": "31",
+      "title": "",
+      "date": "2011/10/17",
+      "pages": []
+    },
+    {
+      "id": "black-bird-32",
+      "number": "32",
+      "title": "",
+      "date": "2011/10/19",
+      "pages": []
+    },
+    {
+      "id": "black-bird-33",
+      "number": "33",
+      "title": "",
+      "date": "2011/10/23",
+      "pages": []
+    },
+    {
+      "id": "black-bird-34",
+      "number": "34",
+      "title": "",
+      "date": "2011/10/31",
+      "pages": []
+    },
+    {
+      "id": "black-bird-35",
+      "number": "35",
+      "title": "",
+      "date": "2011/11/06",
+      "pages": []
+    },
+    {
+      "id": "black-bird-36",
+      "number": "36",
+      "title": "",
+      "date": "2011/11/08",
+      "pages": []
+    },
+    {
+      "id": "black-bird-37",
+      "number": "37",
+      "title": "",
+      "date": "2011/11/17",
+      "pages": []
+    },
+    {
+      "id": "black-bird-38",
+      "number": "38",
+      "title": "",
+      "date": "2011/12/14",
+      "pages": []
+    },
+    {
+      "id": "black-bird-39",
+      "number": "39",
+      "title": "",
+      "date": "2011/12/27",
+      "pages": []
+    },
+    {
+      "id": "black-bird-40",
+      "number": "40",
+      "title": "",
+      "date": "2012/01/17",
+      "pages": []
+    },
+    {
+      "id": "black-bird-41",
+      "number": "41",
+      "title": "",
+      "date": "2012/01/22",
+      "pages": []
+    },
+    {
+      "id": "black-bird-42",
+      "number": "42",
+      "title": "",
+      "date": "2012/02/06",
+      "pages": []
+    },
+    {
+      "id": "black-bird-43",
+      "number": "43",
+      "title": "",
+      "date": "2012/03/14",
+      "pages": []
+    },
+    {
+      "id": "black-bird-44",
+      "number": "44",
+      "title": "",
+      "date": "2012/03/17",
+      "pages": []
+    },
+    {
+      "id": "black-bird-45",
+      "number": "45",
+      "title": "",
+      "date": "2012/03/25",
+      "pages": []
+    },
+    {
+      "id": "black-bird-46",
+      "number": "46",
+      "title": "",
+      "date": "2012/03/30",
+      "pages": []
+    },
+    {
+      "id": "black-bird-47",
+      "number": "47",
+      "title": "",
+      "date": "2012/03/31",
+      "pages": []
+    },
+    {
+      "id": "black-bird-48",
+      "number": "48",
+      "title": "",
+      "date": "2012/04/03",
+      "pages": []
+    },
+    {
+      "id": "black-bird-49",
+      "number": "49",
+      "title": "",
+      "date": "2012/04/06",
+      "pages": []
+    },
+    {
+      "id": "black-bird-50",
+      "number": "50",
+      "title": "",
+      "date": "2012/04/11",
+      "pages": []
+    },
+    {
+      "id": "black-bird-51",
+      "number": "51",
+      "title": "",
+      "date": "2012/05/24",
+      "pages": []
+    },
+    {
+      "id": "black-bird-52",
+      "number": "52",
+      "title": "",
+      "date": "2012/06/08",
+      "pages": []
+    },
+    {
+      "id": "black-bird-53",
+      "number": "53",
+      "title": "",
+      "date": "2012/07/25",
+      "pages": []
+    },
+    {
+      "id": "black-bird-54",
+      "number": "54",
+      "title": "",
+      "date": "2012/07/30",
+      "pages": []
+    },
+    {
+      "id": "black-bird-55",
+      "number": "55",
+      "title": "",
+      "date": "2012/09/26",
+      "pages": []
+    },
+    {
+      "id": "black-bird-56",
+      "number": "56",
+      "title": "",
+      "date": "2012/10/28",
+      "pages": []
+    },
+    {
+      "id": "black-bird-57",
+      "number": "57",
+      "title": "",
+      "date": "2012/11/25",
+      "pages": []
+    },
+    {
+      "id": "black-bird-58",
+      "number": "58",
+      "title": "",
+      "date": "2012/11/25",
+      "pages": []
+    },
+    {
+      "id": "black-bird-59",
+      "number": "59",
+      "title": "",
+      "date": "2013/02/11",
+      "pages": []
+    },
+    {
+      "id": "black-bird-60",
+      "number": "60",
+      "title": "",
+      "date": "2013/04/28",
+      "pages": []
+    },
+    {
+      "id": "black-bird-61",
+      "number": "61",
+      "title": "",
+      "date": "2013/06/30",
+      "pages": []
+    },
+    {
+      "id": "black-bird-62",
+      "number": "62",
+      "title": "",
+      "date": "2013/07/15",
+      "pages": []
+    },
+    {
+      "id": "black-bird-63",
+      "number": "63",
+      "title": "",
+      "date": "2013/09/16",
+      "pages": []
+    },
+    {
+      "id": "black-bird-64",
+      "number": "64",
+      "title": "",
+      "date": "2013/11/25",
+      "pages": []
+    },
+    {
+      "id": "black-bird-65",
+      "number": "65",
+      "title": "",
+      "date": "2014/02/02",
+      "pages": []
+    },
+    {
+      "id": "black-bird-66",
+      "number": "66",
+      "title": "",
+      "date": "2014/07/26",
+      "pages": []
+    },
+    {
+      "id": "black-bird-67",
+      "number": "67",
+      "title": "",
+      "date": "2014/08/29",
+      "pages": []
+    },
+    {
+      "id": "black-bird-68",
+      "number": "68",
+      "title": "",
+      "date": "2014/08/29",
+      "pages": []
+    },
+    {
+      "id": "black-bird-69",
+      "number": "69",
+      "title": "",
+      "date": "2014/08/29",
+      "pages": []
+    },
+    {
+      "id": "black-bird-70",
+      "number": "70",
+      "title": "",
+      "date": "2014/08/30",
+      "pages": []
+    },
+    {
+      "id": "black-bird-71",
+      "number": "71",
+      "title": "",
+      "date": "2014/08/30",
+      "pages": []
+    },
+    {
+      "id": "black-bird-72",
+      "number": "72",
+      "title": "",
+      "date": "2014/09/17",
+      "pages": []
+    }
+  ]
+}

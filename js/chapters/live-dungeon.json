@@ -1,0 +1,620 @@
+{
+  "en": [
+    {
+      "id": "live-dungeon-1",
+      "number": "1",
+      "title": "",
+      "date": "2019/10/30",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-2",
+      "number": "2",
+      "title": "",
+      "date": "2019/10/30",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-3",
+      "number": "3",
+      "title": "",
+      "date": "2019/10/30",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-4",
+      "number": "4",
+      "title": "",
+      "date": "2019/10/30",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-5",
+      "number": "5",
+      "title": "",
+      "date": "2019/10/30",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-6",
+      "number": "6",
+      "title": "",
+      "date": "2019/10/30",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-7",
+      "number": "7",
+      "title": "",
+      "date": "2019/10/30",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-8",
+      "number": "8",
+      "title": "",
+      "date": "2019/10/30",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-9",
+      "number": "9",
+      "title": "",
+      "date": "2019/10/30",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-10",
+      "number": "10",
+      "title": "",
+      "date": "2019/10/30",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-11",
+      "number": "11",
+      "title": "",
+      "date": "2019/10/30",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-12",
+      "number": "12",
+      "title": "",
+      "date": "2019/10/30",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-13",
+      "number": "13",
+      "title": "",
+      "date": "2019/10/30",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-14",
+      "number": "14",
+      "title": "",
+      "date": "2019/10/30",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-15",
+      "number": "15",
+      "title": "",
+      "date": "2019/10/30",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-16",
+      "number": "16",
+      "title": "",
+      "date": "2019/10/30",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-17",
+      "number": "17",
+      "title": "The Fire Dragons Roar",
+      "date": "2019/11/01",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-18",
+      "number": "18",
+      "title": "Dragon Change Unleashed",
+      "date": "2019/11/12",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-19",
+      "number": "19",
+      "title": "",
+      "date": "2019/12/01",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-20",
+      "number": "20",
+      "title": "",
+      "date": "2019/12/01",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-21",
+      "number": "21",
+      "title": "The Gathered 4 Person Party",
+      "date": "2019/12/15",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-22",
+      "number": "22",
+      "title": "Impending Contract Termination",
+      "date": "2019/12/30",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-23",
+      "number": "23",
+      "title": "",
+      "date": "2020/01/31",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-24",
+      "number": "24",
+      "title": "Disbanding Declaration",
+      "date": "2020/02/29",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-25",
+      "number": "25",
+      "title": "",
+      "date": "2020/03/31",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-26",
+      "number": "26",
+      "title": "",
+      "date": "2020/04/27",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-27",
+      "number": "27",
+      "title": "",
+      "date": "2020/06/08",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-28",
+      "number": "28",
+      "title": "One Step Towards the Bottomless Swamp",
+      "date": "2020/07/05",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-29",
+      "number": "29",
+      "title": "",
+      "date": "2020/07/31",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-30",
+      "number": "30",
+      "title": "The End Of Role Delegation Instruction",
+      "date": "2020/09/19",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-31",
+      "number": "31",
+      "title": "The Moment You Get Hooked",
+      "date": "2020/10/10",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-32",
+      "number": "32",
+      "title": "Success Of The Disciples",
+      "date": "2020/11/10",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-33",
+      "number": "33",
+      "title": "The Place I Want To Return To",
+      "date": "2020/12/14",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-34",
+      "number": "34",
+      "title": "The Shadow of a Stampede",
+      "date": "2021/01/13",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-35",
+      "number": "35",
+      "title": "",
+      "date": "2021/04/01",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-36",
+      "number": "36",
+      "title": "",
+      "date": "2021/04/01",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-37",
+      "number": "37",
+      "title": "",
+      "date": "2021/04/01",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-38",
+      "number": "38",
+      "title": "The Star of the Stampede",
+      "date": "2021/05/24",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-39",
+      "number": "39",
+      "title": "Black Dragon Subjugation Battle",
+      "date": "2021/06/24",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-40",
+      "number": "40",
+      "title": "The Power of Big Clans",
+      "date": "2021/07/17",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-41",
+      "number": "41",
+      "title": "Black and Red Flash Attacks",
+      "date": "2021/08/16",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-42",
+      "number": "42",
+      "title": "Ominous Feeling",
+      "date": "2021/09/15",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-43",
+      "number": "43",
+      "title": "The Power of the Devil",
+      "date": "2021/10/11",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-44",
+      "number": "44",
+      "title": "At The Time of Opening",
+      "date": "2021/11/21",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-45",
+      "number": "45",
+      "title": "Take Up Arms",
+      "date": "2021/12/09",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-46",
+      "number": "46",
+      "title": "Post Processing",
+      "date": "2022/01/09",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-47",
+      "number": "47",
+      "title": "Absolute Helix",
+      "date": "2022/02/16",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-48",
+      "number": "48",
+      "title": "",
+      "date": "2022/03/18",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-49",
+      "number": "49",
+      "title": "",
+      "date": "2022/03/30",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-50",
+      "number": "50",
+      "title": "",
+      "date": "2022/05/06",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-51",
+      "number": "51",
+      "title": "",
+      "date": "2022/06/12",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-52",
+      "number": "52",
+      "title": "",
+      "date": "2022/07/20",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-53",
+      "number": "53",
+      "title": "",
+      "date": "2022/09/03",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-54",
+      "number": "54",
+      "title": "",
+      "date": "2022/10/29",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-55",
+      "number": "55",
+      "title": "",
+      "date": "2022/11/14",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-56",
+      "number": "56",
+      "title": "",
+      "date": "2023/01/06",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-57",
+      "number": "57",
+      "title": "",
+      "date": "2023/02/26",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-58",
+      "number": "58",
+      "title": "",
+      "date": "2023/04/13",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-59",
+      "number": "59",
+      "title": "",
+      "date": "2023/05/10",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-60",
+      "number": "60",
+      "title": "",
+      "date": "2023/05/10",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-61",
+      "number": "61",
+      "title": "",
+      "date": "2023/05/10",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-62",
+      "number": "62",
+      "title": "",
+      "date": "2023/09/27",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-63",
+      "number": "63",
+      "title": "",
+      "date": "2023/10/19",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-64",
+      "number": "64",
+      "title": "",
+      "date": "2023/11/08",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-65",
+      "number": "65",
+      "title": "",
+      "date": "2023/11/18",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-66",
+      "number": "66",
+      "title": "",
+      "date": "2023/12/09",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-67",
+      "number": "67",
+      "title": "",
+      "date": "2023/12/29",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-68",
+      "number": "68",
+      "title": "The 70th floor, vs Mount Golem",
+      "date": "2024/01/25",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-69",
+      "number": "69",
+      "title": "",
+      "date": "2024/02/29",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-70",
+      "number": "70",
+      "title": "",
+      "date": "2024/03/10",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-71",
+      "number": "71",
+      "title": "",
+      "date": "2024/05/19",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-72",
+      "number": "72",
+      "title": "",
+      "date": "2024/06/09",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-73",
+      "number": "73",
+      "title": "",
+      "date": "2024/09/10",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-74",
+      "number": "74",
+      "title": "",
+      "date": "2024/11/17",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-75",
+      "number": "75",
+      "title": "",
+      "date": "2025/01/06",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-76",
+      "number": "76",
+      "title": "",
+      "date": "2025/01/21",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-77",
+      "number": "77",
+      "title": "",
+      "date": "2025/01/22",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-78",
+      "number": "78",
+      "title": "",
+      "date": "2025/03/24",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-79",
+      "number": "79",
+      "title": "",
+      "date": "2025/03/26",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-80",
+      "number": "80",
+      "title": "",
+      "date": "2025/03/27",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-81",
+      "number": "81",
+      "title": "",
+      "date": "2025/05/11",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-82",
+      "number": "82",
+      "title": "",
+      "date": "2025/06/27",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-83",
+      "number": "83",
+      "title": "",
+      "date": "2025/08/03",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-84",
+      "number": "84",
+      "title": "",
+      "date": "2025/08/30",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-85",
+      "number": "85",
+      "title": "",
+      "date": "2025/09/04",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-86",
+      "number": "86",
+      "title": "",
+      "date": "2025/09/19",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-87",
+      "number": "87",
+      "title": "",
+      "date": "2025/11/17",
+      "pages": []
+    },
+    {
+      "id": "live-dungeon-88",
+      "number": "88",
+      "title": "",
+      "date": "2026/01/01",
+      "pages": []
+    }
+  ]
+}

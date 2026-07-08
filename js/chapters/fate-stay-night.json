@@ -1,0 +1,459 @@
+{
+  "en": [
+    {
+      "id": "fate-stay-night-1",
+      "number": "1",
+      "title": "The 1st Day 1",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-2",
+      "number": "2",
+      "title": "The 1st Day 2",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-3",
+      "number": "3",
+      "title": "The 1st Day 3",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-4",
+      "number": "4",
+      "title": "The 1st Day 4",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-5",
+      "number": "5",
+      "title": "Boys and Girls 1",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-6",
+      "number": "6",
+      "title": "Boys and Girls 2",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-7",
+      "number": "7",
+      "title": "Boys and Girls 3",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-8",
+      "number": "8",
+      "title": "Boys and Girls 4",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-9",
+      "number": "9",
+      "title": "Boys and Girls 5",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-10",
+      "number": "10",
+      "title": "Boys and Girls 6",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-11",
+      "number": "11",
+      "title": "Boys and Girls 7",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-12",
+      "number": "12",
+      "title": "Partner 1",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-13",
+      "number": "13",
+      "title": "Partner 2",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-14",
+      "number": "14",
+      "title": "Partners 3",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-15",
+      "number": "15",
+      "title": "Sword and Magic 1",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-16",
+      "number": "16",
+      "title": "Sword and Magic 2",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-17",
+      "number": "17",
+      "title": "Sword and Magic 3",
+      "date": "2009/08/03",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-18",
+      "number": "18",
+      "title": "Step",
+      "date": "2010/04/15",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-19",
+      "number": "19",
+      "title": "Clash of Heroes",
+      "date": "2010/04/15",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-20",
+      "number": "20",
+      "title": "Omen",
+      "date": "2010/04/15",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-21",
+      "number": "21",
+      "title": "Midnight Visitor",
+      "date": "2010/04/15",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-22",
+      "number": "22",
+      "title": "Verdict",
+      "date": "2010/04/15",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-23",
+      "number": "23",
+      "title": "Bloodfort Andromeda",
+      "date": "2010/04/15",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-24",
+      "number": "24",
+      "title": "Reminscence",
+      "date": "2010/04/15",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-25",
+      "number": "25",
+      "title": "Sealing Darkness",
+      "date": "2010/04/15",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-26",
+      "number": "26",
+      "title": "Skyscrapper 1",
+      "date": "2010/04/15",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-27",
+      "number": "27",
+      "title": "Skyscrapper 2",
+      "date": "2010/04/15",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-28",
+      "number": "28",
+      "title": "Noble Phantasm",
+      "date": "2010/04/15",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-29",
+      "number": "29",
+      "title": "Truth of Ten Years",
+      "date": "2010/04/15",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-30",
+      "number": "30",
+      "title": "Arturia",
+      "date": "2010/04/15",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-31",
+      "number": "31",
+      "title": "Rulebreaker",
+      "date": "2010/04/15",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-32",
+      "number": "32",
+      "title": "Kuzuki Souichirou",
+      "date": "2010/04/19",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-33",
+      "number": "33",
+      "title": "Colored Thread",
+      "date": "2010/04/19",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-34",
+      "number": "34",
+      "title": "Moonlit Gate",
+      "date": "2011/11/19",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-35",
+      "number": "35",
+      "title": "Antihero",
+      "date": "2011/11/19",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-36",
+      "number": "36",
+      "title": "Night Fog",
+      "date": "2011/11/19",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-37",
+      "number": "37",
+      "title": "Blade Of Betrayal",
+      "date": "2011/11/19",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-38",
+      "number": "38",
+      "title": "The Priest's Gift",
+      "date": "2011/11/25",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-39",
+      "number": "39",
+      "title": "Innocent world",
+      "date": "2012/05/14",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-40",
+      "number": "40",
+      "title": "Intruder",
+      "date": "2012/05/14",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-41",
+      "number": "41",
+      "title": "Twin Swords",
+      "date": "2012/05/14",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-42",
+      "number": "42",
+      "title": "Holiness of the Crypt",
+      "date": "2012/05/14",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-43",
+      "number": "43",
+      "title": "Extra Work V : Howl",
+      "date": "2012/05/14",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-44",
+      "number": "44",
+      "title": "Part A + Part B",
+      "date": "2012/05/14",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-45",
+      "number": "45",
+      "title": "Part A + Part B",
+      "date": "2012/05/14",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-46",
+      "number": "46",
+      "title": "Part A + Part B",
+      "date": "2012/05/14",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-47",
+      "number": "47",
+      "title": "Part A + Part B",
+      "date": "2012/05/14",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-48",
+      "number": "48",
+      "title": "Stupas",
+      "date": "2012/05/14",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-49",
+      "number": "49",
+      "title": "Part A + Part B",
+      "date": "2012/05/28",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-50",
+      "number": "50",
+      "title": "Pendragon",
+      "date": "2012/06/27",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-51",
+      "number": "51",
+      "title": "Abduction",
+      "date": "2012/07/17",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-52",
+      "number": "52",
+      "title": "Emersion",
+      "date": "2012/07/27",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-53",
+      "number": "53",
+      "title": "Way Of Life",
+      "date": "2012/08/02",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-54",
+      "number": "54",
+      "title": "Youngsters",
+      "date": "2012/08/09",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-55",
+      "number": "55",
+      "title": "Abandoned House At Midnight",
+      "date": "2012/08/23",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-56",
+      "number": "56",
+      "title": "Burning Heart",
+      "date": "2012/10/02",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-57",
+      "number": "57",
+      "title": "Dicher Wald",
+      "date": "2012/10/02",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-58",
+      "number": "58",
+      "title": "Berserker",
+      "date": "2013/04/14",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-59",
+      "number": "59",
+      "title": "Awakening",
+      "date": "2013/05/01",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-60",
+      "number": "60",
+      "title": "The Golden Sword of The Promised Victory",
+      "date": "2013/09/23",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-61",
+      "number": "61",
+      "title": "Snowfield",
+      "date": "2013/10/02",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-62",
+      "number": "62",
+      "title": "The death of Arthur",
+      "date": "2013/10/02",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-63",
+      "number": "63",
+      "title": "Arrowhead",
+      "date": "2013/10/14",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-64",
+      "number": "64",
+      "title": "Another Archer",
+      "date": "2013/11/09",
+      "pages": []
+    },
+    {
+      "id": "fate-stay-night-65",
+      "number": "65",
+      "title": "Decade",
+      "date": "2013/12/13",
+      "pages": []
+    }
+  ]
+}

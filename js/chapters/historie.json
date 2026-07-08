@@ -1,0 +1,872 @@
+{
+  "en": [
+    {
+      "id": "historie-1",
+      "number": "1",
+      "title": "The Globe",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-2",
+      "number": "2",
+      "title": "Hometown Cardia 1",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-3",
+      "number": "3",
+      "title": "Hometown Cardia 2",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-4",
+      "number": "4",
+      "title": "Hometown Cardia 3",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-5",
+      "number": "5",
+      "title": "Library 1",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-6",
+      "number": "6",
+      "title": "Library 2",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-7",
+      "number": "7",
+      "title": "The Same Dream",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-8",
+      "number": "8",
+      "title": "The Sythian Way",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-9",
+      "number": "9",
+      "title": "Physical Training",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-10",
+      "number": "10",
+      "title": "Image of Victory",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-11",
+      "number": "11",
+      "title": "Footsteps",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-12",
+      "number": "12",
+      "title": "Thrax's War 1",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-13",
+      "number": "13",
+      "title": "Thrax's War 2",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-14",
+      "number": "14",
+      "title": "Thrax's War 3",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-15",
+      "number": "15",
+      "title": "Two Corpses",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-16",
+      "number": "16",
+      "title": "Testimony",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-17",
+      "number": "17",
+      "title": "A Different World",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-18",
+      "number": "18",
+      "title": "",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-19",
+      "number": "19",
+      "title": "Pendant",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-20",
+      "number": "20",
+      "title": "A Buyer Appears",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-21",
+      "number": "21",
+      "title": "Departure",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-22",
+      "number": "22",
+      "title": "Antakaios",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-23",
+      "number": "23",
+      "title": "The Argo",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-24",
+      "number": "24",
+      "title": "In Paphlagonia - Part 1",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-25",
+      "number": "25",
+      "title": "In Paphlagonia - Part 2",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-26",
+      "number": "26",
+      "title": "In Paphlagonia - Part 3",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-27",
+      "number": "27",
+      "title": "In Paphlagonia - Part 4",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-28",
+      "number": "28",
+      "title": "In Paphlagonia - Part 5",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-29",
+      "number": "29",
+      "title": "In Paphlagonia - Part 6",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-30",
+      "number": "30",
+      "title": "In Paphlagonia - Part 7",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-31",
+      "number": "31",
+      "title": "In Paphlagonia - Part 8",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-32",
+      "number": "32",
+      "title": "In Paphlagonia - Part 9",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-33",
+      "number": "33",
+      "title": "In Paphlagonia - Part 10",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-34",
+      "number": "34",
+      "title": "In Paphlagonia - Part 11",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-35",
+      "number": "35",
+      "title": "In Paphlagonia - Part 12",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-36",
+      "number": "36",
+      "title": "Odysseus",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-37",
+      "number": "37",
+      "title": "Island of Lesbos - Biological Institue Part 1",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-38",
+      "number": "38",
+      "title": "Island of Lesbos - Biological Institue Part 2",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-39",
+      "number": "39",
+      "title": "Graves of Cardia 4",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-40",
+      "number": "40",
+      "title": "Hometown Cardia 5",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-41",
+      "number": "41",
+      "title": "Hometown Cardia 6",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-42",
+      "number": "42",
+      "title": "Hometown Cardia 7",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-43",
+      "number": "43",
+      "title": "Cyclops",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-44",
+      "number": "44",
+      "title": "",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-45",
+      "number": "45",
+      "title": "Attalos's Home",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-46",
+      "number": "46",
+      "title": "The General's Son",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-47",
+      "number": "47",
+      "title": "",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-48",
+      "number": "48",
+      "title": "Prince 1",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-49",
+      "number": "49",
+      "title": "Prince 2",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-50",
+      "number": "50",
+      "title": "",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-51",
+      "number": "51",
+      "title": "Horseback Riding Class 1",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-52",
+      "number": "52",
+      "title": "Horseback Riding Class 2",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-53",
+      "number": "53",
+      "title": "Horseback Riding Class 3",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-54",
+      "number": "54",
+      "title": "Another Alexander",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-55",
+      "number": "55",
+      "title": "Schoolmates",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-56",
+      "number": "56",
+      "title": "Waterfalls 1",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-57",
+      "number": "57",
+      "title": "Waterfalls 2",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-58",
+      "number": "58",
+      "title": "Cardiac Arrest",
+      "date": "2009/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-59",
+      "number": "59",
+      "title": "Hephaestion",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "historie-60",
+      "number": "60",
+      "title": "Hephaestion 2",
+      "date": "2010/02/23",
+      "pages": []
+    },
+    {
+      "id": "historie-61",
+      "number": "61",
+      "title": "Hephaestion 3",
+      "date": "2010/05/26",
+      "pages": []
+    },
+    {
+      "id": "historie-62",
+      "number": "62",
+      "title": "Hephaestion 4",
+      "date": "2010/06/27",
+      "pages": []
+    },
+    {
+      "id": "historie-63",
+      "number": "63",
+      "title": "Hypertension 5",
+      "date": "2010/08/25",
+      "pages": []
+    },
+    {
+      "id": "historie-64",
+      "number": "64",
+      "title": "Hephaestion 6",
+      "date": "2010/09/29",
+      "pages": []
+    },
+    {
+      "id": "historie-65",
+      "number": "65",
+      "title": "Mieza",
+      "date": "2010/11/25",
+      "pages": []
+    },
+    {
+      "id": "historie-66",
+      "number": "66",
+      "title": "Chess Match",
+      "date": "2010/12/28",
+      "pages": []
+    },
+    {
+      "id": "historie-67",
+      "number": "67",
+      "title": "Chess Match 2",
+      "date": "2011/03/05",
+      "pages": []
+    },
+    {
+      "id": "historie-68",
+      "number": "68",
+      "title": "Alliance State Cardia",
+      "date": "2011/03/27",
+      "pages": []
+    },
+    {
+      "id": "historie-69",
+      "number": "69",
+      "title": "Siege of Two Cities 1",
+      "date": "2011/05/25",
+      "pages": []
+    },
+    {
+      "id": "historie-70",
+      "number": "70",
+      "title": "Siege of Two Cities 2",
+      "date": "2011/06/23",
+      "pages": []
+    },
+    {
+      "id": "historie-71",
+      "number": "71",
+      "title": "Siege Of Two Cities 3",
+      "date": "2011/10/29",
+      "pages": []
+    },
+    {
+      "id": "historie-72",
+      "number": "72",
+      "title": "Siege Of Two Cities 4",
+      "date": "2011/11/26",
+      "pages": []
+    },
+    {
+      "id": "historie-73",
+      "number": "73",
+      "title": "Siege Of Two Cities 5",
+      "date": "2012/01/25",
+      "pages": []
+    },
+    {
+      "id": "historie-74",
+      "number": "74",
+      "title": "Siege Of Two Cities 5",
+      "date": "2012/02/27",
+      "pages": []
+    },
+    {
+      "id": "historie-75",
+      "number": "75",
+      "title": "Siege Of Two Cities 7",
+      "date": "2012/04/27",
+      "pages": []
+    },
+    {
+      "id": "historie-76",
+      "number": "76",
+      "title": "Scythian Campaign",
+      "date": "2012/06/24",
+      "pages": []
+    },
+    {
+      "id": "historie-77",
+      "number": "77",
+      "title": "Scythian Campaign II",
+      "date": "2012/09/26",
+      "pages": []
+    },
+    {
+      "id": "historie-78",
+      "number": "78",
+      "title": "Unexpected Battle",
+      "date": "2012/11/27",
+      "pages": []
+    },
+    {
+      "id": "historie-79",
+      "number": "79",
+      "title": "Unexpected Battle 2",
+      "date": "2012/12/27",
+      "pages": []
+    },
+    {
+      "id": "historie-80",
+      "number": "80",
+      "title": "Unexpected Battle 3",
+      "date": "2013/02/27",
+      "pages": []
+    },
+    {
+      "id": "historie-81",
+      "number": "81",
+      "title": "Secret Order 1",
+      "date": "2013/08/27",
+      "pages": []
+    },
+    {
+      "id": "historie-82",
+      "number": "82",
+      "title": "Secret Order (2)",
+      "date": "2013/11/13",
+      "pages": []
+    },
+    {
+      "id": "historie-83",
+      "number": "83",
+      "title": "Secret Order (3)",
+      "date": "2013/12/21",
+      "pages": []
+    },
+    {
+      "id": "historie-84",
+      "number": "84",
+      "title": "Secret Order (4)",
+      "date": "2014/05/04",
+      "pages": []
+    },
+    {
+      "id": "historie-85",
+      "number": "85",
+      "title": "Melanthios (01)",
+      "date": "2014/05/04",
+      "pages": []
+    },
+    {
+      "id": "historie-86",
+      "number": "86",
+      "title": "Melanthios (002)",
+      "date": "2014/07/24",
+      "pages": []
+    },
+    {
+      "id": "historie-87",
+      "number": "87",
+      "title": "Chaeronea 001",
+      "date": "2014/10/26",
+      "pages": []
+    },
+    {
+      "id": "historie-88",
+      "number": "88",
+      "title": "Chaeronea 001",
+      "date": "2014/10/26",
+      "pages": []
+    },
+    {
+      "id": "historie-89",
+      "number": "89",
+      "title": "Battle of Chaeronea (003)",
+      "date": "2015/01/29",
+      "pages": []
+    },
+    {
+      "id": "historie-90",
+      "number": "90",
+      "title": "Chaeronea (004)",
+      "date": "2015/08/24",
+      "pages": []
+    },
+    {
+      "id": "historie-91",
+      "number": "91",
+      "title": "Chaeronea (5)",
+      "date": "2015/08/24",
+      "pages": []
+    },
+    {
+      "id": "historie-92",
+      "number": "92",
+      "title": "",
+      "date": "2015/10/26",
+      "pages": []
+    },
+    {
+      "id": "historie-93",
+      "number": "93",
+      "title": "",
+      "date": "2015/12/25",
+      "pages": []
+    },
+    {
+      "id": "historie-94",
+      "number": "94",
+      "title": "",
+      "date": "2016/04/28",
+      "pages": []
+    },
+    {
+      "id": "historie-95",
+      "number": "95",
+      "title": "",
+      "date": "2016/06/26",
+      "pages": []
+    },
+    {
+      "id": "historie-96",
+      "number": "96",
+      "title": "",
+      "date": "2016/06/26",
+      "pages": []
+    },
+    {
+      "id": "historie-97",
+      "number": "97",
+      "title": "",
+      "date": "2016/08/28",
+      "pages": []
+    },
+    {
+      "id": "historie-98",
+      "number": "98",
+      "title": "",
+      "date": "2017/04/26",
+      "pages": []
+    },
+    {
+      "id": "historie-99",
+      "number": "99",
+      "title": "Seat of Senses",
+      "date": "2017/07/02",
+      "pages": []
+    },
+    {
+      "id": "historie-100",
+      "number": "100",
+      "title": "",
+      "date": "2018/04/26",
+      "pages": []
+    },
+    {
+      "id": "historie-101",
+      "number": "101",
+      "title": "",
+      "date": "2018/04/26",
+      "pages": []
+    },
+    {
+      "id": "historie-102",
+      "number": "102",
+      "title": "",
+      "date": "2018/04/26",
+      "pages": []
+    },
+    {
+      "id": "historie-103",
+      "number": "103",
+      "title": "",
+      "date": "2018/04/26",
+      "pages": []
+    },
+    {
+      "id": "historie-104",
+      "number": "104",
+      "title": "",
+      "date": "2018/04/26",
+      "pages": []
+    },
+    {
+      "id": "historie-105",
+      "number": "105",
+      "title": "",
+      "date": "2018/07/25",
+      "pages": []
+    },
+    {
+      "id": "historie-106",
+      "number": "106",
+      "title": "",
+      "date": "2018/08/26",
+      "pages": []
+    },
+    {
+      "id": "historie-107",
+      "number": "107",
+      "title": "",
+      "date": "2018/10/25",
+      "pages": []
+    },
+    {
+      "id": "historie-108",
+      "number": "108",
+      "title": "Warped",
+      "date": "2019/12/06",
+      "pages": []
+    },
+    {
+      "id": "historie-109",
+      "number": "109",
+      "title": "A Fragment of Memories",
+      "date": "2020/02/02",
+      "pages": []
+    },
+    {
+      "id": "historie-110",
+      "number": "110",
+      "title": "The Night Before 1",
+      "date": "2020/03/25",
+      "pages": []
+    },
+    {
+      "id": "historie-111",
+      "number": "111",
+      "title": "The Night Before 2",
+      "date": "2020/05/29",
+      "pages": []
+    },
+    {
+      "id": "historie-112",
+      "number": "112",
+      "title": "Dedication to Cardia (1)",
+      "date": "2020/07/22",
+      "pages": []
+    },
+    {
+      "id": "historie-113",
+      "number": "113",
+      "title": "Cardia (Heart) (2)",
+      "date": "2020/09/24",
+      "pages": []
+    },
+    {
+      "id": "historie-114",
+      "number": "114",
+      "title": "",
+      "date": "2021/01/24",
+      "pages": []
+    },
+    {
+      "id": "historie-115",
+      "number": "115",
+      "title": "",
+      "date": "2021/01/24",
+      "pages": []
+    },
+    {
+      "id": "historie-116",
+      "number": "116",
+      "title": "Cardia (Heart) (5)",
+      "date": "2021/03/28",
+      "pages": []
+    },
+    {
+      "id": "historie-117",
+      "number": "117",
+      "title": "Cardia (Heart) (6)",
+      "date": "2021/05/24",
+      "pages": []
+    },
+    {
+      "id": "historie-118",
+      "number": "118",
+      "title": "Cardia (Heart) (7)",
+      "date": "2021/08/24",
+      "pages": []
+    },
+    {
+      "id": "historie-119",
+      "number": "119",
+      "title": "Outside the Royal Palace 1",
+      "date": "2021/10/25",
+      "pages": []
+    },
+    {
+      "id": "historie-120",
+      "number": "120",
+      "title": "Outisde the Royal Palace (2)",
+      "date": "2022/01/08",
+      "pages": []
+    },
+    {
+      "id": "historie-121",
+      "number": "121",
+      "title": "Outside the Royal Palace (3)",
+      "date": "2022/03/08",
+      "pages": []
+    },
+    {
+      "id": "historie-122",
+      "number": "122",
+      "title": "",
+      "date": "2022/04/24",
+      "pages": []
+    },
+    {
+      "id": "historie-123",
+      "number": "123",
+      "title": "",
+      "date": "2022/06/23",
+      "pages": []
+    },
+    {
+      "id": "historie-124",
+      "number": "124",
+      "title": "Outside the Royal Palace (6)",
+      "date": "2022/08/23",
+      "pages": []
+    }
+  ]
+}

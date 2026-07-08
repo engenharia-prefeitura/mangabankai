@@ -1,0 +1,921 @@
+{
+  "en": [
+    {
+      "id": "tobaku-datenroku-kaiji-1",
+      "number": "1",
+      "title": "",
+      "date": "2011/02/27",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-2",
+      "number": "2",
+      "title": "",
+      "date": "2011/02/27",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-3",
+      "number": "3",
+      "title": "",
+      "date": "2011/02/27",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-4",
+      "number": "4",
+      "title": "",
+      "date": "2011/02/27",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-5",
+      "number": "5",
+      "title": "",
+      "date": "2011/02/27",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-6",
+      "number": "6",
+      "title": "",
+      "date": "2011/02/27",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-7",
+      "number": "7",
+      "title": "",
+      "date": "2011/02/27",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-8",
+      "number": "8",
+      "title": "",
+      "date": "2011/02/27",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-9",
+      "number": "9",
+      "title": "",
+      "date": "2011/02/27",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-10",
+      "number": "10",
+      "title": "",
+      "date": "2011/03/04",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-11",
+      "number": "11",
+      "title": "",
+      "date": "2011/03/06",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-12",
+      "number": "12",
+      "title": "",
+      "date": "2011/03/26",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-13",
+      "number": "13",
+      "title": "",
+      "date": "2011/03/30",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-14",
+      "number": "14",
+      "title": "",
+      "date": "2011/03/30",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-15",
+      "number": "15",
+      "title": "",
+      "date": "2011/04/05",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-16",
+      "number": "16",
+      "title": "",
+      "date": "2011/04/05",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-17",
+      "number": "17",
+      "title": "Macabre Pathway",
+      "date": "2011/04/13",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-18",
+      "number": "18",
+      "title": "Crisis",
+      "date": "2011/04/19",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-19",
+      "number": "19",
+      "title": "Repatriation",
+      "date": "2011/04/28",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-20",
+      "number": "20",
+      "title": "Bait Dispersal",
+      "date": "2011/05/27",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-21",
+      "number": "21",
+      "title": "Foresight",
+      "date": "2011/07/04",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-22",
+      "number": "22",
+      "title": "Immaculate",
+      "date": "2011/07/04",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-23",
+      "number": "23",
+      "title": "Company",
+      "date": "2011/07/12",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-24",
+      "number": "24",
+      "title": "Reunion",
+      "date": "2011/07/26",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-25",
+      "number": "25",
+      "title": "Hysteria",
+      "date": "2011/10/10",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-26",
+      "number": "26",
+      "title": "Hunting Criminals",
+      "date": "2011/10/10",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-27",
+      "number": "27",
+      "title": "Welcoming Reception",
+      "date": "2011/11/06",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-28",
+      "number": "28",
+      "title": "Camuflage",
+      "date": "2011/11/07",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-29",
+      "number": "29",
+      "title": "Incitement",
+      "date": "2012/01/24",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-30",
+      "number": "30",
+      "title": "Impatience",
+      "date": "2012/01/26",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-31",
+      "number": "31",
+      "title": "Abruptly",
+      "date": "2012/01/26",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-32",
+      "number": "32",
+      "title": "Knothole",
+      "date": "2012/01/27",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-33",
+      "number": "33",
+      "title": "Confidence",
+      "date": "2012/01/29",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-34",
+      "number": "34",
+      "title": "Misunderstanding",
+      "date": "2012/01/30",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-35",
+      "number": "35",
+      "title": "Hesitation",
+      "date": "2012/01/31",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-36",
+      "number": "36",
+      "title": "Fortune",
+      "date": "2012/02/01",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-37",
+      "number": "37",
+      "title": "Verge Of Death",
+      "date": "2012/02/03",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-38",
+      "number": "38",
+      "title": "Indignation",
+      "date": "2012/02/03",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-39",
+      "number": "39",
+      "title": "Boat Of Mud",
+      "date": "2012/03/03",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-40",
+      "number": "40",
+      "title": "40 - 10 Million",
+      "date": "2012/03/04",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-41",
+      "number": "41",
+      "title": "Chivalry",
+      "date": "2012/03/10",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-42",
+      "number": "42",
+      "title": "Fiery Wind",
+      "date": "2012/03/15",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-43",
+      "number": "43",
+      "title": "Accomplice",
+      "date": "2012/03/16",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-44",
+      "number": "44",
+      "title": "Relaxation",
+      "date": "2012/03/17",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-45",
+      "number": "45",
+      "title": "Unexpected",
+      "date": "2012/03/17",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-46",
+      "number": "46",
+      "title": "Straying",
+      "date": "2012/03/24",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-47",
+      "number": "47",
+      "title": "Self-Reproach",
+      "date": "2012/03/24",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-48",
+      "number": "48",
+      "title": "Connection",
+      "date": "2012/03/26",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-49",
+      "number": "49",
+      "title": "Inspiration",
+      "date": "2012/04/03",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-50",
+      "number": "50",
+      "title": "Improvisation",
+      "date": "2012/04/03",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-51",
+      "number": "51",
+      "title": "Repentance",
+      "date": "2012/04/03",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-52",
+      "number": "52",
+      "title": "Scrupulous",
+      "date": "2012/04/03",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-53",
+      "number": "53",
+      "title": "Withering",
+      "date": "2012/04/03",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-54",
+      "number": "54",
+      "title": "Retardation",
+      "date": "2012/04/03",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-55",
+      "number": "55",
+      "title": "Poison Dart",
+      "date": "2012/04/03",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-56",
+      "number": "56",
+      "title": "Warning",
+      "date": "2012/04/03",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-57",
+      "number": "57",
+      "title": "Arrangement",
+      "date": "2012/04/03",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-58",
+      "number": "58",
+      "title": "Turmoil",
+      "date": "2012/04/03",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-59",
+      "number": "59",
+      "title": "Plan",
+      "date": "2012/05/30",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-60",
+      "number": "60",
+      "title": "Truth And Lies",
+      "date": "2012/06/02",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-61",
+      "number": "61",
+      "title": "Proof",
+      "date": "2012/06/06",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-62",
+      "number": "62",
+      "title": "Trick",
+      "date": "2012/06/10",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-63",
+      "number": "63",
+      "title": "Gaping Wound",
+      "date": "2012/06/15",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-64",
+      "number": "64",
+      "title": "Ensnared",
+      "date": "2012/06/20",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-65",
+      "number": "65",
+      "title": "Resentment",
+      "date": "2012/06/22",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-66",
+      "number": "66",
+      "title": "Hope",
+      "date": "2012/06/25",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-67",
+      "number": "67",
+      "title": "Selection",
+      "date": "2012/06/28",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-68",
+      "number": "68",
+      "title": "Indecision",
+      "date": "2012/07/02",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-69",
+      "number": "69",
+      "title": "Act",
+      "date": "2012/07/05",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-70",
+      "number": "70",
+      "title": "Exception",
+      "date": "2012/08/08",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-71",
+      "number": "71",
+      "title": "Treatment",
+      "date": "2012/08/08",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-72",
+      "number": "72",
+      "title": "Pressure",
+      "date": "2012/08/08",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-73",
+      "number": "73",
+      "title": "Tenacity",
+      "date": "2012/08/08",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-74",
+      "number": "74",
+      "title": "Closed In",
+      "date": "2012/08/08",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-75",
+      "number": "75",
+      "title": "Scales",
+      "date": "2012/08/08",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-76",
+      "number": "76",
+      "title": "Instinct",
+      "date": "2012/08/08",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-77",
+      "number": "77",
+      "title": "Suspicion",
+      "date": "2012/08/08",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-78",
+      "number": "78",
+      "title": "Vague",
+      "date": "2012/08/08",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-79",
+      "number": "79",
+      "title": "Stench",
+      "date": "2012/08/12",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-80",
+      "number": "80",
+      "title": "Sense Of Smell",
+      "date": "2012/08/25",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-81",
+      "number": "81",
+      "title": "Reins",
+      "date": "2012/08/30",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-82",
+      "number": "82",
+      "title": "Shortcut",
+      "date": "2012/08/30",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-83",
+      "number": "83",
+      "title": "Out Of Line",
+      "date": "2012/09/04",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-84",
+      "number": "84",
+      "title": "Guts",
+      "date": "2012/09/04",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-85",
+      "number": "85",
+      "title": "Unexpected",
+      "date": "2012/09/07",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-86",
+      "number": "86",
+      "title": "Insurance",
+      "date": "2012/09/10",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-87",
+      "number": "87",
+      "title": "Perfect Timing",
+      "date": "2012/09/10",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-88",
+      "number": "88",
+      "title": "Certain",
+      "date": "2012/09/11",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-89",
+      "number": "89",
+      "title": "Agitation",
+      "date": "2012/09/14",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-90",
+      "number": "90",
+      "title": "Rebuttal",
+      "date": "2012/09/17",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-91",
+      "number": "91",
+      "title": "Discord",
+      "date": "2012/09/17",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-92",
+      "number": "92",
+      "title": "Calm",
+      "date": "2012/09/17",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-93",
+      "number": "93",
+      "title": "Nightmare",
+      "date": "2012/09/21",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-94",
+      "number": "94",
+      "title": "Concern",
+      "date": "2012/09/21",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-95",
+      "number": "95",
+      "title": "Giant Lie",
+      "date": "2012/09/21",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-96",
+      "number": "96",
+      "title": "Greed",
+      "date": "2012/09/23",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-97",
+      "number": "97",
+      "title": "Rush of Thoughts",
+      "date": "2012/09/23",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-98",
+      "number": "98",
+      "title": "Subtraction",
+      "date": "2012/09/23",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-99",
+      "number": "99",
+      "title": "Meeting a Demon",
+      "date": "2012/09/27",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-100",
+      "number": "100",
+      "title": "Memory",
+      "date": "2012/09/27",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-101",
+      "number": "101",
+      "title": "Nothingness",
+      "date": "2012/09/29",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-102",
+      "number": "102",
+      "title": "Shortcut",
+      "date": "2012/09/29",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-103",
+      "number": "103",
+      "title": "Divine Message",
+      "date": "2012/10/04",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-104",
+      "number": "104",
+      "title": "Secret Technique",
+      "date": "2012/10/04",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-105",
+      "number": "105",
+      "title": "Coincidence",
+      "date": "2012/10/04",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-106",
+      "number": "106",
+      "title": "Magnetic Field",
+      "date": "2012/10/04",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-107",
+      "number": "107",
+      "title": "Set Adrift",
+      "date": "2012/10/04",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-108",
+      "number": "108",
+      "title": "Excessive",
+      "date": "2012/10/12",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-109",
+      "number": "109",
+      "title": "Pressure",
+      "date": "2012/10/12",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-110",
+      "number": "110",
+      "title": "The Battle Begins",
+      "date": "2012/10/22",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-111",
+      "number": "111",
+      "title": "Fruitless Flower",
+      "date": "2012/10/22",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-112",
+      "number": "112",
+      "title": "Unmoving",
+      "date": "2012/10/22",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-113",
+      "number": "113",
+      "title": "Fierce Attack",
+      "date": "2012/10/22",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-114",
+      "number": "114",
+      "title": "Demonic Power",
+      "date": "2012/10/22",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-115",
+      "number": "115",
+      "title": "Ecstasy",
+      "date": "2012/10/22",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-116",
+      "number": "116",
+      "title": "Exposed",
+      "date": "2012/10/22",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-117",
+      "number": "117",
+      "title": "Forced",
+      "date": "2012/10/29",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-118",
+      "number": "118",
+      "title": "Refutation",
+      "date": "2012/10/29",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-119",
+      "number": "119",
+      "title": "Overlook",
+      "date": "2012/10/29",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-120",
+      "number": "120",
+      "title": "Scrutiny",
+      "date": "2012/10/29",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-121",
+      "number": "121",
+      "title": "Shudder",
+      "date": "2012/10/29",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-122",
+      "number": "122",
+      "title": "Shallow",
+      "date": "2012/11/07",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-123",
+      "number": "123",
+      "title": "Guts",
+      "date": "2012/11/07",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-124",
+      "number": "124",
+      "title": "Poisonous Fangs",
+      "date": "2012/11/16",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-125",
+      "number": "125",
+      "title": "Swamp",
+      "date": "2012/11/16",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-126",
+      "number": "126",
+      "title": "Victory",
+      "date": "2012/11/16",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-127",
+      "number": "127",
+      "title": "Revealed",
+      "date": "2012/11/16",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-128",
+      "number": "128",
+      "title": "Foresight",
+      "date": "2012/11/16",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-129",
+      "number": "129",
+      "title": "Tsunami",
+      "date": "2012/11/16",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-130",
+      "number": "130",
+      "title": "Threat",
+      "date": "2012/11/18",
+      "pages": []
+    },
+    {
+      "id": "tobaku-datenroku-kaiji-131",
+      "number": "131",
+      "title": "Ignition",
+      "date": "2012/11/18",
+      "pages": []
+    }
+  ]
+}

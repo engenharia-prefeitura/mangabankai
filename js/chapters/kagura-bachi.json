@@ -1,0 +1,1663 @@
+{
+  "en": [
+    {
+      "id": "kagura-bachi-1",
+      "number": "1",
+      "title": "Mission",
+      "date": "2023/09/16",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-2",
+      "number": "2",
+      "title": "",
+      "date": "2023/09/22",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-3",
+      "number": "3",
+      "title": "",
+      "date": "2023/09/28",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-4",
+      "number": "4",
+      "title": "",
+      "date": "2023/10/05",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-5",
+      "number": "5",
+      "title": "",
+      "date": "2023/10/15",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-6",
+      "number": "6",
+      "title": "",
+      "date": "2023/10/22",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-7",
+      "number": "7",
+      "title": "",
+      "date": "2023/10/27",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-7e",
+      "number": "7e",
+      "title": "",
+      "date": "2023/11/02",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-8",
+      "number": "8",
+      "title": "",
+      "date": "2023/11/03",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-9",
+      "number": "9",
+      "title": "",
+      "date": "2023/11/10",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-10",
+      "number": "10",
+      "title": "Effortless",
+      "date": "2023/11/17",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-11",
+      "number": "11",
+      "title": "",
+      "date": "2023/11/24",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-12",
+      "number": "12",
+      "title": "",
+      "date": "2023/12/01",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-13",
+      "number": "13",
+      "title": "Elites",
+      "date": "2023/12/07",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-14",
+      "number": "14",
+      "title": "",
+      "date": "2023/12/15",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-15",
+      "number": "15",
+      "title": "",
+      "date": "2023/12/24",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-16",
+      "number": "16",
+      "title": "Silence",
+      "date": "2023/12/29",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-17",
+      "number": "17",
+      "title": "Tea",
+      "date": "2024/01/19",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-18",
+      "number": "18",
+      "title": "Roar",
+      "date": "2024/01/26",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-19",
+      "number": "19",
+      "title": "The Dark Knight",
+      "date": "2024/02/02",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-20",
+      "number": "20",
+      "title": "",
+      "date": "2024/02/11",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-21",
+      "number": "21",
+      "title": "",
+      "date": "2024/02/18",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-22",
+      "number": "22",
+      "title": "",
+      "date": "2024/02/25",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-23",
+      "number": "23",
+      "title": "",
+      "date": "2024/03/03",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-24",
+      "number": "24",
+      "title": "",
+      "date": "2024/03/10",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-25",
+      "number": "25",
+      "title": "",
+      "date": "2024/03/17",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-26",
+      "number": "26",
+      "title": "",
+      "date": "2024/03/24",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-27",
+      "number": "27",
+      "title": "",
+      "date": "2024/03/31",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-28",
+      "number": "28",
+      "title": "",
+      "date": "2024/04/07",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-29",
+      "number": "29",
+      "title": "",
+      "date": "2024/04/14",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-30",
+      "number": "30",
+      "title": "",
+      "date": "2024/04/21",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-31",
+      "number": "31",
+      "title": "",
+      "date": "2024/04/28",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-32",
+      "number": "32",
+      "title": "",
+      "date": "2024/05/12",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-33",
+      "number": "33",
+      "title": "",
+      "date": "2024/05/19",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-34",
+      "number": "34",
+      "title": "",
+      "date": "2024/05/24",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-35",
+      "number": "35",
+      "title": "",
+      "date": "2024/06/02",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-36",
+      "number": "36",
+      "title": "",
+      "date": "2024/06/09",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-37",
+      "number": "37",
+      "title": "",
+      "date": "2024/06/16",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-38",
+      "number": "38",
+      "title": "",
+      "date": "2024/06/23",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-39",
+      "number": "39",
+      "title": "",
+      "date": "2024/06/30",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-40",
+      "number": "40",
+      "title": "The Tip",
+      "date": "2024/07/07",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-41",
+      "number": "41",
+      "title": "",
+      "date": "2024/07/14",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-42",
+      "number": "42",
+      "title": "",
+      "date": "2024/07/21",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-43",
+      "number": "43",
+      "title": "",
+      "date": "2024/07/28",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-44",
+      "number": "44",
+      "title": "",
+      "date": "2024/08/04",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-45",
+      "number": "45",
+      "title": "",
+      "date": "2024/08/18",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-46",
+      "number": "46",
+      "title": "",
+      "date": "2024/08/25",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-47",
+      "number": "47",
+      "title": "",
+      "date": "2024/09/01",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-48",
+      "number": "48",
+      "title": "",
+      "date": "2024/09/08",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-49",
+      "number": "49",
+      "title": "",
+      "date": "2024/09/15",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-50",
+      "number": "50",
+      "title": "",
+      "date": "2024/09/22",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-51",
+      "number": "51",
+      "title": "",
+      "date": "2024/09/29",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-52",
+      "number": "52",
+      "title": "",
+      "date": "2024/10/06",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-53",
+      "number": "53",
+      "title": "",
+      "date": "2024/10/13",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-54",
+      "number": "54",
+      "title": "",
+      "date": "2024/10/20",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-55",
+      "number": "55",
+      "title": "",
+      "date": "2024/10/27",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-56",
+      "number": "56",
+      "title": "",
+      "date": "2024/11/03",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-57",
+      "number": "57",
+      "title": "",
+      "date": "2024/11/10",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-58",
+      "number": "58",
+      "title": "",
+      "date": "2024/11/17",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-58a",
+      "number": "58a",
+      "title": "",
+      "date": "2024/11/24",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-58e",
+      "number": "58e",
+      "title": "",
+      "date": "2024/11/24",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-59",
+      "number": "59",
+      "title": "",
+      "date": "2024/12/01",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-60",
+      "number": "60",
+      "title": "",
+      "date": "2024/12/08",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-61",
+      "number": "61",
+      "title": "",
+      "date": "2024/12/15",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-62",
+      "number": "62",
+      "title": "",
+      "date": "2024/12/22",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-63",
+      "number": "63",
+      "title": "",
+      "date": "2025/01/03",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-64",
+      "number": "64",
+      "title": "",
+      "date": "2025/01/19",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-65",
+      "number": "65",
+      "title": "",
+      "date": "2025/01/26",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-66",
+      "number": "66",
+      "title": "",
+      "date": "2025/02/02",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-67",
+      "number": "67",
+      "title": "",
+      "date": "2025/02/09",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-68",
+      "number": "68",
+      "title": "",
+      "date": "2025/02/16",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-69",
+      "number": "69",
+      "title": "",
+      "date": "2025/02/23",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-70",
+      "number": "70",
+      "title": "",
+      "date": "2025/03/02",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-71",
+      "number": "71",
+      "title": "",
+      "date": "2025/03/09",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-72",
+      "number": "72",
+      "title": "",
+      "date": "2025/03/16",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-73",
+      "number": "73",
+      "title": "",
+      "date": "2025/03/30",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-74",
+      "number": "74",
+      "title": "",
+      "date": "2025/04/06",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-75",
+      "number": "75",
+      "title": "",
+      "date": "2025/04/13",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-76",
+      "number": "76",
+      "title": "",
+      "date": "2025/04/20",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-77",
+      "number": "77",
+      "title": "",
+      "date": "2025/04/27",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-78",
+      "number": "78",
+      "title": "",
+      "date": "2025/05/11",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-79",
+      "number": "79",
+      "title": "",
+      "date": "2025/08/15",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-80",
+      "number": "80",
+      "title": "",
+      "date": "2025/05/25",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-81",
+      "number": "81",
+      "title": "",
+      "date": "2025/06/01",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-82",
+      "number": "82",
+      "title": "",
+      "date": "2025/06/08",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-83",
+      "number": "83",
+      "title": "",
+      "date": "2025/06/22",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-84",
+      "number": "84",
+      "title": "",
+      "date": "2025/06/29",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-85",
+      "number": "85",
+      "title": "",
+      "date": "2025/07/06",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-86",
+      "number": "86",
+      "title": "",
+      "date": "2025/07/13",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-87",
+      "number": "87",
+      "title": "",
+      "date": "2025/07/20",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-88",
+      "number": "88",
+      "title": "",
+      "date": "2025/07/27",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-89",
+      "number": "89",
+      "title": "",
+      "date": "2025/08/03",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-90",
+      "number": "90",
+      "title": "",
+      "date": "2025/08/15",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-91",
+      "number": "91",
+      "title": "",
+      "date": "2025/08/24",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-92",
+      "number": "92",
+      "title": "",
+      "date": "2025/08/31",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-92e",
+      "number": "92e",
+      "title": "",
+      "date": "2025/09/07",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-93",
+      "number": "93",
+      "title": "",
+      "date": "2025/09/14",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-94",
+      "number": "94",
+      "title": "",
+      "date": "2025/09/21",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-95",
+      "number": "95",
+      "title": "",
+      "date": "2025/09/28",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-96",
+      "number": "96",
+      "title": "",
+      "date": "2025/10/05",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-97",
+      "number": "97",
+      "title": "",
+      "date": "2025/10/12",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-98",
+      "number": "98",
+      "title": "",
+      "date": "2025/10/19",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-99",
+      "number": "99",
+      "title": "",
+      "date": "2025/11/02",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-100",
+      "number": "100",
+      "title": "",
+      "date": "2025/11/09",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-101",
+      "number": "101",
+      "title": "",
+      "date": "2025/11/16",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-102",
+      "number": "102",
+      "title": "",
+      "date": "2025/11/23",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-103",
+      "number": "103",
+      "title": "",
+      "date": "2025/11/30",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-104",
+      "number": "104",
+      "title": "",
+      "date": "2025/12/07",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-105",
+      "number": "105",
+      "title": "",
+      "date": "2025/12/14",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-106",
+      "number": "106",
+      "title": "",
+      "date": "2025/12/21",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-107",
+      "number": "107",
+      "title": "",
+      "date": "2026/01/04",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-108",
+      "number": "108",
+      "title": "",
+      "date": "2026/01/18",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-109",
+      "number": "109",
+      "title": "",
+      "date": "2026/01/25",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-110",
+      "number": "110",
+      "title": "",
+      "date": "2026/02/01",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-111",
+      "number": "111",
+      "title": "",
+      "date": "2026/02/08",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-112",
+      "number": "112",
+      "title": "",
+      "date": "2026/02/15",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-112e",
+      "number": "112e",
+      "title": "",
+      "date": "2026/02/22",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-113",
+      "number": "113",
+      "title": "",
+      "date": "2026/03/01",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-114",
+      "number": "114",
+      "title": "",
+      "date": "2026/03/08",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-115",
+      "number": "115",
+      "title": "",
+      "date": "2026/03/15",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-116",
+      "number": "116",
+      "title": "",
+      "date": "2026/03/29",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-117",
+      "number": "117",
+      "title": "",
+      "date": "2026/04/04",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-118",
+      "number": "118",
+      "title": "",
+      "date": "2026/04/12",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-119",
+      "number": "119",
+      "title": "",
+      "date": "2026/04/19",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-120",
+      "number": "120",
+      "title": "",
+      "date": "2026/04/26",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-121",
+      "number": "121",
+      "title": "",
+      "date": "2026/05/10",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-122",
+      "number": "122",
+      "title": "",
+      "date": "2026/05/24",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-123",
+      "number": "123",
+      "title": "",
+      "date": "2026/05/31",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-124",
+      "number": "124",
+      "title": "",
+      "date": "2026/06/14",
+      "pages": []
+    },
+    {
+      "id": "kagura-bachi-125",
+      "number": "125",
+      "title": "",
+      "date": "2026/06/21",
+      "pages": []
+    }
+  ],
+  "pt": [
+    {
+      "id": "kagura-bachi-chapter-1",
+      "number": 1,
+      "title": "Kagurabachi – Capítulo 1 – O que Deve Ser Feito",
+      "date": "2025-04-24T16:49:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570885
+    },
+    {
+      "id": "kagura-bachi-chapter-2",
+      "number": 2,
+      "title": "Kagurabachi – Capítulo 2 – Pilha",
+      "date": "2025-04-24T16:49:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570889
+    },
+    {
+      "id": "kagura-bachi-chapter-3",
+      "number": 3,
+      "title": "Kagurabachi – Capítulo 3 – Testemunha",
+      "date": "2025-04-24T16:49:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570891
+    },
+    {
+      "id": "kagura-bachi-chapter-4",
+      "number": 4,
+      "title": "Kagurabachi – Capítulo 4 – Magia e Espada Mágica",
+      "date": "2025-04-24T16:49:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570890
+    },
+    {
+      "id": "kagura-bachi-chapter-5",
+      "number": 5,
+      "title": "Kagurabachi – Capítulo 5 – Festa",
+      "date": "2025-04-24T16:49:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570888
+    },
+    {
+      "id": "kagura-bachi-chapter-6",
+      "number": 6,
+      "title": "Kagurabachi – Capítulo 6 – Uma Vida Pacífica",
+      "date": "2025-04-24T16:49:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570892
+    },
+    {
+      "id": "kagura-bachi-chapter-7",
+      "number": 7,
+      "title": "Kagurabachi – Capítulo 7 – Fumaça",
+      "date": "2025-04-24T16:49:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 570893
+    },
+    {
+      "id": "kagura-bachi-chapter-8",
+      "number": 8,
+      "title": "Kagurabachi – Capítulo 8 – Madoka Norisaku: Eu Vou Mudar",
+      "date": "2025-04-24T16:51:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571060
+    },
+    {
+      "id": "kagura-bachi-chapter-9",
+      "number": 9,
+      "title": "Kagurabachi – Capítulo 9 – Enten vs. Kuregumo",
+      "date": "2025-04-24T16:51:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571057
+    },
+    {
+      "id": "kagura-bachi-chapter-10",
+      "number": 10,
+      "title": "Kagurabachi – Capítulo 10 – Ataque Rápido",
+      "date": "2025-04-24T16:51:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571063
+    },
+    {
+      "id": "kagura-bachi-chapter-11",
+      "number": 11,
+      "title": "Kagurabachi – Capítulo 11 – Despertar",
+      "date": "2025-04-24T16:51:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571055
+    },
+    {
+      "id": "kagura-bachi-chapter-12",
+      "number": 12,
+      "title": "Kagurabachi – Capítulo 12 – Preparação",
+      "date": "2025-04-24T16:51:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571054
+    },
+    {
+      "id": "kagura-bachi-chapter-13",
+      "number": 13,
+      "title": "Kagurabachi – Capítulo 13 – Elite",
+      "date": "2025-04-24T16:51:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571056
+    },
+    {
+      "id": "kagura-bachi-chapter-14",
+      "number": 14,
+      "title": "Kagurabachi – Capítulo 14 – Verdadeiro Reino",
+      "date": "2025-04-24T16:51:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571059
+    },
+    {
+      "id": "kagura-bachi-chapter-15",
+      "number": 15,
+      "title": "Kagurabachi – Capítulo 15 – Jantar",
+      "date": "2025-04-24T16:51:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571061
+    },
+    {
+      "id": "kagura-bachi-chapter-16",
+      "number": 16,
+      "title": "Kagurabachi – Capítulo 16 – Silêncio",
+      "date": "2025-04-24T16:51:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571062
+    },
+    {
+      "id": "kagura-bachi-chapter-17",
+      "number": 17,
+      "title": "Kagurabachi – Capítulo 17 – Chá",
+      "date": "2025-04-24T16:51:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571058
+    },
+    {
+      "id": "kagura-bachi-chapter-18",
+      "number": 18,
+      "title": "Kagurabachi – Capítulo 18 – Colisão",
+      "date": "2025-04-24T16:52:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571284
+    },
+    {
+      "id": "kagura-bachi-chapter-19",
+      "number": 19,
+      "title": "Kagurabachi – Capítulo 19 – Cavaleiro das Trevas",
+      "date": "2025-04-24T16:52:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571277
+    },
+    {
+      "id": "kagura-bachi-chapter-20",
+      "number": 20,
+      "title": "Kagurabachi – Capítulo 20 – Arma do Kumanabi",
+      "date": "2025-04-24T16:52:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571276
+    },
+    {
+      "id": "kagura-bachi-chapter-21",
+      "number": 21,
+      "title": "Kagurabachi – Capítulo 21 – Leniência",
+      "date": "2025-04-24T16:52:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571285
+    },
+    {
+      "id": "kagura-bachi-chapter-22",
+      "number": 22,
+      "title": "Kagurabachi – Capítulo 22 – Rivalidade",
+      "date": "2025-04-24T16:52:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571278
+    },
+    {
+      "id": "kagura-bachi-chapter-23",
+      "number": 23,
+      "title": "Kagurabachi – Capítulo 23 – Despensa",
+      "date": "2025-04-24T16:52:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571282
+    },
+    {
+      "id": "kagura-bachi-chapter-24",
+      "number": 24,
+      "title": "Kagurabachi – Capítulo 24 – Caçador",
+      "date": "2025-04-24T16:52:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571279
+    },
+    {
+      "id": "kagura-bachi-chapter-25",
+      "number": 25,
+      "title": "Kagurabachi – Capítulo 25 – Acordo",
+      "date": "2025-04-24T16:52:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571280
+    },
+    {
+      "id": "kagura-bachi-chapter-26",
+      "number": 26,
+      "title": "Kagurabachi – Capítulo 26 – Confiança",
+      "date": "2025-04-24T16:52:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571283
+    },
+    {
+      "id": "kagura-bachi-chapter-27",
+      "number": 27,
+      "title": "Kagurabachi – Capítulo 27 – Sr. Relâmpago",
+      "date": "2025-04-24T16:52:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571281
+    },
+    {
+      "id": "kagura-bachi-chapter-28",
+      "number": 28,
+      "title": "Kagurabachi – Capítulo 28 – Brecha",
+      "date": "2025-04-24T16:53:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571494
+    },
+    {
+      "id": "kagura-bachi-chapter-29",
+      "number": 29,
+      "title": "Kagurabachi – Capítulo 29 – Escolhas",
+      "date": "2025-04-24T16:53:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571501
+    },
+    {
+      "id": "kagura-bachi-chapter-30",
+      "number": 30,
+      "title": "Kagurabachi – Capítulo 30 – Intrusos",
+      "date": "2025-04-24T16:53:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571496
+    },
+    {
+      "id": "kagura-bachi-chapter-31",
+      "number": 31,
+      "title": "Kagurabachi – Capítulo 31 – Saudações",
+      "date": "2025-04-24T16:53:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571502
+    },
+    {
+      "id": "kagura-bachi-chapter-32",
+      "number": 32,
+      "title": "Kagurabachi – Capítulo 32 – Seleção",
+      "date": "2025-04-24T16:53:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571493
+    },
+    {
+      "id": "kagura-bachi-chapter-33",
+      "number": 33,
+      "title": "Kagurabachi – Capítulo 33 – Defenda Até a Morte",
+      "date": "2025-04-24T16:53:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571498
+    },
+    {
+      "id": "kagura-bachi-chapter-34",
+      "number": 34,
+      "title": "Kagurabachi – Capítulo 34 – Dever",
+      "date": "2025-04-24T16:53:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571497
+    },
+    {
+      "id": "kagura-bachi-chapter-35",
+      "number": 35,
+      "title": "Kagurabachi – Capítulo 35 – Jaula",
+      "date": "2025-04-24T16:53:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571500
+    },
+    {
+      "id": "kagura-bachi-chapter-36",
+      "number": 36,
+      "title": "Kagurabachi – Capítulo 36 – Gênios",
+      "date": "2025-04-24T16:53:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571495
+    },
+    {
+      "id": "kagura-bachi-chapter-37",
+      "number": 37,
+      "title": "Kagurabachi – Capítulo 37 – Igualdade",
+      "date": "2025-04-24T16:53:30Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571499
+    },
+    {
+      "id": "kagura-bachi-chapter-38",
+      "number": 38,
+      "title": "Kagurabachi – Capítulo 38 – Corrida",
+      "date": "2025-04-24T16:54:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571717
+    },
+    {
+      "id": "kagura-bachi-chapter-39",
+      "number": 39,
+      "title": "Kagurabachi – Capítulo 39 – Supere!",
+      "date": "2025-04-24T16:54:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571710
+    },
+    {
+      "id": "kagura-bachi-chapter-40",
+      "number": 40,
+      "title": "Kagurabachi – Capítulo 40 – A Ponta",
+      "date": "2025-04-24T16:54:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571712
+    },
+    {
+      "id": "kagura-bachi-chapter-41",
+      "number": 41,
+      "title": "Kagurabachi – Capítulo 41 – Fervor",
+      "date": "2025-04-24T16:54:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571713
+    },
+    {
+      "id": "kagura-bachi-chapter-42",
+      "number": 42,
+      "title": "Kagurabachi – Capítulo 42 – Tudo",
+      "date": "2025-04-24T16:54:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571709
+    },
+    {
+      "id": "kagura-bachi-chapter-43",
+      "number": 43,
+      "title": "Kagurabachi – Capítulo 43 – Cumprir",
+      "date": "2025-04-24T16:54:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571715
+    },
+    {
+      "id": "kagura-bachi-chapter-44",
+      "number": 44,
+      "title": "Kagurabachi – Capítulo 44 – Cortinas Se Fecham",
+      "date": "2025-04-24T16:54:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571711
+    },
+    {
+      "id": "kagura-bachi-chapter-45",
+      "number": 45,
+      "title": "Kagurabachi – Capítulo 45 – O que Faremos Agora",
+      "date": "2025-04-24T16:54:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571718
+    },
+    {
+      "id": "kagura-bachi-chapter-46",
+      "number": 46,
+      "title": "Kagurabachi – Capítulo 46 – Egoísta Desgraçado",
+      "date": "2025-04-24T16:54:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571714
+    },
+    {
+      "id": "kagura-bachi-chapter-47",
+      "number": 47,
+      "title": "Kagurabachi – Capítulo 47 – Uruha",
+      "date": "2025-04-24T16:54:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571716
+    },
+    {
+      "id": "kagura-bachi-chapter-48",
+      "number": 48,
+      "title": "Kagurabachi – Capítulo 48 – Esquadrão do Vapor do Kokugoku",
+      "date": "2025-04-24T16:55:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571928
+    },
+    {
+      "id": "kagura-bachi-chapter-49",
+      "number": 49,
+      "title": "Kagurabachi – Capítulo 49 – Equilíbrio",
+      "date": "2025-04-24T16:55:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571931
+    },
+    {
+      "id": "kagura-bachi-chapter-50",
+      "number": 50,
+      "title": "Kagurabachi – Capítulo 50 – Contra-Ataque",
+      "date": "2025-04-24T16:55:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571924
+    },
+    {
+      "id": "kagura-bachi-chapter-51",
+      "number": 51,
+      "title": "Kagurabachi – Capítulo 51 – Samura",
+      "date": "2025-04-24T16:55:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571929
+    },
+    {
+      "id": "kagura-bachi-chapter-52",
+      "number": 52,
+      "title": "Kagurabachi – Capítulo 52 – Só Nós Dois",
+      "date": "2025-04-24T16:55:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571927
+    },
+    {
+      "id": "kagura-bachi-chapter-53",
+      "number": 53,
+      "title": "Kagurabachi – Capítulo 53 – Escuridão",
+      "date": "2025-04-24T16:55:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571926
+    },
+    {
+      "id": "kagura-bachi-chapter-54",
+      "number": 54,
+      "title": "Kagurabachi – Capítulo 54 – Amizade",
+      "date": "2025-04-24T16:55:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571923
+    },
+    {
+      "id": "kagura-bachi-chapter-55",
+      "number": 55,
+      "title": "Kagurabachi – Capítulo 55 – Batalha Conjunta",
+      "date": "2025-04-24T16:55:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571930
+    },
+    {
+      "id": "kagura-bachi-chapter-56",
+      "number": 56,
+      "title": "Kagurabachi – Capítulo 56 – Noite Escura",
+      "date": "2025-04-24T16:55:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571925
+    },
+    {
+      "id": "kagura-bachi-chapter-57",
+      "number": 57,
+      "title": "Kagurabachi – Capítulo 57 – Colapso",
+      "date": "2025-04-24T16:55:41Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 571922
+    },
+    {
+      "id": "kagura-bachi-chapter-58",
+      "number": 58,
+      "title": "Kagurabachi – Capítulo 58 – Reunião",
+      "date": "2025-04-24T16:56:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 572139
+    },
+    {
+      "id": "kagura-bachi-chapter-58.5",
+      "number": 58.5,
+      "title": "Kagurabachi – Capítulo 58.5 – Genichi Sojou em Busca de um Banho!",
+      "date": "2025-04-24T16:56:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 572135
+    },
+    {
+      "id": "kagura-bachi-chapter-59",
+      "number": 59,
+      "title": "Kagurabachi – Capítulo 59 – Apagão",
+      "date": "2025-04-24T16:56:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 572140
+    },
+    {
+      "id": "kagura-bachi-chapter-60",
+      "number": 60,
+      "title": "Kagurabachi – Capítulo 60 – Ressurreição",
+      "date": "2025-04-24T16:56:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 572143
+    },
+    {
+      "id": "kagura-bachi-chapter-61",
+      "number": 61,
+      "title": "Kagurabachi – Capítulo 61 – Guerra Noturna",
+      "date": "2025-04-24T16:56:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 572136
+    },
+    {
+      "id": "kagura-bachi-chapter-62",
+      "number": 62,
+      "title": "Kagurabachi – Capítulo 62 – Iori",
+      "date": "2025-04-24T16:56:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 572142
+    },
+    {
+      "id": "kagura-bachi-chapter-63",
+      "number": 63,
+      "title": "Kagurabachi – Capítulo 63 – Perseguição de Carro",
+      "date": "2025-04-24T16:56:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 572141
+    },
+    {
+      "id": "kagura-bachi-chapter-64",
+      "number": 64,
+      "title": "Kagurabachi – Capítulo 64 – Torne-se Um Samurai",
+      "date": "2025-04-24T16:56:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 572134
+    },
+    {
+      "id": "kagura-bachi-chapter-65",
+      "number": 65,
+      "title": "Kagurabachi – Capítulo 65 – Imitação",
+      "date": "2025-04-24T16:56:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 572138
+    },
+    {
+      "id": "kagura-bachi-chapter-66",
+      "number": 66,
+      "title": "Kagurabachi – Capítulo 66 – A Verdade",
+      "date": "2025-04-24T16:56:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 572137
+    },
+    {
+      "id": "kagura-bachi-chapter-67",
+      "number": 67,
+      "title": "Kagurabachi – Capítulo 67 – O Hotel Massacre",
+      "date": "2025-04-24T16:57:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 572348
+    },
+    {
+      "id": "kagura-bachi-chapter-68",
+      "number": 68,
+      "title": "Kagurabachi – Capítulo 68 – Transformação",
+      "date": "2025-04-24T16:57:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 572345
+    },
+    {
+      "id": "kagura-bachi-chapter-69",
+      "number": 69,
+      "title": "Kagurabachi – Capítulo 69 – O Garoto com Cicatrizes",
+      "date": "2025-04-24T16:57:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 572347
+    },
+    {
+      "id": "kagura-bachi-chapter-70",
+      "number": 70,
+      "title": "Kagurabachi – Capítulo 70 – A Pureza Branca do Iai",
+      "date": "2025-04-24T16:57:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 572344
+    },
+    {
+      "id": "kagura-bachi-chapter-71",
+      "number": 71,
+      "title": "Kagurabachi – Capítulo 71 – Vitória",
+      "date": "2025-04-24T16:57:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 572351
+    },
+    {
+      "id": "kagura-bachi-chapter-72",
+      "number": 72,
+      "title": "Kagurabachi – Capítulo 72 – Futuro",
+      "date": "2025-04-24T16:57:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 572353
+    },
+    {
+      "id": "kagura-bachi-chapter-73",
+      "number": 73,
+      "title": "Kagurabachi – Capítulo 73 – Alvorada",
+      "date": "2025-04-24T16:57:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 572350
+    },
+    {
+      "id": "kagura-bachi-chapter-74",
+      "number": 74,
+      "title": "Kagurabachi – Capítulo 74 – Amanhecer",
+      "date": "2025-04-24T16:57:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 572352
+    },
+    {
+      "id": "kagura-bachi-chapter-75",
+      "number": 75,
+      "title": "Kagurabachi – Capítulo 75 – Ilusão",
+      "date": "2025-04-24T16:57:55Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 572349
+    },
+    {
+      "id": "kagura-bachi-chapter-76",
+      "number": 76,
+      "title": "Kagurabachi – Capítulo 76 – Banquete",
+      "date": "2025-04-24T16:59:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 572542
+    },
+    {
+      "id": "kagura-bachi-chapter-77",
+      "number": 77,
+      "title": "Kagurabachi – Capítulo 77 – De Fora da Luta",
+      "date": "2025-05-20T22:18:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 606705
+    },
+    {
+      "id": "kagura-bachi-chapter-78",
+      "number": 78,
+      "title": "Kagurabachi – Capítulo 78 – Alternância",
+      "date": "2025-05-20T22:18:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 606704
+    },
+    {
+      "id": "kagura-bachi-chapter-79",
+      "number": 79,
+      "title": "Kagurabachi – Capítulo 79 – Intrusos!!",
+      "date": "2025-05-20T22:18:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 606728
+    },
+    {
+      "id": "kagura-bachi-chapter-80",
+      "number": 80,
+      "title": "Kagurabachi – Capítulo 80 – Sala Secreta",
+      "date": "2025-06-18T13:49:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 638367
+    },
+    {
+      "id": "kagura-bachi-chapter-81",
+      "number": 81,
+      "title": "Kagurabachi – Capítulo 81 – Força Principal",
+      "date": "2025-06-18T13:49:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 638368
+    },
+    {
+      "id": "kagura-bachi-chapter-82",
+      "number": 82,
+      "title": "Kagurabachi – Capítulo 82 – Enten vs Tobimune",
+      "date": "2025-06-18T13:49:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 638369
+    }
+  ]
+}

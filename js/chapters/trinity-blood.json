@@ -1,0 +1,585 @@
+{
+  "en": [
+    {
+      "id": "trinity-blood-1",
+      "number": "1",
+      "title": "The Man Who Fell to Earth",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-2",
+      "number": "2",
+      "title": "Before the Night Falls",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-3",
+      "number": "3",
+      "title": "Beyond the Limit",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-4",
+      "number": "4",
+      "title": "Were No Angels",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-5",
+      "number": "5",
+      "title": "Adrenaline Drive",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-6",
+      "number": "6",
+      "title": "The Sleeping Beauty",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-7",
+      "number": "7",
+      "title": "Roselyne et les Lion",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-8",
+      "number": "8",
+      "title": "Gate of Heaven",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-9",
+      "number": "9",
+      "title": "High Noon",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-10",
+      "number": "10",
+      "title": "Stranger than Paradise",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-11",
+      "number": "11",
+      "title": "Child Play",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-12",
+      "number": "12",
+      "title": "The Rock",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-13",
+      "number": "13",
+      "title": "Le Feu Follet",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-14",
+      "number": "14",
+      "title": "The Red Shoes",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-15",
+      "number": "15",
+      "title": "One Crazy Summer",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-16",
+      "number": "16",
+      "title": "ARAGAMI",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-17",
+      "number": "17",
+      "title": "Yellow Land, Yellow Earth",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-18",
+      "number": "18",
+      "title": "Santa Sangre",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-19",
+      "number": "19",
+      "title": "Date with an Angel",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-20",
+      "number": "20",
+      "title": "Plein Soleil",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-21",
+      "number": "21",
+      "title": "Daijo-Bu, My Friend",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-22",
+      "number": "22",
+      "title": "The Very Center of Blue Stome",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-23",
+      "number": "23",
+      "title": "Straight to Hell",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-24",
+      "number": "24",
+      "title": "Good Morning Babilonia",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-25",
+      "number": "25",
+      "title": "Children of a Lesser God",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-26",
+      "number": "26",
+      "title": "Who is that Girl",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-27",
+      "number": "27",
+      "title": "Bright Lights, Big City",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-28",
+      "number": "28",
+      "title": "",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-29",
+      "number": "29",
+      "title": "Dirty Dancing",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-30",
+      "number": "30",
+      "title": "Unfaithfully Your",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-31",
+      "number": "31",
+      "title": "Dead on Arrival",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-32",
+      "number": "32",
+      "title": "Long Kiss Good Night",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-33",
+      "number": "33",
+      "title": "Swallowtail",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-34",
+      "number": "34",
+      "title": "The Neverending Story",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-35",
+      "number": "35",
+      "title": "Special B#Gunmetal Hound - Side Scarlet - I Wanna be Your Dog",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-36",
+      "number": "36",
+      "title": "Exodus",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-37",
+      "number": "37",
+      "title": "The Gloomy Sunday",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-38",
+      "number": "38",
+      "title": "The Great Escape",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-39",
+      "number": "39",
+      "title": "A View to Kill",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-40",
+      "number": "40",
+      "title": "The Postman Always Rings Twice",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-41",
+      "number": "41",
+      "title": "Scenario du Film Passion",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-42",
+      "number": "42",
+      "title": "The Pact of the Wolves",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-43",
+      "number": "43",
+      "title": "The Last Waltz",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-44",
+      "number": "44",
+      "title": "The Unbearable Lightness of Being",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-45",
+      "number": "45",
+      "title": "Great Expectation",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-46",
+      "number": "46",
+      "title": "Dans La Ville Blanche",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-47",
+      "number": "47",
+      "title": "The Man Who Fell to Earth 1",
+      "date": "2009/09/22",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-48",
+      "number": "48",
+      "title": "The King and I",
+      "date": "2010/03/13",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-49",
+      "number": "49",
+      "title": "Avalon",
+      "date": "2010/08/15",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-50",
+      "number": "50",
+      "title": "Sweeney Todd",
+      "date": "2011/08/02",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-51",
+      "number": "51",
+      "title": "",
+      "date": "2011/08/02",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-52",
+      "number": "52",
+      "title": "Much Ado About Nothing",
+      "date": "2012/01/07",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-53",
+      "number": "53",
+      "title": "A Room With A View",
+      "date": "2012/01/07",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-54",
+      "number": "54",
+      "title": "Le Nom de la Rose",
+      "date": "2012/08/04",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-55",
+      "number": "55",
+      "title": "Something Wicked this way Comes",
+      "date": "2012/08/04",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-56",
+      "number": "56",
+      "title": "Stand by me",
+      "date": "2013/10/05",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-57",
+      "number": "57",
+      "title": "The Magician",
+      "date": "2013/10/05",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-58",
+      "number": "58",
+      "title": "L'Ange",
+      "date": "2013/10/10",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-59",
+      "number": "59",
+      "title": "Bloody Mary",
+      "date": "2013/10/28",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-60",
+      "number": "60",
+      "title": "Nightmare",
+      "date": "2013/11/14",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-61",
+      "number": "61",
+      "title": "The Magdalene Sisters",
+      "date": "2013/11/24",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-62",
+      "number": "62",
+      "title": "Death Race 664",
+      "date": "2014/01/18",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-63",
+      "number": "63",
+      "title": "The Dark Knight",
+      "date": "2014/02/25",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-64",
+      "number": "64",
+      "title": "The Dark Knight Rises",
+      "date": "2014/03/18",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-65",
+      "number": "65",
+      "title": "The Long Kiss Goodnight",
+      "date": "2014/04/16",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-66",
+      "number": "66",
+      "title": "The Visitor",
+      "date": "2014/04/16",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-67",
+      "number": "67",
+      "title": "The Queen",
+      "date": "2015/02/03",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-68",
+      "number": "68",
+      "title": "Frozen",
+      "date": "2015/12/13",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-69",
+      "number": "69",
+      "title": "Les Miserables",
+      "date": "2016/07/08",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-70",
+      "number": "70",
+      "title": "The Sword in the Stone",
+      "date": "2016/07/08",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-71",
+      "number": "71",
+      "title": "The Mist!",
+      "date": "2016/11/10",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-72",
+      "number": "72",
+      "title": "The King's Speech",
+      "date": "2017/04/30",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-73",
+      "number": "73",
+      "title": "",
+      "date": "2017/09/18",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-74",
+      "number": "74",
+      "title": "",
+      "date": "2018/05/07",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-75",
+      "number": "75",
+      "title": "",
+      "date": "2018/05/07",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-76",
+      "number": "76",
+      "title": "",
+      "date": "2018/05/07",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-77",
+      "number": "77",
+      "title": "",
+      "date": "2020/07/05",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-78",
+      "number": "78",
+      "title": "",
+      "date": "2020/07/05",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-79",
+      "number": "79",
+      "title": "",
+      "date": "2020/07/05",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-80",
+      "number": "80",
+      "title": "",
+      "date": "2020/07/05",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-81",
+      "number": "81",
+      "title": "",
+      "date": "2020/07/05",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-82",
+      "number": "82",
+      "title": "Reborn on the Mars",
+      "date": "2020/09/02",
+      "pages": []
+    },
+    {
+      "id": "trinity-blood-83",
+      "number": "83",
+      "title": "The Crown of Thorns",
+      "date": "2020/12/06",
+      "pages": []
+    }
+  ]
+}

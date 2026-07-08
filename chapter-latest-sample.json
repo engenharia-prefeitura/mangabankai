@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "6a3b0d96b3a258790c4fb1c2",
+    "manga": {
+      "_id": "69e39f7abd78a8e7079d7aa7",
+      "title": "A Violeta Florescendo No Jardim Dos Fundos",
+      "slug": "a-violeta-florescendo-no-jardim-dos-fundos"
+    },
+    "chapterNumber": 75,
+    "title": "Capítulo 75",
+    "releaseDate": "2026-06-23T22:49:17.567Z"
+  },
+  {
+    "_id": "6a3b0d6cb3a258790c4fa7df",
+    "manga": {
+      "_id": "69e39f7abd78a8e7079d7aa7",
+      "title": "A Violeta Florescendo No Jardim Dos Fundos",
+      "slug": "a-violeta-florescendo-no-jardim-dos-fundos"
+    },
+    "chapterNumber": 74,
+    "title": "Capítulo 74",
+    "releaseDate": "2026-06-23T22:48:42.019Z"
+  },
+  {
+    "_id": "6a3b0d49b3a258790c4f9d3b",
+    "manga": {
+      "_id": "69e39f7abd78a8e7079d7aa7",
+      "title": "A Violeta Florescendo No Jardim Dos Fundos",
+      "slug": "a-violeta-florescendo-no-jardim-dos-fundos"
+    },
+    "chapterNumber": 73,
+    "title": "Capítulo 73",
+    "releaseDate": "2026-06-23T22:48:05.591Z"
+  },
+  {
+    "_id": "6a3b0d24b3a258790c4f93ed",
+    "manga": {
+      "_id": "69e39f7abd78a8e7079d7aa7",
+      "title": "A Violeta Florescendo No Jardim Dos Fundos",
+      "slug": "a-violeta-florescendo-no-jardim-dos-fundos"
+    },
+    "chapterNumber": 72,
+    "title": "Capítulo 72",
+    "releaseDate": "2026-06-23T22:47:26.422Z"
+  },
+  {
+    "_id": "6a3b0cfdb3a258790c4f8a59",
+    "manga": {
+      "_id": "69e39f7abd78a8e7079d7aa7",
+      "title": "A Violeta Florescendo No Jardim Dos Fundos",
+      "slug": "a-violeta-florescendo-no-jardim-dos-fundos"
+    },
+    "chapterNumber": 71,
+    "title": "Capítulo 71",
+    "releaseDate": "2026-06-23T22:46:34.950Z"
+  }
+]

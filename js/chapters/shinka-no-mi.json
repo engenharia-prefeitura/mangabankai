@@ -1,0 +1,655 @@
+{
+  "en": [
+    {
+      "id": "shinka-no-mi-1",
+      "number": "1",
+      "title": "",
+      "date": "2018/06/25",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-2",
+      "number": "2",
+      "title": "",
+      "date": "2018/06/25",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-3",
+      "number": "3",
+      "title": "",
+      "date": "2018/06/25",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-4",
+      "number": "4",
+      "title": "",
+      "date": "2018/12/20",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-5",
+      "number": "5",
+      "title": "",
+      "date": "2018/12/20",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-6",
+      "number": "6",
+      "title": "",
+      "date": "2018/12/20",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-7",
+      "number": "7",
+      "title": "",
+      "date": "2018/12/20",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-8",
+      "number": "8",
+      "title": "",
+      "date": "2018/12/20",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-9",
+      "number": "9",
+      "title": "",
+      "date": "2019/02/11",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-10",
+      "number": "10",
+      "title": "",
+      "date": "2019/06/05",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-11",
+      "number": "11",
+      "title": "",
+      "date": "2019/06/05",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-12",
+      "number": "12",
+      "title": "",
+      "date": "2019/06/12",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-13",
+      "number": "13",
+      "title": "",
+      "date": "2019/07/06",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-14",
+      "number": "14",
+      "title": "",
+      "date": "2019/11/29",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-15",
+      "number": "15",
+      "title": "",
+      "date": "2020/05/17",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-16",
+      "number": "16",
+      "title": "",
+      "date": "2020/05/17",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-17",
+      "number": "17",
+      "title": "",
+      "date": "2020/07/26",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-18",
+      "number": "18",
+      "title": "",
+      "date": "2020/09/09",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-19",
+      "number": "19",
+      "title": "",
+      "date": "2020/12/02",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-20",
+      "number": "20",
+      "title": "",
+      "date": "2021/06/01",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-21",
+      "number": "21",
+      "title": "",
+      "date": "2021/07/09",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-22",
+      "number": "22",
+      "title": "",
+      "date": "2021/07/15",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-23",
+      "number": "23",
+      "title": "",
+      "date": "2021/07/19",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-24",
+      "number": "24",
+      "title": "",
+      "date": "2021/07/20",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-25",
+      "number": "25",
+      "title": "",
+      "date": "2021/07/22",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-26",
+      "number": "26",
+      "title": "",
+      "date": "2021/08/08",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-27",
+      "number": "27",
+      "title": "",
+      "date": "2021/10/13",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-28",
+      "number": "28",
+      "title": "",
+      "date": "2021/10/16",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-29",
+      "number": "29",
+      "title": "",
+      "date": "2021/11/16",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-30",
+      "number": "30",
+      "title": "",
+      "date": "2022/02/16",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-31",
+      "number": "31",
+      "title": "",
+      "date": "2022/03/20",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-32",
+      "number": "32",
+      "title": "",
+      "date": "2022/03/24",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-33",
+      "number": "33",
+      "title": "",
+      "date": "2022/03/30",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-34a",
+      "number": "34a",
+      "title": "",
+      "date": "2022/06/26",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-34b",
+      "number": "34b",
+      "title": "",
+      "date": "2022/06/26",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-34c",
+      "number": "34c",
+      "title": "",
+      "date": "2022/06/26",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-35a",
+      "number": "35a",
+      "title": "",
+      "date": "2022/06/27",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-35c",
+      "number": "35c",
+      "title": "",
+      "date": "2022/06/27",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-36a",
+      "number": "36a",
+      "title": "",
+      "date": "2022/06/27",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-36b",
+      "number": "36b",
+      "title": "",
+      "date": "2022/06/27",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-36c",
+      "number": "36c",
+      "title": "",
+      "date": "2022/06/27",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-37a",
+      "number": "37a",
+      "title": "",
+      "date": "2022/06/27",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-37b",
+      "number": "37b",
+      "title": "",
+      "date": "2022/06/27",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-37c",
+      "number": "37c",
+      "title": "",
+      "date": "2022/07/23",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-37e",
+      "number": "37e",
+      "title": "",
+      "date": "2022/07/23",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-37f",
+      "number": "37f",
+      "title": "",
+      "date": "2022/07/27",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-38a",
+      "number": "38a",
+      "title": "",
+      "date": "2022/08/25",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-38b",
+      "number": "38b",
+      "title": "",
+      "date": "2022/09/09",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-38c",
+      "number": "38c",
+      "title": "",
+      "date": "2022/09/25",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-39a",
+      "number": "39a",
+      "title": "",
+      "date": "2022/11/27",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-39b",
+      "number": "39b",
+      "title": "",
+      "date": "2022/11/27",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-39c",
+      "number": "39c",
+      "title": "",
+      "date": "2022/11/27",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-40a",
+      "number": "40a",
+      "title": "",
+      "date": "2023/02/09",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-40b",
+      "number": "40b",
+      "title": "",
+      "date": "2023/05/01",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-40c",
+      "number": "40c",
+      "title": "",
+      "date": "2023/05/01",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-41a",
+      "number": "41a",
+      "title": "",
+      "date": "2023/05/01",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-41b",
+      "number": "41b",
+      "title": "",
+      "date": "2023/05/01",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-41c",
+      "number": "41c",
+      "title": "",
+      "date": "2023/05/01",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-42a",
+      "number": "42a",
+      "title": "",
+      "date": "2023/05/01",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-42b",
+      "number": "42b",
+      "title": "",
+      "date": "2023/05/01",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-42c",
+      "number": "42c",
+      "title": "",
+      "date": "2023/05/01",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-43a",
+      "number": "43a",
+      "title": "",
+      "date": "2023/05/01",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-43b",
+      "number": "43b",
+      "title": "",
+      "date": "2023/05/02",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-43c",
+      "number": "43c",
+      "title": "",
+      "date": "2023/05/03",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-44",
+      "number": "44",
+      "title": "",
+      "date": "2023/07/13",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-45a",
+      "number": "45a",
+      "title": "",
+      "date": "2023/08/13",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-45b",
+      "number": "45b",
+      "title": "",
+      "date": "2023/08/18",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-46",
+      "number": "46",
+      "title": "",
+      "date": "2025/07/29",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-47a",
+      "number": "47a",
+      "title": "",
+      "date": "2025/11/01",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-47b",
+      "number": "47b",
+      "title": "",
+      "date": "2025/11/01",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-47c",
+      "number": "47c",
+      "title": "",
+      "date": "2025/11/01",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-48a",
+      "number": "48a",
+      "title": "",
+      "date": "2025/11/01",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-48b",
+      "number": "48b",
+      "title": "",
+      "date": "2025/11/01",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-48c",
+      "number": "48c",
+      "title": "",
+      "date": "2025/11/01",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-49a",
+      "number": "49a",
+      "title": "",
+      "date": "2025/11/01",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-49b",
+      "number": "49b",
+      "title": "",
+      "date": "2025/11/01",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-49c",
+      "number": "49c",
+      "title": "",
+      "date": "2025/11/23",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-50a",
+      "number": "50a",
+      "title": "",
+      "date": "2025/11/23",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-50b",
+      "number": "50b",
+      "title": "",
+      "date": "2026/01/06",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-50c",
+      "number": "50c",
+      "title": "",
+      "date": "2026/01/06",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-51a",
+      "number": "51a",
+      "title": "",
+      "date": "2026/01/06",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-51b",
+      "number": "51b",
+      "title": "",
+      "date": "2026/01/12",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-51c",
+      "number": "51c",
+      "title": "",
+      "date": "2026/01/12",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-52a",
+      "number": "52a",
+      "title": "",
+      "date": "2026/01/12",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-52c",
+      "number": "52c",
+      "title": "",
+      "date": "2026/01/30",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-53a",
+      "number": "53a",
+      "title": "",
+      "date": "2026/02/12",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-53b",
+      "number": "53b",
+      "title": "",
+      "date": "2026/02/12",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-53c",
+      "number": "53c",
+      "title": "",
+      "date": "2026/02/12",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-54a",
+      "number": "54a",
+      "title": "",
+      "date": "2026/04/09",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-54b",
+      "number": "54b",
+      "title": "",
+      "date": "2026/04/19",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-54c",
+      "number": "54c",
+      "title": "",
+      "date": "2026/06/05",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-55a",
+      "number": "55a",
+      "title": "",
+      "date": "2026/06/05",
+      "pages": []
+    },
+    {
+      "id": "shinka-no-mi-55b",
+      "number": "55b",
+      "title": "",
+      "date": "2026/06/16",
+      "pages": []
+    }
+  ]
+}

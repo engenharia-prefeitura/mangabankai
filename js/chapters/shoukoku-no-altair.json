@@ -1,0 +1,949 @@
+{
+  "en": [
+    {
+      "id": "shoukoku-no-altair-1",
+      "number": "1",
+      "title": "The Golden Eagle General",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-2",
+      "number": "2",
+      "title": "The Poison General",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-3",
+      "number": "3",
+      "title": "The Decorated Governor-General",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-4",
+      "number": "4",
+      "title": "Tragic Clansmen",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-5",
+      "number": "5",
+      "title": "The Citadel",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-6",
+      "number": "6",
+      "title": "The Council of Generals",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-7",
+      "number": "7",
+      "title": "The Town of Oasis",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-8",
+      "number": "8",
+      "title": "The Thief in the Slum",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-9",
+      "number": "9",
+      "title": "The Falcon's Homeland",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-10",
+      "number": "10",
+      "title": "Chief of the Eyes and Ears",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-11",
+      "number": "11",
+      "title": "The Falcons' Joint Struggle",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-12",
+      "number": "12",
+      "title": "The City by the Lighthouse",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-13",
+      "number": "13",
+      "title": "The Lizard of the Back Alley",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-14",
+      "number": "14",
+      "title": "The Iron Chains",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-15",
+      "number": "15",
+      "title": "The Snowy Wolf",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-16",
+      "number": "16",
+      "title": "The Sinking City",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-17",
+      "number": "17",
+      "title": "City of the Sea",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-18",
+      "number": "18",
+      "title": "Wasp of the Whitecaps",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-19",
+      "number": "19",
+      "title": "Wasp of the Whitecaps",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-20",
+      "number": "20",
+      "title": "The Great Assembly",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-21",
+      "number": "21",
+      "title": "The Stratocracy of Spears",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-22",
+      "number": "22",
+      "title": "The Red Lion Sultan",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-23",
+      "number": "23",
+      "title": "The Crimson Palace",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-24",
+      "number": "24",
+      "title": "Dance of the Moonlit Beauty",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-25",
+      "number": "25",
+      "title": "The Stratocracy of Daggers",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-26",
+      "number": "26",
+      "title": "Stratocracy of Swords",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-27",
+      "number": "27",
+      "title": "The 045th Heir",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-28",
+      "number": "28",
+      "title": "The General of the Floodgate",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-29",
+      "number": "29",
+      "title": "The Princess of Pears",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-30",
+      "number": "30",
+      "title": "The Princess of Pears",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-31",
+      "number": "31",
+      "title": "Stratocratic Civil War",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-32",
+      "number": "32",
+      "title": "Battle at the Unusual Rock Formations",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-33",
+      "number": "33",
+      "title": "The Wretched Tiger King",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-34",
+      "number": "34",
+      "title": "Cruelty Between Parent and Child",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-35",
+      "number": "35",
+      "title": "Conclusion of the Civil War",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-36",
+      "number": "36",
+      "title": "The Golden Eagle's Summons",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-37",
+      "number": "37",
+      "title": "The Silver City",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-38",
+      "number": "38",
+      "title": "The Daughter of a Caravan",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-39",
+      "number": "39",
+      "title": "Hermit of the East",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-40",
+      "number": "40",
+      "title": "Golden Eagle's Foresight",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-41",
+      "number": "41",
+      "title": "Naval Battle off the Coast of Phoenicia",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-42",
+      "number": "42",
+      "title": "Ambition and Resolution",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-43",
+      "number": "43",
+      "title": "The Northern Kingdom",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-44",
+      "number": "44",
+      "title": "Craving of the King",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-45",
+      "number": "45",
+      "title": "The Northern Country's Crossroads",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-46",
+      "number": "46",
+      "title": "Conspiracy and Departure",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-47",
+      "number": "47",
+      "title": "The Island City",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-48",
+      "number": "48",
+      "title": "Tripartite Alliance Meeting",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-49",
+      "number": "49",
+      "title": "Beginning of the Great War",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-50",
+      "number": "50",
+      "title": "City of Rock, City of Rivers",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-51",
+      "number": "51",
+      "title": "City of Rock, City of Rivers",
+      "date": "2014/08/27",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-52",
+      "number": "52",
+      "title": "The Flower's Plan",
+      "date": "2014/09/15",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-53",
+      "number": "53",
+      "title": "Heart of the Continent",
+      "date": "2014/11/04",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-54",
+      "number": "54",
+      "title": "Wishing on Stars",
+      "date": "2015/01/05",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-55",
+      "number": "55",
+      "title": "The Mercenaries of Taurus",
+      "date": "2015/01/05",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-56",
+      "number": "56",
+      "title": "Golden Eagle's Tutorial",
+      "date": "2015/01/05",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-57",
+      "number": "57",
+      "title": "An Equestrian Tribe's Techniques",
+      "date": "2015/01/05",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-58",
+      "number": "58",
+      "title": "Budding Counterattack",
+      "date": "2015/03/06",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-59",
+      "number": "59",
+      "title": "Boy from the City of Bells",
+      "date": "2015/03/28",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-60",
+      "number": "60",
+      "title": "The Heavenly City",
+      "date": "2015/04/19",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-61",
+      "number": "61",
+      "title": "The Urban General",
+      "date": "2015/06/25",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-62",
+      "number": "62",
+      "title": "The Cage of Paradise",
+      "date": "2015/06/25",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-63",
+      "number": "63",
+      "title": "The Beast Tamer",
+      "date": "2015/07/13",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-64",
+      "number": "64",
+      "title": "",
+      "date": "2015/08/07",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-65",
+      "number": "65",
+      "title": "",
+      "date": "2015/08/26",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-66",
+      "number": "66",
+      "title": "Front Line of the Centro Sea",
+      "date": "2015/09/08",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-67",
+      "number": "67",
+      "title": "",
+      "date": "2015/09/21",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-68",
+      "number": "68",
+      "title": "The Queen and the Clown",
+      "date": "2015/10/05",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-69",
+      "number": "69",
+      "title": "",
+      "date": "2015/10/19",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-70",
+      "number": "70",
+      "title": "",
+      "date": "2015/11/05",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-71",
+      "number": "71",
+      "title": "",
+      "date": "2015/12/01",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-72",
+      "number": "72",
+      "title": "",
+      "date": "2015/12/01",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-73",
+      "number": "73",
+      "title": "",
+      "date": "2015/12/26",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-74",
+      "number": "74",
+      "title": "",
+      "date": "2015/12/26",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-75",
+      "number": "75",
+      "title": "",
+      "date": "2016/01/17",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-76",
+      "number": "76",
+      "title": "",
+      "date": "2016/01/31",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-77",
+      "number": "77",
+      "title": "",
+      "date": "2016/03/04",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-78",
+      "number": "78",
+      "title": "",
+      "date": "2016/03/22",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-79",
+      "number": "79",
+      "title": "",
+      "date": "2016/04/21",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-80",
+      "number": "80",
+      "title": "",
+      "date": "2016/06/30",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-81",
+      "number": "81",
+      "title": "",
+      "date": "2016/09/08",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-82",
+      "number": "82",
+      "title": "",
+      "date": "2016/09/08",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-83",
+      "number": "83",
+      "title": "",
+      "date": "2016/09/18",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-84",
+      "number": "84",
+      "title": "",
+      "date": "2016/09/29",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-85",
+      "number": "85",
+      "title": "",
+      "date": "2016/11/02",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-86",
+      "number": "86",
+      "title": "",
+      "date": "2016/12/07",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-87",
+      "number": "87",
+      "title": "",
+      "date": "2016/12/07",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-88",
+      "number": "88",
+      "title": "",
+      "date": "2017/01/18",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-89",
+      "number": "89",
+      "title": "",
+      "date": "2017/03/08",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-90",
+      "number": "90",
+      "title": "",
+      "date": "2017/03/08",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-91",
+      "number": "91",
+      "title": "",
+      "date": "2017/03/22",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-92",
+      "number": "92",
+      "title": "",
+      "date": "2017/04/19",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-93",
+      "number": "93",
+      "title": "",
+      "date": "2017/06/08",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-94",
+      "number": "94",
+      "title": "Gravestone of an Ancient Empire",
+      "date": "2017/08/26",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-95",
+      "number": "95",
+      "title": "Descendants of Warriors",
+      "date": "2017/07/10",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-96",
+      "number": "96",
+      "title": "The New Aristocracy Attacks",
+      "date": "2017/07/10",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-97",
+      "number": "97",
+      "title": "Two Traps",
+      "date": "2017/07/28",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-98",
+      "number": "98",
+      "title": "",
+      "date": "2017/07/28",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-99",
+      "number": "99",
+      "title": "Wheels Within Wheels",
+      "date": "2017/08/25",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-100",
+      "number": "100",
+      "title": "The Empire Invades",
+      "date": "2017/08/26",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-101",
+      "number": "101",
+      "title": "Burning Homeland + Extra: Niki & Margit's Favourite Food",
+      "date": "2017/09/06",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-102",
+      "number": "102",
+      "title": "",
+      "date": "2018/01/25",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-103",
+      "number": "103",
+      "title": "",
+      "date": "2018/02/18",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-104",
+      "number": "104",
+      "title": "",
+      "date": "2018/03/15",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-105",
+      "number": "105",
+      "title": "",
+      "date": "2018/04/13",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-106",
+      "number": "106",
+      "title": "",
+      "date": "2018/05/19",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-107",
+      "number": "107",
+      "title": "Battle at Çeşme Dere",
+      "date": "2018/10/12",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-108",
+      "number": "108",
+      "title": "",
+      "date": "2018/11/08",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-109",
+      "number": "109",
+      "title": "",
+      "date": "2018/12/13",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-110",
+      "number": "110",
+      "title": "",
+      "date": "2018/12/14",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-111",
+      "number": "111",
+      "title": "",
+      "date": "2019/01/24",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-112",
+      "number": "112",
+      "title": "",
+      "date": "2019/03/28",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-113",
+      "number": "113",
+      "title": "Ramparts of the Old Gate",
+      "date": "2019/10/11",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-114",
+      "number": "114",
+      "title": "Imperial Sword",
+      "date": "2019/11/02",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-115",
+      "number": "115",
+      "title": "Command",
+      "date": "2019/11/19",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-116",
+      "number": "116",
+      "title": "",
+      "date": "2019/12/13",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-117",
+      "number": "117",
+      "title": "",
+      "date": "2020/01/09",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-118",
+      "number": "118",
+      "title": "",
+      "date": "2020/01/21",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-119",
+      "number": "119",
+      "title": "",
+      "date": "2020/02/17",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-120",
+      "number": "120",
+      "title": "",
+      "date": "2020/04/10",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-121",
+      "number": "121",
+      "title": "The Avenger",
+      "date": "2020/10/26",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-122",
+      "number": "122",
+      "title": "St Michael's Master",
+      "date": "2020/12/06",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-123",
+      "number": "123",
+      "title": "Hunters of the Golden City",
+      "date": "2020/12/30",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-124",
+      "number": "124",
+      "title": "Surprise Attack",
+      "date": "2021/01/29",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-125",
+      "number": "125",
+      "title": "",
+      "date": "2021/10/23",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-126",
+      "number": "126",
+      "title": "",
+      "date": "2021/10/23",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-127",
+      "number": "127",
+      "title": "",
+      "date": "2021/10/23",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-128",
+      "number": "128",
+      "title": "",
+      "date": "2021/10/23",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-129",
+      "number": "129",
+      "title": "",
+      "date": "2021/10/23",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-130",
+      "number": "130",
+      "title": "",
+      "date": "2021/10/23",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-131",
+      "number": "131",
+      "title": "",
+      "date": "2021/10/23",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-132",
+      "number": "132",
+      "title": "",
+      "date": "2021/10/23",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-133",
+      "number": "133",
+      "title": "",
+      "date": "2021/10/23",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-134",
+      "number": "134",
+      "title": "",
+      "date": "2021/10/23",
+      "pages": []
+    },
+    {
+      "id": "shoukoku-no-altair-135",
+      "number": "135",
+      "title": "",
+      "date": "2022/12/10",
+      "pages": []
+    }
+  ]
+}

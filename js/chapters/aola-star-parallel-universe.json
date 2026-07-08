@@ -1,0 +1,816 @@
+{
+  "en": [
+    {
+      "id": "aola-star-parallel-universe-1",
+      "number": "1",
+      "title": "",
+      "date": "2018/11/14",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-2",
+      "number": "2",
+      "title": "",
+      "date": "2019/01/12",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-3",
+      "number": "3",
+      "title": "",
+      "date": "2020/04/08",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-4",
+      "number": "4",
+      "title": "",
+      "date": "2020/04/08",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-5",
+      "number": "5",
+      "title": "",
+      "date": "2020/04/08",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-6",
+      "number": "6",
+      "title": "",
+      "date": "2020/04/08",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-7",
+      "number": "7",
+      "title": "",
+      "date": "2020/04/08",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-8",
+      "number": "8",
+      "title": "",
+      "date": "2020/04/08",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-9",
+      "number": "9",
+      "title": "",
+      "date": "2020/04/08",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-10",
+      "number": "10",
+      "title": "",
+      "date": "2020/04/08",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-11",
+      "number": "11",
+      "title": "",
+      "date": "2020/04/08",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-12",
+      "number": "12",
+      "title": "",
+      "date": "2020/04/08",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-13",
+      "number": "13",
+      "title": "",
+      "date": "2020/04/08",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-14",
+      "number": "14",
+      "title": "",
+      "date": "2020/04/08",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-15",
+      "number": "15",
+      "title": "",
+      "date": "2020/04/09",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-16",
+      "number": "16",
+      "title": "Lava Demon",
+      "date": "2020/07/21",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-17",
+      "number": "17",
+      "title": "My Name is Seraph",
+      "date": "2021/01/31",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-18",
+      "number": "18",
+      "title": "",
+      "date": "2021/02/01",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-19",
+      "number": "19",
+      "title": "Vera and Nana",
+      "date": "2021/02/02",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-20",
+      "number": "20",
+      "title": "The Noble-Born Coppola",
+      "date": "2021/02/03",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-21",
+      "number": "21",
+      "title": "Fersteel Armour",
+      "date": "2021/02/04",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-22",
+      "number": "22",
+      "title": "The Six-Winged Sage",
+      "date": "2021/02/05",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-23",
+      "number": "23",
+      "title": "",
+      "date": "2021/02/06",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-24",
+      "number": "24",
+      "title": "Who's the Master?",
+      "date": "2021/02/07",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-25",
+      "number": "25",
+      "title": "Purifying Demon Godification",
+      "date": "2021/02/08",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-26",
+      "number": "26",
+      "title": "Golden Light",
+      "date": "2021/02/09",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-27",
+      "number": "27",
+      "title": "The Gates of the Four Guardians",
+      "date": "2021/02/10",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-28",
+      "number": "28",
+      "title": "The Light Dragon Comes Again",
+      "date": "2021/02/11",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-29",
+      "number": "29",
+      "title": "I am Qualified!",
+      "date": "2021/02/12",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-30",
+      "number": "30",
+      "title": "Trouble Right Around the Corner",
+      "date": "2021/02/13",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-31",
+      "number": "31",
+      "title": "So-called Magic",
+      "date": "2021/02/14",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-32",
+      "number": "32",
+      "title": "The Book from the Magic Circle + Extra - The Legend of the Divine Demon",
+      "date": "2021/02/16",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-33",
+      "number": "33",
+      "title": "The Secret of Assimilation",
+      "date": "2021/02/17",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-34",
+      "number": "34",
+      "title": "",
+      "date": "2021/02/18",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-35",
+      "number": "35",
+      "title": "",
+      "date": "2021/02/18",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-36",
+      "number": "36",
+      "title": "",
+      "date": "2021/02/18",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-37",
+      "number": "37",
+      "title": "",
+      "date": "2021/02/28",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-38",
+      "number": "38",
+      "title": "",
+      "date": "2021/02/28",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-39",
+      "number": "39",
+      "title": "",
+      "date": "2021/02/28",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-40",
+      "number": "40",
+      "title": "",
+      "date": "2021/02/28",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-41",
+      "number": "41",
+      "title": "",
+      "date": "2021/02/28",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-42",
+      "number": "42",
+      "title": "",
+      "date": "2021/02/28",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-43",
+      "number": "43",
+      "title": "",
+      "date": "2021/02/28",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-44",
+      "number": "44",
+      "title": "You Want to Leave? No You Won't",
+      "date": "2021/03/01",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-45",
+      "number": "45",
+      "title": "The Real Objective",
+      "date": "2021/03/02",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-46",
+      "number": "46",
+      "title": "The Informant",
+      "date": "2021/03/03",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-47",
+      "number": "47",
+      "title": "The Dark Winged Dragon",
+      "date": "2021/03/04",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-48",
+      "number": "48",
+      "title": "Meeting Essar Again!",
+      "date": "2021/03/05",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-49",
+      "number": "49",
+      "title": "The Power of the Stickers",
+      "date": "2021/03/06",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-50",
+      "number": "50",
+      "title": "The Rose Withers",
+      "date": "2021/03/07",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-51",
+      "number": "51",
+      "title": "Forgive me",
+      "date": "2021/03/08",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-52",
+      "number": "52",
+      "title": "Can You Die for Your Country?",
+      "date": "2021/03/09",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-53",
+      "number": "53",
+      "title": "Fury! Wrath!",
+      "date": "2021/03/10",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-54",
+      "number": "54",
+      "title": "Seraph's Counterattack",
+      "date": "2021/03/11",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-55",
+      "number": "55",
+      "title": "There's No Use Trying",
+      "date": "2021/03/12",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-56",
+      "number": "56",
+      "title": "I Want it All",
+      "date": "2021/03/13",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-57",
+      "number": "57",
+      "title": "Dragon Blood Armour",
+      "date": "2021/03/14",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-58",
+      "number": "58",
+      "title": "I'm Sorry Everyone",
+      "date": "2021/03/15",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-59",
+      "number": "59",
+      "title": "Adel's Betrayal",
+      "date": "2021/03/16",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-60",
+      "number": "60",
+      "title": "The Six Gunas Night Blade",
+      "date": "2021/03/18",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-61",
+      "number": "61",
+      "title": "",
+      "date": "2021/03/18",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-62",
+      "number": "62",
+      "title": "",
+      "date": "2021/03/19",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-63",
+      "number": "63",
+      "title": "Bai Xiaotian's Past",
+      "date": "2021/07/21",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-64",
+      "number": "64",
+      "title": "Memory of a Promise",
+      "date": "2021/07/21",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-65",
+      "number": "65",
+      "title": "",
+      "date": "2021/07/22",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-66",
+      "number": "66",
+      "title": "Jorgé's Plea",
+      "date": "2021/07/23",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-67",
+      "number": "67",
+      "title": "The Only Light",
+      "date": "2021/07/23",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-68",
+      "number": "68",
+      "title": "",
+      "date": "2021/07/24",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-69",
+      "number": "69",
+      "title": "",
+      "date": "2021/07/24",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-70",
+      "number": "70",
+      "title": "",
+      "date": "2021/07/25",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-71",
+      "number": "71",
+      "title": "",
+      "date": "2021/07/25",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-72",
+      "number": "72",
+      "title": "",
+      "date": "2021/07/26",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-73",
+      "number": "73",
+      "title": "",
+      "date": "2021/07/26",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-74",
+      "number": "74",
+      "title": "",
+      "date": "2021/07/27",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-75",
+      "number": "75",
+      "title": "",
+      "date": "2021/07/27",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-76",
+      "number": "76",
+      "title": "The Richest Man, Yunteng",
+      "date": "2021/07/28",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-77",
+      "number": "77",
+      "title": "The Cute Little Fox",
+      "date": "2021/07/28",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-78",
+      "number": "78",
+      "title": "",
+      "date": "2021/07/29",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-79",
+      "number": "79",
+      "title": "",
+      "date": "2021/07/29",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-80",
+      "number": "80",
+      "title": "",
+      "date": "2021/07/30",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-81",
+      "number": "81",
+      "title": "",
+      "date": "2021/07/30",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-82",
+      "number": "82",
+      "title": "",
+      "date": "2021/07/31",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-83",
+      "number": "83",
+      "title": "",
+      "date": "2021/07/31",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-84",
+      "number": "84",
+      "title": "",
+      "date": "2021/08/01",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-85",
+      "number": "85",
+      "title": "",
+      "date": "2021/08/01",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-86",
+      "number": "86",
+      "title": "The One Waiting for You",
+      "date": "2021/08/03",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-87",
+      "number": "87",
+      "title": "Master is a Deserter?",
+      "date": "2021/08/03",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-88",
+      "number": "88",
+      "title": "",
+      "date": "2021/08/04",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-89",
+      "number": "89",
+      "title": "Alun is not Afraid",
+      "date": "2021/08/05",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-90",
+      "number": "90",
+      "title": "A Fool's Wish",
+      "date": "2021/08/06",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-91",
+      "number": "91",
+      "title": "",
+      "date": "2021/08/07",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-92",
+      "number": "92",
+      "title": "",
+      "date": "2021/08/08",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-93",
+      "number": "93",
+      "title": "",
+      "date": "2021/08/09",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-94",
+      "number": "94",
+      "title": "",
+      "date": "2021/08/10",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-95",
+      "number": "95",
+      "title": "",
+      "date": "2021/08/11",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-96",
+      "number": "96",
+      "title": "",
+      "date": "2021/08/12",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-97",
+      "number": "97",
+      "title": "",
+      "date": "2021/08/13",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-98",
+      "number": "98",
+      "title": "",
+      "date": "2021/08/14",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-99",
+      "number": "99",
+      "title": "",
+      "date": "2021/08/15",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-100",
+      "number": "100",
+      "title": "",
+      "date": "2021/08/16",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-101",
+      "number": "101",
+      "title": "",
+      "date": "2021/08/18",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-102",
+      "number": "102",
+      "title": "",
+      "date": "2021/08/20",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-103",
+      "number": "103",
+      "title": "",
+      "date": "2021/08/22",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-104",
+      "number": "104",
+      "title": "",
+      "date": "2021/08/24",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-105",
+      "number": "105",
+      "title": "Fused Flame Broadsword",
+      "date": "2021/08/26",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-106",
+      "number": "106",
+      "title": "",
+      "date": "2021/08/28",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-107",
+      "number": "107",
+      "title": "",
+      "date": "2021/08/30",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-108",
+      "number": "108",
+      "title": "",
+      "date": "2021/09/01",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-109",
+      "number": "109",
+      "title": "",
+      "date": "2021/09/03",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-110",
+      "number": "110",
+      "title": "",
+      "date": "2021/09/05",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-111",
+      "number": "111",
+      "title": "",
+      "date": "2021/09/07",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-112",
+      "number": "112",
+      "title": "",
+      "date": "2021/09/14",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-113",
+      "number": "113",
+      "title": "The Three Promises",
+      "date": "2021/09/23",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-114",
+      "number": "114",
+      "title": "Setting You Free",
+      "date": "2021/09/23",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-115",
+      "number": "115",
+      "title": "The Origin Of Wrath",
+      "date": "2021/09/23",
+      "pages": []
+    },
+    {
+      "id": "aola-star-parallel-universe-116",
+      "number": "116",
+      "title": "",
+      "date": "2021/10/02",
+      "pages": []
+    }
+  ]
+}

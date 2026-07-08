@@ -1,0 +1,3752 @@
+{
+  "en": [
+    {
+      "id": "chainsaw-man-1",
+      "number": "1",
+      "title": "",
+      "date": "2018/12/03",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-2",
+      "number": "2",
+      "title": "",
+      "date": "2018/12/10",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-3",
+      "number": "3",
+      "title": "",
+      "date": "2018/12/17",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-4",
+      "number": "4",
+      "title": "",
+      "date": "2018/12/22",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-5",
+      "number": "5",
+      "title": "",
+      "date": "2019/01/01",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-6",
+      "number": "6",
+      "title": "",
+      "date": "2019/01/21",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-7",
+      "number": "7",
+      "title": "Nyakos Where Abouts",
+      "date": "2019/01/25",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-8",
+      "number": "8",
+      "title": "Chainsaw vs Bat",
+      "date": "2019/02/03",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-9",
+      "number": "9",
+      "title": "Rescue",
+      "date": "2019/02/07",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-10",
+      "number": "10",
+      "title": "Kon",
+      "date": "2019/02/16",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-11",
+      "number": "11",
+      "title": "Compromise",
+      "date": "2019/02/24",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-12",
+      "number": "12",
+      "title": "",
+      "date": "2019/03/04",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-13",
+      "number": "13",
+      "title": "",
+      "date": "2019/03/11",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-14",
+      "number": "14",
+      "title": "Sexy Kiss",
+      "date": "2019/03/16",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-15",
+      "number": "15",
+      "title": "",
+      "date": "2019/03/24",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-16",
+      "number": "16",
+      "title": "First Taste",
+      "date": "2019/04/01",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-17",
+      "number": "17",
+      "title": "",
+      "date": "2019/04/09",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-18",
+      "number": "18",
+      "title": "Chainsaw VS Eternity",
+      "date": "2019/04/12",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-19",
+      "number": "19",
+      "title": "Nobel Prize",
+      "date": "2019/04/19",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-20",
+      "number": "20",
+      "title": "Drinking",
+      "date": "2019/04/25",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-21",
+      "number": "21",
+      "title": "The Taste of A Kiss",
+      "date": "2019/05/11",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-22",
+      "number": "22",
+      "title": "",
+      "date": "2019/05/17",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-23",
+      "number": "23",
+      "title": "",
+      "date": "2019/05/24",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-24",
+      "number": "24",
+      "title": "Curse",
+      "date": "2019/06/01",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-25",
+      "number": "25",
+      "title": "Ghost Snake Chainsaw",
+      "date": "2019/06/10",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-26",
+      "number": "26",
+      "title": "",
+      "date": "2019/06/15",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-27",
+      "number": "27",
+      "title": "From Kyoto",
+      "date": "2019/06/21",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-28",
+      "number": "28",
+      "title": "",
+      "date": "2019/06/30",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-29",
+      "number": "29",
+      "title": "A Perfect 100",
+      "date": "2019/07/06",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-30",
+      "number": "30",
+      "title": "Even More Battered",
+      "date": "2019/07/12",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-31",
+      "number": "31",
+      "title": "The Future Is Best",
+      "date": "2019/07/20",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-32",
+      "number": "32",
+      "title": "Over and Over Again",
+      "date": "2019/07/29",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-33",
+      "number": "33",
+      "title": "The operation begins",
+      "date": "2019/08/02",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-34",
+      "number": "34",
+      "title": "All Members Assemble",
+      "date": "2019/08/17",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-35",
+      "number": "35",
+      "title": "",
+      "date": "2019/08/24",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-36",
+      "number": "36",
+      "title": "Katana vs Chainsaw",
+      "date": "2019/08/31",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-37",
+      "number": "37",
+      "title": "Train, Head, Chainsaw",
+      "date": "2019/09/07",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-38",
+      "number": "38",
+      "title": "For an easy revenge!",
+      "date": "2019/09/13",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-39",
+      "number": "39",
+      "title": "Sudden Tears",
+      "date": "2019/09/19",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-40",
+      "number": "40",
+      "title": "Love, Flower, Chainsaw",
+      "date": "2019/09/27",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-41",
+      "number": "41",
+      "title": "Before The Storm",
+      "date": "2019/10/04",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-42",
+      "number": "42",
+      "title": "Learning How to Swim",
+      "date": "2019/10/13",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-43",
+      "number": "43",
+      "title": "Jane Slept in the Church",
+      "date": "2019/10/18",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-44",
+      "number": "44",
+      "title": "Bang Bang Bang",
+      "date": "2019/10/25",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-45",
+      "number": "45",
+      "title": "An Explosive State Of Affairs",
+      "date": "2019/10/31",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-46",
+      "number": "46",
+      "title": "The Melody Of A Massacre",
+      "date": "2019/11/08",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-47",
+      "number": "47",
+      "title": "Luck with women",
+      "date": "2019/11/15",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-48",
+      "number": "48",
+      "title": "Boom Boom Boom",
+      "date": "2019/11/22",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-49",
+      "number": "49",
+      "title": "Sharknado",
+      "date": "2019/11/29",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-50",
+      "number": "50",
+      "title": "Sharknado Part 2",
+      "date": "2019/12/06",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-51",
+      "number": "51",
+      "title": "Dark Diving",
+      "date": "2019/12/13",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-52",
+      "number": "52",
+      "title": "",
+      "date": "2019/12/21",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-53",
+      "number": "53",
+      "title": "",
+      "date": "2019/12/27",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-54",
+      "number": "54",
+      "title": "To go to Enoshima",
+      "date": "2020/01/19",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-55",
+      "number": "55",
+      "title": "",
+      "date": "2020/01/25",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-56",
+      "number": "56",
+      "title": "A Curse and A First",
+      "date": "2020/02/02",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-57",
+      "number": "57",
+      "title": "Suddenly",
+      "date": "2020/02/07",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-58",
+      "number": "58",
+      "title": "Yutaro Kurose",
+      "date": "2020/02/14",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-59",
+      "number": "59",
+      "title": "Mess",
+      "date": "2020/02/20",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-60",
+      "number": "60",
+      "title": "Quanxi and Friends Cut Down 49 People",
+      "date": "2020/02/28",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-61",
+      "number": "61",
+      "title": "News Reporter",
+      "date": "2020/03/06",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-62",
+      "number": "62",
+      "title": "An even bigger mess",
+      "date": "2020/03/13",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-63",
+      "number": "63",
+      "title": "Trip To Hell",
+      "date": "2020/03/20",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-64",
+      "number": "64",
+      "title": "Welcome to Hell",
+      "date": "2020/03/27",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-65",
+      "number": "65",
+      "title": "The Devil of Darkness",
+      "date": "2020/04/03",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-66",
+      "number": "66",
+      "title": "Bark",
+      "date": "2020/04/10",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-67",
+      "number": "67",
+      "title": "The First Devil Hunter",
+      "date": "2020/04/26",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-68",
+      "number": "68",
+      "title": "Dark Power",
+      "date": "2020/05/08",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-69",
+      "number": "69",
+      "title": "Shining Power",
+      "date": "2020/05/16",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-70",
+      "number": "70",
+      "title": "Pinch",
+      "date": "2020/05/24",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-71",
+      "number": "71",
+      "title": "Bath",
+      "date": "2020/05/29",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-72",
+      "number": "72",
+      "title": "All Together",
+      "date": "2020/06/07",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-73",
+      "number": "73",
+      "title": "The End of Daily Life",
+      "date": "2020/06/13",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-74",
+      "number": "74",
+      "title": "The Worlds of the Waves",
+      "date": "2020/06/19",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-75",
+      "number": "75",
+      "title": "9, 12",
+      "date": "2020/06/25",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-76",
+      "number": "76",
+      "title": "Do not open",
+      "date": "2020/07/04",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-77",
+      "number": "77",
+      "title": "Ring Ring Ring",
+      "date": "2020/07/10",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-78",
+      "number": "78",
+      "title": "Snowball Fight",
+      "date": "2020/07/17",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-79",
+      "number": "79",
+      "title": "Play Catch",
+      "date": "2020/07/31",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-80",
+      "number": "80",
+      "title": "The Mind of a Dog",
+      "date": "2020/08/07",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-81",
+      "number": "81",
+      "title": "Give Paw",
+      "date": "2020/08/22",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-82",
+      "number": "82",
+      "title": "Proper Breakfast",
+      "date": "2020/08/28",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-83",
+      "number": "83",
+      "title": "Death, Rebirth, Chainsaw",
+      "date": "2020/09/04",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-84",
+      "number": "84",
+      "title": "The Hero of Hell",
+      "date": "2020/09/11",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-85",
+      "number": "85",
+      "title": "First Blood, Guts, Liver, Stomach",
+      "date": "2020/09/17",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-86",
+      "number": "86",
+      "title": "Chainsaw Date",
+      "date": "2020/09/25",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-87",
+      "number": "87",
+      "title": "Chainsaw Man VS Public Safety's Human Weapons",
+      "date": "2020/10/02",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-88",
+      "number": "88",
+      "title": "Star Chainsaw",
+      "date": "2020/10/09",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-89",
+      "number": "89",
+      "title": "Go Get 'Em, Chainsaw Man",
+      "date": "2020/10/16",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-90",
+      "number": "90",
+      "title": "Super Power",
+      "date": "2020/10/23",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-91",
+      "number": "91",
+      "title": "Power Power Power",
+      "date": "2020/10/30",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-92",
+      "number": "92",
+      "title": "Zombie, Blood, Chainsaw",
+      "date": "2020/11/06",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-93",
+      "number": "93",
+      "title": "You and Bad Movies",
+      "date": "2020/11/13",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-94",
+      "number": "94",
+      "title": "Chainsaw Man VS Weapons Humans",
+      "date": "2020/11/19",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-95",
+      "number": "95",
+      "title": "Chainsaw Man Vs. The Control Devil",
+      "date": "2020/11/28",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-96",
+      "number": "96",
+      "title": "This Kind of Taste",
+      "date": "2020/12/04",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-97",
+      "number": "97",
+      "title": "I Love Chainsaw",
+      "date": "2020/12/11",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-98",
+      "number": "98",
+      "title": "Bird and War",
+      "date": "2022/07/12",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-99",
+      "number": "99",
+      "title": "Two Birds",
+      "date": "2022/07/19",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-100",
+      "number": "100",
+      "title": "How to Walk Shoeless",
+      "date": "2022/07/26",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-101",
+      "number": "101",
+      "title": "Afterschool Devil Hunters",
+      "date": "2022/08/02",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-102",
+      "number": "102",
+      "title": "Save the Cat",
+      "date": "2022/08/16",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-103",
+      "number": "103",
+      "title": "Denji Dream",
+      "date": "2022/08/30",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-104",
+      "number": "104",
+      "title": "Spoiler",
+      "date": "2022/09/13",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-105",
+      "number": "105",
+      "title": "Red Hot",
+      "date": "2022/09/27",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-106",
+      "number": "106",
+      "title": "",
+      "date": "2022/10/11",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-107",
+      "number": "107",
+      "title": "School Attacker",
+      "date": "2022/10/18",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-108",
+      "number": "108",
+      "title": "Something Important to Asa",
+      "date": "2022/10/25",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-109",
+      "number": "109",
+      "title": "The Easy Way to Stop Bullying",
+      "date": "2022/11/01",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-110",
+      "number": "110",
+      "title": "",
+      "date": "2022/11/08",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-111",
+      "number": "111",
+      "title": "Aha Ha Ha Ha",
+      "date": "2022/11/15",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-112",
+      "number": "112",
+      "title": "",
+      "date": "2022/11/22",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-113",
+      "number": "113",
+      "title": "I Wanna See Penguins!",
+      "date": "2022/12/06",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-114",
+      "number": "114",
+      "title": "Endless Aquarium",
+      "date": "2022/12/20",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-115",
+      "number": "115",
+      "title": "",
+      "date": "2022/12/27",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-116",
+      "number": "116",
+      "title": "",
+      "date": "2023/01/03",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-117",
+      "number": "117",
+      "title": "Penguin and Weapon",
+      "date": "2023/01/10",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-118",
+      "number": "118",
+      "title": "Saying Goodbye",
+      "date": "2023/01/17",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-119",
+      "number": "119",
+      "title": "Thief",
+      "date": "2023/01/31",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-120",
+      "number": "120",
+      "title": "Triangle",
+      "date": "2023/02/14",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-121",
+      "number": "121",
+      "title": "",
+      "date": "2023/02/21",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-122",
+      "number": "122",
+      "title": "The Prophecies",
+      "date": "2023/02/28",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-123",
+      "number": "123",
+      "title": "",
+      "date": "2023/03/14",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-124",
+      "number": "124",
+      "title": "Soup",
+      "date": "2023/03/28",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-125",
+      "number": "125",
+      "title": "Apple Thief",
+      "date": "2023/04/04",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-126",
+      "number": "126",
+      "title": "Food Fight",
+      "date": "2023/04/11",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-127",
+      "number": "127",
+      "title": "Save the Asa",
+      "date": "2023/04/18",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-128",
+      "number": "128",
+      "title": "Main Dish",
+      "date": "2023/04/25",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-129",
+      "number": "129",
+      "title": "Save Me, Chainsaw Man",
+      "date": "2023/05/09",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-130",
+      "number": "130",
+      "title": "Kill Building",
+      "date": "2023/05/23",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-131",
+      "number": "131",
+      "title": "Taste of Crap",
+      "date": "2023/05/30",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-132",
+      "number": "132",
+      "title": "Protection",
+      "date": "2023/06/13",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-133",
+      "number": "133",
+      "title": "Chainsaw Man Protest",
+      "date": "2023/06/20",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-134",
+      "number": "134",
+      "title": "Ordinary Happiness",
+      "date": "2023/06/27",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-135",
+      "number": "135",
+      "title": "Sentimental Drive",
+      "date": "2023/07/11",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-136",
+      "number": "136",
+      "title": "Normal Life",
+      "date": "2023/07/18",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-137",
+      "number": "137",
+      "title": "Chu Chu Lovely Muni Muni Mura Mura",
+      "date": "2023/07/25",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-138",
+      "number": "138",
+      "title": "Sword Man",
+      "date": "2023/08/08",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-139",
+      "number": "139",
+      "title": "A Chair's Feelings",
+      "date": "2023/08/15",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-140",
+      "number": "140",
+      "title": "Scales",
+      "date": "2023/08/22",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-141",
+      "number": "141",
+      "title": "Normal Life Plus",
+      "date": "2023/08/29",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-142",
+      "number": "142",
+      "title": "",
+      "date": "2023/09/12",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-143",
+      "number": "143",
+      "title": "Rawr",
+      "date": "2023/09/19",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-144",
+      "number": "144",
+      "title": "Guns, Nails, Katana",
+      "date": "2023/09/26",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-145",
+      "number": "145",
+      "title": "Kumbaya",
+      "date": "2023/10/10",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-146",
+      "number": "146",
+      "title": "Chainsaw Man War",
+      "date": "2023/10/17",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-147",
+      "number": "147",
+      "title": "Cremation",
+      "date": "2023/10/31",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-148",
+      "number": "148",
+      "title": "Room 606 Sword",
+      "date": "2023/11/14",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-149",
+      "number": "149",
+      "title": "",
+      "date": "2023/11/21",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-150",
+      "number": "150",
+      "title": "Dream's Next Stage",
+      "date": "2023/12/05",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-151",
+      "number": "151",
+      "title": "The Return of the Chainsaw Man",
+      "date": "2023/12/19",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-152",
+      "number": "152",
+      "title": "Massage",
+      "date": "2024/01/09",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-153",
+      "number": "153",
+      "title": "Chainsaw Man Hunters",
+      "date": "2024/01/23",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-154",
+      "number": "154",
+      "title": "All Pets",
+      "date": "2024/01/30",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-155",
+      "number": "155",
+      "title": "The Old Me",
+      "date": "2024/02/13",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-156",
+      "number": "156",
+      "title": "",
+      "date": "2024/02/27",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-157",
+      "number": "157",
+      "title": "",
+      "date": "2024/03/05",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-158",
+      "number": "158",
+      "title": "",
+      "date": "2024/03/12",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-159",
+      "number": "159",
+      "title": "",
+      "date": "2024/03/19",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-160",
+      "number": "160",
+      "title": "",
+      "date": "2024/03/26",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-161",
+      "number": "161",
+      "title": "",
+      "date": "2024/04/02",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-162",
+      "number": "162",
+      "title": "",
+      "date": "2024/04/09",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-163",
+      "number": "163",
+      "title": "",
+      "date": "2024/04/23",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-164",
+      "number": "164",
+      "title": "",
+      "date": "2024/04/30",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-165",
+      "number": "165",
+      "title": "",
+      "date": "2024/05/14",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-166",
+      "number": "166",
+      "title": "",
+      "date": "2024/05/21",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-167",
+      "number": "167",
+      "title": "",
+      "date": "2024/06/04",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-168",
+      "number": "168",
+      "title": "",
+      "date": "2024/06/11",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-169",
+      "number": "169",
+      "title": "",
+      "date": "2024/06/25",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-170",
+      "number": "170",
+      "title": "",
+      "date": "2024/07/02",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-171",
+      "number": "171",
+      "title": "",
+      "date": "2024/07/16",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-172",
+      "number": "172",
+      "title": "",
+      "date": "2024/07/23",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-173",
+      "number": "173",
+      "title": "",
+      "date": "2024/08/06",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-174",
+      "number": "174",
+      "title": "",
+      "date": "2024/08/13",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-175",
+      "number": "175",
+      "title": "Both Hands",
+      "date": "2024/08/20",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-176",
+      "number": "176",
+      "title": "",
+      "date": "2024/09/03",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-177",
+      "number": "177",
+      "title": "",
+      "date": "2024/09/17",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-178",
+      "number": "178",
+      "title": "",
+      "date": "2024/09/24",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-179",
+      "number": "179",
+      "title": "",
+      "date": "2024/10/01",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-180",
+      "number": "180",
+      "title": "Aging\\'s World",
+      "date": "2024/10/15",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-181",
+      "number": "181",
+      "title": "",
+      "date": "2024/10/22",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-182",
+      "number": "182",
+      "title": "",
+      "date": "2024/11/05",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-183",
+      "number": "183",
+      "title": "",
+      "date": "2024/11/12",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-184",
+      "number": "184",
+      "title": "",
+      "date": "2024/11/19",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-185",
+      "number": "185",
+      "title": "Stomach in Another World",
+      "date": "2024/11/26",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-186",
+      "number": "186",
+      "title": "",
+      "date": "2024/12/10",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-187",
+      "number": "187",
+      "title": "",
+      "date": "2024/12/17",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-188",
+      "number": "188",
+      "title": "",
+      "date": "2024/12/31",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-189",
+      "number": "189",
+      "title": "",
+      "date": "2025/01/07",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-190",
+      "number": "190",
+      "title": "",
+      "date": "2025/01/14",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-191",
+      "number": "191",
+      "title": "",
+      "date": "2025/01/28",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-192",
+      "number": "192",
+      "title": "",
+      "date": "2025/02/04",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-193",
+      "number": "193",
+      "title": "",
+      "date": "2025/02/11",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-194",
+      "number": "194",
+      "title": "",
+      "date": "2025/02/25",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-195",
+      "number": "195",
+      "title": "",
+      "date": "2025/03/04",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-196",
+      "number": "196",
+      "title": "",
+      "date": "2025/03/11",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-197",
+      "number": "197",
+      "title": "",
+      "date": "2025/03/25",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-198",
+      "number": "198",
+      "title": "",
+      "date": "2025/04/01",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-199",
+      "number": "199",
+      "title": "",
+      "date": "2025/04/08",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-200",
+      "number": "200",
+      "title": "",
+      "date": "2025/04/15",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-201",
+      "number": "201",
+      "title": "",
+      "date": "2025/04/29",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-202",
+      "number": "202",
+      "title": "",
+      "date": "2025/05/06",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-203",
+      "number": "203",
+      "title": "",
+      "date": "2025/05/20",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-204",
+      "number": "204",
+      "title": "With One Life",
+      "date": "2025/05/27",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-205",
+      "number": "205",
+      "title": "",
+      "date": "2025/06/10",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-206",
+      "number": "206",
+      "title": "",
+      "date": "2025/06/17",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-207",
+      "number": "207",
+      "title": "",
+      "date": "2025/07/01",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-208",
+      "number": "208",
+      "title": "",
+      "date": "2025/07/08",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-209",
+      "number": "209",
+      "title": "",
+      "date": "2025/07/22",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-210",
+      "number": "210",
+      "title": "",
+      "date": "2025/07/29",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-211",
+      "number": "211",
+      "title": "",
+      "date": "2025/08/12",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-212",
+      "number": "212",
+      "title": "",
+      "date": "2025/08/19",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-213",
+      "number": "213",
+      "title": "",
+      "date": "2025/09/02",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-214",
+      "number": "214",
+      "title": "",
+      "date": "2025/09/16",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-215",
+      "number": "215",
+      "title": "",
+      "date": "2025/09/23",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-216",
+      "number": "216",
+      "title": "",
+      "date": "2025/09/30",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-217",
+      "number": "217",
+      "title": "",
+      "date": "2025/10/14",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-218",
+      "number": "218",
+      "title": "",
+      "date": "2025/10/28",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-219",
+      "number": "219",
+      "title": "",
+      "date": "2025/11/04",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-220",
+      "number": "220",
+      "title": "",
+      "date": "2025/11/11",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-221",
+      "number": "221",
+      "title": "",
+      "date": "2025/11/25",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-222",
+      "number": "222",
+      "title": "",
+      "date": "2025/12/02",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-223",
+      "number": "223",
+      "title": "",
+      "date": "2025/12/16",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-224",
+      "number": "224",
+      "title": "",
+      "date": "2025/12/23",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-225",
+      "number": "225",
+      "title": "",
+      "date": "2026/01/06",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-226",
+      "number": "226",
+      "title": "",
+      "date": "2026/01/13",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-227",
+      "number": "227",
+      "title": "",
+      "date": "2026/01/20",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-228",
+      "number": "228",
+      "title": "",
+      "date": "2026/02/03",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-229",
+      "number": "229",
+      "title": "",
+      "date": "2026/02/17",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-230",
+      "number": "230",
+      "title": "",
+      "date": "2026/02/24",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-231",
+      "number": "231",
+      "title": "",
+      "date": "2026/03/10",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-232",
+      "number": "232",
+      "title": "",
+      "date": "2026/03/24",
+      "pages": []
+    }
+  ],
+  "pt": [
+    {
+      "id": "chainsaw-man-chapter-1",
+      "number": 1,
+      "title": "Chainsaw Man – Capítulo 1 – Cachorro e Serra-Elétrica",
+      "date": "2025-04-01T17:45:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259377
+    },
+    {
+      "id": "chainsaw-man-chapter-2",
+      "number": 2,
+      "title": "Chainsaw Man – Capítulo 2 – Onde o Pochita está?",
+      "date": "2025-04-01T17:45:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259376
+    },
+    {
+      "id": "chainsaw-man-chapter-3",
+      "number": 3,
+      "title": "Chainsaw Man – Capítulo 3 – Chegando em Tóquio",
+      "date": "2025-04-01T17:45:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259378
+    },
+    {
+      "id": "chainsaw-man-chapter-4",
+      "number": 4,
+      "title": "Chainsaw Man – Capítulo 4 – Power",
+      "date": "2025-04-01T17:45:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259384
+    },
+    {
+      "id": "chainsaw-man-chapter-5",
+      "number": 5,
+      "title": "Chainsaw Man – Capítulo 5 – Para pegar em Peitos",
+      "date": "2025-04-01T17:45:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259379
+    },
+    {
+      "id": "chainsaw-man-chapter-6",
+      "number": 6,
+      "title": "Chainsaw Man – Capítulo 6 – Começando os trabalhos",
+      "date": "2025-04-01T17:45:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259383
+    },
+    {
+      "id": "chainsaw-man-chapter-7",
+      "number": 7,
+      "title": "Chainsaw Man – Capítulo 7 – Onde está Nyako",
+      "date": "2025-04-01T17:45:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259380
+    },
+    {
+      "id": "chainsaw-man-chapter-7.5",
+      "number": 7.5,
+      "title": "Chainsaw Man – Capítulo 7.5",
+      "date": "2025-04-01T17:45:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259381
+    },
+    {
+      "id": "chainsaw-man-chapter-8",
+      "number": 8,
+      "title": "Chainsaw Man – Capítulo 8 – Serra vs Morcego",
+      "date": "2025-04-01T17:45:34Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259382
+    },
+    {
+      "id": "chainsaw-man-chapter-9",
+      "number": 9,
+      "title": "Chainsaw Man – Capítulo 9 – Resgate",
+      "date": "2025-04-01T17:45:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259385
+    },
+    {
+      "id": "chainsaw-man-chapter-10",
+      "number": 10,
+      "title": "Chainsaw Man – Capítulo 10 – Kon",
+      "date": "2025-04-01T17:47:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259485
+    },
+    {
+      "id": "chainsaw-man-chapter-11",
+      "number": 11,
+      "title": "Chainsaw Man – Capítulo 11 – Compromisso",
+      "date": "2025-04-01T17:47:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259486
+    },
+    {
+      "id": "chainsaw-man-chapter-12",
+      "number": 12,
+      "title": "Chainsaw Man – Capítulo 12 – Pegar",
+      "date": "2025-04-01T17:47:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259492
+    },
+    {
+      "id": "chainsaw-man-chapter-13",
+      "number": 13,
+      "title": "Chainsaw Man – Capítulo 13 – Demônio das Armas de Fogo",
+      "date": "2025-04-01T17:47:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259493
+    },
+    {
+      "id": "chainsaw-man-chapter-14",
+      "number": 14,
+      "title": "Chainsaw Man – Capítulo 14 – Beijo de língua",
+      "date": "2025-04-01T17:47:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259491
+    },
+    {
+      "id": "chainsaw-man-chapter-15",
+      "number": 15,
+      "title": "Chainsaw Man – Capítulo 15 – Andar Infinito",
+      "date": "2025-04-01T17:47:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259490
+    },
+    {
+      "id": "chainsaw-man-chapter-16",
+      "number": 16,
+      "title": "Chainsaw Man – Capítulo 16 – Primeiro gosto",
+      "date": "2025-04-01T17:47:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259484
+    },
+    {
+      "id": "chainsaw-man-chapter-16.5",
+      "number": 16.5,
+      "title": "Chainsaw Man – Capítulo 16.5",
+      "date": "2025-04-01T17:47:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259488
+    },
+    {
+      "id": "chainsaw-man-chapter-17",
+      "number": 17,
+      "title": "Chainsaw Man – Capítulo 17 – Morte ao Denji",
+      "date": "2025-04-01T17:47:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259487
+    },
+    {
+      "id": "chainsaw-man-chapter-18",
+      "number": 18,
+      "title": "Chainsaw Man – Capítulo 18 – Motosserra vs. Eternidade",
+      "date": "2025-04-01T17:47:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259489
+    },
+    {
+      "id": "chainsaw-man-chapter-19",
+      "number": 19,
+      "title": "Chainsaw Man – Capítulo 19 – Prêmio Nobel",
+      "date": "2025-04-01T17:48:58Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259601
+    },
+    {
+      "id": "chainsaw-man-chapter-20",
+      "number": 20,
+      "title": "Chainsaw Man – Capítulo 20 – Beber",
+      "date": "2025-04-01T17:48:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259595
+    },
+    {
+      "id": "chainsaw-man-chapter-21",
+      "number": 21,
+      "title": "Chainsaw Man – Capítulo 21 – O gosto de um beijo",
+      "date": "2025-04-01T17:48:58Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259599
+    },
+    {
+      "id": "chainsaw-man-chapter-22",
+      "number": 22,
+      "title": "Chainsaw Man – Capítulo 22 – Pirulito de Coca-Cola",
+      "date": "2025-04-01T17:48:58Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259600
+    },
+    {
+      "id": "chainsaw-man-chapter-23",
+      "number": 23,
+      "title": "Chainsaw Man – Capítulo 23 – Disparos",
+      "date": "2025-04-01T17:48:58Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259603
+    },
+    {
+      "id": "chainsaw-man-chapter-24",
+      "number": 24,
+      "title": "Chainsaw Man – Capítulo 24 – Maldição",
+      "date": "2025-04-01T17:48:58Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259604
+    },
+    {
+      "id": "chainsaw-man-chapter-25",
+      "number": 25,
+      "title": "Chainsaw Man – Capítulo 25 – Fantasma, Cobra e Serra",
+      "date": "2025-04-01T17:48:58Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259597
+    },
+    {
+      "id": "chainsaw-man-chapter-25.5",
+      "number": 25.5,
+      "title": "Chainsaw Man – Capítulo 25.5",
+      "date": "2025-04-01T17:48:58Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259596
+    },
+    {
+      "id": "chainsaw-man-chapter-26",
+      "number": 26,
+      "title": "Chainsaw Man – Capítulo 26 – Armas são fortes",
+      "date": "2025-04-01T17:48:58Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259602
+    },
+    {
+      "id": "chainsaw-man-chapter-27",
+      "number": 27,
+      "title": "Chainsaw Man – Capítulo 27 – Vindo de Kyoto",
+      "date": "2025-04-01T17:48:58Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259598
+    },
+    {
+      "id": "chainsaw-man-chapter-28",
+      "number": 28,
+      "title": "Chainsaw Man – Capítulo 28 – Segredos &#038; Mentiras",
+      "date": "2025-04-01T17:50:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259718
+    },
+    {
+      "id": "chainsaw-man-chapter-29",
+      "number": 29,
+      "title": "Chainsaw Man – Capítulo 29 – Pontuação perfeita",
+      "date": "2025-04-01T17:50:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259724
+    },
+    {
+      "id": "chainsaw-man-chapter-30",
+      "number": 30,
+      "title": "Chainsaw Man – Capítulo 30 – Feridos &#038; Destruídos",
+      "date": "2025-04-01T17:50:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259723
+    },
+    {
+      "id": "chainsaw-man-chapter-31",
+      "number": 31,
+      "title": "Chainsaw Man – Capítulo 31 – O futuro é pica",
+      "date": "2025-04-01T17:50:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259725
+    },
+    {
+      "id": "chainsaw-man-chapter-32",
+      "number": 32,
+      "title": "Chainsaw Man – Capítulo 32 – De novo e de novo",
+      "date": "2025-04-01T17:50:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259722
+    },
+    {
+      "id": "chainsaw-man-chapter-33",
+      "number": 33,
+      "title": "Chainsaw Man – Capítulo 33 – A missão começa",
+      "date": "2025-04-01T17:50:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259719
+    },
+    {
+      "id": "chainsaw-man-chapter-34",
+      "number": 34,
+      "title": "Chainsaw Man – Capítulo 34 – Time completo",
+      "date": "2025-04-01T17:50:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259726
+    },
+    {
+      "id": "chainsaw-man-chapter-35",
+      "number": 35,
+      "title": "Chainsaw Man – Capítulo 35 – Menoridade",
+      "date": "2025-04-01T17:50:40Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259728
+    },
+    {
+      "id": "chainsaw-man-chapter-36",
+      "number": 36,
+      "title": "Chainsaw Man – Capítulo 36 – Katana vs. Motosserra",
+      "date": "2025-04-01T17:50:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259721
+    },
+    {
+      "id": "chainsaw-man-chapter-37",
+      "number": 37,
+      "title": "Chainsaw Man – Capítulo 37 – Trem, cabeça &#038; Motosserra",
+      "date": "2025-04-01T17:50:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259727
+    },
+    {
+      "id": "chainsaw-man-chapter-38",
+      "number": 38,
+      "title": "Chainsaw Man – Capítulo 38 – Uma vingança fácil",
+      "date": "2025-04-01T17:52:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259866
+    },
+    {
+      "id": "chainsaw-man-chapter-39",
+      "number": 39,
+      "title": "Chainsaw Man – Capítulo 39 – Lacrimejando",
+      "date": "2025-04-01T17:52:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259862
+    },
+    {
+      "id": "chainsaw-man-chapter-40",
+      "number": 40,
+      "title": "Chainsaw Man – Capítulo 40 – Amor, Flor &#038; Serra",
+      "date": "2025-04-01T17:52:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259860
+    },
+    {
+      "id": "chainsaw-man-chapter-41",
+      "number": 41,
+      "title": "Chainsaw Man – Capítulo 41 – Presságio para a tempestade",
+      "date": "2025-04-01T17:52:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259861
+    },
+    {
+      "id": "chainsaw-man-chapter-42",
+      "number": 42,
+      "title": "Chainsaw Man – Capítulo 42 – Me ensine como nadar",
+      "date": "2025-04-01T17:52:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259865
+    },
+    {
+      "id": "chainsaw-man-chapter-43",
+      "number": 43,
+      "title": "Chainsaw Man – Capítulo 43 – Jane dormiu na igreja",
+      "date": "2025-04-01T17:52:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259859
+    },
+    {
+      "id": "chainsaw-man-chapter-43.5",
+      "number": 43.5,
+      "title": "Chainsaw Man – Capítulo 43.5",
+      "date": "2025-04-01T17:52:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259858
+    },
+    {
+      "id": "chainsaw-man-chapter-44",
+      "number": 44,
+      "title": "Chainsaw Man – Capítulo 44 – Boom, Boom &#038; Boom",
+      "date": "2025-04-01T17:52:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259864
+    },
+    {
+      "id": "chainsaw-man-chapter-45",
+      "number": 45,
+      "title": "Chainsaw Man – Capítulo 45 – Um ótimo dia para explosões",
+      "date": "2025-04-01T17:52:23Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259867
+    },
+    {
+      "id": "chainsaw-man-chapter-46",
+      "number": 46,
+      "title": "Chainsaw Man – Capítulo 46 – Melodia do Massacre",
+      "date": "2025-04-01T17:52:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 259863
+    },
+    {
+      "id": "chainsaw-man-chapter-47",
+      "number": 47,
+      "title": "Chainsaw Man – Capítulo 47 – Sorte com mulheres",
+      "date": "2025-04-01T17:54:03Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260019
+    },
+    {
+      "id": "chainsaw-man-chapter-48",
+      "number": 48,
+      "title": "Chainsaw Man – Capítulo 48 – Kaboom, kaboom, kaboom",
+      "date": "2025-04-01T17:54:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260023
+    },
+    {
+      "id": "chainsaw-man-chapter-49",
+      "number": 49,
+      "title": "Chainsaw Man – Capítulo 49 – Furacão de Tubarão",
+      "date": "2025-04-01T17:54:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260021
+    },
+    {
+      "id": "chainsaw-man-chapter-50",
+      "number": 50,
+      "title": "Chainsaw Man – Capítulo 50 – Sharknado",
+      "date": "2025-04-01T17:54:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260020
+    },
+    {
+      "id": "chainsaw-man-chapter-51",
+      "number": 51,
+      "title": "Chainsaw Man – Capítulo 51 – Mergulho na escuridão",
+      "date": "2025-04-01T17:54:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260026
+    },
+    {
+      "id": "chainsaw-man-chapter-52",
+      "number": 52,
+      "title": "Chainsaw Man – Capítulo 52 – Amor perdido, Flor &#038; Serra",
+      "date": "2025-04-01T17:54:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260028
+    },
+    {
+      "id": "chainsaw-man-chapter-53",
+      "number": 53,
+      "title": "Chainsaw Man – Capítulo 53 – Meio de um sonho",
+      "date": "2025-04-01T17:54:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260022
+    },
+    {
+      "id": "chainsaw-man-chapter-54",
+      "number": 54,
+      "title": "Chainsaw Man – Capítulo 54 – Vamos para Enoshima",
+      "date": "2025-04-01T17:54:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260024
+    },
+    {
+      "id": "chainsaw-man-chapter-55",
+      "number": 55,
+      "title": "Chainsaw Man – Capítulo 55 – Let&#8217;s GO",
+      "date": "2025-04-01T17:54:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260025
+    },
+    {
+      "id": "chainsaw-man-chapter-56",
+      "number": 56,
+      "title": "Chainsaw Man – Capítulo 56 – Maldição &#038; Primeira vez",
+      "date": "2025-04-01T17:54:04Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260027
+    },
+    {
+      "id": "chainsaw-man-chapter-57",
+      "number": 57,
+      "title": "Chainsaw Man – Capítulo 57 – De repente",
+      "date": "2025-04-01T17:55:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260191
+    },
+    {
+      "id": "chainsaw-man-chapter-58",
+      "number": 58,
+      "title": "Chainsaw Man – Capítulo 58 – Kurose Yutaro",
+      "date": "2025-04-01T17:55:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260192
+    },
+    {
+      "id": "chainsaw-man-chapter-59",
+      "number": 59,
+      "title": "Chainsaw Man – Capítulo 59 – Bagunça",
+      "date": "2025-04-01T17:55:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260188
+    },
+    {
+      "id": "chainsaw-man-chapter-60",
+      "number": 60,
+      "title": "Chainsaw Man – Capítulo 60 – Chacina com 49 mortos por Quanxi e suas infernais",
+      "date": "2025-04-01T17:55:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260185
+    },
+    {
+      "id": "chainsaw-man-chapter-61",
+      "number": 61,
+      "title": "Chainsaw Man – Capítulo 61 – News Reporter",
+      "date": "2025-04-01T17:55:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260189
+    },
+    {
+      "id": "chainsaw-man-chapter-61.5",
+      "number": 61.5,
+      "title": "Chainsaw Man – Capítulo 61.5",
+      "date": "2025-04-01T17:55:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260193
+    },
+    {
+      "id": "chainsaw-man-chapter-62",
+      "number": 62,
+      "title": "Chainsaw Man – Capítulo 62 – Uma grande confusão",
+      "date": "2025-04-01T17:55:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260186
+    },
+    {
+      "id": "chainsaw-man-chapter-63",
+      "number": 63,
+      "title": "Chainsaw Man – Capítulo 63 – Viagem pro inferno",
+      "date": "2025-04-01T17:55:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260184
+    },
+    {
+      "id": "chainsaw-man-chapter-64",
+      "number": 64,
+      "title": "Chainsaw Man – Capítulo 64 – Boas-vindas ao inferno",
+      "date": "2025-04-01T17:55:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260190
+    },
+    {
+      "id": "chainsaw-man-chapter-65",
+      "number": 65,
+      "title": "Chainsaw Man – Capítulo 65 – O Demônio da Escuridão",
+      "date": "2025-04-01T17:55:47Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260187
+    },
+    {
+      "id": "chainsaw-man-chapter-66",
+      "number": 66,
+      "title": "Chainsaw Man – Capítulo 66 – Au Au!",
+      "date": "2025-04-01T17:57:28Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260360
+    },
+    {
+      "id": "chainsaw-man-chapter-67",
+      "number": 67,
+      "title": "Chainsaw Man – Capítulo 67 – O primeiro caçador de demônios",
+      "date": "2025-04-01T17:57:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260346
+    },
+    {
+      "id": "chainsaw-man-chapter-68",
+      "number": 68,
+      "title": "Chainsaw Man – Capítulo 68 – Poder da Escuridão",
+      "date": "2025-04-01T17:57:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260353
+    },
+    {
+      "id": "chainsaw-man-chapter-69",
+      "number": 69,
+      "title": "Chainsaw Man – Capítulo 69 – Poder da Luz",
+      "date": "2025-04-01T17:57:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260352
+    },
+    {
+      "id": "chainsaw-man-chapter-70",
+      "number": 70,
+      "title": "Chainsaw Man – Capítulo 70 – Beliscão",
+      "date": "2025-04-01T17:57:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260351
+    },
+    {
+      "id": "chainsaw-man-chapter-70.5",
+      "number": 70.5,
+      "title": "Chainsaw Man – Capítulo 70.5",
+      "date": "2025-04-01T17:57:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260350
+    },
+    {
+      "id": "chainsaw-man-chapter-71",
+      "number": 71,
+      "title": "Chainsaw Man – Capítulo 71 – Banho",
+      "date": "2025-04-01T17:57:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260356
+    },
+    {
+      "id": "chainsaw-man-chapter-72",
+      "number": 72,
+      "title": "Chainsaw Man – Capítulo 72 – Todo mundo junto",
+      "date": "2025-04-01T17:57:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260357
+    },
+    {
+      "id": "chainsaw-man-chapter-73",
+      "number": 73,
+      "title": "Chainsaw Man – Capítulo 73 – Adeus, vida cotidiana",
+      "date": "2025-04-01T17:57:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260355
+    },
+    {
+      "id": "chainsaw-man-chapter-74",
+      "number": 74,
+      "title": "Chainsaw Man – Capítulo 74 – O que as ondas dizem",
+      "date": "2025-04-01T17:57:27Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260354
+    },
+    {
+      "id": "chainsaw-man-chapter-75",
+      "number": 75,
+      "title": "Chainsaw Man – Capítulo 75 – 9,12",
+      "date": "2025-04-01T17:59:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260523
+    },
+    {
+      "id": "chainsaw-man-chapter-76",
+      "number": 76,
+      "title": "Chainsaw Man – Capítulo 76 – Não abra",
+      "date": "2025-04-01T17:59:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260520
+    },
+    {
+      "id": "chainsaw-man-chapter-77",
+      "number": 77,
+      "title": "Chainsaw Man – Capítulo 77 – Trim trim trim",
+      "date": "2025-04-01T17:59:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260521
+    },
+    {
+      "id": "chainsaw-man-chapter-78",
+      "number": 78,
+      "title": "Chainsaw Man – Capítulo 78 – Guerra de bola de neve",
+      "date": "2025-04-01T17:59:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260522
+    },
+    {
+      "id": "chainsaw-man-chapter-79",
+      "number": 79,
+      "title": "Chainsaw Man – Capítulo 79 – Brincando de arremesso",
+      "date": "2025-04-01T17:59:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260529
+    },
+    {
+      "id": "chainsaw-man-chapter-80",
+      "number": 80,
+      "title": "Chainsaw Man – Capítulo 80 – OS SENTIMENTOS DE UM CÃO",
+      "date": "2025-04-01T17:59:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260528
+    },
+    {
+      "id": "chainsaw-man-chapter-81",
+      "number": 81,
+      "title": "Chainsaw Man – Capítulo 81 – Pata",
+      "date": "2025-04-01T17:59:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260527
+    },
+    {
+      "id": "chainsaw-man-chapter-82",
+      "number": 82,
+      "title": "Chainsaw Man – Capítulo 82 – SEMPRE TENHA UM CAFÉ DA MANHÃ FARTO",
+      "date": "2025-04-01T17:59:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260524
+    },
+    {
+      "id": "chainsaw-man-chapter-83",
+      "number": 83,
+      "title": "Chainsaw Man – Capítulo 83 – Morte, Ressurreição &#038; Serra",
+      "date": "2025-04-01T17:59:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260526
+    },
+    {
+      "id": "chainsaw-man-chapter-84",
+      "number": 84,
+      "title": "Chainsaw Man – Capítulo 84 – O HERÓI DO INFERNO",
+      "date": "2025-04-01T17:59:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260525
+    },
+    {
+      "id": "chainsaw-man-chapter-85",
+      "number": 85,
+      "title": "Chainsaw Man – Capítulo 85 – Bom Sentimento Estomacal Sangrento",
+      "date": "2025-04-01T18:00:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260705
+    },
+    {
+      "id": "chainsaw-man-chapter-86",
+      "number": 86,
+      "title": "Chainsaw Man – Capítulo 86 – CHAINSAW DATE",
+      "date": "2025-04-01T18:00:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260708
+    },
+    {
+      "id": "chainsaw-man-chapter-87",
+      "number": 87,
+      "title": "Chainsaw Man – Capítulo 87 – CHAINSAW MAN VS. AS ASSUSTADORAS ARMAS HUMANAS",
+      "date": "2025-04-01T18:00:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260706
+    },
+    {
+      "id": "chainsaw-man-chapter-88",
+      "number": 88,
+      "title": "Chainsaw Man – Capítulo 88 – Star Chainsaw",
+      "date": "2025-04-01T18:00:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260709
+    },
+    {
+      "id": "chainsaw-man-chapter-89",
+      "number": 89,
+      "title": "Chainsaw Man – Capítulo 89 – Vá buscá-los, Chainsaw Man.",
+      "date": "2025-04-01T18:00:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260707
+    },
+    {
+      "id": "chainsaw-man-chapter-90",
+      "number": 90,
+      "title": "Chainsaw Man – Capítulo 90 – Super Power",
+      "date": "2025-04-01T18:00:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260714
+    },
+    {
+      "id": "chainsaw-man-chapter-91",
+      "number": 91,
+      "title": "Chainsaw Man – Capítulo 91 – Power, Power &#038; Power",
+      "date": "2025-04-01T18:00:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260712
+    },
+    {
+      "id": "chainsaw-man-chapter-92",
+      "number": 92,
+      "title": "Chainsaw Man – Capítulo 92 – VANILLA SKY",
+      "date": "2025-04-01T18:00:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260710
+    },
+    {
+      "id": "chainsaw-man-chapter-93",
+      "number": 93,
+      "title": "Chainsaw Man – Capítulo 93 – VOCÊ E FILMES TOSCOS",
+      "date": "2025-04-01T18:00:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260713
+    },
+    {
+      "id": "chainsaw-man-chapter-94",
+      "number": 94,
+      "title": "Chainsaw Man – Capítulo 94 – Chainsaw Man vs. As Armas Humanas",
+      "date": "2025-04-01T18:00:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260711
+    },
+    {
+      "id": "chainsaw-man-chapter-95",
+      "number": 95,
+      "title": "Chainsaw Man – Capítulo 95 – Chainsaw Man vs. Demônio do Controle",
+      "date": "2025-04-01T18:02:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260884
+    },
+    {
+      "id": "chainsaw-man-chapter-96",
+      "number": 96,
+      "title": "Chainsaw Man – Capítulo 96 – Esse tipo de sabor",
+      "date": "2025-04-01T18:02:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260891
+    },
+    {
+      "id": "chainsaw-man-chapter-97",
+      "number": 97,
+      "title": "Chainsaw Man – Capítulo 97 – Amor,Amor, chainsaw",
+      "date": "2025-04-01T18:02:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260890
+    },
+    {
+      "id": "chainsaw-man-chapter-98",
+      "number": 98,
+      "title": "Chainsaw Man – Capítulo 98 – Ave e guerra",
+      "date": "2025-04-01T18:02:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260894
+    },
+    {
+      "id": "chainsaw-man-chapter-99",
+      "number": 99,
+      "title": "Chainsaw Man – Capítulo 99 – Duas aves",
+      "date": "2025-04-01T18:02:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260886
+    },
+    {
+      "id": "chainsaw-man-chapter-100",
+      "number": 100,
+      "title": "Chainsaw Man – Capítulo 100 – Como caminhar descalça",
+      "date": "2025-04-01T18:02:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260888
+    },
+    {
+      "id": "chainsaw-man-chapter-101",
+      "number": 101,
+      "title": "Chainsaw Man – Capítulo 101 – Caçadores de demônios depois da escola",
+      "date": "2025-04-01T18:02:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260892
+    },
+    {
+      "id": "chainsaw-man-chapter-102",
+      "number": 102,
+      "title": "Chainsaw Man – Capítulo 102 – Salvar o gato",
+      "date": "2025-04-01T18:02:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260889
+    },
+    {
+      "id": "chainsaw-man-chapter-103",
+      "number": 103,
+      "title": "Chainsaw Man – Capítulo 103 – O sonho de Denji",
+      "date": "2025-04-01T18:02:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260887
+    },
+    {
+      "id": "chainsaw-man-chapter-104",
+      "number": 104,
+      "title": "Chainsaw Man – Capítulo 104 – Spoiler",
+      "date": "2025-04-01T18:02:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 260893
+    },
+    {
+      "id": "chainsaw-man-chapter-105",
+      "number": 105,
+      "title": "Chainsaw Man – Capítulo 105 – Vermelho ardente",
+      "date": "2025-11-08T16:56:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 859882
+    },
+    {
+      "id": "chainsaw-man-chapter-106",
+      "number": 106,
+      "title": "Chainsaw Man – Capítulo 106 – Fogueiro",
+      "date": "2025-11-08T16:56:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 859885
+    },
+    {
+      "id": "chainsaw-man-chapter-107",
+      "number": 107,
+      "title": "Chainsaw Man – Capítulo 107 – Justiça VS Guerra!",
+      "date": "2025-11-08T16:56:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 859883
+    },
+    {
+      "id": "chainsaw-man-chapter-108",
+      "number": 108,
+      "title": "Chainsaw Man – Capítulo 108",
+      "date": "2025-11-08T16:56:11Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 859884
+    },
+    {
+      "id": "chainsaw-man-chapter-109",
+      "number": 109,
+      "title": "Chainsaw Man – Capítulo 109",
+      "date": "2025-11-08T16:56:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 859887
+    },
+    {
+      "id": "chainsaw-man-chapter-110",
+      "number": 110,
+      "title": "Chainsaw Man – Capítulo 110",
+      "date": "2025-11-08T16:56:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 859889
+    },
+    {
+      "id": "chainsaw-man-chapter-111",
+      "number": 111,
+      "title": "Chainsaw Man – Capítulo 111",
+      "date": "2025-11-08T16:56:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 859888
+    },
+    {
+      "id": "chainsaw-man-chapter-112",
+      "number": 112,
+      "title": "Chainsaw Man – Capítulo 112",
+      "date": "2025-11-08T16:56:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 859891
+    },
+    {
+      "id": "chainsaw-man-chapter-113",
+      "number": 113,
+      "title": "Chainsaw Man – Capítulo 113",
+      "date": "2025-11-08T16:56:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 859890
+    },
+    {
+      "id": "chainsaw-man-chapter-114",
+      "number": 114,
+      "title": "Chainsaw Man – Capítulo 114",
+      "date": "2025-11-08T16:56:12Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 859886
+    },
+    {
+      "id": "chainsaw-man-chapter-115",
+      "number": 115,
+      "title": "Chainsaw Man – Capítulo 115",
+      "date": "2025-11-08T16:56:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860103
+    },
+    {
+      "id": "chainsaw-man-chapter-116",
+      "number": 116,
+      "title": "Chainsaw Man – Capítulo 116",
+      "date": "2025-11-08T16:56:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860101
+    },
+    {
+      "id": "chainsaw-man-chapter-117",
+      "number": 117,
+      "title": "Chainsaw Man – Capítulo 117",
+      "date": "2025-11-08T16:56:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860102
+    },
+    {
+      "id": "chainsaw-man-chapter-118",
+      "number": 118,
+      "title": "Chainsaw Man – Capítulo 118",
+      "date": "2025-11-08T16:56:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860105
+    },
+    {
+      "id": "chainsaw-man-chapter-119",
+      "number": 119,
+      "title": "Chainsaw Man – Capítulo 119",
+      "date": "2025-11-08T16:56:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860099
+    },
+    {
+      "id": "chainsaw-man-chapter-120",
+      "number": 120,
+      "title": "Chainsaw Man – Capítulo 120",
+      "date": "2025-11-08T16:56:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860098
+    },
+    {
+      "id": "chainsaw-man-chapter-121",
+      "number": 121,
+      "title": "Chainsaw Man – Capítulo 121",
+      "date": "2025-11-08T16:56:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860104
+    },
+    {
+      "id": "chainsaw-man-chapter-122",
+      "number": 122,
+      "title": "Chainsaw Man – Capítulo 122",
+      "date": "2025-12-02T15:14:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 981417
+    },
+    {
+      "id": "chainsaw-man-chapter-123",
+      "number": 123,
+      "title": "Chainsaw Man – Capítulo 123",
+      "date": "2025-11-08T16:56:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860100
+    },
+    {
+      "id": "chainsaw-man-chapter-124",
+      "number": 124,
+      "title": "Chainsaw Man – Capítulo 124",
+      "date": "2025-11-08T16:56:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860107
+    },
+    {
+      "id": "chainsaw-man-chapter-125",
+      "number": 125,
+      "title": "Chainsaw Man – Capítulo 125",
+      "date": "2025-11-08T16:57:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860285
+    },
+    {
+      "id": "chainsaw-man-chapter-126",
+      "number": 126,
+      "title": "Chainsaw Man – Capítulo 126",
+      "date": "2025-11-08T16:57:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860283
+    },
+    {
+      "id": "chainsaw-man-chapter-127",
+      "number": 127,
+      "title": "Chainsaw Man – Capítulo 127",
+      "date": "2025-11-08T16:57:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860286
+    },
+    {
+      "id": "chainsaw-man-chapter-128",
+      "number": 128,
+      "title": "Chainsaw Man – Capítulo 128",
+      "date": "2025-11-08T16:57:09Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860284
+    },
+    {
+      "id": "chainsaw-man-chapter-129",
+      "number": 129,
+      "title": "Chainsaw Man – Capítulo 129",
+      "date": "2025-11-08T16:57:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860289
+    },
+    {
+      "id": "chainsaw-man-chapter-130",
+      "number": 130,
+      "title": "Chainsaw Man – Capítulo 130",
+      "date": "2025-11-08T16:57:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860288
+    },
+    {
+      "id": "chainsaw-man-chapter-131",
+      "number": 131,
+      "title": "Chainsaw Man – Capítulo 131",
+      "date": "2025-11-08T16:57:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860287
+    },
+    {
+      "id": "chainsaw-man-chapter-132",
+      "number": 132,
+      "title": "Chainsaw Man – Capítulo 132",
+      "date": "2025-11-08T16:57:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860292
+    },
+    {
+      "id": "chainsaw-man-chapter-133",
+      "number": 133,
+      "title": "Chainsaw Man – Capítulo 133",
+      "date": "2025-11-08T16:57:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860290
+    },
+    {
+      "id": "chainsaw-man-chapter-134",
+      "number": 134,
+      "title": "Chainsaw Man – Capítulo 134",
+      "date": "2025-11-08T16:57:10Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860291
+    },
+    {
+      "id": "chainsaw-man-chapter-135",
+      "number": 135,
+      "title": "Chainsaw Man – Capítulo 135",
+      "date": "2025-11-08T16:57:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860476
+    },
+    {
+      "id": "chainsaw-man-chapter-136",
+      "number": 136,
+      "title": "Chainsaw Man – Capítulo 136 – Vida Normal",
+      "date": "2025-11-08T16:57:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860477
+    },
+    {
+      "id": "chainsaw-man-chapter-137",
+      "number": 137,
+      "title": "Chainsaw Man – Capítulo 137 – Chu Chu Lovely Muni Muni Mura Mura",
+      "date": "2025-11-08T16:57:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860479
+    },
+    {
+      "id": "chainsaw-man-chapter-138",
+      "number": 138,
+      "title": "Chainsaw Man – Capítulo 138 – Sword Man",
+      "date": "2025-11-08T16:57:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860483
+    },
+    {
+      "id": "chainsaw-man-chapter-139",
+      "number": 139,
+      "title": "Chainsaw Man – Capítulo 139 – Sentimentos de uma Cadeira",
+      "date": "2025-11-08T16:57:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860480
+    },
+    {
+      "id": "chainsaw-man-chapter-140",
+      "number": 140,
+      "title": "Chainsaw Man – Capítulo 140 – Escalas",
+      "date": "2025-11-08T16:57:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860481
+    },
+    {
+      "id": "chainsaw-man-chapter-141",
+      "number": 141,
+      "title": "Chainsaw Man – Capítulo 141 – Vida Comum +",
+      "date": "2025-11-08T16:57:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860478
+    },
+    {
+      "id": "chainsaw-man-chapter-142",
+      "number": 142,
+      "title": "Chainsaw Man – Capítulo 142 – O clube de fãs do Denji",
+      "date": "2025-11-08T16:57:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860484
+    },
+    {
+      "id": "chainsaw-man-chapter-143",
+      "number": 143,
+      "title": "Chainsaw Man – Capítulo 143 – Buuu!",
+      "date": "2025-11-08T16:57:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860485
+    },
+    {
+      "id": "chainsaw-man-chapter-144",
+      "number": 144,
+      "title": "Chainsaw Man – Capítulo 144 – Unhas, Armas e Katanas",
+      "date": "2025-11-08T16:57:39Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860482
+    },
+    {
+      "id": "chainsaw-man-chapter-145",
+      "number": 145,
+      "title": "Chainsaw Man – Capítulo 145 – Kumbaya",
+      "date": "2025-11-08T16:58:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860674
+    },
+    {
+      "id": "chainsaw-man-chapter-146",
+      "number": 146,
+      "title": "Chainsaw Man – Capítulo 146 – A guerra do chainsaw man",
+      "date": "2025-11-08T16:58:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860675
+    },
+    {
+      "id": "chainsaw-man-chapter-147",
+      "number": 147,
+      "title": "Chainsaw Man – Capítulo 147 – Incineração",
+      "date": "2025-11-08T16:58:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860673
+    },
+    {
+      "id": "chainsaw-man-chapter-148",
+      "number": 148,
+      "title": "Chainsaw Man – Capítulo 148 – Espada Apartamento 606",
+      "date": "2025-11-08T16:58:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860676
+    },
+    {
+      "id": "chainsaw-man-chapter-149",
+      "number": 149,
+      "title": "Chainsaw Man – Capítulo 149 – Seleção Demoníaca",
+      "date": "2025-11-08T16:58:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860672
+    },
+    {
+      "id": "chainsaw-man-chapter-150",
+      "number": 150,
+      "title": "Chainsaw Man – Capítulo 150 – O Próximo Sonho",
+      "date": "2025-11-08T16:58:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860678
+    },
+    {
+      "id": "chainsaw-man-chapter-151",
+      "number": 151,
+      "title": "Chainsaw Man – Capítulo 151 – O Retorno do Chainsaw Man",
+      "date": "2025-11-08T16:58:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860680
+    },
+    {
+      "id": "chainsaw-man-chapter-152",
+      "number": 152,
+      "title": "Chainsaw Man – Capítulo 152 – Massagem",
+      "date": "2025-11-08T16:58:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860671
+    },
+    {
+      "id": "chainsaw-man-chapter-153",
+      "number": 153,
+      "title": "Chainsaw Man – Capítulo 153 – Caçadores de Chainsaw Man",
+      "date": "2025-11-08T16:58:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860679
+    },
+    {
+      "id": "chainsaw-man-chapter-154",
+      "number": 154,
+      "title": "Chainsaw Man – Capítulo 154 – Todos são Mascotes",
+      "date": "2025-11-08T16:58:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860677
+    },
+    {
+      "id": "chainsaw-man-chapter-155",
+      "number": 155,
+      "title": "Chainsaw Man – Capítulo 155 – Meu eu de Antes",
+      "date": "2025-11-08T16:58:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860864
+    },
+    {
+      "id": "chainsaw-man-chapter-156",
+      "number": 156,
+      "title": "Chainsaw Man – Capítulo 156 – Tum tum tum tum tum",
+      "date": "2025-11-08T16:58:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860865
+    },
+    {
+      "id": "chainsaw-man-chapter-157",
+      "number": 157,
+      "title": "Chainsaw Man – Capítulo 157 – Matrícula Estudantil",
+      "date": "2025-11-08T16:58:31Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860866
+    },
+    {
+      "id": "chainsaw-man-chapter-158",
+      "number": 158,
+      "title": "Chainsaw Man – Capítulo 158 – Gyah Guilhotina",
+      "date": "2025-11-08T16:58:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860867
+    },
+    {
+      "id": "chainsaw-man-chapter-159",
+      "number": 159,
+      "title": "Chainsaw Man – Capítulo 159 – Attack on Samurai",
+      "date": "2025-11-08T16:58:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860869
+    },
+    {
+      "id": "chainsaw-man-chapter-160",
+      "number": 160,
+      "title": "Chainsaw Man – Capítulo 160 – O Palpitar do Coração",
+      "date": "2025-11-08T16:58:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860871
+    },
+    {
+      "id": "chainsaw-man-chapter-161",
+      "number": 161,
+      "title": "Chainsaw Man – Capítulo 161 – Quebra Cabeça Chainsaw Man",
+      "date": "2025-11-08T16:58:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860868
+    },
+    {
+      "id": "chainsaw-man-chapter-162",
+      "number": 162,
+      "title": "Chainsaw Man – Capítulo 162 – Um Sujeito Assustador",
+      "date": "2025-11-08T16:58:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860872
+    },
+    {
+      "id": "chainsaw-man-chapter-163",
+      "number": 163,
+      "title": "Chainsaw Man – Capítulo 163 – Sonho de Bolas",
+      "date": "2025-11-08T16:58:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860870
+    },
+    {
+      "id": "chainsaw-man-chapter-164",
+      "number": 164,
+      "title": "Chainsaw Man – Capítulo 164 – Ruinas e Cinzas",
+      "date": "2025-11-08T16:58:32Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 860873
+    },
+    {
+      "id": "chainsaw-man-chapter-165",
+      "number": 165,
+      "title": "Chainsaw Man – Capítulo 165 – Panoramas de sempre",
+      "date": "2025-11-08T16:58:56Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861051
+    },
+    {
+      "id": "chainsaw-man-chapter-166",
+      "number": 166,
+      "title": "Chainsaw Man – Capítulo 166 – Chuva, soapland e castração",
+      "date": "2025-11-08T16:58:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861052
+    },
+    {
+      "id": "chainsaw-man-chapter-167",
+      "number": 167,
+      "title": "Chainsaw Man – Capítulo 167 – O Grande Beijo",
+      "date": "2025-11-08T16:58:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861053
+    },
+    {
+      "id": "chainsaw-man-chapter-168",
+      "number": 168,
+      "title": "Chainsaw Man – Capítulo 168 – Beijo, Amor e Sêmen",
+      "date": "2025-11-08T16:58:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861055
+    },
+    {
+      "id": "chainsaw-man-chapter-169",
+      "number": 169,
+      "title": "Chainsaw Man – Capítulo 169 – Mãos e Adaptação",
+      "date": "2025-11-08T16:58:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861059
+    },
+    {
+      "id": "chainsaw-man-chapter-170",
+      "number": 170,
+      "title": "Chainsaw Man – Capítulo 170 – Como comer sushi",
+      "date": "2025-11-08T16:58:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861057
+    },
+    {
+      "id": "chainsaw-man-chapter-171",
+      "number": 171,
+      "title": "Chainsaw Man – Capítulo 171 – Departamento Especial 5",
+      "date": "2025-11-08T16:58:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861054
+    },
+    {
+      "id": "chainsaw-man-chapter-172",
+      "number": 172,
+      "title": "Chainsaw Man – Capítulo 172 – Raaandadan! Booom! Nham!",
+      "date": "2025-11-08T16:58:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861058
+    },
+    {
+      "id": "chainsaw-man-chapter-173",
+      "number": 173,
+      "title": "Chainsaw Man – Capítulo 173 – Escutando um Pouco",
+      "date": "2025-11-08T16:58:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861060
+    },
+    {
+      "id": "chainsaw-man-chapter-174",
+      "number": 174,
+      "title": "Chainsaw Man – Capítulo 174 – O que há de novo, velhote?",
+      "date": "2025-11-08T16:58:57Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861056
+    },
+    {
+      "id": "chainsaw-man-chapter-175",
+      "number": 175,
+      "title": "Chainsaw Man – Capítulo 175 – Sem braços",
+      "date": "2025-11-08T16:59:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861232
+    },
+    {
+      "id": "chainsaw-man-chapter-176",
+      "number": 176,
+      "title": "Chainsaw Man – Capítulo 176 – Dois pequeninos",
+      "date": "2025-11-08T16:59:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861226
+    },
+    {
+      "id": "chainsaw-man-chapter-177",
+      "number": 177,
+      "title": "Chainsaw Man – Capítulo 177 – Dedo Indicador",
+      "date": "2025-11-08T16:59:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861229
+    },
+    {
+      "id": "chainsaw-man-chapter-178",
+      "number": 178,
+      "title": "Chainsaw Man – Capítulo 178 – A Estátua da Pistola",
+      "date": "2025-11-08T16:59:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861228
+    },
+    {
+      "id": "chainsaw-man-chapter-179",
+      "number": 179,
+      "title": "Chainsaw Man – Capítulo 179 – Randandan",
+      "date": "2025-11-08T16:59:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861223
+    },
+    {
+      "id": "chainsaw-man-chapter-180",
+      "number": 180,
+      "title": "Chainsaw Man – Capítulo 180 – O mundo da velhice",
+      "date": "2025-11-08T16:59:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861224
+    },
+    {
+      "id": "chainsaw-man-chapter-181",
+      "number": 181,
+      "title": "Chainsaw Man – Capítulo 181 – Árvores Estranhas",
+      "date": "2025-11-08T16:59:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861225
+    },
+    {
+      "id": "chainsaw-man-chapter-182",
+      "number": 182,
+      "title": "Chainsaw Man – Capítulo 182 – Rosto Fofo",
+      "date": "2025-11-08T16:59:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861227
+    },
+    {
+      "id": "chainsaw-man-chapter-183",
+      "number": 183,
+      "title": "Chainsaw Man – Capítulo 183 – Vômito, Rosto e Tesão",
+      "date": "2025-11-08T16:59:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861231
+    },
+    {
+      "id": "chainsaw-man-chapter-184",
+      "number": 184,
+      "title": "Chainsaw Man – Capítulo 184 – Corra, Denji",
+      "date": "2025-11-08T16:59:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861230
+    },
+    {
+      "id": "chainsaw-man-chapter-185",
+      "number": 185,
+      "title": "Chainsaw Man – Capítulo 185 – Um estômago de outro mundo",
+      "date": "2025-11-08T16:59:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861408
+    },
+    {
+      "id": "chainsaw-man-chapter-186",
+      "number": 186,
+      "title": "Chainsaw Man – Capítulo 186 – Zoom, Ploosh, Randandan",
+      "date": "2025-11-08T16:59:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861406
+    },
+    {
+      "id": "chainsaw-man-chapter-187",
+      "number": 187,
+      "title": "Chainsaw Man – Capítulo 187 – Vomita",
+      "date": "2025-11-08T16:59:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861405
+    },
+    {
+      "id": "chainsaw-man-chapter-188",
+      "number": 188,
+      "title": "Chainsaw Man – Capítulo 188 – Polvo, Guerra, Chainsaw Man",
+      "date": "2025-11-08T16:59:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861407
+    },
+    {
+      "id": "chainsaw-man-chapter-189",
+      "number": 189,
+      "title": "Chainsaw Man – Capítulo 189 – Heart Pass Octopus",
+      "date": "2025-11-08T16:59:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861409
+    },
+    {
+      "id": "chainsaw-man-chapter-190",
+      "number": 190,
+      "title": "Chainsaw Man – Capítulo 190 – Aos nossos respectivos Mundos.",
+      "date": "2025-11-08T16:59:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861411
+    },
+    {
+      "id": "chainsaw-man-chapter-191",
+      "number": 191,
+      "title": "Chainsaw Man – Capítulo 191 – Afinal, Sou um Demônio.",
+      "date": "2025-11-08T16:59:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861410
+    },
+    {
+      "id": "chainsaw-man-chapter-192",
+      "number": 192,
+      "title": "Chainsaw Man – Capítulo 192 – Como os demônios se divertem",
+      "date": "2025-11-08T16:59:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861412
+    },
+    {
+      "id": "chainsaw-man-chapter-193",
+      "number": 193,
+      "title": "Chainsaw Man – Capítulo 193 – Burning Kiss",
+      "date": "2025-11-08T16:59:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861413
+    },
+    {
+      "id": "chainsaw-man-chapter-194",
+      "number": 194,
+      "title": "Chainsaw Man – Capítulo 194 – O aguardado festival cultural",
+      "date": "2025-11-08T16:59:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861414
+    },
+    {
+      "id": "chainsaw-man-chapter-195",
+      "number": 195,
+      "title": "Chainsaw Man – Capítulo 195 – Kill me, lágrimas",
+      "date": "2025-11-08T17:00:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861574
+    },
+    {
+      "id": "chainsaw-man-chapter-196",
+      "number": 196,
+      "title": "Chainsaw Man – Capítulo 196 – O Chainsaw Man chegou",
+      "date": "2025-11-08T17:00:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861573
+    },
+    {
+      "id": "chainsaw-man-chapter-197",
+      "number": 197,
+      "title": "Chainsaw Man – Capítulo 197 – Três segundos.",
+      "date": "2025-11-08T17:00:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861576
+    },
+    {
+      "id": "chainsaw-man-chapter-198",
+      "number": 198,
+      "title": "Chainsaw Man – Capítulo 198 – Sou eu, Kiga!",
+      "date": "2025-11-08T17:00:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861575
+    },
+    {
+      "id": "chainsaw-man-chapter-199",
+      "number": 199,
+      "title": "Chainsaw Man – Capítulo 199",
+      "date": "2025-04-08T16:37:13Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 485429
+    },
+    {
+      "id": "chainsaw-man-chapter-200",
+      "number": 200,
+      "title": "Chainsaw Man – Capítulo 200 – Duas pessoas tóxicas",
+      "date": "2025-11-08T17:00:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861578
+    },
+    {
+      "id": "chainsaw-man-chapter-201",
+      "number": 201,
+      "title": "Chainsaw Man – Capítulo 201 – Isso é medo",
+      "date": "2025-11-08T17:00:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861580
+    },
+    {
+      "id": "chainsaw-man-chapter-202",
+      "number": 202,
+      "title": "Chainsaw Man – Capítulo 202 – Fusão demoníaca",
+      "date": "2025-11-08T17:00:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861577
+    },
+    {
+      "id": "chainsaw-man-chapter-203",
+      "number": 203,
+      "title": "Chainsaw Man – Capítulo 203 – Escudo Humano",
+      "date": "2026-02-17T23:04:52Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1108419
+    },
+    {
+      "id": "chainsaw-man-chapter-204",
+      "number": 204,
+      "title": "Capítulo 204",
+      "date": "2026-06-23T23:11:29.408Z",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-chapter-205",
+      "number": 205,
+      "title": "Capítulo 205",
+      "date": "2026-06-23T23:11:29.408Z",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-chapter-206",
+      "number": 206,
+      "title": "Capítulo 206",
+      "date": "2026-06-23T23:11:29.408Z",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-chapter-207",
+      "number": 207,
+      "title": "Capítulo 207",
+      "date": "2026-06-23T23:11:29.408Z",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-chapter-208",
+      "number": 208,
+      "title": "Capítulo 208",
+      "date": "2026-06-23T23:11:29.408Z",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-chapter-209",
+      "number": 209,
+      "title": "Capítulo 209",
+      "date": "2026-06-23T23:11:29.408Z",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-chapter-210",
+      "number": 210,
+      "title": "Capítulo 210",
+      "date": "2026-06-23T23:11:29.408Z",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-chapter-211",
+      "number": 211,
+      "title": "Capítulo 211",
+      "date": "2026-06-23T23:11:29.408Z",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-chapter-212",
+      "number": 212,
+      "title": "Capítulo 212",
+      "date": "2026-06-23T23:11:29.408Z",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-chapter-213",
+      "number": 213,
+      "title": "Capítulo 213",
+      "date": "2026-06-23T23:11:29.408Z",
+      "pages": []
+    },
+    {
+      "id": "chainsaw-man-chapter-214",
+      "number": 214,
+      "title": "Chainsaw Man – Capítulo 214 – bwosh, plim, porta",
+      "date": "2025-11-08T17:00:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861579
+    },
+    {
+      "id": "chainsaw-man-chapter-215",
+      "number": 215,
+      "title": "Chainsaw Man – Capítulo 215 – Declaração de guerra",
+      "date": "2025-11-08T17:00:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861709
+    },
+    {
+      "id": "chainsaw-man-chapter-216",
+      "number": 216,
+      "title": "Chainsaw Man – Capítulo 216 – Desejada",
+      "date": "2025-11-08T17:00:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861705
+    },
+    {
+      "id": "chainsaw-man-chapter-217",
+      "number": 217,
+      "title": "Chainsaw Man – Capítulo 217 – Duas boas pessoas",
+      "date": "2025-11-08T17:00:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861711
+    },
+    {
+      "id": "chainsaw-man-chapter-218",
+      "number": 218,
+      "title": "Chainsaw Man – Capítulo 218 – Me come!",
+      "date": "2025-11-08T17:00:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861712
+    },
+    {
+      "id": "chainsaw-man-chapter-219",
+      "number": 219,
+      "title": "Chainsaw Man – Capítulo 219 – Os que se foram",
+      "date": "2025-11-08T17:00:29Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 861708
+    },
+    {
+      "id": "chainsaw-man-chapter-220",
+      "number": 220,
+      "title": "Chainsaw Man – Capítulo 220",
+      "date": "2025-11-11T15:53:00Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 920408
+    },
+    {
+      "id": "chainsaw-man-chapter-221",
+      "number": 221,
+      "title": "Chainsaw Man – Capítulo 221 – Batalha segura",
+      "date": "2025-11-26T14:16:35Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 954590
+    },
+    {
+      "id": "chainsaw-man-chapter-222",
+      "number": 222,
+      "title": "Chainsaw Man – Capítulo 222 – Denji man",
+      "date": "2026-02-17T23:05:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1108435
+    },
+    {
+      "id": "chainsaw-man-chapter-223",
+      "number": 223,
+      "title": "Chainsaw Man – Capítulo 223",
+      "date": "2025-12-16T15:14:22Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1017905
+    },
+    {
+      "id": "chainsaw-man-chapter-224",
+      "number": 224,
+      "title": "Chainsaw Man – Capítulo 224",
+      "date": "2025-12-23T15:12:33Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1028415
+    },
+    {
+      "id": "chainsaw-man-chapter-225",
+      "number": 225,
+      "title": "Chainsaw Man – Capítulo 225",
+      "date": "2026-01-06T17:06:49Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1043828
+    },
+    {
+      "id": "chainsaw-man-chapter-226",
+      "number": 226,
+      "title": "Chainsaw Man – Capítulo 226",
+      "date": "2026-01-13T16:18:36Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1049194
+    },
+    {
+      "id": "chainsaw-man-chapter-227",
+      "number": 227,
+      "title": "Chainsaw Man – Capítulo 227",
+      "date": "2026-01-20T15:56:01Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1072136
+    },
+    {
+      "id": "chainsaw-man-chapter-228",
+      "number": 228,
+      "title": "Chainsaw Man – Capítulo 228 – Pombo.",
+      "date": "2026-02-03T16:03:42Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1090906
+    },
+    {
+      "id": "chainsaw-man-chapter-229",
+      "number": 229,
+      "title": "Chainsaw Man – Capítulo 229 – Noitibo e Asa",
+      "date": "2026-02-17T23:05:44Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1108452
+    },
+    {
+      "id": "chainsaw-man-chapter-230",
+      "number": 230,
+      "title": "Chainsaw Man – Capítulo 230 – sexo e eliminação natural.",
+      "date": "2026-02-24T19:12:38Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1121577
+    },
+    {
+      "id": "chainsaw-man-chapter-231",
+      "number": 231,
+      "title": "Chainsaw Man – Capítulo 231",
+      "date": "2026-03-10T17:17:21Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1137163
+    },
+    {
+      "id": "chainsaw-man-chapter-232",
+      "number": 232,
+      "title": "Chainsaw Man – Capítulo 232 – Obrigada, chainsaw man",
+      "date": "2026-03-24T16:52:53Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 1151775
+    }
+  ]
+}

@@ -1,0 +1,536 @@
+{
+  "en": [
+    {
+      "id": "shigurui-1",
+      "number": "1",
+      "title": "1",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-2",
+      "number": "2",
+      "title": "2",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-3",
+      "number": "3",
+      "title": "3",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-4",
+      "number": "4",
+      "title": "4",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-5",
+      "number": "5",
+      "title": "5",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-6",
+      "number": "6",
+      "title": "6",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-7",
+      "number": "7",
+      "title": "7",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-8",
+      "number": "8",
+      "title": "8",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-9",
+      "number": "9",
+      "title": "9",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-10",
+      "number": "10",
+      "title": "10",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-11",
+      "number": "11",
+      "title": "11",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-12",
+      "number": "12",
+      "title": "12",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-13",
+      "number": "13",
+      "title": "13",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-14",
+      "number": "14",
+      "title": "14",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-15",
+      "number": "15",
+      "title": "15",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-16",
+      "number": "16",
+      "title": "16",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-17",
+      "number": "17",
+      "title": "17",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-18",
+      "number": "18",
+      "title": "18",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-19",
+      "number": "19",
+      "title": "19",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-20",
+      "number": "20",
+      "title": "20",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-21",
+      "number": "21",
+      "title": "21",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-22",
+      "number": "22",
+      "title": "22",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-23",
+      "number": "23",
+      "title": "23",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-24",
+      "number": "24",
+      "title": "24",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-25",
+      "number": "25",
+      "title": "25",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-26",
+      "number": "26",
+      "title": "26",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-27",
+      "number": "27",
+      "title": "27",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-28",
+      "number": "28",
+      "title": "28",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-29",
+      "number": "29",
+      "title": "29",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-30",
+      "number": "30",
+      "title": "30",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-31",
+      "number": "31",
+      "title": "31",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-32",
+      "number": "32",
+      "title": "32",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-33",
+      "number": "33",
+      "title": "33",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-34",
+      "number": "34",
+      "title": "34",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-35",
+      "number": "35",
+      "title": "35",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-36",
+      "number": "36",
+      "title": "36",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-37",
+      "number": "37",
+      "title": "37",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-38",
+      "number": "38",
+      "title": "38",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-39",
+      "number": "39",
+      "title": "39",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-40",
+      "number": "40",
+      "title": "40",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-41",
+      "number": "41",
+      "title": "41",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-42",
+      "number": "42",
+      "title": "42",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-43",
+      "number": "43",
+      "title": "43",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-44",
+      "number": "44",
+      "title": "44",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-45",
+      "number": "45",
+      "title": "45",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-46",
+      "number": "46",
+      "title": "46",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-47",
+      "number": "47",
+      "title": "47",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-48",
+      "number": "48",
+      "title": "48",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-49",
+      "number": "49",
+      "title": "49",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-50",
+      "number": "50",
+      "title": "50",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-51",
+      "number": "51",
+      "title": "51",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-52",
+      "number": "52",
+      "title": "52",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-53",
+      "number": "53",
+      "title": "53",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-54",
+      "number": "54",
+      "title": "54",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-55",
+      "number": "55",
+      "title": "55",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-56",
+      "number": "56",
+      "title": "56",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-57",
+      "number": "57",
+      "title": "57",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-58",
+      "number": "58",
+      "title": "58",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-59",
+      "number": "59",
+      "title": "59",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-60",
+      "number": "60",
+      "title": "60",
+      "date": "2010/01/16",
+      "pages": []
+    },
+    {
+      "id": "shigurui-61",
+      "number": "61",
+      "title": "61",
+      "date": "2010/01/17",
+      "pages": []
+    },
+    {
+      "id": "shigurui-62",
+      "number": "62",
+      "title": "62",
+      "date": "2010/01/17",
+      "pages": []
+    },
+    {
+      "id": "shigurui-63",
+      "number": "63",
+      "title": "63",
+      "date": "2010/01/19",
+      "pages": []
+    },
+    {
+      "id": "shigurui-64",
+      "number": "64",
+      "title": "64",
+      "date": "2010/01/19",
+      "pages": []
+    },
+    {
+      "id": "shigurui-65",
+      "number": "65",
+      "title": "65",
+      "date": "2010/01/20",
+      "pages": []
+    },
+    {
+      "id": "shigurui-66",
+      "number": "66",
+      "title": "66",
+      "date": "2010/01/23",
+      "pages": []
+    },
+    {
+      "id": "shigurui-67",
+      "number": "67",
+      "title": "67",
+      "date": "2010/01/24",
+      "pages": []
+    },
+    {
+      "id": "shigurui-68",
+      "number": "68",
+      "title": "68",
+      "date": "2010/01/27",
+      "pages": []
+    },
+    {
+      "id": "shigurui-69",
+      "number": "69",
+      "title": "69",
+      "date": "2010/01/27",
+      "pages": []
+    },
+    {
+      "id": "shigurui-70",
+      "number": "70",
+      "title": "70",
+      "date": "2010/01/29",
+      "pages": []
+    },
+    {
+      "id": "shigurui-71",
+      "number": "71",
+      "title": "71",
+      "date": "2010/01/31",
+      "pages": []
+    },
+    {
+      "id": "shigurui-72",
+      "number": "72",
+      "title": "Makiwara",
+      "date": "2010/05/03",
+      "pages": []
+    },
+    {
+      "id": "shigurui-73",
+      "number": "73",
+      "title": "Avatar",
+      "date": "2010/05/04",
+      "pages": []
+    },
+    {
+      "id": "shigurui-74",
+      "number": "74",
+      "title": "Ichinoji",
+      "date": "2010/05/05",
+      "pages": []
+    },
+    {
+      "id": "shigurui-75",
+      "number": "75",
+      "title": "Love",
+      "date": "2010/05/08",
+      "pages": []
+    },
+    {
+      "id": "shigurui-76",
+      "number": "76",
+      "title": "One Eyed Dragon",
+      "date": "2010/05/21",
+      "pages": []
+    }
+  ]
+}

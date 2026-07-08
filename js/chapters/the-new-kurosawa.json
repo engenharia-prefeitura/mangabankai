@@ -1,0 +1,746 @@
+{
+  "en": [
+    {
+      "id": "the-new-kurosawa-1",
+      "number": "1",
+      "title": "Legend",
+      "date": "2015/02/25",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-2",
+      "number": "2",
+      "title": "Revival",
+      "date": "2015/02/25",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-3",
+      "number": "3",
+      "title": "Waking Up",
+      "date": "2015/02/25",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-4",
+      "number": "4",
+      "title": "Getting Up",
+      "date": "2015/02/25",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-5",
+      "number": "5",
+      "title": "Old Friends",
+      "date": "2015/02/25",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-6",
+      "number": "6",
+      "title": "Visiting",
+      "date": "2015/02/25",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-7",
+      "number": "7",
+      "title": "Clara",
+      "date": "2015/02/25",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-8",
+      "number": "8",
+      "title": "Competition",
+      "date": "2015/02/25",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-9",
+      "number": "9",
+      "title": "Mamoru",
+      "date": "2015/02/25",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-10",
+      "number": "10",
+      "title": "Notice",
+      "date": "2015/02/25",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-11",
+      "number": "11",
+      "title": "Strength",
+      "date": "2015/02/25",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-12",
+      "number": "12",
+      "title": "Sensei",
+      "date": "2015/02/25",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-13",
+      "number": "13",
+      "title": "Japan",
+      "date": "2015/02/25",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-14",
+      "number": "14",
+      "title": "Stocking Up",
+      "date": "2015/02/25",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-15",
+      "number": "15",
+      "title": "Goddesses",
+      "date": "2015/02/25",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-16",
+      "number": "16",
+      "title": "Confiscation",
+      "date": "2015/03/04",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-17",
+      "number": "17",
+      "title": "Fists",
+      "date": "2015/03/11",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-18",
+      "number": "18",
+      "title": "Treasures",
+      "date": "2015/03/18",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-19",
+      "number": "19",
+      "title": "Oranges",
+      "date": "2015/03/25",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-20",
+      "number": "20",
+      "title": "Prey",
+      "date": "2015/04/01",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-21",
+      "number": "21",
+      "title": "Line",
+      "date": "2015/04/09",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-22",
+      "number": "22",
+      "title": "",
+      "date": "2015/04/15",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-23",
+      "number": "23",
+      "title": "Cake",
+      "date": "2015/04/22",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-24",
+      "number": "24",
+      "title": "Water",
+      "date": "2015/04/29",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-25",
+      "number": "25",
+      "title": "",
+      "date": "2015/05/06",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-26",
+      "number": "26",
+      "title": "",
+      "date": "2015/05/13",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-27",
+      "number": "27",
+      "title": "",
+      "date": "2015/05/20",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-28",
+      "number": "28",
+      "title": "",
+      "date": "2015/05/27",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-29",
+      "number": "29",
+      "title": "",
+      "date": "2015/06/03",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-30",
+      "number": "30",
+      "title": "",
+      "date": "2015/06/10",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-31",
+      "number": "31",
+      "title": "",
+      "date": "2015/06/17",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-32",
+      "number": "32",
+      "title": "",
+      "date": "2015/06/24",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-33",
+      "number": "33",
+      "title": "",
+      "date": "2015/07/01",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-34",
+      "number": "34",
+      "title": "",
+      "date": "2015/07/22",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-35",
+      "number": "35",
+      "title": "",
+      "date": "2015/07/22",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-36",
+      "number": "36",
+      "title": "",
+      "date": "2015/07/22",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-37",
+      "number": "37",
+      "title": "",
+      "date": "2015/07/29",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-38",
+      "number": "38",
+      "title": "",
+      "date": "2015/08/05",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-39",
+      "number": "39",
+      "title": "",
+      "date": "2015/08/12",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-40",
+      "number": "40",
+      "title": "",
+      "date": "2015/08/19",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-41",
+      "number": "41",
+      "title": "",
+      "date": "2015/12/11",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-42",
+      "number": "42",
+      "title": "",
+      "date": "2015/12/19",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-43",
+      "number": "43",
+      "title": "",
+      "date": "2016/01/09",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-44",
+      "number": "44",
+      "title": "",
+      "date": "2016/01/15",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-45",
+      "number": "45",
+      "title": "",
+      "date": "2016/01/23",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-46",
+      "number": "46",
+      "title": "",
+      "date": "2016/01/30",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-47",
+      "number": "47",
+      "title": "",
+      "date": "2016/02/05",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-48",
+      "number": "48",
+      "title": "",
+      "date": "2016/02/13",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-49",
+      "number": "49",
+      "title": "",
+      "date": "2016/04/08",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-50",
+      "number": "50",
+      "title": "",
+      "date": "2016/04/15",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-51",
+      "number": "51",
+      "title": "",
+      "date": "2016/07/21",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-52",
+      "number": "52",
+      "title": "",
+      "date": "2016/07/25",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-53",
+      "number": "53",
+      "title": "",
+      "date": "2016/08/01",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-54",
+      "number": "54",
+      "title": "",
+      "date": "2016/08/20",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-55",
+      "number": "55",
+      "title": "",
+      "date": "2016/09/20",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-56",
+      "number": "56",
+      "title": "",
+      "date": "2016/10/06",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-57",
+      "number": "57",
+      "title": "",
+      "date": "2017/05/22",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-58",
+      "number": "58",
+      "title": "Ambassador",
+      "date": "2020/06/14",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-59",
+      "number": "59",
+      "title": "Wabi-Sabi",
+      "date": "2020/06/14",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-60",
+      "number": "60",
+      "title": "Frame",
+      "date": "2020/06/14",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-61",
+      "number": "61",
+      "title": "Homecoming",
+      "date": "2020/06/14",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-62",
+      "number": "62",
+      "title": "From the Pot",
+      "date": "2020/11/11",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-63",
+      "number": "63",
+      "title": "",
+      "date": "2022/05/22",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-64",
+      "number": "64",
+      "title": "",
+      "date": "2022/05/22",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-65",
+      "number": "65",
+      "title": "",
+      "date": "2022/05/22",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-66",
+      "number": "66",
+      "title": "",
+      "date": "2022/06/09",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-67",
+      "number": "67",
+      "title": "Leader",
+      "date": "2022/06/23",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-68",
+      "number": "68",
+      "title": "",
+      "date": "2022/07/06",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-69",
+      "number": "69",
+      "title": "Sword Skills",
+      "date": "2022/07/28",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-70",
+      "number": "70",
+      "title": "",
+      "date": "2022/08/11",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-71",
+      "number": "71",
+      "title": "",
+      "date": "2022/12/09",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-72",
+      "number": "72",
+      "title": "",
+      "date": "2022/12/09",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-73",
+      "number": "73",
+      "title": "",
+      "date": "2022/12/09",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-74",
+      "number": "74",
+      "title": "",
+      "date": "2022/12/27",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-75",
+      "number": "75",
+      "title": "",
+      "date": "2023/01/24",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-76",
+      "number": "76",
+      "title": "",
+      "date": "2023/01/31",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-77",
+      "number": "77",
+      "title": "",
+      "date": "2023/02/10",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-78",
+      "number": "78",
+      "title": "",
+      "date": "2023/02/17",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-79",
+      "number": "79",
+      "title": "",
+      "date": "2023/03/20",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-80",
+      "number": "80",
+      "title": "",
+      "date": "2023/04/30",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-81",
+      "number": "81",
+      "title": "",
+      "date": "2023/05/20",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-82",
+      "number": "82",
+      "title": "",
+      "date": "2023/06/20",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-83",
+      "number": "83",
+      "title": "",
+      "date": "2023/08/26",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-84",
+      "number": "84",
+      "title": "",
+      "date": "2023/08/28",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-85",
+      "number": "85",
+      "title": "",
+      "date": "2023/09/05",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-86",
+      "number": "86",
+      "title": "Gramma",
+      "date": "2023/12/11",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-87",
+      "number": "87",
+      "title": "Ignition",
+      "date": "2023/12/11",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-88",
+      "number": "88",
+      "title": "Legend",
+      "date": "2023/12/11",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-89",
+      "number": "89",
+      "title": "",
+      "date": "2024/01/19",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-90",
+      "number": "90",
+      "title": "",
+      "date": "2024/01/19",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-91",
+      "number": "91",
+      "title": "",
+      "date": "2024/03/31",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-92",
+      "number": "92",
+      "title": "",
+      "date": "2024/09/16",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-93",
+      "number": "93",
+      "title": "",
+      "date": "2024/09/16",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-94",
+      "number": "94",
+      "title": "",
+      "date": "2024/12/01",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-95",
+      "number": "95",
+      "title": "",
+      "date": "2024/12/01",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-96",
+      "number": "96",
+      "title": "",
+      "date": "2024/12/29",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-97",
+      "number": "97",
+      "title": "",
+      "date": "2024/12/29",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-98",
+      "number": "98",
+      "title": "",
+      "date": "2025/01/22",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-99",
+      "number": "99",
+      "title": "",
+      "date": "2025/02/05",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-100",
+      "number": "100",
+      "title": "",
+      "date": "2025/02/17",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-101",
+      "number": "101",
+      "title": "",
+      "date": "2025/02/17",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-102",
+      "number": "102",
+      "title": "",
+      "date": "2025/02/24",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-103",
+      "number": "103",
+      "title": "",
+      "date": "2025/03/21",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-104",
+      "number": "104",
+      "title": "",
+      "date": "2025/03/21",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-105",
+      "number": "105",
+      "title": "",
+      "date": "2025/04/21",
+      "pages": []
+    },
+    {
+      "id": "the-new-kurosawa-106",
+      "number": "106",
+      "title": "",
+      "date": "2025/09/07",
+      "pages": []
+    }
+  ]
+}

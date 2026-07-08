@@ -1,0 +1,438 @@
+{
+  "en": [
+    {
+      "id": "hidamari-no-ki-1",
+      "number": "1",
+      "title": "The Hill Of The Three Hundred",
+      "date": "2013/06/24",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-2",
+      "number": "2",
+      "title": "Miss O-Seki",
+      "date": "2013/06/24",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-3",
+      "number": "3",
+      "title": "Onitetsu",
+      "date": "2013/07/05",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-4",
+      "number": "4",
+      "title": "Sonezaki- Shinchi",
+      "date": "2013/07/19",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-5",
+      "number": "5",
+      "title": "The Autopsy",
+      "date": "2013/09/21",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-6",
+      "number": "6",
+      "title": "The People of Teki Academy",
+      "date": "2013/09/21",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-7",
+      "number": "7",
+      "title": "Hoshitsuru and Mametsuru",
+      "date": "2013/09/21",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-8",
+      "number": "8",
+      "title": "A Customer in the Night",
+      "date": "2013/09/21",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-9",
+      "number": "9",
+      "title": "Before the Storm",
+      "date": "2013/10/09",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-10",
+      "number": "10",
+      "title": "The Earth Resounds",
+      "date": "2013/10/09",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-11",
+      "number": "11",
+      "title": "Abe The Elder",
+      "date": "2014/02/11",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-12",
+      "number": "12",
+      "title": "The Decision",
+      "date": "2014/02/11",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-13",
+      "number": "13",
+      "title": "Vaccination Center",
+      "date": "2014/02/11",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-14",
+      "number": "14",
+      "title": "Manly Intentions",
+      "date": "2014/02/16",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-15",
+      "number": "15",
+      "title": "The Summer In Shimoda",
+      "date": "2014/02/24",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-16",
+      "number": "16",
+      "title": "Duel In The Fiels",
+      "date": "2014/02/27",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-17",
+      "number": "17",
+      "title": "Okichi The Lovely",
+      "date": "2014/04/02",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-18",
+      "number": "18",
+      "title": "Okichi The Lovely (Part 002)",
+      "date": "2014/04/02",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-19",
+      "number": "19",
+      "title": "Trip To Nirayama",
+      "date": "2014/04/02",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-20",
+      "number": "20",
+      "title": "Duel In Chidorigafuchi",
+      "date": "2014/06/01",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-21",
+      "number": "21",
+      "title": "Manjiro Flounders",
+      "date": "2014/06/01",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-22",
+      "number": "22",
+      "title": "The Beloved Person",
+      "date": "2014/07/09",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-23",
+      "number": "23",
+      "title": "Okon of The Seven Disguises",
+      "date": "2014/07/09",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-24",
+      "number": "24",
+      "title": "Betrothal",
+      "date": "2014/07/22",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-25",
+      "number": "25",
+      "title": "A Complicated Matter",
+      "date": "2014/08/12",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-26",
+      "number": "26",
+      "title": "The Delegation Reaches Edo",
+      "date": "2014/08/12",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-27",
+      "number": "27",
+      "title": "Ambush in the Honjin",
+      "date": "2014/10/12",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-28",
+      "number": "28",
+      "title": "The Shogun's Longest Day",
+      "date": "2015/02/13",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-29",
+      "number": "29",
+      "title": "The Traitor",
+      "date": "2015/03/01",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-30",
+      "number": "30",
+      "title": "Saigo Makes an Appearance",
+      "date": "2015/04/04",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-31",
+      "number": "31",
+      "title": "Implicated",
+      "date": "2015/08/25",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-32",
+      "number": "32",
+      "title": "Manjiro Drowns His Sorrows in Sake",
+      "date": "2015/08/25",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-33",
+      "number": "33",
+      "title": "The Origin of the University of Tokyo",
+      "date": "2015/08/25",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-34",
+      "number": "34",
+      "title": "Cholera Breaks Out",
+      "date": "2015/08/25",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-35",
+      "number": "35",
+      "title": "The Eve",
+      "date": "2015/08/25",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-36",
+      "number": "36",
+      "title": "Arrested",
+      "date": "2015/08/25",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-38",
+      "number": "38",
+      "title": "The Journey to Mito",
+      "date": "2016/01/18",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-39",
+      "number": "39",
+      "title": "",
+      "date": "2016/10/23",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-40",
+      "number": "40",
+      "title": "The Storm Bellows",
+      "date": "2016/10/23",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-41",
+      "number": "41",
+      "title": "",
+      "date": "2016/11/06",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-42",
+      "number": "42",
+      "title": "",
+      "date": "2016/11/06",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-44",
+      "number": "44",
+      "title": "",
+      "date": "2016/12/06",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-45",
+      "number": "45",
+      "title": "",
+      "date": "2016/12/19",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-46",
+      "number": "46",
+      "title": "",
+      "date": "2016/12/29",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-47",
+      "number": "47",
+      "title": "",
+      "date": "2017/01/13",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-48",
+      "number": "48",
+      "title": "",
+      "date": "2017/01/31",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-49",
+      "number": "49",
+      "title": "",
+      "date": "2017/01/31",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-50",
+      "number": "50",
+      "title": "",
+      "date": "2017/03/01",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-51",
+      "number": "51",
+      "title": "",
+      "date": "2017/03/01",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-52",
+      "number": "52",
+      "title": "",
+      "date": "2017/03/15",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-53",
+      "number": "53",
+      "title": "",
+      "date": "2017/04/08",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-54",
+      "number": "54",
+      "title": "",
+      "date": "2017/04/08",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-55",
+      "number": "55",
+      "title": "Attack at Dawn",
+      "date": "2017/07/02",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-56",
+      "number": "56",
+      "title": "The House of Love and Hate",
+      "date": "2017/07/02",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-57",
+      "number": "57",
+      "title": "March to Choshu",
+      "date": "2017/07/02",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-58",
+      "number": "58",
+      "title": "Devil",
+      "date": "2017/07/02",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-59",
+      "number": "59",
+      "title": "",
+      "date": "2017/08/22",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-60",
+      "number": "60",
+      "title": "",
+      "date": "2017/08/22",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-61",
+      "number": "61",
+      "title": "",
+      "date": "2017/08/22",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-62",
+      "number": "62",
+      "title": "Manjiro's Wedding",
+      "date": "2017/09/02",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-63",
+      "number": "63",
+      "title": "The Rinno Temple in Ueno",
+      "date": "2017/09/15",
+      "pages": []
+    },
+    {
+      "id": "hidamari-no-ki-64",
+      "number": "64",
+      "title": "The Final Chapter",
+      "date": "2017/09/19",
+      "pages": []
+    }
+  ]
+}

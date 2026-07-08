@@ -1,0 +1,2587 @@
+{
+  "en": [
+    {
+      "id": "magi-1",
+      "number": "1",
+      "title": "His Name Is Aladdin",
+      "date": "2011/04/15",
+      "pages": []
+    },
+    {
+      "id": "magi-2",
+      "number": "2",
+      "title": "His Name Is Alibaba",
+      "date": "2011/04/15",
+      "pages": []
+    },
+    {
+      "id": "magi-3",
+      "number": "3",
+      "title": "Aladdin and Alibaba",
+      "date": "2011/04/15",
+      "pages": []
+    },
+    {
+      "id": "magi-4",
+      "number": "4",
+      "title": "Dungeon Diving",
+      "date": "2011/04/15",
+      "pages": []
+    },
+    {
+      "id": "magi-5",
+      "number": "5",
+      "title": "Adventure",
+      "date": "2011/04/15",
+      "pages": []
+    },
+    {
+      "id": "magi-6",
+      "number": "6",
+      "title": "The Dungeon's Center",
+      "date": "2011/04/15",
+      "pages": []
+    },
+    {
+      "id": "magi-7",
+      "number": "7",
+      "title": "Dungeon's Menace",
+      "date": "2011/04/15",
+      "pages": []
+    },
+    {
+      "id": "magi-8",
+      "number": "8",
+      "title": "Aladdin's True Identity",
+      "date": "2011/04/15",
+      "pages": []
+    },
+    {
+      "id": "magi-9",
+      "number": "9",
+      "title": "Tyrant",
+      "date": "2011/04/15",
+      "pages": []
+    },
+    {
+      "id": "magi-10",
+      "number": "10",
+      "title": "Sabotage",
+      "date": "2011/04/15",
+      "pages": []
+    },
+    {
+      "id": "magi-11",
+      "number": "11",
+      "title": "Necropolis",
+      "date": "2011/04/15",
+      "pages": []
+    },
+    {
+      "id": "magi-12",
+      "number": "12",
+      "title": "Place that Strains Life",
+      "date": "2011/04/15",
+      "pages": []
+    },
+    {
+      "id": "magi-13",
+      "number": "13",
+      "title": "Magician of World Creation",
+      "date": "2011/04/15",
+      "pages": []
+    },
+    {
+      "id": "magi-14",
+      "number": "14",
+      "title": "Lord of the Dungeon",
+      "date": "2011/04/15",
+      "pages": []
+    },
+    {
+      "id": "magi-15",
+      "number": "15",
+      "title": "Clear",
+      "date": "2011/04/15",
+      "pages": []
+    },
+    {
+      "id": "magi-16",
+      "number": "16",
+      "title": "The Promise",
+      "date": "2011/04/15",
+      "pages": []
+    },
+    {
+      "id": "magi-17",
+      "number": "17",
+      "title": "Day of the Journey",
+      "date": "2011/05/05",
+      "pages": []
+    },
+    {
+      "id": "magi-18",
+      "number": "18",
+      "title": "Rukh",
+      "date": "2011/07/09",
+      "pages": []
+    },
+    {
+      "id": "magi-19",
+      "number": "19",
+      "title": "The Great Kouga Empire Part 1",
+      "date": "2011/07/11",
+      "pages": []
+    },
+    {
+      "id": "magi-20",
+      "number": "20",
+      "title": "Slave Hunting",
+      "date": "2011/07/18",
+      "pages": []
+    },
+    {
+      "id": "magi-21",
+      "number": "21",
+      "title": "Legend",
+      "date": "2011/07/26",
+      "pages": []
+    },
+    {
+      "id": "magi-22",
+      "number": "22",
+      "title": "War",
+      "date": "2011/07/29",
+      "pages": []
+    },
+    {
+      "id": "magi-23",
+      "number": "23",
+      "title": "The Home of Souls",
+      "date": "2011/08/21",
+      "pages": []
+    },
+    {
+      "id": "magi-24",
+      "number": "24",
+      "title": "Dungeon Capturer",
+      "date": "2011/08/26",
+      "pages": []
+    },
+    {
+      "id": "magi-25",
+      "number": "25",
+      "title": "Pai-mon",
+      "date": "2011/09/07",
+      "pages": []
+    },
+    {
+      "id": "magi-26",
+      "number": "26",
+      "title": "Guide",
+      "date": "2011/09/14",
+      "pages": []
+    },
+    {
+      "id": "magi-27",
+      "number": "27",
+      "title": "The Scar That Can't Disappear",
+      "date": "2011/09/25",
+      "pages": []
+    },
+    {
+      "id": "magi-28",
+      "number": "28",
+      "title": "The \"Finalist\" Warrior Clan",
+      "date": "2011/10/04",
+      "pages": []
+    },
+    {
+      "id": "magi-29",
+      "number": "29",
+      "title": "Slave",
+      "date": "2011/10/05",
+      "pages": []
+    },
+    {
+      "id": "magi-30",
+      "number": "30",
+      "title": "Miracle",
+      "date": "2011/10/21",
+      "pages": []
+    },
+    {
+      "id": "magi-31",
+      "number": "31",
+      "title": "Banquet",
+      "date": "2011/10/23",
+      "pages": []
+    },
+    {
+      "id": "magi-32",
+      "number": "32",
+      "title": "Road to Balbadd",
+      "date": "2011/11/01",
+      "pages": []
+    },
+    {
+      "id": "magi-33",
+      "number": "33",
+      "title": "His Name is Sinbad",
+      "date": "2011/11/21",
+      "pages": []
+    },
+    {
+      "id": "magi-34",
+      "number": "34",
+      "title": "Answer",
+      "date": "2011/11/21",
+      "pages": []
+    },
+    {
+      "id": "magi-35",
+      "number": "35",
+      "title": "The Fog Dissipates",
+      "date": "2011/11/21",
+      "pages": []
+    },
+    {
+      "id": "magi-36",
+      "number": "36",
+      "title": "The Fog Troupe",
+      "date": "2011/12/01",
+      "pages": []
+    },
+    {
+      "id": "magi-37",
+      "number": "37",
+      "title": "Moon Watching",
+      "date": "2011/12/01",
+      "pages": []
+    },
+    {
+      "id": "magi-38",
+      "number": "38",
+      "title": "Junkyard Street",
+      "date": "2011/12/11",
+      "pages": []
+    },
+    {
+      "id": "magi-39",
+      "number": "39",
+      "title": "Incident",
+      "date": "2011/12/15",
+      "pages": []
+    },
+    {
+      "id": "magi-40",
+      "number": "40",
+      "title": "Rest Assured",
+      "date": "2011/12/16",
+      "pages": []
+    },
+    {
+      "id": "magi-41",
+      "number": "41",
+      "title": "Attack",
+      "date": "2011/12/22",
+      "pages": []
+    },
+    {
+      "id": "magi-42",
+      "number": "42",
+      "title": "Alibaba and Sinbad",
+      "date": "2011/12/23",
+      "pages": []
+    },
+    {
+      "id": "magi-43",
+      "number": "43",
+      "title": "Alibaba and Ahbmad",
+      "date": "2011/12/24",
+      "pages": []
+    },
+    {
+      "id": "magi-44",
+      "number": "44",
+      "title": "Black Sun",
+      "date": "2011/12/24",
+      "pages": []
+    },
+    {
+      "id": "magi-45",
+      "number": "45",
+      "title": "His Name is Judal",
+      "date": "2011/12/31",
+      "pages": []
+    },
+    {
+      "id": "magi-46",
+      "number": "46",
+      "title": "Two \"Magi\"",
+      "date": "2011/12/31",
+      "pages": []
+    },
+    {
+      "id": "magi-47",
+      "number": "47",
+      "title": "Magic",
+      "date": "2011/12/31",
+      "pages": []
+    },
+    {
+      "id": "magi-48",
+      "number": "48",
+      "title": "Ugo",
+      "date": "2011/12/31",
+      "pages": []
+    },
+    {
+      "id": "magi-49",
+      "number": "49",
+      "title": "A New Visitor",
+      "date": "2012/01/09",
+      "pages": []
+    },
+    {
+      "id": "magi-50",
+      "number": "50",
+      "title": "Melee",
+      "date": "2012/01/09",
+      "pages": []
+    },
+    {
+      "id": "magi-51",
+      "number": "51",
+      "title": "After the Battle",
+      "date": "2012/01/12",
+      "pages": []
+    },
+    {
+      "id": "magi-52",
+      "number": "52",
+      "title": "Alibaba and Sahbmad",
+      "date": "2012/01/13",
+      "pages": []
+    },
+    {
+      "id": "magi-53",
+      "number": "53",
+      "title": "Savior",
+      "date": "2012/01/14",
+      "pages": []
+    },
+    {
+      "id": "magi-54",
+      "number": "54",
+      "title": "Duty",
+      "date": "2012/01/15",
+      "pages": []
+    },
+    {
+      "id": "magi-55",
+      "number": "55",
+      "title": "Determination",
+      "date": "2012/01/18",
+      "pages": []
+    },
+    {
+      "id": "magi-56",
+      "number": "56",
+      "title": "The Djinn's Metal Vessel",
+      "date": "2012/01/19",
+      "pages": []
+    },
+    {
+      "id": "magi-57",
+      "number": "57",
+      "title": "Dowry",
+      "date": "2012/01/22",
+      "pages": []
+    },
+    {
+      "id": "magi-58",
+      "number": "58",
+      "title": "Djinn Equip!",
+      "date": "2012/01/24",
+      "pages": []
+    },
+    {
+      "id": "magi-59",
+      "number": "59",
+      "title": "Assault",
+      "date": "2012/01/26",
+      "pages": []
+    },
+    {
+      "id": "magi-60",
+      "number": "60",
+      "title": "Repeated Showdown",
+      "date": "2012/01/28",
+      "pages": []
+    },
+    {
+      "id": "magi-61",
+      "number": "61",
+      "title": "Rebellion",
+      "date": "2012/01/30",
+      "pages": []
+    },
+    {
+      "id": "magi-62",
+      "number": "62",
+      "title": "Alibaba's Answer",
+      "date": "2012/02/01",
+      "pages": []
+    },
+    {
+      "id": "magi-63",
+      "number": "63",
+      "title": "Alibaba's Sophism",
+      "date": "2012/02/03",
+      "pages": []
+    },
+    {
+      "id": "magi-64",
+      "number": "64",
+      "title": "The Republic of Balbadd",
+      "date": "2012/02/05",
+      "pages": []
+    },
+    {
+      "id": "magi-65",
+      "number": "65",
+      "title": "Cassim's Reply",
+      "date": "2012/02/08",
+      "pages": []
+    },
+    {
+      "id": "magi-66",
+      "number": "66",
+      "title": "Holy Palace's Aladdin",
+      "date": "2012/02/12",
+      "pages": []
+    },
+    {
+      "id": "magi-67",
+      "number": "67",
+      "title": "Night Clash",
+      "date": "2012/02/14",
+      "pages": []
+    },
+    {
+      "id": "magi-68",
+      "number": "68",
+      "title": "The Black Rukh's Djinn",
+      "date": "2012/02/16",
+      "pages": []
+    },
+    {
+      "id": "magi-69",
+      "number": "69",
+      "title": "The Will of Revolution",
+      "date": "2012/02/18",
+      "pages": []
+    },
+    {
+      "id": "magi-70",
+      "number": "70",
+      "title": "Bird",
+      "date": "2012/02/19",
+      "pages": []
+    },
+    {
+      "id": "magi-71",
+      "number": "71",
+      "title": "Alibaba",
+      "date": "2012/02/21",
+      "pages": []
+    },
+    {
+      "id": "magi-72",
+      "number": "72",
+      "title": "Wisdom of Solomon",
+      "date": "2012/02/23",
+      "pages": []
+    },
+    {
+      "id": "magi-73",
+      "number": "73",
+      "title": "Rukh's Will",
+      "date": "2012/02/25",
+      "pages": []
+    },
+    {
+      "id": "magi-74",
+      "number": "74",
+      "title": "Something Sublime",
+      "date": "2012/02/27",
+      "pages": []
+    },
+    {
+      "id": "magi-75",
+      "number": "75",
+      "title": "Cassim",
+      "date": "2012/03/02",
+      "pages": []
+    },
+    {
+      "id": "magi-76",
+      "number": "76",
+      "title": "Smile",
+      "date": "2012/03/03",
+      "pages": []
+    },
+    {
+      "id": "magi-77",
+      "number": "77",
+      "title": "Sindria Kingdom",
+      "date": "2012/03/05",
+      "pages": []
+    },
+    {
+      "id": "magi-78",
+      "number": "78",
+      "title": "Magicians",
+      "date": "2012/03/08",
+      "pages": []
+    },
+    {
+      "id": "magi-79",
+      "number": "79",
+      "title": "Alibaba's Sword",
+      "date": "2012/03/10",
+      "pages": []
+    },
+    {
+      "id": "magi-80",
+      "number": "80",
+      "title": "Eight Generals",
+      "date": "2012/03/12",
+      "pages": []
+    },
+    {
+      "id": "magi-81",
+      "number": "81",
+      "title": "Mahrajan's Night",
+      "date": "2012/03/14",
+      "pages": []
+    },
+    {
+      "id": "magi-82",
+      "number": "82",
+      "title": "A Big Country",
+      "date": "2012/03/16",
+      "pages": []
+    },
+    {
+      "id": "magi-83",
+      "number": "83",
+      "title": "Everyone's Daily Life",
+      "date": "2012/03/19",
+      "pages": []
+    },
+    {
+      "id": "magi-84",
+      "number": "84",
+      "title": "Kougyoku and Sinbad",
+      "date": "2012/03/21",
+      "pages": []
+    },
+    {
+      "id": "magi-85",
+      "number": "85",
+      "title": "The Culprit is?",
+      "date": "2012/03/26",
+      "pages": []
+    },
+    {
+      "id": "magi-86",
+      "number": "86",
+      "title": "His Name is Ren Hakuryuu",
+      "date": "2012/03/28",
+      "pages": []
+    },
+    {
+      "id": "magi-87",
+      "number": "87",
+      "title": "The Royal Prince and the Imperial Prince",
+      "date": "2012/03/31",
+      "pages": []
+    },
+    {
+      "id": "magi-88",
+      "number": "88",
+      "title": "The Voyage Towards Zagan",
+      "date": "2012/04/02",
+      "pages": []
+    },
+    {
+      "id": "magi-89",
+      "number": "89",
+      "title": "The Best Thing I Can Do Now",
+      "date": "2012/04/04",
+      "pages": []
+    },
+    {
+      "id": "magi-90",
+      "number": "90",
+      "title": "Another Dungeon",
+      "date": "2012/04/08",
+      "pages": []
+    },
+    {
+      "id": "magi-91",
+      "number": "91",
+      "title": "In Zagan",
+      "date": "2012/04/08",
+      "pages": []
+    },
+    {
+      "id": "magi-92",
+      "number": "92",
+      "title": "Zagan's Appearance",
+      "date": "2012/04/08",
+      "pages": []
+    },
+    {
+      "id": "magi-93",
+      "number": "93",
+      "title": "Halharl Rasars",
+      "date": "2012/04/10",
+      "pages": []
+    },
+    {
+      "id": "magi-94",
+      "number": "94",
+      "title": "Your Power",
+      "date": "2012/04/11",
+      "pages": []
+    },
+    {
+      "id": "magi-95",
+      "number": "95",
+      "title": "Weakling",
+      "date": "2012/04/19",
+      "pages": []
+    },
+    {
+      "id": "magi-96",
+      "number": "96",
+      "title": "Zagan's Magic",
+      "date": "2012/04/22",
+      "pages": []
+    },
+    {
+      "id": "magi-97",
+      "number": "97",
+      "title": "Activation",
+      "date": "2012/04/26",
+      "pages": []
+    },
+    {
+      "id": "magi-98",
+      "number": "98",
+      "title": "Assassin",
+      "date": "2012/04/29",
+      "pages": []
+    },
+    {
+      "id": "magi-99",
+      "number": "99",
+      "title": "The Dark Metal Vessel Again",
+      "date": "2012/05/02",
+      "pages": []
+    },
+    {
+      "id": "magi-100",
+      "number": "100",
+      "title": "Trump Card",
+      "date": "2012/05/05",
+      "pages": []
+    },
+    {
+      "id": "magi-101",
+      "number": "101",
+      "title": "Dark Djinn Equip",
+      "date": "2012/05/11",
+      "pages": []
+    },
+    {
+      "id": "magi-102",
+      "number": "102",
+      "title": "Extreme Magic",
+      "date": "2012/05/12",
+      "pages": []
+    },
+    {
+      "id": "magi-103",
+      "number": "103",
+      "title": "Turn of Fate",
+      "date": "2012/05/21",
+      "pages": []
+    },
+    {
+      "id": "magi-104",
+      "number": "104",
+      "title": "The True Nature of Strength",
+      "date": "2012/05/25",
+      "pages": []
+    },
+    {
+      "id": "magi-105",
+      "number": "105",
+      "title": "Dungeon Conqueror",
+      "date": "2012/05/29",
+      "pages": []
+    },
+    {
+      "id": "magi-106",
+      "number": "106",
+      "title": "I Can Still Fight!!",
+      "date": "2012/06/06",
+      "pages": []
+    },
+    {
+      "id": "magi-107",
+      "number": "107",
+      "title": "Fury",
+      "date": "2012/06/08",
+      "pages": []
+    },
+    {
+      "id": "magi-108",
+      "number": "108",
+      "title": "Swordsmen",
+      "date": "2012/06/19",
+      "pages": []
+    },
+    {
+      "id": "magi-109",
+      "number": "109",
+      "title": "Genius",
+      "date": "2012/06/24",
+      "pages": []
+    },
+    {
+      "id": "magi-110",
+      "number": "110",
+      "title": "The Fourth Magi",
+      "date": "2012/07/03",
+      "pages": []
+    },
+    {
+      "id": "magi-111",
+      "number": "111",
+      "title": "Dungeon Conqueror's Banquet",
+      "date": "2012/07/09",
+      "pages": []
+    },
+    {
+      "id": "magi-112",
+      "number": "112",
+      "title": "Path",
+      "date": "2012/07/13",
+      "pages": []
+    },
+    {
+      "id": "magi-113",
+      "number": "113",
+      "title": "Curse",
+      "date": "2012/07/17",
+      "pages": []
+    },
+    {
+      "id": "magi-114",
+      "number": "114",
+      "title": "High King",
+      "date": "2012/07/21",
+      "pages": []
+    },
+    {
+      "id": "magi-115",
+      "number": "115",
+      "title": "Inside Alibaba",
+      "date": "2012/07/29",
+      "pages": []
+    },
+    {
+      "id": "magi-116",
+      "number": "116",
+      "title": "Turning Point",
+      "date": "2012/08/04",
+      "pages": []
+    },
+    {
+      "id": "magi-117",
+      "number": "117",
+      "title": "The Premonition of a New Journey",
+      "date": "2012/08/06",
+      "pages": []
+    },
+    {
+      "id": "magi-118",
+      "number": "118",
+      "title": "The Reason For Determination",
+      "date": "2012/08/09",
+      "pages": []
+    },
+    {
+      "id": "magi-119",
+      "number": "119",
+      "title": "Pairing",
+      "date": "2012/08/18",
+      "pages": []
+    },
+    {
+      "id": "magi-120",
+      "number": "120",
+      "title": "Zapar",
+      "date": "2012/08/24",
+      "pages": []
+    },
+    {
+      "id": "magi-121",
+      "number": "121",
+      "title": "Departure",
+      "date": "2012/08/26",
+      "pages": []
+    },
+    {
+      "id": "magi-122",
+      "number": "122",
+      "title": "The Journey By Boat",
+      "date": "2012/09/01",
+      "pages": []
+    },
+    {
+      "id": "magi-123",
+      "number": "123",
+      "title": "Pirates",
+      "date": "2012/09/05",
+      "pages": []
+    },
+    {
+      "id": "magi-124",
+      "number": "124",
+      "title": "Zagan's Activation",
+      "date": "2012/09/10",
+      "pages": []
+    },
+    {
+      "id": "magi-125",
+      "number": "125",
+      "title": "Breaking Into",
+      "date": "2012/09/12",
+      "pages": []
+    },
+    {
+      "id": "magi-126",
+      "number": "126",
+      "title": "The Pirate's Fortress",
+      "date": "2012/09/14",
+      "pages": []
+    },
+    {
+      "id": "magi-127",
+      "number": "127",
+      "title": "Ice Spear",
+      "date": "2012/09/18",
+      "pages": []
+    },
+    {
+      "id": "magi-128",
+      "number": "128",
+      "title": "Mother",
+      "date": "2012/09/21",
+      "pages": []
+    },
+    {
+      "id": "magi-129",
+      "number": "129",
+      "title": "Independence",
+      "date": "2012/09/26",
+      "pages": []
+    },
+    {
+      "id": "magi-130",
+      "number": "130",
+      "title": "Dark Memories",
+      "date": "2012/09/28",
+      "pages": []
+    },
+    {
+      "id": "magi-131",
+      "number": "131",
+      "title": "Bitter Enemy",
+      "date": "2012/09/30",
+      "pages": []
+    },
+    {
+      "id": "magi-132",
+      "number": "132",
+      "title": "Confession",
+      "date": "2012/10/04",
+      "pages": []
+    },
+    {
+      "id": "magi-133",
+      "number": "133",
+      "title": "Gentle Person",
+      "date": "2012/10/04",
+      "pages": []
+    },
+    {
+      "id": "magi-134",
+      "number": "134",
+      "title": "The Night Before Farewells",
+      "date": "2012/10/07",
+      "pages": []
+    },
+    {
+      "id": "magi-135",
+      "number": "135",
+      "title": "Traveling Alone",
+      "date": "2012/10/07",
+      "pages": []
+    },
+    {
+      "id": "magi-136",
+      "number": "136",
+      "title": "Ren Kouha",
+      "date": "2012/10/07",
+      "pages": []
+    },
+    {
+      "id": "magi-137",
+      "number": "137",
+      "title": "Daily Special Training",
+      "date": "2012/10/07",
+      "pages": []
+    },
+    {
+      "id": "magi-138",
+      "number": "138",
+      "title": "Daily Lessons",
+      "date": "2012/10/07",
+      "pages": []
+    },
+    {
+      "id": "magi-139",
+      "number": "139",
+      "title": "Laem Empire",
+      "date": "2012/10/08",
+      "pages": []
+    },
+    {
+      "id": "magi-140",
+      "number": "140",
+      "title": "Yambala",
+      "date": "2012/10/09",
+      "pages": []
+    },
+    {
+      "id": "magi-141",
+      "number": "141",
+      "title": "Colosseum",
+      "date": "2012/10/10",
+      "pages": []
+    },
+    {
+      "id": "magi-142",
+      "number": "142",
+      "title": "Fusion",
+      "date": "2012/10/12",
+      "pages": []
+    },
+    {
+      "id": "magi-143",
+      "number": "143",
+      "title": "The High Priestess",
+      "date": "2012/10/12",
+      "pages": []
+    },
+    {
+      "id": "magi-144",
+      "number": "144",
+      "title": "The Great Rift",
+      "date": "2012/10/13",
+      "pages": []
+    },
+    {
+      "id": "magi-145",
+      "number": "145",
+      "title": "Gathering",
+      "date": "2012/10/15",
+      "pages": []
+    },
+    {
+      "id": "magi-146",
+      "number": "146",
+      "title": "One World",
+      "date": "2012/10/16",
+      "pages": []
+    },
+    {
+      "id": "magi-147",
+      "number": "147",
+      "title": "A New Emperor",
+      "date": "2012/10/17",
+      "pages": []
+    },
+    {
+      "id": "magi-148",
+      "number": "148",
+      "title": "Another 6 Months Later",
+      "date": "2012/10/17",
+      "pages": []
+    },
+    {
+      "id": "magi-149",
+      "number": "149",
+      "title": "Titus Alexius",
+      "date": "2012/10/18",
+      "pages": []
+    },
+    {
+      "id": "magi-150",
+      "number": "150",
+      "title": "Aladdin vs. Titus",
+      "date": "2012/10/20",
+      "pages": []
+    },
+    {
+      "id": "magi-151",
+      "number": "151",
+      "title": "Aberrant Magic",
+      "date": "2012/10/20",
+      "pages": []
+    },
+    {
+      "id": "magi-152",
+      "number": "152",
+      "title": "Titus' True Identity",
+      "date": "2012/10/22",
+      "pages": []
+    },
+    {
+      "id": "magi-153",
+      "number": "153",
+      "title": "Mission",
+      "date": "2012/10/22",
+      "pages": []
+    },
+    {
+      "id": "magi-154",
+      "number": "154",
+      "title": "Cooperation",
+      "date": "2012/10/24",
+      "pages": []
+    },
+    {
+      "id": "magi-155",
+      "number": "155",
+      "title": "The 5th Level Authorization District",
+      "date": "2012/10/25",
+      "pages": []
+    },
+    {
+      "id": "magi-156",
+      "number": "156",
+      "title": "Livestock",
+      "date": "2012/10/26",
+      "pages": []
+    },
+    {
+      "id": "magi-157",
+      "number": "157",
+      "title": "Magoi Furnace",
+      "date": "2012/10/27",
+      "pages": []
+    },
+    {
+      "id": "magi-158",
+      "number": "158",
+      "title": "Ideology Reformation",
+      "date": "2012/10/28",
+      "pages": []
+    },
+    {
+      "id": "magi-159",
+      "number": "159",
+      "title": "The Magician's Solitude",
+      "date": "2012/10/28",
+      "pages": []
+    },
+    {
+      "id": "magi-160",
+      "number": "160",
+      "title": "The Magician's Country",
+      "date": "2012/10/29",
+      "pages": []
+    },
+    {
+      "id": "magi-161",
+      "number": "161",
+      "title": "Transformation",
+      "date": "2012/11/05",
+      "pages": []
+    },
+    {
+      "id": "magi-162",
+      "number": "162",
+      "title": "The Truth About Mogamett",
+      "date": "2012/11/13",
+      "pages": []
+    },
+    {
+      "id": "magi-163",
+      "number": "163",
+      "title": "Zemi",
+      "date": "2012/11/18",
+      "pages": []
+    },
+    {
+      "id": "magi-164",
+      "number": "164",
+      "title": "The Truth About Titus",
+      "date": "2012/11/25",
+      "pages": []
+    },
+    {
+      "id": "magi-165",
+      "number": "165",
+      "title": "Genesis",
+      "date": "2012/12/02",
+      "pages": []
+    },
+    {
+      "id": "magi-166",
+      "number": "166",
+      "title": "Before the Beginning of the War",
+      "date": "2012/12/10",
+      "pages": []
+    },
+    {
+      "id": "magi-167",
+      "number": "167",
+      "title": "War Cry",
+      "date": "2012/12/22",
+      "pages": []
+    },
+    {
+      "id": "magi-168",
+      "number": "168",
+      "title": "Guardian Deities",
+      "date": "2013/01/06",
+      "pages": []
+    },
+    {
+      "id": "magi-169",
+      "number": "169",
+      "title": "The Power of the People",
+      "date": "2013/01/14",
+      "pages": []
+    },
+    {
+      "id": "magi-170",
+      "number": "170",
+      "title": "Magic Weapon",
+      "date": "2013/01/20",
+      "pages": []
+    },
+    {
+      "id": "magi-171",
+      "number": "171",
+      "title": "Prey",
+      "date": "2013/01/28",
+      "pages": []
+    },
+    {
+      "id": "magi-172",
+      "number": "172",
+      "title": "Fanalis vs. Magicians",
+      "date": "2013/02/03",
+      "pages": []
+    },
+    {
+      "id": "magi-173",
+      "number": "173",
+      "title": "The King of the Beasts",
+      "date": "2013/02/11",
+      "pages": []
+    },
+    {
+      "id": "magi-174",
+      "number": "174",
+      "title": "The Power of a Magi",
+      "date": "2013/02/17",
+      "pages": []
+    },
+    {
+      "id": "magi-175",
+      "number": "175",
+      "title": "Fighting Spirit",
+      "date": "2013/02/25",
+      "pages": []
+    },
+    {
+      "id": "magi-176",
+      "number": "176",
+      "title": "Barbatos",
+      "date": "2013/03/10",
+      "pages": []
+    },
+    {
+      "id": "magi-177",
+      "number": "177",
+      "title": "The High Priestess",
+      "date": "2013/03/18",
+      "pages": []
+    },
+    {
+      "id": "magi-178",
+      "number": "178",
+      "title": "The Dark Spot",
+      "date": "2013/03/24",
+      "pages": []
+    },
+    {
+      "id": "magi-179",
+      "number": "179",
+      "title": "Towards the Deepest Sector...",
+      "date": "2013/03/31",
+      "pages": []
+    },
+    {
+      "id": "magi-180",
+      "number": "180",
+      "title": "Ren Kouha - The King's Vessel",
+      "date": "2013/04/08",
+      "pages": []
+    },
+    {
+      "id": "magi-181",
+      "number": "181",
+      "title": "Completion",
+      "date": "2013/04/15",
+      "pages": []
+    },
+    {
+      "id": "magi-182",
+      "number": "182",
+      "title": "Amon's Djinn Equip",
+      "date": "2013/04/22",
+      "pages": []
+    },
+    {
+      "id": "magi-183",
+      "number": "183",
+      "title": "Confrontation",
+      "date": "2013/06/03",
+      "pages": []
+    },
+    {
+      "id": "magi-184",
+      "number": "184",
+      "title": "Titus and Marga",
+      "date": "2013/06/11",
+      "pages": []
+    },
+    {
+      "id": "magi-185",
+      "number": "185",
+      "title": "The Last Power",
+      "date": "2013/06/17",
+      "pages": []
+    },
+    {
+      "id": "magi-186",
+      "number": "186",
+      "title": "Kouen and Alibaba",
+      "date": "2013/06/23",
+      "pages": []
+    },
+    {
+      "id": "magi-187",
+      "number": "187",
+      "title": "The Great Assembly",
+      "date": "2013/07/01",
+      "pages": []
+    },
+    {
+      "id": "magi-188",
+      "number": "188",
+      "title": "The Djinn Warriors",
+      "date": "2013/07/07",
+      "pages": []
+    },
+    {
+      "id": "magi-189",
+      "number": "189",
+      "title": "Ten Thousand",
+      "date": "2013/07/14",
+      "pages": []
+    },
+    {
+      "id": "magi-190",
+      "number": "190",
+      "title": "Union of Flames",
+      "date": "2013/07/21",
+      "pages": []
+    },
+    {
+      "id": "magi-191",
+      "number": "191",
+      "title": "The One Who Eats Rukh",
+      "date": "2013/07/28",
+      "pages": []
+    },
+    {
+      "id": "magi-192",
+      "number": "192",
+      "title": "Fierce Attacks",
+      "date": "2013/08/04",
+      "pages": []
+    },
+    {
+      "id": "magi-193",
+      "number": "193",
+      "title": "The Treacherous Magi",
+      "date": "2013/08/21",
+      "pages": []
+    },
+    {
+      "id": "magi-194",
+      "number": "194",
+      "title": "The Hour of Downfall",
+      "date": "2013/08/25",
+      "pages": []
+    },
+    {
+      "id": "magi-195",
+      "number": "195",
+      "title": "Full Power",
+      "date": "2013/09/01",
+      "pages": []
+    },
+    {
+      "id": "magi-196",
+      "number": "196",
+      "title": "Hesitation",
+      "date": "2013/09/08",
+      "pages": []
+    },
+    {
+      "id": "magi-197",
+      "number": "197",
+      "title": "The Message",
+      "date": "2013/09/15",
+      "pages": []
+    },
+    {
+      "id": "magi-198",
+      "number": "198",
+      "title": "Welcome Home",
+      "date": "2013/09/23",
+      "pages": []
+    },
+    {
+      "id": "magi-199",
+      "number": "199",
+      "title": "Welcome Home",
+      "date": "2013/09/29",
+      "pages": []
+    },
+    {
+      "id": "magi-200",
+      "number": "200",
+      "title": "Manly Tears",
+      "date": "2013/10/07",
+      "pages": []
+    },
+    {
+      "id": "magi-201",
+      "number": "201",
+      "title": "The Invitation Letter to Balbadd",
+      "date": "2013/10/28",
+      "pages": []
+    },
+    {
+      "id": "magi-202",
+      "number": "202",
+      "title": "Alibaba's Household",
+      "date": "2013/11/03",
+      "pages": []
+    },
+    {
+      "id": "magi-203",
+      "number": "203",
+      "title": "Madly in Love",
+      "date": "2013/11/11",
+      "pages": []
+    },
+    {
+      "id": "magi-204",
+      "number": "204",
+      "title": "Sinbad and Yunan",
+      "date": "2013/11/17",
+      "pages": []
+    },
+    {
+      "id": "magi-205",
+      "number": "205",
+      "title": "What is a King Vessel?",
+      "date": "2013/12/02",
+      "pages": []
+    },
+    {
+      "id": "magi-206",
+      "number": "206",
+      "title": "Evening at an Old Friend's House",
+      "date": "2013/12/02",
+      "pages": []
+    },
+    {
+      "id": "magi-207",
+      "number": "207",
+      "title": "At Cassim's Grave",
+      "date": "2013/12/10",
+      "pages": []
+    },
+    {
+      "id": "magi-208",
+      "number": "208",
+      "title": "The Man Called Ren Koumei",
+      "date": "2013/12/24",
+      "pages": []
+    },
+    {
+      "id": "magi-209",
+      "number": "209",
+      "title": "Unified Ideology",
+      "date": "2014/01/01",
+      "pages": []
+    },
+    {
+      "id": "magi-210",
+      "number": "210",
+      "title": "Conditions",
+      "date": "2014/01/13",
+      "pages": []
+    },
+    {
+      "id": "magi-211",
+      "number": "211",
+      "title": "The Fanalis' Homeland",
+      "date": "2014/01/20",
+      "pages": []
+    },
+    {
+      "id": "magi-212",
+      "number": "212",
+      "title": "Dirty Hands",
+      "date": "2014/01/28",
+      "pages": []
+    },
+    {
+      "id": "magi-213",
+      "number": "213",
+      "title": "The Summit",
+      "date": "2014/02/03",
+      "pages": []
+    },
+    {
+      "id": "magi-214",
+      "number": "214",
+      "title": "The Homeland Where He Was Born",
+      "date": "2014/02/11",
+      "pages": []
+    },
+    {
+      "id": "magi-215",
+      "number": "215",
+      "title": "Legend",
+      "date": "2014/02/24",
+      "pages": []
+    },
+    {
+      "id": "magi-216",
+      "number": "216",
+      "title": "His Name is Solomon",
+      "date": "2014/03/03",
+      "pages": []
+    },
+    {
+      "id": "magi-217",
+      "number": "217",
+      "title": "The Other Species",
+      "date": "2014/03/10",
+      "pages": []
+    },
+    {
+      "id": "magi-218",
+      "number": "218",
+      "title": "The Great Sinners",
+      "date": "2014/03/18",
+      "pages": []
+    },
+    {
+      "id": "magi-219",
+      "number": "219",
+      "title": "Solomon's True Identity",
+      "date": "2014/03/24",
+      "pages": []
+    },
+    {
+      "id": "magi-220",
+      "number": "220",
+      "title": "Something in Common",
+      "date": "2014/03/31",
+      "pages": []
+    },
+    {
+      "id": "magi-221",
+      "number": "221",
+      "title": "Lovesickness",
+      "date": "2014/04/07",
+      "pages": []
+    },
+    {
+      "id": "magi-222",
+      "number": "222",
+      "title": "Mother Dragon",
+      "date": "2014/04/14",
+      "pages": []
+    },
+    {
+      "id": "magi-223",
+      "number": "223",
+      "title": "Close",
+      "date": "2014/04/29",
+      "pages": []
+    },
+    {
+      "id": "magi-224",
+      "number": "224",
+      "title": "Courtship",
+      "date": "2014/05/12",
+      "pages": []
+    },
+    {
+      "id": "magi-225",
+      "number": "225",
+      "title": "The Future",
+      "date": "2014/05/20",
+      "pages": []
+    },
+    {
+      "id": "magi-226",
+      "number": "226",
+      "title": "King Solomon",
+      "date": "2014/05/27",
+      "pages": []
+    },
+    {
+      "id": "magi-227",
+      "number": "227",
+      "title": "The Decisive Final Battle",
+      "date": "2014/06/03",
+      "pages": []
+    },
+    {
+      "id": "magi-228",
+      "number": "228",
+      "title": "David's Plan",
+      "date": "2014/06/09",
+      "pages": []
+    },
+    {
+      "id": "magi-229",
+      "number": "229",
+      "title": "The World's Strongest Magic",
+      "date": "2014/06/17",
+      "pages": []
+    },
+    {
+      "id": "magi-230",
+      "number": "230",
+      "title": "David and Solomon",
+      "date": "2014/06/23",
+      "pages": []
+    },
+    {
+      "id": "magi-231",
+      "number": "231",
+      "title": "The World in Another Dimension",
+      "date": "2014/07/06",
+      "pages": []
+    },
+    {
+      "id": "magi-232",
+      "number": "232",
+      "title": "Solomon's World",
+      "date": "2014/07/20",
+      "pages": []
+    },
+    {
+      "id": "magi-233",
+      "number": "233",
+      "title": "The Rebellion Against the Light",
+      "date": "2014/07/29",
+      "pages": []
+    },
+    {
+      "id": "magi-234",
+      "number": "234",
+      "title": "The Revolt of the Eight-point Star",
+      "date": "2014/08/05",
+      "pages": []
+    },
+    {
+      "id": "magi-235",
+      "number": "235",
+      "title": "The Return of Solomon",
+      "date": "2014/08/18",
+      "pages": []
+    },
+    {
+      "id": "magi-236",
+      "number": "236",
+      "title": "Solomon's Avatar",
+      "date": "2014/08/29",
+      "pages": []
+    },
+    {
+      "id": "magi-237",
+      "number": "237",
+      "title": "How the New World Came to Be",
+      "date": "2014/09/03",
+      "pages": []
+    },
+    {
+      "id": "magi-238",
+      "number": "238",
+      "title": "Aladdin's Suggestion",
+      "date": "2014/09/12",
+      "pages": []
+    },
+    {
+      "id": "magi-239",
+      "number": "239",
+      "title": "Expectations of the Three Countries",
+      "date": "2014/09/16",
+      "pages": []
+    },
+    {
+      "id": "magi-240",
+      "number": "240",
+      "title": "The Black Magi's Answer",
+      "date": "2014/09/25",
+      "pages": []
+    },
+    {
+      "id": "magi-241",
+      "number": "241",
+      "title": "Different Decisions",
+      "date": "2014/10/02",
+      "pages": []
+    },
+    {
+      "id": "magi-242",
+      "number": "242",
+      "title": "Haku Ryuu's Determination",
+      "date": "2014/10/11",
+      "pages": []
+    },
+    {
+      "id": "magi-243",
+      "number": "243",
+      "title": "The Djinn of Truth and Conviction",
+      "date": "2014/10/15",
+      "pages": []
+    },
+    {
+      "id": "magi-244",
+      "number": "244",
+      "title": "The Black King Vessel",
+      "date": "2014/10/24",
+      "pages": []
+    },
+    {
+      "id": "magi-245",
+      "number": "245",
+      "title": "Power of the New Djinn",
+      "date": "2014/11/07",
+      "pages": []
+    },
+    {
+      "id": "magi-246",
+      "number": "246",
+      "title": "The Admonition of Phenex",
+      "date": "2014/11/14",
+      "pages": []
+    },
+    {
+      "id": "magi-247",
+      "number": "247",
+      "title": "The Decisive Battle at the Capital",
+      "date": "2014/11/20",
+      "pages": []
+    },
+    {
+      "id": "magi-248",
+      "number": "248",
+      "title": "Judar's Trump Card",
+      "date": "2014/11/26",
+      "pages": []
+    },
+    {
+      "id": "magi-249",
+      "number": "249",
+      "title": "Hakuryuu's Resolve",
+      "date": "2014/12/04",
+      "pages": []
+    },
+    {
+      "id": "magi-250",
+      "number": "250",
+      "title": "The New Emperor",
+      "date": "2014/12/15",
+      "pages": []
+    },
+    {
+      "id": "magi-251",
+      "number": "251",
+      "title": "Hakuryuu's Imperial Edict",
+      "date": "2014/12/28",
+      "pages": []
+    },
+    {
+      "id": "magi-252",
+      "number": "252",
+      "title": "The Reunion of Two King Vessels",
+      "date": "2015/01/15",
+      "pages": []
+    },
+    {
+      "id": "magi-253",
+      "number": "253",
+      "title": "An Unyielding Battle",
+      "date": "2015/01/27",
+      "pages": []
+    },
+    {
+      "id": "magi-254",
+      "number": "254",
+      "title": "The Determination to not Turn Back",
+      "date": "2015/02/04",
+      "pages": []
+    },
+    {
+      "id": "magi-255",
+      "number": "255",
+      "title": "The Power of Omiscience",
+      "date": "2015/02/11",
+      "pages": []
+    },
+    {
+      "id": "magi-256",
+      "number": "256",
+      "title": "The Invisible Power",
+      "date": "2015/02/26",
+      "pages": []
+    },
+    {
+      "id": "magi-257",
+      "number": "257",
+      "title": "Belial's Djinn Equip",
+      "date": "2015/03/02",
+      "pages": []
+    },
+    {
+      "id": "magi-258",
+      "number": "258",
+      "title": "The Decisive Battle between Extreme Magic",
+      "date": "2015/03/19",
+      "pages": []
+    },
+    {
+      "id": "magi-259",
+      "number": "259",
+      "title": "The End of the King Vessel",
+      "date": "2015/03/19",
+      "pages": []
+    },
+    {
+      "id": "magi-260",
+      "number": "260",
+      "title": "The Extreme Power of Magic",
+      "date": "2015/03/27",
+      "pages": []
+    },
+    {
+      "id": "magi-261",
+      "number": "261",
+      "title": "After the Deathmatch",
+      "date": "2015/04/09",
+      "pages": []
+    },
+    {
+      "id": "magi-262",
+      "number": "262",
+      "title": "Knowing Good From Evil",
+      "date": "2015/04/15",
+      "pages": []
+    },
+    {
+      "id": "magi-263",
+      "number": "263",
+      "title": "Aladdin's Will",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "magi-264",
+      "number": "264",
+      "title": "Alibaba's Whereabouts",
+      "date": "2015/05/13",
+      "pages": []
+    },
+    {
+      "id": "magi-265",
+      "number": "265",
+      "title": "The Beginning of the Great War",
+      "date": "2015/05/13",
+      "pages": []
+    },
+    {
+      "id": "magi-266",
+      "number": "266",
+      "title": "Encounter With the Unknown",
+      "date": "2015/06/14",
+      "pages": []
+    },
+    {
+      "id": "magi-267",
+      "number": "267",
+      "title": "The Night Before the Decisive Battle",
+      "date": "2015/06/14",
+      "pages": []
+    },
+    {
+      "id": "magi-268",
+      "number": "268",
+      "title": "The Battle of Kanan",
+      "date": "2015/06/14",
+      "pages": []
+    },
+    {
+      "id": "magi-269",
+      "number": "269",
+      "title": "The Duty of a General",
+      "date": "2015/06/14",
+      "pages": []
+    },
+    {
+      "id": "magi-270",
+      "number": "270",
+      "title": "Encirclement Strategy",
+      "date": "2015/06/23",
+      "pages": []
+    },
+    {
+      "id": "magi-271",
+      "number": "271",
+      "title": "Breaking Through The Enemy's Formation",
+      "date": "2015/07/02",
+      "pages": []
+    },
+    {
+      "id": "magi-272",
+      "number": "272",
+      "title": "The Battle of the Households",
+      "date": "2015/07/02",
+      "pages": []
+    },
+    {
+      "id": "magi-273",
+      "number": "273",
+      "title": "The Original Plan",
+      "date": "2015/07/20",
+      "pages": []
+    },
+    {
+      "id": "magi-274",
+      "number": "274",
+      "title": "The Course of the War is Reversed",
+      "date": "2015/07/20",
+      "pages": []
+    },
+    {
+      "id": "magi-275",
+      "number": "275",
+      "title": "The Bottom of the World",
+      "date": "2015/08/03",
+      "pages": []
+    },
+    {
+      "id": "magi-276",
+      "number": "276",
+      "title": "The Will of God",
+      "date": "2015/08/12",
+      "pages": []
+    },
+    {
+      "id": "magi-277",
+      "number": "277",
+      "title": "The Desired World",
+      "date": "2015/08/26",
+      "pages": []
+    },
+    {
+      "id": "magi-278",
+      "number": "278",
+      "title": "Confrontation Between Brothers",
+      "date": "2015/09/02",
+      "pages": []
+    },
+    {
+      "id": "magi-279",
+      "number": "279",
+      "title": "The Winner and the Loser",
+      "date": "2015/09/10",
+      "pages": []
+    },
+    {
+      "id": "magi-280",
+      "number": "280",
+      "title": "The Execution",
+      "date": "2015/09/20",
+      "pages": []
+    },
+    {
+      "id": "magi-281",
+      "number": "281",
+      "title": "The Direction of Revenge",
+      "date": "2015/10/05",
+      "pages": []
+    },
+    {
+      "id": "magi-282",
+      "number": "282",
+      "title": "A New Act Begins",
+      "date": "2015/10/05",
+      "pages": []
+    },
+    {
+      "id": "magi-283",
+      "number": "283",
+      "title": "Alibaba's Return",
+      "date": "2015/11/02",
+      "pages": []
+    },
+    {
+      "id": "magi-284",
+      "number": "284",
+      "title": "Changes to the World",
+      "date": "2015/11/05",
+      "pages": []
+    },
+    {
+      "id": "magi-285",
+      "number": "285",
+      "title": "In the Trading Company Headquarters",
+      "date": "2015/11/16",
+      "pages": []
+    },
+    {
+      "id": "magi-286",
+      "number": "286",
+      "title": "The World Innovator",
+      "date": "2015/12/09",
+      "pages": []
+    },
+    {
+      "id": "magi-287",
+      "number": "287",
+      "title": "The Journey to Rakushou",
+      "date": "2015/12/09",
+      "pages": []
+    },
+    {
+      "id": "magi-288",
+      "number": "288",
+      "title": "The New World Under Strain",
+      "date": "2015/12/26",
+      "pages": []
+    },
+    {
+      "id": "magi-289",
+      "number": "289",
+      "title": "Alibaba's Power",
+      "date": "2016/01/03",
+      "pages": []
+    },
+    {
+      "id": "magi-290",
+      "number": "290",
+      "title": "Reunion With a Friend",
+      "date": "2016/01/03",
+      "pages": []
+    },
+    {
+      "id": "magi-291",
+      "number": "291",
+      "title": "Direct Negotiations",
+      "date": "2016/01/15",
+      "pages": []
+    },
+    {
+      "id": "magi-292",
+      "number": "292",
+      "title": "The Beginning of the Counterattack",
+      "date": "2016/01/29",
+      "pages": []
+    },
+    {
+      "id": "magi-293",
+      "number": "293",
+      "title": "The First Signs of Kou's Revival",
+      "date": "2016/02/23",
+      "pages": []
+    },
+    {
+      "id": "magi-294",
+      "number": "294",
+      "title": "The Leftover Assets",
+      "date": "2016/02/23",
+      "pages": []
+    },
+    {
+      "id": "magi-295",
+      "number": "295",
+      "title": "The Strategist's Secret Plan",
+      "date": "2016/02/23",
+      "pages": []
+    },
+    {
+      "id": "magi-296",
+      "number": "296",
+      "title": "Towards",
+      "date": "2016/03/10",
+      "pages": []
+    },
+    {
+      "id": "magi-297",
+      "number": "297",
+      "title": "Prospectus of Success",
+      "date": "2016/03/14",
+      "pages": []
+    },
+    {
+      "id": "magi-298",
+      "number": "298",
+      "title": "As Someone Who Stands Above",
+      "date": "2016/03/15",
+      "pages": []
+    },
+    {
+      "id": "magi-299",
+      "number": "299",
+      "title": "Reim's Way of Doing Things",
+      "date": "2016/03/18",
+      "pages": []
+    },
+    {
+      "id": "magi-300",
+      "number": "300",
+      "title": "To Each His Own Path",
+      "date": "2016/03/27",
+      "pages": []
+    },
+    {
+      "id": "magi-301",
+      "number": "301",
+      "title": "As a Delegate",
+      "date": "2016/07/02",
+      "pages": []
+    },
+    {
+      "id": "magi-302",
+      "number": "302",
+      "title": "Rivals",
+      "date": "2016/07/02",
+      "pages": []
+    },
+    {
+      "id": "magi-303",
+      "number": "303",
+      "title": "The Battle of the New Era",
+      "date": "2016/07/02",
+      "pages": []
+    },
+    {
+      "id": "magi-304",
+      "number": "304",
+      "title": "A Voice from Beyound",
+      "date": "2016/07/02",
+      "pages": []
+    },
+    {
+      "id": "magi-305",
+      "number": "305",
+      "title": "Incompatible Intentions",
+      "date": "2016/07/02",
+      "pages": []
+    },
+    {
+      "id": "magi-306",
+      "number": "306",
+      "title": "Arba's Intentions",
+      "date": "2016/07/02",
+      "pages": []
+    },
+    {
+      "id": "magi-307",
+      "number": "307",
+      "title": "Preparations Complete",
+      "date": "2016/07/02",
+      "pages": []
+    },
+    {
+      "id": "magi-308",
+      "number": "308",
+      "title": "The Guardian",
+      "date": "2016/07/02",
+      "pages": []
+    },
+    {
+      "id": "magi-309",
+      "number": "309",
+      "title": "Yunan vs Arba",
+      "date": "2016/07/02",
+      "pages": []
+    },
+    {
+      "id": "magi-310",
+      "number": "310",
+      "title": "The Results of Training",
+      "date": "2016/07/02",
+      "pages": []
+    },
+    {
+      "id": "magi-311",
+      "number": "311",
+      "title": "The Rematch",
+      "date": "2016/07/09",
+      "pages": []
+    },
+    {
+      "id": "magi-312",
+      "number": "312",
+      "title": "The Showdown With Al Thamen",
+      "date": "2016/07/09",
+      "pages": []
+    },
+    {
+      "id": "magi-313",
+      "number": "313",
+      "title": "Arba�s Tenacity",
+      "date": "2016/07/16",
+      "pages": []
+    },
+    {
+      "id": "magi-314",
+      "number": "314",
+      "title": "Arba�s Tenacity",
+      "date": "2016/08/06",
+      "pages": []
+    },
+    {
+      "id": "magi-315",
+      "number": "315",
+      "title": "Making the Rounds",
+      "date": "2016/08/06",
+      "pages": []
+    },
+    {
+      "id": "magi-316",
+      "number": "316",
+      "title": "David's Whispers",
+      "date": "2016/08/06",
+      "pages": []
+    },
+    {
+      "id": "magi-317",
+      "number": "317",
+      "title": "Sinbad's Bonds",
+      "date": "2016/08/12",
+      "pages": []
+    },
+    {
+      "id": "magi-318",
+      "number": "318",
+      "title": "The Board of Directors' Response",
+      "date": "2016/12/15",
+      "pages": []
+    },
+    {
+      "id": "magi-319",
+      "number": "319",
+      "title": "Kougyoku's Gratitude",
+      "date": "2016/12/15",
+      "pages": []
+    },
+    {
+      "id": "magi-320",
+      "number": "320",
+      "title": "Arba's Proposal",
+      "date": "2016/12/15",
+      "pages": []
+    },
+    {
+      "id": "magi-321",
+      "number": "321",
+      "title": "Sinbad's Smile",
+      "date": "2016/12/15",
+      "pages": []
+    },
+    {
+      "id": "magi-322",
+      "number": "322",
+      "title": "To the Heights",
+      "date": "2016/12/15",
+      "pages": []
+    },
+    {
+      "id": "magi-323",
+      "number": "323",
+      "title": "The Adventure Never Ends",
+      "date": "2016/12/15",
+      "pages": []
+    },
+    {
+      "id": "magi-324",
+      "number": "324",
+      "title": "The Gods' Multi-Layered Structure",
+      "date": "2016/12/15",
+      "pages": []
+    },
+    {
+      "id": "magi-325",
+      "number": "325",
+      "title": "The Sage Who Served the King",
+      "date": "2016/12/15",
+      "pages": []
+    },
+    {
+      "id": "magi-326",
+      "number": "326",
+      "title": "A Very Bad Feeling",
+      "date": "2016/12/15",
+      "pages": []
+    },
+    {
+      "id": "magi-327",
+      "number": "327",
+      "title": "Out",
+      "date": "2016/12/15",
+      "pages": []
+    },
+    {
+      "id": "magi-328",
+      "number": "328",
+      "title": "A Shared Hope",
+      "date": "2016/12/15",
+      "pages": []
+    },
+    {
+      "id": "magi-329",
+      "number": "329",
+      "title": "The Greedy King of Man",
+      "date": "2016/12/15",
+      "pages": []
+    },
+    {
+      "id": "magi-330",
+      "number": "330",
+      "title": "Together, To The Rukh",
+      "date": "2016/12/15",
+      "pages": []
+    },
+    {
+      "id": "magi-331",
+      "number": "331",
+      "title": "Alibaba's Choice",
+      "date": "2016/12/15",
+      "pages": []
+    },
+    {
+      "id": "magi-332",
+      "number": "332",
+      "title": "The Greatest King Vessel",
+      "date": "2016/12/29",
+      "pages": []
+    },
+    {
+      "id": "magi-333",
+      "number": "333",
+      "title": "The Gate to the Sacred Palace",
+      "date": "2017/01/19",
+      "pages": []
+    },
+    {
+      "id": "magi-334",
+      "number": "334",
+      "title": "Mid-Collision",
+      "date": "2017/01/19",
+      "pages": []
+    },
+    {
+      "id": "magi-335",
+      "number": "335",
+      "title": "The Seven Dungeons",
+      "date": "2017/01/28",
+      "pages": []
+    },
+    {
+      "id": "magi-336",
+      "number": "336",
+      "title": "An Irrational Fate",
+      "date": "2017/02/02",
+      "pages": []
+    },
+    {
+      "id": "magi-337",
+      "number": "337",
+      "title": "The Conviction of Wrath and Heroes",
+      "date": "2017/02/09",
+      "pages": []
+    },
+    {
+      "id": "magi-338",
+      "number": "338",
+      "title": "An Irrational Fate",
+      "date": "2017/02/20",
+      "pages": []
+    },
+    {
+      "id": "magi-339",
+      "number": "339",
+      "title": "Conviction of Falsehood and Prestige",
+      "date": "2017/02/20",
+      "pages": []
+    },
+    {
+      "id": "magi-340",
+      "number": "340",
+      "title": "A Battle to See Right From Wrong",
+      "date": "2017/03/07",
+      "pages": []
+    },
+    {
+      "id": "magi-341",
+      "number": "341",
+      "title": "The conviction of souls and puppetry",
+      "date": "2017/04/05",
+      "pages": []
+    },
+    {
+      "id": "magi-342",
+      "number": "342",
+      "title": "The Innovator",
+      "date": "2017/04/05",
+      "pages": []
+    },
+    {
+      "id": "magi-343",
+      "number": "343",
+      "title": "",
+      "date": "2017/04/09",
+      "pages": []
+    },
+    {
+      "id": "magi-344",
+      "number": "344",
+      "title": "",
+      "date": "2017/04/10",
+      "pages": []
+    },
+    {
+      "id": "magi-345",
+      "number": "345",
+      "title": "",
+      "date": "2017/04/13",
+      "pages": []
+    },
+    {
+      "id": "magi-346",
+      "number": "346",
+      "title": "",
+      "date": "2017/04/26",
+      "pages": []
+    },
+    {
+      "id": "magi-347",
+      "number": "347",
+      "title": "",
+      "date": "2017/04/27",
+      "pages": []
+    },
+    {
+      "id": "magi-348",
+      "number": "348",
+      "title": "",
+      "date": "2017/05/09",
+      "pages": []
+    },
+    {
+      "id": "magi-349",
+      "number": "349",
+      "title": "",
+      "date": "2017/05/27",
+      "pages": []
+    },
+    {
+      "id": "magi-350",
+      "number": "350",
+      "title": "",
+      "date": "2017/05/29",
+      "pages": []
+    },
+    {
+      "id": "magi-351",
+      "number": "351",
+      "title": "The Magic To Return The World To The Rukh",
+      "date": "2017/06/17",
+      "pages": []
+    },
+    {
+      "id": "magi-352",
+      "number": "352",
+      "title": "The Key To The Sacred Palace",
+      "date": "2017/06/17",
+      "pages": []
+    },
+    {
+      "id": "magi-353",
+      "number": "353",
+      "title": "Collection of the Rukh",
+      "date": "2017/06/28",
+      "pages": []
+    },
+    {
+      "id": "magi-354",
+      "number": "354",
+      "title": "The Battle To Protect The World",
+      "date": "2017/06/28",
+      "pages": []
+    },
+    {
+      "id": "magi-355",
+      "number": "355",
+      "title": "The Hierarchy Of God",
+      "date": "2017/07/11",
+      "pages": []
+    },
+    {
+      "id": "magi-356",
+      "number": "356",
+      "title": "Requiem",
+      "date": "2017/07/11",
+      "pages": []
+    },
+    {
+      "id": "magi-357",
+      "number": "357",
+      "title": "",
+      "date": "2017/07/11",
+      "pages": []
+    },
+    {
+      "id": "magi-358",
+      "number": "358",
+      "title": "The possibilities of Great Magic",
+      "date": "2017/07/11",
+      "pages": []
+    },
+    {
+      "id": "magi-359",
+      "number": "359",
+      "title": "The Metal Vessels Are For This Day's Sake",
+      "date": "2017/08/06",
+      "pages": []
+    },
+    {
+      "id": "magi-360",
+      "number": "360",
+      "title": "Alibaba's Answer",
+      "date": "2017/08/06",
+      "pages": []
+    },
+    {
+      "id": "magi-361",
+      "number": "361",
+      "title": "The Final Blow",
+      "date": "2017/08/21",
+      "pages": []
+    },
+    {
+      "id": "magi-362",
+      "number": "362",
+      "title": "Destiny's Furthest Ends",
+      "date": "2017/08/21",
+      "pages": []
+    },
+    {
+      "id": "magi-363",
+      "number": "363",
+      "title": "Together This Time",
+      "date": "2017/09/19",
+      "pages": []
+    },
+    {
+      "id": "magi-364",
+      "number": "364",
+      "title": "A Cruel But Free Path",
+      "date": "2017/09/19",
+      "pages": []
+    },
+    {
+      "id": "magi-365",
+      "number": "365",
+      "title": "The Great Dungeon Towers",
+      "date": "2017/09/22",
+      "pages": []
+    },
+    {
+      "id": "magi-366",
+      "number": "366",
+      "title": "Cowardly Person",
+      "date": "2017/09/22",
+      "pages": []
+    },
+    {
+      "id": "magi-367",
+      "number": "367",
+      "title": "A Chaotic World",
+      "date": "2017/10/12",
+      "pages": []
+    },
+    {
+      "id": "magi-368",
+      "number": "368",
+      "title": "Breaking Point",
+      "date": "2017/10/12",
+      "pages": []
+    },
+    {
+      "id": "magi-369",
+      "number": "369",
+      "title": "Wishes",
+      "date": "2017/10/12",
+      "pages": []
+    }
+  ]
+}

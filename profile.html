@@ -1,0 +1,551 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="referrer" content="no-referrer">
+  <title>MangaBankai — Meu Perfil</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="icon" type="image/png" href="/img/logo.png">
+  <link rel="apple-touch-icon" href="/img/logo.png">
+  <style>
+    .profile-container {
+      max-width: 1000px;
+      margin: 0 auto;
+      /* fluido: 40px no desktop, encolhe até 16px/12px em telas pequenas */
+      padding: clamp(16px, 4vw, 40px) clamp(12px, 3vw, 24px);
+    }
+    .profile-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      padding: 32px;
+      display: flex;
+      align-items: center;
+      gap: 24px;
+      margin-bottom: 32px;
+    }
+    .profile-avatar {
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--accent), var(--accent2));
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2.2rem;
+      font-weight: 700;
+      text-transform: uppercase;
+    }
+    .profile-info h2 {
+      font-size: 1.6rem;
+      font-weight: 700;
+      margin-bottom: 4px;
+    }
+    .profile-info .badge {
+      display: inline-block;
+      background: rgba(255, 255, 255, 0.08);
+      border: 1px solid var(--border);
+      font-size: 0.72rem;
+      font-weight: 600;
+      padding: 4px 12px;
+      border-radius: 12px;
+      color: var(--text-secondary);
+    }
+    .profile-info .badge.admin {
+      background: rgba(255, 101, 132, 0.15);
+      border-color: rgba(255, 101, 132, 0.3);
+      color: var(--accent2);
+    }
+    .profile-admin-btn {
+      margin-left: auto;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: var(--accent);
+      color: #fff;
+      padding: 10px 18px;
+      border-radius: var(--radius-sm);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 0.88rem;
+      transition: opacity 0.2s;
+    }
+    .profile-admin-btn:hover {
+      opacity: 0.9;
+    }
+    .profile-tabs-nav {
+      display: flex;
+      border-bottom: 1px solid var(--border);
+      gap: 24px;
+      margin-bottom: 24px;
+      /* abas roláveis no mobile em vez de estourar a largura */
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+    .profile-tabs-nav::-webkit-scrollbar { display: none; }
+    .profile-tab-btn {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      font-size: 1rem;
+      font-weight: 600;
+      padding: 12px 4px;
+      cursor: pointer;
+      position: relative;
+      transition: color 0.2s;
+      font-family: inherit;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .profile-tab-btn:hover {
+      color: var(--text-primary);
+    }
+    .profile-tab-btn.active {
+      color: var(--text-primary);
+    }
+    .profile-tab-btn.active::after {
+      content: '';
+      position: absolute;
+      bottom: -1px;
+      left: 0;
+      right: 0;
+      height: 2px;
+      background: var(--accent);
+    }
+    .profile-tab-content {
+      display: none;
+    }
+    .profile-tab-content.active {
+      display: block;
+    }
+
+    /* History rows */
+    .history-list {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+    .history-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      padding: 16px;
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      transition: transform 0.2s;
+    }
+    .history-item:hover {
+      transform: translateY(-2px);
+    }
+    .history-cover {
+      width: 50px;
+      height: 70px;
+      object-fit: cover;
+      border-radius: 4px;
+      flex-shrink: 0;
+    }
+    .history-info {
+      flex: 1;
+      min-width: 0;
+    }
+    .history-info h3 {
+      font-size: 1.05rem;
+      font-weight: 600;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      margin-bottom: 6px;
+    }
+    .history-progress-label {
+      font-size: 0.8rem;
+      color: var(--text-secondary);
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 4px;
+    }
+    .history-progress-bar {
+      height: 6px;
+      background: rgba(255,255,255,0.06);
+      border-radius: 3px;
+      overflow: hidden;
+    }
+    .history-progress-fill {
+      height: 100%;
+      background: var(--accent);
+      border-radius: 3px;
+      width: 0%;
+    }
+    .history-actions {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .history-actions .btn {
+      padding: 8px 16px;
+      font-size: 0.82rem;
+      font-weight: 600;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: opacity 0.2s;
+      border: none;
+      font-family: inherit;
+    }
+    .history-actions .btn-continue {
+      background: var(--accent);
+      color: #fff;
+      text-decoration: none;
+      display: inline-block;
+    }
+    .history-actions .btn-remove {
+      background: rgba(239, 68, 110, 0.1);
+      color: #ef446e;
+    }
+    .history-actions .btn-remove:hover {
+      background: rgba(239, 68, 110, 0.2);
+    }
+
+    @media (max-width: 768px) {
+      .profile-card {
+        flex-direction: column;
+        text-align: center;
+        padding: 24px;
+      }
+      .profile-admin-btn {
+        margin-left: 0;
+        margin-top: 12px;
+        width: 100%;
+        justify-content: center;
+      }
+      /* Item do histórico em 2 linhas: capa+info em cima, botões embaixo em
+         largura total — mais compacto que a coluna centralizada de antes. */
+      .history-item {
+        display: grid;
+        grid-template-columns: 60px 1fr;
+        grid-template-areas:
+          "cover info"
+          "actions actions";
+        gap: 12px 14px;
+        align-items: center;
+        text-align: left;
+      }
+      .history-item:hover { transform: none; }
+      .history-cover {
+        grid-area: cover;
+        width: 60px;
+        height: 84px;
+        margin: 0;
+      }
+      .history-info { grid-area: info; }
+      .history-actions {
+        grid-area: actions;
+        margin-top: 0;
+        gap: 10px;
+      }
+      .history-actions .btn {
+        flex: 1;
+        text-align: center;
+        padding: 10px 12px;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .profile-card {
+        padding: 18px 14px;
+        gap: 14px;
+        margin-bottom: 20px;
+      }
+      .profile-avatar {
+        width: 64px;
+        height: 64px;
+        font-size: 1.7rem;
+      }
+      .profile-info h2 { font-size: 1.25rem; }
+      .profile-tabs-nav { gap: 16px; margin-bottom: 16px; }
+      .profile-tab-btn { font-size: 0.9rem; }
+      .history-list { gap: 12px; }
+      .history-item { padding: 12px; }
+      .history-info h3 { font-size: 0.95rem; }
+      .history-progress-label { font-size: 0.72rem; }
+    }
+  </style>
+  <script src="/js/loading-anim.js"></script>
+</head>
+<body>
+  <script>
+    window.MangaLoader && MangaLoader.splash('home');
+    window.addEventListener('load', function () { window.MangaLoader && MangaLoader.hideSplash(600); });
+  </script>
+  <header class="header">
+    <div class="header-inner">
+      <a href="/" class="logo"><img src="/img/logo.png" alt="MangaBankai" class="logo-img"></a>
+      <button class="header-hamburger" aria-label="Abrir menu" onclick="toggleHeaderMenu()">☰</button>
+      <div class="header-menu" id="headerMenu">
+      <nav class="nav">
+        <a href="/">Início</a>
+        <a href="/catalog.html">Catálogo</a>
+      </nav>
+      </div>
+      <div class="header-menu-overlay" id="headerMenuOverlay" onclick="toggleHeaderMenu()"></div>
+      <div class="search-bar">
+        <input type="text" id="searchInput" placeholder="Pesquisar mangás..." autocomplete="off">
+        <button class="search-btn" onclick="const q=document.getElementById('searchInput').value.trim();if(q)window.location.href='/catalog.html?q='+encodeURIComponent(q)">🔍</button>
+        <div class="search-dropdown" id="searchDropdown"></div>
+      </div>
+    </div>
+  </header>
+
+  <main class="profile-container">
+    <div id="unauthNotice" style="display:none;">
+      <div style="text-align:center; padding:80px 24px; background:var(--bg-card); border:1px solid var(--border); border-radius:12px;">
+        <span style="font-size:3rem;">🔒</span>
+        <h2 style="margin-top:16px; font-weight:700;">Área Restrita</h2>
+        <p style="color:var(--text-muted); margin-bottom:24px; margin-top:8px;">Você precisa fazer login para gerenciar seu perfil, favoritos e histórico em nuvem.</p>
+        <button class="btn btn-primary" onclick="openAuthModal()" style="padding:12px 24px; font-size:0.95rem; font-weight:600;">Entrar ou Cadastrar</button>
+      </div>
+      <div style="text-align:center; padding:28px 24px; background:var(--bg-card); border:1px solid var(--border); border-radius:12px; margin-top:20px;">
+        <span style="font-size:1.6rem;">©</span>
+        <h3 style="margin-top:8px; font-weight:700;">É titular de direitos de alguma obra listada aqui?</h3>
+        <p style="color:var(--text-muted); margin:8px auto 16px; max-width:520px; line-height:1.6;">Se você é autor, editora ou representante legal e deseja <strong>desindexar uma obra da plataforma</strong>, crie uma conta para abrir a solicitação formal com a documentação de titularidade.</p>
+        <a href="/takedown.html" class="btn btn-secondary" style="padding:10px 20px; font-size:0.88rem;">Solicitar desindexação</a>
+      </div>
+    </div>
+
+    <div id="profileContent" style="display:none;">
+      <!-- Profile Card -->
+      <div class="profile-card">
+        <div class="profile-avatar" id="profileAvatar">U</div>
+        <div class="profile-info">
+          <h2 id="profileUsername">Nome de Usuário</h2>
+          <span class="badge" id="profileRole">Leitor</span>
+        </div>
+        <a href="/admin.html" class="profile-admin-btn" id="profileAdminBtn" style="display:none;">⚙️ Painel de Administração</a>
+      </div>
+
+      <!-- Tab Navigation -->
+      <div class="profile-tabs-nav">
+        <button class="profile-tab-btn active" data-tab="history" onclick="switchTab('history')">📖 Histórico de Leitura</button>
+        <button class="profile-tab-btn" data-tab="favorites" onclick="switchTab('favorites')">❤️ Meus Favoritos</button>
+        <button class="profile-tab-btn" data-tab="takedowns" onclick="switchTab('takedowns')">© Desindexação</button>
+      </div>
+
+      <!-- Reading History Tab -->
+      <div class="profile-tab-content active" id="tab-history">
+        <div class="history-list" id="historyList"></div>
+      </div>
+
+      <!-- Favorites Tab -->
+      <div class="profile-tab-content" id="tab-favorites">
+        <div class="manga-grid" id="favoritesGrid"></div>
+      </div>
+
+      <!-- Takedowns Tab -->
+      <div class="profile-tab-content" id="tab-takedowns">
+        <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap; margin-bottom:20px;">
+          <p style="color:var(--text-muted); font-size:0.88rem; max-width:560px; line-height:1.6;">Solicitações de desindexação de obras das quais você é titular de direitos. A documentação é analisada em até 7 dias úteis.</p>
+          <a href="/takedown.html" class="btn btn-primary" style="padding:10px 18px; font-size:0.86rem; white-space:nowrap;">+ Nova solicitação</a>
+        </div>
+        <div class="history-list" id="takedownList"></div>
+      </div>
+    </div>
+  </main>
+
+  <script src="/js/data-lite.js"></script>
+  <script src="/js/main.js"></script>
+  <script>
+    // Seletor de Abas
+    function switchTab(tab) {
+      document.querySelectorAll('.profile-tab-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.tab === tab);
+      });
+      document.querySelectorAll('.profile-tab-content').forEach(content => {
+        content.classList.toggle('active', content.id === `tab-${tab}`);
+      });
+    }
+
+    // Inicialização da Página de Perfil
+    async function initProfile() {
+      // Aguarda o checkAuth resolver o currentUser (sem race condition)
+      await new Promise(ok => {
+        const check = setInterval(() => {
+          if (window.authChecked) {
+            clearInterval(check);
+            ok();
+          }
+        }, 30);
+      });
+
+      if (!window.currentUser) {
+        document.getElementById('unauthNotice').style.display = 'block';
+        document.getElementById('profileContent').style.display = 'none';
+        return;
+      }
+
+      document.getElementById('unauthNotice').style.display = 'none';
+      document.getElementById('profileContent').style.display = 'block';
+
+      // Dados do Card de Perfil
+      const u = window.currentUser;
+      document.getElementById('profileUsername').textContent = u.username;
+      document.getElementById('profileAvatar').textContent = u.username.charAt(0);
+      
+      const isAdmin = u.role === 'admin';
+      const roleBadge = document.getElementById('profileRole');
+      roleBadge.textContent = isAdmin ? 'Administrador' : 'Leitor';
+      roleBadge.className = 'badge' + (isAdmin ? ' admin' : '');
+      
+      if (isAdmin) {
+        document.getElementById('profileAdminBtn').style.display = 'inline-flex';
+      }
+
+      // Renderiza Histórico, Favoritos e Solicitações de Desindexação
+      renderHistory();
+      renderFavorites();
+      renderTakedowns();
+
+      // Deep-link: profile.html?tab=takedowns abre direto a aba
+      const wantedTab = new URLSearchParams(window.location.search).get('tab');
+      if (wantedTab && document.getElementById('tab-' + wantedTab)) switchTab(wantedTab);
+    }
+
+    async function renderTakedowns() {
+      const list = document.getElementById('takedownList');
+      if (!list) return;
+      let reqs = [];
+      try {
+        const res = await fetch('/api/takedown?action=mine');
+        if (res.ok) reqs = (await res.json()).requests || [];
+      } catch (e) {}
+
+      if (reqs.length === 0) {
+        list.innerHTML = '<p style="color:var(--text-muted);text-align:center;padding:48px 0;">Você não possui solicitações de desindexação.</p>';
+        return;
+      }
+
+      const STATUS = {
+        pending:  { label: '⏳ Em análise',              color: '#ffb300' },
+        approved: { label: '✅ Aprovada — obra desindexada', color: '#43a047' },
+        rejected: { label: '❌ Recusada',                 color: '#ef446e' }
+      };
+      const relLabel = { autor: 'Autor(a)', editora: 'Editora', representante: 'Representante legal', distribuidor: 'Distribuidor licenciado' };
+
+      list.innerHTML = reqs.map(r => {
+        // getManga busca no ORIGINAL_MANGA_DATA — acha o título mesmo depois
+        // que a obra foi desindexada (filtrada de MANGA_DATA).
+        const manga = typeof getManga === 'function' ? getManga(r.manga_id) : null;
+        const title = manga ? manga.title : r.manga_id;
+        const st = STATUS[r.status] || STATUS.pending;
+        const when = r.created_at ? new Date(r.created_at).toLocaleDateString('pt-BR') : '';
+        const note = r.status === 'rejected' && r.admin_note
+          ? `<div style="font-size:0.8rem;color:var(--text-muted);margin-top:6px;">Motivo: ${String(r.admin_note).replace(/</g, '&lt;')}</div>`
+          : '';
+        return `
+          <div class="history-item">
+            <div class="history-info">
+              <h3>#${r.id} · ${title}</h3>
+              <div class="history-progress-label">
+                <span>${relLabel[r.relationship] || r.relationship}</span>
+                <span>${when}</span>
+              </div>
+              <div style="font-size:0.85rem;font-weight:600;color:${st.color};margin-top:4px;">${st.label}</div>
+              ${note}
+            </div>
+          </div>`;
+      }).join('');
+    }
+
+    function renderHistory() {
+      const historyList = document.getElementById('historyList');
+      if (!historyList) return;
+
+      const progressData = getAllProgress(); // de localStorage
+      const entries = Object.entries(progressData);
+
+      if (entries.length === 0) {
+        historyList.innerHTML = '<p style="color:var(--text-muted);text-align:center;padding:48px 0;">Você ainda não começou a ler nenhum mangá.</p>';
+        return;
+      }
+
+      // Ordenar por updatedAt decrescente
+      entries.sort((a, b) => (b[1].updatedAt || 0) - (a[1].updatedAt || 0));
+
+      historyList.innerHTML = entries.map(([mangaId, p]) => {
+        // Encontra o mangá em MANGA_DATA
+        const manga = typeof MANGA_DATA !== 'undefined' ? MANGA_DATA.find(m => m.id === mangaId) : null;
+        if (!manga) return ''; // ignora se não existir mais no catálogo
+
+        const pct = p.totalPages > 0 ? Math.round(((p.pageIndex + 1) / p.totalPages) * 100) : 0;
+        const pageLabel = p.totalPages > 0 ? `Pág. ${p.pageIndex + 1} de ${p.totalPages} (${pct}%)` : `Em leitura`;
+        const updatedDate = p.updatedAt ? new Date(p.updatedAt).toLocaleDateString('pt-BR') : '';
+
+        return `
+          <div class="history-item" id="history-item-${mangaId}">
+            <img src="${manga.cover}" alt="${manga.title}" class="history-cover" referrerPolicy="no-referrer" onerror="this.src='https://placehold.co/50x70/1a1a1a/444?text=?'">
+            <div class="history-info">
+              <h3>${manga.title}</h3>
+              <div class="history-progress-label">
+                <span>${pageLabel}</span>
+                <span>${updatedDate}</span>
+              </div>
+              <div class="history-progress-bar">
+                <div class="history-progress-fill" style="width: ${pct}%"></div>
+              </div>
+            </div>
+            <div class="history-actions">
+              <a href="/manga/${mangaId}/${p.chapterNumber != null ? p.chapterNumber : p.chapterId}" class="btn btn-continue">Continuar</a>
+              <button onclick="removeFromHistory('${mangaId}')" class="btn btn-remove">Remover</button>
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    async function removeFromHistory(mangaId) {
+      const data = LS.get('continue', {});
+      delete data[mangaId];
+      LS.set('continue', data);
+      
+      if (window.currentUser) {
+        if (window.authHistory) delete window.authHistory[mangaId];
+        await fetch(`/api/manga/history?mangaId=${encodeURIComponent(mangaId)}`, { method: 'DELETE' }).catch(() => {});
+      }
+      
+      const itemEl = document.getElementById(`history-item-${mangaId}`);
+      if (itemEl) itemEl.remove();
+      
+      // Verifica se ficou vazio
+      if (Object.keys(getAllProgress()).length === 0) {
+        document.getElementById('historyList').innerHTML = '<p style="color:var(--text-muted);text-align:center;padding:48px 0;">Você ainda não começou a ler nenhum mangá.</p>';
+      }
+      showToast('Histórico de leitura <span class="toast-accent">removido</span>.');
+    }
+
+    async function renderFavorites() {
+      const grid = document.getElementById('favoritesGrid');
+      if (!grid) return;
+
+      // Obtém favoritos (pode vir de window.authFavorites ou localStorage)
+      let faves = getFavorites();
+
+      if (faves.length === 0) {
+        grid.innerHTML = '<p style="color:var(--text-muted);text-align:center;padding:48px 0;grid-column:1/-1;">Sua lista de favoritos está vazia.</p>';
+        return;
+      }
+
+      grid.innerHTML = '';
+      faves.forEach(mangaId => {
+        const manga = typeof MANGA_DATA !== 'undefined' ? MANGA_DATA.find(m => m.id === mangaId) : null;
+        if (manga) {
+          grid.appendChild(createMangaCard(manga));
+        }
+      });
+    }
+
+    window.addEventListener('load', () => {
+      initProfile();
+    });
+  </script>
+</body>
+</html>

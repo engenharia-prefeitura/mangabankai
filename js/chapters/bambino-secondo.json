@@ -1,0 +1,676 @@
+{
+  "en": [
+    {
+      "id": "bambino-secondo-1",
+      "number": "1",
+      "title": "Outbreak of War",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-2",
+      "number": "2",
+      "title": "Breakdown",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-3",
+      "number": "3",
+      "title": "A Spring Dish",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-4",
+      "number": "4",
+      "title": "A Smiling Face",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-5",
+      "number": "5",
+      "title": "Farewell",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-6",
+      "number": "6",
+      "title": "Landmine",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-7",
+      "number": "7",
+      "title": "Isolation",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-8",
+      "number": "8",
+      "title": "Style",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-9",
+      "number": "9",
+      "title": "Taste",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-10",
+      "number": "10",
+      "title": "Bedlam 001",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-11",
+      "number": "11",
+      "title": "Bedlam 002",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-12",
+      "number": "12",
+      "title": "Bedlam 003",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-13",
+      "number": "13",
+      "title": "Agony",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-14",
+      "number": "14",
+      "title": "Left Behind",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-15",
+      "number": "15",
+      "title": "Sweet Water",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-16",
+      "number": "16",
+      "title": "Moonlit Night",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-17",
+      "number": "17",
+      "title": "Lights Out",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-18",
+      "number": "18",
+      "title": "Announcement",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-19",
+      "number": "19",
+      "title": "Takeover 001",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-20",
+      "number": "20",
+      "title": "Takeover 002",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-21",
+      "number": "21",
+      "title": "Takeover 003",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-22",
+      "number": "22",
+      "title": "Takeover 004",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-23",
+      "number": "23",
+      "title": "Takeover 005",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-24",
+      "number": "24",
+      "title": "Takeover 006",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-25",
+      "number": "25",
+      "title": "Adverse Wind",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-26",
+      "number": "26",
+      "title": "Doubt",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-27",
+      "number": "27",
+      "title": "Empty Sky",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-28",
+      "number": "28",
+      "title": "Fist",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-29",
+      "number": "29",
+      "title": "Gift",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-30",
+      "number": "30",
+      "title": "Attack",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-31",
+      "number": "31",
+      "title": "A Strong Wind is Blowing",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-32",
+      "number": "32",
+      "title": "Wasteland",
+      "date": "2015/04/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-33",
+      "number": "33",
+      "title": "",
+      "date": "2015/07/11",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-34",
+      "number": "34",
+      "title": "",
+      "date": "2015/07/11",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-35",
+      "number": "35",
+      "title": "",
+      "date": "2015/07/11",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-36",
+      "number": "36",
+      "title": "",
+      "date": "2015/08/11",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-37",
+      "number": "37",
+      "title": "",
+      "date": "2015/09/08",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-38",
+      "number": "38",
+      "title": "",
+      "date": "2016/06/27",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-39",
+      "number": "39",
+      "title": "",
+      "date": "2016/06/27",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-40",
+      "number": "40",
+      "title": "",
+      "date": "2020/06/05",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-41",
+      "number": "41",
+      "title": "The Burnt Man (Part 1)",
+      "date": "2020/06/06",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-42",
+      "number": "42",
+      "title": "The Burnt Man (Part 2)",
+      "date": "2020/06/10",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-43",
+      "number": "43",
+      "title": "Jump",
+      "date": "2020/06/10",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-44",
+      "number": "44",
+      "title": "Revival Part 1",
+      "date": "2020/06/20",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-45",
+      "number": "45",
+      "title": "Revival Part 2",
+      "date": "2020/06/20",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-46",
+      "number": "46",
+      "title": "Revival (Part 3)",
+      "date": "2020/06/28",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-47",
+      "number": "47",
+      "title": "Revival (Part 4)",
+      "date": "2020/06/29",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-48",
+      "number": "48",
+      "title": "Revival (Part 5)",
+      "date": "2020/07/04",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-49",
+      "number": "49",
+      "title": "Revival (Part 6)",
+      "date": "2020/07/19",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-50",
+      "number": "50",
+      "title": "Revival (Part 7)",
+      "date": "2020/07/19",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-51",
+      "number": "51",
+      "title": "An Abandoned Cat",
+      "date": "2020/07/20",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-52",
+      "number": "52",
+      "title": "Empty Seats",
+      "date": "2020/07/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-53",
+      "number": "53",
+      "title": "Shout",
+      "date": "2020/07/22",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-54",
+      "number": "54",
+      "title": "Livestock",
+      "date": "2020/07/26",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-55",
+      "number": "55",
+      "title": "Place of Dreams (1)",
+      "date": "2020/08/04",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-56",
+      "number": "56",
+      "title": "Place of Dreams (2)",
+      "date": "2020/08/04",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-57",
+      "number": "57",
+      "title": "Economics",
+      "date": "2020/08/04",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-58",
+      "number": "58",
+      "title": "",
+      "date": "2020/08/10",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-59",
+      "number": "59",
+      "title": "",
+      "date": "2020/08/10",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-60",
+      "number": "60",
+      "title": "Indomitability 1",
+      "date": "2020/08/22",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-61",
+      "number": "61",
+      "title": "",
+      "date": "2020/08/24",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-62",
+      "number": "62",
+      "title": "",
+      "date": "2020/08/24",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-63",
+      "number": "63",
+      "title": "Indomitability 4",
+      "date": "2020/08/29",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-64",
+      "number": "64",
+      "title": "Celebrity 1",
+      "date": "2020/09/12",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-65",
+      "number": "65",
+      "title": "Celebrity 2",
+      "date": "2020/09/29",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-66",
+      "number": "66",
+      "title": "Wall",
+      "date": "2020/10/03",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-67",
+      "number": "67",
+      "title": "The Visit",
+      "date": "2020/10/11",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-68",
+      "number": "68",
+      "title": "City of Salt 1",
+      "date": "2020/10/21",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-69",
+      "number": "69",
+      "title": "City of Salt 2",
+      "date": "2020/10/27",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-70",
+      "number": "70",
+      "title": "Confession",
+      "date": "2020/11/06",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-71",
+      "number": "71",
+      "title": "Burning",
+      "date": "2020/11/26",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-72",
+      "number": "72",
+      "title": "Sunlight",
+      "date": "2020/12/08",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-73",
+      "number": "73",
+      "title": "Moonlight",
+      "date": "2020/12/24",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-74",
+      "number": "74",
+      "title": "Asuka",
+      "date": "2021/01/24",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-75",
+      "number": "75",
+      "title": "Goal",
+      "date": "2021/03/16",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-76",
+      "number": "76",
+      "title": "Light and Darkness",
+      "date": "2021/07/16",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-77",
+      "number": "77",
+      "title": "",
+      "date": "2022/08/13",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-78",
+      "number": "78",
+      "title": "The Fall 2",
+      "date": "2022/09/19",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-79",
+      "number": "79",
+      "title": "",
+      "date": "2024/10/19",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-80",
+      "number": "80",
+      "title": "",
+      "date": "2024/10/19",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-81",
+      "number": "81",
+      "title": "",
+      "date": "2024/10/19",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-82",
+      "number": "82",
+      "title": "",
+      "date": "2024/10/19",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-83",
+      "number": "83",
+      "title": "",
+      "date": "2024/10/19",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-84",
+      "number": "84",
+      "title": "",
+      "date": "2024/10/19",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-85",
+      "number": "85",
+      "title": "",
+      "date": "2024/10/19",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-86",
+      "number": "86",
+      "title": "",
+      "date": "2024/10/19",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-87",
+      "number": "87",
+      "title": "",
+      "date": "2024/10/19",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-88",
+      "number": "88",
+      "title": "",
+      "date": "2024/10/19",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-89",
+      "number": "89",
+      "title": "",
+      "date": "2024/10/19",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-90",
+      "number": "90",
+      "title": "",
+      "date": "2024/10/19",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-91",
+      "number": "91",
+      "title": "",
+      "date": "2024/10/19",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-92",
+      "number": "92",
+      "title": "",
+      "date": "2024/10/19",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-93",
+      "number": "93",
+      "title": "",
+      "date": "2024/10/19",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-94",
+      "number": "94",
+      "title": "",
+      "date": "2024/10/19",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-95",
+      "number": "95",
+      "title": "",
+      "date": "2024/10/19",
+      "pages": []
+    },
+    {
+      "id": "bambino-secondo-96",
+      "number": "96",
+      "title": "",
+      "date": "2024/10/19",
+      "pages": []
+    }
+  ]
+}

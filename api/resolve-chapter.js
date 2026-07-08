@@ -1,0 +1,287 @@
+const https = require('https');
+const http = require('http');
+const fs = require('fs');
+const path = require('path');
+
+const BASE_PT = 'https://leituramanga.net';
+const CDN_PT  = 'https://cdn.leituramanga.net/';
+const BASE_EN = 'https://ww2.mangafreak.me';
+const API_ML  = 'https://mangalivre.blog/wp-json/wp/v2';
+
+// Fontes Madara com páginas resolvidas sob demanda (armazenam só chapterUrl).
+const MADARA_SRC = new Set(['mangalivre-to', 'tankouhentai', 'tiamanhwa', 'mangadistrict']);
+
+function fetchUrl(url, redirects = 0) {
+  return new Promise((resolve, reject) => {
+    if (redirects > 5) return reject(new Error('Too many redirects'));
+    const client = url.startsWith('https') ? https : http;
+    const req = client.get(url, {
+      headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' },
+      timeout: 20000
+    }, res => {
+      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+        const next = res.headers.location.startsWith('http')
+          ? res.headers.location
+          : new URL(res.headers.location, url).href;
+        return fetchUrl(next, redirects + 1).then(resolve).catch(reject);
+      }
+      if (res.statusCode === 404) return reject(new Error('NOT_FOUND:404'));
+      let data = '';
+      res.on('data', c => data += c);
+      res.on('end', () => resolve(data));
+    });
+    req.on('error', reject);
+    req.on('timeout', () => { req.destroy(); reject(new Error('Timeout')); });
+  });
+}
+
+function extractRsc(html) {
+  const matches = html.match(/self\.__next_f\.push\(\[1,"([\s\S]*?)"\]\)/g) || [];
+  return matches.map(m => {
+    const c = m.match(/self\.__next_f\.push\(\[1,"([\s\S]*?)"\]\)/);
+    return c ? c[1].replace(/\\"/g, '"').replace(/\\n/g, '\n').replace(/\\t/g, '\t') : '';
+  }).join('');
+}
+
+async function fetchPtChapterPages(slug, chNum) {
+  const html = await fetchUrl(`${BASE_PT}/manga/${slug}/chapter/${chNum}`);
+  const rsc  = extractRsc(html);
+  const imagesM = rsc.match(/"images"\s*:\s*\[([\s\S]*?)\]/);
+  if (!imagesM) return [];
+  const pages = [];
+  let m;
+  const urlR = /"url"\s*:\s*"([^"]+)"/g;
+  while ((m = urlR.exec(imagesM[1])) !== null) pages.push(CDN_PT + m[1]);
+  return pages;
+}
+
+async function fetchMdxChapterPages(chapterId) {
+  // MangaDex@Home: pega baseUrl + hash + arquivos (URLs temporárias, resolvidas na hora).
+  // OBS: a MangaDex bloqueia o egress serverless da Vercel (responde 400/HTML), então
+  // esta resolução em runtime não funciona em produção. Mantida só por retrocompat.
+  let lastErr;
+  for (let attempt = 0; attempt < 2; attempt++) {
+    try {
+      const body = await fetchUrl('https://api.mangadex.org/at-home/server/' + chapterId);
+      const data = JSON.parse(body);
+      const base = data.baseUrl;
+      const hash = data.chapter && data.chapter.hash;
+      const files = (data.chapter && data.chapter.data) || [];
+      if (!base || !hash || !files.length) return [];
+      return files.map(fn => `${base}/data/${hash}/${fn}`);
+    } catch (e) {
+      lastErr = e;
+    }
+  }
+  console.error('fetchMdxChapterPages failed:', lastErr && lastErr.message);
+  return [];
+}
+
+async function fetchMlChapterPages(mlId) {
+  const body = await fetchUrl(`${API_ML}/media?parent=${mlId}&per_page=100`);
+  const media = JSON.parse(body);
+  if (!Array.isArray(media)) return [];
+  return media.map(m => m.source_url).sort((a, b) => {
+    const getNum = url => {
+      const filename = url.substring(url.lastIndexOf('/') + 1);
+      const match = filename.match(/^(\d+)/);
+      return match ? parseInt(match[1], 10) : 0;
+    };
+    return getNum(a) - getNum(b);
+  });
+}
+
+function extractMfPageImages(html) {
+  const urls = [...new Set(
+    (html.match(/https?:\/\/images\.mangafreak\.me\/mangas\/[^"'\s)]+\.(?:jpe?g|png|webp)/gi) || [])
+  )];
+  urls.sort((a, b) => {
+    const na = parseInt((a.match(/_(\d+)\.[a-z]+$/i) || [])[1] || '0', 10);
+    const nb = parseInt((b.match(/_(\d+)\.[a-z]+$/i) || [])[1] || '0', 10);
+    return na - nb;
+  });
+  return urls;
+}
+
+async function fetchEnChapterPages(slug, chNum) {
+  try {
+    const html = await fetchUrl(`${BASE_EN}/Read1_${slug}_${chNum}`);
+    const imgs = extractMfPageImages(html);
+    if (imgs.length > 0) return imgs;
+  } catch (e) {}
+  try {
+    const mangaHtml = await fetchUrl(`${BASE_EN}/Manga/${slug}`);
+    const esc   = String(slug).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const escCh = String(chNum).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const linkM = mangaHtml.match(new RegExp(`/Read\\d+_${esc}_${escCh}\\b`));
+    if (linkM) {
+      const html = await fetchUrl(`${BASE_EN}${linkM[0]}`);
+      return extractMfPageImages(html);
+    }
+  } catch (e) {}
+  return [];
+}
+
+async function loadChaptersFile(mangaId, req) {
+  try {
+    const p = path.join(__dirname, '..', 'js', 'chapters', `${mangaId}.json`);
+    if (fs.existsSync(p)) return JSON.parse(fs.readFileSync(p, 'utf8'));
+  } catch (e) {}
+
+  try {
+    const host = (req && req.headers && req.headers.host) || 'mangabankai.vercel.app';
+    const protocol = host.includes('localhost') || host.includes('127.0.0.1') ? 'http' : 'https';
+    const url = `${protocol}://${host}/js/chapters/${mangaId}.json`;
+    const body = await fetchUrl(url);
+    if (body) return JSON.parse(body);
+  } catch (e) {
+    console.error("HTTP chapter load failed:", e.message);
+  }
+  return {};
+}
+
+// Sites Madara (mangalivre.to, tankouhentai, tiamanhwa, mangadistrict…):
+// a página do capítulo traz as imagens em <img id="image-N"> / .wp-manga-chapter-img.
+// Resolvida sob demanda para o scraper não precisar pré-baixar cada capítulo.
+async function fetchMadaraChapterPages(chapterUrl) {
+  try {
+    const html = await fetchUrl(chapterUrl);
+    const imgs = [];
+    const grab = (tag) => { const m = tag.match(/(?:data-src|data-lazy-src|src)="\s*([^"]+?)\s*"/i); if (m) imgs.push(m[1].trim()); };
+    for (const m of html.matchAll(/<img[^>]*\bclass="[^"]*wp-manga-chapter-img[^"]*"[^>]*>/gi)) grab(m[0]);
+    if (!imgs.length) for (const m of html.matchAll(/<img[^>]*\bid="image-\d+"[^>]*>/gi)) grab(m[0]);
+    return [...new Set(imgs)].filter(u => /^https?:\/\//.test(u) && !/logo|avatar|icon|cropped|-\d+x\d+\.(?:jpe?g|png|webp)/i.test(u));
+  } catch (e) { return []; }
+}
+
+async function fetchH20ChapterPages(chapterUrl) {
+  try {
+    const html = await fetchUrl(chapterUrl);
+    const readerM = html.match(/ts_reader\.run\(([\s\S]+?)\);/);
+    if (readerM) {
+      try {
+        const data = JSON.parse(readerM[1]);
+        if (data.sources && data.sources[0] && Array.isArray(data.sources[0].images)) {
+          return data.sources[0].images.map(img => img.trim());
+        }
+      } catch (e) {}
+    }
+    const pages = [];
+    for (const m of html.matchAll(/<img[^>]+src="([^"]+img\.hentai1\.io[^"]+)"/gi)) {
+      pages.push(m[1].trim());
+    }
+    return [...new Set(pages)];
+  } catch (e) { return []; }
+}
+
+function checkMugiwarasImageHead(url) {
+  return new Promise((resolve) => {
+    const isHttps = url.startsWith('https');
+    const client = isHttps ? https : http;
+    const req = client.request(url, { method: 'HEAD', timeout: 5000 }, (res) => {
+      resolve(res.statusCode === 200);
+    });
+    req.on('error', () => resolve(false));
+    req.end();
+  });
+}
+
+// Note: Mugiwaras pages are pre-populated in chapter JSON files via local scraper.
+// The ch.pages.length > 0 branch in the handler handles them directly.
+// This fallback function handles any chapters that might still have baseFolder/ext
+// but no pages array (e.g., chapters scraped before population ran).
+async function fetchMugiwarasChapterPages(ch) {
+  return [];
+}
+
+module.exports = async (req, res) => {
+  if (req.method !== 'GET') {
+    return res.status(405).json({ success: false, error: 'Method not allowed' });
+  }
+
+  const { mangaId, slug, chNum, lang = 'pt' } = req.query || {};
+  if (!mangaId || !slug || !chNum) {
+    return res.status(400).json({ success: false, error: 'Missing parameters: mangaId, slug, chNum' });
+  }
+
+  const normalLang = lang.toLowerCase() === 'en' ? 'en' : 'pt';
+
+  try {
+    let pages = [];
+
+    // Tenta carregar o arquivo do capítulo primeiro para descobrir o src real
+    const chapObj = await loadChaptersFile(mangaId, req);
+    const chList = chapObj[normalLang] || chapObj.pt || chapObj.en || [];
+    const ch = chList.find(c => {
+      if (String(c.number) === String(chNum)) return true;
+      const fn1 = parseFloat(c.number);
+      const fn2 = parseFloat(chNum);
+      if (!isNaN(fn1) && !isNaN(fn2)) return fn1 === fn2;
+      return false;
+    });
+
+    // Só cai no scraper genérico (leituramanga/mangafreak) quando o capítulo não
+    // tem um provider conhecido — se o src é explícito (mangadex, mangalivre,
+    // hentai20) e o resolvedor dele falhou, tentar leituramanga/mangafreak é
+    // inútil (site errado) e só mascara o erro real com um 404 genérico.
+    let knownSrcResolved = false;
+
+    if (ch) {
+      if (ch.pages && ch.pages.length > 0) {
+        pages = ch.pages;
+        knownSrcResolved = true;
+      } else if (ch.src === 'hentai20') {
+        knownSrcResolved = true;
+        if (ch.chapterUrl) {
+          pages = await fetchH20ChapterPages(ch.chapterUrl);
+        }
+      } else if (MADARA_SRC.has(ch.src) && ch.chapterUrl) {
+        // Sites Madara resolvidos sob demanda (páginas não pré-gravadas).
+        knownSrcResolved = true;
+        pages = await fetchMadaraChapterPages(ch.chapterUrl);
+      } else if (ch.src === 'mugiwaras' && ch.chapterUrl) {
+        knownSrcResolved = true;
+        try {
+          pages = await fetchMugiwarasChapterPages(ch);
+        } catch (e) {
+          return res.status(200).json({ success: false, error: "Mugiwaras error: " + e.message });
+        }
+      } else if (ch.src === 'mundohentai') {
+        // Se as páginas estiverem vazias e for mundohentai, retornamos o erro amigável de rodar localmente.
+        // Se as páginas estiverem salvas no JSON, o if acima (ch.pages.length > 0) já as retornou com sucesso.
+        return res.status(200).json({
+          success: false,
+          error: 'Conteúdo MundoHentai não está disponível pelo site. Abra o painel admin localmente.',
+          pages: []
+        });
+      } else if (ch.src === 'mangadex' && ch.mdxId) {
+        knownSrcResolved = true;
+        try { pages = await fetchMdxChapterPages(ch.mdxId); } catch (e) { pages = []; }
+      } else if (ch.src === 'mangalivre' && ch.mlId) {
+        knownSrcResolved = true;
+        try { pages = await fetchMlChapterPages(ch.mlId); } catch (e) { pages = []; }
+      } else if (ch.src === 'leituramanga') {
+        pages = await fetchPtChapterPages(slug, chNum);
+      } else if (ch.src === 'mangafreak') {
+        pages = await fetchEnChapterPages(slug, chNum);
+      }
+    }
+
+    // Fallback caso não encontre o capítulo ou ele não tenha um src conhecido
+    if (pages.length === 0 && !knownSrcResolved) {
+      if (normalLang === 'en') {
+        pages = await fetchEnChapterPages(slug, chNum);
+      } else {
+        pages = await fetchPtChapterPages(slug, chNum);
+      }
+    }
+
+    if (pages.length === 0) {
+      return res.status(404).json({ success: false, error: 'Nenhuma página encontrada' });
+    }
+
+    res.status(200).json({ success: true, pages });
+  } catch (e) {
+    res.status(500).json({ success: false, error: e.message });
+  }
+};

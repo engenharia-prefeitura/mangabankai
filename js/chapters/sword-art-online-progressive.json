@@ -1,0 +1,725 @@
+{
+  "en": [
+    {
+      "id": "sword-art-online-progressive-1",
+      "number": "1",
+      "title": "As Meteor",
+      "date": "2013/09/01",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-2",
+      "number": "2",
+      "title": "Faster Than Anyone Else",
+      "date": "2013/09/01",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-3",
+      "number": "3",
+      "title": "Beta Testers",
+      "date": "2013/11/07",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-4",
+      "number": "4",
+      "title": "Electrical Signal",
+      "date": "2014/01/08",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-5",
+      "number": "5",
+      "title": "Talwar",
+      "date": "2014/01/19",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-6",
+      "number": "6",
+      "title": "Partner",
+      "date": "2014/01/29",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-7",
+      "number": "7",
+      "title": "Beater",
+      "date": "2014/02/06",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-8",
+      "number": "8",
+      "title": "The Fencer of The Assault Team",
+      "date": "2014/03/18",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-9",
+      "number": "9",
+      "title": "Reunion",
+      "date": "2014/04/25",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-10",
+      "number": "10",
+      "title": "Parting",
+      "date": "2014/08/15",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-11",
+      "number": "11",
+      "title": "Return",
+      "date": "2014/11/08",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-12",
+      "number": "12",
+      "title": "",
+      "date": "2016/04/08",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-13",
+      "number": "13",
+      "title": "",
+      "date": "2016/04/08",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-14",
+      "number": "14",
+      "title": "",
+      "date": "2016/04/08",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-15",
+      "number": "15",
+      "title": "",
+      "date": "2017/07/10",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-16",
+      "number": "16",
+      "title": "",
+      "date": "2017/07/10",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-17",
+      "number": "17",
+      "title": "",
+      "date": "2017/07/10",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-18",
+      "number": "18",
+      "title": "",
+      "date": "2017/07/10",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-19",
+      "number": "19",
+      "title": "",
+      "date": "2017/07/10",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-20",
+      "number": "20",
+      "title": "",
+      "date": "2017/07/10",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-21",
+      "number": "21",
+      "title": "",
+      "date": "2017/07/10",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-22",
+      "number": "22",
+      "title": "",
+      "date": "2017/11/21",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-23",
+      "number": "23",
+      "title": "",
+      "date": "2017/11/21",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-24",
+      "number": "24",
+      "title": "",
+      "date": "2017/11/21",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-25",
+      "number": "25",
+      "title": "",
+      "date": "2017/11/21",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-26",
+      "number": "26",
+      "title": "",
+      "date": "2017/11/21",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-27",
+      "number": "27",
+      "title": "",
+      "date": "2017/11/21",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-28",
+      "number": "28",
+      "title": "",
+      "date": "2017/11/21",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-29",
+      "number": "29",
+      "title": "",
+      "date": "2017/11/21",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-30",
+      "number": "30",
+      "title": "",
+      "date": "2017/11/21",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-31",
+      "number": "31",
+      "title": "",
+      "date": "2017/11/21",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-32",
+      "number": "32",
+      "title": "",
+      "date": "2018/03/04",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-33",
+      "number": "33",
+      "title": "",
+      "date": "2018/03/04",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-34",
+      "number": "34",
+      "title": "",
+      "date": "2018/03/11",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-35",
+      "number": "35",
+      "title": "",
+      "date": "2018/03/17",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-36",
+      "number": "36",
+      "title": "",
+      "date": "2018/03/21",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-37",
+      "number": "37",
+      "title": "",
+      "date": "2018/10/21",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-38",
+      "number": "38",
+      "title": "",
+      "date": "2018/10/21",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-39",
+      "number": "39",
+      "title": "",
+      "date": "2018/10/21",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-40",
+      "number": "40",
+      "title": "",
+      "date": "2018/10/21",
+      "pages": []
+    },
+    {
+      "id": "sword-art-online-progressive-41",
+      "number": "41",
+      "title": "",
+      "date": "2024/04/05",
+      "pages": []
+    }
+  ],
+  "pt": [
+    {
+      "id": "sword-art-online-progressive-chapter-0",
+      "number": 0,
+      "title": "Sword Art Online: Progressive—Kuraki Yuuyami no Scherzo – Capítulo 0",
+      "date": "2025-10-15T01:34:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806770
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-1",
+      "number": 1,
+      "title": "Sword Art Online: Progressive—Kuraki Yuuyami no Scherzo – Capítulo 1",
+      "date": "2025-10-15T01:34:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806776
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-2",
+      "number": 2,
+      "title": "Sword Art Online: Progressive—Kuraki Yuuyami no Scherzo – Capítulo 2",
+      "date": "2025-10-15T01:34:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806778
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-3",
+      "number": 3,
+      "title": "Sword Art Online: Progressive—Kuraki Yuuyami no Scherzo – Capítulo 3",
+      "date": "2025-10-15T01:34:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806773
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-4",
+      "number": 4,
+      "title": "Sword Art Online: Progressive—Kuraki Yuuyami no Scherzo – Capítulo 4",
+      "date": "2025-10-15T01:34:51Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806779
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-5",
+      "number": 5,
+      "title": "Sword Art Online: Progressive—Kuraki Yuuyami no Scherzo – Capítulo 5",
+      "date": "2025-10-15T01:34:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806775
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-6",
+      "number": 6,
+      "title": "Sword Art Online: Progressive—Kuraki Yuuyami no Scherzo – Capítulo 6",
+      "date": "2025-10-15T01:34:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806777
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-6.5",
+      "number": 6.5,
+      "title": "Sword Art Online: Progressive – Capítulo 6.5 – Sacrifício",
+      "date": "2025-10-15T01:29:07Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 805515
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-7",
+      "number": 7,
+      "title": "Sword Art Online: Progressive—Kuraki Yuuyami no Scherzo – Capítulo 7",
+      "date": "2025-10-15T01:34:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806774
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-8",
+      "number": 8,
+      "title": "Sword Art Online: Progressive—Kuraki Yuuyami no Scherzo – Capítulo 8",
+      "date": "2025-10-15T01:34:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806771
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-9",
+      "number": 9,
+      "title": "Sword Art Online: Progressive—Kuraki Yuuyami no Scherzo – Capítulo 9",
+      "date": "2025-10-15T01:34:50Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806772
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-10",
+      "number": 10,
+      "title": "Sword Art Online: Progressive—Kuraki Yuuyami no Scherzo – Capítulo 10",
+      "date": "2025-10-15T01:35:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 807048
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-10.5",
+      "number": 10.5,
+      "title": "Sword Art Online: Progressive – Capítulo 10.5 – Desespero",
+      "date": "2025-10-15T01:30:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 805820
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-11",
+      "number": 11,
+      "title": "Sword Art Online: Progressive—Kuraki Yuuyami no Scherzo – Capítulo 11",
+      "date": "2025-10-15T01:35:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 807044
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-12",
+      "number": 12,
+      "title": "Sword Art Online: Progressive—Kuraki Yuuyami no Scherzo – Capítulo 12",
+      "date": "2025-10-15T01:35:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 807043
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-13",
+      "number": 13,
+      "title": "Sword Art Online: Progressive—Kuraki Yuuyami no Scherzo – Capítulo 13",
+      "date": "2025-10-15T01:35:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 807050
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-14",
+      "number": 14,
+      "title": "Sword Art Online: Progressive—Kuraki Yuuyami no Scherzo – Capítulo 14",
+      "date": "2025-10-15T01:35:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 807047
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-15",
+      "number": 15,
+      "title": "Sword Art Online: Progressive—Kuraki Yuuyami no Scherzo – Capítulo 15",
+      "date": "2025-10-15T01:35:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 807052
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-16",
+      "number": 16,
+      "title": "Sword Art Online: Progressive—Kuraki Yuuyami no Scherzo – Capítulo 16",
+      "date": "2025-10-15T01:35:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 807045
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-16.5",
+      "number": 16.5,
+      "title": "Sword Art Online: Progressive – Capítulo 16.5 – Batalha",
+      "date": "2025-10-15T01:30:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 805823
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-17",
+      "number": 17,
+      "title": "Sword Art Online: Progressive—Kuraki Yuuyami no Scherzo – Capítulo 17",
+      "date": "2025-10-15T01:35:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 807051
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-18",
+      "number": 18,
+      "title": "Sword Art Online: Progressive—Kuraki Yuuyami no Scherzo – Capítulo 18",
+      "date": "2025-10-15T01:35:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 807049
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-19",
+      "number": 19,
+      "title": "Sword Art Online: Progressive—Kuraki Yuuyami no Scherzo – Capítulo 19 – Capítulo Final",
+      "date": "2025-10-15T01:35:43Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 807046
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-20",
+      "number": 20,
+      "title": "Sword Art Online: Progressive – Capítulo 20 – Os Heróis",
+      "date": "2025-10-15T01:31:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806115
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-21",
+      "number": 21,
+      "title": "Sword Art Online: Progressive – Capítulo 21 – Expiação",
+      "date": "2025-10-15T01:31:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806116
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-22",
+      "number": 22,
+      "title": "Sword Art Online: Progressive – Capítulo 22 – Encontro",
+      "date": "2025-10-15T01:31:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806113
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-23",
+      "number": 23,
+      "title": "Sword Art Online: Progressive – Capítulo 23 – Ajuda",
+      "date": "2025-10-15T01:31:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806108
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-24",
+      "number": 24,
+      "title": "Sword Art Online: Progressive – Capítulo 24 – Vingança",
+      "date": "2025-10-15T01:31:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806110
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-25",
+      "number": 25,
+      "title": "Sword Art Online: Progressive – Capítulo 25 – Derrota",
+      "date": "2025-10-15T01:31:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806112
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-26",
+      "number": 26,
+      "title": "Sword Art Online: Progressive – Capítulo 26 – Domador de lobos",
+      "date": "2025-10-15T01:31:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806114
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-27",
+      "number": 27,
+      "title": "Sword Art Online: Progressive – Capítulo 27 – Derrota II",
+      "date": "2025-10-15T01:31:19Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806111
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-28",
+      "number": 28,
+      "title": "Sword Art Online: Progressive – Capítulo 28 – O defensor",
+      "date": "2025-10-15T01:32:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806400
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-29",
+      "number": 29,
+      "title": "Sword Art Online: Progressive – Capítulo 29 – História",
+      "date": "2025-10-15T01:32:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806393
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-30",
+      "number": 30,
+      "title": "Sword Art Online: Progressive – Capítulo 30 – Missão",
+      "date": "2025-10-15T01:32:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806396
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-31",
+      "number": 31,
+      "title": "Sword Art Online: Progressive – Capítulo 31 – Interceptação",
+      "date": "2025-10-15T01:32:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806394
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-32",
+      "number": 32,
+      "title": "Sword Art Online: Progressive – Capítulo 32 – Relíquias",
+      "date": "2025-10-15T01:32:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806398
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-33",
+      "number": 33,
+      "title": "Sword Art Online: Progressive – Capítulo 33 – Jumft",
+      "date": "2025-10-15T01:32:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806397
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-34",
+      "number": 34,
+      "title": "Sword Art Online: Progressive – Capítulo 34 – Dever",
+      "date": "2025-10-15T01:32:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806399
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-35",
+      "number": 35,
+      "title": "Sword Art Online: Progressive – Capítulo 35 – Armadilha",
+      "date": "2025-10-15T01:32:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806401
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-36",
+      "number": 36,
+      "title": "Sword Art Online: Progressive – Capítulo 36 – Contagem Regressiva",
+      "date": "2025-10-15T01:32:18Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806402
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-36.5",
+      "number": 36.5,
+      "title": "Sword Art Online: Progressive – Capítulo 36.5",
+      "date": "2025-10-15T01:32:17Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806395
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-37",
+      "number": 37,
+      "title": "Sword Art Online: Progressive – Capítulo 37 – Primeiro Ataque",
+      "date": "2025-10-15T01:33:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806604
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-38",
+      "number": 38,
+      "title": "Sword Art Online: Progressive – Capítulo 38 – Desafio",
+      "date": "2025-10-15T01:33:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806610
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-39",
+      "number": 39,
+      "title": "Sword Art Online: Progressive – Capítulo 39 – Dividir e Conquistar",
+      "date": "2025-10-15T01:33:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806607
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-40",
+      "number": 40,
+      "title": "Sword Art Online: Progressive – Capítulo 40 – Sério",
+      "date": "2025-10-15T01:33:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806606
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-41",
+      "number": 41,
+      "title": "Sword Art Online: Progressive – Capítulo 41 – Humanidade",
+      "date": "2025-10-15T01:33:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806609
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-42",
+      "number": 42,
+      "title": "Sword Art Online: Progressive – Capítulo 42 – História",
+      "date": "2025-10-15T01:33:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806608
+    },
+    {
+      "id": "sword-art-online-progressive-chapter-43",
+      "number": 43,
+      "title": "Sword Art Online: Progressive – Capítulo 43 – Despedida",
+      "date": "2025-10-15T01:33:08Z",
+      "pages": [],
+      "src": "mangalivre",
+      "mlId": 806605
+    }
+  ]
+}

@@ -1,0 +1,928 @@
+{
+  "en": [
+    {
+      "id": "worst-1",
+      "number": "1",
+      "title": "The Man from out of Town",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-2",
+      "number": "2",
+      "title": "You've Changed",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-3",
+      "number": "3",
+      "title": "Suzuran Boy's Senior High School",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-4",
+      "number": "4",
+      "title": "A Decleration of a Leader",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-5",
+      "number": "5",
+      "title": "Chasing Amachi",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-6",
+      "number": "6",
+      "title": "Helicopter",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-7",
+      "number": "7",
+      "title": "Suzuran's Senpais",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-8",
+      "number": "8",
+      "title": "Guri Guri",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-9",
+      "number": "9",
+      "title": "The Evening Return Trip",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-10",
+      "number": "10",
+      "title": "King Joe's Gloom",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-11",
+      "number": "11",
+      "title": "The Spark that Lit the Fire",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-12",
+      "number": "12",
+      "title": "Lightning Speed",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-13",
+      "number": "13",
+      "title": "Volume05 Chapter13",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-14",
+      "number": "14",
+      "title": "Volume04 Chapter14",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-15",
+      "number": "15",
+      "title": "Volume04 Chapter15",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-16",
+      "number": "16",
+      "title": "Volume04 Chapter16",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-17",
+      "number": "17",
+      "title": "Volume05 Chapter17",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-18",
+      "number": "18",
+      "title": "Volume05 Chapter18",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-19",
+      "number": "19",
+      "title": "Volume05 Chapter19",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-20",
+      "number": "20",
+      "title": "Volume05 Chapter20",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-21",
+      "number": "21",
+      "title": "Volume06 Chapter21",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-22",
+      "number": "22",
+      "title": "Volume06 Chapter22",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-23",
+      "number": "23",
+      "title": "Volume06 Chapter23",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-24",
+      "number": "24",
+      "title": "Volume06 Chapter24",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-25",
+      "number": "25",
+      "title": "Volume07 Chapter25",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-26",
+      "number": "26",
+      "title": "Volume07 Chapter26",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-27",
+      "number": "27",
+      "title": "Volume07 Chapter27",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-28",
+      "number": "28",
+      "title": "Volume07 Chapter28",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-29",
+      "number": "29",
+      "title": "Volume08 Chapter29",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-30",
+      "number": "30",
+      "title": "Volume08 Chapter30",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-31",
+      "number": "31",
+      "title": "Volume08 Chapter31",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-32",
+      "number": "32",
+      "title": "Volume08 Chapter32",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-33",
+      "number": "33",
+      "title": "Volume09 Chapter33",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-34",
+      "number": "34",
+      "title": "Volume09 Chapter34",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-35",
+      "number": "35",
+      "title": "Volume09 Chapter35",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-36",
+      "number": "36",
+      "title": "Volume09 Chapter36",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-37",
+      "number": "37",
+      "title": "Volume10 Chapter37",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-38",
+      "number": "38",
+      "title": "Volume10 Chapter38",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-39",
+      "number": "39",
+      "title": "Volume10 Chapter39",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-40",
+      "number": "40",
+      "title": "Volume10 Chapter40",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-41",
+      "number": "41",
+      "title": "Volume11 Chapter41",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-42",
+      "number": "42",
+      "title": "Volume11 Chapter42",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-43",
+      "number": "43",
+      "title": "Volume11 Chapter43",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-44",
+      "number": "44",
+      "title": "Volume11 Chapter44",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-45",
+      "number": "45",
+      "title": "Volume12 Chapter45",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-46",
+      "number": "46",
+      "title": "Volume12 Chapter46",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-47",
+      "number": "47",
+      "title": "Volume12 Chapter47",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-48",
+      "number": "48",
+      "title": "Volume12 Chapter48",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-49",
+      "number": "49",
+      "title": "Volume13 Chapter49",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-50",
+      "number": "50",
+      "title": "To Mashiro Station",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-51",
+      "number": "51",
+      "title": "To the Promised Forest",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-52",
+      "number": "52",
+      "title": "The Sound of Crickets Chirping",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-53",
+      "number": "53",
+      "title": "Summer Time Blues",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-54",
+      "number": "54",
+      "title": "Bad News",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-55",
+      "number": "55",
+      "title": "Change Up!",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-56",
+      "number": "56",
+      "title": "Que Sera Sera",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-57",
+      "number": "57",
+      "title": "War and Peace",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-58",
+      "number": "58",
+      "title": "A Little Devil",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-59",
+      "number": "59",
+      "title": "Instinct",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-60",
+      "number": "60",
+      "title": "A Scheme from the Other Shore",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-61",
+      "number": "61",
+      "title": "Be Cool",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-62",
+      "number": "62",
+      "title": "Determination",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-63",
+      "number": "63",
+      "title": "Takumi, a Skull on His Back",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-64",
+      "number": "64",
+      "title": "Mediator",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-65",
+      "number": "65",
+      "title": "Seventh Generation",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-66",
+      "number": "66",
+      "title": "Whitey",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-67",
+      "number": "67",
+      "title": "Be-Tray-Al",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-68",
+      "number": "68",
+      "title": "Reunion",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-69",
+      "number": "69",
+      "title": "Promise",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-70",
+      "number": "70",
+      "title": "Strength of the Seventh Generation",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-71",
+      "number": "71",
+      "title": "Firing Up of the Hana-Gumi",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-72",
+      "number": "72",
+      "title": "Collision",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-73",
+      "number": "73",
+      "title": "Men",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-74",
+      "number": "74",
+      "title": "CLASH!",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-75",
+      "number": "75",
+      "title": "Level 3",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-76",
+      "number": "76",
+      "title": "Maverick",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-77",
+      "number": "77",
+      "title": "Last Words",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-78",
+      "number": "78",
+      "title": "Fearful Town",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-79",
+      "number": "79",
+      "title": "Scar",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-80",
+      "number": "80",
+      "title": "3 Days Later 3PM",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-81",
+      "number": "81",
+      "title": "300 Meters",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-82",
+      "number": "82",
+      "title": "Light and Darkness",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-83",
+      "number": "83",
+      "title": "Daifuku",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-84",
+      "number": "84",
+      "title": "The Snow is So",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-85",
+      "number": "85",
+      "title": "Moth",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-86",
+      "number": "86",
+      "title": "Ballad of a Skinhead",
+      "date": "2009/08/12",
+      "pages": []
+    },
+    {
+      "id": "worst-87",
+      "number": "87",
+      "title": "A Full Moon of Tears and a Dreadful Rumor",
+      "date": "2009/08/26",
+      "pages": []
+    },
+    {
+      "id": "worst-88",
+      "number": "88",
+      "title": "Graduation Ceremonies with Those Migs",
+      "date": "2009/08/26",
+      "pages": []
+    },
+    {
+      "id": "worst-89",
+      "number": "89",
+      "title": "I'm a Pawn",
+      "date": "2009/11/11",
+      "pages": []
+    },
+    {
+      "id": "worst-90",
+      "number": "90",
+      "title": "The Demon Arrives and Blows His Whistle",
+      "date": "2009/11/26",
+      "pages": []
+    },
+    {
+      "id": "worst-91",
+      "number": "91",
+      "title": "That Buckle",
+      "date": "2009/12/14",
+      "pages": []
+    },
+    {
+      "id": "worst-92",
+      "number": "92",
+      "title": "Comeback",
+      "date": "2010/01/03",
+      "pages": []
+    },
+    {
+      "id": "worst-93",
+      "number": "93",
+      "title": "Moth, Squirm",
+      "date": "2010/02/11",
+      "pages": []
+    },
+    {
+      "id": "worst-94",
+      "number": "94",
+      "title": "Hatchet Men",
+      "date": "2010/03/24",
+      "pages": []
+    },
+    {
+      "id": "worst-95",
+      "number": "95",
+      "title": "Anjou is Calling!",
+      "date": "2010/11/10",
+      "pages": []
+    },
+    {
+      "id": "worst-96",
+      "number": "96",
+      "title": "Welcome To Anjou",
+      "date": "2010/11/10",
+      "pages": []
+    },
+    {
+      "id": "worst-97",
+      "number": "97",
+      "title": "Pleased To Meet You!",
+      "date": "2010/11/10",
+      "pages": []
+    },
+    {
+      "id": "worst-98",
+      "number": "98",
+      "title": "The One Bear You Can Not Poke",
+      "date": "2010/11/10",
+      "pages": []
+    },
+    {
+      "id": "worst-99",
+      "number": "99",
+      "title": "A Distant Cry",
+      "date": "2010/11/10",
+      "pages": []
+    },
+    {
+      "id": "worst-100",
+      "number": "100",
+      "title": "Anywhere I Wanna Go",
+      "date": "2010/11/10",
+      "pages": []
+    },
+    {
+      "id": "worst-101",
+      "number": "101",
+      "title": "TFOA VS EMOD",
+      "date": "2010/11/11",
+      "pages": []
+    },
+    {
+      "id": "worst-102",
+      "number": "102",
+      "title": "Those Who Are Here, And Those Who Are Not",
+      "date": "2011/02/15",
+      "pages": []
+    },
+    {
+      "id": "worst-103",
+      "number": "103",
+      "title": "The Manji Empire",
+      "date": "2011/02/15",
+      "pages": []
+    },
+    {
+      "id": "worst-104",
+      "number": "104",
+      "title": "The First And The Last Fight Between Brothers",
+      "date": "2011/02/15",
+      "pages": []
+    },
+    {
+      "id": "worst-105",
+      "number": "105",
+      "title": "That Day In The Afternoon On The Roof",
+      "date": "2011/04/17",
+      "pages": []
+    },
+    {
+      "id": "worst-106",
+      "number": "106",
+      "title": "1000 Yen Person, Please",
+      "date": "2011/04/17",
+      "pages": []
+    },
+    {
+      "id": "worst-107",
+      "number": "107",
+      "title": "Fish Face",
+      "date": "2011/05/21",
+      "pages": []
+    },
+    {
+      "id": "worst-108",
+      "number": "108",
+      "title": "Clash! Hana vs Guriko!",
+      "date": "2011/06/12",
+      "pages": []
+    },
+    {
+      "id": "worst-109",
+      "number": "109",
+      "title": "Banana Banchou",
+      "date": "2011/08/21",
+      "pages": []
+    },
+    {
+      "id": "worst-110",
+      "number": "110",
+      "title": "",
+      "date": "2011/08/21",
+      "pages": []
+    },
+    {
+      "id": "worst-111",
+      "number": "111",
+      "title": "Just As Planned",
+      "date": "2011/10/24",
+      "pages": []
+    },
+    {
+      "id": "worst-112",
+      "number": "112",
+      "title": "",
+      "date": "2011/11/14",
+      "pages": []
+    },
+    {
+      "id": "worst-113",
+      "number": "113",
+      "title": "Bisuko's M4ssage",
+      "date": "2011/12/10",
+      "pages": []
+    },
+    {
+      "id": "worst-114",
+      "number": "114",
+      "title": "",
+      "date": "2012/01/13",
+      "pages": []
+    },
+    {
+      "id": "worst-115",
+      "number": "115",
+      "title": "Towards That Rainy Town",
+      "date": "2012/02/18",
+      "pages": []
+    },
+    {
+      "id": "worst-116",
+      "number": "116",
+      "title": "Huddle!",
+      "date": "2012/03/13",
+      "pages": []
+    },
+    {
+      "id": "worst-117",
+      "number": "117",
+      "title": "",
+      "date": "2012/07/05",
+      "pages": []
+    },
+    {
+      "id": "worst-118",
+      "number": "118",
+      "title": "",
+      "date": "2012/07/05",
+      "pages": []
+    },
+    {
+      "id": "worst-119",
+      "number": "119",
+      "title": "",
+      "date": "2012/07/05",
+      "pages": []
+    },
+    {
+      "id": "worst-120",
+      "number": "120",
+      "title": "",
+      "date": "2012/08/11",
+      "pages": []
+    },
+    {
+      "id": "worst-121",
+      "number": "121",
+      "title": "",
+      "date": "2012/08/11",
+      "pages": []
+    },
+    {
+      "id": "worst-122",
+      "number": "122",
+      "title": "",
+      "date": "2012/11/08",
+      "pages": []
+    },
+    {
+      "id": "worst-123",
+      "number": "123",
+      "title": "",
+      "date": "2012/11/08",
+      "pages": []
+    },
+    {
+      "id": "worst-124",
+      "number": "124",
+      "title": "Win? Loss?",
+      "date": "2013/02/11",
+      "pages": []
+    },
+    {
+      "id": "worst-125",
+      "number": "125",
+      "title": "Vice-Head Rhapsody",
+      "date": "2013/02/11",
+      "pages": []
+    },
+    {
+      "id": "worst-126",
+      "number": "126",
+      "title": "Two First-Aid Kits",
+      "date": "2013/02/11",
+      "pages": []
+    },
+    {
+      "id": "worst-127",
+      "number": "127",
+      "title": "Blood, Sweat and Tears",
+      "date": "2013/03/16",
+      "pages": []
+    },
+    {
+      "id": "worst-128",
+      "number": "128",
+      "title": "Ode To The Graffiti Covered Fortress",
+      "date": "2013/04/08",
+      "pages": []
+    },
+    {
+      "id": "worst-129",
+      "number": "129",
+      "title": "This Is Suzuran",
+      "date": "2013/08/27",
+      "pages": []
+    },
+    {
+      "id": "worst-130",
+      "number": "130",
+      "title": "Until We Meet Again",
+      "date": "2013/08/27",
+      "pages": []
+    },
+    {
+      "id": "worst-131",
+      "number": "131",
+      "title": "Thats To Bad",
+      "date": "2013/08/27",
+      "pages": []
+    },
+    {
+      "id": "worst-132",
+      "number": "132",
+      "title": "Bisuko Gaiden",
+      "date": "2020/10/09",
+      "pages": []
+    }
+  ]
+}

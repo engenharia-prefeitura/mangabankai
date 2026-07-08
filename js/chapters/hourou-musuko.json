@@ -1,0 +1,865 @@
+{
+  "en": [
+    {
+      "id": "hourou-musuko-1",
+      "number": "1",
+      "title": "I Am a Girl",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-2",
+      "number": "2",
+      "title": "Forever a Transient Son",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-3",
+      "number": "3",
+      "title": "Oscar and Andre",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-4",
+      "number": "4",
+      "title": "Transient Daughter",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-5",
+      "number": "5",
+      "title": "Nitori-kun's Birthday",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-6",
+      "number": "6",
+      "title": "Words of a Friend",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-7",
+      "number": "7",
+      "title": "Takatsuki-san's Misfortune",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-8",
+      "number": "8",
+      "title": "Everything I Want",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-9",
+      "number": "9",
+      "title": "Love and a Hairpiece",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-10",
+      "number": "10",
+      "title": "Hopes and Dreams",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-11",
+      "number": "11",
+      "title": "You Poor Girl",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-12",
+      "number": "12",
+      "title": "Girl Under Stress",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-13",
+      "number": "13",
+      "title": "Grade School Student Diary",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-14",
+      "number": "14",
+      "title": "A Strange Pair",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-15",
+      "number": "15",
+      "title": "School Trip - The Day Before",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-16",
+      "number": "16",
+      "title": "School Trip - Day 1",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-17",
+      "number": "17",
+      "title": "School Trip - Day 2",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-18",
+      "number": "18",
+      "title": "Together with Onee-chan",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-19",
+      "number": "19",
+      "title": "A Hectic Day",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-20",
+      "number": "20",
+      "title": "Half in Frenzy",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-21",
+      "number": "21",
+      "title": "A New Friend",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-22",
+      "number": "22",
+      "title": "A Date on Sunday",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-23",
+      "number": "23",
+      "title": "Takatsuki Yashino's Determination",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-24",
+      "number": "24",
+      "title": "It Keeps Getting Weirder",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-25",
+      "number": "25",
+      "title": "Everyone's Song",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-26",
+      "number": "26",
+      "title": "Onee-chan's Love",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-27",
+      "number": "27",
+      "title": "Grieving Young Mister Princess",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-28",
+      "number": "28",
+      "title": "Romantic Elopement",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-29",
+      "number": "29",
+      "title": "Kiss Riot",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-30",
+      "number": "30",
+      "title": "Not Even Spring But",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-31",
+      "number": "31",
+      "title": "Confession",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-32",
+      "number": "32",
+      "title": "Riven Again",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-33",
+      "number": "33",
+      "title": "Ah... Junior High Students",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-34",
+      "number": "34",
+      "title": "The Mysterious Sasashina",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-35",
+      "number": "35",
+      "title": "Refreshing Class 3",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-36",
+      "number": "36",
+      "title": "Class Getting Along",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-37",
+      "number": "37",
+      "title": "Beautiful Monday",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-38",
+      "number": "38",
+      "title": "Sensei Loves Mysteries",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-39",
+      "number": "39",
+      "title": "Girl Rehearsal Practice",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-40",
+      "number": "40",
+      "title": "The Door to Summer",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-41",
+      "number": "41",
+      "title": "Revival",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-42",
+      "number": "42",
+      "title": "The Beginning of Summer Vacation",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-43",
+      "number": "43",
+      "title": "Around the Middle of Summer Vacation",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-44",
+      "number": "44",
+      "title": "The End of Summer Vacation",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-45",
+      "number": "45",
+      "title": "Preparations for the Banquet 1",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-46",
+      "number": "46",
+      "title": "Preparations for the Banquet 2",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-47",
+      "number": "47",
+      "title": "Preparations for the Banquet 3",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-48",
+      "number": "48",
+      "title": "It's the Festival! Everyone Assemble! 1",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-49",
+      "number": "49",
+      "title": "It's the Festival! Everyone Assemble! 2",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-50",
+      "number": "50",
+      "title": "Mako's Feelings",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-51",
+      "number": "51",
+      "title": "A Maiden's Wish",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-52",
+      "number": "52",
+      "title": "Yoshino's Pleasant Prayer",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-53",
+      "number": "53",
+      "title": "Secretive Nitori-kun",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-54",
+      "number": "54",
+      "title": "Ripple",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-55",
+      "number": "55",
+      "title": "Clear Up the Snow",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-56",
+      "number": "56",
+      "title": "Go Skiing with Me 1",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-57",
+      "number": "57",
+      "title": "Go Skiing with Me 2",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-58",
+      "number": "58",
+      "title": "Spring",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-59",
+      "number": "59",
+      "title": "The Opposite of Like",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-60",
+      "number": "60",
+      "title": "Sister's Approval",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-61",
+      "number": "61",
+      "title": "Shaking",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-62",
+      "number": "62",
+      "title": "The Song's Soul",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-63",
+      "number": "63",
+      "title": "The Morning They Set Off",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-64",
+      "number": "64",
+      "title": "Dam",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-65",
+      "number": "65",
+      "title": "Break Down",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-66",
+      "number": "66",
+      "title": "The Long Day",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-67",
+      "number": "67",
+      "title": "Too Late",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-68",
+      "number": "68",
+      "title": "A License for Kindness",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-69",
+      "number": "69",
+      "title": "Puberty",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-70",
+      "number": "70",
+      "title": "Catch Me If You Can",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-71",
+      "number": "71",
+      "title": "Going Around in Circles",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-72",
+      "number": "72",
+      "title": "Roaring Business",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-73",
+      "number": "73",
+      "title": "Transient Boy Transient Girl",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-74",
+      "number": "74",
+      "title": "The First Step",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-75",
+      "number": "75",
+      "title": "Summer Vacation",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-76",
+      "number": "76",
+      "title": "Grate",
+      "date": "2009/09/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-77",
+      "number": "77",
+      "title": "Sensation",
+      "date": "2009/09/16",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-78",
+      "number": "78",
+      "title": "Mako's Love",
+      "date": "2009/10/20",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-79",
+      "number": "79",
+      "title": "Doi-Kun",
+      "date": "2009/11/18",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-80",
+      "number": "80",
+      "title": "Plus Minus",
+      "date": "2009/12/18",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-81",
+      "number": "81",
+      "title": "Glass Generation",
+      "date": "2010/01/21",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-82",
+      "number": "82",
+      "title": "Love Me Please Love Me",
+      "date": "2010/02/27",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-83",
+      "number": "83",
+      "title": "The First Storm of Spring",
+      "date": "2010/04/03",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-84",
+      "number": "84",
+      "title": "Sprout",
+      "date": "2010/04/14",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-85",
+      "number": "85",
+      "title": "Passing By",
+      "date": "2010/05/19",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-86",
+      "number": "86",
+      "title": "A School Excursion For Everyone 1",
+      "date": "2010/06/24",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-87",
+      "number": "87",
+      "title": "A School Excursion For EveRyone 2",
+      "date": "2010/07/21",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-88",
+      "number": "88",
+      "title": "School Excursion For Everyone 3",
+      "date": "2010/09/03",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-89",
+      "number": "89",
+      "title": "Each To Their Own",
+      "date": "2010/09/23",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-90",
+      "number": "90",
+      "title": "Stylish Connections",
+      "date": "2010/10/20",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-91",
+      "number": "91",
+      "title": "An Exciting Idea",
+      "date": "2010/11/16",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-92",
+      "number": "92",
+      "title": "Kindred Spirits",
+      "date": "2011/01/07",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-93",
+      "number": "93",
+      "title": "",
+      "date": "2011/01/19",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-94",
+      "number": "94",
+      "title": "The Cherry Blossom Season",
+      "date": "2011/02/18",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-95",
+      "number": "95",
+      "title": "Isn't Spring Here Yet?",
+      "date": "2011/03/26",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-96",
+      "number": "96",
+      "title": "Tyltyl And Mytyl",
+      "date": "2011/04/27",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-97",
+      "number": "97",
+      "title": "A New World",
+      "date": "2011/05/15",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-98",
+      "number": "98",
+      "title": "Debut",
+      "date": "2011/07/23",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-99",
+      "number": "99",
+      "title": "Totally At a Loss",
+      "date": "2011/07/23",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-100",
+      "number": "100",
+      "title": "Spiral Outline",
+      "date": "2011/08/23",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-101",
+      "number": "101",
+      "title": "The Quiet Before The Storm",
+      "date": "2011/09/25",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-102",
+      "number": "102",
+      "title": "Half Knowledge",
+      "date": "2011/10/16",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-103",
+      "number": "103",
+      "title": "Mii-Tan's Father 1",
+      "date": "2011/11/24",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-104",
+      "number": "104",
+      "title": "Mii-Tan's Father 2",
+      "date": "2011/12/25",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-105",
+      "number": "105",
+      "title": "Mind Game",
+      "date": "2012/02/18",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-106",
+      "number": "106",
+      "title": "Whispered Words",
+      "date": "2012/03/05",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-107",
+      "number": "107",
+      "title": "Positive Dance",
+      "date": "2012/03/21",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-108",
+      "number": "108",
+      "title": "Dizzy Girl",
+      "date": "2012/05/01",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-109",
+      "number": "109",
+      "title": "Growing Up",
+      "date": "2012/05/24",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-110",
+      "number": "110",
+      "title": "Unbalanced",
+      "date": "2012/06/21",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-111",
+      "number": "111",
+      "title": "Sprout",
+      "date": "2012/07/19",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-112",
+      "number": "112",
+      "title": "Mako's Adventure",
+      "date": "2012/08/23",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-113",
+      "number": "113",
+      "title": "Level-Headed Mako",
+      "date": "2012/09/19",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-114",
+      "number": "114",
+      "title": "Love Me Delicately",
+      "date": "2012/11/02",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-115",
+      "number": "115",
+      "title": "Suki Tokimeki to Kisu",
+      "date": "2012/11/15",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-116",
+      "number": "116",
+      "title": "State Of Mind",
+      "date": "2012/12/16",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-117",
+      "number": "117",
+      "title": "Future Diary",
+      "date": "2013/01/27",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-118",
+      "number": "118",
+      "title": "Snow Drop",
+      "date": "2013/02/27",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-119",
+      "number": "119",
+      "title": "Dreaming Girl",
+      "date": "2013/03/24",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-120",
+      "number": "120",
+      "title": "First Voice",
+      "date": "2013/06/09",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-121",
+      "number": "121",
+      "title": "Love",
+      "date": "2013/06/09",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-122",
+      "number": "122",
+      "title": "My Rose Colored Life",
+      "date": "2013/07/21",
+      "pages": []
+    },
+    {
+      "id": "hourou-musuko-123",
+      "number": "123",
+      "title": "I You Can Always Smile Quietly For Someone...",
+      "date": "2013/07/21",
+      "pages": []
+    }
+  ]
+}

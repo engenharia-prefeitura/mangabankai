@@ -1,0 +1,522 @@
+{
+  "en": [
+    {
+      "id": "dengeki-daisy-1",
+      "number": "1",
+      "title": "Suspicious Guy",
+      "date": "2009/07/08",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-2",
+      "number": "2",
+      "title": "Even for an instant, he is a hero!",
+      "date": "2009/07/08",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-3",
+      "number": "3",
+      "title": "I am Still Inexperienced",
+      "date": "2009/07/08",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-4",
+      "number": "4",
+      "title": "That person is near yet far",
+      "date": "2009/07/08",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-5",
+      "number": "5",
+      "title": "Extra",
+      "date": "2009/07/08",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-6",
+      "number": "6",
+      "title": "We have a problem big sis",
+      "date": "2009/07/08",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-7",
+      "number": "7",
+      "title": "He will protect me",
+      "date": "2009/07/08",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-8",
+      "number": "8",
+      "title": "Best Friends",
+      "date": "2009/07/08",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-9",
+      "number": "9",
+      "title": "The hero is at an adolescent age...",
+      "date": "2009/07/08",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-10",
+      "number": "10",
+      "title": "Will You Disappear",
+      "date": "2009/09/08",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-11",
+      "number": "11",
+      "title": "Thanks for Everything",
+      "date": "2009/09/08",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-12",
+      "number": "12",
+      "title": "Inside that Cell Phone",
+      "date": "2009/09/09",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-13",
+      "number": "13",
+      "title": "When the Truth is Out",
+      "date": "2009/09/11",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-14",
+      "number": "14",
+      "title": "Secret",
+      "date": "2009/09/12",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-15",
+      "number": "15",
+      "title": "In Order to Become a Cruel Woman",
+      "date": "2009/10/11",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-16",
+      "number": "16",
+      "title": "Which Feelings Are Those?",
+      "date": "2009/11/23",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-17",
+      "number": "17",
+      "title": "The Name Of That Flower",
+      "date": "2010/01/02",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-18",
+      "number": "18",
+      "title": "The Fourth Man",
+      "date": "2010/02/07",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-19",
+      "number": "19",
+      "title": "The Things I Can Do For You",
+      "date": "2010/03/12",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-20",
+      "number": "20",
+      "title": "To You, My Beloved",
+      "date": "2010/04/17",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-21",
+      "number": "21",
+      "title": "The First...",
+      "date": "2010/04/17",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-22",
+      "number": "22",
+      "title": "Each Person`s Pain",
+      "date": "2010/04/19",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-23",
+      "number": "23",
+      "title": "To Protect And To Lose Something",
+      "date": "2010/04/19",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-24",
+      "number": "24",
+      "title": "Accompany Me",
+      "date": "2010/04/20",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-25",
+      "number": "25",
+      "title": "Most In The World",
+      "date": "2010/08/31",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-26",
+      "number": "26",
+      "title": "Kiss",
+      "date": "2010/11/17",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-27",
+      "number": "27",
+      "title": "Decision",
+      "date": "2010/12/30",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-28",
+      "number": "28",
+      "title": "The Possibility of a Happy End",
+      "date": "2010/12/30",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-29",
+      "number": "29",
+      "title": "Not Suited for a Cute Girl",
+      "date": "2010/12/30",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-30",
+      "number": "30",
+      "title": "Only I Know",
+      "date": "2011/03/14",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-31",
+      "number": "31",
+      "title": "What Was Stolen",
+      "date": "2011/04/13",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-32",
+      "number": "32",
+      "title": "Stray Heart",
+      "date": "2011/05/15",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-33",
+      "number": "33",
+      "title": "So I Can Meet With You",
+      "date": "2011/07/02",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-34",
+      "number": "34",
+      "title": "The Truth Comes Out",
+      "date": "2011/08/30",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-35",
+      "number": "35",
+      "title": "Why did you disappear?",
+      "date": "2011/08/30",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-36",
+      "number": "36",
+      "title": "",
+      "date": "2011/09/01",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-37",
+      "number": "37",
+      "title": "Two Men",
+      "date": "2011/09/03",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-38",
+      "number": "38",
+      "title": "The Beginning Of The \"Sin\"",
+      "date": "2011/09/05",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-39",
+      "number": "39",
+      "title": "The Day \"Daisy\" Was Born",
+      "date": "2011/09/05",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-40",
+      "number": "40",
+      "title": "Reunion",
+      "date": "2011/09/15",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-41",
+      "number": "41",
+      "title": "Whereabouts Of The \"Sin\"",
+      "date": "2011/09/16",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-42",
+      "number": "42",
+      "title": "I Want To Feel You",
+      "date": "2011/09/18",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-43",
+      "number": "43",
+      "title": "You've Got Mail",
+      "date": "2011/09/24",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-44",
+      "number": "44",
+      "title": "A Demon Appears",
+      "date": "2011/10/29",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-45",
+      "number": "45",
+      "title": "Tests And Trials",
+      "date": "2011/11/06",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-46",
+      "number": "46",
+      "title": "I Cannot Resist Your Beautiful Self",
+      "date": "2012/03/25",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-47",
+      "number": "47",
+      "title": "Daisy Bell",
+      "date": "2012/04/29",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-48",
+      "number": "48",
+      "title": "Rena's Fiance",
+      "date": "2012/05/02",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-49",
+      "number": "49",
+      "title": "Hide The Frustrations In Your Heart",
+      "date": "2012/05/29",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-50",
+      "number": "50",
+      "title": "It's Still Too Early To Be A Man",
+      "date": "2012/07/09",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-51",
+      "number": "51",
+      "title": "Dangerous Love Game",
+      "date": "2012/07/14",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-52",
+      "number": "52",
+      "title": "Testament, And Answer, And Friendship.",
+      "date": "2012/09/05",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-53",
+      "number": "53",
+      "title": "We Swear On Our Friendship",
+      "date": "2012/10/03",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-54",
+      "number": "54",
+      "title": "A Child's Distinction, an Adult's Resolution",
+      "date": "2012/11/05",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-55",
+      "number": "55",
+      "title": "Crush His Plan (First Part)",
+      "date": "2013/01/15",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-56",
+      "number": "56",
+      "title": "Crush His Plan 1",
+      "date": "2013/02/14",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-57",
+      "number": "57",
+      "title": "Footsteps From The Past...",
+      "date": "2013/04/03",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-58",
+      "number": "58",
+      "title": "The Day I Get Closer Someday",
+      "date": "2013/05/05",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-59",
+      "number": "59",
+      "title": "With Our Faith",
+      "date": "2013/05/27",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-60",
+      "number": "60",
+      "title": "I'm Counting on You",
+      "date": "2013/09/23",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-61",
+      "number": "61",
+      "title": "Attack",
+      "date": "2013/12/25",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-62",
+      "number": "62",
+      "title": "Feelings and Pain",
+      "date": "2013/12/31",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-63",
+      "number": "63",
+      "title": "A Message From Soichiro (Part 001)",
+      "date": "2014/01/09",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-64",
+      "number": "64",
+      "title": "Message From Soichiro (Part 002)",
+      "date": "2014/02/21",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-65",
+      "number": "65",
+      "title": "The \"Testament\" of Professor Midorikawa",
+      "date": "2014/03/27",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-66",
+      "number": "66",
+      "title": "That Which is Entrusted",
+      "date": "2014/06/10",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-67",
+      "number": "67",
+      "title": "Because This Time It's Important",
+      "date": "2014/06/23",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-68",
+      "number": "68",
+      "title": "I Decided To Be Happy",
+      "date": "2014/07/15",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-70",
+      "number": "70",
+      "title": "Unwavering",
+      "date": "2014/10/28",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-71",
+      "number": "71",
+      "title": "Lucky Charm",
+      "date": "2014/11/08",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-72",
+      "number": "72",
+      "title": "My Hero Will Come",
+      "date": "2015/01/02",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-73",
+      "number": "73",
+      "title": "Our Future",
+      "date": "2015/03/11",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-74",
+      "number": "74",
+      "title": "Let's Go Home",
+      "date": "2015/03/18",
+      "pages": []
+    },
+    {
+      "id": "dengeki-daisy-75",
+      "number": "75",
+      "title": "Mail 073 Our Future",
+      "date": "2022/01/18",
+      "pages": []
+    }
+  ]
+}

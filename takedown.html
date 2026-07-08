@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="referrer" content="no-referrer">
+  <title>Solicitar Desindexação — MangaBankai</title>
+  <meta name="description" content="Canal para titulares de direitos autorais solicitarem a desindexação de obras do MangaBankai.">
+  <meta name="theme-color" content="#6c63ff">
+  <meta name="robots" content="noindex">
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" type="image/png" href="/img/logo.png">
+  <link rel="apple-touch-icon" href="/img/logo.png">
+  <style>
+    .td-container { max-width: 760px; margin: 0 auto; padding: clamp(16px, 4vw, 40px) clamp(12px, 3vw, 24px) 80px; }
+    .td-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      padding: clamp(20px, 4vw, 36px);
+    }
+    .td-card h1 { font-size: 1.6rem; font-weight: 800; margin-bottom: 8px; }
+    .td-card .td-sub { color: var(--text-secondary); font-size: 0.92rem; margin-bottom: 28px; line-height: 1.6; }
+    .td-field { margin-bottom: 20px; }
+    .td-field label { display: block; font-size: 0.85rem; font-weight: 600; margin-bottom: 8px; color: var(--text-primary); }
+    .td-field .hint { font-size: 0.78rem; color: var(--text-muted); margin-top: 6px; line-height: 1.5; }
+    .td-field input, .td-field select, .td-field textarea {
+      width: 100%;
+      background: var(--bg-secondary, rgba(255,255,255,0.04));
+      border: 1px solid var(--border);
+      color: var(--text-primary);
+      padding: 12px 14px;
+      border-radius: var(--radius-sm);
+      font-size: 0.9rem;
+      font-family: var(--font);
+    }
+    .td-field textarea { min-height: 100px; resize: vertical; }
+    .td-field input:focus, .td-field select:focus, .td-field textarea:focus { outline: none; border-color: var(--accent); }
+    .td-manga-search { position: relative; }
+    .td-manga-dropdown {
+      position: absolute; top: 100%; left: 0; right: 0; z-index: 20;
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: var(--radius-sm); margin-top: 4px; max-height: 280px; overflow-y: auto;
+      display: none;
+    }
+    .td-manga-dropdown .opt { display: flex; align-items: center; gap: 12px; padding: 10px 12px; cursor: pointer; }
+    .td-manga-dropdown .opt:hover { background: var(--bg-hover, rgba(255,255,255,0.06)); }
+    .td-manga-dropdown .opt img { width: 34px; height: 48px; object-fit: cover; border-radius: 4px; }
+    .td-selected {
+      display: flex; align-items: center; gap: 14px;
+      background: rgba(108, 99, 255, 0.08); border: 1px solid var(--accent);
+      border-radius: var(--radius-sm); padding: 12px 14px;
+    }
+    .td-selected img { width: 42px; height: 58px; object-fit: cover; border-radius: 4px; }
+    .td-selected .change { margin-left: auto; background: none; border: none; color: var(--accent); cursor: pointer; font-size: 0.8rem; font-weight: 600; font-family: var(--font); }
+    .td-error {
+      display: none;
+      background: rgba(239, 68, 110, 0.1); border: 1px solid rgba(239, 68, 110, 0.35);
+      color: #ff8aa5; border-radius: var(--radius-sm); padding: 12px 16px;
+      font-size: 0.85rem; margin-bottom: 20px; line-height: 1.5;
+    }
+    .td-notice-box { text-align: center; padding: 60px 24px; }
+    .td-notice-box .big { font-size: 3rem; }
+    .td-notice-box h2 { margin-top: 16px; font-weight: 700; }
+    .td-notice-box p { color: var(--text-muted); margin: 12px auto 24px; max-width: 480px; line-height: 1.6; }
+    .td-success { text-align: center; padding: 40px 20px; display: none; }
+    .td-success .big { font-size: 3rem; }
+    .td-success h2 { margin: 16px 0 12px; font-weight: 700; }
+    .td-success p { color: var(--text-secondary); line-height: 1.7; max-width: 520px; margin: 0 auto 10px; }
+    .td-submit { width: 100%; padding: 14px; font-size: 0.95rem; font-weight: 700; margin-top: 8px; }
+    .td-submit:disabled { opacity: 0.6; cursor: wait; }
+  </style>
+  <script src="/js/loading-anim.js"></script>
+</head>
+<body>
+  <script>
+    window.MangaLoader && MangaLoader.splash('home');
+    window.addEventListener('load', function () { window.MangaLoader && MangaLoader.hideSplash(600); });
+  </script>
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="logo"><img src="img/logo.png" alt="MangaBankai" class="logo-img"></a>
+      <button class="header-hamburger" aria-label="Abrir menu" onclick="toggleHeaderMenu()">☰</button>
+      <div class="header-menu" id="headerMenu">
+      <nav class="nav">
+        <a href="index.html">Início</a>
+        <a href="catalog.html">Catálogo</a>
+      </nav>
+      </div>
+      <div class="header-menu-overlay" id="headerMenuOverlay" onclick="toggleHeaderMenu()"></div>
+      <div class="search-bar">
+        <input type="text" id="searchInput" placeholder="Pesquisar mangás..." autocomplete="off">
+        <button class="search-btn" onclick="const q=document.getElementById('searchInput').value.trim();if(q)window.location.href='catalog.html?q='+encodeURIComponent(q)">🔍</button>
+        <div class="search-dropdown" id="searchDropdown"></div>
+      </div>
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="index.html">Início</a>
+      <span class="sep">›</span>
+      <span>Solicitar Desindexação</span>
+    </div>
+  </div>
+
+  <main class="td-container">
+    <!-- Deslogado -->
+    <div class="td-card td-notice-box" id="tdUnauth" style="display:none">
+      <span class="big">©</span>
+      <h2>Você é titular de direitos autorais?</h2>
+      <p>Se você é autor, editora ou representante legal de alguma obra listada em nosso índice e deseja <strong>desindexá-la da plataforma</strong>, crie uma conta (ou entre na sua) para abrir a solicitação formal. A análise é feita a partir da documentação enviada.</p>
+      <button class="btn btn-primary" onclick="openAuthModal()" style="padding:12px 24px; font-size:0.95rem; font-weight:600;">Entrar ou Cadastrar</button>
+    </div>
+
+    <!-- Logado: formulário -->
+    <div class="td-card" id="tdForm" style="display:none">
+      <h1>© Solicitação de Desindexação</h1>
+      <p class="td-sub">
+        Canal formal de <strong>Notificação e Retirada</strong> previsto nos <a href="terms.html" style="color:var(--accent)">Termos de Uso (§2)</a>, exclusivo para titulares de direitos autorais e seus representantes.
+        Após o envio, a documentação será analisada e, <strong>validada a titularidade, a obra será desindexada da plataforma</strong>.
+      </p>
+
+      <div class="td-error" id="tdError"></div>
+
+      <div class="td-field">
+        <label>Obra a desindexar *</label>
+        <div class="td-manga-search" id="tdMangaSearch">
+          <input type="text" id="tdMangaQuery" placeholder="Digite o nome da obra..." autocomplete="off">
+          <div class="td-manga-dropdown" id="tdMangaDropdown"></div>
+        </div>
+        <div class="td-selected" id="tdMangaSelected" style="display:none">
+          <img id="tdSelCover" src="" alt="" referrerPolicy="no-referrer" onerror="this.style.display='none'">
+          <strong id="tdSelTitle"></strong>
+          <button type="button" class="change" onclick="clearSelectedManga()">trocar</button>
+        </div>
+      </div>
+
+      <div class="td-field">
+        <label>Nome completo / Razão social *</label>
+        <input type="text" id="tdName" maxlength="150" placeholder="Ex.: Editora Exemplo Ltda.">
+      </div>
+
+      <div class="td-field">
+        <label>E-mail de contato *</label>
+        <input type="email" id="tdEmail" maxlength="150" placeholder="contato@exemplo.com">
+        <div class="hint">Usaremos este e-mail se precisarmos de informações adicionais sobre a análise.</div>
+      </div>
+
+      <div class="td-field">
+        <label>Vínculo com a obra *</label>
+        <select id="tdRelationship">
+          <option value="">Selecione...</option>
+          <option value="autor">Autor(a) / Co-autor(a)</option>
+          <option value="editora">Editora</option>
+          <option value="representante">Representante legal</option>
+          <option value="distribuidor">Distribuidor licenciado</option>
+        </select>
+      </div>
+
+      <div class="td-field">
+        <label>Comprovante de titularidade (PDF no Google Drive) *</label>
+        <input type="url" id="tdProof" placeholder="https://drive.google.com/file/d/...">
+        <div class="hint">
+          Envie um <strong>único arquivo PDF</strong> (registro da obra, contrato, procuração ou documento equivalente) hospedado no <strong>Google Drive</strong>, com compartilhamento
+          <strong>"Qualquer pessoa com o link"</strong> e no máximo 20 MB. O sistema verifica automaticamente se o link é do Google Drive e se o arquivo é um PDF válido.
+        </div>
+      </div>
+
+      <div class="td-field">
+        <label>Informações adicionais (opcional)</label>
+        <textarea id="tdDetails" maxlength="2000" placeholder="Contexto que ajude na análise: site oficial, número de registro, capítulos específicos, etc."></textarea>
+      </div>
+
+      <button class="btn btn-primary td-submit" id="tdSubmit" onclick="submitTakedown()">Enviar solicitação</button>
+    </div>
+
+    <!-- Sucesso -->
+    <div class="td-card td-success" id="tdSuccess">
+      <span class="big">📨</span>
+      <h2>Solicitação <span id="tdProtocol"></span> recebida!</h2>
+      <p>A documentação enviada será analisada em até <strong>7 dias úteis</strong>. Confirmada a titularidade, a obra será <strong>desindexada da plataforma</strong>.</p>
+      <p>Você pode acompanhar o status na aba <strong>"Desindexação"</strong> do seu <a href="profile.html" style="color:var(--accent)">perfil</a>. Se necessário, entraremos em contato pelo e-mail informado.</p>
+      <a href="profile.html" class="btn btn-primary" style="margin-top:16px; padding:12px 24px;">Ir para o meu perfil</a>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-bottom">
+        <p>&copy; 2026 MangaBankai. Lages-SC. Indexamos links públicos de terceiros; não hospedamos nenhum conteúdo.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/data-lite.js"></script>
+  <script src="js/main.js"></script>
+  <script>
+    let selectedMangaId = null;
+
+    function selectManga(m) {
+      selectedMangaId = m.id;
+      document.getElementById('tdMangaSearch').style.display = 'none';
+      document.getElementById('tdMangaDropdown').style.display = 'none';
+      const sel = document.getElementById('tdMangaSelected');
+      document.getElementById('tdSelCover').src = m.cover || '';
+      document.getElementById('tdSelCover').style.display = m.cover ? '' : 'none';
+      document.getElementById('tdSelTitle').textContent = m.title;
+      sel.style.display = 'flex';
+    }
+
+    function clearSelectedManga() {
+      selectedMangaId = null;
+      document.getElementById('tdMangaSelected').style.display = 'none';
+      document.getElementById('tdMangaSearch').style.display = '';
+      document.getElementById('tdMangaQuery').value = '';
+      document.getElementById('tdMangaQuery').focus();
+    }
+
+    // Autocomplete de obra (usa o índice do catálogo já carregado)
+    (function () {
+      const input = document.getElementById('tdMangaQuery');
+      const dd = document.getElementById('tdMangaDropdown');
+      input.addEventListener('input', function () {
+        const q = input.value.trim();
+        if (q.length < 2) { dd.style.display = 'none'; return; }
+        const results = searchManga(q);
+        if (results.length === 0) { dd.style.display = 'none'; return; }
+        dd.innerHTML = '';
+        results.forEach(function (m) {
+          const opt = document.createElement('div');
+          opt.className = 'opt';
+          const img = document.createElement('img');
+          img.src = m.cover || '';
+          img.referrerPolicy = 'no-referrer';
+          img.onerror = function () { this.style.display = 'none'; };
+          const span = document.createElement('span');
+          span.textContent = m.title;
+          opt.appendChild(img);
+          opt.appendChild(span);
+          opt.onclick = function () { selectManga(m); };
+          dd.appendChild(opt);
+        });
+        dd.style.display = 'block';
+      });
+      document.addEventListener('click', function (e) {
+        if (!dd.contains(e.target) && e.target !== input) dd.style.display = 'none';
+      });
+    })();
+
+    function showError(msg) {
+      const el = document.getElementById('tdError');
+      el.textContent = msg;
+      el.style.display = 'block';
+      el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    async function submitTakedown() {
+      const err = document.getElementById('tdError');
+      err.style.display = 'none';
+
+      if (!selectedMangaId) return showError('Selecione a obra que deseja desindexar.');
+      const name = document.getElementById('tdName').value.trim();
+      if (name.length < 5) return showError('Informe seu nome completo ou razão social.');
+      const email = document.getElementById('tdEmail').value.trim();
+      if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) return showError('Informe um e-mail de contato válido.');
+      const rel = document.getElementById('tdRelationship').value;
+      if (!rel) return showError('Informe seu vínculo com a obra.');
+      const proof = document.getElementById('tdProof').value.trim();
+      if (!/^https:\/\/drive\.google\.com\//.test(proof)) return showError('O comprovante deve ser um link do Google Drive (https://drive.google.com/file/d/...).');
+
+      const btn = document.getElementById('tdSubmit');
+      btn.disabled = true;
+      btn.textContent = 'Verificando comprovante...';
+      try {
+        const res = await fetch('/api/takedown?action=submit', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            mangaId: selectedMangaId,
+            fullName: name,
+            contactEmail: email,
+            relationship: rel,
+            proofUrl: proof,
+            details: document.getElementById('tdDetails').value.trim()
+          })
+        });
+        const data = await res.json().catch(function () { return {}; });
+        if (!res.ok) return showError(data.error || 'Não foi possível enviar a solicitação. Tente novamente.');
+        document.getElementById('tdForm').style.display = 'none';
+        document.getElementById('tdProtocol').textContent = '#' + data.id;
+        document.getElementById('tdSuccess').style.display = 'block';
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      } catch (e) {
+        showError('Falha de conexão com o servidor. Tente novamente.');
+      } finally {
+        btn.disabled = false;
+        btn.textContent = 'Enviar solicitação';
+      }
+    }
+
+    // Init: exige login; pré-seleciona a obra vinda de ?manga=<id>
+    (async function () {
+      await new Promise(function (ok) {
+        if (window.authChecked) return ok();
+        const t = setInterval(function () { if (window.authChecked) { clearInterval(t); ok(); } }, 30);
+      });
+      if (!window.currentUser) {
+        document.getElementById('tdUnauth').style.display = 'block';
+        return;
+      }
+      document.getElementById('tdForm').style.display = 'block';
+      const pre = new URLSearchParams(window.location.search).get('manga');
+      if (pre) {
+        const m = getManga(pre);
+        if (m) selectManga(m);
+      }
+    })();
+  </script>
+</body>
+</html>

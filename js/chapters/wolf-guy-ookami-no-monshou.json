@@ -1,0 +1,823 @@
+{
+  "en": [
+    {
+      "id": "wolf-guy-ookami-no-monshou-1",
+      "number": "1",
+      "title": "1",
+      "date": "2009/09/01",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-2",
+      "number": "2",
+      "title": "2",
+      "date": "2009/09/01",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-3",
+      "number": "3",
+      "title": "3",
+      "date": "2009/09/01",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-4",
+      "number": "4",
+      "title": "4",
+      "date": "2009/09/01",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-5",
+      "number": "5",
+      "title": "5",
+      "date": "2009/09/01",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-6",
+      "number": "6",
+      "title": "6",
+      "date": "2009/09/01",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-7",
+      "number": "7",
+      "title": "7",
+      "date": "2009/09/01",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-8",
+      "number": "8",
+      "title": "8",
+      "date": "2009/09/01",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-9",
+      "number": "9",
+      "title": "9",
+      "date": "2009/09/01",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-10",
+      "number": "10",
+      "title": "10",
+      "date": "2009/09/01",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-11",
+      "number": "11",
+      "title": "11",
+      "date": "2009/09/01",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-12",
+      "number": "12",
+      "title": "12",
+      "date": "2009/09/01",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-13",
+      "number": "13",
+      "title": "13",
+      "date": "2009/09/09",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-14",
+      "number": "14",
+      "title": "14",
+      "date": "2009/09/14",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-15",
+      "number": "15",
+      "title": "15",
+      "date": "2009/09/23",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-16",
+      "number": "16",
+      "title": "16",
+      "date": "2009/10/01",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-17",
+      "number": "17",
+      "title": "17",
+      "date": "2009/10/01",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-18",
+      "number": "18",
+      "title": "18",
+      "date": "2009/10/05",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-19",
+      "number": "19",
+      "title": "Attendance",
+      "date": "2009/10/12",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-20",
+      "number": "20",
+      "title": "Video Site",
+      "date": "2009/10/21",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-21",
+      "number": "21",
+      "title": "School Integrity",
+      "date": "2009/10/21",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-22",
+      "number": "22",
+      "title": "Inugami",
+      "date": "2009/11/03",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-23",
+      "number": "23",
+      "title": "Moon s Phase",
+      "date": "2009/11/03",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-24",
+      "number": "24",
+      "title": "24",
+      "date": "2009/11/18",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-25",
+      "number": "25",
+      "title": "25",
+      "date": "2009/11/18",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-26",
+      "number": "26",
+      "title": "What Happened Then?",
+      "date": "2009/11/24",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-27",
+      "number": "27",
+      "title": "It Must Fall",
+      "date": "2009/12/01",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-28",
+      "number": "28",
+      "title": "The New Moon",
+      "date": "2009/12/16",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-29",
+      "number": "29",
+      "title": "Extraordinary",
+      "date": "2009/12/16",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-30",
+      "number": "30",
+      "title": "Temptation",
+      "date": "2009/12/26",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-31",
+      "number": "31",
+      "title": "Manhood",
+      "date": "2009/12/26",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-32",
+      "number": "32",
+      "title": "School s Hero",
+      "date": "2010/01/05",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-33",
+      "number": "33",
+      "title": "Openhouse Address",
+      "date": "2010/01/05",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-34",
+      "number": "34",
+      "title": "Guns",
+      "date": "2010/01/12",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-35",
+      "number": "35",
+      "title": "Speech",
+      "date": "2010/01/12",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-36",
+      "number": "36",
+      "title": "Intruder",
+      "date": "2010/01/23",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-37",
+      "number": "37",
+      "title": "Pandemonium",
+      "date": "2010/01/23",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-38",
+      "number": "38",
+      "title": "Within Smoke and Flames",
+      "date": "2010/01/23",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-39",
+      "number": "39",
+      "title": "Shot At",
+      "date": "2010/01/23",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-40",
+      "number": "40",
+      "title": "After The Tragedy",
+      "date": "2010/02/02",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-41",
+      "number": "41",
+      "title": "Loneliness",
+      "date": "2010/02/02",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-42",
+      "number": "42",
+      "title": "Followed",
+      "date": "2010/02/09",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-43",
+      "number": "43",
+      "title": "Assasins",
+      "date": "2010/02/09",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-44",
+      "number": "44",
+      "title": "Fear In The Dark",
+      "date": "2010/02/09",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-45",
+      "number": "45",
+      "title": "Monster",
+      "date": "2010/02/18",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-46",
+      "number": "46",
+      "title": "Bonafide",
+      "date": "2010/02/18",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-47",
+      "number": "47",
+      "title": "After The Incident",
+      "date": "2010/02/25",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-48",
+      "number": "48",
+      "title": "Blame",
+      "date": "2010/03/05",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-49",
+      "number": "49",
+      "title": "The Inugami Clan",
+      "date": "2010/03/14",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-50",
+      "number": "50",
+      "title": "Bewitching Sacred Mount",
+      "date": "2010/03/18",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-51",
+      "number": "51",
+      "title": "Raison Dètre",
+      "date": "2010/03/23",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-52",
+      "number": "52",
+      "title": "School Reopening",
+      "date": "2010/03/23",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-53",
+      "number": "53",
+      "title": "Awe",
+      "date": "2010/03/30",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-54",
+      "number": "54",
+      "title": "Involvement",
+      "date": "2010/03/30",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-55",
+      "number": "55",
+      "title": "The Smiling Haguro",
+      "date": "2010/04/24",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-56",
+      "number": "56",
+      "title": "Jelousy",
+      "date": "2010/04/24",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-57",
+      "number": "57",
+      "title": "Blood Transfusion",
+      "date": "2010/04/24",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-58",
+      "number": "58",
+      "title": "Rebirth",
+      "date": "2010/04/24",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-59",
+      "number": "59",
+      "title": "Desire For Revenge",
+      "date": "2010/05/02",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-60",
+      "number": "60",
+      "title": "Bay Bridge",
+      "date": "2010/05/02",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-61",
+      "number": "61",
+      "title": "Regeneration",
+      "date": "2010/05/10",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-62",
+      "number": "62",
+      "title": "Toyed With",
+      "date": "2010/05/19",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-63",
+      "number": "63",
+      "title": "Human Will",
+      "date": "2010/05/30",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-64",
+      "number": "64",
+      "title": "K.O",
+      "date": "2010/06/16",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-65",
+      "number": "65",
+      "title": "Bait",
+      "date": "2010/06/23",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-66",
+      "number": "66",
+      "title": "Tell Me!",
+      "date": "2010/06/23",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-67",
+      "number": "67",
+      "title": "Link",
+      "date": "2010/07/24",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-68",
+      "number": "68",
+      "title": "Kidnapped",
+      "date": "2010/08/04",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-69",
+      "number": "69",
+      "title": "Discord",
+      "date": "2010/08/12",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-70",
+      "number": "70",
+      "title": "Resolve",
+      "date": "2010/09/01",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-71",
+      "number": "71",
+      "title": "Stiffled Screams",
+      "date": "2010/11/19",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-72",
+      "number": "72",
+      "title": "Penetration",
+      "date": "2010/12/06",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-73",
+      "number": "73",
+      "title": "Intimidation",
+      "date": "2010/12/06",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-74",
+      "number": "74",
+      "title": "The Search",
+      "date": "2010/12/23",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-75",
+      "number": "75",
+      "title": "One of Humanity",
+      "date": "2011/01/08",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-76",
+      "number": "76",
+      "title": "Rape",
+      "date": "2011/02/21",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-77",
+      "number": "77",
+      "title": "Depths of Despair",
+      "date": "2011/02/22",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-78",
+      "number": "78",
+      "title": "10 Minutes",
+      "date": "2011/02/23",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-79",
+      "number": "79",
+      "title": "Transformation",
+      "date": "2011/02/24",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-80",
+      "number": "80",
+      "title": "Release",
+      "date": "2011/03/10",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-81",
+      "number": "81",
+      "title": "Heart To Heart",
+      "date": "2011/03/10",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-82",
+      "number": "82",
+      "title": "",
+      "date": "2011/04/01",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-83",
+      "number": "83",
+      "title": "Lone Wolf",
+      "date": "2011/04/07",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-84",
+      "number": "84",
+      "title": "Rumors",
+      "date": "2011/04/07",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-85",
+      "number": "85",
+      "title": "Unavoidable Fate",
+      "date": "2011/04/07",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-86",
+      "number": "86",
+      "title": "Satisfaction",
+      "date": "2011/04/07",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-87",
+      "number": "87",
+      "title": "Aoshika's Room",
+      "date": "2011/04/07",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-88",
+      "number": "88",
+      "title": "Sprint",
+      "date": "2011/04/19",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-89",
+      "number": "89",
+      "title": "",
+      "date": "2011/05/07",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-90",
+      "number": "90",
+      "title": "",
+      "date": "2011/05/22",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-91",
+      "number": "91",
+      "title": "",
+      "date": "2011/05/31",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-92",
+      "number": "92",
+      "title": "",
+      "date": "2011/06/19",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-93",
+      "number": "93",
+      "title": "",
+      "date": "2011/07/22",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-94",
+      "number": "94",
+      "title": "Possession",
+      "date": "2011/07/31",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-95",
+      "number": "95",
+      "title": "Arrival",
+      "date": "2011/07/31",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-96",
+      "number": "96",
+      "title": "Outside The Door",
+      "date": "2011/07/31",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-97",
+      "number": "97",
+      "title": "Reunion",
+      "date": "2011/07/31",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-98",
+      "number": "98",
+      "title": "Caught",
+      "date": "2012/03/11",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-99",
+      "number": "99",
+      "title": "Release",
+      "date": "2012/03/11",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-100",
+      "number": "100",
+      "title": "Raison D'etre",
+      "date": "2012/03/11",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-101",
+      "number": "101",
+      "title": "Confrontation",
+      "date": "2012/03/11",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-102",
+      "number": "102",
+      "title": "Transformation",
+      "date": "2012/03/11",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-103",
+      "number": "103",
+      "title": "Fate",
+      "date": "2012/03/11",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-104",
+      "number": "104",
+      "title": "Darkness",
+      "date": "2012/03/11",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-105",
+      "number": "105",
+      "title": "Struggle",
+      "date": "2012/03/11",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-106",
+      "number": "106",
+      "title": "Gut",
+      "date": "2012/03/11",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-107",
+      "number": "107",
+      "title": "Resuscitation",
+      "date": "2012/03/11",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-108",
+      "number": "108",
+      "title": "A Dark Bloodlust",
+      "date": "2012/04/05",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-109",
+      "number": "109",
+      "title": "Desperation",
+      "date": "2012/04/05",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-110",
+      "number": "110",
+      "title": "The Moon And The Sun",
+      "date": "2012/04/05",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-111",
+      "number": "111",
+      "title": "Closure",
+      "date": "2012/04/05",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-112",
+      "number": "112",
+      "title": "Indestructible",
+      "date": "2012/04/05",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-113",
+      "number": "113",
+      "title": "Coma",
+      "date": "2012/04/06",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-114",
+      "number": "114",
+      "title": "Howl",
+      "date": "2012/04/06",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-115",
+      "number": "115",
+      "title": "Alaska",
+      "date": "2012/04/06",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-116",
+      "number": "116",
+      "title": "Wolves",
+      "date": "2012/04/20",
+      "pages": []
+    },
+    {
+      "id": "wolf-guy-ookami-no-monshou-117",
+      "number": "117",
+      "title": "Promise",
+      "date": "2012/04/21",
+      "pages": []
+    }
+  ]
+}

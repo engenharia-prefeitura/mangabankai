@@ -1,0 +1,557 @@
+{
+  "en": [
+    {
+      "id": "gantze-1",
+      "number": "1",
+      "title": "",
+      "date": "2020/04/06",
+      "pages": []
+    },
+    {
+      "id": "gantze-2",
+      "number": "2",
+      "title": "",
+      "date": "2020/04/06",
+      "pages": []
+    },
+    {
+      "id": "gantze-3",
+      "number": "3",
+      "title": "",
+      "date": "2020/04/06",
+      "pages": []
+    },
+    {
+      "id": "gantze-4",
+      "number": "4",
+      "title": "",
+      "date": "2020/04/06",
+      "pages": []
+    },
+    {
+      "id": "gantze-5",
+      "number": "5",
+      "title": "A Glimpse Into Hell",
+      "date": "2020/05/01",
+      "pages": []
+    },
+    {
+      "id": "gantze-6",
+      "number": "6",
+      "title": "",
+      "date": "2020/06/06",
+      "pages": []
+    },
+    {
+      "id": "gantze-7",
+      "number": "7",
+      "title": "",
+      "date": "2020/07/02",
+      "pages": []
+    },
+    {
+      "id": "gantze-8",
+      "number": "8",
+      "title": "Footsteps",
+      "date": "2020/07/30",
+      "pages": []
+    },
+    {
+      "id": "gantze-9",
+      "number": "9",
+      "title": "Like a Monstrous Mountain",
+      "date": "2020/08/21",
+      "pages": []
+    },
+    {
+      "id": "gantze-10",
+      "number": "10",
+      "title": "Coordinated Attack",
+      "date": "2020/09/03",
+      "pages": []
+    },
+    {
+      "id": "gantze-11",
+      "number": "11",
+      "title": "Demon Brothers",
+      "date": "2020/09/30",
+      "pages": []
+    },
+    {
+      "id": "gantze-12",
+      "number": "12",
+      "title": "2 Vs. 2",
+      "date": "2020/11/05",
+      "pages": []
+    },
+    {
+      "id": "gantze-13",
+      "number": "13",
+      "title": "A Bad Feeling",
+      "date": "2020/12/06",
+      "pages": []
+    },
+    {
+      "id": "gantze-14",
+      "number": "14",
+      "title": "Turning Swallow Strike",
+      "date": "2021/01/11",
+      "pages": []
+    },
+    {
+      "id": "gantze-15",
+      "number": "15",
+      "title": "Amputation",
+      "date": "2021/02/06",
+      "pages": []
+    },
+    {
+      "id": "gantze-16",
+      "number": "16",
+      "title": "Instant Defeat",
+      "date": "2021/03/06",
+      "pages": []
+    },
+    {
+      "id": "gantze-17",
+      "number": "17",
+      "title": "The Dark Steel Legion",
+      "date": "2021/04/17",
+      "pages": []
+    },
+    {
+      "id": "gantze-18",
+      "number": "18",
+      "title": "Trampling Equipment",
+      "date": "2021/04/24",
+      "pages": []
+    },
+    {
+      "id": "gantze-19",
+      "number": "19",
+      "title": "Points Contest",
+      "date": "2021/06/17",
+      "pages": []
+    },
+    {
+      "id": "gantze-20",
+      "number": "20",
+      "title": "Respective Daybreaks",
+      "date": "2021/06/18",
+      "pages": []
+    },
+    {
+      "id": "gantze-21",
+      "number": "21",
+      "title": "Gambling",
+      "date": "2021/07/10",
+      "pages": []
+    },
+    {
+      "id": "gantze-22",
+      "number": "22",
+      "title": "",
+      "date": "2021/12/11",
+      "pages": []
+    },
+    {
+      "id": "gantze-23",
+      "number": "23",
+      "title": "Cleanup After a Major Fire",
+      "date": "2021/12/19",
+      "pages": []
+    },
+    {
+      "id": "gantze-24",
+      "number": "24",
+      "title": "A Lot of Deaths",
+      "date": "2022/01/03",
+      "pages": []
+    },
+    {
+      "id": "gantze-25",
+      "number": "25",
+      "title": "Nio Statue",
+      "date": "2022/02/11",
+      "pages": []
+    },
+    {
+      "id": "gantze-26",
+      "number": "26",
+      "title": "The Elite",
+      "date": "2022/02/28",
+      "pages": []
+    },
+    {
+      "id": "gantze-27",
+      "number": "27",
+      "title": "The Great Battle",
+      "date": "2022/04/20",
+      "pages": []
+    },
+    {
+      "id": "gantze-28",
+      "number": "28",
+      "title": "",
+      "date": "2022/05/14",
+      "pages": []
+    },
+    {
+      "id": "gantze-29",
+      "number": "29",
+      "title": "Twelve Heavenly Generals",
+      "date": "2022/05/22",
+      "pages": []
+    },
+    {
+      "id": "gantze-30",
+      "number": "30",
+      "title": "",
+      "date": "2022/05/22",
+      "pages": []
+    },
+    {
+      "id": "gantze-31",
+      "number": "31",
+      "title": "Appearance",
+      "date": "2022/05/30",
+      "pages": []
+    },
+    {
+      "id": "gantze-32",
+      "number": "32",
+      "title": "",
+      "date": "2022/11/03",
+      "pages": []
+    },
+    {
+      "id": "gantze-33",
+      "number": "33",
+      "title": "",
+      "date": "2022/11/03",
+      "pages": []
+    },
+    {
+      "id": "gantze-34",
+      "number": "34",
+      "title": "",
+      "date": "2022/11/04",
+      "pages": []
+    },
+    {
+      "id": "gantze-35",
+      "number": "35",
+      "title": "",
+      "date": "2022/11/04",
+      "pages": []
+    },
+    {
+      "id": "gantze-36",
+      "number": "36",
+      "title": "",
+      "date": "2022/11/06",
+      "pages": []
+    },
+    {
+      "id": "gantze-37",
+      "number": "37",
+      "title": "",
+      "date": "2022/11/12",
+      "pages": []
+    },
+    {
+      "id": "gantze-38",
+      "number": "38",
+      "title": "Psychokinesis",
+      "date": "2022/11/12",
+      "pages": []
+    },
+    {
+      "id": "gantze-39",
+      "number": "39",
+      "title": "Where do thoughts go?",
+      "date": "2022/11/12",
+      "pages": []
+    },
+    {
+      "id": "gantze-40",
+      "number": "40",
+      "title": "",
+      "date": "2022/11/14",
+      "pages": []
+    },
+    {
+      "id": "gantze-41",
+      "number": "41",
+      "title": "",
+      "date": "2022/12/11",
+      "pages": []
+    },
+    {
+      "id": "gantze-42",
+      "number": "42",
+      "title": "",
+      "date": "2022/12/13",
+      "pages": []
+    },
+    {
+      "id": "gantze-43",
+      "number": "43",
+      "title": "",
+      "date": "2023/01/12",
+      "pages": []
+    },
+    {
+      "id": "gantze-44",
+      "number": "44",
+      "title": "",
+      "date": "2023/02/14",
+      "pages": []
+    },
+    {
+      "id": "gantze-45",
+      "number": "45",
+      "title": "Declaration",
+      "date": "2023/03/02",
+      "pages": []
+    },
+    {
+      "id": "gantze-46",
+      "number": "46",
+      "title": "",
+      "date": "2023/04/05",
+      "pages": []
+    },
+    {
+      "id": "gantze-47",
+      "number": "47",
+      "title": "Evaluation",
+      "date": "2023/04/25",
+      "pages": []
+    },
+    {
+      "id": "gantze-48",
+      "number": "48",
+      "title": "",
+      "date": "2023/07/07",
+      "pages": []
+    },
+    {
+      "id": "gantze-49",
+      "number": "49",
+      "title": "",
+      "date": "2023/07/07",
+      "pages": []
+    },
+    {
+      "id": "gantze-50",
+      "number": "50",
+      "title": "",
+      "date": "2023/07/07",
+      "pages": []
+    },
+    {
+      "id": "gantze-51",
+      "number": "51",
+      "title": "",
+      "date": "2023/07/20",
+      "pages": []
+    },
+    {
+      "id": "gantze-52",
+      "number": "52",
+      "title": "",
+      "date": "2023/08/11",
+      "pages": []
+    },
+    {
+      "id": "gantze-53",
+      "number": "53",
+      "title": "",
+      "date": "2023/09/26",
+      "pages": []
+    },
+    {
+      "id": "gantze-54",
+      "number": "54",
+      "title": "",
+      "date": "2023/11/13",
+      "pages": []
+    },
+    {
+      "id": "gantze-55",
+      "number": "55",
+      "title": "",
+      "date": "2023/11/13",
+      "pages": []
+    },
+    {
+      "id": "gantze-56",
+      "number": "56",
+      "title": "",
+      "date": "2023/11/22",
+      "pages": []
+    },
+    {
+      "id": "gantze-57",
+      "number": "57",
+      "title": "",
+      "date": "2024/01/07",
+      "pages": []
+    },
+    {
+      "id": "gantze-58",
+      "number": "58",
+      "title": "",
+      "date": "2024/01/07",
+      "pages": []
+    },
+    {
+      "id": "gantze-59",
+      "number": "59",
+      "title": "",
+      "date": "2024/02/26",
+      "pages": []
+    },
+    {
+      "id": "gantze-60",
+      "number": "60",
+      "title": "",
+      "date": "2024/02/26",
+      "pages": []
+    },
+    {
+      "id": "gantze-61",
+      "number": "61",
+      "title": "",
+      "date": "2024/02/26",
+      "pages": []
+    },
+    {
+      "id": "gantze-62",
+      "number": "62",
+      "title": "",
+      "date": "2024/07/30",
+      "pages": []
+    },
+    {
+      "id": "gantze-63",
+      "number": "63",
+      "title": "",
+      "date": "2024/10/21",
+      "pages": []
+    },
+    {
+      "id": "gantze-64",
+      "number": "64",
+      "title": "",
+      "date": "2024/10/22",
+      "pages": []
+    },
+    {
+      "id": "gantze-65",
+      "number": "65",
+      "title": "",
+      "date": "2024/10/25",
+      "pages": []
+    },
+    {
+      "id": "gantze-66",
+      "number": "66",
+      "title": "",
+      "date": "2024/10/25",
+      "pages": []
+    },
+    {
+      "id": "gantze-67",
+      "number": "67",
+      "title": "",
+      "date": "2024/10/25",
+      "pages": []
+    },
+    {
+      "id": "gantze-68",
+      "number": "68",
+      "title": "",
+      "date": "2024/11/01",
+      "pages": []
+    },
+    {
+      "id": "gantze-69",
+      "number": "69",
+      "title": "",
+      "date": "2024/11/01",
+      "pages": []
+    },
+    {
+      "id": "gantze-70",
+      "number": "70",
+      "title": "",
+      "date": "2024/11/02",
+      "pages": []
+    },
+    {
+      "id": "gantze-71",
+      "number": "71",
+      "title": "",
+      "date": "2024/11/03",
+      "pages": []
+    },
+    {
+      "id": "gantze-72",
+      "number": "72",
+      "title": "",
+      "date": "2024/11/19",
+      "pages": []
+    },
+    {
+      "id": "gantze-73",
+      "number": "73",
+      "title": "",
+      "date": "2024/12/10",
+      "pages": []
+    },
+    {
+      "id": "gantze-74",
+      "number": "74",
+      "title": "",
+      "date": "2025/01/01",
+      "pages": []
+    },
+    {
+      "id": "gantze-75",
+      "number": "75",
+      "title": "",
+      "date": "2025/02/11",
+      "pages": []
+    },
+    {
+      "id": "gantze-76",
+      "number": "76",
+      "title": "",
+      "date": "2025/03/20",
+      "pages": []
+    },
+    {
+      "id": "gantze-77",
+      "number": "77",
+      "title": "",
+      "date": "2025/07/08",
+      "pages": []
+    },
+    {
+      "id": "gantze-78",
+      "number": "78",
+      "title": "",
+      "date": "2025/08/02",
+      "pages": []
+    },
+    {
+      "id": "gantze-79",
+      "number": "79",
+      "title": "",
+      "date": "2025/08/20",
+      "pages": []
+    }
+  ]
+}

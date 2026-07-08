@@ -1,0 +1,858 @@
+{
+  "en": [
+    {
+      "id": "knights-magic-1",
+      "number": "1",
+      "title": "",
+      "date": "2017/08/04",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-2",
+      "number": "2",
+      "title": "",
+      "date": "2017/08/04",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-3",
+      "number": "3",
+      "title": "",
+      "date": "2017/08/04",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-4",
+      "number": "4",
+      "title": "",
+      "date": "2017/08/04",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-5",
+      "number": "5",
+      "title": "",
+      "date": "2017/08/04",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-6",
+      "number": "6",
+      "title": "",
+      "date": "2017/08/04",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-7",
+      "number": "7",
+      "title": "",
+      "date": "2017/08/04",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-8",
+      "number": "8",
+      "title": "",
+      "date": "2017/08/04",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-9",
+      "number": "9",
+      "title": "",
+      "date": "2017/08/04",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-10",
+      "number": "10",
+      "title": "",
+      "date": "2017/08/04",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-11",
+      "number": "11",
+      "title": "",
+      "date": "2017/08/04",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-12",
+      "number": "12",
+      "title": "",
+      "date": "2017/08/04",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-13",
+      "number": "13",
+      "title": "",
+      "date": "2017/08/04",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-14",
+      "number": "14",
+      "title": "",
+      "date": "2017/08/04",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-15",
+      "number": "15",
+      "title": "",
+      "date": "2017/08/04",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-16",
+      "number": "16",
+      "title": "",
+      "date": "2017/08/04",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-17",
+      "number": "17",
+      "title": "",
+      "date": "2017/08/04",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-18",
+      "number": "18",
+      "title": "",
+      "date": "2017/08/04",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-19",
+      "number": "19",
+      "title": "",
+      "date": "2017/08/04",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-20",
+      "number": "20",
+      "title": "",
+      "date": "2017/08/04",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-21",
+      "number": "21",
+      "title": "",
+      "date": "2017/08/06",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-22",
+      "number": "22",
+      "title": "",
+      "date": "2017/08/06",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-23",
+      "number": "23",
+      "title": "",
+      "date": "2017/12/26",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-24",
+      "number": "24",
+      "title": "",
+      "date": "2017/12/26",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-25",
+      "number": "25",
+      "title": "",
+      "date": "2017/12/26",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-26",
+      "number": "26",
+      "title": "",
+      "date": "2017/12/26",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-27",
+      "number": "27",
+      "title": "",
+      "date": "2017/12/26",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-28",
+      "number": "28",
+      "title": "",
+      "date": "2017/12/26",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-29",
+      "number": "29",
+      "title": "",
+      "date": "2017/12/26",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-30",
+      "number": "30",
+      "title": "",
+      "date": "2017/12/26",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-31",
+      "number": "31",
+      "title": "",
+      "date": "2017/12/26",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-32",
+      "number": "32",
+      "title": "",
+      "date": "2017/12/26",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-33",
+      "number": "33",
+      "title": "",
+      "date": "2017/12/26",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-34",
+      "number": "34",
+      "title": "",
+      "date": "2017/12/26",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-35",
+      "number": "35",
+      "title": "",
+      "date": "2017/12/26",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-36",
+      "number": "36",
+      "title": "",
+      "date": "2018/08/02",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-37",
+      "number": "37",
+      "title": "",
+      "date": "2018/08/02",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-38",
+      "number": "38",
+      "title": "",
+      "date": "2018/08/02",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-39",
+      "number": "39",
+      "title": "",
+      "date": "2018/08/02",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-40",
+      "number": "40",
+      "title": "",
+      "date": "2018/08/02",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-41",
+      "number": "41",
+      "title": "",
+      "date": "2018/08/02",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-42",
+      "number": "42",
+      "title": "",
+      "date": "2018/08/25",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-43",
+      "number": "43",
+      "title": "",
+      "date": "2018/08/25",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-44",
+      "number": "44",
+      "title": "",
+      "date": "2018/08/25",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-45",
+      "number": "45",
+      "title": "",
+      "date": "2018/08/25",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-46",
+      "number": "46",
+      "title": "",
+      "date": "2018/08/25",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-47",
+      "number": "47",
+      "title": "",
+      "date": "2018/08/25",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-48",
+      "number": "48",
+      "title": "",
+      "date": "2018/08/25",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-49",
+      "number": "49",
+      "title": "",
+      "date": "2018/09/15",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-50",
+      "number": "50",
+      "title": "",
+      "date": "2018/09/29",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-51",
+      "number": "51",
+      "title": "",
+      "date": "2018/10/28",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-52",
+      "number": "52",
+      "title": "",
+      "date": "2018/11/11",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-53",
+      "number": "53",
+      "title": "",
+      "date": "2019/01/12",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-54",
+      "number": "54",
+      "title": "",
+      "date": "2019/01/12",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-55",
+      "number": "55",
+      "title": "",
+      "date": "2019/01/12",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-56",
+      "number": "56",
+      "title": "",
+      "date": "2019/01/26",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-57",
+      "number": "57",
+      "title": "",
+      "date": "2019/03/13",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-58",
+      "number": "58",
+      "title": "",
+      "date": "2019/03/13",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-59",
+      "number": "59",
+      "title": "",
+      "date": "2019/03/23",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-60",
+      "number": "60",
+      "title": "",
+      "date": "2019/03/23",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-61",
+      "number": "61",
+      "title": "",
+      "date": "2020/02/27",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-62",
+      "number": "62",
+      "title": "",
+      "date": "2020/02/27",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-63",
+      "number": "63",
+      "title": "",
+      "date": "2020/02/27",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-64",
+      "number": "64",
+      "title": "",
+      "date": "2020/02/27",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-65",
+      "number": "65",
+      "title": "",
+      "date": "2020/02/27",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-66",
+      "number": "66",
+      "title": "",
+      "date": "2020/05/02",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-67",
+      "number": "67",
+      "title": "",
+      "date": "2020/05/02",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-68",
+      "number": "68",
+      "title": "",
+      "date": "2020/05/06",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-69",
+      "number": "69",
+      "title": "The Grim Reaper's Silohuette Knight",
+      "date": "2020/05/08",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-70",
+      "number": "70",
+      "title": "",
+      "date": "2020/09/04",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-71",
+      "number": "71",
+      "title": "The Silver Phoenix's Flag Flutters",
+      "date": "2020/09/12",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-72",
+      "number": "72",
+      "title": "The Princess's Worry",
+      "date": "2020/09/15",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-73",
+      "number": "73",
+      "title": "Let's Cheer Up The Princess!",
+      "date": "2020/10/08",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-74",
+      "number": "74",
+      "title": "",
+      "date": "2021/01/09",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-75",
+      "number": "75",
+      "title": "",
+      "date": "2021/01/09",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-76",
+      "number": "76",
+      "title": "",
+      "date": "2021/01/09",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-77",
+      "number": "77",
+      "title": "",
+      "date": "2021/01/09",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-78",
+      "number": "78",
+      "title": "",
+      "date": "2021/01/09",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-79",
+      "number": "79",
+      "title": "",
+      "date": "2021/01/09",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-80",
+      "number": "80",
+      "title": "",
+      "date": "2021/01/09",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-81",
+      "number": "81",
+      "title": "",
+      "date": "2021/01/09",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-82",
+      "number": "82",
+      "title": "",
+      "date": "2021/01/09",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-83",
+      "number": "83",
+      "title": "",
+      "date": "2021/01/09",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-84",
+      "number": "84",
+      "title": "",
+      "date": "2021/01/09",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-85",
+      "number": "85",
+      "title": "",
+      "date": "2021/01/09",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-86",
+      "number": "86",
+      "title": "",
+      "date": "2021/01/09",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-87",
+      "number": "87",
+      "title": "",
+      "date": "2021/01/09",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-88",
+      "number": "88",
+      "title": "",
+      "date": "2021/01/09",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-89",
+      "number": "89",
+      "title": "",
+      "date": "2021/01/09",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-90",
+      "number": "90",
+      "title": "",
+      "date": "2021/01/09",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-91",
+      "number": "91",
+      "title": "",
+      "date": "2021/01/09",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-92",
+      "number": "92",
+      "title": "",
+      "date": "2021/01/09",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-93",
+      "number": "93",
+      "title": "",
+      "date": "2021/01/09",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-94",
+      "number": "94",
+      "title": "",
+      "date": "2021/01/09",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-95",
+      "number": "95",
+      "title": "",
+      "date": "2021/01/09",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-96",
+      "number": "96",
+      "title": "",
+      "date": "2021/01/09",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-97",
+      "number": "97",
+      "title": "",
+      "date": "2021/01/09",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-98",
+      "number": "98",
+      "title": "",
+      "date": "2021/01/09",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-99",
+      "number": "99",
+      "title": "",
+      "date": "2021/03/27",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-100",
+      "number": "100",
+      "title": "",
+      "date": "2021/03/27",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-101",
+      "number": "101",
+      "title": "",
+      "date": "2021/03/27",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-102",
+      "number": "102",
+      "title": "",
+      "date": "2021/03/27",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-103",
+      "number": "103",
+      "title": "",
+      "date": "2021/04/10",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-104",
+      "number": "104",
+      "title": "Infiltrate Shilda Neryaku Fortress",
+      "date": "2021/05/23",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-105",
+      "number": "105",
+      "title": "Fate's Destination",
+      "date": "2021/05/23",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-106",
+      "number": "106",
+      "title": "",
+      "date": "2021/06/26",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-107",
+      "number": "107",
+      "title": "",
+      "date": "2021/06/26",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-108",
+      "number": "108",
+      "title": "Chain Swords and Iron Shields",
+      "date": "2021/07/10",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-109",
+      "number": "109",
+      "title": "Chaotic Battle",
+      "date": "2021/07/24",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-110",
+      "number": "110",
+      "title": "Bronze Fang",
+      "date": "2021/08/14",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-111",
+      "number": "111",
+      "title": "Chain Swords and Iron Shields",
+      "date": "2021/08/28",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-112",
+      "number": "112",
+      "title": "Roar of Storming Blades",
+      "date": "2021/09/11",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-113",
+      "number": "113",
+      "title": "Faith and Hobbies",
+      "date": "2021/10/09",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-114",
+      "number": "114",
+      "title": "The Wyvern's Resolve",
+      "date": "2021/10/23",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-115",
+      "number": "115",
+      "title": "The Resolve of Each One",
+      "date": "2021/11/13",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-116",
+      "number": "116",
+      "title": "A Single Strike",
+      "date": "2021/11/27",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-117",
+      "number": "117",
+      "title": "",
+      "date": "2021/12/11",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-118",
+      "number": "118",
+      "title": "",
+      "date": "2021/12/28",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-119",
+      "number": "119",
+      "title": "\"Farewell, Occidents\"",
+      "date": "2022/01/15",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-120",
+      "number": "120",
+      "title": "",
+      "date": "2022/02/15",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-121",
+      "number": "121",
+      "title": "You and I",
+      "date": "2022/02/26",
+      "pages": []
+    },
+    {
+      "id": "knights-magic-122",
+      "number": "122",
+      "title": "Final Chapter: \"Let's Make a Robot!\"",
+      "date": "2022/03/12",
+      "pages": []
+    }
+  ]
+}

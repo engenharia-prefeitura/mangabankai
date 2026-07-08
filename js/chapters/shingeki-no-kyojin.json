@@ -1,0 +1,963 @@
+{
+  "en": [
+    {
+      "id": "shingeki-no-kyojin-1",
+      "number": "1",
+      "title": "To you in 2000 Years",
+      "date": "2011/01/25",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-2",
+      "number": "2",
+      "title": "On that Day",
+      "date": "2011/01/25",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-3",
+      "number": "3",
+      "title": "The Night of the Disbanding",
+      "date": "2011/01/25",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-4",
+      "number": "4",
+      "title": "Their First Battle",
+      "date": "2011/01/25",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-5",
+      "number": "5",
+      "title": "A Faint Glimmer of Light in the Middle of Despair",
+      "date": "2011/03/11",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-6",
+      "number": "6",
+      "title": "The World Through a Little Girl's Eyes",
+      "date": "2011/03/11",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-7",
+      "number": "7",
+      "title": "Short Blade",
+      "date": "2011/03/11",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-8",
+      "number": "8",
+      "title": "Howl",
+      "date": "2011/03/11",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-9",
+      "number": "9",
+      "title": "I Can Hear his Heart Beating",
+      "date": "2011/03/11",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-10",
+      "number": "10",
+      "title": "Volume 3 Complete",
+      "date": "2011/04/10",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-11",
+      "number": "11",
+      "title": "Chapter 14",
+      "date": "2011/07/28",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-12",
+      "number": "12",
+      "title": "Chapter 15",
+      "date": "2011/08/04",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-13",
+      "number": "13",
+      "title": "Chapter 16",
+      "date": "2011/08/04",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-14",
+      "number": "14",
+      "title": "Chapter 17",
+      "date": "2011/08/04",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-15",
+      "number": "15",
+      "title": "Chapter 18 - Volume 4 End",
+      "date": "2011/08/04",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-16",
+      "number": "16",
+      "title": "Side Story + Chapter 19",
+      "date": "2011/08/14",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-17",
+      "number": "17",
+      "title": "Chapter 20",
+      "date": "2011/08/14",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-18",
+      "number": "18",
+      "title": "Chapter 21",
+      "date": "2011/08/14",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-19",
+      "number": "19",
+      "title": "Chapter 22",
+      "date": "2011/08/14",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-20",
+      "number": "20",
+      "title": "Chapter 23",
+      "date": "2011/08/14",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-21",
+      "number": "21",
+      "title": "Chapter 24",
+      "date": "2011/08/14",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-22",
+      "number": "22",
+      "title": "Chapter 25",
+      "date": "2011/09/12",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-23",
+      "number": "23",
+      "title": "Chapter 26",
+      "date": "2011/09/13",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-27",
+      "number": "27",
+      "title": "Irvin Smith",
+      "date": "2011/12/11",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-28",
+      "number": "28",
+      "title": "Choice and its Consequences",
+      "date": "2011/12/11",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-29",
+      "number": "29",
+      "title": "Hammer",
+      "date": "2012/01/12",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-30",
+      "number": "30",
+      "title": "he Defeated",
+      "date": "2012/02/10",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-31",
+      "number": "31",
+      "title": "Smile",
+      "date": "2012/03/12",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-32",
+      "number": "32",
+      "title": "Compassion",
+      "date": "2012/04/11",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-33",
+      "number": "33",
+      "title": "The Wall",
+      "date": "2012/05/11",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-34",
+      "number": "34",
+      "title": "Warriors Dance",
+      "date": "2012/06/10",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-35",
+      "number": "35",
+      "title": "The Boy Brightly Shining Eyes",
+      "date": "2012/07/08",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-36",
+      "number": "36",
+      "title": "I'm Home",
+      "date": "2012/08/11",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-37",
+      "number": "37",
+      "title": "To The Southwest",
+      "date": "2012/09/09",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-38",
+      "number": "38",
+      "title": "Castle Litgard",
+      "date": "2012/10/10",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-39",
+      "number": "39",
+      "title": "Soldier",
+      "date": "2012/11/09",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-40",
+      "number": "40",
+      "title": "Ymir",
+      "date": "2012/12/09",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-41",
+      "number": "41",
+      "title": "Historia",
+      "date": "2013/01/11",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-42",
+      "number": "42",
+      "title": "Warrior",
+      "date": "2013/02/13",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-43",
+      "number": "43",
+      "title": "Armored Titan",
+      "date": "2013/03/10",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-44",
+      "number": "44",
+      "title": "Punch, Throw, Lock",
+      "date": "2013/05/10",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-45",
+      "number": "45",
+      "title": "Pursuers",
+      "date": "2013/05/10",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-46",
+      "number": "46",
+      "title": "Opening Up",
+      "date": "2013/06/10",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-47",
+      "number": "47",
+      "title": "Children",
+      "date": "2013/07/06",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-48",
+      "number": "48",
+      "title": "Somebody",
+      "date": "2013/08/07",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-49",
+      "number": "49",
+      "title": "Charge",
+      "date": "2013/09/07",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-50",
+      "number": "50",
+      "title": "Cry",
+      "date": "2013/10/09",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-51",
+      "number": "51",
+      "title": "Rivallie Squad",
+      "date": "2013/11/08",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-52",
+      "number": "52",
+      "title": "Krista Lenz",
+      "date": "2013/12/08",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-53",
+      "number": "53",
+      "title": "Stupid Believers",
+      "date": "2014/01/07",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-54",
+      "number": "54",
+      "title": "The Place of The Counterattack",
+      "date": "2014/02/06",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-55",
+      "number": "55",
+      "title": "Pain",
+      "date": "2014/03/07",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-56",
+      "number": "56",
+      "title": "Role",
+      "date": "2014/04/07",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-57",
+      "number": "57",
+      "title": "Kenny the Ripper",
+      "date": "2014/05/05",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-58",
+      "number": "58",
+      "title": "Gunfire",
+      "date": "2014/06/11",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-59",
+      "number": "59",
+      "title": "The Soul of a Monster",
+      "date": "2014/07/07",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-60",
+      "number": "60",
+      "title": "Live Coals",
+      "date": "2014/08/08",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-61",
+      "number": "61",
+      "title": "The End",
+      "date": "2014/09/12",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-62",
+      "number": "62",
+      "title": "Sin",
+      "date": "2014/10/12",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-63",
+      "number": "63",
+      "title": "Chains",
+      "date": "2014/11/09",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-64",
+      "number": "64",
+      "title": "Welcome Party",
+      "date": "2014/12/08",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-65",
+      "number": "65",
+      "title": "Dream and Curse",
+      "date": "2015/01/09",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-66",
+      "number": "66",
+      "title": "Wish",
+      "date": "2015/03/06",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-67",
+      "number": "67",
+      "title": "Outer wall of the Olbd district",
+      "date": "2015/03/06",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-68",
+      "number": "68",
+      "title": "The King of the Wall",
+      "date": "2015/04/10",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-69",
+      "number": "69",
+      "title": "Friend",
+      "date": "2015/05/07",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-70",
+      "number": "70",
+      "title": "The dream I saw one day",
+      "date": "2015/06/08",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-71",
+      "number": "71",
+      "title": "Bystander",
+      "date": "2015/07/16",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-72",
+      "number": "72",
+      "title": "The Night of The Recovery Operation",
+      "date": "2015/08/13",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-73",
+      "number": "73",
+      "title": "The City Where it ALL Began",
+      "date": "2015/09/17",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-74",
+      "number": "74",
+      "title": "The Mission's Conditions of Victory",
+      "date": "2015/10/10",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-75",
+      "number": "75",
+      "title": "Junior High",
+      "date": "2015/11/07",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-76",
+      "number": "76",
+      "title": "Thunder Spear",
+      "date": "2015/12/09",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-77",
+      "number": "77",
+      "title": "The World They Saw",
+      "date": "2016/01/09",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-78",
+      "number": "78",
+      "title": "Visit",
+      "date": "2016/02/09",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-79",
+      "number": "79",
+      "title": "Perfect Game",
+      "date": "2016/03/09",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-80",
+      "number": "80",
+      "title": "The Nameless Soldier",
+      "date": "2016/04/09",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-81",
+      "number": "81",
+      "title": "Promise",
+      "date": "2016/05/09",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-82",
+      "number": "82",
+      "title": "Hero",
+      "date": "2016/07/09",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-83",
+      "number": "83",
+      "title": "Resolve",
+      "date": "2016/07/09",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-84",
+      "number": "84",
+      "title": "Midnight Sun",
+      "date": "2016/08/07",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-85",
+      "number": "85",
+      "title": "Basement",
+      "date": "2016/09/09",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-86",
+      "number": "86",
+      "title": "The Day",
+      "date": "2016/10/09",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-87",
+      "number": "87",
+      "title": "Boundary",
+      "date": "2016/11/08",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-88",
+      "number": "88",
+      "title": "The Attack Continues",
+      "date": "2016/12/08",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-89",
+      "number": "89",
+      "title": "Meeting",
+      "date": "2016/12/29",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-90",
+      "number": "90",
+      "title": "To the Other Side of the Wall",
+      "date": "2017/02/28",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-91",
+      "number": "91",
+      "title": "The Other Side of the Ocean",
+      "date": "2017/03/08",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-92",
+      "number": "92",
+      "title": "The Warrior of Marley",
+      "date": "2017/04/06",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-93",
+      "number": "93",
+      "title": "Dark Night Train",
+      "date": "2017/04/30",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-94",
+      "number": "94",
+      "title": "The boy inside the wall",
+      "date": "2017/06/07",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-95",
+      "number": "95",
+      "title": "Liar",
+      "date": "2017/07/06",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-96",
+      "number": "96",
+      "title": "A gate of hope",
+      "date": "2017/08/10",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-97",
+      "number": "97",
+      "title": "From one hand to the other",
+      "date": "2017/09/09",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-98",
+      "number": "98",
+      "title": "Im glad",
+      "date": "2017/10/07",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-99",
+      "number": "99",
+      "title": "A Shadow of Guilt",
+      "date": "2017/11/09",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-100",
+      "number": "100",
+      "title": "Declaration of War",
+      "date": "2017/12/10",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-101",
+      "number": "101",
+      "title": "The Warhammer Titan",
+      "date": "2018/01/03",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-102",
+      "number": "102",
+      "title": "Its too late",
+      "date": "2018/02/08",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-103",
+      "number": "103",
+      "title": "Assault",
+      "date": "2018/03/08",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-104",
+      "number": "104",
+      "title": "The Victors",
+      "date": "2018/04/04",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-105",
+      "number": "105",
+      "title": "Assassination",
+      "date": "2018/05/03",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-106",
+      "number": "106",
+      "title": "Volunteer Soldiers",
+      "date": "2018/06/07",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-107",
+      "number": "107",
+      "title": "Visitor",
+      "date": "2018/07/06",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-108",
+      "number": "108",
+      "title": "Sound Argument",
+      "date": "2018/08/08",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-109",
+      "number": "109",
+      "title": "Guide",
+      "date": "2018/09/07",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-110",
+      "number": "110",
+      "title": "Impostor",
+      "date": "2018/10/05",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-111",
+      "number": "111",
+      "title": "Children of the Forest",
+      "date": "2018/11/08",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-112",
+      "number": "112",
+      "title": "Ignorance",
+      "date": "2018/12/07",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-113",
+      "number": "113",
+      "title": "Violence",
+      "date": "2019/01/04",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-114",
+      "number": "114",
+      "title": "The Only Salvation",
+      "date": "2019/02/08",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-115",
+      "number": "115",
+      "title": "Support",
+      "date": "2019/03/07",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-116",
+      "number": "116",
+      "title": "Heaven and Earth",
+      "date": "2019/04/07",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-117",
+      "number": "117",
+      "title": "Conviction",
+      "date": "2019/05/08",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-118",
+      "number": "118",
+      "title": "Foul Play",
+      "date": "2019/06/06",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-119",
+      "number": "119",
+      "title": "Big Brothers and Little Brothers",
+      "date": "2019/07/05",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-120",
+      "number": "120",
+      "title": "Instant",
+      "date": "2019/08/07",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-121",
+      "number": "121",
+      "title": "Future Memories",
+      "date": "2019/09/05",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-122",
+      "number": "122",
+      "title": "From you, 2000 years ago",
+      "date": "2019/10/05",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-123",
+      "number": "123",
+      "title": "Devils of the Island",
+      "date": "2019/11/06",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-124",
+      "number": "124",
+      "title": "Melting Away",
+      "date": "2019/12/05",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-125",
+      "number": "125",
+      "title": "After Glow",
+      "date": "2020/01/06",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-126",
+      "number": "126",
+      "title": "Pride",
+      "date": "2020/02/05",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-127",
+      "number": "127",
+      "title": "Night of the End",
+      "date": "2020/03/05",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-128",
+      "number": "128",
+      "title": "Traitor",
+      "date": "2020/04/06",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-129",
+      "number": "129",
+      "title": "Nostalgia",
+      "date": "2020/06/05",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-130",
+      "number": "130",
+      "title": "Dawn of Mankind",
+      "date": "2020/07/07",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-131",
+      "number": "131",
+      "title": "Rumbling",
+      "date": "2020/08/05",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-132",
+      "number": "132",
+      "title": "Wings of Freedom",
+      "date": "2020/09/08",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-133",
+      "number": "133",
+      "title": "Sinners",
+      "date": "2020/10/07",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-134",
+      "number": "134",
+      "title": "In The Depths of Despair",
+      "date": "2020/11/06",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-135",
+      "number": "135",
+      "title": "Battle of Heaven and Earth",
+      "date": "2020/12/04",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-136",
+      "number": "136",
+      "title": "Devote Your Hearts",
+      "date": "2021/01/07",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-137",
+      "number": "137",
+      "title": "Titans",
+      "date": "2021/02/09",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-138",
+      "number": "138",
+      "title": "A Long Dream",
+      "date": "2021/03/06",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-139",
+      "number": "139",
+      "title": "Final Chapter: Moving Towards that Tree on the Hill",
+      "date": "2021/04/08",
+      "pages": []
+    },
+    {
+      "id": "shingeki-no-kyojin-139i",
+      "number": "139i",
+      "title": "Bad Boy",
+      "date": "2024/08/20",
+      "pages": []
+    }
+  ]
+}

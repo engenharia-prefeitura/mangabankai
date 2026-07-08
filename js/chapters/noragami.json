@@ -1,0 +1,830 @@
+{
+  "en": [
+    {
+      "id": "noragami-1",
+      "number": "1",
+      "title": "People Who Wear Sportswear",
+      "date": "2011/03/21",
+      "pages": []
+    },
+    {
+      "id": "noragami-2",
+      "number": "2",
+      "title": "House Cats, Noragami, and Tails",
+      "date": "2012/08/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-3",
+      "number": "3",
+      "title": "Like Snow",
+      "date": "2012/08/28",
+      "pages": []
+    },
+    {
+      "id": "noragami-4",
+      "number": "4",
+      "title": "Some Divine Will",
+      "date": "2013/05/11",
+      "pages": []
+    },
+    {
+      "id": "noragami-5",
+      "number": "5",
+      "title": "Boundary Line",
+      "date": "2013/05/20",
+      "pages": []
+    },
+    {
+      "id": "noragami-6",
+      "number": "6",
+      "title": "Scary Person",
+      "date": "2013/07/15",
+      "pages": []
+    },
+    {
+      "id": "noragami-7",
+      "number": "7",
+      "title": "Twilight",
+      "date": "2013/07/20",
+      "pages": []
+    },
+    {
+      "id": "noragami-8",
+      "number": "8",
+      "title": "The Strays' Gloomy Day",
+      "date": "2013/08/02",
+      "pages": []
+    },
+    {
+      "id": "noragami-9",
+      "number": "9",
+      "title": "Detestable Person",
+      "date": "2013/08/08",
+      "pages": []
+    },
+    {
+      "id": "noragami-10",
+      "number": "10",
+      "title": "Cross The Line",
+      "date": "2013/08/27",
+      "pages": []
+    },
+    {
+      "id": "noragami-11",
+      "number": "11",
+      "title": "Name",
+      "date": "2013/09/19",
+      "pages": []
+    },
+    {
+      "id": "noragami-12",
+      "number": "12",
+      "title": "To Kill, or Not To Kill",
+      "date": "2013/10/29",
+      "pages": []
+    },
+    {
+      "id": "noragami-13",
+      "number": "13",
+      "title": "Omen",
+      "date": "2014/01/01",
+      "pages": []
+    },
+    {
+      "id": "noragami-14",
+      "number": "14",
+      "title": "Her Memories",
+      "date": "2014/01/20",
+      "pages": []
+    },
+    {
+      "id": "noragami-15",
+      "number": "15",
+      "title": "Withering Thing",
+      "date": "2014/02/07",
+      "pages": []
+    },
+    {
+      "id": "noragami-16",
+      "number": "16",
+      "title": "Hell",
+      "date": "2014/02/15",
+      "pages": []
+    },
+    {
+      "id": "noragami-17",
+      "number": "17",
+      "title": "Yearning for Someone to Trust",
+      "date": "2014/02/23",
+      "pages": []
+    },
+    {
+      "id": "noragami-18",
+      "number": "18",
+      "title": "Naked Blade",
+      "date": "2014/03/02",
+      "pages": []
+    },
+    {
+      "id": "noragami-19",
+      "number": "19",
+      "title": "A Wish",
+      "date": "2014/03/07",
+      "pages": []
+    },
+    {
+      "id": "noragami-20",
+      "number": "20",
+      "title": "A Blessing and a Curse",
+      "date": "2014/03/09",
+      "pages": []
+    },
+    {
+      "id": "noragami-21",
+      "number": "21",
+      "title": "Don�t Leave Me, Stay with Me",
+      "date": "2014/03/12",
+      "pages": []
+    },
+    {
+      "id": "noragami-22",
+      "number": "22",
+      "title": "What Must Be Done",
+      "date": "2014/03/19",
+      "pages": []
+    },
+    {
+      "id": "noragami-23",
+      "number": "23",
+      "title": "Guiding Light",
+      "date": "2014/03/28",
+      "pages": []
+    },
+    {
+      "id": "noragami-24",
+      "number": "24",
+      "title": "Forever",
+      "date": "2014/04/09",
+      "pages": []
+    },
+    {
+      "id": "noragami-25",
+      "number": "25",
+      "title": "A Divine Possession",
+      "date": "2014/04/13",
+      "pages": []
+    },
+    {
+      "id": "noragami-26",
+      "number": "26",
+      "title": "How To Worship Gods",
+      "date": "2014/04/13",
+      "pages": []
+    },
+    {
+      "id": "noragami-27",
+      "number": "27",
+      "title": "Work and Karma",
+      "date": "2014/04/13",
+      "pages": []
+    },
+    {
+      "id": "noragami-28",
+      "number": "28",
+      "title": "God of Calamity",
+      "date": "2014/04/27",
+      "pages": []
+    },
+    {
+      "id": "noragami-29",
+      "number": "29",
+      "title": "The State of the Three Realms",
+      "date": "2014/05/02",
+      "pages": []
+    },
+    {
+      "id": "noragami-30",
+      "number": "30",
+      "title": "The Sound of Cutting Bonds",
+      "date": "2014/11/23",
+      "pages": []
+    },
+    {
+      "id": "noragami-31",
+      "number": "31",
+      "title": "Like Father, Like Son",
+      "date": "2014/11/23",
+      "pages": []
+    },
+    {
+      "id": "noragami-32",
+      "number": "32",
+      "title": "She Who Invites",
+      "date": "2014/11/23",
+      "pages": []
+    },
+    {
+      "id": "noragami-33",
+      "number": "33",
+      "title": "A Strong Will",
+      "date": "2014/11/23",
+      "pages": []
+    },
+    {
+      "id": "noragami-34",
+      "number": "34",
+      "title": "Prior Desires",
+      "date": "2014/11/23",
+      "pages": []
+    },
+    {
+      "id": "noragami-35",
+      "number": "35",
+      "title": "Death",
+      "date": "2015/07/20",
+      "pages": []
+    },
+    {
+      "id": "noragami-36",
+      "number": "36",
+      "title": "Calamitous Curse",
+      "date": "2014/05/02",
+      "pages": []
+    },
+    {
+      "id": "noragami-37",
+      "number": "37",
+      "title": "Hear My Voice",
+      "date": "2014/05/02",
+      "pages": []
+    },
+    {
+      "id": "noragami-38",
+      "number": "38",
+      "title": "A Promise to Remember",
+      "date": "2014/05/05",
+      "pages": []
+    },
+    {
+      "id": "noragami-39",
+      "number": "39",
+      "title": "Of Days Gone By and Days to Come",
+      "date": "2014/05/10",
+      "pages": []
+    },
+    {
+      "id": "noragami-40",
+      "number": "40",
+      "title": "God, Please (Don't) Hear My Prayer",
+      "date": "2014/05/25",
+      "pages": []
+    },
+    {
+      "id": "noragami-41",
+      "number": "41",
+      "title": "Let's Take Them for Our Memories",
+      "date": "2014/06/05",
+      "pages": []
+    },
+    {
+      "id": "noragami-42",
+      "number": "42",
+      "title": "The Harbringer of Disaster",
+      "date": "2014/06/21",
+      "pages": []
+    },
+    {
+      "id": "noragami-43",
+      "number": "43",
+      "title": "A Guarded Secret",
+      "date": "2014/07/12",
+      "pages": []
+    },
+    {
+      "id": "noragami-44",
+      "number": "44",
+      "title": "Crossing Swords, Crossing Destinies",
+      "date": "2014/08/15",
+      "pages": []
+    },
+    {
+      "id": "noragami-45",
+      "number": "45",
+      "title": "Touched By Its Passage",
+      "date": "2014/10/23",
+      "pages": []
+    },
+    {
+      "id": "noragami-46",
+      "number": "46",
+      "title": "We Shall Play",
+      "date": "2014/11/16",
+      "pages": []
+    },
+    {
+      "id": "noragami-47",
+      "number": "47",
+      "title": "Taboo",
+      "date": "2014/11/16",
+      "pages": []
+    },
+    {
+      "id": "noragami-48",
+      "number": "48",
+      "title": "You Who I Love",
+      "date": "2014/11/17",
+      "pages": []
+    },
+    {
+      "id": "noragami-49",
+      "number": "49",
+      "title": "Keep Up the Fight",
+      "date": "2014/12/08",
+      "pages": []
+    },
+    {
+      "id": "noragami-50",
+      "number": "50",
+      "title": "When We Face Each Other",
+      "date": "2015/01/07",
+      "pages": []
+    },
+    {
+      "id": "noragami-51",
+      "number": "51",
+      "title": "Salvation",
+      "date": "2015/02/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-52",
+      "number": "52",
+      "title": "Far Shore and Near Shore",
+      "date": "2015/03/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-53",
+      "number": "53",
+      "title": "A Passing Resemblance",
+      "date": "2015/04/07",
+      "pages": []
+    },
+    {
+      "id": "noragami-54",
+      "number": "54",
+      "title": "What's Seen, What Comes",
+      "date": "2015/05/03",
+      "pages": []
+    },
+    {
+      "id": "noragami-55",
+      "number": "55",
+      "title": "Cut Away,Throw Away",
+      "date": "2015/06/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-56",
+      "number": "56",
+      "title": "Commandment",
+      "date": "2015/07/09",
+      "pages": []
+    },
+    {
+      "id": "noragami-57",
+      "number": "57",
+      "title": "Where Loyalties Lie",
+      "date": "2015/08/07",
+      "pages": []
+    },
+    {
+      "id": "noragami-58",
+      "number": "58",
+      "title": "Associate, Dissociate",
+      "date": "2015/09/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-59",
+      "number": "59",
+      "title": "Rogue",
+      "date": "2015/10/07",
+      "pages": []
+    },
+    {
+      "id": "noragami-60",
+      "number": "60",
+      "title": "Acts of Heaven",
+      "date": "2015/12/04",
+      "pages": []
+    },
+    {
+      "id": "noragami-61",
+      "number": "61",
+      "title": "Rebels",
+      "date": "2015/12/04",
+      "pages": []
+    },
+    {
+      "id": "noragami-62",
+      "number": "62",
+      "title": "A Dagger, A Bragger, A Stagger",
+      "date": "2016/02/05",
+      "pages": []
+    },
+    {
+      "id": "noragami-63",
+      "number": "63",
+      "title": "Elation",
+      "date": "2016/02/05",
+      "pages": []
+    },
+    {
+      "id": "noragami-64",
+      "number": "64",
+      "title": "My Beloved",
+      "date": "2016/03/07",
+      "pages": []
+    },
+    {
+      "id": "noragami-65",
+      "number": "65",
+      "title": "Counting the Days",
+      "date": "2016/04/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-66",
+      "number": "66",
+      "title": "Banked Fire",
+      "date": "2016/05/09",
+      "pages": []
+    },
+    {
+      "id": "noragami-67",
+      "number": "67",
+      "title": "What Is Mine",
+      "date": "2016/06/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-68",
+      "number": "68",
+      "title": "The Road Home",
+      "date": "2016/09/08",
+      "pages": []
+    },
+    {
+      "id": "noragami-69",
+      "number": "69",
+      "title": "Shinki",
+      "date": "2016/10/08",
+      "pages": []
+    },
+    {
+      "id": "noragami-70",
+      "number": "70",
+      "title": "On High",
+      "date": "2016/12/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-71",
+      "number": "71",
+      "title": "To Wager A Life",
+      "date": "2016/12/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-72",
+      "number": "72",
+      "title": "Negation",
+      "date": "2017/01/07",
+      "pages": []
+    },
+    {
+      "id": "noragami-73",
+      "number": "73",
+      "title": "If You Can Hear My Cry",
+      "date": "2017/02/07",
+      "pages": []
+    },
+    {
+      "id": "noragami-74",
+      "number": "74",
+      "title": "Gift",
+      "date": "2017/03/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-75",
+      "number": "75",
+      "title": "",
+      "date": "2018/06/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-76",
+      "number": "76",
+      "title": "",
+      "date": "2018/07/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-77",
+      "number": "77",
+      "title": "",
+      "date": "2018/08/07",
+      "pages": []
+    },
+    {
+      "id": "noragami-78",
+      "number": "78",
+      "title": "Want",
+      "date": "2018/09/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-79",
+      "number": "79",
+      "title": "",
+      "date": "2018/11/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-80",
+      "number": "80",
+      "title": "",
+      "date": "2019/01/05",
+      "pages": []
+    },
+    {
+      "id": "noragami-81",
+      "number": "81",
+      "title": "",
+      "date": "2019/03/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-82",
+      "number": "82",
+      "title": "",
+      "date": "2019/05/02",
+      "pages": []
+    },
+    {
+      "id": "noragami-83",
+      "number": "83",
+      "title": "Shattered World",
+      "date": "2019/07/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-84",
+      "number": "84",
+      "title": "Nora",
+      "date": "2019/09/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-85",
+      "number": "85",
+      "title": "Whom I Wish To Say",
+      "date": "2019/12/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-86",
+      "number": "86",
+      "title": "The Box",
+      "date": "2020/01/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-87",
+      "number": "87",
+      "title": "The Way to Darkness",
+      "date": "2020/03/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-88",
+      "number": "88",
+      "title": "Motive",
+      "date": "2020/05/01",
+      "pages": []
+    },
+    {
+      "id": "noragami-89",
+      "number": "89",
+      "title": "Echo of the Koto no Ha",
+      "date": "2020/07/05",
+      "pages": []
+    },
+    {
+      "id": "noragami-90",
+      "number": "90",
+      "title": "A Necessary Meeting",
+      "date": "2020/09/04",
+      "pages": []
+    },
+    {
+      "id": "noragami-91",
+      "number": "91",
+      "title": "To do The Right Thing",
+      "date": "2020/11/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-92",
+      "number": "92",
+      "title": "When Dawn Comes...",
+      "date": "2021/01/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-93",
+      "number": "93",
+      "title": "Objective",
+      "date": "2021/04/09",
+      "pages": []
+    },
+    {
+      "id": "noragami-94",
+      "number": "94",
+      "title": "Hope",
+      "date": "2021/06/09",
+      "pages": []
+    },
+    {
+      "id": "noragami-95",
+      "number": "95",
+      "title": "Encircling Net",
+      "date": "2021/08/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-96",
+      "number": "96",
+      "title": "Call my name",
+      "date": "2021/10/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-97",
+      "number": "97",
+      "title": "Savior",
+      "date": "2021/12/05",
+      "pages": []
+    },
+    {
+      "id": "noragami-98",
+      "number": "98",
+      "title": "Natural Law",
+      "date": "2022/02/04",
+      "pages": []
+    },
+    {
+      "id": "noragami-99",
+      "number": "99",
+      "title": "Haru and Yuki",
+      "date": "2022/03/04",
+      "pages": []
+    },
+    {
+      "id": "noragami-99b",
+      "number": "99b",
+      "title": "Haru and Yuki",
+      "date": "2022/04/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-100",
+      "number": "100",
+      "title": "A Springtime Flurry of Snow",
+      "date": "2022/06/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-101",
+      "number": "101",
+      "title": "For Whose Sake",
+      "date": "2022/07/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-101b",
+      "number": "101b",
+      "title": "For Whose Sake",
+      "date": "2022/08/05",
+      "pages": []
+    },
+    {
+      "id": "noragami-102",
+      "number": "102",
+      "title": "",
+      "date": "2022/09/05",
+      "pages": []
+    },
+    {
+      "id": "noragami-102b",
+      "number": "102b",
+      "title": "Lifeline",
+      "date": "2022/10/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-103",
+      "number": "103",
+      "title": "Reminiscence",
+      "date": "2022/11/05",
+      "pages": []
+    },
+    {
+      "id": "noragami-103b",
+      "number": "103b",
+      "title": "",
+      "date": "2022/12/08",
+      "pages": []
+    },
+    {
+      "id": "noragami-104",
+      "number": "104",
+      "title": "Nation",
+      "date": "2023/02/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-104b",
+      "number": "104b",
+      "title": "Nation",
+      "date": "2023/03/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-105",
+      "number": "105",
+      "title": "",
+      "date": "2023/04/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-105b",
+      "number": "105b",
+      "title": "",
+      "date": "2023/05/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-106",
+      "number": "106",
+      "title": "",
+      "date": "2023/06/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-106b",
+      "number": "106b",
+      "title": "",
+      "date": "2023/07/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-107",
+      "number": "107",
+      "title": "",
+      "date": "2023/08/04",
+      "pages": []
+    },
+    {
+      "id": "noragami-107b",
+      "number": "107b",
+      "title": "",
+      "date": "2023/09/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-108",
+      "number": "108",
+      "title": "",
+      "date": "2023/10/05",
+      "pages": []
+    },
+    {
+      "id": "noragami-108b",
+      "number": "108b",
+      "title": "",
+      "date": "2023/11/06",
+      "pages": []
+    },
+    {
+      "id": "noragami-109",
+      "number": "109",
+      "title": "",
+      "date": "2024/01/06",
+      "pages": []
+    }
+  ]
+}

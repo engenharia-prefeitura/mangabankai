@@ -472,6 +472,73 @@
       if (el) el.scrollBy({ left: dir * Math.round(el.clientWidth * 0.85), behavior: 'smooth' });
     };
   </script>
+
+  <!-- Popup Alerta de Novidades -->
+  <div id="siteNewsAlert" style="position:fixed; bottom:24px; left:50%; transform:translateX(-50%); width:90%; max-width:550px; background:rgba(21, 21, 32, 0.96); border:1.5px solid #6c63ff; border-radius:16px; padding:20px; box-shadow:0 12px 40px rgba(0,0,0,0.75); display:none; align-items:center; gap:20px; z-index:10000; backdrop-filter:blur(10px); -webkit-backdrop-filter:blur(10px); box-sizing:border-box;">
+    <img src="/img/logo.png" alt="MangaBankai" style="width:64px; height:64px; object-fit:contain; border-radius:12px; background:rgba(255,255,255,0.06); padding:6px; flex-shrink:0;">
+    <div style="flex-grow:1; text-align:left; min-width:0;">
+      <h4 style="margin:0 0 6px 0; color:#6c63ff; font-size:1.05rem; font-weight:700; font-family:system-ui, -apple-system, sans-serif;">Novidade no site!</h4>
+      <div id="siteNewsContent" style="margin:0; color:#e2e8f0; font-size:0.86rem; line-height:1.45; font-family:system-ui, -apple-system, sans-serif;">
+        <!-- Dynamic news content goes here -->
+      </div>
+    </div>
+    <div style="flex-shrink:0;">
+      <button onclick="dismissSiteNews()" style="background:#6c63ff; color:#fff; border:none; padding:8px 18px; border-radius:8px; font-weight:bold; cursor:pointer; font-size:0.82rem; white-space:nowrap; transition:background 0.2s, transform 0.1s; font-family:inherit;">Fechar</button>
+    </div>
+  </div>
+
+  <style>
+    #siteNewsAlert {
+      animation: slideUpNews 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+    @keyframes slideUpNews {
+      from { transform: translate(-50%, 80px); opacity: 0; }
+      to { transform: translate(-50%, 0); opacity: 1; }
+    }
+    @media (max-width: 600px) {
+      #siteNewsAlert {
+        bottom: 12px;
+        padding: 14px;
+        gap: 12px;
+      }
+      #siteNewsAlert img {
+        width: 48px !important;
+        height: 48px !important;
+      }
+    }
+  </style>
+
+  <script>
+    async function checkSiteNews() {
+      try {
+        const res = await fetch('/api/manga?action=settings');
+        if (!res.ok) return;
+        const data = await res.json();
+        
+        if (data.news && data.news.enabled && data.news.content) {
+          const dismissedTime = parseInt(localStorage.getItem('_news_dismissed_time') || '0', 10);
+          const lastUpdated = parseInt(data.news.updated_at || '0', 10);
+          const durationMs = (parseInt(data.news.duration_days, 10) || 10) * 24 * 60 * 60 * 1000;
+          const now = Date.now();
+          
+          if (dismissedTime === 0 || lastUpdated > dismissedTime || (now - dismissedTime) > durationMs) {
+            document.getElementById('siteNewsContent').innerHTML = data.news.content;
+            document.getElementById('siteNewsAlert').style.display = 'flex';
+          }
+        }
+      } catch (e) {
+        console.error('Erro ao verificar novidades:', e);
+      }
+    }
+
+    window.dismissSiteNews = function() {
+      localStorage.setItem('_news_dismissed_time', String(Date.now()));
+      document.getElementById('siteNewsAlert').style.display = 'none';
+    };
+
+    // Run check on load
+    window.addEventListener('load', checkSiteNews);
+  </script>
   <script>ADS.renderSocialBar();</script>
 </body>
 </html>

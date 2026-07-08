@@ -168,6 +168,12 @@ function settingsPayload(data) {
       mode: data['scheduler_mode'] || 'incremental',
       lastRun: data['scheduler_last_run'] ? parseInt(data['scheduler_last_run'], 10) : null,
       lastStatus: data['scheduler_last_status'] || null
+    },
+    news: {
+      enabled: data['news_enabled'] === 'true',
+      content: data['news_content'] || '',
+      duration_days: parseInt(data['news_duration_days'] || '10', 10),
+      updated_at: parseInt(data['news_updated_at'] || '0', 10)
     }
   };
 }
@@ -182,7 +188,7 @@ async function settings(req, res) {
     return res.status(200).json(settingsPayload(data));
   }
   if (req.method === 'POST') {
-    const { transition_delay, scheduler, caps } = req.body || {};
+    const { transition_delay, scheduler, caps, news } = req.body || {};
     if (transition_delay !== undefined) {
       const delay = parseInt(transition_delay, 10);
       const val = String(isNaN(delay) ? 10 : delay);
@@ -208,6 +214,17 @@ async function settings(req, res) {
         sql`INSERT INTO site_settings (key, value) VALUES ('scheduler_interval', ${String(interval || '12h')}) ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value`,
         sql`INSERT INTO site_settings (key, value) VALUES ('scheduler_lang', ${String(lang || 'pt')}) ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value`,
         sql`INSERT INTO site_settings (key, value) VALUES ('scheduler_mode', ${String(mode || 'incremental')}) ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value`
+      ];
+      await Promise.all(queries);
+    }
+    if (news !== undefined && news && typeof news === 'object') {
+      const { enabled, content, duration_days } = news;
+      const nowTs = String(Date.now());
+      const queries = [
+        sql`INSERT INTO site_settings (key, value) VALUES ('news_enabled', ${String(!!enabled)}) ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value`,
+        sql`INSERT INTO site_settings (key, value) VALUES ('news_content', ${String(content || '')}) ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value`,
+        sql`INSERT INTO site_settings (key, value) VALUES ('news_duration_days', ${String(parseInt(duration_days, 10) || 10)}) ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value`,
+        sql`INSERT INTO site_settings (key, value) VALUES ('news_updated_at', ${nowTs}) ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value`
       ];
       await Promise.all(queries);
     }

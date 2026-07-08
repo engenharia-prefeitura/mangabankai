@@ -64,9 +64,18 @@ async function settings(req, res) {
   const sql = await ensureConnection();
   if (req.method === 'GET') {
     try {
-      const r = await sql`SELECT value FROM site_settings WHERE key = 'transition_delay' LIMIT 1`;
-      const delay = r.rows && r.rows[0] ? parseInt(r.rows[0].value, 10) : 10;
-      return res.status(200).json({ transition_delay: delay });
+      const r = await sql`SELECT key, value FROM site_settings`;
+      const data = {};
+      (r.rows || []).forEach(row => { data[row.key] = row.value; });
+      return res.status(200).json({
+        transition_delay: data['transition_delay'] ? parseInt(data['transition_delay'], 10) : 10,
+        news: {
+          enabled: data['news_enabled'] === 'true',
+          content: data['news_content'] || '',
+          duration_days: data['news_duration_days'] ? parseInt(data['news_duration_days'], 10) : 10,
+          updated_at: data['news_updated_at'] ? parseInt(data['news_updated_at'], 10) : 0
+        }
+      });
     } catch (e) {
       return res.status(200).json({ transition_delay: 10 });
     }

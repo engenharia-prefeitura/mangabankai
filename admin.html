@@ -517,6 +517,44 @@
     </div>
   </div>
 
+  <!-- Aviso de Novidades -->
+  <div class="scraper-cloud" id="newsSettingsCard" style="margin-top:28px;">
+    <h2>📢 Aviso de Novidades</h2>
+    <p style="font-size:0.82rem; color:var(--muted); margin-bottom:18px; margin-top:4px;">
+      Configure uma novidade para exibir flutuando na página inicial do site para os usuários.
+    </p>
+    <div style="display:grid; grid-template-columns: 1fr 1fr; gap:16px; margin-bottom:18px;">
+      <div>
+        <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">Status do Aviso</label>
+        <select id="newsEnabled" style="width:100%; background:var(--surface2); border:1px solid var(--border); padding:8px 12px; border-radius:8px; color:var(--text); outline:none;">
+          <option value="true">Ativo</option>
+          <option value="false">Inativo</option>
+        </select>
+      </div>
+      <div>
+        <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">Duração do Fechamento (Expirar após)</label>
+        <select id="newsDurationDays" style="width:100%; background:var(--surface2); border:1px solid var(--border); padding:8px 12px; border-radius:8px; color:var(--text); outline:none;">
+          <option value="1">1 Dia</option>
+          <option value="3">3 Dias</option>
+          <option value="7">7 Dias</option>
+          <option value="10">10 Dias</option>
+          <option value="20">20 Dias</option>
+          <option value="30">30 Dias (1 Mês)</option>
+        </select>
+      </div>
+    </div>
+    <div style="margin-bottom:18px;">
+      <label style="display:block; font-size:0.75rem; color:var(--muted); margin-bottom:6px;">Mensagem de Novidades (HTML aceito)</label>
+      <textarea id="newsContent" rows="3" style="width:100%; background:var(--surface2); border:1px solid var(--border); padding:10px 14px; border-radius:8px; color:var(--text); outline:none; font-family:inherit; font-size:0.85rem; resize:vertical;" placeholder="Ex: &lt;strong&gt;Novidade!&lt;/strong&gt; Agora você pode baixar o capítulo..."></textarea>
+    </div>
+    <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:12px;">
+      <div id="newsInfo" style="font-size:0.8rem; color:var(--muted);">
+        Aguardando configurações...
+      </div>
+      <button class="btn btn-resume" id="saveNewsBtn" onclick="saveNewsSettings()">Salvar Aviso de Novidades</button>
+    </div>
+  </div>
+
   <!-- Tetos por Scraper -->
   <div class="scraper-cloud" id="scraperCapsCard" style="display:none; margin-top: 28px; background:var(--surface); border:1px solid var(--border); border-radius:16px; padding:24px;">
     <h2>📥 Obras Novas por Atualização (por fornecedor)</h2>
@@ -948,9 +986,54 @@ async function fetchGeneralSettings() {
       updateGeneralSettingsDisplay(data.transition_delay);
       if (data.scheduler) updateSchedulerDisplay(data.scheduler, true);
       if (data.caps) updateCapsDisplay(data.caps);
+      if (data.news) updateNewsDisplay(data.news);
     }
   } catch (e) {
     console.error('Erro ao carregar configurações gerais:', e);
+  }
+}
+
+function updateNewsDisplay(news) {
+  if (!news) return;
+  document.getElementById('newsEnabled').value = String(news.enabled);
+  document.getElementById('newsContent').value = news.content || '';
+  document.getElementById('newsDurationDays').value = String(news.duration_days || 10);
+  
+  const statusLabel = news.enabled ? 'Ativo 🟢' : 'Inativo ⚪';
+  const updatedTime = news.updated_at ? new Date(news.updated_at).toLocaleString('pt-BR') : 'Nunca';
+  document.getElementById('newsInfo').innerHTML = `📢 Status: <strong>${statusLabel}</strong> | Última atualização: ${updatedTime}`;
+}
+
+async function saveNewsSettings() {
+  const enabled = document.getElementById('newsEnabled').value === 'true';
+  const content = document.getElementById('newsContent').value;
+  const duration_days = parseInt(document.getElementById('newsDurationDays').value, 10);
+
+  const url = SCRAPER_URL ? `${SCRAPER_URL}/settings` : `/api/admin/settings`;
+  const btn = document.getElementById('saveNewsBtn');
+  btn.disabled = true;
+  btn.textContent = 'Salvando...';
+
+  try {
+    const res = await fetch(url, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        news: { enabled, content, duration_days }
+      })
+    });
+    if (res.ok) {
+      const data = await res.json();
+      if (data.news) updateNewsDisplay(data.news);
+      alert('Aviso de novidades salvo com sucesso!');
+    } else {
+      alert('Erro ao salvar o aviso de novidades.');
+    }
+  } catch (e) {
+    alert('Erro de conexão ao salvar aviso: ' + e.message);
+  } finally {
+    btn.disabled = false;
+    btn.textContent = 'Salvar Aviso de Novidades';
   }
 }
 

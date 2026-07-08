@@ -60,6 +60,18 @@ async function views(req, res) {
   return res.status(405).json({ error: 'Método não permitido' });
 }
 
+async function pdfDownload(req, res) {
+  if (req.method !== 'POST') return res.status(405).json({ error: 'Método não permitido' });
+  const { mangaId, mangaTitle, chapterId, chapterNumber } = req.body || {};
+  if (!mangaId || !chapterId) return res.status(400).json({ error: 'mangaId e chapterId obrigatórios' });
+  const sql = await ensureConnection();
+  await sql`
+    INSERT INTO pdf_downloads (manga_id, manga_title, chapter_id, chapter_number)
+    VALUES (${String(mangaId)}, ${String(mangaTitle || '')}, ${String(chapterId)}, ${chapterNumber ? String(chapterNumber) : null})
+  `.catch(() => {});
+  return res.status(200).json({ success: true });
+}
+
 async function settings(req, res) {
   const sql = await ensureConnection();
   if (req.method === 'GET') {
@@ -153,5 +165,6 @@ module.exports = async (req, res) => {
   if (action === 'views') return views(req, res);
   if (action === 'settings') return settings(req, res);
   if (action === 'history') return history(req, res);
+  if (action === 'pdf-download') return pdfDownload(req, res);
   res.status(404).json({ error: 'Endpoint não encontrado' });
 };

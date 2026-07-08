@@ -58,6 +58,70 @@ async function searchManga(req, res) {
   })));
 }
 
+// ── pdf-stats ──────────────────────────────────────────────────────────
+async function pdfStats(req, res) {
+  if (req.method !== 'GET') return res.status(405).json({ error: 'Método não permitido' });
+  if (!await isAdmin(req)) return res.status(403).json({ error: 'Forbidden' });
+  const sql = await ensureConnection();
+
+  // KPIs gerais
+  const totals = await sql`
+    SELECT
+      COUNT(*) AS total_downloads,
+      COUNT(DISTINCT manga_id) AS unique_mangas,
+      COUNT(DISTINCT chapter_id) AS unique_chapters
+    FROM pdf_downloads
+  `;
+
+  // Downloads por dia (últimos 30 dias)
+  const byDay = await sql`
+    SELECT DATE(downloaded_at) AS day, COUNT(*) AS count
+    FROM pdf_downloads
+    WHERE downloaded_at >= NOW() - INTERVAL '30 days'
+    GROUP BY day
+    ORDER BY day ASC
+  `;
+
+  // Top mangás com mais downloads
+  const topMangas = await sql`
+    SELECT manga_id, manga_title, COUNT(*) AS total
+    FROM pdf_downloads
+    GROUP BY manga_id, manga_title
+    ORDER BY total DESC
+    LIMIT 20
+  `;
+
+  // Top capítulos com mais downloads
+  const topChapters = await sql`
+    SELECT manga_id, manga_title, chapter_id, chapter_number, COUNT(*) AS total
+    FROM pdf_downloads
+    GROUP BY manga_id, manga_title, chapter_id, chapter_number
+    ORDER BY total DESC
+    LIMIT 30
+  `;
+
+  // Downloads de hoje
+  const today = await sql`
+    SELECT COUNT(*) AS count FROM pdf_downloads
+    WHERE DATE(downloaded_at) = CURRENT_DATE
+  `;
+
+  // Downloads da semana
+  const week = await sql`
+    SELECT COUNT(*) AS count FROM pdf_downloads
+    WHERE downloaded_at >= NOW() - INTERVAL '7 days'
+  `;
+
+  return res.status(200).json({
+    totals: totals.rows[0] || { total_downloads: 0, unique_mangas: 0, unique_chapters: 0 },
+    today: today.rows[0] ? parseInt(today.rows[0].count, 10) : 0,
+    week: week.rows[0] ? parseInt(week.rows[0].count, 10) : 0,
+    byDay: byDay.rows || [],
+    topMangas: topMangas.rows || [],
+    topChapters: topChapters.rows || []
+  });
+}
+
 // ── toggle-hidden ──────────────────────────────────────────────────────
 async function toggleHidden(req, res) {
   if (req.method !== 'POST') return res.status(405).json({ error: 'Método não permitido' });
@@ -472,5 +536,6 @@ module.exports = async (req, res) => {
   if (action === 'report-resolve') return reportResolve(req, res);
   if (action === 'takedowns') return takedowns(req, res);
   if (action === 'takedown-resolve') return takedownResolve(req, res);
+  if (action === 'pdf-stats') return pdfStats(req, res);
   res.status(404).json({ error: 'Endpoint não encontrado' });
 };

@@ -294,6 +294,7 @@
       <button class="stats-tab" data-pane="rankings" onclick="switchStatsTab('rankings')">🏆 Rankings</button>
       <button class="stats-tab" data-pane="users" onclick="switchStatsTab('users')">👤 Usuários</button>
       <button class="stats-tab" data-pane="feedback" onclick="switchStatsTab('feedback')">🔍 Buscas &amp; Reports</button>
+      <button class="stats-tab" data-pane="downloads" onclick="switchStatsTab('downloads')">📥 Downloads PDF</button>
     </div>
     <div id="statsBody" style="color:var(--muted); font-size:0.85rem;">Carregando estatísticas…</div>
   </div>
@@ -1292,11 +1293,16 @@ function topTable(title, sub, rows, valueLabel) {
     + '<thead><tr><th></th><th>Mangá</th><th class="num">' + valueLabel + '</th></tr></thead><tbody>' + body + '</tbody></table></div>';
 }
 
+let _pdfStatsLoaded = false;
 function switchStatsTab(name) {
   document.querySelectorAll('#statsTabs .stats-tab').forEach(b =>
     b.classList.toggle('active', b.getAttribute('data-pane') === name));
   document.querySelectorAll('#statsBody .stats-pane').forEach(p =>
     p.classList.toggle('active', p.id === 'pane-' + name));
+  if (name === 'downloads' && !_pdfStatsLoaded) {
+    _pdfStatsLoaded = true;
+    loadPdfStats();
+  }
 }
 
 async function loadStats() {
@@ -1392,7 +1398,8 @@ function renderStats(d) {
     '<div class="stats-pane active" id="pane-overview">' + overview + '</div>'
     + '<div class="stats-pane" id="pane-rankings">' + rankings + '</div>'
     + '<div class="stats-pane" id="pane-users">' + users + '</div>'
-    + '<div class="stats-pane" id="pane-feedback">' + feedback + '</div>';
+    + '<div class="stats-pane" id="pane-feedback">' + feedback + '</div>'
+    + '<div class="stats-pane" id="pane-downloads"><div style="color:var(--muted);font-size:0.85rem;padding:12px 0">Clique na aba para carregar os dados de downloads...</div></div>';
   document.getElementById('statsTabs').style.display = 'flex';
 }
 
@@ -1435,6 +1442,87 @@ async function resolveReport(id, btn) {
   } catch (e) {
     btn.disabled = false; btn.textContent = '✓ Resolver';
   }
+}
+
+// ── Downloads PDF ────────────────────────────────────────────────────────
+async function loadPdfStats() {
+  const pane = document.getElementById('pane-downloads');
+  if (!pane) return;
+  pane.innerHTML = '<div style="color:var(--muted);font-size:0.85rem;padding:12px 0">Carregando dados de downloads...</div>';
+  try {
+    const res = await fetch('/api/admin/pdf-stats');
+    if (!res.ok) { pane.innerHTML = '<div style="color:var(--red)">Erro ao carregar estatísticas de downloads (' + res.status + ').</div>'; return; }
+    renderPdfStats(await res.json(), pane);
+  } catch (e) {
+    pane.innerHTML = '<div style="color:var(--red)">Erro de conexão: ' + e.message + '</div>';
+  }
+}
+
+function renderPdfStats(d, pane) {
+  const tot = d.totals || {};
+  const totalDl = Number(tot.total_downloads || 0).toLocaleString('pt-BR');
+  const uniqueM = Number(tot.unique_mangas || 0).toLocaleString('pt-BR');
+  const uniqueC = Number(tot.unique_chapters || 0).toLocaleString('pt-BR');
+  const todayDl = Number(d.today || 0).toLocaleString('pt-BR');
+  const weekDl  = Number(d.week || 0).toLocaleString('pt-BR');
+
+  // KPIs
+  let html = '<div class="kpis">'
+    + kpi(totalDl, 'Downloads totais')
+    + kpi(todayDl, 'Downloads hoje')
+    + kpi(weekDl, 'Downloads 7 dias')
+    + kpi(uniqueM, 'Mangás baixados')
+    + kpi(uniqueC, 'Capítulos baixados')
+    + '</div>';
+
+  // Gráfico de barras (últimos 30 dias)
+  html += '<div class="chart-box"><div class="chart-title">📥 Downloads por dia</div><div class="chart-sub">Últimos 30 dias</div>';
+  if (d.byDay && d.byDay.length) {
+    const maxV = Math.max.apply(null, d.byDay.map(r => Number(r.count) || 0)) || 1;
+    html += '<div class="bars">' + d.byDay.map(r => {
+      const v = Number(r.count) || 0;
+      const pct = Math.max(2, Math.round(v / maxV * 100));
+      const day = r.day ? new Date(r.day).toLocaleDateString('pt-BR', {day:'2-digit',month:'2-digit'}) : '';
+      return '<div class="bar" style="height:' + pct + '%" data-tip="' + day + ': ' + v + ' downloads"></div>';
+    }).join('') + '</div>';
+  } else {
+    html += '<div style="color:var(--muted);font-size:0.75rem;padding:20px 0;text-align:center">Sem downloads ainda.</div>';
+  }
+  html += '</div>';
+
+  // Top mangás e top capítulos (2 colunas)
+  html += '<div class="stats-grid2">';
+
+  // Top Mangás
+  const mangaRows = (d.topMangas || []).map((m, i) =>
+    '<tr><td style="color:var(--muted)">' + (i+1) + '.</td>'
+    + '<td title="' + escHtml(m.manga_title || m.manga_id) + '">'
+    + '<a href="/manga/' + escHtml(m.manga_id) + '/" target="_blank" style="color:var(--text);text-decoration:none">'
+    + escHtml(m.manga_title || m.manga_id) + '</a></td>'
+    + '<td class="num">' + Number(m.total).toLocaleString('pt-BR') + '</td></tr>'
+  ).join('') || '<tr><td colspan="3" style="color:var(--muted)">Sem dados ainda.</td></tr>';
+  html += '<div class="chart-box"><div class="chart-title">🏆 Mangás mais baixados</div>'
+    + '<div class="chart-sub">Total acumulado desde o início</div>'
+    + '<div class="stbl-wrap"><table class="stbl"><colgroup><col class="c-rank"><col><col class="c-val"></colgroup>'
+    + '<thead><tr><th></th><th>Mangá</th><th class="num">Downloads</th></tr></thead>'
+    + '<tbody>' + mangaRows + '</tbody></table></div></div>';
+
+  // Top Capítulos
+  const chapRows = (d.topChapters || []).map((c, i) =>
+    '<tr><td style="color:var(--muted)">' + (i+1) + '.</td>'
+    + '<td title="' + escHtml((c.manga_title || c.manga_id) + ' – Cap. ' + (c.chapter_number || c.chapter_id)) + '">'
+    + '<span style="color:var(--text)">' + escHtml(c.manga_title || c.manga_id) + '</span>'
+    + '<br><span style="color:var(--muted);font-size:0.7rem">Cap. ' + escHtml(c.chapter_number || c.chapter_id) + '</span></td>'
+    + '<td class="num">' + Number(c.total).toLocaleString('pt-BR') + '</td></tr>'
+  ).join('') || '<tr><td colspan="3" style="color:var(--muted)">Sem dados ainda.</td></tr>';
+  html += '<div class="chart-box"><div class="chart-title">📄 Capítulos mais baixados</div>'
+    + '<div class="chart-sub">Top 30 capítulos individualmente</div>'
+    + '<div class="stbl-wrap"><table class="stbl"><colgroup><col class="c-rank"><col><col class="c-val"></colgroup>'
+    + '<thead><tr><th></th><th>Mangá / Capítulo</th><th class="num">Downloads</th></tr></thead>'
+    + '<tbody>' + chapRows + '</tbody></table></div></div>';
+
+  html += '</div>'; // end stats-grid2
+  pane.innerHTML = html;
 }
 
 async function sendManualPush() {

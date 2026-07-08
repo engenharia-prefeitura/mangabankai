@@ -1257,6 +1257,23 @@
           const mangaTitle = document.getElementById('readerTitle').textContent || 'Manga';
           const chNum = currentChapter ? currentChapter.number : 'Capitulo';
           doc.save(`${mangaTitle.replace(/[^a-zA-Z0-9]/g, '_')}_Capitulo_${chNum}.pdf`);
+          // ── Rastrear download no banco de dados ──────────────────────────
+          try {
+            const urlParts = window.location.pathname.split('/').filter(Boolean);
+            const mangaSlug = urlParts[1] || '';
+            const chapSlug = urlParts[2] || (currentChapter ? currentChapter.id : '');
+            fetch('/api/manga?action=pdf-download', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({
+                mangaId: mangaSlug,
+                mangaTitle: mangaTitle,
+                chapterId: chapSlug,
+                chapterNumber: String(chNum)
+              })
+            }).catch(() => {});
+          } catch(e) {}
+          // ─────────────────────────────────────────────────────────────────
         } else {
           alert("Falha ao gerar o PDF. Nenhuma imagem pôde ser processada.");
         }

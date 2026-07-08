@@ -88,7 +88,6 @@
         <div class="right">
           <select id="langSelect" onchange="switchReaderLang(this.value)" style="margin-right: 8px; display: none; padding: 4px 8px; border-radius: 4px; border: 1px solid var(--border); background: #000; color: #fff;"></select>
           <select id="chapterSelect" onchange="loadChapterBySelect(this.value)"></select>
-          <button class="rh-btn" onclick="startPDFDownload()" title="Baixar Capítulo em PDF" style="font-size:0.8rem; font-weight:bold; display:inline-flex; align-items:center; gap:4px; padding:6px 12px;">📥 PDF</button>
           <button class="rh-btn" onclick="openReportMenu()" title="Reportar problema no capítulo">⚠️</button>
           <button class="rh-btn" onclick="toggleSettings()" title="Configurações">⚙️</button>
           <button class="rh-btn" onclick="toggleFullscreen()" title="Tela Cheia">⛶</button>
@@ -1177,13 +1176,25 @@
       if (modal) modal.remove();
     };
 
+    function getPDFProxyUrl(url) {
+      if (!url) return '';
+      if (url.startsWith('/api/img-proxy')) return url;
+      if (!url.startsWith('http')) return url;
+      return '/api/img-proxy?url=' + encodeURIComponent(url);
+    }
+
     window.confirmAndDownloadPDF = async function() {
-      // 1. Open Smartlink (direct link) in a new tab
+      // 1. Open Smartlink (direct link) in a new tab and try to blur it immediately
+      let adUrl = 'https://www.effectivecpmnetwork.com/j1s8jdu63?key=63bb0cb2e3a95b2c0447914593cc6747';
       if (typeof ADS !== 'undefined' && typeof ADS.getDirectLink === 'function') {
-        window.open(ADS.getDirectLink(), '_blank');
-      } else {
-        window.open('https://www.effectivecpmnetwork.com/j1s8jdu63?key=63bb0cb2e3a95b2c0447914593cc6747', '_blank');
+        adUrl = ADS.getDirectLink();
       }
+      
+      const adWin = window.open(adUrl, '_blank');
+      if (adWin) {
+        try { adWin.blur(); } catch(e) {}
+      }
+      window.focus();
 
       // 2. Change modal to show progress
       const modal = document.getElementById('pdfDownloadModal');
@@ -1204,8 +1215,8 @@
         await loadjsPDF();
         const { jsPDF } = window.jspdf;
         
-        // Filter out non-image sentinel values
-        const imgUrls = pages.filter(p => p !== '__AD_MID__' && p !== '__AD_END__').map(p => rdProxyPage(p));
+        // Filter out non-image sentinel values and wrap everything in proxy for CORS headers
+        const imgUrls = pages.filter(p => p !== '__AD_MID__' && p !== '__AD_END__').map(p => getPDFProxyUrl(p));
         
         if (imgUrls.length === 0) {
           alert("Não há páginas disponíveis para gerar o PDF.");

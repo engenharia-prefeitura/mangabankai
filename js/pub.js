@@ -1,50 +1,22 @@
 const ADS = (function () {
 
-  // Injeta código de ad via blob URL.
-  // blob: preserva a origem do site (https://mangabankai.vercel.app) para que os
-  // scripts do Adsterra identifiquem o publisher corretamente — diferente de srcdoc
-  // que cria origem opaca (null) e causa delays de 2+ min no matching de anúncios.
-  const activeIntervals = new Map();
-  const visibilityObserver = new IntersectionObserver((entries) => {
-    entries.forEach(entry => {
-      const container = entry.target;
-      if (entry.isIntersecting) {
-        if (!activeIntervals.has(container)) {
-          const interval = setInterval(() => {
-            const html = container.dataset.adHtml;
-            const w = parseInt(container.dataset.adW, 10) || 0;
-            const h = parseInt(container.dataset.adH, 10) || 0;
-            if (html) {
-              container.innerHTML = '';
-              _createIframeElement(container, html, w, h);
-              console.debug('[ADS] Auto-refresh do banner realizado');
-            }
-          }, 45000);
-          activeIntervals.set(container, interval);
-        }
-      } else {
-        if (activeIntervals.has(container)) {
-          clearInterval(activeIntervals.get(container));
-          activeIntervals.delete(container);
-        }
-      }
-    });
-  }, { threshold: 0.1 });
-
-  function _createIframeElement(container, html, w, h) {
+  // Injeta o arquivo ad-banner.html via iframe local com os parâmetros do anúncio.
+  // Isso garante 100% de medibilidade e consistência na origem (same-origin).
+  function _iframe(container, type, key, w, h, host) {
+    if (!container) return;
+    
     const t0 = performance.now();
     const label = w ? (w + '×' + h) : 'native';
 
     container.classList.add('ad-loading');
     const stopShimmer = setTimeout(function () { container.classList.remove('ad-loading'); }, 6000);
 
-    const blob = new Blob([html], {type: 'text/html; charset=utf-8'});
-    const url = URL.createObjectURL(blob);
     const fr = document.createElement('iframe');
     fr.setAttribute('frameborder', '0');
     fr.setAttribute('scrolling', 'no');
     fr.setAttribute('marginwidth', '0');
     fr.setAttribute('marginheight', '0');
+    
     if (w) {
       fr.width  = w;
       fr.height = h;
@@ -52,23 +24,21 @@ const ADS = (function () {
     } else {
       fr.style.cssText = 'border:0;display:block;width:100%;min-height:' + (h || 90) + 'px;position:relative;z-index:1;';
     }
-    fr.src = url;
+    
+    let src = `/ad-banner.html?key=${encodeURIComponent(key)}`;
+    if (type) src += `&type=${encodeURIComponent(type)}`;
+    if (w) src += `&w=${w}`;
+    if (h) src += `&h=${h}`;
+    if (host) src += `&host=${encodeURIComponent(host)}`;
+    
+    fr.src = src;
     fr.addEventListener('load', function () {
-      URL.revokeObjectURL(url);
       setTimeout(function () { clearTimeout(stopShimmer); container.classList.remove('ad-loading'); }, 1200);
       console.debug('[ADS] ' + label + ' carregado em ' + Math.round(performance.now() - t0) + 'ms');
     }, {once: true});
+    
+    container.innerHTML = '';
     container.appendChild(fr);
-
-    visibilityObserver.observe(container);
-  }
-
-  function _iframe(container, html, w, h) {
-    if (!container) return;
-    container.dataset.adHtml = html;
-    container.dataset.adW = w;
-    container.dataset.adH = h;
-    _createIframeElement(container, html, w, h);
   }
 
   return {
@@ -135,71 +105,19 @@ const ADS = (function () {
     // ── BANNER NATIVO (ADSTERRA DIRECT LINK) ─────────────────────────────
     renderNative(container) {
       if (!container) return;
-      const html = `
-        <!DOCTYPE html>
-        <html>
-        <head>
-          <style>html,body{margin:0;padding:0;overflow:hidden;background:transparent;}</style>
-        </head>
-        <body>
-          <div id="container-3bf02e75245e7cb6a59d7847d032a951"></div>
-          <script async="async" data-cfasync="false" src="https://pl30096193.effectivecpmnetwork.com/3bf02e75245e7cb6a59d7847d032a951/invoke.js"></script>
-        </body>
-        </html>
-      `;
-      _iframe(container, html, 0, 250);
+      _iframe(container, 'native', '3bf02e75245e7cb6a59d7847d032a951', 0, 250, 'pl30096193.effectivecpmnetwork.com');
     },
 
     // ── BANNER 300×250 / 160×300 (ADSTERRA DIRECT LINK) ──────────────────
     renderBanner300(container) {
       if (!container) return;
-      const html = `
-        <!DOCTYPE html>
-        <html>
-        <head>
-          <style>html,body{margin:0;padding:0;overflow:hidden;display:flex;justify-content:center;align-items:center;background:transparent;}</style>
-        </head>
-        <body>
-          <script type="text/javascript">
-            atOptions = {
-              'key' : '008cabfc613fdd6ea56d84d6915d013b',
-              'format' : 'iframe',
-              'height' : 300,
-              'width' : 160,
-              'params' : {}
-            };
-          </script>
-          <script type="text/javascript" src="https://www.highperformanceformat.com/008cabfc613fdd6ea56d84d6915d013b/invoke.js"></script>
-        </body>
-        </html>
-      `;
-      _iframe(container, html, 160, 300);
+      _iframe(container, 'banner', '008cabfc613fdd6ea56d84d6915d013b', 160, 300);
     },
 
     // ── BANNER 728×90 (ADSTERRA DIRECT LINK) ─────────────────────────────
     renderBanner728(container) {
       if (!container) return;
-      const html = `
-        <!DOCTYPE html>
-        <html>
-        <head>
-          <style>html,body{margin:0;padding:0;overflow:hidden;display:flex;justify-content:center;align-items:center;background:transparent;}</style>
-        </head>
-        <body>
-          <script type="text/javascript">
-            atOptions = {
-              'key' : 'b23ec25cb230921662d8cbac7ac95c50',
-              'format' : 'iframe',
-              'height' : 90,
-              'width' : 728,
-              'params' : {}
-            };
-          </script>
-          <script type="text/javascript" src="https://www.highperformanceformat.com/b23ec25cb230921662d8cbac7ac95c50/invoke.js"></script>
-        </body>
-        </html>
-      `;
-      _iframe(container, html, 728, 90);
+      _iframe(container, 'banner', 'b23ec25cb230921662d8cbac7ac95c50', 728, 90);
     },
 
     // ── PÁGINA MID-CAPÍTULO (3 ads empilhados) ───────────────────────────

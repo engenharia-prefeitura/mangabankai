@@ -114,6 +114,12 @@ const ADS = (function () {
       _iframe(container, 'banner', '008cabfc613fdd6ea56d84d6915d013b', 160, 300);
     },
 
+    // ── BANNER 300×250 REAL (ADSTERRA DIRECT LINK) ───────────────────────
+    renderBanner300x250(container) {
+      if (!container) return;
+      _iframe(container, 'banner', 'fe05dd3e4e352dea7bcfb0afe47a6044', 300, 250);
+    },
+
     // ── BANNER 728×90 (ADSTERRA DIRECT LINK) ─────────────────────────────
     renderBanner728(container) {
       if (!container) return;
@@ -165,15 +171,18 @@ const ADS = (function () {
       inner.className = 'ad-transition-inner';
       inner.innerHTML =
         '<span class="ad-page-label">publicidade</span>' +
-        '<div class="ad-slot ad-s728 ad-tr728"></div>' +
-        '<div class="ad-slot ad-s300 ad-tr300"></div>' +
-        '<div class="ad-slot ad-snat ad-trnat"></div>';
+        '<div class="ad-slot ad-tr300" style="width:300px; height:250px; display:flex; align-items:center; justify-content:center; margin:10px auto; background:rgba(255,255,255,0.03); border-radius:8px;"></div>';
 
       const btn = document.createElement('button');
       btn.className = 'ad-transition-btn';
       btn.disabled = true;
       btn.style.cursor = 'not-allowed';
       btn.style.opacity = '0.6';
+
+      const skipBtn = document.createElement('button');
+      skipBtn.className = 'ad-transition-skip-btn';
+      skipBtn.style.cssText = 'margin-top:10px; padding:10px 24px; border-radius:12px; border:1px dashed rgba(108, 99, 255, 0.4); background:rgba(108, 99, 255, 0.05); color:#8c83ff; font-size:0.85rem; font-weight:600; cursor:pointer; transition:all 0.2s; font-family:inherit;';
+      skipBtn.textContent = '⚡ Pular timer agora (Abre anúncio parceiro)';
 
       let timeLeft = 10;
       function updateBtnText() {
@@ -189,6 +198,7 @@ const ADS = (function () {
           btn.style.cursor = 'pointer';
           btn.style.opacity = '1';
           btn.textContent = btnLabel || 'Próximo capítulo →';
+          skipBtn.style.display = 'none'; // Esconde botão de pular se o timer já acabou
         } else {
           updateBtnText();
         }
@@ -211,6 +221,7 @@ const ADS = (function () {
                 btn.style.cursor = 'pointer';
                 btn.style.opacity = '1';
                 btn.textContent = btnLabel || 'Próximo capítulo →';
+                skipBtn.style.display = 'none';
               } else {
                 timeLeft = delay;
                 updateBtnText();
@@ -226,13 +237,19 @@ const ADS = (function () {
         onConfirm && onConfirm();
       };
 
+      skipBtn.onclick = function () {
+        window.open(ADS.getDirectLink(), '_blank');
+        clearInterval(timer);
+        screen.remove();
+        onConfirm && onConfirm();
+      };
+
       inner.appendChild(btn);
+      inner.appendChild(skipBtn);
       screen.appendChild(inner);
       document.body.appendChild(screen);
 
-      ADS.renderBanner728(screen.querySelector('.ad-tr728'));
-      ADS.renderBanner300(screen.querySelector('.ad-tr300'));
-      ADS.renderNative(screen.querySelector('.ad-trnat'));
+      ADS.renderBanner300x250(screen.querySelector('.ad-tr300'));
     },
 
     // ── DETECÇÃO DE ADBLOCK ──────────────────────────────────────────────

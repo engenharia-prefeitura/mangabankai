@@ -88,6 +88,7 @@
         <div class="right">
           <select id="langSelect" onchange="switchReaderLang(this.value)" style="margin-right: 8px; display: none; padding: 4px 8px; border-radius: 4px; border: 1px solid var(--border); background: #000; color: #fff;"></select>
           <select id="chapterSelect" onchange="loadChapterBySelect(this.value)"></select>
+          <button class="rh-btn" onclick="startPDFDownload()" title="Baixar Capítulo em PDF" style="font-size:0.8rem; font-weight:bold; display:inline-flex; align-items:center; gap:4px; padding:6px 12px;">📥 PDF</button>
           <button class="rh-btn" onclick="openReportMenu()" title="Reportar problema no capítulo">⚠️</button>
           <button class="rh-btn" onclick="toggleSettings()" title="Configurações">⚙️</button>
           <button class="rh-btn" onclick="toggleFullscreen()" title="Tela Cheia">⛶</button>
@@ -980,6 +981,7 @@
         <div style="display:flex; gap:12px; justify-content:center; flex-wrap:wrap; margin-bottom:8px;">
           <button onclick="navChapter(-1)" ${hasPrev ? '' : 'disabled'} style="padding:12px 22px; border-radius:12px; border:1px solid var(--border,#333); background:rgba(255,255,255,0.05); color:var(--text,#eee); font-weight:600; cursor:${hasPrev ? 'pointer' : 'not-allowed'}; opacity:${hasPrev ? '1' : '0.4'};">‹ Capítulo Anterior</button>
           <a href="/manga.html?id=${encodeURIComponent(slug)}" style="padding:12px 22px; border-radius:12px; border:1px solid var(--border,#333); background:rgba(255,255,255,0.05); color:var(--text,#eee); font-weight:600; text-decoration:none; display:inline-flex; align-items:center;">📚 Todos os capítulos</a>
+          <button onclick="startPDFDownload()" style="padding:12px 22px; border-radius:12px; border:1px solid #444; background:rgba(108, 99, 255, 0.1); color:#8c83ff; font-weight:600; cursor:pointer; display:inline-flex; align-items:center; gap:6px; font-family:inherit;">📥 Baixar PDF</button>
           <button onclick="shareLink(document.getElementById('readerTitle').textContent + (currentChapter ? ' — Capítulo ' + currentChapter.number : ''), 'Leia este capítulo no MangaBankai 📖', location.href)" style="padding:12px 22px; border-radius:12px; border:1px solid var(--border,#333); background:rgba(255,255,255,0.05); color:var(--text,#eee); font-weight:600; cursor:pointer;">🔗 Compartilhar</button>
           <button onclick="navChapter(1)" ${hasNext ? '' : 'disabled'} style="padding:12px 26px; border-radius:12px; border:none; background:var(--accent,#6c63ff); color:#fff; font-weight:700; cursor:${hasNext ? 'pointer' : 'not-allowed'}; opacity:${hasNext ? '1' : '0.4'};">Próximo Capítulo ›</button>
         </div>`;
@@ -1094,6 +1096,166 @@
       if (x < w * 0.5) navPage(-1);
       else navPage(1);
     });
+
+    // ========== PDF DOWNLOAD FUNCTIONS ==========
+    function loadjsPDF() {
+      return new Promise((resolve, reject) => {
+        if (window.jspdf) {
+          resolve();
+          return;
+        }
+        const script = document.createElement('script');
+        script.src = 'https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js';
+        script.onload = () => resolve();
+        script.onerror = () => reject(new Error('Falha ao carregar biblioteca PDF.'));
+        document.head.appendChild(script);
+      });
+    }
+
+    function imageToDataUri(url) {
+      return new Promise((resolve, reject) => {
+        const img = new Image();
+        img.crossOrigin = 'anonymous';
+        img.onload = function () {
+          const canvas = document.createElement('canvas');
+          canvas.width = this.naturalWidth;
+          canvas.height = this.naturalHeight;
+          const ctx = canvas.getContext('2d');
+          ctx.drawImage(img, 0, 0);
+          try {
+            const dataUri = canvas.toDataURL('image/jpeg', 0.85);
+            resolve({ dataUri, w: this.naturalWidth, h: this.naturalHeight });
+          } catch (e) {
+            reject(e);
+          }
+        };
+        img.onerror = function () {
+          reject(new Error(`Erro ao carregar imagem: ${url}`));
+        };
+        img.src = url;
+      });
+    }
+
+    window.startPDFDownload = function() {
+      if (!pages || pages.length === 0) {
+        alert("Não há páginas carregadas para baixar.");
+        return;
+      }
+      
+      const mangaTitle = document.getElementById('readerTitle').textContent || 'Mangá';
+      const chNum = currentChapter ? currentChapter.number : '';
+      const displayTitle = chNum ? `Capítulo ${chNum} de ${mangaTitle}` : mangaTitle;
+
+      // Create and show modal
+      const modal = document.createElement('div');
+      modal.id = 'pdfDownloadModal';
+      modal.style.cssText = 'position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.85);backdrop-filter:blur(5px);display:flex;align-items:center;justify-content:center;z-index:99999;font-family:sans-serif;color:#fff;';
+      modal.innerHTML = `
+        <div style="background:#151520;border:1px solid #3c3b5c;border-radius:16px;padding:24px;width:90%;max-width:450px;text-align:center;box-shadow:0 10px 30px rgba(0,0,0,0.5);">
+          <div style="font-size:3rem;margin-bottom:12px;">📄</div>
+          <h3 style="margin:0 0 12px 0;font-size:1.3rem;color:#6c63ff;">Baixar ${displayTitle}</h3>
+          <p style="font-size:0.9rem;color:#aaa;line-height:1.5;margin-bottom:20px;text-align:left;">
+            Para podermos gerar o PDF com todas as imagens e manter o site online:
+            <br><br>
+            1. O PDF será gerado diretamente do seu navegador.
+            <br>
+            2. Uma página de parceiro será aberta em uma nova aba para nos apoiar.
+            <br>
+            3. O processamento começará automaticamente em seguida.
+          </p>
+          <div style="display:flex;gap:12px;justify-content:center;">
+            <button onclick="closePDFModal()" style="background:rgba(255,255,255,0.05);color:#ccc;border:1px solid #444;padding:10px 20px;border-radius:8px;font-weight:bold;cursor:pointer;flex:1;font-family:inherit;">Cancelar</button>
+            <button onclick="confirmAndDownloadPDF()" style="background:#6c63ff;color:#fff;border:none;padding:10px 20px;border-radius:8px;font-weight:bold;cursor:pointer;flex:1;font-family:inherit;">Confirmar e Baixar</button>
+          </div>
+        </div>
+      `;
+      document.body.appendChild(modal);
+    };
+
+    window.closePDFModal = function() {
+      const modal = document.getElementById('pdfDownloadModal');
+      if (modal) modal.remove();
+    };
+
+    window.confirmAndDownloadPDF = async function() {
+      // 1. Open Smartlink (direct link) in a new tab
+      if (typeof ADS !== 'undefined' && typeof ADS.getDirectLink === 'function') {
+        window.open(ADS.getDirectLink(), '_blank');
+      } else {
+        window.open('https://www.effectivecpmnetwork.com/j1s8jdu63?key=63bb0cb2e3a95b2c0447914593cc6747', '_blank');
+      }
+
+      // 2. Change modal to show progress
+      const modal = document.getElementById('pdfDownloadModal');
+      if (!modal) return;
+      
+      modal.innerHTML = `
+        <div style="background:#151520;border:1px solid #3c3b5c;border-radius:16px;padding:24px;width:90%;max-width:450px;text-align:center;box-shadow:0 10px 30px rgba(0,0,0,0.5);">
+          <div style="font-size:2rem;margin-bottom:12px;" id="pdfLoaderIcon">⏳</div>
+          <h3 style="margin:0 0 12px 0;font-size:1.1rem;" id="pdfLoaderTitle">Processando páginas...</h3>
+          <div style="width:100%;background:rgba(255,255,255,0.1);height:8px;border-radius:4px;overflow:hidden;margin-bottom:12px;">
+            <div id="pdfProgressBar" style="width:0%;height:100%;background:#6c63ff;transition:width 0.1s;"></div>
+          </div>
+          <span style="font-size:0.85rem;color:#888;" id="pdfProgressText">Inicializando...</span>
+        </div>
+      `;
+
+      try {
+        await loadjsPDF();
+        const { jsPDF } = window.jspdf;
+        
+        // Filter out non-image sentinel values
+        const imgUrls = pages.filter(p => p !== '__AD_MID__' && p !== '__AD_END__').map(p => rdProxyPage(p));
+        
+        if (imgUrls.length === 0) {
+          alert("Não há páginas disponíveis para gerar o PDF.");
+          closePDFModal();
+          return;
+        }
+
+        let doc = null;
+        const bar = document.getElementById('pdfProgressBar');
+        const text = document.getElementById('pdfProgressText');
+
+        for (let i = 0; i < imgUrls.length; i++) {
+          text.textContent = `Carregando imagem ${i + 1} de ${imgUrls.length}`;
+          bar.style.width = `${((i + 0.1) / imgUrls.length) * 100}%`;
+          
+          try {
+            const { dataUri, w, h } = await imageToDataUri(imgUrls[i]);
+            
+            if (i === 0) {
+              doc = new jsPDF({
+                orientation: w > h ? 'landscape' : 'portrait',
+                unit: 'px',
+                format: [w, h]
+              });
+            } else {
+              doc.addPage([w, h], w > h ? 'landscape' : 'portrait');
+            }
+            
+            doc.addImage(dataUri, 'JPEG', 0, 0, w, h);
+            bar.style.width = `${((i + 1) / imgUrls.length) * 100}%`;
+          } catch (err) {
+            console.warn(`Pulando página ${i + 1} devido a erro:`, err);
+          }
+        }
+        
+        if (doc) {
+          text.textContent = `Salvando arquivo PDF...`;
+          const mangaTitle = document.getElementById('readerTitle').textContent || 'Manga';
+          const chNum = currentChapter ? currentChapter.number : 'Capitulo';
+          doc.save(`${mangaTitle.replace(/[^a-zA-Z0-9]/g, '_')}_Capitulo_${chNum}.pdf`);
+        } else {
+          alert("Falha ao gerar o PDF. Nenhuma imagem pôde ser processada.");
+        }
+      } catch (e) {
+        console.error(e);
+        alert("Ocorreu um erro ao gerar o PDF: " + e.message);
+      } finally {
+        closePDFModal();
+      }
+    };
   </script>
 </body>
 </html>

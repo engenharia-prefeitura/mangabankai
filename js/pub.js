@@ -360,22 +360,39 @@ const ADS = (function () {
       document.body.appendChild(wall);
     },
 
+    // Injeta a MultiTag da Monetag para a monetização limpa automática no modo comum.
+    _renderMultiTag() {
+      if (window._monetagLoaded) return;
+      window._monetagLoaded = true;
+      const s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://quge5.com/88/tag.min.js';
+      s.setAttribute('data-zone', '257899');
+      s.setAttribute('data-cfasync', 'false');
+      document.head.appendChild(s);
+    },
+
     // ── GUARD (chamar em toda página) ────────────────────────────────────
     // Roda a detecção em cada carregamento de página e exibe o wall se houver
     // adblock. Sem guard de sessão: cada página verifica de forma independente,
     // então o bloqueio cobre home, catálogo, mangá e leitor. Defensivo quanto
     // ao body: se chamado antes do body existir, aguarda DOMContentLoaded.
     guard() {
+      const self = this;
       function run() {
-        // Inicializa a Social Bar de forma global em todas as páginas
-        ADS.renderSocialBar();
-        
-        // Controla o Popunder de forma inteligente dependendo da página
-        const parts = window.location.pathname.split('/').filter(Boolean);
-        const isHome = window.location.pathname === '/' || window.location.pathname.endsWith('index.html') || parts.length === 0;
-        
-        if (!isHome) {
-          ADS.renderPopunder();
+        if (!_isAdult()) {
+          // Modo Normal: Injeta apenas o MultiTag inteligente da Monetag
+          self._renderMultiTag();
+        } else {
+          // Modo +18 (Adulto): Carrega os formatos de anúncios eróticos do Adsterra
+          ADS.renderSocialBar();
+          
+          const parts = window.location.pathname.split('/').filter(Boolean);
+          const isHome = window.location.pathname === '/' || window.location.pathname.endsWith('index.html') || parts.length === 0;
+          
+          if (!isHome) {
+            ADS.renderPopunder();
+          }
         }
         
         ADS.detectAdBlock(function (blocked) {

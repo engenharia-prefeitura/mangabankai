@@ -14,7 +14,7 @@ const path = require('path');
 // Lógica compartilhada: decide quais mangás têm página SSG / URL limpa.
 const { isEligible, cleanPath } = require('./build-ssg.cjs');
 
-const BASE_URL = (process.env.SITE_URL || 'https://mangabankai.vercel.app').replace(/\/$/, '');
+const BASE_URL = (process.env.SITE_URL || 'https://www.mangabankai.click').replace(/\/$/, '');
 const DATA_JS_PATH = path.join(__dirname, 'js', 'data.js');
 const ROOT = __dirname;
 const URLS_PER_FILE = 1000;       // URLs por sitemap filho (limite oficial: 50.000)

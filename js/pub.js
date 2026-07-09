@@ -83,7 +83,7 @@ const ADS = (function () {
       sessionStorage.setItem(storageKey, '1');
       const s = document.createElement('script');
       s.async = true;
-      s.src = 'https://pl30096192.effectivecpmnetwork.com/61/a3/64/61a364624a5d9564624c731fa93801d7.js';
+      s.src = 'https://pl30274022.effectivecpmnetwork.com/07/18/34/071834054ff7e7da5a29520d712b1bec.js';
       document.head.appendChild(s);
     },
 
@@ -93,37 +93,37 @@ const ADS = (function () {
       window._socialBarLoaded = true;
       const s = document.createElement('script');
       s.async = true;
-      s.src = 'https://pl30096195.effectivecpmnetwork.com/63/b7/16/63b716721a507990403b659bbf920045.js';
+      s.src = 'https://pl30274092.effectivecpmnetwork.com/a9/b1/af/a9b1afe380919bb196ed5f2897e26b10.js';
       document.body.appendChild(s);
     },
 
     // ── DIRECT LINK (ADSTERRA) ───────────────────────────────────────────
     getDirectLink() {
-      return 'https://www.effectivecpmnetwork.com/j1s8jdu63?key=63bb0cb2e3a95b2c0447914593cc6747';
+      return 'https://www.effectivecpmnetwork.com/hf0w28tzp?key=fc040b0310fd6a96a9818c918f2fbde0';
     },
 
     // ── BANNER NATIVO (ADSTERRA DIRECT LINK) ─────────────────────────────
     renderNative(container) {
       if (!container) return;
-      _iframe(container, 'native', '3bf02e75245e7cb6a59d7847d032a951', 0, 250, 'pl30096193.effectivecpmnetwork.com');
+      _iframe(container, 'native', '473669572dfd6d4b92a4c9f6035a7ff6', 0, 250, 'pl30274096.effectivecpmnetwork.com');
     },
 
     // ── BANNER 300×250 / 160×300 (ADSTERRA DIRECT LINK) ──────────────────
     renderBanner300(container) {
       if (!container) return;
-      _iframe(container, 'banner', '008cabfc613fdd6ea56d84d6915d013b', 160, 300);
+      _iframe(container, 'banner', '1bd39f869a334a238b7e53ee612f5309', 160, 300);
     },
 
     // ── BANNER 300×250 REAL (ADSTERRA DIRECT LINK) ───────────────────────
     renderBanner300x250(container) {
       if (!container) return;
-      _iframe(container, 'banner', 'fe05dd3e4e352dea7bcfb0afe47a6044', 300, 250);
+      _iframe(container, 'banner', 'd84a05b4e77aacc064345c9577d11b51', 300, 250);
     },
 
     // ── BANNER 728×90 (ADSTERRA DIRECT LINK) ─────────────────────────────
     renderBanner728(container) {
       if (!container) return;
-      _iframe(container, 'banner', 'b23ec25cb230921662d8cbac7ac95c50', 728, 90);
+      _iframe(container, 'banner', '449ac2be8b93cbb84b335f75a9babe0c', 728, 90);
     },
 
     // ── PÁGINA MID-CAPÍTULO (3 ads empilhados) ───────────────────────────
@@ -290,7 +290,7 @@ const ADS = (function () {
       // Método 2 — fetch de rede (uBlock Origin, Adblock Plus com filtros de rede)
       // no-cors: resposta opaca mas não lança erro → não bloqueado
       // ERR_BLOCKED_BY_CLIENT → lança TypeError → bloqueado
-      fetch('https://www.highperformanceformat.com/fe05dd3e4e352dea7bcfb0afe47a6044/invoke.js', {
+      fetch('https://www.highperformanceformat.com/d84a05b4e77aacc064345c9577d11b51/invoke.js', {
         method: 'HEAD',
         mode: 'no-cors',
         cache: 'no-store'

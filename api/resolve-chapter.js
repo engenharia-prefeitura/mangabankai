@@ -129,7 +129,7 @@ async function loadChaptersFile(mangaId, req) {
   } catch (e) {}
 
   try {
-    const host = (req && req.headers && req.headers.host) || 'mangabankai.vercel.app';
+    const host = (req && req.headers && req.headers.host) || 'www.mangabankai.click';
     const protocol = host.includes('localhost') || host.includes('127.0.0.1') ? 'http' : 'https';
     const url = `${protocol}://${host}/js/chapters/${mangaId}.json`;
     const body = await fetchUrl(url);

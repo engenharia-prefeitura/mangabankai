@@ -11,7 +11,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const SITE = (process.env.SITE_URL || 'https://mangabankai.vercel.app').replace(/\/$/, '');
+const SITE = (process.env.SITE_URL || 'https://www.mangabankai.click').replace(/\/$/, '');
 
 let _reader = null;
 function loadReader() {

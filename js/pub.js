@@ -1,17 +1,43 @@
 const ADS = (function () {
 
-  // Detecta se a página ou obra atual é considerada adulta (+18) com base nos gêneros do mangá.
+  // Detecta se a página ou obra atual é considerada adulta (+18) com base nos gêneros do mangá ou toggle global.
   function _isAdult() {
     try {
+      // 1. Verifica se o toggle de modo adulto global está ativo no navegador
+      let adultMode = false;
+      try {
+        const val = localStorage.getItem('ms_adult_mode');
+        if (val) adultMode = JSON.parse(val) === true;
+      } catch (_) {}
+      if (adultMode) return true;
+
+      // 2. Verifica se a URL contém parâmetros de mangá ou capitulo
+      const params = new URLSearchParams(window.location.search);
+      const pathParts = window.location.pathname.split('/').filter(Boolean);
+      const mangaId = params.get('manga') || params.get('id') || (pathParts[0] === 'manga' ? pathParts[1] : '');
+
+      // Lista de slugs de mangás adultos conhecidos no catálogo
+      const adultSlugs = [
+        'a-pervert-s-daily-life', 'amu', 'all-girl-sharehouse', 'alive-and-swell',
+        'adamasu-no-majotachi', 'a-tale-of-tails', 'a-killer-woman'
+      ];
+      if (mangaId && adultSlugs.includes(String(mangaId).toLowerCase().trim())) {
+        return true;
+      }
+
+      // 3. Verifica os metadados do mangá atual se já estiverem carregados
       const m = window.__MB_MANGA__;
-      if (!m) return false;
-      if (m.isAdult === true) return true;
-      if (Array.isArray(m.genres)) {
-        const adultSlugs = ['hentai', 'erotico', 'yaoi', 'yuri'];
-        return m.genres.some(g => {
-          if (!g) return false;
-          return g.isAdult === true || adultSlugs.includes(String(g.slug || '').toLowerCase());
-        });
+      if (m) {
+        if (m.isAdult === true) return true;
+        if (Array.isArray(m.genres)) {
+          const adultGenres = ['hentai', 'erotico', 'yaoi', 'yuri', 'mature', 'adulto', 'smut', 'ecchi'];
+          return m.genres.some(g => {
+            if (!g) return false;
+            const name = String(g.name || '').toLowerCase();
+            const slug = String(g.slug || '').toLowerCase();
+            return g.isAdult === true || adultGenres.includes(name) || adultGenres.includes(slug);
+          });
+        }
       }
     } catch (_) {}
     return false;

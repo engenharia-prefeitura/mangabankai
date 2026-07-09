@@ -1,5 +1,22 @@
 const ADS = (function () {
 
+  // Detecta se a página ou obra atual é considerada adulta (+18) com base nos gêneros do mangá.
+  function _isAdult() {
+    try {
+      const m = window.__MB_MANGA__;
+      if (!m) return false;
+      if (m.isAdult === true) return true;
+      if (Array.isArray(m.genres)) {
+        const adultSlugs = ['hentai', 'erotico', 'yaoi', 'yuri'];
+        return m.genres.some(g => {
+          if (!g) return false;
+          return g.isAdult === true || adultSlugs.includes(String(g.slug || '').toLowerCase());
+        });
+      }
+    } catch (_) {}
+    return false;
+  }
+
   // Injeta o arquivo ad-banner.html via iframe local com os parâmetros do anúncio.
   // Isso garante 100% de medibilidade e consistência na origem (same-origin).
   function _iframe(container, type, key, w, h, host) {
@@ -60,6 +77,11 @@ const ADS = (function () {
 
     // ── POPUNDER ─────────────────────────────────────────────────────────
     renderPopunder(key) {
+      if (!_isAdult()) {
+        // Modo Normal: não exibe popunder adulto
+        return;
+      }
+      
       if (!key) {
         // Auto-detecta mangá ou capítulo atual a partir da URL/Pathname
         const p = new URLSearchParams(window.location.search);
@@ -89,6 +111,10 @@ const ADS = (function () {
 
     // ── SOCIAL BAR ───────────────────────────────────────────────────────
     renderSocialBar() {
+      if (!_isAdult()) {
+        // Modo Normal: não exibe social bar adulta
+        return;
+      }
       if (window._socialBarLoaded) return;
       window._socialBarLoaded = true;
       const s = document.createElement('script');
@@ -99,30 +125,50 @@ const ADS = (function () {
 
     // ── DIRECT LINK (ADSTERRA) ───────────────────────────────────────────
     getDirectLink() {
+      if (!_isAdult()) {
+        // Link alternativo ou limpo para modo normal (apenas redirecionamento seguro)
+        return 'https://mangabankai.click/';
+      }
       return 'https://www.effectivecpmnetwork.com/hf0w28tzp?key=fc040b0310fd6a96a9818c918f2fbde0';
     },
 
     // ── BANNER NATIVO (ADSTERRA DIRECT LINK) ─────────────────────────────
     renderNative(container) {
       if (!container) return;
+      if (!_isAdult()) {
+        container.style.display = 'none'; // Não exibe no modo normal
+        return;
+      }
       _iframe(container, 'native', '473669572dfd6d4b92a4c9f6035a7ff6', 0, 250, 'pl30274096.effectivecpmnetwork.com');
     },
 
     // ── BANNER 300×250 / 160×300 (ADSTERRA DIRECT LINK) ──────────────────
     renderBanner300(container) {
       if (!container) return;
+      if (!_isAdult()) {
+        container.style.display = 'none'; // Não exibe no modo normal
+        return;
+      }
       _iframe(container, 'banner', '1bd39f869a334a238b7e53ee612f5309', 160, 300);
     },
 
     // ── BANNER 300×250 REAL (ADSTERRA DIRECT LINK) ───────────────────────
     renderBanner300x250(container) {
       if (!container) return;
+      if (!_isAdult()) {
+        container.style.display = 'none'; // Não exibe no modo normal
+        return;
+      }
       _iframe(container, 'banner', 'd84a05b4e77aacc064345c9577d11b51', 300, 250);
     },
 
     // ── BANNER 728×90 (ADSTERRA DIRECT LINK) ─────────────────────────────
     renderBanner728(container) {
       if (!container) return;
+      if (!_isAdult()) {
+        container.style.display = 'none'; // Não exibe no modo normal
+        return;
+      }
       _iframe(container, 'banner', '449ac2be8b93cbb84b335f75a9babe0c', 728, 90);
     },
 

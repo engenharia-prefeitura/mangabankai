@@ -7,6 +7,7 @@ const path = require('path');
 const JWT_SECRET = process.env.JWT_SECRET;
 // .trim() remove \r\n ou espaços acidentais (ex: token colado via PowerShell echo)
 const GITHUB_PAT = (process.env.GITHUB_PAT || '').trim();
+const VERCEL_TOKEN = (process.env.VERCEL_TOKEN || '').trim();
 const GITHUB_OWNER = 'engenharia-prefeitura';
 const GITHUB_REPO = 'mangabankai';
 const WORKFLOW_FILE = 'update.yml';
@@ -519,6 +520,38 @@ async function takedownResolve(req, res) {
   return res.status(200).json({ ok: true, id: reqId, status });
 }
 
+// ── vercel-usage ───────────────────────────────────────────────────────
+// Cache em memória para não bater na API da Vercel a cada reload.
+let _vercelUsageCache = null, _vercelUsageCacheTime = 0;
+async function vercelUsage(req, res) {
+  if (!await isAdmin(req)) return res.status(403).json({ error: 'Forbidden' });
+  if (!VERCEL_TOKEN) {
+    return res.status(200).json({ error: 'VERCEL_TOKEN não configurado. Crie um token em vercel.com/account/tokens e adicione como variável de ambiente.' });
+  }
+  const now = Date.now();
+  // Cache de 5 minutos para não sobrecarregar a API da Vercel
+  if (_vercelUsageCache && now - _vercelUsageCacheTime < 300000) {
+    return res.status(200).json(_vercelUsageCache);
+  }
+  try {
+    const resp = await new Promise((resolve, reject) => {
+      const req2 = https.request(
+        { hostname: 'api.vercel.com', path: '/v2/billing', method: 'GET',
+          headers: { Authorization: `Bearer ${VERCEL_TOKEN}`, 'Content-Type': 'application/json' } },
+        (r) => { let d = ''; r.on('data', c => d += c); r.on('end', () => resolve({ status: r.statusCode, body: d })); }
+      );
+      req2.on('error', reject);
+      req2.end();
+    });
+    const data = JSON.parse(resp.body);
+    _vercelUsageCache = data;
+    _vercelUsageCacheTime = now;
+    return res.status(200).json(data);
+  } catch (e) {
+    return res.status(502).json({ error: 'Erro ao consultar API da Vercel: ' + e.message });
+  }
+}
+
 // ── router ─────────────────────────────────────────────────────────────
 module.exports = async (req, res) => {
   if (!JWT_SECRET) {
@@ -537,5 +570,6 @@ module.exports = async (req, res) => {
   if (action === 'takedowns') return takedowns(req, res);
   if (action === 'takedown-resolve') return takedownResolve(req, res);
   if (action === 'pdf-stats') return pdfStats(req, res);
+  if (action === 'vercel-usage') return vercelUsage(req, res);
   res.status(404).json({ error: 'Endpoint não encontrado' });
 };

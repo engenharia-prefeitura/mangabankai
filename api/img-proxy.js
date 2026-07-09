@@ -1,7 +1,27 @@
-// img-proxy v3 — suporta: mangafreak, leituramanga, mangalivre, mundohentai, mangadex
+// img-proxy v4 — suporta: mangafreak, leituramanga, mangalivre, mundohentai, mangadex
+// Converte JPEG/PNG para WebP (qualidade 82) para reduzir banda ~25-35%.
 const https = require('https');
 const http = require('http');
 const zlib = require('zlib');
+let sharp;
+try { sharp = require('sharp'); } catch (_) { sharp = null; }
+
+// Converte para WebP se a imagem for JPEG ou PNG. Fallback para original se falhar.
+async function toWebP(buf, contentType) {
+  if (!sharp) return { buf, contentType };
+  const ct = (contentType || '').toLowerCase();
+  // Só converte JPEG e PNG — WebP/AVIF/GIF/SVG já estão otimizados ou não são suportados
+  if (!ct.includes('jpeg') && !ct.includes('jpg') && !ct.includes('png')) {
+    return { buf, contentType };
+  }
+  try {
+    const webpBuf = await sharp(buf).webp({ quality: 82 }).toBuffer();
+    return { buf: webpBuf, contentType: 'image/webp' };
+  } catch (_) {
+    // Imagem corrompida ou formato inesperado — serve o original sem quebrar
+    return { buf, contentType };
+  }
+}
 
 function decompress(buf, encoding) {
   switch ((encoding || '').toLowerCase()) {
@@ -97,10 +117,12 @@ module.exports = async (req, res) => {
       return res.redirect(302, url);
     }
 
-    const { buf, contentType, status } = await fetchBinary(url);
+    let { buf, contentType, status } = await fetchBinary(url);
     if (status !== 200) return res.status(status).end('upstream error ' + status);
+    // Converte JPEG/PNG para WebP — reduz banda ~25-35% sem perda perceptível
+    ({ buf, contentType } = await toWebP(buf, contentType));
     res.setHeader('Content-Type', contentType);
-    res.setHeader('Cache-Control', 'public, max-age=604800');
+    res.setHeader('Cache-Control', 'public, max-age=604800, s-maxage=86400, stale-while-revalidate=604800');
     res.setHeader('Access-Control-Allow-Origin', '*');
     res.status(200).send(buf);
   } catch (e) {

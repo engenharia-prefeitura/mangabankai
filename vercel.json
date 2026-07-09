@@ -5,19 +5,38 @@
   "installCommand": "npm install",
   "functions": {
     "api/og-chapter.js": { "includeFiles": "{reader.html,js/manga-search.json,js/chapters/**}" },
-    "api/resolve-chapter.js": { "includeFiles": "js/chapters/**" }
+    "api/resolve-chapter.js": { "includeFiles": "js/chapters/**" },
+    "api/img-proxy.js": { "memory": 1024 }
   },
   "headers": [
     {
       "source": "/js/data.js",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
+        { "key": "Cache-Control", "value": "public, max-age=0, s-maxage=3600, stale-while-revalidate=86400" }
       ]
     },
     {
       "source": "/js/data-lite.js",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
+        { "key": "Cache-Control", "value": "public, max-age=0, s-maxage=3600, stale-while-revalidate=86400" }
+      ]
+    },
+    {
+      "source": "/js/(home|manga-search|mf-meta-data|mf-manga-list).json",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=0, s-maxage=3600, stale-while-revalidate=86400" }
+      ]
+    },
+    {
+      "source": "/js/chapters/:file",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=0, s-maxage=3600, stale-while-revalidate=86400" }
+      ]
+    },
+    {
+      "source": "/(index|manga|reader|catalog|profile|admin|takedown|terms).html",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=0, s-maxage=600, stale-while-revalidate=3600" }
       ]
     },
     {

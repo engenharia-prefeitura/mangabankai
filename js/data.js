@@ -230480,7 +230480,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Único Fazendeiro da Torre, um manhwa em português.",
     "descriptionPt": "Leia Único Fazendeiro da Torre, um manhwa em português.",
-    "chaptersCount": 134,
+    "chaptersCount": 135,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249886,7 +249886,7 @@ let MANGA_DATA = [
     ],
     "description": "Intimate Tutoring He’s now a private tutor for his old crush’s daughter… tension, flirtation, and messy misreads set the room on fire.",
     "descriptionPt": "",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -254358,6 +254358,85 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "a-vila-orca-bebe",
+    "slug": "a-vila-orca-bebe",
+    "title": "A Vilã Orca Bebê",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-vila-orca-bebe/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-vila-orca-bebe/cover-md.webp",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Reencarnação",
+      "Shoujo",
+      "Comedia",
+      "Fantasia",
+      "Romance",
+      "Familia",
+      "Magia",
+      "Tragedia"
+    ],
+    "description": "Leia A Vilã Orca Bebê, um manhwa em português.",
+    "descriptionPt": "Leia A Vilã Orca Bebê, um manhwa em português.",
+    "chaptersCount": 88,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "como-se-o-amor-nao-existisse",
+    "slug": "como-se-o-amor-nao-existisse",
+    "title": "Como se o amor não existisse",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/como-se-o-amor-nao-existisse/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/como-se-o-amor-nao-existisse/cover-md.webp",
+    "author": "carbo(Do Hyo-Won)",
+    "artist": "carbo(Do Hyo-Won)",
+    "status": "ongoing",
+    "year": 2023,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Romance",
+      "Manhwa"
+    ],
+    "description": "Leia Como se o amor não existisse, um manhwa em português.",
+    "descriptionPt": "Leia Como se o amor não existisse, um manhwa em português.",
+    "chaptersCount": 42,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "casamento-por-conveniencia-2-a-cancao-inesquecivel",
+    "slug": "casamento-por-conveniencia-2-a-cancao-inesquecivel",
+    "title": "Casamento por Conveniência 2: A Canção Inesquecível",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/casamento-por-conveniencia-2-a-cancao-inesquecivel/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/casamento-por-conveniencia-2-a-cancao-inesquecivel/cover-md.webp",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2021,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Fantasia",
+      "Josei"
+    ],
+    "description": "Leia Casamento por Conveniência 2: A Canção Inesquecível, um manhwa em português.",
+    "descriptionPt": "Leia Casamento por Conveniência 2: A Canção Inesquecível, um manhwa em português.",
+    "chaptersCount": 27,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

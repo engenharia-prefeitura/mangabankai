@@ -98617,7 +98617,7 @@ let MANGA_DATA = [
     ],
     "description": "Overclock (Uncensored) “Andy, a financial planner on Wall Street, gets fired after an ill-fated hookup in a car. By chance, he lands a new job at an AI startup—only to discover that the company’s CTO, Hwang Jio, is none other than his one-night stand from just days ago. Workplace romance is already risky, but when it’s between a sharp-witted Wall Street man and a brilliant Silicon Valley techie, things get even more complicated. A smart and sizzling office romance set in the fast-paced world of IT!”",
     "descriptionPt": "",
-    "chaptersCount": 76,
+    "chaptersCount": 77,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

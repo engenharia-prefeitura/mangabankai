@@ -21,7 +21,7 @@ let MANGA_DATA = [
       "Shounen"
     ],
     "description": "Seeking to be the greatest pirate in the world, young Monkey D. Luffy, endowed with stretching powers from the legendary \"Gomu Gomu\" Devil's fruit, travels towards the Grand Line in search of One Piece, the greatest treasure in the world.",
-    "chaptersCount": 1188,
+    "chaptersCount": 1189,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -3113,7 +3113,7 @@ let MANGA_DATA = [
       "Sports"
     ],
     "description": "The story starts with Japan's end from the 2018 FIFA World Cup, which prompts the Japanese Football Union to begin a program exploring secondary school players who will start preparing in anticipation of the 2022 Cup. Isagi Youichi, a forward, gets a solicitation to this program not long after his group loses the opportunity to go to Nationals since he went to his less-talented partner - who missed - without attempting to make the game-changing objective without anyone else. \r\n\r\nTheir mentor will be Ego Jinpachi, who plans to \"obliterate Japanese failure football\" by presenting a radical new preparing routine: confine 300 youthful advances in a jail like organization called \"Blue Lock\" and put them through thorough preparing planned for making \"the world's most noteworthy narcissist striker.\"",
-    "chaptersCount": 347,
+    "chaptersCount": 361,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -55736,7 +55736,7 @@ let MANGA_DATA = [
       "Manga"
     ],
     "description": "Leia Shangri La Frontier online no MangaSurge.",
-    "chaptersCount": 0,
+    "chaptersCount": 272,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -207555,7 +207555,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Dama Bebê Controla O Mundo Com Dinheiro, um manhwa em português.",
     "descriptionPt": "Leia A Dama Bebê Controla O Mundo Com Dinheiro, um manhwa em português.",
-    "chaptersCount": 122,
+    "chaptersCount": 123,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -208031,7 +208031,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Logando 10.000 Anos No Futuro, um manhua em português.",
     "descriptionPt": "Leia Logando 10.000 Anos No Futuro, um manhua em português.",
-    "chaptersCount": 323,
+    "chaptersCount": 324,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -208081,7 +208081,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei a Serva do Tirano, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei a Serva do Tirano, um manhwa em português.",
-    "chaptersCount": 0,
+    "chaptersCount": 107,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230411,31 +230411,6 @@ let MANGA_DATA = [
     "source": "hentai20"
   },
   {
-    "id": "all-girl-sharehouse",
-    "slug": "all-girl-sharehouse",
-    "title": "All-Girl Sharehouse",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2025/03/all-girl-sharehouse-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2025/03/all-girl-sharehouse-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Seinen",
-      "Adult"
-    ],
-    "description": "After getting into college, Brian goes out clubbing to celebrate his acceptance and hooks up with a drop-dead gorgeous girl, unaware that he’ll soon be living",
-    "descriptionEn": "After getting into college, Brian goes out clubbing to celebrate his acceptance and hooks up with a drop-dead gorgeous girl, unaware that he’ll soon be living",
-    "chaptersCount": 23,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "amu",
     "slug": "amu",
     "title": "AMU",
@@ -231909,7 +231884,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromante do Clã da Espada, um manhwa em português.",
     "descriptionPt": "Leia Necromante do Clã da Espada, um manhwa em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232065,7 +232040,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Começo Depois do Fim, um manhwa em português.",
     "descriptionPt": "Leia O Começo Depois do Fim, um manhwa em português.",
-    "chaptersCount": 254,
+    "chaptersCount": 255,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232091,7 +232066,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Começando com 13 Traços Ocultos, um manhwa em português.",
     "descriptionPt": "Leia Começando com 13 Traços Ocultos, um manhwa em português.",
-    "chaptersCount": 37,
+    "chaptersCount": 38,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251143,7 +251118,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Devorador de Aço, um manhwa em português.",
     "descriptionPt": "Leia Devorador de Aço, um manhwa em português.",
-    "chaptersCount": 100,
+    "chaptersCount": 101,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252350,7 +252325,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Senhorita Celebridade, um manhwa em português.",
     "descriptionPt": "Leia Senhorita Celebridade, um manhwa em português.",
-    "chaptersCount": 78,
+    "chaptersCount": 79,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253036,7 +253011,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia odalisca online em português.",
     "descriptionPt": "Leia odalisca online em português.",
-    "chaptersCount": 50,
+    "chaptersCount": 54,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254434,6 +254409,85 @@ let MANGA_DATA = [
     "description": "Leia Casamento por Conveniência 2: A Canção Inesquecível, um manhwa em português.",
     "descriptionPt": "Leia Casamento por Conveniência 2: A Canção Inesquecível, um manhwa em português.",
     "chaptersCount": 27,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "meu-atrevido-leite-de-morango",
+    "slug": "meu-atrevido-leite-de-morango",
+    "title": "Meu Atrevido Leite de Morango",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/meu-atrevido-leite-de-morango/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/meu-atrevido-leite-de-morango/cover-md.webp",
+    "author": "Yangnlam",
+    "artist": "Yangnlam",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Comedia",
+      "Romance",
+      "Josei",
+      "Adulto",
+      "Smut",
+      "Manhwa"
+    ],
+    "description": "Leia Meu Atrevido Leite de Morango, um manhwa em português.",
+    "descriptionPt": "Leia Meu Atrevido Leite de Morango, um manhwa em português.",
+    "chaptersCount": 31,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "o-pervertido-sinistro-da-porta-ao-lado",
+    "slug": "o-pervertido-sinistro-da-porta-ao-lado",
+    "title": "O Pervertido Sinistro da Porta ao Lado",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/o-pervertido-sinistro-da-porta-ao-lado/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/o-pervertido-sinistro-da-porta-ao-lado/cover-md.webp",
+    "author": "Maru the Red",
+    "artist": "Maru the Red",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Josei",
+      "Adulto",
+      "Smut",
+      "Manhwa",
+      "Supernatural"
+    ],
+    "description": "Leia O Pervertido Sinistro da Porta ao Lado, um manhwa em português.",
+    "descriptionPt": "Leia O Pervertido Sinistro da Porta ao Lado, um manhwa em português.",
+    "chaptersCount": 11,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "a-santa-bebe-quer-destruir-o-mundo",
+    "slug": "a-santa-bebe-quer-destruir-o-mundo",
+    "title": "A Santa Bebê Quer Destruir o Mundo!",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-santa-bebe-quer-destruir-o-mundo/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-santa-bebe-quer-destruir-o-mundo/cover-md.webp",
+    "author": "Eun Lee-Hwa",
+    "artist": "Eun Lee-Hwa",
+    "status": "ongoing",
+    "year": 2023,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Comedia",
+      "Fantasia",
+      "Romance"
+    ],
+    "description": "Leia A Santa Bebê Quer Destruir o Mundo!, um manhwa em português.",
+    "descriptionPt": "Leia A Santa Bebê Quer Destruir o Mundo!, um manhwa em português.",
+    "chaptersCount": 37,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

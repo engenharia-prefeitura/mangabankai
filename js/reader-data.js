@@ -7,7 +7,7 @@
 (function () {
   if (!window.__MB_MANGA__) {
     // Sem injeção → carrega o catálogo completo (compatível com o comportamento antigo).
-    document.write('<script src="/js/data-lite.js"><\/script>');
+    document.write('<script src="https://cdn.jsdelivr.net/gh/engenharia-prefeitura/mangabankai@master/js/data-lite.js"><\/script>');
     return;
   }
 

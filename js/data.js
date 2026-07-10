@@ -100443,7 +100443,7 @@ let MANGA_DATA = [
     ],
     "description": "Study Buddies (Official) Nathan ends up living with his two childhood friends after his dad asks one of them to tutor him for his college entrance exam.",
     "descriptionPt": "",
-    "chaptersCount": 100,
+    "chaptersCount": 102,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -254524,6 +254524,32 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "a-midsummer-s-carol-uncensored",
+    "slug": "a-midsummer-s-carol-uncensored",
+    "title": "A Midsummer’s Carol (Uncensored)",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2026/05/a-midsummers-carol-uncensored-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2026/05/a-midsummers-carol-uncensored-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult",
+      "Josei",
+      "Uncensored"
+    ],
+    "description": "After failing at both love and work, Dokyung returns to the stillness of her hometown, Mooyung, where a chance encounter at her mother’s old corner store",
+    "descriptionEn": "After failing at both love and work, Dokyung returns to the stillness of her hometown, Mooyung, where a chance encounter at her mother’s old corner store",
+    "chaptersCount": 34,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

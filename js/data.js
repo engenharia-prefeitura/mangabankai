@@ -60508,7 +60508,7 @@ let MANGA_DATA = [
     ],
     "description": "“The onahole… moved?!”",
     "descriptionEn": "“The onahole… moved?!”",
-    "chaptersCount": 103,
+    "chaptersCount": 104,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -60604,7 +60604,7 @@ let MANGA_DATA = [
     ],
     "description": "One day, the dead broke Hoonsang receives a suspicious business card, which grants him a new life in a new city called Bannam-dong, the cheating city, as well",
     "descriptionEn": "One day, the dead broke Hoonsang receives a suspicious business card, which grants him a new life in a new city called Bannam-dong, the cheating city, as well",
-    "chaptersCount": 98,
+    "chaptersCount": 99,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -60628,7 +60628,7 @@ let MANGA_DATA = [
     ],
     "description": "Eunnam develops a sexual desire towards the mother of his best friend, Jidong! He then makes a rebellious bet with his stepmother on the line…",
     "descriptionEn": "Eunnam develops a sexual desire towards the mother of his best friend, Jidong! He then makes a rebellious bet with his stepmother on the line…",
-    "chaptersCount": 78,
+    "chaptersCount": 80,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -255000,6 +255000,31 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "alive-and-swell",
+    "slug": "alive-and-swell",
+    "title": "Alive and Swell",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2024/08/alive-and-swell-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2024/08/alive-and-swell-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Thriller",
+      "Adult"
+    ],
+    "description": "Su-Yeon loses her husband in an accident and lives hard every day. A familiar but lowly man approaches her one day. The shaman gives Su-Yeon advice that her",
+    "descriptionEn": "Su-Yeon loses her husband in an accident and lives hard every day. A familiar but lowly man approaches her one day. The shaman gives Su-Yeon advice that her",
+    "chaptersCount": 25,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

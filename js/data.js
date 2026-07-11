@@ -100314,7 +100314,7 @@ let MANGA_DATA = [
     ],
     "description": "Unbreakable (DWERYANG) Diagnosed with terminal cancer… but still… I’m unbreakable.",
     "descriptionPt": "",
-    "chaptersCount": 22,
+    "chaptersCount": 24,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -100879,7 +100879,7 @@ let MANGA_DATA = [
     ],
     "description": "From Weakling to Nemesis Season 2 A weak guy wishes to be stronger—and his wish is granted, but with a twist. Instead of raw power, he gains the ability to create clones, doubling his strength with numbers. But there’s an unusual way for him to grow even stronger… and it involves something far more intimate.",
     "descriptionPt": "",
-    "chaptersCount": 19,
+    "chaptersCount": 21,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -104466,7 +104466,7 @@ let MANGA_DATA = [
     ],
     "description": "That Wife Needs Rescuing: A Midafternoon Descent Into Ecstasy! (Uncensored) [Uncensored Edition] When the cat’s away, the mice will play—with their husbands gone, good wives are corrupted in the afternoon. Hikari has lived modestly as a dutiful wife who keeps the house in order. However, unbeknownst to those around her, she had reached a breaking point. As if right on time, the members of the “Frustrated Wife Rescue Organization” eagerly appear before her. Enticing her with clever words and seductive tricks, they unleash her sexual desires. Feigning kindness with their licentious repartee, the",
     "descriptionPt": "",
-    "chaptersCount": 4,
+    "chaptersCount": 6,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -255000,31 +255000,6 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
-  },
-  {
-    "id": "alive-and-swell",
-    "slug": "alive-and-swell",
-    "title": "Alive and Swell",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/alive-and-swell-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/alive-and-swell-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Thriller",
-      "Adult"
-    ],
-    "description": "Su-Yeon loses her husband in an accident and lives hard every day. A familiar but lowly man approaches her one day. The shaman gives Su-Yeon advice that her",
-    "descriptionEn": "Su-Yeon loses her husband in an accident and lives hard every day. A familiar but lowly man approaches her one day. The shaman gives Su-Yeon advice that her",
-    "chaptersCount": 25,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
   }
 ];
 

@@ -100632,7 +100632,7 @@ let MANGA_DATA = [
     ],
     "description": "Paws on Campus They might looks beastly, but inside they’re all softies. Step inside this furry campus, and find out what these college animals are up to!",
     "descriptionPt": "",
-    "chaptersCount": 36,
+    "chaptersCount": 37,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207474,7 +207474,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Magic Emperor, um manhua em português.",
     "descriptionPt": "Leia Magic Emperor, um manhua em português.",
-    "chaptersCount": 882,
+    "chaptersCount": 884,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207609,7 +207609,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Beyond Myriad Peoples, um manhua em português.",
     "descriptionPt": "Leia Beyond Myriad Peoples, um manhua em português.",
-    "chaptersCount": 140,
+    "chaptersCount": 145,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230361,31 +230361,6 @@ let MANGA_DATA = [
     "source": "hentai20"
   },
   {
-    "id": "alive-and-swell",
-    "slug": "alive-and-swell",
-    "title": "Alive and Swell",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/alive-and-swell-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/alive-and-swell-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Thriller",
-      "Adult"
-    ],
-    "description": "Su-Yeon loses her husband in an accident and lives hard every day. A familiar but lowly man approaches her one day. The shaman gives Su-Yeon advice that her",
-    "descriptionEn": "Su-Yeon loses her husband in an accident and lives hard every day. A familiar but lowly man approaches her one day. The shaman gives Su-Yeon advice that her",
-    "chaptersCount": 25,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "amu",
     "slug": "amu",
     "title": "AMU",
@@ -251119,7 +251094,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Deus Demônio, um manhwa em português.",
     "descriptionPt": "Leia O Deus Demônio, um manhwa em português.",
-    "chaptersCount": 38,
+    "chaptersCount": 39,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255001,6 +254976,30 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "tankouhentai-boku-o-kurau-wa-kasshoku-gal",
+    "slug": "boku-o-kurau-wa-kasshoku-gal",
+    "title": "Boku o Kurau wa Kasshoku Gal",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/07/Boku-o-Kurau-wa-Kasshoku-Gal-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/07/Boku-o-Kurau-wa-Kasshoku-Gal-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "yutakame",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Harém",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 2,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

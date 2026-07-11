@@ -232387,7 +232387,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Estou em um Relacionamento Secreto com o Imperador, mas Não fazia Ideia, um manhwa em português.",
     "descriptionPt": "Leia Estou em um Relacionamento Secreto com o Imperador, mas Não fazia Ideia, um manhwa em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252989,30 +252989,6 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
-  },
-  {
-    "id": "adam-s-sweet-agony",
-    "slug": "adam-s-sweet-agony",
-    "title": "Adam’s Sweet Agony",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/adams-sweet-agony-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/adams-sweet-agony-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adult"
-    ],
-    "description": "“Why are you erect…? That’s so unfair.” In a world where all other men have contracted ED, I alone am subjected to the starved true nature of women as the",
-    "descriptionEn": "“Why are you erect…? That’s so unfair.” In a world where all other men have contracted ED, I alone am subjected to the starved true nature of women as the",
-    "chaptersCount": 132,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
   },
   {
     "id": "o-conto-de-um-imortal",

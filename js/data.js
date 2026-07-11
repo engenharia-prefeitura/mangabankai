@@ -96522,7 +96522,7 @@ let MANGA_DATA = [
     ],
     "description": "Heavenly Demon Cultivation Simulation A scout in the infamous Demon Cult, Seolhwi is on a routine patrol when his squad unexpectedly encounters a fearsome master of the Mount Hua Sect, the sworn enemies of the Demon Cult. Without warning, the Mount Hua Cult master slaughters the entire squad. As Seolhwi lies dying, lamenting years of service to the cult with nothing to show for it, he is suddenly faced with a video game prompt, asking if he would like to start again. Given the opportunity to start over and make different choices, Seolhwi vows to survive and become stronger so he can rise to th",
     "descriptionPt": "",
-    "chaptersCount": 181,
+    "chaptersCount": 182,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

@@ -100943,7 +100943,7 @@ let MANGA_DATA = [
     ],
     "description": "Demon Cat I need to save my husband from the evil that possessed his body… and expel the demon cat.",
     "descriptionPt": "",
-    "chaptersCount": 45,
+    "chaptersCount": 47,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -101332,7 +101332,7 @@ let MANGA_DATA = [
     ],
     "description": "The One Who Never Leaves the Nest (Uncensored) After his mother’s death, Gunwoo moves in with his stepfather, Yihyun—a man only fifteen years older, with whom he shares little more than a roof. Their relationship is distant, almost awkward, until Gunwoo notices strange marks on Yihyun’s body—too deliberate to ignore. A quiet curiosity takes root, and when he finds a vivid red rope hidden in Yihyun’s room, he realizes there’s more to this man than he ever imagined. The more he uncovers, the harder it is to look away.",
     "descriptionPt": "",
-    "chaptersCount": 43,
+    "chaptersCount": 44,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207609,7 +207609,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Beyond Myriad Peoples, um manhua em português.",
     "descriptionPt": "Leia Beyond Myriad Peoples, um manhua em português.",
-    "chaptersCount": 145,
+    "chaptersCount": 160,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -213940,8 +213940,8 @@ let MANGA_DATA = [
     "altTitle": "",
     "cover": "https://tankouhentai.com/wp-content/uploads/2022/06/Chijo-De-Yajuu-Bitch-with-the-Beast-Hentai-PTBR-Manga-Tankoubon-193x278.jpg",
     "banner": "https://tankouhentai.com/wp-content/uploads/2022/06/Chijo-De-Yajuu-Bitch-with-the-Beast-Hentai-PTBR-Manga-Tankoubon-193x278.jpg",
-    "author": "Yunioshi",
-    "artist": "Yunioshi",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
     "status": "ongoing",
     "year": 2010,
     "rating": 0,
@@ -214977,8 +214977,8 @@ let MANGA_DATA = [
     "altTitle": "",
     "cover": "https://tankouhentai.com/wp-content/uploads/2022/06/Aqua-Bless-Hentai-PTBR-Manga-Tankoubon-193x278.jpg",
     "banner": "https://tankouhentai.com/wp-content/uploads/2022/06/Aqua-Bless-Hentai-PTBR-Manga-Tankoubon-193x278.jpg",
-    "author": "Yamatogawa",
-    "artist": "Yamatogawa",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
     "status": "ongoing",
     "year": 2007,
     "rating": 0,
@@ -216977,7 +216977,7 @@ let MANGA_DATA = [
     "cover": "https://tankouhentai.com/wp-content/uploads/2023/08/Mesugaki-choro-sugi-w-manga-ptbr-193x278.jpg",
     "banner": "https://tankouhentai.com/wp-content/uploads/2023/08/Mesugaki-choro-sugi-w-manga-ptbr-193x278.jpg",
     "author": "Desconhecido",
-    "artist": "Ruruepa",
+    "artist": "Desconhecido",
     "status": "ongoing",
     "year": 2026,
     "rating": 0,
@@ -223867,7 +223867,7 @@ let MANGA_DATA = [
     "cover": "https://tankouhentai.com/wp-content/uploads/2025/01/Houman-Mucchiri-Pai-hentai-193x278.jpg",
     "banner": "https://tankouhentai.com/wp-content/uploads/2025/01/Houman-Mucchiri-Pai-hentai-193x278.jpg",
     "author": "Desconhecido",
-    "artist": "Muronaga Chaashuu",
+    "artist": "Desconhecido",
     "status": "ongoing",
     "year": 2026,
     "rating": 0,
@@ -251628,7 +251628,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vida de uma Artista de Webtoon, um manhwa em português.",
     "descriptionPt": "Leia A Vida de uma Artista de Webtoon, um manhwa em português.",
-    "chaptersCount": 43,
+    "chaptersCount": 44,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253438,7 +253438,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Por Seu Assassinato, um manhwa em português.",
     "descriptionPt": "Leia Por Seu Assassinato, um manhwa em português.",
-    "chaptersCount": 56,
+    "chaptersCount": 57,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255551,6 +255551,89 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "assassino-cruel",
+    "slug": "assassino-cruel",
+    "title": "Assassino Cruel",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/assassino-cruel/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/assassino-cruel/cover-md.webp",
+    "author": "Kim Jeong-hyeon",
+    "artist": "Kim Jeong-hyeon",
+    "status": "ongoing",
+    "year": 2023,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Ação",
+      "Artes Marciais",
+      "Shounen",
+      "Romance",
+      "Manhwa",
+      "Colegial"
+    ],
+    "description": "Leia Assassino Cruel, um manhwa em português.",
+    "descriptionPt": "Leia Assassino Cruel, um manhwa em português.",
+    "chaptersCount": 139,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "mestre-do-treinamento-marcial",
+    "slug": "mestre-do-treinamento-marcial",
+    "title": "Mestre Do Treinamento Marcial",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/mestre-do-treinamento-marcial/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/mestre-do-treinamento-marcial/cover-md.webp",
+    "author": "Koul",
+    "artist": "Koul",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Artes Marciais",
+      "Comedia",
+      "Shounen",
+      "Fantasia",
+      "Manhwa"
+    ],
+    "description": "Leia Mestre Do Treinamento Marcial, um manhwa em português.",
+    "descriptionPt": "Leia Mestre Do Treinamento Marcial, um manhwa em português.",
+    "chaptersCount": 120,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "eu-vou-te-dar-o-mais-podre",
+    "slug": "eu-vou-te-dar-o-mais-podre",
+    "title": "Eu Vou Te Dar o Mais Podre",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/eu-vou-te-dar-o-mais-podre/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/eu-vou-te-dar-o-mais-podre/cover-md.webp",
+    "author": "Yoonda",
+    "artist": "Yoonda",
+    "status": "ongoing",
+    "year": 2021,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Josei",
+      "Vingança",
+      "Moderno",
+      "Traição",
+      "Angústia"
+    ],
+    "description": "Leia Eu Vou Te Dar o Mais Podre, um manhwa em português.",
+    "descriptionPt": "Leia Eu Vou Te Dar o Mais Podre, um manhwa em português.",
+    "chaptersCount": 76,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 
@@ -255675,7 +255758,7 @@ function filterManga(opts) {
   return results;
 }
 
-const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","Bissexual","BL","BL Uncensored","Borderline H","Cohabitation","Collection of Stories","Comedia","Comédia","Comedy","Comics","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Esporte","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gyaru","Harem","Harém","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","One Shot","Outros gêneros","Parody Anime","Person in a Strange World","Police","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Yuri","Zombies","Zoofilia"];
+const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","Bissexual","BL","BL Uncensored","Borderline H","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Esporte","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gyaru","Harem","Harém","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","One Shot","Outros gêneros","Parody Anime","Person in a Strange World","Police","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Yuri","Zombies","Zoofilia"];
 
 var ADULT_GENRE_KW = ['hentai','adulto','adult','+18','18+','nsfw','ecchi','smut','mature','maduro','erotic','erótic','erotica','bdsm','futanari','loli','shota','inces','tentacul','tentácul','zoofilia','obsceno','sem censura','uncensor','censura','nudez','nudity','sexual','sexo','mindbreak','ahegao','netorare','fetich','fetish','omegaverse','vanilla','borderline h'];
 function isAdultGenre(g) {

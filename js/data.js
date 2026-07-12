@@ -105670,7 +105670,7 @@ let MANGA_DATA = [
     ],
     "description": "Into The Wild (Uncensored) Into the Wild begins with best friends Simon and Freddy heading into the mountains. There, by a magical mountain lake, they meet four sexy girls, including Simon’s hot stepsister. After a heated argument, the step-siblings decide to divide the territory for the rest of the trip. But Into the Wild, the usual rules don’t apply and inhibitions start to fade. Сan they truly coexist Into the Wild when Michelle is hiding a dirty little secret from her stepbrother?",
     "descriptionPt": "",
-    "chaptersCount": 6,
+    "chaptersCount": 9,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207474,7 +207474,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Magic Emperor, um manhua em português.",
     "descriptionPt": "Leia Magic Emperor, um manhua em português.",
-    "chaptersCount": 884,
+    "chaptersCount": 885,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231962,7 +231962,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Mago Negro Retorna Após 66666 Anos, um manhwa em português.",
     "descriptionPt": "Leia O Mago Negro Retorna Após 66666 Anos, um manhwa em português.",
-    "chaptersCount": 189,
+    "chaptersCount": 190,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232652,7 +232652,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Depois que o Herói Me Tirou Tudo, Formei um Grupo com a Mãe Dele!, um mangá em português.",
     "descriptionPt": "Leia Depois que o Herói Me Tirou Tudo, Formei um Grupo com a Mãe Dele!, um mangá em português.",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232730,7 +232730,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia de Sobrevivência do Caçador de Bestas Demoníacas, um manhwa em português.",
     "descriptionPt": "Leia Guia de Sobrevivência do Caçador de Bestas Demoníacas, um manhwa em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -233248,7 +233248,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Me Tornei um Tirano num Jogo de Defesa, um manhwa em português.",
     "descriptionPt": "Leia Me Tornei um Tirano num Jogo de Defesa, um manhwa em português.",
-    "chaptersCount": 188,
+    "chaptersCount": 189,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -240612,7 +240612,7 @@ let MANGA_DATA = [
     "descriptionPt": "",
     "chaptersCount": 170,
     "lang": "en",
-    "hasPt": false,
+    "hasPt": true,
     "hasEn": true,
     "source": "mangadistrict"
   },
@@ -249721,7 +249721,7 @@ let MANGA_DATA = [
     ],
     "description": "Liberating Coast John can’t afford to lose his new job—but with his body working against him, every day is a struggle.",
     "descriptionPt": "",
-    "chaptersCount": 15,
+    "chaptersCount": 16,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -249999,7 +249999,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Como Enviar Seu Marido Para o Inferno, um manhwa em português.",
     "descriptionPt": "Leia Como Enviar Seu Marido Para o Inferno, um manhwa em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251120,7 +251120,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Regressor Faz Tudo, um manhwa em português.",
     "descriptionPt": "Leia O Regressor Faz Tudo, um manhwa em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 33,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251174,7 +251174,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Crônicas do Soberano Preguiçoso, um manhwa em português.",
     "descriptionPt": "Leia Crônicas do Soberano Preguiçoso, um manhwa em português.",
-    "chaptersCount": 54,
+    "chaptersCount": 55,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251384,7 +251384,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Fui Confundido com um Gênio Monstruoso, um manhwa em português.",
     "descriptionPt": "Leia Fui Confundido com um Gênio Monstruoso, um manhwa em português.",
-    "chaptersCount": 108,
+    "chaptersCount": 109,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251490,7 +251490,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Violeta Florescendo No Jardim Dos Fundos, um manhwa em português.",
     "descriptionPt": "Leia A Violeta Florescendo No Jardim Dos Fundos, um manhwa em português.",
-    "chaptersCount": 96,
+    "chaptersCount": 98,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251684,7 +251684,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Taming of the Tyrant, um manhwa em português.",
     "descriptionPt": "Leia The Taming of the Tyrant, um manhwa em português.",
-    "chaptersCount": 128,
+    "chaptersCount": 129,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251710,7 +251710,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Regressor da Família Caída, um manhwa em português.",
     "descriptionPt": "Leia O Regressor da Família Caída, um manhwa em português.",
-    "chaptersCount": 141,
+    "chaptersCount": 142,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252935,7 +252935,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia odalisca online em português.",
     "descriptionPt": "Leia odalisca online em português.",
-    "chaptersCount": 54,
+    "chaptersCount": 62,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253066,7 +253066,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Youngest Daughter of the Villainous Duke, um manhwa em português.",
     "descriptionPt": "Leia The Youngest Daughter of the Villainous Duke, um manhwa em português.",
-    "chaptersCount": 131,
+    "chaptersCount": 134,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255000,6 +255000,60 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "ser-uma-vila-nao-e-muito-melhor",
+    "slug": "ser-uma-vila-nao-e-muito-melhor",
+    "title": "Ser Uma Vilã Não É Muito Melhor?",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/ser-uma-vila-nao-e-muito-melhor/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/ser-uma-vila-nao-e-muito-melhor/cover-md.webp",
+    "author": "Bae Hee Jin",
+    "artist": "Bae Hee Jin",
+    "status": "ongoing",
+    "year": 2022,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Reencarnação",
+      "Shoujo",
+      "Comedia",
+      "Fantasia",
+      "Romance",
+      "Historico",
+      "Manhwa"
+    ],
+    "description": "Leia Ser Uma Vilã Não É Muito Melhor?, um manhwa em português.",
+    "descriptionPt": "Leia Ser Uma Vilã Não É Muito Melhor?, um manhwa em português.",
+    "chaptersCount": 93,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "alive-and-swell",
+    "slug": "alive-and-swell",
+    "title": "Alive and Swell",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2024/08/alive-and-swell-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2024/08/alive-and-swell-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Thriller",
+      "Adult"
+    ],
+    "description": "Su-Yeon loses her husband in an accident and lives hard every day. A familiar but lowly man approaches her one day. The shaman gives Su-Yeon advice that her",
+    "descriptionEn": "Su-Yeon loses her husband in an accident and lives hard every day. A familiar but lowly man approaches her one day. The shaman gives Su-Yeon advice that her",
+    "chaptersCount": 25,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

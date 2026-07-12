@@ -99401,7 +99401,7 @@ let MANGA_DATA = [
     ],
     "description": "Crazy Rich Santa (Uncensored) One night, a mysterious viewer named “Santa” drops over ten million won on Sunny (real name Sun Ikyung) in a single stream. The shock is real, the thrill is undeniable… and the donor’s identity is a total mystery. What Sunny doesn’t know? Santa is no stranger. As the extravagant donations continue, and Santa’s teasing, suggestive requests get bolder, Sunny realizes he doesn’t mind the attention at all. Caught between three potential suitors and one very rich secret admirer, Sunny sets out to uncover the truth: Who is the “Santa” showering him with money, and…is he",
     "descriptionPt": "",
-    "chaptersCount": 37,
+    "chaptersCount": 38,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -233079,30 +233079,6 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
-  },
-  {
-    "id": "a-killer-woman",
-    "slug": "a-killer-woman",
-    "title": "A Killer Woman",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/a-killer-woman-01-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/a-killer-woman-01-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adult"
-    ],
-    "description": "The story of a woman and a curse that leads men to their death, will she be able to find happiness?",
-    "descriptionEn": "The story of a woman and a curse that leads men to their death, will she be able to find happiness?",
-    "chaptersCount": 112,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
   },
   {
     "id": "o-privilegio-de-uma-transmigrante",

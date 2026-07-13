@@ -94444,7 +94444,7 @@ let MANGA_DATA = [
     ],
     "description": "Purrfect Choice (Uncensored) Once the most popular guy in high school, Lim Sangho never expected to be attending college at 28. At a class reunion, he reconnects with Ko Yeongha, the underclassman who used to follow him everywhere – and who has somehow grown into an annoyingly-handsome adult. Bonding over their shared status as late-blooming college students, the two quickly fall back into old habits. But while feeding stray cats after the reunion, Yeongha drops a bombshell: his male boss seems to have a crush on him. Completely clueless about dating men, Yeongha turns to the openly gay Sangho",
     "descriptionPt": "",
-    "chaptersCount": 10,
+    "chaptersCount": 11,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -95570,7 +95570,7 @@ let MANGA_DATA = [
     ],
     "description": "A Changed Man “If I can’t have you, no one can.” Hestia killed her beloved brother Ian with her own two hands. Three months later, he reappears in front of her seemingly unharmed; however, he has seemingly lost all his memories and become an almost completely different person. Everyone in the kingdom welcomes him back with open arms, but only Hestia suspects some foul play at work. Has her brother really changed? Or Ian not who he seems?",
     "descriptionPt": "",
-    "chaptersCount": 70,
+    "chaptersCount": 71,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -138055,7 +138055,7 @@ let MANGA_DATA = [
     "descriptionPt": "",
     "chaptersCount": 87,
     "lang": "en",
-    "hasPt": false,
+    "hasPt": true,
     "hasEn": true,
     "source": "mangadistrict"
   },
@@ -207502,7 +207502,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Mansão Que aguarda A Primavera, um manhwa em português.",
     "descriptionPt": "Leia A Mansão Que aguarda A Primavera, um manhwa em português.",
-    "chaptersCount": 23,
+    "chaptersCount": 24,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -208213,7 +208213,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Morte É O Único Final Para A Vilã, um manhwa em português.",
     "descriptionPt": "Leia A Morte É O Único Final Para A Vilã, um manhwa em português.",
-    "chaptersCount": 0,
+    "chaptersCount": 215,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -213630,8 +213630,8 @@ let MANGA_DATA = [
     "altTitle": "",
     "cover": "https://tankouhentai.com/wp-content/uploads/2022/06/Nenchaku-Taishitsu-Sticky-Constitution-Hentai-PTBR-Manga-Tankoubon-193x278.jpg",
     "banner": "https://tankouhentai.com/wp-content/uploads/2022/06/Nenchaku-Taishitsu-Sticky-Constitution-Hentai-PTBR-Manga-Tankoubon-193x278.jpg",
-    "author": "Nico Pun Nise",
-    "artist": "Nico Pun Nise",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
     "status": "ongoing",
     "year": 2008,
     "rating": 0,
@@ -219149,7 +219149,7 @@ let MANGA_DATA = [
     "cover": "https://tankouhentai.com/wp-content/uploads/2023/10/wotacir-no-gal-vs-boku-hentai-ptbr-193x278.jpg",
     "banner": "https://tankouhentai.com/wp-content/uploads/2023/10/wotacir-no-gal-vs-boku-hentai-ptbr-193x278.jpg",
     "author": "Desconhecido",
-    "artist": "Itami",
+    "artist": "Desconhecido",
     "status": "ongoing",
     "year": 2026,
     "rating": 0,
@@ -226175,7 +226175,7 @@ let MANGA_DATA = [
     "cover": "https://tankouhentai.com/wp-content/uploads/2025/06/Momonosuke-Etsuraku-no-Miko-hentai-ptbr-193x278.jpg",
     "banner": "https://tankouhentai.com/wp-content/uploads/2025/06/Momonosuke-Etsuraku-no-Miko-hentai-ptbr-193x278.jpg",
     "author": "Desconhecido",
-    "artist": "Momonosuke",
+    "artist": "Desconhecido",
     "status": "ongoing",
     "year": 2026,
     "rating": 0,
@@ -251957,7 +251957,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Sou o Vilão Predestinado, um manhua em português.",
     "descriptionPt": "Leia Eu Sou o Vilão Predestinado, um manhua em português.",
-    "chaptersCount": 342,
+    "chaptersCount": 343,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255155,7 +255155,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia despertando-o-trovao-roxo-no-inicio online em português.",
     "descriptionPt": "Leia despertando-o-trovao-roxo-no-inicio online em português.",
-    "chaptersCount": 77,
+    "chaptersCount": 78,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255199,7 +255199,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-reencarnacao-do-rei-dos-punhos-reencarnacao-do-deus-dos-punhos online em português.",
     "descriptionPt": "Leia a-reencarnacao-do-rei-dos-punhos-reencarnacao-do-deus-dos-punhos online em português.",
-    "chaptersCount": 59,
+    "chaptersCount": 60,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256099,6 +256099,107 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "eu-gosto-dos-bonitoes",
+    "slug": "eu-gosto-dos-bonitoes",
+    "title": "Eu Gosto dos Bonitões!",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/eu-gosto-dos-bonitoes/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/eu-gosto-dos-bonitoes/cover-md.webp",
+    "author": "Hohot",
+    "artist": "Hohot",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Comedia",
+      "Romance",
+      "Adulto",
+      "Manhwa",
+      "Fetiche",
+      "BDSM"
+    ],
+    "description": "Leia Eu Gosto dos Bonitões!, um manhwa em português.",
+    "descriptionPt": "Leia Eu Gosto dos Bonitões!, um manhwa em português.",
+    "chaptersCount": 16,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "a-lei-do-taliao",
+    "slug": "a-lei-do-taliao",
+    "title": "A Lei do Talião",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-lei-do-taliao/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-lei-do-taliao/cover-md.webp",
+    "author": "Heukseol",
+    "artist": "Heukseol",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Adulto",
+      "Smut",
+      "Maduro",
+      "Manhwa"
+    ],
+    "description": "Leia A Lei do Talião, um manhwa em português.",
+    "descriptionPt": "Leia A Lei do Talião, um manhwa em português.",
+    "chaptersCount": 1,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "nao-perdoe-nossos-pecados",
+    "slug": "nao-perdoe-nossos-pecados",
+    "title": "Não Perdoe nossos pecados",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/nao-perdoe-nossos-pecados/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/nao-perdoe-nossos-pecados/cover-md.webp",
+    "author": "Syaban",
+    "artist": "Syaban",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Fantasia",
+      "Josei",
+      "Adulto",
+      "Manhwa"
+    ],
+    "description": "Leia Não Perdoe nossos pecados, um manhwa em português.",
+    "descriptionPt": "Leia Não Perdoe nossos pecados, um manhwa em português.",
+    "chaptersCount": 1,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "tankouhentai-confusion-level-a",
+    "slug": "confusion-level-a",
+    "title": "Confusion LEVEL A",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/07/Confusion-LEVEL-A-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/07/Confusion-LEVEL-A-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Sakai Hamachi",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Vanilla",
+      "Hentai"
+    ],
+    "description": "Postado somente o primeiro capítulo porque só ele foi traduzido até agora.",
+    "descriptionPt": "Postado somente o primeiro capítulo porque só ele foi traduzido até agora.",
+    "chaptersCount": 1,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 
@@ -256223,7 +256324,7 @@ function filterManga(opts) {
   return results;
 }
 
-const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","Bissexual","BL","BL Uncensored","Borderline H","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Esporte","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gyaru","Harem","Harém","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","One Shot","Outros gêneros","Parody Anime","Person in a Strange World","Police","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Yuri","Zombies","Zoofilia"];
+const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Esporte","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gyaru","Harem","Harém","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","One Shot","Outros gêneros","Parody Anime","Person in a Strange World","Police","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Yuri","Zombies","Zoofilia"];
 
 var ADULT_GENRE_KW = ['hentai','adulto','adult','+18','18+','nsfw','ecchi','smut','mature','maduro','erotic','erótic','erotica','bdsm','futanari','loli','shota','inces','tentacul','tentácul','zoofilia','obsceno','sem censura','uncensor','censura','nudez','nudity','sexual','sexo','mindbreak','ahegao','netorare','fetich','fetish','omegaverse','vanilla','borderline h'];
 function isAdultGenre(g) {

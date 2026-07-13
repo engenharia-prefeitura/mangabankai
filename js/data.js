@@ -99023,7 +99023,7 @@ let MANGA_DATA = [
     ],
     "description": "Lustful Games “A walk down memory lane of school memories filled with studying and bullying. After graduation, each student who was a senior of Class 5 receives a message to participate in an alumni reunion. No one knows who sent the message. A reward of $10,000 and the location is an abandoned island. Although there were some suspicious parts to the message, everyone participates, thinking that it’s a joke. In this event, everyone relives and faces their past self which they had buried for so long.”",
     "descriptionPt": "",
-    "chaptersCount": 143,
+    "chaptersCount": 144,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -101168,7 +101168,7 @@ let MANGA_DATA = [
     ],
     "description": "You’re Coming With Me! Kwon Heemang is a jobless recluse living a shut-in lifestyle without a single friend to her name. Her mundane existence takes a supernatural turn after a freak accident grants her the ability to see ghosts, leading to a haunting encounter with Kim Sarang. The lingering spirit strikes a deal: she will leave Heemang alone only after fulfilling her final wish. Sarang died just one month into her first relationship, never having the chance to truly experience intimacy with her boyfriend. Before Heemang can protest, Sarang possesses her body and tracks down her ex, Choi Taemi",
     "descriptionPt": "",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -213053,8 +213053,8 @@ let MANGA_DATA = [
     "altTitle": "",
     "cover": "https://tankouhentai.com/wp-content/uploads/2022/07/Kairakuen-Buta-Ika-na-Watashi-Hentai-PTBR-Manga-Tankoubon-193x278.jpg",
     "banner": "https://tankouhentai.com/wp-content/uploads/2022/07/Kairakuen-Buta-Ika-na-Watashi-Hentai-PTBR-Manga-Tankoubon-193x278.jpg",
-    "author": "hal",
-    "artist": "hal",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
     "status": "ongoing",
     "year": 2014,
     "rating": 0,
@@ -218524,8 +218524,8 @@ let MANGA_DATA = [
     "altTitle": "",
     "cover": "https://tankouhentai.com/wp-content/uploads/2022/07/Boy-Meets-Harem-Hentai-PTBR-Manga-Tankoubon-193x278.jpg",
     "banner": "https://tankouhentai.com/wp-content/uploads/2022/07/Boy-Meets-Harem-Hentai-PTBR-Manga-Tankoubon-193x278.jpg",
-    "author": "Tachibana Omina",
-    "artist": "Tachibana Omina",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
     "status": "ongoing",
     "year": 2013,
     "rating": 0,
@@ -231911,7 +231911,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Obtive um Item Mítico, um manhwa em português.",
     "descriptionPt": "Leia Eu Obtive um Item Mítico, um manhwa em português.",
-    "chaptersCount": 189,
+    "chaptersCount": 190,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -240588,7 +240588,7 @@ let MANGA_DATA = [
     "descriptionPt": "",
     "chaptersCount": 170,
     "lang": "en",
-    "hasPt": true,
+    "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
   },
@@ -255979,6 +255979,126 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "the-heavenly-path-is-not-stupid",
+    "slug": "the-heavenly-path-is-not-stupid",
+    "title": "The Heavenly Path Is Not Stupid",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/the-heavenly-path-is-not-stupid/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/the-heavenly-path-is-not-stupid/cover-md.webp",
+    "author": "BOOM工作室",
+    "artist": "BOOM工作室",
+    "status": "ongoing",
+    "year": 2022,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Ação",
+      "Shounen",
+      "Fantasia",
+      "Manhua"
+    ],
+    "description": "Leia The Heavenly Path Is Not Stupid, um manhua em português.",
+    "descriptionPt": "Leia The Heavenly Path Is Not Stupid, um manhua em português.",
+    "chaptersCount": 96,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "reborn-as-the-enemy-prince",
+    "slug": "reborn-as-the-enemy-prince",
+    "title": "Reborn as the Enemy Prince",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/reborn-as-the-enemy-prince/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/reborn-as-the-enemy-prince/cover-md.webp",
+    "author": "Julie",
+    "artist": "Julie",
+    "status": "ongoing",
+    "year": 2023,
+    "rating": 7,
+    "genres": [
+      "Fantasia",
+      "Magia",
+      "Aventura",
+      "Sobrevivencia",
+      "Manhwa"
+    ],
+    "description": "Leia Reborn as the Enemy Prince, um manhwa em português.",
+    "descriptionPt": "Leia Reborn as the Enemy Prince, um manhwa em português.",
+    "chaptersCount": 111,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "mangadistrict-saving-my-magical-girl-uncensored",
+    "slug": "saving-my-magical-girl-uncensored",
+    "title": "[MOTION] Saving My Magical Girl (Uncensored)",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/saving-my-magical-girl-uncensored.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/saving-my-magical-girl-uncensored.webp",
+    "author": "Hongjjangjjang",
+    "artist": "c3krakenc3",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 0,
+    "genres": [
+      "Borderline H",
+      "Cohabitation",
+      "Drama",
+      "Explicit Sex",
+      "Fantasy",
+      "Fetish",
+      "Full Color",
+      "Harem",
+      "Magic",
+      "Magical Girl",
+      "Manhwa",
+      "Motion",
+      "Romance",
+      "Uncensored"
+    ],
+    "description": "Saving My Magical Girl (Uncensored) After a brutal battle, magical girl Ruby is torn into two separate bodies. Can Ruby reunite with herself before darkness wins?",
+    "descriptionPt": "",
+    "chaptersCount": 11,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
+  },
+  {
+    "id": "mangadistrict-road-moves-with-stepsister-uncensored",
+    "slug": "road-moves-with-stepsister-uncensored",
+    "title": "Road Moves With Stepsister (Uncensored)",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/hot-seats-uncensored-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/hot-seats-uncensored-official.webp",
+    "author": "Hrushka",
+    "artist": "Hrushka",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Borderline H",
+      "Drama",
+      "Explicit Sex",
+      "Full Color",
+      "Incest",
+      "OEL",
+      "Siblings",
+      "Uncensored",
+      "Webtoons",
+      "Hentai"
+    ],
+    "description": "Road Moves With Stepsister (Uncensored) Hot seats is a tense tale of two step-siblings who’ve hated each other since childhood. Fate forces them to sit side by side on a long, cramped bus ride. Teasing, tension, and forbidden desire ignite between the seats. What was supposed to be a simple trip to grandma’s birthday becomes a blazing test of restraint and temptation, where the line between hate and lust is only one touch away.",
+    "descriptionPt": "",
+    "chaptersCount": 6,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
   }
 ];
 
@@ -256103,7 +256223,7 @@ function filterManga(opts) {
   return results;
 }
 
-const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","Bissexual","BL","BL Uncensored","Borderline H","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Esporte","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gyaru","Harem","Harém","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","One Shot","Outros gêneros","Parody Anime","Person in a Strange World","Police","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Yuri","Zombies","Zoofilia"];
+const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","Bissexual","BL","BL Uncensored","Borderline H","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Esporte","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gyaru","Harem","Harém","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","One Shot","Outros gêneros","Parody Anime","Person in a Strange World","Police","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Yuri","Zombies","Zoofilia"];
 
 var ADULT_GENRE_KW = ['hentai','adulto','adult','+18','18+','nsfw','ecchi','smut','mature','maduro','erotic','erótic','erotica','bdsm','futanari','loli','shota','inces','tentacul','tentácul','zoofilia','obsceno','sem censura','uncensor','censura','nudez','nudity','sexual','sexo','mindbreak','ahegao','netorare','fetich','fetish','omegaverse','vanilla','borderline h'];
 function isAdultGenre(g) {

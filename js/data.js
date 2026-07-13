@@ -221592,7 +221592,7 @@ let MANGA_DATA = [
     "cover": "https://tankouhentai.com/wp-content/uploads/2024/07/Boku-ga-Te-ni-Ireta-Ability-hentai-ptbr-193x278.jpg",
     "banner": "https://tankouhentai.com/wp-content/uploads/2024/07/Boku-ga-Te-ni-Ireta-Ability-hentai-ptbr-193x278.jpg",
     "author": "Desconhecido",
-    "artist": "Kemigawa",
+    "artist": "Desconhecido",
     "status": "ongoing",
     "year": 2026,
     "rating": 0,
@@ -250659,7 +250659,7 @@ let MANGA_DATA = [
     ],
     "description": "Concubine (Palgak) (Uncensored) Born the cherished daughter of a noble family, Won’s life shatters when a sudden tragedy leaves her on the brink of being sold off as a courtesan. To make matters worse, the man behind her family’s downfall is none other than the father of her childhood friend, Wanhyeok. Just as she resigns herself to losing everything, Wanhyeok steps forward…paying the price of her freedom with his own two hands. Torn between a desire for revenge and love, does Won have what it takes to avenge her family’s name?",
     "descriptionPt": "",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -256181,6 +256181,32 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "15-minutes",
+    "slug": "15-minutes",
+    "title": "15 Minutes",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2024/08/15-minutes-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2024/08/15-minutes-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Psychological",
+      "Supernatural",
+      "Adult"
+    ],
+    "description": "You are now the protagonist! The secret of the 15 minutes is revealed. Am I in a dream? Can I really do whatever I want? When does the time stop for 15 minutes?",
+    "descriptionEn": "You are now the protagonist! The secret of the 15 minutes is revealed. Am I in a dream? Can I really do whatever I want? When does the time stop for 15 minutes?",
+    "chaptersCount": 36,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

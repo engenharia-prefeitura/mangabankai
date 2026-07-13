@@ -127,8 +127,9 @@ const ADS = (function () {
       }
       
       const storageKey = key ? ('_adp_' + key) : '_adp';
-      if (sessionStorage.getItem(storageKey)) return;
-      sessionStorage.setItem(storageKey, '1');
+      const lastTime = parseInt(sessionStorage.getItem(storageKey));
+      if (lastTime && (Date.now() - lastTime) < 180000) return;
+      sessionStorage.setItem(storageKey, Date.now().toString());
       const s = document.createElement('script');
       s.async = true;
       s.src = 'https://pl30274022.effectivecpmnetwork.com/07/18/34/071834054ff7e7da5a29520d712b1bec.js';
@@ -412,13 +413,7 @@ const ADS = (function () {
         } else {
           // Modo +18 (Adulto): Carrega os formatos de anúncios eróticos do Adsterra
           ADS.renderSocialBar();
-          
-          const parts = window.location.pathname.split('/').filter(Boolean);
-          const isHome = window.location.pathname === '/' || window.location.pathname.endsWith('index.html') || parts.length === 0;
-          
-          if (!isHome) {
-            ADS.renderPopunder();
-          }
+          ADS.renderPopunder();
         }
         
         ADS.detectAdBlock(function (blocked) {

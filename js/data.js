@@ -208030,7 +208030,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei a Serva do Tirano, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei a Serva do Tirano, um manhwa em português.",
-    "chaptersCount": 107,
+    "chaptersCount": 108,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -208108,7 +208108,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Seus Pálidos Olhos Azuis, um manhwa em português.",
     "descriptionPt": "Leia Seus Pálidos Olhos Azuis, um manhwa em português.",
-    "chaptersCount": 0,
+    "chaptersCount": 12,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -212565,8 +212565,8 @@ let MANGA_DATA = [
     "altTitle": "",
     "cover": "https://tankouhentai.com/wp-content/uploads/2022/07/Alignment-You-You-Hentai-PTBR-Manga-Tankoubon-193x278.jpg",
     "banner": "https://tankouhentai.com/wp-content/uploads/2022/07/Alignment-You-You-Hentai-PTBR-Manga-Tankoubon-193x278.jpg",
-    "author": "Matsumoto Drill Kenkyuujo",
-    "artist": "Matsumoto Drill Kenkyuujo",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
     "status": "ongoing",
     "year": 2007,
     "rating": 0,
@@ -249844,7 +249844,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromante: Rei dos Mortos, um manhua em português.",
     "descriptionPt": "Leia Necromante: Rei dos Mortos, um manhua em português.",
-    "chaptersCount": 286,
+    "chaptersCount": 288,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250833,7 +250833,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-esposa-que-esperou-no-campo-de-trigo online em português.",
     "descriptionPt": "Leia a-esposa-que-esperou-no-campo-de-trigo online em português.",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251661,7 +251661,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Criança Problemática da Torre Mágica, um manhwa em português.",
     "descriptionPt": "Leia A Criança Problemática da Torre Mágica, um manhwa em português.",
-    "chaptersCount": 52,
+    "chaptersCount": 53,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251989,7 +251989,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Jardim de Maio, um manhwa em português.",
     "descriptionPt": "Leia Jardim de Maio, um manhwa em português.",
-    "chaptersCount": 23,
+    "chaptersCount": 24,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252147,7 +252147,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Os Planos do Mercenário Regressado, um manhwa em português.",
     "descriptionPt": "Leia Os Planos do Mercenário Regressado, um manhwa em português.",
-    "chaptersCount": 96,
+    "chaptersCount": 97,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252198,7 +252198,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei Um Homem Casado Em Outro Mundo, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei Um Homem Casado Em Outro Mundo, um manhwa em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252224,7 +252224,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Matei Um Jogador da Academia, um manhwa em português.",
     "descriptionPt": "Leia Eu Matei Um Jogador da Academia, um manhwa em português.",
-    "chaptersCount": 132,
+    "chaptersCount": 133,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252250,7 +252250,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Demônio Celestial não pode viver uma Vida Normal, um manhwa em português.",
     "descriptionPt": "Leia O Demônio Celestial não pode viver uma Vida Normal, um manhwa em português.",
-    "chaptersCount": 208,
+    "chaptersCount": 209,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252859,7 +252859,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia odalisca online em português.",
     "descriptionPt": "Leia odalisca online em português.",
-    "chaptersCount": 62,
+    "chaptersCount": 68,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252884,7 +252884,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Um Dia Eu Era Um Filhote, um manhwa em português.",
     "descriptionPt": "Leia Um Dia Eu Era Um Filhote, um manhwa em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254820,7 +254820,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Filho Adotivo em um Mundo de Supremacia de Linhagem, um mangá em português.",
     "descriptionPt": "Leia O Retorno do Filho Adotivo em um Mundo de Supremacia de Linhagem, um mangá em português.",
-    "chaptersCount": 43,
+    "chaptersCount": 44,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256207,6 +256207,142 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "o-tempo-extra-antes-da-doenca-terminal",
+    "slug": "o-tempo-extra-antes-da-doenca-terminal",
+    "title": "O Tempo Extra Antes da Doença Terminal",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/o-tempo-extra-antes-da-doenca-terminal/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/o-tempo-extra-antes-da-doenca-terminal/cover-md.webp",
+    "author": "ChobaEunhyang Ja",
+    "artist": "ChobaEunhyang Ja",
+    "status": "ongoing",
+    "year": 2022,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Fantasia",
+      "Romance"
+    ],
+    "description": "Leia O Tempo Extra Antes da Doença Terminal, um manhwa em português.",
+    "descriptionPt": "Leia O Tempo Extra Antes da Doença Terminal, um manhwa em português.",
+    "chaptersCount": 80,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "o-cacador-quer-uma-vida-tranquila",
+    "slug": "o-cacador-quer-uma-vida-tranquila",
+    "title": "O Caçador Quer Uma Vida Tranquila",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/o-cacador-quer-uma-vida-tranquila/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/o-cacador-quer-uma-vida-tranquila/cover-md.webp",
+    "author": "Baek Sam",
+    "artist": "Baek Sam",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Ação",
+      "Comedia",
+      "Fantasia",
+      "Shoujo Ai",
+      "Sobrenatural",
+      "Aventura",
+      "Tragedia",
+      "Manhwa"
+    ],
+    "description": "Leia O Caçador Quer Uma Vida Tranquila, um manhwa em português.",
+    "descriptionPt": "Leia O Caçador Quer Uma Vida Tranquila, um manhwa em português.",
+    "chaptersCount": 37,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "o-escandalo-da-princesa-herdeira",
+    "slug": "o-escandalo-da-princesa-herdeira",
+    "title": "O Escândalo da Princesa Herdeira",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/o-escandalo-da-princesa-herdeira/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/o-escandalo-da-princesa-herdeira/cover-md.webp",
+    "author": "Jeonghyeon",
+    "artist": "Jeonghyeon",
+    "status": "ongoing",
+    "year": 2021,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Comedia",
+      "Fantasia",
+      "Romance",
+      "Historico",
+      "Tragedia",
+      "Manhwa"
+    ],
+    "description": "Leia O Escândalo da Princesa Herdeira, um manhwa em português.",
+    "descriptionPt": "Leia O Escândalo da Princesa Herdeira, um manhwa em português.",
+    "chaptersCount": 9,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "the-world-without-my-sister-who-everyone-loved",
+    "slug": "the-world-without-my-sister-who-everyone-loved",
+    "title": "The World Without My Sister Who Everyone Loved",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/the-world-without-my-sister-who-everyone-loved/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/the-world-without-my-sister-who-everyone-loved/cover-md.webp",
+    "author": "Na Yoo Hye",
+    "artist": "Na Yoo Hye",
+    "status": "ongoing",
+    "year": 2022,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Fantasia",
+      "Romance"
+    ],
+    "description": "Leia The World Without My Sister Who Everyone Loved, um manhwa em português.",
+    "descriptionPt": "Leia The World Without My Sister Who Everyone Loved, um manhwa em português.",
+    "chaptersCount": 109,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "fingi-estar-gravida-mas-meu-marido-voltou",
+    "slug": "fingi-estar-gravida-mas-meu-marido-voltou",
+    "title": "Fingi Estar Grávida, Mas Meu Marido Voltou",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/fingi-estar-gravida-mas-meu-marido-voltou/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/fingi-estar-gravida-mas-meu-marido-voltou/cover-md.webp",
+    "author": "Byeolbyeolto",
+    "artist": "Byeolbyeolto",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Comedia",
+      "Fantasia",
+      "Romance",
+      "Historico",
+      "Manhwa"
+    ],
+    "description": "Leia Fingi Estar Grávida, Mas Meu Marido Voltou, um manhwa em português.",
+    "descriptionPt": "Leia Fingi Estar Grávida, Mas Meu Marido Voltou, um manhwa em português.",
+    "chaptersCount": 11,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 
@@ -256331,7 +256467,7 @@ function filterManga(opts) {
   return results;
 }
 
-const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Esporte","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gyaru","Harem","Harém","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","One Shot","Outros gêneros","Parody Anime","Person in a Strange World","Police","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Yuri","Zombies","Zoofilia"];
+const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Esporte","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gyaru","Harem","Harém","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","One Shot","Outros gêneros","Parody Anime","Person in a Strange World","Police","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Yuri","Zombies","Zoofilia"];
 
 var ADULT_GENRE_KW = ['hentai','adulto','adult','+18','18+','nsfw','ecchi','smut','mature','maduro','erotic','erótic','erotica','bdsm','futanari','loli','shota','inces','tentacul','tentácul','zoofilia','obsceno','sem censura','uncensor','censura','nudez','nudity','sexual','sexo','mindbreak','ahegao','netorare','fetich','fetish','omegaverse','vanilla','borderline h'];
 function isAdultGenre(g) {

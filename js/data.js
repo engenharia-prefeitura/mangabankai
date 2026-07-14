@@ -55296,7 +55296,7 @@ let MANGA_DATA = [
       "Manga"
     ],
     "description": "Leia Sakamoto Days online no MangaSurge.",
-    "chaptersCount": 267,
+    "chaptersCount": 268,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -100139,7 +100139,7 @@ let MANGA_DATA = [
     ],
     "description": "Love Factory (Uncensored) Peter starts working at a factory, where he finds more than just a job…",
     "descriptionPt": "",
-    "chaptersCount": 12,
+    "chaptersCount": 14,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -208139,7 +208139,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Morte É O Único Final Para A Vilã, um manhwa em português.",
     "descriptionPt": "Leia A Morte É O Único Final Para A Vilã, um manhwa em português.",
-    "chaptersCount": 215,
+    "chaptersCount": 216,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -240248,8 +240248,8 @@ let MANGA_DATA = [
     "slug": "boyfriend-for-rent",
     "title": "Boyfriend For Rent",
     "altTitle": "",
-    "cover": "https://cdn.mangadistrict.com/thumbnail/boyfriend-for-rent-official.webp",
-    "banner": "https://cdn.mangadistrict.com/thumbnail/boyfriend-for-rent-official.webp",
+    "cover": "https://cdn.mangadistrict.com/bb/thumbnail/boyfriend-for-rent-official-7frae8.webp",
+    "banner": "https://cdn.mangadistrict.com/bb/thumbnail/boyfriend-for-rent-official-7frae8.webp",
     "author": "Kongbbaemi",
     "artist": "Kongbbaemi",
     "status": "ongoing",
@@ -240257,11 +240257,13 @@ let MANGA_DATA = [
     "rating": 0,
     "genres": [
       "Borderline H",
+      "Cohabitation",
       "Comedy",
       "Drama",
       "Explicit Sex",
       "Full Color",
       "Harem",
+      "Nudity",
       "Romance",
       "Sexual Content",
       "Hentai"
@@ -251420,7 +251422,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Nós, Depois, um webtoon em português.",
     "descriptionPt": "Leia Nós, Depois, um webtoon em português.",
-    "chaptersCount": 14,
+    "chaptersCount": 15,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252789,7 +252791,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Caminho de Encontrar a Mamãe, um manhwa em português.",
     "descriptionPt": "Leia A Caminho de Encontrar a Mamãe, um manhwa em português.",
-    "chaptersCount": 52,
+    "chaptersCount": 53,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254055,7 +254057,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Longe de estar Sóbrio, um manhwa em português.",
     "descriptionPt": "Leia Longe de estar Sóbrio, um manhwa em português.",
-    "chaptersCount": 1,
+    "chaptersCount": 2,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

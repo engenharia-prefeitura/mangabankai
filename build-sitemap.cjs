@@ -77,7 +77,7 @@ function buildSitemap() {
     const body = chunk.map(u =>
       `  <url>\n    <loc>${xmlEscape(u.loc)}</loc>\n    <lastmod>${today}</lastmod>\n    <changefreq>${u.changefreq}</changefreq>\n    <priority>${u.priority}</priority>\n  </url>`
     ).join('\n');
-    const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<?xml-stylesheet type="text/xsl" href="${STYLESHEET}"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${body}\n</urlset>\n`;
+    const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${body}\n</urlset>\n`;
     fs.writeFileSync(path.join(ROOT, `sitemap-${idx + 1}.xml`), xml, 'utf8');
   });
 
@@ -85,7 +85,7 @@ function buildSitemap() {
   const idxBody = chunks.map((_, idx) =>
     `  <sitemap>\n    <loc>${xmlEscape(BASE_URL + '/sitemap-' + (idx + 1) + '.xml')}</loc>\n    <lastmod>${today}</lastmod>\n  </sitemap>`
   ).join('\n');
-  const indexXml = `<?xml version="1.0" encoding="UTF-8"?>\n<?xml-stylesheet type="text/xsl" href="${STYLESHEET}"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${idxBody}\n</sitemapindex>\n`;
+  const indexXml = `<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${idxBody}\n</sitemapindex>\n`;
   fs.writeFileSync(path.join(ROOT, 'sitemap.xml'), indexXml, 'utf8');
 
   return { total: urls.length, files: chunks.length };

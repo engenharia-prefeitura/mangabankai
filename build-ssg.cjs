@@ -13,7 +13,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const BASE_URL     = (process.env.SITE_URL || 'https://mangabankai.vercel.app').replace(/\/$/, '');
+const BASE_URL     = (process.env.SITE_URL || 'https://www.mangabankai.click').replace(/\/$/, '');
 const DATA_JS_PATH = path.join(__dirname, 'js', 'data.js');
 const CHAPTERS_DIR = path.join(__dirname, 'js', 'chapters');
 const OUT_DIR      = path.join(__dirname, 'manga'); // /manga/<id>/index.html

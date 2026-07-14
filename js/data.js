@@ -256690,6 +256690,30 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "where-did-all-the-men-go",
+    "slug": "where-did-all-the-men-go",
+    "title": "Where Did All the Men Go?",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2026/06/where-did-all-the-men-go-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2026/06/where-did-all-the-men-go-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult"
+    ],
+    "description": "David wakes up in an alternate reality where men are in short supply and the government is prepared to take extreme measures to solve the birth rate crisis.",
+    "descriptionEn": "David wakes up in an alternate reality where men are in short supply and the government is prepared to take extreme measures to solve the birth rate crisis.",
+    "chaptersCount": 12,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

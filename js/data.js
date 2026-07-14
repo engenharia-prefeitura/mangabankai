@@ -230236,31 +230236,6 @@ let MANGA_DATA = [
     "source": "tankouhentai"
   },
   {
-    "id": "a-tale-of-tails",
-    "slug": "a-tale-of-tails",
-    "title": "A Tale of Tails",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/a-tale-of-tails-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/a-tale-of-tails-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Supernatural",
-      "Adult"
-    ],
-    "description": "Tony’s grandfather gave him a word of advice, to be careful of one thing and one thing only. Can Tony realize what he meant?",
-    "descriptionEn": "Tony’s grandfather gave him a word of advice, to be careful of one thing and one thing only. Can Tony realize what he meant?",
-    "chaptersCount": 15,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "amu",
     "slug": "amu",
     "title": "AMU",

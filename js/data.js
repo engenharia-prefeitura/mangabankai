@@ -103286,7 +103286,7 @@ let MANGA_DATA = [
     ],
     "description": "Perfect Half Once a world ruled by men, women stand up and fight to become men’s equal. Now, in a land that is equally divided up between man and woman, the battle of the sexes is on! Who’s going to win? But more importantly…what’s the name of the game?",
     "descriptionPt": "",
-    "chaptersCount": 209,
+    "chaptersCount": 210,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

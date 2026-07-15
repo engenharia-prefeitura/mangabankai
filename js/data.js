@@ -91389,7 +91389,7 @@ let MANGA_DATA = [
     ],
     "description": "The Warrior in Rut (Official) Jade Hiero is the warrior who save the world, but became a playboy who is on the run. People call him “The Warrior in Rut”.",
     "descriptionPt": "",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207460,7 +207460,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Beyond Myriad Peoples, um manhua em português.",
     "descriptionPt": "Leia Beyond Myriad Peoples, um manhua em português.",
-    "chaptersCount": 171,
+    "chaptersCount": 185,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207751,7 +207751,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dragões Sequestrados, um manhwa em português.",
     "descriptionPt": "Leia Dragões Sequestrados, um manhwa em português.",
-    "chaptersCount": 50,
+    "chaptersCount": 51,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -208037,7 +208037,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Me Escolhe!, um manhwa em português.",
     "descriptionPt": "Leia Me Escolhe!, um manhwa em português.",
-    "chaptersCount": 209,
+    "chaptersCount": 210,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252957,7 +252957,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guarda Malandro em uma Fantasia Medieval, um manhwa em português.",
     "descriptionPt": "Leia Guarda Malandro em uma Fantasia Medieval, um manhwa em português.",
-    "chaptersCount": 38,
+    "chaptersCount": 39,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253350,7 +253350,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Knight King Who Returned with a God, um manhwa em português.",
     "descriptionPt": "Leia The Knight King Who Returned with a God, um manhwa em português.",
-    "chaptersCount": 172,
+    "chaptersCount": 173,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257029,6 +257029,66 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "ainda-nem-era-noite",
+    "slug": "ainda-nem-era-noite",
+    "title": "Ainda Nem Era Noite",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/ainda-nem-era-noite/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/ainda-nem-era-noite/cover-md.webp",
+    "author": "CHT",
+    "artist": "CHT",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Reencarnação",
+      "Comedia",
+      "Fantasia",
+      "Romance",
+      "Historico",
+      "Mistério",
+      "Magia",
+      "Adulto",
+      "Tragedia",
+      "Viagem no tempo",
+      "Manhwa",
+      "Traição",
+      "Sem Censura"
+    ],
+    "description": "Leia Ainda Nem Era Noite, um manhwa em português.",
+    "descriptionPt": "Leia Ainda Nem Era Noite, um manhwa em português.",
+    "chaptersCount": 7,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "va-embora-romeo",
+    "slug": "va-embora-romeo",
+    "title": "Vá Embora, Romeo!",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/va-embora-romeo/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/va-embora-romeo/cover-md.webp",
+    "author": "Paintword",
+    "artist": "Paintword",
+    "status": "ongoing",
+    "year": 2023,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Fantasia",
+      "Romance",
+      "Webtoon"
+    ],
+    "description": "Leia Vá Embora, Romeo!, um webtoon em português.",
+    "descriptionPt": "Leia Vá Embora, Romeo!, um webtoon em português.",
+    "chaptersCount": 76,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

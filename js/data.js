@@ -97302,7 +97302,7 @@ let MANGA_DATA = [
     ],
     "description": "Sketch First impressions are everything, right? But it doesn’t seem that way when Yikyung comes across Joobin. When they first meet, Joobin is just a handsome stranger with an exciting air of mystery. Yikyung itches to draw him, to sketch out his beauty on paper like the artist he is… But at their next encounter, Joobin is a completely different person. Sensitive, outspoken, and passionate about his own work as a photographer, he proposes that Yikyung become his model. And drawn to this other side of his, Yikyung says yes. Between lens and paper, who’ll be the first to sketch out the other to ",
     "descriptionPt": "",
-    "chaptersCount": 160,
+    "chaptersCount": 161,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -251619,7 +251619,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Neste Mundo Não Existem Guerreiros Maus, um manhwa em português.",
     "descriptionPt": "Leia Neste Mundo Não Existem Guerreiros Maus, um manhwa em português.",
-    "chaptersCount": 45,
+    "chaptersCount": 49,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

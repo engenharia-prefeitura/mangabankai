@@ -229723,7 +229723,7 @@ let MANGA_DATA = [
     "cover": "https://tankouhentai.com/wp-content/uploads/2026/04/Shin-Tomodachi-no-Hahaoya-hentai-193x278.jpg",
     "banner": "https://tankouhentai.com/wp-content/uploads/2026/04/Shin-Tomodachi-no-Hahaoya-hentai-193x278.jpg",
     "author": "Desconhecido",
-    "artist": "gonza",
+    "artist": "Desconhecido",
     "status": "ongoing",
     "year": 2026,
     "rating": 0,

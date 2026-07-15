@@ -83905,31 +83905,6 @@ let MANGA_DATA = [
     "source": "hentai20"
   },
   {
-    "id": "stupid-love",
-    "slug": "stupid-love",
-    "title": "Stupid Love",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/stupid-love-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/stupid-love-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adult",
-      "Seinen"
-    ],
-    "description": "Find out what happens when a man is tangled up with a girl who only means trouble.",
-    "descriptionEn": "Find out what happens when a man is tangled up with a girl who only means trouble.",
-    "chaptersCount": 45,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "sugar-daddy",
     "slug": "sugar-daddy",
     "title": "Sugar Daddy",
@@ -88019,31 +87994,6 @@ let MANGA_DATA = [
     "description": "Jane, one of three sisters who once tormented him, his life takes a chaotic turn. As Jane is sent overseas for work, her empty home becomes a playground for",
     "descriptionEn": "Jane, one of three sisters who once tormented him, his life takes a chaotic turn. As Jane is sent overseas for work, her empty home becomes a playground for",
     "chaptersCount": 20,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
-    "id": "tie-me-up",
-    "slug": "tie-me-up",
-    "title": "Tie Me Up!",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/tie-me-up-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/tie-me-up-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adult",
-      "Seinen"
-    ],
-    "description": "The two main characters of our story may not know each other, but their lives take remarkably similar trajectories. Both work in the adult industry, yet both",
-    "descriptionEn": "The two main characters of our story may not know each other, but their lives take remarkably similar trajectories. Both work in the adult industry, yet both",
-    "chaptersCount": 53,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207662,7 +207612,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu sou a Vilã mas sou Favorecida, um manhwa em português.",
     "descriptionPt": "Leia Eu sou a Vilã mas sou Favorecida, um manhwa em português.",
-    "chaptersCount": 0,
+    "chaptersCount": 21,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -208033,7 +207983,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Morando com o Romeo, um manhwa em português.",
     "descriptionPt": "Leia Morando com o Romeo, um manhwa em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -208244,7 +208194,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Veletric, um manhwa em português.",
     "descriptionPt": "Leia Veletric, um manhwa em português.",
-    "chaptersCount": 0,
+    "chaptersCount": 386,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -208319,7 +208269,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Retorno do Cavaleiro da Morte de Nível Apocalíptico, um manhwa em português.",
     "descriptionPt": "Leia Retorno do Cavaleiro da Morte de Nível Apocalíptico, um manhwa em português.",
-    "chaptersCount": 76,
+    "chaptersCount": 77,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -233073,7 +233023,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Ranker Inigualável, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Ranker Inigualável, um manhwa em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251510,7 +251460,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sou a Madrasta, Mas Minha Filha é Muito Fofa, um manhwa em português.",
     "descriptionPt": "Leia Sou a Madrasta, Mas Minha Filha é Muito Fofa, um manhwa em português.",
-    "chaptersCount": 165,
+    "chaptersCount": 166,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251695,7 +251645,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mordida pelo cão que eu abandonei, um manhwa em português.",
     "descriptionPt": "Leia Mordida pelo cão que eu abandonei, um manhwa em português.",
-    "chaptersCount": 113,
+    "chaptersCount": 114,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252050,7 +252000,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Evolução Infinita: Começando do Zero, um manhua em português.",
     "descriptionPt": "Leia Evolução Infinita: Começando do Zero, um manhua em português.",
-    "chaptersCount": 106,
+    "chaptersCount": 108,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252207,7 +252157,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Breakers, um manhwa em português.",
     "descriptionPt": "Leia Breakers, um manhwa em português.",
-    "chaptersCount": 92,
+    "chaptersCount": 95,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253059,7 +253009,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mestre Espadachim Criado Pelas Estrelas, um manhwa em português.",
     "descriptionPt": "Leia Mestre Espadachim Criado Pelas Estrelas, um manhwa em português.",
-    "chaptersCount": 128,
+    "chaptersCount": 129,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253109,7 +253059,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Regressando como o Bastardo do Clã da Espada, um manhwa em português.",
     "descriptionPt": "Leia Regressando como o Bastardo do Clã da Espada, um manhwa em português.",
-    "chaptersCount": 102,
+    "chaptersCount": 103,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253136,7 +253086,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Campo Esquecido, um manhwa em português.",
     "descriptionPt": "Leia O Campo Esquecido, um manhwa em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253398,7 +253348,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
     "descriptionPt": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
-    "chaptersCount": 105,
+    "chaptersCount": 106,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253613,7 +253563,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Primeiro Amor de um Delinquente, um manhwa em português.",
     "descriptionPt": "Leia O Primeiro Amor de um Delinquente, um manhwa em português.",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254807,30 +254757,6 @@ let MANGA_DATA = [
     "hasEn": false
   },
   {
-    "id": "adam-s-sweet-agony",
-    "slug": "adam-s-sweet-agony",
-    "title": "Adam’s Sweet Agony",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/adams-sweet-agony-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/adams-sweet-agony-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adult"
-    ],
-    "description": "“Why are you erect…? That’s so unfair.” In a world where all other men have contracted ED, I alone am subjected to the starved true nature of women as the",
-    "descriptionEn": "“Why are you erect…? That’s so unfair.” In a world where all other men have contracted ED, I alone am subjected to the starved true nature of women as the",
-    "chaptersCount": 132,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "tankouhentai-boku-o-kurau-wa-kasshoku-gal",
     "slug": "boku-o-kurau-wa-kasshoku-gal",
     "title": "Boku o Kurau wa Kasshoku Gal",
@@ -255695,7 +255621,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Segurei a Coleira da Besta Cega, um manhwa em português.",
     "descriptionPt": "Leia Eu Segurei a Coleira da Besta Cega, um manhwa em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255904,7 +255830,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Reborn as the Enemy Prince, um manhwa em português.",
     "descriptionPt": "Leia Reborn as the Enemy Prince, um manhwa em português.",
-    "chaptersCount": 111,
+    "chaptersCount": 115,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256291,7 +256217,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Amor:Zero, um manhwa em português.",
     "descriptionPt": "Leia Amor:Zero, um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 4,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256716,6 +256642,260 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "o-gerente-kim-odeia-idolos-de-k-pop",
+    "slug": "o-gerente-kim-odeia-idolos-de-k-pop",
+    "title": "O gerente Kim odeia ídolos de K-Pop",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/o-gerente-kim-odeia-idolos-de-k-pop/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/o-gerente-kim-odeia-idolos-de-k-pop/cover-md.webp",
+    "author": "Dreamy",
+    "artist": "Dreamy",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Comedia",
+      "Fantasia",
+      "Slice of Life",
+      "Manhwa",
+      "Idol"
+    ],
+    "description": "Leia O gerente Kim odeia ídolos de K-Pop, um manhwa em português.",
+    "descriptionPt": "Leia O gerente Kim odeia ídolos de K-Pop, um manhwa em português.",
+    "chaptersCount": 15,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "f-class-destiny-hunter",
+    "slug": "f-class-destiny-hunter",
+    "title": "F-Class Destiny Hunter",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/f-class-destiny-hunter/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/f-class-destiny-hunter/cover-md.webp",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2023,
+    "rating": 7,
+    "genres": [
+      "Ação",
+      "Shounen",
+      "Fantasia",
+      "Sobrenatural"
+    ],
+    "description": "Leia F-Class Destiny Hunter, um manhwa em português.",
+    "descriptionPt": "Leia F-Class Destiny Hunter, um manhwa em português.",
+    "chaptersCount": 81,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "i-adopted-a-villainous-dad",
+    "slug": "i-adopted-a-villainous-dad",
+    "title": "I Adopted a Villainous Dad",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/i-adopted-a-villainous-dad/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/i-adopted-a-villainous-dad/cover-md.webp",
+    "author": "Yunsul",
+    "artist": "Yunsul",
+    "status": "ongoing",
+    "year": 2023,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Fantasia",
+      "Romance"
+    ],
+    "description": "Leia I Adopted a Villainous Dad, um manhwa em português.",
+    "descriptionPt": "Leia I Adopted a Villainous Dad, um manhwa em português.",
+    "chaptersCount": 83,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "the-martial-god-who-regressed-to-level-2",
+    "slug": "the-martial-god-who-regressed-to-level-2",
+    "title": "The Martial God who Regressed to Level 2",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/the-martial-god-who-regressed-to-level-2/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/the-martial-god-who-regressed-to-level-2/cover-md.webp",
+    "author": "Yeom-Bi",
+    "artist": "Yeom-Bi",
+    "status": "ongoing",
+    "year": 2023,
+    "rating": 7,
+    "genres": [
+      "Ação",
+      "Shounen",
+      "Fantasia",
+      "Manhwa"
+    ],
+    "description": "Leia The Martial God who Regressed to Level 2, um manhwa em português.",
+    "descriptionPt": "Leia The Martial God who Regressed to Level 2, um manhwa em português.",
+    "chaptersCount": 124,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "o-protagonista-masculino-esta-obcecado-pela-minha-saude",
+    "slug": "o-protagonista-masculino-esta-obcecado-pela-minha-saude",
+    "title": "O Protagonista Masculino Está Obcecado Pela Minha Saúde",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/o-protagonista-masculino-esta-obcecado-pela-minha-saude/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/o-protagonista-masculino-esta-obcecado-pela-minha-saude/cover-md.webp",
+    "author": "Yunsul",
+    "artist": "Yunsul",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Romance",
+      "Manhwa",
+      "Transmigração"
+    ],
+    "description": "Leia O Protagonista Masculino Está Obcecado Pela Minha Saúde, um manhwa em português.",
+    "descriptionPt": "Leia O Protagonista Masculino Está Obcecado Pela Minha Saúde, um manhwa em português.",
+    "chaptersCount": 60,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "o-amor-de-iseop",
+    "slug": "o-amor-de-iseop",
+    "title": "O Amor De Iseop",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/o-amor-de-iseop/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/o-amor-de-iseop/cover-md.webp",
+    "author": "GRTG",
+    "artist": "GRTG",
+    "status": "ongoing",
+    "year": 2023,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Comedia",
+      "Romance",
+      "Adulto",
+      "Slice of Life",
+      "Manhwa"
+    ],
+    "description": "Leia O Amor De Iseop, um manhwa em português.",
+    "descriptionPt": "Leia O Amor De Iseop, um manhwa em português.",
+    "chaptersCount": 105,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "mangadistrict-tie-me-up",
+    "slug": "tie-me-up",
+    "title": "Tie Me Up",
+    "altTitle": "",
+    "cover": "https://mangadistrict.com/wp-content/uploads/2021/02/Tall-Tie-Me-Up.webp",
+    "banner": "https://mangadistrict.com/wp-content/uploads/2021/02/Tall-Tie-Me-Up.webp",
+    "author": "Cheese Milk",
+    "artist": "SeungMon",
+    "status": "ongoing",
+    "year": 2018,
+    "rating": 0,
+    "genres": [
+      "Borderline H",
+      "Comedy",
+      "Drama",
+      "Explicit Sex",
+      "Fetish",
+      "Full Color",
+      "Harem",
+      "Manhwa",
+      "Nudity",
+      "Romance",
+      "Sexual Abuse",
+      "Sexual Content",
+      "Supernatural",
+      "Webtoons"
+    ],
+    "description": "Tie Me Up The two main characters of our story may not know each other, but their lives take remarkably similar trajectories. Both work in the adult industry, yet both suffer performance issues. Namgeun works at an adult toy company, and his less than stellar performance in the bed leads his girlfriend to dump him. Meanwhile, Yeorang’s made a career as a sex columnist, but a leaked video reveals her inability to orgasm. Separately, they visit the local hardware store for rope to take their lives. But not only do they not die…it seems the rope has magically cured their sex issues. Now it’s time",
+    "descriptionPt": "",
+    "chaptersCount": 54,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
+  },
+  {
+    "id": "mangadistrict-love-for-sale-tass",
+    "slug": "love-for-sale-tass",
+    "title": "Love For Sale",
+    "altTitle": "",
+    "cover": "https://mangadistrict.com/wp-content/uploads/2026/07/Love-For-Sale.png",
+    "banner": "https://mangadistrict.com/wp-content/uploads/2026/07/Love-For-Sale.png",
+    "author": "TASS",
+    "artist": "CheeseRaccoon",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Borderline H",
+      "Comedy",
+      "Drama",
+      "Explicit Sex",
+      "Harem",
+      "Nudity",
+      "Romance",
+      "Sexual Content",
+      "Hentai"
+    ],
+    "description": "Love For Sale",
+    "descriptionPt": "",
+    "chaptersCount": 1,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
+  },
+  {
+    "id": "mangadistrict-stupid-love",
+    "slug": "stupid-love",
+    "title": "Stupid Love",
+    "altTitle": "",
+    "cover": "https://mangadistrict.com/wp-content/uploads/2021/02/Tall-Stupid-Love.png",
+    "banner": "https://mangadistrict.com/wp-content/uploads/2021/02/Tall-Stupid-Love.png",
+    "author": "Appeal",
+    "artist": "Appeal",
+    "status": "ongoing",
+    "year": 2019,
+    "rating": 0,
+    "genres": [
+      "Borderline H",
+      "Delinquents",
+      "Drama",
+      "Explicit Sex",
+      "Full Color",
+      "Manhwa",
+      "Nudity",
+      "Romance",
+      "Sexual Abuse",
+      "Sexual Content",
+      "Violence",
+      "Webtoons",
+      "Hentai"
+    ],
+    "description": "Stupid Love Find out what happens when a man is tangled up with a girl who only means trouble.",
+    "descriptionPt": "",
+    "chaptersCount": 46,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
   }
 ];
 
@@ -256840,7 +257020,7 @@ function filterManga(opts) {
   return results;
 }
 
-const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Esporte","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gyaru","Harem","Harém","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","One Shot","Outros gêneros","Parody Anime","Person in a Strange World","Police","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Yuri","Zombies","Zoofilia"];
+const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Esporte","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gyaru","Harem","Harém","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Idol","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","One Shot","Outros gêneros","Parody Anime","Person in a Strange World","Police","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Yuri","Zombies","Zoofilia"];
 
 var ADULT_GENRE_KW = ['hentai','adulto','adult','+18','18+','nsfw','ecchi','smut','mature','maduro','erotic','erótic','erotica','bdsm','futanari','loli','shota','inces','tentacul','tentácul','zoofilia','obsceno','sem censura','uncensor','censura','nudez','nudity','sexual','sexo','mindbreak','ahegao','netorare','fetich','fetish','omegaverse','vanilla','borderline h'];
 function isAdultGenre(g) {

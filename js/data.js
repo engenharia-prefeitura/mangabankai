@@ -234115,7 +234115,7 @@ let MANGA_DATA = [
     ],
     "description": "The Taste of Passion (Uncensored) The Taste of Passion follows Ben, a single man living by the sea who runs a quiet café and channels all his heart into his cooking. Ever since his son Colin moved to the city, Ben feels his days have lost their flavor. When Colin suddenly returns with his wife, Patricia — a beautiful apprentice chef with an insatiable curiosity for new tastes — everything begins to change. Shared hours in the kitchen slowly build a forbidden tension until Ben’s world is set alight by a dangerous new flavor: the taste of passion. Can he indulge in it without ending up burned?",
     "descriptionPt": "",
-    "chaptersCount": 13,
+    "chaptersCount": 14,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -238713,7 +238713,7 @@ let MANGA_DATA = [
     ],
     "description": "Manipulation Calendar – Controlling the Female Staff’s Schedules as I Please If you had complete control over the schedule of the girl you like… what would you do?",
     "descriptionPt": "",
-    "chaptersCount": 32,
+    "chaptersCount": 37,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -257064,6 +257064,31 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "all-girl-sharehouse",
+    "slug": "all-girl-sharehouse",
+    "title": "All-Girl Sharehouse",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2025/03/all-girl-sharehouse-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2025/03/all-girl-sharehouse-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Seinen",
+      "Adult"
+    ],
+    "description": "After getting into college, Brian goes out clubbing to celebrate his acceptance and hooks up with a drop-dead gorgeous girl, unaware that he’ll soon be living",
+    "descriptionEn": "After getting into college, Brian goes out clubbing to celebrate his acceptance and hooks up with a drop-dead gorgeous girl, unaware that he’ll soon be living",
+    "chaptersCount": 23,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

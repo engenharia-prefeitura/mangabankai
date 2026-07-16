@@ -91299,7 +91299,7 @@ let MANGA_DATA = [
     ],
     "description": "The Warrior of Flames (Official) I got reincarnated in another world as an innocent, adorable girl.",
     "descriptionPt": "",
-    "chaptersCount": 28,
+    "chaptersCount": 29,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

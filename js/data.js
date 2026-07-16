@@ -94108,7 +94108,7 @@ let MANGA_DATA = [
     ],
     "description": "The Light I Give You (Uncensored) Once a promising athlete, Yoonbin is ready to give up after repeated injuries shatter his dreams. At his lowest point, a mysterious man with a tiger tattoo gives him the strength to stand again. Years later, after retiring as a gold medalist and becoming a taekwondo instructor, Yoonbin unexpectedly reunites with Kwon Young, an underworld boss and the man who saved his life. Haunted by his past, Young pushes Yoonbin away, convinced he brings only harm. But Yoonbin refuses to let go, because now it is his turn to become Young’s light.",
     "descriptionPt": "",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -96168,7 +96168,7 @@ let MANGA_DATA = [
     ],
     "description": "Reformation of the Deadbeat Noble Irene Perreira is a boy who sleeps to run away from reality. People mocked him, calling him a ‘deadbeat’, but he had no wish to change. Until one day, he dreamt of a swordsman… It was a dream about a talentless man who had been training by swinging his sword for decades.",
     "descriptionPt": "",
-    "chaptersCount": 148,
+    "chaptersCount": 149,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -101458,7 +101458,7 @@ let MANGA_DATA = [
     ],
     "description": "From Pauper to Prince Having lived in poverty all his life, Brian gets a second chance when he is offered the role of the sole heir to a conglomerate family’s enormous fortune.",
     "descriptionPt": "",
-    "chaptersCount": 59,
+    "chaptersCount": 62,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207408,7 +207408,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu sou a Vilã, um webtoon em português.",
     "descriptionPt": "Leia Eu sou a Vilã, um webtoon em português.",
-    "chaptersCount": 101,
+    "chaptersCount": 102,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207908,7 +207908,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A filha mais nova salva esta família, um manhwa em português.",
     "descriptionPt": "Leia A filha mais nova salva esta família, um manhwa em português.",
-    "chaptersCount": 14,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232800,7 +232800,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Me Tornei a Mãe do Protagonista, um manhwa em português.",
     "descriptionPt": "Leia Me Tornei a Mãe do Protagonista, um manhwa em português.",
-    "chaptersCount": 160,
+    "chaptersCount": 161,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257232,6 +257232,116 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "aydin",
+    "slug": "aydin",
+    "title": "aydin",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/aydin/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/aydin/cover-md.webp",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Manga"
+    ],
+    "description": "Leia aydin online em português.",
+    "descriptionPt": "Leia aydin online em português.",
+    "chaptersCount": 42,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "a-salvadora-de-um-vilao",
+    "slug": "a-salvadora-de-um-vilao",
+    "title": "a-salvadora-de-um-vilao",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-salvadora-de-um-vilao/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-salvadora-de-um-vilao/cover-md.webp",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Manga"
+    ],
+    "description": "Leia a-salvadora-de-um-vilao online em português.",
+    "descriptionPt": "Leia a-salvadora-de-um-vilao online em português.",
+    "chaptersCount": 38,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "uma-vida-de-vila-estranha-mas-eficaz",
+    "slug": "uma-vida-de-vila-estranha-mas-eficaz",
+    "title": "uma-vida-de-vila-estranha-mas-eficaz",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/uma-vida-de-vila-estranha-mas-eficaz/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/uma-vida-de-vila-estranha-mas-eficaz/cover-md.webp",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Manga"
+    ],
+    "description": "Leia uma-vida-de-vila-estranha-mas-eficaz online em português.",
+    "descriptionPt": "Leia uma-vida-de-vila-estranha-mas-eficaz online em português.",
+    "chaptersCount": 25,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "o-incubo-a-santa-e-o-canalha",
+    "slug": "o-incubo-a-santa-e-o-canalha",
+    "title": "o-incubo-a-santa-e-o-canalha",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/o-incubo-a-santa-e-o-canalha/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/o-incubo-a-santa-e-o-canalha/cover-md.webp",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Manga"
+    ],
+    "description": "Leia o-incubo-a-santa-e-o-canalha online em português.",
+    "descriptionPt": "Leia o-incubo-a-santa-e-o-canalha online em português.",
+    "chaptersCount": 6,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "a-noiva-que-criou-o-dragao-maligno",
+    "slug": "a-noiva-que-criou-o-dragao-maligno",
+    "title": "a-noiva-que-criou-o-dragao-maligno",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-noiva-que-criou-o-dragao-maligno/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-noiva-que-criou-o-dragao-maligno/cover-md.webp",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Manga"
+    ],
+    "description": "Leia a-noiva-que-criou-o-dragao-maligno online em português.",
+    "descriptionPt": "Leia a-noiva-que-criou-o-dragao-maligno online em português.",
+    "chaptersCount": 27,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

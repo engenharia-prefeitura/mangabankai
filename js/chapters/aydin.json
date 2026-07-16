@@ -1,0 +1,298 @@
+{
+  "pt": [
+    {
+      "id": "aydin-chapter-1",
+      "number": 1,
+      "title": "Capítulo 01",
+      "date": "2026-07-16T14:40:52.635Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-2",
+      "number": 2,
+      "title": "Capítulo 02",
+      "date": "2026-07-16T14:41:37.585Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-3",
+      "number": 3,
+      "title": "Capítulo 03",
+      "date": "2026-07-16T14:42:15.773Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-4",
+      "number": 4,
+      "title": "Capítulo 04",
+      "date": "2026-07-16T14:43:12.294Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-5",
+      "number": 5,
+      "title": "Capítulo 05",
+      "date": "2026-07-16T14:44:01.587Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-6",
+      "number": 6,
+      "title": "Capítulo 06",
+      "date": "2026-07-16T14:44:37.328Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-7",
+      "number": 7,
+      "title": "Capítulo 07",
+      "date": "2026-07-16T14:45:28.301Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-8",
+      "number": 8,
+      "title": "Capítulo 08",
+      "date": "2026-07-16T14:46:09.409Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-9",
+      "number": 9,
+      "title": "Capítulo 09",
+      "date": "2026-07-16T14:46:35.638Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-10",
+      "number": 10,
+      "title": "Capítulo 10",
+      "date": "2026-07-16T14:47:29.138Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-11",
+      "number": 11,
+      "title": "Capítulo 11",
+      "date": "2026-07-16T14:48:00.483Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-12",
+      "number": 12,
+      "title": "Capítulo 12",
+      "date": "2026-07-16T14:48:46.802Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-13",
+      "number": 13,
+      "title": "Capítulo 13",
+      "date": "2026-07-16T14:49:29.329Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-14",
+      "number": 14,
+      "title": "Capítulo 14",
+      "date": "2026-07-16T14:50:05.182Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-15",
+      "number": 15,
+      "title": "Capítulo 15",
+      "date": "2026-07-16T14:50:43.176Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-16",
+      "number": 16,
+      "title": "Capítulo 16",
+      "date": "2026-07-16T14:51:28.104Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-17",
+      "number": 17,
+      "title": "Capítulo 17",
+      "date": "2026-07-16T14:52:21.262Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-18",
+      "number": 18,
+      "title": "Capítulo 18",
+      "date": "2026-07-16T14:53:05.030Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-19",
+      "number": 19,
+      "title": "Capítulo 19",
+      "date": "2026-07-16T14:53:40.770Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-20",
+      "number": 20,
+      "title": "Capítulo 20",
+      "date": "2026-07-16T14:54:29.555Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-21",
+      "number": 21,
+      "title": "Capítulo 21",
+      "date": "2026-07-16T14:54:43.451Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-22",
+      "number": 22,
+      "title": "Capítulo 22",
+      "date": "2026-07-16T14:55:12.216Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-23",
+      "number": 23,
+      "title": "Capítulo 23",
+      "date": "2026-07-16T14:55:44.514Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-24",
+      "number": 24,
+      "title": "Capítulo 24",
+      "date": "2026-07-16T14:56:11.367Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-25",
+      "number": 25,
+      "title": "Capítulo 25",
+      "date": "2026-07-16T14:56:42.187Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-26",
+      "number": 26,
+      "title": "Capítulo 26",
+      "date": "2026-07-16T14:57:37.707Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-27",
+      "number": 27,
+      "title": "Capítulo 27",
+      "date": "2026-07-16T14:58:12.873Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-28",
+      "number": 28,
+      "title": "Capítulo 28",
+      "date": "2026-07-16T14:58:51.734Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-29",
+      "number": 29,
+      "title": "Capítulo 29",
+      "date": "2026-07-16T14:59:31.598Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-30",
+      "number": 30,
+      "title": "Capítulo 30",
+      "date": "2026-07-16T15:00:11.694Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-31",
+      "number": 31,
+      "title": "Capítulo 31",
+      "date": "2026-07-16T15:00:54.233Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-32",
+      "number": 32,
+      "title": "Capítulo 32",
+      "date": "2026-07-16T15:01:17.559Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-33",
+      "number": 33,
+      "title": "Capítulo 33",
+      "date": "2026-07-16T15:01:59.961Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-34",
+      "number": 34,
+      "title": "Capítulo 34",
+      "date": "2026-07-16T15:02:32.785Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-35",
+      "number": 35,
+      "title": "Capítulo 35",
+      "date": "2026-07-16T15:03:15.013Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-36",
+      "number": 36,
+      "title": "Capítulo 36",
+      "date": "2026-07-16T15:04:26.681Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-37",
+      "number": 37,
+      "title": "Capítulo 37",
+      "date": "2026-07-16T15:05:00.685Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-38",
+      "number": 38,
+      "title": "Capítulo 38",
+      "date": "2026-07-16T15:06:06.653Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-39",
+      "number": 39,
+      "title": "Capítulo 39",
+      "date": "2026-07-16T15:07:00.530Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-40",
+      "number": 40,
+      "title": "Capítulo 40",
+      "date": "2026-07-16T15:07:32.890Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-41",
+      "number": 41,
+      "title": "Capítulo 41",
+      "date": "2026-07-16T15:07:50.353Z",
+      "pages": []
+    },
+    {
+      "id": "aydin-chapter-42",
+      "number": 42,
+      "title": "Capítulo 42",
+      "date": "2026-07-16T15:08:20.464Z",
+      "pages": []
+    }
+  ]
+}

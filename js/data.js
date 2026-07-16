@@ -91609,7 +91609,7 @@ let MANGA_DATA = [
     ],
     "description": "Synced for Pleasure (Official) Did that… just move?! WOO-JIN, a totally average engineering student, accidentally buys an onahole that syncs with women around him.",
     "descriptionPt": "",
-    "chaptersCount": 58,
+    "chaptersCount": 60,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

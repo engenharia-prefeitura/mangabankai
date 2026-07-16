@@ -238509,7 +238509,7 @@ let MANGA_DATA = [
     ],
     "description": "My Brother’s Slipped Inside Me in The Bathtub (Overflow) (Uncensored) “Cant… keep my… voice down.” Nii-chan thrusting in me again and again. We shouldn’t be doing this as siblings… so, why does it feel this good…?",
     "descriptionPt": "",
-    "chaptersCount": 147,
+    "chaptersCount": 153,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -253933,7 +253933,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Conforme o seu coração guiar, um manhwa em português.",
     "descriptionPt": "Leia Conforme o seu coração guiar, um manhwa em português.",
-    "chaptersCount": 58,
+    "chaptersCount": 59,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257250,7 +257250,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia aydin online em português.",
     "descriptionPt": "Leia aydin online em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 84,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257272,7 +257272,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-salvadora-de-um-vilao online em português.",
     "descriptionPt": "Leia a-salvadora-de-um-vilao online em português.",
-    "chaptersCount": 38,
+    "chaptersCount": 87,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257294,7 +257294,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia uma-vida-de-vila-estranha-mas-eficaz online em português.",
     "descriptionPt": "Leia uma-vida-de-vila-estranha-mas-eficaz online em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

@@ -64202,31 +64202,6 @@ let MANGA_DATA = [
     "source": "hentai20"
   },
   {
-    "id": "clara-the-virgin-shut-in",
-    "slug": "clara-the-virgin-shut-in",
-    "title": "Clara, the Virgin Shut-in",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2026/04/clara-the-virgin-shut-in-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2026/04/clara-the-virgin-shut-in-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Seinen",
-      "Adult"
-    ],
-    "description": "She’s a 21-year-old jobless shut-in with a goal of losing her virginity.",
-    "descriptionEn": "She’s a 21-year-old jobless shut-in with a goal of losing her virginity.",
-    "chaptersCount": 27,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "cleaning-service",
     "slug": "cleaning-service",
     "title": "Cleaning Service",
@@ -92654,7 +92629,7 @@ let MANGA_DATA = [
     ],
     "description": "Men Are Rare (Official) One day, Kang Sunho lost consciousness in an accident, only to wake up to: “Alright, time to collect your semen, sweetie!” Wait a second… Men are rare in this world?! With women throwing themselves at him… Well, if this is how things are, guess I’ll just enjoy the feast, one by one!!!",
     "descriptionPt": "",
-    "chaptersCount": 49,
+    "chaptersCount": 51,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -94373,7 +94348,7 @@ let MANGA_DATA = [
     ],
     "description": "Near and Dear (Uncensored) Yoo Haeyoung was a child star with a bright future, but now, at 29, he just drifts through life. However, everything changes when the famous actor Jung Yeowoon asks Haeyoung to be his manager and even suggests that they live together! Though Haeyoung has spent his life avoiding the spotlight due to his past successes, he accepts the job and things seem to go well until he catches Yeowoon touching himself. Now, Haeyoung can’t get Yeowoon off his mind, and it doesn’t help that they’re together all day and night long.",
     "descriptionPt": "",
-    "chaptersCount": 44,
+    "chaptersCount": 45,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207510,7 +207485,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Solstício, um manhwa em português.",
     "descriptionPt": "Leia Solstício, um manhwa em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 23,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207561,7 +207536,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Jovem Dama Stalker que Recebe Amor Demais, um manhwa em português.",
     "descriptionPt": "Leia A Jovem Dama Stalker que Recebe Amor Demais, um manhwa em português.",
-    "chaptersCount": 0,
+    "chaptersCount": 44,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232716,7 +232691,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia 50 Maneiras de Romper o Noivado com o Mestre Manipulador Psicopata, um manhwa em português.",
     "descriptionPt": "Leia 50 Maneiras de Romper o Noivado com o Mestre Manipulador Psicopata, um manhwa em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249322,31 +249297,6 @@ let MANGA_DATA = [
     "source": "mangadistrict"
   },
   {
-    "id": "an-innocent-sin",
-    "slug": "an-innocent-sin",
-    "title": "An Innocent Sin",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/an-innocent-sin-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/an-innocent-sin-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Psychological",
-      "Adult"
-    ],
-    "description": "Thinking she’s all by herself on the last train home, Nayeon feels the urge to enjoy herself by fantasizing about her desires. However, a reflection from the",
-    "descriptionEn": "Thinking she’s all by herself on the last train home, Nayeon feels the urge to enjoy herself by fantasizing about her desires. However, a reflection from the",
-    "chaptersCount": 77,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "mangadistrict-requiem-of-the-scarlet-name-uncensored",
     "slug": "requiem-of-the-scarlet-name-uncensored",
     "title": "Requiem of the Scarlet Name (Uncensored)",
@@ -253323,7 +253273,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
     "descriptionPt": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
-    "chaptersCount": 107,
+    "chaptersCount": 108,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255018,7 +254968,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia streaming-da-estrategia-oculta-do-retornado online em português.",
     "descriptionPt": "Leia streaming-da-estrategia-oculta-do-retornado online em português.",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255754,7 +255704,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Heavenly Path Is Not Stupid, um manhua em português.",
     "descriptionPt": "Leia The Heavenly Path Is Not Stupid, um manhua em português.",
-    "chaptersCount": 99,
+    "chaptersCount": 100,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257223,6 +257173,65 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "mangadistrict-mine-forever",
+    "slug": "mine-forever",
+    "title": "Mine Forever",
+    "altTitle": "",
+    "cover": "https://mangadistrict.com/wp-content/uploads/2026/07/Tall-Mine-Forever.png",
+    "banner": "https://mangadistrict.com/wp-content/uploads/2026/07/Tall-Mine-Forever.png",
+    "author": "Uncle Bunny",
+    "artist": "Y.N.B",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Borderline H",
+      "Drama",
+      "Explicit Sex",
+      "Psychological",
+      "Romance",
+      "Sexual Abuse",
+      "Sexual Content",
+      "Hentai"
+    ],
+    "description": "Mine Forever",
+    "descriptionPt": "",
+    "chaptersCount": 1,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
+  },
+  {
+    "id": "mangadistrict-clara-the-virgin-shut-in",
+    "slug": "clara-the-virgin-shut-in",
+    "title": "Clara, the virgin shut-in",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/clara-the-virgin-shut-in-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/clara-the-virgin-shut-in-official.webp",
+    "author": "Dohchi",
+    "artist": "Dohchi",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 0,
+    "genres": [
+      "Borderline H",
+      "Comedy",
+      "Drama",
+      "Explicit Sex",
+      "Full Color",
+      "Webtoons",
+      "Hentai"
+    ],
+    "description": "Clara, the virgin shut-in She’s a 21-year-old jobless shut-in with a goal of losing her virginity",
+    "descriptionPt": "",
+    "chaptersCount": 28,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
   }
 ];
 

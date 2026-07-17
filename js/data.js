@@ -60460,7 +60460,7 @@ let MANGA_DATA = [
     ],
     "description": "After being caught while having an intimate encounter with other MILFS, Taeyang escaped to another world. Sharing a bed with a top-class MILF with an amazing",
     "descriptionEn": "After being caught while having an intimate encounter with other MILFS, Taeyang escaped to another world. Sharing a bed with a top-class MILF with an amazing",
-    "chaptersCount": 125,
+    "chaptersCount": 126,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -60484,7 +60484,7 @@ let MANGA_DATA = [
     ],
     "description": "“The onahole… moved?!”",
     "descriptionEn": "“The onahole… moved?!”",
-    "chaptersCount": 104,
+    "chaptersCount": 105,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -60580,7 +60580,7 @@ let MANGA_DATA = [
     ],
     "description": "One day, the dead broke Hoonsang receives a suspicious business card, which grants him a new life in a new city called Bannam-dong, the cheating city, as well",
     "descriptionEn": "One day, the dead broke Hoonsang receives a suspicious business card, which grants him a new life in a new city called Bannam-dong, the cheating city, as well",
-    "chaptersCount": 99,
+    "chaptersCount": 100,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -92048,7 +92048,7 @@ let MANGA_DATA = [
     ],
     "description": "Pleasurebound Princess (Official) After the fall of the Kingdom of Solaris to the Demon King Zermes, a princess and her queen mother are captured and branded with a cursed Pleasure Mark. To protect her daughter, the queen embraces corruption, while the princess loses her last hope. And day by day, both are broken down and forced to submit to the Demon King’s pleasure.",
     "descriptionPt": "",
-    "chaptersCount": 23,
+    "chaptersCount": 25,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -94477,7 +94477,7 @@ let MANGA_DATA = [
     ],
     "description": "Love, Lust, & Joy In the 22nd century, even in a world where reproduction is no longer possible, humanity still craves sex. Akana runs a shop called LOVE & JOY in a city overflowing with artificial pleasures, catering to every kind of desire with no judgment. From obsession and public exposure to the darkest, most secret cravings, she’s here to make your wildest kinks 200% real.",
     "descriptionPt": "",
-    "chaptersCount": 48,
+    "chaptersCount": 50,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207588,7 +207588,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Minha ídola favorita pega o ultimo trem, um manhwa em português.",
     "descriptionPt": "Leia Minha ídola favorita pega o ultimo trem, um manhwa em português.",
-    "chaptersCount": 85,
+    "chaptersCount": 86,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232163,7 +232163,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Professor Runebound, um webtoon em português.",
     "descriptionPt": "Leia O Retorno do Professor Runebound, um webtoon em português.",
-    "chaptersCount": 81,
+    "chaptersCount": 82,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257485,6 +257485,138 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "minha-possessao-virou-uma-historia-de-terror",
+    "slug": "minha-possessao-virou-uma-historia-de-terror",
+    "title": "Minha Possessão Virou uma História de Terror",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/minha-possessao-virou-uma-historia-de-terror/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/minha-possessao-virou-uma-historia-de-terror/cover-md.webp",
+    "author": "Sweet Hulu",
+    "artist": "Sweet Hulu",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Comedia",
+      "Romance",
+      "Josei",
+      "Sobrenatural",
+      "Manhwa",
+      "Horrow"
+    ],
+    "description": "Leia Minha Possessão Virou uma História de Terror, um manhwa em português.",
+    "descriptionPt": "Leia Minha Possessão Virou uma História de Terror, um manhwa em português.",
+    "chaptersCount": 40,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "eu-ainda-nao-sei-sobre-a-obsessao-inabalavel-do-meu-personagem-favorito",
+    "slug": "eu-ainda-nao-sei-sobre-a-obsessao-inabalavel-do-meu-personagem-favorito",
+    "title": "Eu ainda não sei sobre a obsessão inabalável do meu personagem favorito",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/eu-ainda-nao-sei-sobre-a-obsessao-inabalavel-do-meu-personagem-favorito/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/eu-ainda-nao-sei-sobre-a-obsessao-inabalavel-do-meu-personagem-favorito/cover-md.webp",
+    "author": "Azusa Izumi",
+    "artist": "Azusa Izumi",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Webtoon"
+    ],
+    "description": "Leia Eu ainda não sei sobre a obsessão inabalável do meu personagem favorito, um webtoon em português.",
+    "descriptionPt": "Leia Eu ainda não sei sobre a obsessão inabalável do meu personagem favorito, um webtoon em português.",
+    "chaptersCount": 88,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "momento-de-cura-com-dubli",
+    "slug": "momento-de-cura-com-dubli",
+    "title": "Momento de Cura com Dubli",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/momento-de-cura-com-dubli/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/momento-de-cura-com-dubli/cover-md.webp",
+    "author": "Fides",
+    "artist": "Fides",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Comedia",
+      "Shounen",
+      "Fantasia",
+      "Aventura",
+      "Slice of Life",
+      "Manhwa"
+    ],
+    "description": "Leia Momento de Cura com Dubli, um manhwa em português.",
+    "descriptionPt": "Leia Momento de Cura com Dubli, um manhwa em português.",
+    "chaptersCount": 17,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "atreva-se",
+    "slug": "atreva-se",
+    "title": "Atreva-se!",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/atreva-se/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/atreva-se/cover-md.webp",
+    "author": "Bongsoo",
+    "artist": "Bongsoo",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Josei",
+      "Slice of Life",
+      "Psicológico",
+      "Manhwa"
+    ],
+    "description": "Leia Atreva-se!, um manhwa em português.",
+    "descriptionPt": "Leia Atreva-se!, um manhwa em português.",
+    "chaptersCount": 5,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "meu-primeiro-amor",
+    "slug": "meu-primeiro-amor",
+    "title": "#Meu Primeiro Amor",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/meu-primeiro-amor/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/meu-primeiro-amor/cover-md.webp",
+    "author": "KAN (IV)",
+    "artist": "KAN (IV)",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Romance",
+      "Slice of Life",
+      "Manhwa",
+      "Supernatural"
+    ],
+    "description": "Leia #Meu Primeiro Amor, um manhwa em português.",
+    "descriptionPt": "Leia #Meu Primeiro Amor, um manhwa em português.",
+    "chaptersCount": 1,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 
@@ -257609,7 +257741,7 @@ function filterManga(opts) {
   return results;
 }
 
-const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Esporte","Esportes","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gyaru","Harem","Harém","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Idol","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","One Shot","Outros gêneros","Parody Anime","Person in a Strange World","Police","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Yuri","Zombies","Zoofilia"];
+const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Esporte","Esportes","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gyaru","Harem","Harém","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Horrow","Idol","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","One Shot","Outros gêneros","Parody Anime","Person in a Strange World","Police","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Yuri","Zombies","Zoofilia"];
 
 var ADULT_GENRE_KW = ['hentai','adulto','adult','+18','18+','nsfw','ecchi','smut','mature','maduro','erotic','erótic','erotica','bdsm','futanari','loli','shota','inces','tentacul','tentácul','zoofilia','obsceno','sem censura','uncensor','censura','nudez','nudity','sexual','sexo','mindbreak','ahegao','netorare','fetich','fetish','omegaverse','vanilla','borderline h'];
 function isAdultGenre(g) {

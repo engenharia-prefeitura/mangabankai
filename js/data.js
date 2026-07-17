@@ -101020,7 +101020,7 @@ let MANGA_DATA = [
     ],
     "description": "Winterbound (Uncensored) For the grave sins of pride and insatiable greed, the majestic God of Winter is stripped of his divinity and cast down to the mortal realm as a cruel punishment. Stranded in a weak, fragile human body, he is desperate to reclaim his rightful place among the heavens. However, the path to restoring his godly status is paved with a singular, horrific condition: he must consume the living heart of the person he loves most. As the fallen deity navigates the foreign emotions of mortality, he unexpectedly finds himself falling deeply in love, binding his fate to a human soul.",
     "descriptionPt": "",
-    "chaptersCount": 5,
+    "chaptersCount": 6,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207960,7 +207960,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Seus Pálidos Olhos Azuis, um manhwa em português.",
     "descriptionPt": "Leia Seus Pálidos Olhos Azuis, um manhwa em português.",
-    "chaptersCount": 12,
+    "chaptersCount": 13,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230180,7 +230180,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Único Fazendeiro da Torre, um manhwa em português.",
     "descriptionPt": "Leia Único Fazendeiro da Torre, um manhwa em português.",
-    "chaptersCount": 135,
+    "chaptersCount": 136,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231609,7 +231609,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromante do Clã da Espada, um manhwa em português.",
     "descriptionPt": "Leia Necromante do Clã da Espada, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231634,7 +231634,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O sétimo príncipe quer escapar, um manhwa em português.",
     "descriptionPt": "Leia O sétimo príncipe quer escapar, um manhwa em português.",
-    "chaptersCount": 11,
+    "chaptersCount": 12,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231659,7 +231659,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Ranker, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Ranker, um manhwa em português.",
-    "chaptersCount": 252,
+    "chaptersCount": 253,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231737,7 +231737,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Mago Negro Retorna Após 66666 Anos, um manhwa em português.",
     "descriptionPt": "Leia O Mago Negro Retorna Após 66666 Anos, um manhwa em português.",
-    "chaptersCount": 190,
+    "chaptersCount": 191,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231765,7 +231765,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Começo Depois do Fim, um manhwa em português.",
     "descriptionPt": "Leia O Começo Depois do Fim, um manhwa em português.",
-    "chaptersCount": 255,
+    "chaptersCount": 256,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231791,7 +231791,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Começando com 13 Traços Ocultos, um manhwa em português.",
     "descriptionPt": "Leia Começando com 13 Traços Ocultos, um manhwa em português.",
-    "chaptersCount": 38,
+    "chaptersCount": 39,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232480,7 +232480,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Despertar em Tempo Integral, um manhua em português.",
     "descriptionPt": "Leia Despertar em Tempo Integral, um manhua em português.",
-    "chaptersCount": 145,
+    "chaptersCount": 146,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232559,7 +232559,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Desejo Sem Fim, um manhwa em português.",
     "descriptionPt": "Leia Desejo Sem Fim, um manhwa em português.",
-    "chaptersCount": 15,
+    "chaptersCount": 16,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250686,7 +250686,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Pelas Deusas, um manhwa em português.",
     "descriptionPt": "Leia Pelas Deusas, um manhwa em português.",
-    "chaptersCount": 46,
+    "chaptersCount": 47,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251056,7 +251056,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Operação Coração Acelerado, um manhwa em português.",
     "descriptionPt": "Leia Operação Coração Acelerado, um manhwa em português.",
-    "chaptersCount": 28,
+    "chaptersCount": 29,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252714,7 +252714,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O conto de um imortal, um manhwa em português.",
     "descriptionPt": "Leia O conto de um imortal, um manhwa em português.",
-    "chaptersCount": 45,
+    "chaptersCount": 46,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253987,7 +253987,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vilã Orca Bebê, um manhwa em português.",
     "descriptionPt": "Leia A Vilã Orca Bebê, um manhwa em português.",
-    "chaptersCount": 88,
+    "chaptersCount": 89,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254036,7 +254036,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Casamento por Conveniência 2: A Canção Inesquecível, um manhwa em português.",
     "descriptionPt": "Leia Casamento por Conveniência 2: A Canção Inesquecível, um manhwa em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254115,7 +254115,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Santa Bebê Quer Destruir o Mundo!, um manhwa em português.",
     "descriptionPt": "Leia A Santa Bebê Quer Destruir o Mundo!, um manhwa em português.",
-    "chaptersCount": 37,
+    "chaptersCount": 38,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254550,7 +254550,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Cão Raivoso da Mansão do Duque, um manhwa em português.",
     "descriptionPt": "Leia O Cão Raivoso da Mansão do Duque, um manhwa em português.",
-    "chaptersCount": 65,
+    "chaptersCount": 66,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254836,7 +254836,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia aventura-de-um-barbaro-em-um-mundo-de-fantasia online em português.",
     "descriptionPt": "Leia aventura-de-um-barbaro-em-um-mundo-de-fantasia online em português.",
-    "chaptersCount": 62,
+    "chaptersCount": 64,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256117,7 +256117,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Amor:Zero, um manhwa em português.",
     "descriptionPt": "Leia Amor:Zero, um manhwa em português.",
-    "chaptersCount": 6,
+    "chaptersCount": 8,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256539,7 +256539,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O gerente Kim odeia ídolos de K-Pop, um manhwa em português.",
     "descriptionPt": "Leia O gerente Kim odeia ídolos de K-Pop, um manhwa em português.",
-    "chaptersCount": 15,
+    "chaptersCount": 16,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257036,7 +257036,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromante de Força Máxima, um manhua em português.",
     "descriptionPt": "Leia Necromante de Força Máxima, um manhua em português.",
-    "chaptersCount": 55,
+    "chaptersCount": 65,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257317,6 +257317,113 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "para-meu-monstro-gentil",
+    "slug": "para-meu-monstro-gentil",
+    "title": "Para Meu Monstro Gentil",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/para-meu-monstro-gentil/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/para-meu-monstro-gentil/cover-md.webp",
+    "author": "Chick Prince",
+    "artist": "Chick Prince",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Comedia",
+      "Fantasia",
+      "Romance",
+      "Historico",
+      "Manhwa"
+    ],
+    "description": "Leia Para Meu Monstro Gentil, um manhwa em português.",
+    "descriptionPt": "Leia Para Meu Monstro Gentil, um manhwa em português.",
+    "chaptersCount": 15,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "streaming-do-arqueiro-genial",
+    "slug": "streaming-do-arqueiro-genial",
+    "title": "Streaming do Arqueiro Genial",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/streaming-do-arqueiro-genial/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/streaming-do-arqueiro-genial/cover-md.webp",
+    "author": "ONE",
+    "artist": "ONE",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 7,
+    "genres": [
+      "Ação",
+      "Shounen",
+      "Aventura",
+      "Esportes"
+    ],
+    "description": "Leia Streaming do Arqueiro Genial, um manhwa em português.",
+    "descriptionPt": "Leia Streaming do Arqueiro Genial, um manhwa em português.",
+    "chaptersCount": 100,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "por-que-esta-tao-obcecado-em-rejeitar-afeto",
+    "slug": "por-que-esta-tao-obcecado-em-rejeitar-afeto",
+    "title": "Por que está tão obcecado em Rejeitar Afeto?",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/por-que-esta-tao-obcecado-em-rejeitar-afeto/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/por-que-esta-tao-obcecado-em-rejeitar-afeto/cover-md.webp",
+    "author": "Seo Children",
+    "artist": "Seo Children",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Reencarnação",
+      "Shoujo",
+      "Comedia",
+      "Romance",
+      "Familia",
+      "Magia",
+      "Manhwa"
+    ],
+    "description": "Leia Por que está tão obcecado em Rejeitar Afeto?, um manhwa em português.",
+    "descriptionPt": "Leia Por que está tão obcecado em Rejeitar Afeto?, um manhwa em português.",
+    "chaptersCount": 62,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "a-tale-of-tails",
+    "slug": "a-tale-of-tails",
+    "title": "A Tale of Tails",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2024/08/a-tale-of-tails-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2024/08/a-tale-of-tails-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Supernatural",
+      "Adult"
+    ],
+    "description": "Tony’s grandfather gave him a word of advice, to be careful of one thing and one thing only. Can Tony realize what he meant?",
+    "descriptionEn": "Tony’s grandfather gave him a word of advice, to be careful of one thing and one thing only. Can Tony realize what he meant?",
+    "chaptersCount": 15,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 
@@ -257441,7 +257548,7 @@ function filterManga(opts) {
   return results;
 }
 
-const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Esporte","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gyaru","Harem","Harém","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Idol","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","One Shot","Outros gêneros","Parody Anime","Person in a Strange World","Police","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Yuri","Zombies","Zoofilia"];
+const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Esporte","Esportes","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gyaru","Harem","Harém","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Idol","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","One Shot","Outros gêneros","Parody Anime","Person in a Strange World","Police","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Yuri","Zombies","Zoofilia"];
 
 var ADULT_GENRE_KW = ['hentai','adulto','adult','+18','18+','nsfw','ecchi','smut','mature','maduro','erotic','erótic','erotica','bdsm','futanari','loli','shota','inces','tentacul','tentácul','zoofilia','obsceno','sem censura','uncensor','censura','nudez','nudity','sexual','sexo','mindbreak','ahegao','netorare','fetich','fetish','omegaverse','vanilla','borderline h'];
 function isAdultGenre(g) {

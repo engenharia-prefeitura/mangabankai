@@ -104411,7 +104411,7 @@ let MANGA_DATA = [
     ],
     "description": "Twin-Swap Contract: The Idol Gets Screwed by a Scumbag (Uncensored) [Uncensored Edition] You’ll be your twin’s understudy. You’re going to take all of her “dirty work!” That was the agreement made in the “Substitution Contract” binding us twins―the nationally renowned idol Sera and me, her manager. That said, I hate Sera. I despise her sparkling eyes, delicate lips, and angelic voice. We’re supposed to have the same face, but she has everything I don’t. That’s why I hate her. But I know that this feeling is just my envy towards her―my sister has done nothing wrong. There’s no need for her to w",
     "descriptionPt": "",
-    "chaptersCount": 1,
+    "chaptersCount": 3,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -257449,6 +257449,42 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "mangadistrict-heart-stealer-uno",
+    "slug": "heart-stealer-uno",
+    "title": "Heart Stealer (LY)",
+    "altTitle": "",
+    "cover": "https://mangadistrict.com/wp-content/uploads/2021/02/Tall-Heart-Stealer.webp",
+    "banner": "https://mangadistrict.com/wp-content/uploads/2021/02/Tall-Heart-Stealer.webp",
+    "author": "Erwai",
+    "artist": "UNO",
+    "status": "ongoing",
+    "year": 2020,
+    "rating": 0,
+    "genres": [
+      "Borderline H",
+      "Comedy",
+      "Drama",
+      "Explicit Sex",
+      "Fetish",
+      "Full Color",
+      "Gyaru",
+      "Manhwa",
+      "Nudity",
+      "Romance",
+      "Sexual Content",
+      "Slice of Life",
+      "Webtoons",
+      "Hentai"
+    ],
+    "description": "Heart Stealer Jihoon’s always working. He needs to–there’s rent to pay, tuition to take care of, and hospital bills that need to be sorted out. His money problems don’t end when he gets into university, but he soon finds a way to pull himself up by his bootstraps. His part-time job at the girl’s dorm introduces him to a bunch of rich, spoiled, and sexy girls…all of whom want to have their way with him. Why would he say no? It’s his chance to climb up the social ladder, as well as sleeping with the most alluring girls in the school!",
+    "descriptionPt": "",
+    "chaptersCount": 74,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
   }
 ];
 

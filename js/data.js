@@ -96260,7 +96260,7 @@ let MANGA_DATA = [
     ],
     "description": "Nano Machine After being held in disdain and having his life put in danger, an orphan from the Demonic Cult, Cheon Yeo-Woon, has an unexpected visit from his descendant from the future who inserts a nano machine into Cheon Yeo-Woon’s body, which drastically changes Cheon Yeo-Woon’s life after its activation. The story of Cheon Yeo-Woon’s journey of bypassing the Demonic Cult and rising to become the best martial artist has just begun.",
     "descriptionPt": "",
-    "chaptersCount": 318,
+    "chaptersCount": 320,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -257649,6 +257649,31 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "eu-virei-um-monstro-espacial-evoluido",
+    "slug": "eu-virei-um-monstro-espacial-evoluido",
+    "title": "Eu Virei Um Monstro Espacial Evoluído",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/eu-virei-um-monstro-espacial-evoluido/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/eu-virei-um-monstro-espacial-evoluido/cover-md.webp",
+    "author": "Inamu",
+    "artist": "Inamu",
+    "status": "ongoing",
+    "year": 2023,
+    "rating": 7,
+    "genres": [
+      "Ação",
+      "Seinen",
+      "Aventura",
+      "Manhwa"
+    ],
+    "description": "Leia Eu Virei Um Monstro Espacial Evoluído, um manhwa em português.",
+    "descriptionPt": "Leia Eu Virei Um Monstro Espacial Evoluído, um manhwa em português.",
+    "chaptersCount": 86,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

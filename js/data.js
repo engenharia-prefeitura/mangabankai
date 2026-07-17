@@ -89987,32 +89987,6 @@ let MANGA_DATA = [
     "source": "hentai20"
   },
   {
-    "id": "xx-dungeon",
-    "slug": "xx-dungeon",
-    "title": "XX Dungeon",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2026/03/xx-dungeon-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2026/03/xx-dungeon-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adult",
-      "Seinen",
-      "Supernatural"
-    ],
-    "description": "After defeating the Demon King, a band of heroes discovers an uncharted dungeon—one unlike any they’ve seen, hiding secrets beyond their imagination.",
-    "descriptionEn": "After defeating the Demon King, a band of heroes discovers an uncharted dungeon—one unlike any they’ve seen, hiding secrets beyond their imagination.",
-    "chaptersCount": 36,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "yanagihara-is-a-sex-addict",
     "slug": "yanagihara-is-a-sex-addict",
     "title": "Yanagihara Is a Sex Addict.",
@@ -94218,7 +94192,7 @@ let MANGA_DATA = [
     ],
     "description": "Reversal (Saejo) (Uncensored) Hiding both his real name Yuhan and his past as a dominant Omega, Lee Hajin lives quietly as a Beta, drowning in debt and scraping by as a personal aide to the spoiled son of J Tech’s CEO. With no family to rely on, survival is his only goal. Everything changes when Hajin runs into Kwon Seong-hyeob, his first love from high school, at a business meeting. Once the son of his family’s chauffeur, Seong-hyeob is now a powerful corporate leader. Time has reversed their positions, but their pheromones still recognize each other as if no years have passed. In this new, t",
     "descriptionPt": "",
-    "chaptersCount": 26,
+    "chaptersCount": 28,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -99338,7 +99312,7 @@ let MANGA_DATA = [
     ],
     "description": "A Very Inappropriate Lease Agreement When Gavin becomes caretaker of his family’s apartment building, his parents joke that he should marry any tenant he falls for. On day one, he meets five stunning women, including his childhood crush. Living together has never been this tempting.",
     "descriptionPt": "",
-    "chaptersCount": 10,
+    "chaptersCount": 12,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -251412,7 +251386,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Taming of the Tyrant, um manhwa em português.",
     "descriptionPt": "Leia The Taming of the Tyrant, um manhwa em português.",
-    "chaptersCount": 130,
+    "chaptersCount": 131,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257036,7 +257010,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromante de Força Máxima, um manhua em português.",
     "descriptionPt": "Leia Necromante de Força Máxima, um manhua em português.",
-    "chaptersCount": 65,
+    "chaptersCount": 71,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257617,6 +257591,64 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "tankouhentai-ero-hitozuma-no-abunai-netorare-settai-gesu-koujouchou-hen",
+    "slug": "ero-hitozuma-no-abunai-netorare-settai-gesu-koujouchou-hen",
+    "title": "Ero Hitozuma no Abunai Netorare Settai Gesu Koujouchou Hen",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/07/Ero-Hitozuma-no-Abunai-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/07/Ero-Hitozuma-no-Abunai-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Forester",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Traição",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 1,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
+  },
+  {
+    "id": "mangadistrict-xx-dungeon",
+    "slug": "xx-dungeon",
+    "title": "XX Dungeon",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/xx-dungeon-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/xx-dungeon-official.webp",
+    "author": "MINSC",
+    "artist": "Team ECLIPSE",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 0,
+    "genres": [
+      "Adventure",
+      "Borderline H",
+      "Drama",
+      "Explicit Sex",
+      "Fantasy",
+      "Full Color",
+      "Manhwa",
+      "Monster Girls",
+      "Romance",
+      "Seinen",
+      "Webtoons",
+      "Hentai"
+    ],
+    "description": "XX Dungeon After defeating the Demon King, a band of heroes discovers an uncharted dungeon—one unlike any they’ve seen, hiding secrets beyond their imagination.",
+    "descriptionPt": "",
+    "chaptersCount": 37,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
   }
 ];
 

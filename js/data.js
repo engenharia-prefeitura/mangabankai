@@ -92409,7 +92409,7 @@ let MANGA_DATA = [
     ],
     "description": "My Girlfriend’s Corruption (Official) “I should never have looked at my girlfriend’s phone that day.” From a friend, I hear a strange rumor about my girlfriend, Olivia. “They said Olivia walked out of a motel. And… she wasn’t alone. She was with another guy.” I tell myself it must have been a mistake and try to brush it off, but the doubt takes root in the back of my mind. For the first time, and the last, I check my girlfriend’s phone. “What are you doing? Take it off. Everything. Your bra and panties too.”",
     "descriptionPt": "",
-    "chaptersCount": 13,
+    "chaptersCount": 15,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -94954,7 +94954,7 @@ let MANGA_DATA = [
     ],
     "description": "The Method Messiah (Uncensored) Famous actor Kim Seongjae follows a suspicious man claiming to be his temporary manager, only to arrive at a remote village he escaped from at fifteen – the compound of a cult that once consumed his life. As Seongjae attempts to flee the place haunted by his past, a fatal mistake leaves the cult leader dead by his hand. Moments later, the followers arrive, forcing Seongjae into an irreversible decision to survive. Trapped on a stage where faith, violence, and performance blur, Seongjae realizes the man who led him here has been directing everything from the shad",
     "descriptionPt": "",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207300,7 +207300,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Magic Emperor, um manhua em português.",
     "descriptionPt": "Leia Magic Emperor, um manhua em português.",
-    "chaptersCount": 885,
+    "chaptersCount": 886,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230260,7 +230260,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Bebi a Poção do Amor Destinada ao Meu Marido, um manhwa em português.",
     "descriptionPt": "Leia Bebi a Poção do Amor Destinada ao Meu Marido, um manhwa em português.",
-    "chaptersCount": 11,
+    "chaptersCount": 12,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251056,7 +251056,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Operação Coração Acelerado, um manhwa em português.",
     "descriptionPt": "Leia Operação Coração Acelerado, um manhwa em português.",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251951,7 +251951,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Os Planos do Mercenário Regressado, um manhwa em português.",
     "descriptionPt": "Leia Os Planos do Mercenário Regressado, um manhwa em português.",
-    "chaptersCount": 97,
+    "chaptersCount": 130,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254383,7 +254383,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Meu Corpo Foi Possuído por Alguém, um manhwa em português.",
     "descriptionPt": "Leia Meu Corpo Foi Possuído por Alguém, um manhwa em português.",
-    "chaptersCount": 94,
+    "chaptersCount": 95,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257366,7 +257366,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Streaming do Arqueiro Genial, um manhwa em português.",
     "descriptionPt": "Leia Streaming do Arqueiro Genial, um manhwa em português.",
-    "chaptersCount": 100,
+    "chaptersCount": 101,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257424,6 +257424,31 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "divindade-das-nebulas",
+    "slug": "divindade-das-nebulas",
+    "title": "Divindade das Nebulas",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/divindade-das-nebulas/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/divindade-das-nebulas/cover-md.webp",
+    "author": "Wirae",
+    "artist": "Wirae",
+    "status": "ongoing",
+    "year": 2023,
+    "rating": 7,
+    "genres": [
+      "Ação",
+      "Fantasia",
+      "Aventura",
+      "Manhwa"
+    ],
+    "description": "Leia Divindade das Nebulas, um manhwa em português.",
+    "descriptionPt": "Leia Divindade das Nebulas, um manhwa em português.",
+    "chaptersCount": 138,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

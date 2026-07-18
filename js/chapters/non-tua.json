@@ -34,6 +34,20 @@
       "title": "Capítulo 1",
       "date": "2026-07-04T06:06:05.312Z",
       "pages": []
+    },
+    {
+      "id": "non-tua-chapter-2",
+      "number": 2,
+      "title": "Capítulo 2",
+      "date": "2026-07-18T02:49:28.892Z",
+      "pages": []
+    },
+    {
+      "id": "non-tua-chapter-3",
+      "number": 3,
+      "title": "Capítulo 3",
+      "date": "2026-07-18T02:50:24.594Z",
+      "pages": []
     }
   ]
 }

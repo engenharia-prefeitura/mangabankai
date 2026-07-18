@@ -137855,7 +137855,7 @@ let MANGA_DATA = [
     "descriptionPt": "",
     "chaptersCount": 87,
     "lang": "en",
-    "hasPt": true,
+    "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
   },
@@ -249487,7 +249487,7 @@ let MANGA_DATA = [
     ],
     "description": "Intimate Tutoring He’s now a private tutor for his old crush’s daughter… tension, flirtation, and messy misreads set the room on fire.",
     "descriptionPt": "",
-    "chaptersCount": 20,
+    "chaptersCount": 21,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

@@ -91053,7 +91053,7 @@ let MANGA_DATA = [
     ],
     "description": "Virtual into Reality (Official) If only I could live like in an eroge even in real life… that would be fun. After finishing his military service, Jason Lee went back to enjoying his usual eroge. But one day, the powers from his games suddenly appeared in reality?! “With this ability, I can make anyone do whatever I want.”",
     "descriptionPt": "",
-    "chaptersCount": 35,
+    "chaptersCount": 37,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -91150,7 +91150,7 @@ let MANGA_DATA = [
     ],
     "description": "Traded Lives (Official) Shay, the S-Class Hunter everyone dreams of becoming. But Dennis, a man with the power to switch bodies, sets his sights on stealing everything from him… by taking his body. “You want my body? You’d be better off chasing youth.”",
     "descriptionPt": "",
-    "chaptersCount": 37,
+    "chaptersCount": 39,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -92352,7 +92352,7 @@ let MANGA_DATA = [
     ],
     "description": "Not Interested (Official) “I won’t date anyone until I make it.” Gerald started work as the assistant to one of the most successful adult webtoon artists. He doesn’t want to date anyone, but women keep throwing themselves at him!",
     "descriptionPt": "",
-    "chaptersCount": 50,
+    "chaptersCount": 51,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -258275,6 +258275,30 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "a-pervert-s-daily-life",
+    "slug": "a-pervert-s-daily-life",
+    "title": "A Pervert’s Daily Life",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2024/08/a-perverts-daily-life-01-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2024/08/a-perverts-daily-life-01-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult"
+    ],
+    "description": "Let’s just say Jinwoo and Seyoung got off to a rocky start. Not knowing Seyoung would be living in a company dorm with a male employee, her direct superior at",
+    "descriptionEn": "Let’s just say Jinwoo and Seyoung got off to a rocky start. Not knowing Seyoung would be living in a company dorm with a male employee, her direct superior at",
+    "chaptersCount": 144,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

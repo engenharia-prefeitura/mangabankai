@@ -95311,7 +95311,7 @@ let MANGA_DATA = [
     ],
     "description": "Alpha Equation (Uncensored) In a world where Omegas are almost nonexistent, childhood friends Jun-hyeok and Hyeon-ho are both labeled Alphas. But as they grow closer in their final year of high school, Jun-hyeok begins reacting to Hyeon-ho’s pheromones in ways that shouldn’t be possible. As confusion turns into longing, the two must navigate feelings that defy instinct, classification, and everything they’ve been taught about love.",
     "descriptionPt": "",
-    "chaptersCount": 31,
+    "chaptersCount": 33,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -98823,7 +98823,7 @@ let MANGA_DATA = [
     ],
     "description": "Lustful Games “A walk down memory lane of school memories filled with studying and bullying. After graduation, each student who was a senior of Class 5 receives a message to participate in an alumni reunion. No one knows who sent the message. A reward of $10,000 and the location is an abandoned island. Although there were some suspicious parts to the message, everyone participates, thinking that it’s a joke. In this event, everyone relives and faces their past self which they had buried for so long.”",
     "descriptionPt": "",
-    "chaptersCount": 144,
+    "chaptersCount": 145,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -252909,7 +252909,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Melhor Homem no Comando, um manhwa em português.",
     "descriptionPt": "Leia O Melhor Homem no Comando, um manhwa em português.",
-    "chaptersCount": 196,
+    "chaptersCount": 197,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258251,30 +258251,6 @@ let MANGA_DATA = [
     "source": "mangadistrict"
   },
   {
-    "id": "a-pervert-s-daily-life",
-    "slug": "a-pervert-s-daily-life",
-    "title": "A Pervert’s Daily Life",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/a-perverts-daily-life-01-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/a-perverts-daily-life-01-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adult"
-    ],
-    "description": "Let’s just say Jinwoo and Seyoung got off to a rocky start. Not knowing Seyoung would be living in a company dorm with a male employee, her direct superior at",
-    "descriptionEn": "Let’s just say Jinwoo and Seyoung got off to a rocky start. Not knowing Seyoung would be living in a company dorm with a male employee, her direct superior at",
-    "chaptersCount": 144,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "tenha-um-caso-comigo",
     "slug": "tenha-um-caso-comigo",
     "title": "Tenha um Caso Comigo",
@@ -258498,7 +258474,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-deus-dos-improvisos online em português.",
     "descriptionPt": "Leia o-deus-dos-improvisos online em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

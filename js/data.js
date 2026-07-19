@@ -93152,7 +93152,7 @@ let MANGA_DATA = [
     ],
     "description": "Hacking to get closer to streamers! (Official) One day, a hacking app gets installed in Mike’s phone by chance. With the app, he finds out about the secrets of female streamers, and starts using the secrets to approach them.",
     "descriptionPt": "",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -243075,7 +243075,7 @@ let MANGA_DATA = [
     "descriptionPt": "",
     "chaptersCount": 81,
     "lang": "en",
-    "hasPt": false,
+    "hasPt": true,
     "hasEn": true,
     "source": "mangadistrict"
   },
@@ -258478,6 +258478,82 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "shi-zun-zhege-chong-shi-nitu-cai-bushi-sheng-zi-master-this-villainous-disciple-is-not-the-holy-child-offending-my-master",
+    "slug": "shi-zun-zhege-chong-shi-nitu-cai-bushi-sheng-zi-master-this-villainous-disciple-is-not-the-holy-child-offending-my-master",
+    "title": "Shi Zun: Zhege Chong Shi Nitu Cai Bushi Sheng Zi – Master: This Villainous Disciple Is Not The Holy Child Offending My Master",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/shi-zun-zhege-chong-shi-nitu-cai-bushi-sheng-zi-master-this-villainous-disciple-is-not-the-holy-child-offending-my-master/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/shi-zun-zhege-chong-shi-nitu-cai-bushi-sheng-zi-master-this-villainous-disciple-is-not-the-holy-child-offending-my-master/cover-md.webp",
+    "author": "番茄小说",
+    "artist": "番茄小说",
+    "status": "ongoing",
+    "year": 2023,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Ação",
+      "Artes Marciais",
+      "Shounen",
+      "Fantasia",
+      "Historico",
+      "Manhua"
+    ],
+    "description": "Leia Shi Zun: Zhege Chong Shi Nitu Cai Bushi Sheng Zi – Master: This Villainous Disciple Is Not The Holy Child Offending My Master, um manhua em português.",
+    "descriptionPt": "Leia Shi Zun: Zhege Chong Shi Nitu Cai Bushi Sheng Zi – Master: This Villainous Disciple Is Not The Holy Child Offending My Master, um manhua em português.",
+    "chaptersCount": 32,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "tankouhentai-kocchi-wa-nankai-mo-itten-da-yo-tasuketa-orei-ni-gatsugatsu-yankee-sex",
+    "slug": "kocchi-wa-nankai-mo-itten-da-yo-tasuketa-orei-ni-gatsugatsu-yankee-sex",
+    "title": "\"Kocchi wa Nankai mo Itten da yo!\" ~Tasuketa Orei ni Gatsugatsu Yankee SEX~",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/07/PG_PG_000-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/07/PG_PG_000-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Otono Natsu",
+    "status": "completed",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Vanilla",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 1,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
+  },
+  {
+    "id": "a-pervert-s-daily-life",
+    "slug": "a-pervert-s-daily-life",
+    "title": "A Pervert’s Daily Life",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2024/08/a-perverts-daily-life-01-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2024/08/a-perverts-daily-life-01-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult"
+    ],
+    "description": "Let’s just say Jinwoo and Seyoung got off to a rocky start. Not knowing Seyoung would be living in a company dorm with a male employee, her direct superior at",
+    "descriptionEn": "Let’s just say Jinwoo and Seyoung got off to a rocky start. Not knowing Seyoung would be living in a company dorm with a male employee, her direct superior at",
+    "chaptersCount": 144,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

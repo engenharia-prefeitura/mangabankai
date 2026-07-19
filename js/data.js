@@ -92190,7 +92190,7 @@ let MANGA_DATA = [
     ],
     "description": "Papakatsu (Official) He found a baby. To a man who had lived under the world’s scorn, that baby became his daughter, raised in captivity for twenty years… and eventually, his woman. And now, hyenas who caught the scent of money have begun to show up at the place he had kept so carefully hidden. “Hey, old man. I hear you’re loaded as hell. Why don’t you slip us a little pocket money?”",
     "descriptionPt": "",
-    "chaptersCount": 9,
+    "chaptersCount": 10,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -99838,7 +99838,7 @@ let MANGA_DATA = [
     ],
     "description": "What’s Wrong With This Family? (Uncensored) Chase feels uncomfortable at home because his foster family hates him, but not everything is what it seems.",
     "descriptionPt": "",
-    "chaptersCount": 56,
+    "chaptersCount": 58,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -232564,7 +232564,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Vou Embora Por Te Amar, um manhwa em português.",
     "descriptionPt": "Leia Vou Embora Por Te Amar, um manhwa em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252085,7 +252085,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Recording Hall, um manhwa em português.",
     "descriptionPt": "Leia Recording Hall, um manhwa em português.",
-    "chaptersCount": 131,
+    "chaptersCount": 132,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252509,7 +252509,7 @@ let MANGA_DATA = [
     ],
     "description": "Cliterary Book Club On her first day of college, Ho-eun joins a campus club—only to find herself surrounded by charming, shamelessly bold upperclassmen. All she’s asked to do is read a book out loud. It seems simple enough… until she realizes exactly what she’s reading. Flustered and unsure how to react, Ho-eun is caught between embarrassment, confusion—and a strange thrill she can’t quite explain. The way they look at her, the way they tease her… it awakens something unfamiliar. She wants to run, but something holds her in place. After all, her graduation depends on this club. Will she manage",
     "descriptionPt": "",
-    "chaptersCount": 54,
+    "chaptersCount": 55,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -257319,7 +257319,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Por que está tão obcecado em Rejeitar Afeto?, um manhwa em português.",
     "descriptionPt": "Leia Por que está tão obcecado em Rejeitar Afeto?, um manhwa em português.",
-    "chaptersCount": 62,
+    "chaptersCount": 63,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258403,6 +258403,105 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "desejos-vampirico",
+    "slug": "desejos-vampirico",
+    "title": "Desejos Vampírico",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/desejos-vampirico/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/desejos-vampirico/cover-md.webp",
+    "author": "KAZZEN",
+    "artist": "KAZZEN",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 7,
+    "genres": [
+      "Fantasia",
+      "Romance",
+      "Josei",
+      "Mistério",
+      "Sobrenatural",
+      "Adulto",
+      "Moderno",
+      "Vampiro"
+    ],
+    "description": "Leia Desejos Vampírico, um manhwa em português.",
+    "descriptionPt": "Leia Desejos Vampírico, um manhwa em português.",
+    "chaptersCount": 7,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "a-ascensao-da-cobra-imortal",
+    "slug": "a-ascensao-da-cobra-imortal",
+    "title": "A Ascensão da Cobra Imortal",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-ascensao-da-cobra-imortal/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-ascensao-da-cobra-imortal/cover-md.webp",
+    "author": "Eternal Sea Studio",
+    "artist": "Eternal Sea Studio",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 7,
+    "genres": [
+      "Ação",
+      "Artes Marciais",
+      "Fantasia",
+      "Seinen",
+      "Manhua"
+    ],
+    "description": "Leia A Ascensão da Cobra Imortal, um manhua em português.",
+    "descriptionPt": "Leia A Ascensão da Cobra Imortal, um manhua em português.",
+    "chaptersCount": 95,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "genio-regressado-criador-de-itens-mitico",
+    "slug": "genio-regressado-criador-de-itens-mitico",
+    "title": "genio-regressado-criador-de-itens-mitico",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/genio-regressado-criador-de-itens-mitico/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/genio-regressado-criador-de-itens-mitico/cover-md.webp",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Manga"
+    ],
+    "description": "Leia genio-regressado-criador-de-itens-mitico online em português.",
+    "descriptionPt": "Leia genio-regressado-criador-de-itens-mitico online em português.",
+    "chaptersCount": 37,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "o-deus-dos-improvisos",
+    "slug": "o-deus-dos-improvisos",
+    "title": "o-deus-dos-improvisos",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/o-deus-dos-improvisos/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/o-deus-dos-improvisos/cover-md.webp",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Manga"
+    ],
+    "description": "Leia o-deus-dos-improvisos online em português.",
+    "descriptionPt": "Leia o-deus-dos-improvisos online em português.",
+    "chaptersCount": 24,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 
@@ -258527,7 +258626,7 @@ function filterManga(opts) {
   return results;
 }
 
-const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Esporte","Esportes","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gyaru","Harem","Harém","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Horrow","Idol","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","One Shot","Outros gêneros","Parody Anime","Person in a Strange World","Police","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Yuri","Zombies","Zoofilia"];
+const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Esporte","Esportes","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gyaru","Harem","Harém","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Horrow","Idol","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","One Shot","Outros gêneros","Parody Anime","Person in a Strange World","Police","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vampiro","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Yuri","Zombies","Zoofilia"];
 
 var ADULT_GENRE_KW = ['hentai','adulto','adult','+18','18+','nsfw','ecchi','smut','mature','maduro','erotic','erótic','erotica','bdsm','futanari','loli','shota','inces','tentacul','tentácul','zoofilia','obsceno','sem censura','uncensor','censura','nudez','nudity','sexual','sexo','mindbreak','ahegao','netorare','fetich','fetish','omegaverse','vanilla','borderline h'];
 function isAdultGenre(g) {

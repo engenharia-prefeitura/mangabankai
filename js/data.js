@@ -60532,7 +60532,7 @@ let MANGA_DATA = [
     ],
     "description": "Even though I get teased for being short and bullied at work, my house is paradise!!",
     "descriptionEn": "Even though I get teased for being short and bullied at work, my house is paradise!!",
-    "chaptersCount": 101,
+    "chaptersCount": 102,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -95741,7 +95741,7 @@ let MANGA_DATA = [
     ],
     "description": "The Extra’s Academy Survival Guide Ed Rothstaylor is a third-rate villain in a game, disowned by his family and kicked out of the dormitory for his misdeeds. One day, our main character wakes up as this very Ed, and realizes he must earn a scholarship so he can graduate and be set for life. Now living in the woods, he resolves to keep away from the protagonists, but four of the female leads just won’t leave him alone. Not only that, his presence starts to change the timeline and events of the game! Can Ed help the story progress while staying out of the limelight?",
     "descriptionPt": "",
-    "chaptersCount": 114,
+    "chaptersCount": 115,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -233908,7 +233908,7 @@ let MANGA_DATA = [
     ],
     "description": "Overgeared (Team Argo) Shin Youngwoo (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game “Satisfy,” finds a powerful item that earns him a rare legendary class title: “Pagma’s Successor.” He’s now a skilled blacksmith who can forge unique weapons and equip the game’s most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for….",
     "descriptionPt": "",
-    "chaptersCount": 329,
+    "chaptersCount": 331,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -256436,7 +256436,7 @@ let MANGA_DATA = [
     ],
     "description": "David wakes up in an alternate reality where men are in short supply and the government is prepared to take extreme measures to solve the birth rate crisis.",
     "descriptionEn": "David wakes up in an alternate reality where men are in short supply and the government is prepared to take extreme measures to solve the birth rate crisis.",
-    "chaptersCount": 13,
+    "chaptersCount": 14,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -257484,7 +257484,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Momento de Cura com Dubli, um manhwa em português.",
     "descriptionPt": "Leia Momento de Cura com Dubli, um manhwa em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258377,6 +258377,32 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "a-midsummer-s-carol-uncensored",
+    "slug": "a-midsummer-s-carol-uncensored",
+    "title": "A Midsummer’s Carol (Uncensored)",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2026/05/a-midsummers-carol-uncensored-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2026/05/a-midsummers-carol-uncensored-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult",
+      "Josei",
+      "Uncensored"
+    ],
+    "description": "After failing at both love and work, Dokyung returns to the stillness of her hometown, Mooyung, where a chance encounter at her mother’s old corner store",
+    "descriptionEn": "After failing at both love and work, Dokyung returns to the stillness of her hometown, Mooyung, where a chance encounter at her mother’s old corner store",
+    "chaptersCount": 34,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

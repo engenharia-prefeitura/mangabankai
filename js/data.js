@@ -92700,7 +92700,7 @@ let MANGA_DATA = [
     ],
     "description": "Moby Dick (Official) One day, a mysterious name card lands on HOON-SANG’s hand. The name card presents to him a new life in a new city, the haven of adultery, along with a significant sum of money in return for his physique. “You are a ‘gift’ to the VIPs. Make them unable to forget you, even if they try.”",
     "descriptionPt": "",
-    "chaptersCount": 93,
+    "chaptersCount": 95,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -137855,7 +137855,7 @@ let MANGA_DATA = [
     "descriptionPt": "",
     "chaptersCount": 87,
     "lang": "en",
-    "hasPt": false,
+    "hasPt": true,
     "hasEn": true,
     "source": "mangadistrict"
   },
@@ -207646,7 +207646,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Descobri Que o Homem de Uma Noite Era Meu Noivo, um manhwa em português.",
     "descriptionPt": "Leia Descobri Que o Homem de Uma Noite Era Meu Noivo, um manhwa em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207806,7 +207806,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Logando 10.000 Anos No Futuro, um manhua em português.",
     "descriptionPt": "Leia Logando 10.000 Anos No Futuro, um manhua em português.",
-    "chaptersCount": 326,
+    "chaptersCount": 327,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231765,7 +231765,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Coração Ferido, um webtoon em português.",
     "descriptionPt": "Leia Coração Ferido, um webtoon em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231974,7 +231974,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Nerd Sinistro, um manhwa em português.",
     "descriptionPt": "Leia O Nerd Sinistro, um manhwa em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232219,7 +232219,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia I Will Fall With The Emperor, um manhwa em português.",
     "descriptionPt": "Leia I Will Fall With The Emperor, um manhwa em português.",
-    "chaptersCount": 194,
+    "chaptersCount": 195,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232430,7 +232430,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Despertar em Tempo Integral, um manhua em português.",
     "descriptionPt": "Leia Despertar em Tempo Integral, um manhua em português.",
-    "chaptersCount": 146,
+    "chaptersCount": 147,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232509,7 +232509,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Desejo Sem Fim, um manhwa em português.",
     "descriptionPt": "Leia Desejo Sem Fim, um manhwa em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232898,7 +232898,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Renascimento de Um Mercenário Entre Nobres, um manhwa em português.",
     "descriptionPt": "Leia O Renascimento de Um Mercenário Entre Nobres, um manhwa em português.",
-    "chaptersCount": 40,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249625,7 +249625,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Quatro Opções, um manhwa em português.",
     "descriptionPt": "Leia Quatro Opções, um manhwa em português.",
-    "chaptersCount": 15,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249677,7 +249677,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Como Enviar Seu Marido Para o Inferno, um manhwa em português.",
     "descriptionPt": "Leia Como Enviar Seu Marido Para o Inferno, um manhwa em português.",
-    "chaptersCount": 28,
+    "chaptersCount": 29,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250772,7 +250772,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Deus Demônio, um manhwa em português.",
     "descriptionPt": "Leia O Deus Demônio, um manhwa em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250826,7 +250826,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Segundo Eunuco Recupera Sua Masculinidade, um manhwa em português.",
     "descriptionPt": "Leia O Segundo Eunuco Recupera Sua Masculinidade, um manhwa em português.",
-    "chaptersCount": 97,
+    "chaptersCount": 98,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250852,7 +250852,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Crônicas do Soberano Preguiçoso, um manhwa em português.",
     "descriptionPt": "Leia Crônicas do Soberano Preguiçoso, um manhwa em português.",
-    "chaptersCount": 55,
+    "chaptersCount": 56,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250880,7 +250880,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Lendário Cavaleiro da Lança, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Lendário Cavaleiro da Lança, um manhwa em português.",
-    "chaptersCount": 205,
+    "chaptersCount": 206,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251115,7 +251115,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Caída no Paraíso, um manhwa em português.",
     "descriptionPt": "Leia Caída no Paraíso, um manhwa em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 32,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251604,7 +251604,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia North Snow Love Story, um manhwa em português.",
     "descriptionPt": "Leia North Snow Love Story, um manhwa em português.",
-    "chaptersCount": 81,
+    "chaptersCount": 83,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251927,7 +251927,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Senhorita Celebridade, um manhwa em português.",
     "descriptionPt": "Leia Senhorita Celebridade, um manhwa em português.",
-    "chaptersCount": 80,
+    "chaptersCount": 81,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254852,7 +254852,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-reencarnacao-do-rei-dos-punhos-reencarnacao-do-deus-dos-punhos online em português.",
     "descriptionPt": "Leia a-reencarnacao-do-rei-dos-punhos-reencarnacao-do-deus-dos-punhos online em português.",
-    "chaptersCount": 60,
+    "chaptersCount": 61,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254940,7 +254940,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia retorno-de-10000-vezes-irma-senior-por-favor-comporte-se online em português.",
     "descriptionPt": "Leia retorno-de-10000-vezes-irma-senior-por-favor-comporte-se online em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256235,7 +256235,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Reparação Pela Sua Crueldade, um manhwa em português.",
     "descriptionPt": "Leia Reparação Pela Sua Crueldade, um manhwa em português.",
-    "chaptersCount": 15,
+    "chaptersCount": 16,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256286,7 +256286,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Prefiro Viver Como um Vilão, um manhwa em português.",
     "descriptionPt": "Leia Prefiro Viver Como um Vilão, um manhwa em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257749,7 +257749,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei o Primeiro Amor do Meu Filho, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei o Primeiro Amor do Meu Filho, um manhwa em português.",
-    "chaptersCount": 35,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258299,6 +258299,110 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "tenha-um-caso-comigo",
+    "slug": "tenha-um-caso-comigo",
+    "title": "Tenha um Caso Comigo",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/tenha-um-caso-comigo/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/tenha-um-caso-comigo/cover-md.webp",
+    "author": "Maesa",
+    "artist": "Maesa",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Josei",
+      "Maduro",
+      "Manhwa"
+    ],
+    "description": "Leia Tenha um Caso Comigo, um manhwa em português.",
+    "descriptionPt": "Leia Tenha um Caso Comigo, um manhwa em português.",
+    "chaptersCount": 15,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "a-vila-maldita-retorna",
+    "slug": "a-vila-maldita-retorna",
+    "title": "A Vilã Maldita Retorna",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-vila-maldita-retorna/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-vila-maldita-retorna/cover-md.webp",
+    "author": "Hamal",
+    "artist": "Hamal",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Manhwa"
+    ],
+    "description": "Leia A Vilã Maldita Retorna, um manhwa em português.",
+    "descriptionPt": "Leia A Vilã Maldita Retorna, um manhwa em português.",
+    "chaptersCount": 2,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "a-lei-do-lixo",
+    "slug": "a-lei-do-lixo",
+    "title": "A Lei Do Lixo",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-lei-do-lixo/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-lei-do-lixo/cover-md.webp",
+    "author": "Seoyeon",
+    "artist": "Seoyeon",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Comedia",
+      "Romance",
+      "Josei",
+      "Manhwa",
+      "Escolar"
+    ],
+    "description": "Leia A Lei Do Lixo, um manhwa em português.",
+    "descriptionPt": "Leia A Lei Do Lixo, um manhwa em português.",
+    "chaptersCount": 42,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "swordmasters-youngest-son",
+    "slug": "swordmasters-youngest-son",
+    "title": "Swordmaster’s Youngest Son",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/swordmasters-youngest-son/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/swordmasters-youngest-son/cover-md.webp",
+    "author": "Emperor Penguin (황제펭귄)",
+    "artist": "Emperor Penguin (황제펭귄)",
+    "status": "ongoing",
+    "year": 2023,
+    "rating": 7,
+    "genres": [
+      "Ação",
+      "Shounen",
+      "Sobrenatural",
+      "Aventura"
+    ],
+    "description": "Leia Swordmaster’s Youngest Son, um manhwa em português.",
+    "descriptionPt": "Leia Swordmaster’s Youngest Son, um manhwa em português.",
+    "chaptersCount": 203,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

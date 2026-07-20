@@ -94082,7 +94082,7 @@ let MANGA_DATA = [
     ],
     "description": "The Light I Give You (Uncensored) Once a promising athlete, Yoonbin is ready to give up after repeated injuries shatter his dreams. At his lowest point, a mysterious man with a tiger tattoo gives him the strength to stand again. Years later, after retiring as a gold medalist and becoming a taekwondo instructor, Yoonbin unexpectedly reunites with Kwon Young, an underworld boss and the man who saved his life. Haunted by his past, Young pushes Yoonbin away, convinced he brings only harm. But Yoonbin refuses to let go, because now it is his turn to become Young’s light.",
     "descriptionPt": "",
-    "chaptersCount": 36,
+    "chaptersCount": 37,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

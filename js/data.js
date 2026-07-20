@@ -93181,7 +93181,7 @@ let MANGA_DATA = [
     ],
     "description": "Glorious Return (Official) “He slept with his next door neighbor’s wife whenever he went away on a business trip” A small town near Seoul that our family used to live in was a welcoming place. At least that’s what I thought until the people of the town revealed their true faces. Our family was driven out of town due to their devious planning, but now that I’ve gained power, I will make my glorious return.",
     "descriptionPt": "",
-    "chaptersCount": 38,
+    "chaptersCount": 39,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

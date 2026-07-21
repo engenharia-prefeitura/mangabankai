@@ -234580,7 +234580,7 @@ let MANGA_DATA = [
     ],
     "description": "Paws & Claws (Uncensored) Life sure is ruff, especially when you’re Gyeon Heeseong. Abandoned by his pack of fellow dog shifters, he is forced to become a drug runner for a gambling ring. For his final job, he comes face to face with Savage Fang, the ruthless Wolf Den enforcer Yoon Chi-young. Everything goes (nearly) according to plan, but on his way back he is attacked and forced to return to his fearsome(?) true form…a little white cottonball of a puppy! After Chi-young finds Heeseong struggling on the streets, he takes him in, believing him to be nothing more than a stray. Will Heeseong be ",
     "descriptionPt": "",
-    "chaptersCount": 57,
+    "chaptersCount": 60,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

@@ -95184,7 +95184,7 @@ let MANGA_DATA = [
     ],
     "description": "Bad Beat Lee Yeonjun is burdened with profound guilt, watching his older brother, Lee Yeono, sacrifice everything to support him due to his frail health. Desperate to free Yeono from this lifelong obligation, Yeonjun intentionally pushes his brother away with harsh words and sets out for Las Vegas. His goal is to survive on his own terms by fulfilling a lifelong dream: defeating Dius, the undisputed king of Texas Hold ’em poker, and securing the astronomical prize money. However, Yeonjun’s grand plan for independence takes a horrific turn on his very first night in the city of sin. While navig",
     "descriptionPt": "",
-    "chaptersCount": 13,
+    "chaptersCount": 15,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -233258,7 +233258,7 @@ let MANGA_DATA = [
     ],
     "description": "Campus Favorite Goh Hae-ju was a perfectly ordinary twenty-year-old, possessing perhaps just a little more curiosity than the average girl her age. However, upon entering university, she falls in with a crowd of wild, deeply promiscuous friends. Growing up, the elders always warned her about the vital importance of choosing her companions wisely. As it turns out, that old advice was entirely right—from the moment she joins their circle, Hae-ju’s life spirals in a completely unprecedented direction. Her descent begins disastrously when she loses her virginity to none other than her own friend’s",
     "descriptionPt": "",
-    "chaptersCount": 9,
+    "chaptersCount": 12,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -258435,30 +258435,6 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
-  },
-  {
-    "id": "a-pervert-s-daily-life",
-    "slug": "a-pervert-s-daily-life",
-    "title": "A Pervert’s Daily Life",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/a-perverts-daily-life-01-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/a-perverts-daily-life-01-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adult"
-    ],
-    "description": "Let’s just say Jinwoo and Seyoung got off to a rocky start. Not knowing Seyoung would be living in a company dorm with a male employee, her direct superior at",
-    "descriptionEn": "Let’s just say Jinwoo and Seyoung got off to a rocky start. Not knowing Seyoung would be living in a company dorm with a male employee, her direct superior at",
-    "chaptersCount": 144,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
   },
   {
     "id": "the-emperors-sword",

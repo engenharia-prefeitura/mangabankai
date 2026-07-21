@@ -86188,31 +86188,6 @@ let MANGA_DATA = [
     "source": "hentai20"
   },
   {
-    "id": "the-island-s-naughty-teacher",
-    "slug": "the-island-s-naughty-teacher",
-    "title": "The Island’s Naughty Teacher",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2026/04/the-islands-naughty-teacher-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2026/04/the-islands-naughty-teacher-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Mystery",
-      "Adult"
-    ],
-    "description": "On the remote island of Beomhae, Se-ju has spent years loathing the suffocating traditions of her home. As she becomes entangled with a man harboring a dark",
-    "descriptionEn": "On the remote island of Beomhae, Se-ju has spent years loathing the suffocating traditions of her home. As she becomes entangled with a man harboring a dark",
-    "chaptersCount": 26,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "the-key-to-my-body",
     "slug": "the-key-to-my-body",
     "title": "The Key to my Body",
@@ -98691,7 +98666,7 @@ let MANGA_DATA = [
     ],
     "description": "My Sweet Psycho Baby (Uncensored) Heedo, fragile yet dangerously obsessive, locks debt collector Woorak in his basement after a violent outburst. Demanding affection, Heedo blurs love and desperation. As captive Woorak’s defenses crumble, obsession and tenderness twist their bond until the line between captor and captive vanishes.",
     "descriptionPt": "",
-    "chaptersCount": 36,
+    "chaptersCount": 38,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207302,7 +207277,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Mansão Que aguarda A Primavera, um manhwa em português.",
     "descriptionPt": "Leia A Mansão Que aguarda A Primavera, um manhwa em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232087,7 +232062,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Estou em um Relacionamento Secreto com o Imperador, mas Não fazia Ideia, um manhwa em português.",
     "descriptionPt": "Leia Estou em um Relacionamento Secreto com o Imperador, mas Não fazia Ideia, um manhwa em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232481,7 +232456,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Superação do Nobre Vagabundo, um manhwa em português.",
     "descriptionPt": "Leia A Superação do Nobre Vagabundo, um manhwa em português.",
-    "chaptersCount": 150,
+    "chaptersCount": 151,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249598,7 +249573,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromante: Rei dos Mortos, um manhua em português.",
     "descriptionPt": "Leia Necromante: Rei dos Mortos, um manhua em português.",
-    "chaptersCount": 288,
+    "chaptersCount": 289,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250587,7 +250562,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-esposa-que-esperou-no-campo-de-trigo online em português.",
     "descriptionPt": "Leia a-esposa-que-esperou-no-campo-de-trigo online em português.",
-    "chaptersCount": 20,
+    "chaptersCount": 21,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251743,7 +251718,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Jardim de Maio, um manhwa em português.",
     "descriptionPt": "Leia Jardim de Maio, um manhwa em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251875,7 +251850,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Evolução Infinita: Começando do Zero, um manhua em português.",
     "descriptionPt": "Leia Evolução Infinita: Começando do Zero, um manhua em português.",
-    "chaptersCount": 108,
+    "chaptersCount": 110,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251952,7 +251927,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei Um Homem Casado Em Outro Mundo, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei Um Homem Casado Em Outro Mundo, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251978,7 +251953,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Matei Um Jogador da Academia, um manhwa em português.",
     "descriptionPt": "Leia Eu Matei Um Jogador da Academia, um manhwa em português.",
-    "chaptersCount": 133,
+    "chaptersCount": 134,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252591,7 +252566,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Caminho de Encontrar a Mamãe, um manhwa em português.",
     "descriptionPt": "Leia A Caminho de Encontrar a Mamãe, um manhwa em português.",
-    "chaptersCount": 53,
+    "chaptersCount": 54,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253278,7 +253253,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Estilo de Vida de um Imortal, um manhwa em português.",
     "descriptionPt": "Leia O Estilo de Vida de um Imortal, um manhwa em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 23,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254394,7 +254369,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Flutuando na Minha Mente, um manhwa em português.",
     "descriptionPt": "Leia Flutuando na Minha Mente, um manhwa em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 23,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256018,7 +255993,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Fingi Estar Grávida, Mas Meu Marido Voltou, um manhwa em português.",
     "descriptionPt": "Leia Fingi Estar Grávida, Mas Meu Marido Voltou, um manhwa em português.",
-    "chaptersCount": 11,
+    "chaptersCount": 12,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256041,7 +256016,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Amor:Zero, um manhwa em português.",
     "descriptionPt": "Leia Amor:Zero, um manhwa em português.",
-    "chaptersCount": 10,
+    "chaptersCount": 14,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258811,7 +258786,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia bai-lijin-entre-mortais online em português.",
     "descriptionPt": "Leia bai-lijin-entre-mortais online em português.",
-    "chaptersCount": 15,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258837,6 +258812,94 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "a-duquesa-fantasma",
+    "slug": "a-duquesa-fantasma",
+    "title": "A Duquesa Fantasma",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-duquesa-fantasma/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-duquesa-fantasma/cover-md.webp",
+    "author": "KAZZEN",
+    "artist": "KAZZEN",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Fantasia",
+      "Romance",
+      "Historico",
+      "Josei",
+      "Vingança"
+    ],
+    "description": "Leia A Duquesa Fantasma, um manhwa em português.",
+    "descriptionPt": "Leia A Duquesa Fantasma, um manhwa em português.",
+    "chaptersCount": 30,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "como-curar-o-fragil-amigo-de-infancia",
+    "slug": "como-curar-o-fragil-amigo-de-infancia",
+    "title": "Como Curar o Frágil Amigo de Infância",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/como-curar-o-fragil-amigo-de-infancia/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/como-curar-o-fragil-amigo-de-infancia/cover-md.webp",
+    "author": "Lee So-Yoon",
+    "artist": "Lee So-Yoon",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Fantasia",
+      "Romance",
+      "Historico",
+      "Magia",
+      "Adulto",
+      "Manhwa",
+      "Amigos de Infância",
+      "Conto"
+    ],
+    "description": "Leia Como Curar o Frágil Amigo de Infância, um manhwa em português.",
+    "descriptionPt": "Leia Como Curar o Frágil Amigo de Infância, um manhwa em português.",
+    "chaptersCount": 11,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "mangadistrict-the-islands-naughty-teacher",
+    "slug": "the-islands-naughty-teacher",
+    "title": "The Island’s Naughty Teacher",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/the-islands-naughty-teacher-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/the-islands-naughty-teacher-official.webp",
+    "author": "GRilla",
+    "artist": "TOOBA",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 0,
+    "genres": [
+      "Borderline H",
+      "Drama",
+      "Explicit Sex",
+      "Full Color",
+      "Manhwa",
+      "Mystery",
+      "Romance",
+      "Smut",
+      "Webtoons",
+      "Hentai"
+    ],
+    "description": "The Island’s Naughty Teacher On the remote island of Beomhae, Se-ju has spent years loathing the suffocating traditions of her home. As she becomes entangled with a man harboring a dark secret, the island she once considered a prison becomes the backdrop for a perilous affair. In a place where secrets are buried as deep as the sea, she must decide if he is her ticket to freedom or a beautiful trap.",
+    "descriptionPt": "",
+    "chaptersCount": 27,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
   }
 ];
 
@@ -258961,7 +259024,7 @@ function filterManga(opts) {
   return results;
 }
 
-const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Esporte","Esportes","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gyaru","Harem","Harém","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Horrow","Idol","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","One Shot","Outros gêneros","Parody Anime","Person in a Strange World","Police","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vampiro","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Yuri","Zombies","Zoofilia"];
+const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Conto","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Esporte","Esportes","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gyaru","Harem","Harém","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Horrow","Idol","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","One Shot","Outros gêneros","Parody Anime","Person in a Strange World","Police","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vampiro","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Yuri","Zombies","Zoofilia"];
 
 var ADULT_GENRE_KW = ['hentai','adulto','adult','+18','18+','nsfw','ecchi','smut','mature','maduro','erotic','erótic','erotica','bdsm','futanari','loli','shota','inces','tentacul','tentácul','zoofilia','obsceno','sem censura','uncensor','censura','nudez','nudity','sexual','sexo','mindbreak','ahegao','netorare','fetich','fetish','omegaverse','vanilla','borderline h'];
 function isAdultGenre(g) {

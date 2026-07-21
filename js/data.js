@@ -258329,7 +258329,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Ascensão da Cobra Imortal, um manhua em português.",
     "descriptionPt": "Leia A Ascensão da Cobra Imortal, um manhua em português.",
-    "chaptersCount": 95,
+    "chaptersCount": 96,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

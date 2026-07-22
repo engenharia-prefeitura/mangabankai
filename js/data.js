@@ -94890,7 +94890,7 @@ let MANGA_DATA = [
     ],
     "description": "Sunny Snow Flurries Gaeji is a humble maid with one duty: do whatever is necessary to survive. When her mistress is dragged away on charges of treason, Gaeji is forced into a desperate gamble to marry Yeonsu, the Grand Prince’s son, in her master’s place. The charade was supposed to end quietly. But when Yeonsu’s political coup succeeds, he is crowned as the nation’s new Crown Prince and Gaeji is accidentally thrust onto the throne as the Crown Princess. Now, she is trapped in the center of the royal court with her true identity hanging by a thread. In a palace of lethal secrets, Gaeji must na",
     "descriptionPt": "",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -232282,7 +232282,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Depois que o Herói Me Tirou Tudo, Formei um Grupo com a Mãe Dele!, um mangá em português.",
     "descriptionPt": "Leia Depois que o Herói Me Tirou Tudo, Formei um Grupo com a Mãe Dele!, um mangá em português.",
-    "chaptersCount": 21,
+    "chaptersCount": 22,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232973,7 +232973,7 @@ let MANGA_DATA = [
     ],
     "description": "Building My Roster Following an intense session of physical intimacy, Dojun is blindsided by a statement from his girlfriend that defies all logic and expectation. Instead of the usual post-coital whispers, she drops a bombshell that leaves him reeling in shock: “Babe, have you ever thought about getting a fuck-buddy?” Far from being a test or a trick, it turns out to be the opening act of an extraordinary “Harem Project” specifically designed to handle her boyfriend’s inexhaustible stamina and high libido. The ambitious goal is set: seven different women to fill every single day of the week, ",
     "descriptionPt": "",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -250344,7 +250344,7 @@ let MANGA_DATA = [
     ],
     "description": "A Crown of Thorns (Uncensored) Park Taewon never expected to fall in love with an alpha, let alone one twice divorced with a teenage son. But when tragedy strikes, Taewon finds himself alone with that son, Ahn Sangwoo, a boy he never managed to understand. Then Sangwoo starts getting closer. Too close. And when Taewon unexpectedly presents as an omega, what was once grief and confusion curdles into something far more dangerous. Now entangled in a bond steeped in grief and sin, Taewon is consumed by guilt he cannot confess, and a craving he cannot cleanse. Some attachments aren’t born of love… ",
     "descriptionPt": "",
-    "chaptersCount": 36,
+    "chaptersCount": 37,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -259351,6 +259351,68 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "que-tipo-de-bolinho-de-arroz-e-esse",
+    "slug": "que-tipo-de-bolinho-de-arroz-e-esse",
+    "title": "Que tipo de Bolinho de Arroz é esse?",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/que-tipo-de-bolinho-de-arroz-e-esse/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/que-tipo-de-bolinho-de-arroz-e-esse/cover-md.webp",
+    "author": "xBakdam",
+    "artist": "xBakdam",
+    "status": "ongoing",
+    "year": 2022,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Comedia",
+      "Romance",
+      "Slice of Life",
+      "Manhwa",
+      "Escolar"
+    ],
+    "description": "Leia Que tipo de Bolinho de Arroz é esse?, um manhwa em português.",
+    "descriptionPt": "Leia Que tipo de Bolinho de Arroz é esse?, um manhwa em português.",
+    "chaptersCount": 92,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "registros-eroticos-da-dinastia-joseon",
+    "slug": "registros-eroticos-da-dinastia-joseon",
+    "title": "Registros Eróticos da Dinastia Joseon",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/registros-eroticos-da-dinastia-joseon/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/registros-eroticos-da-dinastia-joseon/cover-md.webp",
+    "author": "Eunji",
+    "artist": "Eunji",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 7,
+    "genres": [
+      "Comedia",
+      "Romance",
+      "Historico",
+      "Josei",
+      "Adulto",
+      "Isekai",
+      "Smut",
+      "+18",
+      "Manhwa",
+      "Vingança",
+      "Harém Reverso",
+      "Erótico",
+      "Younger Man",
+      "Older Woman"
+    ],
+    "description": "Leia Registros Eróticos da Dinastia Joseon, um manhwa em português.",
+    "descriptionPt": "Leia Registros Eróticos da Dinastia Joseon, um manhwa em português.",
+    "chaptersCount": 54,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 
@@ -259475,7 +259537,7 @@ function filterManga(opts) {
   return results;
 }
 
-const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Conto","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Esporte","Esportes","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gyaru","Harem","Harém","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Horrow","Idol","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","One Shot","Outros gêneros","Parody Anime","Person in a Strange World","Police","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vampiro","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Yuri","Zombies","Zoofilia"];
+const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Conto","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Esporte","Esportes","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gyaru","Harem","Harém","Harém Reverso","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Horrow","Idol","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","Older Woman","One Shot","Outros gêneros","Parody Anime","Person in a Strange World","Police","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vampiro","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Younger Man","Yuri","Zombies","Zoofilia"];
 
 var ADULT_GENRE_KW = ['hentai','adulto','adult','+18','18+','nsfw','ecchi','smut','mature','maduro','erotic','erótic','erotica','bdsm','futanari','loli','shota','inces','tentacul','tentácul','zoofilia','obsceno','sem censura','uncensor','censura','nudez','nudity','sexual','sexo','mindbreak','ahegao','netorare','fetich','fetish','omegaverse','vanilla','borderline h'];
 function isAdultGenre(g) {

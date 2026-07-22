@@ -4600,7 +4600,7 @@ let MANGA_DATA = [
       "Slice Of Life"
     ],
     "description": "The ace government operative codenamed  has gone through his days on covert missions, just for the fantasy of a superior world. Yet, at some point, he gets an especially troublesome new request from direction. For his strategic, must frame a transitory family and start another life?! A Spy/Action/Comedy around a unique family!",
-    "chaptersCount": 175,
+    "chaptersCount": 176,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -55296,7 +55296,7 @@ let MANGA_DATA = [
       "Manga"
     ],
     "description": "Leia Sakamoto Days online no MangaSurge.",
-    "chaptersCount": 268,
+    "chaptersCount": 269,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -55384,7 +55384,7 @@ let MANGA_DATA = [
       "Manga"
     ],
     "description": "Leia Boruto Two Blue Vortex online no MangaSurge.",
-    "chaptersCount": 0,
+    "chaptersCount": 36,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -100238,7 +100238,7 @@ let MANGA_DATA = [
     ],
     "description": "Single Room Bongseo and his mom’s friend, Miran, a single mother, are instantly attracted to each other,and so begins their risky, clandestine affair.",
     "descriptionPt": "",
-    "chaptersCount": 41,
+    "chaptersCount": 42,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207893,7 +207893,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Me Escolhe!, um manhwa em português.",
     "descriptionPt": "Leia Me Escolhe!, um manhwa em português.",
-    "chaptersCount": 210,
+    "chaptersCount": 211,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251269,7 +251269,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Taming of the Tyrant, um manhwa em português.",
     "descriptionPt": "Leia The Taming of the Tyrant, um manhwa em português.",
-    "chaptersCount": 132,
+    "chaptersCount": 133,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

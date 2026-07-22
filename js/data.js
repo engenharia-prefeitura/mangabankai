@@ -94537,7 +94537,7 @@ let MANGA_DATA = [
     ],
     "description": "CHATTERBOX Seowu survives by selling information, living every day on edge. One day, a suspiciously friendly operative who leads with emotion instead of caution shows up at his door. Yijin is clearly dangerous, probably even from a rival organization. And yet… they talk far too easily. Between a high-strung informant and a disarmingly open operative, a risky connection forms… Is this pull part of the mission, or something dangerously real?",
     "descriptionPt": "",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -99074,7 +99074,7 @@ let MANGA_DATA = [
     ],
     "description": "Change Days “What do you mean ‘go to college and you’ll finally get a girlfriend’?!” After gathering every ounce of courage to confess his love at the freshman retreat, he ended up getting slapped hard right in front of the entire student body. Desperate and utterly humiliated, his final wish was simple: Man, I just want to be born again! A freak accident suddenly swaps his soul with the school’s most popular, effortlessly handsome guy on campus. The wildest part? He doesn’t even have to lift a finger, yet classmates, underclassmen, and even a female professor are suddenly throwing themselves ",
     "descriptionPt": "",
-    "chaptersCount": 9,
+    "chaptersCount": 12,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -230166,7 +230166,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Olá, Griffin, o pássaro Fofinho!, um manhwa em português.",
     "descriptionPt": "Leia Olá, Griffin, o pássaro Fofinho!, um manhwa em português.",
-    "chaptersCount": 57,
+    "chaptersCount": 59,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251075,7 +251075,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Violeta Florescendo No Jardim Dos Fundos, um manhwa em português.",
     "descriptionPt": "Leia A Violeta Florescendo No Jardim Dos Fundos, um manhwa em português.",
-    "chaptersCount": 98,
+    "chaptersCount": 101,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255482,7 +255482,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Chore, Melhor Ainda se Implorar, um manhwa em português.",
     "descriptionPt": "Leia Chore, Melhor Ainda se Implorar, um manhwa em português.",
-    "chaptersCount": 77,
+    "chaptersCount": 78,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257444,7 +257444,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia #Meu Primeiro Amor, um manhwa em português.",
     "descriptionPt": "Leia #Meu Primeiro Amor, um manhwa em português.",
-    "chaptersCount": 1,
+    "chaptersCount": 10,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258577,7 +258577,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Querido, Por Que Não Nos Divorciamos?, um manhwa em português.",
     "descriptionPt": "Leia Querido, Por Que Não Nos Divorciamos?, um manhwa em português.",
-    "chaptersCount": 61,
+    "chaptersCount": 67,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258694,7 +258694,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia bai-lijin-entre-mortais online em português.",
     "descriptionPt": "Leia bai-lijin-entre-mortais online em português.",
-    "chaptersCount": 46,
+    "chaptersCount": 63,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

@@ -61094,7 +61094,7 @@ let MANGA_DATA = [
     ],
     "description": "“Did you get this big because of me…?”",
     "descriptionEn": "“Did you get this big because of me…?”",
-    "chaptersCount": 66,
+    "chaptersCount": 69,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -94563,7 +94563,7 @@ let MANGA_DATA = [
     ],
     "description": "Bad Apple (Uncensored) As an S-Class agent at the top-secret intel firm Vulture, Adrian “Killy” Rosebarton (Codename: Uno) is the master of seduction, able to charm secrets out of literally anyone regardless of age, gender, or profession. But when he sets his sights on his newest target, Lorenzo “Loren” Stefano, things take a rotten turn. No matter how hard he flirts, Loren just won’t bite – and Uno’s pride (and mission) are about to crumble. If one thing is certain, it’s that this is no ordinary mark. This one’s a bad apple: poisonous if swallowed, impossible to spit out, and dangerously temp",
     "descriptionPt": "",
-    "chaptersCount": 37,
+    "chaptersCount": 38,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -98564,7 +98564,7 @@ let MANGA_DATA = [
     ],
     "description": "Name Me Ángel once served Enzo Lars, heir to the powerful Lars family, as a servant, but he’s now an esper and Enzo is his guide. From the very beginning, Enzo is outlandishly demanding. He wants something personal, intimate, and far beyond protocol. Twisted feelings that should’ve stayed in the past begin to surface again, fueled by power, obsession, and secrets. Behind Enzo’s calculated arrogance lies a dangerous longing, capturing Ángel in a bond he never agreed to and may not be able to escape.",
     "descriptionPt": "",
-    "chaptersCount": 36,
+    "chaptersCount": 39,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207235,7 +207235,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Dama Bebê Controla O Mundo Com Dinheiro, um manhwa em português.",
     "descriptionPt": "Leia A Dama Bebê Controla O Mundo Com Dinheiro, um manhwa em português.",
-    "chaptersCount": 123,
+    "chaptersCount": 124,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207522,7 +207522,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Pérola de Albrecht, um manhwa em português.",
     "descriptionPt": "Leia A Pérola de Albrecht, um manhwa em português.",
-    "chaptersCount": 14,
+    "chaptersCount": 15,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -208023,7 +208023,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Veletric, um manhwa em português.",
     "descriptionPt": "Leia Veletric, um manhwa em português.",
-    "chaptersCount": 386,
+    "chaptersCount": 387,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -208098,7 +208098,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Retorno do Cavaleiro da Morte de Nível Apocalíptico, um manhwa em português.",
     "descriptionPt": "Leia Retorno do Cavaleiro da Morte de Nível Apocalíptico, um manhwa em português.",
-    "chaptersCount": 77,
+    "chaptersCount": 78,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230112,7 +230112,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia F My Ex, um manhwa em português.",
     "descriptionPt": "Leia F My Ex, um manhwa em português.",
-    "chaptersCount": 50,
+    "chaptersCount": 51,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231514,7 +231514,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Ranker, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Ranker, um manhwa em português.",
-    "chaptersCount": 253,
+    "chaptersCount": 254,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231566,7 +231566,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Deus Marcial Pay-to-Win, um manhwa em português.",
     "descriptionPt": "Leia Deus Marcial Pay-to-Win, um manhwa em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 24,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232730,7 +232730,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Privilégio de uma Transmigrante, um manhwa em português.",
     "descriptionPt": "Leia O Privilégio de uma Transmigrante, um manhwa em português.",
-    "chaptersCount": 138,
+    "chaptersCount": 139,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251100,7 +251100,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Milionária Divorciada, um manhwa em português.",
     "descriptionPt": "Leia A Milionária Divorciada, um manhwa em português.",
-    "chaptersCount": 82,
+    "chaptersCount": 85,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251153,7 +251153,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Empregada Secreta do Conde, um manhwa em português.",
     "descriptionPt": "Leia A Empregada Secreta do Conde, um manhwa em português.",
-    "chaptersCount": 88,
+    "chaptersCount": 89,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251537,7 +251537,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Você, Que Será Minha Ruína, um manhwa em português.",
     "descriptionPt": "Leia A Você, Que Será Minha Ruína, um manhwa em português.",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251990,7 +251990,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Recording Hall, um manhwa em português.",
     "descriptionPt": "Leia Recording Hall, um manhwa em português.",
-    "chaptersCount": 132,
+    "chaptersCount": 133,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252789,7 +252789,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mestre Espadachim Criado Pelas Estrelas, um manhwa em português.",
     "descriptionPt": "Leia Mestre Espadachim Criado Pelas Estrelas, um manhwa em português.",
-    "chaptersCount": 129,
+    "chaptersCount": 130,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252814,7 +252814,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Melhor Homem no Comando, um manhwa em português.",
     "descriptionPt": "Leia O Melhor Homem no Comando, um manhwa em português.",
-    "chaptersCount": 197,
+    "chaptersCount": 198,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252866,7 +252866,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Campo Esquecido, um manhwa em português.",
     "descriptionPt": "Leia O Campo Esquecido, um manhwa em português.",
-    "chaptersCount": 28,
+    "chaptersCount": 29,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253155,7 +253155,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Knight King Who Returned with a God, um manhwa em português.",
     "descriptionPt": "Leia The Knight King Who Returned with a God, um manhwa em português.",
-    "chaptersCount": 173,
+    "chaptersCount": 174,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254454,7 +254454,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Demônio Supremo do Veneno, um manhwa em português.",
     "descriptionPt": "Leia O Demônio Supremo do Veneno, um manhwa em português.",
-    "chaptersCount": 26,
+    "chaptersCount": 27,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254480,7 +254480,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Desejos Bestiais, um manhwa em português.",
     "descriptionPt": "Leia Desejos Bestiais, um manhwa em português.",
-    "chaptersCount": 73,
+    "chaptersCount": 74,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255654,7 +255654,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Gosto dos Bonitões!, um manhwa em português.",
     "descriptionPt": "Leia Eu Gosto dos Bonitões!, um manhwa em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255946,7 +255946,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Amor:Zero, um manhwa em português.",
     "descriptionPt": "Leia Amor:Zero, um manhwa em português.",
-    "chaptersCount": 14,
+    "chaptersCount": 15,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256442,7 +256442,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Martial God who Regressed to Level 2, um manhwa em português.",
     "descriptionPt": "Leia The Martial God who Regressed to Level 2, um manhwa em português.",
-    "chaptersCount": 124,
+    "chaptersCount": 125,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257705,7 +257705,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Vou me divorciar do irmão siscon da protagonista, um manhwa em português.",
     "descriptionPt": "Leia Vou me divorciar do irmão siscon da protagonista, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258201,7 +258201,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vilã Maldita Retorna, um manhwa em português.",
     "descriptionPt": "Leia A Vilã Maldita Retorna, um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 4,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259166,7 +259166,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Doppio Senso, um manhwa em português.",
     "descriptionPt": "Leia Doppio Senso, um manhwa em português.",
-    "chaptersCount": 67,
+    "chaptersCount": 68,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259273,6 +259273,84 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "records-of-the-martial-gods-return",
+    "slug": "records-of-the-martial-gods-return",
+    "title": "Records of the Martial God’s Return",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/records-of-the-martial-gods-return/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/records-of-the-martial-gods-return/cover-md.webp",
+    "author": "Myosu",
+    "artist": "Myosu",
+    "status": "ongoing",
+    "year": 2022,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shounen",
+      "Fantasia",
+      "Sobrenatural",
+      "Aventura",
+      "Manhwa"
+    ],
+    "description": "Leia Records of the Martial God’s Return, um manhwa em português.",
+    "descriptionPt": "Leia Records of the Martial God’s Return, um manhwa em português.",
+    "chaptersCount": 167,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "eu-sou-a-espia-de-5-anos-que-sequestrou-o-vilao",
+    "slug": "eu-sou-a-espia-de-5-anos-que-sequestrou-o-vilao",
+    "title": "Eu Sou a Espiã de 5 Anos Que Sequestrou o Vilão",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/eu-sou-a-espia-de-5-anos-que-sequestrou-o-vilao/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/eu-sou-a-espia-de-5-anos-que-sequestrou-o-vilao/cover-md.webp",
+    "author": "Geumdae",
+    "artist": "Geumdae",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Ação",
+      "Fantasia",
+      "Magia",
+      "Manhwa",
+      "Transmigração"
+    ],
+    "description": "Leia Eu Sou a Espiã de 5 Anos Que Sequestrou o Vilão, um manhwa em português.",
+    "descriptionPt": "Leia Eu Sou a Espiã de 5 Anos Que Sequestrou o Vilão, um manhwa em português.",
+    "chaptersCount": 11,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "a-pervert-s-daily-life",
+    "slug": "a-pervert-s-daily-life",
+    "title": "A Pervert’s Daily Life",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2024/08/a-perverts-daily-life-01-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2024/08/a-perverts-daily-life-01-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult"
+    ],
+    "description": "Let’s just say Jinwoo and Seyoung got off to a rocky start. Not knowing Seyoung would be living in a company dorm with a male employee, her direct superior at",
+    "descriptionEn": "Let’s just say Jinwoo and Seyoung got off to a rocky start. Not knowing Seyoung would be living in a company dorm with a male employee, her direct superior at",
+    "chaptersCount": 144,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

@@ -99982,7 +99982,7 @@ let MANGA_DATA = [
     ],
     "description": "Dating After Work (Uncensored) Adam’s fake relationship with his boss was supposed to be mutually beneficial, so why is he so stressed out?",
     "descriptionPt": "",
-    "chaptersCount": 64,
+    "chaptersCount": 65,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

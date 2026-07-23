@@ -386,7 +386,7 @@
       "id": "mangadistrict-sinfully-sweet-ch-9",
       "number": "9",
       "title": "Chapter 9",
-      "date": "2026-07-11",
+      "date": "2026-07-23",
       "pages": [],
       "src": "mangadistrict",
       "chapterUrl": "https://mangadistrict.com/series/sinfully-sweet/chapter-9/"
@@ -395,10 +395,19 @@
       "id": "mangadistrict-sinfully-sweet-ch-10",
       "number": "10",
       "title": "Chapter 10",
-      "date": "2026-07-11",
+      "date": "2026-07-23",
       "pages": [],
       "src": "mangadistrict",
       "chapterUrl": "https://mangadistrict.com/series/sinfully-sweet/chapter-10/"
+    },
+    {
+      "id": "mangadistrict-sinfully-sweet-ch-11",
+      "number": "11",
+      "title": "Chapter 11",
+      "date": "2026-07-23",
+      "pages": [],
+      "src": "mangadistrict",
+      "chapterUrl": "https://mangadistrict.com/series/sinfully-sweet/chapter-11/"
     }
   ]
 }

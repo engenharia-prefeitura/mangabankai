@@ -93080,7 +93080,7 @@ let MANGA_DATA = [
     ],
     "description": "Glorious Return (Official) “He slept with his next door neighbor’s wife whenever he went away on a business trip” A small town near Seoul that our family used to live in was a welcoming place. At least that’s what I thought until the people of the town revealed their true faces. Our family was driven out of town due to their devious planning, but now that I’ve gained power, I will make my glorious return.",
     "descriptionPt": "",
-    "chaptersCount": 39,
+    "chaptersCount": 40,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -95917,7 +95917,7 @@ let MANGA_DATA = [
     ],
     "description": "Return of the SSS-Class Ranker Rokan was the ‘King of Violence’ who reigned as the strongest in the virtual reality game, ‘The Lord’. Unfortunately, the assassination order issued by an enemy guild caused him to lose everything. To his surprise, the next time he woke up, he had returned back to three years ago! “Fucking brats, just you wait. I’ll devour you all!” A new story begins as Rokan, who travelled back in time, climbs his way back to the top!",
     "descriptionPt": "",
-    "chaptersCount": 199,
+    "chaptersCount": 200,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207553,7 +207553,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Descobri Que o Homem de Uma Noite Era Meu Noivo, um manhwa em português.",
     "descriptionPt": "Leia Descobri Que o Homem de Uma Noite Era Meu Noivo, um manhwa em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207579,7 +207579,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Me Tornei A Líder De Um Girl Group Amaldiçoado, um manhwa em português.",
     "descriptionPt": "Leia Me Tornei A Líder De Um Girl Group Amaldiçoado, um manhwa em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207631,7 +207631,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Esse Amor Obsessivo Vai Além do Sangue, um manhwa em português.",
     "descriptionPt": "Leia Esse Amor Obsessivo Vai Além do Sangue, um manhwa em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232257,7 +232257,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Jogo do Ferreiro Genial, um manhwa em português.",
     "descriptionPt": "Leia O Jogo do Ferreiro Genial, um manhwa em português.",
-    "chaptersCount": 63,
+    "chaptersCount": 64,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -233623,7 +233623,7 @@ let MANGA_DATA = [
     ],
     "description": "Revenge (Geumsan LEE) (Uncensored) “Kwon Jiwook’s monotonous daily life takes an unexpected turn at a club meeting when he becomes drawn to a mysterious new freshman. Captivated by the freshman’s sweet looks, Jiwook tries to approach him, only to be met with a cold and dismissive attitude. Annoyed by the response, Jiwook resolves to teach the freshman a lesson in his own way. However, things take a shocking twist that Jiwook never saw coming. The next morning, Jiwook wakes up covered in someone else’s fluids, staring at an unfamiliar ceiling, only to realize he’s now trapped in an unimaginable",
     "descriptionPt": "",
-    "chaptersCount": 40,
+    "chaptersCount": 41,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -249401,7 +249401,7 @@ let MANGA_DATA = [
     ],
     "description": "A+ for Pleasure She’s the perfect private tutor—smart, beautiful, and willing to offer more than just extra lessons. For her top-scoring students, the reward goes far beyond grades… and once you get a taste, you’ll do anything to stay at the top of the class.",
     "descriptionPt": "",
-    "chaptersCount": 20,
+    "chaptersCount": 21,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -250403,31 +250403,6 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
-  },
-  {
-    "id": "a-for-pleasure",
-    "slug": "a-for-pleasure",
-    "title": "A+ for Pleasure",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2026/05/a-for-pleasure-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2026/05/a-for-pleasure-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adult",
-      "Seinen"
-    ],
-    "description": "She’s the perfect private tutor—smart, beautiful, and willing to offer more than just extra lessons. For her top-scoring students, the reward goes far beyond",
-    "descriptionEn": "She’s the perfect private tutor—smart, beautiful, and willing to offer more than just extra lessons. For her top-scoring students, the reward goes far beyond",
-    "chaptersCount": 18,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
   },
   {
     "id": "a-imperatriz-branco-puro",
@@ -258669,7 +258644,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia bai-lijin-entre-mortais online em português.",
     "descriptionPt": "Leia bai-lijin-entre-mortais online em português.",
-    "chaptersCount": 79,
+    "chaptersCount": 93,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259845,6 +259820,28 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "meu-marido-era-definitivamente-um-paladino",
+    "slug": "meu-marido-era-definitivamente-um-paladino",
+    "title": "meu-marido-era-definitivamente-um-paladino",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/meu-marido-era-definitivamente-um-paladino/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/meu-marido-era-definitivamente-um-paladino/cover-md.webp",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Manga"
+    ],
+    "description": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
+    "descriptionPt": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
+    "chaptersCount": 5,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

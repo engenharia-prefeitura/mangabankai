@@ -92470,7 +92470,7 @@ let MANGA_DATA = [
     ],
     "description": "Mind Control (HO) (Official) Austin gets falsely accused and becomes a loner. One day, he gets to download a mysterious hypnosis app that lets him take revenge on the girls that looked down on him. “I’ll fuck all of you who looked down on me.”",
     "descriptionPt": "",
-    "chaptersCount": 16,
+    "chaptersCount": 18,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -233722,7 +233722,7 @@ let MANGA_DATA = [
     ],
     "description": "Tyrant of the Tower Defense Game “Protect the Empire” was considered unbeatable for over a decade until streamer extraordinaire “Mr. Gamer Geek” comes along and defeats the game on its hardest mode. But just when he’s about to rest on his laurels, he’s sucked into the world of the game by some mysterious figure and thrust into Prince Ash’s body! Ash now realizes that every click and command he had mindlessly sent out had real, gruesome costs – including his teammates’ lives that he sacrificed for the sake of victory. To make up for his previous actions, Ash promises to keep his whole team aliv",
     "descriptionPt": "",
-    "chaptersCount": 184,
+    "chaptersCount": 187,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -254214,7 +254214,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Meu Corpo Foi Possuído por Alguém, um manhwa em português.",
     "descriptionPt": "Leia Meu Corpo Foi Possuído por Alguém, um manhwa em português.",
-    "chaptersCount": 95,
+    "chaptersCount": 96,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256822,31 +256822,6 @@ let MANGA_DATA = [
     "hasEn": false
   },
   {
-    "id": "all-girl-sharehouse",
-    "slug": "all-girl-sharehouse",
-    "title": "All-Girl Sharehouse",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2025/03/all-girl-sharehouse-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2025/03/all-girl-sharehouse-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Seinen",
-      "Adult"
-    ],
-    "description": "After getting into college, Brian goes out clubbing to celebrate his acceptance and hooks up with a drop-dead gorgeous girl, unaware that he’ll soon be living",
-    "descriptionEn": "After getting into college, Brian goes out clubbing to celebrate his acceptance and hooks up with a drop-dead gorgeous girl, unaware that he’ll soon be living",
-    "chaptersCount": 23,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "necromante-de-forca-maxima",
     "slug": "necromante-de-forca-maxima",
     "title": "Necromante de Força Máxima",
@@ -258694,7 +258669,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia bai-lijin-entre-mortais online em português.",
     "descriptionPt": "Leia bai-lijin-entre-mortais online em português.",
-    "chaptersCount": 78,
+    "chaptersCount": 79,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

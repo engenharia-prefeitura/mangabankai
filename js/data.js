@@ -60532,7 +60532,7 @@ let MANGA_DATA = [
     ],
     "description": "Even though I get teased for being short and bullied at work, my house is paradise!!",
     "descriptionEn": "Even though I get teased for being short and bullied at work, my house is paradise!!",
-    "chaptersCount": 102,
+    "chaptersCount": 103,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -60580,7 +60580,7 @@ let MANGA_DATA = [
     ],
     "description": "One day, the dead broke Hoonsang receives a suspicious business card, which grants him a new life in a new city called Bannam-dong, the cheating city, as well",
     "descriptionEn": "One day, the dead broke Hoonsang receives a suspicious business card, which grants him a new life in a new city called Bannam-dong, the cheating city, as well",
-    "chaptersCount": 100,
+    "chaptersCount": 101,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -107985,7 +107985,7 @@ let MANGA_DATA = [
     ],
     "description": "Makikomarete Isekai Teni suru Yatsu wa, Taitei Cheat One day ‘s lunch break, suddenly a male high school student Yuzo Ogata who has been transferred to another world of sword and magic together with four other friends. According to the Princess of Space-Time Magician, a foreign world who summoned them, they want them to beat the Demon Lord as Heroes to save this world. Suddenly I was surprised at four friends “Temple”, but it was a relaxing expression … … where the princess told of a startling fact!” “―There should only be four braves though?” A man who was mistakenly summoned to a different w",
     "descriptionPt": "",
-    "chaptersCount": 101,
+    "chaptersCount": 104,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207814,7 +207814,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Morando com o Romeo, um manhwa em português.",
     "descriptionPt": "Leia Morando com o Romeo, um manhwa em português.",
-    "chaptersCount": 28,
+    "chaptersCount": 29,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231804,7 +231804,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Pirralhinha Corre Selvagemente, um manhwa em português.",
     "descriptionPt": "Leia A Pirralhinha Corre Selvagemente, um manhwa em português.",
-    "chaptersCount": 10,
+    "chaptersCount": 11,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231854,7 +231854,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sob a Flor Caída, um manhwa em português.",
     "descriptionPt": "Leia Sob a Flor Caída, um manhwa em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 33,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232312,7 +232312,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Crônicas da Facção Demoníaca, um manhwa em português.",
     "descriptionPt": "Leia Crônicas da Facção Demoníaca, um manhwa em português.",
-    "chaptersCount": 182,
+    "chaptersCount": 183,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232362,7 +232362,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia de Sobrevivência do Caçador de Bestas Demoníacas, um manhwa em português.",
     "descriptionPt": "Leia Guia de Sobrevivência do Caçador de Bestas Demoníacas, um manhwa em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232830,7 +232830,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Ranker Inigualável, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Ranker Inigualável, um manhwa em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232856,7 +232856,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Me Tornei um Tirano num Jogo de Defesa, um manhwa em português.",
     "descriptionPt": "Leia Me Tornei um Tirano num Jogo de Defesa, um manhwa em português.",
-    "chaptersCount": 189,
+    "chaptersCount": 190,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232884,7 +232884,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Recluso Supremo, um manhwa em português.",
     "descriptionPt": "Leia O Recluso Supremo, um manhwa em português.",
-    "chaptersCount": 89,
+    "chaptersCount": 90,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254134,7 +254134,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Vilão, Eu Farei Tudo por Você Menos me Casar!, um manhwa em português.",
     "descriptionPt": "Leia Vilão, Eu Farei Tudo por Você Menos me Casar!, um manhwa em português.",
-    "chaptersCount": 8,
+    "chaptersCount": 9,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254457,7 +254457,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Desejos Bestiais, um manhwa em português.",
     "descriptionPt": "Leia Desejos Bestiais, um manhwa em português.",
-    "chaptersCount": 74,
+    "chaptersCount": 75,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254510,7 +254510,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ser Uma Vilã Não É Muito Melhor?, um manhwa em português.",
     "descriptionPt": "Leia Ser Uma Vilã Não É Muito Melhor?, um manhwa em português.",
-    "chaptersCount": 93,
+    "chaptersCount": 94,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255681,7 +255681,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Não Perdoe nossos pecados, um manhwa em português.",
     "descriptionPt": "Leia Não Perdoe nossos pecados, um manhwa em português.",
-    "chaptersCount": 3,
+    "chaptersCount": 4,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256091,7 +256091,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Reparação Pela Sua Crueldade, um manhwa em português.",
     "descriptionPt": "Leia Reparação Pela Sua Crueldade, um manhwa em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256345,7 +256345,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O gerente Kim odeia ídolos de K-Pop, um manhwa em português.",
     "descriptionPt": "Leia O gerente Kim odeia ídolos de K-Pop, um manhwa em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258153,7 +258153,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vilã Maldita Retorna, um manhwa em português.",
     "descriptionPt": "Leia A Vilã Maldita Retorna, um manhwa em português.",
-    "chaptersCount": 6,
+    "chaptersCount": 7,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258465,7 +258465,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Who Made Me a Princess, um manhwa em português.",
     "descriptionPt": "Leia Who Made Me a Princess, um manhwa em português.",
-    "chaptersCount": 130,
+    "chaptersCount": 131,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259867,6 +259867,31 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "a-minha-irma-e-a-protagonista",
+    "slug": "a-minha-irma-e-a-protagonista",
+    "title": "A Minha Irmã É A Protagonista",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-minha-irma-e-a-protagonista/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-minha-irma-e-a-protagonista/cover-md.webp",
+    "author": "Moon Sihyun",
+    "artist": "Moon Sihyun",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Manhwa"
+    ],
+    "description": "Leia A Minha Irmã É A Protagonista, um manhwa em português.",
+    "descriptionPt": "Leia A Minha Irmã É A Protagonista, um manhwa em português.",
+    "chaptersCount": 81,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

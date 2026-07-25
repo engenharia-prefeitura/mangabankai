@@ -92538,7 +92538,7 @@ let MANGA_DATA = [
     ],
     "description": "Love Quest (QRQ) (Official) Even at a game company drowning in overtime, these feelings just won’t stay buried! The office life of people who don’t wanna give up neither work nor love. “This is weird. Why can’t I stop thinking of him?”",
     "descriptionPt": "",
-    "chaptersCount": 6,
+    "chaptersCount": 9,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -93810,7 +93810,7 @@ let MANGA_DATA = [
     ],
     "description": "A Dangerous Deal, and the Woman Next Door (Official) “My wife… once she’s naked, it’s really game over…” A glimpse at CCTV footage reveals the neighbor woman – completely nude. Wracked with guilt he shouldn’t feel, Scott is caught off guard when Harry makes a dangerous offer: “Wanna have her? On one condition… Do it right in front of me.”",
     "descriptionPt": "",
-    "chaptersCount": 49,
+    "chaptersCount": 50,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -94749,7 +94749,7 @@ let MANGA_DATA = [
     ],
     "description": "Yes Ma’am (Uncensored) Listless and going nowhere, Jiwoo finds a flicker of purpose during his late-night shifts at the convenience store in regular customer, Juhee, a confident and captivating college student who treats him with unexpected warmth. But what begins as quiet admiration soon turns electric, as Juhee reveals a teasing, dominant side that awakens something deep in both of them. Caught between submission and desire, Jiwoo is about to discover just how sweet it can be to give in.",
     "descriptionPt": "",
-    "chaptersCount": 38,
+    "chaptersCount": 40,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -231883,7 +231883,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Nerd Sinistro, um manhwa em português.",
     "descriptionPt": "Leia O Nerd Sinistro, um manhwa em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 33,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -233003,7 +233003,7 @@ let MANGA_DATA = [
     ],
     "description": "Proceed with Caution (Uncensored) Former kendo prodigy Jaehyeok has lost his way, spiraling far from his golden days. The only person capable of reining him in is Yeongwon, a steadfast police officer with a heart of gold. Though they couldn’t be more different, these single fathers find their back into each other’s lives. As Jaehyuk moves in to learn the ropes of parenting, his Alpha instincts awaken, blurring the lines between duty and desire in a domestic whirlwind romance.",
     "descriptionPt": "",
-    "chaptersCount": 14,
+    "chaptersCount": 16,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -257372,7 +257372,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia #Meu Primeiro Amor, um manhwa em português.",
     "descriptionPt": "Leia #Meu Primeiro Amor, um manhwa em português.",
-    "chaptersCount": 10,
+    "chaptersCount": 11,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258622,7 +258622,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia bai-lijin-entre-mortais online em português.",
     "descriptionPt": "Leia bai-lijin-entre-mortais online em português.",
-    "chaptersCount": 93,
+    "chaptersCount": 108,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259866,7 +259866,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Minha Irmã É A Protagonista, um manhwa em português.",
     "descriptionPt": "Leia A Minha Irmã É A Protagonista, um manhwa em português.",
-    "chaptersCount": 81,
+    "chaptersCount": 84,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260138,6 +260138,28 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "bem-vindo-a-mansao-rose",
+    "slug": "bem-vindo-a-mansao-rose",
+    "title": "bem-vindo-a-mansao-rose",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/bem-vindo-a-mansao-rose/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/bem-vindo-a-mansao-rose/cover-md.webp",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Manga"
+    ],
+    "description": "Leia bem-vindo-a-mansao-rose online em português.",
+    "descriptionPt": "Leia bem-vindo-a-mansao-rose online em português.",
+    "chaptersCount": 1,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

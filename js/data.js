@@ -98487,7 +98487,7 @@ let MANGA_DATA = [
     ],
     "description": "Not Sober (Uncensored) Baek Seongchan is a walking red flag. With his bleached blonde hair, rotating fleet of luxury cars, and drop-dead gorgeous looks, he lives at the center of the campus rumor mill. Everyone whispers about his wild lifestyle, but Yena couldn’t care less about the gossip. She just wants to check a very specific item off her bucket list: losing her virginity. When she asks him to sleep with her just because he’s the best-looking guy around, she flips his world upside down. Seongchan is used to girls chasing him for romance, but he’s never met anyone quite as deadpan and strai",
     "descriptionPt": "",
-    "chaptersCount": 8,
+    "chaptersCount": 11,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

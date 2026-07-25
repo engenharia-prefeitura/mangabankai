@@ -91172,7 +91172,7 @@ let MANGA_DATA = [
     ],
     "description": "The Warrior of Flames (Official) I got reincarnated in another world as an innocent, adorable girl.",
     "descriptionPt": "",
-    "chaptersCount": 29,
+    "chaptersCount": 31,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -255659,7 +255659,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Não Perdoe nossos pecados, um manhwa em português.",
     "descriptionPt": "Leia Não Perdoe nossos pecados, um manhwa em português.",
-    "chaptersCount": 4,
+    "chaptersCount": 5,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258239,7 +258239,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Desejos Vampírico, um manhwa em português.",
     "descriptionPt": "Leia Desejos Vampírico, um manhwa em português.",
-    "chaptersCount": 7,
+    "chaptersCount": 8,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259816,7 +259816,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
     "descriptionPt": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
-    "chaptersCount": 5,
+    "chaptersCount": 8,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

@@ -71,5 +71,29 @@
     { "source": "/api/admin/:action", "destination": "/api/admin?action=:action" },
     { "source": "/api/manga/:action", "destination": "/api/manga?action=:action" },
     { "source": "/api/takedown/:action", "destination": "/api/takedown?action=:action" }
+  ],
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "mangabankai.click"
+        }
+      ],
+      "destination": "https://www.mangabankai.click/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "mangabankai.vercel.app"
+        }
+      ],
+      "destination": "https://www.mangabankai.click/:path*",
+      "permanent": true
+    }
   ]
 }

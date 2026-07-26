@@ -101061,7 +101061,7 @@ let MANGA_DATA = [
     ],
     "description": "The Ex-orcist (Uncensored) Once sorta passionate lovers, Hasol and Jinyul are now nothing more than each other’s “exes.” After completing his mandatory military service and returning to university, Jinyul unexpectedly crosses paths with Hasol on campus. Uncomfortable with the awkward baggage of their shared history, Jinyul does everything in his power to avoid his former flame. However, destiny takes a bizarre and terrifying turn when a malicious ghost—one that had been relentlessly stalking Jinyul—takes complete possession of Hasol’s body. Driven by the spirit’s dark, uninhibited desires, the",
     "descriptionPt": "",
-    "chaptersCount": 13,
+    "chaptersCount": 15,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

@@ -97351,7 +97351,7 @@ let MANGA_DATA = [
     ],
     "description": "Mistress (Official) Sold to the Gwak household as a young boy, Dol-swae grows from being a shy boy to a handsome, sturdy man. He’s not the only one who grew up to be attractive, though. Lady So-hee, who he serves, and Yeo-reum, a fellow servant in the Gwak household, are now gorgeous women. The playful relationships they had together as children are now full of heated tension as they orbit each other. Something much steamier than love is in the air…",
     "descriptionPt": "",
-    "chaptersCount": 186,
+    "chaptersCount": 187,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207471,7 +207471,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Minha ídola favorita pega o ultimo trem, um manhwa em português.",
     "descriptionPt": "Leia Minha ídola favorita pega o ultimo trem, um manhwa em português.",
-    "chaptersCount": 87,
+    "chaptersCount": 88,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231996,7 +231996,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Estou em um Relacionamento Secreto com o Imperador, mas Não fazia Ideia, um manhwa em português.",
     "descriptionPt": "Leia Estou em um Relacionamento Secreto com o Imperador, mas Não fazia Ideia, um manhwa em português.",
-    "chaptersCount": 26,
+    "chaptersCount": 27,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253372,7 +253372,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Príncipe Problemático, um manhwa em português.",
     "descriptionPt": "Leia O Príncipe Problemático, um manhwa em português.",
-    "chaptersCount": 122,
+    "chaptersCount": 124,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255878,7 +255878,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Fingi Estar Grávida, Mas Meu Marido Voltou, um manhwa em português.",
     "descriptionPt": "Leia Fingi Estar Grávida, Mas Meu Marido Voltou, um manhwa em português.",
-    "chaptersCount": 13,
+    "chaptersCount": 14,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258622,7 +258622,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia bai-lijin-entre-mortais online em português.",
     "descriptionPt": "Leia bai-lijin-entre-mortais online em português.",
-    "chaptersCount": 108,
+    "chaptersCount": 123,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260316,7 +260316,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-prodigio-lendario-do-ducado online em português.",
     "descriptionPt": "Leia o-prodigio-lendario-do-ducado online em português.",
-    "chaptersCount": 44,
+    "chaptersCount": 59,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260338,7 +260338,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-retorno-do-espadachim-negro online em português.",
     "descriptionPt": "Leia o-retorno-do-espadachim-negro online em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 59,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260360,7 +260360,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia reencarnacao-do-deus-dos-punhos online em português.",
     "descriptionPt": "Leia reencarnacao-do-deus-dos-punhos online em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 62,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260382,7 +260382,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-mundo-arruinado-foi-confundido-com-um-jogo online em português.",
     "descriptionPt": "Leia o-mundo-arruinado-foi-confundido-com-um-jogo online em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

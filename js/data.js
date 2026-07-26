@@ -99951,7 +99951,7 @@ let MANGA_DATA = [
     ],
     "description": "Fatal Lessons in this Pandemic (Uncensored) Jason, who’s shy when it comes to girls, has to tutor a curious little girl. Little does he know that he’ll be teaching her some other things too.",
     "descriptionPt": "",
-    "chaptersCount": 17,
+    "chaptersCount": 20,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -100678,7 +100678,7 @@ let MANGA_DATA = [
     ],
     "description": "Draco-Knight Commander The moment he was about to die, Axel was transported to another world where he is the long-awaited half-dragon.",
     "descriptionPt": "",
-    "chaptersCount": 90,
+    "chaptersCount": 93,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -232473,7 +232473,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Vou Embora Por Te Amar, um manhwa em português.",
     "descriptionPt": "Leia Vou Embora Por Te Amar, um manhwa em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251601,7 +251601,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Cuidado com a Vilã!, um manhwa em português.",
     "descriptionPt": "Leia Cuidado com a Vilã!, um manhwa em português.",
-    "chaptersCount": 135,
+    "chaptersCount": 136,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254798,7 +254798,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia retorno-de-10000-vezes-irma-senior-por-favor-comporte-se online em português.",
     "descriptionPt": "Leia retorno-de-10000-vezes-irma-senior-por-favor-comporte-se online em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259121,7 +259121,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Teto x Egen: Vizinhos por Acaso, um manhwa em português.",
     "descriptionPt": "Leia Teto x Egen: Vizinhos por Acaso, um manhwa em português.",
-    "chaptersCount": 12,
+    "chaptersCount": 14,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

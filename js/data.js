@@ -95389,7 +95389,7 @@ let MANGA_DATA = [
     ],
     "description": "Villain to Kill “You must become the greater evil to fight against the real evil!” Cassian dies after being framed for the murder of a comrade. Just when he thought it was all over for him, his soul is transferred into a young boy… A popular, top-class Psyker who was everyone’s envy turns into a Villain overnight!",
     "descriptionPt": "",
-    "chaptersCount": 243,
+    "chaptersCount": 244,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -95484,7 +95484,7 @@ let MANGA_DATA = [
     "descriptionPt": "",
     "chaptersCount": 172,
     "lang": "en",
-    "hasPt": false,
+    "hasPt": true,
     "hasEn": true,
     "source": "mangadistrict"
   },
@@ -232049,7 +232049,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Homens do Harém, um manhwa em português.",
     "descriptionPt": "Leia Homens do Harém, um manhwa em português.",
-    "chaptersCount": 90,
+    "chaptersCount": 92,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232074,7 +232074,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Flor que Desabrochou sob uma Nuvem, um manhwa em português.",
     "descriptionPt": "Leia A Flor que Desabrochou sob uma Nuvem, um manhwa em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 23,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232154,7 +232154,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Pano e Adaga, um manhwa em português.",
     "descriptionPt": "Leia Pano e Adaga, um manhwa em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 23,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232606,7 +232606,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Providência de Alto Nível, um manhua em português.",
     "descriptionPt": "Leia Providência de Alto Nível, um manhua em português.",
-    "chaptersCount": 277,
+    "chaptersCount": 278,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232709,7 +232709,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Non Tua, um manhwa em português.",
     "descriptionPt": "Leia Non Tua, um manhwa em português.",
-    "chaptersCount": 4,
+    "chaptersCount": 6,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249692,7 +249692,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Flores São Iscas, um manhwa em português.",
     "descriptionPt": "Leia Flores São Iscas, um manhwa em português.",
-    "chaptersCount": 55,
+    "chaptersCount": 56,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250520,7 +250520,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Pelas Deusas, um manhwa em português.",
     "descriptionPt": "Leia Pelas Deusas, um manhwa em português.",
-    "chaptersCount": 48,
+    "chaptersCount": 49,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250682,7 +250682,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Regressor Faz Tudo, um manhwa em português.",
     "descriptionPt": "Leia O Regressor Faz Tudo, um manhwa em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250736,7 +250736,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Crônicas do Soberano Preguiçoso, um manhwa em português.",
     "descriptionPt": "Leia Crônicas do Soberano Preguiçoso, um manhwa em português.",
-    "chaptersCount": 56,
+    "chaptersCount": 57,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250842,7 +250842,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Princesa Vai á Escola, um manhwa em português.",
     "descriptionPt": "Leia A Princesa Vai á Escola, um manhwa em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 33,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253505,7 +253505,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Diário de Sobrevivência de um Mordomo no Castelo do Duque, um manhwa em português.",
     "descriptionPt": "Leia O Diário de Sobrevivência de um Mordomo no Castelo do Duque, um manhwa em português.",
-    "chaptersCount": 38,
+    "chaptersCount": 39,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254407,7 +254407,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Filho Adotivo em um Mundo de Supremacia de Linhagem, um mangá em português.",
     "descriptionPt": "Leia O Retorno do Filho Adotivo em um Mundo de Supremacia de Linhagem, um mangá em português.",
-    "chaptersCount": 44,
+    "chaptersCount": 45,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255171,7 +255171,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Love 4 a Walk, um webtoon em português.",
     "descriptionPt": "Leia Love 4 a Walk, um webtoon em português.",
-    "chaptersCount": 64,
+    "chaptersCount": 65,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255224,7 +255224,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Um Guia Para um Amor Verdadeiro, um manhwa em português.",
     "descriptionPt": "Leia Um Guia Para um Amor Verdadeiro, um manhwa em português.",
-    "chaptersCount": 45,
+    "chaptersCount": 46,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255878,7 +255878,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Fingi Estar Grávida, Mas Meu Marido Voltou, um manhwa em português.",
     "descriptionPt": "Leia Fingi Estar Grávida, Mas Meu Marido Voltou, um manhwa em português.",
-    "chaptersCount": 12,
+    "chaptersCount": 13,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256372,7 +256372,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia I Adopted a Villainous Dad, um manhwa em português.",
     "descriptionPt": "Leia I Adopted a Villainous Dad, um manhwa em português.",
-    "chaptersCount": 83,
+    "chaptersCount": 85,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256579,7 +256579,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
     "descriptionPt": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
-    "chaptersCount": 36,
+    "chaptersCount": 37,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257480,7 +257480,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dépaysement, um manhwa em português.",
     "descriptionPt": "Leia Dépaysement, um manhwa em português.",
-    "chaptersCount": 11,
+    "chaptersCount": 15,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258106,7 +258106,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Tenha um Caso Comigo, um manhwa em português.",
     "descriptionPt": "Leia Tenha um Caso Comigo, um manhwa em português.",
-    "chaptersCount": 15,
+    "chaptersCount": 16,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258184,7 +258184,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Swordmaster’s Youngest Son, um manhwa em português.",
     "descriptionPt": "Leia Swordmaster’s Youngest Son, um manhwa em português.",
-    "chaptersCount": 203,
+    "chaptersCount": 204,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259540,7 +259540,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Come alguma coisa antes de ir, um manhwa em português.",
     "descriptionPt": "Leia Come alguma coisa antes de ir, um manhwa em português.",
-    "chaptersCount": 61,
+    "chaptersCount": 65,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260242,6 +260242,62 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "o-cavalo-palido",
+    "slug": "o-cavalo-palido",
+    "title": "O Cavalo Pálido",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/o-cavalo-palido/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/o-cavalo-palido/cover-md.webp",
+    "author": "CHOO Hye Yeon",
+    "artist": "CHOO Hye Yeon",
+    "status": "ongoing",
+    "year": 2011,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Historico",
+      "Josei",
+      "Maduro",
+      "Manhwa"
+    ],
+    "description": "Leia O Cavalo Pálido, um manhwa em português.",
+    "descriptionPt": "Leia O Cavalo Pálido, um manhwa em português.",
+    "chaptersCount": 8,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "doentia-devocao",
+    "slug": "doentia-devocao",
+    "title": "Doentia Devoção",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/doentia-devocao/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/doentia-devocao/cover-md.webp",
+    "author": "Saha",
+    "artist": "Saha",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Demonios",
+      "Fantasia",
+      "Romance",
+      "Historico",
+      "Josei",
+      "Manhwa",
+      "Vingança"
+    ],
+    "description": "Leia Doentia Devoção, um manhwa em português.",
+    "descriptionPt": "Leia Doentia Devoção, um manhwa em português.",
+    "chaptersCount": 57,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

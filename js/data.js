@@ -56550,7 +56550,7 @@ let MANGA_DATA = [
       "Manga"
     ],
     "description": "Leia Isshou Senkin online no MangaSurge.",
-    "chaptersCount": 91,
+    "chaptersCount": 92,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -91207,7 +91207,7 @@ let MANGA_DATA = [
     ],
     "description": "The Money Game (Official) “You’d better apologize before I sue you for sexual harassment.” Matthew has always worked harder than anyone else at his company, where most of the employees are women. Despite that, all he received from his coworkers was derision and ridicule. One day, after suffering humiliation from his female coworkers, he decides to seize an investment opportunity that comes his way, kick-starting a new and exciting chapter of his life.",
     "descriptionPt": "",
-    "chaptersCount": 11,
+    "chaptersCount": 13,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97677,7 +97677,7 @@ let MANGA_DATA = [
     ],
     "description": "Breathtaking Alliance (Uncensored) It is the first freshman club retreat—the kind of night meant for excitement and budding romance. However, Kim Seonwu finds his heart sinking when he discovers that the senior he’s been pining for already has someone in her life. His jealousy flares toward Noh Sang-yun, a fellow student with a rough, delinquent appearance who seems to be his primary romantic rival. The tension between them peaks during a reckless search for a local “haunted spot,” resulting in Seonwu and Sang-yun becoming stranded alone together in the wilderness. Seeking shelter from a sudde",
     "descriptionPt": "",
-    "chaptersCount": 20,
+    "chaptersCount": 21,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -99574,7 +99574,7 @@ let MANGA_DATA = [
     ],
     "description": "The Seed of Destiny The son of a brave warrior is pursued by an elf princess and a dwarf princess, each determined to secure his seed as the key to ruling their world.",
     "descriptionPt": "",
-    "chaptersCount": 43,
+    "chaptersCount": 45,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -112369,7 +112369,7 @@ let MANGA_DATA = [
     ],
     "description": "Sugar Trap (Uncensored) If there was a closet inside a closet, Joohwan would hide there. He’s that desperate to hide that he’s gay. Still, he’s doing a pretty good job at hiding his sexual orientation, on his way to a promotion at his job, and has everything going great…right until he crosses paths with Sihyun during a major presentation for work. Unfortunately, Sihyun is devastatingly attractive. Perhaps attractive enough to drag Joohwan out of the closet…",
     "descriptionPt": "",
-    "chaptersCount": 58,
+    "chaptersCount": 60,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207870,7 +207870,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Então Eu Casei Com Um Príncipe Herdeiro Abandonado, um manhwa em português.",
     "descriptionPt": "Leia Então Eu Casei Com Um Príncipe Herdeiro Abandonado, um manhwa em português.",
-    "chaptersCount": 0,
+    "chaptersCount": 44,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232209,7 +232209,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mudarei meu Destino Através de um Casamento por Conveniência, um manhwa em português.",
     "descriptionPt": "Leia Mudarei meu Destino Através de um Casamento por Conveniência, um manhwa em português.",
-    "chaptersCount": 20,
+    "chaptersCount": 21,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232501,7 +232501,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Puramente Delinquente, um manhwa em português.",
     "descriptionPt": "Leia Puramente Delinquente, um manhwa em português.",
-    "chaptersCount": 20,
+    "chaptersCount": 21,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -240226,7 +240226,7 @@ let MANGA_DATA = [
     "descriptionPt": "",
     "chaptersCount": 170,
     "lang": "en",
-    "hasPt": true,
+    "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
   },
@@ -250920,7 +250920,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Transformando um Cachorro Louco em um Gentil Lorde!, um manhwa em português.",
     "descriptionPt": "Leia Transformando um Cachorro Louco em um Gentil Lorde!, um manhwa em português.",
-    "chaptersCount": 71,
+    "chaptersCount": 72,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251028,7 +251028,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Meu Louco Casamento de Fachada com Maddie, um manhwa em português.",
     "descriptionPt": "Leia Meu Louco Casamento de Fachada com Maddie, um manhwa em português.",
-    "chaptersCount": 47,
+    "chaptersCount": 50,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251274,7 +251274,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Regressor da Família Caída, um manhwa em português.",
     "descriptionPt": "Leia O Regressor da Família Caída, um manhwa em português.",
-    "chaptersCount": 143,
+    "chaptersCount": 144,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251328,7 +251328,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vingança do Cão de Caça dos Baskerville, um manhwa em português.",
     "descriptionPt": "Leia A Vingança do Cão de Caça dos Baskerville, um manhwa em português.",
-    "chaptersCount": 172,
+    "chaptersCount": 173,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251354,7 +251354,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Filho Caçula do Conde é um Jogador, um manhwa em português.",
     "descriptionPt": "Leia O Filho Caçula do Conde é um Jogador, um manhwa em português.",
-    "chaptersCount": 162,
+    "chaptersCount": 163,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251435,7 +251435,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Imperador Solo, um manhwa em português.",
     "descriptionPt": "Leia Imperador Solo, um manhwa em português.",
-    "chaptersCount": 76,
+    "chaptersCount": 77,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251518,7 +251518,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Você, Que Será Minha Ruína, um manhwa em português.",
     "descriptionPt": "Leia A Você, Que Será Minha Ruína, um manhwa em português.",
-    "chaptersCount": 21,
+    "chaptersCount": 22,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251545,7 +251545,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Sou o Vilão Predestinado, um manhua em português.",
     "descriptionPt": "Leia Eu Sou o Vilão Predestinado, um manhua em português.",
-    "chaptersCount": 345,
+    "chaptersCount": 346,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254113,7 +254113,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia I Was Born as the Second Daughter, um manhwa em português.",
     "descriptionPt": "Leia I Was Born as the Second Daughter, um manhwa em português.",
-    "chaptersCount": 71,
+    "chaptersCount": 72,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254305,7 +254305,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Morte Não Consegue Dormir, um manhwa em português.",
     "descriptionPt": "Leia A Morte Não Consegue Dormir, um manhwa em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255464,7 +255464,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Renúncia da Doutora, um manhwa em português.",
     "descriptionPt": "Leia A Renúncia da Doutora, um manhwa em português.",
-    "chaptersCount": 93,
+    "chaptersCount": 94,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258480,7 +258480,7 @@ let MANGA_DATA = [
     ],
     "description": "The Messiah and His Followers (Uncensored) After spending the night with Zion, a girl from a cult, Hageon finds himself worshiped as the cult’s Messiah—and he fully embraces it.",
     "descriptionPt": "",
-    "chaptersCount": 11,
+    "chaptersCount": 12,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -260412,6 +260412,146 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "o-marido-malvado",
+    "slug": "o-marido-malvado",
+    "title": "O Marido Malvado",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/o-marido-malvado/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/o-marido-malvado/cover-md.webp",
+    "author": "Saha",
+    "artist": "Saha",
+    "status": "ongoing",
+    "year": 2020,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Fantasia",
+      "Romance",
+      "Historico",
+      "Josei",
+      "Mistério",
+      "Tragedia",
+      "Viagem no tempo",
+      "Vingança",
+      "Amigos de Infância",
+      "Casamento Arranjado"
+    ],
+    "description": "Leia O Marido Malvado, um manhwa em português.",
+    "descriptionPt": "Leia O Marido Malvado, um manhwa em português.",
+    "chaptersCount": 39,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "a-vila-vive-novamente",
+    "slug": "a-vila-vive-novamente",
+    "title": "A Vilã Vive Novamente",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-vila-vive-novamente/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-vila-vive-novamente/cover-md.webp",
+    "author": "Peachberry",
+    "artist": "Peachberry",
+    "status": "ongoing",
+    "year": 2020,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Historico",
+      "Psicológico"
+    ],
+    "description": "Leia A Vilã Vive Novamente, um manhwa em português.",
+    "descriptionPt": "Leia A Vilã Vive Novamente, um manhwa em português.",
+    "chaptersCount": 193,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "ensinar-os-jovens-nobres-nao-e-facil",
+    "slug": "ensinar-os-jovens-nobres-nao-e-facil",
+    "title": "Ensinar os Jovens Nobres Não é Fácil",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/ensinar-os-jovens-nobres-nao-e-facil/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/ensinar-os-jovens-nobres-nao-e-facil/cover-md.webp",
+    "author": "Simsang",
+    "artist": "Simsang",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Comedia",
+      "Fantasia",
+      "Romance",
+      "Historico",
+      "Manhwa"
+    ],
+    "description": "Leia Ensinar os Jovens Nobres Não é Fácil, um manhwa em português.",
+    "descriptionPt": "Leia Ensinar os Jovens Nobres Não é Fácil, um manhwa em português.",
+    "chaptersCount": 12,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "como-proteger-seu-coracao",
+    "slug": "como-proteger-seu-coracao",
+    "title": "Como Proteger seu Coração",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/como-proteger-seu-coracao/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/como-proteger-seu-coracao/cover-md.webp",
+    "author": "Han yujeong",
+    "artist": "Han yujeong",
+    "status": "completed",
+    "year": 2021,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Historico",
+      "Manhwa"
+    ],
+    "description": "Leia Como Proteger seu Coração, um manhwa em português.",
+    "descriptionPt": "Leia Como Proteger seu Coração, um manhwa em português.",
+    "chaptersCount": 148,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "minha-caracol-sexy",
+    "slug": "minha-caracol-sexy",
+    "title": "Minha Caracol Sexy",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/minha-caracol-sexy/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/minha-caracol-sexy/cover-md.webp",
+    "author": "Suosu",
+    "artist": "Suosu",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Comedia",
+      "Romance",
+      "Josei",
+      "Manhwa",
+      "Supernatural"
+    ],
+    "description": "Leia Minha Caracol Sexy, um manhwa em português.",
+    "descriptionPt": "Leia Minha Caracol Sexy, um manhwa em português.",
+    "chaptersCount": 10,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 
@@ -260536,7 +260676,7 @@ function filterManga(opts) {
   return results;
 }
 
-const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Conto","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Esporte","Esportes","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gyaru","Harem","Harém","Harém Reverso","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Horrow","Idol","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","Older Woman","One Shot","Outros gêneros","Parody Anime","Person in a Strange World","Police","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vampiro","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Younger Man","Yuri","Zombies","Zoofilia"];
+const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Casamento Arranjado","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Conto","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Esporte","Esportes","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gyaru","Harem","Harém","Harém Reverso","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Horrow","Idol","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","Older Woman","One Shot","Outros gêneros","Parody Anime","Person in a Strange World","Police","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vampiro","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Younger Man","Yuri","Zombies","Zoofilia"];
 
 var ADULT_GENRE_KW = ['hentai','adulto','adult','+18','18+','nsfw','ecchi','smut','mature','maduro','erotic','erótic','erotica','bdsm','futanari','loli','shota','inces','tentacul','tentácul','zoofilia','obsceno','sem censura','uncensor','censura','nudez','nudity','sexual','sexo','mindbreak','ahegao','netorare','fetich','fetish','omegaverse','vanilla','borderline h'];
 function isAdultGenre(g) {

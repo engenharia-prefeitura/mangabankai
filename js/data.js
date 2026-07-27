@@ -250949,7 +250949,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Fui Confundido com um Gênio Monstruoso, um manhwa em português.",
     "descriptionPt": "Leia Fui Confundido com um Gênio Monstruoso, um manhwa em português.",
-    "chaptersCount": 110,
+    "chaptersCount": 111,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258391,7 +258391,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Emperor’s Sword, um manhwa em português.",
     "descriptionPt": "Leia The Emperor’s Sword, um manhwa em português.",
-    "chaptersCount": 113,
+    "chaptersCount": 114,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259819,7 +259819,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
     "descriptionPt": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
-    "chaptersCount": 8,
+    "chaptersCount": 10,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

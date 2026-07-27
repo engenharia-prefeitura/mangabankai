@@ -101299,11 +101299,12 @@ let MANGA_DATA = [
       "Romance",
       "School Life",
       "Sexual Content",
+      "Webtoons",
       "Hentai"
     ],
     "description": "Take a Photo of Me For Sehyun and Yumi, taking sexy pictures was just a side gig. That is, until Hannah came into the picture…",
     "descriptionPt": "",
-    "chaptersCount": 52,
+    "chaptersCount": 55,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -240226,7 +240227,7 @@ let MANGA_DATA = [
     "descriptionPt": "",
     "chaptersCount": 170,
     "lang": "en",
-    "hasPt": false,
+    "hasPt": true,
     "hasEn": true,
     "source": "mangadistrict"
   },

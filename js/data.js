@@ -60676,7 +60676,7 @@ let MANGA_DATA = [
     ],
     "description": "“You must have a big dick like your father, right?\" Show me.",
     "descriptionEn": "“You must have a big dick like your father, right?\" Show me.",
-    "chaptersCount": 32,
+    "chaptersCount": 35,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -93869,7 +93869,7 @@ let MANGA_DATA = [
     ],
     "description": "Youth Report: 1995 (Uncensored) Spring, 1995. Messy-note business major and campus hottie Jinwu needs someone to rewrite his essays so that they are at least somewhat legible. Perfect-penmanship P.E. major Daehan needs dating lessons so that he can stay in a relationship for at least two weeks. So when the two end up living under the same roof, it seems like the perfect opportunity to help each other out… but after a few fated run-ins, it might be more than just skills that they’re swapping!",
     "descriptionPt": "",
-    "chaptersCount": 52,
+    "chaptersCount": 55,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -98800,7 +98800,7 @@ let MANGA_DATA = [
     ],
     "description": "Imperfectly Us (Uncensored) Freshly unmoored from college life and hiding a leave of absence, Yeong-in stumbles into the orbit of Jiheon—a solitary bookstore owner who seems to understand him like no one else. But when love blooms, Jiheon lays down one unshakable truth: “I want to watch my lover with someone else.” Desperate not to lose the only person who’s ever truly seen him, Yeong-in agrees to a love that hurts—until pain and pleasure begin to blur. In a relationship built on imperfection, how much can you give before you lose yourself completely?",
     "descriptionPt": "",
-    "chaptersCount": 54,
+    "chaptersCount": 56,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207768,7 +207768,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei a Serva do Tirano, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei a Serva do Tirano, um manhwa em português.",
-    "chaptersCount": 109,
+    "chaptersCount": 110,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230093,7 +230093,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Escolha Seu Marido Cuidadosamente, um manhwa em português.",
     "descriptionPt": "Leia Escolha Seu Marido Cuidadosamente, um manhwa em português.",
-    "chaptersCount": 58,
+    "chaptersCount": 60,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230171,7 +230171,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Olá, Griffin, o pássaro Fofinho!, um manhwa em português.",
     "descriptionPt": "Leia Olá, Griffin, o pássaro Fofinho!, um manhwa em português.",
-    "chaptersCount": 59,
+    "chaptersCount": 60,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231731,7 +231731,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Minhas Sete Noivas São Todas Vilãs, um manhua em português.",
     "descriptionPt": "Leia Minhas Sete Noivas São Todas Vilãs, um manhua em português.",
-    "chaptersCount": 66,
+    "chaptersCount": 67,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250713,7 +250713,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Segundo Eunuco Recupera Sua Masculinidade, um manhwa em português.",
     "descriptionPt": "Leia O Segundo Eunuco Recupera Sua Masculinidade, um manhwa em português.",
-    "chaptersCount": 98,
+    "chaptersCount": 99,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251193,7 +251193,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vida de uma Artista de Webtoon, um manhwa em português.",
     "descriptionPt": "Leia A Vida de uma Artista de Webtoon, um manhwa em português.",
-    "chaptersCount": 47,
+    "chaptersCount": 48,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251302,7 +251302,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Criança Problemática da Torre Mágica, um manhwa em português.",
     "descriptionPt": "Leia A Criança Problemática da Torre Mágica, um manhwa em português.",
-    "chaptersCount": 54,
+    "chaptersCount": 55,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251546,7 +251546,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Sou o Vilão Predestinado, um manhua em português.",
     "descriptionPt": "Leia Eu Sou o Vilão Predestinado, um manhua em português.",
-    "chaptersCount": 346,
+    "chaptersCount": 347,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251630,7 +251630,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Jardim de Maio, um manhwa em português.",
     "descriptionPt": "Leia Jardim de Maio, um manhwa em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251762,7 +251762,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Evolução Infinita: Começando do Zero, um manhua em português.",
     "descriptionPt": "Leia Evolução Infinita: Começando do Zero, um manhua em português.",
-    "chaptersCount": 110,
+    "chaptersCount": 112,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251839,7 +251839,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei Um Homem Casado Em Outro Mundo, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei Um Homem Casado Em Outro Mundo, um manhwa em português.",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251865,7 +251865,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Matei Um Jogador da Academia, um manhwa em português.",
     "descriptionPt": "Leia Eu Matei Um Jogador da Academia, um manhwa em português.",
-    "chaptersCount": 134,
+    "chaptersCount": 135,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251946,7 +251946,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Acho Que Transmigrei Para Algum Lugar, um manhwa em português.",
     "descriptionPt": "Leia Acho Que Transmigrei Para Algum Lugar, um manhwa em português.",
-    "chaptersCount": 87,
+    "chaptersCount": 89,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252525,7 +252525,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Um Dia Eu Era Um Filhote, um manhwa em português.",
     "descriptionPt": "Leia Um Dia Eu Era Um Filhote, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253744,7 +253744,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Longe de estar Sóbrio, um manhwa em português.",
     "descriptionPt": "Leia Longe de estar Sóbrio, um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 3,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254713,7 +254713,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-reencarnacao-do-rei-dos-punhos-reencarnacao-do-deus-dos-punhos online em português.",
     "descriptionPt": "Leia a-reencarnacao-do-rei-dos-punhos-reencarnacao-do-deus-dos-punhos online em português.",
-    "chaptersCount": 61,
+    "chaptersCount": 62,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255256,7 +255256,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Superastro do 0, um manhwa em português.",
     "descriptionPt": "Leia Superastro do 0, um manhwa em português.",
-    "chaptersCount": 96,
+    "chaptersCount": 97,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255358,7 +255358,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Estou Apenas Aproveitando meu Tempo Limite, um manhwa em português.",
     "descriptionPt": "Leia Estou Apenas Aproveitando meu Tempo Limite, um manhwa em português.",
-    "chaptersCount": 53,
+    "chaptersCount": 54,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255384,7 +255384,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Operação amor verdadeiro, um manhwa em português.",
     "descriptionPt": "Leia Operação amor verdadeiro, um manhwa em português.",
-    "chaptersCount": 132,
+    "chaptersCount": 133,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255411,7 +255411,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Forget About My Husband, I’d Rather Go Make Money, um manhwa em português.",
     "descriptionPt": "Leia Forget About My Husband, I’d Rather Go Make Money, um manhwa em português.",
-    "chaptersCount": 111,
+    "chaptersCount": 112,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255770,7 +255770,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Tempo Extra Antes da Doença Terminal, um manhwa em português.",
     "descriptionPt": "Leia O Tempo Extra Antes da Doença Terminal, um manhwa em português.",
-    "chaptersCount": 80,
+    "chaptersCount": 81,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256400,7 +256400,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Martial God who Regressed to Level 2, um manhwa em português.",
     "descriptionPt": "Leia The Martial God who Regressed to Level 2, um manhwa em português.",
-    "chaptersCount": 125,
+    "chaptersCount": 126,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256582,7 +256582,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
     "descriptionPt": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
-    "chaptersCount": 38,
+    "chaptersCount": 39,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260734,6 +260734,58 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "pai-eu-nunca-te-perdoarei",
+    "slug": "pai-eu-nunca-te-perdoarei",
+    "title": "Pai, Eu nunca… te perdoarei!",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/pai-eu-nunca-te-perdoarei/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/pai-eu-nunca-te-perdoarei/cover-md.webp",
+    "author": "GOSEJI",
+    "artist": "GOSEJI",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Fantasia",
+      "Romance"
+    ],
+    "description": "Leia Pai, Eu nunca… te perdoarei!, um manhwa em português.",
+    "descriptionPt": "Leia Pai, Eu nunca… te perdoarei!, um manhwa em português.",
+    "chaptersCount": 47,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "as-noites-da-imperatriz",
+    "slug": "as-noites-da-imperatriz",
+    "title": "As Noites da Imperatriz",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/as-noites-da-imperatriz/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/as-noites-da-imperatriz/cover-md.webp",
+    "author": "Tiyabe",
+    "artist": "Tiyabe",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Historico",
+      "Adulto",
+      "Tragedia",
+      "Manhwa",
+      "Dark Romance",
+      "Angústia"
+    ],
+    "description": "Leia As Noites da Imperatriz, um manhwa em português.",
+    "descriptionPt": "Leia As Noites da Imperatriz, um manhwa em português.",
+    "chaptersCount": 37,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

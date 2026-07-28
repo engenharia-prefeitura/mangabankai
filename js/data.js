@@ -232104,7 +232104,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Os protagonistas masculinos obsessivos querem me devorar viva, um manhwa em português.",
     "descriptionPt": "Leia Os protagonistas masculinos obsessivos querem me devorar viva, um manhwa em português.",
-    "chaptersCount": 14,
+    "chaptersCount": 15,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253165,7 +253165,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Estilo de Vida de um Imortal, um manhwa em português.",
     "descriptionPt": "Leia O Estilo de Vida de um Imortal, um manhwa em português.",
-    "chaptersCount": 23,
+    "chaptersCount": 24,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255904,7 +255904,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Amor:Zero, um manhwa em português.",
     "descriptionPt": "Leia Amor:Zero, um manhwa em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257643,7 +257643,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Vou me divorciar do irmão siscon da protagonista, um manhwa em português.",
     "descriptionPt": "Leia Vou me divorciar do irmão siscon da protagonista, um manhwa em português.",
-    "chaptersCount": 21,
+    "chaptersCount": 22,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259688,7 +259688,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia um-dia-o-protagonista-masculino-caiu-na-minha-casa online em português.",
     "descriptionPt": "Leia um-dia-o-protagonista-masculino-caiu-na-minha-casa online em português.",
-    "chaptersCount": 7,
+    "chaptersCount": 8,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260783,6 +260783,37 @@ let MANGA_DATA = [
     "description": "Leia As Noites da Imperatriz, um manhwa em português.",
     "descriptionPt": "Leia As Noites da Imperatriz, um manhwa em português.",
     "chaptersCount": 37,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "it-looks-like-ive-fallen-into-the-world-of-a-reverse-harem-game",
+    "slug": "it-looks-like-ive-fallen-into-the-world-of-a-reverse-harem-game",
+    "title": "It Looks Like I’ve Fallen into the World of a Reverse Harem Game",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/it-looks-like-ive-fallen-into-the-world-of-a-reverse-harem-game/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/it-looks-like-ive-fallen-into-the-world-of-a-reverse-harem-game/cover-md.webp",
+    "author": "Inui",
+    "artist": "Inui",
+    "status": "ongoing",
+    "year": 2020,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Historico",
+      "Josei",
+      "Adulto",
+      "Isekai",
+      "Harem",
+      "+18"
+    ],
+    "description": "Leia It Looks Like I’ve Fallen into the World of a Reverse Harem Game, um manhwa em português.",
+    "descriptionPt": "Leia It Looks Like I’ve Fallen into the World of a Reverse Harem Game, um manhwa em português.",
+    "chaptersCount": 162,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

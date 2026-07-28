@@ -98282,7 +98282,7 @@ let MANGA_DATA = [
     ],
     "description": "Pearl Boy : Ignite the Dawn (Uncensored) Baek Seung-hyun has lived in the shadows his whole life, nothing more than the deadly right hand of yakuza boss Shin Jae-il. But now, Jae-il is married. And Seung-hyun, for the first time in years, is left behind. Drifting through empty streets on the night after the wedding, Seung-hyun crosses paths with Yuta, a delicate ghost from his time in Japan. But what should have been a quiet reunion over a drink turns sharp fast. Yuta’s sweetness curdles, his words cut deep, and before Seung-hyun can make sense of it everything begins to burn. Uninvited and un",
     "descriptionPt": "",
-    "chaptersCount": 45,
+    "chaptersCount": 46,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

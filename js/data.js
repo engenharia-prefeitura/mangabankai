@@ -97234,7 +97234,7 @@ let MANGA_DATA = [
     ],
     "description": "Once Upon a Deal (Uncensored) Ju Yunseong thought getting a job at JH Soft was the start of a normal office life—until he noticed his cold, intimidating CEO, Baek Hajin, glaring at him every time they crossed paths. “Why is the boss always staring at me? Did I do something wrong on my first day?” Determined to avoid him at all costs, Yunseong keeps his head down… until he stumbles upon a mysterious employee ID and uncovers a secret: his boss isn’t just intense—he’s a nine-tailed fox. And to make things worse? Hajin’s fox bead ends up lodged inside Yunseong’s body. Now the CEO won’t leave his s",
     "descriptionPt": "",
-    "chaptersCount": 38,
+    "chaptersCount": 41,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -231915,7 +231915,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Lixo da Família Condal, um manhwa em português.",
     "descriptionPt": "Leia O Lixo da Família Condal, um manhwa em português.",
-    "chaptersCount": 182,
+    "chaptersCount": 183,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250496,7 +250496,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-obsessao-do-tirano-corrupto-nunca-acaba online em português.",
     "descriptionPt": "Leia a-obsessao-do-tirano-corrupto-nunca-acaba online em português.",
-    "chaptersCount": 15,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257327,7 +257327,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Momento de Cura com Dubli, um manhwa em português.",
     "descriptionPt": "Leia Momento de Cura com Dubli, um manhwa em português.",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259076,7 +259076,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Que se dane ser o Herdeiro, Eu vou Curar, um manhwa em português.",
     "descriptionPt": "Leia Que se dane ser o Herdeiro, Eu vou Curar, um manhwa em português.",
-    "chaptersCount": 26,
+    "chaptersCount": 27,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

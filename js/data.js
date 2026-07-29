@@ -97651,7 +97651,7 @@ let MANGA_DATA = [
     ],
     "description": "Courtside Courtship (Uncensored) Genius. Champion. National treasure. Nam Woojoon has always admired Seo Siwon, but only from afar. That is, until the night he woke to find his idol on top of him, completely lost in pleasure. Now, as the heat between them rises, Woojoon’s learning the rules of a new game, and he’s playing to win.",
     "descriptionPt": "",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -98371,7 +98371,7 @@ let MANGA_DATA = [
     ],
     "description": "Operation Leo (Uncensored) Undercover cop Im Sae-byeok has one job: use his baby-faced charm to infiltrate a university and get close to Ma Leo, the elusive grandson of a notorious gang boss. But on day one, he gets blackout drunk and wakes up next to a mystery man he definitely doesn’t remember. Things only get messier when he discovers he’ll be living under the same roof as both Leo and Leo’s overly clingy best friend, Son Yi-gang. With cockblocks, close calls, and suspiciously attractive housemates at every turn, Sae-byeok’s mission quickly spirals into chaos. Operation Leo might just be hi",
     "descriptionPt": "",
-    "chaptersCount": 50,
+    "chaptersCount": 51,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -103068,7 +103068,7 @@ let MANGA_DATA = [
     ],
     "description": "Perfect Half Once a world ruled by men, women stand up and fight to become men’s equal. Now, in a land that is equally divided up between man and woman, the battle of the sexes is on! Who’s going to win? But more importantly…what’s the name of the game?",
     "descriptionPt": "",
-    "chaptersCount": 210,
+    "chaptersCount": 212,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207531,7 +207531,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Pérola de Albrecht, um manhwa em português.",
     "descriptionPt": "Leia A Pérola de Albrecht, um manhwa em português.",
-    "chaptersCount": 15,
+    "chaptersCount": 16,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207638,7 +207638,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Esse Amor Obsessivo Vai Além do Sangue, um manhwa em português.",
     "descriptionPt": "Leia Esse Amor Obsessivo Vai Além do Sangue, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260652,7 +260652,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia um-dia-minha-irma-morreu online em português.",
     "descriptionPt": "Leia um-dia-minha-irma-morreu online em português.",
-    "chaptersCount": 5,
+    "chaptersCount": 8,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261051,6 +261051,55 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "a-pequena-rata-do-campo-partiu-com-a-cinderela",
+    "slug": "a-pequena-rata-do-campo-partiu-com-a-cinderela",
+    "title": "A Pequena Rata do Campo Partiu com a Cinderela",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-pequena-rata-do-campo-partiu-com-a-cinderela/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-pequena-rata-do-campo-partiu-com-a-cinderela/cover-md.webp",
+    "author": "Seol Isu",
+    "artist": "Seol Isu",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Manhwa"
+    ],
+    "description": "Leia A Pequena Rata do Campo Partiu com a Cinderela, um manhwa em português.",
+    "descriptionPt": "Leia A Pequena Rata do Campo Partiu com a Cinderela, um manhwa em português.",
+    "chaptersCount": 9,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "tankouhentai-gimai-ga-suiminyaku-nomaseyou-to-shite-kurun-desu-kedo",
+    "slug": "gimai-ga-suiminyaku-nomaseyou-to-shite-kurun-desu-kedo",
+    "title": "Gimai ga Suiminyaku Nomaseyou to Shite Kurun desu kedo...",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/07/Gimai-ga-Suiminyaku-Nomaseyou-to-Shite-Kurun-desu-kedo-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/07/Gimai-ga-Suiminyaku-Nomaseyou-to-Shite-Kurun-desu-kedo-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Sanbalkin",
+    "status": "completed",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Incesto",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 2,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

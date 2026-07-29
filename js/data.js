@@ -97125,7 +97125,7 @@ let MANGA_DATA = [
     ],
     "description": "Sketch First impressions are everything, right? But it doesn’t seem that way when Yikyung comes across Joobin. When they first meet, Joobin is just a handsome stranger with an exciting air of mystery. Yikyung itches to draw him, to sketch out his beauty on paper like the artist he is… But at their next encounter, Joobin is a completely different person. Sensitive, outspoken, and passionate about his own work as a photographer, he proposes that Yikyung become his model. And drawn to this other side of his, Yikyung says yes. Between lens and paper, who’ll be the first to sketch out the other to ",
     "descriptionPt": "",
-    "chaptersCount": 161,
+    "chaptersCount": 163,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97156,7 +97156,7 @@ let MANGA_DATA = [
     ],
     "description": "Paradise Intruder In a world divided into three realms, the floating islands of Paradise, the surface of Eden, and the subterranean depths of Proserpina, Meove clings to a single hope: escaping to the sky with Haluk. Their love is the only light in the dark, but it is quickly extinguished when a sudden revolution tears through the underground. In the blink of an eye, the life they knew is gone, leaving Meove to navigate a treacherous new destiny where Paradise feels further away than ever.",
     "descriptionPt": "",
-    "chaptersCount": 20,
+    "chaptersCount": 24,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -260951,6 +260951,56 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "a-for-pleasure",
+    "slug": "a-for-pleasure",
+    "title": "A+ for Pleasure",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2026/05/a-for-pleasure-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2026/05/a-for-pleasure-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult",
+      "Seinen"
+    ],
+    "description": "She’s the perfect private tutor—smart, beautiful, and willing to offer more than just extra lessons. For her top-scoring students, the reward goes far beyond",
+    "descriptionEn": "She’s the perfect private tutor—smart, beautiful, and willing to offer more than just extra lessons. For her top-scoring students, the reward goes far beyond",
+    "chaptersCount": 23,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
+  },
+  {
+    "id": "mangadistrict-painter-of-the-night-all-seasons-extras",
+    "slug": "painter-of-the-night-all-seasons-extras",
+    "title": "Painter of the Night (All Seasons & Extras)",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/painter-of-the-night-all-seasons-and-extras-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/painter-of-the-night-all-seasons-and-extras-official.webp",
+    "author": "ByeonDuck",
+    "artist": "ByeonDuck",
+    "status": "ongoing",
+    "year": 2019,
+    "rating": 0,
+    "genres": [
+      "BL",
+      "Yaoi",
+      "Hentai"
+    ],
+    "description": "Painter of the Night (All Seasons & Extras) Na-kyum is a young painter with an exceptional talent: creating erotic images of men. Though he has published a few collections under a pseudonym, he has decided to quit painting. Then Seungho, a young nobleman, barges into his life. A hell-raiser notorious for his insatiable lust, Seungho forces Na-kyum to become his private painter. However, the nights that await Na-kyum are beyond anything he could have imagined…",
+    "descriptionPt": "",
+    "chaptersCount": 143,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
   }
 ];
 

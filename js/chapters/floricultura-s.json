@@ -1,0 +1,382 @@
+{
+  "pt": [
+    {
+      "id": "floricultura-s-chapter-1",
+      "number": 1,
+      "title": "Capítulo 01",
+      "date": "2026-07-29T12:48:59.444Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-2",
+      "number": 2,
+      "title": "Capítulo 02",
+      "date": "2026-07-29T12:49:23.436Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-3",
+      "number": 3,
+      "title": "Capítulo 03",
+      "date": "2026-07-29T12:49:36.070Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-4",
+      "number": 4,
+      "title": "Capítulo 04",
+      "date": "2026-07-29T12:49:52.498Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-5",
+      "number": 5,
+      "title": "Capítulo 05",
+      "date": "2026-07-29T12:50:10.472Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-6",
+      "number": 6,
+      "title": "Capítulo 06",
+      "date": "2026-07-29T12:50:27.508Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-7",
+      "number": 7,
+      "title": "Capítulo 07",
+      "date": "2026-07-29T12:50:44.994Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-8",
+      "number": 8,
+      "title": "Capítulo 08",
+      "date": "2026-07-29T12:51:57.020Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-9",
+      "number": 9,
+      "title": "Capítulo 09",
+      "date": "2026-07-29T12:52:19.292Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-10",
+      "number": 10,
+      "title": "Capítulo 10",
+      "date": "2026-07-29T12:52:39.244Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-11",
+      "number": 11,
+      "title": "Capítulo 11",
+      "date": "2026-07-29T12:52:56.950Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-12",
+      "number": 12,
+      "title": "Capítulo 12",
+      "date": "2026-07-29T12:53:13.380Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-13",
+      "number": 13,
+      "title": "Capítulo 13",
+      "date": "2026-07-29T12:53:32.476Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-14",
+      "number": 14,
+      "title": "Capítulo 14",
+      "date": "2026-07-29T12:53:48.286Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-15",
+      "number": 15,
+      "title": "Capítulo 15",
+      "date": "2026-07-29T12:54:09.508Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-16",
+      "number": 16,
+      "title": "Capítulo 16",
+      "date": "2026-07-29T12:54:42.418Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-17",
+      "number": 17,
+      "title": "Capítulo 17",
+      "date": "2026-07-29T12:55:02.994Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-18",
+      "number": 18,
+      "title": "Capítulo 18",
+      "date": "2026-07-29T12:55:31.140Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-19",
+      "number": 19,
+      "title": "Capítulo 19",
+      "date": "2026-07-29T12:56:01.342Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-20",
+      "number": 20,
+      "title": "Capítulo 20",
+      "date": "2026-07-29T12:56:24.172Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-21",
+      "number": 21,
+      "title": "Capítulo 21",
+      "date": "2026-07-29T12:56:55.371Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-22",
+      "number": 22,
+      "title": "Capítulo 22",
+      "date": "2026-07-29T12:57:17.945Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-23",
+      "number": 23,
+      "title": "Capítulo 23",
+      "date": "2026-07-29T12:57:33.247Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-24",
+      "number": 24,
+      "title": "Capítulo 24",
+      "date": "2026-07-29T12:57:48.843Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-25",
+      "number": 25,
+      "title": "Capítulo 25",
+      "date": "2026-07-29T12:58:25.184Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-26",
+      "number": 26,
+      "title": "Capítulo 26",
+      "date": "2026-07-29T12:58:43.544Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-27",
+      "number": 27,
+      "title": "Capítulo 27",
+      "date": "2026-07-29T12:59:00.496Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-28",
+      "number": 28,
+      "title": "Capítulo 28",
+      "date": "2026-07-29T12:59:28.971Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-29",
+      "number": 29,
+      "title": "Capítulo 29",
+      "date": "2026-07-29T12:59:44.339Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-30",
+      "number": 30,
+      "title": "Capítulo 30",
+      "date": "2026-07-29T13:00:24.123Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-31",
+      "number": 31,
+      "title": "Capítulo 31",
+      "date": "2026-07-29T13:00:46.111Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-32",
+      "number": 32,
+      "title": "Capítulo 32 - Fim da Primeira Temporada",
+      "date": "2026-07-29T13:01:13.890Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-33",
+      "number": 33,
+      "title": "Capítulo 33 - Início da 2 temporada",
+      "date": "2026-07-29T13:01:35.898Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-34",
+      "number": 34,
+      "title": "Capítulo 34",
+      "date": "2026-07-29T13:02:16.103Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-35",
+      "number": 35,
+      "title": "Capítulo 35",
+      "date": "2026-07-29T13:02:43.536Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-36",
+      "number": 36,
+      "title": "Capítulo 36",
+      "date": "2026-07-29T13:03:06.825Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-37",
+      "number": 37,
+      "title": "Capítulo 37",
+      "date": "2026-07-29T13:03:29.310Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-38",
+      "number": 38,
+      "title": "Capítulo 38",
+      "date": "2026-07-29T13:03:53.000Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-39",
+      "number": 39,
+      "title": "Capítulo 39",
+      "date": "2026-07-29T13:04:19.910Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-40",
+      "number": 40,
+      "title": "Capítulo 40",
+      "date": "2026-07-29T13:04:38.845Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-41",
+      "number": 41,
+      "title": "Capítulo 41",
+      "date": "2026-07-29T13:05:05.530Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-42",
+      "number": 42,
+      "title": "Capítulo 42",
+      "date": "2026-07-29T13:05:27.754Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-43",
+      "number": 43,
+      "title": "Capítulo 43",
+      "date": "2026-07-29T13:06:05.664Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-44",
+      "number": 44,
+      "title": "Capítulo 44",
+      "date": "2026-07-29T13:07:10.038Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-45",
+      "number": 45,
+      "title": "Capítulo 45",
+      "date": "2026-07-29T13:07:27.909Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-46",
+      "number": 46,
+      "title": "Capítulo 46",
+      "date": "2026-07-29T13:07:48.403Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-47",
+      "number": 47,
+      "title": "Capítulo 47",
+      "date": "2026-07-29T13:08:42.370Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-48",
+      "number": 48,
+      "title": "Capítulo 48",
+      "date": "2026-07-29T13:08:57.681Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-49",
+      "number": 49,
+      "title": "Capítulo 49",
+      "date": "2026-07-29T13:09:20.403Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-50",
+      "number": 50,
+      "title": "Capítulo 50",
+      "date": "2026-07-29T13:09:32.958Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-51",
+      "number": 51,
+      "title": "Capítulo 51",
+      "date": "2026-07-29T13:09:49.837Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-52",
+      "number": 52,
+      "title": "Capítulo 52",
+      "date": "2026-07-29T13:10:07.132Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-53",
+      "number": 53,
+      "title": "Capítulo 53",
+      "date": "2026-07-29T13:10:59.758Z",
+      "pages": []
+    },
+    {
+      "id": "floricultura-s-chapter-54",
+      "number": 54,
+      "title": "Capítulo 54",
+      "date": "2026-07-29T13:11:16.701Z",
+      "pages": []
+    }
+  ]
+}

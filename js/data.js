@@ -60748,7 +60748,7 @@ let MANGA_DATA = [
     ],
     "description": "Tutors are struggling and working hard to send the Ilryu Group President’s son, ‘Min Siyoon,’ to a prestigious university! With a ten billion won reward on",
     "descriptionEn": "Tutors are struggling and working hard to send the Ilryu Group President’s son, ‘Min Siyoon,’ to a prestigious university! With a ten billion won reward on",
-    "chaptersCount": 102,
+    "chaptersCount": 103,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -94143,7 +94143,7 @@ let MANGA_DATA = [
     ],
     "description": "Purrfect Choice (Uncensored) Once the most popular guy in high school, Lim Sangho never expected to be attending college at 28. At a class reunion, he reconnects with Ko Yeongha, the underclassman who used to follow him everywhere – and who has somehow grown into an annoyingly-handsome adult. Bonding over their shared status as late-blooming college students, the two quickly fall back into old habits. But while feeding stray cats after the reunion, Yeongha drops a bombshell: his male boss seems to have a crush on him. Completely clueless about dating men, Yeongha turns to the openly gay Sangho",
     "descriptionPt": "",
-    "chaptersCount": 11,
+    "chaptersCount": 13,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -95055,7 +95055,7 @@ let MANGA_DATA = [
     ],
     "description": "Kick Your Heart Jang Hyeokjun, the second son of a chaebol family, is infamous for scandals, nightlife disasters, and giving his father chronic headaches. Finally fed up, his father hires a personal monitor to keep him in line. But the man who shows up is the last person Hyeokjun ever expected, Choi Jeongheon, the ex who ghosted him four years ago and left him shattered. Hyeokjun is furious. If his father will not fire Jeongheon, then he will drive him out himself. He throws tantrums, picks fights, and schemes nonstop, but Jeongheon remains calm, unbothered, and frustratingly professional. Dig",
     "descriptionPt": "",
-    "chaptersCount": 30,
+    "chaptersCount": 34,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -98230,7 +98230,7 @@ let MANGA_DATA = [
     ],
     "description": "Relative Sins (Uncensored) A prince with no claim to the throne, Yi Tae-rok lives a quiet life removed from power. At thirteen, he is entrusted with raising his nephew, Yi Nan-yeong, a gentle boy with no talent for the sword and no expectations placed upon him. At first, Tae-rok sees it only as duty. But Nan-yeong grows up looking only at him. What begins as admiration slowly shifts into something deeper, something neither of them can easily name. Tae-rok notices the change and chooses silence, drawing careful lines he refuses to cross. In the end, Nan-yeong seeks clarity in the only way he ca",
     "descriptionPt": "",
-    "chaptersCount": 21,
+    "chaptersCount": 22,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -100982,7 +100982,7 @@ let MANGA_DATA = [
     ],
     "description": "The Student, The Witch, and The Academy For Nam Juho, life as a repeat student aiming for med school is supposed to be simple: study, eat convenience store kimbap, and sleep, preferably in that order. But peace is impossible when Yeo Jiwoo, his eccentric classmate from the same cram school, suddenly decides he’s her new favorite target. From stolen pens and playful pranks to unsolicited “study motivation,” Jiwoo seems determined to turn Juho’s quiet, disciplined life into a daily comedy of chaos. He swears she’s doing it just to annoy him… but why does his heart race every time she flashes tha",
     "descriptionPt": "",
-    "chaptersCount": 43,
+    "chaptersCount": 46,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -232423,7 +232423,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Desejo Sem Fim, um manhwa em português.",
     "descriptionPt": "Leia Desejo Sem Fim, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251251,7 +251251,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Taming of the Tyrant, um manhwa em português.",
     "descriptionPt": "Leia The Taming of the Tyrant, um manhwa em português.",
-    "chaptersCount": 133,
+    "chaptersCount": 134,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253112,7 +253112,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
     "descriptionPt": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
-    "chaptersCount": 108,
+    "chaptersCount": 109,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259100,7 +259100,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Teto x Egen: Vizinhos por Acaso, um manhwa em português.",
     "descriptionPt": "Leia Teto x Egen: Vizinhos por Acaso, um manhwa em português.",
-    "chaptersCount": 14,
+    "chaptersCount": 15,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259393,7 +259393,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia renasci-para-me-vingar-com-a-reversao-espelhada online em português.",
     "descriptionPt": "Leia renasci-para-me-vingar-com-a-reversao-espelhada online em português.",
-    "chaptersCount": 46,
+    "chaptersCount": 47,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259795,7 +259795,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
     "descriptionPt": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
-    "chaptersCount": 10,
+    "chaptersCount": 11,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261001,6 +261001,56 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "transformando-o-tigre-em-gatinho",
+    "slug": "transformando-o-tigre-em-gatinho",
+    "title": "Transformando o Tigre em Gatinho",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/transformando-o-tigre-em-gatinho/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/transformando-o-tigre-em-gatinho/cover-md.webp",
+    "author": "Cibeles",
+    "artist": "Cibeles",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Comedia",
+      "Fantasia",
+      "Romance",
+      "Historico",
+      "Josei",
+      "Magia",
+      "Animais"
+    ],
+    "description": "Leia Transformando o Tigre em Gatinho, um manhwa em português.",
+    "descriptionPt": "Leia Transformando o Tigre em Gatinho, um manhwa em português.",
+    "chaptersCount": 16,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "floricultura-s",
+    "slug": "floricultura-s",
+    "title": "floricultura-s",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/floricultura-s/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/floricultura-s/cover-md.webp",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Manga"
+    ],
+    "description": "Leia floricultura-s online em português.",
+    "descriptionPt": "Leia floricultura-s online em português.",
+    "chaptersCount": 54,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 
@@ -261125,7 +261175,7 @@ function filterManga(opts) {
   return results;
 }
 
-const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Casamento Arranjado","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Conto","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Esporte","Esportes","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gyaru","Harem","Harém","Harém Reverso","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Horrow","Idol","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","Older Woman","One Shot","Outros gêneros","Parody Anime","Person in a Strange World","Police","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vampiro","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Younger Man","Yuri","Zombies","Zoofilia"];
+const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animais","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Casamento Arranjado","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Conto","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Esporte","Esportes","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gyaru","Harem","Harém","Harém Reverso","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Horrow","Idol","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","Older Woman","One Shot","Outros gêneros","Parody Anime","Person in a Strange World","Police","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vampiro","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Younger Man","Yuri","Zombies","Zoofilia"];
 
 var ADULT_GENRE_KW = ['hentai','adulto','adult','+18','18+','nsfw','ecchi','smut','mature','maduro','erotic','erótic','erotica','bdsm','futanari','loli','shota','inces','tentacul','tentácul','zoofilia','obsceno','sem censura','uncensor','censura','nudez','nudity','sexual','sexo','mindbreak','ahegao','netorare','fetich','fetish','omegaverse','vanilla','borderline h'];
 function isAdultGenre(g) {

@@ -94428,7 +94428,7 @@ let MANGA_DATA = [
     ],
     "description": "Guiding Me Mad (Uncensored) Suwon is an S-class Guide with a notorious temper and a strict “no-touching” rule. After beating up one too many Espers who tried to get handsy, he’s given one last chance to save his career: a month-long live-in contract with the powerful Esper Gong Ian. There’s just one problem. Ian is the same pervert Suwon caught grinding against him on the bus earlier that day! To make matters worse, Ian isn’t just a creep, but a massive masochist who gets off on Suwon’s violence. Suwon came to guide him, but he might end up beating him into bliss instead.",
     "descriptionPt": "",
-    "chaptersCount": 15,
+    "chaptersCount": 16,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -249408,7 +249408,7 @@ let MANGA_DATA = [
     ],
     "description": "A+ for Pleasure She’s the perfect private tutor—smart, beautiful, and willing to offer more than just extra lessons. For her top-scoring students, the reward goes far beyond grades… and once you get a taste, you’ll do anything to stay at the top of the class.",
     "descriptionPt": "",
-    "chaptersCount": 21,
+    "chaptersCount": 23,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -253510,7 +253510,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Diário de Sobrevivência de um Mordomo no Castelo do Duque, um manhwa em português.",
     "descriptionPt": "Leia O Diário de Sobrevivência de um Mordomo no Castelo do Duque, um manhwa em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256553,7 +256553,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
     "descriptionPt": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
-    "chaptersCount": 40,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259799,31 +259799,6 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
-  },
-  {
-    "id": "a-for-pleasure",
-    "slug": "a-for-pleasure",
-    "title": "A+ for Pleasure",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2026/05/a-for-pleasure-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2026/05/a-for-pleasure-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adult",
-      "Seinen"
-    ],
-    "description": "She’s the perfect private tutor—smart, beautiful, and willing to offer more than just extra lessons. For her top-scoring students, the reward goes far beyond",
-    "descriptionEn": "She’s the perfect private tutor—smart, beautiful, and willing to offer more than just extra lessons. For her top-scoring students, the reward goes far beyond",
-    "chaptersCount": 21,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
   },
   {
     "id": "a-minha-irma-e-a-protagonista",

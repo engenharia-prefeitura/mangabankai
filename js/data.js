@@ -98038,7 +98038,7 @@ let MANGA_DATA = [
     ],
     "description": "The King of White Tigers (Uncensored) In the Kingdom of Ha, a land bordered by monster-infested wilds, an ancient law dictates that any Bearer. a male capable of conceiving the White Tiger’s heir, must be crowned King to prevent a seven-year famine. After decades of silence, Il-oh, a lowly slave, suddenly manifests as a Bearer. Following the omen, the former King abdicates, and the Crown Prince, Jang Woon, is demoted to a mere attendant tasked with serving the new, unwilling sovereign. Within the palace, a grim secret lingers: once a Bearer bears an heir at age twenty, he is destined for death",
     "descriptionPt": "",
-    "chaptersCount": 13,
+    "chaptersCount": 16,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -99296,15 +99296,17 @@ let MANGA_DATA = [
       "Fantasy",
       "Fetish",
       "Full Color",
+      "Gyaru",
       "Harem",
       "Magical Girl",
+      "Nudity",
       "Romance",
       "Sexual Content",
-      "Hentai"
+      "Webtoons"
     ],
     "description": "Saving My Magical Girl After a brutal battle, magical girl Ruby is torn into two separate bodies. Can Ruby reunite with herself before darkness wins?",
     "descriptionPt": "",
-    "chaptersCount": 34,
+    "chaptersCount": 36,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -230146,7 +230148,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Bebi a Poção do Amor Destinada ao Meu Marido, um manhwa em português.",
     "descriptionPt": "Leia Bebi a Poção do Amor Destinada ao Meu Marido, um manhwa em português.",
-    "chaptersCount": 12,
+    "chaptersCount": 14,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231521,7 +231523,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Ranker, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Ranker, um manhwa em português.",
-    "chaptersCount": 254,
+    "chaptersCount": 255,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232737,7 +232739,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Privilégio de uma Transmigrante, um manhwa em português.",
     "descriptionPt": "Leia O Privilégio de uma Transmigrante, um manhwa em português.",
-    "chaptersCount": 139,
+    "chaptersCount": 140,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250893,7 +250895,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Operação Coração Acelerado, um manhwa em português.",
     "descriptionPt": "Leia Operação Coração Acelerado, um manhwa em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251002,7 +251004,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Caída no Paraíso, um manhwa em português.",
     "descriptionPt": "Leia Caída no Paraíso, um manhwa em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251135,7 +251137,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Empregada Secreta do Conde, um manhwa em português.",
     "descriptionPt": "Leia A Empregada Secreta do Conde, um manhwa em português.",
-    "chaptersCount": 89,
+    "chaptersCount": 90,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252796,7 +252798,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Melhor Homem no Comando, um manhwa em português.",
     "descriptionPt": "Leia O Melhor Homem no Comando, um manhwa em português.",
-    "chaptersCount": 198,
+    "chaptersCount": 199,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252874,7 +252876,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Passarinho do Duque Sombrio, um manhwa em português.",
     "descriptionPt": "Leia O Passarinho do Duque Sombrio, um manhwa em português.",
-    "chaptersCount": 46,
+    "chaptersCount": 47,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253137,7 +253139,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Knight King Who Returned with a God, um manhwa em português.",
     "descriptionPt": "Leia The Knight King Who Returned with a God, um manhwa em português.",
-    "chaptersCount": 174,
+    "chaptersCount": 175,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253350,7 +253352,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Se Você Tirar a Máscara De Um Protagonista Masculino Gentil, um manhwa em português.",
     "descriptionPt": "Leia Se Você Tirar a Máscara De Um Protagonista Masculino Gentil, um manhwa em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253430,7 +253432,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia De Goblin A Deus Goblin, um manhua em português.",
     "descriptionPt": "Leia De Goblin A Deus Goblin, um manhua em português.",
-    "chaptersCount": 116,
+    "chaptersCount": 119,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253770,7 +253772,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Conforme o seu coração guiar, um manhwa em português.",
     "descriptionPt": "Leia Conforme o seu coração guiar, um manhwa em português.",
-    "chaptersCount": 59,
+    "chaptersCount": 60,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254064,7 +254066,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Revelation of Youth, um manhwa em português.",
     "descriptionPt": "Leia Revelation of Youth, um manhwa em português.",
-    "chaptersCount": 118,
+    "chaptersCount": 120,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254410,7 +254412,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Filho Adotivo em um Mundo de Supremacia de Linhagem, um mangá em português.",
     "descriptionPt": "Leia O Retorno do Filho Adotivo em um Mundo de Supremacia de Linhagem, um mangá em português.",
-    "chaptersCount": 45,
+    "chaptersCount": 46,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255333,7 +255335,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Fui Jogado em uma História de Fantasmas, Mas Ainda Tenho que Trabalhar, um manhwa em português.",
     "descriptionPt": "Leia Fui Jogado em uma História de Fantasmas, Mas Ainda Tenho que Trabalhar, um manhwa em português.",
-    "chaptersCount": 26,
+    "chaptersCount": 27,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255768,7 +255770,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Caçador Quer Uma Vida Tranquila, um manhwa em português.",
     "descriptionPt": "Leia O Caçador Quer Uma Vida Tranquila, um manhwa em português.",
-    "chaptersCount": 37,
+    "chaptersCount": 38,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255797,7 +255799,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Escândalo da Princesa Herdeira, um manhwa em português.",
     "descriptionPt": "Leia O Escândalo da Princesa Herdeira, um manhwa em português.",
-    "chaptersCount": 9,
+    "chaptersCount": 10,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256551,7 +256553,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
     "descriptionPt": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256793,7 +256795,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Amor é uma Droga, um manhwa em português.",
     "descriptionPt": "Leia O Amor é uma Droga, um manhwa em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 42,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258482,7 +258484,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Querido, Por Que Não Nos Divorciamos?, um manhwa em português.",
     "descriptionPt": "Leia Querido, Por Que Não Nos Divorciamos?, um manhwa em português.",
-    "chaptersCount": 67,
+    "chaptersCount": 71,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260920,6 +260922,57 @@ let MANGA_DATA = [
     "description": "Leia Depois que me tornei a princesa favorita mais jovem, todos ficaram obcecados por mim, um manhwa em português.",
     "descriptionPt": "Leia Depois que me tornei a princesa favorita mais jovem, todos ficaram obcecados por mim, um manhwa em português.",
     "chaptersCount": 42,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "por-favor-me-de-essa-chupeta",
+    "slug": "por-favor-me-de-essa-chupeta",
+    "title": "Por Favor me dê Essa Chupeta",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/por-favor-me-de-essa-chupeta/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/por-favor-me-de-essa-chupeta/cover-md.webp",
+    "author": "Ja Eunhang",
+    "artist": "Ja Eunhang",
+    "status": "ongoing",
+    "year": 2021,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Historico",
+      "Manhwa"
+    ],
+    "description": "Leia Por Favor me dê Essa Chupeta, um manhwa em português.",
+    "descriptionPt": "Leia Por Favor me dê Essa Chupeta, um manhwa em português.",
+    "chaptersCount": 98,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "a-nova-nora-do-grao-duque-e-um-pouco-feroz",
+    "slug": "a-nova-nora-do-grao-duque-e-um-pouco-feroz",
+    "title": "A Nova Nora do Grão-Duque é um Pouco Feroz",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-nova-nora-do-grao-duque-e-um-pouco-feroz/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-nova-nora-do-grao-duque-e-um-pouco-feroz/cover-md.webp",
+    "author": "Simsang",
+    "artist": "Simsang",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Romance",
+      "Manhwa"
+    ],
+    "description": "Leia A Nova Nora do Grão-Duque é um Pouco Feroz, um manhwa em português.",
+    "descriptionPt": "Leia A Nova Nora do Grão-Duque é um Pouco Feroz, um manhwa em português.",
+    "chaptersCount": 9,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

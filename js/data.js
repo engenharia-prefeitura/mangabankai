@@ -233034,7 +233034,7 @@ let MANGA_DATA = [
     ],
     "description": "Radiant Darkness (Uncensored) “Jeong Nanwoo, a world-renowned violin prodigy, overcame a troubled childhood to rise to global fame. Yet despite his success, he remains trapped in layers of emotional darkness he can’t seem to escape. Enoch Milligan, a charming Hollywood heartthrob known more for his looks than his acting skills, is desperate to prove himself as more than just a pretty face. The two seem to share nothing in common—until a film project brings them together. Enoch is cast as the lead in a movie based on Nanwoo’s life and insists on shadowing him to prepare for the role, ignoring N",
     "descriptionPt": "",
-    "chaptersCount": 54,
+    "chaptersCount": 56,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

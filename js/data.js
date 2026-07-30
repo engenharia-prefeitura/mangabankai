@@ -79760,7 +79760,7 @@ let MANGA_DATA = [
     ],
     "description": "I was swung around in my past life but this time I’ll live the way I want to. I’ll fuck all the beautiful women, my female domination starts now!",
     "descriptionEn": "I was swung around in my past life but this time I’ll live the way I want to. I’ll fuck all the beautiful women, my female domination starts now!",
-    "chaptersCount": 91,
+    "chaptersCount": 92,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -98590,7 +98590,7 @@ let MANGA_DATA = [
     ],
     "description": "My Sweet Psycho Baby (Uncensored) Heedo, fragile yet dangerously obsessive, locks debt collector Woorak in his basement after a violent outburst. Demanding affection, Heedo blurs love and desperation. As captive Woorak’s defenses crumble, obsession and tenderness twist their bond until the line between captor and captive vanishes.",
     "descriptionPt": "",
-    "chaptersCount": 38,
+    "chaptersCount": 39,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -99178,7 +99178,7 @@ let MANGA_DATA = [
     ],
     "description": "Bias Wrecker (Uncensored) Rookie actor Yeo Jeongwon just landed a spot on the healing reality show A Month in Europe. There’s just one problem: his ultimate celebrity crush, Kwon Haewoon, is his co-star! To survive the trip, Jeongwon has two simple rules: don’t let anyone know he’s a superfan, and don’t get too close to Haewoon. But when Haewoon insists on being roommates and claims they’ve met before, Jeongwon’s “professional” act begins to crumble. Between shared rooms and constant filming, he’s one $5-a-month fan-app notification away from being outed as the world’s biggest fanboy.",
     "descriptionPt": "",
-    "chaptersCount": 19,
+    "chaptersCount": 22,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207271,7 +207271,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno da Seita Monte Hua, um manhwa em português.",
     "descriptionPt": "Leia O Retorno da Seita Monte Hua, um manhwa em português.",
-    "chaptersCount": 172,
+    "chaptersCount": 173,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207614,7 +207614,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dragões Sequestrados, um manhwa em português.",
     "descriptionPt": "Leia Dragões Sequestrados, um manhwa em português.",
-    "chaptersCount": 52,
+    "chaptersCount": 53,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207665,7 +207665,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Missões na Vida Real, um manhwa em português.",
     "descriptionPt": "Leia Missões na Vida Real, um manhwa em português.",
-    "chaptersCount": 217,
+    "chaptersCount": 218,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207692,7 +207692,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Nano Máquina, um manhwa em português.",
     "descriptionPt": "Leia Nano Máquina, um manhwa em português.",
-    "chaptersCount": 322,
+    "chaptersCount": 323,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207900,7 +207900,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Me Escolhe!, um manhwa em português.",
     "descriptionPt": "Leia Me Escolhe!, um manhwa em português.",
-    "chaptersCount": 211,
+    "chaptersCount": 212,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232344,7 +232344,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Despertar em Tempo Integral, um manhua em português.",
     "descriptionPt": "Leia Despertar em Tempo Integral, um manhua em português.",
-    "chaptersCount": 147,
+    "chaptersCount": 150,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232787,7 +232787,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu só Preciso de um Filho do Duque, um manhwa em português.",
     "descriptionPt": "Leia Eu só Preciso de um Filho do Duque, um manhwa em português.",
-    "chaptersCount": 20,
+    "chaptersCount": 21,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251224,7 +251224,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sou a Madrasta, Mas Minha Filha é Muito Fofa, um manhwa em português.",
     "descriptionPt": "Leia Sou a Madrasta, Mas Minha Filha é Muito Fofa, um manhwa em português.",
-    "chaptersCount": 166,
+    "chaptersCount": 167,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251521,7 +251521,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Você, Que Será Minha Ruína, um manhwa em português.",
     "descriptionPt": "Leia A Você, Que Será Minha Ruína, um manhwa em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 23,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252902,7 +252902,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Accidental Love, um manhwa em português.",
     "descriptionPt": "Leia Accidental Love, um manhwa em português.",
-    "chaptersCount": 101,
+    "chaptersCount": 102,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253112,7 +253112,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
     "descriptionPt": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
-    "chaptersCount": 109,
+    "chaptersCount": 110,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254438,7 +254438,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Demônio Supremo do Veneno, um manhwa em português.",
     "descriptionPt": "Leia O Demônio Supremo do Veneno, um manhwa em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254693,7 +254693,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-tornei-um-mago-de-fantasia-medieval online em português.",
     "descriptionPt": "Leia me-tornei-um-mago-de-fantasia-medieval online em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 33,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256553,7 +256553,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
     "descriptionPt": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 42,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256743,7 +256743,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Vá Embora, Romeo!, um webtoon em português.",
     "descriptionPt": "Leia Vá Embora, Romeo!, um webtoon em português.",
-    "chaptersCount": 76,
+    "chaptersCount": 77,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259232,7 +259232,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Sou a Espiã de 5 Anos Que Sequestrou o Vilão, um manhwa em português.",
     "descriptionPt": "Leia Eu Sou a Espiã de 5 Anos Que Sequestrou o Vilão, um manhwa em português.",
-    "chaptersCount": 11,
+    "chaptersCount": 12,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

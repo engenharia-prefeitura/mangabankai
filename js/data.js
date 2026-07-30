@@ -97260,7 +97260,7 @@ let MANGA_DATA = [
     ],
     "description": "My Personal Caddie (Uncensored) Seo Yeowon, desperate for money, starts a high-paying caddie job at Royal Golf only to find that it’s a private country club where only the most powerful and wealthiest people are allowed. Yeowon caters to the guests’ whims and catches the attention of the mysterious and ominous Jang Giju, who makes him a lucrative offer he can’t refuse, changing the course of both their lives. Can Yeowon handle Mr. Jang’s eccentric and prolific tastes?",
     "descriptionPt": "",
-    "chaptersCount": 68,
+    "chaptersCount": 70,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97521,7 +97521,7 @@ let MANGA_DATA = [
     ],
     "description": "Happily Ever After (BINA) Since childhood, Pil Hyeonseo has dreamed of a fairy tale ending with a perfect prince, the kind she writes about in her picture books. Now 27 and still an unknown author, she believes she has finally found that happy ending, only for it to shatter when her long time boyfriend cheats on her after seven years together. Heartbroken and disoriented by the betrayal, Hyeonseo finds herself standing at a crossroads between the love she lost and the future she never imagined. Just as she is struggling to pick up the pieces, three very different men step into her life, each o",
     "descriptionPt": "",
-    "chaptersCount": 27,
+    "chaptersCount": 29,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207296,7 +207296,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu sou a Vilã, um webtoon em português.",
     "descriptionPt": "Leia Eu sou a Vilã, um webtoon em português.",
-    "chaptersCount": 103,
+    "chaptersCount": 104,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255012,7 +255012,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Lendária Assassina Reencarnada Como a Amada Filha Caçula de Uma Família Real, um mangá em português.",
     "descriptionPt": "Leia A Lendária Assassina Reencarnada Como a Amada Filha Caçula de Uma Família Real, um mangá em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258601,7 +258601,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia bai-lijin-entre-mortais online em português.",
     "descriptionPt": "Leia bai-lijin-entre-mortais online em português.",
-    "chaptersCount": 156,
+    "chaptersCount": 171,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261344,6 +261344,56 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "o-idolo-da-nossa-guildao-idolo-da-nossa-guilda",
+    "slug": "o-idolo-da-nossa-guildao-idolo-da-nossa-guilda",
+    "title": "O Ídolo da Nossa Guilda",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/o-idolo-da-nossa-guildao-idolo-da-nossa-guilda/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/o-idolo-da-nossa-guildao-idolo-da-nossa-guilda/cover-md.webp",
+    "author": "Kkoobbooo",
+    "artist": "Kkoobbooo",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Romance"
+    ],
+    "description": "Leia O Ídolo da Nossa Guilda, um manhwa em português.",
+    "descriptionPt": "Leia O Ídolo da Nossa Guilda, um manhwa em português.",
+    "chaptersCount": 44,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "a-noiva-substituta-e-mimada-pelo-imperador-de-coracao-frio",
+    "slug": "a-noiva-substituta-e-mimada-pelo-imperador-de-coracao-frio",
+    "title": "A Noiva Substituta é Mimada pelo Imperador de Coração Frio",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-noiva-substituta-e-mimada-pelo-imperador-de-coracao-frio/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-noiva-substituta-e-mimada-pelo-imperador-de-coracao-frio/cover-md.webp",
+    "author": "AZUMA Yuki",
+    "artist": "AZUMA Yuki",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Manga"
+    ],
+    "description": "Leia A Noiva Substituta é Mimada pelo Imperador de Coração Frio, um mangá em português.",
+    "descriptionPt": "Leia A Noiva Substituta é Mimada pelo Imperador de Coração Frio, um mangá em português.",
+    "chaptersCount": 31,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

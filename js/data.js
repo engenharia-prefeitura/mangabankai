@@ -98513,7 +98513,7 @@ let MANGA_DATA = [
     ],
     "description": "No Hard Feelings (Uncensored) Eun Pyo-eum, the leader of the failed idol group Moses, is desperate for a comeback. When a mysterious sponsorship deal offers him a lifeline, there’s just one problem: he has chronic erectile dysfunction. Seeking help from the nation’s top urologist, Professor Han Girip, Pyo-eum finds that standard medicine won’t cut it. To fix his condition, he agrees to participate in Girip’s new experimental therapy…a treatment that quickly turns into a series of (quite literally) shocking encounters.",
     "descriptionPt": "",
-    "chaptersCount": 18,
+    "chaptersCount": 20,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

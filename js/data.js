@@ -3113,7 +3113,7 @@ let MANGA_DATA = [
       "Sports"
     ],
     "description": "The story starts with Japan's end from the 2018 FIFA World Cup, which prompts the Japanese Football Union to begin a program exploring secondary school players who will start preparing in anticipation of the 2022 Cup. Isagi Youichi, a forward, gets a solicitation to this program not long after his group loses the opportunity to go to Nationals since he went to his less-talented partner - who missed - without attempting to make the game-changing objective without anyone else. \r\n\r\nTheir mentor will be Ego Jinpachi, who plans to \"obliterate Japanese failure football\" by presenting a radical new preparing routine: confine 300 youthful advances in a jail like organization called \"Blue Lock\" and put them through thorough preparing planned for making \"the world's most noteworthy narcissist striker.\"",
-    "chaptersCount": 362,
+    "chaptersCount": 363,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -6098,7 +6098,7 @@ let MANGA_DATA = [
       "Super Power"
     ],
     "description": "Hunters are a special breed, dedicated to tracking down treasures, magical beasts, and even other men. But such pursuits require a license, and less than one in a hundred thousand can pass the grueling qualification exam. Those who do pass gain access to restricted areas, amazing stores of information, and the right to call themselves Hunters.",
-    "chaptersCount": 419,
+    "chaptersCount": 420,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -55736,7 +55736,7 @@ let MANGA_DATA = [
       "Manga"
     ],
     "description": "Leia Shangri La Frontier online no MangaSurge.",
-    "chaptersCount": 273,
+    "chaptersCount": 275,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -91237,7 +91237,7 @@ let MANGA_DATA = [
     ],
     "description": "The Warrior in Rut (Official) Jade Hiero is the warrior who save the world, but became a playboy who is on the run. People call him “The Warrior in Rut”.",
     "descriptionPt": "",
-    "chaptersCount": 30,
+    "chaptersCount": 33,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -91921,7 +91921,7 @@ let MANGA_DATA = [
     ],
     "description": "Pleasurebound Princess (Official) After the fall of the Kingdom of Solaris to the Demon King Zermes, a princess and her queen mother are captured and branded with a cursed Pleasure Mark. To protect her daughter, the queen embraces corruption, while the princess loses her last hope. And day by day, both are broken down and forced to submit to the Demon King’s pleasure.",
     "descriptionPt": "",
-    "chaptersCount": 26,
+    "chaptersCount": 27,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -94512,7 +94512,7 @@ let MANGA_DATA = [
     ],
     "description": "DASH (Yeoreumsup) (Uncensored) Jeong Jiheon, a once-promising swimmer, retired early due to an injury and now works diligently at a sports agency. The hottest topic in the sports marketing world is none other than Kwon Jae-kyoung, and agencies are fiercely competing to win him over. Jiheon’s boss orders him to secure a meeting with Jae-kyoung at all costs. Using a trivial connection from a decade ago when they briefly trained at the same aquatic center, Jiheon miraculously succeeds in arranging a meeting. However, when they finally meet, Jae-kyoung shows no interest in contract terms and inste",
     "descriptionPt": "",
-    "chaptersCount": 44,
+    "chaptersCount": 46,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -101091,7 +101091,7 @@ let MANGA_DATA = [
     ],
     "description": "The Guide’s Treasure (Uncensored) The F12 Center is infamous for one thing—its dangerously high superhuman burnout rate. And that’s exactly where civilian diagnostics officer Baek Shijin is suddenly transferred. On his first day, Shijin is approached by Jeong Taeyool, an A-rank Guide with a reputation as sharp as his instincts, under the guise of an admin worker. “Just stop giving Ham Geonwoo your attention, and we’ll get along fine.” Shijin only wanted to repay Ham Geonwoo, the Esper who saved him a decade ago. But somehow, his highest match rate is with Taeyool—who sees right through him. “D",
     "descriptionPt": "",
-    "chaptersCount": 34,
+    "chaptersCount": 35,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -114714,7 +114714,7 @@ let MANGA_DATA = [
     ],
     "description": "Rakujitsu no Pathos What happens when next door to Fujiwara, an upcoming mangaka, moves Yuuki, who was his teacher back at high-school and first crush? Yuuki, a married woman now is starting a new life in the city but her husband is always away on business so she finds comfort in the company of her former student but what she doesn’t realise is that Fujiwara can listen to everything happening in her apartment through the building’s thin walls…",
     "descriptionPt": "",
-    "chaptersCount": 109,
+    "chaptersCount": 114,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -258601,7 +258601,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia bai-lijin-entre-mortais online em português.",
     "descriptionPt": "Leia bai-lijin-entre-mortais online em português.",
-    "chaptersCount": 171,
+    "chaptersCount": 188,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261364,7 +261364,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Ídolo da Nossa Guilda, um manhwa em português.",
     "descriptionPt": "Leia O Ídolo da Nossa Guilda, um manhwa em português.",
-    "chaptersCount": 44,
+    "chaptersCount": 45,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261684,6 +261684,50 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "o-segredo-do-senior-perfeito",
+    "slug": "o-segredo-do-senior-perfeito",
+    "title": "o-segredo-do-senior-perfeito",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/o-segredo-do-senior-perfeito/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/o-segredo-do-senior-perfeito/cover-md.webp",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Manga"
+    ],
+    "description": "Leia o-segredo-do-senior-perfeito online em português.",
+    "descriptionPt": "Leia o-segredo-do-senior-perfeito online em português.",
+    "chaptersCount": 1,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "me-tornei-a-mestre-do-diabo",
+    "slug": "me-tornei-a-mestre-do-diabo",
+    "title": "me-tornei-a-mestre-do-diabo",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/me-tornei-a-mestre-do-diabo/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/me-tornei-a-mestre-do-diabo/cover-md.webp",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Manga"
+    ],
+    "description": "Leia me-tornei-a-mestre-do-diabo online em português.",
+    "descriptionPt": "Leia me-tornei-a-mestre-do-diabo online em português.",
+    "chaptersCount": 15,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

@@ -93019,7 +93019,7 @@ let MANGA_DATA = [
     ],
     "description": "Human Trash (Official) “The world has ended now, so how about I try keeping human pets?” I don’t know why, but the world has come to an end. People don’t hesitate to murder their friends and family, as survival and desire are the only values that rule over them. All the survivors of this new world were given a single skill of their choice. Samuel, suffering from insomnia, chose the skill “sleep.” Using his skill, he begins to hunt women and rape them after he puts them to sleep!",
     "descriptionPt": "",
-    "chaptersCount": 53,
+    "chaptersCount": 55,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

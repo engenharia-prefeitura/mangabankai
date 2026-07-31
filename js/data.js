@@ -91049,7 +91049,7 @@ let MANGA_DATA = [
     ],
     "description": "Traded Lives (Official) Shay, the S-Class Hunter everyone dreams of becoming. But Dennis, a man with the power to switch bodies, sets his sights on stealing everything from him… by taking his body. “You want my body? You’d be better off chasing youth.”",
     "descriptionPt": "",
-    "chaptersCount": 40,
+    "chaptersCount": 41,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -92406,7 +92406,7 @@ let MANGA_DATA = [
     ],
     "description": "Mother and daughter (Official) “What will you do for me if I defend you?” Carter is a successful lawyer. He is assigned to defend the family who left him when he was young. Taking the superior position this time, he goes into the mother and daughter’s house. We’re done with dinner. Shall we sleep together now?",
     "descriptionPt": "",
-    "chaptersCount": 19,
+    "chaptersCount": 21,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97791,7 +97791,7 @@ let MANGA_DATA = [
     ],
     "description": "BDSM 101 (Uncensored) Song Jeongwon is an active member of the BDSM community, offering guidance and advice to newcomers. One day, he comes across a distressing post from Kang Hoseob, a beginner who has fallen into the hands of an abusive dom and is seeking help. Realizing that Hoseob lacks even the most basic knowledge of BDSM, Jeongwon steps in—not just to rescue him but to personally guide him as his temporary dom. “Master, I’ll be good…I promise.” Jeongwon takes on the challenge, but can he truly teach Hoseob the foundations of trust, consent, and desire before it’s too late?",
     "descriptionPt": "",
-    "chaptersCount": 39,
+    "chaptersCount": 43,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -100369,7 +100369,7 @@ let MANGA_DATA = [
     ],
     "description": "Right Under His Roof After years of being pushed around by his so-called friends, Jeff hatches a bold plan to hit back where it hurts most.",
     "descriptionPt": "",
-    "chaptersCount": 55,
+    "chaptersCount": 58,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -231811,7 +231811,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Pirralhinha Corre Selvagemente, um manhwa em português.",
     "descriptionPt": "Leia A Pirralhinha Corre Selvagemente, um manhwa em português.",
-    "chaptersCount": 11,
+    "chaptersCount": 12,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232264,7 +232264,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Jogo do Ferreiro Genial, um manhwa em português.",
     "descriptionPt": "Leia O Jogo do Ferreiro Genial, um manhwa em português.",
-    "chaptersCount": 64,
+    "chaptersCount": 65,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250525,7 +250525,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Pelas Deusas, um manhwa em português.",
     "descriptionPt": "Leia Pelas Deusas, um manhwa em português.",
-    "chaptersCount": 49,
+    "chaptersCount": 50,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251816,7 +251816,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Senhorita Celebridade, um manhwa em português.",
     "descriptionPt": "Leia Senhorita Celebridade, um manhwa em português.",
-    "chaptersCount": 81,
+    "chaptersCount": 82,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251921,7 +251921,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Breakers, um manhwa em português.",
     "descriptionPt": "Leia Breakers, um manhwa em português.",
-    "chaptersCount": 99,
+    "chaptersCount": 100,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252928,7 +252928,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Bebê Prisioneira do Castelo de Inverno, um manhwa em português.",
     "descriptionPt": "Leia A Bebê Prisioneira do Castelo de Inverno, um manhwa em português.",
-    "chaptersCount": 102,
+    "chaptersCount": 103,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253432,7 +253432,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia De Goblin A Deus Goblin, um manhua em português.",
     "descriptionPt": "Leia De Goblin A Deus Goblin, um manhua em português.",
-    "chaptersCount": 119,
+    "chaptersCount": 120,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255874,7 +255874,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Amor:Zero, um manhwa em português.",
     "descriptionPt": "Leia Amor:Zero, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257351,7 +257351,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia #Meu Primeiro Amor, um manhwa em português.",
     "descriptionPt": "Leia #Meu Primeiro Amor, um manhwa em português.",
-    "chaptersCount": 11,
+    "chaptersCount": 16,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258316,7 +258316,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Shi Zun: Zhege Chong Shi Nitu Cai Bushi Sheng Zi – Master: This Villainous Disciple Is Not The Holy Child Offending My Master, um manhua em português.",
     "descriptionPt": "Leia Shi Zun: Zhege Chong Shi Nitu Cai Bushi Sheng Zi – Master: This Villainous Disciple Is Not The Holy Child Offending My Master, um manhua em português.",
-    "chaptersCount": 194,
+    "chaptersCount": 195,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259820,7 +259820,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Minha Irmã É A Protagonista, um manhwa em português.",
     "descriptionPt": "Leia A Minha Irmã É A Protagonista, um manhwa em português.",
-    "chaptersCount": 87,
+    "chaptersCount": 91,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261774,6 +261774,59 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "buraco-de-serpente",
+    "slug": "buraco-de-serpente",
+    "title": "Buraco de Serpente",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/buraco-de-serpente/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/buraco-de-serpente/cover-md.webp",
+    "author": "Muu",
+    "artist": "Muu",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Adulto",
+      "Smut",
+      "Manhwa",
+      "Yaoi"
+    ],
+    "description": "Leia Buraco de Serpente, um manhwa em português.",
+    "descriptionPt": "Leia Buraco de Serpente, um manhwa em português.",
+    "chaptersCount": 20,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "um-homem-de-verdade",
+    "slug": "um-homem-de-verdade",
+    "title": "Um Homem de Verdade",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/um-homem-de-verdade/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/um-homem-de-verdade/cover-md.webp",
+    "author": "HA Neulso",
+    "artist": "HA Neulso",
+    "status": "ongoing",
+    "year": 2020,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Seinen",
+      "Slice of Life",
+      "Manhwa",
+      "Supernatural"
+    ],
+    "description": "Leia Um Homem de Verdade, um manhwa em português.",
+    "descriptionPt": "Leia Um Homem de Verdade, um manhwa em português.",
+    "chaptersCount": 47,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

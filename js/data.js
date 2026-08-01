@@ -93781,7 +93781,7 @@ let MANGA_DATA = [
     ],
     "description": "Professor’s Alt Account Fresh out of the military and eager for a fresh start, Jiwoo returns to university, ready to slip back into the rhythm of normal campus life. His plans hit a sudden, unavoidable roadblock when he is forced to enroll in a course taught by Professor Ha-Yeong. Jiwoo absolutely dreads the prospect; he carries a deep-seated resentment toward her, stemming from a painful past where he was subjected to her blatant, unfair treatment. Forced to grit his teeth and endure her lectures, he prepares for a grueling semester of academic power games. However, the dynamic changes entire",
     "descriptionPt": "",
-    "chaptersCount": 18,
+    "chaptersCount": 21,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -95484,7 +95484,7 @@ let MANGA_DATA = [
     "descriptionPt": "",
     "chaptersCount": 175,
     "lang": "en",
-    "hasPt": true,
+    "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
   },
@@ -95640,7 +95640,7 @@ let MANGA_DATA = [
     ],
     "description": "The Extra’s Academy Survival Guide Ed Rothstaylor is a third-rate villain in a game, disowned by his family and kicked out of the dormitory for his misdeeds. One day, our main character wakes up as this very Ed, and realizes he must earn a scholarship so he can graduate and be set for life. Now living in the woods, he resolves to keep away from the protagonists, but four of the female leads just won’t leave him alone. Not only that, his presence starts to change the timeline and events of the game! Can Ed help the story progress while staying out of the limelight?",
     "descriptionPt": "",
-    "chaptersCount": 115,
+    "chaptersCount": 117,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -231550,7 +231550,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Obtive um Item Mítico, um manhwa em português.",
     "descriptionPt": "Leia Eu Obtive um Item Mítico, um manhwa em português.",
-    "chaptersCount": 190,
+    "chaptersCount": 192,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250687,7 +250687,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Regressor Faz Tudo, um manhwa em português.",
     "descriptionPt": "Leia O Regressor Faz Tudo, um manhwa em português.",
-    "chaptersCount": 34,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251277,7 +251277,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Regressor da Família Caída, um manhwa em português.",
     "descriptionPt": "Leia O Regressor da Família Caída, um manhwa em português.",
-    "chaptersCount": 144,
+    "chaptersCount": 145,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258163,7 +258163,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Swordmaster’s Youngest Son, um manhwa em português.",
     "descriptionPt": "Leia Swordmaster’s Youngest Son, um manhwa em português.",
-    "chaptersCount": 204,
+    "chaptersCount": 205,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260020,7 +260020,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-santo-evolui-atraves-da-necromancia online em português.",
     "descriptionPt": "Leia o-santo-evolui-atraves-da-necromancia online em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

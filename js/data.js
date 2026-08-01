@@ -92053,7 +92053,7 @@ let MANGA_DATA = [
     ],
     "description": "Perversion: Dirty Confessions 2 (Official) Suffering from a thirst that can’t be quenched with a one-off encounters, I’m still hooked on these dirty confessions.",
     "descriptionPt": "",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

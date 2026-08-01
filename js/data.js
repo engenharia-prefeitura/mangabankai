@@ -98662,7 +98662,7 @@ let MANGA_DATA = [
     ],
     "description": "Milk My Strawberries (Uncensored) After spending a lifetime drinking an absurd amount of strawberry milk, Song Seol-ah thought the worst she’d ever have to face was a stomachache. Until her chest started leaking the stuff, that is! As strange new urges overtake her body and mind, she tries to deal with it alone…until an ill-timed encounter with Kim Yushin, her childhood friend turned national medalist, throws everything into chaos. When he offers to help relieve her unbearable desire, she’s thrust into a dangerously sweet arrangement that’s quickly spiraling out of control.",
     "descriptionPt": "",
-    "chaptersCount": 58,
+    "chaptersCount": 59,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -232186,7 +232186,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vida da Vilã, Eu Tentarei Viver, um manhwa em português.",
     "descriptionPt": "Leia A Vida da Vilã, Eu Tentarei Viver, um manhwa em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232504,7 +232504,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Puramente Delinquente, um manhwa em português.",
     "descriptionPt": "Leia Puramente Delinquente, um manhwa em português.",
-    "chaptersCount": 21,
+    "chaptersCount": 22,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257614,7 +257614,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Vou me divorciar do irmão siscon da protagonista, um manhwa em português.",
     "descriptionPt": "Leia Vou me divorciar do irmão siscon da protagonista, um manhwa em português.",
-    "chaptersCount": 23,
+    "chaptersCount": 24,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261851,6 +261851,31 @@ let MANGA_DATA = [
     "description": "Leia Demônio X Anjo, não se entendem!, um manhua em português.",
     "descriptionPt": "Leia Demônio X Anjo, não se entendem!, um manhua em português.",
     "chaptersCount": 63,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "fui-escolhida-para-ser-a-nora-do-tirano",
+    "slug": "fui-escolhida-para-ser-a-nora-do-tirano",
+    "title": "Fui escolhida para ser a nora do tirano",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/fui-escolhida-para-ser-a-nora-do-tirano/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/fui-escolhida-para-ser-a-nora-do-tirano/cover-md.webp",
+    "author": "Junye",
+    "artist": "Junye",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Manhwa"
+    ],
+    "description": "Leia Fui escolhida para ser a nora do tirano, um manhwa em português.",
+    "descriptionPt": "Leia Fui escolhida para ser a nora do tirano, um manhwa em português.",
+    "chaptersCount": 1,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

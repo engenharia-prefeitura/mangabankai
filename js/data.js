@@ -233699,7 +233699,7 @@ let MANGA_DATA = [
     ],
     "description": "The Return of the Disaster-Class Hero There once was the strongest Hero on earth. “But he died though. How does a guy we killed gonna come back?” “I know right. But if there was a way to come back, he would come back.” But did he really come back after 20 years? “What are you so surprised about? Why. Did you do something to feel guilty about?” You bastards. I won’t let you get away with it.",
     "descriptionPt": "",
-    "chaptersCount": 183,
+    "chaptersCount": 184,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -251606,7 +251606,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Cuidado com a Vilã!, um manhwa em português.",
     "descriptionPt": "Leia Cuidado com a Vilã!, um manhwa em português.",
-    "chaptersCount": 136,
+    "chaptersCount": 137,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253851,7 +253851,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Como se o amor não existisse, um manhwa em português.",
     "descriptionPt": "Leia Como se o amor não existisse, um manhwa em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254254,7 +254254,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Lei de Inso, um manhwa em português.",
     "descriptionPt": "Leia A Lei de Inso, um manhwa em português.",
-    "chaptersCount": 223,
+    "chaptersCount": 224,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258601,7 +258601,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia bai-lijin-entre-mortais online em português.",
     "descriptionPt": "Leia bai-lijin-entre-mortais online em português.",
-    "chaptersCount": 188,
+    "chaptersCount": 203,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261746,7 +261746,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia presa online em português.",
     "descriptionPt": "Leia presa online em português.",
-    "chaptersCount": 10,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

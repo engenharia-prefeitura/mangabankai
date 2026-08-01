@@ -92470,7 +92470,7 @@ let MANGA_DATA = [
     ],
     "description": "Mind Control (HO) (Official) Austin gets falsely accused and becomes a loner. One day, he gets to download a mysterious hypnosis app that lets him take revenge on the girls that looked down on him. “I’ll fuck all of you who looked down on me.”",
     "descriptionPt": "",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97924,7 +97924,7 @@ let MANGA_DATA = [
     ],
     "description": "True or False? (Uncensored) Steamy stories that might be true…or totally fake. Hooking up with your married friend? A wild foursome out of nowhere? Who hasn’t fantasized about something a little out there? New episodes every day to tease your curiosity—until the big reveal. Can you tell what’s fact and what’s pure fantasy? Take your best guess…if you dare.",
     "descriptionPt": "",
-    "chaptersCount": 179,
+    "chaptersCount": 182,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -230889,7 +230889,7 @@ let MANGA_DATA = [
     ],
     "description": "8 / 100 Desenvolvido por Rank Math SEO",
     "descriptionPt": "8 / 100 Desenvolvido por Rank Math SEO",
-    "chaptersCount": 111,
+    "chaptersCount": 112,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false,
@@ -261746,7 +261746,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia presa online em português.",
     "descriptionPt": "Leia presa online em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261944,6 +261944,28 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "estou-te-dizendo-so-tenho-olhos-para-voce",
+    "slug": "estou-te-dizendo-so-tenho-olhos-para-voce",
+    "title": "estou-te-dizendo-so-tenho-olhos-para-voce",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/estou-te-dizendo-so-tenho-olhos-para-voce/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/estou-te-dizendo-so-tenho-olhos-para-voce/cover-md.webp",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Manga"
+    ],
+    "description": "Leia estou-te-dizendo-so-tenho-olhos-para-voce online em português.",
+    "descriptionPt": "Leia estou-te-dizendo-so-tenho-olhos-para-voce online em português.",
+    "chaptersCount": 22,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

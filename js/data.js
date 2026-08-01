@@ -98256,7 +98256,7 @@ let MANGA_DATA = [
     ],
     "description": "Ripe for the Picking (SREEESS) (Uncensored) Summer, 1994. Seojin is hiding from debt collectors in the middle of nowhere, facing a fate worse than bankruptcy: manual labor. When a sudden stomach ache leads to a messy disaster in a neighbor’s field, Seojin is caught red-handed by the hulking owner, Cheol. Cheol helps Seojin handle his spicy peppers by day, and Seojin returns the favor by night. Seojin thinks he’s just using the local hunk for “farm assistance,” but this country boy’s heat might be too much to handle!",
     "descriptionPt": "",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

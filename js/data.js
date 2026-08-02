@@ -101341,7 +101341,7 @@ let MANGA_DATA = [
     ],
     "description": "From Pauper to Prince Having lived in poverty all his life, Brian gets a second chance when he is offered the role of the sole heir to a conglomerate family’s enormous fortune.",
     "descriptionPt": "",
-    "chaptersCount": 63,
+    "chaptersCount": 64,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -232187,7 +232187,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vida da Vilã, Eu Tentarei Viver, um manhwa em português.",
     "descriptionPt": "Leia A Vida da Vilã, Eu Tentarei Viver, um manhwa em português.",
-    "chaptersCount": 26,
+    "chaptersCount": 29,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

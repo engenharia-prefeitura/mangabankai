@@ -85541,7 +85541,7 @@ let MANGA_DATA = [
     ],
     "description": "“Chairman… please, give me the seed of the emperor as well ♥”",
     "descriptionEn": "“Chairman… please, give me the seed of the emperor as well ♥”",
-    "chaptersCount": 47,
+    "chaptersCount": 52,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -95484,7 +95484,7 @@ let MANGA_DATA = [
     "descriptionPt": "",
     "chaptersCount": 175,
     "lang": "en",
-    "hasPt": true,
+    "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
   },

@@ -92569,7 +92569,7 @@ let MANGA_DATA = [
     ],
     "description": "Magical Girl Chronicles ABC (Official) Weird and bizarre adventures of various magical girls.",
     "descriptionPt": "",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -99488,8 +99488,8 @@ let MANGA_DATA = [
     "slug": "someone-stop-her",
     "title": "Someone Stop Her!",
     "altTitle": "",
-    "cover": "https://mangadistrict.com/wp-content/uploads/2024/08/Someone-Stop-Her.png",
-    "banner": "https://mangadistrict.com/wp-content/uploads/2024/08/Someone-Stop-Her.png",
+    "cover": "https://cdn.mangadistrict.com/bb/thumbnail/someone-stop-her.webp",
+    "banner": "https://cdn.mangadistrict.com/bb/thumbnail/someone-stop-her.webp",
     "author": "RA",
     "artist": "Momobird",
     "status": "ongoing",
@@ -99505,11 +99505,12 @@ let MANGA_DATA = [
       "Harem",
       "Romance",
       "Sexual Content",
+      "Webtoons",
       "Hentai"
     ],
     "description": "Someone Stop Her! To regain his peace, Gangchan must welcome his blood-curdling smoking neighbor and her housemates into his home.",
     "descriptionPt": "",
-    "chaptersCount": 103,
+    "chaptersCount": 106,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207271,7 +207272,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno da Seita Monte Hua, um manhwa em português.",
     "descriptionPt": "Leia O Retorno da Seita Monte Hua, um manhwa em português.",
-    "chaptersCount": 173,
+    "chaptersCount": 174,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250020,7 +250021,7 @@ let MANGA_DATA = [
     ],
     "description": "May as Well Get the Best Ending (Uncensored) Avid BL lover Min Kirin attends a game expo to get some new BL games, but there are disappointingly few there. He nearly goes home empty-handed, but a mysterious, hooded man gives him a free copy of a VR BL game. Kirin is suspicious of the man and game, especially given the negative reviews, but he can’t resist its mature rating and logs in just to be transported into that world! He needs to earn money and that’s how he meets the various romanceable characters. Will Kirin find love with one of them and return to reality, or will he be unable to pick",
     "descriptionPt": "",
-    "chaptersCount": 50,
+    "chaptersCount": 54,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -258576,7 +258577,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia bai-lijin-entre-mortais online em português.",
     "descriptionPt": "Leia bai-lijin-entre-mortais online em português.",
-    "chaptersCount": 203,
+    "chaptersCount": 229,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259129,7 +259130,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ambicioso, um manhwa em português.",
     "descriptionPt": "Leia Ambicioso, um manhwa em português.",
-    "chaptersCount": 26,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261721,7 +261722,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia presa online em português.",
     "descriptionPt": "Leia presa online em português.",
-    "chaptersCount": 20,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261967,6 +261968,31 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "alive-and-swell",
+    "slug": "alive-and-swell",
+    "title": "Alive and Swell",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2024/08/alive-and-swell-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2024/08/alive-and-swell-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Thriller",
+      "Adult"
+    ],
+    "description": "Su-Yeon loses her husband in an accident and lives hard every day. A familiar but lowly man approaches her one day. The shaman gives Su-Yeon advice that her",
+    "descriptionEn": "Su-Yeon loses her husband in an accident and lives hard every day. A familiar but lowly man approaches her one day. The shaman gives Su-Yeon advice that her",
+    "chaptersCount": 25,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

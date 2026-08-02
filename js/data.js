@@ -95484,7 +95484,7 @@ let MANGA_DATA = [
     "descriptionPt": "",
     "chaptersCount": 175,
     "lang": "en",
-    "hasPt": false,
+    "hasPt": true,
     "hasEn": true,
     "source": "mangadistrict"
   },
@@ -96358,7 +96358,7 @@ let MANGA_DATA = [
     ],
     "description": "Master of the Island Jude is stranded on a deserted island with an entitled family that has been treating him like their personal servant.Is this his chance to finally call the shots?",
     "descriptionPt": "",
-    "chaptersCount": 9,
+    "chaptersCount": 10,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97677,7 +97677,7 @@ let MANGA_DATA = [
     ],
     "description": "Breathtaking Alliance (Uncensored) It is the first freshman club retreat—the kind of night meant for excitement and budding romance. However, Kim Seonwu finds his heart sinking when he discovers that the senior he’s been pining for already has someone in her life. His jealousy flares toward Noh Sang-yun, a fellow student with a rough, delinquent appearance who seems to be his primary romantic rival. The tension between them peaks during a reckless search for a local “haunted spot,” resulting in Seonwu and Sang-yun becoming stranded alone together in the wilderness. Seeking shelter from a sudde",
     "descriptionPt": "",
-    "chaptersCount": 21,
+    "chaptersCount": 22,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -100430,7 +100430,7 @@ let MANGA_DATA = [
     ],
     "description": "My Pretty Neighbor Two people, each with their own unique condition—can they overcome their insecurities and find love?",
     "descriptionPt": "",
-    "chaptersCount": 14,
+    "chaptersCount": 16,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207348,7 +207348,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Minha família vilã é contra minha independência, um manhwa em português.",
     "descriptionPt": "Leia Minha família vilã é contra minha independência, um manhwa em português.",
-    "chaptersCount": 87,
+    "chaptersCount": 89,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207848,7 +207848,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Seus Pálidos Olhos Azuis, um manhwa em português.",
     "descriptionPt": "Leia Seus Pálidos Olhos Azuis, um manhwa em português.",
-    "chaptersCount": 13,
+    "chaptersCount": 14,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231917,7 +231917,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Lixo da Família Condal, um manhwa em português.",
     "descriptionPt": "Leia O Lixo da Família Condal, um manhwa em português.",
-    "chaptersCount": 183,
+    "chaptersCount": 184,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232133,7 +232133,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia I Will Fall With The Emperor, um manhwa em português.",
     "descriptionPt": "Leia I Will Fall With The Emperor, um manhwa em português.",
-    "chaptersCount": 196,
+    "chaptersCount": 197,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249697,7 +249697,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Flores São Iscas, um manhwa em português.",
     "descriptionPt": "Leia Flores São Iscas, um manhwa em português.",
-    "chaptersCount": 56,
+    "chaptersCount": 57,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250715,7 +250715,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Segundo Eunuco Recupera Sua Masculinidade, um manhwa em português.",
     "descriptionPt": "Leia O Segundo Eunuco Recupera Sua Masculinidade, um manhwa em português.",
-    "chaptersCount": 99,
+    "chaptersCount": 100,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250741,7 +250741,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Crônicas do Soberano Preguiçoso, um manhwa em português.",
     "descriptionPt": "Leia Crônicas do Soberano Preguiçoso, um manhwa em português.",
-    "chaptersCount": 57,
+    "chaptersCount": 58,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252928,7 +252928,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Bebê Prisioneira do Castelo de Inverno, um manhwa em português.",
     "descriptionPt": "Leia A Bebê Prisioneira do Castelo de Inverno, um manhwa em português.",
-    "chaptersCount": 103,
+    "chaptersCount": 104,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253221,7 +253221,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Amor perigoso do Bad Boy, um webtoon em português.",
     "descriptionPt": "Leia Amor perigoso do Bad Boy, um webtoon em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254803,7 +254803,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia retorno-de-10000-vezes-irma-senior-por-favor-comporte-se online em português.",
     "descriptionPt": "Leia retorno-de-10000-vezes-irma-senior-por-favor-comporte-se online em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257133,7 +257133,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Por que está tão obcecado em Rejeitar Afeto?, um manhwa em português.",
     "descriptionPt": "Leia Por que está tão obcecado em Rejeitar Afeto?, um manhwa em português.",
-    "chaptersCount": 65,
+    "chaptersCount": 66,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258535,7 +258535,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Quero ser você, só por um dia, um manhwa em português.",
     "descriptionPt": "Leia Quero ser você, só por um dia, um manhwa em português.",
-    "chaptersCount": 182,
+    "chaptersCount": 185,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260292,7 +260292,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-retorno-do-espadachim-negro online em português.",
     "descriptionPt": "Leia o-retorno-do-espadachim-negro online em português.",
-    "chaptersCount": 59,
+    "chaptersCount": 60,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260314,7 +260314,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia reencarnacao-do-deus-dos-punhos online em português.",
     "descriptionPt": "Leia reencarnacao-do-deus-dos-punhos online em português.",
-    "chaptersCount": 62,
+    "chaptersCount": 63,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261702,7 +261702,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-segredo-do-senior-perfeito online em português.",
     "descriptionPt": "Leia o-segredo-do-senior-perfeito online em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 3,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261875,7 +261875,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Fui escolhida para ser a nora do tirano, um manhwa em português.",
     "descriptionPt": "Leia Fui escolhida para ser a nora do tirano, um manhwa em português.",
-    "chaptersCount": 1,
+    "chaptersCount": 2,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

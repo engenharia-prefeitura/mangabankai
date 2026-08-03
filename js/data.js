@@ -137764,7 +137764,7 @@ let MANGA_DATA = [
     "descriptionPt": "",
     "chaptersCount": 87,
     "lang": "en",
-    "hasPt": false,
+    "hasPt": true,
     "hasEn": true,
     "source": "mangadistrict"
   },
@@ -207245,7 +207245,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Dama Bebê Controla O Mundo Com Dinheiro, um manhwa em português.",
     "descriptionPt": "Leia A Dama Bebê Controla O Mundo Com Dinheiro, um manhwa em português.",
-    "chaptersCount": 125,
+    "chaptersCount": 126,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230122,7 +230122,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia F My Ex, um manhwa em português.",
     "descriptionPt": "Leia F My Ex, um manhwa em português.",
-    "chaptersCount": 51,
+    "chaptersCount": 53,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231862,7 +231862,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sob a Flor Caída, um manhwa em português.",
     "descriptionPt": "Leia Sob a Flor Caída, um manhwa em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231889,7 +231889,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Nerd Sinistro, um manhwa em português.",
     "descriptionPt": "Leia O Nerd Sinistro, um manhwa em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232762,7 +232762,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia em-busca-pelo-marido-da-duquesa online em português.",
     "descriptionPt": "Leia em-busca-pelo-marido-da-duquesa online em português.",
-    "chaptersCount": 4,
+    "chaptersCount": 5,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250924,7 +250924,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Transformando um Cachorro Louco em um Gentil Lorde!, um manhwa em português.",
     "descriptionPt": "Leia Transformando um Cachorro Louco em um Gentil Lorde!, um manhwa em português.",
-    "chaptersCount": 72,
+    "chaptersCount": 74,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251358,7 +251358,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Filho Caçula do Conde é um Jogador, um manhwa em português.",
     "descriptionPt": "Leia O Filho Caçula do Conde é um Jogador, um manhwa em português.",
-    "chaptersCount": 163,
+    "chaptersCount": 164,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251410,7 +251410,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mordida pelo cão que eu abandonei, um manhwa em português.",
     "descriptionPt": "Leia Mordida pelo cão que eu abandonei, um manhwa em português.",
-    "chaptersCount": 116,
+    "chaptersCount": 117,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253328,7 +253328,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Primeiro Amor de um Delinquente, um manhwa em português.",
     "descriptionPt": "Leia O Primeiro Amor de um Delinquente, um manhwa em português.",
-    "chaptersCount": 37,
+    "chaptersCount": 38,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253955,7 +253955,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Santa Bebê Quer Destruir o Mundo!, um manhwa em português.",
     "descriptionPt": "Leia A Santa Bebê Quer Destruir o Mundo!, um manhwa em português.",
-    "chaptersCount": 38,
+    "chaptersCount": 39,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254117,7 +254117,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia I Was Born as the Second Daughter, um manhwa em português.",
     "descriptionPt": "Leia I Was Born as the Second Daughter, um manhwa em português.",
-    "chaptersCount": 72,
+    "chaptersCount": 73,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254647,7 +254647,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia despertando-o-trovao-roxo-no-inicio online em português.",
     "descriptionPt": "Leia despertando-o-trovao-roxo-no-inicio online em português.",
-    "chaptersCount": 80,
+    "chaptersCount": 82,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255336,7 +255336,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Estou Apenas Aproveitando meu Tempo Limite, um manhwa em português.",
     "descriptionPt": "Leia Estou Apenas Aproveitando meu Tempo Limite, um manhwa em português.",
-    "chaptersCount": 54,
+    "chaptersCount": 55,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258114,7 +258114,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Lei Do Lixo, um manhwa em português.",
     "descriptionPt": "Leia A Lei Do Lixo, um manhwa em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258398,7 +258398,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Who Made Me a Princess, um manhwa em português.",
     "descriptionPt": "Leia Who Made Me a Princess, um manhwa em português.",
-    "chaptersCount": 132,
+    "chaptersCount": 133,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258770,7 +258770,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Posso Fazer um Último Pedido?, um manhwa em português.",
     "descriptionPt": "Leia Posso Fazer um Último Pedido?, um manhwa em português.",
-    "chaptersCount": 59,
+    "chaptersCount": 60,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260779,7 +260779,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-mestre-espadachim-devorador-de-espadas online em português.",
     "descriptionPt": "Leia o-mestre-espadachim-devorador-de-espadas online em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262046,6 +262046,54 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "o-noivo-lobo",
+    "slug": "o-noivo-lobo",
+    "title": "o-noivo-lobo",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/o-noivo-lobo/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/o-noivo-lobo/cover-md.webp",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Manga"
+    ],
+    "description": "Leia o-noivo-lobo online em português.",
+    "descriptionPt": "Leia o-noivo-lobo online em português.",
+    "chaptersCount": 3,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "cavaleiro-santo-de-grau-sss",
+    "slug": "cavaleiro-santo-de-grau-sss",
+    "title": "Cavaleiro Santo De Grau SSS",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/cavaleiro-santo-de-grau-sss/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/cavaleiro-santo-de-grau-sss/cover-md.webp",
+    "author": "隔壁薯片半价",
+    "artist": "隔壁薯片半价",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Ação",
+      "Artes Marciais",
+      "Aventura",
+      "Manhua"
+    ],
+    "description": "Leia Cavaleiro Santo De Grau SSS, um manhua em português.",
+    "descriptionPt": "Leia Cavaleiro Santo De Grau SSS, um manhua em português.",
+    "chaptersCount": 185,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

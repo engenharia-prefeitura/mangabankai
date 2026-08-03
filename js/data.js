@@ -95977,7 +95977,7 @@ let MANGA_DATA = [
     ],
     "description": "Return of The Legendary Spear Knight Unrivaled Spear Knight. The stereotype that knights must use swords is broken by the brightest star of a duke’s family. The hero that brought an end to the empire’s civil war. The name of that person is Joshua Sanders. Despite his reputation of being called the empire’s unrivaled spear, he was bleeding dark red blood. Not just anyone but by the hand of his own emperor, Kaiser… “Kaiser! Don’t think it will end like this!!” Moments before death, incurred by magic circle, the spear that spent its years together with him, ‘Lugia’, started to emit an enormous am",
     "descriptionPt": "",
-    "chaptersCount": 206,
+    "chaptersCount": 207,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

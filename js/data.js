@@ -207217,7 +207217,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Mansão Que aguarda A Primavera, um manhwa em português.",
     "descriptionPt": "Leia A Mansão Que aguarda A Primavera, um manhwa em português.",
-    "chaptersCount": 26,
+    "chaptersCount": 27,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249461,7 +249461,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Não confio na minha irmã gêmea (Manhwa), um manhwa em português.",
     "descriptionPt": "Leia Não confio na minha irmã gêmea (Manhwa), um manhwa em português.",
-    "chaptersCount": 72,
+    "chaptersCount": 73,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250477,7 +250477,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-esposa-que-esperou-no-campo-de-trigo online em português.",
     "descriptionPt": "Leia a-esposa-que-esperou-no-campo-de-trigo online em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 23,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250584,7 +250584,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sobrevivendo Como uma Princesa Ilegítima, um manhwa em português.",
     "descriptionPt": "Leia Sobrevivendo Como uma Princesa Ilegítima, um manhwa em português.",
-    "chaptersCount": 90,
+    "chaptersCount": 91,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250952,7 +250952,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Fui Confundido com um Gênio Monstruoso, um manhwa em português.",
     "descriptionPt": "Leia Fui Confundido com um Gênio Monstruoso, um manhwa em português.",
-    "chaptersCount": 111,
+    "chaptersCount": 112,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251384,7 +251384,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Neste Mundo Não Existem Guerreiros Maus, um manhwa em português.",
     "descriptionPt": "Leia Neste Mundo Não Existem Guerreiros Maus, um manhwa em português.",
-    "chaptersCount": 61,
+    "chaptersCount": 70,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251868,7 +251868,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Matei Um Jogador da Academia, um manhwa em português.",
     "descriptionPt": "Leia Eu Matei Um Jogador da Academia, um manhwa em português.",
-    "chaptersCount": 135,
+    "chaptersCount": 136,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251949,7 +251949,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Acho Que Transmigrei Para Algum Lugar, um manhwa em português.",
     "descriptionPt": "Leia Acho Que Transmigrei Para Algum Lugar, um manhwa em português.",
-    "chaptersCount": 89,
+    "chaptersCount": 91,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251975,7 +251975,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Recording Hall, um manhwa em português.",
     "descriptionPt": "Leia Recording Hall, um manhwa em português.",
-    "chaptersCount": 133,
+    "chaptersCount": 134,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253140,7 +253140,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Knight King Who Returned with a God, um manhwa em português.",
     "descriptionPt": "Leia The Knight King Who Returned with a God, um manhwa em português.",
-    "chaptersCount": 175,
+    "chaptersCount": 176,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254142,7 +254142,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Vilão, Eu Farei Tudo por Você Menos me Casar!, um manhwa em português.",
     "descriptionPt": "Leia Vilão, Eu Farei Tudo por Você Menos me Casar!, um manhwa em português.",
-    "chaptersCount": 9,
+    "chaptersCount": 10,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255234,7 +255234,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Superastro do 0, um manhwa em português.",
     "descriptionPt": "Leia Superastro do 0, um manhwa em português.",
-    "chaptersCount": 97,
+    "chaptersCount": 98,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256222,7 +256222,7 @@ let MANGA_DATA = [
     ],
     "description": "Whispers of Distant Shores (Uncensored) He came for an education, but he’s staying for the teacher. After learning his intended mentor has passed away, imperial interpreter Byeon Seungjun convinces the scholar’s exceptionally talented disciple, Yeo An, to take him on as a student. Their contract is supposed to be purely academic, but Seungjun can’t keep his eyes off his innocent new mistress. Trapped in close quarters day after day, the line between student and lover begins to blur. Yeo An might be the one teaching the lessons, but Seungjun is about to introduce his pure-hearted teacher to a p",
     "descriptionPt": "",
-    "chaptersCount": 8,
+    "chaptersCount": 11,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -256273,7 +256273,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O gerente Kim odeia ídolos de K-Pop, um manhwa em português.",
     "descriptionPt": "Leia O gerente Kim odeia ídolos de K-Pop, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258242,7 +258242,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia genio-regressado-criador-de-itens-mitico online em português.",
     "descriptionPt": "Leia genio-regressado-criador-de-itens-mitico online em português.",
-    "chaptersCount": 37,
+    "chaptersCount": 39,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258686,7 +258686,7 @@ let MANGA_DATA = [
     ],
     "description": "The Island’s Naughty Teacher On the remote island of Beomhae, Se-ju has spent years loathing the suffocating traditions of her home. As she becomes entangled with a man harboring a dark secret, the island she once considered a prison becomes the backdrop for a perilous affair. In a place where secrets are buried as deep as the sea, she must decide if he is her ticket to freedom or a beautiful trap.",
     "descriptionPt": "",
-    "chaptersCount": 27,
+    "chaptersCount": 29,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -259051,7 +259051,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Doppio Senso, um manhwa em português.",
     "descriptionPt": "Leia Doppio Senso, um manhwa em português.",
-    "chaptersCount": 68,
+    "chaptersCount": 69,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259635,7 +259635,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia um-dia-o-protagonista-masculino-caiu-na-minha-casa online em português.",
     "descriptionPt": "Leia um-dia-o-protagonista-masculino-caiu-na-minha-casa online em português.",
-    "chaptersCount": 9,
+    "chaptersCount": 10,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259662,7 +259662,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu irei proteger meu pai tirano, um manhwa em português.",
     "descriptionPt": "Leia Eu irei proteger meu pai tirano, um manhwa em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260368,7 +260368,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Marido Malvado, um manhwa em português.",
     "descriptionPt": "Leia O Marido Malvado, um manhwa em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260823,7 +260823,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia minha-vida-de-chaebol-foi-roubada-mas-eu-voltei online em português.",
     "descriptionPt": "Leia minha-vida-de-chaebol-foi-roubada-mas-eu-voltei online em português.",
-    "chaptersCount": 11,
+    "chaptersCount": 12,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261388,7 +261388,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia guia-de-estrategias-para-um-final-ruim-feliz online em português.",
     "descriptionPt": "Leia guia-de-estrategias-para-um-final-ruim-feliz online em português.",
-    "chaptersCount": 1,
+    "chaptersCount": 15,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262386,6 +262386,84 @@ let MANGA_DATA = [
     "description": "Leia Vivendo Como Um Jardineiro Num Mundo de Caçadores, um manhwa em português.",
     "descriptionPt": "Leia Vivendo Como Um Jardineiro Num Mundo de Caçadores, um manhwa em português.",
     "chaptersCount": 102,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "eu-me-casei-com-o-duque-fera",
+    "slug": "eu-me-casei-com-o-duque-fera",
+    "title": "Eu me Casei com o Duque Fera",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/eu-me-casei-com-o-duque-fera/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/eu-me-casei-com-o-duque-fera/cover-md.webp",
+    "author": "Nayang",
+    "artist": "Nayang",
+    "status": "ongoing",
+    "year": 2023,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Manhwa"
+    ],
+    "description": "Leia Eu me Casei com o Duque Fera, um manhwa em português.",
+    "descriptionPt": "Leia Eu me Casei com o Duque Fera, um manhwa em português.",
+    "chaptersCount": 80,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "aulas-secretas-da-tutora",
+    "slug": "aulas-secretas-da-tutora",
+    "title": "Aulas Secretas da Tutora",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/aulas-secretas-da-tutora/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/aulas-secretas-da-tutora/cover-md.webp",
+    "author": "Go Jae Yul",
+    "artist": "Go Jae Yul",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Comedia",
+      "Romance",
+      "Historico",
+      "Adulto",
+      "Manhwa"
+    ],
+    "description": "Leia Aulas Secretas da Tutora, um manhwa em português.",
+    "descriptionPt": "Leia Aulas Secretas da Tutora, um manhwa em português.",
+    "chaptersCount": 47,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "entomologista-do-cla-tang-de-sichuan",
+    "slug": "entomologista-do-cla-tang-de-sichuan",
+    "title": "Entomologista Do Clã Tang De Sichuan",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/entomologista-do-cla-tang-de-sichuan/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/entomologista-do-cla-tang-de-sichuan/cover-md.webp",
+    "author": "Elhood",
+    "artist": "Elhood",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 7,
+    "genres": [
+      "Ação",
+      "Artes Marciais",
+      "Comedia",
+      "Shounen",
+      "Fantasia"
+    ],
+    "description": "Leia Entomologista Do Clã Tang De Sichuan, um manhwa em português.",
+    "descriptionPt": "Leia Entomologista Do Clã Tang De Sichuan, um manhwa em português.",
+    "chaptersCount": 93,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

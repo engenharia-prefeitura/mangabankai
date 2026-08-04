@@ -94032,7 +94032,7 @@ let MANGA_DATA = [
     ],
     "description": "Save Yourself After challenging the official story of a conglomerate chairman’s suspicious death backfires, investigative journalist Gu Won is demoted to the entertainment desk. Now relegated to chasing celebrity gossip, he is assigned to dig up dirt on the nation’s top actor, Han Jihee. However, the hunter becomes the prey when a night of tailing ends in a blackout. Gu Won wakes up in the same bed as his target, met only with a cryptic promise of a reward once his memory finally returns.",
     "descriptionPt": "",
-    "chaptersCount": 25,
+    "chaptersCount": 27,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97739,7 +97739,7 @@ let MANGA_DATA = [
     ],
     "description": "Boo-tiful Nightmare (Uncensored) Kim Gitae looks like your typical college student—aside from his killer looks and strangely eerie vibe. But there’s one thing that sets him apart: he can see ghosts. Spirits swarm him day and night, desperate to possess his body, and the only way he can fend them off… is by jerking off every night. Yeah, it’s as exhausting as it sounds. All Gitae wants is a normal life—but things take a wild turn when a naked ghost named Lee Serin suddenly appears with an offer he can’t ignore. If he agrees to sleep with her, she’ll use her powers to protect him from other spir",
     "descriptionPt": "",
-    "chaptersCount": 47,
+    "chaptersCount": 50,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207532,7 +207532,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Pérola de Albrecht, um manhwa em português.",
     "descriptionPt": "Leia A Pérola de Albrecht, um manhwa em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207639,7 +207639,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Esse Amor Obsessivo Vai Além do Sangue, um manhwa em português.",
     "descriptionPt": "Leia Esse Amor Obsessivo Vai Além do Sangue, um manhwa em português.",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231499,7 +231499,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O sétimo príncipe quer escapar, um manhwa em português.",
     "descriptionPt": "Leia O sétimo príncipe quer escapar, um manhwa em português.",
-    "chaptersCount": 12,
+    "chaptersCount": 15,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232107,7 +232107,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Os protagonistas masculinos obsessivos querem me devorar viva, um manhwa em português.",
     "descriptionPt": "Leia Os protagonistas masculinos obsessivos querem me devorar viva, um manhwa em português.",
-    "chaptersCount": 15,
+    "chaptersCount": 16,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251439,7 +251439,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Imperador Solo, um manhwa em português.",
     "descriptionPt": "Leia Imperador Solo, um manhwa em português.",
-    "chaptersCount": 77,
+    "chaptersCount": 78,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251685,7 +251685,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu me tornei a filha adotiva do protagonista, um manhwa em português.",
     "descriptionPt": "Leia Eu me tornei a filha adotiva do protagonista, um manhwa em português.",
-    "chaptersCount": 169,
+    "chaptersCount": 172,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251765,7 +251765,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Evolução Infinita: Começando do Zero, um manhua em português.",
     "descriptionPt": "Leia Evolução Infinita: Começando do Zero, um manhua em português.",
-    "chaptersCount": 112,
+    "chaptersCount": 114,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251842,7 +251842,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei Um Homem Casado Em Outro Mundo, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei Um Homem Casado Em Outro Mundo, um manhwa em português.",
-    "chaptersCount": 20,
+    "chaptersCount": 21,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252481,7 +252481,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Caminho de Encontrar a Mamãe, um manhwa em português.",
     "descriptionPt": "Leia A Caminho de Encontrar a Mamãe, um manhwa em português.",
-    "chaptersCount": 54,
+    "chaptersCount": 55,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256347,7 +256347,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Martial God who Regressed to Level 2, um manhwa em português.",
     "descriptionPt": "Leia The Martial God who Regressed to Level 2, um manhwa em português.",
-    "chaptersCount": 126,
+    "chaptersCount": 127,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258551,7 +258551,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia bai-lijin-entre-mortais online em português.",
     "descriptionPt": "Leia bai-lijin-entre-mortais online em português.",
-    "chaptersCount": 237,
+    "chaptersCount": 244,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259321,7 +259321,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia rei-da-violencia online em português.",
     "descriptionPt": "Leia rei-da-violencia online em português.",
-    "chaptersCount": 67,
+    "chaptersCount": 69,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259745,7 +259745,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
     "descriptionPt": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
-    "chaptersCount": 13,
+    "chaptersCount": 14,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260819,7 +260819,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-casei-com-o-dragao-que-matei online em português.",
     "descriptionPt": "Leia me-casei-com-o-dragao-que-matei online em português.",
-    "chaptersCount": 8,
+    "chaptersCount": 9,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261340,7 +261340,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Noiva Substituta é Mimada pelo Imperador de Coração Frio, um mangá em português.",
     "descriptionPt": "Leia A Noiva Substituta é Mimada pelo Imperador de Coração Frio, um mangá em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 37,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261696,7 +261696,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia presa online em português.",
     "descriptionPt": "Leia presa online em português.",
-    "chaptersCount": 40,
+    "chaptersCount": 49,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262603,6 +262603,32 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "tankouhentai-mesutoiro",
+    "slug": "mesutoiro",
+    "title": "Mesutoiro",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/07/Mesutoiro-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/07/Mesutoiro-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Nasipasuta",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Incesto",
+      "Sexo a Três",
+      "Tentáculos",
+      "Hentai"
+    ],
+    "description": "Por mais que só tenham os capítulos 02 e 06 traduzidos até agora, aparentemente todos capítulos tem histórias soltas.",
+    "descriptionPt": "Por mais que só tenham os capítulos 02 e 06 traduzidos até agora, aparentemente todos capítulos tem histórias soltas.",
+    "chaptersCount": 2,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

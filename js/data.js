@@ -208035,7 +208035,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Veletric, um manhwa em português.",
     "descriptionPt": "Leia Veletric, um manhwa em português.",
-    "chaptersCount": 388,
+    "chaptersCount": 389,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -208110,7 +208110,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Retorno do Cavaleiro da Morte de Nível Apocalíptico, um manhwa em português.",
     "descriptionPt": "Leia Retorno do Cavaleiro da Morte de Nível Apocalíptico, um manhwa em português.",
-    "chaptersCount": 79,
+    "chaptersCount": 80,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231526,7 +231526,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Ranker, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Ranker, um manhwa em português.",
-    "chaptersCount": 255,
+    "chaptersCount": 256,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251386,7 +251386,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Neste Mundo Não Existem Guerreiros Maus, um manhwa em português.",
     "descriptionPt": "Leia Neste Mundo Não Existem Guerreiros Maus, um manhwa em português.",
-    "chaptersCount": 70,
+    "chaptersCount": 74,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252776,7 +252776,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mestre Espadachim Criado Pelas Estrelas, um manhwa em português.",
     "descriptionPt": "Leia Mestre Espadachim Criado Pelas Estrelas, um manhwa em português.",
-    "chaptersCount": 131,
+    "chaptersCount": 132,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252826,7 +252826,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Regressando como o Bastardo do Clã da Espada, um manhwa em português.",
     "descriptionPt": "Leia Regressando como o Bastardo do Clã da Espada, um manhwa em português.",
-    "chaptersCount": 105,
+    "chaptersCount": 106,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253170,7 +253170,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Estilo de Vida de um Imortal, um manhwa em português.",
     "descriptionPt": "Leia O Estilo de Vida de um Imortal, um manhwa em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256531,7 +256531,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
     "descriptionPt": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
-    "chaptersCount": 45,
+    "chaptersCount": 46,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259875,7 +259875,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia uma-crianca-que-se-parece-comigo online em português.",
     "descriptionPt": "Leia uma-crianca-que-se-parece-comigo online em português.",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

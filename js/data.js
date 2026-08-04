@@ -97791,7 +97791,7 @@ let MANGA_DATA = [
     ],
     "description": "BDSM 101 (Uncensored) Song Jeongwon is an active member of the BDSM community, offering guidance and advice to newcomers. One day, he comes across a distressing post from Kang Hoseob, a beginner who has fallen into the hands of an abusive dom and is seeking help. Realizing that Hoseob lacks even the most basic knowledge of BDSM, Jeongwon steps in—not just to rescue him but to personally guide him as his temporary dom. “Master, I’ll be good…I promise.” Jeongwon takes on the challenge, but can he truly teach Hoseob the foundations of trust, consent, and desire before it’s too late?",
     "descriptionPt": "",
-    "chaptersCount": 43,
+    "chaptersCount": 44,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -101815,7 +101815,7 @@ let MANGA_DATA = [
     ],
     "description": "Show Me Your Bust Ever since Jiho saw her best friend Woohee’s perfectly shaped breasts in a bar bathroom, she couldn’t stop thinking about them. To her surprise, an exasperated Woohee lets her see and even touch them after this confession… but the more Jiho fondles them, the more they seem to unlock her Pandora’s box of raging hormones. One minute, she’s squeezing Woohee’s breasts in her dorm, and the next, she’s hooking up with her longtime crush Yeonwoo, whose true feelings are a complete mystery. It’s clear that Jiho finds them both hot, but which of them holds the key to her heart?",
     "descriptionPt": "",
-    "chaptersCount": 51,
+    "chaptersCount": 52,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -261652,7 +261652,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-segredo-do-senior-perfeito online em português.",
     "descriptionPt": "Leia o-segredo-do-senior-perfeito online em português.",
-    "chaptersCount": 3,
+    "chaptersCount": 4,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262555,6 +262555,54 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "e-bom-te-ver",
+    "slug": "e-bom-te-ver",
+    "title": "e-bom-te-ver",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/e-bom-te-ver/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/e-bom-te-ver/cover-md.webp",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Manga"
+    ],
+    "description": "Leia e-bom-te-ver online em português.",
+    "descriptionPt": "Leia e-bom-te-ver online em português.",
+    "chaptersCount": 12,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "a-midsummer-s-carol-uncensored",
+    "slug": "a-midsummer-s-carol-uncensored",
+    "title": "A Midsummer’s Carol (Uncensored)",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2026/05/a-midsummers-carol-uncensored-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2026/05/a-midsummers-carol-uncensored-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult",
+      "Josei",
+      "Uncensored"
+    ],
+    "description": "After failing at both love and work, Dokyung returns to the stillness of her hometown, Mooyung, where a chance encounter at her mother’s old corner store",
+    "descriptionEn": "After failing at both love and work, Dokyung returns to the stillness of her hometown, Mooyung, where a chance encounter at her mother’s old corner store",
+    "chaptersCount": 36,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

@@ -252401,7 +252401,7 @@ let MANGA_DATA = [
     ],
     "description": "Cliterary Book Club On her first day of college, Ho-eun joins a campus club—only to find herself surrounded by charming, shamelessly bold upperclassmen. All she’s asked to do is read a book out loud. It seems simple enough… until she realizes exactly what she’s reading. Flustered and unsure how to react, Ho-eun is caught between embarrassment, confusion—and a strange thrill she can’t quite explain. The way they look at her, the way they tease her… it awakens something unfamiliar. She wants to run, but something holds her in place. After all, her graduation depends on this club. Will she manage",
     "descriptionPt": "",
-    "chaptersCount": 55,
+    "chaptersCount": 58,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -262708,6 +262708,31 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "a-tale-of-tails",
+    "slug": "a-tale-of-tails",
+    "title": "A Tale of Tails",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2024/08/a-tale-of-tails-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2024/08/a-tale-of-tails-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Supernatural",
+      "Adult"
+    ],
+    "description": "Tony’s grandfather gave him a word of advice, to be careful of one thing and one thing only. Can Tony realize what he meant?",
+    "descriptionEn": "Tony’s grandfather gave him a word of advice, to be careful of one thing and one thing only. Can Tony realize what he meant?",
+    "chaptersCount": 15,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

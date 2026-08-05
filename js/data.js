@@ -115812,7 +115812,7 @@ let MANGA_DATA = [
     ],
     "description": "Best Teacher Baek Once the finest instructor in the Blood Cult, Suryong Baek is killed, only to to wake up in the body of someone who teaches martial arts at a small rural academy. His new body may be weak, but he knows how to fix it, and it’s not the first time that he’s found himself in a body that can’t access its inner power. Curing his body requires money, however, and Suryong decides that becoming the greatest instructor at a top academy is the best way to do it. Since he’ll be up against tough competition, Suryong will have to use everything he’s got to become a teaching superstar.",
     "descriptionPt": "",
-    "chaptersCount": 154,
+    "chaptersCount": 155,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -232240,7 +232240,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Duquesa em Ruínas, um manhwa em português.",
     "descriptionPt": "Leia Duquesa em Ruínas, um manhwa em português.",
-    "chaptersCount": 54,
+    "chaptersCount": 55,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232742,7 +232742,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Privilégio de uma Transmigrante, um manhwa em português.",
     "descriptionPt": "Leia O Privilégio de uma Transmigrante, um manhwa em português.",
-    "chaptersCount": 140,
+    "chaptersCount": 141,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -235152,7 +235152,7 @@ let MANGA_DATA = [
     ],
     "description": "Deja Vu and Domination (Uncensored) “One sunny day day, a portal burst open in the garden, and Kwon Jaejin got caught up in the chaos. His limbs were torn off, and he died… …Or so he thought. When he wakes up, he finds himself back on the first day of his captivity—with Seo Wui-wu between his legs, tugging at his pants. Jaejin stares down at the familiar face, one he had come to resent over the four agonizing years of his previous life. Back then, he had believed he was merely a victim, dragged into an unfamiliar place and forced into submission. But this time is different. Now, Jaejin knows e",
     "descriptionPt": "",
-    "chaptersCount": 61,
+    "chaptersCount": 64,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -250528,7 +250528,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Pelas Deusas, um manhwa em português.",
     "descriptionPt": "Leia Pelas Deusas, um manhwa em português.",
-    "chaptersCount": 50,
+    "chaptersCount": 51,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251007,7 +251007,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Caída no Paraíso, um manhwa em português.",
     "descriptionPt": "Leia Caída no Paraíso, um manhwa em português.",
-    "chaptersCount": 34,
+    "chaptersCount": 36,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251140,7 +251140,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Empregada Secreta do Conde, um manhwa em português.",
     "descriptionPt": "Leia A Empregada Secreta do Conde, um manhwa em português.",
-    "chaptersCount": 90,
+    "chaptersCount": 91,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252664,7 +252664,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Besta da Mansão Alvard, um manhwa em português.",
     "descriptionPt": "Leia A Besta da Mansão Alvard, um manhwa em português.",
-    "chaptersCount": 23,
+    "chaptersCount": 24,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252853,7 +252853,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Campo Esquecido, um manhwa em português.",
     "descriptionPt": "Leia O Campo Esquecido, um manhwa em português.",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253487,7 +253487,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Archduke’s Gorgeous Wedding Was a Fraud, um manhwa em português.",
     "descriptionPt": "Leia The Archduke’s Gorgeous Wedding Was a Fraud, um manhwa em português.",
-    "chaptersCount": 100,
+    "chaptersCount": 101,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253513,7 +253513,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Diário de Sobrevivência de um Mordomo no Castelo do Duque, um manhwa em português.",
     "descriptionPt": "Leia O Diário de Sobrevivência de um Mordomo no Castelo do Duque, um manhwa em português.",
-    "chaptersCount": 40,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254286,7 +254286,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Flutuando na Minha Mente, um manhwa em português.",
     "descriptionPt": "Leia Flutuando na Minha Mente, um manhwa em português.",
-    "chaptersCount": 23,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254693,7 +254693,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-reencarnacao-do-rei-dos-punhos-reencarnacao-do-deus-dos-punhos online em português.",
     "descriptionPt": "Leia a-reencarnacao-do-rei-dos-punhos-reencarnacao-do-deus-dos-punhos online em português.",
-    "chaptersCount": 62,
+    "chaptersCount": 63,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259875,7 +259875,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia uma-crianca-que-se-parece-comigo online em português.",
     "descriptionPt": "Leia uma-crianca-que-se-parece-comigo online em português.",
-    "chaptersCount": 36,
+    "chaptersCount": 37,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259950,7 +259950,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia reencarnacao-do-deus-demonio online em português.",
     "descriptionPt": "Leia reencarnacao-do-deus-demonio online em português.",
-    "chaptersCount": 54,
+    "chaptersCount": 55,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262631,6 +262631,86 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "a-marquesa-demoniaca-de-maron",
+    "slug": "a-marquesa-demoniaca-de-maron",
+    "title": "A Marquesa Demoníaca de Maron",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-marquesa-demoniaca-de-maron/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-marquesa-demoniaca-de-maron/cover-md.webp",
+    "author": "Jaya",
+    "artist": "Jaya",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Fantasia",
+      "Romance",
+      "Harém Reverso",
+      "Transmigração"
+    ],
+    "description": "Leia A Marquesa Demoníaca de Maron, um manhwa em português.",
+    "descriptionPt": "Leia A Marquesa Demoníaca de Maron, um manhwa em português.",
+    "chaptersCount": 40,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "ai-vem-a-colher-de-prata",
+    "slug": "ai-vem-a-colher-de-prata",
+    "title": "Aí Vem a Colher de Prata!",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/ai-vem-a-colher-de-prata/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/ai-vem-a-colher-de-prata/cover-md.webp",
+    "author": "Portofino",
+    "artist": "Portofino",
+    "status": "ongoing",
+    "year": 2021,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Comedia",
+      "Romance",
+      "Historico",
+      "Viagem no tempo",
+      "Manhwa"
+    ],
+    "description": "Leia Aí Vem a Colher de Prata!, um manhwa em português.",
+    "descriptionPt": "Leia Aí Vem a Colher de Prata!, um manhwa em português.",
+    "chaptersCount": 82,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "sussurros-fantasmas",
+    "slug": "sussurros-fantasmas",
+    "title": "Sussurros Fantasmas",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/sussurros-fantasmas/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/sussurros-fantasmas/cover-md.webp",
+    "author": "KIM Moon-kyung",
+    "artist": "KIM Moon-kyung",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Historico",
+      "Mistério",
+      "Psicológico",
+      "Manhwa",
+      "Horror"
+    ],
+    "description": "Leia Sussurros Fantasmas, um manhwa em português.",
+    "descriptionPt": "Leia Sussurros Fantasmas, um manhwa em português.",
+    "chaptersCount": 22,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

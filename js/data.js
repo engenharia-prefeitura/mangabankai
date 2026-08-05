@@ -207453,7 +207453,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu sou a Vilã mas sou Favorecida, um manhwa em português.",
     "descriptionPt": "Leia Eu sou a Vilã mas sou Favorecida, um manhwa em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231553,7 +231553,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Obtive um Item Mítico, um manhwa em português.",
     "descriptionPt": "Leia Eu Obtive um Item Mítico, um manhwa em português.",
-    "chaptersCount": 192,
+    "chaptersCount": 193,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -233011,7 +233011,7 @@ let MANGA_DATA = [
     ],
     "description": "Proceed with Caution (Uncensored) Former kendo prodigy Jaehyeok has lost his way, spiraling far from his golden days. The only person capable of reining him in is Yeongwon, a steadfast police officer with a heart of gold. Though they couldn’t be more different, these single fathers find their back into each other’s lives. As Jaehyuk moves in to learn the ropes of parenting, his Alpha instincts awaken, blurring the lines between duty and desire in a domestic whirlwind romance.",
     "descriptionPt": "",
-    "chaptersCount": 16,
+    "chaptersCount": 18,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -251307,7 +251307,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Criança Problemática da Torre Mágica, um manhwa em português.",
     "descriptionPt": "Leia A Criança Problemática da Torre Mágica, um manhwa em português.",
-    "chaptersCount": 55,
+    "chaptersCount": 56,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251334,7 +251334,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vingança do Cão de Caça dos Baskerville, um manhwa em português.",
     "descriptionPt": "Leia A Vingança do Cão de Caça dos Baskerville, um manhwa em português.",
-    "chaptersCount": 173,
+    "chaptersCount": 174,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252749,7 +252749,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guarda Malandro em uma Fantasia Medieval, um manhwa em português.",
     "descriptionPt": "Leia Guarda Malandro em uma Fantasia Medieval, um manhwa em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 42,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260899,7 +260899,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Nova Nora do Grão-Duque é um Pouco Feroz, um manhwa em português.",
     "descriptionPt": "Leia A Nova Nora do Grão-Duque é um Pouco Feroz, um manhwa em português.",
-    "chaptersCount": 9,
+    "chaptersCount": 13,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261994,7 +261994,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Reencarnado, um manhwa em português.",
     "descriptionPt": "Leia Reencarnado, um manhwa em português.",
-    "chaptersCount": 127,
+    "chaptersCount": 132,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262708,6 +262708,28 @@ let MANGA_DATA = [
     "description": "Leia Sussurros Fantasmas, um manhwa em português.",
     "descriptionPt": "Leia Sussurros Fantasmas, um manhwa em português.",
     "chaptersCount": 22,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "alianca-de-cuidadores",
+    "slug": "alianca-de-cuidadores",
+    "title": "alianca-de-cuidadores",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/alianca-de-cuidadores/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/alianca-de-cuidadores/cover-md.webp",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Manga"
+    ],
+    "description": "Leia alianca-de-cuidadores online em português.",
+    "descriptionPt": "Leia alianca-de-cuidadores online em português.",
+    "chaptersCount": 7,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

@@ -95828,7 +95828,7 @@ let MANGA_DATA = [
     ],
     "description": "Standard of Reincarnation The greatest martial family, Samion. Daven, a member of the Samion family, is a one-armed martial soldier without a right arm. Despite the ridicule and contempt he got for only having a left arm, he surpassed the direct line of the Samion family like a genius. However, he got betrayed by his family and parents in the end, thus meeting a poor end. But, he was reincarnated. “I have a right arm?” He had a new family tradition. A naturally gifted body. Experience from his past life. And the god Yulion with him as well. After his reincarnation, everything changed, and a ne",
     "descriptionPt": "",
-    "chaptersCount": 190,
+    "chaptersCount": 192,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -208008,7 +208008,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Complexo de Amigos de Infância, um manhwa em português.",
     "descriptionPt": "Leia Complexo de Amigos de Infância, um manhwa em português.",
-    "chaptersCount": 85,
+    "chaptersCount": 86,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232742,7 +232742,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Privilégio de uma Transmigrante, um manhwa em português.",
     "descriptionPt": "Leia O Privilégio de uma Transmigrante, um manhwa em português.",
-    "chaptersCount": 141,
+    "chaptersCount": 142,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -233702,7 +233702,7 @@ let MANGA_DATA = [
     ],
     "description": "The Return of the Disaster-Class Hero There once was the strongest Hero on earth. “But he died though. How does a guy we killed gonna come back?” “I know right. But if there was a way to come back, he would come back.” But did he really come back after 20 years? “What are you so surprised about? Why. Did you do something to feel guilty about?” You bastards. I won’t let you get away with it.",
     "descriptionPt": "",
-    "chaptersCount": 184,
+    "chaptersCount": 185,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -252853,7 +252853,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Campo Esquecido, um manhwa em português.",
     "descriptionPt": "Leia O Campo Esquecido, um manhwa em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253250,7 +253250,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Uma Criança Com Talentos Ocultos Busca Seu Pai, um manhwa em português.",
     "descriptionPt": "Leia Uma Criança Com Talentos Ocultos Busca Seu Pai, um manhwa em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 42,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

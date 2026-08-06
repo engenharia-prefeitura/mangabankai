@@ -3113,7 +3113,7 @@ let MANGA_DATA = [
       "Sports"
     ],
     "description": "The story starts with Japan's end from the 2018 FIFA World Cup, which prompts the Japanese Football Union to begin a program exploring secondary school players who will start preparing in anticipation of the 2022 Cup. Isagi Youichi, a forward, gets a solicitation to this program not long after his group loses the opportunity to go to Nationals since he went to his less-talented partner - who missed - without attempting to make the game-changing objective without anyone else. \r\n\r\nTheir mentor will be Ego Jinpachi, who plans to \"obliterate Japanese failure football\" by presenting a radical new preparing routine: confine 300 youthful advances in a jail like organization called \"Blue Lock\" and put them through thorough preparing planned for making \"the world's most noteworthy narcissist striker.\"",
-    "chaptersCount": 363,
+    "chaptersCount": 364,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -95107,7 +95107,7 @@ let MANGA_DATA = [
     ],
     "description": "Boredom Advisory (Uncensored) Kwon Tae-shin is a man worn thin by indulgence. A VIP at the exclusive members-only club Zeus, he buys fleeting nights with ease, yet never repeats the same encounter twice, forever chasing something that can cut through his suffocating boredom. Lee Won-woo, a low-level club employee and the sole provider for his family, never expects to cross Tae-shin’s path until he is assigned to drive him home one night. On a whim, Tae-shin makes him an offer that changes everything, proposing to buy a night with him instead. Stunned but tempted by the staggering amount of mon",
     "descriptionPt": "",
-    "chaptersCount": 34,
+    "chaptersCount": 36,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207668,7 +207668,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Missões na Vida Real, um manhwa em português.",
     "descriptionPt": "Leia Missões na Vida Real, um manhwa em português.",
-    "chaptersCount": 218,
+    "chaptersCount": 219,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207723,7 +207723,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Logando 10.000 Anos No Futuro, um manhua em português.",
     "descriptionPt": "Leia Logando 10.000 Anos No Futuro, um manhua em português.",
-    "chaptersCount": 330,
+    "chaptersCount": 331,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232840,7 +232840,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Ranker Inigualável, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Ranker Inigualável, um manhwa em português.",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250638,7 +250638,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Advogado que Vê Almas, um manhwa em português.",
     "descriptionPt": "Leia O Advogado que Vê Almas, um manhwa em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254415,7 +254415,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Filho Adotivo em um Mundo de Supremacia de Linhagem, um mangá em português.",
     "descriptionPt": "Leia O Retorno do Filho Adotivo em um Mundo de Supremacia de Linhagem, um mangá em português.",
-    "chaptersCount": 46,
+    "chaptersCount": 47,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254441,7 +254441,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Demônio Supremo do Veneno, um manhwa em português.",
     "descriptionPt": "Leia O Demônio Supremo do Veneno, um manhwa em português.",
-    "chaptersCount": 28,
+    "chaptersCount": 29,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254605,7 +254605,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei O Mentor do Rei Demônio mais Fraco, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei O Mentor do Rei Demônio mais Fraco, um manhwa em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254759,7 +254759,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia streaming-da-estrategia-oculta-do-retornado online em português.",
     "descriptionPt": "Leia streaming-da-estrategia-oculta-do-retornado online em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256401,7 +256401,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Amor De Iseop, um manhwa em português.",
     "descriptionPt": "Leia O Amor De Iseop, um manhwa em português.",
-    "chaptersCount": 107,
+    "chaptersCount": 108,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258805,7 +258805,7 @@ let MANGA_DATA = [
     ],
     "description": "Back Room Business (Uncensored) Yun Wuseung is just a host trying to get by, but a strange encounter with his boss, Yeom Taejeong, changes everything. Fascinated by Wuseung’s eccentricities, the wealthy club owner dangles money to pull Wuseung into a toxic, twisted situationship. Taejeong views him as nothing more than a temporary fix to be enjoyed on demand, but as they spend more time together, the cracks in their fractured pasts begin to show.",
     "descriptionPt": "",
-    "chaptersCount": 9,
+    "chaptersCount": 10,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -259722,7 +259722,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
     "descriptionPt": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
-    "chaptersCount": 14,
+    "chaptersCount": 15,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262906,6 +262906,31 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "tankouhentai-ecchi-na-gal-jk",
+    "slug": "ecchi-na-gal-jk",
+    "title": "Ecchi na Gal JK",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/07/Ecchi-na-Gal-JK-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/07/Ecchi-na-Gal-JK-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Incesto",
+      "Traição",
+      "Hentai"
+    ],
+    "description": "Capítulo faltando: 3.5: Ecchi na Gal JK Bangaihen – Gal JK Misaki-chan Beach de Sokuhame Nanpa SEX",
+    "descriptionPt": "Capítulo faltando: 3.5: Ecchi na Gal JK Bangaihen – Gal JK Misaki-chan Beach de Sokuhame Nanpa SEX",
+    "chaptersCount": 5,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

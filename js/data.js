@@ -65544,7 +65544,7 @@ let MANGA_DATA = [
     ],
     "description": "A thirst no fleeting pleasure can quench—one that only burns hotter as if I’m drinking seawater… I still can’t break free from my indulgence.",
     "descriptionEn": "A thirst no fleeting pleasure can quench—one that only burns hotter as if I’m drinking seawater… I still can’t break free from my indulgence.",
-    "chaptersCount": 60,
+    "chaptersCount": 64,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -98904,7 +98904,7 @@ let MANGA_DATA = [
     ],
     "description": "Gale of the God (Uncensored) In the mystical realm of Hoseon, protected by the tiger deity known as the Sable Tiger, Crown Prince Lee Hyo is born with formidable power but a cold, foreboding aura that forces the palace to hide his existence. Meanwhile, Seo Doram, a disgraced noble turned servant, is unexpectedly summoned to the palace with an astonishing decree: he is to become the Crown Princess. Confused and suspicious, Doram finds himself entangled in royal secrets, while the aloof prince oddly recalls a bond from their childhood… Just what could the Sable Tiger have in store for them both?",
     "descriptionPt": "",
-    "chaptersCount": 58,
+    "chaptersCount": 61,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207617,7 +207617,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dragões Sequestrados, um manhwa em português.",
     "descriptionPt": "Leia Dragões Sequestrados, um manhwa em português.",
-    "chaptersCount": 53,
+    "chaptersCount": 54,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207695,7 +207695,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Nano Máquina, um manhwa em português.",
     "descriptionPt": "Leia Nano Máquina, um manhwa em português.",
-    "chaptersCount": 323,
+    "chaptersCount": 324,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207903,7 +207903,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Me Escolhe!, um manhwa em português.",
     "descriptionPt": "Leia Me Escolhe!, um manhwa em português.",
-    "chaptersCount": 212,
+    "chaptersCount": 213,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232004,7 +232004,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Estou em um Relacionamento Secreto com o Imperador, mas Não fazia Ideia, um manhwa em português.",
     "descriptionPt": "Leia Estou em um Relacionamento Secreto com o Imperador, mas Não fazia Ideia, um manhwa em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232347,7 +232347,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Despertar em Tempo Integral, um manhua em português.",
     "descriptionPt": "Leia Despertar em Tempo Integral, um manhua em português.",
-    "chaptersCount": 150,
+    "chaptersCount": 151,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -240232,7 +240232,7 @@ let MANGA_DATA = [
     "descriptionPt": "",
     "chaptersCount": 170,
     "lang": "en",
-    "hasPt": false,
+    "hasPt": true,
     "hasEn": true,
     "source": "mangadistrict"
   },
@@ -253115,7 +253115,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
     "descriptionPt": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
-    "chaptersCount": 110,
+    "chaptersCount": 111,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254671,7 +254671,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-tornei-um-mago-de-fantasia-medieval online em português.",
     "descriptionPt": "Leia me-tornei-um-mago-de-fantasia-medieval online em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255207,7 +255207,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Um Guia Para um Amor Verdadeiro, um manhwa em português.",
     "descriptionPt": "Leia Um Guia Para um Amor Verdadeiro, um manhwa em português.",
-    "chaptersCount": 46,
+    "chaptersCount": 47,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255445,7 +255445,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Renúncia da Doutora, um manhwa em português.",
     "descriptionPt": "Leia A Renúncia da Doutora, um manhwa em português.",
-    "chaptersCount": 94,
+    "chaptersCount": 95,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256531,7 +256531,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
     "descriptionPt": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
-    "chaptersCount": 46,
+    "chaptersCount": 47,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257304,7 +257304,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia #Meu Primeiro Amor, um manhwa em português.",
     "descriptionPt": "Leia #Meu Primeiro Amor, um manhwa em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 24,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257922,7 +257922,7 @@ let MANGA_DATA = [
     ],
     "description": "No Returns After Use Cheonho thought he was delivering righteous justice when he forced himself on Shin Jehui, the man suspected of assaulting his sister. But when the truth comes out, Cheonho realizes he has committed an irreversible crime against an innocent man. Bracing for arrest or violent retaliation, he visits Jehui to apologize. But Jehui’s reaction defies all logic. Rather than demanding retribution or turning him in, Jehui eagerly chases after Cheonho, insisting they start dating. Trapped by his own guilt, Cheonho has no idea how to handle his deeply unhinged victim.",
     "descriptionPt": "",
-    "chaptersCount": 26,
+    "chaptersCount": 27,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -258528,7 +258528,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia bai-lijin-entre-mortais online em português.",
     "descriptionPt": "Leia bai-lijin-entre-mortais online em português.",
-    "chaptersCount": 244,
+    "chaptersCount": 247,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259298,7 +259298,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia rei-da-violencia online em português.",
     "descriptionPt": "Leia rei-da-violencia online em português.",
-    "chaptersCount": 69,
+    "chaptersCount": 70,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261629,7 +261629,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-segredo-do-senior-perfeito online em português.",
     "descriptionPt": "Leia o-segredo-do-senior-perfeito online em português.",
-    "chaptersCount": 4,
+    "chaptersCount": 5,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261673,7 +261673,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia presa online em português.",
     "descriptionPt": "Leia presa online em português.",
-    "chaptersCount": 49,
+    "chaptersCount": 56,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262015,7 +262015,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-noivo-lobo online em português.",
     "descriptionPt": "Leia o-noivo-lobo online em português.",
-    "chaptersCount": 3,
+    "chaptersCount": 6,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262311,7 +262311,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Regra de Ouro de Han Serim, um manhwa em português.",
     "descriptionPt": "Leia A Regra de Ouro de Han Serim, um manhwa em português.",
-    "chaptersCount": 1,
+    "chaptersCount": 2,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

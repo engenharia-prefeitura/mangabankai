@@ -93501,7 +93501,7 @@ let MANGA_DATA = [
     ],
     "description": "Bully’s love story (Official) A bully and a nerd, a love story between two people who seem like an unlikely match!",
     "descriptionPt": "",
-    "chaptersCount": 18,
+    "chaptersCount": 23,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

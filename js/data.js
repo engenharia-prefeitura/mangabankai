@@ -99923,7 +99923,7 @@ let MANGA_DATA = [
     ],
     "description": "Love Factory (Uncensored) Peter starts working at a factory, where he finds more than just a job…",
     "descriptionPt": "",
-    "chaptersCount": 14,
+    "chaptersCount": 17,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -235438,7 +235438,7 @@ let MANGA_DATA = [
     ],
     "description": "The Player That Can’t Level Up Kim GiGyu awakened as a player at the age of 18. He thought his life was on the track to success, climbing ‘the tower’ and closing ‘the gates’… But even after clearing the tutorial, he was level 1. He killed a goblin a day, and he was still level 1. Even after 5 years, he was still level 1. “Who would have thought that this kind of player would exist.” No one knew.",
     "descriptionPt": "",
-    "chaptersCount": 231,
+    "chaptersCount": 238,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -254199,7 +254199,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Meu Corpo Foi Possuído por Alguém, um manhwa em português.",
     "descriptionPt": "Leia Meu Corpo Foi Possuído por Alguém, um manhwa em português.",
-    "chaptersCount": 96,
+    "chaptersCount": 97,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256531,7 +256531,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
     "descriptionPt": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
-    "chaptersCount": 47,
+    "chaptersCount": 48,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262931,6 +262931,33 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "a-noite-dos-cem-demonios",
+    "slug": "a-noite-dos-cem-demonios",
+    "title": "A Noite dos Cem Demônios",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-noite-dos-cem-demonios/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-noite-dos-cem-demonios/cover-md.webp",
+    "author": "Manyong",
+    "artist": "Manyong",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Fantasia",
+      "Romance",
+      "Historico",
+      "Josei",
+      "Adulto",
+      "Manhwa"
+    ],
+    "description": "Leia A Noite dos Cem Demônios, um manhwa em português.",
+    "descriptionPt": "Leia A Noite dos Cem Demônios, um manhwa em português.",
+    "chaptersCount": 12,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

@@ -93051,7 +93051,7 @@ let MANGA_DATA = [
     ],
     "description": "Hacking to get closer to streamers! (Official) One day, a hacking app gets installed in Mike’s phone by chance. With the app, he finds out about the secrets of female streamers, and starts using the secrets to approach them.",
     "descriptionPt": "",
-    "chaptersCount": 38,
+    "chaptersCount": 40,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -94317,7 +94317,7 @@ let MANGA_DATA = [
     ],
     "description": "Kingdom of Innocence (Uncensored) I opened my eyes underwater, then found myself in a dazzling palace straight out of a historical fantasy. There is no doubt about it, I have been isekai’d right into the world of a novel. And lucky for me, it is even the genre I loved the most, so I know all the rules. Or so I thought. Because in this world, instead of gaining power through intimate encounters, anyone who loses their virginity becomes cursed. Yes, cursed. In a supposed mature fantasy. How does that even make sense? While I am still trying to wrap my head around this ridiculous twist, I receive",
     "descriptionPt": "",
-    "chaptersCount": 40,
+    "chaptersCount": 43,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -233825,7 +233825,7 @@ let MANGA_DATA = [
     ],
     "description": "Overgeared (Team Argo) Shin Youngwoo (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game “Satisfy,” finds a powerful item that earns him a rare legendary class title: “Pagma’s Successor.” He’s now a skilled blacksmith who can forge unique weapons and equip the game’s most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for….",
     "descriptionPt": "",
-    "chaptersCount": 332,
+    "chaptersCount": 334,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -251609,7 +251609,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Cuidado com a Vilã!, um manhwa em português.",
     "descriptionPt": "Leia Cuidado com a Vilã!, um manhwa em português.",
-    "chaptersCount": 137,
+    "chaptersCount": 138,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251660,7 +251660,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A coroa que eu tomarei de você, um manhwa em português.",
     "descriptionPt": "Leia A coroa que eu tomarei de você, um manhwa em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255777,7 +255777,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Escândalo da Princesa Herdeira, um manhwa em português.",
     "descriptionPt": "Leia O Escândalo da Princesa Herdeira, um manhwa em português.",
-    "chaptersCount": 10,
+    "chaptersCount": 11,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263010,6 +263010,32 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "debutar-ou-morrer",
+    "slug": "debutar-ou-morrer",
+    "title": "Debutar ou Morrer",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/debutar-ou-morrer/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/debutar-ou-morrer/cover-md.webp",
+    "author": "DS.Back",
+    "artist": "DS.Back",
+    "status": "ongoing",
+    "year": 2022,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Comedia",
+      "Shounen",
+      "Fantasia",
+      "Manhwa"
+    ],
+    "description": "Leia Debutar ou Morrer, um manhwa em português.",
+    "descriptionPt": "Leia Debutar ou Morrer, um manhwa em português.",
+    "chaptersCount": 93,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

@@ -64219,7 +64219,7 @@ let MANGA_DATA = [
     ],
     "description": "Thanks to his mother’s connections, Junho got a new job working for a mother and daughter whom he had a crush on. Captivated by the mother's unassuming",
     "descriptionEn": "Thanks to his mother’s connections, Junho got a new job working for a mother and daughter whom he had a crush on. Captivated by the mother's unassuming",
-    "chaptersCount": 68,
+    "chaptersCount": 72,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -96418,7 +96418,7 @@ let MANGA_DATA = [
     ],
     "description": "MBB (My Bad Boss) (Uncensored) Doh Hyeonwoo is an elite “”hound”” deployed deep into the criminal underworld to dismantle the Black Cloud Tribe, a ruthless syndicate tearing the city’s order apart. While his infiltration goes smoothly at first, his mission hits a bizarre roadblock in the form of a man known simply as Mr. Ha. For some reason, this erratic superior interferes with Hyeonwoo’s every move, constantly disrupting the operation. Desperate to maintain his cover, Hyeonwoo defends himself: “”I told you, I’m just a Beta!”” But Mr. Ha merely leans in close, a dangerous smirk on his lips. “",
     "descriptionPt": "",
-    "chaptersCount": 14,
+    "chaptersCount": 15,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -98116,7 +98116,7 @@ let MANGA_DATA = [
     ],
     "description": "The Hounds of Sisyphus (Official Uncensored) The dead no longer stay dead. They rise—not as monsters, but as aimless wanderers—plunging the world into chaos. Hope of immortality fades as disasters push humanity to the brink of extinction. Amidst the ruin, Pyo Guwon walks against the tide of fleeing survivors. On his path, he finds Heo Jinwoo, left for dead after an attack. Instead of passing by, Pyo offers a hand, posing a single question: “How does it feel to survive hell?” With that, he leads Jinwoo to a village where death holds no meaning—but in a world that refuses to let go of the past, ",
     "descriptionPt": "",
-    "chaptersCount": 38,
+    "chaptersCount": 43,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -112375,7 +112375,7 @@ let MANGA_DATA = [
     ],
     "description": "Sugar Trap (Uncensored) If there was a closet inside a closet, Joohwan would hide there. He’s that desperate to hide that he’s gay. Still, he’s doing a pretty good job at hiding his sexual orientation, on his way to a promotion at his job, and has everything going great…right until he crosses paths with Sihyun during a major presentation for work. Unfortunately, Sihyun is devastatingly attractive. Perhaps attractive enough to drag Joohwan out of the closet…",
     "descriptionPt": "",
-    "chaptersCount": 60,
+    "chaptersCount": 61,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -230071,7 +230071,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Único Fazendeiro da Torre, um manhwa em português.",
     "descriptionPt": "Leia Único Fazendeiro da Torre, um manhwa em português.",
-    "chaptersCount": 138,
+    "chaptersCount": 139,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231632,7 +231632,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Começo Depois do Fim, um manhwa em português.",
     "descriptionPt": "Leia O Começo Depois do Fim, um manhwa em português.",
-    "chaptersCount": 258,
+    "chaptersCount": 259,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231658,7 +231658,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Começando com 13 Traços Ocultos, um manhwa em português.",
     "descriptionPt": "Leia Começando com 13 Traços Ocultos, um manhwa em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 42,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232347,7 +232347,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Despertar em Tempo Integral, um manhua em português.",
     "descriptionPt": "Leia Despertar em Tempo Integral, um manhua em português.",
-    "chaptersCount": 151,
+    "chaptersCount": 152,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251924,7 +251924,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Breakers, um manhwa em português.",
     "descriptionPt": "Leia Breakers, um manhwa em português.",
-    "chaptersCount": 101,
+    "chaptersCount": 102,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255364,7 +255364,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Operação amor verdadeiro, um manhwa em português.",
     "descriptionPt": "Leia Operação amor verdadeiro, um manhwa em português.",
-    "chaptersCount": 133,
+    "chaptersCount": 134,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255391,7 +255391,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Forget About My Husband, I’d Rather Go Make Money, um manhwa em português.",
     "descriptionPt": "Leia Forget About My Husband, I’d Rather Go Make Money, um manhwa em português.",
-    "chaptersCount": 112,
+    "chaptersCount": 113,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255718,7 +255718,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Tempo Extra Antes da Doença Terminal, um manhwa em português.",
     "descriptionPt": "Leia O Tempo Extra Antes da Doença Terminal, um manhwa em português.",
-    "chaptersCount": 81,
+    "chaptersCount": 82,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256799,7 +256799,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Vilão Consumido Por Seu Desejo, um manhwa em português.",
     "descriptionPt": "Leia O Vilão Consumido Por Seu Desejo, um manhwa em português.",
-    "chaptersCount": 20,
+    "chaptersCount": 23,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257111,7 +257111,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Por que está tão obcecado em Rejeitar Afeto?, um manhwa em português.",
     "descriptionPt": "Leia Por que está tão obcecado em Rejeitar Afeto?, um manhwa em português.",
-    "chaptersCount": 66,
+    "chaptersCount": 67,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259877,7 +259877,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Era o Lixo, um manhwa em português.",
     "descriptionPt": "Leia Eu Era o Lixo, um manhwa em português.",
-    "chaptersCount": 34,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260065,7 +260065,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Tentei Ser sua Espada Leal, um manhwa em português.",
     "descriptionPt": "Leia Eu Tentei Ser sua Espada Leal, um manhwa em português.",
-    "chaptersCount": 88,
+    "chaptersCount": 91,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260319,7 +260319,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Marido Malvado, um manhwa em português.",
     "descriptionPt": "Leia O Marido Malvado, um manhwa em português.",
-    "chaptersCount": 40,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260708,7 +260708,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia criando-viloes-da-maneira-correta online em português.",
     "descriptionPt": "Leia criando-viloes-da-maneira-correta online em português.",
-    "chaptersCount": 46,
+    "chaptersCount": 47,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260952,7 +260952,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Transformando o Tigre em Gatinho, um manhwa em português.",
     "descriptionPt": "Leia Transformando o Tigre em Gatinho, um manhwa em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

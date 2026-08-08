@@ -101094,7 +101094,7 @@ let MANGA_DATA = [
     ],
     "description": "The Guide’s Treasure (Uncensored) The F12 Center is infamous for one thing—its dangerously high superhuman burnout rate. And that’s exactly where civilian diagnostics officer Baek Shijin is suddenly transferred. On his first day, Shijin is approached by Jeong Taeyool, an A-rank Guide with a reputation as sharp as his instincts, under the guise of an admin worker. “Just stop giving Ham Geonwoo your attention, and we’ll get along fine.” Shijin only wanted to repay Ham Geonwoo, the Esper who saved him a decade ago. But somehow, his highest match rate is with Taeyool—who sees right through him. “D",
     "descriptionPt": "",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -137766,7 +137766,7 @@ let MANGA_DATA = [
     "descriptionPt": "",
     "chaptersCount": 87,
     "lang": "en",
-    "hasPt": true,
+    "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
   },
@@ -232267,7 +232267,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Jogo do Ferreiro Genial, um manhwa em português.",
     "descriptionPt": "Leia O Jogo do Ferreiro Genial, um manhwa em português.",
-    "chaptersCount": 65,
+    "chaptersCount": 66,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232322,7 +232322,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Crônicas da Facção Demoníaca, um manhwa em português.",
     "descriptionPt": "Leia Crônicas da Facção Demoníaca, um manhwa em português.",
-    "chaptersCount": 184,
+    "chaptersCount": 185,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232372,7 +232372,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia de Sobrevivência do Caçador de Bestas Demoníacas, um manhwa em português.",
     "descriptionPt": "Leia Guia de Sobrevivência do Caçador de Bestas Demoníacas, um manhwa em português.",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232815,7 +232815,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Renascimento de Um Mercenário Entre Nobres, um manhwa em português.",
     "descriptionPt": "Leia O Renascimento de Um Mercenário Entre Nobres, um manhwa em português.",
-    "chaptersCount": 43,
+    "chaptersCount": 44,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232894,7 +232894,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Recluso Supremo, um manhwa em português.",
     "descriptionPt": "Leia O Recluso Supremo, um manhwa em português.",
-    "chaptersCount": 91,
+    "chaptersCount": 92,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232919,7 +232919,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A vontade de sobrevivência do vilão, um manhwa em português.",
     "descriptionPt": "Leia A vontade de sobrevivência do vilão, um manhwa em português.",
-    "chaptersCount": 60,
+    "chaptersCount": 61,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250612,7 +250612,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Devorador de Aço, um manhwa em português.",
     "descriptionPt": "Leia Devorador de Aço, um manhwa em português.",
-    "chaptersCount": 104,
+    "chaptersCount": 105,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253435,7 +253435,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia De Goblin A Deus Goblin, um manhua em português.",
     "descriptionPt": "Leia De Goblin A Deus Goblin, um manhua em português.",
-    "chaptersCount": 120,
+    "chaptersCount": 121,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253462,7 +253462,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Senhorita Pendleton, um manhwa em português.",
     "descriptionPt": "Leia Senhorita Pendleton, um manhwa em português.",
-    "chaptersCount": 57,
+    "chaptersCount": 59,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258411,7 +258411,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Querido, Por Que Não Nos Divorciamos?, um manhwa em português.",
     "descriptionPt": "Leia Querido, Por Que Não Nos Divorciamos?, um manhwa em português.",
-    "chaptersCount": 71,
+    "chaptersCount": 74,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259515,7 +259515,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia tropa-de-elite-fantastica online em português.",
     "descriptionPt": "Leia tropa-de-elite-fantastica online em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 33,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262414,7 +262414,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Entomologista Do Clã Tang De Sichuan, um manhwa em português.",
     "descriptionPt": "Leia Entomologista Do Clã Tang De Sichuan, um manhwa em português.",
-    "chaptersCount": 93,
+    "chaptersCount": 94,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263114,6 +263114,28 @@ let MANGA_DATA = [
     "description": "Leia Todos os Meus Avatares são Magnatas, um manhwa em português.",
     "descriptionPt": "Leia Todos os Meus Avatares são Magnatas, um manhwa em português.",
     "chaptersCount": 88,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "a-noiva-sagrada-foi-vendida-para-o-principe-inimigo",
+    "slug": "a-noiva-sagrada-foi-vendida-para-o-principe-inimigo",
+    "title": "a-noiva-sagrada-foi-vendida-para-o-principe-inimigo",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-noiva-sagrada-foi-vendida-para-o-principe-inimigo/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-noiva-sagrada-foi-vendida-para-o-principe-inimigo/cover-md.webp",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Manga"
+    ],
+    "description": "Leia a-noiva-sagrada-foi-vendida-para-o-principe-inimigo online em português.",
+    "descriptionPt": "Leia a-noiva-sagrada-foi-vendida-para-o-principe-inimigo online em português.",
+    "chaptersCount": 8,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

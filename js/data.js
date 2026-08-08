@@ -60628,7 +60628,7 @@ let MANGA_DATA = [
     ],
     "description": "“Were you always this lewd?”",
     "descriptionEn": "“Were you always this lewd?”",
-    "chaptersCount": 21,
+    "chaptersCount": 23,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207427,7 +207427,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Jovem Dama Stalker que Recebe Amor Demais, um manhwa em português.",
     "descriptionPt": "Leia A Jovem Dama Stalker que Recebe Amor Demais, um manhwa em português.",
-    "chaptersCount": 44,
+    "chaptersCount": 45,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230892,7 +230892,7 @@ let MANGA_DATA = [
     ],
     "description": "8 / 100 Desenvolvido por Rank Math SEO",
     "descriptionPt": "8 / 100 Desenvolvido por Rank Math SEO",
-    "chaptersCount": 112,
+    "chaptersCount": 113,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false,
@@ -231604,7 +231604,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Mago Negro Retorna Após 66666 Anos, um manhwa em português.",
     "descriptionPt": "Leia O Mago Negro Retorna Após 66666 Anos, um manhwa em português.",
-    "chaptersCount": 193,
+    "chaptersCount": 194,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231814,7 +231814,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Pirralhinha Corre Selvagemente, um manhwa em português.",
     "descriptionPt": "Leia A Pirralhinha Corre Selvagemente, um manhwa em português.",
-    "chaptersCount": 12,
+    "chaptersCount": 13,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232030,7 +232030,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Professor Runebound, um webtoon em português.",
     "descriptionPt": "Leia O Retorno do Professor Runebound, um webtoon em português.",
-    "chaptersCount": 84,
+    "chaptersCount": 85,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232398,7 +232398,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Superação do Nobre Vagabundo, um manhwa em português.",
     "descriptionPt": "Leia A Superação do Nobre Vagabundo, um manhwa em português.",
-    "chaptersCount": 153,
+    "chaptersCount": 154,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232507,7 +232507,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Puramente Delinquente, um manhwa em português.",
     "descriptionPt": "Leia Puramente Delinquente, um manhwa em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 23,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251227,7 +251227,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sou a Madrasta, Mas Minha Filha é Muito Fofa, um manhwa em português.",
     "descriptionPt": "Leia Sou a Madrasta, Mas Minha Filha é Muito Fofa, um manhwa em português.",
-    "chaptersCount": 167,
+    "chaptersCount": 168,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252801,7 +252801,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Melhor Homem no Comando, um manhwa em português.",
     "descriptionPt": "Leia O Melhor Homem no Comando, um manhwa em português.",
-    "chaptersCount": 199,
+    "chaptersCount": 200,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253829,7 +253829,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vilã Orca Bebê, um manhwa em português.",
     "descriptionPt": "Leia A Vilã Orca Bebê, um manhwa em português.",
-    "chaptersCount": 90,
+    "chaptersCount": 91,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254093,7 +254093,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Só Eu Tenho uma Invocação de Rank EX, um manhwa em português.",
     "descriptionPt": "Leia Só Eu Tenho uma Invocação de Rank EX, um manhwa em português.",
-    "chaptersCount": 34,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256531,7 +256531,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
     "descriptionPt": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
-    "chaptersCount": 48,
+    "chaptersCount": 49,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258243,7 +258243,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Shi Zun: Zhege Chong Shi Nitu Cai Bushi Sheng Zi – Master: This Villainous Disciple Is Not The Holy Child Offending My Master, um manhua em português.",
     "descriptionPt": "Leia Shi Zun: Zhege Chong Shi Nitu Cai Bushi Sheng Zi – Master: This Villainous Disciple Is Not The Holy Child Offending My Master, um manhua em português.",
-    "chaptersCount": 195,
+    "chaptersCount": 196,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259564,7 +259564,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia um-colega-de-classe-de-olhar-perspicaz online em português.",
     "descriptionPt": "Leia um-colega-de-classe-de-olhar-perspicaz online em português.",
-    "chaptersCount": 9,
+    "chaptersCount": 10,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259969,7 +259969,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-governante-das-trevas online em português.",
     "descriptionPt": "Leia o-governante-das-trevas online em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259991,7 +259991,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-rei-agiota-do-murim online em português.",
     "descriptionPt": "Leia o-rei-agiota-do-murim online em português.",
-    "chaptersCount": 12,
+    "chaptersCount": 13,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261629,7 +261629,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-segredo-do-senior-perfeito online em português.",
     "descriptionPt": "Leia o-segredo-do-senior-perfeito online em português.",
-    "chaptersCount": 5,
+    "chaptersCount": 6,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261802,7 +261802,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Fui escolhida para ser a nora do tirano, um manhwa em português.",
     "descriptionPt": "Leia Fui escolhida para ser a nora do tirano, um manhwa em português.",
-    "chaptersCount": 4,
+    "chaptersCount": 7,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261969,7 +261969,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Reencarnado, um manhwa em português.",
     "descriptionPt": "Leia Reencarnado, um manhwa em português.",
-    "chaptersCount": 132,
+    "chaptersCount": 138,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262311,7 +262311,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Regra de Ouro de Han Serim, um manhwa em português.",
     "descriptionPt": "Leia A Regra de Ouro de Han Serim, um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 3,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

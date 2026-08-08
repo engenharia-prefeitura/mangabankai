@@ -92502,7 +92502,7 @@ let MANGA_DATA = [
     ],
     "description": "Men Are Rare (Official) One day, Kang Sunho lost consciousness in an accident, only to wake up to: “Alright, time to collect your semen, sweetie!” Wait a second… Men are rare in this world?! With women throwing themselves at him… Well, if this is how things are, guess I’ll just enjoy the feast, one by one!!!",
     "descriptionPt": "",
-    "chaptersCount": 53,
+    "chaptersCount": 54,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -96719,7 +96719,7 @@ let MANGA_DATA = [
     ],
     "description": "Wake-up Call Im Sihyuk had everything going for him, looks, confidence, and a life that ran exactly the way he wanted. That is, until his trendy Gen-Z girlfriend dumps him without mercy, leaving cracks in the perfect image he built for himself. Drowning his pride at a company dinner, Sihyuk somehow gets drunk off a single cocktail and ends up spending the night with Do Geon-woo, a part-time worker who just happened to find him in that state. What should have been a one-time mistake quickly turns complicated. “I only kiss someone I am dating.” “…Fine, just don’t push me away.” Geon-woo is nothi",
     "descriptionPt": "",
-    "chaptersCount": 22,
+    "chaptersCount": 23,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207589,7 +207589,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Me Tornei A Líder De Um Girl Group Amaldiçoado, um manhwa em português.",
     "descriptionPt": "Leia Me Tornei A Líder De Um Girl Group Amaldiçoado, um manhwa em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231578,7 +231578,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Deus Marcial Pay-to-Win, um manhwa em português.",
     "descriptionPt": "Leia Deus Marcial Pay-to-Win, um manhwa em português.",
-    "chaptersCount": 26,
+    "chaptersCount": 27,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232481,7 +232481,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Vou Embora Por Te Amar, um manhwa em português.",
     "descriptionPt": "Leia Vou Embora Por Te Amar, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232919,7 +232919,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A vontade de sobrevivência do vilão, um manhwa em português.",
     "descriptionPt": "Leia A vontade de sobrevivência do vilão, um manhwa em português.",
-    "chaptersCount": 61,
+    "chaptersCount": 62,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250826,7 +250826,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Grande Colheita do Lorde das Trevas, um manhwa em português.",
     "descriptionPt": "Leia A Grande Colheita do Lorde das Trevas, um manhwa em português.",
-    "chaptersCount": 77,
+    "chaptersCount": 78,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250850,7 +250850,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Princesa Vai á Escola, um manhwa em português.",
     "descriptionPt": "Leia A Princesa Vai á Escola, um manhwa em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255072,7 +255072,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mestre Do Treinamento Marcial, um manhwa em português.",
     "descriptionPt": "Leia Mestre Do Treinamento Marcial, um manhwa em português.",
-    "chaptersCount": 124,
+    "chaptersCount": 125,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257082,7 +257082,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Streaming do Arqueiro Genial, um manhwa em português.",
     "descriptionPt": "Leia Streaming do Arqueiro Genial, um manhwa em português.",
-    "chaptersCount": 103,
+    "chaptersCount": 104,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258974,7 +258974,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Que se dane ser o Herdeiro, Eu vou Curar, um manhwa em português.",
     "descriptionPt": "Leia Que se dane ser o Herdeiro, Eu vou Curar, um manhwa em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263139,6 +263139,30 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "tankouhentai-obedience-training-mesugaki-wakarasemashita",
+    "slug": "obedience-training-mesugaki-wakarasemashita",
+    "title": "obedience training ~Mesugaki, Wakarasemashita~",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/07/obedience-training-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/07/obedience-training-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Jaguchi",
+    "status": "completed",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Vanilla",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 1,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

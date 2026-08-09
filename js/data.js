@@ -256155,7 +256155,7 @@ let MANGA_DATA = [
     ],
     "description": "Honey Trouble (Uncensored) Attached at the hip for 20 years, Jiheon and Wooju are practically inseparable. There’s definitely something simmering between them but Jiheon is an alpha and Wooju, just a beta. Not only that, but Wooju’s had his eyes on someone else lately, anyways. Ever the good friend, Jiheon makes an unexpected suggestion to Wooju in order to get the attention of the one he desires. But is there a layer of manipulation beneath this supposedly helpful gesture? What Jiheon feels is love, some might call…an obsession. And this obsession could lead to all sorts of trouble…",
     "descriptionPt": "",
-    "chaptersCount": 56,
+    "chaptersCount": 57,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

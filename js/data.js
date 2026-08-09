@@ -91989,7 +91989,7 @@ let MANGA_DATA = [
     ],
     "description": "Pick-up! (Official) The dynamic and elite college life of a freshman who rolled up to an eco-friendly campus in their car. “Pull over… I want to do it right here.”",
     "descriptionPt": "",
-    "chaptersCount": 30,
+    "chaptersCount": 35,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -240232,7 +240232,7 @@ let MANGA_DATA = [
     "descriptionPt": "",
     "chaptersCount": 170,
     "lang": "en",
-    "hasPt": false,
+    "hasPt": true,
     "hasEn": true,
     "source": "mangadistrict"
   },
@@ -250586,7 +250586,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sobrevivendo Como uma Princesa Ilegítima, um manhwa em português.",
     "descriptionPt": "Leia Sobrevivendo Como uma Princesa Ilegítima, um manhwa em português.",
-    "chaptersCount": 91,
+    "chaptersCount": 92,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258038,7 +258038,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Tenha um Caso Comigo, um manhwa em português.",
     "descriptionPt": "Leia Tenha um Caso Comigo, um manhwa em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258577,7 +258577,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Duquesa Fantasma, um manhwa em português.",
     "descriptionPt": "Leia A Duquesa Fantasma, um manhwa em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263583,6 +263583,33 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "meu-pai-esconde-seu-poder",
+    "slug": "meu-pai-esconde-seu-poder",
+    "title": "Meu pai esconde seu poder",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/meu-pai-esconde-seu-poder/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/meu-pai-esconde-seu-poder/cover-md.webp",
+    "author": "Ko Eun Chae",
+    "artist": "Ko Eun Chae",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 7,
+    "genres": [
+      "Fantasia",
+      "Romance",
+      "Historico",
+      "Magia",
+      "Isekai",
+      "Manhwa"
+    ],
+    "description": "Leia Meu pai esconde seu poder, um manhwa em português.",
+    "descriptionPt": "Leia Meu pai esconde seu poder, um manhwa em português.",
+    "chaptersCount": 18,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

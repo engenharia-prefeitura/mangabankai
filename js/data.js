@@ -60532,7 +60532,7 @@ let MANGA_DATA = [
     ],
     "description": "Even though I get teased for being short and bullied at work, my house is paradise!!",
     "descriptionEn": "Even though I get teased for being short and bullied at work, my house is paradise!!",
-    "chaptersCount": 104,
+    "chaptersCount": 105,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -91921,7 +91921,7 @@ let MANGA_DATA = [
     ],
     "description": "Pleasurebound Princess (Official) After the fall of the Kingdom of Solaris to the Demon King Zermes, a princess and her queen mother are captured and branded with a cursed Pleasure Mark. To protect her daughter, the queen embraces corruption, while the princess loses her last hope. And day by day, both are broken down and forced to submit to the Demon King’s pleasure.",
     "descriptionPt": "",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -93080,7 +93080,7 @@ let MANGA_DATA = [
     ],
     "description": "Glorious Return (Official) “He slept with his next door neighbor’s wife whenever he went away on a business trip” A small town near Seoul that our family used to live in was a welcoming place. At least that’s what I thought until the people of the town revealed their true faces. Our family was driven out of town due to their devious planning, but now that I’ve gained power, I will make my glorious return.",
     "descriptionPt": "",
-    "chaptersCount": 40,
+    "chaptersCount": 41,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -110242,7 +110242,7 @@ let MANGA_DATA = [
     "descriptionPt": "",
     "chaptersCount": 118,
     "lang": "en",
-    "hasPt": false,
+    "hasPt": true,
     "hasEn": true,
     "source": "mangadistrict"
   },
@@ -230203,7 +230203,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O restaurante do arquimago, um manhwa em português.",
     "descriptionPt": "Leia O restaurante do arquimago, um manhwa em português.",
-    "chaptersCount": 143,
+    "chaptersCount": 145,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232454,7 +232454,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Domínio Absoluto, um manhwa em português.",
     "descriptionPt": "Leia Domínio Absoluto, um manhwa em português.",
-    "chaptersCount": 104,
+    "chaptersCount": 105,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232614,7 +232614,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Providência de Alto Nível, um manhua em português.",
     "descriptionPt": "Leia Providência de Alto Nível, um manhua em português.",
-    "chaptersCount": 279,
+    "chaptersCount": 280,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232866,7 +232866,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Me Tornei um Tirano num Jogo de Defesa, um manhwa em português.",
     "descriptionPt": "Leia Me Tornei um Tirano num Jogo de Defesa, um manhwa em português.",
-    "chaptersCount": 193,
+    "chaptersCount": 194,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -240232,7 +240232,7 @@ let MANGA_DATA = [
     "descriptionPt": "",
     "chaptersCount": 170,
     "lang": "en",
-    "hasPt": true,
+    "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
   },
@@ -250664,7 +250664,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Deus Demônio, um manhwa em português.",
     "descriptionPt": "Leia O Deus Demônio, um manhwa em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 42,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251386,7 +251386,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Neste Mundo Não Existem Guerreiros Maus, um manhwa em português.",
     "descriptionPt": "Leia Neste Mundo Não Existem Guerreiros Maus, um manhwa em português.",
-    "chaptersCount": 74,
+    "chaptersCount": 75,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254015,7 +254015,7 @@ let MANGA_DATA = [
     ],
     "description": "My Wife is a VTuber A fiery married couple dives into the streaming world when the wife, a rising VTuber, makes her husband her manager. Between chaotic broadcasts and suspicious fans, his secret past with a top streamer slowly comes to light…",
     "descriptionPt": "",
-    "chaptersCount": 30,
+    "chaptersCount": 32,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -254649,7 +254649,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia despertando-o-trovao-roxo-no-inicio online em português.",
     "descriptionPt": "Leia despertando-o-trovao-roxo-no-inicio online em português.",
-    "chaptersCount": 82,
+    "chaptersCount": 83,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255045,7 +255045,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Assassino Cruel, um manhwa em português.",
     "descriptionPt": "Leia Assassino Cruel, um manhwa em português.",
-    "chaptersCount": 139,
+    "chaptersCount": 141,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258091,7 +258091,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Lei Do Lixo, um manhwa em português.",
     "descriptionPt": "Leia A Lei Do Lixo, um manhwa em português.",
-    "chaptersCount": 43,
+    "chaptersCount": 44,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259446,7 +259446,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Come alguma coisa antes de ir, um manhwa em português.",
     "descriptionPt": "Leia Come alguma coisa antes de ir, um manhwa em português.",
-    "chaptersCount": 65,
+    "chaptersCount": 66,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260219,7 +260219,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-retorno-do-espadachim-negro online em português.",
     "descriptionPt": "Leia o-retorno-do-espadachim-negro online em português.",
-    "chaptersCount": 60,
+    "chaptersCount": 61,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260752,7 +260752,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-transmissao-do-reino-demoniaco-do-demonio-celestial-rejuvenescido online em português.",
     "descriptionPt": "Leia a-transmissao-do-reino-demoniaco-do-demonio-celestial-rejuvenescido online em português.",
-    "chaptersCount": 12,
+    "chaptersCount": 13,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261291,7 +261291,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Ídolo da Nossa Guilda, um manhwa em português.",
     "descriptionPt": "Leia O Ídolo da Nossa Guilda, um manhwa em português.",
-    "chaptersCount": 45,
+    "chaptersCount": 46,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

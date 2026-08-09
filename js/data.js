@@ -97385,7 +97385,7 @@ let MANGA_DATA = [
     ],
     "description": "Leave It to Doc! (Uncensored) Star doctor Soh Baek-gil is the perfect Alpha, but only on paper. In reality, he’s pheromone-blind and incapable of arousal. When he meets Kim Rohee, an Omega nurse with a massive complex about her own overwhelming scent, he thinks he’s found the perfect research subject. He expected a data sample, he didn’t expect to lose his mind.",
     "descriptionPt": "",
-    "chaptersCount": 20,
+    "chaptersCount": 22,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -99211,7 +99211,7 @@ let MANGA_DATA = [
     ],
     "description": "A Very Inappropriate Lease Agreement When Gavin becomes caretaker of his family’s apartment building, his parents joke that he should marry any tenant he falls for. On day one, he meets five stunning women, including his childhood crush. Living together has never been this tempting.",
     "descriptionPt": "",
-    "chaptersCount": 12,
+    "chaptersCount": 16,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207351,7 +207351,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Minha família vilã é contra minha independência, um manhwa em português.",
     "descriptionPt": "Leia Minha família vilã é contra minha independência, um manhwa em português.",
-    "chaptersCount": 89,
+    "chaptersCount": 90,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230176,7 +230176,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Olá, Griffin, o pássaro Fofinho!, um manhwa em português.",
     "descriptionPt": "Leia Olá, Griffin, o pássaro Fofinho!, um manhwa em português.",
-    "chaptersCount": 60,
+    "chaptersCount": 61,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231864,7 +231864,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sob a Flor Caída, um manhwa em português.",
     "descriptionPt": "Leia Sob a Flor Caída, um manhwa em português.",
-    "chaptersCount": 34,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232162,7 +232162,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Pano e Adaga, um manhwa em português.",
     "descriptionPt": "Leia Pano e Adaga, um manhwa em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232764,7 +232764,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia em-busca-pelo-marido-da-duquesa online em português.",
     "descriptionPt": "Leia em-busca-pelo-marido-da-duquesa online em português.",
-    "chaptersCount": 5,
+    "chaptersCount": 6,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249594,7 +249594,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Como Enviar Seu Marido Para o Inferno, um manhwa em português.",
     "descriptionPt": "Leia Como Enviar Seu Marido Para o Inferno, um manhwa em português.",
-    "chaptersCount": 29,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249700,7 +249700,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Flores São Iscas, um manhwa em português.",
     "descriptionPt": "Leia Flores São Iscas, um manhwa em português.",
-    "chaptersCount": 57,
+    "chaptersCount": 58,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251007,7 +251007,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Caída no Paraíso, um manhwa em português.",
     "descriptionPt": "Leia Caída no Paraíso, um manhwa em português.",
-    "chaptersCount": 36,
+    "chaptersCount": 37,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251579,7 +251579,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Reencarnei Como um Cirurgião Lendário, um manhwa em português.",
     "descriptionPt": "Leia Reencarnei Como um Cirurgião Lendário, um manhwa em português.",
-    "chaptersCount": 211,
+    "chaptersCount": 212,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255017,7 +255017,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Conto Do Erudito, um manhwa em português.",
     "descriptionPt": "Leia O Conto Do Erudito, um manhwa em português.",
-    "chaptersCount": 206,
+    "chaptersCount": 208,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255560,7 +255560,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Gosto dos Bonitões!, um manhwa em português.",
     "descriptionPt": "Leia Eu Gosto dos Bonitões!, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256021,7 +256021,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Reparação Pela Sua Crueldade, um manhwa em português.",
     "descriptionPt": "Leia Reparação Pela Sua Crueldade, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258063,7 +258063,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vilã Maldita Retorna, um manhwa em português.",
     "descriptionPt": "Leia A Vilã Maldita Retorna, um manhwa em português.",
-    "chaptersCount": 11,
+    "chaptersCount": 13,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258171,7 +258171,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Ascensão da Cobra Imortal, um manhua em português.",
     "descriptionPt": "Leia A Ascensão da Cobra Imortal, um manhua em português.",
-    "chaptersCount": 97,
+    "chaptersCount": 98,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258215,7 +258215,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-deus-dos-improvisos online em português.",
     "descriptionPt": "Leia o-deus-dos-improvisos online em português.",
-    "chaptersCount": 28,
+    "chaptersCount": 29,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260146,7 +260146,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Cavalo Pálido, um manhwa em português.",
     "descriptionPt": "Leia O Cavalo Pálido, um manhwa em português.",
-    "chaptersCount": 8,
+    "chaptersCount": 9,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260197,7 +260197,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-prodigio-lendario-do-ducado online em português.",
     "descriptionPt": "Leia o-prodigio-lendario-do-ducado online em português.",
-    "chaptersCount": 59,
+    "chaptersCount": 60,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260427,7 +260427,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Minha Caracol Sexy, um manhwa em português.",
     "descriptionPt": "Leia Minha Caracol Sexy, um manhwa em português.",
-    "chaptersCount": 12,
+    "chaptersCount": 13,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261629,7 +261629,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-segredo-do-senior-perfeito online em português.",
     "descriptionPt": "Leia o-segredo-do-senior-perfeito online em português.",
-    "chaptersCount": 6,
+    "chaptersCount": 7,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

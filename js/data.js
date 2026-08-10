@@ -55296,7 +55296,7 @@ let MANGA_DATA = [
       "Manga"
     ],
     "description": "Leia Sakamoto Days online no MangaSurge.",
-    "chaptersCount": 270,
+    "chaptersCount": 272,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -92376,7 +92376,7 @@ let MANGA_DATA = [
     ],
     "description": "My New Family Is Too Nice to Me (Official) I was adopted into a new family after being rescued from my abusive family. Having a famous actress as a mother, an older pro golfer sister, and a younger idol sister was too good to be true on its own. But they’re being way too nice to me. “SEON-HOO, I’ll help you with your desires tonight.”",
     "descriptionPt": "",
-    "chaptersCount": 114,
+    "chaptersCount": 119,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -233063,7 +233063,7 @@ let MANGA_DATA = [
     ],
     "description": "Swallow You Whole (Uncensored) Jaheon comes from a lineage of omegas. Omegas who have raised the children of their branch families, only for them to be offered to the Snake God, Lord Mugo, every 12 years. Though it is said that Mugo handpicks his sacrifices no one in the head family believes such an old tale anymore. However, Jaheon knows that Lord Mugo came to him when he was a child and picked him to be the sacrifice, and even remembers the events of the day. Even though Jaheon has prepared himself, both body and mind, for as long as he could remember, upon entering Mugo’s lair he quickly re",
     "descriptionPt": "",
-    "chaptersCount": 74,
+    "chaptersCount": 75,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -250926,7 +250926,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Transformando um Cachorro Louco em um Gentil Lorde!, um manhwa em português.",
     "descriptionPt": "Leia Transformando um Cachorro Louco em um Gentil Lorde!, um manhwa em português.",
-    "chaptersCount": 74,
+    "chaptersCount": 75,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254119,7 +254119,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia I Was Born as the Second Daughter, um manhwa em português.",
     "descriptionPt": "Leia I Was Born as the Second Daughter, um manhwa em português.",
-    "chaptersCount": 73,
+    "chaptersCount": 74,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254990,7 +254990,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Lendária Assassina Reencarnada Como a Amada Filha Caçula de Uma Família Real, um mangá em português.",
     "descriptionPt": "Leia A Lendária Assassina Reencarnada Como a Amada Filha Caçula de Uma Família Real, um mangá em português.",
-    "chaptersCount": 35,
+    "chaptersCount": 38,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256324,7 +256324,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia I Adopted a Villainous Dad, um manhwa em português.",
     "descriptionPt": "Leia I Adopted a Villainous Dad, um manhwa em português.",
-    "chaptersCount": 85,
+    "chaptersCount": 87,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256401,7 +256401,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Amor De Iseop, um manhwa em português.",
     "descriptionPt": "Leia O Amor De Iseop, um manhwa em português.",
-    "chaptersCount": 109,
+    "chaptersCount": 110,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263837,6 +263837,28 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "a-noiva-fantasma-do-principe-abandonado",
+    "slug": "a-noiva-fantasma-do-principe-abandonado",
+    "title": "a-noiva-fantasma-do-principe-abandonado",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-noiva-fantasma-do-principe-abandonado/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-noiva-fantasma-do-principe-abandonado/cover-md.webp",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Manga"
+    ],
+    "description": "Leia a-noiva-fantasma-do-principe-abandonado online em português.",
+    "descriptionPt": "Leia a-noiva-fantasma-do-principe-abandonado online em português.",
+    "chaptersCount": 13,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

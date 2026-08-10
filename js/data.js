@@ -258830,7 +258830,7 @@ let MANGA_DATA = [
     ],
     "description": "A Lovely Meal One snowy winter evening, Changdeok spots a high schooler crouched in front of his favorite restaurant, blood running ice-cold in the falling snow. Lured in by the promise of meal made just like the restaurant’s, Changdeok ends up inviting the boy – Jongwu – into his home; after all, Changdeok’s life is as dry as day-old rice, and food is his only joy. So when Jongwu offers to cook him a delicious dinner every night in exchange for a place to stay, he reluctantly agrees. But as their unusual cohabitation begins, Changdeok can’t shake this bloody feeling that Jongwoo might be hidi",
     "descriptionPt": "",
-    "chaptersCount": 23,
+    "chaptersCount": 24,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

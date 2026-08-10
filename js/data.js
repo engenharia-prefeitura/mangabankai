@@ -60628,7 +60628,7 @@ let MANGA_DATA = [
     ],
     "description": "“Were you always this lewd?”",
     "descriptionEn": "“Were you always this lewd?”",
-    "chaptersCount": 23,
+    "chaptersCount": 24,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97234,7 +97234,7 @@ let MANGA_DATA = [
     ],
     "description": "Once Upon a Deal (Uncensored) Ju Yunseong thought getting a job at JH Soft was the start of a normal office life—until he noticed his cold, intimidating CEO, Baek Hajin, glaring at him every time they crossed paths. “Why is the boss always staring at me? Did I do something wrong on my first day?” Determined to avoid him at all costs, Yunseong keeps his head down… until he stumbles upon a mysterious employee ID and uncovers a secret: his boss isn’t just intense—he’s a nine-tailed fox. And to make things worse? Hajin’s fox bead ends up lodged inside Yunseong’s body. Now the CEO won’t leave his s",
     "descriptionPt": "",
-    "chaptersCount": 41,
+    "chaptersCount": 42,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -98826,7 +98826,7 @@ let MANGA_DATA = [
     ],
     "description": "High School Salty Heart (Uncensored) Cha Geonwu spent years nursing a hopeless crush on his classmate Lee Taejun, ever since middle school, all the way into college. Tired of dragging around a first love that never went anywhere, he escaped into military service just to reset his heart. But the moment he’s back on campus, destiny laughs in his face, as a required course throws him right back into Taejun’s orbit. Soon, one run-in turns into another, and somehow Geonwu ends up trapped in a new cycle he never saw coming. One where Taejun isn’t just the crush he tried to forget…but the person he’s",
     "descriptionPt": "",
-    "chaptersCount": 27,
+    "chaptersCount": 30,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207479,7 +207479,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Minha ídola favorita pega o ultimo trem, um manhwa em português.",
     "descriptionPt": "Leia Minha ídola favorita pega o ultimo trem, um manhwa em português.",
-    "chaptersCount": 89,
+    "chaptersCount": 90,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207981,7 +207981,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Herdeiro Monstruoso da Família Chaebol, um manhwa em português.",
     "descriptionPt": "Leia O Herdeiro Monstruoso da Família Chaebol, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231682,7 +231682,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Coração Ferido, um webtoon em português.",
     "descriptionPt": "Leia Coração Ferido, um webtoon em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231736,7 +231736,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Minhas Sete Noivas São Todas Vilãs, um manhua em português.",
     "descriptionPt": "Leia Minhas Sete Noivas São Todas Vilãs, um manhua em português.",
-    "chaptersCount": 67,
+    "chaptersCount": 69,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251280,7 +251280,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Regressor da Família Caída, um manhwa em português.",
     "descriptionPt": "Leia O Regressor da Família Caída, um manhwa em português.",
-    "chaptersCount": 145,
+    "chaptersCount": 146,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251360,7 +251360,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Filho Caçula do Conde é um Jogador, um manhwa em português.",
     "descriptionPt": "Leia O Filho Caçula do Conde é um Jogador, um manhwa em português.",
-    "chaptersCount": 164,
+    "chaptersCount": 165,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251551,7 +251551,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Sou o Vilão Predestinado, um manhua em português.",
     "descriptionPt": "Leia Eu Sou o Vilão Predestinado, um manhua em português.",
-    "chaptersCount": 348,
+    "chaptersCount": 349,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251742,7 +251742,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Cavaleiro das Brasas, um manhwa em português.",
     "descriptionPt": "Leia O Cavaleiro das Brasas, um manhwa em português.",
-    "chaptersCount": 244,
+    "chaptersCount": 245,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254577,7 +254577,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Devorador de Artefatos, um manhwa em português.",
     "descriptionPt": "Leia Devorador de Artefatos, um manhwa em português.",
-    "chaptersCount": 49,
+    "chaptersCount": 52,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255045,7 +255045,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Assassino Cruel, um manhwa em português.",
     "descriptionPt": "Leia Assassino Cruel, um manhwa em português.",
-    "chaptersCount": 141,
+    "chaptersCount": 142,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256531,7 +256531,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
     "descriptionPt": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
-    "chaptersCount": 50,
+    "chaptersCount": 51,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258690,7 +258690,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia His Duchess Is a Ghost, um manhwa em português.",
     "descriptionPt": "Leia His Duchess Is a Ghost, um manhwa em português.",
-    "chaptersCount": 34,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260175,7 +260175,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Doentia Devoção, um manhwa em português.",
     "descriptionPt": "Leia Doentia Devoção, um manhwa em português.",
-    "chaptersCount": 57,
+    "chaptersCount": 58,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260263,7 +260263,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-mundo-arruinado-foi-confundido-com-um-jogo online em português.",
     "descriptionPt": "Leia o-mundo-arruinado-foi-confundido-com-um-jogo online em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260730,7 +260730,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-mestre-espadachim-devorador-de-espadas online em português.",
     "descriptionPt": "Leia o-mestre-espadachim-devorador-de-espadas online em português.",
-    "chaptersCount": 40,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260752,7 +260752,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-transmissao-do-reino-demoniaco-do-demonio-celestial-rejuvenescido online em português.",
     "descriptionPt": "Leia a-transmissao-do-reino-demoniaco-do-demonio-celestial-rejuvenescido online em português.",
-    "chaptersCount": 13,
+    "chaptersCount": 14,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262234,7 +262234,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Por favor não morra!, um manhwa em português.",
     "descriptionPt": "Leia Por favor não morra!, um manhwa em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

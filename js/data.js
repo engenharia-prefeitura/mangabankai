@@ -56550,7 +56550,7 @@ let MANGA_DATA = [
       "Manga"
     ],
     "description": "Leia Isshou Senkin online no MangaSurge.",
-    "chaptersCount": 92,
+    "chaptersCount": 93,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -93592,7 +93592,7 @@ let MANGA_DATA = [
     ],
     "description": "Boss’s Daughter (Official) “I only have the body as a collateral, but I better make sure it checks out.” Dylan Nam, loyal to his organization, used to indulge himself by fucking indebted women whenever he wanted. He then decided he wanted to live a normal life. By a stroke of luck, he met a nice woman and began dreaming of a modest future together… When one day, he was framed, stripped of everything, and executed by his boss. “Even if I die… I’ll take you with me!”",
     "descriptionPt": "",
-    "chaptersCount": 43,
+    "chaptersCount": 47,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -98989,7 +98989,7 @@ let MANGA_DATA = [
     ],
     "description": "Falling (DOG) When lifelong criminal Seungji finds herself betrayed by her old boss, she joins an upstart smuggling business to lay low. Her goal is to find the opening to take advantage of the business to score cash and flee the city, but a wrench by the name of Yeongwon is thrown into her plans. Inexperienced and naive, Yeongwon is working in her aunt’s stead as Seungji’s superior. Falling in love is a luxury for people in their line of work, but Seungji’s desire for financial gain might be changing into a desire for something that she can’t afford…",
     "descriptionPt": "",
-    "chaptersCount": 66,
+    "chaptersCount": 71,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -232004,7 +232004,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Estou em um Relacionamento Secreto com o Imperador, mas Não fazia Ideia, um manhwa em português.",
     "descriptionPt": "Leia Estou em um Relacionamento Secreto com o Imperador, mas Não fazia Ideia, um manhwa em português.",
-    "chaptersCount": 28,
+    "chaptersCount": 29,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232717,7 +232717,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Non Tua, um manhwa em português.",
     "descriptionPt": "Leia Non Tua, um manhwa em português.",
-    "chaptersCount": 7,
+    "chaptersCount": 8,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250954,7 +250954,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Fui Confundido com um Gênio Monstruoso, um manhwa em português.",
     "descriptionPt": "Leia Fui Confundido com um Gênio Monstruoso, um manhwa em português.",
-    "chaptersCount": 112,
+    "chaptersCount": 113,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251334,7 +251334,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vingança do Cão de Caça dos Baskerville, um manhwa em português.",
     "descriptionPt": "Leia A Vingança do Cão de Caça dos Baskerville, um manhwa em português.",
-    "chaptersCount": 174,
+    "chaptersCount": 175,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251977,7 +251977,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Recording Hall, um manhwa em português.",
     "descriptionPt": "Leia Recording Hall, um manhwa em português.",
-    "chaptersCount": 134,
+    "chaptersCount": 135,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253330,7 +253330,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Primeiro Amor de um Delinquente, um manhwa em português.",
     "descriptionPt": "Leia O Primeiro Amor de um Delinquente, um manhwa em português.",
-    "chaptersCount": 38,
+    "chaptersCount": 39,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254759,7 +254759,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia streaming-da-estrategia-oculta-do-retornado online em português.",
     "descriptionPt": "Leia streaming-da-estrategia-oculta-do-retornado online em português.",
-    "chaptersCount": 40,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258528,7 +258528,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia bai-lijin-entre-mortais online em português.",
     "descriptionPt": "Leia bai-lijin-entre-mortais online em português.",
-    "chaptersCount": 248,
+    "chaptersCount": 249,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258664,7 +258664,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Secret of My Next Classmate, um manhwa em português.",
     "descriptionPt": "Leia The Secret of My Next Classmate, um manhwa em português.",
-    "chaptersCount": 109,
+    "chaptersCount": 111,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260241,7 +260241,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia reencarnacao-do-deus-dos-punhos online em português.",
     "descriptionPt": "Leia reencarnacao-do-deus-dos-punhos online em português.",
-    "chaptersCount": 63,
+    "chaptersCount": 64,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261889,7 +261889,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia estou-te-dizendo-so-tenho-olhos-para-voce online em português.",
     "descriptionPt": "Leia estou-te-dizendo-so-tenho-olhos-para-voce online em português.",
-    "chaptersCount": 23,
+    "chaptersCount": 24,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

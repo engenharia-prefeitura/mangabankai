@@ -103563,7 +103563,7 @@ let MANGA_DATA = [
     ],
     "description": "Dungeon Odyssey When the war between the aboveground and underground ended, humanity was joined by so-called “dungeon babies,” those gifted with supernatural abilities and an obsession with the labyrinths below ground. Despite being a dungeon baby, Kim Jinwoo suppressed his instincts, choosing to live an ordinary life as a guide and caring for his family. But when an expedition goes wrong and he somehow ends up becoming the new owner of a labyrinth, he discovers that he cannot ignore his instincts forever…",
     "descriptionPt": "",
-    "chaptersCount": 159,
+    "chaptersCount": 163,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -263914,6 +263914,30 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "tankouhentai-cool-kei-tenin-san-o-omochikaeri-shichatta-hanashi",
+    "slug": "cool-kei-tenin-san-o-omochikaeri-shichatta-hanashi",
+    "title": "Cool-kei Tenin-san o Omochikaeri Shichatta Hanashi",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/08/Cool-kei-Tenin-san-o-Omochikaeri-Shichatta-Hanashi-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/08/Cool-kei-Tenin-san-o-Omochikaeri-Shichatta-Hanashi-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "SigMa",
+    "status": "completed",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Vanilla",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 1,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

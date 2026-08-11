@@ -253409,7 +253409,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Carrier Falcon Princess, um manhwa em português.",
     "descriptionPt": "Leia Carrier Falcon Princess, um manhwa em português.",
-    "chaptersCount": 122,
+    "chaptersCount": 123,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255801,7 +255801,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The World Without My Sister Who Everyone Loved, um manhwa em português.",
     "descriptionPt": "Leia The World Without My Sister Who Everyone Loved, um manhwa em português.",
-    "chaptersCount": 110,
+    "chaptersCount": 111,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

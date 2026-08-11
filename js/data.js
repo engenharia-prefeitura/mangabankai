@@ -257820,7 +257820,7 @@ let MANGA_DATA = [
     ],
     "description": "Crows Like Things That Sparkle In the barren northern Snowlands of the empire, a war that has raged on for 37 years against the vicious Norcans is finally brought to an end by one Captain Sahara Ellawood of the 128th Order. When Crown Prince Cheshire Wi Solante goes to escort Captain Ellawood to the capital, he expects to find a savage who beheads and eats the eyes of her enemies. But to his surprise, Captain Ellawood is an incredibly strong, loyal, innocent, and most importantly, beautiful woman. Cheshire is instantly enamored with Sahara, and the two spend an intimate night together after th",
     "descriptionPt": "",
-    "chaptersCount": 44,
+    "chaptersCount": 46,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

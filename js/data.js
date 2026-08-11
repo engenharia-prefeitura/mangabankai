@@ -91325,7 +91325,7 @@ let MANGA_DATA = [
     ],
     "description": "The Inheritance ( Mokbegae) (Official) Late at night, an unknown woman suddenly appears at Dominic’s doorstep. She claims she’s the inheritance sent by his father. Obeying every command without question, her presence awakens the dark desires Dominic has been suppressing deep inside…",
     "descriptionPt": "",
-    "chaptersCount": 39,
+    "chaptersCount": 42,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -98064,7 +98064,7 @@ let MANGA_DATA = [
     ],
     "description": "The Ghost in the Doorway (Uncensored) Han Tae-oh’s return to Korea was supposed to be a brief, somber visit to bury his father. Instead, he finds himself trapped in a web of suspicion centered on Yun Gyeongseo, the man who stayed behind to serve his family while Tae-oh was away. Gossip whispers of Gyeongseo’s involvement in his father’s decline, and the more Tae-oh investigates, the less he recognizes his former first love. Within the walls of the sprawling mansion, Tae-oh begins to piece together a fragmented past, uncovering a cycle of revenge that has been decades in the making. Every truth",
     "descriptionPt": "",
-    "chaptersCount": 17,
+    "chaptersCount": 19,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -232955,7 +232955,7 @@ let MANGA_DATA = [
     ],
     "description": "Magic-Girl Service (Uncensored) One day, completely against his will, Kim Namju finds himself hexed by a sparkly fairy named Seobi—and just like that, he becomes the unwilling mascot of a team of magical girls. Their mission? To defeat the Demons of Desire, monsters born from the collective lust of humanity, who are now plotting to take over Earth. So far, so weird—but then comes the kicker. To truly purify these lust-fueled demons, Namju has to help the magical girls and monsters fulfill their wildest desires. Yes, all of them. Cue awkward moans, questionable missions, and Namju screaming, “T",
     "descriptionPt": "",
-    "chaptersCount": 38,
+    "chaptersCount": 39,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -259998,30 +259998,6 @@ let MANGA_DATA = [
     "hasEn": false
   },
   {
-    "id": "a-killer-woman",
-    "slug": "a-killer-woman",
-    "title": "A Killer Woman",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/a-killer-woman-01-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/a-killer-woman-01-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adult"
-    ],
-    "description": "The story of a woman and a curse that leads men to their death, will she be able to find happiness?",
-    "descriptionEn": "The story of a woman and a curse that leads men to their death, will she be able to find happiness?",
-    "chaptersCount": 112,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "bem-vindo-a-mansao-rose",
     "slug": "bem-vindo-a-mansao-rose",
     "title": "bem-vindo-a-mansao-rose",
@@ -263966,6 +263942,31 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "a-tale-of-tails",
+    "slug": "a-tale-of-tails",
+    "title": "A Tale of Tails",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2024/08/a-tale-of-tails-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2024/08/a-tale-of-tails-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Supernatural",
+      "Adult"
+    ],
+    "description": "Tony’s grandfather gave him a word of advice, to be careful of one thing and one thing only. Can Tony realize what he meant?",
+    "descriptionEn": "Tony’s grandfather gave him a word of advice, to be careful of one thing and one thing only. Can Tony realize what he meant?",
+    "chaptersCount": 15,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

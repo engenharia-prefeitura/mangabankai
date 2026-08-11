@@ -92185,7 +92185,7 @@ let MANGA_DATA = [
     ],
     "description": "Office Romance Registry (Official) While working overtime, Jace Choi happens to stumble upon the ‘Office Romance Registry.’ Out of curiosity, he writes his name in the manager’s column. From that day on, his life begins to change… ‘Office romance is forbidden in our company. However, managers are excluded.’",
     "descriptionPt": "",
-    "chaptersCount": 35,
+    "chaptersCount": 40,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

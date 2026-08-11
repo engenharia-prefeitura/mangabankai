@@ -207427,7 +207427,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Jovem Dama Stalker que Recebe Amor Demais, um manhwa em português.",
     "descriptionPt": "Leia A Jovem Dama Stalker que Recebe Amor Demais, um manhwa em português.",
-    "chaptersCount": 45,
+    "chaptersCount": 48,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232240,7 +232240,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Duquesa em Ruínas, um manhwa em português.",
     "descriptionPt": "Leia Duquesa em Ruínas, um manhwa em português.",
-    "chaptersCount": 55,
+    "chaptersCount": 56,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249515,7 +249515,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromante: Rei dos Mortos, um manhua em português.",
     "descriptionPt": "Leia Necromante: Rei dos Mortos, um manhua em português.",
-    "chaptersCount": 295,
+    "chaptersCount": 296,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250479,7 +250479,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-esposa-que-esperou-no-campo-de-trigo online em português.",
     "descriptionPt": "Leia a-esposa-que-esperou-no-campo-de-trigo online em português.",
-    "chaptersCount": 23,
+    "chaptersCount": 24,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250718,7 +250718,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Segundo Eunuco Recupera Sua Masculinidade, um manhwa em português.",
     "descriptionPt": "Leia O Segundo Eunuco Recupera Sua Masculinidade, um manhwa em português.",
-    "chaptersCount": 100,
+    "chaptersCount": 101,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250744,7 +250744,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Crônicas do Soberano Preguiçoso, um manhwa em português.",
     "descriptionPt": "Leia Crônicas do Soberano Preguiçoso, um manhwa em português.",
-    "chaptersCount": 58,
+    "chaptersCount": 59,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250772,7 +250772,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Lendário Cavaleiro da Lança, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Lendário Cavaleiro da Lança, um manhwa em português.",
-    "chaptersCount": 209,
+    "chaptersCount": 210,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251140,7 +251140,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Empregada Secreta do Conde, um manhwa em português.",
     "descriptionPt": "Leia A Empregada Secreta do Conde, um manhwa em português.",
-    "chaptersCount": 91,
+    "chaptersCount": 92,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251635,7 +251635,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Jardim de Maio, um manhwa em português.",
     "descriptionPt": "Leia Jardim de Maio, um manhwa em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251742,7 +251742,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Cavaleiro das Brasas, um manhwa em português.",
     "descriptionPt": "Leia O Cavaleiro das Brasas, um manhwa em português.",
-    "chaptersCount": 245,
+    "chaptersCount": 246,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252749,7 +252749,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guarda Malandro em uma Fantasia Medieval, um manhwa em português.",
     "descriptionPt": "Leia Guarda Malandro em uma Fantasia Medieval, um manhwa em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253142,7 +253142,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Knight King Who Returned with a God, um manhwa em português.",
     "descriptionPt": "Leia The Knight King Who Returned with a God, um manhwa em português.",
-    "chaptersCount": 176,
+    "chaptersCount": 177,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253250,7 +253250,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Uma Criança Com Talentos Ocultos Busca Seu Pai, um manhwa em português.",
     "descriptionPt": "Leia Uma Criança Com Talentos Ocultos Busca Seu Pai, um manhwa em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 45,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255072,7 +255072,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mestre Do Treinamento Marcial, um manhwa em português.",
     "descriptionPt": "Leia Mestre Do Treinamento Marcial, um manhwa em português.",
-    "chaptersCount": 125,
+    "chaptersCount": 126,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255236,7 +255236,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Superastro do 0, um manhwa em português.",
     "descriptionPt": "Leia Superastro do 0, um manhwa em português.",
-    "chaptersCount": 98,
+    "chaptersCount": 99,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255801,7 +255801,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The World Without My Sister Who Everyone Loved, um manhwa em português.",
     "descriptionPt": "Leia The World Without My Sister Who Everyone Loved, um manhwa em português.",
-    "chaptersCount": 109,
+    "chaptersCount": 110,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255907,7 +255907,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Novel’s Extra, um manhwa em português.",
     "descriptionPt": "Leia The Novel’s Extra, um manhwa em português.",
-    "chaptersCount": 166,
+    "chaptersCount": 169,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256349,7 +256349,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Martial God who Regressed to Level 2, um manhwa em português.",
     "descriptionPt": "Leia The Martial God who Regressed to Level 2, um manhwa em português.",
-    "chaptersCount": 127,
+    "chaptersCount": 128,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256721,7 +256721,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Vá Embora, Romeo!, um webtoon em português.",
     "descriptionPt": "Leia Vá Embora, Romeo!, um webtoon em português.",
-    "chaptersCount": 78,
+    "chaptersCount": 79,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258528,7 +258528,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia bai-lijin-entre-mortais online em português.",
     "descriptionPt": "Leia bai-lijin-entre-mortais online em português.",
-    "chaptersCount": 249,
+    "chaptersCount": 250,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258664,7 +258664,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Secret of My Next Classmate, um manhwa em português.",
     "descriptionPt": "Leia The Secret of My Next Classmate, um manhwa em português.",
-    "chaptersCount": 111,
+    "chaptersCount": 112,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259002,7 +259002,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Doppio Senso, um manhwa em português.",
     "descriptionPt": "Leia Doppio Senso, um manhwa em português.",
-    "chaptersCount": 69,
+    "chaptersCount": 70,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260796,7 +260796,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-casei-com-o-dragao-que-matei online em português.",
     "descriptionPt": "Leia me-casei-com-o-dragao-que-matei online em português.",
-    "chaptersCount": 9,
+    "chaptersCount": 10,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261750,7 +261750,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Um Homem de Verdade, um manhwa em português.",
     "descriptionPt": "Leia Um Homem de Verdade, um manhwa em português.",
-    "chaptersCount": 47,
+    "chaptersCount": 48,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263241,7 +263241,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Não há lugar para falsificações, um manhwa em português.",
     "descriptionPt": "Leia Não há lugar para falsificações, um manhwa em português.",
-    "chaptersCount": 117,
+    "chaptersCount": 120,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263938,6 +263938,32 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "a-criadora-de-escandalos-voltou",
+    "slug": "a-criadora-de-escandalos-voltou",
+    "title": "A Criadora de Escândalos Voltou",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-criadora-de-escandalos-voltou/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-criadora-de-escandalos-voltou/cover-md.webp",
+    "author": "Lemon Frog",
+    "artist": "Lemon Frog",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Fantasia",
+      "Romance",
+      "Historico",
+      "Manhwa"
+    ],
+    "description": "Leia A Criadora de Escândalos Voltou, um manhwa em português.",
+    "descriptionPt": "Leia A Criadora de Escândalos Voltou, um manhwa em português.",
+    "chaptersCount": 10,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

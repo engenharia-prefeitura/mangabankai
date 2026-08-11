@@ -254833,7 +254833,7 @@ let MANGA_DATA = [
     ],
     "description": "Grasping (Uncensored) In a brutal, predator-eat-prey society where your social class is decided the moment you are born, Hwang Jihwan sits at the absolute bottom. As a rabbit hybrid, he is treated like trash by the world, scraping by on gambling and petty scams. But when a routine con goes sideways, Jihwan crosses the wrong line and gets tangled up with a lethal fox syndicate. Staring down a death sentence, his life is suddenly saved by an unexpected savior. Jang Wiran, a dominant, top-tier fox who shared Jihwan’s bed just once three years ago, sweeps in with a cold warning to the mob: “This o",
     "descriptionPt": "",
-    "chaptersCount": 9,
+    "chaptersCount": 12,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -262709,31 +262709,6 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
-  },
-  {
-    "id": "a-tale-of-tails",
-    "slug": "a-tale-of-tails",
-    "title": "A Tale of Tails",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/a-tale-of-tails-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/a-tale-of-tails-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Supernatural",
-      "Adult"
-    ],
-    "description": "Tony’s grandfather gave him a word of advice, to be careful of one thing and one thing only. Can Tony realize what he meant?",
-    "descriptionEn": "Tony’s grandfather gave him a word of advice, to be careful of one thing and one thing only. Can Tony realize what he meant?",
-    "chaptersCount": 15,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
   },
   {
     "id": "mangadistrict-dominion-club",

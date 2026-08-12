@@ -60460,7 +60460,7 @@ let MANGA_DATA = [
     ],
     "description": "After being caught while having an intimate encounter with other MILFS, Taeyang escaped to another world. Sharing a bed with a top-class MILF with an amazing",
     "descriptionEn": "After being caught while having an intimate encounter with other MILFS, Taeyang escaped to another world. Sharing a bed with a top-class MILF with an amazing",
-    "chaptersCount": 128,
+    "chaptersCount": 129,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -137767,7 +137767,7 @@ let MANGA_DATA = [
     "descriptionPt": "",
     "chaptersCount": 87,
     "lang": "en",
-    "hasPt": false,
+    "hasPt": true,
     "hasEn": true,
     "source": "mangadistrict"
   },

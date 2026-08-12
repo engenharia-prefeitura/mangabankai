@@ -94916,7 +94916,7 @@ let MANGA_DATA = [
     ],
     "description": "Prison Breakfast (Uncensored) When Cha Yoonwoo intentionally gets arrested in order to smuggle drugs into prison, the last thing he expects to find out during intake is that he’s pregnant. With no other option, he requests a meeting with Nam Soohyeon, the manipulative prosecutor who knotted him. But Yoonwoo’s incarceration takes a surprising turn when none other than the man who put him up to this whole thing shows up in handcuffs. Just how will Yoonwoo make it through his sentence with such an unlikely cast of inmates, no alpha by his side, and a baby on the way?",
     "descriptionPt": "",
-    "chaptersCount": 62,
+    "chaptersCount": 67,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -99714,7 +99714,7 @@ let MANGA_DATA = [
     ],
     "description": "Hypnotist Security Guard A downtrodden security guard embarks on a quest for power and dominance, using hypnosis to transform his life.",
     "descriptionPt": "",
-    "chaptersCount": 97,
+    "chaptersCount": 100,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -99818,7 +99818,7 @@ let MANGA_DATA = [
     ],
     "description": "The Delinquent Girl (Uncensored) Bullied in school, and now reunited… Can I get my payback?",
     "descriptionPt": "",
-    "chaptersCount": 18,
+    "chaptersCount": 22,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207618,7 +207618,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dragões Sequestrados, um manhwa em português.",
     "descriptionPt": "Leia Dragões Sequestrados, um manhwa em português.",
-    "chaptersCount": 54,
+    "chaptersCount": 55,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207669,7 +207669,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Missões na Vida Real, um manhwa em português.",
     "descriptionPt": "Leia Missões na Vida Real, um manhwa em português.",
-    "chaptersCount": 219,
+    "chaptersCount": 220,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207696,7 +207696,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Nano Máquina, um manhwa em português.",
     "descriptionPt": "Leia Nano Máquina, um manhwa em português.",
-    "chaptersCount": 324,
+    "chaptersCount": 325,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207904,7 +207904,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Me Escolhe!, um manhwa em português.",
     "descriptionPt": "Leia Me Escolhe!, um manhwa em português.",
-    "chaptersCount": 213,
+    "chaptersCount": 214,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231921,7 +231921,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Lixo da Família Condal, um manhwa em português.",
     "descriptionPt": "Leia O Lixo da Família Condal, um manhwa em português.",
-    "chaptersCount": 184,
+    "chaptersCount": 185,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -233397,7 +233397,7 @@ let MANGA_DATA = [
     ],
     "description": "Matched with My Bully on Random Chat (Official) Daniel thinks the girl he matched with might be the same one who used to torment him. But this time, he’s the one holding the power, and with it, he plans to bring down his old bully, her friend… and even her family.",
     "descriptionPt": "",
-    "chaptersCount": 37,
+    "chaptersCount": 38,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -251871,7 +251871,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Matei Um Jogador da Academia, um manhwa em português.",
     "descriptionPt": "Leia Eu Matei Um Jogador da Academia, um manhwa em português.",
-    "chaptersCount": 136,
+    "chaptersCount": 137,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253750,7 +253750,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Longe de estar Sóbrio, um manhwa em português.",
     "descriptionPt": "Leia Longe de estar Sóbrio, um manhwa em português.",
-    "chaptersCount": 4,
+    "chaptersCount": 10,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254416,7 +254416,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Filho Adotivo em um Mundo de Supremacia de Linhagem, um mangá em português.",
     "descriptionPt": "Leia O Retorno do Filho Adotivo em um Mundo de Supremacia de Linhagem, um mangá em português.",
-    "chaptersCount": 47,
+    "chaptersCount": 48,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254442,7 +254442,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Demônio Supremo do Veneno, um manhwa em português.",
     "descriptionPt": "Leia O Demônio Supremo do Veneno, um manhwa em português.",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254606,7 +254606,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei O Mentor do Rei Demônio mais Fraco, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei O Mentor do Rei Demônio mais Fraco, um manhwa em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255208,7 +255208,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Um Guia Para um Amor Verdadeiro, um manhwa em português.",
     "descriptionPt": "Leia Um Guia Para um Amor Verdadeiro, um manhwa em português.",
-    "chaptersCount": 47,
+    "chaptersCount": 48,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255446,7 +255446,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Renúncia da Doutora, um manhwa em português.",
     "descriptionPt": "Leia A Renúncia da Doutora, um manhwa em português.",
-    "chaptersCount": 95,
+    "chaptersCount": 96,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256532,7 +256532,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
     "descriptionPt": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
-    "chaptersCount": 51,
+    "chaptersCount": 52,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258529,7 +258529,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia bai-lijin-entre-mortais online em português.",
     "descriptionPt": "Leia bai-lijin-entre-mortais online em português.",
-    "chaptersCount": 251,
+    "chaptersCount": 252,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258578,7 +258578,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Duquesa Fantasma, um manhwa em português.",
     "descriptionPt": "Leia A Duquesa Fantasma, um manhwa em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259028,7 +259028,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Teto x Egen: Vizinhos por Acaso, um manhwa em português.",
     "descriptionPt": "Leia Teto x Egen: Vizinhos por Acaso, um manhwa em português.",
-    "chaptersCount": 15,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259826,7 +259826,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia uma-crianca-que-se-parece-comigo online em português.",
     "descriptionPt": "Leia uma-crianca-que-se-parece-comigo online em português.",
-    "chaptersCount": 37,
+    "chaptersCount": 39,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264208,7 +264208,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Santo da Espada Reencarnou em uma Família Nobre de Magos, um mangá em português.",
     "descriptionPt": "Leia O Santo da Espada Reencarnou em uma Família Nobre de Magos, um mangá em português.",
-    "chaptersCount": 5,
+    "chaptersCount": 11,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

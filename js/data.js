@@ -96041,7 +96041,7 @@ let MANGA_DATA = [
     ],
     "description": "Reformation of the Deadbeat Noble Irene Perreira is a boy who sleeps to run away from reality. People mocked him, calling him a ‘deadbeat’, but he had no wish to change. Until one day, he dreamt of a swordsman… It was a dream about a talentless man who had been training by swinging his sword for decades.",
     "descriptionPt": "",
-    "chaptersCount": 149,
+    "chaptersCount": 153,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

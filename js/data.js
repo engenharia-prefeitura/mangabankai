@@ -259620,31 +259620,6 @@ let MANGA_DATA = [
     "hasEn": false
   },
   {
-    "id": "all-girl-sharehouse",
-    "slug": "all-girl-sharehouse",
-    "title": "All-Girl Sharehouse",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2025/03/all-girl-sharehouse-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2025/03/all-girl-sharehouse-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Seinen",
-      "Adult"
-    ],
-    "description": "After getting into college, Brian goes out clubbing to celebrate his acceptance and hooks up with a drop-dead gorgeous girl, unaware that he’ll soon be living",
-    "descriptionEn": "After getting into college, Brian goes out clubbing to celebrate his acceptance and hooks up with a drop-dead gorgeous girl, unaware that he’ll soon be living",
-    "chaptersCount": 23,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "mangadistrict-count-kalleys-whipping-maid-uncensored",
     "slug": "count-kalleys-whipping-maid-uncensored",
     "title": "Count Kalley’s Whipping Maid (Uncensored)",

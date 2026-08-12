@@ -98774,7 +98774,7 @@ let MANGA_DATA = [
     ],
     "description": "Ian’s Binding (Uncensored) Benjamin Barker, a special agent at the CBI, attempts to apprehend Ian Basti, the boss of a major crime syndicate, only to be overpowered and captured. As Ian’s prisoner, Benjamin is subjected to countless forms of sexual torture and even abandoned by his fellow agents. Despite this, he decides to stay by Ian’s side to learn more about the inner workings of the organization and their drug operations. Will Benjamin survive this ordeal, or will the mob boss’s grasp suffocate his escape plans?",
     "descriptionPt": "",
-    "chaptersCount": 35,
+    "chaptersCount": 38,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

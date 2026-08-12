@@ -233733,7 +233733,7 @@ let MANGA_DATA = [
     ],
     "description": "Tyrant of the Tower Defense Game “Protect the Empire” was considered unbeatable for over a decade until streamer extraordinaire “Mr. Gamer Geek” comes along and defeats the game on its hardest mode. But just when he’s about to rest on his laurels, he’s sucked into the world of the game by some mysterious figure and thrust into Prince Ash’s body! Ash now realizes that every click and command he had mindlessly sent out had real, gruesome costs – including his teammates’ lives that he sacrificed for the sake of victory. To make up for his previous actions, Ash promises to keep his whole team aliv",
     "descriptionPt": "",
-    "chaptersCount": 187,
+    "chaptersCount": 192,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

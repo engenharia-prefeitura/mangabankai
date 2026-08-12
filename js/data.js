@@ -94091,7 +94091,7 @@ let MANGA_DATA = [
     ],
     "description": "Reversal (Saejo) (Uncensored) Hiding both his real name Yuhan and his past as a dominant Omega, Lee Hajin lives quietly as a Beta, drowning in debt and scraping by as a personal aide to the spoiled son of J Tech’s CEO. With no family to rely on, survival is his only goal. Everything changes when Hajin runs into Kwon Seong-hyeob, his first love from high school, at a business meeting. Once the son of his family’s chauffeur, Seong-hyeob is now a powerful corporate leader. Time has reversed their positions, but their pheromones still recognize each other as if no years have passed. In this new, t",
     "descriptionPt": "",
-    "chaptersCount": 28,
+    "chaptersCount": 31,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -94350,7 +94350,7 @@ let MANGA_DATA = [
     ],
     "description": "Love, Lust, & Joy In the 22nd century, even in a world where reproduction is no longer possible, humanity still craves sex. Akana runs a shop called LOVE & JOY in a city overflowing with artificial pleasures, catering to every kind of desire with no judgment. From obsession and public exposure to the darkest, most secret cravings, she’s here to make your wildest kinks 200% real.",
     "descriptionPt": "",
-    "chaptersCount": 51,
+    "chaptersCount": 53,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -232005,7 +232005,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Estou em um Relacionamento Secreto com o Imperador, mas Não fazia Ideia, um manhwa em português.",
     "descriptionPt": "Leia Estou em um Relacionamento Secreto com o Imperador, mas Não fazia Ideia, um manhwa em português.",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232241,7 +232241,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Duquesa em Ruínas, um manhwa em português.",
     "descriptionPt": "Leia Duquesa em Ruínas, um manhwa em português.",
-    "chaptersCount": 56,
+    "chaptersCount": 57,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264108,6 +264108,31 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "all-girl-sharehouse",
+    "slug": "all-girl-sharehouse",
+    "title": "All-Girl Sharehouse",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2025/03/all-girl-sharehouse-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2025/03/all-girl-sharehouse-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Seinen",
+      "Adult"
+    ],
+    "description": "After getting into college, Brian goes out clubbing to celebrate his acceptance and hooks up with a drop-dead gorgeous girl, unaware that he’ll soon be living",
+    "descriptionEn": "After getting into college, Brian goes out clubbing to celebrate his acceptance and hooks up with a drop-dead gorgeous girl, unaware that he’ll soon be living",
+    "chaptersCount": 23,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

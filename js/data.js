@@ -97234,7 +97234,7 @@ let MANGA_DATA = [
     ],
     "description": "Once Upon a Deal (Uncensored) Ju Yunseong thought getting a job at JH Soft was the start of a normal office life—until he noticed his cold, intimidating CEO, Baek Hajin, glaring at him every time they crossed paths. “Why is the boss always staring at me? Did I do something wrong on my first day?” Determined to avoid him at all costs, Yunseong keeps his head down… until he stumbles upon a mysterious employee ID and uncovers a secret: his boss isn’t just intense—he’s a nine-tailed fox. And to make things worse? Hajin’s fox bead ends up lodged inside Yunseong’s body. Now the CEO won’t leave his s",
     "descriptionPt": "",
-    "chaptersCount": 42,
+    "chaptersCount": 43,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -100777,7 +100777,7 @@ let MANGA_DATA = [
     ],
     "description": "A Sticky Situation After visiting his girlfriend’s home for the first time, Dane finds himself drawn to someone unexpected.",
     "descriptionPt": "",
-    "chaptersCount": 6,
+    "chaptersCount": 12,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -137767,7 +137767,7 @@ let MANGA_DATA = [
     "descriptionPt": "",
     "chaptersCount": 87,
     "lang": "en",
-    "hasPt": true,
+    "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
   },
@@ -230028,30 +230028,6 @@ let MANGA_DATA = [
     "source": "tankouhentai"
   },
   {
-    "id": "amu",
-    "slug": "amu",
-    "title": "AMU",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/amu-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/amu-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adult"
-    ],
-    "description": "Welcome to Cafe Dilemma, the solution to all your troubles. “We will make your destiny.”",
-    "descriptionEn": "Welcome to Cafe Dilemma, the solution to all your troubles. “We will make your destiny.”",
-    "chaptersCount": 31,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "unico-fazendeiro-da-torre",
     "slug": "unico-fazendeiro-da-torre",
     "title": "Único Fazendeiro da Torre",
@@ -230177,7 +230153,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Olá, Griffin, o pássaro Fofinho!, um manhwa em português.",
     "descriptionPt": "Leia Olá, Griffin, o pássaro Fofinho!, um manhwa em português.",
-    "chaptersCount": 61,
+    "chaptersCount": 62,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -235670,7 +235646,7 @@ let MANGA_DATA = [
     ],
     "description": "The Thread Never Burned (Uncensored) Jo Jiwon is just your average college kid—well, except for the part where he scams people by pretending to be a shaman. Thanks to his silver tongue and some lucky guesses, he gains a reputation as a spiritual powerhouse. Unfortunately, word gets around… all the way to Jeong Tae-oh, a superstitious mob boss who actually believes in that stuff. When Tae-oh shows up demanding help, Jiwon pretends to take the job—then immediately tries to run. Too bad he gets caught. He wakes up in a sketchy motel, staring death in the face. Thinking fast, Jiwon blurts out: “Y-",
     "descriptionPt": "",
-    "chaptersCount": 41,
+    "chaptersCount": 44,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -258172,7 +258148,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Ascensão da Cobra Imortal, um manhua em português.",
     "descriptionPt": "Leia A Ascensão da Cobra Imortal, um manhua em português.",
-    "chaptersCount": 98,
+    "chaptersCount": 99,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260531,7 +260507,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia um-dia-minha-irma-morreu online em português.",
     "descriptionPt": "Leia um-dia-minha-irma-morreu online em português.",
-    "chaptersCount": 10,
+    "chaptersCount": 11,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264303,6 +264279,34 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "please-be-patient-grand-duke",
+    "slug": "please-be-patient-grand-duke",
+    "title": "Please, be Patient, Grand Duke",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/please-be-patient-grand-duke/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/please-be-patient-grand-duke/cover-md.webp",
+    "author": "Jin Soye",
+    "artist": "Jin Soye",
+    "status": "completed",
+    "year": 2021,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Romance",
+      "Historico",
+      "Josei",
+      "Manhwa",
+      "Gender Bender"
+    ],
+    "description": "Leia Please, be Patient, Grand Duke, um manhwa em português.",
+    "descriptionPt": "Leia Please, be Patient, Grand Duke, um manhwa em português.",
+    "chaptersCount": 147,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

@@ -96221,7 +96221,7 @@ let MANGA_DATA = [
     ],
     "description": "Heavenly Demon Cultivation Simulation A scout in the infamous Demon Cult, Seolhwi is on a routine patrol when his squad unexpectedly encounters a fearsome master of the Mount Hua Sect, the sworn enemies of the Demon Cult. Without warning, the Mount Hua Cult master slaughters the entire squad. As Seolhwi lies dying, lamenting years of service to the cult with nothing to show for it, he is suddenly faced with a video game prompt, asking if he would like to start again. Given the opportunity to start over and make different choices, Seolhwi vows to survive and become stronger so he can rise to th",
     "descriptionPt": "",
-    "chaptersCount": 183,
+    "chaptersCount": 188,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -101375,7 +101375,7 @@ let MANGA_DATA = [
     ],
     "description": "Who Cares if it’s a Lie? They live comfortably on small lies, because, really… who cares if it’s a lie?",
     "descriptionPt": "",
-    "chaptersCount": 15,
+    "chaptersCount": 17,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -250984,7 +250984,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Caída no Paraíso, um manhwa em português.",
     "descriptionPt": "Leia Caída no Paraíso, um manhwa em português.",
-    "chaptersCount": 37,
+    "chaptersCount": 39,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253153,33 +253153,6 @@ let MANGA_DATA = [
     "hasEn": false
   },
   {
-    "id": "adamasu-no-majotachi",
-    "slug": "adamasu-no-majotachi",
-    "title": "Adamasu no Majotachi",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/adamasu-no-majotachi-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/adamasu-no-majotachi-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adult",
-      "Ecchi",
-      "Seinen",
-      "Supernatural"
-    ],
-    "description": "Satou Yukinari is an ordinary high schoolboy. However, while playing a game of pocket pool one day, he suddenly felt as if he was passing a kidney stone. But",
-    "descriptionEn": "Satou Yukinari is an ordinary high schoolboy. However, while playing a game of pocket pool one day, he suddenly felt as if he was passing a kidney stone. But",
-    "chaptersCount": 49,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "amor-perigoso-do-bad-boy",
     "slug": "amor-perigoso-do-bad-boy",
     "title": "Amor perigoso do Bad Boy",
@@ -255315,7 +255288,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Estou Apenas Aproveitando meu Tempo Limite, um manhwa em português.",
     "descriptionPt": "Leia Estou Apenas Aproveitando meu Tempo Limite, um manhwa em português.",
-    "chaptersCount": 55,
+    "chaptersCount": 56,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264307,6 +264280,52 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "administrando-um-territorio-mediocre",
+    "slug": "administrando-um-territorio-mediocre",
+    "title": "administrando-um-territorio-mediocre",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/administrando-um-territorio-mediocre/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/administrando-um-territorio-mediocre/cover-md.webp",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Manga"
+    ],
+    "description": "Leia administrando-um-territorio-mediocre online em português.",
+    "descriptionPt": "Leia administrando-um-territorio-mediocre online em português.",
+    "chaptersCount": 7,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "amu",
+    "slug": "amu",
+    "title": "AMU",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2024/08/amu-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2024/08/amu-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult"
+    ],
+    "description": "Welcome to Cafe Dilemma, the solution to all your troubles. “We will make your destiny.”",
+    "descriptionEn": "Welcome to Cafe Dilemma, the solution to all your troubles. “We will make your destiny.”",
+    "chaptersCount": 31,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

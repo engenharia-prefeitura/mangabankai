@@ -94195,7 +94195,7 @@ let MANGA_DATA = [
     ],
     "description": "Pietà (DAONG) (Uncensored) “Dante has lived his life hiding a secret—he is immortal. Working as a repairman, he one day witnesses a murder at the home of his client, Demis. Instead of running, he makes an unusual request: Kill me. Demis refuses at first, but upon discovering Dante’s immortality, he becomes intrigued. A dangerous promise is made—one that ties them together in a fate neither of them could have foreseen.”",
     "descriptionPt": "",
-    "chaptersCount": 32,
+    "chaptersCount": 33,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207403,7 +207403,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Para o Duque Perfeito, um manhwa em português.",
     "descriptionPt": "Leia Para o Duque Perfeito, um manhwa em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207774,7 +207774,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei a Serva do Tirano, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei a Serva do Tirano, um manhwa em português.",
-    "chaptersCount": 110,
+    "chaptersCount": 111,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -208061,7 +208061,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Me Tornei a Favorita da Vilã, um manhwa em português.",
     "descriptionPt": "Leia Me Tornei a Favorita da Vilã, um manhwa em português.",
-    "chaptersCount": 37,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253776,7 +253776,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Conforme o seu coração guiar, um manhwa em português.",
     "descriptionPt": "Leia Conforme o seu coração guiar, um manhwa em português.",
-    "chaptersCount": 60,
+    "chaptersCount": 62,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254287,7 +254287,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Flutuando na Minha Mente, um manhwa em português.",
     "descriptionPt": "Leia Flutuando na Minha Mente, um manhwa em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256583,7 +256583,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Realmente não sou o Lacaio do Deus Demônio, um manhua em português.",
     "descriptionPt": "Leia Eu Realmente não sou o Lacaio do Deus Demônio, um manhua em português.",
-    "chaptersCount": 200,
+    "chaptersCount": 201,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258194,7 +258194,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia genio-regressado-criador-de-itens-mitico online em português.",
     "descriptionPt": "Leia genio-regressado-criador-de-itens-mitico online em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259299,7 +259299,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia rei-da-violencia online em português.",
     "descriptionPt": "Leia rei-da-violencia online em português.",
-    "chaptersCount": 71,
+    "chaptersCount": 72,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261581,7 +261581,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-segredo-do-senior-perfeito online em português.",
     "descriptionPt": "Leia o-segredo-do-senior-perfeito online em português.",
-    "chaptersCount": 8,
+    "chaptersCount": 9,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263040,7 +263040,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Todos os Meus Avatares são Magnatas, um manhwa em português.",
     "descriptionPt": "Leia Todos os Meus Avatares são Magnatas, um manhwa em português.",
-    "chaptersCount": 91,
+    "chaptersCount": 92,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

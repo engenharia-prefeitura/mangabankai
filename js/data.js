@@ -94247,7 +94247,7 @@ let MANGA_DATA = [
     ],
     "description": "Moonlighting (Uncensored) In a sleepy rural village, the local piano academy is a picture of peace…until the sun sets. Seonwu Jin is the academy’s exhausted instructor, living as the “wife” of the charismatic village head, Goh Hui-jae. But the domestic bliss is a deadly front. Jin is an undercover cop on a high-stakes surveillance mission, and Hui-jae is the ruthless mob boss who vanished after a bloody power struggle. By day, Jin plays the perfect partner; by night, he does power to ensure he isn’t made. But as the organization closes in, the lines between his cover and the truth begin to ble",
     "descriptionPt": "",
-    "chaptersCount": 28,
+    "chaptersCount": 30,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -94827,7 +94827,7 @@ let MANGA_DATA = [
     ],
     "description": "The Method Messiah (Uncensored) Famous actor Kim Seongjae follows a suspicious man claiming to be his temporary manager, only to arrive at a remote village he escaped from at fifteen – the compound of a cult that once consumed his life. As Seongjae attempts to flee the place haunted by his past, a fatal mistake leaves the cult leader dead by his hand. Moments later, the followers arrive, forcing Seongjae into an irreversible decision to survive. Trapped on a stage where faith, violence, and performance blur, Seongjae realizes the man who led him here has been directing everything from the shad",
     "descriptionPt": "",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -100372,7 +100372,7 @@ let MANGA_DATA = [
     ],
     "description": "Right Under His Roof After years of being pushed around by his so-called friends, Jeff hatches a bold plan to hit back where it hurts most.",
     "descriptionPt": "",
-    "chaptersCount": 58,
+    "chaptersCount": 60,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207220,7 +207220,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Mansão Que aguarda A Primavera, um manhwa em português.",
     "descriptionPt": "Leia A Mansão Que aguarda A Primavera, um manhwa em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207275,7 +207275,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno da Seita Monte Hua, um manhwa em português.",
     "descriptionPt": "Leia O Retorno da Seita Monte Hua, um manhwa em português.",
-    "chaptersCount": 174,
+    "chaptersCount": 175,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251586,7 +251586,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Cuidado com a Vilã!, um manhwa em português.",
     "descriptionPt": "Leia Cuidado com a Vilã!, um manhwa em português.",
-    "chaptersCount": 138,
+    "chaptersCount": 139,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252985,7 +252985,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Por Seu Assassinato, um manhwa em português.",
     "descriptionPt": "Leia Por Seu Assassinato, um manhwa em português.",
-    "chaptersCount": 60,
+    "chaptersCount": 61,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253463,7 +253463,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Diário de Sobrevivência de um Mordomo no Castelo do Duque, um manhwa em português.",
     "descriptionPt": "Leia O Diário de Sobrevivência de um Mordomo no Castelo do Duque, um manhwa em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 42,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255077,7 +255077,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Você Não Vai Fugir de Mim, um manhwa em português.",
     "descriptionPt": "Leia Você Não Vai Fugir de Mim, um manhwa em português.",
-    "chaptersCount": 73,
+    "chaptersCount": 74,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260220,7 +260220,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Marido Malvado, um manhwa em português.",
     "descriptionPt": "Leia O Marido Malvado, um manhwa em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 42,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261703,7 +261703,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Fui escolhida para ser a nora do tirano, um manhwa em português.",
     "descriptionPt": "Leia Fui escolhida para ser a nora do tirano, um manhwa em português.",
-    "chaptersCount": 7,
+    "chaptersCount": 8,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264353,6 +264353,28 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "cere-curandeira-do-tempo",
+    "slug": "cere-curandeira-do-tempo",
+    "title": "Cere, curandeira do tempo",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/cere-curandeira-do-tempo/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/cere-curandeira-do-tempo/cover-md.webp",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Manga"
+    ],
+    "description": "Leia Cere, curandeira do tempo, um manhwa em português.",
+    "descriptionPt": "Leia Cere, curandeira do tempo, um manhwa em português.",
+    "chaptersCount": 1,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

@@ -95081,7 +95081,7 @@ let MANGA_DATA = [
     ],
     "description": "Insatiable Slave (Uncensored) Rohshan Owin believes he has lost his mind. He has abandoned the pride of his count’s family and the duty to carry on his bloodline, all because he is addicted to his forbidden relationship with the slave Kyle Blackburn. As the Black Dragon Festival approaches, Kyle grows more desperate. He wants Rohshan’s confession before the ceremonial Nest Marriage, and he does everything he can to provoke, tempt, and unbalance him. The longer Rohshan hesitates, the more Kyle’s patience fractures, his longing twisting into something dangerously close to madness. “Just how long",
     "descriptionPt": "",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207248,7 +207248,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Dama Bebê Controla O Mundo Com Dinheiro, um manhwa em português.",
     "descriptionPt": "Leia A Dama Bebê Controla O Mundo Com Dinheiro, um manhwa em português.",
-    "chaptersCount": 126,
+    "chaptersCount": 127,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207507,7 +207507,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia NO HOME, um manhwa em português.",
     "descriptionPt": "Leia NO HOME, um manhwa em português.",
-    "chaptersCount": 62,
+    "chaptersCount": 66,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207564,7 +207564,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Descobri Que o Homem de Uma Noite Era Meu Noivo, um manhwa em português.",
     "descriptionPt": "Leia Descobri Que o Homem de Uma Noite Era Meu Noivo, um manhwa em português.",
-    "chaptersCount": 20,
+    "chaptersCount": 21,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207642,7 +207642,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Esse Amor Obsessivo Vai Além do Sangue, um manhwa em português.",
     "descriptionPt": "Leia Esse Amor Obsessivo Vai Além do Sangue, um manhwa em português.",
-    "chaptersCount": 20,
+    "chaptersCount": 21,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -208009,7 +208009,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Complexo de Amigos de Infância, um manhwa em português.",
     "descriptionPt": "Leia Complexo de Amigos de Infância, um manhwa em português.",
-    "chaptersCount": 86,
+    "chaptersCount": 87,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231554,7 +231554,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Obtive um Item Mítico, um manhwa em português.",
     "descriptionPt": "Leia Eu Obtive um Item Mítico, um manhwa em português.",
-    "chaptersCount": 193,
+    "chaptersCount": 194,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232533,7 +232533,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Marido Que Eu Contratei Me Quer, um manhwa em português.",
     "descriptionPt": "Leia O Marido Que Eu Contratei Me Quer, um manhwa em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232841,7 +232841,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Ranker Inigualável, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Ranker Inigualável, um manhwa em português.",
-    "chaptersCount": 36,
+    "chaptersCount": 37,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254468,7 +254468,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Desejos Bestiais, um manhwa em português.",
     "descriptionPt": "Leia Desejos Bestiais, um manhwa em português.",
-    "chaptersCount": 76,
+    "chaptersCount": 77,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256073,7 +256073,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Prefiro Viver Como um Vilão, um manhwa em português.",
     "descriptionPt": "Leia Prefiro Viver Como um Vilão, um manhwa em português.",
-    "chaptersCount": 37,
+    "chaptersCount": 38,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257137,7 +257137,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Divindade das Nebulas, um manhwa em português.",
     "descriptionPt": "Leia Divindade das Nebulas, um manhwa em português.",
-    "chaptersCount": 138,
+    "chaptersCount": 140,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257278,7 +257278,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Atreva-se!, um manhwa em português.",
     "descriptionPt": "Leia Atreva-se!, um manhwa em português.",
-    "chaptersCount": 9,
+    "chaptersCount": 10,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260047,7 +260047,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Túmulo do Cisne, um manhwa em português.",
     "descriptionPt": "Leia O Túmulo do Cisne, um manhwa em português.",
-    "chaptersCount": 51,
+    "chaptersCount": 52,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261702,7 +261702,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Um Homem de Verdade, um manhwa em português.",
     "descriptionPt": "Leia Um Homem de Verdade, um manhwa em português.",
-    "chaptersCount": 48,
+    "chaptersCount": 50,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264208,7 +264208,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Santo da Espada Reencarnou em uma Família Nobre de Magos, um mangá em português.",
     "descriptionPt": "Leia O Santo da Espada Reencarnou em uma Família Nobre de Magos, um mangá em português.",
-    "chaptersCount": 11,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

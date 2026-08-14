@@ -90791,7 +90791,7 @@ let MANGA_DATA = [
     ],
     "description": "A Dragon’s Love (Uncensored) On a stormy night, hardened mobster Cha San is limping home when he stumbles upon Shin Ro, a dragon bleeding out on the pavement. It’s love at first sight, pulling two entirely different worlds together in an instant. Fast forward to the present, and the unlikely couple is officially navigating newlyweds bliss. To support his beloved, Shin Ro hilariously adapts to human life by taking a job as a car salesman, while Cha San completely leaves his criminal syndicate behind to become a dedicated, apron-wearing stay-at-home husband. Relying entirely on each other, they ",
     "descriptionPt": "",
-    "chaptersCount": 1,
+    "chaptersCount": 9,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

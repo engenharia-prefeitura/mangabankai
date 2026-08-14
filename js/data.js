@@ -94588,7 +94588,7 @@ let MANGA_DATA = [
     ],
     "description": "Cherry Picking Is being a virgin a good or a bad thing? For 24-year-old Joo Hansol, it’s a pain in the ass. Why you ask? Because he finally managed to meet the love of his life but was coldly rejected just for not having any experience. So, he makes it his mission to have his cherry popped. But it won’t be that easy, especially when his best friend is Do Woobin. A man of many talents, Woobin seems to be the only one capable of reining the impulsive Hansol in. Will Hansol succeed in his quest to finally have his cherry picked…?",
     "descriptionPt": "",
-    "chaptersCount": 93,
+    "chaptersCount": 95,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -100054,7 +100054,7 @@ let MANGA_DATA = [
     ],
     "description": "Trapped in Vengeance After betrayal ruins his family, Inmun Kim plans his revenge… and revenge is a dish best served cold, with no mercy.",
     "descriptionPt": "",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -260480,7 +260480,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia um-dia-minha-irma-morreu online em português.",
     "descriptionPt": "Leia um-dia-minha-irma-morreu online em português.",
-    "chaptersCount": 11,
+    "chaptersCount": 12,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264469,6 +264469,31 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "a-for-pleasure",
+    "slug": "a-for-pleasure",
+    "title": "A+ for Pleasure",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2026/05/a-for-pleasure-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2026/05/a-for-pleasure-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult",
+      "Seinen"
+    ],
+    "description": "She’s the perfect private tutor—smart, beautiful, and willing to offer more than just extra lessons. For her top-scoring students, the reward goes far beyond",
+    "descriptionEn": "She’s the perfect private tutor—smart, beautiful, and willing to offer more than just extra lessons. For her top-scoring students, the reward goes far beyond",
+    "chaptersCount": 25,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

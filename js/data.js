@@ -95484,7 +95484,7 @@ let MANGA_DATA = [
     "descriptionPt": "",
     "chaptersCount": 178,
     "lang": "en",
-    "hasPt": false,
+    "hasPt": true,
     "hasEn": true,
     "source": "mangadistrict"
   },
@@ -95640,7 +95640,7 @@ let MANGA_DATA = [
     ],
     "description": "The Extra’s Academy Survival Guide Ed Rothstaylor is a third-rate villain in a game, disowned by his family and kicked out of the dormitory for his misdeeds. One day, our main character wakes up as this very Ed, and realizes he must earn a scholarship so he can graduate and be set for life. Now living in the woods, he resolves to keep away from the protagonists, but four of the female leads just won’t leave him alone. Not only that, his presence starts to change the timeline and events of the game! Can Ed help the story progress while staying out of the limelight?",
     "descriptionPt": "",
-    "chaptersCount": 117,
+    "chaptersCount": 119,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207300,7 +207300,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu sou a Vilã, um webtoon em português.",
     "descriptionPt": "Leia Eu sou a Vilã, um webtoon em português.",
-    "chaptersCount": 104,
+    "chaptersCount": 105,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259492,7 +259492,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Uma Princesa que Lê a Sorte, um manhwa em português.",
     "descriptionPt": "Leia Uma Princesa que Lê a Sorte, um manhwa em português.",
-    "chaptersCount": 155,
+    "chaptersCount": 156,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

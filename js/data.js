@@ -207724,7 +207724,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Logando 10.000 Anos No Futuro, um manhua em português.",
     "descriptionPt": "Leia Logando 10.000 Anos No Futuro, um manhua em português.",
-    "chaptersCount": 332,
+    "chaptersCount": 333,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230048,7 +230048,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Único Fazendeiro da Torre, um manhwa em português.",
     "descriptionPt": "Leia Único Fazendeiro da Torre, um manhwa em português.",
-    "chaptersCount": 139,
+    "chaptersCount": 140,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231453,7 +231453,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromante do Clã da Espada, um manhwa em português.",
     "descriptionPt": "Leia Necromante do Clã da Espada, um manhwa em português.",
-    "chaptersCount": 21,
+    "chaptersCount": 22,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231635,7 +231635,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Começando com 13 Traços Ocultos, um manhwa em português.",
     "descriptionPt": "Leia Começando com 13 Traços Ocultos, um manhwa em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252085,7 +252085,7 @@ let MANGA_DATA = [
     ],
     "description": "Don’t Poke the Plum Friendly, popular Hong Yijeong is drawn to Gi Taerim, the department’s biggest outcast. Taerim rocks the classic loner look with thick glasses and messy hair, but Yijeong spots the luxury designer brands hiding underneath. Despite vowing to stay away, Yijeong ends up trying his best to get on Taerim’s good side at a party. Sensing easy prey, Taerim decides to tease his overly-kind classmate – but what started as a joke leads to something neither of them were expecting. They say you should never poke the bear, but what happens when you poke the plum?",
     "descriptionPt": "",
-    "chaptersCount": 6,
+    "chaptersCount": 9,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -254995,7 +254995,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Assassino Cruel, um manhwa em português.",
     "descriptionPt": "Leia Assassino Cruel, um manhwa em português.",
-    "chaptersCount": 143,
+    "chaptersCount": 144,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258193,7 +258193,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Shi Zun: Zhege Chong Shi Nitu Cai Bushi Sheng Zi – Master: This Villainous Disciple Is Not The Holy Child Offending My Master, um manhua em português.",
     "descriptionPt": "Leia Shi Zun: Zhege Chong Shi Nitu Cai Bushi Sheng Zi – Master: This Villainous Disciple Is Not The Holy Child Offending My Master, um manhua em português.",
-    "chaptersCount": 196,
+    "chaptersCount": 198,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258478,7 +258478,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia bai-lijin-entre-mortais online em português.",
     "descriptionPt": "Leia bai-lijin-entre-mortais online em português.",
-    "chaptersCount": 252,
+    "chaptersCount": 253,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259248,7 +259248,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia rei-da-violencia online em português.",
     "descriptionPt": "Leia rei-da-violencia online em português.",
-    "chaptersCount": 72,
+    "chaptersCount": 73,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260609,7 +260609,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia criando-viloes-da-maneira-correta online em português.",
     "descriptionPt": "Leia criando-viloes-da-maneira-correta online em português.",
-    "chaptersCount": 47,
+    "chaptersCount": 48,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

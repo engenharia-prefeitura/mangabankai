@@ -99244,7 +99244,7 @@ let MANGA_DATA = [
     ],
     "description": "3XLOVE (Uncensored) In his school days, Baek Kiho was an easy target, overweight, quiet, and even cursed with a name that classmates mocked as “Piggy Ho.” Years of relentless bullying drove him to drop out, leaving only scars and shame behind. But time changes everything. Kiho shed the weight, changed his name to Heeseong, and built a new life where no one could recognize the boy he once was. Then fate delivers an unexpected blow: his first love, Cheon Bokyeong, reappears. The very same Bokyeong who once despised him now approaches warmly, unable to connect Heeseong with the outcast she knew i",
     "descriptionPt": "",
-    "chaptersCount": 49,
+    "chaptersCount": 55,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -230869,7 +230869,7 @@ let MANGA_DATA = [
     ],
     "description": "8 / 100 Desenvolvido por Rank Math SEO",
     "descriptionPt": "8 / 100 Desenvolvido por Rank Math SEO",
-    "chaptersCount": 113,
+    "chaptersCount": 114,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false,
@@ -231791,7 +231791,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Pirralhinha Corre Selvagemente, um manhwa em português.",
     "descriptionPt": "Leia A Pirralhinha Corre Selvagemente, um manhwa em português.",
-    "chaptersCount": 13,
+    "chaptersCount": 14,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232217,7 +232217,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Duquesa em Ruínas, um manhwa em português.",
     "descriptionPt": "Leia Duquesa em Ruínas, um manhwa em português.",
-    "chaptersCount": 57,
+    "chaptersCount": 58,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232375,7 +232375,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Superação do Nobre Vagabundo, um manhwa em português.",
     "descriptionPt": "Leia A Superação do Nobre Vagabundo, um manhwa em português.",
-    "chaptersCount": 154,
+    "chaptersCount": 155,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232618,7 +232618,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dias no Bunker, um manhwa em português.",
     "descriptionPt": "Leia Dias no Bunker, um manhwa em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250531,7 +250531,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Casamento Predatório, um manhwa em português.",
     "descriptionPt": "Leia Casamento Predatório, um manhwa em português.",
-    "chaptersCount": 88,
+    "chaptersCount": 89,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252533,7 +252533,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O conto de um imortal, um manhwa em português.",
     "descriptionPt": "Leia O conto de um imortal, um manhwa em português.",
-    "chaptersCount": 47,
+    "chaptersCount": 48,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253254,7 +253254,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Elegante Mar da Barbárie, um manhwa em português.",
     "descriptionPt": "Leia O Elegante Mar da Barbárie, um manhwa em português.",
-    "chaptersCount": 28,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253280,7 +253280,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Primeiro Amor de um Delinquente, um manhwa em português.",
     "descriptionPt": "Leia O Primeiro Amor de um Delinquente, um manhwa em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253855,7 +253855,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Meu Atrevido Leite de Morango, um manhwa em português.",
     "descriptionPt": "Leia Meu Atrevido Leite de Morango, um manhwa em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 33,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258478,7 +258478,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia bai-lijin-entre-mortais online em português.",
     "descriptionPt": "Leia bai-lijin-entre-mortais online em português.",
-    "chaptersCount": 253,
+    "chaptersCount": 254,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259465,7 +259465,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia tropa-de-elite-fantastica online em português.",
     "descriptionPt": "Leia tropa-de-elite-fantastica online em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260556,7 +260556,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia As Noites da Imperatriz, um manhwa em português.",
     "descriptionPt": "Leia As Noites da Imperatriz, um manhwa em português.",
-    "chaptersCount": 38,
+    "chaptersCount": 39,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

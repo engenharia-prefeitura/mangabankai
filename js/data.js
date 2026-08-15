@@ -95543,7 +95543,7 @@ let MANGA_DATA = [
     ],
     "description": "The Hero Returns The strongest hero of humanity, Kim Sung Bin. He threw everything on the line and fought but… He still couldn’t prevent the destruction of the world. But his legend has just begun as he returns 20 years into the past.",
     "descriptionPt": "",
-    "chaptersCount": 165,
+    "chaptersCount": 167,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97547,7 +97547,7 @@ let MANGA_DATA = [
     ],
     "description": "In the Shadow of the Serpent (Uncensored) In a world where malevolent spirits roam freely, Jeong Wol has spent his entire life pretending not to see them. Having witnessed countless evil entities since childhood, he believes that ignoring the supernatural is the only way to survive. That fragile resolve shatters when he becomes entangled in a mission led by the Disaster Squad and loses his life in the process. Or so he believes. Jeong Wol awakens to find himself alive once more, bound by a mysterious pact with Sa Hyeon, a black serpent whose presence radiates both danger and allure. Granted im",
     "descriptionPt": "",
-    "chaptersCount": 30,
+    "chaptersCount": 35,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -101343,7 +101343,7 @@ let MANGA_DATA = [
     ],
     "description": "From Pauper to Prince Having lived in poverty all his life, Brian gets a second chance when he is offered the role of the sole heir to a conglomerate family’s enormous fortune.",
     "descriptionPt": "",
-    "chaptersCount": 64,
+    "chaptersCount": 65,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -108026,7 +108026,7 @@ let MANGA_DATA = [
     ],
     "description": "Satanophany A mysterious syndrome turns schoolgirls into homicidal monsters behind numerous atrocities in Japan. However, nothing is what it seems and when Chika Amagi is arrested for the brutal murder of five people, which starts a journey into uncharted and troubled waters!",
     "descriptionPt": "",
-    "chaptersCount": 178,
+    "chaptersCount": 181,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -251117,7 +251117,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Empregada Secreta do Conde, um manhwa em português.",
     "descriptionPt": "Leia A Empregada Secreta do Conde, um manhwa em português.",
-    "chaptersCount": 92,
+    "chaptersCount": 93,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251175,7 +251175,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vida de uma Artista de Webtoon, um manhwa em português.",
     "descriptionPt": "Leia A Vida de uma Artista de Webtoon, um manhwa em português.",
-    "chaptersCount": 49,
+    "chaptersCount": 50,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251363,7 +251363,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Neste Mundo Não Existem Guerreiros Maus, um manhwa em português.",
     "descriptionPt": "Leia Neste Mundo Não Existem Guerreiros Maus, um manhwa em português.",
-    "chaptersCount": 82,
+    "chaptersCount": 83,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255341,7 +255341,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Forget About My Husband, I’d Rather Go Make Money, um manhwa em português.",
     "descriptionPt": "Leia Forget About My Husband, I’d Rather Go Make Money, um manhwa em português.",
-    "chaptersCount": 113,
+    "chaptersCount": 114,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256481,7 +256481,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
     "descriptionPt": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
-    "chaptersCount": 52,
+    "chaptersCount": 53,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263811,7 +263811,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Criadora de Escândalos Voltou, um manhwa em português.",
     "descriptionPt": "Leia A Criadora de Escândalos Voltou, um manhwa em português.",
-    "chaptersCount": 11,
+    "chaptersCount": 12,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264494,6 +264494,34 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "as-100-maldicoes-da-casa-illeston",
+    "slug": "as-100-maldicoes-da-casa-illeston",
+    "title": "As 100 Maldições da Casa Illeston",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/as-100-maldicoes-da-casa-illeston/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/as-100-maldicoes-da-casa-illeston/cover-md.webp",
+    "author": "Tinta",
+    "artist": "Tinta",
+    "status": "completed",
+    "year": 2021,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Mistério",
+      "Sobrenatural",
+      "Transmigração"
+    ],
+    "description": "Leia As 100 Maldições da Casa Illeston, um manhwa em português.",
+    "descriptionPt": "Leia As 100 Maldições da Casa Illeston, um manhwa em português.",
+    "chaptersCount": 27,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

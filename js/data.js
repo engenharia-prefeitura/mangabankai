@@ -93955,7 +93955,7 @@ let MANGA_DATA = [
     ],
     "description": "The Secret Shampoo Room After nine years in a stable relationship, Park Ah-jung is on the verge of marriage, yet quietly restless. Seeking a change in her hairstyle, she visits a new salon and meets Kang Jikdo, a dangerously alluring stylist. Behind the ordinary facade lies a private VIP room where his demeanor shifts, and the air turns tense and intimate. There, she is met with a service she never expected.",
     "descriptionPt": "",
-    "chaptersCount": 19,
+    "chaptersCount": 22,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

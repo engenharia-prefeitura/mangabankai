@@ -234450,7 +234450,7 @@ let MANGA_DATA = [
     ],
     "description": "The Novel’s Extra (2022) Waking up, Kim Hajin finds himself in a familiar world but an unfamiliar body. A world he created himself and a story he wrote, yet never finished.He had become his novel’s extra, a filler character with no importance to the story. The only clue to escaping is to stay close to the main storyline. However, he soon finds out the world isn’t exactly identical to his creation.",
     "descriptionPt": "",
-    "chaptersCount": 165,
+    "chaptersCount": 172,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

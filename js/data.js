@@ -95361,7 +95361,7 @@ let MANGA_DATA = [
     ],
     "description": "Lout of Count’s Family Kim Roksu has one life motto: “Let’s not get beat up.” But after dozing off somewhere midway through the novel “Birth of a Hero,” he wakes up as Cale Henituse – one of the minor villains in the novel who gets the beating of a lifetime from soon-to-be hero Choi Han. Only time will tell how much longer he has before that dreadful encounter. Can Kim Roksu change the course of this story so he can enjoy a long and lavish life free of the soon-to-be hero?",
     "descriptionPt": "",
-    "chaptersCount": 180,
+    "chaptersCount": 185,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97651,7 +97651,7 @@ let MANGA_DATA = [
     ],
     "description": "Courtside Courtship (Uncensored) Genius. Champion. National treasure. Nam Woojoon has always admired Seo Siwon, but only from afar. That is, until the night he woke to find his idol on top of him, completely lost in pleasure. Now, as the heat between them rises, Woojoon’s learning the rules of a new game, and he’s playing to win.",
     "descriptionPt": "",
-    "chaptersCount": 32,
+    "chaptersCount": 33,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -110241,9 +110241,9 @@ let MANGA_DATA = [
     ],
     "description": "I’m Not That Kind of Talent A talented individual who is respected by many and welcomed anywhere? Not at all! A bloodthirsty battle fanatic who knows no defeat? Couldn’t be further from the truth! In reality, Deon Hardt is a sickly human who coughs up blood from receiving the tiniest bit of stress and gets sunburns from standing in the sun for ten minutes. But due to an unfortunate misunderstanding, he becomes “Demon Arut,” the notorious 0th corps commander of the demon army and the demon king’s joker. Caught in a war between humans and demonkind, Deon must find a way to survive!",
     "descriptionPt": "",
-    "chaptersCount": 118,
+    "chaptersCount": 123,
     "lang": "en",
-    "hasPt": true,
+    "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
   },
@@ -257703,7 +257703,7 @@ let MANGA_DATA = [
     ],
     "description": "The House of Many Wives When you’re the elite of the elite, the law means nothing… even multiple wives are fair game.",
     "descriptionPt": "",
-    "chaptersCount": 5,
+    "chaptersCount": 6,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -264522,6 +264522,30 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "affair-agency",
+    "slug": "affair-agency",
+    "title": "Affair Agency",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2026/08/affair-agency-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2026/08/affair-agency-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult"
+    ],
+    "description": "Ha Insung is a man born into a wealthy family with good looks, as well as spending his life indulging in debauchery and sex. But the moment his father dies,",
+    "descriptionEn": "Ha Insung is a man born into a wealthy family with good looks, as well as spending his life indulging in debauchery and sex. But the moment his father dies,",
+    "chaptersCount": 11,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

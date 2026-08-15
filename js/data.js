@@ -95298,7 +95298,7 @@ let MANGA_DATA = [
     ],
     "description": "The Grand Mudang Saga If the Grim Reaper calls your name three times, you will be taken to the underworld. You little shit! I want to live longer! Get out of here! I desperately swallowed the Herb of Immortality, and to my surprise, I actually lived! When I finally opened my eyes, thinking it was all a dream… I was surrounded by a bunch of old guys?! I asked where am, and—the Shamans’ Mountain?!!!!!!!! Somehow, I possessed the body of a pitiful errand boy… this is nuts! I… I am… I am the strongest of the strong, the head of the Sa Clan, Hyeokyeon Mugang!!! Why am I now part of a clan of Shaman",
     "descriptionPt": "",
-    "chaptersCount": 172,
+    "chaptersCount": 173,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -230180,7 +230180,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O restaurante do arquimago, um manhwa em português.",
     "descriptionPt": "Leia O restaurante do arquimago, um manhwa em português.",
-    "chaptersCount": 145,
+    "chaptersCount": 146,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231555,7 +231555,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Deus Marcial Pay-to-Win, um manhwa em português.",
     "descriptionPt": "Leia Deus Marcial Pay-to-Win, um manhwa em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231609,7 +231609,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Começo Depois do Fim, um manhwa em português.",
     "descriptionPt": "Leia O Começo Depois do Fim, um manhwa em português.",
-    "chaptersCount": 259,
+    "chaptersCount": 260,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232007,7 +232007,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Professor Runebound, um webtoon em português.",
     "descriptionPt": "Leia O Retorno do Professor Runebound, um webtoon em português.",
-    "chaptersCount": 85,
+    "chaptersCount": 86,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232244,7 +232244,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Jogo do Ferreiro Genial, um manhwa em português.",
     "descriptionPt": "Leia O Jogo do Ferreiro Genial, um manhwa em português.",
-    "chaptersCount": 66,
+    "chaptersCount": 67,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250589,7 +250589,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Devorador de Aço, um manhwa em português.",
     "descriptionPt": "Leia Devorador de Aço, um manhwa em português.",
-    "chaptersCount": 105,
+    "chaptersCount": 106,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250641,7 +250641,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Deus Demônio, um manhwa em português.",
     "descriptionPt": "Leia O Deus Demônio, um manhwa em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257671,7 +257671,7 @@ let MANGA_DATA = [
     ],
     "description": "The National Length Crisis When a strange pandemic sweeps the nation, men’s pride takes a literal hit as everything shrinks.But Daebal, born with the smallest of them all, discovers he’s immune and growing.Suddenly, every woman in the country wants a piece of the last man standing.",
     "descriptionPt": "",
-    "chaptersCount": 3,
+    "chaptersCount": 7,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -259396,7 +259396,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Come alguma coisa antes de ir, um manhwa em português.",
     "descriptionPt": "Leia Come alguma coisa antes de ir, um manhwa em português.",
-    "chaptersCount": 66,
+    "chaptersCount": 67,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259872,7 +259872,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-santo-evolui-atraves-da-necromancia online em português.",
     "descriptionPt": "Leia o-santo-evolui-atraves-da-necromancia online em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259916,7 +259916,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-rei-agiota-do-murim online em português.",
     "descriptionPt": "Leia o-rei-agiota-do-murim online em português.",
-    "chaptersCount": 13,
+    "chaptersCount": 14,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260480,7 +260480,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia um-dia-minha-irma-morreu online em português.",
     "descriptionPt": "Leia um-dia-minha-irma-morreu online em português.",
-    "chaptersCount": 12,
+    "chaptersCount": 13,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264132,7 +264132,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Santo da Espada Reencarnou em uma Família Nobre de Magos, um mangá em português.",
     "descriptionPt": "Leia O Santo da Espada Reencarnou em uma Família Nobre de Magos, um mangá em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264346,7 +264346,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Cere, curandeira do tempo, um manhwa em português.",
     "descriptionPt": "Leia Cere, curandeira do tempo, um manhwa em português.",
-    "chaptersCount": 1,
+    "chaptersCount": 4,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

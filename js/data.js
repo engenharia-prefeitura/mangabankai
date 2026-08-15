@@ -97521,7 +97521,7 @@ let MANGA_DATA = [
     ],
     "description": "Happily Ever After (BINA) Since childhood, Pil Hyeonseo has dreamed of a fairy tale ending with a perfect prince, the kind she writes about in her picture books. Now 27 and still an unknown author, she believes she has finally found that happy ending, only for it to shatter when her long time boyfriend cheats on her after seven years together. Heartbroken and disoriented by the betrayal, Hyeonseo finds herself standing at a crossroads between the love she lost and the future she never imagined. Just as she is struggling to pick up the pieces, three very different men step into her life, each o",
     "descriptionPt": "",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

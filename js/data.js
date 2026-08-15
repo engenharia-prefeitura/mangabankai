@@ -249229,7 +249229,7 @@ let MANGA_DATA = [
     ],
     "description": "The Price of Yes They joined for the money. The game will strip them bare. How far will they go to win?",
     "descriptionPt": "",
-    "chaptersCount": 20,
+    "chaptersCount": 23,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -249599,7 +249599,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Estou Sendo Criada por Vilões, um manhwa em português.",
     "descriptionPt": "Leia Estou Sendo Criada por Vilões, um manhwa em português.",
-    "chaptersCount": 143,
+    "chaptersCount": 145,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264546,6 +264546,32 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "preso-ate-a-morte",
+    "slug": "preso-ate-a-morte",
+    "title": "Preso até a Morte",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/preso-ate-a-morte/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/preso-ate-a-morte/cover-md.webp",
+    "author": "Jaengnwo",
+    "artist": "Jaengnwo",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Fantasia",
+      "Tragedia",
+      "Psicológico",
+      "Manhwa"
+    ],
+    "description": "Leia Preso até a Morte, um manhwa em português.",
+    "descriptionPt": "Leia Preso até a Morte, um manhwa em português.",
+    "chaptersCount": 2,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

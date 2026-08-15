@@ -94317,7 +94317,7 @@ let MANGA_DATA = [
     ],
     "description": "Kingdom of Innocence (Uncensored) I opened my eyes underwater, then found myself in a dazzling palace straight out of a historical fantasy. There is no doubt about it, I have been isekai’d right into the world of a novel. And lucky for me, it is even the genre I loved the most, so I know all the rules. Or so I thought. Because in this world, instead of gaining power through intimate encounters, anyone who loses their virginity becomes cursed. Yes, cursed. In a supposed mature fantasy. How does that even make sense? While I am still trying to wrap my head around this ridiculous twist, I receive",
     "descriptionPt": "",
-    "chaptersCount": 43,
+    "chaptersCount": 44,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

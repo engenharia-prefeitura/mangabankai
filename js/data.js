@@ -231841,7 +231841,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sob a Flor Caída, um manhwa em português.",
     "descriptionPt": "Leia Sob a Flor Caída, um manhwa em português.",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232034,7 +232034,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Homens do Harém, um manhwa em português.",
     "descriptionPt": "Leia Homens do Harém, um manhwa em português.",
-    "chaptersCount": 93,
+    "chaptersCount": 94,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232059,7 +232059,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Flor que Desabrochou sob uma Nuvem, um manhwa em português.",
     "descriptionPt": "Leia A Flor que Desabrochou sob uma Nuvem, um manhwa em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 27,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232139,7 +232139,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Pano e Adaga, um manhwa em português.",
     "descriptionPt": "Leia Pano e Adaga, um manhwa em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232192,7 +232192,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mudarei meu Destino Através de um Casamento por Conveniência, um manhwa em português.",
     "descriptionPt": "Leia Mudarei meu Destino Através de um Casamento por Conveniência, um manhwa em português.",
-    "chaptersCount": 23,
+    "chaptersCount": 24,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -233802,7 +233802,7 @@ let MANGA_DATA = [
     ],
     "description": "Overgeared (Team Argo) Shin Youngwoo (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game “Satisfy,” finds a powerful item that earns him a rare legendary class title: “Pagma’s Successor.” He’s now a skilled blacksmith who can forge unique weapons and equip the game’s most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for….",
     "descriptionPt": "",
-    "chaptersCount": 334,
+    "chaptersCount": 335,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -249440,7 +249440,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Não confio na minha irmã gêmea (Manhwa), um manhwa em português.",
     "descriptionPt": "Leia Não confio na minha irmã gêmea (Manhwa), um manhwa em português.",
-    "chaptersCount": 73,
+    "chaptersCount": 74,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249492,7 +249492,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromante: Rei dos Mortos, um manhua em português.",
     "descriptionPt": "Leia Necromante: Rei dos Mortos, um manhua em português.",
-    "chaptersCount": 296,
+    "chaptersCount": 297,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255314,7 +255314,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Operação amor verdadeiro, um manhwa em português.",
     "descriptionPt": "Leia Operação amor verdadeiro, um manhwa em português.",
-    "chaptersCount": 134,
+    "chaptersCount": 135,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257362,7 +257362,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dépaysement, um manhwa em português.",
     "descriptionPt": "Leia Dépaysement, um manhwa em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257988,7 +257988,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Tenha um Caso Comigo, um manhwa em português.",
     "descriptionPt": "Leia Tenha um Caso Comigo, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258013,7 +258013,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vilã Maldita Retorna, um manhwa em português.",
     "descriptionPt": "Leia A Vilã Maldita Retorna, um manhwa em português.",
-    "chaptersCount": 13,
+    "chaptersCount": 15,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258478,7 +258478,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia bai-lijin-entre-mortais online em português.",
     "descriptionPt": "Leia bai-lijin-entre-mortais online em português.",
-    "chaptersCount": 254,
+    "chaptersCount": 255,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259894,7 +259894,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-governante-das-trevas online em português.",
     "descriptionPt": "Leia o-governante-das-trevas online em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260328,7 +260328,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Minha Caracol Sexy, um manhwa em português.",
     "descriptionPt": "Leia Minha Caracol Sexy, um manhwa em português.",
-    "chaptersCount": 13,
+    "chaptersCount": 15,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

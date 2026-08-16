@@ -90856,7 +90856,7 @@ let MANGA_DATA = [
     ],
     "description": "Wall Street King (Official) “Stocks are basically the same as sex.” A miraculous second chance at life is granted to Chan-Wook, once the king of Wall Street. So-ra, who had bragged about her rookie stock skills in front of him, ends up losing everything she owns. Left with nothing, she offers the one last thing she has to the man she despised more than anyone. “H-Hey… would you… buy me?”",
     "descriptionPt": "",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -91049,7 +91049,7 @@ let MANGA_DATA = [
     ],
     "description": "Traded Lives (Official) Shay, the S-Class Hunter everyone dreams of becoming. But Dennis, a man with the power to switch bodies, sets his sights on stealing everything from him… by taking his body. “You want my body? You’d be better off chasing youth.”",
     "descriptionPt": "",
-    "chaptersCount": 42,
+    "chaptersCount": 43,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -92502,7 +92502,7 @@ let MANGA_DATA = [
     ],
     "description": "Men Are Rare (Official) One day, Kang Sunho lost consciousness in an accident, only to wake up to: “Alright, time to collect your semen, sweetie!” Wait a second… Men are rare in this world?! With women throwing themselves at him… Well, if this is how things are, guess I’ll just enjoy the feast, one by one!!!",
     "descriptionPt": "",
-    "chaptersCount": 54,
+    "chaptersCount": 55,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -93810,7 +93810,7 @@ let MANGA_DATA = [
     ],
     "description": "A Dangerous Deal, and the Woman Next Door (Official) “My wife… once she’s naked, it’s really game over…” A glimpse at CCTV footage reveals the neighbor woman – completely nude. Wracked with guilt he shouldn’t feel, Scott is caught off guard when Harry makes a dangerous offer: “Wanna have her? On one condition… Do it right in front of me.”",
     "descriptionPt": "",
-    "chaptersCount": 50,
+    "chaptersCount": 54,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -264661,6 +264661,31 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "alive-and-swell",
+    "slug": "alive-and-swell",
+    "title": "Alive and Swell",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2024/08/alive-and-swell-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2024/08/alive-and-swell-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Thriller",
+      "Adult"
+    ],
+    "description": "Su-Yeon loses her husband in an accident and lives hard every day. A familiar but lowly man approaches her one day. The shaman gives Su-Yeon advice that her",
+    "descriptionEn": "Su-Yeon loses her husband in an accident and lives hard every day. A familiar but lowly man approaches her one day. The shaman gives Su-Yeon advice that her",
+    "chaptersCount": 25,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

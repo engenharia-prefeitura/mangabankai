@@ -100153,7 +100153,7 @@ let MANGA_DATA = [
     ],
     "description": "Study Buddies (Official) Nathan ends up living with his two childhood friends after his dad asks one of them to tutor him for his college entrance exam.",
     "descriptionPt": "",
-    "chaptersCount": 105,
+    "chaptersCount": 107,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207480,7 +207480,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Minha ídola favorita pega o ultimo trem, um manhwa em português.",
     "descriptionPt": "Leia Minha ídola favorita pega o ultimo trem, um manhwa em português.",
-    "chaptersCount": 90,
+    "chaptersCount": 91,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232113,7 +232113,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia I Will Fall With The Emperor, um manhwa em português.",
     "descriptionPt": "Leia I Will Fall With The Emperor, um manhwa em português.",
-    "chaptersCount": 198,
+    "chaptersCount": 199,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232299,7 +232299,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Crônicas da Facção Demoníaca, um manhwa em português.",
     "descriptionPt": "Leia Crônicas da Facção Demoníaca, um manhwa em português.",
-    "chaptersCount": 185,
+    "chaptersCount": 186,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232431,7 +232431,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Domínio Absoluto, um manhwa em português.",
     "descriptionPt": "Leia Domínio Absoluto, um manhwa em português.",
-    "chaptersCount": 105,
+    "chaptersCount": 106,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250875,7 +250875,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Operação Coração Acelerado, um manhwa em português.",
     "descriptionPt": "Leia Operação Coração Acelerado, um manhwa em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254019,7 +254019,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Revelation of Youth, um manhwa em português.",
     "descriptionPt": "Leia Revelation of Youth, um manhwa em português.",
-    "chaptersCount": 120,
+    "chaptersCount": 124,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254731,7 +254731,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia retorno-de-10000-vezes-irma-senior-por-favor-comporte-se online em português.",
     "descriptionPt": "Leia retorno-de-10000-vezes-irma-senior-por-favor-comporte-se online em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255802,7 +255802,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Amor:Zero, um manhwa em português.",
     "descriptionPt": "Leia Amor:Zero, um manhwa em português.",
-    "chaptersCount": 20,
+    "chaptersCount": 21,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260098,7 +260098,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-prodigio-lendario-do-ducado online em português.",
     "descriptionPt": "Leia o-prodigio-lendario-do-ducado online em português.",
-    "chaptersCount": 61,
+    "chaptersCount": 62,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260120,7 +260120,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-retorno-do-espadachim-negro online em português.",
     "descriptionPt": "Leia o-retorno-do-espadachim-negro online em português.",
-    "chaptersCount": 61,
+    "chaptersCount": 62,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260142,7 +260142,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia reencarnacao-do-deus-dos-punhos online em português.",
     "descriptionPt": "Leia reencarnacao-do-deus-dos-punhos online em português.",
-    "chaptersCount": 64,
+    "chaptersCount": 65,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261791,7 +261791,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Namorando um Ranker, um manhwa em português.",
     "descriptionPt": "Leia Namorando um Ranker, um manhwa em português.",
-    "chaptersCount": 60,
+    "chaptersCount": 63,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262290,7 +262290,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Entomologista Do Clã Tang De Sichuan, um manhwa em português.",
     "descriptionPt": "Leia Entomologista Do Clã Tang De Sichuan, um manhwa em português.",
-    "chaptersCount": 94,
+    "chaptersCount": 95,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262580,7 +262580,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia alianca-de-cuidadores online em português.",
     "descriptionPt": "Leia alianca-de-cuidadores online em português.",
-    "chaptersCount": 7,
+    "chaptersCount": 9,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264569,6 +264569,58 @@ let MANGA_DATA = [
     "description": "Leia Preso até a Morte, um manhwa em português.",
     "descriptionPt": "Leia Preso até a Morte, um manhwa em português.",
     "chaptersCount": 2,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "reset-temporal",
+    "slug": "reset-temporal",
+    "title": "Reset Temporal",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/reset-temporal/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/reset-temporal/cover-md.webp",
+    "author": "Kim Hyungjoon",
+    "artist": "Kim Hyungjoon",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Fantasia",
+      "Sobrenatural",
+      "Aventura",
+      "Manhwa",
+      "Supernatural"
+    ],
+    "description": "Leia Reset Temporal, um manhwa em português.",
+    "descriptionPt": "Leia Reset Temporal, um manhwa em português.",
+    "chaptersCount": 56,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "um-pintor-que-desenha-dungeons",
+    "slug": "um-pintor-que-desenha-dungeons",
+    "title": "Um Pintor Que Desenha Dungeons",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/um-pintor-que-desenha-dungeons/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/um-pintor-que-desenha-dungeons/cover-md.webp",
+    "author": "Hobby Writing Principle",
+    "artist": "Hobby Writing Principle",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Fantasia",
+      "Mistério",
+      "Seinen",
+      "Slice of Life",
+      "Manhwa"
+    ],
+    "description": "Leia Um Pintor Que Desenha Dungeons, um manhwa em português.",
+    "descriptionPt": "Leia Um Pintor Que Desenha Dungeons, um manhwa em português.",
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

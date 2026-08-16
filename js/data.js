@@ -262912,7 +262912,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Princesa Bebê Pode Ver as Janelas de Status, um manhwa em português.",
     "descriptionPt": "Leia A Princesa Bebê Pode Ver as Janelas de Status, um manhwa em português.",
-    "chaptersCount": 117,
+    "chaptersCount": 124,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263041,7 +263041,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Bebê Esquilo é Boa em Tudo, um manhwa em português.",
     "descriptionPt": "Leia A Bebê Esquilo é Boa em Tudo, um manhwa em português.",
-    "chaptersCount": 102,
+    "chaptersCount": 106,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264686,6 +264686,59 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "nao-quero-me-tornar-a-nora-adotiva-do-duque",
+    "slug": "nao-quero-me-tornar-a-nora-adotiva-do-duque",
+    "title": "Não Quero Me Tornar a Nora Adotiva do Duque",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/nao-quero-me-tornar-a-nora-adotiva-do-duque/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/nao-quero-me-tornar-a-nora-adotiva-do-duque/cover-md.webp",
+    "author": "Chae Yuhwa",
+    "artist": "Chae Yuhwa",
+    "status": "ongoing",
+    "year": 2022,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Romance",
+      "Isekai",
+      "Manhwa"
+    ],
+    "description": "Leia Não Quero Me Tornar a Nora Adotiva do Duque, um manhwa em português.",
+    "descriptionPt": "Leia Não Quero Me Tornar a Nora Adotiva do Duque, um manhwa em português.",
+    "chaptersCount": 90,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "criando-o-protagonista",
+    "slug": "criando-o-protagonista",
+    "title": "Criando o Protagonista",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/criando-o-protagonista/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/criando-o-protagonista/cover-md.webp",
+    "author": "Euncha",
+    "artist": "Euncha",
+    "status": "ongoing",
+    "year": 2022,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Demonios",
+      "Fantasia",
+      "Romance",
+      "Aventura",
+      "Manhwa"
+    ],
+    "description": "Leia Criando o Protagonista, um manhwa em português.",
+    "descriptionPt": "Leia Criando o Protagonista, um manhwa em português.",
+    "chaptersCount": 79,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

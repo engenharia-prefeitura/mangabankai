@@ -4600,7 +4600,7 @@ let MANGA_DATA = [
       "Slice Of Life"
     ],
     "description": "The ace government operative codenamed  has gone through his days on covert missions, just for the fantasy of a superior world. Yet, at some point, he gets an especially troublesome new request from direction. For his strategic, must frame a transitory family and start another life?! A Spy/Action/Comedy around a unique family!",
-    "chaptersCount": 176,
+    "chaptersCount": 178,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -94143,7 +94143,7 @@ let MANGA_DATA = [
     ],
     "description": "Purrfect Choice (Uncensored) Once the most popular guy in high school, Lim Sangho never expected to be attending college at 28. At a class reunion, he reconnects with Ko Yeongha, the underclassman who used to follow him everywhere – and who has somehow grown into an annoyingly-handsome adult. Bonding over their shared status as late-blooming college students, the two quickly fall back into old habits. But while feeding stray cats after the reunion, Yeongha drops a bombshell: his male boss seems to have a crush on him. Completely clueless about dating men, Yeongha turns to the openly gay Sangho",
     "descriptionPt": "",
-    "chaptersCount": 13,
+    "chaptersCount": 16,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97318,7 +97318,7 @@ let MANGA_DATA = [
     ],
     "description": "Lucia – Extended Lucia is an ordinary girl…except for the fact that she is actually Princess Vivian Hesse, who can predict her future through her dreams. Those dreams tell her that what inevitably waits her is a nightmarish marriage with a horrible man. Lucia’s only hope at changing this future is Hugo Taran, the nation’s dreaded “Black Lion of the Battlefield.” Desperate to escape the fate that awaits her, Lucia decides to strike an unconventional deal with Hugo. Little does she know that this deal could bring her and Hugo together in more ways than one…",
     "descriptionPt": "",
-    "chaptersCount": 7,
+    "chaptersCount": 10,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -251389,7 +251389,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mordida pelo cão que eu abandonei, um manhwa em português.",
     "descriptionPt": "Leia Mordida pelo cão que eu abandonei, um manhwa em português.",
-    "chaptersCount": 118,
+    "chaptersCount": 119,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253699,7 +253699,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Longe de estar Sóbrio, um manhwa em português.",
     "descriptionPt": "Leia Longe de estar Sóbrio, um manhwa em português.",
-    "chaptersCount": 10,
+    "chaptersCount": 13,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256532,7 +256532,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Realmente não sou o Lacaio do Deus Demônio, um manhua em português.",
     "descriptionPt": "Leia Eu Realmente não sou o Lacaio do Deus Demônio, um manhua em português.",
-    "chaptersCount": 201,
+    "chaptersCount": 202,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264707,7 +264707,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Não Quero Me Tornar a Nora Adotiva do Duque, um manhwa em português.",
     "descriptionPt": "Leia Não Quero Me Tornar a Nora Adotiva do Duque, um manhwa em português.",
-    "chaptersCount": 90,
+    "chaptersCount": 91,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

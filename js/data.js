@@ -233280,7 +233280,7 @@ let MANGA_DATA = [
     ],
     "description": "Business Trip Temptation Minseok is a hard-working marketing assistant at LS Cinema who knows how to navigate office life – except when it comes to his gorgeous boss, Jeong Suhee. She constantly gives him a hard time, but Minseok can’t help falling for her hidden warmth and stunning looks. Little does he know, Suhee secretly has a soft spot for her handsome, charming subordinate. When a business trip sends them away together, the professional boundaries dissolve, and a risky, forbidden office romance begins.",
     "descriptionPt": "",
-    "chaptersCount": 15,
+    "chaptersCount": 16,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

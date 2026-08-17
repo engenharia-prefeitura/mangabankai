@@ -231897,7 +231897,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Lixo da Família Condal, um manhwa em português.",
     "descriptionPt": "Leia O Lixo da Família Condal, um manhwa em português.",
-    "chaptersCount": 185,
+    "chaptersCount": 186,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251117,7 +251117,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Empregada Secreta do Conde, um manhwa em português.",
     "descriptionPt": "Leia A Empregada Secreta do Conde, um manhwa em português.",
-    "chaptersCount": 93,
+    "chaptersCount": 94,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251337,7 +251337,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Filho Caçula do Conde é um Jogador, um manhwa em português.",
     "descriptionPt": "Leia O Filho Caçula do Conde é um Jogador, um manhwa em português.",
-    "chaptersCount": 165,
+    "chaptersCount": 166,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256324,7 +256324,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Protagonista Masculino Está Obcecado Pela Minha Saúde, um manhwa em português.",
     "descriptionPt": "Leia O Protagonista Masculino Está Obcecado Pela Minha Saúde, um manhwa em português.",
-    "chaptersCount": 60,
+    "chaptersCount": 65,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260164,7 +260164,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-mundo-arruinado-foi-confundido-com-um-jogo online em português.",
     "descriptionPt": "Leia o-mundo-arruinado-foi-confundido-com-um-jogo online em português.",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260302,7 +260302,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Como Proteger seu Coração, um manhwa em português.",
     "descriptionPt": "Leia Como Proteger seu Coração, um manhwa em português.",
-    "chaptersCount": 148,
+    "chaptersCount": 150,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260653,7 +260653,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-transmissao-do-reino-demoniaco-do-demonio-celestial-rejuvenescido online em português.",
     "descriptionPt": "Leia a-transmissao-do-reino-demoniaco-do-demonio-celestial-rejuvenescido online em português.",
-    "chaptersCount": 14,
+    "chaptersCount": 15,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261167,7 +261167,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Ídolo da Nossa Guilda, um manhwa em português.",
     "descriptionPt": "Leia O Ídolo da Nossa Guilda, um manhwa em português.",
-    "chaptersCount": 46,
+    "chaptersCount": 47,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261678,7 +261678,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Fui escolhida para ser a nora do tirano, um manhwa em português.",
     "descriptionPt": "Leia Fui escolhida para ser a nora do tirano, um manhwa em português.",
-    "chaptersCount": 8,
+    "chaptersCount": 11,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262162,7 +262162,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Regra de Ouro de Han Serim, um manhwa em português.",
     "descriptionPt": "Leia A Regra de Ouro de Han Serim, um manhwa em português.",
-    "chaptersCount": 3,
+    "chaptersCount": 4,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262912,7 +262912,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Princesa Bebê Pode Ver as Janelas de Status, um manhwa em português.",
     "descriptionPt": "Leia A Princesa Bebê Pode Ver as Janelas de Status, um manhwa em português.",
-    "chaptersCount": 124,
+    "chaptersCount": 145,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263432,7 +263432,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Meu pai esconde seu poder, um manhwa em português.",
     "descriptionPt": "Leia Meu pai esconde seu poder, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264739,6 +264739,87 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "alta-sociedade",
+    "slug": "alta-sociedade",
+    "title": "Alta Sociedade",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/alta-sociedade/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/alta-sociedade/cover-md.webp",
+    "author": "Gyeonu",
+    "artist": "Gyeonu",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Fantasia",
+      "Romance",
+      "Historico",
+      "Josei",
+      "Mistério",
+      "Psicológico",
+      "Manhwa"
+    ],
+    "description": "Leia Alta Sociedade, um manhwa em português.",
+    "descriptionPt": "Leia Alta Sociedade, um manhwa em português.",
+    "chaptersCount": 85,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "another-typical-fantasy-romance",
+    "slug": "another-typical-fantasy-romance",
+    "title": "Another Typical Fantasy Romance",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/another-typical-fantasy-romance/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/another-typical-fantasy-romance/cover-md.webp",
+    "author": "Wolhet",
+    "artist": "Wolhet",
+    "status": "ongoing",
+    "year": 2022,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Josei",
+      "Magia",
+      "Isekai",
+      "Manhwa"
+    ],
+    "description": "Leia Another Typical Fantasy Romance, um manhwa em português.",
+    "descriptionPt": "Leia Another Typical Fantasy Romance, um manhwa em português.",
+    "chaptersCount": 97,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "my-sex-partners-were-actually-family",
+    "slug": "my-sex-partners-were-actually-family",
+    "title": "My Sex Partners Were Actually Family",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2026/08/my-sex-partners-were-actually-family-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2026/08/my-sex-partners-were-actually-family-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult"
+    ],
+    "description": "“Because we’re family now.”",
+    "descriptionEn": "“Because we’re family now.”",
+    "chaptersCount": 21,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

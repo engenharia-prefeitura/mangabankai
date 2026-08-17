@@ -99015,7 +99015,7 @@ let MANGA_DATA = [
     ],
     "description": "Eden (HOCCO) (Uncensored) Undercover NIS agent Park Seonwu is disguised as a café owner in an affluent neighborhood to investigate a drug ring. When he stumbles upon a lead about a drug-fueled party, he infiltrates it under the guise of delivering coffee. However, a lapse in judgement leads him to the brink of disaster until a cafe regular Seo Yohan rescues him. As the heat of the moment escalates, Seonwu and Yohan find themselves entwined in an unexpected physical connection. Realizing that Yohan might have crucial information about the case, Seonwu seeks his help. Yohan, attracted to Seonwu,",
     "descriptionPt": "",
-    "chaptersCount": 64,
+    "chaptersCount": 65,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -100024,7 +100024,7 @@ let MANGA_DATA = [
     ],
     "description": "Unbreakable (DWERYANG) Diagnosed with terminal cancer… but still… I’m unbreakable.",
     "descriptionPt": "",
-    "chaptersCount": 28,
+    "chaptersCount": 29,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -252985,7 +252985,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Por Seu Assassinato, um manhwa em português.",
     "descriptionPt": "Leia Por Seu Assassinato, um manhwa em português.",
-    "chaptersCount": 61,
+    "chaptersCount": 62,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254709,7 +254709,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia streaming-da-estrategia-oculta-do-retornado online em português.",
     "descriptionPt": "Leia streaming-da-estrategia-oculta-do-retornado online em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 42,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259996,7 +259996,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Túmulo do Cisne, um manhwa em português.",
     "descriptionPt": "Leia O Túmulo do Cisne, um manhwa em português.",
-    "chaptersCount": 52,
+    "chaptersCount": 53,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264820,6 +264820,59 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "rejeitei-o-casamento-dos-sonhos",
+    "slug": "rejeitei-o-casamento-dos-sonhos",
+    "title": "Rejeitei o Casamento dos Sonhos",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/rejeitei-o-casamento-dos-sonhos/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/rejeitei-o-casamento-dos-sonhos/cover-md.webp",
+    "author": "Portofino",
+    "artist": "Portofino",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Romance",
+      "Manhwa"
+    ],
+    "description": "Leia Rejeitei o Casamento dos Sonhos, um manhwa em português.",
+    "descriptionPt": "Leia Rejeitei o Casamento dos Sonhos, um manhwa em português.",
+    "chaptersCount": 0,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "eu-era-a-verdadeira-dona-de-elheim",
+    "slug": "eu-era-a-verdadeira-dona-de-elheim",
+    "title": "Eu Era a Verdadeira Dona de Elheim",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/eu-era-a-verdadeira-dona-de-elheim/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/eu-era-a-verdadeira-dona-de-elheim/cover-md.webp",
+    "author": "Blue Cotton Candy",
+    "artist": "Blue Cotton Candy",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Romance",
+      "Historico",
+      "Magia",
+      "Aventura",
+      "Psicológico",
+      "Manhwa"
+    ],
+    "description": "Leia Eu Era a Verdadeira Dona de Elheim, um manhwa em português.",
+    "descriptionPt": "Leia Eu Era a Verdadeira Dona de Elheim, um manhwa em português.",
+    "chaptersCount": 75,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

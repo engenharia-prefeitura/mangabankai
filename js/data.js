@@ -97986,7 +97986,7 @@ let MANGA_DATA = [
     ],
     "description": "The Saintess’s Petals Are Drenched (Uncensored) “Is that your wish?” When a casual wish for a reverse harem of gorgeous men backfires, Hong Minji, a modern woman with more-than-average sex drive, finds herself trapped in a hardcore smut as the main character, Saint Agnes. Surrounded by endless temptation, she must be careful not to fall into the traps of a bad ending. However… why not enjoy herself in the meantime?",
     "descriptionPt": "",
-    "chaptersCount": 9,
+    "chaptersCount": 16,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207248,7 +207248,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Dama Bebê Controla O Mundo Com Dinheiro, um manhwa em português.",
     "descriptionPt": "Leia A Dama Bebê Controla O Mundo Com Dinheiro, um manhwa em português.",
-    "chaptersCount": 127,
+    "chaptersCount": 128,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250721,7 +250721,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Crônicas do Soberano Preguiçoso, um manhwa em português.",
     "descriptionPt": "Leia Crônicas do Soberano Preguiçoso, um manhwa em português.",
-    "chaptersCount": 59,
+    "chaptersCount": 60,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251744,7 +251744,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Evolução Infinita: Começando do Zero, um manhua em português.",
     "descriptionPt": "Leia Evolução Infinita: Começando do Zero, um manhua em português.",
-    "chaptersCount": 116,
+    "chaptersCount": 118,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255022,7 +255022,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mestre Do Treinamento Marcial, um manhwa em português.",
     "descriptionPt": "Leia Mestre Do Treinamento Marcial, um manhwa em português.",
-    "chaptersCount": 126,
+    "chaptersCount": 127,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265065,6 +265065,31 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "presepe-fora-da-gaiola",
+    "slug": "presepe-fora-da-gaiola",
+    "title": "Presepe Fora da Gaiola",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/presepe-fora-da-gaiola/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/presepe-fora-da-gaiola/cover-md.webp",
+    "author": "Baek Yideum",
+    "artist": "Baek Yideum",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Fantasia",
+      "Romance"
+    ],
+    "description": "Leia Presepe Fora da Gaiola, um manhwa em português.",
+    "descriptionPt": "Leia Presepe Fora da Gaiola, um manhwa em português.",
+    "chaptersCount": 63,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

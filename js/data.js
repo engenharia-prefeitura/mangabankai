@@ -265038,6 +265038,33 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "adamasu-no-majotachi",
+    "slug": "adamasu-no-majotachi",
+    "title": "Adamasu no Majotachi",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2024/08/adamasu-no-majotachi-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2024/08/adamasu-no-majotachi-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult",
+      "Ecchi",
+      "Seinen",
+      "Supernatural"
+    ],
+    "description": "Satou Yukinari is an ordinary high schoolboy. However, while playing a game of pocket pool one day, he suddenly felt as if he was passing a kidney stone. But",
+    "descriptionEn": "Satou Yukinari is an ordinary high schoolboy. However, while playing a game of pocket pool one day, he suddenly felt as if he was passing a kidney stone. But",
+    "chaptersCount": 49,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

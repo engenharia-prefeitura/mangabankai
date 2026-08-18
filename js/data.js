@@ -69163,30 +69163,6 @@ let MANGA_DATA = [
     "source": "hentai20"
   },
   {
-    "id": "heart-level",
-    "slug": "heart-level",
-    "title": "Heart Level",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2026/03/heart-level-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2026/03/heart-level-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adult"
-    ],
-    "description": "Tired of the city, I moved to the countryside for a quiet life. But now… everyone I see has a number on their chest!",
-    "descriptionEn": "Tired of the city, I moved to the countryside for a quiet life. But now… everyone I see has a number on their chest!",
-    "chaptersCount": 29,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "heart-pounding-s-matching",
     "slug": "heart-pounding-s-matching",
     "title": "Heart-Pounding S-Matching",
@@ -265090,6 +265066,69 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "mangadistrict-heart-level",
+    "slug": "heart-level",
+    "title": "Heart Level",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/bb/thumbnail/heart-level-official-sy7pba.webp",
+    "banner": "https://cdn.mangadistrict.com/bb/thumbnail/heart-level-official-sy7pba.webp",
+    "author": "Uncle Bunny",
+    "artist": "SFD",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Borderline H",
+      "Comedy",
+      "Explicit Sex",
+      "Fetish",
+      "Full Color",
+      "Harem",
+      "Romance",
+      "Sexual Content",
+      "Hentai"
+    ],
+    "description": "Heart Level Tired of the city, I moved to the countryside for a quiet life. But now… everyone I see has a number on their chest!",
+    "descriptionPt": "",
+    "chaptersCount": 30,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
+  },
+  {
+    "id": "mangadistrict-a-love-that-burns",
+    "slug": "a-love-that-burns",
+    "title": "A Love That Burns",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/a-love-that-burns-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/a-love-that-burns-official.webp",
+    "author": "Mimyoe",
+    "artist": "Mimyoe",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 0,
+    "genres": [
+      "Borderline H",
+      "Drama",
+      "Explicit Sex",
+      "Full Color",
+      "Manhwa",
+      "Romance",
+      "Smut",
+      "Webtoons",
+      "Work Life",
+      "Hentai"
+    ],
+    "description": "A Love That Burns She wants a love that burns… not something empty or restrained.",
+    "descriptionPt": "",
+    "chaptersCount": 5,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
   }
 ];
 

@@ -207328,7 +207328,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Minha família vilã é contra minha independência, um manhwa em português.",
     "descriptionPt": "Leia Minha família vilã é contra minha independência, um manhwa em português.",
-    "chaptersCount": 90,
+    "chaptersCount": 92,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207511,7 +207511,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Pérola de Albrecht, um manhwa em português.",
     "descriptionPt": "Leia A Pérola de Albrecht, um manhwa em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207958,7 +207958,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Herdeiro Monstruoso da Família Chaebol, um manhwa em português.",
     "descriptionPt": "Leia O Herdeiro Monstruoso da Família Chaebol, um manhwa em português.",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232567,7 +232567,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Providência de Alto Nível, um manhua em português.",
     "descriptionPt": "Leia Providência de Alto Nível, um manhua em português.",
-    "chaptersCount": 280,
+    "chaptersCount": 281,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250907,7 +250907,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Fui Confundido com um Gênio Monstruoso, um manhwa em português.",
     "descriptionPt": "Leia Fui Confundido com um Gênio Monstruoso, um manhwa em português.",
-    "chaptersCount": 113,
+    "chaptersCount": 114,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250933,7 +250933,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Winter Woods, um manhwa em português.",
     "descriptionPt": "Leia Winter Woods, um manhwa em português.",
-    "chaptersCount": 34,
+    "chaptersCount": 36,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252354,7 +252354,7 @@ let MANGA_DATA = [
     ],
     "description": "Cliterary Book Club On her first day of college, Ho-eun joins a campus club—only to find herself surrounded by charming, shamelessly bold upperclassmen. All she’s asked to do is read a book out loud. It seems simple enough… until she realizes exactly what she’s reading. Flustered and unsure how to react, Ho-eun is caught between embarrassment, confusion—and a strange thrill she can’t quite explain. The way they look at her, the way they tease her… it awakens something unfamiliar. She wants to run, but something holds her in place. After all, her graduation depends on this club. Will she manage",
     "descriptionPt": "",
-    "chaptersCount": 58,
+    "chaptersCount": 59,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -263788,7 +263788,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ajoelhe-se, Vossa Graça!, um manhwa em português.",
     "descriptionPt": "Leia Ajoelhe-se, Vossa Graça!, um manhwa em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265129,6 +265129,59 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "o-amor-veio-em-uma-noite-de-luar",
+    "slug": "o-amor-veio-em-uma-noite-de-luar",
+    "title": "O amor veio em uma noite de luar",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/o-amor-veio-em-uma-noite-de-luar/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/o-amor-veio-em-uma-noite-de-luar/cover-md.webp",
+    "author": "Tiny Sweet Cloud",
+    "artist": "Tiny Sweet Cloud",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Fantasia",
+      "Historico",
+      "Adulto",
+      "Manhwa",
+      "Yaoi"
+    ],
+    "description": "Leia O amor veio em uma noite de luar, um manhwa em português.",
+    "descriptionPt": "Leia O amor veio em uma noite de luar, um manhwa em português.",
+    "chaptersCount": 15,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "a-borboleta-que-engoliu-a-nevoa",
+    "slug": "a-borboleta-que-engoliu-a-nevoa",
+    "title": "A Borboleta que Engoliu a Névoa",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-borboleta-que-engoliu-a-nevoa/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-borboleta-que-engoliu-a-nevoa/cover-md.webp",
+    "author": "Park Oh Rot",
+    "artist": "Park Oh Rot",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Historico",
+      "Josei",
+      "Manhwa"
+    ],
+    "description": "Leia A Borboleta que Engoliu a Névoa, um manhwa em português.",
+    "descriptionPt": "Leia A Borboleta que Engoliu a Névoa, um manhwa em português.",
+    "chaptersCount": 39,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

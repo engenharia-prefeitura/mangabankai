@@ -91611,7 +91611,7 @@ let MANGA_DATA = [
     ],
     "description": "Self-Defense Lesson (Official) “We teach sex- Self Defense”. Brad is a Master of a failing Hapkido dojang. One day, he acquires a mysterious program. It says his dojang will become a success if he completes the quests. However, the quest is… [Quest] Make a female member cum.",
     "descriptionPt": "",
-    "chaptersCount": 25,
+    "chaptersCount": 31,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -232875,7 +232875,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A vontade de sobrevivência do vilão, um manhwa em português.",
     "descriptionPt": "Leia A vontade de sobrevivência do vilão, um manhwa em português.",
-    "chaptersCount": 62,
+    "chaptersCount": 63,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251096,7 +251096,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Empregada Secreta do Conde, um manhwa em português.",
     "descriptionPt": "Leia A Empregada Secreta do Conde, um manhwa em português.",
-    "chaptersCount": 95,
+    "chaptersCount": 96,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253259,7 +253259,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Primeiro Amor de um Delinquente, um manhwa em português.",
     "descriptionPt": "Leia O Primeiro Amor de um Delinquente, um manhwa em português.",
-    "chaptersCount": 40,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256204,7 +256204,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O gerente Kim odeia ídolos de K-Pop, um manhwa em português.",
     "descriptionPt": "Leia O gerente Kim odeia ídolos de K-Pop, um manhwa em português.",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264273,7 +264273,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Cere, curandeira do tempo, um manhwa em português.",
     "descriptionPt": "Leia Cere, curandeira do tempo, um manhwa em português.",
-    "chaptersCount": 6,
+    "chaptersCount": 7,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

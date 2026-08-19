@@ -3113,7 +3113,7 @@ let MANGA_DATA = [
       "Sports"
     ],
     "description": "The story starts with Japan's end from the 2018 FIFA World Cup, which prompts the Japanese Football Union to begin a program exploring secondary school players who will start preparing in anticipation of the 2022 Cup. Isagi Youichi, a forward, gets a solicitation to this program not long after his group loses the opportunity to go to Nationals since he went to his less-talented partner - who missed - without attempting to make the game-changing objective without anyone else. \r\n\r\nTheir mentor will be Ego Jinpachi, who plans to \"obliterate Japanese failure football\" by presenting a radical new preparing routine: confine 300 youthful advances in a jail like organization called \"Blue Lock\" and put them through thorough preparing planned for making \"the world's most noteworthy narcissist striker.\"",
-    "chaptersCount": 364,
+    "chaptersCount": 365,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -55736,7 +55736,7 @@ let MANGA_DATA = [
       "Manga"
     ],
     "description": "Leia Shangri La Frontier online no MangaSurge.",
-    "chaptersCount": 275,
+    "chaptersCount": 276,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -95031,7 +95031,7 @@ let MANGA_DATA = [
     ],
     "description": "Kick Your Heart Jang Hyeokjun, the second son of a chaebol family, is infamous for scandals, nightlife disasters, and giving his father chronic headaches. Finally fed up, his father hires a personal monitor to keep him in line. But the man who shows up is the last person Hyeokjun ever expected, Choi Jeongheon, the ex who ghosted him four years ago and left him shattered. Hyeokjun is furious. If his father will not fire Jeongheon, then he will drive him out himself. He throws tantrums, picks fights, and schemes nonstop, but Jeongheon remains calm, unbothered, and frustratingly professional. Dig",
     "descriptionPt": "",
-    "chaptersCount": 34,
+    "chaptersCount": 36,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -95922,7 +95922,7 @@ let MANGA_DATA = [
     ],
     "description": "Return of the Blossoming Blade Chung Myung, The 13th Disciple of the Great Flowery Mountain Sect, One of the 3 Great Swordsmen, Plum Blossom Sword Saint, defeated Chun Ma, who has brought destruction and disarray onto the world. After the battle, he breathes his last breath on top of the headquarter mountain of the Devil’s Worship Sect. He is reborn after 100 years in the body of a child. …What? The Flowery Mountain Sect has fallen? What kind of nonsense is that!?",
     "descriptionPt": "",
-    "chaptersCount": 178,
+    "chaptersCount": 180,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97900,7 +97900,7 @@ let MANGA_DATA = [
     ],
     "description": "True or False? (Uncensored) Steamy stories that might be true…or totally fake. Hooking up with your married friend? A wild foursome out of nowhere? Who hasn’t fantasized about something a little out there? New episodes every day to tease your curiosity—until the big reveal. Can you tell what’s fact and what’s pure fantasy? Take your best guess…if you dare.",
     "descriptionPt": "",
-    "chaptersCount": 185,
+    "chaptersCount": 191,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207883,7 +207883,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Me Escolhe!, um manhwa em português.",
     "descriptionPt": "Leia Me Escolhe!, um manhwa em português.",
-    "chaptersCount": 214,
+    "chaptersCount": 215,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -208015,7 +208015,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Veletric, um manhwa em português.",
     "descriptionPt": "Leia Veletric, um manhwa em português.",
-    "chaptersCount": 390,
+    "chaptersCount": 391,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231482,7 +231482,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Ranker, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Ranker, um manhwa em português.",
-    "chaptersCount": 257,
+    "chaptersCount": 258,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231509,7 +231509,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Obtive um Item Mítico, um manhwa em português.",
     "descriptionPt": "Leia Eu Obtive um Item Mítico, um manhwa em português.",
-    "chaptersCount": 194,
+    "chaptersCount": 195,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249763,7 +249763,7 @@ let MANGA_DATA = [
     ],
     "description": "Plaything: The Grand Duke’s Boytoy (Uncensored) Ilic has committed the perfect crime—or so he thought. After killing his boss’s son in self-defense, Ilic is soon found out by none other than Grand Duke Sa-yan. The duke is gracious enough to allow Ilic to keep his secret…as long as Ilic expresses his gratitude by begging the duke to bed him. And if Ilic refuses, his life may be endangered by his boss’s wrath. Now entirely at Sa-yan’s mercy, Ilic is forced to embark on an affair that involves much more than he bargained for: acts of indecency, political intrigue, and maybe even love.",
     "descriptionPt": "",
-    "chaptersCount": 49,
+    "chaptersCount": 53,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -250510,7 +250510,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Casamento Predatório, um manhwa em português.",
     "descriptionPt": "Leia Casamento Predatório, um manhwa em português.",
-    "chaptersCount": 89,
+    "chaptersCount": 90,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252705,7 +252705,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guarda Malandro em uma Fantasia Medieval, um manhwa em português.",
     "descriptionPt": "Leia Guarda Malandro em uma Fantasia Medieval, um manhwa em português.",
-    "chaptersCount": 43,
+    "chaptersCount": 45,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252782,7 +252782,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Regressando como o Bastardo do Clã da Espada, um manhwa em português.",
     "descriptionPt": "Leia Regressando como o Bastardo do Clã da Espada, um manhwa em português.",
-    "chaptersCount": 107,
+    "chaptersCount": 108,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253071,7 +253071,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
     "descriptionPt": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
-    "chaptersCount": 112,
+    "chaptersCount": 113,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254048,7 +254048,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia I Was Born as the Second Daughter, um manhwa em português.",
     "descriptionPt": "Leia I Was Born as the Second Daughter, um manhwa em português.",
-    "chaptersCount": 74,
+    "chaptersCount": 75,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254534,7 +254534,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei O Mentor do Rei Demônio mais Fraco, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei O Mentor do Rei Demônio mais Fraco, um manhwa em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 33,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256001,7 +256001,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Prefiro Viver Como um Vilão, um manhwa em português.",
     "descriptionPt": "Leia Prefiro Viver Como um Vilão, um manhwa em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257233,7 +257233,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia #Meu Primeiro Amor, um manhwa em português.",
     "descriptionPt": "Leia #Meu Primeiro Amor, um manhwa em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258956,7 +258956,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Teto x Egen: Vizinhos por Acaso, um manhwa em português.",
     "descriptionPt": "Leia Teto x Egen: Vizinhos por Acaso, um manhwa em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260167,7 +260167,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vida de uma Empregada que Esconde seu Poder, um manhwa em português.",
     "descriptionPt": "Leia A Vida de uma Empregada que Esconde seu Poder, um manhwa em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261871,7 +261871,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Cavaleiro Santo De Grau SSS, um manhua em português.",
     "descriptionPt": "Leia Cavaleiro Santo De Grau SSS, um manhua em português.",
-    "chaptersCount": 192,
+    "chaptersCount": 195,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264086,7 +264086,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Santo da Espada Reencarnou em uma Família Nobre de Magos, um mangá em português.",
     "descriptionPt": "Leia O Santo da Espada Reencarnou em uma Família Nobre de Magos, um mangá em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265336,6 +265336,33 @@ let MANGA_DATA = [
     "description": "Leia Mestre Supremo da Maldição, um manhwa em português.",
     "descriptionPt": "Leia Mestre Supremo da Maldição, um manhwa em português.",
     "chaptersCount": 69,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "o-principe-nao-chora-por-causa-de-simples-cebolas",
+    "slug": "o-principe-nao-chora-por-causa-de-simples-cebolas",
+    "title": "O Príncipe não Chora por Causa de Simples Cebolas",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/o-principe-nao-chora-por-causa-de-simples-cebolas/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/o-principe-nao-chora-por-causa-de-simples-cebolas/cover-md.webp",
+    "author": "Jegwajeppyeo",
+    "artist": "Jegwajeppyeo",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Comedia",
+      "Fantasia",
+      "Romance",
+      "Manhwa"
+    ],
+    "description": "Leia O Príncipe não Chora por Causa de Simples Cebolas, um manhwa em português.",
+    "descriptionPt": "Leia O Príncipe não Chora por Causa de Simples Cebolas, um manhwa em português.",
+    "chaptersCount": 1,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

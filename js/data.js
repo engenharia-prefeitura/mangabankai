@@ -92735,7 +92735,7 @@ let MANGA_DATA = [
     ],
     "description": "Island Girls (Official) On the island he arrives at to find his younger brother, he is tempted by women of a suspicious cult.",
     "descriptionPt": "",
-    "chaptersCount": 31,
+    "chaptersCount": 37,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -95397,7 +95397,7 @@ let MANGA_DATA = [
     ],
     "description": "The World After the Fall Faced with imminent defeat and certain death, would you choose to run – or continue to fight for a doomed world? When mysterious towers appear across the world, summoning monsters that prey on mankind, this is the choice presented to the Tower Walkers – adventurers with special powers to fight the monsters. On the brink of death, they can choose to use a “regression stone” to return to the past for a second chance, though this decision places them in a separate timeline forever. Stubborn Tower Walker Jaehwan rejects this choice, choosing to fight for the original timel",
     "descriptionPt": "",
-    "chaptersCount": 242,
+    "chaptersCount": 247,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207254,7 +207254,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno da Seita Monte Hua, um manhwa em português.",
     "descriptionPt": "Leia O Retorno da Seita Monte Hua, um manhwa em português.",
-    "chaptersCount": 175,
+    "chaptersCount": 176,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -208090,7 +208090,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Retorno do Cavaleiro da Morte de Nível Apocalíptico, um manhwa em português.",
     "descriptionPt": "Leia Retorno do Cavaleiro da Morte de Nível Apocalíptico, um manhwa em português.",
-    "chaptersCount": 81,
+    "chaptersCount": 82,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230132,7 +230132,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Olá, Griffin, o pássaro Fofinho!, um manhwa em português.",
     "descriptionPt": "Leia Olá, Griffin, o pássaro Fofinho!, um manhwa em português.",
-    "chaptersCount": 62,
+    "chaptersCount": 63,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251183,7 +251183,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sou a Madrasta, Mas Minha Filha é Muito Fofa, um manhwa em português.",
     "descriptionPt": "Leia Sou a Madrasta, Mas Minha Filha é Muito Fofa, um manhwa em português.",
-    "chaptersCount": 168,
+    "chaptersCount": 169,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251800,7 +251800,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei Um Homem Casado Em Outro Mundo, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei Um Homem Casado Em Outro Mundo, um manhwa em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 23,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252732,7 +252732,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mestre Espadachim Criado Pelas Estrelas, um manhwa em português.",
     "descriptionPt": "Leia Mestre Espadachim Criado Pelas Estrelas, um manhwa em português.",
-    "chaptersCount": 133,
+    "chaptersCount": 134,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252809,7 +252809,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Campo Esquecido, um manhwa em português.",
     "descriptionPt": "Leia O Campo Esquecido, um manhwa em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253098,7 +253098,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Knight King Who Returned with a God, um manhwa em português.",
     "descriptionPt": "Leia The Knight King Who Returned with a God, um manhwa em português.",
-    "chaptersCount": 177,
+    "chaptersCount": 178,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253179,7 +253179,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Uma Criança Com Talentos Ocultos Busca Seu Pai, um manhwa em português.",
     "descriptionPt": "Leia Uma Criança Com Talentos Ocultos Busca Seu Pai, um manhwa em português.",
-    "chaptersCount": 45,
+    "chaptersCount": 46,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253758,7 +253758,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vilã Orca Bebê, um manhwa em português.",
     "descriptionPt": "Leia A Vilã Orca Bebê, um manhwa em português.",
-    "chaptersCount": 91,
+    "chaptersCount": 92,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255677,7 +255677,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Caçador Quer Uma Vida Tranquila, um manhwa em português.",
     "descriptionPt": "Leia O Caçador Quer Uma Vida Tranquila, um manhwa em português.",
-    "chaptersCount": 38,
+    "chaptersCount": 39,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258457,7 +258457,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia bai-lijin-entre-mortais online em português.",
     "descriptionPt": "Leia bai-lijin-entre-mortais online em português.",
-    "chaptersCount": 255,
+    "chaptersCount": 256,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258903,7 +258903,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Que se dane ser o Herdeiro, Eu vou Curar, um manhwa em português.",
     "descriptionPt": "Leia Que se dane ser o Herdeiro, Eu vou Curar, um manhwa em português.",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259227,7 +259227,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia rei-da-violencia online em português.",
     "descriptionPt": "Leia rei-da-violencia online em português.",
-    "chaptersCount": 73,
+    "chaptersCount": 74,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260703,7 +260703,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Depois que me tornei a princesa favorita mais jovem, todos ficaram obcecados por mim, um manhwa em português.",
     "descriptionPt": "Leia Depois que me tornei a princesa favorita mais jovem, todos ficaram obcecados por mim, um manhwa em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264062,7 +264062,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Corporação Goblin, um manhwa em português.",
     "descriptionPt": "Leia Corporação Goblin, um manhwa em português.",
-    "chaptersCount": 8,
+    "chaptersCount": 9,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264227,7 +264227,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia administrando-um-territorio-mediocre online em português.",
     "descriptionPt": "Leia administrando-um-territorio-mediocre online em português.",
-    "chaptersCount": 7,
+    "chaptersCount": 8,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265235,6 +265235,57 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "a-princesa-galinha",
+    "slug": "a-princesa-galinha",
+    "title": "A Princesa Galinha",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-princesa-galinha/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-princesa-galinha/cover-md.webp",
+    "author": "Lee Mieun",
+    "artist": "Lee Mieun",
+    "status": "ongoing",
+    "year": 2021,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Comedia",
+      "Fantasia",
+      "Romance",
+      "Historico",
+      "Manhwa"
+    ],
+    "description": "Leia A Princesa Galinha, um manhwa em português.",
+    "descriptionPt": "Leia A Princesa Galinha, um manhwa em português.",
+    "chaptersCount": 56,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "my-ideal-type-is-my-friend-s-mom",
+    "slug": "my-ideal-type-is-my-friend-s-mom",
+    "title": "My Ideal Type is My Friend’s Mom",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2026/08/my-ideal-type-is-my-friends-mom-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2026/08/my-ideal-type-is-my-friends-mom-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult"
+    ],
+    "description": "I thought she was my friend’s older sister, only to find out that she was actually his biological mother…?",
+    "descriptionEn": "I thought she was my friend’s older sister, only to find out that she was actually his biological mother…?",
+    "chaptersCount": 4,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

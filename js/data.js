@@ -99654,7 +99654,7 @@ let MANGA_DATA = [
     ],
     "description": "People of The Dark A landlady offers her friend’s younger brother a tempting deal. But when more people enter the picture, things get more complicated.",
     "descriptionPt": "",
-    "chaptersCount": 90,
+    "chaptersCount": 92,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -208040,7 +208040,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Me Tornei a Favorita da Vilã, um manhwa em português.",
     "descriptionPt": "Leia Me Tornei a Favorita da Vilã, um manhwa em português.",
-    "chaptersCount": 40,
+    "chaptersCount": 47,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258144,7 +258144,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-deus-dos-improvisos online em português.",
     "descriptionPt": "Leia o-deus-dos-improvisos online em português.",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262918,7 +262918,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Todos os Meus Avatares são Magnatas, um manhwa em português.",
     "descriptionPt": "Leia Todos os Meus Avatares são Magnatas, um manhwa em português.",
-    "chaptersCount": 92,
+    "chaptersCount": 93,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265311,6 +265311,31 @@ let MANGA_DATA = [
     "description": "Leia Aceitarei Este Casamento Desta Vez, um manhwa em português.",
     "descriptionPt": "Leia Aceitarei Este Casamento Desta Vez, um manhwa em português.",
     "chaptersCount": 37,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "mestre-supremo-da-maldicao",
+    "slug": "mestre-supremo-da-maldicao",
+    "title": "Mestre Supremo da Maldição",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/mestre-supremo-da-maldicao/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/mestre-supremo-da-maldicao/cover-md.webp",
+    "author": "Chi Diao Xiao Xingren",
+    "artist": "Chi Diao Xiao Xingren",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Ação",
+      "Artes Marciais",
+      "Comedia",
+      "Fantasia"
+    ],
+    "description": "Leia Mestre Supremo da Maldição, um manhwa em português.",
+    "descriptionPt": "Leia Mestre Supremo da Maldição, um manhwa em português.",
+    "chaptersCount": 69,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

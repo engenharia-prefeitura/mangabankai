@@ -230080,7 +230080,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia F My Ex, um manhwa em português.",
     "descriptionPt": "Leia F My Ex, um manhwa em português.",
-    "chaptersCount": 53,
+    "chaptersCount": 55,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251775,7 +251775,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Senhorita Celebridade, um manhwa em português.",
     "descriptionPt": "Leia Senhorita Celebridade, um manhwa em português.",
-    "chaptersCount": 84,
+    "chaptersCount": 85,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251880,7 +251880,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Breakers, um manhwa em português.",
     "descriptionPt": "Leia Breakers, um manhwa em português.",
-    "chaptersCount": 104,
+    "chaptersCount": 105,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252257,7 +252257,7 @@ let MANGA_DATA = [
     ],
     "description": "Their Forbidden Love In Their Forbidden Love, Do-gyeom visits Chae-sun after hearing about her outstanding grades, despite always being focused on becoming the youngest department head. As the two grow unexpectedly close, Chae-sun becomes unsure of her feelings and begins to pull away, leaving Do-gyeom hurt and searching for the reason behind her sudden distance.",
     "descriptionPt": "",
-    "chaptersCount": 27,
+    "chaptersCount": 31,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -254073,7 +254073,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Vilão, Eu Farei Tudo por Você Menos me Casar!, um manhwa em português.",
     "descriptionPt": "Leia Vilão, Eu Farei Tudo por Você Menos me Casar!, um manhwa em português.",
-    "chaptersCount": 10,
+    "chaptersCount": 11,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254449,7 +254449,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ser Uma Vilã Não É Muito Melhor?, um manhwa em português.",
     "descriptionPt": "Leia Ser Uma Vilã Não É Muito Melhor?, um manhwa em português.",
-    "chaptersCount": 95,
+    "chaptersCount": 96,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265286,6 +265286,34 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "aceitarei-este-casamento-desta-vez",
+    "slug": "aceitarei-este-casamento-desta-vez",
+    "title": "Aceitarei Este Casamento Desta Vez",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/aceitarei-este-casamento-desta-vez/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/aceitarei-este-casamento-desta-vez/cover-md.webp",
+    "author": "Damrim",
+    "artist": "Damrim",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Romance",
+      "Historico",
+      "Magia",
+      "Viagem no tempo",
+      "Vingança"
+    ],
+    "description": "Leia Aceitarei Este Casamento Desta Vez, um manhwa em português.",
+    "descriptionPt": "Leia Aceitarei Este Casamento Desta Vez, um manhwa em português.",
+    "chaptersCount": 37,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

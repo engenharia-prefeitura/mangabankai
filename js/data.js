@@ -92995,7 +92995,7 @@ let MANGA_DATA = [
     ],
     "description": "Human Trash (Official) “The world has ended now, so how about I try keeping human pets?” I don’t know why, but the world has come to an end. People don’t hesitate to murder their friends and family, as survival and desire are the only values that rule over them. All the survivors of this new world were given a single skill of their choice. Samuel, suffering from insomnia, chose the skill “sleep.” Using his skill, he begins to hunt women and rape them after he puts them to sleep!",
     "descriptionPt": "",
-    "chaptersCount": 55,
+    "chaptersCount": 57,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -232597,7 +232597,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dias no Bunker, um manhwa em português.",
     "descriptionPt": "Leia Dias no Bunker, um manhwa em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 33,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258100,7 +258100,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Ascensão da Cobra Imortal, um manhua em português.",
     "descriptionPt": "Leia A Ascensão da Cobra Imortal, um manhua em português.",
-    "chaptersCount": 99,
+    "chaptersCount": 100,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262166,7 +262166,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Vivendo Como Um Jardineiro Num Mundo de Caçadores, um manhwa em português.",
     "descriptionPt": "Leia Vivendo Como Um Jardineiro Num Mundo de Caçadores, um manhwa em português.",
-    "chaptersCount": 102,
+    "chaptersCount": 105,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

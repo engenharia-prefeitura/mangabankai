@@ -94380,7 +94380,7 @@ let MANGA_DATA = [
     ],
     "description": "Guiding Me Mad (Uncensored) Suwon is an S-class Guide with a notorious temper and a strict “no-touching” rule. After beating up one too many Espers who tried to get handsy, he’s given one last chance to save his career: a month-long live-in contract with the powerful Esper Gong Ian. There’s just one problem. Ian is the same pervert Suwon caught grinding against him on the bus earlier that day! To make matters worse, Ian isn’t just a creep, but a massive masochist who gets off on Suwon’s violence. Suwon came to guide him, but he might end up beating him into bliss instead.",
     "descriptionPt": "",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97603,7 +97603,7 @@ let MANGA_DATA = [
     ],
     "description": "Courtside Courtship (Uncensored) Genius. Champion. National treasure. Nam Woojoon has always admired Seo Siwon, but only from afar. That is, until the night he woke to find his idol on top of him, completely lost in pleasure. Now, as the heat between them rises, Woojoon’s learning the rules of a new game, and he’s playing to win.",
     "descriptionPt": "",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207624,7 +207624,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Missões na Vida Real, um manhwa em português.",
     "descriptionPt": "Leia Missões na Vida Real, um manhwa em português.",
-    "chaptersCount": 220,
+    "chaptersCount": 221,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207651,7 +207651,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Nano Máquina, um manhwa em português.",
     "descriptionPt": "Leia Nano Máquina, um manhwa em português.",
-    "chaptersCount": 325,
+    "chaptersCount": 326,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230135,7 +230135,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O restaurante do arquimago, um manhwa em português.",
     "descriptionPt": "Leia O restaurante do arquimago, um manhwa em português.",
-    "chaptersCount": 146,
+    "chaptersCount": 147,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254346,7 +254346,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Demônio Supremo do Veneno, um manhwa em português.",
     "descriptionPt": "Leia O Demônio Supremo do Veneno, um manhwa em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255032,7 +255032,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Você Não Vai Fugir de Mim, um manhwa em português.",
     "descriptionPt": "Leia Você Não Vai Fugir de Mim, um manhwa em português.",
-    "chaptersCount": 74,
+    "chaptersCount": 75,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259398,7 +259398,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia quem-e-essa-garota online em português.",
     "descriptionPt": "Leia quem-e-essa-garota online em português.",
-    "chaptersCount": 57,
+    "chaptersCount": 58,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259420,7 +259420,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia tropa-de-elite-fantastica online em português.",
     "descriptionPt": "Leia tropa-de-elite-fantastica online em português.",
-    "chaptersCount": 34,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261775,7 +261775,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Reencarnado, um manhwa em português.",
     "descriptionPt": "Leia Reencarnado, um manhwa em português.",
-    "chaptersCount": 143,
+    "chaptersCount": 145,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265405,6 +265405,33 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "meu-caminho-simulado-rumo-a-imortalidade",
+    "slug": "meu-caminho-simulado-rumo-a-imortalidade",
+    "title": "Meu Caminho Simulado Rumo à Imortalidade",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/meu-caminho-simulado-rumo-a-imortalidade/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/meu-caminho-simulado-rumo-a-imortalidade/cover-md.webp",
+    "author": "Fennu De Wuzei",
+    "artist": "Fennu De Wuzei",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Artes Marciais",
+      "Shounen",
+      "Fantasia",
+      "Aventura",
+      "Manhua"
+    ],
+    "description": "Leia Meu Caminho Simulado Rumo à Imortalidade, um manhua em português.",
+    "descriptionPt": "Leia Meu Caminho Simulado Rumo à Imortalidade, um manhua em português.",
+    "chaptersCount": 70,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

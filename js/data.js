@@ -71169,30 +71169,6 @@ let MANGA_DATA = [
     "source": "hentai20"
   },
   {
-    "id": "i-m-the-only-man-in-this-clan",
-    "slug": "i-m-the-only-man-in-this-clan",
-    "title": "I’m the Only Man in this Clan?!",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2026/04/im-the-only-man-in-this-clan-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2026/04/im-the-only-man-in-this-clan-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adult"
-    ],
-    "description": "A lonely, divorced dad goes to meet up with his gaming buddies, thinking they’ll all be men his age… but as it turns out, he’s the only man in this clan!",
-    "descriptionEn": "A lonely, divorced dad goes to meet up with his gaming buddies, thinking they’ll all be men his age… but as it turns out, he’s the only man in this clan!",
-    "chaptersCount": 22,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "ice-love",
     "slug": "ice-love",
     "title": "Ice Love",
@@ -265393,6 +265369,42 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "mangadistrict-im-the-only-man-in-this-clan",
+    "slug": "im-the-only-man-in-this-clan",
+    "title": "I’m the Only Man in this Clan?!",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/im-the-only-man-in-this-clan-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/im-the-only-man-in-this-clan-official.webp",
+    "author": "MasterNaki",
+    "artist": "Saekma Shingong",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Borderline H",
+      "Coworkers",
+      "Delinquents",
+      "Drama",
+      "Explicit Sex",
+      "Full Color",
+      "Harem",
+      "Manhwa",
+      "Romance",
+      "Salaryman",
+      "Sexual Abuse",
+      "Siblings",
+      "Webtoons",
+      "Hentai"
+    ],
+    "description": "I’m the Only Man in this Clan?! A lonely, divorced dad goes to meet up with his gaming buddies, thinking they’ll all be men his age… but as it turns out, he’s the only man in this clan!",
+    "descriptionPt": "",
+    "chaptersCount": 23,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
   }
 ];
 

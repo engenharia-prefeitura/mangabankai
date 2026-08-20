@@ -254128,7 +254128,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Meu Corpo Foi Possuído por Alguém, um manhwa em português.",
     "descriptionPt": "Leia Meu Corpo Foi Possuído por Alguém, um manhwa em português.",
-    "chaptersCount": 98,
+    "chaptersCount": 99,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254600,7 +254600,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-tornei-um-mago-de-fantasia-medieval online em português.",
     "descriptionPt": "Leia me-tornei-um-mago-de-fantasia-medieval online em português.",
-    "chaptersCount": 34,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256702,7 +256702,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Amor é uma Droga, um manhwa em português.",
     "descriptionPt": "Leia O Amor é uma Droga, um manhwa em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 45,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258784,7 +258784,7 @@ let MANGA_DATA = [
     ],
     "description": "Guiding Hazard Lee Taegun is the nation’s top esper, unmatched and untouchable with how powerful he is. A veritable immovable object. But the truth is, he’s not as untouchable as he seems. Like every esper out there, he experiences negative side effects of using his powers. However, unlike every esper out there, he’s dead set against partnering with a guide who could help him recover. Now here comes Seo Eunsung, one of the greatest guides alive, and he’s determined to guide Taegun whether he likes it or not. So: irresistible force meets immovable object. Who will fall first in this battle? Or ",
     "descriptionPt": "",
-    "chaptersCount": 81,
+    "chaptersCount": 82,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

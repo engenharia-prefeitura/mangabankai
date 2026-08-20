@@ -97629,7 +97629,7 @@ let MANGA_DATA = [
     ],
     "description": "Breathtaking Alliance (Uncensored) It is the first freshman club retreat—the kind of night meant for excitement and budding romance. However, Kim Seonwu finds his heart sinking when he discovers that the senior he’s been pining for already has someone in her life. His jealousy flares toward Noh Sang-yun, a fellow student with a rough, delinquent appearance who seems to be his primary romantic rival. The tension between them peaks during a reckless search for a local “haunted spot,” resulting in Seonwu and Sang-yun becoming stranded alone together in the wilderness. Seeking shelter from a sudde",
     "descriptionPt": "",
-    "chaptersCount": 23,
+    "chaptersCount": 24,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

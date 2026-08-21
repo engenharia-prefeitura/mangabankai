@@ -97793,7 +97793,7 @@ let MANGA_DATA = [
     ],
     "description": "When Life Gives You Tomatoes By day, Jin Horang works as a janitor. By night, he picks up extra shifts at a club, scraping by while doing his best to stay cheerful. So when he suddenly receives a marriage proposal from the parent of his high school crush, Cha Ahjo, he can hardly believe it. Back then, Ahjo was a beautiful omega who seemed to shine like a flower. Horang is told that Ahjo’s health declined after a single reckless night the two once shared, and that this is why the family is pushing for the marriage. Expecting a fragile and delicate figure from his memories, Horang goes to meet h",
     "descriptionPt": "",
-    "chaptersCount": 23,
+    "chaptersCount": 26,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207230,7 +207230,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno da Seita Monte Hua, um manhwa em português.",
     "descriptionPt": "Leia O Retorno da Seita Monte Hua, um manhwa em português.",
-    "chaptersCount": 176,
+    "chaptersCount": 177,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207755,7 +207755,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A filha mais nova salva esta família, um manhwa em português.",
     "descriptionPt": "Leia A filha mais nova salva esta família, um manhwa em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230083,7 +230083,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Bebi a Poção do Amor Destinada ao Meu Marido, um manhwa em português.",
     "descriptionPt": "Leia Bebi a Poção do Amor Destinada ao Meu Marido, um manhwa em português.",
-    "chaptersCount": 14,
+    "chaptersCount": 16,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231936,7 +231936,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Estou em um Relacionamento Secreto com o Imperador, mas Não fazia Ideia, um manhwa em português.",
     "descriptionPt": "Leia Estou em um Relacionamento Secreto com o Imperador, mas Não fazia Ideia, um manhwa em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232172,7 +232172,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Duquesa em Ruínas, um manhwa em português.",
     "descriptionPt": "Leia Duquesa em Ruínas, um manhwa em português.",
-    "chaptersCount": 59,
+    "chaptersCount": 60,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253314,7 +253314,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Carrier Falcon Princess, um manhwa em português.",
     "descriptionPt": "Leia Carrier Falcon Princess, um manhwa em português.",
-    "chaptersCount": 123,
+    "chaptersCount": 124,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254191,7 +254191,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Flutuando na Minha Mente, um manhwa em português.",
     "descriptionPt": "Leia Flutuando na Minha Mente, um manhwa em português.",
-    "chaptersCount": 28,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256704,7 +256704,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Vilão Consumido Por Seu Desejo, um manhwa em português.",
     "descriptionPt": "Leia O Vilão Consumido Por Seu Desejo, um manhwa em português.",
-    "chaptersCount": 23,
+    "chaptersCount": 27,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257996,7 +257996,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Lei Do Lixo, um manhwa em português.",
     "descriptionPt": "Leia A Lei Do Lixo, um manhwa em português.",
-    "chaptersCount": 46,
+    "chaptersCount": 47,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258907,7 +258907,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Doppio Senso, um manhwa em português.",
     "descriptionPt": "Leia Doppio Senso, um manhwa em português.",
-    "chaptersCount": 70,
+    "chaptersCount": 71,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259491,7 +259491,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia um-dia-o-protagonista-masculino-caiu-na-minha-casa online em português.",
     "descriptionPt": "Leia um-dia-o-protagonista-masculino-caiu-na-minha-casa online em português.",
-    "chaptersCount": 10,
+    "chaptersCount": 11,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259602,7 +259602,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
     "descriptionPt": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260175,7 +260175,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Marido Malvado, um manhwa em português.",
     "descriptionPt": "Leia O Marido Malvado, um manhwa em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262996,7 +262996,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Bebê Esquilo é Boa em Tudo, um manhwa em português.",
     "descriptionPt": "Leia A Bebê Esquilo é Boa em Tudo, um manhwa em português.",
-    "chaptersCount": 111,
+    "chaptersCount": 116,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264249,7 +264249,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Cere, curandeira do tempo, um manhwa em português.",
     "descriptionPt": "Leia Cere, curandeira do tempo, um manhwa em português.",
-    "chaptersCount": 7,
+    "chaptersCount": 10,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265183,7 +265183,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Intruso Carinhoso, um manhwa em português.",
     "descriptionPt": "Leia O Intruso Carinhoso, um manhwa em português.",
-    "chaptersCount": 11,
+    "chaptersCount": 12,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265509,6 +265509,55 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "o-vampiro-encontrou-a-cacadora",
+    "slug": "o-vampiro-encontrou-a-cacadora",
+    "title": "O Vampiro Encontrou A Caçadora",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/o-vampiro-encontrou-a-cacadora/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/o-vampiro-encontrou-a-cacadora/cover-md.webp",
+    "author": "cibeles_art",
+    "artist": "cibeles_art",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Comedia",
+      "Fantasia",
+      "Parte da Vida"
+    ],
+    "description": "Leia O Vampiro Encontrou A Caçadora, um manhwa em português.",
+    "descriptionPt": "Leia O Vampiro Encontrou A Caçadora, um manhwa em português.",
+    "chaptersCount": 41,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "tankouhentai-aniyome-to-no-himitsu-no-kankei",
+    "slug": "aniyome-to-no-himitsu-no-kankei",
+    "title": "Aniyome to no Himitsu no Kankei",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/08/Aniyome-to-no-Himitsu-no-Kankei-hentai-193x278.jpeg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/08/Aniyome-to-no-Himitsu-no-Kankei-hentai-193x278.jpeg",
+    "author": "Desconhecido",
+    "artist": "Tadano Myoshi",
+    "status": "completed",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Incesto",
+      "Traição",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 6,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 
@@ -265633,7 +265682,7 @@ function filterManga(opts) {
   return results;
 }
 
-const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animais","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Casamento Arranjado","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Conto","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Esporte","Esportes","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gyaru","Harem","Harém","Harém Reverso","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Horrow","Idol","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","Older Woman","One Shot","Outros gêneros","Parody Anime","Person in a Strange World","Police","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vampiro","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Younger Man","Yuri","Zombies","Zoofilia"];
+const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animais","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Casamento Arranjado","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Conto","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Esporte","Esportes","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gyaru","Harem","Harém","Harém Reverso","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Horrow","Idol","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","Older Woman","One Shot","Outros gêneros","Parody Anime","Parte da Vida","Person in a Strange World","Police","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vampiro","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Younger Man","Yuri","Zombies","Zoofilia"];
 
 var ADULT_GENRE_KW = ['hentai','adulto','adult','+18','18+','nsfw','ecchi','smut','mature','maduro','erotic','erótic','erotica','bdsm','futanari','loli','shota','inces','tentacul','tentácul','zoofilia','obsceno','sem censura','uncensor','censura','nudez','nudity','sexual','sexo','mindbreak','ahegao','netorare','fetich','fetish','omegaverse','vanilla','borderline h'];
 function isAdultGenre(g) {

@@ -95085,7 +95085,7 @@ let MANGA_DATA = [
     ],
     "description": "Bittersour (Uncensored) Jiwon just wants to enjoy a steamy one-night stand, but the neighbor from hell keeps killing the mood. After nights of listening to a heartbroken stranger wail breakup anthems through the walls, Jiwon finally storms next door to demand silence. Instead of a typical nuisance, he finds Hyeon watching a cringey, viral video of Jiwon’s most cringe college memory. Now that his secret “black history” is out, things are about to get a lot more sour – and a little bit spicy.",
     "descriptionPt": "",
-    "chaptersCount": 22,
+    "chaptersCount": 23,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -98268,7 +98268,7 @@ let MANGA_DATA = [
     ],
     "description": "Overclock (Uncensored) “Andy, a financial planner on Wall Street, gets fired after an ill-fated hookup in a car. By chance, he lands a new job at an AI startup—only to discover that the company’s CTO, Hwang Jio, is none other than his one-night stand from just days ago. Workplace romance is already risky, but when it’s between a sharp-witted Wall Street man and a brilliant Silicon Valley techie, things get even more complicated. A smart and sizzling office romance set in the fast-paced world of IT!”",
     "descriptionPt": "",
-    "chaptersCount": 79,
+    "chaptersCount": 82,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -99196,7 +99196,7 @@ let MANGA_DATA = [
     ],
     "description": "3XLOVE (Uncensored) In his school days, Baek Kiho was an easy target, overweight, quiet, and even cursed with a name that classmates mocked as “Piggy Ho.” Years of relentless bullying drove him to drop out, leaving only scars and shame behind. But time changes everything. Kiho shed the weight, changed his name to Heeseong, and built a new life where no one could recognize the boy he once was. Then fate delivers an unexpected blow: his first love, Cheon Bokyeong, reappears. The very same Bokyeong who once despised him now approaches warmly, unable to connect Heeseong with the outcast she knew i",
     "descriptionPt": "",
-    "chaptersCount": 55,
+    "chaptersCount": 56,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -265533,6 +265533,31 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "a-tale-of-tails",
+    "slug": "a-tale-of-tails",
+    "title": "A Tale of Tails",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2024/08/a-tale-of-tails-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2024/08/a-tale-of-tails-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Supernatural",
+      "Adult"
+    ],
+    "description": "Tony’s grandfather gave him a word of advice, to be careful of one thing and one thing only. Can Tony realize what he meant?",
+    "descriptionEn": "Tony’s grandfather gave him a word of advice, to be careful of one thing and one thing only. Can Tony realize what he meant?",
+    "chaptersCount": 15,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

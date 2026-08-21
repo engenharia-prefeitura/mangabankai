@@ -96079,7 +96079,7 @@ let MANGA_DATA = [
     ],
     "description": "Infinite Mage Abandoned at birth in a stable, Shirone was raised by commoners. As a child, he had gifted Insight and quickly learned how to read on his own. After visiting the city, he finally saw the workings of magic, which he was immensely curious about. This inspired Shirone’s dream of becoming a mage. However, the city was a place with a cruel and rigid social hierarchy. Here, Shirone discovered the hidden side of the world before he even reached adulthood. Will Shirone be able to achieve his dream of becoming a mage in this twisted world?",
     "descriptionPt": "",
-    "chaptersCount": 178,
+    "chaptersCount": 180,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

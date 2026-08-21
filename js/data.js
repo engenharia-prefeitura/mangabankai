@@ -95495,7 +95495,7 @@ let MANGA_DATA = [
     ],
     "description": "The Hero Returns The strongest hero of humanity, Kim Sung Bin. He threw everything on the line and fought but… He still couldn’t prevent the destruction of the world. But his legend has just begun as he returns 20 years into the past.",
     "descriptionPt": "",
-    "chaptersCount": 167,
+    "chaptersCount": 168,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -96141,7 +96141,7 @@ let MANGA_DATA = [
     ],
     "description": "I Obtained a Mythic Item Yggdrasil, the World Tree of Norse Mythology, suddenly appeared on Earth. And with it came demonic creatures that ravaged entire cities. Although not all hope is lost, due to the System that a few special humans had gained. In this new world where only the strong survived, Min JaeHyun scrapes by regretting the wrong choices he’d made in the past… when one day, he gains the only Mythic item in the world. How will this item help him? And can he change his wretched fate?",
     "descriptionPt": "",
-    "chaptersCount": 192,
+    "chaptersCount": 193,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -99163,7 +99163,7 @@ let MANGA_DATA = [
     ],
     "description": "A Very Inappropriate Lease Agreement When Gavin becomes caretaker of his family’s apartment building, his parents joke that he should marry any tenant he falls for. On day one, he meets five stunning women, including his childhood crush. Living together has never been this tempting.",
     "descriptionPt": "",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207573,7 +207573,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dragões Sequestrados, um manhwa em português.",
     "descriptionPt": "Leia Dragões Sequestrados, um manhwa em português.",
-    "chaptersCount": 55,
+    "chaptersCount": 56,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207679,7 +207679,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Logando 10.000 Anos No Futuro, um manhua em português.",
     "descriptionPt": "Leia Logando 10.000 Anos No Futuro, um manhua em português.",
-    "chaptersCount": 334,
+    "chaptersCount": 335,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230003,7 +230003,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Único Fazendeiro da Torre, um manhwa em português.",
     "descriptionPt": "Leia Único Fazendeiro da Torre, um manhwa em português.",
-    "chaptersCount": 140,
+    "chaptersCount": 141,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231614,7 +231614,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Coração Ferido, um webtoon em português.",
     "descriptionPt": "Leia Coração Ferido, um webtoon em português.",
-    "chaptersCount": 20,
+    "chaptersCount": 22,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254532,7 +254532,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia aventura-de-um-barbaro-em-um-mundo-de-fantasia online em português.",
     "descriptionPt": "Leia aventura-de-um-barbaro-em-um-mundo-de-fantasia online em português.",
-    "chaptersCount": 65,
+    "chaptersCount": 67,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255243,7 +255243,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Estou Apenas Aproveitando meu Tempo Limite, um manhwa em português.",
     "descriptionPt": "Leia Estou Apenas Aproveitando meu Tempo Limite, um manhwa em português.",
-    "chaptersCount": 56,
+    "chaptersCount": 57,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258433,7 +258433,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia bai-lijin-entre-mortais online em português.",
     "descriptionPt": "Leia bai-lijin-entre-mortais online em português.",
-    "chaptersCount": 256,
+    "chaptersCount": 257,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259602,7 +259602,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
     "descriptionPt": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 22,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259757,7 +259757,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Era o Lixo, um manhwa em português.",
     "descriptionPt": "Leia Eu Era o Lixo, um manhwa em português.",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262996,7 +262996,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Bebê Esquilo é Boa em Tudo, um manhwa em português.",
     "descriptionPt": "Leia A Bebê Esquilo é Boa em Tudo, um manhwa em português.",
-    "chaptersCount": 116,
+    "chaptersCount": 119,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264841,7 +264841,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia escandalo-amoroso-da-imperatriz online em português.",
     "descriptionPt": "Leia escandalo-amoroso-da-imperatriz online em português.",
-    "chaptersCount": 1,
+    "chaptersCount": 2,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

@@ -95059,7 +95059,7 @@ let MANGA_DATA = [
     ],
     "description": "Boredom Advisory (Uncensored) Kwon Tae-shin is a man worn thin by indulgence. A VIP at the exclusive members-only club Zeus, he buys fleeting nights with ease, yet never repeats the same encounter twice, forever chasing something that can cut through his suffocating boredom. Lee Won-woo, a low-level club employee and the sole provider for his family, never expects to cross Tae-shin’s path until he is assigned to drive him home one night. On a whim, Tae-shin makes him an offer that changes everything, proposing to buy a night with him instead. Stunned but tempted by the staggering amount of mon",
     "descriptionPt": "",
-    "chaptersCount": 36,
+    "chaptersCount": 38,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

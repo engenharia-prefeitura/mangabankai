@@ -95898,7 +95898,7 @@ let MANGA_DATA = [
     ],
     "description": "Return of the Blossoming Blade Chung Myung, The 13th Disciple of the Great Flowery Mountain Sect, One of the 3 Great Swordsmen, Plum Blossom Sword Saint, defeated Chun Ma, who has brought destruction and disarray onto the world. After the battle, he breathes his last breath on top of the headquarter mountain of the Devil’s Worship Sect. He is reborn after 100 years in the body of a child. …What? The Flowery Mountain Sect has fallen? What kind of nonsense is that!?",
     "descriptionPt": "",
-    "chaptersCount": 180,
+    "chaptersCount": 181,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -100232,7 +100232,7 @@ let MANGA_DATA = [
     ],
     "description": "Snapping into Love (Official) Two childhood friends, one coin on a string and a lot of pent up wishful thinking.",
     "descriptionPt": "",
-    "chaptersCount": 140,
+    "chaptersCount": 143,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -265634,6 +265634,30 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "tankouhentai-apart-no-otonari-san-ga-yarasete-kureru-hanashi",
+    "slug": "apart-no-otonari-san-ga-yarasete-kureru-hanashi",
+    "title": "Apart no Otonari-san ga Yarasete Kureru Hanashi",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/08/Apart-no-Otonari-san-ga-Yarasete-Kureru-Hanashi-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/08/Apart-no-Otonari-san-ga-Yarasete-Kureru-Hanashi-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Ki-51",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Vanilla",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 3,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

@@ -94069,7 +94069,7 @@ let MANGA_DATA = [
     ],
     "description": "Rabbit Hole (Uncensored) One drunken night, I thought I finally slept with Ko Woonha, the person I’ve quietly loved for years. At least… that’s what I believed. “Was it really you? Please tell me it wasn’t…” “If not me, then who were you expecting?” Turns out, it wasn’t Woonha at all! It was his younger brother, Ko San. Ko San, the walking disaster. The charming troublemaker. The human hurricane who makes me want to strangle him every time he smirks. The more I try to escape his orbit, the more tangled up I get… like he’s pulling me into his chaos without even trying. Was that night really jus",
     "descriptionPt": "",
-    "chaptersCount": 37,
+    "chaptersCount": 38,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -94982,7 +94982,7 @@ let MANGA_DATA = [
     ],
     "description": "Lust and Found (Uncensored) Seokjun only wanted one thing: peace and quiet. Tormented night after night by the nonstop sexcapades of his new neighbor, Yechan, he reaches a breaking point and prays for the man’s “precious equipment” to disappear. The next morning, the moans are gone…and so is Yechan’s manhood. Shocked by the eerie coincidence, Seokjun feels guilty enough to try to help…but Yechan seems more interested in using him as a solution than finding one. What begins as a bizarre curse quickly spirals into a chaotic, heated romance between the man who wished it away and the man desperate",
     "descriptionPt": "",
-    "chaptersCount": 39,
+    "chaptersCount": 40,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97691,7 +97691,7 @@ let MANGA_DATA = [
     ],
     "description": "Boo-tiful Nightmare (Uncensored) Kim Gitae looks like your typical college student—aside from his killer looks and strangely eerie vibe. But there’s one thing that sets him apart: he can see ghosts. Spirits swarm him day and night, desperate to possess his body, and the only way he can fend them off… is by jerking off every night. Yeah, it’s as exhausting as it sounds. All Gitae wants is a normal life—but things take a wild turn when a naked ghost named Lee Serin suddenly appears with an offer he can’t ignore. If he agrees to sleep with her, she’ll use her powers to protect him from other spir",
     "descriptionPt": "",
-    "chaptersCount": 50,
+    "chaptersCount": 51,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207912,7 +207912,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Limpeza inteligente A Regresão do Caçador Genial, um manhwa em português.",
     "descriptionPt": "Leia Limpeza inteligente A Regresão do Caçador Genial, um manhwa em português.",
-    "chaptersCount": 43,
+    "chaptersCount": 45,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231408,7 +231408,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromante do Clã da Espada, um manhwa em português.",
     "descriptionPt": "Leia Necromante do Clã da Espada, um manhwa em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 23,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231668,7 +231668,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Minhas Sete Noivas São Todas Vilãs, um manhua em português.",
     "descriptionPt": "Leia Minhas Sete Noivas São Todas Vilãs, um manhua em português.",
-    "chaptersCount": 69,
+    "chaptersCount": 70,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231962,7 +231962,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Professor Runebound, um webtoon em português.",
     "descriptionPt": "Leia O Retorno do Professor Runebound, um webtoon em português.",
-    "chaptersCount": 86,
+    "chaptersCount": 87,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232254,7 +232254,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Crônicas da Facção Demoníaca, um manhwa em português.",
     "descriptionPt": "Leia Crônicas da Facção Demoníaca, um manhwa em português.",
-    "chaptersCount": 186,
+    "chaptersCount": 187,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232772,7 +232772,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Ranker Inigualável, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Ranker Inigualável, um manhwa em português.",
-    "chaptersCount": 37,
+    "chaptersCount": 38,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253998,7 +253998,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Só Eu Tenho uma Invocação de Rank EX, um manhwa em português.",
     "descriptionPt": "Leia Só Eu Tenho uma Invocação de Rank EX, um manhwa em português.",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258098,7 +258098,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia genio-regressado-criador-de-itens-mitico online em português.",
     "descriptionPt": "Leia genio-regressado-criador-de-itens-mitico online em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259398,7 +259398,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia quem-e-essa-garota online em português.",
     "descriptionPt": "Leia quem-e-essa-garota online em português.",
-    "chaptersCount": 58,
+    "chaptersCount": 59,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260564,7 +260564,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia criando-viloes-da-maneira-correta online em português.",
     "descriptionPt": "Leia criando-viloes-da-maneira-correta online em português.",
-    "chaptersCount": 48,
+    "chaptersCount": 49,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

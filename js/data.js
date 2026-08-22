@@ -60604,7 +60604,7 @@ let MANGA_DATA = [
     ],
     "description": "Eunnam develops a sexual desire towards the mother of his best friend, Jidong! He then makes a rebellious bet with his stepmother on the line…",
     "descriptionEn": "Eunnam develops a sexual desire towards the mother of his best friend, Jidong! He then makes a rebellious bet with his stepmother on the line…",
-    "chaptersCount": 85,
+    "chaptersCount": 86,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -264692,7 +264692,7 @@ let MANGA_DATA = [
     ],
     "description": "“Because we’re family now.”",
     "descriptionEn": "“Because we’re family now.”",
-    "chaptersCount": 21,
+    "chaptersCount": 22,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -265608,6 +265608,32 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "15-minutes",
+    "slug": "15-minutes",
+    "title": "15 Minutes",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2024/08/15-minutes-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2024/08/15-minutes-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Psychological",
+      "Supernatural",
+      "Adult"
+    ],
+    "description": "You are now the protagonist! The secret of the 15 minutes is revealed. Am I in a dream? Can I really do whatever I want? When does the time stop for 15 minutes?",
+    "descriptionEn": "You are now the protagonist! The secret of the 15 minutes is revealed. Am I in a dream? Can I really do whatever I want? When does the time stop for 15 minutes?",
+    "chaptersCount": 36,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

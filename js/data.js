@@ -100637,7 +100637,7 @@ let MANGA_DATA = [
     ],
     "description": "Draco-Knight Commander The moment he was about to die, Axel was transported to another world where he is the long-awaited half-dragon.",
     "descriptionPt": "",
-    "chaptersCount": 95,
+    "chaptersCount": 96,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

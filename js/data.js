@@ -207147,7 +207147,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Magic Emperor, um manhua em português.",
     "descriptionPt": "Leia Magic Emperor, um manhua em português.",
-    "chaptersCount": 889,
+    "chaptersCount": 892,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207704,7 +207704,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Inimigo Me Engravidou, um manhwa em português.",
     "descriptionPt": "Leia O Inimigo Me Engravidou, um manhwa em português.",
-    "chaptersCount": 0,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230824,7 +230824,7 @@ let MANGA_DATA = [
     ],
     "description": "8 / 100 Desenvolvido por Rank Math SEO",
     "descriptionPt": "8 / 100 Desenvolvido por Rank Math SEO",
-    "chaptersCount": 114,
+    "chaptersCount": 115,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false,
@@ -231510,7 +231510,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Deus Marcial Pay-to-Win, um manhwa em português.",
     "descriptionPt": "Leia Deus Marcial Pay-to-Win, um manhwa em português.",
-    "chaptersCount": 28,
+    "chaptersCount": 29,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231564,7 +231564,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Começo Depois do Fim, um manhwa em português.",
     "descriptionPt": "Leia O Começo Depois do Fim, um manhwa em português.",
-    "chaptersCount": 260,
+    "chaptersCount": 261,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231590,7 +231590,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Começando com 13 Traços Ocultos, um manhwa em português.",
     "descriptionPt": "Leia Começando com 13 Traços Ocultos, um manhwa em português.",
-    "chaptersCount": 43,
+    "chaptersCount": 44,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232199,7 +232199,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Jogo do Ferreiro Genial, um manhwa em português.",
     "descriptionPt": "Leia O Jogo do Ferreiro Genial, um manhwa em português.",
-    "chaptersCount": 67,
+    "chaptersCount": 68,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232304,7 +232304,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia de Sobrevivência do Caçador de Bestas Demoníacas, um manhwa em português.",
     "descriptionPt": "Leia Guia de Sobrevivência do Caçador de Bestas Demoníacas, um manhwa em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232464,7 +232464,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Marido Que Eu Contratei Me Quer, um manhwa em português.",
     "descriptionPt": "Leia O Marido Que Eu Contratei Me Quer, um manhwa em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 29,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232546,7 +232546,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Providência de Alto Nível, um manhua em português.",
     "descriptionPt": "Leia Providência de Alto Nível, um manhua em português.",
-    "chaptersCount": 281,
+    "chaptersCount": 282,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250544,7 +250544,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Devorador de Aço, um manhwa em português.",
     "descriptionPt": "Leia Devorador de Aço, um manhwa em português.",
-    "chaptersCount": 106,
+    "chaptersCount": 107,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251856,7 +251856,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Breakers, um manhwa em português.",
     "descriptionPt": "Leia Breakers, um manhwa em português.",
-    "chaptersCount": 105,
+    "chaptersCount": 106,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252681,7 +252681,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guarda Malandro em uma Fantasia Medieval, um manhwa em português.",
     "descriptionPt": "Leia Guarda Malandro em uma Fantasia Medieval, um manhwa em português.",
-    "chaptersCount": 45,
+    "chaptersCount": 46,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265340,7 +265340,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Bebê Tirana, um manhwa em português.",
     "descriptionPt": "Leia Bebê Tirana, um manhwa em português.",
-    "chaptersCount": 110,
+    "chaptersCount": 114,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

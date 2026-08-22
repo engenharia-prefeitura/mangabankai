@@ -233823,7 +233823,7 @@ let MANGA_DATA = [
     ],
     "description": "Road Moves With Stepsister (Uncensored) Hot seats is a tense tale of two step-siblings who’ve hated each other since childhood. Fate forces them to sit side by side on a long, cramped bus ride. Teasing, tension, and forbidden desire ignite between the seats. What was supposed to be a simple trip to grandma’s birthday becomes a blazing test of restraint and temptation, where the line between hate and lust is only one touch away.",
     "descriptionPt": "",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

@@ -21,7 +21,7 @@ let MANGA_DATA = [
       "Shounen"
     ],
     "description": "Seeking to be the greatest pirate in the world, young Monkey D. Luffy, endowed with stretching powers from the legendary \"Gomu Gomu\" Devil's fruit, travels towards the Grand Line in search of One Piece, the greatest treasure in the world.",
-    "chaptersCount": 1191,
+    "chaptersCount": 1192,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -6098,7 +6098,7 @@ let MANGA_DATA = [
       "Super Power"
     ],
     "description": "Hunters are a special breed, dedicated to tracking down treasures, magical beasts, and even other men. But such pursuits require a license, and less than one in a hundred thousand can pass the grueling qualification exam. Those who do pass gain access to restricted areas, amazing stores of information, and the right to call themselves Hunters.",
-    "chaptersCount": 421,
+    "chaptersCount": 422,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -207462,7 +207462,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia NO HOME, um manhwa em português.",
     "descriptionPt": "Leia NO HOME, um manhwa em português.",
-    "chaptersCount": 66,
+    "chaptersCount": 67,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207912,7 +207912,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Limpeza inteligente A Regresão do Caçador Genial, um manhwa em português.",
     "descriptionPt": "Leia Limpeza inteligente A Regresão do Caçador Genial, um manhwa em português.",
-    "chaptersCount": 45,
+    "chaptersCount": 139,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232515,7 +232515,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Adotada por uma Família de Duques Assassinos, um manhwa em português.",
     "descriptionPt": "Leia Adotada por uma Família de Duques Assassinos, um manhwa em português.",
-    "chaptersCount": 28,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232826,7 +232826,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Recluso Supremo, um manhwa em português.",
     "descriptionPt": "Leia O Recluso Supremo, um manhwa em português.",
-    "chaptersCount": 93,
+    "chaptersCount": 94,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232851,7 +232851,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A vontade de sobrevivência do vilão, um manhwa em português.",
     "descriptionPt": "Leia A vontade de sobrevivência do vilão, um manhwa em português.",
-    "chaptersCount": 63,
+    "chaptersCount": 64,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250596,7 +250596,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Deus Demônio, um manhwa em português.",
     "descriptionPt": "Leia O Deus Demônio, um manhwa em português.",
-    "chaptersCount": 43,
+    "chaptersCount": 44,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250758,7 +250758,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Grande Colheita do Lorde das Trevas, um manhwa em português.",
     "descriptionPt": "Leia A Grande Colheita do Lorde das Trevas, um manhwa em português.",
-    "chaptersCount": 79,
+    "chaptersCount": 80,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254598,7 +254598,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-reencarnacao-do-rei-dos-punhos-reencarnacao-do-deus-dos-punhos online em português.",
     "descriptionPt": "Leia a-reencarnacao-do-rei-dos-punhos-reencarnacao-do-deus-dos-punhos online em português.",
-    "chaptersCount": 63,
+    "chaptersCount": 65,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255576,32 +255576,6 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
-  },
-  {
-    "id": "15-minutes",
-    "slug": "15-minutes",
-    "title": "15 Minutes",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/15-minutes-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/15-minutes-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Psychological",
-      "Supernatural",
-      "Adult"
-    ],
-    "description": "You are now the protagonist! The secret of the 15 minutes is revealed. Am I in a dream? Can I really do whatever I want? When does the time stop for 15 minutes?",
-    "descriptionEn": "You are now the protagonist! The secret of the 15 minutes is revealed. Am I in a dream? Can I really do whatever I want? When does the time stop for 15 minutes?",
-    "chaptersCount": 36,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
   },
   {
     "id": "o-tempo-extra-antes-da-doenca-terminal",
@@ -259871,7 +259845,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-rei-agiota-do-murim online em português.",
     "descriptionPt": "Leia o-rei-agiota-do-murim online em português.",
-    "chaptersCount": 14,
+    "chaptersCount": 15,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261196,7 +261170,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Retorno de Vidas Passadas, um manhwa em português.",
     "descriptionPt": "Leia Retorno de Vidas Passadas, um manhwa em português.",
-    "chaptersCount": 169,
+    "chaptersCount": 170,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264472,7 +264446,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Reset Temporal, um manhwa em português.",
     "descriptionPt": "Leia Reset Temporal, um manhwa em português.",
-    "chaptersCount": 56,
+    "chaptersCount": 57,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265556,6 +265530,84 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "o-duque-imoral-precisa-ser-educado-em-casa-maginot",
+    "slug": "o-duque-imoral-precisa-ser-educado-em-casa-maginot",
+    "title": "O Duque Imoral Precisa Ser Educado em Casa maginot",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/o-duque-imoral-precisa-ser-educado-em-casa-maginot/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/o-duque-imoral-precisa-ser-educado-em-casa-maginot/cover-md.webp",
+    "author": "maginot",
+    "artist": "maginot",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Manhwa"
+    ],
+    "description": "Leia O Duque Imoral Precisa Ser Educado em Casa maginot, um manhwa em português.",
+    "descriptionPt": "Leia O Duque Imoral Precisa Ser Educado em Casa maginot, um manhwa em português.",
+    "chaptersCount": 40,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "adamasu-no-majotachi",
+    "slug": "adamasu-no-majotachi",
+    "title": "Adamasu no Majotachi",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2024/08/adamasu-no-majotachi-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2024/08/adamasu-no-majotachi-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult",
+      "Ecchi",
+      "Seinen",
+      "Supernatural"
+    ],
+    "description": "Satou Yukinari is an ordinary high schoolboy. However, while playing a game of pocket pool one day, he suddenly felt as if he was passing a kidney stone. But",
+    "descriptionEn": "Satou Yukinari is an ordinary high schoolboy. However, while playing a game of pocket pool one day, he suddenly felt as if he was passing a kidney stone. But",
+    "chaptersCount": 49,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
+  },
+  {
+    "id": "mangadistrict-plot-to-worm",
+    "slug": "plot-to-worm",
+    "title": "Plot to Worm",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/plot-to-worm-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/plot-to-worm-official.webp",
+    "author": "Sookpo",
+    "artist": "Sookpo",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "BL",
+      "Yaoi",
+      "Hentai"
+    ],
+    "description": "Plot to Worm Living in a humble, one-room thatched cottage with only his loyal white dog for company, 22-year-old Farmer wrapped up another exhausting day of tilling the fields and settled in for the night. Although exhaustion plunges him into a deep sleep, the quiet room is soon filled with breathless moans and muffled gasps. Thrashing beneath a worn blanket, the young man twists in feverish distress as the ties of his thin undergarments loosen, exposing his bare skin to the cool night air. Dripping with cold sweat and consumed by an inexplicable sensation, he spends night after night torment",
+    "descriptionPt": "",
+    "chaptersCount": 10,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
   }
 ];
 

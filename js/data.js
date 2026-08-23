@@ -100882,7 +100882,7 @@ let MANGA_DATA = [
     ],
     "description": "You Are My World (Bboong) (Uncensored) Childhood friends Juhyeok and Su-ah once promised to stay together forever, but when their secondary genders manifest in reverse, their worlds drift apart. Years later, Juhyeok’s dream of Olympic gold is on the line, and Su-ah might be the only one who can help him reach it. What follows is a story of fate, pride, and a love that refuses to yield.",
     "descriptionPt": "",
-    "chaptersCount": 32,
+    "chaptersCount": 33,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207679,7 +207679,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Logando 10.000 Anos No Futuro, um manhua em português.",
     "descriptionPt": "Leia Logando 10.000 Anos No Futuro, um manhua em português.",
-    "chaptersCount": 335,
+    "chaptersCount": 336,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232147,7 +232147,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mudarei meu Destino Através de um Casamento por Conveniência, um manhwa em português.",
     "descriptionPt": "Leia Mudarei meu Destino Através de um Casamento por Conveniência, um manhwa em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232386,7 +232386,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Domínio Absoluto, um manhwa em português.",
     "descriptionPt": "Leia Domínio Absoluto, um manhwa em português.",
-    "chaptersCount": 106,
+    "chaptersCount": 107,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232747,7 +232747,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Renascimento de Um Mercenário Entre Nobres, um manhwa em português.",
     "descriptionPt": "Leia O Renascimento de Um Mercenário Entre Nobres, um manhwa em português.",
-    "chaptersCount": 45,
+    "chaptersCount": 46,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -235601,7 +235601,7 @@ let MANGA_DATA = [
     ],
     "description": "The Thread Never Burned (Uncensored) Jo Jiwon is just your average college kid—well, except for the part where he scams people by pretending to be a shaman. Thanks to his silver tongue and some lucky guesses, he gains a reputation as a spiritual powerhouse. Unfortunately, word gets around… all the way to Jeong Tae-oh, a superstitious mob boss who actually believes in that stuff. When Tae-oh shows up demanding help, Jiwon pretends to take the job—then immediately tries to run. Too bad he gets caught. He wakes up in a sketchy motel, staring death in the face. Thinking fast, Jiwon blurts out: “Y-",
     "descriptionPt": "",
-    "chaptersCount": 44,
+    "chaptersCount": 46,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -249447,7 +249447,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromante: Rei dos Mortos, um manhua em português.",
     "descriptionPt": "Leia Necromante: Rei dos Mortos, um manhua em português.",
-    "chaptersCount": 298,
+    "chaptersCount": 299,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252733,7 +252733,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Melhor Homem no Comando, um manhwa em português.",
     "descriptionPt": "Leia O Melhor Homem no Comando, um manhwa em português.",
-    "chaptersCount": 201,
+    "chaptersCount": 202,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257917,7 +257917,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Tenha um Caso Comigo, um manhwa em português.",
     "descriptionPt": "Leia Tenha um Caso Comigo, um manhwa em português.",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265734,6 +265734,31 @@ let MANGA_DATA = [
     "description": "Leia Serena, um manhwa em português.",
     "descriptionPt": "Leia Serena, um manhwa em português.",
     "chaptersCount": 130,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "blue-night-ronde-of-ecstasy",
+    "slug": "blue-night-ronde-of-ecstasy",
+    "title": "Blue Night, Ronde of Ecstasy",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/blue-night-ronde-of-ecstasy/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/blue-night-ronde-of-ecstasy/cover-md.webp",
+    "author": "Hochi (호찌)",
+    "artist": "Hochi (호찌)",
+    "status": "ongoing",
+    "year": 2022,
+    "rating": 7,
+    "genres": [
+      "Fantasia",
+      "Romance",
+      "Josei",
+      "Manhwa"
+    ],
+    "description": "Leia Blue Night, Ronde of Ecstasy, um manhwa em português.",
+    "descriptionPt": "Leia Blue Night, Ronde of Ecstasy, um manhwa em português.",
+    "chaptersCount": 10,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

@@ -93733,7 +93733,7 @@ let MANGA_DATA = [
     ],
     "description": "Professor’s Alt Account Fresh out of the military and eager for a fresh start, Jiwoo returns to university, ready to slip back into the rhythm of normal campus life. His plans hit a sudden, unavoidable roadblock when he is forced to enroll in a course taught by Professor Ha-Yeong. Jiwoo absolutely dreads the prospect; he carries a deep-seated resentment toward her, stemming from a painful past where he was subjected to her blatant, unfair treatment. Forced to grit his teeth and endure her lectures, he prepares for a grueling semester of academic power games. However, the dynamic changes entire",
     "descriptionPt": "",
-    "chaptersCount": 21,
+    "chaptersCount": 24,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207147,7 +207147,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Magic Emperor, um manhua em português.",
     "descriptionPt": "Leia Magic Emperor, um manhua em português.",
-    "chaptersCount": 892,
+    "chaptersCount": 893,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207175,7 +207175,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Mansão Que aguarda A Primavera, um manhwa em português.",
     "descriptionPt": "Leia A Mansão Que aguarda A Primavera, um manhwa em português.",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -233699,7 +233699,7 @@ let MANGA_DATA = [
     ],
     "description": "I Killed the Main Player Being a character of your favorite game is great! Sure, he’s just a minor NPC, but Corin knows this game like the back of his hand. With his knowledge and the main player Sihu’s abilities, everything’s going smoothly – until Corin discovers Sihu’s been murdering innocent NPCs and stealing their items. Horrified but powerless to stop him, Corin awaits the end of the game – only for Sihu to mysteriously fail at the last mission. Instantly, Corin travels three years back in time. Now, he’s determined to kill Sihu and take on his role – defeat the final boss and save the w",
     "descriptionPt": "",
-    "chaptersCount": 136,
+    "chaptersCount": 137,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -251979,7 +251979,7 @@ let MANGA_DATA = [
     ],
     "description": "The Swindler and the Fool A cynical swindler, a clueless country man, and a marriage contract born from desperation. Han I-ryeong thought she was the smartest player in Joseon until her gang stabbed her in the back, leaving her to face the executioner’s lash. Enter a massive, brawny oaf who volunteers to take her punishment in exchange for her hand in marriage. I-ryeong easily agrees, fully intending to rob him blind and vanish into the night. But her perfect escape plan crumbles in the bedroom. Beneath his sweet, dim-witted exterior lies a relentless, high-heat passion that leaves I-ryeong wr",
     "descriptionPt": "",
-    "chaptersCount": 10,
+    "chaptersCount": 15,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -254664,7 +254664,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia streaming-da-estrategia-oculta-do-retornado online em português.",
     "descriptionPt": "Leia streaming-da-estrategia-oculta-do-retornado online em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255218,7 +255218,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Fui Jogado em uma História de Fantasmas, Mas Ainda Tenho que Trabalhar, um manhwa em português.",
     "descriptionPt": "Leia Fui Jogado em uma História de Fantasmas, Mas Ainda Tenho que Trabalhar, um manhwa em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 33,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261821,7 +261821,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Cavaleiro Santo De Grau SSS, um manhua em português.",
     "descriptionPt": "Leia Cavaleiro Santo De Grau SSS, um manhua em português.",
-    "chaptersCount": 195,
+    "chaptersCount": 199,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263639,7 +263639,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Estratégia Para Fracos Dominar a Torre, um manhwa em português.",
     "descriptionPt": "Leia Estratégia Para Fracos Dominar a Torre, um manhwa em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263744,30 +263744,6 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
-  },
-  {
-    "id": "a-killer-woman",
-    "slug": "a-killer-woman",
-    "title": "A Killer Woman",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/a-killer-woman-01-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/a-killer-woman-01-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adult"
-    ],
-    "description": "The story of a woman and a curse that leads men to their death, will she be able to find happiness?",
-    "descriptionEn": "The story of a woman and a curse that leads men to their death, will she be able to find happiness?",
-    "chaptersCount": 112,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
   },
   {
     "id": "mangadistrict-beyond-the-rules-uncensored",
@@ -264126,7 +264102,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia administrando-um-territorio-mediocre online em português.",
     "descriptionPt": "Leia administrando-um-territorio-mediocre online em português.",
-    "chaptersCount": 8,
+    "chaptersCount": 9,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264172,7 +264148,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Cere, curandeira do tempo, um manhwa em português.",
     "descriptionPt": "Leia Cere, curandeira do tempo, um manhwa em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265079,7 +265055,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Intruso Carinhoso, um manhwa em português.",
     "descriptionPt": "Leia O Intruso Carinhoso, um manhwa em português.",
-    "chaptersCount": 13,
+    "chaptersCount": 14,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265843,6 +265819,34 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "o-ponto-de-vista-do-leitor-onisciente",
+    "slug": "o-ponto-de-vista-do-leitor-onisciente",
+    "title": "O Ponto de Vista do Leitor Onisciente",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/o-ponto-de-vista-do-leitor-onisciente/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/o-ponto-de-vista-do-leitor-onisciente/cover-md.webp",
+    "author": "REDICE",
+    "artist": "REDICE",
+    "status": "ongoing",
+    "year": 2020,
+    "rating": 7,
+    "genres": [
+      "Ação",
+      "Artes Marciais",
+      "Shounen",
+      "Aventura",
+      "Tragedia",
+      "Sobrevivencia",
+      "Manhwa"
+    ],
+    "description": "Leia O Ponto de Vista do Leitor Onisciente, um manhwa em português.",
+    "descriptionPt": "Leia O Ponto de Vista do Leitor Onisciente, um manhwa em português.",
+    "chaptersCount": 308,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

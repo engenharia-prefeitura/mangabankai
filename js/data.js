@@ -98354,7 +98354,7 @@ let MANGA_DATA = [
     ],
     "description": "One-Day BDSM Workshop (Uncensored) After two years trapped in the dull rhythm of daily life, Heesu has grown numb—disconnected from herself and everything around her. But when she stumbles across a cryptic online ad offering a one-day BDSM roleplay experience, something stirs. Torn between fear and curiosity, she agrees to surrender control—if only for a day. What begins as a fleeting escape soon becomes a raw plunge into desire, power, and vulnerability. As boundaries blur, Heesu must confront not just the limits of pleasure, but the aching emptiness she’s been running from.",
     "descriptionPt": "",
-    "chaptersCount": 62,
+    "chaptersCount": 63,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -233143,7 +233143,7 @@ let MANGA_DATA = [
     ],
     "description": "A Midsummer’s Carol (Uncensored) After failing at both love and work, Dokyung returns to the stillness of her hometown, Mooyung, where a chance encounter at her mother’s old corner store brings her face-to-face with Doh Joon, a top actor with eyes like midnight. What begins with a bold proposition soon turns into something far more complicated: a fleeting summer affair between a woman afraid to love again and a man who wants forever. As their days grow hotter and their nights more intimate, Dokyung clings to the idea that it’s just a season, just a moment. But Doh Joon is already dreaming of s",
     "descriptionPt": "",
-    "chaptersCount": 37,
+    "chaptersCount": 40,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -260915,7 +260915,7 @@ let MANGA_DATA = [
     ],
     "description": "Disorder and Desire (Uncensored) The world is filled with strange, inexplicable events that defy human explanation – and that’s where the Anomaly Management Center comes in. As the chief of this highly-specialized task force, Ha Seungchan is ready to deal with just about anything…or so he thought. When one particular anomaly enters the body of star baseball player Seon Yujin, it awakens the athlete’s beastly instincts and leaves him looking a little fluffier than usual. After joining the team, Yujin follows Seungchan to a massive black cube floating in the sky…but once inside, a dizzying game ",
     "descriptionPt": "",
-    "chaptersCount": 1,
+    "chaptersCount": 7,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -262334,32 +262334,6 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
-  },
-  {
-    "id": "a-midsummer-s-carol-uncensored",
-    "slug": "a-midsummer-s-carol-uncensored",
-    "title": "A Midsummer’s Carol (Uncensored)",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2026/05/a-midsummers-carol-uncensored-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2026/05/a-midsummers-carol-uncensored-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adult",
-      "Josei",
-      "Uncensored"
-    ],
-    "description": "After failing at both love and work, Dokyung returns to the stillness of her hometown, Mooyung, where a chance encounter at her mother’s old corner store",
-    "descriptionEn": "After failing at both love and work, Dokyung returns to the stillness of her hometown, Mooyung, where a chance encounter at her mother’s old corner store",
-    "chaptersCount": 38,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
   },
   {
     "id": "tankouhentai-mesutoiro",
@@ -265482,31 +265456,6 @@ let MANGA_DATA = [
     "source": "tankouhentai"
   },
   {
-    "id": "a-tale-of-tails",
-    "slug": "a-tale-of-tails",
-    "title": "A Tale of Tails",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/a-tale-of-tails-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/a-tale-of-tails-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Supernatural",
-      "Adult"
-    ],
-    "description": "Tony’s grandfather gave him a word of advice, to be careful of one thing and one thing only. Can Tony realize what he meant?",
-    "descriptionEn": "Tony’s grandfather gave him a word of advice, to be careful of one thing and one thing only. Can Tony realize what he meant?",
-    "chaptersCount": 15,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "com-dinheiro-comprarei-o-poder-divino",
     "slug": "com-dinheiro-comprarei-o-poder-divino",
     "title": "Com Dinheiro, Comprarei O Poder Divino!",
@@ -265762,6 +265711,39 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "mangadistrict-redheads-first-ride",
+    "slug": "redheads-first-ride",
+    "title": "[Remake] Redhead’s First Ride",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/reboot-redheads-first-ride-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/reboot-redheads-first-ride-official.webp",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Borderline H",
+      "Cohabitation",
+      "Comedy",
+      "Drama",
+      "Explicit Sex",
+      "Full Color",
+      "Incest",
+      "OEL",
+      "Romance",
+      "Webtoons",
+      "Hentai"
+    ],
+    "description": "Redhead’s First Ride Teach Me first! Remake In Redhead’s First Ride, Ethan and his wife Victoria return to his secluded family horse ranch. He expected a quiet countryside getaway—until he saw his stepsister. Roxy has grown up into a gorgeous redheaded temptress who clearly has her sights set on her “stepbro.” But while Ethan and Roxy surrender to forbidden passion behind closed stable doors, Amber isn’t wasting any time either, finding very intimate comfort in the arms of Ethan’s father. On this ranch, the only rules are driven by pure instinct.",
+    "descriptionPt": "",
+    "chaptersCount": 11,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
   }
 ];
 

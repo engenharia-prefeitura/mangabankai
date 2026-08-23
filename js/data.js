@@ -95462,7 +95462,7 @@ let MANGA_DATA = [
     ],
     "description": "Return of the Mad Demon A man who’s crazy about martial arts, the Mad Demon Lee JaHa. After stealing the Demonic Cult Leader’s Heavenly Jade, he fell down a cliff while being pursued. After thinking everything was over, he opened his eyes, having returned back to a time he was an inn helper who was looked down on by everyone… He had been falsely accused and the inn was in ruins. The Mad Demon who returned to being an inn help. Will he go mad once again? Or will his enemies go mad instead?",
     "descriptionPt": "",
-    "chaptersCount": 208,
+    "chaptersCount": 209,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

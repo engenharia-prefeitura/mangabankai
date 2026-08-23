@@ -98268,7 +98268,7 @@ let MANGA_DATA = [
     ],
     "description": "Overclock (Uncensored) “Andy, a financial planner on Wall Street, gets fired after an ill-fated hookup in a car. By chance, he lands a new job at an AI startup—only to discover that the company’s CTO, Hwang Jio, is none other than his one-night stand from just days ago. Workplace romance is already risky, but when it’s between a sharp-witted Wall Street man and a brilliant Silicon Valley techie, things get even more complicated. A smart and sizzling office romance set in the fast-paced world of IT!”",
     "descriptionPt": "",
-    "chaptersCount": 82,
+    "chaptersCount": 83,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -98439,7 +98439,7 @@ let MANGA_DATA = [
     ],
     "description": "Not Sober (Uncensored) Baek Seongchan is a walking red flag. With his bleached blonde hair, rotating fleet of luxury cars, and drop-dead gorgeous looks, he lives at the center of the campus rumor mill. Everyone whispers about his wild lifestyle, but Yena couldn’t care less about the gossip. She just wants to check a very specific item off her bucket list: losing her virginity. When she asks him to sleep with her just because he’s the best-looking guy around, she flips his world upside down. Seongchan is used to girls chasing him for romance, but he’s never met anyone quite as deadpan and strai",
     "descriptionPt": "",
-    "chaptersCount": 14,
+    "chaptersCount": 16,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -254711,7 +254711,7 @@ let MANGA_DATA = [
     ],
     "description": "BACK TO (Uncensored) What do you call a past flame you never officially got together with? “The one who got away”? For Seowoo, the answer is simple: “this asshole.” Once infamous as “The Itaewon Twink,” Seowoo is now a reformed high school teacher whose life consists entirely of wrangling teenagers and rotting in bed. His quiet routine is shattered when his ex-partner, Jihyeok, transfers to his school. Forced to confront a history he buried deep, Seowoo hits rock bottom when Jihyeok catches him with a newly delivered adult toy… “I want to see you use that thing myself.”",
     "descriptionPt": "",
-    "chaptersCount": 11,
+    "chaptersCount": 14,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -258709,7 +258709,7 @@ let MANGA_DATA = [
     ],
     "description": "A Lovely Meal One snowy winter evening, Changdeok spots a high schooler crouched in front of his favorite restaurant, blood running ice-cold in the falling snow. Lured in by the promise of meal made just like the restaurant’s, Changdeok ends up inviting the boy – Jongwu – into his home; after all, Changdeok’s life is as dry as day-old rice, and food is his only joy. So when Jongwu offers to cook him a delicious dinner every night in exchange for a place to stay, he reluctantly agrees. But as their unusual cohabitation begins, Changdeok can’t shake this bloody feeling that Jongwoo might be hidi",
     "descriptionPt": "",
-    "chaptersCount": 24,
+    "chaptersCount": 26,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -265847,6 +265847,30 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "a-killer-woman",
+    "slug": "a-killer-woman",
+    "title": "A Killer Woman",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2024/08/a-killer-woman-01-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2024/08/a-killer-woman-01-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult"
+    ],
+    "description": "The story of a woman and a curse that leads men to their death, will she be able to find happiness?",
+    "descriptionEn": "The story of a woman and a curse that leads men to their death, will she be able to find happiness?",
+    "chaptersCount": 112,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

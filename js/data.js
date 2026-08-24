@@ -98042,7 +98042,7 @@ let MANGA_DATA = [
     ],
     "description": "Talisman (Uncensored) At a remarkably young age, Choi Mujin has already ascended to the prestigious position of second-in-command within the notorious national syndicate, ‘Weolha Organization.’ While he is a figure of intense envy and admiration among his subordinates, Mujin carries a burden no one else suspects, a hidden, degrading mission assigned by the Chairman himself. Every week under the cover of darkness, he is sent to extract semen from Baek Wuyeon, the Chairman’s secluded “”human talisman”” kept hidden away from the world. Inside the suffocating luxury of a high-end penthouse, the co",
     "descriptionPt": "",
-    "chaptersCount": 28,
+    "chaptersCount": 29,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -265533,32 +265533,6 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
-  },
-  {
-    "id": "15-minutes",
-    "slug": "15-minutes",
-    "title": "15 Minutes",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/15-minutes-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/15-minutes-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Psychological",
-      "Supernatural",
-      "Adult"
-    ],
-    "description": "You are now the protagonist! The secret of the 15 minutes is revealed. Am I in a dream? Can I really do whatever I want? When does the time stop for 15 minutes?",
-    "descriptionEn": "You are now the protagonist! The secret of the 15 minutes is revealed. Am I in a dream? Can I really do whatever I want? When does the time stop for 15 minutes?",
-    "chaptersCount": 36,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
   },
   {
     "id": "tankouhentai-apart-no-otonari-san-ga-yarasete-kureru-hanashi",

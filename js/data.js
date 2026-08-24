@@ -231640,7 +231640,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Desejo do Diabo, um manhwa em português.",
     "descriptionPt": "Leia O Desejo do Diabo, um manhwa em português.",
-    "chaptersCount": 92,
+    "chaptersCount": 93,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232068,7 +232068,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia I Will Fall With The Emperor, um manhwa em português.",
     "descriptionPt": "Leia I Will Fall With The Emperor, um manhwa em português.",
-    "chaptersCount": 199,
+    "chaptersCount": 200,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260117,7 +260117,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vida de uma Empregada que Esconde seu Poder, um manhwa em português.",
     "descriptionPt": "Leia A Vida de uma Empregada que Esconde seu Poder, um manhwa em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 37,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261434,7 +261434,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-segredo-do-senior-perfeito online em português.",
     "descriptionPt": "Leia o-segredo-do-senior-perfeito online em português.",
-    "chaptersCount": 10,
+    "chaptersCount": 11,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262142,7 +262142,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu me Casei com o Duque Fera, um manhwa em português.",
     "descriptionPt": "Leia Eu me Casei com o Duque Fera, um manhwa em português.",
-    "chaptersCount": 80,
+    "chaptersCount": 81,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

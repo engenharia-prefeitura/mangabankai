@@ -101198,7 +101198,7 @@ let MANGA_DATA = [
     ],
     "description": "Chained to Poverty Money can’t buy happiness, but without it, you’re a slave to poverty.",
     "descriptionPt": "",
-    "chaptersCount": 38,
+    "chaptersCount": 39,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -137722,7 +137722,7 @@ let MANGA_DATA = [
     "descriptionPt": "",
     "chaptersCount": 87,
     "lang": "en",
-    "hasPt": false,
+    "hasPt": true,
     "hasEn": true,
     "source": "mangadistrict"
   },
@@ -231908,7 +231908,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Attic Princess, um manhwa em português.",
     "descriptionPt": "Leia Attic Princess, um manhwa em português.",
-    "chaptersCount": 79,
+    "chaptersCount": 80,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249765,7 +249765,7 @@ let MANGA_DATA = [
     ],
     "description": "My Ex-Boo (Uncensored) Two years ago, Lee Gyudam abruptly ended his relationship with Shin Myeongjin right before enlisting in the military. When destiny finally brings them face-to-face on their college campus, Myeongjin is eager to reconnect, only to be utterly devastated. Due to a bizarre spiritual affliction, Gyudam is haunted by ghosts and literally cannot recognize his former lover’s face. Reeling from the trauma that his beloved hyung has completely forgotten him, a distracted Myeongjin wanders into traffic and gets hit by a car. Now trapped in a state of out-of-body astral projection, ",
     "descriptionPt": "",
-    "chaptersCount": 8,
+    "chaptersCount": 15,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -251266,7 +251266,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vingança do Cão de Caça dos Baskerville, um manhwa em português.",
     "descriptionPt": "Leia A Vingança do Cão de Caça dos Baskerville, um manhwa em português.",
-    "chaptersCount": 176,
+    "chaptersCount": 177,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251292,7 +251292,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Filho Caçula do Conde é um Jogador, um manhwa em português.",
     "descriptionPt": "Leia O Filho Caçula do Conde é um Jogador, um manhwa em português.",
-    "chaptersCount": 166,
+    "chaptersCount": 167,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251373,7 +251373,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Imperador Solo, um manhwa em português.",
     "descriptionPt": "Leia Imperador Solo, um manhwa em português.",
-    "chaptersCount": 80,
+    "chaptersCount": 81,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252863,7 +252863,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Bebê Prisioneira do Castelo de Inverno, um manhwa em português.",
     "descriptionPt": "Leia A Bebê Prisioneira do Castelo de Inverno, um manhwa em português.",
-    "chaptersCount": 104,
+    "chaptersCount": 105,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255269,7 +255269,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Operação amor verdadeiro, um manhwa em português.",
     "descriptionPt": "Leia Operação amor verdadeiro, um manhwa em português.",
-    "chaptersCount": 135,
+    "chaptersCount": 136,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257291,7 +257291,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dépaysement, um manhwa em português.",
     "descriptionPt": "Leia Dépaysement, um manhwa em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257942,7 +257942,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vilã Maldita Retorna, um manhwa em português.",
     "descriptionPt": "Leia A Vilã Maldita Retorna, um manhwa em português.",
-    "chaptersCount": 15,
+    "chaptersCount": 16,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260560,7 +260560,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-mestre-espadachim-devorador-de-espadas online em português.",
     "descriptionPt": "Leia o-mestre-espadachim-devorador-de-espadas online em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260604,7 +260604,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia minha-vida-de-chaebol-foi-roubada-mas-eu-voltei online em português.",
     "descriptionPt": "Leia minha-vida-de-chaebol-foi-roubada-mas-eu-voltei online em português.",
-    "chaptersCount": 12,
+    "chaptersCount": 13,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261795,7 +261795,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-noivo-lobo online em português.",
     "descriptionPt": "Leia o-noivo-lobo online em português.",
-    "chaptersCount": 11,
+    "chaptersCount": 13,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262066,7 +262066,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Imperador da Espada Reencarnou em um Clã de Mestres da Espada, um manhwa em português.",
     "descriptionPt": "Leia O Imperador da Espada Reencarnou em um Clã de Mestres da Espada, um manhwa em português.",
-    "chaptersCount": 36,
+    "chaptersCount": 37,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264854,7 +264854,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia I’m In Trouble Because My Husband Is So Cute, um manhwa em português.",
     "descriptionPt": "Leia I’m In Trouble Because My Husband Is So Cute, um manhwa em português.",
-    "chaptersCount": 56,
+    "chaptersCount": 57,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265210,7 +265210,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Príncipe não Chora por Causa de Simples Cebolas, um manhwa em português.",
     "descriptionPt": "Leia O Príncipe não Chora por Causa de Simples Cebolas, um manhwa em português.",
-    "chaptersCount": 1,
+    "chaptersCount": 3,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

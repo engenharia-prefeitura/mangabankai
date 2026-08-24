@@ -99078,7 +99078,7 @@ let MANGA_DATA = [
     ],
     "description": "Blasphemy of Blood (Uncensored) For years, Ju Seongmin has lived in the shadow of his late father’s memory, treating the man’s legacy as his only gospel. But his isolated world is shattered when Baek Yohan, the stepbrother he hasn’t seen in years, suddenly reappears. But Yohan doesn’t come seeking a family reunion; he comes bearing ugly truths that threaten to dismantle everything Seongmin believed about his father. As the cracks in his reality widen, Seongmin finds himself trapped in a house with a man who hates him as much as he desires him. In this house of sins, the only thing more dangero",
     "descriptionPt": "",
-    "chaptersCount": 22,
+    "chaptersCount": 25,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -103459,7 +103459,7 @@ let MANGA_DATA = [
     ],
     "description": "Broken Bloodline (Uncensored) Ju Cheongdo, the thirty-first heir of the Yusim Ju clan, carries a curse cast on him in childhood. Everyone he grows close to meets an untimely death, and the curse is now threatening his own life as well. Desperate to hold on to the will to live, Cheongdo seeks out Yu Chanran, a man known for solving any problem for the right price, and places his last hope in him. When Cheongdo asks what it would cost for Chanran to act as his lover, the answer comes lightly but firmly. “Hey, how much do you charge? For the boyfriend experience, I mean.” “I start at 100,000 won ",
     "descriptionPt": "",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -249343,7 +249343,7 @@ let MANGA_DATA = [
     ],
     "description": "A+ for Pleasure She’s the perfect private tutor—smart, beautiful, and willing to offer more than just extra lessons. For her top-scoring students, the reward goes far beyond grades… and once you get a taste, you’ll do anything to stay at the top of the class.",
     "descriptionPt": "",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -264273,31 +264273,6 @@ let MANGA_DATA = [
     "source": "mangadistrict"
   },
   {
-    "id": "a-for-pleasure",
-    "slug": "a-for-pleasure",
-    "title": "A+ for Pleasure",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2026/05/a-for-pleasure-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2026/05/a-for-pleasure-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adult",
-      "Seinen"
-    ],
-    "description": "She’s the perfect private tutor—smart, beautiful, and willing to offer more than just extra lessons. For her top-scoring students, the reward goes far beyond",
-    "descriptionEn": "She’s the perfect private tutor—smart, beautiful, and willing to offer more than just extra lessons. For her top-scoring students, the reward goes far beyond",
-    "chaptersCount": 25,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "as-100-maldicoes-da-casa-illeston",
     "slug": "as-100-maldicoes-da-casa-illeston",
     "title": "As 100 Maldições da Casa Illeston",
@@ -266162,6 +266137,32 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "15-minutes",
+    "slug": "15-minutes",
+    "title": "15 Minutes",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2024/08/15-minutes-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2024/08/15-minutes-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Psychological",
+      "Supernatural",
+      "Adult"
+    ],
+    "description": "You are now the protagonist! The secret of the 15 minutes is revealed. Am I in a dream? Can I really do whatever I want? When does the time stop for 15 minutes?",
+    "descriptionEn": "You are now the protagonist! The secret of the 15 minutes is revealed. Am I in a dream? Can I really do whatever I want? When does the time stop for 15 minutes?",
+    "chaptersCount": 36,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

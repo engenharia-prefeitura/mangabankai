@@ -252299,7 +252299,7 @@ let MANGA_DATA = [
     ],
     "description": "The Beast Next Door At the slightest twitch to the brush of his delicate fingertips, a sharp thrill ran deep inside him, and it made him want to play a cruel little game. Without thinking about what that game might lead to. “I want to touch you here, too.” “…What?” The man he thought knew nothing was no different from a beast.",
     "descriptionPt": "",
-    "chaptersCount": 19,
+    "chaptersCount": 23,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -263689,7 +263689,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Criadora de Escândalos Voltou, um manhwa em português.",
     "descriptionPt": "Leia A Criadora de Escândalos Voltou, um manhwa em português.",
-    "chaptersCount": 12,
+    "chaptersCount": 13,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

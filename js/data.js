@@ -99910,7 +99910,7 @@ let MANGA_DATA = [
     ],
     "description": "Fatal Lessons in this Pandemic (Uncensored) Jason, who’s shy when it comes to girls, has to tutor a curious little girl. Little does he know that he’ll be teaching her some other things too.",
     "descriptionPt": "",
-    "chaptersCount": 20,
+    "chaptersCount": 24,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -233757,7 +233757,7 @@ let MANGA_DATA = [
     ],
     "description": "Overgeared (Team Argo) Shin Youngwoo (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game “Satisfy,” finds a powerful item that earns him a rare legendary class title: “Pagma’s Successor.” He’s now a skilled blacksmith who can forge unique weapons and equip the game’s most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for….",
     "descriptionPt": "",
-    "chaptersCount": 336,
+    "chaptersCount": 337,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -266188,6 +266188,32 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "a-midsummer-s-carol-uncensored",
+    "slug": "a-midsummer-s-carol-uncensored",
+    "title": "A Midsummer’s Carol (Uncensored)",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2026/05/a-midsummers-carol-uncensored-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2026/05/a-midsummers-carol-uncensored-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult",
+      "Josei",
+      "Uncensored"
+    ],
+    "description": "After failing at both love and work, Dokyung returns to the stillness of her hometown, Mooyung, where a chance encounter at her mother’s old corner store",
+    "descriptionEn": "After failing at both love and work, Dokyung returns to the stillness of her hometown, Mooyung, where a chance encounter at her mother’s old corner store",
+    "chaptersCount": 38,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

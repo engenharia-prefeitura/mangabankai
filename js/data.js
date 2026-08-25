@@ -94489,7 +94489,7 @@ let MANGA_DATA = [
     ],
     "description": "CHATTERBOX Seowu survives by selling information, living every day on edge. One day, a suspiciously friendly operative who leads with emotion instead of caution shows up at his door. Yijin is clearly dangerous, probably even from a rival organization. And yet… they talk far too easily. Between a high-strung informant and a disarmingly open operative, a risky connection forms… Is this pull part of the mission, or something dangerously real?",
     "descriptionPt": "",
-    "chaptersCount": 27,
+    "chaptersCount": 31,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -98726,7 +98726,7 @@ let MANGA_DATA = [
     ],
     "description": "Ian’s Binding (Uncensored) Benjamin Barker, a special agent at the CBI, attempts to apprehend Ian Basti, the boss of a major crime syndicate, only to be overpowered and captured. As Ian’s prisoner, Benjamin is subjected to countless forms of sexual torture and even abandoned by his fellow agents. Despite this, he decides to stay by Ian’s side to learn more about the inner workings of the organization and their drug operations. Will Benjamin survive this ordeal, or will the mob boss’s grasp suffocate his escape plans?",
     "descriptionPt": "",
-    "chaptersCount": 38,
+    "chaptersCount": 40,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -102385,7 +102385,7 @@ let MANGA_DATA = [
     ],
     "description": "Chichi Chichi One day, a picture book writer named Yorozu Hiraku was asked by his close online friend, Chintarou, if they could share a room together while he attended a nearby university. Although they only knew each other through online interactions, Hikaru agrees to it without much thought. However unbeknownst to Hikaru, Chintarou, despite having a male name, is actually a girl; a very well endowed girl.",
     "descriptionPt": "",
-    "chaptersCount": 125,
+    "chaptersCount": 126,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -249447,7 +249447,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromante: Rei dos Mortos, um manhua em português.",
     "descriptionPt": "Leia Necromante: Rei dos Mortos, um manhua em português.",
-    "chaptersCount": 299,
+    "chaptersCount": 300,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251072,7 +251072,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Empregada Secreta do Conde, um manhwa em português.",
     "descriptionPt": "Leia A Empregada Secreta do Conde, um manhwa em português.",
-    "chaptersCount": 97,
+    "chaptersCount": 98,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251239,7 +251239,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Criança Problemática da Torre Mágica, um manhwa em português.",
     "descriptionPt": "Leia A Criança Problemática da Torre Mágica, um manhwa em português.",
-    "chaptersCount": 58,
+    "chaptersCount": 59,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251699,7 +251699,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Evolução Infinita: Começando do Zero, um manhua em português.",
     "descriptionPt": "Leia Evolução Infinita: Começando do Zero, um manhua em português.",
-    "chaptersCount": 118,
+    "chaptersCount": 120,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253074,7 +253074,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Knight King Who Returned with a God, um manhwa em português.",
     "descriptionPt": "Leia The Knight King Who Returned with a God, um manhwa em português.",
-    "chaptersCount": 178,
+    "chaptersCount": 179,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254320,7 +254320,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Filho Adotivo em um Mundo de Supremacia de Linhagem, um mangá em português.",
     "descriptionPt": "Leia O Retorno do Filho Adotivo em um Mundo de Supremacia de Linhagem, um mangá em português.",
-    "chaptersCount": 48,
+    "chaptersCount": 49,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254554,7 +254554,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia despertando-o-trovao-roxo-no-inicio online em português.",
     "descriptionPt": "Leia despertando-o-trovao-roxo-no-inicio online em português.",
-    "chaptersCount": 85,
+    "chaptersCount": 86,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254686,7 +254686,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia retorno-de-10000-vezes-irma-senior-por-favor-comporte-se online em português.",
     "descriptionPt": "Leia retorno-de-10000-vezes-irma-senior-por-favor-comporte-se online em português.",
-    "chaptersCount": 34,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255786,7 +255786,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Novel’s Extra, um manhwa em português.",
     "descriptionPt": "Leia The Novel’s Extra, um manhwa em português.",
-    "chaptersCount": 169,
+    "chaptersCount": 170,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256410,7 +256410,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
     "descriptionPt": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
-    "chaptersCount": 56,
+    "chaptersCount": 57,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261694,7 +261694,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia estou-te-dizendo-so-tenho-olhos-para-voce online em português.",
     "descriptionPt": "Leia estou-te-dizendo-so-tenho-olhos-para-voce online em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263909,7 +263909,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Filho Imprestável do Marquês, um manhwa em português.",
     "descriptionPt": "Leia O Filho Imprestável do Marquês, um manhwa em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263937,7 +263937,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Corporação Goblin, um manhwa em português.",
     "descriptionPt": "Leia Corporação Goblin, um manhwa em português.",
-    "chaptersCount": 9,
+    "chaptersCount": 10,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265686,32 +265686,6 @@ let MANGA_DATA = [
     "hasEn": false
   },
   {
-    "id": "a-midsummer-s-carol-uncensored",
-    "slug": "a-midsummer-s-carol-uncensored",
-    "title": "A Midsummer’s Carol (Uncensored)",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2026/05/a-midsummers-carol-uncensored-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2026/05/a-midsummers-carol-uncensored-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adult",
-      "Josei",
-      "Uncensored"
-    ],
-    "description": "After failing at both love and work, Dokyung returns to the stillness of her hometown, Mooyung, where a chance encounter at her mother’s old corner store",
-    "descriptionEn": "After failing at both love and work, Dokyung returns to the stillness of her hometown, Mooyung, where a chance encounter at her mother’s old corner store",
-    "chaptersCount": 38,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "o-ponto-de-vista-do-leitor-onisciente",
     "slug": "o-ponto-de-vista-do-leitor-onisciente",
     "title": "O Ponto de Vista do Leitor Onisciente",
@@ -266107,7 +266081,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Como Você Desejar, um manhwa em português.",
     "descriptionPt": "Leia Como Você Desejar, um manhwa em português.",
-    "chaptersCount": 3,
+    "chaptersCount": 4,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

@@ -96049,7 +96049,7 @@ let MANGA_DATA = [
     ],
     "description": "Level 1 Player Life has been hard for Choi Hyunseong and his family since the portal gates appeared. That is, until he finally awakens! While he is unable to level up, he is gifted with the ability to trade goods on an interdimensional level and get items that raise his stats! Through the power of commerce, Hyunseong is gaining skills, storming dungeons, hunting monsters, and collecting loot to help his family. Level is nothing but a number, and he is seemingly unstoppable as… the level 1 player.",
     "descriptionPt": "",
-    "chaptersCount": 146,
+    "chaptersCount": 153,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -99770,7 +99770,7 @@ let MANGA_DATA = [
     ],
     "description": "The Delinquent Girl (Uncensored) Bullied in school, and now reunited… Can I get my payback?",
     "descriptionPt": "",
-    "chaptersCount": 23,
+    "chaptersCount": 24,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -232515,7 +232515,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Adotada por uma Família de Duques Assassinos, um manhwa em português.",
     "descriptionPt": "Leia Adotada por uma Família de Duques Assassinos, um manhwa em português.",
-    "chaptersCount": 35,
+    "chaptersCount": 37,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232674,7 +232674,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Privilégio de uma Transmigrante, um manhwa em português.",
     "descriptionPt": "Leia O Privilégio de uma Transmigrante, um manhwa em português.",
-    "chaptersCount": 143,
+    "chaptersCount": 144,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232696,7 +232696,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia em-busca-pelo-marido-da-duquesa online em português.",
     "descriptionPt": "Leia em-busca-pelo-marido-da-duquesa online em português.",
-    "chaptersCount": 6,
+    "chaptersCount": 8,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253418,7 +253418,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Diário de Sobrevivência de um Mordomo no Castelo do Duque, um manhwa em português.",
     "descriptionPt": "Leia O Diário de Sobrevivência de um Mordomo no Castelo do Duque, um manhwa em português.",
-    "chaptersCount": 43,
+    "chaptersCount": 44,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256203,7 +256203,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia I Adopted a Villainous Dad, um manhwa em português.",
     "descriptionPt": "Leia I Adopted a Villainous Dad, um manhwa em português.",
-    "chaptersCount": 89,
+    "chaptersCount": 91,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265030,7 +265030,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Intruso Carinhoso, um manhwa em português.",
     "descriptionPt": "Leia O Intruso Carinhoso, um manhwa em português.",
-    "chaptersCount": 14,
+    "chaptersCount": 15,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266214,6 +266214,30 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "quarto-secreto",
+    "slug": "quarto-secreto",
+    "title": "Quarto secreto",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/quarto-secreto/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/quarto-secreto/cover-md.webp",
+    "author": "Hu (후)",
+    "artist": "Hu (후)",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Romance",
+      "Josei",
+      "Manhwa"
+    ],
+    "description": "Leia Quarto secreto, um manhwa em português.",
+    "descriptionPt": "Leia Quarto secreto, um manhwa em português.",
+    "chaptersCount": 2,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

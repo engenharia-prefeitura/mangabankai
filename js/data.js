@@ -97108,7 +97108,7 @@ let MANGA_DATA = [
     ],
     "description": "Paradise Intruder In a world divided into three realms, the floating islands of Paradise, the surface of Eden, and the subterranean depths of Proserpina, Meove clings to a single hope: escaping to the sky with Haluk. Their love is the only light in the dark, but it is quickly extinguished when a sudden revolution tears through the underground. In the blink of an eye, the life they knew is gone, leaving Meove to navigate a treacherous new destiny where Paradise feels further away than ever.",
     "descriptionPt": "",
-    "chaptersCount": 26,
+    "chaptersCount": 28,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -100907,7 +100907,7 @@ let MANGA_DATA = [
     ],
     "description": "Widower Consort The law says he must remain chaste forever. His brothers-in-law say otherwise. After losing his bride before their wedding night, the Widower Consort is forced into a life of lonely mourning. But the late princess’s brothers are harboring an obsession that defies all logic and law. Caught between two men who would kill to keep him, the consort must navigate a palace where the most dangerous threat isn’t the law, it’s the men who are supposed to protect him.",
     "descriptionPt": "",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -101072,7 +101072,7 @@ let MANGA_DATA = [
     ],
     "description": "The Demon Leader’s Lover (Uncensored) Born under the ominous sign of “Ultimate Yang Obstruction,” Dang Soun faced a turbulent life from the outset, destined to die before the age of thirty. Abandoned by his father and orphaned, he endures harsh conditions, resorting to begging and eventually gambling for survival. Despite narrowly escaping death on numerous occasions, Soun’s fate takes a drastic turn when he is suddenly informed by his long-lost father and younger brother that he will become the concubine of the Demonic Sect. With his life constantly in jeopardy, survival becomes Soun’s sole f",
     "descriptionPt": "",
-    "chaptersCount": 49,
+    "chaptersCount": 50,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -105337,7 +105337,7 @@ let MANGA_DATA = [
     ],
     "description": "Into The Wild (Uncensored) Into the Wild begins with best friends Simon and Freddy heading into the mountains. There, by a magical mountain lake, they meet four sexy girls, including Simon’s hot stepsister. After a heated argument, the step-siblings decide to divide the territory for the rest of the trip. But Into the Wild, the usual rules don’t apply and inhibitions start to fade. Сan they truly coexist Into the Wild when Michelle is hiding a dirty little secret from her stepbrother?",
     "descriptionPt": "",
-    "chaptersCount": 9,
+    "chaptersCount": 14,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207729,7 +207729,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei a Serva do Tirano, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei a Serva do Tirano, um manhwa em português.",
-    "chaptersCount": 112,
+    "chaptersCount": 113,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231936,7 +231936,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Estou em um Relacionamento Secreto com o Imperador, mas Não fazia Ideia, um manhwa em português.",
     "descriptionPt": "Leia Estou em um Relacionamento Secreto com o Imperador, mas Não fazia Ideia, um manhwa em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249580,7 +249580,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Reencarnei como uma vilã em um mundo apocalíptico, um manhwa em português.",
     "descriptionPt": "Leia Reencarnei como uma vilã em um mundo apocalíptico, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249790,7 +249790,7 @@ let MANGA_DATA = [
     ],
     "description": "Striking Gold Lee Chan has spent his entire life chasing the shadow of Kwon Taesan, the legendary Olympic Taekwondo star who saved him when no one else would. But just as Chan’s feelings deepen into something deeper, Taesan vanishes into thin air, leaving behind a single text: “Don’t look for me.” Years later, Chan finally tracks his first love down to a sleepy countryside town, only to find his once-savior living as a single father to a baby who is surely his own. Worse yet, Taesan has absolutely no memory of who Chan is. Now, Chan must navigate the secrets of Taesan’s sudden disappearance an",
     "descriptionPt": "",
-    "chaptersCount": 10,
+    "chaptersCount": 15,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -251046,7 +251046,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Nós, Depois, um webtoon em português.",
     "descriptionPt": "Leia Nós, Depois, um webtoon em português.",
-    "chaptersCount": 26,
+    "chaptersCount": 27,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251159,7 +251159,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sou a Madrasta, Mas Minha Filha é Muito Fofa, um manhwa em português.",
     "descriptionPt": "Leia Sou a Madrasta, Mas Minha Filha é Muito Fofa, um manhwa em português.",
-    "chaptersCount": 169,
+    "chaptersCount": 170,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251456,7 +251456,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Você, Que Será Minha Ruína, um manhwa em português.",
     "descriptionPt": "Leia A Você, Que Será Minha Ruína, um manhwa em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 27,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251567,7 +251567,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Jardim de Maio, um manhwa em português.",
     "descriptionPt": "Leia Jardim de Maio, um manhwa em português.",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255814,7 +255814,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Lamento da Sereia, um webtoon em português.",
     "descriptionPt": "Leia O Lamento da Sereia, um webtoon em português.",
-    "chaptersCount": 107,
+    "chaptersCount": 109,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257291,7 +257291,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dépaysement, um manhwa em português.",
     "descriptionPt": "Leia Dépaysement, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260457,7 +260457,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Pai, Eu nunca… te perdoarei!, um manhwa em português.",
     "descriptionPt": "Leia Pai, Eu nunca… te perdoarei!, um manhwa em português.",
-    "chaptersCount": 47,
+    "chaptersCount": 48,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260653,7 +260653,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Depois que me tornei a princesa favorita mais jovem, todos ficaram obcecados por mim, um manhwa em português.",
     "descriptionPt": "Leia Depois que me tornei a princesa favorita mais jovem, todos ficaram obcecados por mim, um manhwa em português.",
-    "chaptersCount": 43,
+    "chaptersCount": 44,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260757,7 +260757,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Transformando o Tigre em Gatinho, um manhwa em português.",
     "descriptionPt": "Leia Transformando o Tigre em Gatinho, um manhwa em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260779,7 +260779,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia floricultura-s online em português.",
     "descriptionPt": "Leia floricultura-s online em português.",
-    "chaptersCount": 54,
+    "chaptersCount": 55,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264148,7 +264148,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Cere, curandeira do tempo, um manhwa em português.",
     "descriptionPt": "Leia Cere, curandeira do tempo, um manhwa em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264799,7 +264799,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Princesa Monstro, um manhwa em português.",
     "descriptionPt": "Leia A Princesa Monstro, um manhwa em português.",
-    "chaptersCount": 45,
+    "chaptersCount": 46,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266107,7 +266107,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Como Você Desejar, um manhwa em português.",
     "descriptionPt": "Leia Como Você Desejar, um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 3,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266188,6 +266188,32 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "a-amada-boneca-do-tirano",
+    "slug": "a-amada-boneca-do-tirano",
+    "title": "A Amada Boneca do Tirano",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-amada-boneca-do-tirano/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-amada-boneca-do-tirano/cover-md.webp",
+    "author": "Baek Yi Dam",
+    "artist": "Baek Yi Dam",
+    "status": "ongoing",
+    "year": 2022,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Magia"
+    ],
+    "description": "Leia A Amada Boneca do Tirano, um manhwa em português.",
+    "descriptionPt": "Leia A Amada Boneca do Tirano, um manhwa em português.",
+    "chaptersCount": 96,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

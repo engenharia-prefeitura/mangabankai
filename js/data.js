@@ -99026,7 +99026,7 @@ let MANGA_DATA = [
     ],
     "description": "Change Days “What do you mean ‘go to college and you’ll finally get a girlfriend’?!” After gathering every ounce of courage to confess his love at the freshman retreat, he ended up getting slapped hard right in front of the entire student body. Desperate and utterly humiliated, his final wish was simple: Man, I just want to be born again! A freak accident suddenly swaps his soul with the school’s most popular, effortlessly handsome guy on campus. The wildest part? He doesn’t even have to lift a finger, yet classmates, underclassmen, and even a female professor are suddenly throwing themselves ",
     "descriptionPt": "",
-    "chaptersCount": 15,
+    "chaptersCount": 17,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -250411,7 +250411,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-esposa-que-esperou-no-campo-de-trigo online em português.",
     "descriptionPt": "Leia a-esposa-que-esperou-no-campo-de-trigo online em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256410,7 +256410,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
     "descriptionPt": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
-    "chaptersCount": 57,
+    "chaptersCount": 58,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262091,7 +262091,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Regra de Ouro de Han Serim, um manhwa em português.",
     "descriptionPt": "Leia A Regra de Ouro de Han Serim, um manhwa em português.",
-    "chaptersCount": 4,
+    "chaptersCount": 5,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

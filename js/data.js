@@ -95250,7 +95250,7 @@ let MANGA_DATA = [
     ],
     "description": "The Grand Mudang Saga If the Grim Reaper calls your name three times, you will be taken to the underworld. You little shit! I want to live longer! Get out of here! I desperately swallowed the Herb of Immortality, and to my surprise, I actually lived! When I finally opened my eyes, thinking it was all a dream… I was surrounded by a bunch of old guys?! I asked where am, and—the Shamans’ Mountain?!!!!!!!! Somehow, I possessed the body of a pitiful errand boy… this is nuts! I… I am… I am the strongest of the strong, the head of the Sa Clan, Hyeokyeon Mugang!!! Why am I now part of a clan of Shaman",
     "descriptionPt": "",
-    "chaptersCount": 173,
+    "chaptersCount": 174,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

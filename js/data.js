@@ -91587,7 +91587,7 @@ let MANGA_DATA = [
     ],
     "description": "Self-Defense Lesson (Official) “We teach sex- Self Defense”. Brad is a Master of a failing Hapkido dojang. One day, he acquires a mysterious program. It says his dojang will become a success if he completes the quests. However, the quest is… [Quest] Make a female member cum.",
     "descriptionPt": "",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207704,7 +207704,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Inimigo Me Engravidou, um manhwa em português.",
     "descriptionPt": "Leia O Inimigo Me Engravidou, um manhwa em português.",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207991,7 +207991,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Veletric, um manhwa em português.",
     "descriptionPt": "Leia Veletric, um manhwa em português.",
-    "chaptersCount": 391,
+    "chaptersCount": 392,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -208066,7 +208066,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Retorno do Cavaleiro da Morte de Nível Apocalíptico, um manhwa em português.",
     "descriptionPt": "Leia Retorno do Cavaleiro da Morte de Nível Apocalíptico, um manhwa em português.",
-    "chaptersCount": 82,
+    "chaptersCount": 83,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231458,7 +231458,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Ranker, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Ranker, um manhwa em português.",
-    "chaptersCount": 258,
+    "chaptersCount": 259,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -233111,7 +233111,7 @@ let MANGA_DATA = [
     ],
     "description": "Love Junkie Right after graduating high school, Yewon falls headfirst into an affair with the charming but married Han Ju-eon. She knows it’s wrong, but she doesn’t care. She’s in love. “I want to hear you say it. Are you having an affair with that guy?” “Fine! We’re having an affair. So what?” Things start to spiral when their classmate Jeong Hwa-ik catches them in the act and makes her an offer of his own. Whether out of spite, curiosity, or something darker, she agrees. “Even if I sleep with someone else, you’re not going to leave your wife, are you?”",
     "descriptionPt": "",
-    "chaptersCount": 48,
+    "chaptersCount": 49,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -249420,7 +249420,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Doce Salvadora da Besta Imoral, um manhwa em português.",
     "descriptionPt": "Leia A Doce Salvadora da Besta Imoral, um manhwa em português.",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250704,7 +250704,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Lendário Cavaleiro da Lança, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Lendário Cavaleiro da Lança, um manhwa em português.",
-    "chaptersCount": 211,
+    "chaptersCount": 212,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250758,7 +250758,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Grande Colheita do Lorde das Trevas, um manhwa em português.",
     "descriptionPt": "Leia A Grande Colheita do Lorde das Trevas, um manhwa em português.",
-    "chaptersCount": 80,
+    "chaptersCount": 81,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251212,7 +251212,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Regressor da Família Caída, um manhwa em português.",
     "descriptionPt": "Leia O Regressor da Família Caída, um manhwa em português.",
-    "chaptersCount": 147,
+    "chaptersCount": 148,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251344,7 +251344,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mordida pelo cão que eu abandonei, um manhwa em português.",
     "descriptionPt": "Leia Mordida pelo cão que eu abandonei, um manhwa em português.",
-    "chaptersCount": 119,
+    "chaptersCount": 120,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251483,7 +251483,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Sou o Vilão Predestinado, um manhua em português.",
     "descriptionPt": "Leia Eu Sou o Vilão Predestinado, um manhua em português.",
-    "chaptersCount": 351,
+    "chaptersCount": 353,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251619,7 +251619,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu me tornei a filha adotiva do protagonista, um manhwa em português.",
     "descriptionPt": "Leia Eu me tornei a filha adotiva do protagonista, um manhwa em português.",
-    "chaptersCount": 172,
+    "chaptersCount": 175,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251776,7 +251776,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei Um Homem Casado Em Outro Mundo, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei Um Homem Casado Em Outro Mundo, um manhwa em português.",
-    "chaptersCount": 23,
+    "chaptersCount": 24,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251802,7 +251802,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Matei Um Jogador da Academia, um manhwa em português.",
     "descriptionPt": "Leia Eu Matei Um Jogador da Academia, um manhwa em português.",
-    "chaptersCount": 138,
+    "chaptersCount": 139,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251856,7 +251856,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Breakers, um manhwa em português.",
     "descriptionPt": "Leia Breakers, um manhwa em português.",
-    "chaptersCount": 106,
+    "chaptersCount": 107,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252462,7 +252462,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Um Dia Eu Era Um Filhote, um manhwa em português.",
     "descriptionPt": "Leia Um Dia Eu Era Um Filhote, um manhwa em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 23,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252733,7 +252733,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Melhor Homem no Comando, um manhwa em português.",
     "descriptionPt": "Leia O Melhor Homem no Comando, um manhwa em português.",
-    "chaptersCount": 202,
+    "chaptersCount": 203,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252758,7 +252758,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Regressando como o Bastardo do Clã da Espada, um manhwa em português.",
     "descriptionPt": "Leia Regressando como o Bastardo do Clã da Espada, um manhwa em português.",
-    "chaptersCount": 108,
+    "chaptersCount": 109,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253047,7 +253047,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
     "descriptionPt": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
-    "chaptersCount": 113,
+    "chaptersCount": 114,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253102,7 +253102,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Estilo de Vida de um Imortal, um manhwa em português.",
     "descriptionPt": "Leia O Estilo de Vida de um Imortal, um manhwa em português.",
-    "chaptersCount": 26,
+    "chaptersCount": 27,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254510,7 +254510,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei O Mentor do Rei Demônio mais Fraco, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei O Mentor do Rei Demônio mais Fraco, um manhwa em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255141,7 +255141,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Superastro do 0, um manhwa em português.",
     "descriptionPt": "Leia Superastro do 0, um manhwa em português.",
-    "chaptersCount": 99,
+    "chaptersCount": 100,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255218,7 +255218,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Fui Jogado em uma História de Fantasmas, Mas Ainda Tenho que Trabalhar, um manhwa em português.",
     "descriptionPt": "Leia Fui Jogado em uma História de Fantasmas, Mas Ainda Tenho que Trabalhar, um manhwa em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258853,7 +258853,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Que se dane ser o Herdeiro, Eu vou Curar, um manhwa em português.",
     "descriptionPt": "Leia Que se dane ser o Herdeiro, Eu vou Curar, um manhwa em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260582,7 +260582,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-transmissao-do-reino-demoniaco-do-demonio-celestial-rejuvenescido online em português.",
     "descriptionPt": "Leia a-transmissao-do-reino-demoniaco-do-demonio-celestial-rejuvenescido online em português.",
-    "chaptersCount": 15,
+    "chaptersCount": 16,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260626,7 +260626,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-casei-com-o-dragao-que-matei online em português.",
     "descriptionPt": "Leia me-casei-com-o-dragao-que-matei online em português.",
-    "chaptersCount": 11,
+    "chaptersCount": 12,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261749,7 +261749,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Reencarnado, um manhwa em português.",
     "descriptionPt": "Leia Reencarnado, um manhwa em português.",
-    "chaptersCount": 145,
+    "chaptersCount": 148,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262014,7 +262014,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Por favor não morra!, um manhwa em português.",
     "descriptionPt": "Leia Por favor não morra!, um manhwa em português.",
-    "chaptersCount": 26,
+    "chaptersCount": 27,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262040,7 +262040,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Trascendência Devido a um Erro do Sistema, um manhwa em português.",
     "descriptionPt": "Leia Trascendência Devido a um Erro do Sistema, um manhwa em português.",
-    "chaptersCount": 11,
+    "chaptersCount": 12,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262560,7 +262560,7 @@ let MANGA_DATA = [
     ],
     "description": "Friendzone Face-Off They swore men and women can be just friends.Now they’re trapped in a game that puts that belief to the test.With prize money on the line, each mission pushes them closer to the one line they promised never to cross.",
     "descriptionPt": "",
-    "chaptersCount": 5,
+    "chaptersCount": 8,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -264671,7 +264671,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Era a Verdadeira Dona de Elheim, um manhwa em português.",
     "descriptionPt": "Leia Eu Era a Verdadeira Dona de Elheim, um manhwa em português.",
-    "chaptersCount": 75,
+    "chaptersCount": 76,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265275,7 +265275,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Meu Caminho Simulado Rumo à Imortalidade, um manhua em português.",
     "descriptionPt": "Leia Meu Caminho Simulado Rumo à Imortalidade, um manhua em português.",
-    "chaptersCount": 70,
+    "chaptersCount": 73,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266264,6 +266264,36 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "a-princesa-marcou-o-traidor",
+    "slug": "a-princesa-marcou-o-traidor",
+    "title": "A Princesa Marcou O Traidor",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-princesa-marcou-o-traidor/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-princesa-marcou-o-traidor/cover-md.webp",
+    "author": "Irinbi",
+    "artist": "Irinbi",
+    "status": "ongoing",
+    "year": 2021,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Historico",
+      "Josei",
+      "Sobrenatural",
+      "Aventura",
+      "Manhwa"
+    ],
+    "description": "Leia A Princesa Marcou O Traidor, um manhwa em português.",
+    "descriptionPt": "Leia A Princesa Marcou O Traidor, um manhwa em português.",
+    "chaptersCount": 121,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

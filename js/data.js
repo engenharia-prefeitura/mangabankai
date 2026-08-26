@@ -96867,7 +96867,7 @@ let MANGA_DATA = [
     ],
     "description": "The Purrfect Match (Uncensored) Kwon Jiwu is a top actor blessed with perfect looks and talent, but there’s one strange problem: every male animal seems to be in love with him. After yet another chaotic day on set fending off animal admirers, he’s ready to snap when his cheeky junior co-star Ju Yeongwon starts picking a fight. Just as Jiwu is about to put him in his place, something catches his eye. Cat ears? Wait a second, was Yeongwon one of those “male animals” all along?",
     "descriptionPt": "",
-    "chaptersCount": 40,
+    "chaptersCount": 41,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -261582,7 +261582,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Demônio X Anjo, não se entendem!, um manhua em português.",
     "descriptionPt": "Leia Demônio X Anjo, não se entendem!, um manhua em português.",
-    "chaptersCount": 63,
+    "chaptersCount": 66,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266580,6 +266580,54 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "um-canalha-bonito-demais",
+    "slug": "um-canalha-bonito-demais",
+    "title": "Um Canalha Bonito Demais",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/um-canalha-bonito-demais/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/um-canalha-bonito-demais/cover-md.webp",
+    "author": "Park Rose",
+    "artist": "Park Rose",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Romance",
+      "Manhwa"
+    ],
+    "description": "Leia Um Canalha Bonito Demais, um manhwa em português.",
+    "descriptionPt": "Leia Um Canalha Bonito Demais, um manhwa em português.",
+    "chaptersCount": 13,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "tankouhentai-cool-chan-wa-sensei-gakari",
+    "slug": "cool-chan-wa-sensei-gakari",
+    "title": "Cool-chan wa Sensei Gakari",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/08/Cool-chan-wa-Sensei-Gakari-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/08/Cool-chan-wa-Sensei-Gakari-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Nekoi Mie",
+    "status": "completed",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Vanilla",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 2,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

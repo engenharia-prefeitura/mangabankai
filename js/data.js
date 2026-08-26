@@ -207307,7 +207307,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Minha família vilã é contra minha independência, um manhwa em português.",
     "descriptionPt": "Leia Minha família vilã é contra minha independência, um manhwa em português.",
-    "chaptersCount": 92,
+    "chaptersCount": 94,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249420,7 +249420,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Doce Salvadora da Besta Imoral, um manhwa em português.",
     "descriptionPt": "Leia A Doce Salvadora da Besta Imoral, um manhwa em português.",
-    "chaptersCount": 36,
+    "chaptersCount": 37,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250939,7 +250939,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Caída no Paraíso, um manhwa em português.",
     "descriptionPt": "Leia Caída no Paraíso, um manhwa em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254024,7 +254024,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia I Was Born as the Second Daughter, um manhwa em português.",
     "descriptionPt": "Leia I Was Born as the Second Daughter, um manhwa em português.",
-    "chaptersCount": 75,
+    "chaptersCount": 77,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266524,6 +266524,62 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "me-tornei-a-cunhada-mais-jovem-dos-protagonistas-de-um-harem-reverso-arruinado",
+    "slug": "me-tornei-a-cunhada-mais-jovem-dos-protagonistas-de-um-harem-reverso-arruinado",
+    "title": "Me Tornei a Cunhada Mais Jovem dos Protagonistas de um Harém Reverso Arruinado",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/me-tornei-a-cunhada-mais-jovem-dos-protagonistas-de-um-harem-reverso-arruinado/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/me-tornei-a-cunhada-mais-jovem-dos-protagonistas-de-um-harem-reverso-arruinado/cover-md.webp",
+    "author": "Madrum",
+    "artist": "Madrum",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Reencarnação",
+      "Comedia",
+      "Romance",
+      "Familia",
+      "Magia",
+      "Harem"
+    ],
+    "description": "Leia Me Tornei a Cunhada Mais Jovem dos Protagonistas de um Harém Reverso Arruinado, um manhwa em português.",
+    "descriptionPt": "Leia Me Tornei a Cunhada Mais Jovem dos Protagonistas de um Harém Reverso Arruinado, um manhwa em português.",
+    "chaptersCount": 66,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "the-flowers-dance-and-the-wind-sings",
+    "slug": "the-flowers-dance-and-the-wind-sings",
+    "title": "The Flowers Dance and the Wind Sings",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/the-flowers-dance-and-the-wind-sings/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/the-flowers-dance-and-the-wind-sings/cover-md.webp",
+    "author": "Lanella",
+    "artist": "Lanella",
+    "status": "ongoing",
+    "year": 2020,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Josei",
+      "Sobrenatural",
+      "Manhwa"
+    ],
+    "description": "Leia The Flowers Dance and the Wind Sings, um manhwa em português.",
+    "descriptionPt": "Leia The Flowers Dance and the Wind Sings, um manhwa em português.",
+    "chaptersCount": 126,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

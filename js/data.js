@@ -207462,7 +207462,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia NO HOME, um manhwa em português.",
     "descriptionPt": "Leia NO HOME, um manhwa em português.",
-    "chaptersCount": 67,
+    "chaptersCount": 68,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207573,7 +207573,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dragões Sequestrados, um manhwa em português.",
     "descriptionPt": "Leia Dragões Sequestrados, um manhwa em português.",
-    "chaptersCount": 56,
+    "chaptersCount": 57,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207651,7 +207651,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Nano Máquina, um manhwa em português.",
     "descriptionPt": "Leia Nano Máquina, um manhwa em português.",
-    "chaptersCount": 326,
+    "chaptersCount": 327,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207859,7 +207859,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Me Escolhe!, um manhwa em português.",
     "descriptionPt": "Leia Me Escolhe!, um manhwa em português.",
-    "chaptersCount": 215,
+    "chaptersCount": 216,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230083,7 +230083,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Bebi a Poção do Amor Destinada ao Meu Marido, um manhwa em português.",
     "descriptionPt": "Leia Bebi a Poção do Amor Destinada ao Meu Marido, um manhwa em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230135,7 +230135,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O restaurante do arquimago, um manhwa em português.",
     "descriptionPt": "Leia O restaurante do arquimago, um manhwa em português.",
-    "chaptersCount": 147,
+    "chaptersCount": 148,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231536,7 +231536,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Mago Negro Retorna Após 66666 Anos, um manhwa em português.",
     "descriptionPt": "Leia O Mago Negro Retorna Após 66666 Anos, um manhwa em português.",
-    "chaptersCount": 195,
+    "chaptersCount": 196,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252627,7 +252627,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia William e o Guarda-Roupa, um manhwa em português.",
     "descriptionPt": "Leia William e o Guarda-Roupa, um manhwa em português.",
-    "chaptersCount": 37,
+    "chaptersCount": 38,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252655,7 +252655,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Only Hope, um manhwa em português.",
     "descriptionPt": "Leia Only Hope, um manhwa em português.",
-    "chaptersCount": 84,
+    "chaptersCount": 85,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253680,7 +253680,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Conforme o seu coração guiar, um manhwa em português.",
     "descriptionPt": "Leia Conforme o seu coração guiar, um manhwa em português.",
-    "chaptersCount": 62,
+    "chaptersCount": 63,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253783,7 +253783,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Casamento por Conveniência 2: A Canção Inesquecível, um manhwa em português.",
     "descriptionPt": "Leia Casamento por Conveniência 2: A Canção Inesquecível, um manhwa em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254077,7 +254077,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Imperatriz Se Casou Novamente, um manhwa em português.",
     "descriptionPt": "Leia A Imperatriz Se Casou Novamente, um manhwa em português.",
-    "chaptersCount": 227,
+    "chaptersCount": 228,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254346,7 +254346,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Demônio Supremo do Veneno, um manhwa em português.",
     "descriptionPt": "Leia O Demônio Supremo do Veneno, um manhwa em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254576,7 +254576,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-tornei-um-mago-de-fantasia-medieval online em português.",
     "descriptionPt": "Leia me-tornei-um-mago-de-fantasia-medieval online em português.",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254598,7 +254598,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-reencarnacao-do-rei-dos-punhos-reencarnacao-do-deus-dos-punhos online em português.",
     "descriptionPt": "Leia a-reencarnacao-do-rei-dos-punhos-reencarnacao-do-deus-dos-punhos online em português.",
-    "chaptersCount": 65,
+    "chaptersCount": 66,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255656,7 +255656,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Escândalo da Princesa Herdeira, um manhwa em português.",
     "descriptionPt": "Leia O Escândalo da Princesa Herdeira, um manhwa em português.",
-    "chaptersCount": 11,
+    "chaptersCount": 12,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256410,7 +256410,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
     "descriptionPt": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
-    "chaptersCount": 58,
+    "chaptersCount": 59,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257291,7 +257291,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dépaysement, um manhwa em português.",
     "descriptionPt": "Leia Dépaysement, um manhwa em português.",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258122,7 +258122,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Shi Zun: Zhege Chong Shi Nitu Cai Bushi Sheng Zi – Master: This Villainous Disciple Is Not The Holy Child Offending My Master, um manhua em português.",
     "descriptionPt": "Leia Shi Zun: Zhege Chong Shi Nitu Cai Bushi Sheng Zi – Master: This Villainous Disciple Is Not The Holy Child Offending My Master, um manhua em português.",
-    "chaptersCount": 198,
+    "chaptersCount": 199,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258290,7 +258290,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Querido, Por Que Não Nos Divorciamos?, um manhwa em português.",
     "descriptionPt": "Leia Querido, Por Que Não Nos Divorciamos?, um manhwa em português.",
-    "chaptersCount": 74,
+    "chaptersCount": 77,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258485,7 +258485,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Como Curar o Frágil Amigo de Infância, um manhwa em português.",
     "descriptionPt": "Leia Como Curar o Frágil Amigo de Infância, um manhwa em português.",
-    "chaptersCount": 12,
+    "chaptersCount": 13,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259394,7 +259394,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia tropa-de-elite-fantastica online em português.",
     "descriptionPt": "Leia tropa-de-elite-fantastica online em português.",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260516,7 +260516,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia It Looks Like I’ve Fallen into the World of a Reverse Harem Game, um manhwa em português.",
     "descriptionPt": "Leia It Looks Like I’ve Fallen into the World of a Reverse Harem Game, um manhwa em português.",
-    "chaptersCount": 166,
+    "chaptersCount": 168,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260604,7 +260604,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia minha-vida-de-chaebol-foi-roubada-mas-eu-voltei online em português.",
     "descriptionPt": "Leia minha-vida-de-chaebol-foi-roubada-mas-eu-voltei online em português.",
-    "chaptersCount": 14,
+    "chaptersCount": 15,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260653,7 +260653,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Depois que me tornei a princesa favorita mais jovem, todos ficaram obcecados por mim, um manhwa em português.",
     "descriptionPt": "Leia Depois que me tornei a princesa favorita mais jovem, todos ficaram obcecados por mim, um manhwa em português.",
-    "chaptersCount": 44,
+    "chaptersCount": 46,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262842,7 +262842,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Todos os Meus Avatares são Magnatas, um manhwa em português.",
     "descriptionPt": "Leia Todos os Meus Avatares são Magnatas, um manhwa em português.",
-    "chaptersCount": 93,
+    "chaptersCount": 94,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263961,7 +263961,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Santo da Espada Reencarnou em uma Família Nobre de Magos, um mangá em português.",
     "descriptionPt": "Leia O Santo da Espada Reencarnou em uma Família Nobre de Magos, um mangá em português.",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265030,7 +265030,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Intruso Carinhoso, um manhwa em português.",
     "descriptionPt": "Leia O Intruso Carinhoso, um manhwa em português.",
-    "chaptersCount": 15,
+    "chaptersCount": 16,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266628,6 +266628,58 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "sobrevivendo-no-jogo-como-um-barbaro",
+    "slug": "sobrevivendo-no-jogo-como-um-barbaro",
+    "title": "Sobrevivendo no Jogo Como um Bárbaro",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/sobrevivendo-no-jogo-como-um-barbaro/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/sobrevivendo-no-jogo-como-um-barbaro/cover-md.webp",
+    "author": "Jung Yun-kang (정윤강)",
+    "artist": "Jung Yun-kang (정윤강)",
+    "status": "ongoing",
+    "year": 2023,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Ação",
+      "Fantasia",
+      "Sobrenatural",
+      "Seinen",
+      "Aventura"
+    ],
+    "description": "Leia Sobrevivendo no Jogo Como um Bárbaro, um manhwa em português.",
+    "descriptionPt": "Leia Sobrevivendo no Jogo Como um Bárbaro, um manhwa em português.",
+    "chaptersCount": 155,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "close-family-uncensored",
+    "slug": "close-family-uncensored",
+    "title": "Close Family (Uncensored)",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2026/08/close-family-uncensored.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2026/08/close-family-uncensored.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Uncensored",
+      "Adult"
+    ],
+    "description": "Jung Daeman lives a double life: publicly, the adopted son of a wealthy family; privately, treated like a servant. Only one sister shows him kindness – until",
+    "descriptionEn": "Jung Daeman lives a double life: publicly, the adopted son of a wealthy family; privately, treated like a servant. Only one sister shows him kindness – until",
+    "chaptersCount": 69,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

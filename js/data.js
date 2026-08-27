@@ -3113,7 +3113,7 @@ let MANGA_DATA = [
       "Sports"
     ],
     "description": "The story starts with Japan's end from the 2018 FIFA World Cup, which prompts the Japanese Football Union to begin a program exploring secondary school players who will start preparing in anticipation of the 2022 Cup. Isagi Youichi, a forward, gets a solicitation to this program not long after his group loses the opportunity to go to Nationals since he went to his less-talented partner - who missed - without attempting to make the game-changing objective without anyone else. \r\n\r\nTheir mentor will be Ego Jinpachi, who plans to \"obliterate Japanese failure football\" by presenting a radical new preparing routine: confine 300 youthful advances in a jail like organization called \"Blue Lock\" and put them through thorough preparing planned for making \"the world's most noteworthy narcissist striker.\"",
-    "chaptersCount": 365,
+    "chaptersCount": 366,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -60312,7 +60312,7 @@ let MANGA_DATA = [
     ],
     "description": "“If you my take my wife’s clothes off, you’ll fuck her…” The naked body of the woman next door was seen on CCTV by chance… Sooheon felt a sense of guilt till",
     "descriptionEn": "“If you my take my wife’s clothes off, you’ll fuck her…” The naked body of the woman next door was seen on CCTV by chance… Sooheon felt a sense of guilt till",
-    "chaptersCount": 58,
+    "chaptersCount": 59,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -60460,7 +60460,7 @@ let MANGA_DATA = [
     ],
     "description": "After being caught while having an intimate encounter with other MILFS, Taeyang escaped to another world. Sharing a bed with a top-class MILF with an amazing",
     "descriptionEn": "After being caught while having an intimate encounter with other MILFS, Taeyang escaped to another world. Sharing a bed with a top-class MILF with an amazing",
-    "chaptersCount": 131,
+    "chaptersCount": 132,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -60628,7 +60628,7 @@ let MANGA_DATA = [
     ],
     "description": "“Were you always this lewd?”",
     "descriptionEn": "“Were you always this lewd?”",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207679,7 +207679,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Logando 10.000 Anos No Futuro, um manhua em português.",
     "descriptionPt": "Leia Logando 10.000 Anos No Futuro, um manhua em português.",
-    "chaptersCount": 336,
+    "chaptersCount": 337,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231485,7 +231485,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Obtive um Item Mítico, um manhwa em português.",
     "descriptionPt": "Leia Eu Obtive um Item Mítico, um manhwa em português.",
-    "chaptersCount": 195,
+    "chaptersCount": 196,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -233420,7 +233420,7 @@ let MANGA_DATA = [
     ],
     "description": "CCTV (Official) Spencer, who hates being bored, got a job in the security department of a college and started peeping girls through CCTV. One day, he sees a cowardly girl getting naked in public.",
     "descriptionPt": "",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -249474,7 +249474,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Quatro Opções, um manhwa em português.",
     "descriptionPt": "Leia Quatro Opções, um manhwa em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252940,7 +252940,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Por Seu Assassinato, um manhwa em português.",
     "descriptionPt": "Leia Por Seu Assassinato, um manhwa em português.",
-    "chaptersCount": 62,
+    "chaptersCount": 63,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254271,7 +254271,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Cão Raivoso da Mansão do Duque, um manhwa em português.",
     "descriptionPt": "Leia O Cão Raivoso da Mansão do Duque, um manhwa em português.",
-    "chaptersCount": 70,
+    "chaptersCount": 72,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255243,7 +255243,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Estou Apenas Aproveitando meu Tempo Limite, um manhwa em português.",
     "descriptionPt": "Leia Estou Apenas Aproveitando meu Tempo Limite, um manhwa em português.",
-    "chaptersCount": 57,
+    "chaptersCount": 58,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259044,30 +259044,6 @@ let MANGA_DATA = [
     "hasEn": false
   },
   {
-    "id": "a-pervert-s-daily-life",
-    "slug": "a-pervert-s-daily-life",
-    "title": "A Pervert’s Daily Life",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/a-perverts-daily-life-01-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/a-perverts-daily-life-01-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adult"
-    ],
-    "description": "Let’s just say Jinwoo and Seyoung got off to a rocky start. Not knowing Seyoung would be living in a company dorm with a male employee, her direct superior at",
-    "descriptionEn": "Let’s just say Jinwoo and Seyoung got off to a rocky start. Not knowing Seyoung would be living in a company dorm with a male employee, her direct superior at",
-    "chaptersCount": 144,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "que-tipo-de-bolinho-de-arroz-e-esse",
     "slug": "que-tipo-de-bolinho-de-arroz-e-esse",
     "title": "Que tipo de Bolinho de Arroz é esse?",
@@ -259845,7 +259821,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-rei-agiota-do-murim online em português.",
     "descriptionPt": "Leia o-rei-agiota-do-murim online em português.",
-    "chaptersCount": 15,
+    "chaptersCount": 16,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261434,7 +261410,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-segredo-do-senior-perfeito online em português.",
     "descriptionPt": "Leia o-segredo-do-senior-perfeito online em português.",
-    "chaptersCount": 11,
+    "chaptersCount": 12,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264371,7 +264347,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Reset Temporal, um manhwa em português.",
     "descriptionPt": "Leia Reset Temporal, um manhwa em português.",
-    "chaptersCount": 57,
+    "chaptersCount": 58,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266209,7 +266185,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Quarto secreto, um manhwa em português.",
     "descriptionPt": "Leia Quarto secreto, um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 3,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

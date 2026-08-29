@@ -232330,7 +232330,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Superação do Nobre Vagabundo, um manhwa em português.",
     "descriptionPt": "Leia A Superação do Nobre Vagabundo, um manhwa em português.",
-    "chaptersCount": 156,
+    "chaptersCount": 157,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251130,7 +251130,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vida de uma Artista de Webtoon, um manhwa em português.",
     "descriptionPt": "Leia A Vida de uma Artista de Webtoon, um manhwa em português.",
-    "chaptersCount": 51,
+    "chaptersCount": 52,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253314,7 +253314,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Carrier Falcon Princess, um manhwa em português.",
     "descriptionPt": "Leia Carrier Falcon Princess, um manhwa em português.",
-    "chaptersCount": 124,
+    "chaptersCount": 125,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256600,7 +256600,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Vá Embora, Romeo!, um webtoon em português.",
     "descriptionPt": "Leia Vá Embora, Romeo!, um webtoon em português.",
-    "chaptersCount": 82,
+    "chaptersCount": 83,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258881,7 +258881,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Doppio Senso, um manhwa em português.",
     "descriptionPt": "Leia Doppio Senso, um manhwa em português.",
-    "chaptersCount": 71,
+    "chaptersCount": 72,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260433,7 +260433,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Pai, Eu nunca… te perdoarei!, um manhwa em português.",
     "descriptionPt": "Leia Pai, Eu nunca… te perdoarei!, um manhwa em português.",
-    "chaptersCount": 48,
+    "chaptersCount": 49,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260461,7 +260461,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia As Noites da Imperatriz, um manhwa em português.",
     "descriptionPt": "Leia As Noites da Imperatriz, um manhwa em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264864,7 +264864,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Presepe Fora da Gaiola, um manhwa em português.",
     "descriptionPt": "Leia Presepe Fora da Gaiola, um manhwa em português.",
-    "chaptersCount": 63,
+    "chaptersCount": 64,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265583,7 +265583,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Serena, um manhwa em português.",
     "descriptionPt": "Leia Serena, um manhwa em português.",
-    "chaptersCount": 130,
+    "chaptersCount": 131,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266974,6 +266974,33 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "entre-paredes",
+    "slug": "entre-paredes",
+    "title": "Entre Paredes",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/entre-paredes/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/entre-paredes/cover-md.webp",
+    "author": "Seyoon",
+    "artist": "Seyoon",
+    "status": "completed",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Comedia",
+      "Romance",
+      "Adulto",
+      "Manhwa",
+      "Moderno",
+      "Conto"
+    ],
+    "description": "Leia Entre Paredes, um manhwa em português.",
+    "descriptionPt": "Leia Entre Paredes, um manhwa em português.",
+    "chaptersCount": 4,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

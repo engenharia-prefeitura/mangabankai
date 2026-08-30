@@ -91341,7 +91341,7 @@ let MANGA_DATA = [
     ],
     "description": "The Annoying Older Girl Next Door (Official) Back when I was sick and my friends didn’t want to play with me, EUN-SEOL was the kind older girl who always took care of me and kept me company. The problem is, even now that I’m an adult, she still clings to me and treats me like a little kid. Because of her, even in college, I ended up with the nickname “Baby” and became a complete loner. Now, I have to make her see me as a man if I ever want to stop being treated like a child.",
     "descriptionPt": "",
-    "chaptersCount": 45,
+    "chaptersCount": 49,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -94121,7 +94121,7 @@ let MANGA_DATA = [
     ],
     "description": "Play Nice (Uncensored) Locked in a pristine white room with your hyperdominant alpha childhood friend is one thing. Being forced by an anonymous captor to perform explicit, depraved acts with him just to survive is another. When Ju Dohyeon and Woo Taeyun are abruptly abducted, they initially suspect a high-stakes ransom plot or a crazed stalker. But the truth is far more wicked. A single phone in the center of the room lights up with a series of perverse missions, forcing them to cross every boundary they have spent a lifetime establishing. Now, Dohyeon and Taeyun must choose between their lif",
     "descriptionPt": "",
-    "chaptersCount": 15,
+    "chaptersCount": 17,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -101105,7 +101105,7 @@ let MANGA_DATA = [
     ],
     "description": "Big Hole Protocol (Uncensored) In Big Hole Protocol, a lazy gamer named Josh is forced into a police academy by his strict father, the boss of the school. His life becomes a nightmare because of his stepsister Kendra, the best student there. She wants to push him until he breaks. Josh has to survive the crazy training, figure out how to talk to girls, and deal with the pain after every workout. Can he change everything and launch his own Big Hole Protocol on everyone who messed with him?",
     "descriptionPt": "",
-    "chaptersCount": 13,
+    "chaptersCount": 14,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -233823,7 +233823,7 @@ let MANGA_DATA = [
     ],
     "description": "Road Moves With Stepsister (Uncensored) Hot seats is a tense tale of two step-siblings who’ve hated each other since childhood. Fate forces them to sit side by side on a long, cramped bus ride. Teasing, tension, and forbidden desire ignite between the seats. What was supposed to be a simple trip to grandma’s birthday becomes a blazing test of restraint and temptation, where the line between hate and lust is only one touch away.",
     "descriptionPt": "",
-    "chaptersCount": 32,
+    "chaptersCount": 31,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -252627,7 +252627,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia William e o Guarda-Roupa, um manhwa em português.",
     "descriptionPt": "Leia William e o Guarda-Roupa, um manhwa em português.",
-    "chaptersCount": 38,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253285,7 +253285,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Príncipe Problemático, um manhwa em português.",
     "descriptionPt": "Leia O Príncipe Problemático, um manhwa em português.",
-    "chaptersCount": 125,
+    "chaptersCount": 126,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261336,7 +261336,7 @@ let MANGA_DATA = [
     ],
     "description": "Straight A Seduction After failing his college entrance exam, Yujin is sent to an isolated study camp with three brilliant tutors determined to whip him into shape. But between intense lessons and tempting “rewards,” studying may be the hardest part.",
     "descriptionPt": "",
-    "chaptersCount": 8,
+    "chaptersCount": 9,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -267052,6 +267052,30 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "tankouhentai-darashinai-gal-ni-okane-o-kashite-yarasete-morau-seikatsu",
+    "slug": "darashinai-gal-ni-okane-o-kashite-yarasete-morau-seikatsu",
+    "title": "Darashinai Gal ni Okane o Kashite Yarasete morau Seikatsu",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/08/Darashinai-Gal-ni-Okane-o-Kashite-Yarasete-morau-Seikatsu-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/08/Darashinai-Gal-ni-Okane-o-Kashite-Yarasete-morau-Seikatsu-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Amagasa Ikuta",
+    "status": "completed",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Vanilla",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 2,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

@@ -96173,7 +96173,7 @@ let MANGA_DATA = [
     ],
     "description": "Heavenly Demon Cultivation Simulation A scout in the infamous Demon Cult, Seolhwi is on a routine patrol when his squad unexpectedly encounters a fearsome master of the Mount Hua Sect, the sworn enemies of the Demon Cult. Without warning, the Mount Hua Cult master slaughters the entire squad. As Seolhwi lies dying, lamenting years of service to the cult with nothing to show for it, he is suddenly faced with a video game prompt, asking if he would like to start again. Given the opportunity to start over and make different choices, Seolhwi vows to survive and become stronger so he can rise to th",
     "descriptionPt": "",
-    "chaptersCount": 188,
+    "chaptersCount": 190,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97186,7 +97186,7 @@ let MANGA_DATA = [
     ],
     "description": "Once Upon a Deal (Uncensored) Ju Yunseong thought getting a job at JH Soft was the start of a normal office life—until he noticed his cold, intimidating CEO, Baek Hajin, glaring at him every time they crossed paths. “Why is the boss always staring at me? Did I do something wrong on my first day?” Determined to avoid him at all costs, Yunseong keeps his head down… until he stumbles upon a mysterious employee ID and uncovers a secret: his boss isn’t just intense—he’s a nine-tailed fox. And to make things worse? Hajin’s fox bead ends up lodged inside Yunseong’s body. Now the CEO won’t leave his s",
     "descriptionPt": "",
-    "chaptersCount": 44,
+    "chaptersCount": 45,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -113859,7 +113859,7 @@ let MANGA_DATA = [
     ],
     "description": "Hold Over You (Uncensored) Choi Kwon is haunted by nightmares and cursed to watch those he cares about face tragic fates. Wracked with guilt, he isolates himself, until one day he decides to take a chance – only to see his classmate get hit by a car right in front of him. Though Shin Yooyoung survives, he now claims they were married in a past life—and that breaking this curse is within Kwon’s reach. Faced with a strange new reality, Kwon must decide what to believe and just how far he’ll go to end his torment.",
     "descriptionPt": "",
-    "chaptersCount": 55,
+    "chaptersCount": 56,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207230,7 +207230,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno da Seita Monte Hua, um manhwa em português.",
     "descriptionPt": "Leia O Retorno da Seita Monte Hua, um manhwa em português.",
-    "chaptersCount": 177,
+    "chaptersCount": 178,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230056,7 +230056,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia F My Ex, um manhwa em português.",
     "descriptionPt": "Leia F My Ex, um manhwa em português.",
-    "chaptersCount": 55,
+    "chaptersCount": 56,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231908,7 +231908,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Attic Princess, um manhwa em português.",
     "descriptionPt": "Leia Attic Princess, um manhwa em português.",
-    "chaptersCount": 80,
+    "chaptersCount": 81,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251104,7 +251104,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Fada Aprisionada, um webtoon em português.",
     "descriptionPt": "Leia A Fada Aprisionada, um webtoon em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253235,7 +253235,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Primeiro Amor de um Delinquente, um manhwa em português.",
     "descriptionPt": "Leia O Primeiro Amor de um Delinquente, um manhwa em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253654,7 +253654,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Longe de estar Sóbrio, um manhwa em português.",
     "descriptionPt": "Leia Longe de estar Sóbrio, um manhwa em português.",
-    "chaptersCount": 14,
+    "chaptersCount": 16,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255269,7 +255269,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Operação amor verdadeiro, um manhwa em português.",
     "descriptionPt": "Leia Operação amor verdadeiro, um manhwa em português.",
-    "chaptersCount": 136,
+    "chaptersCount": 137,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255296,7 +255296,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Forget About My Husband, I’d Rather Go Make Money, um manhwa em português.",
     "descriptionPt": "Leia Forget About My Husband, I’d Rather Go Make Money, um manhwa em português.",
-    "chaptersCount": 115,
+    "chaptersCount": 116,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257995,7 +257995,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Swordmaster’s Youngest Son, um manhwa em português.",
     "descriptionPt": "Leia Swordmaster’s Youngest Son, um manhwa em português.",
-    "chaptersCount": 208,
+    "chaptersCount": 209,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258228,7 +258228,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Who Made Me a Princess, um manhwa em português.",
     "descriptionPt": "Leia Who Made Me a Princess, um manhwa em português.",
-    "chaptersCount": 134,
+    "chaptersCount": 135,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261583,7 +261583,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Fui escolhida para ser a nora do tirano, um manhwa em português.",
     "descriptionPt": "Leia Fui escolhida para ser a nora do tirano, um manhwa em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

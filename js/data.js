@@ -96423,7 +96423,7 @@ let MANGA_DATA = [
     ],
     "description": "Recoil (Uncensored) How far down do you have to fall before there’s no coming back? For Seongcheol, rock bottom is a cramped apartment shared with Minho, a man whose “love” is expressed through bruises and cruel control. Just as Seongcheol surrenders to his grim fate, his past walks through the door in the form of Junseo, a former classmate turned detective. Junseo becomes obsessed with rescuing Seongcheol from his living hell, but breaking a toxic bond is never easy. As Minho senses his prize slipping away, his possessive rage triggers a dangerous, high-stakes confrontation. Can Junseo’s fier",
     "descriptionPt": "",
-    "chaptersCount": 9,
+    "chaptersCount": 11,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207780,7 +207780,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Morando com o Romeo, um manhwa em português.",
     "descriptionPt": "Leia Morando com o Romeo, um manhwa em português.",
-    "chaptersCount": 34,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230269,7 +230269,7 @@ let MANGA_DATA = [
     ],
     "description": "The Only Masseur (Official) “You touching me made me so horny.” David is a talented massage therapist with skilled hands who just fell to rock bottom in an instant. One day, Madam Park from “Female-only massage parlor” offered him a position in her parlor. That’s when his life started changing dramatically.",
     "descriptionPt": "",
-    "chaptersCount": 11,
+    "chaptersCount": 13,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -232546,7 +232546,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Providência de Alto Nível, um manhua em português.",
     "descriptionPt": "Leia Providência de Alto Nível, um manhua em português.",
-    "chaptersCount": 282,
+    "chaptersCount": 283,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -233296,7 +233296,7 @@ let MANGA_DATA = [
     ],
     "description": "The Mother, Not the Daughter (Official) After discovering that his wife was cheating on him, Jason finds himself sent back to the time before their marriage. Determined to get revenge, he decides to use the secret of his mother-in-law, who once cherished him like her own son, to make his unfaithful wife pay. “Jason, you can’t do this…",
     "descriptionPt": "",
-    "chaptersCount": 43,
+    "chaptersCount": 44,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -250622,7 +250622,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Regressor Faz Tudo, um manhwa em português.",
     "descriptionPt": "Leia O Regressor Faz Tudo, um manhwa em português.",
-    "chaptersCount": 36,
+    "chaptersCount": 37,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250650,7 +250650,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Segundo Eunuco Recupera Sua Masculinidade, um manhwa em português.",
     "descriptionPt": "Leia O Segundo Eunuco Recupera Sua Masculinidade, um manhwa em português.",
-    "chaptersCount": 103,
+    "chaptersCount": 104,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251159,7 +251159,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sou a Madrasta, Mas Minha Filha é Muito Fofa, um manhwa em português.",
     "descriptionPt": "Leia Sou a Madrasta, Mas Minha Filha é Muito Fofa, um manhwa em português.",
-    "chaptersCount": 170,
+    "chaptersCount": 171,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251266,7 +251266,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vingança do Cão de Caça dos Baskerville, um manhwa em português.",
     "descriptionPt": "Leia A Vingança do Cão de Caça dos Baskerville, um manhwa em português.",
-    "chaptersCount": 177,
+    "chaptersCount": 178,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251292,7 +251292,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Filho Caçula do Conde é um Jogador, um manhwa em português.",
     "descriptionPt": "Leia O Filho Caçula do Conde é um Jogador, um manhwa em português.",
-    "chaptersCount": 167,
+    "chaptersCount": 168,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254320,7 +254320,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Filho Adotivo em um Mundo de Supremacia de Linhagem, um mangá em português.",
     "descriptionPt": "Leia O Retorno do Filho Adotivo em um Mundo de Supremacia de Linhagem, um mangá em português.",
-    "chaptersCount": 49,
+    "chaptersCount": 50,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254686,7 +254686,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia retorno-de-10000-vezes-irma-senior-por-favor-comporte-se online em português.",
     "descriptionPt": "Leia retorno-de-10000-vezes-irma-senior-por-favor-comporte-se online em português.",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258050,7 +258050,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Ascensão da Cobra Imortal, um manhua em português.",
     "descriptionPt": "Leia A Ascensão da Cobra Imortal, um manhua em português.",
-    "chaptersCount": 100,
+    "chaptersCount": 101,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258734,7 +258734,7 @@ let MANGA_DATA = [
     ],
     "description": "Guiding Hazard Lee Taegun is the nation’s top esper, unmatched and untouchable with how powerful he is. A veritable immovable object. But the truth is, he’s not as untouchable as he seems. Like every esper out there, he experiences negative side effects of using his powers. However, unlike every esper out there, he’s dead set against partnering with a guide who could help him recover. Now here comes Seo Eunsung, one of the greatest guides alive, and he’s determined to guide Taegun whether he likes it or not. So: irresistible force meets immovable object. Who will fall first in this battle? Or ",
     "descriptionPt": "",
-    "chaptersCount": 82,
+    "chaptersCount": 83,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -260003,7 +260003,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-prodigio-lendario-do-ducado online em português.",
     "descriptionPt": "Leia o-prodigio-lendario-do-ducado online em português.",
-    "chaptersCount": 63,
+    "chaptersCount": 64,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260536,7 +260536,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-mestre-espadachim-devorador-de-espadas online em português.",
     "descriptionPt": "Leia o-mestre-espadachim-devorador-de-espadas online em português.",
-    "chaptersCount": 43,
+    "chaptersCount": 44,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262968,7 +262968,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia streamer-apos-a-reencarnacao online em português.",
     "descriptionPt": "Leia streamer-apos-a-reencarnacao online em português.",
-    "chaptersCount": 61,
+    "chaptersCount": 62,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263885,7 +263885,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Filho Imprestável do Marquês, um manhwa em português.",
     "descriptionPt": "Leia O Filho Imprestável do Marquês, um manhwa em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264691,7 +264691,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia escandalo-amoroso-da-imperatriz online em português.",
     "descriptionPt": "Leia escandalo-amoroso-da-imperatriz online em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 3,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264775,7 +264775,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Princesa Monstro, um manhwa em português.",
     "descriptionPt": "Leia A Princesa Monstro, um manhwa em português.",
-    "chaptersCount": 46,
+    "chaptersCount": 47,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

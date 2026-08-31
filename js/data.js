@@ -99700,7 +99700,7 @@ let MANGA_DATA = [
     ],
     "description": "What’s Wrong With This Family? (Uncensored) Chase feels uncomfortable at home because his foster family hates him, but not everything is what it seems.",
     "descriptionPt": "",
-    "chaptersCount": 63,
+    "chaptersCount": 65,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -232172,7 +232172,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Duquesa em Ruínas, um manhwa em português.",
     "descriptionPt": "Leia Duquesa em Ruínas, um manhwa em português.",
-    "chaptersCount": 61,
+    "chaptersCount": 62,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232674,7 +232674,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Privilégio de uma Transmigrante, um manhwa em português.",
     "descriptionPt": "Leia O Privilégio de uma Transmigrante, um manhwa em português.",
-    "chaptersCount": 144,
+    "chaptersCount": 145,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253680,7 +253680,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Conforme o seu coração guiar, um manhwa em português.",
     "descriptionPt": "Leia Conforme o seu coração guiar, um manhwa em português.",
-    "chaptersCount": 63,
+    "chaptersCount": 64,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253783,7 +253783,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Casamento por Conveniência 2: A Canção Inesquecível, um manhwa em português.",
     "descriptionPt": "Leia Casamento por Conveniência 2: A Canção Inesquecível, um manhwa em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 33,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254077,7 +254077,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Imperatriz Se Casou Novamente, um manhwa em português.",
     "descriptionPt": "Leia A Imperatriz Se Casou Novamente, um manhwa em português.",
-    "chaptersCount": 228,
+    "chaptersCount": 229,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255656,7 +255656,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Escândalo da Princesa Herdeira, um manhwa em português.",
     "descriptionPt": "Leia O Escândalo da Princesa Herdeira, um manhwa em português.",
-    "chaptersCount": 12,
+    "chaptersCount": 13,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256410,7 +256410,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
     "descriptionPt": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
-    "chaptersCount": 61,
+    "chaptersCount": 62,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257942,7 +257942,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vilã Maldita Retorna, um manhwa em português.",
     "descriptionPt": "Leia A Vilã Maldita Retorna, um manhwa em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260093,7 +260093,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vida de uma Empregada que Esconde seu Poder, um manhwa em português.",
     "descriptionPt": "Leia A Vida de uma Empregada que Esconde seu Poder, um manhwa em português.",
-    "chaptersCount": 37,
+    "chaptersCount": 38,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

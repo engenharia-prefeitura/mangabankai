@@ -92648,7 +92648,7 @@ let MANGA_DATA = [
     ],
     "description": "I want to work in peace Daniel Maeng, a local civil servant in a provincial new town, just wants to quietly serve out his full term without incident. But right after a near-fatal accident, he gets a hypnosis app—and suddenly, his dull little town starts turning into a playground!",
     "descriptionPt": "",
-    "chaptersCount": 16,
+    "chaptersCount": 20,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -92744,7 +92744,7 @@ let MANGA_DATA = [
     ],
     "description": "I’m a Vampire (Official) “It’s simple. Fuck them!” I became a vampire after a ridiculous accident. For better or worse, I didn’t need blood to survive. There’s only one way to survive. Become a predator and suck girls’ vital essence!",
     "descriptionPt": "",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -258122,7 +258122,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Shi Zun: Zhege Chong Shi Nitu Cai Bushi Sheng Zi – Master: This Villainous Disciple Is Not The Holy Child Offending My Master, um manhua em português.",
     "descriptionPt": "Leia Shi Zun: Zhege Chong Shi Nitu Cai Bushi Sheng Zi – Master: This Villainous Disciple Is Not The Holy Child Offending My Master, um manhua em português.",
-    "chaptersCount": 199,
+    "chaptersCount": 201,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259981,7 +259981,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Doentia Devoção, um manhwa em português.",
     "descriptionPt": "Leia Doentia Devoção, um manhwa em português.",
-    "chaptersCount": 58,
+    "chaptersCount": 60,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260629,7 +260629,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Depois que me tornei a princesa favorita mais jovem, todos ficaram obcecados por mim, um manhwa em português.",
     "descriptionPt": "Leia Depois que me tornei a princesa favorita mais jovem, todos ficaram obcecados por mim, um manhwa em português.",
-    "chaptersCount": 50,
+    "chaptersCount": 54,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265981,7 +265981,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Como Você Desejar, um manhwa em português.",
     "descriptionPt": "Leia Como Você Desejar, um manhwa em português.",
-    "chaptersCount": 7,
+    "chaptersCount": 8,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -267126,7 +267126,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Romance Desenhado, um manhwa em português.",
     "descriptionPt": "Leia Romance Desenhado, um manhwa em português.",
-    "chaptersCount": 172,
+    "chaptersCount": 224,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

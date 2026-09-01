@@ -92263,7 +92263,7 @@ let MANGA_DATA = [
     ],
     "description": "Muscle Girls Colosseum (Official) A mixed martial arts contest where the winner’s wish is granted: Muscle Girls Colosseum! The battle between muscle-bound girls begins now!",
     "descriptionPt": "",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -96992,7 +96992,7 @@ let MANGA_DATA = [
     ],
     "description": "R2R : Run to Red (Uncensored) Living in the slums of District Zero, Ban runs a small errand service, taking on jobs others would rather avoid. One day, he accepts a request from Shinwi, the boss of a rising criminal organization, and stumbles upon the existence of the mysterious “Project W.” While investigating the substance, Ban hopes to help Ray, the police officer who once took him in and whom he has secretly loved for years. But the deeper Ban digs, the more he uncovers a hidden truth Ray has long been keeping hidden. As secrets surface, Ban finds himself caught between loyalty, love, and ",
     "descriptionPt": "",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -103027,7 +103027,7 @@ let MANGA_DATA = [
     ],
     "description": "Perfect Half Once a world ruled by men, women stand up and fight to become men’s equal. Now, in a land that is equally divided up between man and woman, the battle of the sexes is on! Who’s going to win? But more importantly…what’s the name of the game?",
     "descriptionPt": "",
-    "chaptersCount": 212,
+    "chaptersCount": 213,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207203,7 +207203,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Dama Bebê Controla O Mundo Com Dinheiro, um manhwa em português.",
     "descriptionPt": "Leia A Dama Bebê Controla O Mundo Com Dinheiro, um manhwa em português.",
-    "chaptersCount": 129,
+    "chaptersCount": 130,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232851,7 +232851,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A vontade de sobrevivência do vilão, um manhwa em português.",
     "descriptionPt": "Leia A vontade de sobrevivência do vilão, um manhwa em português.",
-    "chaptersCount": 64,
+    "chaptersCount": 65,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254868,7 +254868,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Confissão do Rei Demônio, um manhwa em português.",
     "descriptionPt": "Leia A Confissão do Rei Demônio, um manhwa em português.",
-    "chaptersCount": 40,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259441,7 +259441,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia um-dia-o-protagonista-masculino-caiu-na-minha-casa online em português.",
     "descriptionPt": "Leia um-dia-o-protagonista-masculino-caiu-na-minha-casa online em português.",
-    "chaptersCount": 11,
+    "chaptersCount": 12,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259552,7 +259552,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
     "descriptionPt": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259680,7 +259680,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia uma-crianca-que-se-parece-comigo online em português.",
     "descriptionPt": "Leia uma-crianca-que-se-parece-comigo online em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264084,30 +264084,6 @@ let MANGA_DATA = [
     "hasEn": false
   },
   {
-    "id": "amu",
-    "slug": "amu",
-    "title": "AMU",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/amu-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/amu-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adult"
-    ],
-    "description": "Welcome to Cafe Dilemma, the solution to all your troubles. “We will make your destiny.”",
-    "descriptionEn": "Welcome to Cafe Dilemma, the solution to all your troubles. “We will make your destiny.”",
-    "chaptersCount": 31,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "cere-curandeira-do-tempo",
     "slug": "cere-curandeira-do-tempo",
     "title": "Cere, curandeira do tempo",
@@ -264691,7 +264667,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia escandalo-amoroso-da-imperatriz online em português.",
     "descriptionPt": "Leia escandalo-amoroso-da-imperatriz online em português.",
-    "chaptersCount": 3,
+    "chaptersCount": 4,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265006,7 +264982,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Intruso Carinhoso, um manhwa em português.",
     "descriptionPt": "Leia O Intruso Carinhoso, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266972,7 +266948,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Maldição Perfeita, um manhwa em português.",
     "descriptionPt": "Leia A Maldição Perfeita, um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 3,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -267125,6 +267101,33 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "camadas-da-noite",
+    "slug": "camadas-da-noite",
+    "title": "Camadas da Noite",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/camadas-da-noite/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/camadas-da-noite/cover-md.webp",
+    "author": "Saenan",
+    "artist": "Saenan",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Josei",
+      "Adulto",
+      "Smut",
+      "Manhwa"
+    ],
+    "description": "Leia Camadas da Noite, um manhwa em português.",
+    "descriptionPt": "Leia Camadas da Noite, um manhwa em português.",
+    "chaptersCount": 6,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

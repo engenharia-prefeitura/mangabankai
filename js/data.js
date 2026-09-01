@@ -4600,7 +4600,7 @@ let MANGA_DATA = [
       "Slice Of Life"
     ],
     "description": "The ace government operative codenamed  has gone through his days on covert missions, just for the fantasy of a superior world. Yet, at some point, he gets an especially troublesome new request from direction. For his strategic, must frame a transitory family and start another life?! A Spy/Action/Comedy around a unique family!",
-    "chaptersCount": 178,
+    "chaptersCount": 179,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -6098,7 +6098,7 @@ let MANGA_DATA = [
       "Super Power"
     ],
     "description": "Hunters are a special breed, dedicated to tracking down treasures, magical beasts, and even other men. But such pursuits require a license, and less than one in a hundred thousand can pass the grueling qualification exam. Those who do pass gain access to restricted areas, amazing stores of information, and the right to call themselves Hunters.",
-    "chaptersCount": 422,
+    "chaptersCount": 423,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -55296,7 +55296,7 @@ let MANGA_DATA = [
       "Manga"
     ],
     "description": "Leia Sakamoto Days online no MangaSurge.",
-    "chaptersCount": 273,
+    "chaptersCount": 274,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -231433,7 +231433,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O sétimo príncipe quer escapar, um manhwa em português.",
     "descriptionPt": "Leia O sétimo príncipe quer escapar, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249447,7 +249447,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromante: Rei dos Mortos, um manhua em português.",
     "descriptionPt": "Leia Necromante: Rei dos Mortos, um manhua em português.",
-    "chaptersCount": 300,
+    "chaptersCount": 302,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250676,7 +250676,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Crônicas do Soberano Preguiçoso, um manhwa em português.",
     "descriptionPt": "Leia Crônicas do Soberano Preguiçoso, um manhwa em português.",
-    "chaptersCount": 61,
+    "chaptersCount": 62,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250704,7 +250704,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Lendário Cavaleiro da Lança, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Lendário Cavaleiro da Lança, um manhwa em português.",
-    "chaptersCount": 212,
+    "chaptersCount": 213,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251212,7 +251212,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Regressor da Família Caída, um manhwa em português.",
     "descriptionPt": "Leia O Regressor da Família Caída, um manhwa em português.",
-    "chaptersCount": 148,
+    "chaptersCount": 149,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251318,7 +251318,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Neste Mundo Não Existem Guerreiros Maus, um manhwa em português.",
     "descriptionPt": "Leia Neste Mundo Não Existem Guerreiros Maus, um manhwa em português.",
-    "chaptersCount": 83,
+    "chaptersCount": 85,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251373,7 +251373,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Imperador Solo, um manhwa em português.",
     "descriptionPt": "Leia Imperador Solo, um manhwa em português.",
-    "chaptersCount": 81,
+    "chaptersCount": 82,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251483,7 +251483,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Sou o Vilão Predestinado, um manhua em português.",
     "descriptionPt": "Leia Eu Sou o Vilão Predestinado, um manhua em português.",
-    "chaptersCount": 353,
+    "chaptersCount": 354,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251699,7 +251699,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Evolução Infinita: Começando do Zero, um manhua em português.",
     "descriptionPt": "Leia Evolução Infinita: Começando do Zero, um manhua em português.",
-    "chaptersCount": 120,
+    "chaptersCount": 122,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251776,7 +251776,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei Um Homem Casado Em Outro Mundo, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei Um Homem Casado Em Outro Mundo, um manhwa em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251802,7 +251802,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Matei Um Jogador da Academia, um manhwa em português.",
     "descriptionPt": "Leia Eu Matei Um Jogador da Academia, um manhwa em português.",
-    "chaptersCount": 139,
+    "chaptersCount": 140,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253074,7 +253074,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Knight King Who Returned with a God, um manhwa em português.",
     "descriptionPt": "Leia The Knight King Who Returned with a God, um manhwa em português.",
-    "chaptersCount": 179,
+    "chaptersCount": 180,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254296,7 +254296,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Sistema da Seita Lendária, um manhwa em português.",
     "descriptionPt": "Leia O Sistema da Seita Lendária, um manhwa em português.",
-    "chaptersCount": 51,
+    "chaptersCount": 52,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254554,7 +254554,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia despertando-o-trovao-roxo-no-inicio online em português.",
     "descriptionPt": "Leia despertando-o-trovao-roxo-no-inicio online em português.",
-    "chaptersCount": 86,
+    "chaptersCount": 87,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254598,7 +254598,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-reencarnacao-do-rei-dos-punhos-reencarnacao-do-deus-dos-punhos online em português.",
     "descriptionPt": "Leia a-reencarnacao-do-rei-dos-punhos-reencarnacao-do-deus-dos-punhos online em português.",
-    "chaptersCount": 66,
+    "chaptersCount": 67,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254664,7 +254664,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia streaming-da-estrategia-oculta-do-retornado online em português.",
     "descriptionPt": "Leia streaming-da-estrategia-oculta-do-retornado online em português.",
-    "chaptersCount": 43,
+    "chaptersCount": 44,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254977,7 +254977,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mestre Do Treinamento Marcial, um manhwa em português.",
     "descriptionPt": "Leia Mestre Do Treinamento Marcial, um manhwa em português.",
-    "chaptersCount": 127,
+    "chaptersCount": 128,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255376,7 +255376,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Heavenly Path Is Not Stupid, um manhua em português.",
     "descriptionPt": "Leia The Heavenly Path Is Not Stupid, um manhua em português.",
-    "chaptersCount": 100,
+    "chaptersCount": 103,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257291,7 +257291,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dépaysement, um manhwa em português.",
     "descriptionPt": "Leia Dépaysement, um manhwa em português.",
-    "chaptersCount": 20,
+    "chaptersCount": 21,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258072,7 +258072,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia genio-regressado-criador-de-itens-mitico online em português.",
     "descriptionPt": "Leia genio-regressado-criador-de-itens-mitico online em português.",
-    "chaptersCount": 43,
+    "chaptersCount": 45,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260025,7 +260025,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-retorno-do-espadachim-negro online em português.",
     "descriptionPt": "Leia o-retorno-do-espadachim-negro online em português.",
-    "chaptersCount": 62,
+    "chaptersCount": 63,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260233,7 +260233,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Minha Caracol Sexy, um manhwa em português.",
     "descriptionPt": "Leia Minha Caracol Sexy, um manhwa em português.",
-    "chaptersCount": 15,
+    "chaptersCount": 16,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260602,7 +260602,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-casei-com-o-dragao-que-matei online em português.",
     "descriptionPt": "Leia me-casei-com-o-dragao-que-matei online em português.",
-    "chaptersCount": 12,
+    "chaptersCount": 13,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261146,7 +261146,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Retorno de Vidas Passadas, um manhwa em português.",
     "descriptionPt": "Leia Retorno de Vidas Passadas, um manhwa em português.",
-    "chaptersCount": 170,
+    "chaptersCount": 171,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263615,7 +263615,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Estratégia Para Fracos Dominar a Torre, um manhwa em português.",
     "descriptionPt": "Leia Estratégia Para Fracos Dominar a Torre, um manhwa em português.",
-    "chaptersCount": 43,
+    "chaptersCount": 44,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265583,7 +265583,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Princesa que Mantém seu Fã-clube em Segredo, um manhwa em português.",
     "descriptionPt": "Leia A Princesa que Mantém seu Fã-clube em Segredo, um manhwa em português.",
-    "chaptersCount": 106,
+    "chaptersCount": 107,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266164,31 +266164,6 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
-  },
-  {
-    "id": "a-tale-of-tails",
-    "slug": "a-tale-of-tails",
-    "title": "A Tale of Tails",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/a-tale-of-tails-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/a-tale-of-tails-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Supernatural",
-      "Adult"
-    ],
-    "description": "Tony’s grandfather gave him a word of advice, to be careful of one thing and one thing only. Can Tony realize what he meant?",
-    "descriptionEn": "Tony’s grandfather gave him a word of advice, to be careful of one thing and one thing only. Can Tony realize what he meant?",
-    "chaptersCount": 15,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
   },
   {
     "id": "a-princesa-marcou-o-traidor",
@@ -267125,6 +267100,110 @@ let MANGA_DATA = [
     "description": "Leia Camadas da Noite, um manhwa em português.",
     "descriptionPt": "Leia Camadas da Noite, um manhwa em português.",
     "chaptersCount": 6,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "romance-desenhado",
+    "slug": "romance-desenhado",
+    "title": "Romance Desenhado",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/romance-desenhado/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/romance-desenhado/cover-md.webp",
+    "author": "Chocochip",
+    "artist": "Chocochip",
+    "status": "ongoing",
+    "year": 2019,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Comedia",
+      "Romance",
+      "Slice of Life",
+      "Vida escolar",
+      "Manhwa"
+    ],
+    "description": "Leia Romance Desenhado, um manhwa em português.",
+    "descriptionPt": "Leia Romance Desenhado, um manhwa em português.",
+    "chaptersCount": 172,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "a-faisca-em-seus-olhos",
+    "slug": "a-faisca-em-seus-olhos",
+    "title": "A Faísca em Seus Olhos",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-faisca-em-seus-olhos/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-faisca-em-seus-olhos/cover-md.webp",
+    "author": "MURO",
+    "artist": "MURO",
+    "status": "ongoing",
+    "year": 2020,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Ação",
+      "Fantasia",
+      "Romance",
+      "Manhwa"
+    ],
+    "description": "Leia A Faísca em Seus Olhos, um manhwa em português.",
+    "descriptionPt": "Leia A Faísca em Seus Olhos, um manhwa em português.",
+    "chaptersCount": 82,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "tamed-a-blackened-slave-man",
+    "slug": "tamed-a-blackened-slave-man",
+    "title": "Tamed a Blackened Slave Man",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/tamed-a-blackened-slave-man/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/tamed-a-blackened-slave-man/cover-md.webp",
+    "author": "Purple Village",
+    "artist": "Purple Village",
+    "status": "ongoing",
+    "year": 2023,
+    "rating": 7,
+    "genres": [
+      "Fantasia",
+      "Romance",
+      "Josei",
+      "Manhwa"
+    ],
+    "description": "Leia Tamed a Blackened Slave Man, um manhwa em português.",
+    "descriptionPt": "Leia Tamed a Blackened Slave Man, um manhwa em português.",
+    "chaptersCount": 58,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "ligado-a-sua-ruina",
+    "slug": "ligado-a-sua-ruina",
+    "title": "Ligado a sua Ruína",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/ligado-a-sua-ruina/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/ligado-a-sua-ruina/cover-md.webp",
+    "author": "Yoo Sera",
+    "artist": "Yoo Sera",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Fantasia",
+      "Romance",
+      "Josei",
+      "Manhwa"
+    ],
+    "description": "Leia Ligado a sua Ruína, um manhwa em português.",
+    "descriptionPt": "Leia Ligado a sua Ruína, um manhwa em português.",
+    "chaptersCount": 1,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

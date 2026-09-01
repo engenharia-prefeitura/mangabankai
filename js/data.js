@@ -92358,7 +92358,7 @@ let MANGA_DATA = [
     ],
     "description": "Mother and daughter (Official) “What will you do for me if I defend you?” Carter is a successful lawyer. He is assigned to defend the family who left him when he was young. Taking the superior position this time, he goes into the mother and daughter’s house. We’re done with dinner. Shall we sleep together now?",
     "descriptionPt": "",
-    "chaptersCount": 21,
+    "chaptersCount": 26,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -94043,7 +94043,7 @@ let MANGA_DATA = [
     ],
     "description": "Reversal (Saejo) (Uncensored) Hiding both his real name Yuhan and his past as a dominant Omega, Lee Hajin lives quietly as a Beta, drowning in debt and scraping by as a personal aide to the spoiled son of J Tech’s CEO. With no family to rely on, survival is his only goal. Everything changes when Hajin runs into Kwon Seong-hyeob, his first love from high school, at a business meeting. Once the son of his family’s chauffeur, Seong-hyeob is now a powerful corporate leader. Time has reversed their positions, but their pheromones still recognize each other as if no years have passed. In this new, t",
     "descriptionPt": "",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -232917,7 +232917,7 @@ let MANGA_DATA = [
     ],
     "description": "Building My Roster Following an intense session of physical intimacy, Dojun is blindsided by a statement from his girlfriend that defies all logic and expectation. Instead of the usual post-coital whispers, she drops a bombshell that leaves him reeling in shock: “Babe, have you ever thought about getting a fuck-buddy?” Far from being a test or a trick, it turns out to be the opening act of an extraordinary “Harem Project” specifically designed to handle her boyfriend’s inexhaustible stamina and high libido. The ambitious goal is set: seven different women to fill every single day of the week, ",
     "descriptionPt": "",
-    "chaptersCount": 23,
+    "chaptersCount": 25,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -267207,6 +267207,30 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "tankouhentai-juku-juku",
+    "slug": "juku-juku",
+    "title": "Juku Juku",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/08/Juku-Juku-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/08/Juku-Juku-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Fuusen Club",
+    "status": "completed",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Harém",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 6,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

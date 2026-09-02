@@ -96867,7 +96867,7 @@ let MANGA_DATA = [
     ],
     "description": "The Purrfect Match (Uncensored) Kwon Jiwu is a top actor blessed with perfect looks and talent, but there’s one strange problem: every male animal seems to be in love with him. After yet another chaotic day on set fending off animal admirers, he’s ready to snap when his cheeky junior co-star Ju Yeongwon starts picking a fight. Just as Jiwu is about to put him in his place, something catches his eye. Cat ears? Wait a second, was Yeongwon one of those “male animals” all along?",
     "descriptionPt": "",
-    "chaptersCount": 41,
+    "chaptersCount": 42,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

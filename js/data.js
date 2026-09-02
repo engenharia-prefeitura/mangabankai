@@ -92104,7 +92104,7 @@ let MANGA_DATA = [
     ],
     "description": "Once Was Enough (Official) “I’ll become a perfect loser and punish you.” Eugene returned to his high school days when he was a loser. He trembled with anxiety at first, but he started taming the bullies, armed with his past.",
     "descriptionPt": "",
-    "chaptersCount": 45,
+    "chaptersCount": 46,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -101330,7 +101330,7 @@ let MANGA_DATA = [
     ],
     "description": "Who Cares if it’s a Lie? They live comfortably on small lies, because, really… who cares if it’s a lie?",
     "descriptionPt": "",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -102476,7 +102476,7 @@ let MANGA_DATA = [
     ],
     "description": "The Kiss of Trauma (Uncensored) Raised under the harsh rule of an abusive father, Juho has spent his life being compared to his perfect stepbrother, Hyeonwu. As his father’s cruelty deepens and Hyeonwu’s obsessive behavior grows more disturbing, Juho’s spirit begins to break. Then one day, he meets Suhyeok, a kind and gentle man who offers the warmth and comfort Juho has never known. For the first time, Juho finds himself relying on someone outside his family, falling into a fragile love that feels almost like salvation. But as he clings to Suhyeok, Hyeonwu’s fixation only festers. Years later",
     "descriptionPt": "",
-    "chaptersCount": 36,
+    "chaptersCount": 38,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -232943,7 +232943,7 @@ let MANGA_DATA = [
     ],
     "description": "Proceed with Caution (Uncensored) Former kendo prodigy Jaehyeok has lost his way, spiraling far from his golden days. The only person capable of reining him in is Yeongwon, a steadfast police officer with a heart of gold. Though they couldn’t be more different, these single fathers find their back into each other’s lives. As Jaehyuk moves in to learn the ropes of parenting, his Alpha instincts awaken, blurring the lines between duty and desire in a domestic whirlwind romance.",
     "descriptionPt": "",
-    "chaptersCount": 20,
+    "chaptersCount": 22,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -249216,7 +249216,7 @@ let MANGA_DATA = [
     ],
     "description": "The Alpha Blueprint A man who has always been looked down on by women becomes obsessed with becoming someone they respect and submit to. To transform himself, he seeks guidance from a powerful man who embodies everything he wants to become.",
     "descriptionPt": "",
-    "chaptersCount": 21,
+    "chaptersCount": 27,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -250518,7 +250518,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sobrevivendo Como uma Princesa Ilegítima, um manhwa em português.",
     "descriptionPt": "Leia Sobrevivendo Como uma Princesa Ilegítima, um manhwa em português.",
-    "chaptersCount": 94,
+    "chaptersCount": 95,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251456,7 +251456,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Você, Que Será Minha Ruína, um manhwa em português.",
     "descriptionPt": "Leia A Você, Que Será Minha Ruína, um manhwa em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251567,7 +251567,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Jardim de Maio, um manhwa em português.",
     "descriptionPt": "Leia Jardim de Maio, um manhwa em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252785,7 +252785,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Campo Esquecido, um manhwa em português.",
     "descriptionPt": "Leia O Campo Esquecido, um manhwa em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 33,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256103,7 +256103,7 @@ let MANGA_DATA = [
     ],
     "description": "Whispers of Distant Shores (Uncensored) He came for an education, but he’s staying for the teacher. After learning his intended mentor has passed away, imperial interpreter Byeon Seungjun convinces the scholar’s exceptionally talented disciple, Yeo An, to take him on as a student. Their contract is supposed to be purely academic, but Seungjun can’t keep his eyes off his innocent new mistress. Trapped in close quarters day after day, the line between student and lover begins to blur. Yeo An might be the one teaching the lessons, but Seungjun is about to introduce his pure-hearted teacher to a p",
     "descriptionPt": "",
-    "chaptersCount": 13,
+    "chaptersCount": 15,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -256575,7 +256575,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ainda Nem Era Noite, um manhwa em português.",
     "descriptionPt": "Leia Ainda Nem Era Noite, um manhwa em português.",
-    "chaptersCount": 8,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256600,7 +256600,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Vá Embora, Romeo!, um webtoon em português.",
     "descriptionPt": "Leia Vá Embora, Romeo!, um webtoon em português.",
-    "chaptersCount": 83,
+    "chaptersCount": 84,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257291,7 +257291,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dépaysement, um manhwa em português.",
     "descriptionPt": "Leia Dépaysement, um manhwa em português.",
-    "chaptersCount": 21,
+    "chaptersCount": 22,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258881,7 +258881,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Doppio Senso, um manhwa em português.",
     "descriptionPt": "Leia Doppio Senso, um manhwa em português.",
-    "chaptersCount": 72,
+    "chaptersCount": 73,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260461,7 +260461,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia As Noites da Imperatriz, um manhwa em português.",
     "descriptionPt": "Leia As Noites da Imperatriz, um manhwa em português.",
-    "chaptersCount": 40,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263665,7 +263665,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Criadora de Escândalos Voltou, um manhwa em português.",
     "descriptionPt": "Leia A Criadora de Escândalos Voltou, um manhwa em português.",
-    "chaptersCount": 13,
+    "chaptersCount": 14,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -267231,6 +267231,32 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "o-acasalamento-dos-elfos",
+    "slug": "o-acasalamento-dos-elfos",
+    "title": "O Acasalamento dos Elfos",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/o-acasalamento-dos-elfos/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/o-acasalamento-dos-elfos/cover-md.webp",
+    "author": "Potpourri",
+    "artist": "Potpourri",
+    "status": "ongoing",
+    "year": 2021,
+    "rating": 7,
+    "genres": [
+      "Comedia",
+      "Fantasia",
+      "Romance",
+      "Adulto",
+      "Smut"
+    ],
+    "description": "Leia O Acasalamento dos Elfos, um manhwa em português.",
+    "descriptionPt": "Leia O Acasalamento dos Elfos, um manhwa em português.",
+    "chaptersCount": 67,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

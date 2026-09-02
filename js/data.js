@@ -93933,7 +93933,7 @@ let MANGA_DATA = [
     ],
     "description": "The Light I Give You (Uncensored) Once a promising athlete, Yoonbin is ready to give up after repeated injuries shatter his dreams. At his lowest point, a mysterious man with a tiger tattoo gives him the strength to stand again. Years later, after retiring as a gold medalist and becoming a taekwondo instructor, Yoonbin unexpectedly reunites with Kwon Young, an underworld boss and the man who saved his life. Haunted by his past, Young pushes Yoonbin away, convinced he brings only harm. But Yoonbin refuses to let go, because now it is his turn to become Young’s light.",
     "descriptionPt": "",
-    "chaptersCount": 39,
+    "chaptersCount": 41,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -95434,9 +95434,9 @@ let MANGA_DATA = [
     ],
     "description": "The S-Classes That I Raised An F-rank Hunter. That too, a useless, pathetic F-rank hyung who dragged down his amazing S-rank brother. To me, who’d halfheartedly lived a disastrous life that’ ended up devouring my brother’s life and making me regress, the title given, was… ‘Perfect Caregiver.’ That’s right, this time, instead of fussing about myself, let’s quietly look after those amazing bastards…… was what I’d thought, but the S-ranks are… a little weird.",
     "descriptionPt": "",
-    "chaptersCount": 178,
+    "chaptersCount": 181,
     "lang": "en",
-    "hasPt": true,
+    "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
   },
@@ -101198,7 +101198,7 @@ let MANGA_DATA = [
     ],
     "description": "Chained to Poverty Money can’t buy happiness, but without it, you’re a slave to poverty.",
     "descriptionPt": "",
-    "chaptersCount": 39,
+    "chaptersCount": 40,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207859,7 +207859,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Me Escolhe!, um manhwa em português.",
     "descriptionPt": "Leia Me Escolhe!, um manhwa em português.",
-    "chaptersCount": 216,
+    "chaptersCount": 217,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250886,7 +250886,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Fui Confundido com um Gênio Monstruoso, um manhwa em português.",
     "descriptionPt": "Leia Fui Confundido com um Gênio Monstruoso, um manhwa em português.",
-    "chaptersCount": 115,
+    "chaptersCount": 116,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253314,7 +253314,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Carrier Falcon Princess, um manhwa em português.",
     "descriptionPt": "Leia Carrier Falcon Princess, um manhwa em português.",
-    "chaptersCount": 125,
+    "chaptersCount": 126,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254977,7 +254977,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mestre Do Treinamento Marcial, um manhwa em português.",
     "descriptionPt": "Leia Mestre Do Treinamento Marcial, um manhwa em português.",
-    "chaptersCount": 128,
+    "chaptersCount": 129,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257446,7 +257446,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Vou me divorciar do irmão siscon da protagonista, um manhwa em português.",
     "descriptionPt": "Leia Vou me divorciar do irmão siscon da protagonista, um manhwa em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 42,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260069,7 +260069,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-mundo-arruinado-foi-confundido-com-um-jogo online em português.",
     "descriptionPt": "Leia o-mundo-arruinado-foi-confundido-com-um-jogo online em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 23,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260558,7 +260558,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-transmissao-do-reino-demoniaco-do-demonio-celestial-rejuvenescido online em português.",
     "descriptionPt": "Leia a-transmissao-do-reino-demoniaco-do-demonio-celestial-rejuvenescido online em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264982,7 +264982,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Intruso Carinhoso, um manhwa em português.",
     "descriptionPt": "Leia O Intruso Carinhoso, um manhwa em português.",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -267572,6 +267572,28 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "o-chefe-quer-morrer",
+    "slug": "o-chefe-quer-morrer",
+    "title": "o-chefe-quer-morrer",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/o-chefe-quer-morrer/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/o-chefe-quer-morrer/cover-md.webp",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Manga"
+    ],
+    "description": "Leia o-chefe-quer-morrer online em português.",
+    "descriptionPt": "Leia o-chefe-quer-morrer online em português.",
+    "chaptersCount": 2,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

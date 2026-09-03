@@ -91647,7 +91647,7 @@ let MANGA_DATA = [
     ],
     "description": "SET UP (Kim Mundo) (Official) “This version allows you to take direct control of the team and train the players. Would you like to install it?” A secret training session begins between the underdog professional women’s volleyball players and their junior staff.",
     "descriptionPt": "",
-    "chaptersCount": 85,
+    "chaptersCount": 90,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -264840,7 +264840,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Presepe Fora da Gaiola, um manhwa em português.",
     "descriptionPt": "Leia Presepe Fora da Gaiola, um manhwa em português.",
-    "chaptersCount": 64,
+    "chaptersCount": 65,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

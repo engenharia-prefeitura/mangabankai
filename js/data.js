@@ -95188,7 +95188,7 @@ let MANGA_DATA = [
     ],
     "description": "Accidental Baby (Uncensored) Doh Ihyeon is the ultimate corporate workaholic, but he hides two secrets: he’s a somewhat defective omega and he suffers from prosopagnosia—the inability to recognize faces. After a blurry, drunken one-night stand leads to an unexpected pregnancy, Ihyeon decides to keep the baby and brave single parenthood in secret. But his carefully constructed walls start to crumble when his superior, Seo Jeong-un, begins a relentless pursuit. Jeong-un is charming, persistent, and strangely familiar, but to a man who can’t recognize a face, his flirtations are just another work",
     "descriptionPt": "",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -100105,7 +100105,7 @@ let MANGA_DATA = [
     ],
     "description": "Study Buddies (Official) Nathan ends up living with his two childhood friends after his dad asks one of them to tutor him for his college entrance exam.",
     "descriptionPt": "",
-    "chaptersCount": 107,
+    "chaptersCount": 110,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -101362,7 +101362,7 @@ let MANGA_DATA = [
     ],
     "description": "Switch ON Season 2 After taking time off, Henry returns to school and reunites with Mina—just as a freshman who works with Yenny surprises him with a bold request.",
     "descriptionPt": "",
-    "chaptersCount": 54,
+    "chaptersCount": 55,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207203,7 +207203,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Dama Bebê Controla O Mundo Com Dinheiro, um manhwa em português.",
     "descriptionPt": "Leia A Dama Bebê Controla O Mundo Com Dinheiro, um manhwa em português.",
-    "chaptersCount": 130,
+    "chaptersCount": 131,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207255,7 +207255,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu sou a Vilã, um webtoon em português.",
     "descriptionPt": "Leia Eu sou a Vilã, um webtoon em português.",
-    "chaptersCount": 107,
+    "chaptersCount": 108,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207573,7 +207573,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dragões Sequestrados, um manhwa em português.",
     "descriptionPt": "Leia Dragões Sequestrados, um manhwa em português.",
-    "chaptersCount": 57,
+    "chaptersCount": 58,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207651,7 +207651,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Nano Máquina, um manhwa em português.",
     "descriptionPt": "Leia Nano Máquina, um manhwa em português.",
-    "chaptersCount": 327,
+    "chaptersCount": 328,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207679,7 +207679,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Logando 10.000 Anos No Futuro, um manhua em português.",
     "descriptionPt": "Leia Logando 10.000 Anos No Futuro, um manhua em português.",
-    "chaptersCount": 337,
+    "chaptersCount": 338,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231668,7 +231668,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Minhas Sete Noivas São Todas Vilãs, um manhua em português.",
     "descriptionPt": "Leia Minhas Sete Noivas São Todas Vilãs, um manhua em português.",
-    "chaptersCount": 70,
+    "chaptersCount": 73,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232886,7 +232886,7 @@ let MANGA_DATA = [
     ],
     "description": "Magic-Girl Service (Uncensored) One day, completely against his will, Kim Namju finds himself hexed by a sparkly fairy named Seobi—and just like that, he becomes the unwilling mascot of a team of magical girls. Their mission? To defeat the Demons of Desire, monsters born from the collective lust of humanity, who are now plotting to take over Earth. So far, so weird—but then comes the kicker. To truly purify these lust-fueled demons, Namju has to help the magical girls and monsters fulfill their wildest desires. Yes, all of them. Cue awkward moans, questionable missions, and Namju screaming, “T",
     "descriptionPt": "",
-    "chaptersCount": 41,
+    "chaptersCount": 42,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -250758,7 +250758,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Grande Colheita do Lorde das Trevas, um manhwa em português.",
     "descriptionPt": "Leia A Grande Colheita do Lorde das Trevas, um manhwa em português.",
-    "chaptersCount": 81,
+    "chaptersCount": 82,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252681,7 +252681,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guarda Malandro em uma Fantasia Medieval, um manhwa em português.",
     "descriptionPt": "Leia Guarda Malandro em uma Fantasia Medieval, um manhwa em português.",
-    "chaptersCount": 46,
+    "chaptersCount": 47,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254510,7 +254510,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei O Mentor do Rei Demônio mais Fraco, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei O Mentor do Rei Demônio mais Fraco, um manhwa em português.",
-    "chaptersCount": 34,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254576,7 +254576,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-tornei-um-mago-de-fantasia-medieval online em português.",
     "descriptionPt": "Leia me-tornei-um-mago-de-fantasia-medieval online em português.",
-    "chaptersCount": 36,
+    "chaptersCount": 37,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255059,7 +255059,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Love 4 a Walk, um webtoon em português.",
     "descriptionPt": "Leia Love 4 a Walk, um webtoon em português.",
-    "chaptersCount": 65,
+    "chaptersCount": 66,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255350,7 +255350,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Renúncia da Doutora, um manhwa em português.",
     "descriptionPt": "Leia A Renúncia da Doutora, um manhwa em português.",
-    "chaptersCount": 98,
+    "chaptersCount": 99,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257130,7 +257130,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Momento de Cura com Dubli, um manhwa em português.",
     "descriptionPt": "Leia Momento de Cura com Dubli, um manhwa em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259707,7 +259707,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Era o Lixo, um manhwa em português.",
     "descriptionPt": "Leia Eu Era o Lixo, um manhwa em português.",
-    "chaptersCount": 37,
+    "chaptersCount": 38,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259821,7 +259821,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-rei-agiota-do-murim online em português.",
     "descriptionPt": "Leia o-rei-agiota-do-murim online em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260180,7 +260180,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ensinar os Jovens Nobres Não é Fácil, um manhwa em português.",
     "descriptionPt": "Leia Ensinar os Jovens Nobres Não é Fácil, um manhwa em português.",
-    "chaptersCount": 12,
+    "chaptersCount": 13,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260233,7 +260233,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Minha Caracol Sexy, um manhwa em português.",
     "descriptionPt": "Leia Minha Caracol Sexy, um manhwa em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262092,7 +262092,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Vivendo Como Um Jardineiro Num Mundo de Caçadores, um manhwa em português.",
     "descriptionPt": "Leia Vivendo Como Um Jardineiro Num Mundo de Caçadores, um manhwa em português.",
-    "chaptersCount": 105,
+    "chaptersCount": 112,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263913,7 +263913,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Corporação Goblin, um manhwa em português.",
     "descriptionPt": "Leia Corporação Goblin, um manhwa em português.",
-    "chaptersCount": 10,
+    "chaptersCount": 11,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263937,7 +263937,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Santo da Espada Reencarnou em uma Família Nobre de Magos, um mangá em português.",
     "descriptionPt": "Leia O Santo da Espada Reencarnou em uma Família Nobre de Magos, um mangá em português.",
-    "chaptersCount": 20,
+    "chaptersCount": 21,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265085,7 +265085,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Aceitarei Este Casamento Desta Vez, um manhwa em português.",
     "descriptionPt": "Leia Aceitarei Este Casamento Desta Vez, um manhwa em português.",
-    "chaptersCount": 38,
+    "chaptersCount": 39,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266160,7 +266160,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Paraíso de Valentina, um manhwa em português.",
     "descriptionPt": "Leia O Paraíso de Valentina, um manhwa em português.",
-    "chaptersCount": 38,
+    "chaptersCount": 39,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266551,7 +266551,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sobrevivendo no Jogo Como um Bárbaro, um manhwa em português.",
     "descriptionPt": "Leia Sobrevivendo no Jogo Como um Bárbaro, um manhwa em português.",
-    "chaptersCount": 155,
+    "chaptersCount": 156,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -267591,6 +267591,31 @@ let MANGA_DATA = [
     "description": "Leia o-chefe-quer-morrer online em português.",
     "descriptionPt": "Leia o-chefe-quer-morrer online em português.",
     "chaptersCount": 2,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "me-tornei-a-familia-do-vilao",
+    "slug": "me-tornei-a-familia-do-vilao",
+    "title": "Me Tornei a Família do Vilão",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/me-tornei-a-familia-do-vilao/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/me-tornei-a-familia-do-vilao/cover-md.webp",
+    "author": "SOL Leesu",
+    "artist": "SOL Leesu",
+    "status": "ongoing",
+    "year": 2022,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Fantasia",
+      "Romance"
+    ],
+    "description": "Leia Me Tornei a Família do Vilão, um manhwa em português.",
+    "descriptionPt": "Leia Me Tornei a Família do Vilão, um manhwa em português.",
+    "chaptersCount": 141,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

@@ -92551,7 +92551,7 @@ let MANGA_DATA = [
     ],
     "description": "Moby Dick (Official) One day, a mysterious name card lands on HOON-SANG’s hand. The name card presents to him a new life in a new city, the haven of adultery, along with a significant sum of money in return for his physique. “You are a ‘gift’ to the VIPs. Make them unable to forget you, even if they try.”",
     "descriptionPt": "",
-    "chaptersCount": 98,
+    "chaptersCount": 102,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -236160,7 +236160,7 @@ let MANGA_DATA = [
     ],
     "description": "Confessions of a Chambermaid (Uncensored) For her entire life in Joseon, Yun Jini believed there was only one man in the world, the king. As a newly appointed chambermaid guarding the royal bedchamber, she begins to awaken to forbidden desires she has never dared to name. But in a palace where love and freedom are luxuries no court lady can afford, her fate turns even darker. Accused of treason and forced to flee, Jini falls into a pond, sinking fast toward certain death. “I don’t want to die like this!” Her desperate plea is answered. The mysterious waters carry her not to the afterlife, but ",
     "descriptionPt": "",
-    "chaptersCount": 20,
+    "chaptersCount": 23,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -267885,6 +267885,30 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "tankouhentai-kuzu-onna-o-kau",
+    "slug": "kuzu-onna-o-kau",
+    "title": "Kuzu Onna o Kau",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/08/Kuzu-Onna-o-Kau-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/08/Kuzu-Onna-o-Kau-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Harenochiame",
+    "status": "completed",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Traição",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 2,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

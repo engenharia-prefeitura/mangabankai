@@ -1,0 +1,753 @@
+{
+  "pt": [
+    {
+      "id": "yakuza-apaixonado-chapter-1",
+      "number": 1,
+      "title": "Capítulo 01",
+      "date": "2026-09-03T14:09:33.210Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-2",
+      "number": 2,
+      "title": "Capítulo 02",
+      "date": "2026-09-03T14:10:12.128Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-3",
+      "number": 3,
+      "title": "Capítulo 03",
+      "date": "2026-09-03T14:10:50.021Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-4",
+      "number": 4,
+      "title": "Capítulo 04",
+      "date": "2026-09-03T14:11:19.919Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-5",
+      "number": 5,
+      "title": "Capítulo 05",
+      "date": "2026-09-03T14:11:51.568Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-6",
+      "number": 6,
+      "title": "Capítulo 06",
+      "date": "2026-09-03T14:12:36.622Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-7",
+      "number": 7,
+      "title": "Capítulo 07",
+      "date": "2026-09-03T14:13:11.240Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-8",
+      "number": 8,
+      "title": "Capítulo 08",
+      "date": "2026-09-03T14:13:46.514Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-9",
+      "number": 9,
+      "title": "Capítulo 09",
+      "date": "2026-09-03T14:14:17.587Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-10",
+      "number": 10,
+      "title": "Capítulo 10",
+      "date": "2026-09-03T14:14:50.416Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-11",
+      "number": 11,
+      "title": "Capítulo 11",
+      "date": "2026-09-03T14:15:20.557Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-12",
+      "number": 12,
+      "title": "Capítulo 12",
+      "date": "2026-09-03T14:15:52.559Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-13",
+      "number": 13,
+      "title": "Capítulo 13",
+      "date": "2026-09-03T14:16:25.322Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-14",
+      "number": 14,
+      "title": "Capítulo 14",
+      "date": "2026-09-03T14:16:57.799Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-15",
+      "number": 15,
+      "title": "Capítulo 15",
+      "date": "2026-09-03T14:17:26.927Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-16",
+      "number": 16,
+      "title": "Capítulo 16",
+      "date": "2026-09-03T14:17:59.614Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-17",
+      "number": 17,
+      "title": "Capítulo 17",
+      "date": "2026-09-03T14:18:31.738Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-18",
+      "number": 18,
+      "title": "Capítulo 18",
+      "date": "2026-09-03T14:19:04.311Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-19",
+      "number": 19,
+      "title": "Capítulo 19",
+      "date": "2026-09-03T14:19:36.368Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-20",
+      "number": 20,
+      "title": "Capítulo 20",
+      "date": "2026-09-03T14:20:10.542Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-21",
+      "number": 21,
+      "title": "Capítulo 21",
+      "date": "2026-09-03T14:20:34.663Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-22",
+      "number": 22,
+      "title": "Capítulo 22",
+      "date": "2026-09-03T14:21:07.542Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-23",
+      "number": 23,
+      "title": "Capítulo 23",
+      "date": "2026-09-03T14:21:37.064Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-24",
+      "number": 24,
+      "title": "Capítulo 24",
+      "date": "2026-09-03T14:22:05.477Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-25",
+      "number": 25,
+      "title": "Capítulo 25",
+      "date": "2026-09-03T14:22:26.179Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-26",
+      "number": 26,
+      "title": "Capítulo 26",
+      "date": "2026-09-03T14:22:50.984Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-27",
+      "number": 27,
+      "title": "Capítulo 27",
+      "date": "2026-09-03T14:23:20.035Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-28",
+      "number": 28,
+      "title": "Capítulo 28",
+      "date": "2026-09-03T14:23:47.622Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-29",
+      "number": 29,
+      "title": "Capítulo 29",
+      "date": "2026-09-03T14:24:04.168Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-30",
+      "number": 30,
+      "title": "Capítulo 30",
+      "date": "2026-09-03T14:24:32.981Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-31",
+      "number": 31,
+      "title": "Capítulo 31",
+      "date": "2026-09-03T14:25:06.012Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-32",
+      "number": 32,
+      "title": "Capítulo 32",
+      "date": "2026-09-03T14:25:42.855Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-33",
+      "number": 33,
+      "title": "Capítulo 33",
+      "date": "2026-09-03T14:26:16.823Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-34",
+      "number": 34,
+      "title": "Capítulo 34",
+      "date": "2026-09-03T14:26:40.103Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-35",
+      "number": 35,
+      "title": "Capítulo 35",
+      "date": "2026-09-03T14:27:10.082Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-36",
+      "number": 36,
+      "title": "Capítulo 36",
+      "date": "2026-09-03T14:27:40.904Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-37",
+      "number": 37,
+      "title": "Capítulo 37",
+      "date": "2026-09-03T14:28:10.818Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-38",
+      "number": 38,
+      "title": "Capítulo 38",
+      "date": "2026-09-03T14:28:44.156Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-39",
+      "number": 39,
+      "title": "Capítulo 39",
+      "date": "2026-09-03T14:29:17.386Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-40",
+      "number": 40,
+      "title": "Capítulo 40",
+      "date": "2026-09-03T14:29:52.084Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-41",
+      "number": 41,
+      "title": "Capítulo 41",
+      "date": "2026-09-03T14:30:15.793Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-42",
+      "number": 42,
+      "title": "Capítulo 42",
+      "date": "2026-09-03T14:30:30.676Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-43",
+      "number": 43,
+      "title": "Capítulo 43",
+      "date": "2026-09-03T14:31:00.602Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-44",
+      "number": 44,
+      "title": "Capítulo 44",
+      "date": "2026-09-03T14:31:32.513Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-45",
+      "number": 45,
+      "title": "Capítulo 45",
+      "date": "2026-09-03T14:32:05.121Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-46",
+      "number": 46,
+      "title": "Capítulo 46",
+      "date": "2026-09-03T14:32:35.441Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-47",
+      "number": 47,
+      "title": "Capítulo 47",
+      "date": "2026-09-03T14:33:03.242Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-48",
+      "number": 48,
+      "title": "Capítulo 48",
+      "date": "2026-09-03T14:33:28.085Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-49",
+      "number": 49,
+      "title": "Capítulo 49",
+      "date": "2026-09-03T14:33:44.999Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-50",
+      "number": 50,
+      "title": "Capítulo 50",
+      "date": "2026-09-03T14:34:11.429Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-51",
+      "number": 51,
+      "title": "Capítulo 51",
+      "date": "2026-09-03T14:34:50.569Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-52",
+      "number": 52,
+      "title": "Capítulo 52",
+      "date": "2026-09-03T14:35:21.171Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-53",
+      "number": 53,
+      "title": "Capítulo 53",
+      "date": "2026-09-03T14:35:45.976Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-54",
+      "number": 54,
+      "title": "Capítulo 54",
+      "date": "2026-09-03T14:36:06.658Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-55",
+      "number": 55,
+      "title": "Capítulo 55",
+      "date": "2026-09-03T14:36:28.234Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-56",
+      "number": 56,
+      "title": "Capítulo 56",
+      "date": "2026-09-03T14:36:57.196Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-57",
+      "number": 57,
+      "title": "Capítulo 57",
+      "date": "2026-09-03T14:37:20.952Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-58",
+      "number": 58,
+      "title": "Capítulo 58",
+      "date": "2026-09-03T14:37:49.251Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-59",
+      "number": 59,
+      "title": "Capítulo 59",
+      "date": "2026-09-03T14:38:14.570Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-60",
+      "number": 60,
+      "title": "Capítulo 60",
+      "date": "2026-09-03T14:38:35.104Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-61",
+      "number": 61,
+      "title": "Capítulo 61",
+      "date": "2026-09-03T14:39:02.133Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-62",
+      "number": 62,
+      "title": "Capítulo 62 - Fim da Temporada",
+      "date": "2026-09-03T14:39:21.797Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-63",
+      "number": 63,
+      "title": "Capítulo 63 - Side Story 01",
+      "date": "2026-09-03T14:39:37.007Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-64",
+      "number": 64,
+      "title": "Capítulo 64 - Side Story 02",
+      "date": "2026-09-03T14:40:05.188Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-65",
+      "number": 65,
+      "title": "Capítulo 65",
+      "date": "2026-09-03T14:40:32.161Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-66",
+      "number": 66,
+      "title": "Capítulo 66",
+      "date": "2026-09-03T14:41:10.472Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-67",
+      "number": 67,
+      "title": "Capítulo 67",
+      "date": "2026-09-03T14:41:40.111Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-68",
+      "number": 68,
+      "title": "Capítulo 68",
+      "date": "2026-09-03T14:42:10.861Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-69",
+      "number": 69,
+      "title": "Capítulo 69",
+      "date": "2026-09-03T14:42:56.654Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-70",
+      "number": 70,
+      "title": "Capítulo 70",
+      "date": "2026-09-03T14:43:31.381Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-71",
+      "number": 71,
+      "title": "Capítulo 71",
+      "date": "2026-09-03T14:44:05.864Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-72",
+      "number": 72,
+      "title": "Capítulo 72",
+      "date": "2026-09-03T14:44:43.156Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-73",
+      "number": 73,
+      "title": "Capítulo 73",
+      "date": "2026-09-03T14:45:17.486Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-74",
+      "number": 74,
+      "title": "Capítulo 74",
+      "date": "2026-09-03T14:45:52.686Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-75",
+      "number": 75,
+      "title": "Capítulo 75",
+      "date": "2026-09-03T14:46:28.824Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-76",
+      "number": 76,
+      "title": "Capítulo 76",
+      "date": "2026-09-03T14:47:04.411Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-77",
+      "number": 77,
+      "title": "Capítulo 77",
+      "date": "2026-09-03T14:47:35.506Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-78",
+      "number": 78,
+      "title": "Capítulo 78",
+      "date": "2026-09-03T14:48:10.191Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-79",
+      "number": 79,
+      "title": "Capítulo 79",
+      "date": "2026-09-03T14:48:39.887Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-80",
+      "number": 80,
+      "title": "Capítulo 80",
+      "date": "2026-09-03T14:48:55.601Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-81",
+      "number": 81,
+      "title": "Capítulo 81",
+      "date": "2026-09-03T14:49:26.084Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-82",
+      "number": 82,
+      "title": "Capítulo 82",
+      "date": "2026-09-03T14:49:58.069Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-83",
+      "number": 83,
+      "title": "Capítulo 83",
+      "date": "2026-09-03T14:50:29.068Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-84",
+      "number": 84,
+      "title": "Capítulo 84",
+      "date": "2026-09-03T14:51:02.439Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-85",
+      "number": 85,
+      "title": "Capítulo 85",
+      "date": "2026-09-03T14:51:35.616Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-86",
+      "number": 86,
+      "title": "Capítulo 86",
+      "date": "2026-09-03T14:52:09.606Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-87",
+      "number": 87,
+      "title": "Capítulo 87",
+      "date": "2026-09-03T14:52:39.098Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-88",
+      "number": 88,
+      "title": "Capítulo 88",
+      "date": "2026-09-03T14:53:07.710Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-89",
+      "number": 89,
+      "title": "Capítulo 89",
+      "date": "2026-09-03T14:53:38.915Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-90",
+      "number": 90,
+      "title": "Capítulo 90",
+      "date": "2026-09-03T14:54:11.430Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-91",
+      "number": 91,
+      "title": "Capítulo 91",
+      "date": "2026-09-03T14:54:43.831Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-92",
+      "number": 92,
+      "title": "Capítulo 92",
+      "date": "2026-09-03T14:55:14.909Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-93",
+      "number": 93,
+      "title": "Capítulo 93",
+      "date": "2026-09-03T14:55:40.615Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-94",
+      "number": 94,
+      "title": "Capítulo 94",
+      "date": "2026-09-03T14:56:11.719Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-95",
+      "number": 95,
+      "title": "Capítulo 95",
+      "date": "2026-09-03T14:56:40.744Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-96",
+      "number": 96,
+      "title": "Capítulo 96",
+      "date": "2026-09-03T14:57:01.862Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-97",
+      "number": 97,
+      "title": "Capítulo 97",
+      "date": "2026-09-03T14:57:18.187Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-98",
+      "number": 98,
+      "title": "Capítulo 98",
+      "date": "2026-09-03T14:57:43.726Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-99",
+      "number": 99,
+      "title": "Capítulo 99",
+      "date": "2026-09-03T14:58:12.457Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-100",
+      "number": 100,
+      "title": "Capítulo 100",
+      "date": "2026-09-03T14:58:39.640Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-101",
+      "number": 101,
+      "title": "Capítulo 101",
+      "date": "2026-09-03T14:59:25.537Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-102",
+      "number": 102,
+      "title": "Capítulo 102",
+      "date": "2026-09-03T15:00:12.918Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-103",
+      "number": 103,
+      "title": "Capítulo 103",
+      "date": "2026-09-03T15:01:01.679Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-104",
+      "number": 104,
+      "title": "Capítulo 104",
+      "date": "2026-09-03T15:01:45.954Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-105",
+      "number": 105,
+      "title": "Capítulo 105",
+      "date": "2026-09-03T15:02:29.446Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-106",
+      "number": 106,
+      "title": "Capítulo 106",
+      "date": "2026-09-03T15:03:23.151Z",
+      "pages": []
+    },
+    {
+      "id": "yakuza-apaixonado-chapter-107",
+      "number": 107,
+      "title": "Capítulo 107 - Fim",
+      "date": "2026-09-03T15:04:02.190Z",
+      "pages": []
+    }
+  ]
+}

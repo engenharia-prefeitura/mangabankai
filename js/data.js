@@ -21,7 +21,7 @@ let MANGA_DATA = [
       "Shounen"
     ],
     "description": "Seeking to be the greatest pirate in the world, young Monkey D. Luffy, endowed with stretching powers from the legendary \"Gomu Gomu\" Devil's fruit, travels towards the Grand Line in search of One Piece, the greatest treasure in the world.",
-    "chaptersCount": 1192,
+    "chaptersCount": 1193,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -60312,7 +60312,7 @@ let MANGA_DATA = [
     ],
     "description": "“If you my take my wife’s clothes off, you’ll fuck her…” The naked body of the woman next door was seen on CCTV by chance… Sooheon felt a sense of guilt till",
     "descriptionEn": "“If you my take my wife’s clothes off, you’ll fuck her…” The naked body of the woman next door was seen on CCTV by chance… Sooheon felt a sense of guilt till",
-    "chaptersCount": 59,
+    "chaptersCount": 60,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -94842,7 +94842,7 @@ let MANGA_DATA = [
     ],
     "description": "Sunny Snow Flurries Gaeji is a humble maid with one duty: do whatever is necessary to survive. When her mistress is dragged away on charges of treason, Gaeji is forced into a desperate gamble to marry Yeonsu, the Grand Prince’s son, in her master’s place. The charade was supposed to end quietly. But when Yeonsu’s political coup succeeds, he is crowned as the nation’s new Crown Prince and Gaeji is accidentally thrust onto the throne as the Crown Princess. Now, she is trapped in the center of the royal court with her true identity hanging by a thread. In a palace of lethal secrets, Gaeji must na",
     "descriptionPt": "",
-    "chaptersCount": 37,
+    "chaptersCount": 38,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -95839,7 +95839,7 @@ let MANGA_DATA = [
     ],
     "description": "Solo Max-Level Newbie Jinhyuk, a gaming Nutuber, was the only person who saw the ending of the game “Tower of Trials”. However, when the game’s popularity declined, it became difficult for him to continue making a living as a gaming Nutuber. Since he already saw the ending of the game, he was about to quit playing. But that day, “Tower of Trials” became reality, and Jinhyuk, who knew about every single thing in the game, took over everything faster than anyone possibly could! “I’ll show you what a true pro is like.”",
     "descriptionPt": "",
-    "chaptersCount": 272,
+    "chaptersCount": 275,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207332,7 +207332,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Solstício, um manhwa em português.",
     "descriptionPt": "Leia Solstício, um manhwa em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207991,7 +207991,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Veletric, um manhwa em português.",
     "descriptionPt": "Leia Veletric, um manhwa em português.",
-    "chaptersCount": 392,
+    "chaptersCount": 393,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230003,7 +230003,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Único Fazendeiro da Torre, um manhwa em português.",
     "descriptionPt": "Leia Único Fazendeiro da Torre, um manhwa em português.",
-    "chaptersCount": 142,
+    "chaptersCount": 143,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230135,7 +230135,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O restaurante do arquimago, um manhwa em português.",
     "descriptionPt": "Leia O restaurante do arquimago, um manhwa em português.",
-    "chaptersCount": 148,
+    "chaptersCount": 149,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231564,7 +231564,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Começo Depois do Fim, um manhwa em português.",
     "descriptionPt": "Leia O Começo Depois do Fim, um manhwa em português.",
-    "chaptersCount": 262,
+    "chaptersCount": 263,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232279,7 +232279,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Despertar em Tempo Integral, um manhua em português.",
     "descriptionPt": "Leia Despertar em Tempo Integral, um manhua em português.",
-    "chaptersCount": 152,
+    "chaptersCount": 157,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -234405,7 +234405,7 @@ let MANGA_DATA = [
     ],
     "description": "The Novel’s Extra (2022) Waking up, Kim Hajin finds himself in a familiar world but an unfamiliar body. A world he created himself and a story he wrote, yet never finished.He had become his novel’s extra, a filler character with no importance to the story. The only clue to escaping is to stay close to the main storyline. However, he soon finds out the world isn’t exactly identical to his creation.",
     "descriptionPt": "",
-    "chaptersCount": 173,
+    "chaptersCount": 174,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -254532,7 +254532,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia aventura-de-um-barbaro-em-um-mundo-de-fantasia online em português.",
     "descriptionPt": "Leia aventura-de-um-barbaro-em-um-mundo-de-fantasia online em português.",
-    "chaptersCount": 68,
+    "chaptersCount": 69,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255243,7 +255243,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Estou Apenas Aproveitando meu Tempo Limite, um manhwa em português.",
     "descriptionPt": "Leia Estou Apenas Aproveitando meu Tempo Limite, um manhwa em português.",
-    "chaptersCount": 58,
+    "chaptersCount": 59,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255844,7 +255844,7 @@ let MANGA_DATA = [
     ],
     "description": "Never Just Friends I have these childhood friends… But were we ever just friends?",
     "descriptionPt": "",
-    "chaptersCount": 30,
+    "chaptersCount": 32,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -256652,7 +256652,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Amor é uma Droga, um manhwa em português.",
     "descriptionPt": "Leia O Amor é uma Droga, um manhwa em português.",
-    "chaptersCount": 45,
+    "chaptersCount": 46,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256961,7 +256961,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Streaming do Arqueiro Genial, um manhwa em português.",
     "descriptionPt": "Leia Streaming do Arqueiro Genial, um manhwa em português.",
-    "chaptersCount": 106,
+    "chaptersCount": 107,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259397,7 +259397,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Uma Princesa que Lê a Sorte, um manhwa em português.",
     "descriptionPt": "Leia Uma Princesa que Lê a Sorte, um manhwa em português.",
-    "chaptersCount": 157,
+    "chaptersCount": 158,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260514,7 +260514,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia criando-viloes-da-maneira-correta online em português.",
     "descriptionPt": "Leia criando-viloes-da-maneira-correta online em português.",
-    "chaptersCount": 50,
+    "chaptersCount": 51,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264323,7 +264323,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Reset Temporal, um manhwa em português.",
     "descriptionPt": "Leia Reset Temporal, um manhwa em português.",
-    "chaptersCount": 58,
+    "chaptersCount": 59,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265876,7 +265876,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Undercover! Chaebol High School, um manhwa em português.",
     "descriptionPt": "Leia Undercover! Chaebol High School, um manhwa em português.",
-    "chaptersCount": 99,
+    "chaptersCount": 100,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -267672,7 +267672,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia ENNEAD, um manhwa em português.",
     "descriptionPt": "Leia ENNEAD, um manhwa em português.",
-    "chaptersCount": 136,
+    "chaptersCount": 137,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

@@ -94043,7 +94043,7 @@ let MANGA_DATA = [
     ],
     "description": "Reversal (Saejo) (Uncensored) Hiding both his real name Yuhan and his past as a dominant Omega, Lee Hajin lives quietly as a Beta, drowning in debt and scraping by as a personal aide to the spoiled son of J Tech’s CEO. With no family to rely on, survival is his only goal. Everything changes when Hajin runs into Kwon Seong-hyeob, his first love from high school, at a business meeting. Once the son of his family’s chauffeur, Seong-hyeob is now a powerful corporate leader. Time has reversed their positions, but their pheromones still recognize each other as if no years have passed. In this new, t",
     "descriptionPt": "",
-    "chaptersCount": 34,
+    "chaptersCount": 35,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

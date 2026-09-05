@@ -1,0 +1,25 @@
+{
+  "pt": [
+    {
+      "id": "servico-especial-chapter-1",
+      "number": 1,
+      "title": "Capítulo 1",
+      "date": "2026-09-05T05:32:34.579Z",
+      "pages": []
+    },
+    {
+      "id": "servico-especial-chapter-2",
+      "number": 2,
+      "title": "Capítulo 2",
+      "date": "2026-09-05T05:32:59.666Z",
+      "pages": []
+    },
+    {
+      "id": "servico-especial-chapter-3",
+      "number": 3,
+      "title": "Capítulo 3",
+      "date": "2026-09-05T05:33:24.229Z",
+      "pages": []
+    }
+  ]
+}

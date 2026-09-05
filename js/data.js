@@ -233296,7 +233296,7 @@ let MANGA_DATA = [
     ],
     "description": "The Mother, Not the Daughter (Official) After discovering that his wife was cheating on him, Jason finds himself sent back to the time before their marriage. Determined to get revenge, he decides to use the secret of his mother-in-law, who once cherished him like her own son, to make his unfaithful wife pay. “Jason, you can’t do this…",
     "descriptionPt": "",
-    "chaptersCount": 44,
+    "chaptersCount": 45,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

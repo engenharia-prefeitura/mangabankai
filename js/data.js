@@ -108036,7 +108036,7 @@ let MANGA_DATA = [
     ],
     "description": "Dawning Light (Uncensored) In the near future, a small number of Alphas known as the Awakened are born with extraordinary powers. Diego should have been one of the strongest, but every time he uses his ability, his body betrays him with violent seizures. When he’s introduced to Shane, a quiet scientist who offers to create a stabilizer, Diego begins to feel an inexplicable pull toward him. As buried memories resurface, Diego starts to wonder if their meeting was fate, or the beginning of something that transcends time itself.",
     "descriptionPt": "",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -231823,7 +231823,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Nerd Sinistro, um manhwa em português.",
     "descriptionPt": "Leia O Nerd Sinistro, um manhwa em português.",
-    "chaptersCount": 34,
+    "chaptersCount": 36,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252940,7 +252940,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Por Seu Assassinato, um manhwa em português.",
     "descriptionPt": "Leia Por Seu Assassinato, um manhwa em português.",
-    "chaptersCount": 63,
+    "chaptersCount": 64,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254372,7 +254372,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Desejos Bestiais, um manhwa em português.",
     "descriptionPt": "Leia Desejos Bestiais, um manhwa em português.",
-    "chaptersCount": 80,
+    "chaptersCount": 81,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255032,7 +255032,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Você Não Vai Fugir de Mim, um manhwa em português.",
     "descriptionPt": "Leia Você Não Vai Fugir de Mim, um manhwa em português.",
-    "chaptersCount": 75,
+    "chaptersCount": 76,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256034,7 +256034,7 @@ let MANGA_DATA = [
     ],
     "description": "Honey Trouble (Uncensored) Attached at the hip for 20 years, Jiheon and Wooju are practically inseparable. There’s definitely something simmering between them but Jiheon is an alpha and Wooju, just a beta. Not only that, but Wooju’s had his eyes on someone else lately, anyways. Ever the good friend, Jiheon makes an unexpected suggestion to Wooju in order to get the attention of the one he desires. But is there a layer of manipulation beneath this supposedly helpful gesture? What Jiheon feels is love, some might call…an obsession. And this obsession could lead to all sorts of trouble…",
     "descriptionPt": "",
-    "chaptersCount": 57,
+    "chaptersCount": 60,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -265956,7 +265956,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Como Você Desejar, um manhwa em português.",
     "descriptionPt": "Leia Como Você Desejar, um manhwa em português.",
-    "chaptersCount": 8,
+    "chaptersCount": 9,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266764,7 +266764,7 @@ let MANGA_DATA = [
     ],
     "description": "Bubbling Up! (Uncensored) Dogeon moved into a shabby rooftop apartment with big dreams of making it as a musician, but harsh reality quickly crushed his spirits. Seeking a brief moment of peace, he opened his bathroom door, only to find an unexpected tenant swimming in his toilet: an Oranda goldfish. Living with a pet fish seemed simple enough at first. That is, until Dogeon woke up one night to a strangely damp sensation against his back. Sprawled on the floor beside his bed was a helpless stranger, flopping around on two new human legs and complaining that his body felt completely wrong. Wit",
     "descriptionPt": "",
-    "chaptersCount": 8,
+    "chaptersCount": 9,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -268206,7 +268206,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Uma Equação Que Não Tem Resposta Errada, um manhwa em português.",
     "descriptionPt": "Leia Uma Equação Que Não Tem Resposta Errada, um manhwa em português.",
-    "chaptersCount": 1,
+    "chaptersCount": 2,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -268394,6 +268394,30 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "a-pervert-s-daily-life",
+    "slug": "a-pervert-s-daily-life",
+    "title": "A Pervert’s Daily Life",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2024/08/a-perverts-daily-life-01-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2024/08/a-perverts-daily-life-01-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult"
+    ],
+    "description": "Let’s just say Jinwoo and Seyoung got off to a rocky start. Not knowing Seyoung would be living in a company dorm with a male employee, her direct superior at",
+    "descriptionEn": "Let’s just say Jinwoo and Seyoung got off to a rocky start. Not knowing Seyoung would be living in a company dorm with a male employee, her direct superior at",
+    "chaptersCount": 144,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

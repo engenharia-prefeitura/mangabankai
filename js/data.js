@@ -80271,7 +80271,7 @@ let MANGA_DATA = [
     ],
     "description": "Kim Hyungsik has a complex about the size of his genitals. He gets the opportunity to grow them bigger by completing missions… but they become progressively",
     "descriptionEn": "Kim Hyungsik has a complex about the size of his genitals. He gets the opportunity to grow them bigger by completing missions… but they become progressively",
-    "chaptersCount": 79,
+    "chaptersCount": 81,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -92806,7 +92806,7 @@ let MANGA_DATA = [
     ],
     "description": "I’ll never give in! (Official) Men were all losers, and women only existed to lie under me. I deserved to stand above them all. Until I got this damn curse… “Use your body to satisfy those men ♥”",
     "descriptionPt": "",
-    "chaptersCount": 27,
+    "chaptersCount": 35,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -231936,7 +231936,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Estou em um Relacionamento Secreto com o Imperador, mas Não fazia Ideia, um manhwa em português.",
     "descriptionPt": "Leia Estou em um Relacionamento Secreto com o Imperador, mas Não fazia Ideia, um manhwa em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 33,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250486,7 +250486,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Casamento Predatório, um manhwa em português.",
     "descriptionPt": "Leia Casamento Predatório, um manhwa em português.",
-    "chaptersCount": 91,
+    "chaptersCount": 92,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255269,7 +255269,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Operação amor verdadeiro, um manhwa em português.",
     "descriptionPt": "Leia Operação amor verdadeiro, um manhwa em português.",
-    "chaptersCount": 137,
+    "chaptersCount": 138,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264100,7 +264100,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Cere, curandeira do tempo, um manhwa em português.",
     "descriptionPt": "Leia Cere, curandeira do tempo, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

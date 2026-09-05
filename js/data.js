@@ -6098,7 +6098,7 @@ let MANGA_DATA = [
       "Super Power"
     ],
     "description": "Hunters are a special breed, dedicated to tracking down treasures, magical beasts, and even other men. But such pursuits require a license, and less than one in a hundred thousand can pass the grueling qualification exam. Those who do pass gain access to restricted areas, amazing stores of information, and the right to call themselves Hunters.",
-    "chaptersCount": 423,
+    "chaptersCount": 424,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -95085,7 +95085,7 @@ let MANGA_DATA = [
     ],
     "description": "Bittersour (Uncensored) Jiwon just wants to enjoy a steamy one-night stand, but the neighbor from hell keeps killing the mood. After nights of listening to a heartbroken stranger wail breakup anthems through the walls, Jiwon finally storms next door to demand silence. Instead of a typical nuisance, he finds Hyeon watching a cringey, viral video of Jiwon’s most cringe college memory. Now that his secret “black history” is out, things are about to get a lot more sour – and a little bit spicy.",
     "descriptionPt": "",
-    "chaptersCount": 23,
+    "chaptersCount": 25,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -98042,7 +98042,7 @@ let MANGA_DATA = [
     ],
     "description": "Talisman (Uncensored) At a remarkably young age, Choi Mujin has already ascended to the prestigious position of second-in-command within the notorious national syndicate, ‘Weolha Organization.’ While he is a figure of intense envy and admiration among his subordinates, Mujin carries a burden no one else suspects, a hidden, degrading mission assigned by the Chairman himself. Every week under the cover of darkness, he is sent to extract semen from Baek Wuyeon, the Chairman’s secluded “”human talisman”” kept hidden away from the world. Inside the suffocating luxury of a high-end penthouse, the co",
     "descriptionPt": "",
-    "chaptersCount": 29,
+    "chaptersCount": 31,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -250314,7 +250314,7 @@ let MANGA_DATA = [
     ],
     "description": "A Blessed Night (Uncensored) Kim Eunchong is the definition of a devoted church boy – in fact, his name literally means “Blessing.” But one heartbroken, drunken night of regret shatters his pristine reputation. He wakes up with a massive hangover and a scandalous secret – he slept with a man. Even worse, the mystery lover is one of his two best friends from church: Ju Hyeonu or Shin Ian. Eunchong prays that he can bury his mistake forever…but then a blackmail text featuring explicit photos of that sinful night hits his phone. One of his best friends has now turned into his biggest enemy, and r",
     "descriptionPt": "",
-    "chaptersCount": 22,
+    "chaptersCount": 24,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -250544,7 +250544,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Devorador de Aço, um manhwa em português.",
     "descriptionPt": "Leia Devorador de Aço, um manhwa em português.",
-    "chaptersCount": 108,
+    "chaptersCount": 109,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253654,7 +253654,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Longe de estar Sóbrio, um manhwa em português.",
     "descriptionPt": "Leia Longe de estar Sóbrio, um manhwa em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257480,7 +257480,7 @@ let MANGA_DATA = [
     ],
     "description": "Hot Serve (Uncensored) In Hot Serve, Terry loses his apartment and accepts the first job he can get, only to find himself as the only man at a women’s volleyball camp. Surrounded by confident and attractive players, every day becomes a challenge to resist temptation. Even the passionate team captain, Crystal, can’t deny the growing spark between them. As the tension rises both on and off the court, will Terry remain professional or give in to desire? Find out in Hot Serve.",
     "descriptionPt": "",
-    "chaptersCount": 8,
+    "chaptersCount": 9,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -266558,30 +266558,6 @@ let MANGA_DATA = [
     "hasEn": false
   },
   {
-    "id": "a-pervert-s-daily-life",
-    "slug": "a-pervert-s-daily-life",
-    "title": "A Pervert’s Daily Life",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/a-perverts-daily-life-01-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/a-perverts-daily-life-01-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adult"
-    ],
-    "description": "Let’s just say Jinwoo and Seyoung got off to a rocky start. Not knowing Seyoung would be living in a company dorm with a male employee, her direct superior at",
-    "descriptionEn": "Let’s just say Jinwoo and Seyoung got off to a rocky start. Not knowing Seyoung would be living in a company dorm with a male employee, her direct superior at",
-    "chaptersCount": 144,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "tankouhentai-garden-last-summer-takamine-ke-no-sanrinka-ampoule",
     "slug": "garden-last-summer-takamine-ke-no-sanrinka-ampoule",
     "title": "Garden + Last Summer + Takamine-ke no Sanrinka ~ampoule",
@@ -268392,6 +268368,32 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "tankouhentai-setsuna-no-koi",
+    "slug": "setsuna-no-koi",
+    "title": "SETSUNA NO KOI",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/08/SETSUNA-NO-KOI-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/08/SETSUNA-NO-KOI-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Takasugi Kou",
+    "status": "completed",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Bissexual",
+      "Lésbicas-Yuri",
+      "Traição",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 3,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

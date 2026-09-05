@@ -250066,7 +250066,7 @@ let MANGA_DATA = [
     ],
     "description": "Incomplete Combustion (Uncensored) For weeks, a mysterious man has been setting Gyeol’s dreams on fire. By day, Gyeol lives a quiet life as a construction worker. But after locking eyes with a stranger at a job site, his nights are consumed by vivid, erotic dreams that leave him shaken – and wanting more. When he unexpectedly runs into the man again, reality begins to feel just as charged as his fantasies. The stranger introduces himself as Yesung: handsome, magnetic, and impossible to read. His smile is too perfect, his gaze too knowing. He crosses lines without hesitation, drawing Gyeol into",
     "descriptionPt": "",
-    "chaptersCount": 33,
+    "chaptersCount": 36,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

@@ -95898,7 +95898,7 @@ let MANGA_DATA = [
     ],
     "description": "Return of the Blossoming Blade Chung Myung, The 13th Disciple of the Great Flowery Mountain Sect, One of the 3 Great Swordsmen, Plum Blossom Sword Saint, defeated Chun Ma, who has brought destruction and disarray onto the world. After the battle, he breathes his last breath on top of the headquarter mountain of the Devil’s Worship Sect. He is reborn after 100 years in the body of a child. …What? The Flowery Mountain Sect has fallen? What kind of nonsense is that!?",
     "descriptionPt": "",
-    "chaptersCount": 181,
+    "chaptersCount": 183,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -251592,7 +251592,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A coroa que eu tomarei de você, um manhwa em português.",
     "descriptionPt": "Leia A coroa que eu tomarei de você, um manhwa em português.",
-    "chaptersCount": 26,
+    "chaptersCount": 27,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253209,7 +253209,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Elegante Mar da Barbárie, um manhwa em português.",
     "descriptionPt": "Leia O Elegante Mar da Barbárie, um manhwa em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 33,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255900,7 +255900,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Reparação Pela Sua Crueldade, um manhwa em português.",
     "descriptionPt": "Leia Reparação Pela Sua Crueldade, um manhwa em português.",
-    "chaptersCount": 23,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256575,7 +256575,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ainda Nem Era Noite, um manhwa em português.",
     "descriptionPt": "Leia Ainda Nem Era Noite, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 22,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256600,7 +256600,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Vá Embora, Romeo!, um webtoon em português.",
     "descriptionPt": "Leia Vá Embora, Romeo!, um webtoon em português.",
-    "chaptersCount": 84,
+    "chaptersCount": 85,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257446,7 +257446,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Vou me divorciar do irmão siscon da protagonista, um manhwa em português.",
     "descriptionPt": "Leia Vou me divorciar do irmão siscon da protagonista, um manhwa em português.",
-    "chaptersCount": 43,
+    "chaptersCount": 44,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260733,7 +260733,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Transformando o Tigre em Gatinho, um manhwa em português.",
     "descriptionPt": "Leia Transformando o Tigre em Gatinho, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

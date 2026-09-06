@@ -233634,7 +233634,7 @@ let MANGA_DATA = [
     ],
     "description": "The Return of the Disaster-Class Hero There once was the strongest Hero on earth. “But he died though. How does a guy we killed gonna come back?” “I know right. But if there was a way to come back, he would come back.” But did he really come back after 20 years? “What are you so surprised about? Why. Did you do something to feel guilty about?” You bastards. I won’t let you get away with it.",
     "descriptionPt": "",
-    "chaptersCount": 186,
+    "chaptersCount": 189,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

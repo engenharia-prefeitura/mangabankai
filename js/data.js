@@ -207780,7 +207780,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Morando com o Romeo, um manhwa em português.",
     "descriptionPt": "Leia Morando com o Romeo, um manhwa em português.",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231433,7 +231433,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O sétimo príncipe quer escapar, um manhwa em português.",
     "descriptionPt": "Leia O sétimo príncipe quer escapar, um manhwa em português.",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231962,7 +231962,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Professor Runebound, um webtoon em português.",
     "descriptionPt": "Leia O Retorno do Professor Runebound, um webtoon em português.",
-    "chaptersCount": 88,
+    "chaptersCount": 89,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232068,7 +232068,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia I Will Fall With The Emperor, um manhwa em português.",
     "descriptionPt": "Leia I Will Fall With The Emperor, um manhwa em português.",
-    "chaptersCount": 201,
+    "chaptersCount": 202,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232546,7 +232546,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Providência de Alto Nível, um manhua em português.",
     "descriptionPt": "Leia Providência de Alto Nível, um manhua em português.",
-    "chaptersCount": 283,
+    "chaptersCount": 284,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -233727,7 +233727,7 @@ let MANGA_DATA = [
     ],
     "description": "Jungle Juice Suchan Jang is an extraordinary college student at the top of the social food chain. But underneath the perfect facade, he hides a pair of insect wings that suddenly grew when he used a mysterious bug spray called “Jungle Juice.” Suchan’s life crumbles when he bares his wings to the world to save someone’s life. When all hope seems lost, Suchan stumbles upon a hidden world of insect humans where everyone is accepted for what they are. But the law of the jungle governs this secret society and all must fend for themselves in order to survive. This series belongs to a universe called",
     "descriptionPt": "",
-    "chaptersCount": 212,
+    "chaptersCount": 215,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -250650,7 +250650,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Segundo Eunuco Recupera Sua Masculinidade, um manhwa em português.",
     "descriptionPt": "Leia O Segundo Eunuco Recupera Sua Masculinidade, um manhwa em português.",
-    "chaptersCount": 104,
+    "chaptersCount": 105,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250676,7 +250676,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Crônicas do Soberano Preguiçoso, um manhwa em português.",
     "descriptionPt": "Leia Crônicas do Soberano Preguiçoso, um manhwa em português.",
-    "chaptersCount": 62,
+    "chaptersCount": 63,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252596,7 +252596,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Besta da Mansão Alvard, um manhwa em português.",
     "descriptionPt": "Leia A Besta da Mansão Alvard, um manhwa em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252863,7 +252863,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Bebê Prisioneira do Castelo de Inverno, um manhwa em português.",
     "descriptionPt": "Leia A Bebê Prisioneira do Castelo de Inverno, um manhwa em português.",
-    "chaptersCount": 106,
+    "chaptersCount": 107,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253759,7 +253759,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Como se o amor não existisse, um manhwa em português.",
     "descriptionPt": "Leia Como se o amor não existisse, um manhwa em português.",
-    "chaptersCount": 44,
+    "chaptersCount": 45,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253783,7 +253783,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Casamento por Conveniência 2: A Canção Inesquecível, um manhwa em português.",
     "descriptionPt": "Leia Casamento por Conveniência 2: A Canção Inesquecível, um manhwa em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254554,7 +254554,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia despertando-o-trovao-roxo-no-inicio online em português.",
     "descriptionPt": "Leia despertando-o-trovao-roxo-no-inicio online em português.",
-    "chaptersCount": 87,
+    "chaptersCount": 88,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254598,7 +254598,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-reencarnacao-do-rei-dos-punhos-reencarnacao-do-deus-dos-punhos online em português.",
     "descriptionPt": "Leia a-reencarnacao-do-rei-dos-punhos-reencarnacao-do-deus-dos-punhos online em português.",
-    "chaptersCount": 67,
+    "chaptersCount": 68,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254686,7 +254686,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia retorno-de-10000-vezes-irma-senior-por-favor-comporte-se online em português.",
     "descriptionPt": "Leia retorno-de-10000-vezes-irma-senior-por-favor-comporte-se online em português.",
-    "chaptersCount": 36,
+    "chaptersCount": 37,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255627,7 +255627,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Caçador Quer Uma Vida Tranquila, um manhwa em português.",
     "descriptionPt": "Leia O Caçador Quer Uma Vida Tranquila, um manhwa em português.",
-    "chaptersCount": 40,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257291,7 +257291,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dépaysement, um manhwa em português.",
     "descriptionPt": "Leia Dépaysement, um manhwa em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 23,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257396,7 +257396,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia 0 e 1, um manhwa em português.",
     "descriptionPt": "Leia 0 e 1, um manhwa em português.",
-    "chaptersCount": 6,
+    "chaptersCount": 7,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258485,7 +258485,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Como Curar o Frágil Amigo de Infância, um manhwa em português.",
     "descriptionPt": "Leia Como Curar o Frágil Amigo de Infância, um manhwa em português.",
-    "chaptersCount": 13,
+    "chaptersCount": 14,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263691,7 +263691,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ajoelhe-se, Vossa Graça!, um manhwa em português.",
     "descriptionPt": "Leia Ajoelhe-se, Vossa Graça!, um manhwa em português.",
-    "chaptersCount": 29,
+    "chaptersCount": 38,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264100,7 +264100,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Cere, curandeira do tempo, um manhwa em português.",
     "descriptionPt": "Leia Cere, curandeira do tempo, um manhwa em português.",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264349,7 +264349,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Um Pintor Que Desenha Dungeons, um manhwa em português.",
     "descriptionPt": "Leia Um Pintor Que Desenha Dungeons, um manhwa em português.",
-    "chaptersCount": 21,
+    "chaptersCount": 23,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264845,7 +264845,7 @@ let MANGA_DATA = [
     ],
     "description": "Heart Level Tired of the city, I moved to the countryside for a quiet life. But now… everyone I see has a number on their chest!",
     "descriptionPt": "",
-    "chaptersCount": 30,
+    "chaptersCount": 33,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -265139,7 +265139,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Bebê Tirana, um manhwa em português.",
     "descriptionPt": "Leia Bebê Tirana, um manhwa em português.",
-    "chaptersCount": 114,
+    "chaptersCount": 118,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -267648,7 +267648,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia ENNEAD, um manhwa em português.",
     "descriptionPt": "Leia ENNEAD, um manhwa em português.",
-    "chaptersCount": 138,
+    "chaptersCount": 139,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -268418,6 +268418,33 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "mago-de-areia-do-deserto-ardente",
+    "slug": "mago-de-areia-do-deserto-ardente",
+    "title": "Mago de Areia do Deserto Ardente",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/mago-de-areia-do-deserto-ardente/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/mago-de-areia-do-deserto-ardente/cover-md.webp",
+    "author": "Hamel",
+    "artist": "Hamel",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Ação",
+      "Artes Marciais",
+      "Shounen",
+      "Fantasia",
+      "Aventura",
+      "Manhwa"
+    ],
+    "description": "Leia Mago de Areia do Deserto Ardente, um manhwa em português.",
+    "descriptionPt": "Leia Mago de Areia do Deserto Ardente, um manhwa em português.",
+    "chaptersCount": 28,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

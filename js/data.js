@@ -55296,7 +55296,7 @@ let MANGA_DATA = [
       "Manga"
     ],
     "description": "Leia Sakamoto Days online no MangaSurge.",
-    "chaptersCount": 274,
+    "chaptersCount": 275,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -97473,7 +97473,7 @@ let MANGA_DATA = [
     ],
     "description": "Happily Ever After (BINA) Since childhood, Pil Hyeonseo has dreamed of a fairy tale ending with a perfect prince, the kind she writes about in her picture books. Now 27 and still an unknown author, she believes she has finally found that happy ending, only for it to shatter when her long time boyfriend cheats on her after seven years together. Heartbroken and disoriented by the betrayal, Hyeonseo finds herself standing at a crossroads between the love she lost and the future she never imagined. Just as she is struggling to pick up the pieces, three very different men step into her life, each o",
     "descriptionPt": "",
-    "chaptersCount": 32,
+    "chaptersCount": 34,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -253368,7 +253368,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Senhorita Pendleton, um manhwa em português.",
     "descriptionPt": "Leia Senhorita Pendleton, um manhwa em português.",
-    "chaptersCount": 59,
+    "chaptersCount": 61,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256540,7 +256540,7 @@ let MANGA_DATA = [
     ],
     "description": "Bride Lessons (Official) The women, aiming to rise in status, begin classes to conquer their family’s assets.",
     "descriptionPt": "",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -257447,7 +257447,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Vou me divorciar do irmão siscon da protagonista, um manhwa em português.",
     "descriptionPt": "Leia Vou me divorciar do irmão siscon da protagonista, um manhwa em português.",
-    "chaptersCount": 44,
+    "chaptersCount": 45,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264545,7 +264545,7 @@ let MANGA_DATA = [
     ],
     "description": "“Because we’re family now.”",
     "descriptionEn": "“Because we’re family now.”",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -265140,7 +265140,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Bebê Tirana, um manhwa em português.",
     "descriptionPt": "Leia Bebê Tirana, um manhwa em português.",
-    "chaptersCount": 118,
+    "chaptersCount": 123,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265799,7 +265799,7 @@ let MANGA_DATA = [
     ],
     "description": "Mind Your Eyes, My Lady Chaehee, the cherished youngest daughter of the Minister of Rites, has led a sheltered, aristocratic life. Yet lately, her eyes keep wandering toward the family’s new hired hand, Seok. She can’t stop staring at his bursting thights beneath his pants, his bulging forearms flexing with every swing of the axe, and the defined abs exposed whenever his tunic slips up. ‘I am going to bed that man no matter what.’ Completely smitten, Chaehee plots to seduce him at every turn, only to be rejected time and again. However, the balance of power shifts when Seok approaches her with",
     "descriptionPt": "",
-    "chaptersCount": 8,
+    "chaptersCount": 10,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -267232,7 +267232,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Noite na Encruzilhada, um manhwa em português.",
     "descriptionPt": "Leia Noite na Encruzilhada, um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 3,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -268555,6 +268555,30 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "tankouhentai-zenin-mukuwarenai-harem",
+    "slug": "zenin-mukuwarenai-harem",
+    "title": "Zenin Mukuwarenai Harem",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/08/Zenin-Mukuwarenai-Harem-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/08/Zenin-Mukuwarenai-Harem-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Cabin",
+    "status": "completed",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Sexo a Três",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 2,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

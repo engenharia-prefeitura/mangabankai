@@ -97499,7 +97499,7 @@ let MANGA_DATA = [
     ],
     "description": "In the Shadow of the Serpent (Uncensored) In a world where malevolent spirits roam freely, Jeong Wol has spent his entire life pretending not to see them. Having witnessed countless evil entities since childhood, he believes that ignoring the supernatural is the only way to survive. That fragile resolve shatters when he becomes entangled in a mission led by the Disaster Squad and loses his life in the process. Or so he believes. Jeong Wol awakens to find himself alive once more, bound by a mysterious pact with Sa Hyeon, a black serpent whose presence radiates both danger and allure. Granted im",
     "descriptionPt": "",
-    "chaptersCount": 35,
+    "chaptersCount": 38,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -233787,11 +233787,12 @@ let MANGA_DATA = [
       "Romance",
       "Sexual Content",
       "Supernatural",
+      "Webtoons",
       "Hentai"
     ],
     "description": "Asmodeck: A Game of Desire When the manager brought in a dusty-looking board game, no one knew that… this is one game you can’t escape.",
     "descriptionPt": "",
-    "chaptersCount": 27,
+    "chaptersCount": 31,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -256410,7 +256411,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
     "descriptionPt": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
-    "chaptersCount": 62,
+    "chaptersCount": 63,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259707,7 +259708,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Era o Lixo, um manhwa em português.",
     "descriptionPt": "Leia Eu Era o Lixo, um manhwa em português.",
-    "chaptersCount": 38,
+    "chaptersCount": 39,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260093,7 +260094,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vida de uma Empregada que Esconde seu Poder, um manhwa em português.",
     "descriptionPt": "Leia A Vida de uma Empregada que Esconde seu Poder, um manhwa em português.",
-    "chaptersCount": 38,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260492,7 +260493,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia It Looks Like I’ve Fallen into the World of a Reverse Harem Game, um manhwa em português.",
     "descriptionPt": "Leia It Looks Like I’ve Fallen into the World of a Reverse Harem Game, um manhwa em português.",
-    "chaptersCount": 168,
+    "chaptersCount": 171,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -268472,6 +268473,30 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "a-pervert-s-daily-life",
+    "slug": "a-pervert-s-daily-life",
+    "title": "A Pervert’s Daily Life",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2024/08/a-perverts-daily-life-01-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2024/08/a-perverts-daily-life-01-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult"
+    ],
+    "description": "Let’s just say Jinwoo and Seyoung got off to a rocky start. Not knowing Seyoung would be living in a company dorm with a male employee, her direct superior at",
+    "descriptionEn": "Let’s just say Jinwoo and Seyoung got off to a rocky start. Not knowing Seyoung would be living in a company dorm with a male employee, her direct superior at",
+    "chaptersCount": 144,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

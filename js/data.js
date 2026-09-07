@@ -100698,7 +100698,7 @@ let MANGA_DATA = [
     ],
     "description": "Dating After Work (Official) Adam’s fake relationship with his boss was supposed to be mutually beneficial, so why is he so stressed out?",
     "descriptionPt": "",
-    "chaptersCount": 130,
+    "chaptersCount": 133,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -250412,7 +250412,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-esposa-que-esperou-no-campo-de-trigo online em português.",
     "descriptionPt": "Leia a-esposa-que-esperou-no-campo-de-trigo online em português.",
-    "chaptersCount": 26,
+    "chaptersCount": 27,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254896,7 +254896,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Lendária Assassina Reencarnada Como a Amada Filha Caçula de Uma Família Real, um mangá em português.",
     "descriptionPt": "Leia A Lendária Assassina Reencarnada Como a Amada Filha Caçula de Uma Família Real, um mangá em português.",
-    "chaptersCount": 38,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263561,7 +263561,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-noiva-fantasma-do-principe-abandonado online em português.",
     "descriptionPt": "Leia a-noiva-fantasma-do-principe-abandonado online em português.",
-    "chaptersCount": 13,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -268497,6 +268497,64 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "mangadistrict-reined-in-lust-uncensored",
+    "slug": "reined-in-lust-uncensored",
+    "title": "Reined In Lust (Uncensored)",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/reined-in-lust-uncensored-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/reined-in-lust-uncensored-official.webp",
+    "author": "Skimpy Impy",
+    "artist": "Skimpy Impy",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Animal Characteristics",
+      "Borderline H",
+      "Drama",
+      "Explicit Sex",
+      "Fantasy",
+      "Full Color",
+      "OEL",
+      "Uncensored",
+      "Webtoons",
+      "Hentai"
+    ],
+    "description": "Reined In Lust (Uncensored) SPIN-OFF In Reined In Lust, Roger, his stepmom Gwen, and his indigenous lover Alice get captured by fierce tribesmen who hate outsiders. To prove their worth, the trio faces a challenge of virility with an unexpected twist that leaves them questioning everything they know about life and their sexual prowess. The Horsening will show whether the city folk have what it takes to survive true untamed passion.",
+    "descriptionPt": "",
+    "chaptersCount": 4,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
+  },
+  {
+    "id": "mangadistrict-the-curse-of-the-small-dick-uncensored",
+    "slug": "the-curse-of-the-small-dick-uncensored",
+    "title": "The Curse of the Small Dick (Uncensored)",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/the-curse-of-the-small-dick-uncensored-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/the-curse-of-the-small-dick-uncensored-official.webp",
+    "author": "S. ppuccino",
+    "artist": "Blue Jelly",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "BL",
+      "BL Uncensored",
+      "Yaoi",
+      "Hentai"
+    ],
+    "description": "The Curse of the Small Dick (Uncensored) Lee Changyeon is a trashy top whose favorite hobby is opening up virgins all the way to their colons. His golden rule in life? Never look back at a man he’s already slept with. However, a thunderbolt out of the blue shatters his arrogant lifestyle: he is struck by an absurd curse that shrinks his dick every time he ejaculates! To make matters worse, the only way to break this damned curse is to receive semen deep inside his own colon. Well, how hard could it be? Sex is sex, so what if he’s the one taking it for a change? Changyeon immediately goes hunti",
+    "descriptionPt": "",
+    "chaptersCount": 8,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
   }
 ];
 

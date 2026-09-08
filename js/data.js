@@ -97655,7 +97655,7 @@ let MANGA_DATA = [
     ],
     "description": "Borderline (DanRim) (Uncensored) When Hwang Mok-yeon’s friend-with-benefits Chae Sunhwa proposes a threesome, he’s only mildly intrigued until he hears who the third is. Her target? Eun Nanjo: wealthy, polite, and perfectly presentable…but, according to Sunhwa, hopelessly boring in bed. At first, it’s just curiosity. But once the three of them are tangled in sheets, Mok-yeon finds he can’t take his eyes off Nanjo…not even for a moment. And when he realizes Nanjo may be more interested in saving Sunhwa than claiming him, Mok-yeon makes a quiet, dangerous offer. He leans in and says, “I want you",
     "descriptionPt": "",
-    "chaptersCount": 38,
+    "chaptersCount": 40,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -116191,7 +116191,7 @@ let MANGA_DATA = [
     ],
     "description": "Campus Confessions Spring is in the air, the flowers are blooming…and the freshmen are thirsting. It’s the start of the semester, and everyone’s dreaming of the perfect campus life. But college isn’t all sunshine and cherry blossoms. It’s also packed with scandalous hookups, secret flings, and outrageous rumors that spread faster than midterm anxiety. From the library to the lecture halls, these tantilising tales are being whispered behind every closed dorm door. Want to find out what really goes down on campus?",
     "descriptionPt": "",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -230083,7 +230083,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Bebi a Poção do Amor Destinada ao Meu Marido, um manhwa em português.",
     "descriptionPt": "Leia Bebi a Poção do Amor Destinada ao Meu Marido, um manhwa em português.",
-    "chaptersCount": 20,
+    "chaptersCount": 22,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232041,7 +232041,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Os protagonistas masculinos obsessivos querem me devorar viva, um manhwa em português.",
     "descriptionPt": "Leia Os protagonistas masculinos obsessivos querem me devorar viva, um manhwa em português.",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232147,7 +232147,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mudarei meu Destino Através de um Casamento por Conveniência, um manhwa em português.",
     "descriptionPt": "Leia Mudarei meu Destino Através de um Casamento por Conveniência, um manhwa em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -233235,7 +233235,7 @@ let MANGA_DATA = [
     ],
     "description": "Business Trip Temptation Minseok is a hard-working marketing assistant at LS Cinema who knows how to navigate office life – except when it comes to his gorgeous boss, Jeong Suhee. She constantly gives him a hard time, but Minseok can’t help falling for her hidden warmth and stunning looks. Little does he know, Suhee secretly has a soft spot for her handsome, charming subordinate. When a business trip sends them away together, the professional boundaries dissolve, and a risky, forbidden office romance begins.",
     "descriptionPt": "",
-    "chaptersCount": 16,
+    "chaptersCount": 18,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -250705,7 +250705,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Lendário Cavaleiro da Lança, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Lendário Cavaleiro da Lança, um manhwa em português.",
-    "chaptersCount": 213,
+    "chaptersCount": 214,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250887,7 +250887,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Fui Confundido com um Gênio Monstruoso, um manhwa em português.",
     "descriptionPt": "Leia Fui Confundido com um Gênio Monstruoso, um manhwa em português.",
-    "chaptersCount": 116,
+    "chaptersCount": 117,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251267,7 +251267,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vingança do Cão de Caça dos Baskerville, um manhwa em português.",
     "descriptionPt": "Leia A Vingança do Cão de Caça dos Baskerville, um manhwa em português.",
-    "chaptersCount": 178,
+    "chaptersCount": 179,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251374,7 +251374,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Imperador Solo, um manhwa em português.",
     "descriptionPt": "Leia Imperador Solo, um manhwa em português.",
-    "chaptersCount": 82,
+    "chaptersCount": 83,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252597,7 +252597,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Besta da Mansão Alvard, um manhwa em português.",
     "descriptionPt": "Leia A Besta da Mansão Alvard, um manhwa em português.",
-    "chaptersCount": 28,
+    "chaptersCount": 29,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254321,7 +254321,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Filho Adotivo em um Mundo de Supremacia de Linhagem, um mangá em português.",
     "descriptionPt": "Leia O Retorno do Filho Adotivo em um Mundo de Supremacia de Linhagem, um mangá em português.",
-    "chaptersCount": 50,
+    "chaptersCount": 51,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258544,7 +258544,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Secret of My Next Classmate, um manhwa em português.",
     "descriptionPt": "Leia The Secret of My Next Classmate, um manhwa em português.",
-    "chaptersCount": 114,
+    "chaptersCount": 118,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260070,7 +260070,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-mundo-arruinado-foi-confundido-com-um-jogo online em português.",
     "descriptionPt": "Leia o-mundo-arruinado-foi-confundido-com-um-jogo online em português.",
-    "chaptersCount": 23,
+    "chaptersCount": 24,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260537,7 +260537,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-mestre-espadachim-devorador-de-espadas online em português.",
     "descriptionPt": "Leia o-mestre-espadachim-devorador-de-espadas online em português.",
-    "chaptersCount": 44,
+    "chaptersCount": 45,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260603,7 +260603,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-casei-com-o-dragao-que-matei online em português.",
     "descriptionPt": "Leia me-casei-com-o-dragao-que-matei online em português.",
-    "chaptersCount": 13,
+    "chaptersCount": 14,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264643,7 +264643,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia escandalo-amoroso-da-imperatriz online em português.",
     "descriptionPt": "Leia escandalo-amoroso-da-imperatriz online em português.",
-    "chaptersCount": 4,
+    "chaptersCount": 5,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265957,7 +265957,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Como Você Desejar, um manhwa em português.",
     "descriptionPt": "Leia Como Você Desejar, um manhwa em português.",
-    "chaptersCount": 9,
+    "chaptersCount": 10,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -268658,6 +268658,29 @@ let MANGA_DATA = [
     "description": "Leia Estou namorando um psicopata, um manhwa em português.",
     "descriptionPt": "Leia Estou namorando um psicopata, um manhwa em português.",
     "chaptersCount": 76,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "termos-de-uso-do-prototipo",
+    "slug": "termos-de-uso-do-prototipo",
+    "title": "Termos de uso do Protótipo",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/termos-de-uso-do-prototipo/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/termos-de-uso-do-prototipo/cover-md.webp",
+    "author": "Taeyangshin",
+    "artist": "Taeyangshin",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Romance",
+      "Psicológico"
+    ],
+    "description": "Leia Termos de uso do Protótipo, um manhwa em português.",
+    "descriptionPt": "Leia Termos de uso do Protótipo, um manhwa em português.",
+    "chaptersCount": 2,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

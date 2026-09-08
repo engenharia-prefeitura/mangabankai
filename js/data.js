@@ -114673,7 +114673,7 @@ let MANGA_DATA = [
     ],
     "description": "Rakujitsu no Pathos What happens when next door to Fujiwara, an upcoming mangaka, moves Yuuki, who was his teacher back at high-school and first crush? Yuuki, a married woman now is starting a new life in the city but her husband is always away on business so she finds comfort in the company of her former student but what she doesn’t realise is that Fujiwara can listen to everything happening in her apartment through the building’s thin walls…",
     "descriptionPt": "",
-    "chaptersCount": 114,
+    "chaptersCount": 115,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -232674,7 +232674,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Privilégio de uma Transmigrante, um manhwa em português.",
     "descriptionPt": "Leia O Privilégio de uma Transmigrante, um manhwa em português.",
-    "chaptersCount": 145,
+    "chaptersCount": 146,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249766,7 +249766,7 @@ let MANGA_DATA = [
     ],
     "description": "My Ex-Boo (Uncensored) Two years ago, Lee Gyudam abruptly ended his relationship with Shin Myeongjin right before enlisting in the military. When destiny finally brings them face-to-face on their college campus, Myeongjin is eager to reconnect, only to be utterly devastated. Due to a bizarre spiritual affliction, Gyudam is haunted by ghosts and literally cannot recognize his former lover’s face. Reeling from the trauma that his beloved hyung has completely forgotten him, a distracted Myeongjin wanders into traffic and gets hit by a car. Now trapped in a state of out-of-body astral projection, ",
     "descriptionPt": "",
-    "chaptersCount": 15,
+    "chaptersCount": 17,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -253315,7 +253315,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Carrier Falcon Princess, um manhwa em português.",
     "descriptionPt": "Leia Carrier Falcon Princess, um manhwa em português.",
-    "chaptersCount": 126,
+    "chaptersCount": 127,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253863,7 +253863,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Santa Bebê Quer Destruir o Mundo!, um manhwa em português.",
     "descriptionPt": "Leia A Santa Bebê Quer Destruir o Mundo!, um manhwa em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255873,7 +255873,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Sacerdotisa de Dahalen, um manhwa em português.",
     "descriptionPt": "Leia A Sacerdotisa de Dahalen, um manhwa em português.",
-    "chaptersCount": 5,
+    "chaptersCount": 6,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257292,7 +257292,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dépaysement, um manhwa em português.",
     "descriptionPt": "Leia Dépaysement, um manhwa em português.",
-    "chaptersCount": 23,
+    "chaptersCount": 24,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260434,7 +260434,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Pai, Eu nunca… te perdoarei!, um manhwa em português.",
     "descriptionPt": "Leia Pai, Eu nunca… te perdoarei!, um manhwa em português.",
-    "chaptersCount": 52,
+    "chaptersCount": 53,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260734,7 +260734,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Transformando o Tigre em Gatinho, um manhwa em português.",
     "descriptionPt": "Leia Transformando o Tigre em Gatinho, um manhwa em português.",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -267155,7 +267155,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ligado a sua Ruína, um manhwa em português.",
     "descriptionPt": "Leia Ligado a sua Ruína, um manhwa em português.",
-    "chaptersCount": 1,
+    "chaptersCount": 3,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -268579,6 +268579,88 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "minha-mae-se-casou-por-contrato",
+    "slug": "minha-mae-se-casou-por-contrato",
+    "title": "Minha Mãe Se Casou Por Contrato",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/minha-mae-se-casou-por-contrato/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/minha-mae-se-casou-por-contrato/cover-md.webp",
+    "author": "Siya",
+    "artist": "Siya",
+    "status": "ongoing",
+    "year": 2022,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Romance",
+      "Isekai",
+      "Manhwa"
+    ],
+    "description": "Leia Minha Mãe Se Casou Por Contrato, um manhwa em português.",
+    "descriptionPt": "Leia Minha Mãe Se Casou Por Contrato, um manhwa em português.",
+    "chaptersCount": 81,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "para-julieta",
+    "slug": "para-julieta",
+    "title": "Para Julieta",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/para-julieta/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/para-julieta/cover-md.webp",
+    "author": "Nessa",
+    "artist": "Nessa",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 7,
+    "genres": [
+      "Fantasia",
+      "Romance",
+      "Historico",
+      "Tragedia",
+      "Manhwa",
+      "Supernatural"
+    ],
+    "description": "Leia Para Julieta, um manhwa em português.",
+    "descriptionPt": "Leia Para Julieta, um manhwa em português.",
+    "chaptersCount": 32,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "estou-namorando-um-psicopata",
+    "slug": "estou-namorando-um-psicopata",
+    "title": "Estou namorando um psicopata",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/estou-namorando-um-psicopata/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/estou-namorando-um-psicopata/cover-md.webp",
+    "author": "Nosleepweare",
+    "artist": "Nosleepweare",
+    "status": "ongoing",
+    "year": 2023,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Ação",
+      "Mistério",
+      "Slice of Life",
+      "Psicológico",
+      "Gore",
+      "Horror",
+      "Policial"
+    ],
+    "description": "Leia Estou namorando um psicopata, um manhwa em português.",
+    "descriptionPt": "Leia Estou namorando um psicopata, um manhwa em português.",
+    "chaptersCount": 76,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 
@@ -268703,7 +268785,7 @@ function filterManga(opts) {
   return results;
 }
 
-const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animais","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Casamento Arranjado","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Conto","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Escritório","Esporte","Esportes","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gyaru","Harem","Harém","Harém Reverso","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Horrow","Idol","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Máfia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","Older Woman","One Shot","Outros gêneros","Parceria","Parody Anime","Parte da Vida","Person in a Strange World","Police","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vampiro","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Younger Man","Yuri","Zombies","Zoofilia"];
+const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animais","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Casamento Arranjado","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Conto","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Escritório","Esporte","Esportes","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gore","Gyaru","Harem","Harém","Harém Reverso","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Horrow","Idol","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Máfia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","Older Woman","One Shot","Outros gêneros","Parceria","Parody Anime","Parte da Vida","Person in a Strange World","Police","Policial","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vampiro","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Younger Man","Yuri","Zombies","Zoofilia"];
 
 var ADULT_GENRE_KW = ['hentai','adulto','adult','+18','18+','nsfw','ecchi','smut','mature','maduro','erotic','erótic','erotica','bdsm','futanari','loli','shota','inces','tentacul','tentácul','zoofilia','obsceno','sem censura','uncensor','censura','nudez','nudity','sexual','sexo','mindbreak','ahegao','netorare','fetich','fetish','omegaverse','vanilla','borderline h'];
 function isAdultGenre(g) {

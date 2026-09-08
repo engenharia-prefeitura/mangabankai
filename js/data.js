@@ -96613,7 +96613,7 @@ let MANGA_DATA = [
     ],
     "description": "[Reboot] Going Wild With Stepmom (Uncensored) Roger hates the outdoors, but a mountain trip turns unforgettable in Going Wild With Stepmom, a bold remake of Vacation with My Stepmom. When the nights grow cold, his attractive stepmother Gwen invites him to share a sleeping bag. What begins as simple comfort quickly sparks dangerous temptation. With his father only a tent away, Roger struggles to resist Gwen and the web of secrets between them.",
     "descriptionPt": "",
-    "chaptersCount": 12,
+    "chaptersCount": 13,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97844,7 +97844,7 @@ let MANGA_DATA = [
     ],
     "description": "The White Pine Kim Jaehan, a brilliant and ambitious young magistrate newly appointed to the Sangju district, arrives with a hidden agenda that threatens the local status quo. Shortly after his arrival, he crosses paths with Choi Yeon-ho, the eldest son of the powerful and influential Choi clan. Despite his lineage, Yeon-ho lives a miserable existence as a social outcast held in utter contempt by his own family. Jaehan finds himself strangely drawn to the innocent, suffering soul hidden beneath Yeon-ho’s ragged exterior, and he begins to offer the young man a rare, genuine kindness. For Yeon-h",
     "descriptionPt": "",
-    "chaptersCount": 23,
+    "chaptersCount": 26,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -249501,7 +249501,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Limite Absoluto, um manhwa em português.",
     "descriptionPt": "Leia Limite Absoluto, um manhwa em português.",
-    "chaptersCount": 89,
+    "chaptersCount": 94,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252786,7 +252786,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Campo Esquecido, um manhwa em português.",
     "descriptionPt": "Leia O Campo Esquecido, um manhwa em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253811,7 +253811,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Meu Atrevido Leite de Morango, um manhwa em português.",
     "descriptionPt": "Leia Meu Atrevido Leite de Morango, um manhwa em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -267542,7 +267542,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-chefe-quer-morrer online em português.",
     "descriptionPt": "Leia o-chefe-quer-morrer online em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 3,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -268709,7 +268709,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Erica: Quando Meu Amigo Fica Obcecado por Mim, um manhwa em português.",
     "descriptionPt": "Leia Erica: Quando Meu Amigo Fica Obcecado por Mim, um manhwa em português.",
-    "chaptersCount": 10,
+    "chaptersCount": 15,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

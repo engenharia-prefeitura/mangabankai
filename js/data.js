@@ -97414,7 +97414,7 @@ let MANGA_DATA = [
     ],
     "description": "Kiss Me if You Can (Uncensored) “Six months… Just six months, and it’ll all be over.” After a one-night stand Hollywood top star Chase Miller, Joshua finds out he’s pregnant. As a single father, Joshua raises their child in secrecy. But when he is forced to return to work as Chase’s bodyguard, the two are reunited in a cruel twist of fate. Relieved that Chase doesn’t seem to remember him, Josh’s comfort is short lived – something primal, something desperate, yearns for the touch of his former lover, and every time he sees this beautifully twisted man, Josh’s heart races in spite of his mind. T",
     "descriptionPt": "",
-    "chaptersCount": 52,
+    "chaptersCount": 53,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -256281,7 +256281,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Amor De Iseop, um manhwa em português.",
     "descriptionPt": "Leia O Amor De Iseop, um manhwa em português.",
-    "chaptersCount": 111,
+    "chaptersCount": 112,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262068,7 +262068,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Regra de Ouro de Han Serim, um manhwa em português.",
     "descriptionPt": "Leia A Regra de Ouro de Han Serim, um manhwa em português.",
-    "chaptersCount": 5,
+    "chaptersCount": 6,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269035,6 +269035,31 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "tankouhentai-saotsuki-honey-to-doukyo-seikatsu",
+    "slug": "saotsuki-honey-to-doukyo-seikatsu",
+    "title": "Saotsuki Honey to Doukyo Seikatsu",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/08/Saotsuki-Honey-to-Doukyo-Seikatsu-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/08/Saotsuki-Honey-to-Doukyo-Seikatsu-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Hontoku",
+    "status": "completed",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Traição",
+      "Travesti",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 6,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

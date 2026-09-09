@@ -95780,7 +95780,7 @@ let MANGA_DATA = [
     ],
     "description": "Standard of Reincarnation The greatest martial family, Samion. Daven, a member of the Samion family, is a one-armed martial soldier without a right arm. Despite the ridicule and contempt he got for only having a left arm, he surpassed the direct line of the Samion family like a genius. However, he got betrayed by his family and parents in the end, thus meeting a poor end. But, he was reincarnated. “I have a right arm?” He had a new family tradition. A naturally gifted body. Experience from his past life. And the god Yulion with him as well. After his reincarnation, everything changed, and a ne",
     "descriptionPt": "",
-    "chaptersCount": 194,
+    "chaptersCount": 196,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207991,7 +207991,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Veletric, um manhwa em português.",
     "descriptionPt": "Leia Veletric, um manhwa em português.",
-    "chaptersCount": 393,
+    "chaptersCount": 394,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231852,7 +231852,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Lixo da Família Condal, um manhwa em português.",
     "descriptionPt": "Leia O Lixo da Família Condal, um manhwa em português.",
-    "chaptersCount": 187,
+    "chaptersCount": 188,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249448,7 +249448,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromante: Rei dos Mortos, um manhua em português.",
     "descriptionPt": "Leia Necromante: Rei dos Mortos, um manhua em português.",
-    "chaptersCount": 302,
+    "chaptersCount": 304,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251240,7 +251240,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Criança Problemática da Torre Mágica, um manhwa em português.",
     "descriptionPt": "Leia A Criança Problemática da Torre Mágica, um manhwa em português.",
-    "chaptersCount": 60,
+    "chaptersCount": 61,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251293,7 +251293,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Filho Caçula do Conde é um Jogador, um manhwa em português.",
     "descriptionPt": "Leia O Filho Caçula do Conde é um Jogador, um manhwa em português.",
-    "chaptersCount": 168,
+    "chaptersCount": 169,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251484,7 +251484,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Sou o Vilão Predestinado, um manhua em português.",
     "descriptionPt": "Leia Eu Sou o Vilão Predestinado, um manhua em português.",
-    "chaptersCount": 354,
+    "chaptersCount": 356,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251512,7 +251512,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Reencarnei Como um Cirurgião Lendário, um manhwa em português.",
     "descriptionPt": "Leia Reencarnei Como um Cirurgião Lendário, um manhwa em português.",
-    "chaptersCount": 214,
+    "chaptersCount": 216,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251700,7 +251700,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Evolução Infinita: Começando do Zero, um manhua em português.",
     "descriptionPt": "Leia Evolução Infinita: Começando do Zero, um manhua em português.",
-    "chaptersCount": 122,
+    "chaptersCount": 124,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251777,7 +251777,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei Um Homem Casado Em Outro Mundo, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei Um Homem Casado Em Outro Mundo, um manhwa em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252682,7 +252682,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guarda Malandro em uma Fantasia Medieval, um manhwa em português.",
     "descriptionPt": "Leia Guarda Malandro em uma Fantasia Medieval, um manhwa em português.",
-    "chaptersCount": 47,
+    "chaptersCount": 48,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252709,7 +252709,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mestre Espadachim Criado Pelas Estrelas, um manhwa em português.",
     "descriptionPt": "Leia Mestre Espadachim Criado Pelas Estrelas, um manhwa em português.",
-    "chaptersCount": 136,
+    "chaptersCount": 137,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253075,7 +253075,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Knight King Who Returned with a God, um manhwa em português.",
     "descriptionPt": "Leia The Knight King Who Returned with a God, um manhwa em português.",
-    "chaptersCount": 180,
+    "chaptersCount": 181,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253103,7 +253103,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Estilo de Vida de um Imortal, um manhwa em português.",
     "descriptionPt": "Leia O Estilo de Vida de um Imortal, um manhwa em português.",
-    "chaptersCount": 28,
+    "chaptersCount": 29,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254665,7 +254665,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia streaming-da-estrategia-oculta-do-retornado online em português.",
     "descriptionPt": "Leia streaming-da-estrategia-oculta-do-retornado online em português.",
-    "chaptersCount": 44,
+    "chaptersCount": 45,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255516,7 +255516,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Não Perdoe nossos pecados, um manhwa em português.",
     "descriptionPt": "Leia Não Perdoe nossos pecados, um manhwa em português.",
-    "chaptersCount": 7,
+    "chaptersCount": 13,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261147,7 +261147,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Retorno de Vidas Passadas, um manhwa em português.",
     "descriptionPt": "Leia Retorno de Vidas Passadas, um manhwa em português.",
-    "chaptersCount": 171,
+    "chaptersCount": 173,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265113,7 +265113,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Príncipe não Chora por Causa de Simples Cebolas, um manhwa em português.",
     "descriptionPt": "Leia O Príncipe não Chora por Causa de Simples Cebolas, um manhwa em português.",
-    "chaptersCount": 4,
+    "chaptersCount": 5,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -267104,7 +267104,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Faísca em Seus Olhos, um manhwa em português.",
     "descriptionPt": "Leia A Faísca em Seus Olhos, um manhwa em português.",
-    "chaptersCount": 82,
+    "chaptersCount": 83,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

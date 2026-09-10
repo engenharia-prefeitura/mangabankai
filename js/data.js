@@ -99770,7 +99770,7 @@ let MANGA_DATA = [
     ],
     "description": "The Delinquent Girl (Uncensored) Bullied in school, and now reunited… Can I get my payback?",
     "descriptionPt": "",
-    "chaptersCount": 24,
+    "chaptersCount": 26,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207780,7 +207780,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Morando com o Romeo, um manhwa em português.",
     "descriptionPt": "Leia Morando com o Romeo, um manhwa em português.",
-    "chaptersCount": 36,
+    "chaptersCount": 37,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260434,7 +260434,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Pai, Eu nunca… te perdoarei!, um manhwa em português.",
     "descriptionPt": "Leia Pai, Eu nunca… te perdoarei!, um manhwa em português.",
-    "chaptersCount": 54,
+    "chaptersCount": 55,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263666,7 +263666,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Criadora de Escândalos Voltou, um manhwa em português.",
     "descriptionPt": "Leia A Criadora de Escândalos Voltou, um manhwa em português.",
-    "chaptersCount": 15,
+    "chaptersCount": 16,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

@@ -92137,7 +92137,7 @@ let MANGA_DATA = [
     ],
     "description": "Office Romance Registry (Official) While working overtime, Jace Choi happens to stumble upon the ‘Office Romance Registry.’ Out of curiosity, he writes his name in the manager’s column. From that day on, his life begins to change… ‘Office romance is forbidden in our company. However, managers are excluded.’",
     "descriptionPt": "",
-    "chaptersCount": 41,
+    "chaptersCount": 45,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -92648,7 +92648,7 @@ let MANGA_DATA = [
     ],
     "description": "I want to work in peace Daniel Maeng, a local civil servant in a provincial new town, just wants to quietly serve out his full term without incident. But right after a near-fatal accident, he gets a hypnosis app—and suddenly, his dull little town starts turning into a playground!",
     "descriptionPt": "",
-    "chaptersCount": 20,
+    "chaptersCount": 22,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -94069,7 +94069,7 @@ let MANGA_DATA = [
     ],
     "description": "Rabbit Hole (Uncensored) One drunken night, I thought I finally slept with Ko Woonha, the person I’ve quietly loved for years. At least… that’s what I believed. “Was it really you? Please tell me it wasn’t…” “If not me, then who were you expecting?” Turns out, it wasn’t Woonha at all! It was his younger brother, Ko San. Ko San, the walking disaster. The charming troublemaker. The human hurricane who makes me want to strangle him every time he smirks. The more I try to escape his orbit, the more tangled up I get… like he’s pulling me into his chaos without even trying. Was that night really jus",
     "descriptionPt": "",
-    "chaptersCount": 38,
+    "chaptersCount": 39,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -98354,7 +98354,7 @@ let MANGA_DATA = [
     ],
     "description": "One-Day BDSM Workshop (Uncensored) After two years trapped in the dull rhythm of daily life, Heesu has grown numb—disconnected from herself and everything around her. But when she stumbles across a cryptic online ad offering a one-day BDSM roleplay experience, something stirs. Torn between fear and curiosity, she agrees to surrender control—if only for a day. What begins as a fleeting escape soon becomes a raw plunge into desire, power, and vulnerability. As boundaries blur, Heesu must confront not just the limits of pleasure, but the aching emptiness she’s been running from.",
     "descriptionPt": "",
-    "chaptersCount": 64,
+    "chaptersCount": 66,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207255,7 +207255,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu sou a Vilã, um webtoon em português.",
     "descriptionPt": "Leia Eu sou a Vilã, um webtoon em português.",
-    "chaptersCount": 108,
+    "chaptersCount": 109,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207573,7 +207573,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dragões Sequestrados, um manhwa em português.",
     "descriptionPt": "Leia Dragões Sequestrados, um manhwa em português.",
-    "chaptersCount": 58,
+    "chaptersCount": 59,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207859,7 +207859,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Me Escolhe!, um manhwa em português.",
     "descriptionPt": "Leia Me Escolhe!, um manhwa em português.",
-    "chaptersCount": 217,
+    "chaptersCount": 218,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207964,7 +207964,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Complexo de Amigos de Infância, um manhwa em português.",
     "descriptionPt": "Leia Complexo de Amigos de Infância, um manhwa em português.",
-    "chaptersCount": 87,
+    "chaptersCount": 88,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232851,7 +232851,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A vontade de sobrevivência do vilão, um manhwa em português.",
     "descriptionPt": "Leia A vontade de sobrevivência do vilão, um manhwa em português.",
-    "chaptersCount": 65,
+    "chaptersCount": 66,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249607,7 +249607,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Doberman, um manhwa em português.",
     "descriptionPt": "Leia Doberman, um manhwa em português.",
-    "chaptersCount": 43,
+    "chaptersCount": 44,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251512,7 +251512,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Reencarnei Como um Cirurgião Lendário, um manhwa em português.",
     "descriptionPt": "Leia Reencarnei Como um Cirurgião Lendário, um manhwa em português.",
-    "chaptersCount": 216,
+    "chaptersCount": 217,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251752,7 +251752,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Senhorita Celebridade, um manhwa em português.",
     "descriptionPt": "Leia Senhorita Celebridade, um manhwa em português.",
-    "chaptersCount": 86,
+    "chaptersCount": 87,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253048,7 +253048,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
     "descriptionPt": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
-    "chaptersCount": 116,
+    "chaptersCount": 118,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253236,7 +253236,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Primeiro Amor de um Delinquente, um manhwa em português.",
     "descriptionPt": "Leia O Primeiro Amor de um Delinquente, um manhwa em português.",
-    "chaptersCount": 44,
+    "chaptersCount": 46,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254347,7 +254347,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Demônio Supremo do Veneno, um manhwa em português.",
     "descriptionPt": "Leia O Demônio Supremo do Veneno, um manhwa em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 33,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254373,7 +254373,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Desejos Bestiais, um manhwa em português.",
     "descriptionPt": "Leia Desejos Bestiais, um manhwa em português.",
-    "chaptersCount": 81,
+    "chaptersCount": 82,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254577,7 +254577,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-tornei-um-mago-de-fantasia-medieval online em português.",
     "descriptionPt": "Leia me-tornei-um-mago-de-fantasia-medieval online em português.",
-    "chaptersCount": 37,
+    "chaptersCount": 38,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255297,7 +255297,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Forget About My Husband, I’d Rather Go Make Money, um manhwa em português.",
     "descriptionPt": "Leia Forget About My Husband, I’d Rather Go Make Money, um manhwa em português.",
-    "chaptersCount": 116,
+    "chaptersCount": 117,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256653,7 +256653,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Amor é uma Droga, um manhwa em português.",
     "descriptionPt": "Leia O Amor é uma Droga, um manhwa em português.",
-    "chaptersCount": 46,
+    "chaptersCount": 47,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257447,7 +257447,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Vou me divorciar do irmão siscon da protagonista, um manhwa em português.",
     "descriptionPt": "Leia Vou me divorciar do irmão siscon da protagonista, um manhwa em português.",
-    "chaptersCount": 45,
+    "chaptersCount": 46,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260434,7 +260434,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Pai, Eu nunca… te perdoarei!, um manhwa em português.",
     "descriptionPt": "Leia Pai, Eu nunca… te perdoarei!, um manhwa em português.",
-    "chaptersCount": 53,
+    "chaptersCount": 54,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261772,7 +261772,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-noivo-lobo online em português.",
     "descriptionPt": "Leia o-noivo-lobo online em português.",
-    "chaptersCount": 15,
+    "chaptersCount": 16,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262819,7 +262819,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Todos os Meus Avatares são Magnatas, um manhwa em português.",
     "descriptionPt": "Leia Todos os Meus Avatares são Magnatas, um manhwa em português.",
-    "chaptersCount": 95,
+    "chaptersCount": 96,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262893,7 +262893,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia De Reclusa, A Princesa em um Dark Romance!, um manhwa em português.",
     "descriptionPt": "Leia De Reclusa, A Princesa em um Dark Romance!, um manhwa em português.",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264494,7 +264494,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Alta Sociedade, um manhwa em português.",
     "descriptionPt": "Leia Alta Sociedade, um manhwa em português.",
-    "chaptersCount": 85,
+    "chaptersCount": 87,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264727,7 +264727,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Princesa Monstro, um manhwa em português.",
     "descriptionPt": "Leia A Princesa Monstro, um manhwa em português.",
-    "chaptersCount": 47,
+    "chaptersCount": 48,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264816,7 +264816,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Presepe Fora da Gaiola, um manhwa em português.",
     "descriptionPt": "Leia Presepe Fora da Gaiola, um manhwa em português.",
-    "chaptersCount": 65,
+    "chaptersCount": 66,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -267129,7 +267129,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Tamed a Blackened Slave Man, um manhwa em português.",
     "descriptionPt": "Leia Tamed a Blackened Slave Man, um manhwa em português.",
-    "chaptersCount": 58,
+    "chaptersCount": 60,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -268207,7 +268207,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Uma Equação Que Não Tem Resposta Errada, um manhwa em português.",
     "descriptionPt": "Leia Uma Equação Que Não Tem Resposta Errada, um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 3,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -268709,7 +268709,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Erica: Quando Meu Amigo Fica Obcecado por Mim, um manhwa em português.",
     "descriptionPt": "Leia Erica: Quando Meu Amigo Fica Obcecado por Mim, um manhwa em português.",
-    "chaptersCount": 15,
+    "chaptersCount": 16,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -268735,7 +268735,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sua Doce Obsessão, um manhwa em português.",
     "descriptionPt": "Leia Sua Doce Obsessão, um manhwa em português.",
-    "chaptersCount": 74,
+    "chaptersCount": 75,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

@@ -60312,7 +60312,7 @@ let MANGA_DATA = [
     ],
     "description": "“If you my take my wife’s clothes off, you’ll fuck her…” The naked body of the woman next door was seen on CCTV by chance… Sooheon felt a sense of guilt till",
     "descriptionEn": "“If you my take my wife’s clothes off, you’ll fuck her…” The naked body of the woman next door was seen on CCTV by chance… Sooheon felt a sense of guilt till",
-    "chaptersCount": 60,
+    "chaptersCount": 61,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97186,7 +97186,7 @@ let MANGA_DATA = [
     ],
     "description": "Once Upon a Deal (Uncensored) Ju Yunseong thought getting a job at JH Soft was the start of a normal office life—until he noticed his cold, intimidating CEO, Baek Hajin, glaring at him every time they crossed paths. “Why is the boss always staring at me? Did I do something wrong on my first day?” Determined to avoid him at all costs, Yunseong keeps his head down… until he stumbles upon a mysterious employee ID and uncovers a secret: his boss isn’t just intense—he’s a nine-tailed fox. And to make things worse? Hajin’s fox bead ends up lodged inside Yunseong’s body. Now the CEO won’t leave his s",
     "descriptionPt": "",
-    "chaptersCount": 45,
+    "chaptersCount": 46,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207755,7 +207755,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A filha mais nova salva esta família, um manhwa em português.",
     "descriptionPt": "Leia A filha mais nova salva esta família, um manhwa em português.",
-    "chaptersCount": 26,
+    "chaptersCount": 27,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232995,7 +232995,7 @@ let MANGA_DATA = [
     ],
     "description": "Swallow You Whole (Uncensored) Jaheon comes from a lineage of omegas. Omegas who have raised the children of their branch families, only for them to be offered to the Snake God, Lord Mugo, every 12 years. Though it is said that Mugo handpicks his sacrifices no one in the head family believes such an old tale anymore. However, Jaheon knows that Lord Mugo came to him when he was a child and picked him to be the sacrifice, and even remembers the events of the day. Even though Jaheon has prepared himself, both body and mind, for as long as he could remember, upon entering Mugo’s lair he quickly re",
     "descriptionPt": "",
-    "chaptersCount": 78,
+    "chaptersCount": 79,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -251160,7 +251160,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sou a Madrasta, Mas Minha Filha é Muito Fofa, um manhwa em português.",
     "descriptionPt": "Leia Sou a Madrasta, Mas Minha Filha é Muito Fofa, um manhwa em português.",
-    "chaptersCount": 171,
+    "chaptersCount": 172,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251910,7 +251910,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Recording Hall, um manhwa em português.",
     "descriptionPt": "Leia Recording Hall, um manhwa em português.",
-    "chaptersCount": 135,
+    "chaptersCount": 136,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253419,7 +253419,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Diário de Sobrevivência de um Mordomo no Castelo do Duque, um manhwa em português.",
     "descriptionPt": "Leia O Diário de Sobrevivência de um Mordomo no Castelo do Duque, um manhwa em português.",
-    "chaptersCount": 45,
+    "chaptersCount": 46,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254105,7 +254105,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Meu Corpo Foi Possuído por Alguém, um manhwa em português.",
     "descriptionPt": "Leia Meu Corpo Foi Possuído por Alguém, um manhwa em português.",
-    "chaptersCount": 99,
+    "chaptersCount": 100,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255351,7 +255351,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Renúncia da Doutora, um manhwa em português.",
     "descriptionPt": "Leia A Renúncia da Doutora, um manhwa em português.",
-    "chaptersCount": 99,
+    "chaptersCount": 100,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255732,7 +255732,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Amor:Zero, um manhwa em português.",
     "descriptionPt": "Leia Amor:Zero, um manhwa em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257447,7 +257447,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Vou me divorciar do irmão siscon da protagonista, um manhwa em português.",
     "descriptionPt": "Leia Vou me divorciar do irmão siscon da protagonista, um manhwa em português.",
-    "chaptersCount": 46,
+    "chaptersCount": 47,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260126,7 +260126,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Marido Malvado, um manhwa em português.",
     "descriptionPt": "Leia O Marido Malvado, um manhwa em português.",
-    "chaptersCount": 45,
+    "chaptersCount": 46,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265957,7 +265957,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Como Você Desejar, um manhwa em português.",
     "descriptionPt": "Leia Como Você Desejar, um manhwa em português.",
-    "chaptersCount": 10,
+    "chaptersCount": 12,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -268181,7 +268181,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Devoção de uma Rainha Viúva Pelo Amor, um mangá em português.",
     "descriptionPt": "Leia A Devoção de uma Rainha Viúva Pelo Amor, um mangá em português.",
-    "chaptersCount": 3,
+    "chaptersCount": 4,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269060,6 +269060,31 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "a-saint-who-was-adopted-by-the-grand-duke",
+    "slug": "a-saint-who-was-adopted-by-the-grand-duke",
+    "title": "A Saint Who Was Adopted by the Grand Duke",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-saint-who-was-adopted-by-the-grand-duke/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-saint-who-was-adopted-by-the-grand-duke/cover-md.webp",
+    "author": "Hwang Bino",
+    "artist": "Hwang Bino",
+    "status": "ongoing",
+    "year": 2023,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Manhwa"
+    ],
+    "description": "Leia A Saint Who Was Adopted by the Grand Duke, um manhwa em português.",
+    "descriptionPt": "Leia A Saint Who Was Adopted by the Grand Duke, um manhwa em português.",
+    "chaptersCount": 87,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

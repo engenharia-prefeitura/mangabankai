@@ -100415,7 +100415,7 @@ let MANGA_DATA = [
     ],
     "description": "My Friend’s Girlfriend Three childhood friends are hanging out when, suddenly, one drops a bold, shocking proposal on the unsuspecting third wheel.",
     "descriptionPt": "",
-    "chaptersCount": 27,
+    "chaptersCount": 30,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -260434,7 +260434,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Pai, Eu nunca… te perdoarei!, um manhwa em português.",
     "descriptionPt": "Leia Pai, Eu nunca… te perdoarei!, um manhwa em português.",
-    "chaptersCount": 55,
+    "chaptersCount": 56,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263666,7 +263666,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Criadora de Escândalos Voltou, um manhwa em português.",
     "descriptionPt": "Leia A Criadora de Escândalos Voltou, um manhwa em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269286,6 +269286,86 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "fui-chantageada-pela-cha-verde-da-minha-sala",
+    "slug": "fui-chantageada-pela-cha-verde-da-minha-sala",
+    "title": "Fui Chantageada pela Chá Verde da Minha Sala!",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/fui-chantageada-pela-cha-verde-da-minha-sala/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/fui-chantageada-pela-cha-verde-da-minha-sala/cover-md.webp",
+    "author": "Xian Jun",
+    "artist": "Xian Jun",
+    "status": "ongoing",
+    "year": 2020,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Comedia",
+      "Romance",
+      "Slice of Life",
+      "Manhua",
+      "Yuri"
+    ],
+    "description": "Leia Fui Chantageada pela Chá Verde da Minha Sala!, um manhua em português.",
+    "descriptionPt": "Leia Fui Chantageada pela Chá Verde da Minha Sala!, um manhua em português.",
+    "chaptersCount": 7,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "a-beloved-existence",
+    "slug": "a-beloved-existence",
+    "title": "A Beloved Existence",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-beloved-existence/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-beloved-existence/cover-md.webp",
+    "author": "Hyang-U Creative",
+    "artist": "Hyang-U Creative",
+    "status": "ongoing",
+    "year": 2020,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Comedia",
+      "Romance",
+      "Slice of Life",
+      "Manhwa",
+      "Escolar"
+    ],
+    "description": "Leia A Beloved Existence, um manhwa em português.",
+    "descriptionPt": "Leia A Beloved Existence, um manhwa em português.",
+    "chaptersCount": 23,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "o-nerd-da-casa-ao-lado-e-o-mestre-da-torre-magica",
+    "slug": "o-nerd-da-casa-ao-lado-e-o-mestre-da-torre-magica",
+    "title": "O Nerd da Casa ao Lado é o Mestre da Torre Mágica?!",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/o-nerd-da-casa-ao-lado-e-o-mestre-da-torre-magica/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/o-nerd-da-casa-ao-lado-e-o-mestre-da-torre-magica/cover-md.webp",
+    "author": "coldwinter",
+    "artist": "coldwinter",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Manhwa"
+    ],
+    "description": "Leia O Nerd da Casa ao Lado é o Mestre da Torre Mágica?!, um manhwa em português.",
+    "descriptionPt": "Leia O Nerd da Casa ao Lado é o Mestre da Torre Mágica?!, um manhwa em português.",
+    "chaptersCount": 1,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

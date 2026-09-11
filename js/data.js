@@ -100698,7 +100698,7 @@ let MANGA_DATA = [
     ],
     "description": "Dating After Work (Official) Adam’s fake relationship with his boss was supposed to be mutually beneficial, so why is he so stressed out?",
     "descriptionPt": "",
-    "chaptersCount": 133,
+    "chaptersCount": 134,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207651,7 +207651,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Nano Máquina, um manhwa em português.",
     "descriptionPt": "Leia Nano Máquina, um manhwa em português.",
-    "chaptersCount": 328,
+    "chaptersCount": 329,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207679,7 +207679,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Logando 10.000 Anos No Futuro, um manhua em português.",
     "descriptionPt": "Leia Logando 10.000 Anos No Futuro, um manhua em português.",
-    "chaptersCount": 339,
+    "chaptersCount": 340,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207912,7 +207912,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Limpeza inteligente A Regresão do Caçador Genial, um manhwa em português.",
     "descriptionPt": "Leia Limpeza inteligente A Regresão do Caçador Genial, um manhwa em português.",
-    "chaptersCount": 139,
+    "chaptersCount": 141,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230003,7 +230003,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Único Fazendeiro da Torre, um manhwa em português.",
     "descriptionPt": "Leia Único Fazendeiro da Torre, um manhwa em português.",
-    "chaptersCount": 143,
+    "chaptersCount": 144,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230135,7 +230135,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O restaurante do arquimago, um manhwa em português.",
     "descriptionPt": "Leia O restaurante do arquimago, um manhwa em português.",
-    "chaptersCount": 149,
+    "chaptersCount": 150,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231458,7 +231458,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Ranker, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Ranker, um manhwa em português.",
-    "chaptersCount": 260,
+    "chaptersCount": 261,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231510,7 +231510,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Deus Marcial Pay-to-Win, um manhwa em português.",
     "descriptionPt": "Leia Deus Marcial Pay-to-Win, um manhwa em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231564,7 +231564,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Começo Depois do Fim, um manhwa em português.",
     "descriptionPt": "Leia O Começo Depois do Fim, um manhwa em português.",
-    "chaptersCount": 263,
+    "chaptersCount": 264,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231590,7 +231590,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Começando com 13 Traços Ocultos, um manhwa em português.",
     "descriptionPt": "Leia Começando com 13 Traços Ocultos, um manhwa em português.",
-    "chaptersCount": 44,
+    "chaptersCount": 47,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232772,7 +232772,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Ranker Inigualável, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Ranker Inigualável, um manhwa em português.",
-    "chaptersCount": 40,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250545,7 +250545,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Devorador de Aço, um manhwa em português.",
     "descriptionPt": "Leia Devorador de Aço, um manhwa em português.",
-    "chaptersCount": 109,
+    "chaptersCount": 110,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250597,7 +250597,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Deus Demônio, um manhwa em português.",
     "descriptionPt": "Leia O Deus Demônio, um manhwa em português.",
-    "chaptersCount": 47,
+    "chaptersCount": 48,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250759,7 +250759,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Grande Colheita do Lorde das Trevas, um manhwa em português.",
     "descriptionPt": "Leia A Grande Colheita do Lorde das Trevas, um manhwa em português.",
-    "chaptersCount": 82,
+    "chaptersCount": 83,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252734,7 +252734,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Melhor Homem no Comando, um manhwa em português.",
     "descriptionPt": "Leia O Melhor Homem no Comando, um manhwa em português.",
-    "chaptersCount": 204,
+    "chaptersCount": 205,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252759,7 +252759,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Regressando como o Bastardo do Clã da Espada, um manhwa em português.",
     "descriptionPt": "Leia Regressando como o Bastardo do Clã da Espada, um manhwa em português.",
-    "chaptersCount": 110,
+    "chaptersCount": 111,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253048,7 +253048,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
     "descriptionPt": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
-    "chaptersCount": 118,
+    "chaptersCount": 119,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254426,7 +254426,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ser Uma Vilã Não É Muito Melhor?, um manhwa em português.",
     "descriptionPt": "Leia Ser Uma Vilã Não É Muito Melhor?, um manhwa em português.",
-    "chaptersCount": 97,
+    "chaptersCount": 98,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254533,7 +254533,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia aventura-de-um-barbaro-em-um-mundo-de-fantasia online em português.",
     "descriptionPt": "Leia aventura-de-um-barbaro-em-um-mundo-de-fantasia online em português.",
-    "chaptersCount": 69,
+    "chaptersCount": 70,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256204,7 +256204,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia I Adopted a Villainous Dad, um manhwa em português.",
     "descriptionPt": "Leia I Adopted a Villainous Dad, um manhwa em português.",
-    "chaptersCount": 93,
+    "chaptersCount": 94,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257700,7 +257700,7 @@ let MANGA_DATA = [
     ],
     "description": "Crows Like Things That Sparkle In the barren northern Snowlands of the empire, a war that has raged on for 37 years against the vicious Norcans is finally brought to an end by one Captain Sahara Ellawood of the 128th Order. When Crown Prince Cheshire Wi Solante goes to escort Captain Ellawood to the capital, he expects to find a savage who beheads and eats the eyes of her enemies. But to his surprise, Captain Ellawood is an incredibly strong, loyal, innocent, and most importantly, beautiful woman. Cheshire is instantly enamored with Sahara, and the two spend an intimate night together after th",
     "descriptionPt": "",
-    "chaptersCount": 48,
+    "chaptersCount": 50,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -258073,7 +258073,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia genio-regressado-criador-de-itens-mitico online em português.",
     "descriptionPt": "Leia genio-regressado-criador-de-itens-mitico online em português.",
-    "chaptersCount": 45,
+    "chaptersCount": 47,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258095,7 +258095,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-deus-dos-improvisos online em português.",
     "descriptionPt": "Leia o-deus-dos-improvisos online em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259398,7 +259398,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Uma Princesa que Lê a Sorte, um manhwa em português.",
     "descriptionPt": "Leia Uma Princesa que Lê a Sorte, um manhwa em português.",
-    "chaptersCount": 158,
+    "chaptersCount": 160,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259822,7 +259822,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-rei-agiota-do-murim online em português.",
     "descriptionPt": "Leia o-rei-agiota-do-murim online em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260515,7 +260515,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia criando-viloes-da-maneira-correta online em português.",
     "descriptionPt": "Leia criando-viloes-da-maneira-correta online em português.",
-    "chaptersCount": 51,
+    "chaptersCount": 52,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261798,7 +261798,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Cavaleiro Santo De Grau SSS, um manhua em português.",
     "descriptionPt": "Leia Cavaleiro Santo De Grau SSS, um manhua em português.",
-    "chaptersCount": 199,
+    "chaptersCount": 210,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263938,7 +263938,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Santo da Espada Reencarnou em uma Família Nobre de Magos, um mangá em português.",
     "descriptionPt": "Leia O Santo da Espada Reencarnou em uma Família Nobre de Magos, um mangá em português.",
-    "chaptersCount": 21,
+    "chaptersCount": 22,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264324,7 +264324,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Reset Temporal, um manhwa em português.",
     "descriptionPt": "Leia Reset Temporal, um manhwa em português.",
-    "chaptersCount": 59,
+    "chaptersCount": 60,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265203,7 +265203,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Meu Caminho Simulado Rumo à Imortalidade, um manhua em português.",
     "descriptionPt": "Leia Meu Caminho Simulado Rumo à Imortalidade, um manhua em português.",
-    "chaptersCount": 73,
+    "chaptersCount": 79,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269085,6 +269085,207 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "mangadistrict-master-peace",
+    "slug": "master-peace",
+    "title": "Master-Peace",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/master-peace-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/master-peace-official.webp",
+    "author": "jumal",
+    "artist": "jumal",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 0,
+    "genres": [
+      "BL",
+      "Yaoi",
+      "Hentai"
+    ],
+    "description": "Master-Peace Ju Incheol had it all…sharp suits, political connections, and a rising career as the trusted aide to Assemblywoman Lee Myeongsun, a ministerial candidate destined for power. But politics is a knife’s edge, and one wrong move can send even the best men tumbling. When Incheol loses footing in the ruthless hierarchy of the office, he’s handed a near-impossible task: resolve the explosive redevelopment dispute in Songmun City’s Jungang District. Failure means exile. He’s ready to do whatever it takes – until he meets Ahn Pyeong-hwa, the quiet gym owner next door and the key to the pro",
+    "descriptionPt": "",
+    "chaptersCount": 26,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
+  },
+  {
+    "id": "mangadistrict-eighteens-bed-uncensored",
+    "slug": "eighteens-bed-uncensored",
+    "title": "Eighteen’s Bed (Uncensored)",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/eighteens-bed-uncensored-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/eighteens-bed-uncensored-official.webp",
+    "author": "cheongdam",
+    "artist": "JATEA",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 0,
+    "genres": [
+      "BL",
+      "BL Uncensored",
+      "Yaoi",
+      "Hentai"
+    ],
+    "description": "Eighteen’s Bed (Uncensored) Jun Kang, the quintessential model student with a secret—an agonizing, one-sided crush he keeps buried deep—finds his carefully composed world shaken when he crosses paths with Yohan Go, a mysterious classmate he can’t quite figure out…",
+    "descriptionPt": "",
+    "chaptersCount": 63,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
+  },
+  {
+    "id": "mangadistrict-one-room-ta",
+    "slug": "one-room-ta",
+    "title": "One-Room TA",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/one-room-ta-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/one-room-ta-official.webp",
+    "author": "Jibung",
+    "artist": "Jibung",
+    "status": "ongoing",
+    "year": 2022,
+    "rating": 0,
+    "genres": [
+      "BL",
+      "Yaoi",
+      "Hentai"
+    ],
+    "description": "One-Room TA After returning to campus as a sophomore, Uyun meets Jinhyeong, the socially-awkward-yet-stunningly-handsome T.A., and blurts out a confession on a whim. One thing leads to another…and suddenly, they’re roommates! Just as things start to heat up, Jinhyeong pulls back after a steamy kiss and says he has a very specific fantasy about physical intimacy. But just what kind of fantasy does he have? Can the two of them overcome all their wild expectations (and even wilder reality) to survive their first night together?",
+    "descriptionPt": "",
+    "chaptersCount": 87,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
+  },
+  {
+    "id": "mangadistrict-my-perfect-omega",
+    "slug": "my-perfect-omega",
+    "title": "My Perfect Omega",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/my-perfect-omega-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/my-perfect-omega-official.webp",
+    "author": "Ian",
+    "artist": "Heath",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 0,
+    "genres": [
+      "BL",
+      "Yaoi",
+      "Hentai"
+    ],
+    "description": "My Perfect Omega “Nick Stockton, ex-mercenary and now head of a top security firm, has never once lost control—until he crosses paths with Owen Rose, the stunning CEO of Rose Biotech. The moment their eyes meet, Nick is hit with an overwhelming surge of pheromones. He knows instantly: Owen is his Omega. When terrorists launch a sudden attack on Owen, Nick steps in without hesitation. Grateful and intrigued, Owen invites Nick to his secluded estate. But Owen harbors a dark belief—that he’s a “monster Omega,” ever since a childhood incident where he injured his Alpha cousin. He’s spent his life ",
+    "descriptionPt": "",
+    "chaptersCount": 69,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
+  },
+  {
+    "id": "mangadistrict-love-is-in-the-heir",
+    "slug": "love-is-in-the-heir",
+    "title": "Love is in the Heir",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/love-is-in-the-heir-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/love-is-in-the-heir-official.webp",
+    "author": "PEANUT",
+    "artist": "PEANUT",
+    "status": "ongoing",
+    "year": 2022,
+    "rating": 0,
+    "genres": [
+      "BL",
+      "Yaoi",
+      "Hentai"
+    ],
+    "description": "Love is in the Heir Born to inherit a hotel empire, Woo Myeong-seong was raised like a “perfect creation” by his controlling father. To the outside world, he has it all: brains, looks, wealth. But behind closed doors, he’s slowly burning out from a lifetime of pressure and expectation. One day, while listlessly going about his routine, he runs into Do Jeonsu, a high school classmate now working as a chicken delivery guy. Cheerful, awkward, and hopelessly inexperienced in love, Jeonsu is everything Myeong-seong isn’t. On a whim, Myeong-seong offers to teach Jeonsu the art of dating, but the les",
+    "descriptionPt": "",
+    "chaptersCount": 62,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
+  },
+  {
+    "id": "mangadistrict-slammer-dogs",
+    "slug": "slammer-dogs",
+    "title": "Slammer Dogs",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/slammer-dogs-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/slammer-dogs-official.webp",
+    "author": "Igingogi",
+    "artist": "Igingogi",
+    "status": "ongoing",
+    "year": 2023,
+    "rating": 0,
+    "genres": [
+      "BL",
+      "Yaoi",
+      "Hentai"
+    ],
+    "description": "Slammer Dogs “Watch out for the guy with the ponytail,” a warning Lee Myung-il heard on his first day in prison. But when he unintentionally rescues the central figure of the rumors, Choi Jingi, it takes an unexpected turn. And with Jingi’s younger brother, Heonjae, involved, things get even messier…”",
+    "descriptionPt": "",
+    "chaptersCount": 89,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
+  },
+  {
+    "id": "mangadistrict-symbiosis-of-luna-and-sol",
+    "slug": "symbiosis-of-luna-and-sol",
+    "title": "Symbiosis of Luna and Sol",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/symbiosis-of-luna-and-sol-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/symbiosis-of-luna-and-sol-official.webp",
+    "author": "Ssocksoo",
+    "artist": "Ssocksoo",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 0,
+    "genres": [
+      "BL",
+      "Yaoi",
+      "Hentai"
+    ],
+    "description": "Symbiosis of Luna and Sol Han Boreum just wanted answers about his mysterious illness—not a death sentence. But the shaman he visits drops a bombshell: “You’re overflowing with dark yin energy. If you don’t sleep with a man full of yang energy, you won’t live long.” Desperate to survive, Boreum sets out to find his “yang-guy,” and right on cue appears Joo Taeyang—campus heartthrob, top business student, and nicknamed “Apollo” by his admirers. Perfect, right? Except… he’s a two-faced jerk only when it comes to Boreum. Still, with his life on the line, Boreum launches a clumsy, tear-filled opera",
+    "descriptionPt": "",
+    "chaptersCount": 62,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
+  },
+  {
+    "id": "mangadistrict-while-you-werent-watching",
+    "slug": "while-you-werent-watching",
+    "title": "While You Weren’t Watching",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/while-you-werent-watching-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/while-you-werent-watching-official.webp",
+    "author": "yeonnu",
+    "artist": "yeonnu",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 0,
+    "genres": [
+      "BL",
+      "Yaoi",
+      "Hentai"
+    ],
+    "description": "While You Weren’t Watching After a messy breakup, beta Haemin swore off alphas for good… until a reckless one-night stand with dominant alpha Seonghan turns him into an omega overnight. Now stuck needing a regular partner (doctor’s orders!), Haemin bites the bullet and proposes a deal with Seonghan, who just so happens to be his newest coworker. One weekly “appointment” turns into sparks flying – but just when things start to look sweet, who should show up as their new boss but Jin-tae, the ex who dumped Haemin for being a beta?! From awkward office deals to tangled love triangles, Haemin’s lo",
+    "descriptionPt": "",
+    "chaptersCount": 58,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
   }
 ];
 

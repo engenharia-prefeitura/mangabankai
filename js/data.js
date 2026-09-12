@@ -100072,7 +100072,7 @@ let MANGA_DATA = [
     ],
     "description": "Thrust & Conquer Taeryang wakes up in a world where men are treated as commodities. Could the power of his “thrust” be enough to save him?",
     "descriptionPt": "",
-    "chaptersCount": 55,
+    "chaptersCount": 57,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

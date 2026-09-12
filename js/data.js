@@ -252941,7 +252941,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Por Seu Assassinato, um manhwa em português.",
     "descriptionPt": "Leia Por Seu Assassinato, um manhwa em português.",
-    "chaptersCount": 64,
+    "chaptersCount": 65,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254078,7 +254078,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Imperatriz Se Casou Novamente, um manhwa em português.",
     "descriptionPt": "Leia A Imperatriz Se Casou Novamente, um manhwa em português.",
-    "chaptersCount": 229,
+    "chaptersCount": 230,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254426,7 +254426,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ser Uma Vilã Não É Muito Melhor?, um manhwa em português.",
     "descriptionPt": "Leia Ser Uma Vilã Não É Muito Melhor?, um manhwa em português.",
-    "chaptersCount": 98,
+    "chaptersCount": 99,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257971,7 +257971,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Lei Do Lixo, um manhwa em português.",
     "descriptionPt": "Leia A Lei Do Lixo, um manhwa em português.",
-    "chaptersCount": 50,
+    "chaptersCount": 51,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266493,7 +266493,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A mãe reencarnada sempre precisa morrer?, um manhwa em português.",
     "descriptionPt": "Leia A mãe reencarnada sempre precisa morrer?, um manhwa em português.",
-    "chaptersCount": 38,
+    "chaptersCount": 39,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -268620,7 +268620,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Termos de uso do Protótipo, um manhwa em português.",
     "descriptionPt": "Leia Termos de uso do Protótipo, um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 4,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269330,32 +269330,6 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
-  },
-  {
-    "id": "15-minutes",
-    "slug": "15-minutes",
-    "title": "15 Minutes",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/15-minutes-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/15-minutes-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Psychological",
-      "Supernatural",
-      "Adult"
-    ],
-    "description": "You are now the protagonist! The secret of the 15 minutes is revealed. Am I in a dream? Can I really do whatever I want? When does the time stop for 15 minutes?",
-    "descriptionEn": "You are now the protagonist! The secret of the 15 minutes is revealed. Am I in a dream? Can I really do whatever I want? When does the time stop for 15 minutes?",
-    "chaptersCount": 36,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
   },
   {
     "id": "casada-com-um-marido-suspeitamente-recatado",

@@ -96079,7 +96079,7 @@ let MANGA_DATA = [
     ],
     "description": "Infinite Mage Abandoned at birth in a stable, Shirone was raised by commoners. As a child, he had gifted Insight and quickly learned how to read on his own. After visiting the city, he finally saw the workings of magic, which he was immensely curious about. This inspired Shirone’s dream of becoming a mage. However, the city was a place with a cruel and rigid social hierarchy. Here, Shirone discovered the hidden side of the world before he even reached adulthood. Will Shirone be able to achieve his dream of becoming a mage in this twisted world?",
     "descriptionPt": "",
-    "chaptersCount": 180,
+    "chaptersCount": 183,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -101741,7 +101741,7 @@ let MANGA_DATA = [
     ],
     "description": "Valhalla Otintin Brothel Shota Iijima picked up erotic books during his childhood and suffers from a severe foreign sister fetish. There after, from the years between his age of 12 to 15, he masturbated 999 times. For his 1000th round of masturbation, he had been transferred to a different world. And Shota is sold as a slave. A paradise for women and hell for men… Valhalla, the penis mansion.",
     "descriptionPt": "",
-    "chaptersCount": 47,
+    "chaptersCount": 49,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207230,7 +207230,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno da Seita Monte Hua, um manhwa em português.",
     "descriptionPt": "Leia O Retorno da Seita Monte Hua, um manhwa em português.",
-    "chaptersCount": 178,
+    "chaptersCount": 179,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232172,7 +232172,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Duquesa em Ruínas, um manhwa em português.",
     "descriptionPt": "Leia Duquesa em Ruínas, um manhwa em português.",
-    "chaptersCount": 63,
+    "chaptersCount": 64,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250519,7 +250519,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sobrevivendo Como uma Princesa Ilegítima, um manhwa em português.",
     "descriptionPt": "Leia Sobrevivendo Como uma Princesa Ilegítima, um manhwa em português.",
-    "chaptersCount": 95,
+    "chaptersCount": 96,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253655,7 +253655,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Longe de estar Sóbrio, um manhwa em português.",
     "descriptionPt": "Leia Longe de estar Sóbrio, um manhwa em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254137,7 +254137,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Fiz um Acordo Com o Diabo, um manhwa em português.",
     "descriptionPt": "Leia Eu Fiz um Acordo Com o Diabo, um manhwa em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255270,7 +255270,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Operação amor verdadeiro, um manhwa em português.",
     "descriptionPt": "Leia Operação amor verdadeiro, um manhwa em português.",
-    "chaptersCount": 138,
+    "chaptersCount": 139,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257343,7 +257343,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Não Diga que Me Ama, um manhua em português.",
     "descriptionPt": "Leia Não Diga que Me Ama, um manhua em português.",
-    "chaptersCount": 47,
+    "chaptersCount": 48,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257943,7 +257943,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vilã Maldita Retorna, um manhwa em português.",
     "descriptionPt": "Leia A Vilã Maldita Retorna, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260234,7 +260234,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Minha Caracol Sexy, um manhwa em português.",
     "descriptionPt": "Leia Minha Caracol Sexy, um manhwa em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260434,7 +260434,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Pai, Eu nunca… te perdoarei!, um manhwa em português.",
     "descriptionPt": "Leia Pai, Eu nunca… te perdoarei!, um manhwa em português.",
-    "chaptersCount": 56,
+    "chaptersCount": 57,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260734,7 +260734,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Transformando o Tigre em Gatinho, um manhwa em português.",
     "descriptionPt": "Leia Transformando o Tigre em Gatinho, um manhwa em português.",
-    "chaptersCount": 20,
+    "chaptersCount": 21,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261411,7 +261411,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-segredo-do-senior-perfeito online em português.",
     "descriptionPt": "Leia o-segredo-do-senior-perfeito online em português.",
-    "chaptersCount": 13,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263666,7 +263666,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Criadora de Escândalos Voltou, um manhwa em português.",
     "descriptionPt": "Leia A Criadora de Escândalos Voltou, um manhwa em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265113,7 +265113,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Príncipe não Chora por Causa de Simples Cebolas, um manhwa em português.",
     "descriptionPt": "Leia O Príncipe não Chora por Causa de Simples Cebolas, um manhwa em português.",
-    "chaptersCount": 5,
+    "chaptersCount": 6,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

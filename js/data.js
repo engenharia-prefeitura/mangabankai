@@ -90647,7 +90647,7 @@ let MANGA_DATA = [
     ],
     "description": "Boiling Frog Syndrome (Uncensored) Jeh Yillo has a highly specific, twisted fetish: he’s obsessed with guys who have terrible personalities and wear glasses. Enter Gwak Changhyeok, the school’s most hated grade-level head teacher. When Yillo accidentally witnesses the notoriously toxic teacher speaking softly to his girlfriend, his obsession ignites. He decides to reel him in like a frog in a pot, heating the water so slowly Changhyeok won’t even realize he’s being boiled alive…until Yillo has the opportunity to devour him whole.",
     "descriptionPt": "",
-    "chaptersCount": 15,
+    "chaptersCount": 18,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -258710,7 +258710,7 @@ let MANGA_DATA = [
     ],
     "description": "A Lovely Meal One snowy winter evening, Changdeok spots a high schooler crouched in front of his favorite restaurant, blood running ice-cold in the falling snow. Lured in by the promise of meal made just like the restaurant’s, Changdeok ends up inviting the boy – Jongwu – into his home; after all, Changdeok’s life is as dry as day-old rice, and food is his only joy. So when Jongwu offers to cook him a delicious dinner every night in exchange for a place to stay, he reluctantly agrees. But as their unusual cohabitation begins, Changdeok can’t shake this bloody feeling that Jongwoo might be hidi",
     "descriptionPt": "",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -265615,30 +265615,6 @@ let MANGA_DATA = [
     "hasEn": false
   },
   {
-    "id": "a-killer-woman",
-    "slug": "a-killer-woman",
-    "title": "A Killer Woman",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/a-killer-woman-01-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/a-killer-woman-01-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adult"
-    ],
-    "description": "The story of a woman and a curse that leads men to their death, will she be able to find happiness?",
-    "descriptionEn": "The story of a woman and a curse that leads men to their death, will she be able to find happiness?",
-    "chaptersCount": 112,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "mangadistrict-blackwood-resort-uncensored",
     "slug": "blackwood-resort-uncensored",
     "title": "[Remake] Blackwood Resort (Uncensored)",
@@ -269633,6 +269609,33 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "adamasu-no-majotachi",
+    "slug": "adamasu-no-majotachi",
+    "title": "Adamasu no Majotachi",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2024/08/adamasu-no-majotachi-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2024/08/adamasu-no-majotachi-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult",
+      "Ecchi",
+      "Seinen",
+      "Supernatural"
+    ],
+    "description": "Satou Yukinari is an ordinary high schoolboy. However, while playing a game of pocket pool one day, he suddenly felt as if he was passing a kidney stone. But",
+    "descriptionEn": "Satou Yukinari is an ordinary high schoolboy. However, while playing a game of pocket pool one day, he suddenly felt as if he was passing a kidney stone. But",
+    "chaptersCount": 49,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

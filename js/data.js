@@ -95780,7 +95780,7 @@ let MANGA_DATA = [
     ],
     "description": "Standard of Reincarnation The greatest martial family, Samion. Daven, a member of the Samion family, is a one-armed martial soldier without a right arm. Despite the ridicule and contempt he got for only having a left arm, he surpassed the direct line of the Samion family like a genius. However, he got betrayed by his family and parents in the end, thus meeting a poor end. But, he was reincarnated. “I have a right arm?” He had a new family tradition. A naturally gifted body. Experience from his past life. And the god Yulion with him as well. After his reincarnation, everything changed, and a ne",
     "descriptionPt": "",
-    "chaptersCount": 196,
+    "chaptersCount": 197,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -126063,7 +126063,7 @@ let MANGA_DATA = [
     ],
     "description": "Hadacamera Because he did not pass his college entrance exam, Kagami Kyosuke cannot stay close to Kojo Hikari, the love of his life. So instead he gets a part-time job near her university and buys an old camera since Hikari is passionate for photography. But as it turns out, that camera also has a secret which will get him involved in all sorts of “exciting” and “awkward” situations especially with Botan Oshikiri, his senpai and co-worker. How will Kyosuke’s life play out now?",
     "descriptionPt": "",
-    "chaptersCount": 49,
+    "chaptersCount": 52,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -232439,7 +232439,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Puramente Delinquente, um manhwa em português.",
     "descriptionPt": "Leia Puramente Delinquente, um manhwa em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254137,7 +254137,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Fiz um Acordo Com o Diabo, um manhwa em português.",
     "descriptionPt": "Leia Eu Fiz um Acordo Com o Diabo, um manhwa em português.",
-    "chaptersCount": 34,
+    "chaptersCount": 36,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257270,7 +257270,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dépaysement, um manhwa em português.",
     "descriptionPt": "Leia Dépaysement, um manhwa em português.",
-    "chaptersCount": 26,
+    "chaptersCount": 27,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260471,7 +260471,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia It Looks Like I’ve Fallen into the World of a Reverse Harem Game, um manhwa em português.",
     "descriptionPt": "Leia It Looks Like I’ve Fallen into the World of a Reverse Harem Game, um manhwa em português.",
-    "chaptersCount": 171,
+    "chaptersCount": 186,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261179,7 +261179,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Preço é Tudo para Você, um manhwa em português.",
     "descriptionPt": "Leia O Preço é Tudo para Você, um manhwa em português.",
-    "chaptersCount": 78,
+    "chaptersCount": 80,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261562,7 +261562,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Fui escolhida para ser a nora do tirano, um manhwa em português.",
     "descriptionPt": "Leia Fui escolhida para ser a nora do tirano, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264363,7 +264363,7 @@ let MANGA_DATA = [
     ],
     "description": "Midnights at The Library To the world, “Ferdie” is the undisputed master of scandalous, breathtaking erotic novels. To the Imperial Library, she is simply Vivian—a quiet, reserved nighttime librarian. Vivian has kept her thriving secret career hidden for years, writing steamy romance based purely on imagination. Why? Because the vow she took to become a member of the imperial staff forces her to remain a virgin. But when her latest book flops with reviews criticizing her intimate scenes as “”dry and clinical,”” Vivian realizes her lack of real-world experience has finally caught up to her. Ent",
     "descriptionPt": "",
-    "chaptersCount": 8,
+    "chaptersCount": 12,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -267938,7 +267938,7 @@ let MANGA_DATA = [
     ],
     "description": "Hangman (Uncensored) Han Jichan was built to rule, effortlessly taking every privilege life had to offer while his useless brother faltered. Yet success without a challenge has only left him numb. That changes the moment Jichan finishes another round of damage control for his brother and crosses paths with Park Suhyeok. Marked by adversity and fiercely rebellious, Suhyeok resists the aura of control that usually makes everyone bow to Jichan. Drawn to the one person he cannot easily break, Jichan drags Suhyeok into an unforgiving web of control, testing how far love and hate can overlap before ",
     "descriptionPt": "",
-    "chaptersCount": 8,
+    "chaptersCount": 9,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -268576,7 +268576,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Erica: Quando Meu Amigo Fica Obcecado por Mim, um manhwa em português.",
     "descriptionPt": "Leia Erica: Quando Meu Amigo Fica Obcecado por Mim, um manhwa em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269816,6 +269816,32 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "esse-bebe-nao-e-seu",
+    "slug": "esse-bebe-nao-e-seu",
+    "title": "Esse Bebê não é Seu",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/esse-bebe-nao-e-seu/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/esse-bebe-nao-e-seu/cover-md.webp",
+    "author": "Arongdri",
+    "artist": "Arongdri",
+    "status": "ongoing",
+    "year": 2022,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Manhwa"
+    ],
+    "description": "Leia Esse Bebê não é Seu, um manhwa em português.",
+    "descriptionPt": "Leia Esse Bebê não é Seu, um manhwa em português.",
+    "chaptersCount": 105,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

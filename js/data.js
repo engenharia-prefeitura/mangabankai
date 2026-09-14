@@ -94354,7 +94354,7 @@ let MANGA_DATA = [
     ],
     "description": "Haunted Tales (Uncensored) Yang Gidam, a freshman at Soleum College, has always been fascinated by and drawn to the occult. It is only natural, then, that he finds himself joining the on-campus Ghost Story Club. Unbeknownst to him, however, his involvement in such activities has already been noticed by Seo Neul-Ham, an upperclassman with a cold aura who can see ghosts. One day, as if by fate, the two become entangled and are drawn into a spooky turn of events. How will this unlikely pair fare when the ghost stories that Yang Gidam so enjoys are no longer just tales?",
     "descriptionPt": "",
-    "chaptersCount": 43,
+    "chaptersCount": 49,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -94868,7 +94868,7 @@ let MANGA_DATA = [
     ],
     "description": "Prison Breakfast (Uncensored) When Cha Yoonwoo intentionally gets arrested in order to smuggle drugs into prison, the last thing he expects to find out during intake is that he’s pregnant. With no other option, he requests a meeting with Nam Soohyeon, the manipulative prosecutor who knotted him. But Yoonwoo’s incarceration takes a surprising turn when none other than the man who put him up to this whole thing shows up in handcuffs. Just how will Yoonwoo make it through his sentence with such an unlikely cast of inmates, no alpha by his side, and a baby on the way?",
     "descriptionPt": "",
-    "chaptersCount": 67,
+    "chaptersCount": 70,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207175,7 +207175,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Mansão Que aguarda A Primavera, um manhwa em português.",
     "descriptionPt": "Leia A Mansão Que aguarda A Primavera, um manhwa em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 33,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230056,7 +230056,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia F My Ex, um manhwa em português.",
     "descriptionPt": "Leia F My Ex, um manhwa em português.",
-    "chaptersCount": 56,
+    "chaptersCount": 57,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252628,7 +252628,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia William e o Guarda-Roupa, um manhwa em português.",
     "descriptionPt": "Leia William e o Guarda-Roupa, um manhwa em português.",
-    "chaptersCount": 40,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257270,7 +257270,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dépaysement, um manhwa em português.",
     "descriptionPt": "Leia Dépaysement, um manhwa em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257974,7 +257974,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Swordmaster’s Youngest Son, um manhwa em português.",
     "descriptionPt": "Leia Swordmaster’s Youngest Son, um manhwa em português.",
-    "chaptersCount": 210,
+    "chaptersCount": 211,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260131,7 +260131,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vilã Vive Novamente, um manhwa em português.",
     "descriptionPt": "Leia A Vilã Vive Novamente, um manhwa em português.",
-    "chaptersCount": 193,
+    "chaptersCount": 194,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265559,7 +265559,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia travessuras-com-minha-esposa online em português.",
     "descriptionPt": "Leia travessuras-com-minha-esposa online em português.",
-    "chaptersCount": 7,
+    "chaptersCount": 8,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269638,6 +269638,33 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "a-flor-que-empunha-a-espada",
+    "slug": "a-flor-que-empunha-a-espada",
+    "title": "A Flor que Empunha a Espada",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-flor-que-empunha-a-espada/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-flor-que-empunha-a-espada/cover-md.webp",
+    "author": "Eunsoro",
+    "artist": "Eunsoro",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Magia",
+      "Manhwa"
+    ],
+    "description": "Leia A Flor que Empunha a Espada, um manhwa em português.",
+    "descriptionPt": "Leia A Flor que Empunha a Espada, um manhwa em português.",
+    "chaptersCount": 50,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

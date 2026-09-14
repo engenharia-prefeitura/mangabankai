@@ -101298,7 +101298,7 @@ let MANGA_DATA = [
     ],
     "description": "From Pauper to Prince Having lived in poverty all his life, Brian gets a second chance when he is offered the role of the sole heir to a conglomerate family’s enormous fortune.",
     "descriptionPt": "",
-    "chaptersCount": 66,
+    "chaptersCount": 70,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207807,7 +207807,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Seus Pálidos Olhos Azuis, um manhwa em português.",
     "descriptionPt": "Leia Seus Pálidos Olhos Azuis, um manhwa em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231796,7 +231796,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sob a Flor Caída, um manhwa em português.",
     "descriptionPt": "Leia Sob a Flor Caída, um manhwa em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256579,7 +256579,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Vá Embora, Romeo!, um webtoon em português.",
     "descriptionPt": "Leia Vá Embora, Romeo!, um webtoon em português.",
-    "chaptersCount": 85,
+    "chaptersCount": 86,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257162,7 +257162,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia #Meu Primeiro Amor, um manhwa em português.",
     "descriptionPt": "Leia #Meu Primeiro Amor, um manhwa em português.",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257270,7 +257270,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dépaysement, um manhwa em português.",
     "descriptionPt": "Leia Dépaysement, um manhwa em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258860,7 +258860,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Doppio Senso, um manhwa em português.",
     "descriptionPt": "Leia Doppio Senso, um manhwa em português.",
-    "chaptersCount": 73,
+    "chaptersCount": 74,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259531,7 +259531,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
     "descriptionPt": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 29,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260412,7 +260412,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Pai, Eu nunca… te perdoarei!, um manhwa em português.",
     "descriptionPt": "Leia Pai, Eu nunca… te perdoarei!, um manhwa em português.",
-    "chaptersCount": 57,
+    "chaptersCount": 58,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261051,7 +261051,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Ídolo da Nossa Guilda, um manhwa em português.",
     "descriptionPt": "Leia O Ídolo da Nossa Guilda, um manhwa em português.",
-    "chaptersCount": 48,
+    "chaptersCount": 49,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264674,7 +264674,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Olá, Sr. Veterinário!, um manhwa em português.",
     "descriptionPt": "Leia Olá, Sr. Veterinário!, um manhwa em português.",
-    "chaptersCount": 52,
+    "chaptersCount": 54,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265332,7 +265332,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Com Dinheiro, Comprarei O Poder Divino!, um manhwa em português.",
     "descriptionPt": "Leia Com Dinheiro, Comprarei O Poder Divino!, um manhwa em português.",
-    "chaptersCount": 10,
+    "chaptersCount": 15,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

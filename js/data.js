@@ -232172,7 +232172,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Duquesa em Ruínas, um manhwa em português.",
     "descriptionPt": "Leia Duquesa em Ruínas, um manhwa em português.",
-    "chaptersCount": 64,
+    "chaptersCount": 65,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265153,7 +265153,7 @@ let MANGA_DATA = [
     ],
     "description": "I’m the Only Man in this Clan?! A lonely, divorced dad goes to meet up with his gaming buddies, thinking they’ll all be men his age… but as it turns out, he’s the only man in this clan!",
     "descriptionPt": "",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -268140,7 +268140,7 @@ let MANGA_DATA = [
     ],
     "description": "My Unholy House Fairy (Uncensored) Former detective Mun Tae-shin thought he was just doing his job when he helped Song Yeon-hee years ago. He certainly didn’t expect her to turn up at his door, weeping and offering to do his housework in exchange for a place to live. Intent on driving her away, Tae-shin gives her an ultimatum: if she wants to stay, she has to offer her body. But when Yeon-hee actually starts stripping, Tae-shin realizes he has gotten far more than he bargained for.",
     "descriptionPt": "",
-    "chaptersCount": 8,
+    "chaptersCount": 9,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -268628,7 +268628,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Tudo que eu quero é a casa dos meus sonhos, um manhwa em português.",
     "descriptionPt": "Leia Tudo que eu quero é a casa dos meus sonhos, um manhwa em português.",
-    "chaptersCount": 1,
+    "chaptersCount": 2,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -270019,6 +270019,30 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "tankouhentai-motto-choushin-itoko-to-ecchii-koto-shiyo",
+    "slug": "motto-choushin-itoko-to-ecchii-koto-shiyo",
+    "title": "Motto! Choushin Itoko to Ecchii Koto Shiyo",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/08/Motto-Choushin-Itoko-to-Ecchii-Koto-Shiyo-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/08/Motto-Choushin-Itoko-to-Ecchii-Koto-Shiyo-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Hachimitsu",
+    "status": "completed",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Incesto",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 8,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

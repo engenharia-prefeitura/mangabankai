@@ -207937,7 +207937,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Herdeiro Monstruoso da Família Chaebol, um manhwa em português.",
     "descriptionPt": "Leia O Herdeiro Monstruoso da Família Chaebol, um manhwa em português.",
-    "chaptersCount": 21,
+    "chaptersCount": 24,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207991,7 +207991,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Veletric, um manhwa em português.",
     "descriptionPt": "Leia Veletric, um manhwa em português.",
-    "chaptersCount": 394,
+    "chaptersCount": 395,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -208066,7 +208066,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Retorno do Cavaleiro da Morte de Nível Apocalíptico, um manhwa em português.",
     "descriptionPt": "Leia Retorno do Cavaleiro da Morte de Nível Apocalíptico, um manhwa em português.",
-    "chaptersCount": 85,
+    "chaptersCount": 86,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231458,7 +231458,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Ranker, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Ranker, um manhwa em português.",
-    "chaptersCount": 261,
+    "chaptersCount": 262,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232279,7 +232279,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Despertar em Tempo Integral, um manhua em português.",
     "descriptionPt": "Leia Despertar em Tempo Integral, um manhua em português.",
-    "chaptersCount": 160,
+    "chaptersCount": 161,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249791,7 +249791,7 @@ let MANGA_DATA = [
     ],
     "description": "Striking Gold Lee Chan has spent his entire life chasing the shadow of Kwon Taesan, the legendary Olympic Taekwondo star who saved him when no one else would. But just as Chan’s feelings deepen into something deeper, Taesan vanishes into thin air, leaving behind a single text: “Don’t look for me.” Years later, Chan finally tracks his first love down to a sleepy countryside town, only to find his once-savior living as a single father to a baby who is surely his own. Worse yet, Taesan has absolutely no memory of who Chan is. Now, Chan must navigate the secrets of Taesan’s sudden disappearance an",
     "descriptionPt": "",
-    "chaptersCount": 17,
+    "chaptersCount": 18,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -252682,7 +252682,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guarda Malandro em uma Fantasia Medieval, um manhwa em português.",
     "descriptionPt": "Leia Guarda Malandro em uma Fantasia Medieval, um manhwa em português.",
-    "chaptersCount": 48,
+    "chaptersCount": 49,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252734,7 +252734,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Melhor Homem no Comando, um manhwa em português.",
     "descriptionPt": "Leia O Melhor Homem no Comando, um manhwa em português.",
-    "chaptersCount": 205,
+    "chaptersCount": 206,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252759,7 +252759,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Regressando como o Bastardo do Clã da Espada, um manhwa em português.",
     "descriptionPt": "Leia Regressando como o Bastardo do Clã da Espada, um manhwa em português.",
-    "chaptersCount": 111,
+    "chaptersCount": 112,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253048,7 +253048,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
     "descriptionPt": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
-    "chaptersCount": 119,
+    "chaptersCount": 120,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253975,7 +253975,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Revelation of Youth, um manhwa em português.",
     "descriptionPt": "Leia Revelation of Youth, um manhwa em português.",
-    "chaptersCount": 133,
+    "chaptersCount": 137,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254025,7 +254025,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia I Was Born as the Second Daughter, um manhwa em português.",
     "descriptionPt": "Leia I Was Born as the Second Daughter, um manhwa em português.",
-    "chaptersCount": 79,
+    "chaptersCount": 81,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254665,7 +254665,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia streaming-da-estrategia-oculta-do-retornado online em português.",
     "descriptionPt": "Leia streaming-da-estrategia-oculta-do-retornado online em português.",
-    "chaptersCount": 45,
+    "chaptersCount": 46,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254978,7 +254978,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mestre Do Treinamento Marcial, um manhwa em português.",
     "descriptionPt": "Leia Mestre Do Treinamento Marcial, um manhwa em português.",
-    "chaptersCount": 129,
+    "chaptersCount": 130,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258051,7 +258051,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia genio-regressado-criador-de-itens-mitico online em português.",
     "descriptionPt": "Leia genio-regressado-criador-de-itens-mitico online em português.",
-    "chaptersCount": 47,
+    "chaptersCount": 49,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262797,7 +262797,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Todos os Meus Avatares são Magnatas, um manhwa em português.",
     "descriptionPt": "Leia Todos os Meus Avatares são Magnatas, um manhwa em português.",
-    "chaptersCount": 96,
+    "chaptersCount": 97,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263916,7 +263916,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Santo da Espada Reencarnou em uma Família Nobre de Magos, um mangá em português.",
     "descriptionPt": "Leia O Santo da Espada Reencarnou em uma Família Nobre de Magos, um mangá em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 23,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -268654,7 +268654,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sobrevivendo como a Esposa de um Assassino em Série, um manhwa em português.",
     "descriptionPt": "Leia Sobrevivendo como a Esposa de um Assassino em Série, um manhwa em português.",
-    "chaptersCount": 1,
+    "chaptersCount": 11,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269229,7 +269229,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Nerd da Casa ao Lado é o Mestre da Torre Mágica?!, um manhwa em português.",
     "descriptionPt": "Leia O Nerd da Casa ao Lado é o Mestre da Torre Mágica?!, um manhwa em português.",
-    "chaptersCount": 3,
+    "chaptersCount": 4,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269332,7 +269332,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Apresentando Meu Manager, um manhwa em português.",
     "descriptionPt": "Leia Apresentando Meu Manager, um manhwa em português.",
-    "chaptersCount": 1,
+    "chaptersCount": 8,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -270152,6 +270152,118 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "mangadistrict-punch-strike-love-uncensored",
+    "slug": "punch-strike-love-uncensored",
+    "title": "Punch Strike Love (Uncensored)",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/punch-strike-love-uncensored-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/punch-strike-love-uncensored-official.webp",
+    "author": "Hamma",
+    "artist": "Hamma",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "BL",
+      "BL Uncensored",
+      "Yaoi",
+      "Hentai"
+    ],
+    "description": "Punch Strike Love (Uncensored) Hajun’s secret ability allows him to sense and exorcise ghosts. The catch? The exorcism requires physical contact with whoever is being haunted. Sometimes a gentle tap on the shoulder is enough, but for stronger spirits, it takes a whole lot more force. So when Hajun spots a powerful ghost clinging to his high school hoobae—and long-time crush—Mugyeol, he decides there is only one logical solution: land a hard punch straight to Mugyeol’s chest. Hajun planned to deliver the hit, save his crush, and quietly retreat with his unrequited feelings intact. What he never",
+    "descriptionPt": "",
+    "chaptersCount": 12,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
+  },
+  {
+    "id": "mangadistrict-never-satisfied-with-my-bunny-husband",
+    "slug": "never-satisfied-with-my-bunny-husband",
+    "title": "Never SATISFIED WITH My Bunny Husband!",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/never-satisfied-with-my-bunny-husband-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/never-satisfied-with-my-bunny-husband-official.webp",
+    "author": "granada",
+    "artist": "ssalyori",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 0,
+    "genres": [
+      "Animal Characteristics",
+      "Borderline H",
+      "Drama",
+      "Explicit Sex",
+      "Fantasy",
+      "Full Color",
+      "Magic",
+      "Manhwa",
+      "Romance",
+      "Smut",
+      "Webtoons",
+      "Hentai"
+    ],
+    "description": "Never SATISFIED WITH My Bunny Husband! Sierra Delight, the fierce heiress of the Black Panther clan, is forced into an arranged marriage with Luhan White, the heir of the Rabbit clan. Expecting a fragile, trembling husband she can easily intimidate into a divorce, Sierra enters the bridal chamber with low expectations. However, Luhan completely shatters her assumptions. While he remains perfectly innocent and docile during the day, he transforms into an unhinged, insatiable beast at night. Soon, Sierra realizes Luhan is nothing like the gentle bunny she anticipated.",
+    "descriptionPt": "",
+    "chaptersCount": 30,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
+  },
+  {
+    "id": "mangadistrict-from-daybreak-unto-thee-uncensored",
+    "slug": "from-daybreak-unto-thee-uncensored",
+    "title": "From Daybreak Unto Thee (Uncensored)",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/from-daybreak-unto-thee-uncensored-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/from-daybreak-unto-thee-uncensored-official.webp",
+    "author": "Salty",
+    "artist": "Salty",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "BL",
+      "BL Uncensored",
+      "Yaoi",
+      "Hentai"
+    ],
+    "description": "From Daybreak Unto Thee (Uncensored) Demigod Yun Yeomyeong was on the verge of becoming a true transcendent being until an accident stripped him of his divine power and bound him in sleep. Generations later, an attack by a fanatic cult triggers that stolen divine energy inside a young man named Nam Sion, finally waking Yeomyeong from his slumber. Yeomyeong descends to the human realm intent on killing Sion to reclaim his divine core. However, staying by the guarded human’s side quickly turns from a tedious task into a fascinating game. When the cult targets them both to sacrifice to their mast",
+    "descriptionPt": "",
+    "chaptersCount": 1,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
+  },
+  {
+    "id": "mangadistrict-android-with-benefits-uncensored",
+    "slug": "android-with-benefits-uncensored",
+    "title": "Android with Benefits (Uncensored)",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/android-with-benefits-uncensored-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/android-with-benefits-uncensored-official.webp",
+    "author": "BAEKDO",
+    "artist": "BAEKDO",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "BL",
+      "BL Uncensored",
+      "Yaoi",
+      "Hentai"
+    ],
+    "description": "Android with Benefits (Uncensored) Bad at sex. Dumped by his ex. And stuck with an android that looks way too familiar. After a drunken confession at a high school reunion, Yoo Jun-oh is gifted an intimately programmed android by his ex classmate, Seo Hajin, to help him practice his bedroom skills. Jun-oh expects a simple mechanical tool, but PX-1 turns out to be a relentless master of pleasure, thoroughly unlocking desires Jun-oh never knew he had. There’s just one major glitch in the plan: why does this high-tech sex bot look and act exactly like Hajin?",
+    "descriptionPt": "",
+    "chaptersCount": 12,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
   }
 ];
 

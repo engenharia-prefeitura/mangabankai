@@ -93959,7 +93959,7 @@ let MANGA_DATA = [
     ],
     "description": "Tales of a Moonless Night (Uncensored) Prince Cho Yihyeon is forced to remain in the imperial palace of a foreign land for three long years. The emperor awaiting him, Tae Won, is rumored to be a merciless despot, yet he greets Yihyeon with unexpected innocence and charm. But that gentleness doesn’t last. Beneath the smile lies obsession, and Tae Won’s growing fixation leaves Yihyeon frightened and confused. Separated from his family and slowly losing himself, Yihyeon begins to fade. Can love – or survival – exist under an emperor’s twisted devotion, in a palace swallowed by a moonless night?",
     "descriptionPt": "",
-    "chaptersCount": 39,
+    "chaptersCount": 42,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97844,7 +97844,7 @@ let MANGA_DATA = [
     ],
     "description": "The White Pine Kim Jaehan, a brilliant and ambitious young magistrate newly appointed to the Sangju district, arrives with a hidden agenda that threatens the local status quo. Shortly after his arrival, he crosses paths with Choi Yeon-ho, the eldest son of the powerful and influential Choi clan. Despite his lineage, Yeon-ho lives a miserable existence as a social outcast held in utter contempt by his own family. Jaehan finds himself strangely drawn to the innocent, suffering soul hidden beneath Yeon-ho’s ragged exterior, and he begins to offer the young man a rare, genuine kindness. For Yeon-h",
     "descriptionPt": "",
-    "chaptersCount": 26,
+    "chaptersCount": 27,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -103459,7 +103459,7 @@ let MANGA_DATA = [
     ],
     "description": "Broken Bloodline (Uncensored) Ju Cheongdo, the thirty-first heir of the Yusim Ju clan, carries a curse cast on him in childhood. Everyone he grows close to meets an untimely death, and the curse is now threatening his own life as well. Desperate to hold on to the will to live, Cheongdo seeks out Yu Chanran, a man known for solving any problem for the right price, and places his last hope in him. When Cheongdo asks what it would cost for Chanran to act as his lover, the answer comes lightly but firmly. “Hey, how much do you charge? For the boyfriend experience, I mean.” “I start at 100,000 won ",
     "descriptionPt": "",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -249817,7 +249817,7 @@ let MANGA_DATA = [
     ],
     "description": "Nice to See You (Uncensored) Ko Ideum is a total shut in who knows how to do one thing, and one thing only: write passionate BL smut. There’s just one small problem: Ideum is a complete and total virgin. To try and stimulate his brain (among other things), Ideum takes to…well, “taking care of himself” in front of the window, imagining all sorts of sensual scenarios to jumpstart his creative juices. Sure, there may be an apartment right across from him, but nobody’s lived there for years…until now! Mid self-love session, he looks up to see a man staring at him from across the street – and not j",
     "descriptionPt": "",
-    "chaptersCount": 16,
+    "chaptersCount": 18,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -251752,7 +251752,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Senhorita Celebridade, um manhwa em português.",
     "descriptionPt": "Leia Senhorita Celebridade, um manhwa em português.",
-    "chaptersCount": 87,
+    "chaptersCount": 88,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257270,7 +257270,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dépaysement, um manhwa em português.",
     "descriptionPt": "Leia Dépaysement, um manhwa em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269360,7 +269360,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Amo Yoo, um webtoon em português.",
     "descriptionPt": "Leia Eu Amo Yoo, um webtoon em português.",
-    "chaptersCount": 125,
+    "chaptersCount": 126,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -270130,6 +270130,28 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "test-novel",
+    "slug": "test-novel",
+    "title": "test-novel",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/test-novel/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/test-novel/cover-md.webp",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Manga"
+    ],
+    "description": "Leia test-novel online em português.",
+    "descriptionPt": "Leia test-novel online em português.",
+    "chaptersCount": 1,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

@@ -95839,7 +95839,7 @@ let MANGA_DATA = [
     ],
     "description": "Solo Max-Level Newbie Jinhyuk, a gaming Nutuber, was the only person who saw the ending of the game “Tower of Trials”. However, when the game’s popularity declined, it became difficult for him to continue making a living as a gaming Nutuber. Since he already saw the ending of the game, he was about to quit playing. But that day, “Tower of Trials” became reality, and Jinhyuk, who knew about every single thing in the game, took over everything faster than anyone possibly could! “I’ll show you what a true pro is like.”",
     "descriptionPt": "",
-    "chaptersCount": 275,
+    "chaptersCount": 277,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207230,7 +207230,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno da Seita Monte Hua, um manhwa em português.",
     "descriptionPt": "Leia O Retorno da Seita Monte Hua, um manhwa em português.",
-    "chaptersCount": 179,
+    "chaptersCount": 180,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232649,7 +232649,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Non Tua, um manhwa em português.",
     "descriptionPt": "Leia Non Tua, um manhwa em português.",
-    "chaptersCount": 8,
+    "chaptersCount": 9,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251047,7 +251047,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Nós, Depois, um webtoon em português.",
     "descriptionPt": "Leia Nós, Depois, um webtoon em português.",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255491,7 +255491,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Lei do Talião, um manhwa em português.",
     "descriptionPt": "Leia A Lei do Talião, um manhwa em português.",
-    "chaptersCount": 6,
+    "chaptersCount": 8,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257296,7 +257296,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ela é a Irmã de um Merda, um manhwa em português.",
     "descriptionPt": "Leia Ela é a Irmã de um Merda, um manhwa em português.",
-    "chaptersCount": 94,
+    "chaptersCount": 95,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257949,7 +257949,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Lei Do Lixo, um manhwa em português.",
     "descriptionPt": "Leia A Lei Do Lixo, um manhwa em português.",
-    "chaptersCount": 51,
+    "chaptersCount": 52,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260186,7 +260186,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Como Proteger seu Coração, um manhwa em português.",
     "descriptionPt": "Leia Como Proteger seu Coração, um manhwa em português.",
-    "chaptersCount": 152,
+    "chaptersCount": 154,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260440,7 +260440,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia As Noites da Imperatriz, um manhwa em português.",
     "descriptionPt": "Leia As Noites da Imperatriz, um manhwa em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 42,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265486,7 +265486,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Serena, um manhwa em português.",
     "descriptionPt": "Leia Serena, um manhwa em português.",
-    "chaptersCount": 132,
+    "chaptersCount": 133,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269661,7 +269661,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Flor que Empunha a Espada, um manhwa em português.",
     "descriptionPt": "Leia A Flor que Empunha a Espada, um manhwa em português.",
-    "chaptersCount": 52,
+    "chaptersCount": 53,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

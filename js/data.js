@@ -207573,7 +207573,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dragões Sequestrados, um manhwa em português.",
     "descriptionPt": "Leia Dragões Sequestrados, um manhwa em português.",
-    "chaptersCount": 59,
+    "chaptersCount": 60,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207679,7 +207679,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Logando 10.000 Anos No Futuro, um manhua em português.",
     "descriptionPt": "Leia Logando 10.000 Anos No Futuro, um manhua em português.",
-    "chaptersCount": 341,
+    "chaptersCount": 342,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207859,7 +207859,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Me Escolhe!, um manhwa em português.",
     "descriptionPt": "Leia Me Escolhe!, um manhwa em português.",
-    "chaptersCount": 218,
+    "chaptersCount": 219,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249313,7 +249313,7 @@ let MANGA_DATA = [
     ],
     "description": "Intimate Tutoring He’s now a private tutor for his old crush’s daughter… tension, flirtation, and messy misreads set the room on fire.",
     "descriptionPt": "",
-    "chaptersCount": 24,
+    "chaptersCount": 29,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -252864,7 +252864,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Bebê Prisioneira do Castelo de Inverno, um manhwa em português.",
     "descriptionPt": "Leia A Bebê Prisioneira do Castelo de Inverno, um manhwa em português.",
-    "chaptersCount": 107,
+    "chaptersCount": 108,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253048,7 +253048,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
     "descriptionPt": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
-    "chaptersCount": 120,
+    "chaptersCount": 121,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254272,7 +254272,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Cão Raivoso da Mansão do Duque, um manhwa em português.",
     "descriptionPt": "Leia O Cão Raivoso da Mansão do Duque, um manhwa em português.",
-    "chaptersCount": 74,
+    "chaptersCount": 75,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254347,7 +254347,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Demônio Supremo do Veneno, um manhwa em português.",
     "descriptionPt": "Leia O Demônio Supremo do Veneno, um manhwa em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254577,7 +254577,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-tornei-um-mago-de-fantasia-medieval online em português.",
     "descriptionPt": "Leia me-tornei-um-mago-de-fantasia-medieval online em português.",
-    "chaptersCount": 38,
+    "chaptersCount": 39,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261389,7 +261389,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-segredo-do-senior-perfeito online em português.",
     "descriptionPt": "Leia o-segredo-do-senior-perfeito online em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261704,7 +261704,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Reencarnado, um manhwa em português.",
     "descriptionPt": "Leia Reencarnado, um manhwa em português.",
-    "chaptersCount": 148,
+    "chaptersCount": 150,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266421,7 +266421,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sobrevivendo no Jogo Como um Bárbaro, um manhwa em português.",
     "descriptionPt": "Leia Sobrevivendo no Jogo Como um Bárbaro, um manhwa em português.",
-    "chaptersCount": 156,
+    "chaptersCount": 158,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269920,7 +269920,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O puro amor do vilão, um manhwa em português.",
     "descriptionPt": "Leia O puro amor do vilão, um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 3,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -270264,6 +270264,32 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "o-metodo-para-domar-o-duque-monstro",
+    "slug": "o-metodo-para-domar-o-duque-monstro",
+    "title": "O Método Para Domar o Duque Monstro",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/o-metodo-para-domar-o-duque-monstro/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/o-metodo-para-domar-o-duque-monstro/cover-md.webp",
+    "author": "Kongbae",
+    "artist": "Kongbae",
+    "status": "completed",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Fantasia",
+      "Romance",
+      "Adulto",
+      "Smut",
+      "Manhwa"
+    ],
+    "description": "Leia O Método Para Domar o Duque Monstro, um manhwa em português.",
+    "descriptionPt": "Leia O Método Para Domar o Duque Monstro, um manhwa em português.",
+    "chaptersCount": 6,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

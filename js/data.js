@@ -251429,7 +251429,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia North Snow Love Story, um manhwa em português.",
     "descriptionPt": "Leia North Snow Love Story, um manhwa em português.",
-    "chaptersCount": 83,
+    "chaptersCount": 84,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256389,7 +256389,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
     "descriptionPt": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
-    "chaptersCount": 63,
+    "chaptersCount": 64,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259850,7 +259850,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Tentei Ser sua Espada Leal, um manhwa em português.",
     "descriptionPt": "Leia Eu Tentei Ser sua Espada Leal, um manhwa em português.",
-    "chaptersCount": 93,
+    "chaptersCount": 100,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261051,7 +261051,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Ídolo da Nossa Guilda, um manhwa em português.",
     "descriptionPt": "Leia O Ídolo da Nossa Guilda, um manhwa em português.",
-    "chaptersCount": 50,
+    "chaptersCount": 51,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -268140,7 +268140,7 @@ let MANGA_DATA = [
     ],
     "description": "My Unholy House Fairy (Uncensored) Former detective Mun Tae-shin thought he was just doing his job when he helped Song Yeon-hee years ago. He certainly didn’t expect her to turn up at his door, weeping and offering to do his housework in exchange for a place to live. Intent on driving her away, Tae-shin gives her an ultimatum: if she wants to stay, she has to offer her body. But when Yeon-hee actually starts stripping, Tae-shin realizes he has gotten far more than he bargained for.",
     "descriptionPt": "",
-    "chaptersCount": 9,
+    "chaptersCount": 10,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -268998,7 +268998,7 @@ let MANGA_DATA = [
     ],
     "description": "Eighteen’s Bed (Uncensored) Jun Kang, the quintessential model student with a secret—an agonizing, one-sided crush he keeps buried deep—finds his carefully composed world shaken when he crosses paths with Yohan Go, a mysterious classmate he can’t quite figure out…",
     "descriptionPt": "",
-    "chaptersCount": 63,
+    "chaptersCount": 65,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

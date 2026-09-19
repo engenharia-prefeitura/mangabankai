@@ -91401,7 +91401,7 @@ let MANGA_DATA = [
     ],
     "description": "Taming a Female Delinquent (Official) “Shove it inside your hole while I watch. It’s an order.” The ruthless revenge of a man who was bullied in high school began with the kidnapping of the delinquent girl who drove him to near death.",
     "descriptionPt": "",
-    "chaptersCount": 55,
+    "chaptersCount": 61,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -94121,7 +94121,7 @@ let MANGA_DATA = [
     ],
     "description": "Play Nice (Uncensored) Locked in a pristine white room with your hyperdominant alpha childhood friend is one thing. Being forced by an anonymous captor to perform explicit, depraved acts with him just to survive is another. When Ju Dohyeon and Woo Taeyun are abruptly abducted, they initially suspect a high-stakes ransom plot or a crazed stalker. But the truth is far more wicked. A single phone in the center of the room lights up with a series of perverse missions, forcing them to cross every boundary they have spent a lifetime establishing. Now, Dohyeon and Taeyun must choose between their lif",
     "descriptionPt": "",
-    "chaptersCount": 18,
+    "chaptersCount": 20,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -230233,7 +230233,7 @@ let MANGA_DATA = [
     ],
     "description": "Taming My Step-Sister (Official) Was my step-sister this sexy? Ash moves to the city to prepare for his college entrance exam. His stepfather suggests he stay at his stepsister’s house. But on the very first day, he finds her standing there in her underwear. “Ash, do you wanna take a bath together?”",
     "descriptionPt": "",
-    "chaptersCount": 5,
+    "chaptersCount": 16,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -270766,10 +270766,34 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromancer Academy and the Genius Summoner, um manhwa em português.",
     "descriptionPt": "Leia Necromancer Academy and the Genius Summoner, um manhwa em português.",
-    "chaptersCount": 139,
+    "chaptersCount": 220,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "a-killer-woman",
+    "slug": "a-killer-woman",
+    "title": "A Killer Woman",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2024/08/a-killer-woman-01-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2024/08/a-killer-woman-01-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult"
+    ],
+    "description": "The story of a woman and a curse that leads men to their death, will she be able to find happiness?",
+    "descriptionEn": "The story of a woman and a curse that leads men to their death, will she be able to find happiness?",
+    "chaptersCount": 112,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

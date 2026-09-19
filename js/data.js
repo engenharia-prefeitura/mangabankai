@@ -91974,7 +91974,7 @@ let MANGA_DATA = [
     ],
     "description": "Performance Report (Official) One day, Corbin finds out that his female coworwers have been making bets about him. So, he begins getting his revenge on his female coworkers pulling lewd pranks on him.",
     "descriptionPt": "",
-    "chaptersCount": 32,
+    "chaptersCount": 34,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

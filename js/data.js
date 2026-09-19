@@ -60604,7 +60604,7 @@ let MANGA_DATA = [
     ],
     "description": "Eunnam develops a sexual desire towards the mother of his best friend, Jidong! He then makes a rebellious bet with his stepmother on the line…",
     "descriptionEn": "Eunnam develops a sexual desire towards the mother of his best friend, Jidong! He then makes a rebellious bet with his stepmother on the line…",
-    "chaptersCount": 88,
+    "chaptersCount": 89,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -96423,7 +96423,7 @@ let MANGA_DATA = [
     ],
     "description": "Recoil (Uncensored) How far down do you have to fall before there’s no coming back? For Seongcheol, rock bottom is a cramped apartment shared with Minho, a man whose “love” is expressed through bruises and cruel control. Just as Seongcheol surrenders to his grim fate, his past walks through the door in the form of Junseo, a former classmate turned detective. Junseo becomes obsessed with rescuing Seongcheol from his living hell, but breaking a toxic bond is never easy. As Minho senses his prize slipping away, his possessive rage triggers a dangerous, high-stakes confrontation. Can Junseo’s fier",
     "descriptionPt": "",
-    "chaptersCount": 11,
+    "chaptersCount": 14,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -98465,7 +98465,7 @@ let MANGA_DATA = [
     ],
     "description": "No Hard Feelings (Uncensored) Eun Pyo-eum, the leader of the failed idol group Moses, is desperate for a comeback. When a mysterious sponsorship deal offers him a lifeline, there’s just one problem: he has chronic erectile dysfunction. Seeking help from the nation’s top urologist, Professor Han Girip, Pyo-eum finds that standard medicine won’t cut it. To fix his condition, he agrees to participate in Girip’s new experimental therapy…a treatment that quickly turns into a series of (quite literally) shocking encounters.",
     "descriptionPt": "",
-    "chaptersCount": 20,
+    "chaptersCount": 27,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -231852,7 +231852,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Lixo da Família Condal, um manhwa em português.",
     "descriptionPt": "Leia O Lixo da Família Condal, um manhwa em português.",
-    "chaptersCount": 189,
+    "chaptersCount": 190,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232068,7 +232068,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia I Will Fall With The Emperor, um manhwa em português.",
     "descriptionPt": "Leia I Will Fall With The Emperor, um manhwa em português.",
-    "chaptersCount": 203,
+    "chaptersCount": 204,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232199,7 +232199,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Jogo do Ferreiro Genial, um manhwa em português.",
     "descriptionPt": "Leia O Jogo do Ferreiro Genial, um manhwa em português.",
-    "chaptersCount": 71,
+    "chaptersCount": 72,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232254,7 +232254,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Crônicas da Facção Demoníaca, um manhwa em português.",
     "descriptionPt": "Leia Crônicas da Facção Demoníaca, um manhwa em português.",
-    "chaptersCount": 190,
+    "chaptersCount": 191,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232279,7 +232279,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Despertar em Tempo Integral, um manhua em português.",
     "descriptionPt": "Leia Despertar em Tempo Integral, um manhua em português.",
-    "chaptersCount": 161,
+    "chaptersCount": 162,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232304,7 +232304,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia de Sobrevivência do Caçador de Bestas Demoníacas, um manhwa em português.",
     "descriptionPt": "Leia Guia de Sobrevivência do Caçador de Bestas Demoníacas, um manhwa em português.",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232330,7 +232330,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Superação do Nobre Vagabundo, um manhwa em português.",
     "descriptionPt": "Leia A Superação do Nobre Vagabundo, um manhwa em português.",
-    "chaptersCount": 159,
+    "chaptersCount": 160,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232386,7 +232386,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Domínio Absoluto, um manhwa em português.",
     "descriptionPt": "Leia Domínio Absoluto, um manhwa em português.",
-    "chaptersCount": 110,
+    "chaptersCount": 111,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232747,7 +232747,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Renascimento de Um Mercenário Entre Nobres, um manhwa em português.",
     "descriptionPt": "Leia O Renascimento de Um Mercenário Entre Nobres, um manhwa em português.",
-    "chaptersCount": 48,
+    "chaptersCount": 49,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232826,7 +232826,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Recluso Supremo, um manhwa em português.",
     "descriptionPt": "Leia O Recluso Supremo, um manhwa em português.",
-    "chaptersCount": 97,
+    "chaptersCount": 98,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232995,7 +232995,7 @@ let MANGA_DATA = [
     ],
     "description": "Swallow You Whole (Uncensored) Jaheon comes from a lineage of omegas. Omegas who have raised the children of their branch families, only for them to be offered to the Snake God, Lord Mugo, every 12 years. Though it is said that Mugo handpicks his sacrifices no one in the head family believes such an old tale anymore. However, Jaheon knows that Lord Mugo came to him when he was a child and picked him to be the sacrifice, and even remembers the events of the day. Even though Jaheon has prepared himself, both body and mind, for as long as he could remember, upon entering Mugo’s lair he quickly re",
     "descriptionPt": "",
-    "chaptersCount": 79,
+    "chaptersCount": 81,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -250887,7 +250887,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Fui Confundido com um Gênio Monstruoso, um manhwa em português.",
     "descriptionPt": "Leia Fui Confundido com um Gênio Monstruoso, um manhwa em português.",
-    "chaptersCount": 117,
+    "chaptersCount": 118,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254621,7 +254621,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-tornei-um-ladrao-de-habilidades online em português.",
     "descriptionPt": "Leia me-tornei-um-ladrao-de-habilidades online em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 42,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254951,7 +254951,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Assassino Cruel, um manhwa em português.",
     "descriptionPt": "Leia Assassino Cruel, um manhwa em português.",
-    "chaptersCount": 144,
+    "chaptersCount": 148,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255142,7 +255142,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Superastro do 0, um manhwa em português.",
     "descriptionPt": "Leia Superastro do 0, um manhwa em português.",
-    "chaptersCount": 100,
+    "chaptersCount": 103,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256940,7 +256940,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Streaming do Arqueiro Genial, um manhwa em português.",
     "descriptionPt": "Leia Streaming do Arqueiro Genial, um manhwa em português.",
-    "chaptersCount": 108,
+    "chaptersCount": 109,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258051,7 +258051,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia genio-regressado-criador-de-itens-mitico online em português.",
     "descriptionPt": "Leia genio-regressado-criador-de-itens-mitico online em português.",
-    "chaptersCount": 49,
+    "chaptersCount": 51,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258885,7 +258885,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Teto x Egen: Vizinhos por Acaso, um manhwa em português.",
     "descriptionPt": "Leia Teto x Egen: Vizinhos por Acaso, um manhwa em português.",
-    "chaptersCount": 20,
+    "chaptersCount": 22,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260048,7 +260048,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-mundo-arruinado-foi-confundido-com-um-jogo online em português.",
     "descriptionPt": "Leia o-mundo-arruinado-foi-confundido-com-um-jogo online em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260537,7 +260537,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-transmissao-do-reino-demoniaco-do-demonio-celestial-rejuvenescido online em português.",
     "descriptionPt": "Leia a-transmissao-do-reino-demoniaco-do-demonio-celestial-rejuvenescido online em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261389,7 +261389,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-segredo-do-senior-perfeito online em português.",
     "descriptionPt": "Leia o-segredo-do-senior-perfeito online em português.",
-    "chaptersCount": 20,
+    "chaptersCount": 21,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269616,30 +269616,6 @@ let MANGA_DATA = [
     "source": "hentai20"
   },
   {
-    "id": "a-killer-woman",
-    "slug": "a-killer-woman",
-    "title": "A Killer Woman",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/a-killer-woman-01-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/a-killer-woman-01-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adult"
-    ],
-    "description": "The story of a woman and a curse that leads men to their death, will she be able to find happiness?",
-    "descriptionEn": "The story of a woman and a curse that leads men to their death, will she be able to find happiness?",
-    "chaptersCount": 112,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "a-flor-que-empunha-a-espada",
     "slug": "a-flor-que-empunha-a-espada",
     "title": "A Flor que Empunha a Espada",
@@ -270102,7 +270078,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Asha nas Fronteiras, um manhwa em português.",
     "descriptionPt": "Leia Asha nas Fronteiras, um manhwa em português.",
-    "chaptersCount": 4,
+    "chaptersCount": 15,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -270757,6 +270733,40 @@ let MANGA_DATA = [
     "description": "Leia A Babá da Máfia, um webtoon em português.",
     "descriptionPt": "Leia A Babá da Máfia, um webtoon em português.",
     "chaptersCount": 10,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "necromancer-academy-and-the-genius-summoner",
+    "slug": "necromancer-academy-and-the-genius-summoner",
+    "title": "Necromancer Academy and the Genius Summoner",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/necromancer-academy-and-the-genius-summoner/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/necromancer-academy-and-the-genius-summoner/cover-md.webp",
+    "author": "AZI",
+    "artist": "AZI",
+    "status": "ongoing",
+    "year": 2023,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Ação",
+      "Comedia",
+      "Shounen",
+      "Fantasia",
+      "Romance",
+      "Sobrenatural",
+      "Magia",
+      "Ecchi",
+      "Harem",
+      "Aventura",
+      "Manhwa",
+      "Escolar"
+    ],
+    "description": "Leia Necromancer Academy and the Genius Summoner, um manhwa em português.",
+    "descriptionPt": "Leia Necromancer Academy and the Genius Summoner, um manhwa em português.",
+    "chaptersCount": 139,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

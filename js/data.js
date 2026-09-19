@@ -97337,7 +97337,7 @@ let MANGA_DATA = [
     ],
     "description": "Leave It to Doc! (Uncensored) Star doctor Soh Baek-gil is the perfect Alpha, but only on paper. In reality, he’s pheromone-blind and incapable of arousal. When he meets Kim Rohee, an Omega nurse with a massive complex about her own overwhelming scent, he thinks he’s found the perfect research subject. He expected a data sample, he didn’t expect to lose his mind.",
     "descriptionPt": "",
-    "chaptersCount": 25,
+    "chaptersCount": 28,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -103382,7 +103382,7 @@ let MANGA_DATA = [
     ],
     "description": "The Knight and the Witch (Uncensored) Zerak, a bold and beautiful witch born from a gemstone, dreams of joining an official witch gathering. But her fiery fashion sense and unapologetic attitude don’t sit well with the more conservative witches, who quickly shut her out. Determined to find a place where she truly belongs, Zerak sets off on a journey to seek a gathering that will accept her. Along the way, she finds herself entangled with three very different men—each more complicated than the last. Will Zerak be able to claim her place among the witches, or will these unexpected encounters cha",
     "descriptionPt": "",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -232943,7 +232943,7 @@ let MANGA_DATA = [
     ],
     "description": "Proceed with Caution (Uncensored) Former kendo prodigy Jaehyeok has lost his way, spiraling far from his golden days. The only person capable of reining him in is Yeongwon, a steadfast police officer with a heart of gold. Though they couldn’t be more different, these single fathers find their back into each other’s lives. As Jaehyuk moves in to learn the ropes of parenting, his Alpha instincts awaken, blurring the lines between duty and desire in a domestic whirlwind romance.",
     "descriptionPt": "",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -257296,7 +257296,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ela é a Irmã de um Merda, um manhwa em português.",
     "descriptionPt": "Leia Ela é a Irmã de um Merda, um manhwa em português.",
-    "chaptersCount": 96,
+    "chaptersCount": 97,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -270078,7 +270078,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Asha nas Fronteiras, um manhwa em português.",
     "descriptionPt": "Leia Asha nas Fronteiras, um manhwa em português.",
-    "chaptersCount": 15,
+    "chaptersCount": 16,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -270794,6 +270794,30 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "tankouhentai-shirayama-karin-no-shidou-seido",
+    "slug": "shirayama-karin-no-shidou-seido",
+    "title": "Shirayama Karin no Shidou Seido",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/08/Shirayama-Karin-no-Shidou-Seido-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/08/Shirayama-Karin-no-Shidou-Seido-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Shiokonbu",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Traição",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 2,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

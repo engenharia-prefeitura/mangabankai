@@ -91811,7 +91811,7 @@ let MANGA_DATA = [
     ],
     "description": "Prison Revenge (Official) I’ve been beaten and humiliated all my life, and I even lost my parents. “Now it’s your turn. Don’t expect to get out of this easily.”",
     "descriptionPt": "",
-    "chaptersCount": 52,
+    "chaptersCount": 62,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -92170,7 +92170,7 @@ let MANGA_DATA = [
     ],
     "description": "My secret Cupid (Official) Cole helps Isabella who was lost in campus. When Isabella starts to think about meeting Cole again, they meet again in school retreat. Through the secret cupid game and the help from her classmates, Isabella slowly changes. First encounter and kindness in college, and my secret cupid.",
     "descriptionPt": "",
-    "chaptersCount": 50,
+    "chaptersCount": 60,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -94173,7 +94173,7 @@ let MANGA_DATA = [
     ],
     "description": "Near and Dear (Uncensored) Yoo Haeyoung was a child star with a bright future, but now, at 29, he just drifts through life. However, everything changes when the famous actor Jung Yeowoon asks Haeyoung to be his manager and even suggests that they live together! Though Haeyoung has spent his life avoiding the spotlight due to his past successes, he accepts the job and things seem to go well until he catches Yeowoon touching himself. Now, Haeyoung can’t get Yeowoon off his mind, and it doesn’t help that they’re together all day and night long.",
     "descriptionPt": "",
-    "chaptersCount": 54,
+    "chaptersCount": 55,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -230824,7 +230824,7 @@ let MANGA_DATA = [
     ],
     "description": "8 / 100 Desenvolvido por Rank Math SEO",
     "descriptionPt": "8 / 100 Desenvolvido por Rank Math SEO",
-    "chaptersCount": 118,
+    "chaptersCount": 119,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false,
@@ -231746,7 +231746,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Pirralhinha Corre Selvagemente, um manhwa em português.",
     "descriptionPt": "Leia A Pirralhinha Corre Selvagemente, um manhwa em português.",
-    "chaptersCount": 15,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232147,7 +232147,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mudarei meu Destino Através de um Casamento por Conveniência, um manhwa em português.",
     "descriptionPt": "Leia Mudarei meu Destino Através de um Casamento por Conveniência, um manhwa em português.",
-    "chaptersCount": 26,
+    "chaptersCount": 27,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -236161,7 +236161,7 @@ let MANGA_DATA = [
     ],
     "description": "Confessions of a Chambermaid (Uncensored) For her entire life in Joseon, Yun Jini believed there was only one man in the world, the king. As a newly appointed chambermaid guarding the royal bedchamber, she begins to awaken to forbidden desires she has never dared to name. But in a palace where love and freedom are luxuries no court lady can afford, her fate turns even darker. Accused of treason and forced to flee, Jini falls into a pond, sinking fast toward certain death. “I don’t want to die like this!” Her desperate plea is answered. The mysterious waters carry her not to the afterlife, but ",
     "descriptionPt": "",
-    "chaptersCount": 23,
+    "chaptersCount": 25,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -251542,7 +251542,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Cuidado com a Vilã!, um manhwa em português.",
     "descriptionPt": "Leia Cuidado com a Vilã!, um manhwa em português.",
-    "chaptersCount": 142,
+    "chaptersCount": 143,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253760,7 +253760,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Como se o amor não existisse, um manhwa em português.",
     "descriptionPt": "Leia Como se o amor não existisse, um manhwa em português.",
-    "chaptersCount": 45,
+    "chaptersCount": 46,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253784,7 +253784,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Casamento por Conveniência 2: A Canção Inesquecível, um manhwa em português.",
     "descriptionPt": "Leia Casamento por Conveniência 2: A Canção Inesquecível, um manhwa em português.",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255732,7 +255732,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Amor:Zero, um manhwa em português.",
     "descriptionPt": "Leia Amor:Zero, um manhwa em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255815,7 +255815,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Lamento da Sereia, um webtoon em português.",
     "descriptionPt": "Leia O Lamento da Sereia, um webtoon em português.",
-    "chaptersCount": 110,
+    "chaptersCount": 111,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257270,7 +257270,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dépaysement, um manhwa em português.",
     "descriptionPt": "Leia Dépaysement, um manhwa em português.",
-    "chaptersCount": 28,
+    "chaptersCount": 29,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259376,7 +259376,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Uma Princesa que Lê a Sorte, um manhwa em português.",
     "descriptionPt": "Leia Uma Princesa que Lê a Sorte, um manhwa em português.",
-    "chaptersCount": 162,
+    "chaptersCount": 163,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259960,7 +259960,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Doentia Devoção, um manhwa em português.",
     "descriptionPt": "Leia Doentia Devoção, um manhwa em português.",
-    "chaptersCount": 60,
+    "chaptersCount": 61,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -267126,7 +267126,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Noite na Encruzilhada, um manhwa em português.",
     "descriptionPt": "Leia Noite na Encruzilhada, um manhwa em português.",
-    "chaptersCount": 4,
+    "chaptersCount": 5,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -268048,7 +268048,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Devoção de uma Rainha Viúva Pelo Amor, um mangá em português.",
     "descriptionPt": "Leia A Devoção de uma Rainha Viúva Pelo Amor, um mangá em português.",
-    "chaptersCount": 4,
+    "chaptersCount": 5,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -268547,7 +268547,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Termos de uso do Protótipo, um manhwa em português.",
     "descriptionPt": "Leia Termos de uso do Protótipo, um manhwa em português.",
-    "chaptersCount": 4,
+    "chaptersCount": 5,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -270733,6 +270733,33 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "a-baba-da-mafia",
+    "slug": "a-baba-da-mafia",
+    "title": "A Babá da Máfia",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-baba-da-mafia/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-baba-da-mafia/cover-md.webp",
+    "author": "Violet Matter",
+    "artist": "Violet Matter",
+    "status": "ongoing",
+    "year": 2023,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Josei",
+      "Mistério",
+      "Maduro",
+      "Webtoon"
+    ],
+    "description": "Leia A Babá da Máfia, um webtoon em português.",
+    "descriptionPt": "Leia A Babá da Máfia, um webtoon em português.",
+    "chaptersCount": 10,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

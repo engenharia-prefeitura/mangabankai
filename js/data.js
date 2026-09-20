@@ -91091,7 +91091,7 @@ let MANGA_DATA = [
     ],
     "description": "Tutor’s Efforts : A Million-Dollar Mission (Official) The teachers’ struggle to send SI-YOON MIN, the son of the chairman of the IR Group, to a prestigious university begins! With a $1 million performance bonus at stake, it’s no easy task due to SI-YOON’s indifference toward studying. In the end, the teachers dedicate themselves fully to the challenge. “SI-YOON, are you curious to see what’s underneath my panties…?”",
     "descriptionPt": "",
-    "chaptersCount": 85,
+    "chaptersCount": 90,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -102541,7 +102541,7 @@ let MANGA_DATA = [
     ],
     "description": "Maneater (Uncensored) In a rough neighborhood where police rarely intervene, Nabi runs a quiet little hair salon. But behind her sweet appearance lies a deadly secret: she’s a man-eating monster who only targets intruders, specifically sexual predators. With her “supply” running low, Nabi captures an unexpected trespasser, a contract killer named Kang Eunchan who was sent to assassinate her. Before he knows it, he’s overpowered and locked away in her secret underground shelter. As Nabi begins to care for him in her own strange way, Eunchan finds himself reluctantly drawn to her and even offers",
     "descriptionPt": "",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -270770,30 +270770,6 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
-  },
-  {
-    "id": "a-killer-woman",
-    "slug": "a-killer-woman",
-    "title": "A Killer Woman",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/a-killer-woman-01-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/a-killer-woman-01-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adult"
-    ],
-    "description": "The story of a woman and a curse that leads men to their death, will she be able to find happiness?",
-    "descriptionEn": "The story of a woman and a curse that leads men to their death, will she be able to find happiness?",
-    "chaptersCount": 112,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
   },
   {
     "id": "tankouhentai-shirayama-karin-no-shidou-seido",

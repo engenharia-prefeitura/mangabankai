@@ -95373,7 +95373,7 @@ let MANGA_DATA = [
     ],
     "description": "The World After the Fall Faced with imminent defeat and certain death, would you choose to run – or continue to fight for a doomed world? When mysterious towers appear across the world, summoning monsters that prey on mankind, this is the choice presented to the Tower Walkers – adventurers with special powers to fight the monsters. On the brink of death, they can choose to use a “regression stone” to return to the past for a second chance, though this decision places them in a separate timeline forever. Stubborn Tower Walker Jaehwan rejects this choice, choosing to fight for the original timel",
     "descriptionPt": "",
-    "chaptersCount": 248,
+    "chaptersCount": 252,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -99804,7 +99804,7 @@ let MANGA_DATA = [
     ],
     "description": "Snapping into Love (Uncensored) Two childhood friends, one coin on a string and a lot of pent up wishful thinking.",
     "descriptionPt": "",
-    "chaptersCount": 67,
+    "chaptersCount": 72,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -100937,7 +100937,7 @@ let MANGA_DATA = [
     ],
     "description": "The Student, The Witch, and The Academy For Nam Juho, life as a repeat student aiming for med school is supposed to be simple: study, eat convenience store kimbap, and sleep, preferably in that order. But peace is impossible when Yeo Jiwoo, his eccentric classmate from the same cram school, suddenly decides he’s her new favorite target. From stolen pens and playful pranks to unsolicited “study motivation,” Jiwoo seems determined to turn Juho’s quiet, disciplined life into a daily comedy of chaos. He swears she’s doing it just to annoy him… but why does his heart race every time she flashes tha",
     "descriptionPt": "",
-    "chaptersCount": 53,
+    "chaptersCount": 54,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207175,7 +207175,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Mansão Que aguarda A Primavera, um manhwa em português.",
     "descriptionPt": "Leia A Mansão Que aguarda A Primavera, um manhwa em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231796,7 +231796,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sob a Flor Caída, um manhwa em português.",
     "descriptionPt": "Leia Sob a Flor Caída, um manhwa em português.",
-    "chaptersCount": 40,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251131,7 +251131,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vida de uma Artista de Webtoon, um manhwa em português.",
     "descriptionPt": "Leia A Vida de uma Artista de Webtoon, um manhwa em português.",
-    "chaptersCount": 53,
+    "chaptersCount": 54,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252597,7 +252597,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Besta da Mansão Alvard, um manhwa em português.",
     "descriptionPt": "Leia A Besta da Mansão Alvard, um manhwa em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253315,7 +253315,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Carrier Falcon Princess, um manhwa em português.",
     "descriptionPt": "Leia Carrier Falcon Princess, um manhwa em português.",
-    "chaptersCount": 128,
+    "chaptersCount": 129,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253863,7 +253863,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Santa Bebê Quer Destruir o Mundo!, um manhwa em português.",
     "descriptionPt": "Leia A Santa Bebê Quer Destruir o Mundo!, um manhwa em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255297,7 +255297,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Forget About My Husband, I’d Rather Go Make Money, um manhwa em português.",
     "descriptionPt": "Leia Forget About My Husband, I’d Rather Go Make Money, um manhwa em português.",
-    "chaptersCount": 118,
+    "chaptersCount": 119,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257162,7 +257162,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia #Meu Primeiro Amor, um manhwa em português.",
     "descriptionPt": "Leia #Meu Primeiro Amor, um manhwa em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266030,7 +266030,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Paraíso de Valentina, um manhwa em português.",
     "descriptionPt": "Leia O Paraíso de Valentina, um manhwa em português.",
-    "chaptersCount": 40,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -268468,7 +268468,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Minha Mãe Se Casou Por Contrato, um manhwa em português.",
     "descriptionPt": "Leia Minha Mãe Se Casou Por Contrato, um manhwa em português.",
-    "chaptersCount": 81,
+    "chaptersCount": 82,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -268576,7 +268576,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Erica: Quando Meu Amigo Fica Obcecado por Mim, um manhwa em português.",
     "descriptionPt": "Leia Erica: Quando Meu Amigo Fica Obcecado por Mim, um manhwa em português.",
-    "chaptersCount": 21,
+    "chaptersCount": 22,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -268654,7 +268654,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sobrevivendo como a Esposa de um Assassino em Série, um manhwa em português.",
     "descriptionPt": "Leia Sobrevivendo como a Esposa de um Assassino em Série, um manhwa em português.",
-    "chaptersCount": 11,
+    "chaptersCount": 12,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269990,7 +269990,7 @@ let MANGA_DATA = [
     ],
     "description": "Bride-To-Be (Uncensored) What would you do if you came back home, only to see a girl living there? Cool… Now what the heck should I do?",
     "descriptionPt": "",
-    "chaptersCount": 11,
+    "chaptersCount": 13,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

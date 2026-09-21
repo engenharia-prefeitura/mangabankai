@@ -99464,7 +99464,7 @@ let MANGA_DATA = [
     ],
     "description": "Someone Stop Her! To regain his peace, Gangchan must welcome his blood-curdling smoking neighbor and her housemates into his home.",
     "descriptionPt": "",
-    "chaptersCount": 106,
+    "chaptersCount": 113,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -231720,7 +231720,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Preciso Ser Um Grande Vilão, um manhua em português.",
     "descriptionPt": "Leia Eu Preciso Ser Um Grande Vilão, um manhua em português.",
-    "chaptersCount": 7,
+    "chaptersCount": 8,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232172,7 +232172,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Duquesa em Ruínas, um manhwa em português.",
     "descriptionPt": "Leia Duquesa em Ruínas, um manhwa em português.",
-    "chaptersCount": 66,
+    "chaptersCount": 67,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249501,7 +249501,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Limite Absoluto, um manhwa em português.",
     "descriptionPt": "Leia Limite Absoluto, um manhwa em português.",
-    "chaptersCount": 94,
+    "chaptersCount": 97,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257949,7 +257949,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Lei Do Lixo, um manhwa em português.",
     "descriptionPt": "Leia A Lei Do Lixo, um manhwa em português.",
-    "chaptersCount": 52,
+    "chaptersCount": 53,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264794,7 +264794,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Presepe Fora da Gaiola, um manhwa em português.",
     "descriptionPt": "Leia Presepe Fora da Gaiola, um manhwa em português.",
-    "chaptersCount": 66,
+    "chaptersCount": 67,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -267100,7 +267100,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Noite na Encruzilhada, um manhwa em português.",
     "descriptionPt": "Leia Noite na Encruzilhada, um manhwa em português.",
-    "chaptersCount": 5,
+    "chaptersCount": 6,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269930,7 +269930,7 @@ let MANGA_DATA = [
     ],
     "description": "Diaries of Depravity: Shorts By day, ordinary people. By night, secret desires pull them into forbidden temptations.",
     "descriptionPt": "",
-    "chaptersCount": 2,
+    "chaptersCount": 3,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -271637,6 +271637,58 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "no-meio-do-inverno-sombrio",
+    "slug": "no-meio-do-inverno-sombrio",
+    "title": "No meio do inverno sombrio",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/no-meio-do-inverno-sombrio/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/no-meio-do-inverno-sombrio/cover-md.webp",
+    "author": "Kat",
+    "artist": "Kat",
+    "status": "ongoing",
+    "year": 2023,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Ação",
+      "Romance",
+      "Mistério",
+      "Sci-Fi"
+    ],
+    "description": "Leia No meio do inverno sombrio, um manhwa em português.",
+    "descriptionPt": "Leia No meio do inverno sombrio, um manhwa em português.",
+    "chaptersCount": 112,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "a-midsummer-s-carol-uncensored",
+    "slug": "a-midsummer-s-carol-uncensored",
+    "title": "A Midsummer’s Carol (Uncensored)",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2026/05/a-midsummers-carol-uncensored-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2026/05/a-midsummers-carol-uncensored-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult",
+      "Josei",
+      "Uncensored"
+    ],
+    "description": "After failing at both love and work, Dokyung returns to the stillness of her hometown, Mooyung, where a chance encounter at her mother’s old corner store",
+    "descriptionEn": "After failing at both love and work, Dokyung returns to the stillness of her hometown, Mooyung, where a chance encounter at her mother’s old corner store",
+    "chaptersCount": 40,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

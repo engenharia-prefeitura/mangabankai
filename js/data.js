@@ -99770,7 +99770,7 @@ let MANGA_DATA = [
     ],
     "description": "The Delinquent Girl (Uncensored) Bullied in school, and now reunited… Can I get my payback?",
     "descriptionPt": "",
-    "chaptersCount": 26,
+    "chaptersCount": 28,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -105578,7 +105578,7 @@ let MANGA_DATA = [
     ],
     "description": "Heat Stroke (Uncensored) Goh Yumin, the eldest son of an endangered black-footed wildcat clan, has never even met a female of his own kind and is doomed to a lifelong single status. Now freshly in heat and losing his mind to breeding instinct, he catches wind of a secret rumor: a male wildcat can perfectly pair with a human man and impregnate him without fail. Determined to continue his family line, Yumin sneaks into Hanguk University in search of the most beautiful and brilliant man he can find, and that is where he meets Beom Taejun, a stunning senior with an irresistible body. Yumin sets as",
     "descriptionPt": "",
-    "chaptersCount": 31,
+    "chaptersCount": 34,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -251568,7 +251568,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Jardim de Maio, um manhwa em português.",
     "descriptionPt": "Leia Jardim de Maio, um manhwa em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254163,7 +254163,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Lei de Inso, um manhwa em português.",
     "descriptionPt": "Leia A Lei de Inso, um manhwa em português.",
-    "chaptersCount": 224,
+    "chaptersCount": 225,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -267517,7 +267517,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia ENNEAD, um manhwa em português.",
     "descriptionPt": "Leia ENNEAD, um manhwa em português.",
-    "chaptersCount": 141,
+    "chaptersCount": 142,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -271495,7 +271495,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Jardim de Maio [Novel], uma novel em português. Acompanhe os capítulos em texto com leitura confortável.",
     "descriptionPt": "Leia Jardim de Maio [Novel], uma novel em português. Acompanhe os capítulos em texto com leitura confortável.",
-    "chaptersCount": 159,
+    "chaptersCount": 162,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

@@ -233389,7 +233389,7 @@ let MANGA_DATA = [
     ],
     "description": "Daily Pleasure Awakening (Official) Dylan is a sex therapist. One day, his best friend asks him a favor to reignite his wife’s sexual desire. So begins an intense, eye-opening therapy session for the couple’s sex life…",
     "descriptionPt": "",
-    "chaptersCount": 40,
+    "chaptersCount": 45,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -249313,7 +249313,7 @@ let MANGA_DATA = [
     ],
     "description": "Intimate Tutoring He’s now a private tutor for his old crush’s daughter… tension, flirtation, and messy misreads set the room on fire.",
     "descriptionPt": "",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -271924,6 +271924,56 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "tankouhentai-otosareru-kishi-no-hanashi",
+    "slug": "otosareru-kishi-no-hanashi",
+    "title": "Otosareru Kishi no Hanashi",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/08/Otosareru-Kishi-no-Hanashi-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/08/Otosareru-Kishi-no-Hanashi-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Kumakiti",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Traição",
+      "Hentai"
+    ],
+    "description": "O capítulo 2 estava muito mal traduzido e muito mais ainda mal editado, então resolvemos não postar. Assim que possível traduzimos eles e colocamos ele aqui no site.",
+    "descriptionPt": "O capítulo 2 estava muito mal traduzido e muito mais ainda mal editado, então resolvemos não postar. Assim que possível traduzimos eles e colocamos ele aqui no site.",
+    "chaptersCount": 2,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
+  },
+  {
+    "id": "15-minutes",
+    "slug": "15-minutes",
+    "title": "15 Minutes",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2024/08/15-minutes-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2024/08/15-minutes-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Psychological",
+      "Supernatural",
+      "Adult"
+    ],
+    "description": "You are now the protagonist! The secret of the 15 minutes is revealed. Am I in a dream? Can I really do whatever I want? When does the time stop for 15 minutes?",
+    "descriptionEn": "You are now the protagonist! The secret of the 15 minutes is revealed. Am I in a dream? Can I really do whatever I want? When does the time stop for 15 minutes?",
+    "chaptersCount": 36,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

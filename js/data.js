@@ -126063,7 +126063,7 @@ let MANGA_DATA = [
     ],
     "description": "Hadacamera Because he did not pass his college entrance exam, Kagami Kyosuke cannot stay close to Kojo Hikari, the love of his life. So instead he gets a part-time job near her university and buys an old camera since Hikari is passionate for photography. But as it turns out, that camera also has a secret which will get him involved in all sorts of “exciting” and “awkward” situations especially with Botan Oshikiri, his senpai and co-worker. How will Kyosuke’s life play out now?",
     "descriptionPt": "",
-    "chaptersCount": 55,
+    "chaptersCount": 58,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207937,7 +207937,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Herdeiro Monstruoso da Família Chaebol, um manhwa em português.",
     "descriptionPt": "Leia O Herdeiro Monstruoso da Família Chaebol, um manhwa em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207991,7 +207991,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Veletric, um manhwa em português.",
     "descriptionPt": "Leia Veletric, um manhwa em português.",
-    "chaptersCount": 395,
+    "chaptersCount": 396,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -208066,7 +208066,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Retorno do Cavaleiro da Morte de Nível Apocalíptico, um manhwa em português.",
     "descriptionPt": "Leia Retorno do Cavaleiro da Morte de Nível Apocalíptico, um manhwa em português.",
-    "chaptersCount": 86,
+    "chaptersCount": 87,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230108,7 +230108,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Olá, Griffin, o pássaro Fofinho!, um manhwa em português.",
     "descriptionPt": "Leia Olá, Griffin, o pássaro Fofinho!, um manhwa em português.",
-    "chaptersCount": 63,
+    "chaptersCount": 67,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231458,7 +231458,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Ranker, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Ranker, um manhwa em português.",
-    "chaptersCount": 262,
+    "chaptersCount": 263,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249448,7 +249448,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromante: Rei dos Mortos, um manhua em português.",
     "descriptionPt": "Leia Necromante: Rei dos Mortos, um manhua em português.",
-    "chaptersCount": 306,
+    "chaptersCount": 307,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250412,7 +250412,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-esposa-que-esperou-no-campo-de-trigo online em português.",
     "descriptionPt": "Leia a-esposa-que-esperou-no-campo-de-trigo online em português.",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250705,7 +250705,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Lendário Cavaleiro da Lança, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Lendário Cavaleiro da Lança, um manhwa em português.",
-    "chaptersCount": 215,
+    "chaptersCount": 216,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251213,7 +251213,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Regressor da Família Caída, um manhwa em português.",
     "descriptionPt": "Leia O Regressor da Família Caída, um manhwa em português.",
-    "chaptersCount": 151,
+    "chaptersCount": 152,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251240,7 +251240,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Criança Problemática da Torre Mágica, um manhwa em português.",
     "descriptionPt": "Leia A Criança Problemática da Torre Mágica, um manhwa em português.",
-    "chaptersCount": 62,
+    "chaptersCount": 63,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251267,7 +251267,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vingança do Cão de Caça dos Baskerville, um manhwa em português.",
     "descriptionPt": "Leia A Vingança do Cão de Caça dos Baskerville, um manhwa em português.",
-    "chaptersCount": 180,
+    "chaptersCount": 181,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251293,7 +251293,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Filho Caçula do Conde é um Jogador, um manhwa em português.",
     "descriptionPt": "Leia O Filho Caçula do Conde é um Jogador, um manhwa em português.",
-    "chaptersCount": 170,
+    "chaptersCount": 171,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251374,7 +251374,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Imperador Solo, um manhwa em português.",
     "descriptionPt": "Leia Imperador Solo, um manhwa em português.",
-    "chaptersCount": 84,
+    "chaptersCount": 85,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251484,7 +251484,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Sou o Vilão Predestinado, um manhua em português.",
     "descriptionPt": "Leia Eu Sou o Vilão Predestinado, um manhua em português.",
-    "chaptersCount": 357,
+    "chaptersCount": 359,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251700,7 +251700,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Evolução Infinita: Começando do Zero, um manhua em português.",
     "descriptionPt": "Leia Evolução Infinita: Começando do Zero, um manhua em português.",
-    "chaptersCount": 126,
+    "chaptersCount": 128,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251777,7 +251777,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei Um Homem Casado Em Outro Mundo, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei Um Homem Casado Em Outro Mundo, um manhwa em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252463,7 +252463,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Um Dia Eu Era Um Filhote, um manhwa em português.",
     "descriptionPt": "Leia Um Dia Eu Era Um Filhote, um manhwa em português.",
-    "chaptersCount": 23,
+    "chaptersCount": 27,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252709,7 +252709,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mestre Espadachim Criado Pelas Estrelas, um manhwa em português.",
     "descriptionPt": "Leia Mestre Espadachim Criado Pelas Estrelas, um manhwa em português.",
-    "chaptersCount": 138,
+    "chaptersCount": 139,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252734,7 +252734,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Melhor Homem no Comando, um manhwa em português.",
     "descriptionPt": "Leia O Melhor Homem no Comando, um manhwa em português.",
-    "chaptersCount": 206,
+    "chaptersCount": 207,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252759,7 +252759,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Regressando como o Bastardo do Clã da Espada, um manhwa em português.",
     "descriptionPt": "Leia Regressando como o Bastardo do Clã da Espada, um manhwa em português.",
-    "chaptersCount": 112,
+    "chaptersCount": 113,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253048,7 +253048,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
     "descriptionPt": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
-    "chaptersCount": 121,
+    "chaptersCount": 122,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253075,7 +253075,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Knight King Who Returned with a God, um manhwa em português.",
     "descriptionPt": "Leia The Knight King Who Returned with a God, um manhwa em português.",
-    "chaptersCount": 182,
+    "chaptersCount": 183,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253103,7 +253103,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Estilo de Vida de um Imortal, um manhwa em português.",
     "descriptionPt": "Leia O Estilo de Vida de um Imortal, um manhwa em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253655,7 +253655,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Longe de estar Sóbrio, um manhwa em português.",
     "descriptionPt": "Leia Longe de estar Sóbrio, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254025,7 +254025,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia I Was Born as the Second Daughter, um manhwa em português.",
     "descriptionPt": "Leia I Was Born as the Second Daughter, um manhwa em português.",
-    "chaptersCount": 81,
+    "chaptersCount": 83,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254321,7 +254321,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Filho Adotivo em um Mundo de Supremacia de Linhagem, um mangá em português.",
     "descriptionPt": "Leia O Retorno do Filho Adotivo em um Mundo de Supremacia de Linhagem, um mangá em português.",
-    "chaptersCount": 52,
+    "chaptersCount": 54,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254511,7 +254511,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei O Mentor do Rei Demônio mais Fraco, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei O Mentor do Rei Demônio mais Fraco, um manhwa em português.",
-    "chaptersCount": 35,
+    "chaptersCount": 38,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254555,7 +254555,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia despertando-o-trovao-roxo-no-inicio online em português.",
     "descriptionPt": "Leia despertando-o-trovao-roxo-no-inicio online em português.",
-    "chaptersCount": 90,
+    "chaptersCount": 91,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254665,7 +254665,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia streaming-da-estrategia-oculta-do-retornado online em português.",
     "descriptionPt": "Leia streaming-da-estrategia-oculta-do-retornado online em português.",
-    "chaptersCount": 46,
+    "chaptersCount": 47,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254687,7 +254687,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia retorno-de-10000-vezes-irma-senior-por-favor-comporte-se online em português.",
     "descriptionPt": "Leia retorno-de-10000-vezes-irma-senior-por-favor-comporte-se online em português.",
-    "chaptersCount": 38,
+    "chaptersCount": 39,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254978,7 +254978,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mestre Do Treinamento Marcial, um manhwa em português.",
     "descriptionPt": "Leia Mestre Do Treinamento Marcial, um manhwa em português.",
-    "chaptersCount": 130,
+    "chaptersCount": 131,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255142,7 +255142,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Superastro do 0, um manhwa em português.",
     "descriptionPt": "Leia Superastro do 0, um manhwa em português.",
-    "chaptersCount": 103,
+    "chaptersCount": 104,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255219,7 +255219,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Fui Jogado em uma História de Fantasmas, Mas Ainda Tenho que Trabalhar, um manhwa em português.",
     "descriptionPt": "Leia Fui Jogado em uma História de Fantasmas, Mas Ainda Tenho que Trabalhar, um manhwa em português.",
-    "chaptersCount": 34,
+    "chaptersCount": 38,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258688,7 +258688,7 @@ let MANGA_DATA = [
     ],
     "description": "A Lovely Meal One snowy winter evening, Changdeok spots a high schooler crouched in front of his favorite restaurant, blood running ice-cold in the falling snow. Lured in by the promise of meal made just like the restaurant’s, Changdeok ends up inviting the boy – Jongwu – into his home; after all, Changdeok’s life is as dry as day-old rice, and food is his only joy. So when Jongwu offers to cook him a delicious dinner every night in exchange for a place to stay, he reluctantly agrees. But as their unusual cohabitation begins, Changdeok can’t shake this bloody feeling that Jongwoo might be hidi",
     "descriptionPt": "",
-    "chaptersCount": 28,
+    "chaptersCount": 29,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -258832,7 +258832,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Que se dane ser o Herdeiro, Eu vou Curar, um manhwa em português.",
     "descriptionPt": "Leia Que se dane ser o Herdeiro, Eu vou Curar, um manhwa em português.",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260515,7 +260515,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-mestre-espadachim-devorador-de-espadas online em português.",
     "descriptionPt": "Leia o-mestre-espadachim-devorador-de-espadas online em português.",
-    "chaptersCount": 46,
+    "chaptersCount": 47,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260537,7 +260537,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-transmissao-do-reino-demoniaco-do-demonio-celestial-rejuvenescido online em português.",
     "descriptionPt": "Leia a-transmissao-do-reino-demoniaco-do-demonio-celestial-rejuvenescido online em português.",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260581,7 +260581,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-casei-com-o-dragao-que-matei online em português.",
     "descriptionPt": "Leia me-casei-com-o-dragao-que-matei online em português.",
-    "chaptersCount": 15,
+    "chaptersCount": 16,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261389,7 +261389,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-segredo-do-senior-perfeito online em português.",
     "descriptionPt": "Leia o-segredo-do-senior-perfeito online em português.",
-    "chaptersCount": 21,
+    "chaptersCount": 22,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261704,7 +261704,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Reencarnado, um manhwa em português.",
     "descriptionPt": "Leia Reencarnado, um manhwa em português.",
-    "chaptersCount": 150,
+    "chaptersCount": 152,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261867,7 +261867,7 @@ let MANGA_DATA = [
     ],
     "description": "The Unexpected Detour Five years ago, an accident erased Ha Dogeon’s memories. Even so, his life has remained mostly smooth, calm, and manageable. He believes the past he lost no longer matters. That illusion cracks the night he returns home after a university alumni event. His designated driver, Yang Ha-il, is a stranger, yet the moment their eyes meet, something deep inside Dogeon stirs. A gaze that feels unfamiliar but achingly known, an attraction he cannot explain. From that night on, Dogeon’s carefully balanced life begins to shift. Emotions he does not remember choosing start to resurfa",
     "descriptionPt": "",
-    "chaptersCount": 29,
+    "chaptersCount": 31,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -261969,7 +261969,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Por favor não morra!, um manhwa em português.",
     "descriptionPt": "Leia Por favor não morra!, um manhwa em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262021,7 +262021,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Imperador da Espada Reencarnou em um Clã de Mestres da Espada, um manhwa em português.",
     "descriptionPt": "Leia O Imperador da Espada Reencarnou em um Clã de Mestres da Espada, um manhwa em português.",
-    "chaptersCount": 40,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262797,7 +262797,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Todos os Meus Avatares são Magnatas, um manhwa em português.",
     "descriptionPt": "Leia Todos os Meus Avatares são Magnatas, um manhwa em português.",
-    "chaptersCount": 97,
+    "chaptersCount": 98,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263594,7 +263594,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Estratégia Para Fracos Dominar a Torre, um manhwa em português.",
     "descriptionPt": "Leia Estratégia Para Fracos Dominar a Torre, um manhwa em português.",
-    "chaptersCount": 46,
+    "chaptersCount": 47,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263864,7 +263864,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Filho Imprestável do Marquês, um manhwa em português.",
     "descriptionPt": "Leia O Filho Imprestável do Marquês, um manhwa em português.",
-    "chaptersCount": 28,
+    "chaptersCount": 29,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263892,7 +263892,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Corporação Goblin, um manhwa em português.",
     "descriptionPt": "Leia Corporação Goblin, um manhwa em português.",
-    "chaptersCount": 13,
+    "chaptersCount": 14,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263916,7 +263916,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Santo da Espada Reencarnou em uma Família Nobre de Magos, um mangá em português.",
     "descriptionPt": "Leia O Santo da Espada Reencarnou em uma Família Nobre de Magos, um mangá em português.",
-    "chaptersCount": 23,
+    "chaptersCount": 24,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265181,7 +265181,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Meu Caminho Simulado Rumo à Imortalidade, um manhua em português.",
     "descriptionPt": "Leia Meu Caminho Simulado Rumo à Imortalidade, um manhua em português.",
-    "chaptersCount": 79,
+    "chaptersCount": 82,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266972,7 +266972,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Faísca em Seus Olhos, um manhwa em português.",
     "descriptionPt": "Leia A Faísca em Seus Olhos, um manhwa em português.",
-    "chaptersCount": 84,
+    "chaptersCount": 85,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -267517,7 +267517,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia ENNEAD, um manhwa em português.",
     "descriptionPt": "Leia ENNEAD, um manhwa em português.",
-    "chaptersCount": 142,
+    "chaptersCount": 143,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269258,32 +269258,6 @@ let MANGA_DATA = [
     "hasEn": false
   },
   {
-    "id": "15-minutes",
-    "slug": "15-minutes",
-    "title": "15 Minutes",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/15-minutes-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/15-minutes-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Psychological",
-      "Supernatural",
-      "Adult"
-    ],
-    "description": "You are now the protagonist! The secret of the 15 minutes is revealed. Am I in a dream? Can I really do whatever I want? When does the time stop for 15 minutes?",
-    "descriptionEn": "You are now the protagonist! The secret of the 15 minutes is revealed. Am I in a dream? Can I really do whatever I want? When does the time stop for 15 minutes?",
-    "chaptersCount": 36,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "apresentando-meu-manager",
     "slug": "apresentando-meu-manager",
     "title": "Apresentando Meu Manager",
@@ -269845,7 +269819,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Deus do Caos Todo Poderoso, um manhwa em português.",
     "descriptionPt": "Leia O Deus do Caos Todo Poderoso, um manhwa em português.",
-    "chaptersCount": 115,
+    "chaptersCount": 117,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -270052,7 +270026,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Asha nas Fronteiras, um manhwa em português.",
     "descriptionPt": "Leia Asha nas Fronteiras, um manhwa em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -271840,6 +271814,110 @@ let MANGA_DATA = [
       "Hentai"
     ],
     "description": "What a Fox! (Uncensored) A human’s male energy is the ultimate survival tool for fox demon Garam. Thanks to a trail of terrible exes, she’s been forced into a dry spell—and the starving demon inside her is starting to cause serious trouble. Right on cue, her impossibly built, insanely attractive childhood friend Pureum walks into view. He has always been strictly off-limits, but Garam is desperate. Will Pureum fall for the ultimate temptation, or is playing with a hungry fox a recipe for disaster?",
+    "descriptionPt": "",
+    "chaptersCount": 8,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
+  },
+  {
+    "id": "mangadistrict-from-your-almighty-cradle-uncensored",
+    "slug": "from-your-almighty-cradle-uncensored",
+    "title": "From Your Almighty Cradle (Uncensored)",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/from-your-almighty-cradle-uncensored-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/from-your-almighty-cradle-uncensored-official.webp",
+    "author": "ACGU",
+    "artist": "ACGU",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 0,
+    "genres": [
+      "BL",
+      "BL Uncensored",
+      "Yaoi",
+      "Hentai"
+    ],
+    "description": "From Your Almighty Cradle (Uncensored) He was his cradle, his savior, and his first love—until his memories were wiped clean. Trusted with raising five-year-old Esper prodigy Taehyun, S-Rank Guide Shinhae gave the boy everything: safety, guidance, and unconditional warmth. Naturally, Taehyun grew up holding Shinhae at the center of his universe. But a ruthless abduction plot tears them apart, robbing Taehyun of all memories of the man who raised him. Years later, when fate draws the powerful Esper back to his former guardian, an instinctual, overwhelming pull ignites once more. Can love bridge",
+    "descriptionPt": "",
+    "chaptersCount": 8,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
+  },
+  {
+    "id": "mangadistrict-todays-xx-review-uncensored",
+    "slug": "todays-xx-review-uncensored",
+    "title": "Today’s XX Review (Uncensored)",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/todays-xx-review-uncensored-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/todays-xx-review-uncensored-official.webp",
+    "author": "Green Grape",
+    "artist": "Green Grape",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 0,
+    "genres": [
+      "BL",
+      "BL Uncensored",
+      "Yaoi",
+      "Hentai"
+    ],
+    "description": "Today’s XX Review (Uncensored) What would have been another ordinary day for delivery driver Hyeonho turns into an intimate fan meeting when he realizes his latest customer is Haewoon, his absolute favorite Mukbang creator. Flustered by the starstruck fan at his doorstep, Haewoon lets Hyeonho inside. Overjoyed to meet his favorite creator in real life, Hyeonho’s excitement quickly gets the best of him—and his admiration turns hands-on as he begins boldly exploring Haewoon’s surprisingly toned body up close and personal.",
+    "descriptionPt": "",
+    "chaptersCount": 11,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
+  },
+  {
+    "id": "mangadistrict-you-call-this-a-sponsor-uncensored",
+    "slug": "you-call-this-a-sponsor-uncensored",
+    "title": "You Call This a Sponsor? (Uncensored)",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/you-call-this-a-sponsor-uncensored-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/you-call-this-a-sponsor-uncensored-official.webp",
+    "author": "Satang",
+    "artist": "ANNA",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "BL",
+      "BL Uncensored",
+      "Yaoi",
+      "Hentai"
+    ],
+    "description": "You Call This a Sponsor? (Uncensored) Plagued by ten years of rotten luck and dead-end roles, struggling actor Seo Yoon is finally pushed to the edge. Out of sheer desperation, he agrees to hos agency’s offer to meet a high-profile sponsor. He walks into the suite expecting a dirty arrangement with a stranger, only to come face-to-face with the ex-boyfriend who broke her heart years ago. Now, his biggest career breakthrough lies in the hands of the one man he never wanted to see again.",
+    "descriptionPt": "",
+    "chaptersCount": 9,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
+  },
+  {
+    "id": "mangadistrict-the-leashed-uncensored",
+    "slug": "the-leashed-uncensored",
+    "title": "The Leashed (Uncensored)",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/the-leashed-uncensored-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/the-leashed-uncensored-official.webp",
+    "author": "Chappi",
+    "artist": "Bbooner",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "BL",
+      "BL Uncensored",
+      "Yaoi",
+      "Hentai"
+    ],
+    "description": "The Leashed (Uncensored) Bound by bloodlines and a dangerous secret, Doyul – heir to the powerful Kumiho clan – forced Jaehyeon, the second son of the Wolf clan, to swallow his pearl to keep him close forever. Now, Doyul relies entirely on Jaehyeon for his essence, while Jaehyeon conceals a longing crush, enduring the pain of staying by his side. As tensions rise between their rivaling shapeshifter families, Jaehyeon uncovers a dark plot at the Kumiho research lab before Doyul takes an official mate…",
     "descriptionPt": "",
     "chaptersCount": 8,
     "lang": "en",

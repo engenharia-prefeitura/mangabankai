@@ -99258,7 +99258,7 @@ let MANGA_DATA = [
     ],
     "description": "Saving My Magical Girl After a brutal battle, magical girl Ruby is torn into two separate bodies. Can Ruby reunite with herself before darkness wins?",
     "descriptionPt": "",
-    "chaptersCount": 42,
+    "chaptersCount": 44,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -249581,7 +249581,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Reencarnei como uma vilã em um mundo apocalíptico, um manhwa em português.",
     "descriptionPt": "Leia Reencarnei como uma vilã em um mundo apocalíptico, um manhwa em português.",
-    "chaptersCount": 20,
+    "chaptersCount": 21,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255351,7 +255351,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Renúncia da Doutora, um manhwa em português.",
     "descriptionPt": "Leia A Renúncia da Doutora, um manhwa em português.",
-    "chaptersCount": 101,
+    "chaptersCount": 102,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258579,7 +258579,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Posso Fazer um Último Pedido?, um manhwa em português.",
     "descriptionPt": "Leia Posso Fazer um Último Pedido?, um manhwa em português.",
-    "chaptersCount": 61,
+    "chaptersCount": 62,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269150,7 +269150,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Fui Chantageada pela Chá Verde da Minha Sala!, um manhua em português.",
     "descriptionPt": "Leia Fui Chantageada pela Chá Verde da Minha Sala!, um manhua em português.",
-    "chaptersCount": 7,
+    "chaptersCount": 11,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

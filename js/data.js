@@ -124,7 +124,7 @@ let MANGA_DATA = [
       "Supernatural"
     ],
     "description": "Follows the life of an average hero who manages to win all battles with only one punch. This ability seems to frustrate him as he no longer feels the thrill and adrenaline of fighting a tough battle, which leads to him questioning his past desire of being strong.",
-    "chaptersCount": 231,
+    "chaptersCount": 277,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -3113,7 +3113,7 @@ let MANGA_DATA = [
       "Sports"
     ],
     "description": "The story starts with Japan's end from the 2018 FIFA World Cup, which prompts the Japanese Football Union to begin a program exploring secondary school players who will start preparing in anticipation of the 2022 Cup. Isagi Youichi, a forward, gets a solicitation to this program not long after his group loses the opportunity to go to Nationals since he went to his less-talented partner - who missed - without attempting to make the game-changing objective without anyone else. \r\n\r\nTheir mentor will be Ego Jinpachi, who plans to \"obliterate Japanese failure football\" by presenting a radical new preparing routine: confine 300 youthful advances in a jail like organization called \"Blue Lock\" and put them through thorough preparing planned for making \"the world's most noteworthy narcissist striker.\"",
-    "chaptersCount": 369,
+    "chaptersCount": 370,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -55736,7 +55736,7 @@ let MANGA_DATA = [
       "Manga"
     ],
     "description": "Leia Shangri La Frontier online no MangaSurge.",
-    "chaptersCount": 279,
+    "chaptersCount": 280,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -94406,7 +94406,7 @@ let MANGA_DATA = [
     ],
     "description": "Fated to Find You (Uncensored) Kim Doyun finally moved in with his lifelong crush, Seo Yi-hwan, but a supernatural blunder ruins everything. After a freak accident, the soul of the provocative idol Yi-on takes over Yi-hwan’s body. To get his best friend back, Doyun must help Yi-on satisfy a hunger for physical energy that is anything but innocent. Caught between his desperate loyalty to Yi-hwan and Yi-on’s dangerous provocations, Doyun enters a high-stakes game where the lines of love and lust become dangerously blurred.",
     "descriptionPt": "",
-    "chaptersCount": 28,
+    "chaptersCount": 31,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -107488,7 +107488,7 @@ let MANGA_DATA = [
     ],
     "description": "The Dungeon Cleaning Life of a Once Genius Hunter World’s first SSS-ranked genius hunter, Junu Kim. He regresses ten years into the past after being ambushed by unknowns one day. With all his hunter skills now locked, he must fulfill his career as a dungeon cleaner to unlock them. But this cleaner… is extraordinary! The once renowned hunter, Junu Kim, takes over the cleaning duty with vigorous determination.",
     "descriptionPt": "",
-    "chaptersCount": 154,
+    "chaptersCount": 155,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -232041,7 +232041,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Os protagonistas masculinos obsessivos querem me devorar viva, um manhwa em português.",
     "descriptionPt": "Leia Os protagonistas masculinos obsessivos querem me devorar viva, um manhwa em português.",
-    "chaptersCount": 20,
+    "chaptersCount": 32,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249396,7 +249396,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Não confio na minha irmã gêmea (Manhwa), um manhwa em português.",
     "descriptionPt": "Leia Não confio na minha irmã gêmea (Manhwa), um manhwa em português.",
-    "chaptersCount": 76,
+    "chaptersCount": 80,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253419,7 +253419,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Diário de Sobrevivência de um Mordomo no Castelo do Duque, um manhwa em português.",
     "descriptionPt": "Leia O Diário de Sobrevivência de um Mordomo no Castelo do Duque, um manhwa em português.",
-    "chaptersCount": 47,
+    "chaptersCount": 48,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254373,7 +254373,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Desejos Bestiais, um manhwa em português.",
     "descriptionPt": "Leia Desejos Bestiais, um manhwa em português.",
-    "chaptersCount": 83,
+    "chaptersCount": 84,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257321,7 +257321,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Não Diga que Me Ama, um manhua em português.",
     "descriptionPt": "Leia Não Diga que Me Ama, um manhua em português.",
-    "chaptersCount": 48,
+    "chaptersCount": 49,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257896,7 +257896,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Tenha um Caso Comigo, um manhwa em português.",
     "descriptionPt": "Leia Tenha um Caso Comigo, um manhwa em português.",
-    "chaptersCount": 20,
+    "chaptersCount": 21,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259482,7 +259482,7 @@ let MANGA_DATA = [
     ],
     "description": "Count Kalley’s Whipping Maid (Uncensored) For over four years, Shayla has served as the personal maid to Judith, the troublesome youngest daughter of the prestigious Kalley Count Family. Her predictable routine is completely upended when the heir to the estate, the eldest young master Cedric, returns home. Taking charge of his sister’s chaotic education, he approaches Shayla with a shocking and archaic proposal: to become Judith’s “whipping maid,” absorbing the physical punishments earned by the lady. “The duration will be three months. For your services, you will receive an additional salary ",
     "descriptionPt": "",
-    "chaptersCount": 12,
+    "chaptersCount": 17,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -261484,7 +261484,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Buraco de Serpente, um manhwa em português.",
     "descriptionPt": "Leia Buraco de Serpente, um manhwa em português.",
-    "chaptersCount": 20,
+    "chaptersCount": 22,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -272111,6 +272111,34 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "o-tritao-preso-no-meu-lago",
+    "slug": "o-tritao-preso-no-meu-lago",
+    "title": "O Tritão Preso no Meu Lago",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/o-tritao-preso-no-meu-lago/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/o-tritao-preso-no-meu-lago/cover-md.webp",
+    "author": "ChipparangMichu",
+    "artist": "ChipparangMichu",
+    "status": "ongoing",
+    "year": 2023,
+    "rating": 7,
+    "genres": [
+      "Fantasia",
+      "Historico",
+      "Josei",
+      "Magia",
+      "Tragedia",
+      "Vingança",
+      "Dark Romance"
+    ],
+    "description": "Leia O Tritão Preso no Meu Lago, um manhwa em português.",
+    "descriptionPt": "Leia O Tritão Preso no Meu Lago, um manhwa em português.",
+    "chaptersCount": 33,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

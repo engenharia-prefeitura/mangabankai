@@ -233237,7 +233237,7 @@ let MANGA_DATA = [
     ],
     "description": "Business Trip Temptation Minseok is a hard-working marketing assistant at LS Cinema who knows how to navigate office life – except when it comes to his gorgeous boss, Jeong Suhee. She constantly gives him a hard time, but Minseok can’t help falling for her hidden warmth and stunning looks. Little does he know, Suhee secretly has a soft spot for her handsome, charming subordinate. When a business trip sends them away together, the professional boundaries dissolve, and a risky, forbidden office romance begins.",
     "descriptionPt": "",
-    "chaptersCount": 18,
+    "chaptersCount": 21,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -272251,6 +272251,30 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "single-daddy",
+    "slug": "single-daddy",
+    "title": "Single Daddy",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2026/09/single-daddy-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2026/09/single-daddy-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult"
+    ],
+    "description": "At the “Single Moms Cafe,” a gathering for single mothers, there was only one man, “Kyungsoo,” a single dad.",
+    "descriptionEn": "At the “Single Moms Cafe,” a gathering for single mothers, there was only one man, “Kyungsoo,” a single dad.",
+    "chaptersCount": 15,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

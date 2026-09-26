@@ -60604,7 +60604,7 @@ let MANGA_DATA = [
     ],
     "description": "Eunnam develops a sexual desire towards the mother of his best friend, Jidong! He then makes a rebellious bet with his stepmother on the line…",
     "descriptionEn": "Eunnam develops a sexual desire towards the mother of his best friend, Jidong! He then makes a rebellious bet with his stepmother on the line…",
-    "chaptersCount": 89,
+    "chaptersCount": 90,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -79712,7 +79712,7 @@ let MANGA_DATA = [
     ],
     "description": "I was swung around in my past life but this time I’ll live the way I want to. I’ll fuck all the beautiful women, my female domination starts now!",
     "descriptionEn": "I was swung around in my past life but this time I’ll live the way I want to. I’ll fuck all the beautiful women, my female domination starts now!",
-    "chaptersCount": 98,
+    "chaptersCount": 100,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -85517,7 +85517,7 @@ let MANGA_DATA = [
     ],
     "description": "You know that adult subscription platform full of provocative posts ‘OnlyFence’? If you post porn there, you’ll make a shitload of money! So you know… Hehe",
     "descriptionEn": "You know that adult subscription platform full of provocative posts ‘OnlyFence’? If you post porn there, you’ll make a shitload of money! So you know… Hehe",
-    "chaptersCount": 57,
+    "chaptersCount": 58,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -91647,7 +91647,7 @@ let MANGA_DATA = [
     ],
     "description": "SET UP (Kim Mundo) (Official) “This version allows you to take direct control of the team and train the players. Would you like to install it?” A secret training session begins between the underdog professional women’s volleyball players and their junior staff.",
     "descriptionPt": "",
-    "chaptersCount": 90,
+    "chaptersCount": 93,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -92005,7 +92005,7 @@ let MANGA_DATA = [
     ],
     "description": "Perversion: Dirty Confessions 2 (Official) Suffering from a thirst that can’t be quenched with a one-off encounters, I’m still hooked on these dirty confessions.",
     "descriptionPt": "",
-    "chaptersCount": 43,
+    "chaptersCount": 45,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -115262,7 +115262,7 @@ let MANGA_DATA = [
     ],
     "description": "The Case of Doctor Agato (Uncensored) Five years after the war, peace has settled over the victorious nation of Formapolis…until a strange series of incidents threatens to shatter it. Corpses with grotesque modifications, known only as “specimens,” begin turning up in the capital.",
     "descriptionPt": "",
-    "chaptersCount": 28,
+    "chaptersCount": 30,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207464,7 +207464,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia NO HOME, um manhwa em português.",
     "descriptionPt": "Leia NO HOME, um manhwa em português.",
-    "chaptersCount": 71,
+    "chaptersCount": 72,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207575,7 +207575,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dragões Sequestrados, um manhwa em português.",
     "descriptionPt": "Leia Dragões Sequestrados, um manhwa em português.",
-    "chaptersCount": 60,
+    "chaptersCount": 61,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207653,7 +207653,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Nano Máquina, um manhwa em português.",
     "descriptionPt": "Leia Nano Máquina, um manhwa em português.",
-    "chaptersCount": 330,
+    "chaptersCount": 331,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207681,7 +207681,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Logando 10.000 Anos No Futuro, um manhua em português.",
     "descriptionPt": "Leia Logando 10.000 Anos No Futuro, um manhua em português.",
-    "chaptersCount": 343,
+    "chaptersCount": 344,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207861,7 +207861,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Me Escolhe!, um manhwa em português.",
     "descriptionPt": "Leia Me Escolhe!, um manhwa em português.",
-    "chaptersCount": 219,
+    "chaptersCount": 220,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230005,7 +230005,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Único Fazendeiro da Torre, um manhwa em português.",
     "descriptionPt": "Leia Único Fazendeiro da Torre, um manhwa em português.",
-    "chaptersCount": 144,
+    "chaptersCount": 145,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231410,7 +231410,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromante do Clã da Espada, um manhwa em português.",
     "descriptionPt": "Leia Necromante do Clã da Espada, um manhwa em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231435,7 +231435,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O sétimo príncipe quer escapar, um manhwa em português.",
     "descriptionPt": "Leia O sétimo príncipe quer escapar, um manhwa em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 23,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231512,7 +231512,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Deus Marcial Pay-to-Win, um manhwa em português.",
     "descriptionPt": "Leia Deus Marcial Pay-to-Win, um manhwa em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231538,7 +231538,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Mago Negro Retorna Após 66666 Anos, um manhwa em português.",
     "descriptionPt": "Leia O Mago Negro Retorna Após 66666 Anos, um manhwa em português.",
-    "chaptersCount": 196,
+    "chaptersCount": 199,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231566,7 +231566,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Começo Depois do Fim, um manhwa em português.",
     "descriptionPt": "Leia O Começo Depois do Fim, um manhwa em português.",
-    "chaptersCount": 265,
+    "chaptersCount": 266,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231592,7 +231592,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Começando com 13 Traços Ocultos, um manhwa em português.",
     "descriptionPt": "Leia Começando com 13 Traços Ocultos, um manhwa em português.",
-    "chaptersCount": 48,
+    "chaptersCount": 49,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231748,7 +231748,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Pirralhinha Corre Selvagemente, um manhwa em português.",
     "descriptionPt": "Leia A Pirralhinha Corre Selvagemente, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231964,7 +231964,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Professor Runebound, um webtoon em português.",
     "descriptionPt": "Leia O Retorno do Professor Runebound, um webtoon em português.",
-    "chaptersCount": 91,
+    "chaptersCount": 92,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232201,7 +232201,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Jogo do Ferreiro Genial, um manhwa em português.",
     "descriptionPt": "Leia O Jogo do Ferreiro Genial, um manhwa em português.",
-    "chaptersCount": 72,
+    "chaptersCount": 73,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232256,7 +232256,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Crônicas da Facção Demoníaca, um manhwa em português.",
     "descriptionPt": "Leia Crônicas da Facção Demoníaca, um manhwa em português.",
-    "chaptersCount": 191,
+    "chaptersCount": 192,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232306,7 +232306,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia de Sobrevivência do Caçador de Bestas Demoníacas, um manhwa em português.",
     "descriptionPt": "Leia Guia de Sobrevivência do Caçador de Bestas Demoníacas, um manhwa em português.",
-    "chaptersCount": 36,
+    "chaptersCount": 37,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232575,7 +232575,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dias no Bunker, um manhwa em português.",
     "descriptionPt": "Leia Dias no Bunker, um manhwa em português.",
-    "chaptersCount": 36,
+    "chaptersCount": 38,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232749,7 +232749,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Renascimento de Um Mercenário Entre Nobres, um manhwa em português.",
     "descriptionPt": "Leia O Renascimento de Um Mercenário Entre Nobres, um manhwa em português.",
-    "chaptersCount": 49,
+    "chaptersCount": 50,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232774,7 +232774,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Ranker Inigualável, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Ranker Inigualável, um manhwa em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232828,7 +232828,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Recluso Supremo, um manhwa em português.",
     "descriptionPt": "Leia O Recluso Supremo, um manhwa em português.",
-    "chaptersCount": 98,
+    "chaptersCount": 99,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232853,7 +232853,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A vontade de sobrevivência do vilão, um manhwa em português.",
     "descriptionPt": "Leia A vontade de sobrevivência do vilão, um manhwa em português.",
-    "chaptersCount": 67,
+    "chaptersCount": 68,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250436,7 +250436,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-obsessao-do-tirano-corrupto-nunca-acaba online em português.",
     "descriptionPt": "Leia a-obsessao-do-tirano-corrupto-nunca-acaba online em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 37,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250547,7 +250547,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Devorador de Aço, um manhwa em português.",
     "descriptionPt": "Leia Devorador de Aço, um manhwa em português.",
-    "chaptersCount": 111,
+    "chaptersCount": 112,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250599,7 +250599,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Deus Demônio, um manhwa em português.",
     "descriptionPt": "Leia O Deus Demônio, um manhwa em português.",
-    "chaptersCount": 49,
+    "chaptersCount": 50,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250761,7 +250761,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Grande Colheita do Lorde das Trevas, um manhwa em português.",
     "descriptionPt": "Leia A Grande Colheita do Lorde das Trevas, um manhwa em português.",
-    "chaptersCount": 85,
+    "chaptersCount": 86,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250889,7 +250889,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Fui Confundido com um Gênio Monstruoso, um manhwa em português.",
     "descriptionPt": "Leia Fui Confundido com um Gênio Monstruoso, um manhwa em português.",
-    "chaptersCount": 118,
+    "chaptersCount": 119,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251049,7 +251049,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Nós, Depois, um webtoon em português.",
     "descriptionPt": "Leia Nós, Depois, um webtoon em português.",
-    "chaptersCount": 36,
+    "chaptersCount": 37,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251107,7 +251107,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Fada Aprisionada, um webtoon em português.",
     "descriptionPt": "Leia A Fada Aprisionada, um webtoon em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 33,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251321,7 +251321,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Neste Mundo Não Existem Guerreiros Maus, um manhwa em português.",
     "descriptionPt": "Leia Neste Mundo Não Existem Guerreiros Maus, um manhwa em português.",
-    "chaptersCount": 88,
+    "chaptersCount": 89,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253238,7 +253238,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Primeiro Amor de um Delinquente, um manhwa em português.",
     "descriptionPt": "Leia O Primeiro Amor de um Delinquente, um manhwa em português.",
-    "chaptersCount": 46,
+    "chaptersCount": 47,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253606,7 +253606,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Após a Refeição, um manhwa em português.",
     "descriptionPt": "Leia Após a Refeição, um manhwa em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254349,7 +254349,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Demônio Supremo do Veneno, um manhwa em português.",
     "descriptionPt": "Leia O Demônio Supremo do Veneno, um manhwa em português.",
-    "chaptersCount": 34,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254535,7 +254535,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia aventura-de-um-barbaro-em-um-mundo-de-fantasia online em português.",
     "descriptionPt": "Leia aventura-de-um-barbaro-em-um-mundo-de-fantasia online em português.",
-    "chaptersCount": 70,
+    "chaptersCount": 71,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254579,7 +254579,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-tornei-um-mago-de-fantasia-medieval online em português.",
     "descriptionPt": "Leia me-tornei-um-mago-de-fantasia-medieval online em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255221,7 +255221,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Fui Jogado em uma História de Fantasmas, Mas Ainda Tenho que Trabalhar, um manhwa em português.",
     "descriptionPt": "Leia Fui Jogado em uma História de Fantasmas, Mas Ainda Tenho que Trabalhar, um manhwa em português.",
-    "chaptersCount": 38,
+    "chaptersCount": 39,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255734,7 +255734,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Amor:Zero, um manhwa em português.",
     "descriptionPt": "Leia Amor:Zero, um manhwa em português.",
-    "chaptersCount": 26,
+    "chaptersCount": 27,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256942,7 +256942,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Streaming do Arqueiro Genial, um manhwa em português.",
     "descriptionPt": "Leia Streaming do Arqueiro Genial, um manhwa em português.",
-    "chaptersCount": 109,
+    "chaptersCount": 110,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257111,7 +257111,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Momento de Cura com Dubli, um manhwa em português.",
     "descriptionPt": "Leia Momento de Cura com Dubli, um manhwa em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257137,7 +257137,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Atreva-se!, um manhwa em português.",
     "descriptionPt": "Leia Atreva-se!, um manhwa em português.",
-    "chaptersCount": 10,
+    "chaptersCount": 32,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257272,7 +257272,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dépaysement, um manhwa em português.",
     "descriptionPt": "Leia Dépaysement, um manhwa em português.",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257782,7 +257782,7 @@ let MANGA_DATA = [
     ],
     "description": "No Returns After Use Cheonho thought he was delivering righteous justice when he forced himself on Shin Jehui, the man suspected of assaulting his sister. But when the truth comes out, Cheonho realizes he has committed an irreversible crime against an innocent man. Bracing for arrest or violent retaliation, he visits Jehui to apologize. But Jehui’s reaction defies all logic. Rather than demanding retribution or turning him in, Jehui eagerly chases after Cheonho, insisting they start dating. Trapped by his own guilt, Cheonho has no idea how to handle his deeply unhinged victim.",
     "descriptionPt": "",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -258887,7 +258887,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Teto x Egen: Vizinhos por Acaso, um manhwa em português.",
     "descriptionPt": "Leia Teto x Egen: Vizinhos por Acaso, um manhwa em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 23,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259378,7 +259378,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Uma Princesa que Lê a Sorte, um manhwa em português.",
     "descriptionPt": "Leia Uma Princesa que Lê a Sorte, um manhwa em português.",
-    "chaptersCount": 164,
+    "chaptersCount": 165,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259400,7 +259400,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia um-colega-de-classe-de-olhar-perspicaz online em português.",
     "descriptionPt": "Leia um-colega-de-classe-de-olhar-perspicaz online em português.",
-    "chaptersCount": 11,
+    "chaptersCount": 13,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259802,7 +259802,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-rei-agiota-do-murim online em português.",
     "descriptionPt": "Leia o-rei-agiota-do-murim online em português.",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260188,7 +260188,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Como Proteger seu Coração, um manhwa em português.",
     "descriptionPt": "Leia Como Proteger seu Coração, um manhwa em português.",
-    "chaptersCount": 154,
+    "chaptersCount": 157,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260495,7 +260495,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia criando-viloes-da-maneira-correta online em português.",
     "descriptionPt": "Leia criando-viloes-da-maneira-correta online em português.",
-    "chaptersCount": 53,
+    "chaptersCount": 54,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261778,7 +261778,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Cavaleiro Santo De Grau SSS, um manhua em português.",
     "descriptionPt": "Leia Cavaleiro Santo De Grau SSS, um manhua em português.",
-    "chaptersCount": 210,
+    "chaptersCount": 212,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261997,7 +261997,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Trascendência Devido a um Erro do Sistema, um manhwa em português.",
     "descriptionPt": "Leia Trascendência Devido a um Erro do Sistema, um manhwa em português.",
-    "chaptersCount": 12,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264059,7 +264059,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia administrando-um-territorio-mediocre online em português.",
     "descriptionPt": "Leia administrando-um-territorio-mediocre online em português.",
-    "chaptersCount": 10,
+    "chaptersCount": 12,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264304,7 +264304,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Reset Temporal, um manhwa em português.",
     "descriptionPt": "Leia Reset Temporal, um manhwa em português.",
-    "chaptersCount": 61,
+    "chaptersCount": 62,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265851,7 +265851,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Por que você não deveria entrar em uma casa mal-assombrada, um manhwa em português.",
     "descriptionPt": "Leia Por que você não deveria entrar em uma casa mal-assombrada, um manhwa em português.",
-    "chaptersCount": 7,
+    "chaptersCount": 11,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266397,7 +266397,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sobrevivendo no Jogo Como um Bárbaro, um manhwa em português.",
     "descriptionPt": "Leia Sobrevivendo no Jogo Como um Bárbaro, um manhwa em português.",
-    "chaptersCount": 158,
+    "chaptersCount": 159,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -272275,6 +272275,59 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "sobre-as-coisas-que-ainda-nao-aconteceram",
+    "slug": "sobre-as-coisas-que-ainda-nao-aconteceram",
+    "title": "Sobre as Coisas que Ainda Não Aconteceram",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/sobre-as-coisas-que-ainda-nao-aconteceram/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/sobre-as-coisas-que-ainda-nao-aconteceram/cover-md.webp",
+    "author": "Team_Jena",
+    "artist": "Team_Jena",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Reencarnação",
+      "Shoujo",
+      "Romance",
+      "Manhwa",
+      "Vingança"
+    ],
+    "description": "Leia Sobre as Coisas que Ainda Não Aconteceram, um manhwa em português.",
+    "descriptionPt": "Leia Sobre as Coisas que Ainda Não Aconteceram, um manhwa em português.",
+    "chaptersCount": 1,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "de-volta-a-primavera",
+    "slug": "de-volta-a-primavera",
+    "title": "De Volta à Primavera",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/de-volta-a-primavera/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/de-volta-a-primavera/cover-md.webp",
+    "author": "Han Xu",
+    "artist": "Han Xu",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Manhua"
+    ],
+    "description": "Leia De Volta à Primavera, um manhua em português.",
+    "descriptionPt": "Leia De Volta à Primavera, um manhua em português.",
+    "chaptersCount": 91,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

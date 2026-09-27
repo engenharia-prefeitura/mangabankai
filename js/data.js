@@ -91248,7 +91248,7 @@ let MANGA_DATA = [
     ],
     "description": "The Most Shameless Guy-Girl Friendship Ever (Official) There’s never been a guy-girl friendship this wild!",
     "descriptionPt": "",
-    "chaptersCount": 33,
+    "chaptersCount": 35,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207177,7 +207177,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Mansão Que aguarda A Primavera, um manhwa em português.",
     "descriptionPt": "Leia A Mansão Que aguarda A Primavera, um manhwa em português.",
-    "chaptersCount": 34,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207205,7 +207205,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Dama Bebê Controla O Mundo Com Dinheiro, um manhwa em português.",
     "descriptionPt": "Leia A Dama Bebê Controla O Mundo Com Dinheiro, um manhwa em português.",
-    "chaptersCount": 133,
+    "chaptersCount": 134,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207334,7 +207334,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Solstício, um manhwa em português.",
     "descriptionPt": "Leia Solstício, um manhwa em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 39,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -233636,7 +233636,7 @@ let MANGA_DATA = [
     ],
     "description": "The Return of the Disaster-Class Hero There once was the strongest Hero on earth. “But he died though. How does a guy we killed gonna come back?” “I know right. But if there was a way to come back, he would come back.” But did he really come back after 20 years? “What are you so surprised about? Why. Did you do something to feel guilty about?” You bastards. I won’t let you get away with it.",
     "descriptionPt": "",
-    "chaptersCount": 191,
+    "chaptersCount": 192,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -256971,7 +256971,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Por que está tão obcecado em Rejeitar Afeto?, um manhwa em português.",
     "descriptionPt": "Leia Por que está tão obcecado em Rejeitar Afeto?, um manhwa em português.",
-    "chaptersCount": 67,
+    "chaptersCount": 68,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265513,7 +265513,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Blue Night, Ronde of Ecstasy, um manhwa em português.",
     "descriptionPt": "Leia Blue Night, Ronde of Ecstasy, um manhwa em português.",
-    "chaptersCount": 10,
+    "chaptersCount": 11,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -272833,6 +272833,33 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "adamasu-no-majotachi",
+    "slug": "adamasu-no-majotachi",
+    "title": "Adamasu no Majotachi",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2024/08/adamasu-no-majotachi-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2024/08/adamasu-no-majotachi-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult",
+      "Ecchi",
+      "Seinen",
+      "Supernatural"
+    ],
+    "description": "Satou Yukinari is an ordinary high schoolboy. However, while playing a game of pocket pool one day, he suddenly felt as if he was passing a kidney stone. But",
+    "descriptionEn": "Satou Yukinari is an ordinary high schoolboy. However, while playing a game of pocket pool one day, he suddenly felt as if he was passing a kidney stone. But",
+    "chaptersCount": 49,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

@@ -95780,7 +95780,7 @@ let MANGA_DATA = [
     ],
     "description": "Standard of Reincarnation The greatest martial family, Samion. Daven, a member of the Samion family, is a one-armed martial soldier without a right arm. Despite the ridicule and contempt he got for only having a left arm, he surpassed the direct line of the Samion family like a genius. However, he got betrayed by his family and parents in the end, thus meeting a poor end. But, he was reincarnated. “I have a right arm?” He had a new family tradition. A naturally gifted body. Experience from his past life. And the god Yulion with him as well. After his reincarnation, everything changed, and a ne",
     "descriptionPt": "",
-    "chaptersCount": 197,
+    "chaptersCount": 199,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -109738,7 +109738,7 @@ let MANGA_DATA = [
     ],
     "description": "When Reality Hits I ran into the delinquent girls who used to bully me at a room café. “Go on, get it up, dumbass—what, you don’t have the guts? LOL.”",
     "descriptionPt": "",
-    "chaptersCount": 2,
+    "chaptersCount": 3,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -111125,7 +111125,7 @@ let MANGA_DATA = [
   {
     "id": "mangadistrict-animation-uncensored-ren-arisugawa-is-actually-a-girl",
     "slug": "animation-uncensored-ren-arisugawa-is-actually-a-girl",
-    "title": "[ANIMATION] [Uncensored] Ren Arisugawa Is Actually a Girl",
+    "title": "[ANIMATION] [UNCENSORED] Ren Arisugawa Is Actually a Girl",
     "altTitle": "",
     "cover": "https://cdn.mangadistrict.com/thumbnail/animation-uncensored-ren-arisugawa-is-actually-a-girl.webp",
     "banner": "https://cdn.mangadistrict.com/thumbnail/animation-uncensored-ren-arisugawa-is-actually-a-girl.webp",
@@ -272836,6 +272836,30 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "tankouhentai-samejima-san-wa-choro-sugiru",
+    "slug": "samejima-san-wa-choro-sugiru",
+    "title": "Samejima-san wa Choro Sugiru",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/08/Samejima-san-wa-Choro-Sugiru-12-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/08/Samejima-san-wa-Choro-Sugiru-12-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Komaneko",
+    "status": "completed",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Vanilla",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 2,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

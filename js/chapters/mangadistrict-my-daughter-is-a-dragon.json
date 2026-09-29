@@ -909,5 +909,21 @@
       "src": "mangadistrict",
       "chapterUrl": "https://mangadistrict.com/series/my-daughter-is-a-dragon/chapter-100/"
     }
+  ],
+  "pt": [
+    {
+      "id": "mangadistrict-my-daughter-is-a-dragon-chapter-55",
+      "number": 55,
+      "title": "Capitulo 55",
+      "date": "2026-09-29T06:43:41.659Z",
+      "pages": []
+    },
+    {
+      "id": "mangadistrict-my-daughter-is-a-dragon-chapter-56",
+      "number": 56,
+      "title": "Capitulo 56",
+      "date": "2026-09-29T06:44:51.340Z",
+      "pages": []
+    }
   ]
 }

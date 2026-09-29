@@ -94269,7 +94269,7 @@ let MANGA_DATA = [
     ],
     "description": "Kingdom of Innocence (Uncensored) I opened my eyes underwater, then found myself in a dazzling palace straight out of a historical fantasy. There is no doubt about it, I have been isekai’d right into the world of a novel. And lucky for me, it is even the genre I loved the most, so I know all the rules. Or so I thought. Because in this world, instead of gaining power through intimate encounters, anyone who loses their virginity becomes cursed. Yes, cursed. In a supposed mature fantasy. How does that even make sense? While I am still trying to wrap my head around this ridiculous twist, I receive",
     "descriptionPt": "",
-    "chaptersCount": 49,
+    "chaptersCount": 50,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -94930,7 +94930,7 @@ let MANGA_DATA = [
     ],
     "description": "Peaches and Dream (Uncensored) Born and raised on a diet of peaches, a do-myeong named Seolwon was destined to become a courtesan of the highest class, an exquisite creation known as a jade feet. But when his incomplete body is deemed defective and dangerous, he’s cast aside as a failed product, discarded like broken porcelain. Before he can be sold off cheaply, a mysterious attack leaves him unconscious. When he wakes, he learns he’s already been bought, for a staggering sum, by an unknown master. His search for answers leads him to Dream Palace, a sprawling casino ruled by the enigmatic Jay,",
     "descriptionPt": "",
-    "chaptersCount": 51,
+    "chaptersCount": 52,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207547,7 +207547,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Me Tornei A Líder De Um Girl Group Amaldiçoado, um manhwa em português.",
     "descriptionPt": "Leia Me Tornei A Líder De Um Girl Group Amaldiçoado, um manhwa em português.",
-    "chaptersCount": 21,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207681,7 +207681,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Logando 10.000 Anos No Futuro, um manhua em português.",
     "descriptionPt": "Leia Logando 10.000 Anos No Futuro, um manhua em português.",
-    "chaptersCount": 345,
+    "chaptersCount": 346,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207939,7 +207939,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Herdeiro Monstruoso da Família Chaebol, um manhwa em português.",
     "descriptionPt": "Leia O Herdeiro Monstruoso da Família Chaebol, um manhwa em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232441,7 +232441,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Puramente Delinquente, um manhwa em português.",
     "descriptionPt": "Leia Puramente Delinquente, um manhwa em português.",
-    "chaptersCount": 26,
+    "chaptersCount": 29,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -241752,7 +241752,7 @@ let MANGA_DATA = [
     "descriptionPt": "",
     "chaptersCount": 101,
     "lang": "en",
-    "hasPt": false,
+    "hasPt": true,
     "hasEn": true,
     "source": "mangadistrict"
   },
@@ -251779,7 +251779,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei Um Homem Casado Em Outro Mundo, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei Um Homem Casado Em Outro Mundo, um manhwa em português.",
-    "chaptersCount": 28,
+    "chaptersCount": 29,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253077,7 +253077,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Knight King Who Returned with a God, um manhwa em português.",
     "descriptionPt": "Leia The Knight King Who Returned with a God, um manhwa em português.",
-    "chaptersCount": 183,
+    "chaptersCount": 184,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254740,7 +254740,7 @@ let MANGA_DATA = [
     ],
     "description": "Grasping (Uncensored) In a brutal, predator-eat-prey society where your social class is decided the moment you are born, Hwang Jihwan sits at the absolute bottom. As a rabbit hybrid, he is treated like trash by the world, scraping by on gambling and petty scams. But when a routine con goes sideways, Jihwan crosses the wrong line and gets tangled up with a lethal fox syndicate. Staring down a death sentence, his life is suddenly saved by an unexpected savior. Jang Wiran, a dominant, top-tier fox who shared Jihwan’s bed just once three years ago, sweeps in with a cold warning to the mob: “This o",
     "descriptionPt": "",
-    "chaptersCount": 13,
+    "chaptersCount": 19,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -254980,7 +254980,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mestre Do Treinamento Marcial, um manhwa em português.",
     "descriptionPt": "Leia Mestre Do Treinamento Marcial, um manhwa em português.",
-    "chaptersCount": 131,
+    "chaptersCount": 132,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255789,7 +255789,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Novel’s Extra, um manhwa em português.",
     "descriptionPt": "Leia The Novel’s Extra, um manhwa em português.",
-    "chaptersCount": 171,
+    "chaptersCount": 173,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258053,7 +258053,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia genio-regressado-criador-de-itens-mitico online em português.",
     "descriptionPt": "Leia genio-regressado-criador-de-itens-mitico online em português.",
-    "chaptersCount": 51,
+    "chaptersCount": 53,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260583,7 +260583,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-casei-com-o-dragao-que-matei online em português.",
     "descriptionPt": "Leia me-casei-com-o-dragao-que-matei online em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261971,7 +261971,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Por favor não morra!, um manhwa em português.",
     "descriptionPt": "Leia Por favor não morra!, um manhwa em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261997,7 +261997,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Trascendência Devido a um Erro do Sistema, um manhwa em português.",
     "descriptionPt": "Leia Trascendência Devido a um Erro do Sistema, um manhwa em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262151,7 +262151,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Entomologista Do Clã Tang De Sichuan, um manhwa em português.",
     "descriptionPt": "Leia Entomologista Do Clã Tang De Sichuan, um manhwa em português.",
-    "chaptersCount": 103,
+    "chaptersCount": 105,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263894,7 +263894,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Corporação Goblin, um manhwa em português.",
     "descriptionPt": "Leia Corporação Goblin, um manhwa em português.",
-    "chaptersCount": 14,
+    "chaptersCount": 15,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -267519,7 +267519,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia ENNEAD, um manhwa em português.",
     "descriptionPt": "Leia ENNEAD, um manhwa em português.",
-    "chaptersCount": 144,
+    "chaptersCount": 145,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -272882,7 +272882,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Como Sobreviver a Novel de Terror que Escrevi, um manhwa em português.",
     "descriptionPt": "Leia Como Sobreviver a Novel de Terror que Escrevi, um manhwa em português.",
-    "chaptersCount": 1,
+    "chaptersCount": 5,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273096,6 +273096,31 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "suavizando-o-jeito-gangster-do-protagonista-masculinosuavizando-o-jeito-gangster-do-protagonista-masculino",
+    "slug": "suavizando-o-jeito-gangster-do-protagonista-masculinosuavizando-o-jeito-gangster-do-protagonista-masculino",
+    "title": "Suavizando o jeito gangster do protagonista masculino",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/suavizando-o-jeito-gangster-do-protagonista-masculinosuavizando-o-jeito-gangster-do-protagonista-masculino/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/suavizando-o-jeito-gangster-do-protagonista-masculinosuavizando-o-jeito-gangster-do-protagonista-masculino/cover-md.webp",
+    "author": "Janso",
+    "artist": "Janso",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Comedia",
+      "Romance",
+      "Isekai",
+      "Manhwa"
+    ],
+    "description": "Leia Suavizando o jeito gangster do protagonista masculino, um manhwa em português.",
+    "descriptionPt": "Leia Suavizando o jeito gangster do protagonista masculino, um manhwa em português.",
+    "chaptersCount": 44,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

@@ -98182,7 +98182,7 @@ let MANGA_DATA = [
     ],
     "description": "Relative Sins (Uncensored) A prince with no claim to the throne, Yi Tae-rok lives a quiet life removed from power. At thirteen, he is entrusted with raising his nephew, Yi Nan-yeong, a gentle boy with no talent for the sword and no expectations placed upon him. At first, Tae-rok sees it only as duty. But Nan-yeong grows up looking only at him. What begins as admiration slowly shifts into something deeper, something neither of them can easily name. Tae-rok notices the change and chooses silence, drawing careful lines he refuses to cross. In the end, Nan-yeong seeks clarity in the only way he ca",
     "descriptionPt": "",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -273198,6 +273198,31 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "tankouhentai-haha-no-utsuriga-denshi-tokusouban",
+    "slug": "haha-no-utsuriga-denshi-tokusouban",
+    "title": "Haha no Utsuriga Denshi Tokusouban",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/08/Haha-no-Utsuriga-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/08/Haha-no-Utsuriga-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Natsu no Oyatsu",
+    "status": "completed",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Incesto",
+      "Traição",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 8,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

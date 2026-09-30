@@ -97964,7 +97964,7 @@ let MANGA_DATA = [
     ],
     "description": "The Rite of Prayer (Uncensored) “As a child, Hanjoo was cherished and protected by Kiwon, the man he thought was simply his father’s friend. Ten years later, they reunite and sit down for a long-overdue night of drinks. But in his drunken haze, Kiwon whispers a truth Hanjoo cannot ignore. “You and I… we were lovers. In another life.” Suddenly, the lines between family, fate, and forbidden desire begin to blur. Can Hanjoo and Kiwon ever go back to the bond they once had, Or will this revelation pull them into a love that defies time itself?”",
     "descriptionPt": "",
-    "chaptersCount": 38,
+    "chaptersCount": 51,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -231722,7 +231722,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Preciso Ser Um Grande Vilão, um manhua em português.",
     "descriptionPt": "Leia Eu Preciso Ser Um Grande Vilão, um manhua em português.",
-    "chaptersCount": 8,
+    "chaptersCount": 9,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -234470,7 +234470,7 @@ let MANGA_DATA = [
     ],
     "description": "Absolute Sword Sense With his dantian shattering from a ki rampage, So WoonHwi was cast aside by his family. After that, he was kidnapped by the Blood Cult, where he spent his life as a third-rate spy. One day, he’s killed after being used to find the legendary Secret Records of the Sword Sage. But instead of really dying, he wakes up 10 years in the past on the day he was kidnapped by the Blood Cult, along with the power to hear the voices of swords.",
     "descriptionPt": "",
-    "chaptersCount": 199,
+    "chaptersCount": 202,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -265041,7 +265041,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Aceitarei Este Casamento Desta Vez, um manhwa em português.",
     "descriptionPt": "Leia Aceitarei Este Casamento Desta Vez, um manhwa em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 42,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265654,7 +265654,7 @@ let MANGA_DATA = [
     ],
     "description": "A Game With My Boss (Uncensored) My boss, the robot… No emotions, no facial expression… nothing… Well, that was until…",
     "descriptionPt": "",
-    "chaptersCount": 10,
+    "chaptersCount": 20,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -272856,7 +272856,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Como Sobreviver a Novel de Terror que Escrevi, um manhwa em português.",
     "descriptionPt": "Leia Como Sobreviver a Novel de Terror que Escrevi, um manhwa em português.",
-    "chaptersCount": 5,
+    "chaptersCount": 8,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273091,7 +273091,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Suavizando o jeito gangster do protagonista masculino, um manhwa em português.",
     "descriptionPt": "Leia Suavizando o jeito gangster do protagonista masculino, um manhwa em português.",
-    "chaptersCount": 44,
+    "chaptersCount": 45,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273483,6 +273483,31 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "a-magical-girl-never-loses",
+    "slug": "a-magical-girl-never-loses",
+    "title": "A Magical Girl Never Loses!",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2026/09/a5edb2e19fc80bbf439185768fd5c4ffa2115c93cc866d7f07fa4631df4916ca-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2026/09/a5edb2e19fc80bbf439185768fd5c4ffa2115c93cc866d7f07fa4631df4916ca-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adventure",
+      "Adult"
+    ],
+    "description": "Amidst the sudden appearance of monsters, the magical girl Astra Nova appeared to save the people from danger. However, while the magical girl Erina was",
+    "descriptionEn": "Amidst the sudden appearance of monsters, the magical girl Astra Nova appeared to save the people from danger. However, while the magical girl Erina was",
+    "chaptersCount": 8,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

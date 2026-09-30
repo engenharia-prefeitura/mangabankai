@@ -20,13 +20,6 @@
   <link rel="stylesheet" href="css/style.css">
   <link rel="icon" type="image/png" href="/img/logo.png">
   <link rel="apple-touch-icon" href="/img/logo.png">
-  <link rel="preconnect" href="https://www.highperformanceformat.com">
-  <link rel="preconnect" href="https://pl30096193.effectivecpmnetwork.com">
-  <link rel="preconnect" href="https://pl30096195.effectivecpmnetwork.com">
-  <link rel="dns-prefetch" href="https://www.highperformanceformat.com">
-  <link rel="dns-prefetch" href="https://pl30096193.effectivecpmnetwork.com">
-  <link rel="dns-prefetch" href="https://pl30096195.effectivecpmnetwork.com">
-  <script src="js/pub.js"></script>
   <script src="/js/loading-anim.js"></script>
 </head>
 <body>
@@ -34,7 +27,6 @@
     window.MangaLoader && MangaLoader.splash('manga');
     window.addEventListener('load', function () { window.MangaLoader && MangaLoader.hideSplash(600); });
   </script>
-  <script>ADS.guard();</script>
   <header class="header">
     <div class="header-inner">
       <a href="index.html" class="logo"><img src="img/logo.png" alt="MangaBankai" class="logo-img"></a>
@@ -64,9 +56,6 @@
     </div>
   </div>
 
-  <!-- BANNER 300x250 (Início da Página) -->
-  <div class="ad-banner-fixed ad-300" id="ad-manga-300"></div>
-  <script>ADS.renderBanner300(document.getElementById('ad-manga-300'));</script>
 
   <div class="manga-detail-hero" id="mangaHero">
     <div class="hero-bg"></div>
@@ -331,8 +320,6 @@
       var synopsis = cleanSynopsis(rawSynopsis);
       document.getElementById('tabOverview').innerHTML = `
         <div class="description">${synopsis}</div>
-        <!-- NATIVE BANNER (Abaixo da Sinopse) -->
-        <div class="ad-banner-fixed ad-native" id="ad-synopsis-native" style="margin: 20px auto 16px;"></div>
         <div class="info-grid">
           <div class="info-item"><label>Autor</label><span>${manga.author || 'Desconhecido'}</span></div>
           <div class="info-item"><label>Artista</label><span>${manga.artist || manga.author || 'Desconhecido'}</span></div>
@@ -344,7 +331,6 @@
         </div>
         <p class="takedown-link"><a href="/takedown.html?manga=${encodeURIComponent(manga.id)}" rel="nofollow">© É o titular dos direitos desta obra? Solicitar desindexação</a></p>
       `;
-      ADS.lazy(document.getElementById('ad-synopsis-native'), ADS.renderNative);
 
       // Tab 2: Chapters
       var chSection = document.getElementById('tabChapters');
@@ -359,12 +345,9 @@
               </select>
             </div>
           </div>
-          <!-- NATIVE BANNER (Antes da Lista de Capítulos) -->
-          <div class="ad-banner-fixed ad-native" id="ad-manga-native" style="margin: 0 auto 16px;"></div>
           <div class="chapter-list" id="chList"></div>
         </div>
       `;
-      ADS.lazy(document.getElementById('ad-manga-native'), ADS.renderNative);
 
       window.renderChapters = function() {
         var sort = document.getElementById('chSort').value;
@@ -425,6 +408,5 @@
       } catch (e) {}
     })();
   </script>
-  <script>ADS.renderSocialBar();</script>
 </body>
 </html>

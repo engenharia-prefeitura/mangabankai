@@ -252,16 +252,10 @@ function renderPage(m, chObj) {
   <link rel="stylesheet" href="/css/style.css">
   <link rel="icon" type="image/png" href="/img/logo.png">
   <link rel="apple-touch-icon" href="/img/logo.png">
-  <link rel="preconnect" href="https://www.highperformanceformat.com">
-  <link rel="preconnect" href="https://pl30096193.effectivecpmnetwork.com">
-  <link rel="dns-prefetch" href="https://www.highperformanceformat.com">
-  <link rel="dns-prefetch" href="https://pl30096193.effectivecpmnetwork.com">
   <script type="application/ld+json">${jsonLd(bookLd)}</script>
   <script type="application/ld+json">${jsonLd(breadcrumbLd)}</script>
-  <script src="/js/pub.js"></script>
 </head>
 <body>
-  <script>ADS.guard();</script>
   <header class="header">
     <div class="header-inner">
       <a href="/index.html" class="logo"><img src="/img/logo.png" alt="MangaBankai" class="logo-img"></a>
@@ -291,9 +285,6 @@ function renderPage(m, chObj) {
     </nav>
   </div>
 
-  <!-- BANNER 300x250 (Início da Página) -->
-  <div class="ad-banner-fixed ad-300" id="ad-ssg-300"></div>
-  <script>ADS.renderBanner300(document.getElementById('ad-ssg-300'));</script>
 
   <div class="manga-detail-hero" id="mangaHero">
     <div class="hero-bg"></div>
@@ -326,9 +317,6 @@ function renderPage(m, chObj) {
     <div class="detail-tab-content active">
       <h2>Sinopse</h2>
       <div class="description">${htmlEscape(synopsis)}</div>
-      <!-- NATIVE BANNER (Abaixo da Sinopse) -->
-      <div class="ad-banner-fixed ad-native" id="ad-ssg-synopsis-native" style="margin: 20px auto 16px;"></div>
-      <script>ADS.lazy(document.getElementById('ad-ssg-synopsis-native'), ADS.renderNative);</script>
       <div class="info-grid">
         <div class="info-item"><label>Autor</label><span>${htmlEscape(m.author || 'Desconhecido')}</span></div>
         <div class="info-item"><label>Artista</label><span>${htmlEscape(m.artist || m.author || 'Desconhecido')}</span></div>
@@ -342,9 +330,6 @@ function renderPage(m, chObj) {
 
     <div class="chapter-section">
       <div class="ch-toolbar"><h2>Lista de Capítulos (${chCount})</h2></div>
-      <!-- NATIVE BANNER (Antes da Lista de Capítulos) -->
-      <div class="ad-banner-fixed ad-native" id="ad-ssg-native" style="margin:0 auto 16px;"></div>
-      <script>ADS.lazy(document.getElementById('ad-ssg-native'), ADS.renderNative);</script>
       <div class="chapter-list">
 ${chapterItems}
       </div>
@@ -417,7 +402,6 @@ ${chapterItems}
       }
     })();
   </script>
-  <script>ADS.renderSocialBar();</script>
 </body>
 </html>
 `;

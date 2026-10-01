@@ -97440,7 +97440,7 @@ let MANGA_DATA = [
     ],
     "description": "Double Down (Uncensored) Jihan’s carefully constructed life shatters over a single, misplaced secret. Caught harboring an unspoken crush, his downfall arrives in the form of Kim Sinu, part glittering celebrity, part masterful manipulator. Sinu offers a ruinous ultimatum: a sexual favor (or two), or total exposure. But when a lethal threat from a stalker forces Jihan out of the shadows and into Sinu’s penthouse as his personal bodyguard, the boundaries of their twisted contract blur. Trapped in the orbit of a beautiful tyrant who delights in breaking his stoicism, Jihan must survive a dangerous",
     "descriptionPt": "",
-    "chaptersCount": 18,
+    "chaptersCount": 24,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -251754,7 +251754,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Senhorita Celebridade, um manhwa em português.",
     "descriptionPt": "Leia Senhorita Celebridade, um manhwa em português.",
-    "chaptersCount": 89,
+    "chaptersCount": 90,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273508,6 +273508,32 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "the-monster-lady-and-the-paladin",
+    "slug": "the-monster-lady-and-the-paladin",
+    "title": "The Monster Lady and the Paladin",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/the-monster-lady-and-the-paladin/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/the-monster-lady-and-the-paladin/cover-md.webp",
+    "author": "Songeum",
+    "artist": "Songeum",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Fantasia",
+      "Romance",
+      "Historico",
+      "Josei"
+    ],
+    "description": "Leia The Monster Lady and the Paladin, um manhwa em português.",
+    "descriptionPt": "Leia The Monster Lady and the Paladin, um manhwa em português.",
+    "chaptersCount": 39,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

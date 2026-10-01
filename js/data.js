@@ -104849,7 +104849,7 @@ let MANGA_DATA = [
     ],
     "description": "Player Who Returned 10,000 Years Later One day he suddenly found himself in hell. All he had was the desire to live and a predation ability. From the first to the ninth thousand circles of hell, he absorbed dozens, hundreds of thousands of demons. Even the seven great dukes of hell bowed down before him. Why would you wish to go back? Doesn’t his highness have everything that’s in Hell? What do I have? Nothing to eat, nothing to enjoy! The only things in Hell are the barren lands and terrible demons! “I’m going back.” After ten thousand years he returns to Earth.",
     "descriptionPt": "",
-    "chaptersCount": 161,
+    "chaptersCount": 162,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

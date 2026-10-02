@@ -93639,7 +93639,7 @@ let MANGA_DATA = [
     ],
     "description": "Angel and Devil (Official) An angel and a devil came to take me! Which one will I choose?",
     "descriptionPt": "",
-    "chaptersCount": 23,
+    "chaptersCount": 35,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -105580,7 +105580,7 @@ let MANGA_DATA = [
     ],
     "description": "Heat Stroke (Uncensored) Goh Yumin, the eldest son of an endangered black-footed wildcat clan, has never even met a female of his own kind and is doomed to a lifelong single status. Now freshly in heat and losing his mind to breeding instinct, he catches wind of a secret rumor: a male wildcat can perfectly pair with a human man and impregnate him without fail. Determined to continue his family line, Yumin sneaks into Hanguk University in search of the most beautiful and brilliant man he can find, and that is where he meets Beom Taejun, a stunning senior with an irresistible body. Yumin sets as",
     "descriptionPt": "",
-    "chaptersCount": 34,
+    "chaptersCount": 35,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207334,7 +207334,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Solstício, um manhwa em português.",
     "descriptionPt": "Leia Solstício, um manhwa em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207464,7 +207464,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia NO HOME, um manhwa em português.",
     "descriptionPt": "Leia NO HOME, um manhwa em português.",
-    "chaptersCount": 72,
+    "chaptersCount": 73,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231460,7 +231460,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Ranker, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Ranker, um manhwa em português.",
-    "chaptersCount": 263,
+    "chaptersCount": 264,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231538,7 +231538,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Mago Negro Retorna Após 66666 Anos, um manhwa em português.",
     "descriptionPt": "Leia O Mago Negro Retorna Após 66666 Anos, um manhwa em português.",
-    "chaptersCount": 199,
+    "chaptersCount": 200,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231566,7 +231566,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Começo Depois do Fim, um manhwa em português.",
     "descriptionPt": "Leia O Começo Depois do Fim, um manhwa em português.",
-    "chaptersCount": 266,
+    "chaptersCount": 267,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231854,7 +231854,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Lixo da Família Condal, um manhwa em português.",
     "descriptionPt": "Leia O Lixo da Família Condal, um manhwa em português.",
-    "chaptersCount": 190,
+    "chaptersCount": 191,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232774,7 +232774,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Ranker Inigualável, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Ranker Inigualável, um manhwa em português.",
-    "chaptersCount": 43,
+    "chaptersCount": 44,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250599,7 +250599,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Deus Demônio, um manhwa em português.",
     "descriptionPt": "Leia O Deus Demônio, um manhwa em português.",
-    "chaptersCount": 50,
+    "chaptersCount": 51,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251376,7 +251376,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Imperador Solo, um manhwa em português.",
     "descriptionPt": "Leia Imperador Solo, um manhwa em português.",
-    "chaptersCount": 85,
+    "chaptersCount": 86,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253050,7 +253050,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
     "descriptionPt": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
-    "chaptersCount": 123,
+    "chaptersCount": 124,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254001,7 +254001,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Só Eu Tenho uma Invocação de Rank EX, um manhwa em português.",
     "descriptionPt": "Leia Só Eu Tenho uma Invocação de Rank EX, um manhwa em português.",
-    "chaptersCount": 40,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254323,7 +254323,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Filho Adotivo em um Mundo de Supremacia de Linhagem, um mangá em português.",
     "descriptionPt": "Leia O Retorno do Filho Adotivo em um Mundo de Supremacia de Linhagem, um mangá em português.",
-    "chaptersCount": 54,
+    "chaptersCount": 55,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254535,7 +254535,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia aventura-de-um-barbaro-em-um-mundo-de-fantasia online em português.",
     "descriptionPt": "Leia aventura-de-um-barbaro-em-um-mundo-de-fantasia online em português.",
-    "chaptersCount": 71,
+    "chaptersCount": 72,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256607,7 +256607,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromante de Força Máxima, um manhua em português.",
     "descriptionPt": "Leia Necromante de Força Máxima, um manhua em português.",
-    "chaptersCount": 96,
+    "chaptersCount": 116,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258690,7 +258690,7 @@ let MANGA_DATA = [
     ],
     "description": "A Lovely Meal One snowy winter evening, Changdeok spots a high schooler crouched in front of his favorite restaurant, blood running ice-cold in the falling snow. Lured in by the promise of meal made just like the restaurant’s, Changdeok ends up inviting the boy – Jongwu – into his home; after all, Changdeok’s life is as dry as day-old rice, and food is his only joy. So when Jongwu offers to cook him a delicious dinner every night in exchange for a place to stay, he reluctantly agrees. But as their unusual cohabitation begins, Changdeok can’t shake this bloody feeling that Jongwoo might be hidi",
     "descriptionPt": "",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -259802,7 +259802,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-rei-agiota-do-murim online em português.",
     "descriptionPt": "Leia o-rei-agiota-do-murim online em português.",
-    "chaptersCount": 20,
+    "chaptersCount": 21,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260495,7 +260495,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia criando-viloes-da-maneira-correta online em português.",
     "descriptionPt": "Leia criando-viloes-da-maneira-correta online em português.",
-    "chaptersCount": 54,
+    "chaptersCount": 55,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264304,7 +264304,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Reset Temporal, um manhwa em português.",
     "descriptionPt": "Leia Reset Temporal, um manhwa em português.",
-    "chaptersCount": 62,
+    "chaptersCount": 63,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269794,7 +269794,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Deus do Caos Todo Poderoso, um manhwa em português.",
     "descriptionPt": "Leia O Deus do Caos Todo Poderoso, um manhwa em português.",
-    "chaptersCount": 117,
+    "chaptersCount": 118,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273640,6 +273640,31 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "meu-encontro-de-sorte-do-jogo-se-transformou-em-realidade",
+    "slug": "meu-encontro-de-sorte-do-jogo-se-transformou-em-realidade",
+    "title": "Meu Encontro de Sorte do Jogo se Transformou em Realidade",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/meu-encontro-de-sorte-do-jogo-se-transformou-em-realidade/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/meu-encontro-de-sorte-do-jogo-se-transformou-em-realidade/cover-md.webp",
+    "author": "Eojjeoda",
+    "artist": "Eojjeoda",
+    "status": "ongoing",
+    "year": 2023,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Ação",
+      "Shounen",
+      "Fantasia"
+    ],
+    "description": "Leia Meu Encontro de Sorte do Jogo se Transformou em Realidade, um manhwa em português.",
+    "descriptionPt": "Leia Meu Encontro de Sorte do Jogo se Transformou em Realidade, um manhwa em português.",
+    "chaptersCount": 94,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

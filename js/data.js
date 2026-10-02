@@ -61094,7 +61094,7 @@ let MANGA_DATA = [
     ],
     "description": "“Did you get this big because of me…?”",
     "descriptionEn": "“Did you get this big because of me…?”",
-    "chaptersCount": 75,
+    "chaptersCount": 79,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -253683,7 +253683,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Conforme o seu coração guiar, um manhwa em português.",
     "descriptionPt": "Leia Conforme o seu coração guiar, um manhwa em português.",
-    "chaptersCount": 65,
+    "chaptersCount": 66,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257272,7 +257272,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dépaysement, um manhwa em português.",
     "descriptionPt": "Leia Dépaysement, um manhwa em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -272856,7 +272856,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Como Sobreviver a Novel de Terror que Escrevi, um manhwa em português.",
     "descriptionPt": "Leia Como Sobreviver a Novel de Terror que Escrevi, um manhwa em português.",
-    "chaptersCount": 8,
+    "chaptersCount": 9,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

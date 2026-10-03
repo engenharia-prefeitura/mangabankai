@@ -98208,7 +98208,7 @@ let MANGA_DATA = [
     ],
     "description": "Ripe for the Picking (SREEESS) (Uncensored) Summer, 1994. Seojin is hiding from debt collectors in the middle of nowhere, facing a fate worse than bankruptcy: manual labor. When a sudden stomach ache leads to a messy disaster in a neighbor’s field, Seojin is caught red-handed by the hulking owner, Cheol. Cheol helps Seojin handle his spicy peppers by day, and Seojin returns the favor by night. Seojin thinks he’s just using the local hunk for “farm assistance,” but this country boy’s heat might be too much to handle!",
     "descriptionPt": "",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -106315,7 +106315,7 @@ let MANGA_DATA = [
     ],
     "description": "MILF Hotel (Uncensored) In “MILF Hotel,” Danny, a young hustler who earns money by any means necessary, lands a job as a concierge at an exclusive hotel catering to the wealthy. But when three MILFs check in, Danny realizes this is a chance to get more than just money. Is he able to fool everybody in this fancy MILF Hotel? They are horny but not stupid… This situation may bring a bunch of unexpected and awkward moments, because they all didn’t choose the aptly named “MILF Hotel” for nothing.",
     "descriptionPt": "",
-    "chaptersCount": 14,
+    "chaptersCount": 16,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207309,7 +207309,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Minha família vilã é contra minha independência, um manhwa em português.",
     "descriptionPt": "Leia Minha família vilã é contra minha independência, um manhwa em português.",
-    "chaptersCount": 98,
+    "chaptersCount": 100,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230826,7 +230826,7 @@ let MANGA_DATA = [
     ],
     "description": "8 / 100 Desenvolvido por Rank Math SEO",
     "descriptionPt": "8 / 100 Desenvolvido por Rank Math SEO",
-    "chaptersCount": 119,
+    "chaptersCount": 121,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false,
@@ -233391,7 +233391,7 @@ let MANGA_DATA = [
     ],
     "description": "Daily Pleasure Awakening (Official) Dylan is a sex therapist. One day, his best friend asks him a favor to reignite his wife’s sexual desire. So begins an intense, eye-opening therapy session for the couple’s sex life…",
     "descriptionPt": "",
-    "chaptersCount": 45,
+    "chaptersCount": 52,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -256184,7 +256184,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia I Adopted a Villainous Dad, um manhwa em português.",
     "descriptionPt": "Leia I Adopted a Villainous Dad, um manhwa em português.",
-    "chaptersCount": 97,
+    "chaptersCount": 99,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269769,7 +269769,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Caminho até Você, um manhwa em português.",
     "descriptionPt": "Leia O Caminho até Você, um manhwa em português.",
-    "chaptersCount": 1,
+    "chaptersCount": 2,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273116,7 +273116,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Para Bellumia, um manhwa em português.",
     "descriptionPt": "Leia Para Bellumia, um manhwa em português.",
-    "chaptersCount": 1,
+    "chaptersCount": 2,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273690,6 +273690,33 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "tankouhentai-haramase-no-hoshi",
+    "slug": "haramase-no-hoshi",
+    "title": "Haramase no Hoshi",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/10/Haramase-no-Hoshi-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/10/Haramase-no-Hoshi-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Combat Ecchu",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Futanari",
+      "Incesto",
+      "Lésbicas-Yuri",
+      "Tentáculos",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 2,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

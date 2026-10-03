@@ -233113,7 +233113,7 @@ let MANGA_DATA = [
     ],
     "description": "Love Junkie Right after graduating high school, Yewon falls headfirst into an affair with the charming but married Han Ju-eon. She knows it’s wrong, but she doesn’t care. She’s in love. “I want to hear you say it. Are you having an affair with that guy?” “Fine! We’re having an affair. So what?” Things start to spiral when their classmate Jeong Hwa-ik catches them in the act and makes her an offer of his own. Whether out of spite, curiosity, or something darker, she agrees. “Even if I sleep with someone else, you’re not going to leave your wife, are you?”",
     "descriptionPt": "",
-    "chaptersCount": 52,
+    "chaptersCount": 54,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -251595,7 +251595,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A coroa que eu tomarei de você, um manhwa em português.",
     "descriptionPt": "Leia A coroa que eu tomarei de você, um manhwa em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253606,7 +253606,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Após a Refeição, um manhwa em português.",
     "descriptionPt": "Leia Após a Refeição, um manhwa em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260610,7 +260610,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Depois que me tornei a princesa favorita mais jovem, todos ficaram obcecados por mim, um manhwa em português.",
     "descriptionPt": "Leia Depois que me tornei a princesa favorita mais jovem, todos ficaram obcecados por mim, um manhwa em português.",
-    "chaptersCount": 54,
+    "chaptersCount": 55,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -270242,7 +270242,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Isabela, um manhwa em português.",
     "descriptionPt": "Leia Isabela, um manhwa em português.",
-    "chaptersCount": 3,
+    "chaptersCount": 4,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

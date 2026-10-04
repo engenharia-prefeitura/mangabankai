@@ -256659,7 +256659,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Vilão Consumido Por Seu Desejo, um manhwa em português.",
     "descriptionPt": "Leia O Vilão Consumido Por Seu Desejo, um manhwa em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259533,7 +259533,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
     "descriptionPt": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265539,7 +265539,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Princesa que Mantém seu Fã-clube em Segredo, um manhwa em português.",
     "descriptionPt": "Leia A Princesa que Mantém seu Fã-clube em Segredo, um manhwa em português.",
-    "chaptersCount": 111,
+    "chaptersCount": 112,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265980,7 +265980,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Quarto secreto, um manhwa em português.",
     "descriptionPt": "Leia Quarto secreto, um manhwa em português.",
-    "chaptersCount": 6,
+    "chaptersCount": 7,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266036,7 +266036,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Princesa Marcou O Traidor, um manhwa em português.",
     "descriptionPt": "Leia A Princesa Marcou O Traidor, um manhwa em português.",
-    "chaptersCount": 125,
+    "chaptersCount": 126,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266543,7 +266543,7 @@ let MANGA_DATA = [
     ],
     "description": "The Price of Staying A tenant behind on rent receives a tempting offer from his landlady to stay.",
     "descriptionPt": "",
-    "chaptersCount": 2,
+    "chaptersCount": 7,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -269819,7 +269819,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O puro amor do vilão, um manhwa em português.",
     "descriptionPt": "Leia O puro amor do vilão, um manhwa em português.",
-    "chaptersCount": 3,
+    "chaptersCount": 7,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273168,7 +273168,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Não Devore Qualquer Um, um manhwa em português.",
     "descriptionPt": "Leia Não Devore Qualquer Um, um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 3,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273717,6 +273717,57 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "nao-confie-nele-nem-o-ame",
+    "slug": "nao-confie-nele-nem-o-ame",
+    "title": "Não Confie Nele, Nem o Ame",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/nao-confie-nele-nem-o-ame/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/nao-confie-nele-nem-o-ame/cover-md.webp",
+    "author": "Tsuruko",
+    "artist": "Tsuruko",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Fantasia",
+      "Romance",
+      "Josei",
+      "Manhwa"
+    ],
+    "description": "Leia Não Confie Nele, Nem o Ame, um manhwa em português.",
+    "descriptionPt": "Leia Não Confie Nele, Nem o Ame, um manhwa em português.",
+    "chaptersCount": 3,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "a-extra-quer-escapar-do-protagonista-masculino-obsessivo",
+    "slug": "a-extra-quer-escapar-do-protagonista-masculino-obsessivo",
+    "title": "A Extra Quer Escapar Do Protagonista Masculino Obsessivo",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-extra-quer-escapar-do-protagonista-masculino-obsessivo/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-extra-quer-escapar-do-protagonista-masculino-obsessivo/cover-md.webp",
+    "author": "Danryhan",
+    "artist": "Danryhan",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Adulto",
+      "Manhwa"
+    ],
+    "description": "Leia A Extra Quer Escapar Do Protagonista Masculino Obsessivo, um manhwa em português.",
+    "descriptionPt": "Leia A Extra Quer Escapar Do Protagonista Masculino Obsessivo, um manhwa em português.",
+    "chaptersCount": 1,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

@@ -100937,7 +100937,7 @@ let MANGA_DATA = [
     ],
     "description": "The Student, The Witch, and The Academy For Nam Juho, life as a repeat student aiming for med school is supposed to be simple: study, eat convenience store kimbap, and sleep, preferably in that order. But peace is impossible when Yeo Jiwoo, his eccentric classmate from the same cram school, suddenly decides he’s her new favorite target. From stolen pens and playful pranks to unsolicited “study motivation,” Jiwoo seems determined to turn Juho’s quiet, disciplined life into a daily comedy of chaos. He swears she’s doing it just to annoy him… but why does his heart race every time she flashes tha",
     "descriptionPt": "",
-    "chaptersCount": 54,
+    "chaptersCount": 56,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -249958,7 +249958,7 @@ let MANGA_DATA = [
     ],
     "description": "May as Well Get the Best Ending (Uncensored) Avid BL lover Min Kirin attends a game expo to get some new BL games, but there are disappointingly few there. He nearly goes home empty-handed, but a mysterious, hooded man gives him a free copy of a VR BL game. Kirin is suspicious of the man and game, especially given the negative reviews, but he can’t resist its mature rating and logs in just to be transported into that world! He needs to earn money and that’s how he meets the various romanceable characters. Will Kirin find love with one of them and return to reality, or will he be unable to pick",
     "descriptionPt": "",
-    "chaptersCount": 60,
+    "chaptersCount": 63,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -257164,7 +257164,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia #Meu Primeiro Amor, um manhwa em português.",
     "descriptionPt": "Leia #Meu Primeiro Amor, um manhwa em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257782,7 +257782,7 @@ let MANGA_DATA = [
     ],
     "description": "No Returns After Use Cheonho thought he was delivering righteous justice when he forced himself on Shin Jehui, the man suspected of assaulting his sister. But when the truth comes out, Cheonho realizes he has committed an irreversible crime against an innocent man. Bracing for arrest or violent retaliation, he visits Jehui to apologize. But Jehui’s reaction defies all logic. Rather than demanding retribution or turning him in, Jehui eagerly chases after Cheonho, insisting they start dating. Trapped by his own guilt, Cheonho has no idea how to handle his deeply unhinged victim.",
     "descriptionPt": "",
-    "chaptersCount": 34,
+    "chaptersCount": 35,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -264228,7 +264228,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia As 100 Maldições da Casa Illeston, um manhwa em português.",
     "descriptionPt": "Leia As 100 Maldições da Casa Illeston, um manhwa em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265284,7 +265284,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Vampiro Encontrou A Caçadora, um manhwa em português.",
     "descriptionPt": "Leia O Vampiro Encontrou A Caçadora, um manhwa em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269972,7 +269972,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ressuscitei meu Marido por Acidente., um manhwa em português.",
     "descriptionPt": "Leia Ressuscitei meu Marido por Acidente., um manhwa em português.",
-    "chaptersCount": 1,
+    "chaptersCount": 2,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -274081,6 +274081,30 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "tankouhentai-imouto-haramasenai-to-derarenai-shima",
+    "slug": "imouto-haramasenai-to-derarenai-shima",
+    "title": "Imouto Haramasenai to Derarenai Shima",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/10/Imouto-Haramasenai-to-Derarenai-Shima-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/10/Imouto-Haramasenai-to-Derarenai-Shima-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Airandou",
+    "status": "completed",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Incesto",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 2,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

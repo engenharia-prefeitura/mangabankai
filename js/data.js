@@ -95111,7 +95111,7 @@ let MANGA_DATA = [
     ],
     "description": "Bite to Unlock (Uncensored) Hyeon-seung has gone his entire life without anyone realizing he’s a vampire – until Taehee, his teammate for a group project, uncovers his secret. What’s worse, Taehee is a hardcore vampire otaku, so try as he might to hide his identity, Hyeon-seung’s identity has been laid bare. Taehee promises to keep quiet, but only after bombarding Hyeon-seung with endless questions and enthusiastic fanboying. Dazed and cornered, Hyun-seong finally agrees to help fuel Taehee’s obsession, forming a strange symbiotic relationship fueled by blood and fandom. But as the two grow cl",
     "descriptionPt": "",
-    "chaptersCount": 36,
+    "chaptersCount": 39,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -257164,7 +257164,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia #Meu Primeiro Amor, um manhwa em português.",
     "descriptionPt": "Leia #Meu Primeiro Amor, um manhwa em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 33,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269254,7 +269254,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Casada Com Um Marido Suspeitamente Recatado, um manhwa em português.",
     "descriptionPt": "Leia Casada Com Um Marido Suspeitamente Recatado, um manhwa em português.",
-    "chaptersCount": 1,
+    "chaptersCount": 2,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273528,7 +273528,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Mordomo Mais Forte Da Família Dos Vilões, um manhwa em português.",
     "descriptionPt": "Leia O Mordomo Mais Forte Da Família Dos Vilões, um manhwa em português.",
-    "chaptersCount": 1,
+    "chaptersCount": 2,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

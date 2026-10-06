@@ -251347,7 +251347,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mordida pelo cão que eu abandonei, um manhwa em português.",
     "descriptionPt": "Leia Mordida pelo cão que eu abandonei, um manhwa em português.",
-    "chaptersCount": 125,
+    "chaptersCount": 126,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251431,7 +251431,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia North Snow Love Story, um manhwa em português.",
     "descriptionPt": "Leia North Snow Love Story, um manhwa em português.",
-    "chaptersCount": 84,
+    "chaptersCount": 85,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251779,7 +251779,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei Um Homem Casado Em Outro Mundo, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei Um Homem Casado Em Outro Mundo, um manhwa em português.",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252788,7 +252788,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Campo Esquecido, um manhwa em português.",
     "descriptionPt": "Leia O Campo Esquecido, um manhwa em português.",
-    "chaptersCount": 36,
+    "chaptersCount": 37,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254375,7 +254375,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Desejos Bestiais, um manhwa em português.",
     "descriptionPt": "Leia Desejos Bestiais, um manhwa em português.",
-    "chaptersCount": 84,
+    "chaptersCount": 85,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256659,7 +256659,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Vilão Consumido Por Seu Desejo, um manhwa em português.",
     "descriptionPt": "Leia O Vilão Consumido Por Seu Desejo, um manhwa em português.",
-    "chaptersCount": 34,
+    "chaptersCount": 38,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256971,7 +256971,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Por que está tão obcecado em Rejeitar Afeto?, um manhwa em português.",
     "descriptionPt": "Leia Por que está tão obcecado em Rejeitar Afeto?, um manhwa em português.",
-    "chaptersCount": 68,
+    "chaptersCount": 70,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261391,7 +261391,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-segredo-do-senior-perfeito online em português.",
     "descriptionPt": "Leia o-segredo-do-senior-perfeito online em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262517,7 +262517,7 @@ let MANGA_DATA = [
     ],
     "description": "Friendzone Face-Off They swore men and women can be just friends.Now they’re trapped in a game that puts that belief to the test.With prize money on the line, each mission pushes them closer to the one line they promised never to cross.",
     "descriptionPt": "",
-    "chaptersCount": 8,
+    "chaptersCount": 14,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -262927,7 +262927,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Não há lugar para falsificações, um manhwa em português.",
     "descriptionPt": "Leia Não há lugar para falsificações, um manhwa em português.",
-    "chaptersCount": 120,
+    "chaptersCount": 121,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -267519,7 +267519,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia ENNEAD, um manhwa em português.",
     "descriptionPt": "Leia ENNEAD, um manhwa em português.",
-    "chaptersCount": 149,
+    "chaptersCount": 150,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269972,7 +269972,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ressuscitei meu Marido por Acidente., um manhwa em português.",
     "descriptionPt": "Leia Ressuscitei meu Marido por Acidente., um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 3,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -274207,6 +274207,58 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "marcado-com-seu-nome",
+    "slug": "marcado-com-seu-nome",
+    "title": "Marcado com seu Nome",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/marcado-com-seu-nome/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/marcado-com-seu-nome/cover-md.webp",
+    "author": "Ipa",
+    "artist": "Ipa",
+    "status": "completed",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Romance",
+      "Manhwa",
+      "Shounen Ai"
+    ],
+    "description": "Leia Marcado com seu Nome, um manhwa em português.",
+    "descriptionPt": "Leia Marcado com seu Nome, um manhwa em português.",
+    "chaptersCount": 7,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "a-princesa-vila-esta-escondendo-sua-identidade",
+    "slug": "a-princesa-vila-esta-escondendo-sua-identidade",
+    "title": "A princesa vilã está Escondendo sua identidade",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-princesa-vila-esta-escondendo-sua-identidade/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-princesa-vila-esta-escondendo-sua-identidade/cover-md.webp",
+    "author": "Seol Yun-Yeong",
+    "artist": "Seol Yun-Yeong",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Historico",
+      "Magia",
+      "Manhwa"
+    ],
+    "description": "Leia A princesa vilã está Escondendo sua identidade, um manhwa em português.",
+    "descriptionPt": "Leia A princesa vilã está Escondendo sua identidade, um manhwa em português.",
+    "chaptersCount": 1,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

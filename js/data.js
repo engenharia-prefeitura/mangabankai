@@ -94464,7 +94464,7 @@ let MANGA_DATA = [
     ],
     "description": "DASH (Yeoreumsup) (Uncensored) Jeong Jiheon, a once-promising swimmer, retired early due to an injury and now works diligently at a sports agency. The hottest topic in the sports marketing world is none other than Kwon Jae-kyoung, and agencies are fiercely competing to win him over. Jiheon’s boss orders him to secure a meeting with Jae-kyoung at all costs. Using a trivial connection from a decade ago when they briefly trained at the same aquatic center, Jiheon miraculously succeeds in arranging a meeting. However, when they finally meet, Jae-kyoung shows no interest in contract terms and inste",
     "descriptionPt": "",
-    "chaptersCount": 50,
+    "chaptersCount": 51,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97160,7 +97160,7 @@ let MANGA_DATA = [
     ],
     "description": "Of Curse and Tide (Uncensored) After a brutal war between humans and merfolk, a dark curse settled deep within the royal bloodline. Plagued by agonizing phantoms, Crown Prince Wook flees to a remote coastal temple, only to be lured over the cliff’s edge by the relentless voices. Against all odds, he survives the fall – only to wake up facing an impossible reality, and a mysterious savior who promises to break the royal curse. Can this stranger truly save him, or is Wook simply diving into a deeper deception?",
     "descriptionPt": "",
-    "chaptersCount": 24,
+    "chaptersCount": 26,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207177,7 +207177,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Mansão Que aguarda A Primavera, um manhwa em português.",
     "descriptionPt": "Leia A Mansão Que aguarda A Primavera, um manhwa em português.",
-    "chaptersCount": 36,
+    "chaptersCount": 37,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259688,7 +259688,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Era o Lixo, um manhwa em português.",
     "descriptionPt": "Leia Eu Era o Lixo, um manhwa em português.",
-    "chaptersCount": 40,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273504,7 +273504,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Monster Lady and the Paladin, um manhwa em português.",
     "descriptionPt": "Leia The Monster Lady and the Paladin, um manhwa em português.",
-    "chaptersCount": 56,
+    "chaptersCount": 57,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -274130,6 +274130,83 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "mangadistrict-ballerino-kingo-uncensored",
+    "slug": "ballerino-kingo-uncensored",
+    "title": "Ballerino (KINGO) (Uncensored)",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/ballerino-kingo-uncensored-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/ballerino-kingo-uncensored-official.webp",
+    "author": "akkang",
+    "artist": "KINGO",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "BL",
+      "BL Uncensored",
+      "Yaoi",
+      "Hentai"
+    ],
+    "description": "Ballerino (KINGO) (Uncensored) As star ballerino, Jean Ivandish endures every cruelty just to keep dancing. But when Lev Volkoprin, a mesmerizing bourgeois star rising in high society, enters his world, everything changes. Lev’s gentle warmth and alluring gaze break through Jean’s defenses, daring him to dream of a life he truly wants. Yet beneath the glittering spotlight, dangerous secrets linger…and the truth always strikes when you least expect it. Can Jin trust this newfound passion before it destroys him?",
+    "descriptionPt": "",
+    "chaptersCount": 8,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
+  },
+  {
+    "id": "mangadistrict-past-kiss-uncensored",
+    "slug": "past-kiss-uncensored",
+    "title": "Past Kiss (Uncensored)",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/past-kiss-uncensored-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/past-kiss-uncensored-official.webp",
+    "author": "JIMUN",
+    "artist": "JIMUN",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "BL",
+      "BL Uncensored",
+      "Yaoi",
+      "Hentai"
+    ],
+    "description": "Past Kiss (Uncensored) Ajin has a secret: the moment his lips touch someone else’s, he can see their past lives. Now twenty and trying to navigate the adult world, he meets Jinwu, a strikingly handsome guy at a club who isn’t shy about making a move. Charmed by Jinwu’s bold and persistent flirting, Ajin finds himself falling for him. But as their connection deepens, how much longer would Ajin be able to guard his lips from the guy who’s determined to steal his heart?",
+    "descriptionPt": "",
+    "chaptersCount": 8,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
+  },
+  {
+    "id": "mangadistrict-breathing-the-same-air",
+    "slug": "breathing-the-same-air",
+    "title": "Breathing the Same Air",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/breathing-the-same-air-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/breathing-the-same-air-official.webp",
+    "author": "Dasik",
+    "artist": "Dasik",
+    "status": "ongoing",
+    "year": 2021,
+    "rating": 0,
+    "genres": [
+      "BL",
+      "Yaoi",
+      "Hentai"
+    ],
+    "description": "Breathing the Same Air “I don’t want to even breathe the same air as you!” …are the last words Jeong Sangheon says to Yun Haeshin before they part ways. But after ten years, the two reunite and end up living together under the same roof. Sangheon is the worst roommate one could have. He makes a mess wherever he goes, constantly breaks things, brings over uninvited guests, and even smokes inside the house. When Haeshin is at his wit’s end, he finally finds out a weakness that helps him put a leash around Sangheon’s neck. Will Haeshin successfully tame Sangheon so that they can live in peace tog",
+    "descriptionPt": "",
+    "chaptersCount": 36,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
   }
 ];
 

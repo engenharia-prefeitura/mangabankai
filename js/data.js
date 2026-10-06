@@ -95898,7 +95898,7 @@ let MANGA_DATA = [
     ],
     "description": "Return of the Blossoming Blade Chung Myung, The 13th Disciple of the Great Flowery Mountain Sect, One of the 3 Great Swordsmen, Plum Blossom Sword Saint, defeated Chun Ma, who has brought destruction and disarray onto the world. After the battle, he breathes his last breath on top of the headquarter mountain of the Devil’s Worship Sect. He is reborn after 100 years in the body of a child. …What? The Flowery Mountain Sect has fallen? What kind of nonsense is that!?",
     "descriptionPt": "",
-    "chaptersCount": 184,
+    "chaptersCount": 187,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97603,7 +97603,7 @@ let MANGA_DATA = [
     ],
     "description": "Courtside Courtship (Uncensored) Genius. Champion. National treasure. Nam Woojoon has always admired Seo Siwon, but only from afar. That is, until the night he woke to find his idol on top of him, completely lost in pleasure. Now, as the heat between them rises, Woojoon’s learning the rules of a new game, and he’s playing to win.",
     "descriptionPt": "",
-    "chaptersCount": 34,
+    "chaptersCount": 36,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207939,7 +207939,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Herdeiro Monstruoso da Família Chaebol, um manhwa em português.",
     "descriptionPt": "Leia O Herdeiro Monstruoso da Família Chaebol, um manhwa em português.",
-    "chaptersCount": 26,
+    "chaptersCount": 27,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230110,7 +230110,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Olá, Griffin, o pássaro Fofinho!, um manhwa em português.",
     "descriptionPt": "Leia Olá, Griffin, o pássaro Fofinho!, um manhwa em português.",
-    "chaptersCount": 67,
+    "chaptersCount": 69,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230137,7 +230137,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O restaurante do arquimago, um manhwa em português.",
     "descriptionPt": "Leia O restaurante do arquimago, um manhwa em português.",
-    "chaptersCount": 151,
+    "chaptersCount": 153,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231435,7 +231435,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O sétimo príncipe quer escapar, um manhwa em português.",
     "descriptionPt": "Leia O sétimo príncipe quer escapar, um manhwa em português.",
-    "chaptersCount": 23,
+    "chaptersCount": 24,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231616,7 +231616,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Coração Ferido, um webtoon em português.",
     "descriptionPt": "Leia Coração Ferido, um webtoon em português.",
-    "chaptersCount": 28,
+    "chaptersCount": 29,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231964,7 +231964,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Professor Runebound, um webtoon em português.",
     "descriptionPt": "Leia O Retorno do Professor Runebound, um webtoon em português.",
-    "chaptersCount": 92,
+    "chaptersCount": 93,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232256,7 +232256,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Crônicas da Facção Demoníaca, um manhwa em português.",
     "descriptionPt": "Leia Crônicas da Facção Demoníaca, um manhwa em português.",
-    "chaptersCount": 192,
+    "chaptersCount": 193,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232332,7 +232332,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Superação do Nobre Vagabundo, um manhwa em português.",
     "descriptionPt": "Leia A Superação do Nobre Vagabundo, um manhwa em português.",
-    "chaptersCount": 161,
+    "chaptersCount": 162,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232388,7 +232388,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Domínio Absoluto, um manhwa em português.",
     "descriptionPt": "Leia Domínio Absoluto, um manhwa em português.",
-    "chaptersCount": 111,
+    "chaptersCount": 112,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232548,7 +232548,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Providência de Alto Nível, um manhua em português.",
     "descriptionPt": "Leia Providência de Alto Nível, um manhua em português.",
-    "chaptersCount": 287,
+    "chaptersCount": 288,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232749,7 +232749,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Renascimento de Um Mercenário Entre Nobres, um manhwa em português.",
     "descriptionPt": "Leia O Renascimento de Um Mercenário Entre Nobres, um manhwa em português.",
-    "chaptersCount": 50,
+    "chaptersCount": 51,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232828,7 +232828,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Recluso Supremo, um manhwa em português.",
     "descriptionPt": "Leia O Recluso Supremo, um manhwa em português.",
-    "chaptersCount": 99,
+    "chaptersCount": 100,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249450,7 +249450,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromante: Rei dos Mortos, um manhua em português.",
     "descriptionPt": "Leia Necromante: Rei dos Mortos, um manhua em português.",
-    "chaptersCount": 310,
+    "chaptersCount": 312,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250414,7 +250414,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-esposa-que-esperou-no-campo-de-trigo online em português.",
     "descriptionPt": "Leia a-esposa-que-esperou-no-campo-de-trigo online em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250625,7 +250625,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Regressor Faz Tudo, um manhwa em português.",
     "descriptionPt": "Leia O Regressor Faz Tudo, um manhwa em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250679,7 +250679,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Crônicas do Soberano Preguiçoso, um manhwa em português.",
     "descriptionPt": "Leia Crônicas do Soberano Preguiçoso, um manhwa em português.",
-    "chaptersCount": 66,
+    "chaptersCount": 67,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250889,7 +250889,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Fui Confundido com um Gênio Monstruoso, um manhwa em português.",
     "descriptionPt": "Leia Fui Confundido com um Gênio Monstruoso, um manhwa em português.",
-    "chaptersCount": 119,
+    "chaptersCount": 121,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251269,7 +251269,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vingança do Cão de Caça dos Baskerville, um manhwa em português.",
     "descriptionPt": "Leia A Vingança do Cão de Caça dos Baskerville, um manhwa em português.",
-    "chaptersCount": 182,
+    "chaptersCount": 183,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251295,7 +251295,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Filho Caçula do Conde é um Jogador, um manhwa em português.",
     "descriptionPt": "Leia O Filho Caçula do Conde é um Jogador, um manhwa em português.",
-    "chaptersCount": 172,
+    "chaptersCount": 173,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251321,7 +251321,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Neste Mundo Não Existem Guerreiros Maus, um manhwa em português.",
     "descriptionPt": "Leia Neste Mundo Não Existem Guerreiros Maus, um manhwa em português.",
-    "chaptersCount": 89,
+    "chaptersCount": 90,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251376,7 +251376,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Imperador Solo, um manhwa em português.",
     "descriptionPt": "Leia Imperador Solo, um manhwa em português.",
-    "chaptersCount": 86,
+    "chaptersCount": 87,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251486,7 +251486,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Sou o Vilão Predestinado, um manhua em português.",
     "descriptionPt": "Leia Eu Sou o Vilão Predestinado, um manhua em português.",
-    "chaptersCount": 360,
+    "chaptersCount": 361,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251514,7 +251514,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Reencarnei Como um Cirurgião Lendário, um manhwa em português.",
     "descriptionPt": "Leia Reencarnei Como um Cirurgião Lendário, um manhwa em português.",
-    "chaptersCount": 218,
+    "chaptersCount": 219,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251702,7 +251702,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Evolução Infinita: Começando do Zero, um manhua em português.",
     "descriptionPt": "Leia Evolução Infinita: Começando do Zero, um manhua em português.",
-    "chaptersCount": 130,
+    "chaptersCount": 132,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252465,7 +252465,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Um Dia Eu Era Um Filhote, um manhwa em português.",
     "descriptionPt": "Leia Um Dia Eu Era Um Filhote, um manhwa em português.",
-    "chaptersCount": 28,
+    "chaptersCount": 29,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254513,7 +254513,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei O Mentor do Rei Demônio mais Fraco, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei O Mentor do Rei Demônio mais Fraco, um manhwa em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254557,7 +254557,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia despertando-o-trovao-roxo-no-inicio online em português.",
     "descriptionPt": "Leia despertando-o-trovao-roxo-no-inicio online em português.",
-    "chaptersCount": 92,
+    "chaptersCount": 94,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254579,7 +254579,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-tornei-um-mago-de-fantasia-medieval online em português.",
     "descriptionPt": "Leia me-tornei-um-mago-de-fantasia-medieval online em português.",
-    "chaptersCount": 40,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254623,7 +254623,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-tornei-um-ladrao-de-habilidades online em português.",
     "descriptionPt": "Leia me-tornei-um-ladrao-de-habilidades online em português.",
-    "chaptersCount": 43,
+    "chaptersCount": 44,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254925,7 +254925,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Conto Do Erudito, um manhwa em português.",
     "descriptionPt": "Leia O Conto Do Erudito, um manhwa em português.",
-    "chaptersCount": 211,
+    "chaptersCount": 213,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254980,7 +254980,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mestre Do Treinamento Marcial, um manhwa em português.",
     "descriptionPt": "Leia Mestre Do Treinamento Marcial, um manhwa em português.",
-    "chaptersCount": 132,
+    "chaptersCount": 133,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255144,7 +255144,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Superastro do 0, um manhwa em português.",
     "descriptionPt": "Leia Superastro do 0, um manhwa em português.",
-    "chaptersCount": 104,
+    "chaptersCount": 105,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255221,7 +255221,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Fui Jogado em uma História de Fantasmas, Mas Ainda Tenho que Trabalhar, um manhwa em português.",
     "descriptionPt": "Leia Fui Jogado em uma História de Fantasmas, Mas Ainda Tenho que Trabalhar, um manhwa em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257111,7 +257111,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Momento de Cura com Dubli, um manhwa em português.",
     "descriptionPt": "Leia Momento de Cura com Dubli, um manhwa em português.",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257976,7 +257976,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Swordmaster’s Youngest Son, um manhwa em português.",
     "descriptionPt": "Leia Swordmaster’s Youngest Son, um manhwa em português.",
-    "chaptersCount": 214,
+    "chaptersCount": 215,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258053,7 +258053,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia genio-regressado-criador-de-itens-mitico online em português.",
     "descriptionPt": "Leia genio-regressado-criador-de-itens-mitico online em português.",
-    "chaptersCount": 53,
+    "chaptersCount": 55,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258075,7 +258075,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-deus-dos-improvisos online em português.",
     "descriptionPt": "Leia o-deus-dos-improvisos online em português.",
-    "chaptersCount": 34,
+    "chaptersCount": 36,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259758,7 +259758,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-santo-evolui-atraves-da-necromancia online em português.",
     "descriptionPt": "Leia o-santo-evolui-atraves-da-necromancia online em português.",
-    "chaptersCount": 40,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259780,7 +259780,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-governante-das-trevas online em português.",
     "descriptionPt": "Leia o-governante-das-trevas online em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260006,7 +260006,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-retorno-do-espadachim-negro online em português.",
     "descriptionPt": "Leia o-retorno-do-espadachim-negro online em português.",
-    "chaptersCount": 67,
+    "chaptersCount": 68,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260050,7 +260050,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-mundo-arruinado-foi-confundido-com-um-jogo online em português.",
     "descriptionPt": "Leia o-mundo-arruinado-foi-confundido-com-um-jogo online em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260517,7 +260517,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-mestre-espadachim-devorador-de-espadas online em português.",
     "descriptionPt": "Leia o-mestre-espadachim-devorador-de-espadas online em português.",
-    "chaptersCount": 48,
+    "chaptersCount": 49,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260539,7 +260539,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-transmissao-do-reino-demoniaco-do-demonio-celestial-rejuvenescido online em português.",
     "descriptionPt": "Leia a-transmissao-do-reino-demoniaco-do-demonio-celestial-rejuvenescido online em português.",
-    "chaptersCount": 21,
+    "chaptersCount": 22,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261971,7 +261971,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Por favor não morra!, um manhwa em português.",
     "descriptionPt": "Leia Por favor não morra!, um manhwa em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 33,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262023,7 +262023,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Imperador da Espada Reencarnou em um Clã de Mestres da Espada, um manhwa em português.",
     "descriptionPt": "Leia O Imperador da Espada Reencarnou em um Clã de Mestres da Espada, um manhwa em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262949,7 +262949,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia streamer-apos-a-reencarnacao online em português.",
     "descriptionPt": "Leia streamer-apos-a-reencarnacao online em português.",
-    "chaptersCount": 66,
+    "chaptersCount": 67,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263596,7 +263596,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Estratégia Para Fracos Dominar a Torre, um manhwa em português.",
     "descriptionPt": "Leia Estratégia Para Fracos Dominar a Torre, um manhwa em português.",
-    "chaptersCount": 48,
+    "chaptersCount": 49,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263866,7 +263866,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Filho Imprestável do Marquês, um manhwa em português.",
     "descriptionPt": "Leia O Filho Imprestável do Marquês, um manhwa em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263894,7 +263894,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Corporação Goblin, um manhwa em português.",
     "descriptionPt": "Leia Corporação Goblin, um manhwa em português.",
-    "chaptersCount": 15,
+    "chaptersCount": 16,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264330,7 +264330,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Um Pintor Que Desenha Dungeons, um manhwa em português.",
     "descriptionPt": "Leia Um Pintor Que Desenha Dungeons, um manhwa em português.",
-    "chaptersCount": 26,
+    "chaptersCount": 27,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265093,7 +265093,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Príncipe não Chora por Causa de Simples Cebolas, um manhwa em português.",
     "descriptionPt": "Leia O Príncipe não Chora por Causa de Simples Cebolas, um manhwa em português.",
-    "chaptersCount": 6,
+    "chaptersCount": 7,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -267519,7 +267519,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia ENNEAD, um manhwa em português.",
     "descriptionPt": "Leia ENNEAD, um manhwa em português.",
-    "chaptersCount": 146,
+    "chaptersCount": 149,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -268261,7 +268261,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mago de Areia do Deserto Ardente, um manhwa em português.",
     "descriptionPt": "Leia Mago de Areia do Deserto Ardente, um manhwa em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269794,7 +269794,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Deus do Caos Todo Poderoso, um manhwa em português.",
     "descriptionPt": "Leia O Deus do Caos Todo Poderoso, um manhwa em português.",
-    "chaptersCount": 118,
+    "chaptersCount": 119,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -270001,7 +270001,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Asha nas Fronteiras, um manhwa em português.",
     "descriptionPt": "Leia Asha nas Fronteiras, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273635,7 +273635,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Meu Encontro de Sorte do Jogo se Transformou em Realidade, um manhwa em português.",
     "descriptionPt": "Leia Meu Encontro de Sorte do Jogo se Transformou em Realidade, um manhwa em português.",
-    "chaptersCount": 96,
+    "chaptersCount": 98,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -274105,6 +274105,31 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "prank-with-my-stepmom-uncensored",
+    "slug": "prank-with-my-stepmom-uncensored",
+    "title": "Prank with my stepmom (Uncensored)",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2026/10/775636e895cb7ea1f53f4aea50a28a6bd7ef02b423a037b9437c264ac28a21ec.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2026/10/775636e895cb7ea1f53f4aea50a28a6bd7ef02b423a037b9437c264ac28a21ec.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Uncensored",
+      "Adult"
+    ],
+    "description": "Blake set out to make his stepmom Vanessa hate him. Then he watched her step out in the bikini he’d swapped. And Blake realized the pranks were never going to",
+    "descriptionEn": "Blake set out to make his stepmom Vanessa hate him. Then he watched her step out in the bikini he’d swapped. And Blake realized the pranks were never going to",
+    "chaptersCount": 12,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

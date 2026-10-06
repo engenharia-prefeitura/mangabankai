@@ -60748,7 +60748,7 @@ let MANGA_DATA = [
     ],
     "description": "Tutors are struggling and working hard to send the Ilryu Group President’s son, ‘Min Siyoon,’ to a prestigious university! With a ten billion won reward on",
     "descriptionEn": "Tutors are struggling and working hard to send the Ilryu Group President’s son, ‘Min Siyoon,’ to a prestigious university! With a ten billion won reward on",
-    "chaptersCount": 112,
+    "chaptersCount": 114,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -251049,7 +251049,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Nós, Depois, um webtoon em português.",
     "descriptionPt": "Leia Nós, Depois, um webtoon em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253370,7 +253370,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Senhorita Pendleton, um manhwa em português.",
     "descriptionPt": "Leia Senhorita Pendleton, um manhwa em português.",
-    "chaptersCount": 61,
+    "chaptersCount": 63,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269769,7 +269769,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Caminho até Você, um manhwa em português.",
     "descriptionPt": "Leia O Caminho até Você, um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 3,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273116,7 +273116,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Para Bellumia, um manhwa em português.",
     "descriptionPt": "Leia Para Bellumia, um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 3,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273528,7 +273528,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Mordomo Mais Forte Da Família Dos Vilões, um manhwa em português.",
     "descriptionPt": "Leia O Mordomo Mais Forte Da Família Dos Vilões, um manhwa em português.",
-    "chaptersCount": 3,
+    "chaptersCount": 4,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

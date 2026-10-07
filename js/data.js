@@ -60484,7 +60484,7 @@ let MANGA_DATA = [
     ],
     "description": "“The onahole… moved?!”",
     "descriptionEn": "“The onahole… moved?!”",
-    "chaptersCount": 121,
+    "chaptersCount": 122,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -257680,7 +257680,7 @@ let MANGA_DATA = [
     ],
     "description": "Crows Like Things That Sparkle In the barren northern Snowlands of the empire, a war that has raged on for 37 years against the vicious Norcans is finally brought to an end by one Captain Sahara Ellawood of the 128th Order. When Crown Prince Cheshire Wi Solante goes to escort Captain Ellawood to the capital, he expects to find a savage who beheads and eats the eyes of her enemies. But to his surprise, Captain Ellawood is an incredibly strong, loyal, innocent, and most importantly, beautiful woman. Cheshire is instantly enamored with Sahara, and the two spend an intimate night together after th",
     "descriptionPt": "",
-    "chaptersCount": 50,
+    "chaptersCount": 54,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -265041,7 +265041,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Aceitarei Este Casamento Desta Vez, um manhwa em português.",
     "descriptionPt": "Leia Aceitarei Este Casamento Desta Vez, um manhwa em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269024,7 +269024,7 @@ let MANGA_DATA = [
     ],
     "description": "My Perfect Omega “Nick Stockton, ex-mercenary and now head of a top security firm, has never once lost control—until he crosses paths with Owen Rose, the stunning CEO of Rose Biotech. The moment their eyes meet, Nick is hit with an overwhelming surge of pheromones. He knows instantly: Owen is his Omega. When terrorists launch a sudden attack on Owen, Nick steps in without hesitation. Grateful and intrigued, Owen invites Nick to his secluded estate. But Owen harbors a dark belief—that he’s a “monster Omega,” ever since a childhood incident where he injured his Alpha cousin. He’s spent his life ",
     "descriptionPt": "",
-    "chaptersCount": 69,
+    "chaptersCount": 73,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -273528,7 +273528,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Mordomo Mais Forte Da Família Dos Vilões, um manhwa em português.",
     "descriptionPt": "Leia O Mordomo Mais Forte Da Família Dos Vilões, um manhwa em português.",
-    "chaptersCount": 4,
+    "chaptersCount": 5,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -274307,6 +274307,35 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "eu-sou-a-verdadeira",
+    "slug": "eu-sou-a-verdadeira",
+    "title": "Eu Sou a Verdadeira",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/eu-sou-a-verdadeira/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/eu-sou-a-verdadeira/cover-md.webp",
+    "author": "March",
+    "artist": "March",
+    "status": "ongoing",
+    "year": 2022,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Reencarnação",
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Historico",
+      "Familia",
+      "Manhwa"
+    ],
+    "description": "Leia Eu Sou a Verdadeira, um manhwa em português.",
+    "descriptionPt": "Leia Eu Sou a Verdadeira, um manhwa em português.",
+    "chaptersCount": 150,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

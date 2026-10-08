@@ -124,7 +124,7 @@ let MANGA_DATA = [
       "Supernatural"
     ],
     "description": "Follows the life of an average hero who manages to win all battles with only one punch. This ability seems to frustrate him as he no longer feels the thrill and adrenaline of fighting a tough battle, which leads to him questioning his past desire of being strong.",
-    "chaptersCount": 277,
+    "chaptersCount": 278,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -55296,7 +55296,7 @@ let MANGA_DATA = [
       "Manga"
     ],
     "description": "Leia Sakamoto Days online no MangaSurge.",
-    "chaptersCount": 277,
+    "chaptersCount": 278,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -55736,7 +55736,7 @@ let MANGA_DATA = [
       "Manga"
     ],
     "description": "Leia Shangri La Frontier online no MangaSurge.",
-    "chaptersCount": 281,
+    "chaptersCount": 282,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -96479,7 +96479,7 @@ let MANGA_DATA = [
     ],
     "description": "Swingers (Uncensored) Swingers follows a young couple, Steve and Alice, whose lives change after meeting Amanda and Florent, a sophisticated pair who introduce them to a new lifestyle. Determined to show that it can strengthen rather than destroy relationships, Amanda and Florent guide the newcomers into an unfamiliar world. As Steve and Alice dive deeper, they gradually realize they may have already crossed the point of no return.",
     "descriptionPt": "",
-    "chaptersCount": 12,
+    "chaptersCount": 14,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97743,7 +97743,7 @@ let MANGA_DATA = [
     ],
     "description": "BDSM 101 (Uncensored) Song Jeongwon is an active member of the BDSM community, offering guidance and advice to newcomers. One day, he comes across a distressing post from Kang Hoseob, a beginner who has fallen into the hands of an abusive dom and is seeking help. Realizing that Hoseob lacks even the most basic knowledge of BDSM, Jeongwon steps in—not just to rescue him but to personally guide him as his temporary dom. “Master, I’ll be good…I promise.” Jeongwon takes on the challenge, but can he truly teach Hoseob the foundations of trust, consent, and desire before it’s too late?",
     "descriptionPt": "",
-    "chaptersCount": 47,
+    "chaptersCount": 48,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -101985,7 +101985,7 @@ let MANGA_DATA = [
     ],
     "description": "Yogurt Lady (Official) A rumor is going around in a college town that a yogurt lady is going around drinking the yogurt of the male college students. Brian, curious to get to the bottom of the rumor, asks his yogurt lady about the rumor. “I want to eat your yogurt, Brian.”",
     "descriptionPt": "",
-    "chaptersCount": 45,
+    "chaptersCount": 49,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -103029,7 +103029,7 @@ let MANGA_DATA = [
     ],
     "description": "Perfect Half Once a world ruled by men, women stand up and fight to become men’s equal. Now, in a land that is equally divided up between man and woman, the battle of the sexes is on! Who’s going to win? But more importantly…what’s the name of the game?",
     "descriptionPt": "",
-    "chaptersCount": 213,
+    "chaptersCount": 215,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -249557,7 +249557,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Estou Sendo Criada por Vilões, um manhwa em português.",
     "descriptionPt": "Leia Estou Sendo Criada por Vilões, um manhwa em português.",
-    "chaptersCount": 147,
+    "chaptersCount": 149,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249932,7 +249932,7 @@ let MANGA_DATA = [
     ],
     "description": "Minty Fresh (Uncensored) Raised in darkness, Ji-an learned early that giving up was the only way to stay alive. Then Hwan arrives: bright, irresistible, and dangerously easy to love. Their relationship feels inevitable, intoxicating, and fleetingly perfect. Until everything falls apart when Hwan takes Ji-an’s place in a hit-and-run accident. Desperate, Ji-an rushes to the hospital, only to be met with unfamiliar eyes and a cruel voice. “You smell like an omega. It’s disgusting.”",
     "descriptionPt": "",
-    "chaptersCount": 33,
+    "chaptersCount": 37,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -251886,7 +251886,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Acho Que Transmigrei Para Algum Lugar, um manhwa em português.",
     "descriptionPt": "Leia Acho Que Transmigrei Para Algum Lugar, um manhwa em português.",
-    "chaptersCount": 99,
+    "chaptersCount": 100,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252840,7 +252840,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Accidental Love, um manhwa em português.",
     "descriptionPt": "Leia Accidental Love, um manhwa em português.",
-    "chaptersCount": 104,
+    "chaptersCount": 105,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259378,7 +259378,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Uma Princesa que Lê a Sorte, um manhwa em português.",
     "descriptionPt": "Leia Uma Princesa que Lê a Sorte, um manhwa em português.",
-    "chaptersCount": 169,
+    "chaptersCount": 170,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -267997,7 +267997,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Classmate, um manhwa em português.",
     "descriptionPt": "Leia Classmate, um manhwa em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269205,7 +269205,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Nerd da Casa ao Lado é o Mestre da Torre Mágica?!, um manhwa em português.",
     "descriptionPt": "Leia O Nerd da Casa ao Lado é o Mestre da Torre Mágica?!, um manhwa em português.",
-    "chaptersCount": 4,
+    "chaptersCount": 5,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269972,7 +269972,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ressuscitei meu Marido por Acidente., um manhwa em português.",
     "descriptionPt": "Leia Ressuscitei meu Marido por Acidente., um manhwa em português.",
-    "chaptersCount": 4,
+    "chaptersCount": 5,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273528,7 +273528,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Mordomo Mais Forte Da Família Dos Vilões, um manhwa em português.",
     "descriptionPt": "Leia O Mordomo Mais Forte Da Família Dos Vilões, um manhwa em português.",
-    "chaptersCount": 5,
+    "chaptersCount": 6,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -274360,6 +274360,31 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "tankouhentai-nakadashi-100-nin-dekiru-kana",
+    "slug": "nakadashi-100-nin-dekiru-kana",
+    "title": "Nakadashi 100-nin Dekiru Kana",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/10/Nakadashi-100-nin-Dekiru-Kana-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/10/Nakadashi-100-nin-Dekiru-Kana-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "completed",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Harém",
+      "Traição",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 8,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

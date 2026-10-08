@@ -96079,7 +96079,7 @@ let MANGA_DATA = [
     ],
     "description": "Infinite Mage Abandoned at birth in a stable, Shirone was raised by commoners. As a child, he had gifted Insight and quickly learned how to read on his own. After visiting the city, he finally saw the workings of magic, which he was immensely curious about. This inspired Shirone’s dream of becoming a mage. However, the city was a place with a cruel and rigid social hierarchy. Here, Shirone discovered the hidden side of the world before he even reached adulthood. Will Shirone be able to achieve his dream of becoming a mage in this twisted world?",
     "descriptionPt": "",
-    "chaptersCount": 183,
+    "chaptersCount": 186,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -98208,7 +98208,7 @@ let MANGA_DATA = [
     ],
     "description": "Ripe for the Picking (SREEESS) (Uncensored) Summer, 1994. Seojin is hiding from debt collectors in the middle of nowhere, facing a fate worse than bankruptcy: manual labor. When a sudden stomach ache leads to a messy disaster in a neighbor’s field, Seojin is caught red-handed by the hulking owner, Cheol. Cheol helps Seojin handle his spicy peppers by day, and Seojin returns the favor by night. Seojin thinks he’s just using the local hunk for “farm assistance,” but this country boy’s heat might be too much to handle!",
     "descriptionPt": "",
-    "chaptersCount": 34,
+    "chaptersCount": 35,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -102322,7 +102322,7 @@ let MANGA_DATA = [
     ],
     "description": "Double Play (MURATA Kouji) Having forgotten his keys, Tamao Hiroi a high-school student, returns home using the back entrance and is surprised to find a stranger in his bed… Soon he realizes this is no stranger but Ran Homura, one year younger, softball ace and one of the most beautiful girls at school! Hiroi watches her masturbating on his bed and instinctively does the same peeking through the glass door. He is soon found out though and a strange ‘master/slave’ relationship begins!",
     "descriptionPt": "",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207464,7 +207464,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia NO HOME, um manhwa em português.",
     "descriptionPt": "Leia NO HOME, um manhwa em português.",
-    "chaptersCount": 73,
+    "chaptersCount": 74,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207653,7 +207653,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Nano Máquina, um manhwa em português.",
     "descriptionPt": "Leia Nano Máquina, um manhwa em português.",
-    "chaptersCount": 332,
+    "chaptersCount": 333,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230137,7 +230137,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O restaurante do arquimago, um manhwa em português.",
     "descriptionPt": "Leia O restaurante do arquimago, um manhwa em português.",
-    "chaptersCount": 153,
+    "chaptersCount": 154,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232774,7 +232774,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Ranker Inigualável, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Ranker Inigualável, um manhwa em português.",
-    "chaptersCount": 44,
+    "chaptersCount": 45,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250761,7 +250761,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Grande Colheita do Lorde das Trevas, um manhwa em português.",
     "descriptionPt": "Leia A Grande Colheita do Lorde das Trevas, um manhwa em português.",
-    "chaptersCount": 86,
+    "chaptersCount": 87,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253421,7 +253421,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Diário de Sobrevivência de um Mordomo no Castelo do Duque, um manhwa em português.",
     "descriptionPt": "Leia O Diário de Sobrevivência de um Mordomo no Castelo do Duque, um manhwa em português.",
-    "chaptersCount": 49,
+    "chaptersCount": 50,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254579,7 +254579,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-tornei-um-mago-de-fantasia-medieval online em português.",
     "descriptionPt": "Leia me-tornei-um-mago-de-fantasia-medieval online em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 42,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257923,7 +257923,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vilã Maldita Retorna, um manhwa em português.",
     "descriptionPt": "Leia A Vilã Maldita Retorna, um manhwa em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 24,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258053,7 +258053,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia genio-regressado-criador-de-itens-mitico online em português.",
     "descriptionPt": "Leia genio-regressado-criador-de-itens-mitico online em português.",
-    "chaptersCount": 56,
+    "chaptersCount": 57,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259351,7 +259351,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia tropa-de-elite-fantastica online em português.",
     "descriptionPt": "Leia tropa-de-elite-fantastica online em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 42,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266397,7 +266397,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sobrevivendo no Jogo Como um Bárbaro, um manhwa em português.",
     "descriptionPt": "Leia Sobrevivendo no Jogo Como um Bárbaro, um manhwa em português.",
-    "chaptersCount": 160,
+    "chaptersCount": 161,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273091,7 +273091,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Suavizando o jeito gangster do protagonista masculino, um manhwa em português.",
     "descriptionPt": "Leia Suavizando o jeito gangster do protagonista masculino, um manhwa em português.",
-    "chaptersCount": 46,
+    "chaptersCount": 47,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

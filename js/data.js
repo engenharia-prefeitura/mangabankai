@@ -93933,7 +93933,7 @@ let MANGA_DATA = [
     ],
     "description": "The Light I Give You (Uncensored) Once a promising athlete, Yoonbin is ready to give up after repeated injuries shatter his dreams. At his lowest point, a mysterious man with a tiger tattoo gives him the strength to stand again. Years later, after retiring as a gold medalist and becoming a taekwondo instructor, Yoonbin unexpectedly reunites with Kwon Young, an underworld boss and the man who saved his life. Haunted by his past, Young pushes Yoonbin away, convinced he brings only harm. But Yoonbin refuses to let go, because now it is his turn to become Young’s light.",
     "descriptionPt": "",
-    "chaptersCount": 44,
+    "chaptersCount": 46,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -98297,7 +98297,7 @@ let MANGA_DATA = [
     ],
     "description": "Pampered Prisoners: Elves Among Orcs The elves and orcs have put down their weapons. It is time to call an end to this war. There’s just the matter of dealing with the POWs. There’s the nice one, deputy commander Lena. The grumpy one, commander Isihr. As well as the elven privates. All of them are under the care of the orc guards Logahn, Bark, and Mog. These elven prisoners have to be treated well as the ceasefire negotiations between both sides are still ongoing. But will they end up testing the limits of the orcs’ patience? Every day is a new adventure in “Pampered Prisoners: Elves Among Orc",
     "descriptionPt": "",
-    "chaptersCount": 248,
+    "chaptersCount": 252,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207861,7 +207861,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Me Escolhe!, um manhwa em português.",
     "descriptionPt": "Leia Me Escolhe!, um manhwa em português.",
-    "chaptersCount": 221,
+    "chaptersCount": 222,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207939,7 +207939,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Herdeiro Monstruoso da Família Chaebol, um manhwa em português.",
     "descriptionPt": "Leia O Herdeiro Monstruoso da Família Chaebol, um manhwa em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207993,7 +207993,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Veletric, um manhwa em português.",
     "descriptionPt": "Leia Veletric, um manhwa em português.",
-    "chaptersCount": 397,
+    "chaptersCount": 398,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -208068,7 +208068,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Retorno do Cavaleiro da Morte de Nível Apocalíptico, um manhwa em português.",
     "descriptionPt": "Leia Retorno do Cavaleiro da Morte de Nível Apocalíptico, um manhwa em português.",
-    "chaptersCount": 88,
+    "chaptersCount": 89,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231460,7 +231460,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Ranker, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Ranker, um manhwa em português.",
-    "chaptersCount": 264,
+    "chaptersCount": 265,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232281,7 +232281,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Despertar em Tempo Integral, um manhua em português.",
     "descriptionPt": "Leia Despertar em Tempo Integral, um manhua em português.",
-    "chaptersCount": 162,
+    "chaptersCount": 163,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250043,7 +250043,7 @@ let MANGA_DATA = [
     ],
     "description": "Lay Your Hand in Mine (Uncensored) Do Wongyeol, an illegitimate son desperate to end his half-brother’s tyranny, enlists the help of a mysterious butcher named Gong Hyeon. Known for his uncanny archery skills, Gong Hyeon becomes the lethal weapon in Wongyeol’s plan for revenge. However, as they navigate a world where betrayal is the only currency, a forbidden heat begins to stir between the master and his assassin. Their path toward vengeance is paved with a misery neither can escape, leaving them to wonder if their bond is a source of salvation or their ultimate undoing.",
     "descriptionPt": "",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -250317,7 +250317,7 @@ let MANGA_DATA = [
     ],
     "description": "A Blessed Night (Uncensored) Kim Eunchong is the definition of a devoted church boy – in fact, his name literally means “Blessing.” But one heartbroken, drunken night of regret shatters his pristine reputation. He wakes up with a massive hangover and a scandalous secret – he slept with a man. Even worse, the mystery lover is one of his two best friends from church: Ju Hyeonu or Shin Ian. Eunchong prays that he can bury his mistake forever…but then a blackmail text featuring explicit photos of that sinful night hits his phone. One of his best friends has now turned into his biggest enemy, and r",
     "descriptionPt": "",
-    "chaptersCount": 24,
+    "chaptersCount": 28,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -250653,7 +250653,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Segundo Eunuco Recupera Sua Masculinidade, um manhwa em português.",
     "descriptionPt": "Leia O Segundo Eunuco Recupera Sua Masculinidade, um manhwa em português.",
-    "chaptersCount": 108,
+    "chaptersCount": 109,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250707,7 +250707,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Lendário Cavaleiro da Lança, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Lendário Cavaleiro da Lança, um manhwa em português.",
-    "chaptersCount": 217,
+    "chaptersCount": 218,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251215,7 +251215,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Regressor da Família Caída, um manhwa em português.",
     "descriptionPt": "Leia O Regressor da Família Caída, um manhwa em português.",
-    "chaptersCount": 153,
+    "chaptersCount": 154,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251321,7 +251321,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Neste Mundo Não Existem Guerreiros Maus, um manhwa em português.",
     "descriptionPt": "Leia Neste Mundo Não Existem Guerreiros Maus, um manhwa em português.",
-    "chaptersCount": 90,
+    "chaptersCount": 91,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251486,7 +251486,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Sou o Vilão Predestinado, um manhua em português.",
     "descriptionPt": "Leia Eu Sou o Vilão Predestinado, um manhua em português.",
-    "chaptersCount": 361,
+    "chaptersCount": 362,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252684,7 +252684,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guarda Malandro em uma Fantasia Medieval, um manhwa em português.",
     "descriptionPt": "Leia Guarda Malandro em uma Fantasia Medieval, um manhwa em português.",
-    "chaptersCount": 51,
+    "chaptersCount": 52,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252711,7 +252711,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mestre Espadachim Criado Pelas Estrelas, um manhwa em português.",
     "descriptionPt": "Leia Mestre Espadachim Criado Pelas Estrelas, um manhwa em português.",
-    "chaptersCount": 140,
+    "chaptersCount": 141,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252736,7 +252736,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Melhor Homem no Comando, um manhwa em português.",
     "descriptionPt": "Leia O Melhor Homem no Comando, um manhwa em português.",
-    "chaptersCount": 208,
+    "chaptersCount": 209,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252761,7 +252761,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Regressando como o Bastardo do Clã da Espada, um manhwa em português.",
     "descriptionPt": "Leia Regressando como o Bastardo do Clã da Espada, um manhwa em português.",
-    "chaptersCount": 114,
+    "chaptersCount": 115,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253077,7 +253077,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Knight King Who Returned with a God, um manhwa em português.",
     "descriptionPt": "Leia The Knight King Who Returned with a God, um manhwa em português.",
-    "chaptersCount": 184,
+    "chaptersCount": 185,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253105,7 +253105,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Estilo de Vida de um Imortal, um manhwa em português.",
     "descriptionPt": "Leia O Estilo de Vida de um Imortal, um manhwa em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 33,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254323,7 +254323,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Filho Adotivo em um Mundo de Supremacia de Linhagem, um mangá em português.",
     "descriptionPt": "Leia O Retorno do Filho Adotivo em um Mundo de Supremacia de Linhagem, um mangá em português.",
-    "chaptersCount": 55,
+    "chaptersCount": 56,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254349,7 +254349,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Demônio Supremo do Veneno, um manhwa em português.",
     "descriptionPt": "Leia O Demônio Supremo do Veneno, um manhwa em português.",
-    "chaptersCount": 36,
+    "chaptersCount": 37,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254667,7 +254667,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia streaming-da-estrategia-oculta-do-retornado online em português.",
     "descriptionPt": "Leia streaming-da-estrategia-oculta-do-retornado online em português.",
-    "chaptersCount": 48,
+    "chaptersCount": 49,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258053,7 +258053,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia genio-regressado-criador-de-itens-mitico online em português.",
     "descriptionPt": "Leia genio-regressado-criador-de-itens-mitico online em português.",
-    "chaptersCount": 55,
+    "chaptersCount": 56,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258834,7 +258834,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Que se dane ser o Herdeiro, Eu vou Curar, um manhwa em português.",
     "descriptionPt": "Leia Que se dane ser o Herdeiro, Eu vou Curar, um manhwa em português.",
-    "chaptersCount": 37,
+    "chaptersCount": 38,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259351,7 +259351,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia tropa-de-elite-fantastica online em português.",
     "descriptionPt": "Leia tropa-de-elite-fantastica online em português.",
-    "chaptersCount": 36,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260583,7 +260583,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-casei-com-o-dragao-que-matei online em português.",
     "descriptionPt": "Leia me-casei-com-o-dragao-que-matei online em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261997,7 +261997,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Trascendência Devido a um Erro do Sistema, um manhwa em português.",
     "descriptionPt": "Leia Trascendência Devido a um Erro do Sistema, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262799,7 +262799,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Todos os Meus Avatares são Magnatas, um manhwa em português.",
     "descriptionPt": "Leia Todos os Meus Avatares são Magnatas, um manhwa em português.",
-    "chaptersCount": 99,
+    "chaptersCount": 100,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263918,7 +263918,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Santo da Espada Reencarnou em uma Família Nobre de Magos, um mangá em português.",
     "descriptionPt": "Leia O Santo da Espada Reencarnou em uma Família Nobre de Magos, um mangá em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265183,7 +265183,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Meu Caminho Simulado Rumo à Imortalidade, um manhua em português.",
     "descriptionPt": "Leia Meu Caminho Simulado Rumo à Imortalidade, um manhua em português.",
-    "chaptersCount": 82,
+    "chaptersCount": 85,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265851,7 +265851,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Por que você não deveria entrar em uma casa mal-assombrada, um manhwa em português.",
     "descriptionPt": "Leia Por que você não deveria entrar em uma casa mal-assombrada, um manhwa em português.",
-    "chaptersCount": 11,
+    "chaptersCount": 13,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273635,7 +273635,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Meu Encontro de Sorte do Jogo se Transformou em Realidade, um manhwa em português.",
     "descriptionPt": "Leia Meu Encontro de Sorte do Jogo se Transformou em Realidade, um manhwa em português.",
-    "chaptersCount": 98,
+    "chaptersCount": 103,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -274336,6 +274336,30 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "i-banged-all-my-classmates-after-graduation",
+    "slug": "i-banged-all-my-classmates-after-graduation",
+    "title": "I Banged All My Classmates After Graduation",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2026/10/7730d7c9f1298b4ba7fc977aa87d34ce19db26591109e1a66f035483393feaee-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2026/10/7730d7c9f1298b4ba7fc977aa87d34ce19db26591109e1a66f035483393feaee-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult"
+    ],
+    "description": "“Does it feel good… having me suck you with my mouth that’s worth more than your entire body?” I was the only commoner at an elite aristocratic high school",
+    "descriptionEn": "“Does it feel good… having me suck you with my mouth that’s worth more than your entire body?” I was the only commoner at an elite aristocratic high school",
+    "chaptersCount": 18,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

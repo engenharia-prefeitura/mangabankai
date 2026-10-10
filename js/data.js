@@ -95279,7 +95279,7 @@ let MANGA_DATA = [
     ],
     "description": "Uzaki-chan Wants to Hang Out! Shinichi Sakurai is a fit and grumpy-faced 3rd year college student who just wants to spend his free time alone. However, his underclassman from his high school days, the short, energetic, and very buxom 2nd year student Hana Uzaki simply will not allow that, constantly pestering him and teasing him until Shinichi is forced to hang out with her. Slowly, but surely, he gradually starts enjoying his time with her to the point that, even with all their bickering, they’re almost always seen together…",
     "descriptionPt": "",
-    "chaptersCount": 165,
+    "chaptersCount": 169,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

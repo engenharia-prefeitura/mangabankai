@@ -92234,7 +92234,7 @@ let MANGA_DATA = [
     ],
     "description": "My Girlfriend’s Corruption (Official) “I should never have looked at my girlfriend’s phone that day.” From a friend, I hear a strange rumor about my girlfriend, Olivia. “They said Olivia walked out of a motel. And… she wasn’t alone. She was with another guy.” I tell myself it must have been a mistake and try to brush it off, but the doubt takes root in the back of my mind. For the first time, and the last, I check my girlfriend’s phone. “What are you doing? Take it off. Everything. Your bra and panties too.”",
     "descriptionPt": "",
-    "chaptersCount": 24,
+    "chaptersCount": 28,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -254428,7 +254428,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ser Uma Vilã Não É Muito Melhor?, um manhwa em português.",
     "descriptionPt": "Leia Ser Uma Vilã Não É Muito Melhor?, um manhwa em português.",
-    "chaptersCount": 105,
+    "chaptersCount": 108,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256391,7 +256391,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
     "descriptionPt": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
-    "chaptersCount": 69,
+    "chaptersCount": 70,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257221,7 +257221,7 @@ let MANGA_DATA = [
     ],
     "description": "XX Dungeon After defeating the Demon King, a band of heroes discovers an uncharted dungeon—one unlike any they’ve seen, hiding secrets beyond their imagination.",
     "descriptionPt": "",
-    "chaptersCount": 44,
+    "chaptersCount": 49,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -261391,7 +261391,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-segredo-do-senior-perfeito online em português.",
     "descriptionPt": "Leia o-segredo-do-senior-perfeito online em português.",
-    "chaptersCount": 26,
+    "chaptersCount": 27,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265462,7 +265462,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vilã Está Com Sorte Ultimamente, um manhwa em português.",
     "descriptionPt": "Leia A Vilã Está Com Sorte Ultimamente, um manhwa em português.",
-    "chaptersCount": 62,
+    "chaptersCount": 63,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -270001,7 +270001,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Asha nas Fronteiras, um manhwa em português.",
     "descriptionPt": "Leia Asha nas Fronteiras, um manhwa em português.",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -272245,7 +272245,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sobre as Coisas que Ainda Não Aconteceram, um manhwa em português.",
     "descriptionPt": "Leia Sobre as Coisas que Ainda Não Aconteceram, um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 7,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273528,7 +273528,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Mordomo Mais Forte Da Família Dos Vilões, um manhwa em português.",
     "descriptionPt": "Leia O Mordomo Mais Forte Da Família Dos Vilões, um manhwa em português.",
-    "chaptersCount": 7,
+    "chaptersCount": 8,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

@@ -90904,7 +90904,7 @@ let MANGA_DATA = [
     ],
     "description": "Virtual into Reality (Official) If only I could live like in an eroge even in real life… that would be fun. After finishing his military service, Jason Lee went back to enjoying his usual eroge. But one day, the powers from his games suddenly appeared in reality?! “With this ability, I can make anyone do whatever I want.”",
     "descriptionPt": "",
-    "chaptersCount": 52,
+    "chaptersCount": 58,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -98354,7 +98354,7 @@ let MANGA_DATA = [
     ],
     "description": "One-Day BDSM Workshop (Uncensored) After two years trapped in the dull rhythm of daily life, Heesu has grown numb—disconnected from herself and everything around her. But when she stumbles across a cryptic online ad offering a one-day BDSM roleplay experience, something stirs. Torn between fear and curiosity, she agrees to surrender control—if only for a day. What begins as a fleeting escape soon becomes a raw plunge into desire, power, and vulnerability. As boundaries blur, Heesu must confront not just the limits of pleasure, but the aching emptiness she’s been running from.",
     "descriptionPt": "",
-    "chaptersCount": 69,
+    "chaptersCount": 70,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -231722,7 +231722,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Preciso Ser Um Grande Vilão, um manhua em português.",
     "descriptionPt": "Leia Eu Preciso Ser Um Grande Vilão, um manhua em português.",
-    "chaptersCount": 9,
+    "chaptersCount": 10,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252814,7 +252814,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Passarinho do Duque Sombrio, um manhwa em português.",
     "descriptionPt": "Leia O Passarinho do Duque Sombrio, um manhwa em português.",
-    "chaptersCount": 53,
+    "chaptersCount": 55,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253395,7 +253395,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Archduke’s Gorgeous Wedding Was a Fraud, um manhwa em português.",
     "descriptionPt": "Leia The Archduke’s Gorgeous Wedding Was a Fraud, um manhwa em português.",
-    "chaptersCount": 101,
+    "chaptersCount": 115,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256391,7 +256391,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
     "descriptionPt": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
-    "chaptersCount": 67,
+    "chaptersCount": 69,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257377,7 +257377,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia 0 e 1, um manhwa em português.",
     "descriptionPt": "Leia 0 e 1, um manhwa em português.",
-    "chaptersCount": 7,
+    "chaptersCount": 8,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261391,7 +261391,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-segredo-do-senior-perfeito online em português.",
     "descriptionPt": "Leia o-segredo-do-senior-perfeito online em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266036,7 +266036,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Princesa Marcou O Traidor, um manhwa em português.",
     "descriptionPt": "Leia A Princesa Marcou O Traidor, um manhwa em português.",
-    "chaptersCount": 126,
+    "chaptersCount": 127,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269848,7 +269848,7 @@ let MANGA_DATA = [
     ],
     "description": "Lady in The Video The lady in the video is the woman living next door?Should I keep this a secret, or…",
     "descriptionPt": "",
-    "chaptersCount": 5,
+    "chaptersCount": 6,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -273504,7 +273504,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Monster Lady and the Paladin, um manhwa em português.",
     "descriptionPt": "Leia The Monster Lady and the Paladin, um manhwa em português.",
-    "chaptersCount": 60,
+    "chaptersCount": 61,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

@@ -92581,7 +92581,7 @@ let MANGA_DATA = [
     ],
     "description": "Like father, Like son (Bokko) (Official) “You must have a big dick just like your dad. Show me!” Cole is at risk of getting his pants pulled down by girls curious to see if his dick is just as big as his dad, who holds a Guinness record for having the biggest dick in Korea.",
     "descriptionPt": "",
-    "chaptersCount": 33,
+    "chaptersCount": 36,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -93422,7 +93422,7 @@ let MANGA_DATA = [
     ],
     "description": "Buy 2, get 1 free (Official) Buy 2, get 1 free! And love as a bonus.",
     "descriptionPt": "",
-    "chaptersCount": 31,
+    "chaptersCount": 37,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -95188,7 +95188,7 @@ let MANGA_DATA = [
     ],
     "description": "Accidental Baby (Uncensored) Doh Ihyeon is the ultimate corporate workaholic, but he hides two secrets: he’s a somewhat defective omega and he suffers from prosopagnosia—the inability to recognize faces. After a blurry, drunken one-night stand leads to an unexpected pregnancy, Ihyeon decides to keep the baby and brave single parenthood in secret. But his carefully constructed walls start to crumble when his superior, Seo Jeong-un, begins a relentless pursuit. Jeong-un is charming, persistent, and strangely familiar, but to a man who can’t recognize a face, his flirtations are just another work",
     "descriptionPt": "",
-    "chaptersCount": 29,
+    "chaptersCount": 32,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -254428,7 +254428,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ser Uma Vilã Não É Muito Melhor?, um manhwa em português.",
     "descriptionPt": "Leia Ser Uma Vilã Não É Muito Melhor?, um manhwa em português.",
-    "chaptersCount": 99,
+    "chaptersCount": 105,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262927,7 +262927,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Não há lugar para falsificações, um manhwa em português.",
     "descriptionPt": "Leia Não há lugar para falsificações, um manhwa em português.",
-    "chaptersCount": 122,
+    "chaptersCount": 123,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265561,7 +265561,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia travessuras-com-minha-esposa online em português.",
     "descriptionPt": "Leia travessuras-com-minha-esposa online em português.",
-    "chaptersCount": 10,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269972,7 +269972,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ressuscitei meu Marido por Acidente., um manhwa em português.",
     "descriptionPt": "Leia Ressuscitei meu Marido por Acidente., um manhwa em português.",
-    "chaptersCount": 7,
+    "chaptersCount": 8,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -275018,6 +275018,31 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "tankouhentai-ketsusenryaku",
+    "slug": "ketsusenryaku",
+    "title": "Ketsusenryaku",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/10/Ketsusenryaku-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/10/Ketsusenryaku-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Ariga Tou",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Bissexual",
+      "Harém",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 2,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

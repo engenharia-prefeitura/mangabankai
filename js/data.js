@@ -108038,7 +108038,7 @@ let MANGA_DATA = [
     ],
     "description": "Dawning Light (Uncensored) In the near future, a small number of Alphas known as the Awakened are born with extraordinary powers. Diego should have been one of the strongest, but every time he uses his ability, his body betrays him with violent seizures. When he’s introduced to Shane, a quiet scientist who offers to create a stabilizer, Diego begins to feel an inexplicable pull toward him. As buried memories resurface, Diego starts to wonder if their meeting was fate, or the beginning of something that transcends time itself.",
     "descriptionPt": "",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -134157,7 +134157,7 @@ let MANGA_DATA = [
     "altTitle": "",
     "cover": "https://cdn.mangadistrict.com/thumbnail/living-with-my-ex-wife-official.webp",
     "banner": "https://cdn.mangadistrict.com/thumbnail/living-with-my-ex-wife-official.webp",
-    "author": "Dae-Pal LEE",
+    "author": "Bean Sister",
     "artist": "Moon-Geun JEONG",
     "status": "ongoing",
     "year": 2020,
@@ -253370,7 +253370,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Senhorita Pendleton, um manhwa em português.",
     "descriptionPt": "Leia Senhorita Pendleton, um manhwa em português.",
-    "chaptersCount": 63,
+    "chaptersCount": 65,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262099,7 +262099,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu me Casei com o Duque Fera, um manhwa em português.",
     "descriptionPt": "Leia Eu me Casei com o Duque Fera, um manhwa em português.",
-    "chaptersCount": 87,
+    "chaptersCount": 90,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262175,7 +262175,7 @@ let MANGA_DATA = [
     ],
     "description": "Upon My Sword Slaying the infamous monster Hilkiya was supposed to be a triumph. Instead, it leaves the proud commander of the Order of Floress, Leo, bound by a cruel curse: a body consumed by an insatiable hunger that only the touch of another can soothe. Sheer willpower should be enough to overcome it, but mind and body are no longer aligned. As primal instinct takes over, the ultimate warrior is left hopelessly craving someone to surrender to every single night.",
     "descriptionPt": "",
-    "chaptersCount": 21,
+    "chaptersCount": 30,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -269972,7 +269972,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ressuscitei meu Marido por Acidente., um manhwa em português.",
     "descriptionPt": "Leia Ressuscitei meu Marido por Acidente., um manhwa em português.",
-    "chaptersCount": 8,
+    "chaptersCount": 9,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273116,7 +273116,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Para Bellumia, um manhwa em português.",
     "descriptionPt": "Leia Para Bellumia, um manhwa em português.",
-    "chaptersCount": 3,
+    "chaptersCount": 6,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273738,7 +273738,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Extra Quer Escapar Do Protagonista Masculino Obsessivo, um manhwa em português.",
     "descriptionPt": "Leia A Extra Quer Escapar Do Protagonista Masculino Obsessivo, um manhwa em português.",
-    "chaptersCount": 1,
+    "chaptersCount": 2,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -274797,7 +274797,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Dama Lixo Que Roubou a Primeira Noite do Duque, um manhwa em português.",
     "descriptionPt": "Leia A Dama Lixo Que Roubou a Primeira Noite do Duque, um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 3,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -275208,6 +275208,58 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "alerta-de-tsunami",
+    "slug": "alerta-de-tsunami",
+    "title": "Alerta de Tsunami",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/alerta-de-tsunami/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/alerta-de-tsunami/cover-md.webp",
+    "author": "That Thing",
+    "artist": "That Thing",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Comédia",
+      "Romance",
+      "Josei",
+      "Manhwa"
+    ],
+    "description": "Leia Alerta de Tsunami, um manhwa em português.",
+    "descriptionPt": "Leia Alerta de Tsunami, um manhwa em português.",
+    "chaptersCount": 3,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "primeiro-os-filhos-depois-o-amor",
+    "slug": "primeiro-os-filhos-depois-o-amor",
+    "title": "Primeiro os Filhos, Depois o Amor",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/primeiro-os-filhos-depois-o-amor/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/primeiro-os-filhos-depois-o-amor/cover-md.webp",
+    "author": "Choi Yeon",
+    "artist": "Choi Yeon",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Comédia",
+      "Romance",
+      "Josei",
+      "Slice of Life",
+      "Manhwa"
+    ],
+    "description": "Leia Primeiro os Filhos, Depois o Amor, um manhwa em português.",
+    "descriptionPt": "Leia Primeiro os Filhos, Depois o Amor, um manhwa em português.",
+    "chaptersCount": 3,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

@@ -94173,7 +94173,7 @@ let MANGA_DATA = [
     ],
     "description": "Near and Dear (Uncensored) Yoo Haeyoung was a child star with a bright future, but now, at 29, he just drifts through life. However, everything changes when the famous actor Jung Yeowoon asks Haeyoung to be his manager and even suggests that they live together! Though Haeyoung has spent his life avoiding the spotlight due to his past successes, he accepts the job and things seem to go well until he catches Yeowoon touching himself. Now, Haeyoung can’t get Yeowoon off his mind, and it doesn’t help that they’re together all day and night long.",
     "descriptionPt": "",
-    "chaptersCount": 57,
+    "chaptersCount": 58,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -269972,7 +269972,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ressuscitei meu Marido por Acidente., um manhwa em português.",
     "descriptionPt": "Leia Ressuscitei meu Marido por Acidente., um manhwa em português.",
-    "chaptersCount": 9,
+    "chaptersCount": 10,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -275284,6 +275284,80 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "roubando-o-coracao-da-ladra-fantasma",
+    "slug": "roubando-o-coracao-da-ladra-fantasma",
+    "title": "Roubando o Coração da Ladra Fantasma",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/roubando-o-coracao-da-ladra-fantasma/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/roubando-o-coracao-da-ladra-fantasma/cover-md.webp",
+    "author": "Lee Soo-Hyun",
+    "artist": "Lee Soo-Hyun",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Manhwa"
+    ],
+    "description": "Leia Roubando o Coração da Ladra Fantasma, um manhwa em português.",
+    "descriptionPt": "Leia Roubando o Coração da Ladra Fantasma, um manhwa em português.",
+    "chaptersCount": 9,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "escondendo-minha-identidade-do-meu-marido",
+    "slug": "escondendo-minha-identidade-do-meu-marido",
+    "title": "Escondendo Minha Identidade do Meu Marido",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/escondendo-minha-identidade-do-meu-marido/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/escondendo-minha-identidade-do-meu-marido/cover-md.webp",
+    "author": "Cha So Hee",
+    "artist": "Cha So Hee",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Manhwa"
+    ],
+    "description": "Leia Escondendo Minha Identidade do Meu Marido, um manhwa em português.",
+    "descriptionPt": "Leia Escondendo Minha Identidade do Meu Marido, um manhwa em português.",
+    "chaptersCount": 1,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "tankouhentai-renshuu-nesshin-na-rikubu-kanojo-ga-shuuchi-shidou-ni-kuppuku-suru-made",
+    "slug": "renshuu-nesshin-na-rikubu-kanojo-ga-shuuchi-shidou-ni-kuppuku-suru-made",
+    "title": "Renshuu Nesshin na Rikubu Kanojo ga Shuuchi Shidou ni Kuppuku Suru made",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/10/Kanojo-ga-Shuuchi-Shidou-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/10/Kanojo-ga-Shuuchi-Shidou-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Uni18",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Traição",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 1,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

@@ -97691,7 +97691,7 @@ let MANGA_DATA = [
     ],
     "description": "Boo-tiful Nightmare (Uncensored) Kim Gitae looks like your typical college student—aside from his killer looks and strangely eerie vibe. But there’s one thing that sets him apart: he can see ghosts. Spirits swarm him day and night, desperate to possess his body, and the only way he can fend them off… is by jerking off every night. Yeah, it’s as exhausting as it sounds. All Gitae wants is a normal life—but things take a wild turn when a naked ghost named Lee Serin suddenly appears with an offer he can’t ignore. If he agrees to sleep with her, she’ll use her powers to protect him from other spir",
     "descriptionPt": "",
-    "chaptersCount": 54,
+    "chaptersCount": 58,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -99910,7 +99910,7 @@ let MANGA_DATA = [
     ],
     "description": "Fatal Lessons in this Pandemic (Uncensored) Jason, who’s shy when it comes to girls, has to tutor a curious little girl. Little does he know that he’ll be teaching her some other things too.",
     "descriptionPt": "",
-    "chaptersCount": 24,
+    "chaptersCount": 31,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -231435,7 +231435,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O sétimo príncipe quer escapar, um manhwa em português.",
     "descriptionPt": "Leia O sétimo príncipe quer escapar, um manhwa em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231538,7 +231538,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Mago Negro Retorna Após 66666 Anos, um manhwa em português.",
     "descriptionPt": "Leia O Mago Negro Retorna Após 66666 Anos, um manhwa em português.",
-    "chaptersCount": 200,
+    "chaptersCount": 201,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250679,7 +250679,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Crônicas do Soberano Preguiçoso, um manhwa em português.",
     "descriptionPt": "Leia Crônicas do Soberano Preguiçoso, um manhwa em português.",
-    "chaptersCount": 67,
+    "chaptersCount": 68,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250707,7 +250707,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Lendário Cavaleiro da Lança, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Lendário Cavaleiro da Lança, um manhwa em português.",
-    "chaptersCount": 218,
+    "chaptersCount": 219,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251702,7 +251702,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Evolução Infinita: Começando do Zero, um manhua em português.",
     "descriptionPt": "Leia Evolução Infinita: Começando do Zero, um manhua em português.",
-    "chaptersCount": 132,
+    "chaptersCount": 134,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257923,7 +257923,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vilã Maldita Retorna, um manhwa em português.",
     "descriptionPt": "Leia A Vilã Maldita Retorna, um manhwa em português.",
-    "chaptersCount": 26,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261391,7 +261391,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-segredo-do-senior-perfeito online em português.",
     "descriptionPt": "Leia o-segredo-do-senior-perfeito online em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261971,7 +261971,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Por favor não morra!, um manhwa em português.",
     "descriptionPt": "Leia Por favor não morra!, um manhwa em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265539,7 +265539,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Princesa que Mantém seu Fã-clube em Segredo, um manhwa em português.",
     "descriptionPt": "Leia A Princesa que Mantém seu Fã-clube em Segredo, um manhwa em português.",
-    "chaptersCount": 112,
+    "chaptersCount": 113,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -272324,7 +272324,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Hey, Little Duke Only Trust Your Sister!, um manhwa em português.",
     "descriptionPt": "Leia Hey, Little Duke Only Trust Your Sister!, um manhwa em português.",
-    "chaptersCount": 40,
+    "chaptersCount": 45,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

@@ -99943,7 +99943,7 @@ let MANGA_DATA = [
     ],
     "description": "Dating After Work (Uncensored) Adam’s fake relationship with his boss was supposed to be mutually beneficial, so why is he so stressed out?",
     "descriptionPt": "",
-    "chaptersCount": 68,
+    "chaptersCount": 77,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207177,7 +207177,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Mansão Que aguarda A Primavera, um manhwa em português.",
     "descriptionPt": "Leia A Mansão Que aguarda A Primavera, um manhwa em português.",
-    "chaptersCount": 37,
+    "chaptersCount": 38,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207205,7 +207205,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Dama Bebê Controla O Mundo Com Dinheiro, um manhwa em português.",
     "descriptionPt": "Leia A Dama Bebê Controla O Mundo Com Dinheiro, um manhwa em português.",
-    "chaptersCount": 135,
+    "chaptersCount": 136,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232149,7 +232149,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mudarei meu Destino Através de um Casamento por Conveniência, um manhwa em português.",
     "descriptionPt": "Leia Mudarei meu Destino Através de um Casamento por Conveniência, um manhwa em português.",
-    "chaptersCount": 28,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252814,7 +252814,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Passarinho do Duque Sombrio, um manhwa em português.",
     "descriptionPt": "Leia O Passarinho do Duque Sombrio, um manhwa em português.",
-    "chaptersCount": 55,
+    "chaptersCount": 57,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256234,7 +256234,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Protagonista Masculino Está Obcecado Pela Minha Saúde, um manhwa em português.",
     "descriptionPt": "Leia O Protagonista Masculino Está Obcecado Pela Minha Saúde, um manhwa em português.",
-    "chaptersCount": 65,
+    "chaptersCount": 66,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257272,7 +257272,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Dépaysement, um manhwa em português.",
     "descriptionPt": "Leia Dépaysement, um manhwa em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 33,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258437,7 +258437,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Duquesa Fantasma, um manhwa em português.",
     "descriptionPt": "Leia A Duquesa Fantasma, um manhwa em português.",
-    "chaptersCount": 37,
+    "chaptersCount": 38,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262927,7 +262927,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Não há lugar para falsificações, um manhwa em português.",
     "descriptionPt": "Leia Não há lugar para falsificações, um manhwa em português.",
-    "chaptersCount": 123,
+    "chaptersCount": 124,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263451,7 +263451,7 @@ let MANGA_DATA = [
     ],
     "description": "A World of Stigma (Uncensored) Once a legendary star on the professional racing circuit, Hyun Damhwa loses his memories in a catastrophic crash during the British Grand Prix and is forced to return to South Korea. While attempting to piece his life back together, he stays in touch with Lee Yugang, a former fellow racer. As their conversations continue, Damhwa gradually develops a deep sense of admiration and romantic feelings for him. One day, while taking photos at a racetrack, Damhwa unexpectedly runs into Yugang. Shocked by the encounter, Damhwa suddenly collapses on the spot, prompting Yug",
     "descriptionPt": "",
-    "chaptersCount": 1,
+    "chaptersCount": 15,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -264228,7 +264228,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia As 100 Maldições da Casa Illeston, um manhwa em português.",
     "descriptionPt": "Leia As 100 Maldições da Casa Illeston, um manhwa em português.",
-    "chaptersCount": 36,
+    "chaptersCount": 39,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265435,7 +265435,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Pela Terceira Vez, um manhwa em português.",
     "descriptionPt": "Leia Pela Terceira Vez, um manhwa em português.",
-    "chaptersCount": 69,
+    "chaptersCount": 70,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -270655,7 +270655,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Babá da Máfia, um webtoon em português.",
     "descriptionPt": "Leia A Babá da Máfia, um webtoon em português.",
-    "chaptersCount": 99,
+    "chaptersCount": 101,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273091,7 +273091,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Suavizando o jeito gangster do protagonista masculino, um manhwa em português.",
     "descriptionPt": "Leia Suavizando o jeito gangster do protagonista masculino, um manhwa em português.",
-    "chaptersCount": 50,
+    "chaptersCount": 51,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273168,7 +273168,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Não Devore Qualquer Um, um manhwa em português.",
     "descriptionPt": "Leia Não Devore Qualquer Um, um manhwa em português.",
-    "chaptersCount": 5,
+    "chaptersCount": 6,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273528,7 +273528,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Mordomo Mais Forte Da Família Dos Vilões, um manhwa em português.",
     "descriptionPt": "Leia O Mordomo Mais Forte Da Família Dos Vilões, um manhwa em português.",
-    "chaptersCount": 8,
+    "chaptersCount": 9,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -275260,6 +275260,30 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "mother-s-friends",
+    "slug": "mother-s-friends",
+    "title": "Mother’s Friends",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2026/10/53d2bd8554bf425e5d91ad39ad20b1ac8959d4357332f572a8e777fc1c816ed6-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2026/10/53d2bd8554bf425e5d91ad39ad20b1ac8959d4357332f572a8e777fc1c816ed6-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult"
+    ],
+    "description": "“Auntie will teach you everything, one thing at a time~♥︎” After being treated like a mama’s boy, he finally gets away from his mother, only for his mom’s",
+    "descriptionEn": "“Auntie will teach you everything, one thing at a time~♥︎” After being treated like a mama’s boy, he finally gets away from his mother, only for his mom’s",
+    "chaptersCount": 6,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

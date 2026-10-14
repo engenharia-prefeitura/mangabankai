@@ -234714,7 +234714,7 @@ let MANGA_DATA = [
     ],
     "description": "Toying With Daddy (Uncensored) Growing up with a silver spoon, Rosa has lived a flawless life as the perfect modern-day princess. She’s always gotten everything she wanted – except for one thing: Kim Yeonwoo, the boy from the orphanage who once slipped through her fingers.Ten years later, starved for something to stir her restless heart, Rosa finally sees Yeonwoo again. But there’s just one problem…he’s now the man by her mother’s side. Though she knows it’s a dangerous love she can never have, Rosa can’t resist toying with her new father-to-be, both in body and in mind…",
     "descriptionPt": "",
-    "chaptersCount": 41,
+    "chaptersCount": 42,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

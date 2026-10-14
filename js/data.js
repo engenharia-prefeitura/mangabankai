@@ -83798,7 +83798,7 @@ let MANGA_DATA = [
     ],
     "description": "He found a child. He had lived under the ridicule of the world and raised the child, who became both his daughter and lover, in confinement for twenty years.",
     "descriptionEn": "He found a child. He had lived under the ridicule of the world and raised the child, who became both his daughter and lover, in confinement for twenty years.",
-    "chaptersCount": 15,
+    "chaptersCount": 34,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -96111,7 +96111,7 @@ let MANGA_DATA = [
     ],
     "description": "Nano Machine After being held in disdain and having his life put in danger, an orphan from the Demonic Cult, Cheon Yeo-Woon, has an unexpected visit from his descendant from the future who inserts a nano machine into Cheon Yeo-Woon’s body, which drastically changes Cheon Yeo-Woon’s life after its activation. The story of Cheon Yeo-Woon’s journey of bypassing the Demonic Cult and rising to become the best martial artist has just begun.",
     "descriptionPt": "",
-    "chaptersCount": 330,
+    "chaptersCount": 332,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -115770,7 +115770,7 @@ let MANGA_DATA = [
     ],
     "description": "Best Teacher Baek Once the finest instructor in the Blood Cult, Suryong Baek is killed, only to to wake up in the body of someone who teaches martial arts at a small rural academy. His new body may be weak, but he knows how to fix it, and it’s not the first time that he’s found himself in a body that can’t access its inner power. Curing his body requires money, however, and Suryong decides that becoming the greatest instructor at a top academy is the best way to do it. Since he’ll be up against tough competition, Suryong will have to use everything he’s got to become a teaching superstar.",
     "descriptionPt": "",
-    "chaptersCount": 163,
+    "chaptersCount": 164,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207993,7 +207993,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Veletric, um manhwa em português.",
     "descriptionPt": "Leia Veletric, um manhwa em português.",
-    "chaptersCount": 398,
+    "chaptersCount": 399,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -208068,7 +208068,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Retorno do Cavaleiro da Morte de Nível Apocalíptico, um manhwa em português.",
     "descriptionPt": "Leia Retorno do Cavaleiro da Morte de Nível Apocalíptico, um manhwa em português.",
-    "chaptersCount": 89,
+    "chaptersCount": 90,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231460,7 +231460,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Ranker, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Ranker, um manhwa em português.",
-    "chaptersCount": 265,
+    "chaptersCount": 266,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232149,7 +232149,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mudarei meu Destino Através de um Casamento por Conveniência, um manhwa em português.",
     "descriptionPt": "Leia Mudarei meu Destino Através de um Casamento por Conveniência, um manhwa em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249450,7 +249450,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromante: Rei dos Mortos, um manhua em português.",
     "descriptionPt": "Leia Necromante: Rei dos Mortos, um manhua em português.",
-    "chaptersCount": 313,
+    "chaptersCount": 314,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252711,7 +252711,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mestre Espadachim Criado Pelas Estrelas, um manhwa em português.",
     "descriptionPt": "Leia Mestre Espadachim Criado Pelas Estrelas, um manhwa em português.",
-    "chaptersCount": 141,
+    "chaptersCount": 142,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252736,7 +252736,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Melhor Homem no Comando, um manhwa em português.",
     "descriptionPt": "Leia O Melhor Homem no Comando, um manhwa em português.",
-    "chaptersCount": 209,
+    "chaptersCount": 210,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252761,7 +252761,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Regressando como o Bastardo do Clã da Espada, um manhwa em português.",
     "descriptionPt": "Leia Regressando como o Bastardo do Clã da Espada, um manhwa em português.",
-    "chaptersCount": 115,
+    "chaptersCount": 116,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252788,7 +252788,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Campo Esquecido, um manhwa em português.",
     "descriptionPt": "Leia O Campo Esquecido, um manhwa em português.",
-    "chaptersCount": 37,
+    "chaptersCount": 38,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253050,7 +253050,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
     "descriptionPt": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
-    "chaptersCount": 125,
+    "chaptersCount": 126,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253105,7 +253105,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Estilo de Vida de um Imortal, um manhwa em português.",
     "descriptionPt": "Leia O Estilo de Vida de um Imortal, um manhwa em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255518,7 +255518,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Não Perdoe nossos pecados, um manhwa em português.",
     "descriptionPt": "Leia Não Perdoe nossos pecados, um manhwa em português.",
-    "chaptersCount": 13,
+    "chaptersCount": 14,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257111,7 +257111,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Momento de Cura com Dubli, um manhwa em português.",
     "descriptionPt": "Leia Momento de Cura com Dubli, um manhwa em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261706,7 +261706,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Reencarnado, um manhwa em português.",
     "descriptionPt": "Leia Reencarnado, um manhwa em português.",
-    "chaptersCount": 154,
+    "chaptersCount": 155,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261997,7 +261997,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Trascendência Devido a um Erro do Sistema, um manhwa em português.",
     "descriptionPt": "Leia Trascendência Devido a um Erro do Sistema, um manhwa em português.",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262799,7 +262799,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Todos os Meus Avatares são Magnatas, um manhwa em português.",
     "descriptionPt": "Leia Todos os Meus Avatares são Magnatas, um manhwa em português.",
-    "chaptersCount": 100,
+    "chaptersCount": 101,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262927,7 +262927,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Não há lugar para falsificações, um manhwa em português.",
     "descriptionPt": "Leia Não há lugar para falsificações, um manhwa em português.",
-    "chaptersCount": 124,
+    "chaptersCount": 125,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264228,7 +264228,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia As 100 Maldições da Casa Illeston, um manhwa em português.",
     "descriptionPt": "Leia As 100 Maldições da Casa Illeston, um manhwa em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265654,7 +265654,7 @@ let MANGA_DATA = [
     ],
     "description": "A Game With My Boss (Uncensored) My boss, the robot… No emotions, no facial expression… nothing… Well, that was until…",
     "descriptionPt": "",
-    "chaptersCount": 20,
+    "chaptersCount": 24,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -267025,7 +267025,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ligado a sua Ruína, um manhwa em português.",
     "descriptionPt": "Leia Ligado a sua Ruína, um manhwa em português.",
-    "chaptersCount": 7,
+    "chaptersCount": 8,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -270545,7 +270545,7 @@ let MANGA_DATA = [
     ],
     "description": "Omertà After losing his mother to the mafia, Rowan goes undercover to destroy the organization from the inside. But things take an unexpected turn when he meets its enigmatic leader, Raphael Valentino…a man he should loathe, but can’t seem to ignore. Determined to bring the seedy underbelly of New York down – whether as Rafael’s hunting dog or as someone powerful enough to crush it from above – Rowan spends years as a member of his gang. But the more time they spend together, the harder it becomes to draw the line between duty and desire. In a world built upon lies and vengeance, can this tang",
     "descriptionPt": "",
-    "chaptersCount": 31,
+    "chaptersCount": 34,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -272084,7 +272084,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Tritão Preso no Meu Lago, um manhwa em português.",
     "descriptionPt": "Leia O Tritão Preso no Meu Lago, um manhwa em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 36,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -272356,7 +272356,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Matei Meu Mardio e Herdei essa Mansão, um manhwa em português.",
     "descriptionPt": "Leia Matei Meu Mardio e Herdei essa Mansão, um manhwa em português.",
-    "chaptersCount": 1,
+    "chaptersCount": 2,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273504,7 +273504,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Monster Lady and the Paladin, um manhwa em português.",
     "descriptionPt": "Leia The Monster Lady and the Paladin, um manhwa em português.",
-    "chaptersCount": 61,
+    "chaptersCount": 62,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273528,7 +273528,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Mordomo Mais Forte Da Família Dos Vilões, um manhwa em português.",
     "descriptionPt": "Leia O Mordomo Mais Forte Da Família Dos Vilões, um manhwa em português.",
-    "chaptersCount": 9,
+    "chaptersCount": 10,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

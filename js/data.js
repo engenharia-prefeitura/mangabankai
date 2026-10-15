@@ -3113,7 +3113,7 @@ let MANGA_DATA = [
       "Sports"
     ],
     "description": "The story starts with Japan's end from the 2018 FIFA World Cup, which prompts the Japanese Football Union to begin a program exploring secondary school players who will start preparing in anticipation of the 2022 Cup. Isagi Youichi, a forward, gets a solicitation to this program not long after his group loses the opportunity to go to Nationals since he went to his less-talented partner - who missed - without attempting to make the game-changing objective without anyone else. \r\n\r\nTheir mentor will be Ego Jinpachi, who plans to \"obliterate Japanese failure football\" by presenting a radical new preparing routine: confine 300 youthful advances in a jail like organization called \"Blue Lock\" and put them through thorough preparing planned for making \"the world's most noteworthy narcissist striker.\"",
-    "chaptersCount": 370,
+    "chaptersCount": 373,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -4600,7 +4600,7 @@ let MANGA_DATA = [
       "Slice Of Life"
     ],
     "description": "The ace government operative codenamed  has gone through his days on covert missions, just for the fantasy of a superior world. Yet, at some point, he gets an especially troublesome new request from direction. For his strategic, must frame a transitory family and start another life?! A Spy/Action/Comedy around a unique family!",
-    "chaptersCount": 180,
+    "chaptersCount": 181,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -55296,7 +55296,7 @@ let MANGA_DATA = [
       "Manga"
     ],
     "description": "Leia Sakamoto Days online no MangaSurge.",
-    "chaptersCount": 278,
+    "chaptersCount": 279,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -55736,7 +55736,7 @@ let MANGA_DATA = [
       "Manga"
     ],
     "description": "Leia Shangri La Frontier online no MangaSurge.",
-    "chaptersCount": 282,
+    "chaptersCount": 283,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -250599,7 +250599,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Deus Demônio, um manhwa em português.",
     "descriptionPt": "Leia O Deus Demônio, um manhwa em português.",
-    "chaptersCount": 52,
+    "chaptersCount": 53,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250942,7 +250942,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Caída no Paraíso, um manhwa em português.",
     "descriptionPt": "Leia Caída no Paraíso, um manhwa em português.",
-    "chaptersCount": 57,
+    "chaptersCount": 59,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257111,7 +257111,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Momento de Cura com Dubli, um manhwa em português.",
     "descriptionPt": "Leia Momento de Cura com Dubli, um manhwa em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257221,7 +257221,7 @@ let MANGA_DATA = [
     ],
     "description": "XX Dungeon After defeating the Demon King, a band of heroes discovers an uncharted dungeon—one unlike any they’ve seen, hiding secrets beyond their imagination.",
     "descriptionPt": "",
-    "chaptersCount": 49,
+    "chaptersCount": 50,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -257923,7 +257923,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vilã Maldita Retorna, um manhwa em português.",
     "descriptionPt": "Leia A Vilã Maldita Retorna, um manhwa em português.",
-    "chaptersCount": 28,
+    "chaptersCount": 29,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258834,7 +258834,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Que se dane ser o Herdeiro, Eu vou Curar, um manhwa em português.",
     "descriptionPt": "Leia Que se dane ser o Herdeiro, Eu vou Curar, um manhwa em português.",
-    "chaptersCount": 38,
+    "chaptersCount": 39,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259802,7 +259802,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-rei-agiota-do-murim online em português.",
     "descriptionPt": "Leia o-rei-agiota-do-murim online em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 23,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269205,7 +269205,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Nerd da Casa ao Lado é o Mestre da Torre Mágica?!, um manhwa em português.",
     "descriptionPt": "Leia O Nerd da Casa ao Lado é o Mestre da Torre Mágica?!, um manhwa em português.",
-    "chaptersCount": 6,
+    "chaptersCount": 7,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269769,7 +269769,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Caminho até Você, um manhwa em português.",
     "descriptionPt": "Leia O Caminho até Você, um manhwa em português.",
-    "chaptersCount": 3,
+    "chaptersCount": 4,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -271416,7 +271416,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Filha Mais Nova da Família Snake, um manhwa em português.",
     "descriptionPt": "Leia A Filha Mais Nova da Família Snake, um manhwa em português.",
-    "chaptersCount": 1,
+    "chaptersCount": 2,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -275844,6 +275844,58 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "a-curiosa-senhorita-elena",
+    "slug": "a-curiosa-senhorita-elena",
+    "title": "A Curiosa Senhorita Elena",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-curiosa-senhorita-elena/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-curiosa-senhorita-elena/cover-md.webp",
+    "author": "DUD",
+    "artist": "DUD",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Josei",
+      "Adulto",
+      "Smut",
+      "Manhwa"
+    ],
+    "description": "Leia A Curiosa Senhorita Elena, um manhwa em português.",
+    "descriptionPt": "Leia A Curiosa Senhorita Elena, um manhwa em português.",
+    "chaptersCount": 3,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "tankouhentai-shikiyoku-no-kyoushitsu-to-ikenie-shoujo",
+    "slug": "shikiyoku-no-kyoushitsu-to-ikenie-shoujo",
+    "title": "Shikiyoku no Kyoushitsu to Ikenie Shoujo",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/08/Shikiyoku-no-Kyoushitsu-to-Ikenie-Shoujo-hentai-193x278.jpeg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/08/Shikiyoku-no-Kyoushitsu-to-Ikenie-Shoujo-hentai-193x278.jpeg",
+    "author": "Desconhecido",
+    "artist": "Tetsuna",
+    "status": "completed",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Harém",
+      "Sexo a Três",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 7,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

@@ -207653,7 +207653,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Nano Máquina, um manhwa em português.",
     "descriptionPt": "Leia Nano Máquina, um manhwa em português.",
-    "chaptersCount": 333,
+    "chaptersCount": 334,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207861,7 +207861,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Me Escolhe!, um manhwa em português.",
     "descriptionPt": "Leia Me Escolhe!, um manhwa em português.",
-    "chaptersCount": 222,
+    "chaptersCount": 223,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230137,7 +230137,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O restaurante do arquimago, um manhwa em português.",
     "descriptionPt": "Leia O restaurante do arquimago, um manhwa em português.",
-    "chaptersCount": 154,
+    "chaptersCount": 155,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250414,7 +250414,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-esposa-que-esperou-no-campo-de-trigo online em português.",
     "descriptionPt": "Leia a-esposa-que-esperou-no-campo-de-trigo online em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 33,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250547,7 +250547,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Devorador de Aço, um manhwa em português.",
     "descriptionPt": "Leia Devorador de Aço, um manhwa em português.",
-    "chaptersCount": 113,
+    "chaptersCount": 114,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251269,7 +251269,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vingança do Cão de Caça dos Baskerville, um manhwa em português.",
     "descriptionPt": "Leia A Vingança do Cão de Caça dos Baskerville, um manhwa em português.",
-    "chaptersCount": 183,
+    "chaptersCount": 184,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251295,7 +251295,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Filho Caçula do Conde é um Jogador, um manhwa em português.",
     "descriptionPt": "Leia O Filho Caçula do Conde é um Jogador, um manhwa em português.",
-    "chaptersCount": 173,
+    "chaptersCount": 174,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251779,7 +251779,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei Um Homem Casado Em Outro Mundo, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei Um Homem Casado Em Outro Mundo, um manhwa em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252465,7 +252465,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Um Dia Eu Era Um Filhote, um manhwa em português.",
     "descriptionPt": "Leia Um Dia Eu Era Um Filhote, um manhwa em português.",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253077,7 +253077,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Knight King Who Returned with a God, um manhwa em português.",
     "descriptionPt": "Leia The Knight King Who Returned with a God, um manhwa em português.",
-    "chaptersCount": 185,
+    "chaptersCount": 186,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254274,7 +254274,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Cão Raivoso da Mansão do Duque, um manhwa em português.",
     "descriptionPt": "Leia O Cão Raivoso da Mansão do Duque, um manhwa em português.",
-    "chaptersCount": 75,
+    "chaptersCount": 79,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254323,7 +254323,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Filho Adotivo em um Mundo de Supremacia de Linhagem, um mangá em português.",
     "descriptionPt": "Leia O Retorno do Filho Adotivo em um Mundo de Supremacia de Linhagem, um mangá em português.",
-    "chaptersCount": 56,
+    "chaptersCount": 57,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254557,7 +254557,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia despertando-o-trovao-roxo-no-inicio online em português.",
     "descriptionPt": "Leia despertando-o-trovao-roxo-no-inicio online em português.",
-    "chaptersCount": 94,
+    "chaptersCount": 95,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254579,7 +254579,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-tornei-um-mago-de-fantasia-medieval online em português.",
     "descriptionPt": "Leia me-tornei-um-mago-de-fantasia-medieval online em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254925,7 +254925,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Conto Do Erudito, um manhwa em português.",
     "descriptionPt": "Leia O Conto Do Erudito, um manhwa em português.",
-    "chaptersCount": 215,
+    "chaptersCount": 218,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259688,7 +259688,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Era o Lixo, um manhwa em português.",
     "descriptionPt": "Leia Eu Era o Lixo, um manhwa em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 42,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260050,7 +260050,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-mundo-arruinado-foi-confundido-com-um-jogo online em português.",
     "descriptionPt": "Leia o-mundo-arruinado-foi-confundido-com-um-jogo online em português.",
-    "chaptersCount": 28,
+    "chaptersCount": 29,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260583,7 +260583,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-casei-com-o-dragao-que-matei online em português.",
     "descriptionPt": "Leia me-casei-com-o-dragao-que-matei online em português.",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261778,7 +261778,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Cavaleiro Santo De Grau SSS, um manhua em português.",
     "descriptionPt": "Leia Cavaleiro Santo De Grau SSS, um manhua em português.",
-    "chaptersCount": 219,
+    "chaptersCount": 220,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263894,7 +263894,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Corporação Goblin, um manhwa em português.",
     "descriptionPt": "Leia Corporação Goblin, um manhwa em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263918,7 +263918,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Santo da Espada Reencarnou em uma Família Nobre de Magos, um mangá em português.",
     "descriptionPt": "Leia O Santo da Espada Reencarnou em uma Família Nobre de Magos, um mangá em português.",
-    "chaptersCount": 26,
+    "chaptersCount": 27,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266397,7 +266397,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sobrevivendo no Jogo Como um Bárbaro, um manhwa em português.",
     "descriptionPt": "Leia Sobrevivendo no Jogo Como um Bárbaro, um manhwa em português.",
-    "chaptersCount": 161,
+    "chaptersCount": 162,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -267519,7 +267519,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia ENNEAD, um manhwa em português.",
     "descriptionPt": "Leia ENNEAD, um manhwa em português.",
-    "chaptersCount": 152,
+    "chaptersCount": 154,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -267821,7 +267821,7 @@ let MANGA_DATA = [
     ],
     "description": "That Wildflower of a Summer (Uncensored) What she once believed to be a picture-perfect marriage comes to a crashing halt after just three years. Devastated by her divorce from her ex-husband Kangin, Jimin retreats to her peaceful rural hometown, desperate to escape her painful past. However, her quiet haven is quickly upended when she meets Jihyeok, the irresistibly handsome younger man living next door. Jimin’s original plan was simple: abandon her urban troubles and enjoy a serene, secluded life. Instead, she finds herself caught between two completely different forces of nature—a sweet, yo",
     "descriptionPt": "",
-    "chaptersCount": 8,
+    "chaptersCount": 14,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -268999,7 +268999,7 @@ let MANGA_DATA = [
     ],
     "description": "One-Room TA After returning to campus as a sophomore, Uyun meets Jinhyeong, the socially-awkward-yet-stunningly-handsome T.A., and blurts out a confession on a whim. One thing leads to another…and suddenly, they’re roommates! Just as things start to heat up, Jinhyeong pulls back after a steamy kiss and says he has a very specific fantasy about physical intimacy. But just what kind of fantasy does he have? Can the two of them overcome all their wild expectations (and even wilder reality) to survive their first night together?",
     "descriptionPt": "",
-    "chaptersCount": 87,
+    "chaptersCount": 91,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -269024,7 +269024,7 @@ let MANGA_DATA = [
     ],
     "description": "My Perfect Omega “Nick Stockton, ex-mercenary and now head of a top security firm, has never once lost control—until he crosses paths with Owen Rose, the stunning CEO of Rose Biotech. The moment their eyes meet, Nick is hit with an overwhelming surge of pheromones. He knows instantly: Owen is his Omega. When terrorists launch a sudden attack on Owen, Nick steps in without hesitation. Grateful and intrigued, Owen invites Nick to his secluded estate. But Owen harbors a dark belief—that he’s a “monster Omega,” ever since a childhood incident where he injured his Alpha cousin. He’s spent his life ",
     "descriptionPt": "",
-    "chaptersCount": 73,
+    "chaptersCount": 74,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -269282,7 +269282,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Apresentando Meu Manager, um manhwa em português.",
     "descriptionPt": "Leia Apresentando Meu Manager, um manhwa em português.",
-    "chaptersCount": 10,
+    "chaptersCount": 11,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269794,7 +269794,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Deus do Caos Todo Poderoso, um manhwa em português.",
     "descriptionPt": "Leia O Deus do Caos Todo Poderoso, um manhwa em português.",
-    "chaptersCount": 119,
+    "chaptersCount": 120,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

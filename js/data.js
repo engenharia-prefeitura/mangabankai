@@ -91001,7 +91001,7 @@ let MANGA_DATA = [
     ],
     "description": "Traded Lives (Official) Shay, the S-Class Hunter everyone dreams of becoming. But Dennis, a man with the power to switch bodies, sets his sights on stealing everything from him… by taking his body. “You want my body? You’d be better off chasing youth.”",
     "descriptionPt": "",
-    "chaptersCount": 48,
+    "chaptersCount": 53,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -96423,7 +96423,7 @@ let MANGA_DATA = [
     ],
     "description": "Recoil (Uncensored) How far down do you have to fall before there’s no coming back? For Seongcheol, rock bottom is a cramped apartment shared with Minho, a man whose “love” is expressed through bruises and cruel control. Just as Seongcheol surrenders to his grim fate, his past walks through the door in the form of Junseo, a former classmate turned detective. Junseo becomes obsessed with rescuing Seongcheol from his living hell, but breaking a toxic bond is never easy. As Minho senses his prize slipping away, his possessive rage triggers a dangerous, high-stakes confrontation. Can Junseo’s fier",
     "descriptionPt": "",
-    "chaptersCount": 14,
+    "chaptersCount": 15,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207205,7 +207205,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Dama Bebê Controla O Mundo Com Dinheiro, um manhwa em português.",
     "descriptionPt": "Leia A Dama Bebê Controla O Mundo Com Dinheiro, um manhwa em português.",
-    "chaptersCount": 136,
+    "chaptersCount": 137,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230005,7 +230005,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Único Fazendeiro da Torre, um manhwa em português.",
     "descriptionPt": "Leia Único Fazendeiro da Torre, um manhwa em português.",
-    "chaptersCount": 147,
+    "chaptersCount": 148,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231410,7 +231410,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromante do Clã da Espada, um manhwa em português.",
     "descriptionPt": "Leia Necromante do Clã da Espada, um manhwa em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231538,7 +231538,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Mago Negro Retorna Após 66666 Anos, um manhwa em português.",
     "descriptionPt": "Leia O Mago Negro Retorna Após 66666 Anos, um manhwa em português.",
-    "chaptersCount": 201,
+    "chaptersCount": 202,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231566,7 +231566,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Começo Depois do Fim, um manhwa em português.",
     "descriptionPt": "Leia O Começo Depois do Fim, um manhwa em português.",
-    "chaptersCount": 268,
+    "chaptersCount": 269,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251321,7 +251321,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Neste Mundo Não Existem Guerreiros Maus, um manhwa em português.",
     "descriptionPt": "Leia Neste Mundo Não Existem Guerreiros Maus, um manhwa em português.",
-    "chaptersCount": 91,
+    "chaptersCount": 92,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254535,7 +254535,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia aventura-de-um-barbaro-em-um-mundo-de-fantasia online em português.",
     "descriptionPt": "Leia aventura-de-um-barbaro-em-um-mundo-de-fantasia online em português.",
-    "chaptersCount": 72,
+    "chaptersCount": 73,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254980,7 +254980,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mestre Do Treinamento Marcial, um manhwa em português.",
     "descriptionPt": "Leia Mestre Do Treinamento Marcial, um manhwa em português.",
-    "chaptersCount": 133,
+    "chaptersCount": 134,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259351,7 +259351,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia tropa-de-elite-fantastica online em português.",
     "descriptionPt": "Leia tropa-de-elite-fantastica online em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259758,7 +259758,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-santo-evolui-atraves-da-necromancia online em português.",
     "descriptionPt": "Leia o-santo-evolui-atraves-da-necromancia online em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260495,7 +260495,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia criando-viloes-da-maneira-correta online em português.",
     "descriptionPt": "Leia criando-viloes-da-maneira-correta online em português.",
-    "chaptersCount": 56,
+    "chaptersCount": 57,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264304,7 +264304,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Reset Temporal, um manhwa em português.",
     "descriptionPt": "Leia Reset Temporal, um manhwa em português.",
-    "chaptersCount": 64,
+    "chaptersCount": 65,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

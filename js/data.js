@@ -115263,7 +115263,7 @@ let MANGA_DATA = [
     ],
     "description": "The Case of Doctor Agato (Uncensored) Five years after the war, peace has settled over the victorious nation of Formapolis…until a strange series of incidents threatens to shatter it. Corpses with grotesque modifications, known only as “specimens,” begin turning up in the capital.",
     "descriptionPt": "",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207150,7 +207150,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Magic Emperor, um manhua em português.",
     "descriptionPt": "Leia Magic Emperor, um manhua em português.",
-    "chaptersCount": 926,
+    "chaptersCount": 927,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231436,7 +231436,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O sétimo príncipe quer escapar, um manhwa em português.",
     "descriptionPt": "Leia O sétimo príncipe quer escapar, um manhwa em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231855,7 +231855,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Lixo da Família Condal, um manhwa em português.",
     "descriptionPt": "Leia O Lixo da Família Condal, um manhwa em português.",
-    "chaptersCount": 192,
+    "chaptersCount": 193,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231965,7 +231965,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Professor Runebound, um webtoon em português.",
     "descriptionPt": "Leia O Retorno do Professor Runebound, um webtoon em português.",
-    "chaptersCount": 94,
+    "chaptersCount": 95,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232202,7 +232202,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Jogo do Ferreiro Genial, um manhwa em português.",
     "descriptionPt": "Leia O Jogo do Ferreiro Genial, um manhwa em português.",
-    "chaptersCount": 75,
+    "chaptersCount": 76,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232257,7 +232257,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Crônicas da Facção Demoníaca, um manhwa em português.",
     "descriptionPt": "Leia Crônicas da Facção Demoníaca, um manhwa em português.",
-    "chaptersCount": 194,
+    "chaptersCount": 195,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232307,7 +232307,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia de Sobrevivência do Caçador de Bestas Demoníacas, um manhwa em português.",
     "descriptionPt": "Leia Guia de Sobrevivência do Caçador de Bestas Demoníacas, um manhwa em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232389,7 +232389,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Domínio Absoluto, um manhwa em português.",
     "descriptionPt": "Leia Domínio Absoluto, um manhwa em português.",
-    "chaptersCount": 113,
+    "chaptersCount": 114,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232750,7 +232750,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Renascimento de Um Mercenário Entre Nobres, um manhwa em português.",
     "descriptionPt": "Leia O Renascimento de Um Mercenário Entre Nobres, um manhwa em português.",
-    "chaptersCount": 52,
+    "chaptersCount": 53,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232829,7 +232829,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Recluso Supremo, um manhwa em português.",
     "descriptionPt": "Leia O Recluso Supremo, um manhwa em português.",
-    "chaptersCount": 100,
+    "chaptersCount": 101,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -241753,7 +241753,7 @@ let MANGA_DATA = [
     "descriptionPt": "",
     "chaptersCount": 101,
     "lang": "en",
-    "hasPt": true,
+    "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
   },
@@ -249424,7 +249424,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Doce Salvadora da Besta Imoral, um manhwa em português.",
     "descriptionPt": "Leia A Doce Salvadora da Besta Imoral, um manhwa em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251377,7 +251377,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Imperador Solo, um manhwa em português.",
     "descriptionPt": "Leia Imperador Solo, um manhwa em português.",
-    "chaptersCount": 88,
+    "chaptersCount": 89,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256608,7 +256608,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromante de Força Máxima, um manhua em português.",
     "descriptionPt": "Leia Necromante de Força Máxima, um manhua em português.",
-    "chaptersCount": 129,
+    "chaptersCount": 146,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256943,7 +256943,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Streaming do Arqueiro Genial, um manhwa em português.",
     "descriptionPt": "Leia Streaming do Arqueiro Genial, um manhwa em português.",
-    "chaptersCount": 111,
+    "chaptersCount": 112,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259423,7 +259423,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia um-dia-o-protagonista-masculino-caiu-na-minha-casa online em português.",
     "descriptionPt": "Leia um-dia-o-protagonista-masculino-caiu-na-minha-casa online em português.",
-    "chaptersCount": 14,
+    "chaptersCount": 15,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259781,7 +259781,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-governante-das-trevas online em português.",
     "descriptionPt": "Leia o-governante-das-trevas online em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261392,7 +261392,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-segredo-do-senior-perfeito online em português.",
     "descriptionPt": "Leia o-segredo-do-senior-perfeito online em português.",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265981,7 +265981,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Quarto secreto, um manhwa em português.",
     "descriptionPt": "Leia Quarto secreto, um manhwa em português.",
-    "chaptersCount": 7,
+    "chaptersCount": 16,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -267889,7 +267889,7 @@ let MANGA_DATA = [
     ],
     "description": "A Turbulent Affair After losing her father, Yeonsu struggles to support her sick mother and little sister alone. Desperate for money to save her family, she accepts a life-changing offer to be the surrogate of a handsome rich man named Taegun and his infertile wife.The contract seems simple at first, but Yeonsu soon realizes she’s trapped in an arrangement she’ll regret. By the time she’s questioning her morality and self-worth, it’s already too late to turn back. As forbidden intimacy blurs the lines, unexpected emotions begin to stir between Yeonsu and Taegun. But is anything real between th",
     "descriptionPt": "",
-    "chaptersCount": 44,
+    "chaptersCount": 50,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -269973,7 +269973,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ressuscitei meu Marido por Acidente., um manhwa em português.",
     "descriptionPt": "Leia Ressuscitei meu Marido por Acidente., um manhwa em português.",
-    "chaptersCount": 13,
+    "chaptersCount": 14,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -274797,7 +274797,7 @@ let MANGA_DATA = [
     ],
     "description": "Foretold (Uncensored) Five years ago, while working as an investigative reporter, Kang Baekjun went undercover to expose a sinister cult operating in a remote rural village. The deep-seated trauma from the horrific incident he suffered there forced him to abandon investigative journalism altogether. Now working as an entertainment reporter, Baekjun finds himself on the brink of losing his job due to poor performance. Desperate to save his career, he takes on an exclusive interview with Seo Yohan, a hugely popular rookie model. However, Yohan acts as if he has known Baekjun for a very long time",
     "descriptionPt": "",
-    "chaptersCount": 1,
+    "chaptersCount": 6,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -275842,7 +275842,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Curiosa Senhorita Elena, um manhwa em português.",
     "descriptionPt": "Leia A Curiosa Senhorita Elena, um manhwa em português.",
-    "chaptersCount": 3,
+    "chaptersCount": 4,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -276047,6 +276047,32 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "a-midsummer-s-carol-uncensored",
+    "slug": "a-midsummer-s-carol-uncensored",
+    "title": "A Midsummer’s Carol (Uncensored)",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2026/05/a-midsummers-carol-uncensored-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2026/05/a-midsummers-carol-uncensored-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult",
+      "Josei",
+      "Uncensored"
+    ],
+    "description": "After failing at both love and work, Dokyung returns to the stillness of her hometown, Mooyung, where a chance encounter at her mother’s old corner store",
+    "descriptionEn": "After failing at both love and work, Dokyung returns to the stillness of her hometown, Mooyung, where a chance encounter at her mother’s old corner store",
+    "chaptersCount": 40,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

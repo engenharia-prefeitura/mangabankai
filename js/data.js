@@ -93513,7 +93513,7 @@ let MANGA_DATA = [
     ],
     "description": "Bullied by Girls (Official) Only Fence’, a platform filled with sexual content. You know what? You can make tons of money on this site with porn. So come over here, dork! Take your pants off.",
     "descriptionPt": "",
-    "chaptersCount": 41,
+    "chaptersCount": 55,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97577,7 +97577,7 @@ let MANGA_DATA = [
     ],
     "description": "Even in Your Death (Uncensored) Jeongcheol is a gambler, a failure, and now a divorcé after ten years of a marriage that finally collapsed. Before he can even catch his breath or curse his miserable luck, the very person who started it all returns to his life. Ji Minyeong, the ex-lover who terrified him, chased him, and yet was the one he loved more deeply than anyone else, appears without warning. Standing before him with the same chilling certainty as in the past, Minyeong whispers the words Jeongcheol fears most: “I will stay with you until the moment you die, Cheol.”",
     "descriptionPt": "",
-    "chaptersCount": 44,
+    "chaptersCount": 47,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -100637,7 +100637,7 @@ let MANGA_DATA = [
     ],
     "description": "Draco-Knight Commander The moment he was about to die, Axel was transported to another world where he is the long-awaited half-dragon.",
     "descriptionPt": "",
-    "chaptersCount": 97,
+    "chaptersCount": 104,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -276208,6 +276208,32 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "15-minutes",
+    "slug": "15-minutes",
+    "title": "15 Minutes",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2024/08/15-minutes-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2024/08/15-minutes-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Psychological",
+      "Supernatural",
+      "Adult"
+    ],
+    "description": "You are now the protagonist! The secret of the 15 minutes is revealed. Am I in a dream? Can I really do whatever I want? When does the time stop for 15 minutes?",
+    "descriptionEn": "You are now the protagonist! The secret of the 15 minutes is revealed. Am I in a dream? Can I really do whatever I want? When does the time stop for 15 minutes?",
+    "chaptersCount": 36,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

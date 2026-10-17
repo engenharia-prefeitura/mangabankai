@@ -233238,7 +233238,7 @@ let MANGA_DATA = [
     ],
     "description": "Business Trip Temptation Minseok is a hard-working marketing assistant at LS Cinema who knows how to navigate office life – except when it comes to his gorgeous boss, Jeong Suhee. She constantly gives him a hard time, but Minseok can’t help falling for her hidden warmth and stunning looks. Little does he know, Suhee secretly has a soft spot for her handsome, charming subordinate. When a business trip sends them away together, the professional boundaries dissolve, and a risky, forbidden office romance begins.",
     "descriptionPt": "",
-    "chaptersCount": 22,
+    "chaptersCount": 24,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -235088,7 +235088,7 @@ let MANGA_DATA = [
     ],
     "description": "Deja Vu and Domination (Uncensored) “One sunny day day, a portal burst open in the garden, and Kwon Jaejin got caught up in the chaos. His limbs were torn off, and he died… …Or so he thought. When he wakes up, he finds himself back on the first day of his captivity—with Seo Wui-wu between his legs, tugging at his pants. Jaejin stares down at the familiar face, one he had come to resent over the four agonizing years of his previous life. Back then, he had believed he was merely a victim, dragged into an unfamiliar place and forced into submission. But this time is different. Now, Jaejin knows e",
     "descriptionPt": "",
-    "chaptersCount": 70,
+    "chaptersCount": 72,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -249399,7 +249399,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Não confio na minha irmã gêmea (Manhwa), um manhwa em português.",
     "descriptionPt": "Leia Não confio na minha irmã gêmea (Manhwa), um manhwa em português.",
-    "chaptersCount": 80,
+    "chaptersCount": 81,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249959,7 +249959,7 @@ let MANGA_DATA = [
     ],
     "description": "May as Well Get the Best Ending (Uncensored) Avid BL lover Min Kirin attends a game expo to get some new BL games, but there are disappointingly few there. He nearly goes home empty-handed, but a mysterious, hooded man gives him a free copy of a VR BL game. Kirin is suspicious of the man and game, especially given the negative reviews, but he can’t resist its mature rating and logs in just to be transported into that world! He needs to earn money and that’s how he meets the various romanceable characters. Will Kirin find love with one of them and return to reality, or will he be unable to pick",
     "descriptionPt": "",
-    "chaptersCount": 63,
+    "chaptersCount": 65,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -252815,7 +252815,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Passarinho do Duque Sombrio, um manhwa em português.",
     "descriptionPt": "Leia O Passarinho do Duque Sombrio, um manhwa em português.",
-    "chaptersCount": 57,
+    "chaptersCount": 58,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255848,7 +255848,7 @@ let MANGA_DATA = [
     ],
     "description": "Never Just Friends I have these childhood friends… But were we ever just friends?",
     "descriptionPt": "",
-    "chaptersCount": 36,
+    "chaptersCount": 38,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -256136,7 +256136,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O gerente Kim odeia ídolos de K-Pop, um manhwa em português.",
     "descriptionPt": "Leia O gerente Kim odeia ídolos de K-Pop, um manhwa em português.",
-    "chaptersCount": 23,
+    "chaptersCount": 24,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256235,7 +256235,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Protagonista Masculino Está Obcecado Pela Minha Saúde, um manhwa em português.",
     "descriptionPt": "Leia O Protagonista Masculino Está Obcecado Pela Minha Saúde, um manhwa em português.",
-    "chaptersCount": 68,
+    "chaptersCount": 69,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257924,7 +257924,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vilã Maldita Retorna, um manhwa em português.",
     "descriptionPt": "Leia A Vilã Maldita Retorna, um manhwa em português.",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273503,7 +273503,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Mordomo Mais Forte Da Família Dos Vilões, um manhwa em português.",
     "descriptionPt": "Leia O Mordomo Mais Forte Da Família Dos Vilões, um manhwa em português.",
-    "chaptersCount": 13,
+    "chaptersCount": 14,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -274645,32 +274645,6 @@ let MANGA_DATA = [
     "source": "tankouhentai"
   },
   {
-    "id": "15-minutes",
-    "slug": "15-minutes",
-    "title": "15 Minutes",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2024/08/15-minutes-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2024/08/15-minutes-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Psychological",
-      "Supernatural",
-      "Adult"
-    ],
-    "description": "You are now the protagonist! The secret of the 15 minutes is revealed. Am I in a dream? Can I really do whatever I want? When does the time stop for 15 minutes?",
-    "descriptionEn": "You are now the protagonist! The secret of the 15 minutes is revealed. Am I in a dream? Can I really do whatever I want? When does the time stop for 15 minutes?",
-    "chaptersCount": 36,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "pearl-boy",
     "slug": "pearl-boy",
     "title": "Pearl Boy",
@@ -275305,7 +275279,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Escondendo Minha Identidade do Meu Marido, um manhwa em português.",
     "descriptionPt": "Leia Escondendo Minha Identidade do Meu Marido, um manhwa em português.",
-    "chaptersCount": 1,
+    "chaptersCount": 2,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -276073,6 +276047,167 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "unromantic",
+    "slug": "unromantic",
+    "title": "Unromantic",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/unromantic/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/unromantic/cover-md.webp",
+    "author": "Jeong Seok Chan",
+    "artist": "Jeong Seok Chan",
+    "status": "completed",
+    "year": 2020,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Comédia",
+      "Romance",
+      "Smut",
+      "Manhwa",
+      "Yaoi",
+      "Omegaverse"
+    ],
+    "description": "Leia Unromantic, um manhwa em português.",
+    "descriptionPt": "Leia Unromantic, um manhwa em português.",
+    "chaptersCount": 69,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "bate-e-corre",
+    "slug": "bate-e-corre",
+    "title": "Bate e Corre",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/bate-e-corre/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/bate-e-corre/cover-md.webp",
+    "author": "Hong Ssona",
+    "artist": "Hong Ssona",
+    "status": "completed",
+    "year": 2018,
+    "rating": 7,
+    "genres": [
+      "Romance",
+      "Adulto",
+      "Slice of Life",
+      "Smut",
+      "Manhwa",
+      "Yaoi",
+      "Omegaverse"
+    ],
+    "description": "Leia Bate e Corre, um manhwa em português.",
+    "descriptionPt": "Leia Bate e Corre, um manhwa em português.",
+    "chaptersCount": 106,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "entre-beijos",
+    "slug": "entre-beijos",
+    "title": "Entre Beijos",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/entre-beijos/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/entre-beijos/cover-md.webp",
+    "author": "Pyeonghwa",
+    "artist": "Pyeonghwa",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Comédia",
+      "Romance",
+      "Josei",
+      "Manhwa"
+    ],
+    "description": "Leia Entre Beijos, um manhwa em português.",
+    "descriptionPt": "Leia Entre Beijos, um manhwa em português.",
+    "chaptersCount": 1,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "o-amanhecer-que-contorce-o-seu-pescoco",
+    "slug": "o-amanhecer-que-contorce-o-seu-pescoco",
+    "title": "O Amanhecer Que Contorce o Seu Pescoço",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/o-amanhecer-que-contorce-o-seu-pescoco/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/o-amanhecer-que-contorce-o-seu-pescoco/cover-md.webp",
+    "author": "Gomgom",
+    "artist": "Gomgom",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Fantasia",
+      "Romance",
+      "Josei",
+      "Manhwa"
+    ],
+    "description": "Leia O Amanhecer Que Contorce o Seu Pescoço, um manhwa em português.",
+    "descriptionPt": "Leia O Amanhecer Que Contorce o Seu Pescoço, um manhwa em português.",
+    "chaptersCount": 1,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "um-retrato-do-orgulho",
+    "slug": "um-retrato-do-orgulho",
+    "title": "Um Retrato do Orgulho",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/um-retrato-do-orgulho/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/um-retrato-do-orgulho/cover-md.webp",
+    "author": "Dalseul",
+    "artist": "Dalseul",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Josei",
+      "Mistério",
+      "Adulto",
+      "Smut",
+      "Maduro",
+      "Manhwa"
+    ],
+    "description": "Leia Um Retrato do Orgulho, um manhwa em português.",
+    "descriptionPt": "Leia Um Retrato do Orgulho, um manhwa em português.",
+    "chaptersCount": 2,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "tankouhentai-eri-to-nozomi-no-joujiroku",
+    "slug": "eri-to-nozomi-no-joujiroku",
+    "title": "Eri to Nozomi no Joujiroku",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/10/Eri-to-Nozomi-no-Joujiroku-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/10/Eri-to-Nozomi-no-Joujiroku-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Rasson",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Sexo a Três",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 2,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 
@@ -276197,7 +276332,7 @@ function filterManga(opts) {
   return results;
 }
 
-const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animais","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Casamento Arranjado","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Conto","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Escritório","Esporte","Esportes","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gore","Gyaru","Harem","Harém","Harém Reverso","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Horrow","Idol","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Máfia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","Older Woman","One Shot","Outros gêneros","Parceria","Parody Anime","Parte da Vida","Person in a Strange World","Police","Policial","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vampiro","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Younger Man","Yuri","Zombies","Zoofilia"];
+const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animais","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Casamento Arranjado","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Conto","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Escritório","Esporte","Esportes","Estratégia","Explicit Sex","Familia","Família real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gore","Gyaru","Harem","Harém","Harém Reverso","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Horrow","Idol","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Máfia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","Older Woman","Omegaverse","One Shot","Outros gêneros","Parceria","Parody Anime","Parte da Vida","Person in a Strange World","Police","Policial","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vampiro","Vanilla","Viagem no tempo","Vida escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Younger Man","Yuri","Zombies","Zoofilia"];
 
 var ADULT_GENRE_KW = ['hentai','adulto','adult','+18','18+','nsfw','ecchi','smut','mature','maduro','erotic','erótic','erotica','bdsm','futanari','loli','shota','inces','tentacul','tentácul','zoofilia','obsceno','sem censura','uncensor','censura','nudez','nudity','sexual','sexo','mindbreak','ahegao','netorare','fetich','fetish','omegaverse','vanilla','borderline h'];
 function isAdultGenre(g) {

@@ -94302,7 +94302,7 @@ let MANGA_DATA = [
     ],
     "description": "Love, Lust, & Joy In the 22nd century, even in a world where reproduction is no longer possible, humanity still craves sex. Akana runs a shop called LOVE & JOY in a city overflowing with artificial pleasures, catering to every kind of desire with no judgment. From obsession and public exposure to the darkest, most secret cravings, she’s here to make your wildest kinks 200% real.",
     "descriptionPt": "",
-    "chaptersCount": 59,
+    "chaptersCount": 63,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -94406,7 +94406,7 @@ let MANGA_DATA = [
     ],
     "description": "Fated to Find You (Uncensored) Kim Doyun finally moved in with his lifelong crush, Seo Yi-hwan, but a supernatural blunder ruins everything. After a freak accident, the soul of the provocative idol Yi-on takes over Yi-hwan’s body. To get his best friend back, Doyun must help Yi-on satisfy a hunger for physical energy that is anything but innocent. Caught between his desperate loyalty to Yi-hwan and Yi-on’s dangerous provocations, Doyun enters a high-stakes game where the lines of love and lust become dangerously blurred.",
     "descriptionPt": "",
-    "chaptersCount": 32,
+    "chaptersCount": 34,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -256161,7 +256161,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia F-Class Destiny Hunter, um manhwa em português.",
     "descriptionPt": "Leia F-Class Destiny Hunter, um manhwa em português.",
-    "chaptersCount": 86,
+    "chaptersCount": 92,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264229,7 +264229,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia As 100 Maldições da Casa Illeston, um manhwa em português.",
     "descriptionPt": "Leia As 100 Maldições da Casa Illeston, um manhwa em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 44,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -276411,6 +276411,32 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "15-minutes",
+    "slug": "15-minutes",
+    "title": "15 Minutes",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2024/08/15-minutes-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2024/08/15-minutes-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Psychological",
+      "Supernatural",
+      "Adult"
+    ],
+    "description": "You are now the protagonist! The secret of the 15 minutes is revealed. Am I in a dream? Can I really do whatever I want? When does the time stop for 15 minutes?",
+    "descriptionEn": "You are now the protagonist! The secret of the 15 minutes is revealed. Am I in a dream? Can I really do whatever I want? When does the time stop for 15 minutes?",
+    "chaptersCount": 36,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

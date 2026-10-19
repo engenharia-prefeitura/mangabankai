@@ -94779,7 +94779,7 @@ let MANGA_DATA = [
     ],
     "description": "The Method Messiah (Uncensored) Famous actor Kim Seongjae follows a suspicious man claiming to be his temporary manager, only to arrive at a remote village he escaped from at fifteen – the compound of a cult that once consumed his life. As Seongjae attempts to flee the place haunted by his past, a fatal mistake leaves the cult leader dead by his hand. Moments later, the followers arrive, forcing Seongjae into an irreversible decision to survive. Trapped on a stage where faith, violence, and performance blur, Seongjae realizes the man who led him here has been directing everything from the shad",
     "descriptionPt": "",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -101333,7 +101333,7 @@ let MANGA_DATA = [
     ],
     "description": "Who Cares if it’s a Lie? They live comfortably on small lies, because, really… who cares if it’s a lie?",
     "descriptionPt": "",
-    "chaptersCount": 26,
+    "chaptersCount": 27,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -103436,7 +103436,7 @@ let MANGA_DATA = [
     ],
     "description": "The Heart of the Lotus (Uncensored) Born the bastard third son, Joseon’s tyrant king clawed his way to the throne in a whirlwind of chaos and blood. Now, with his reign spiraling out of control and the kingdom teetering on the edge, his only comfort lies in one person—his childhood friend, Sam-myeong. But what started as fondness has twisted into something darker. The king’s obsession knows no bounds, and he’s willing to do anything—schemes, manipulation, even breaking Sam-myeong’s will—to keep him close.",
     "descriptionPt": "",
-    "chaptersCount": 69,
+    "chaptersCount": 70,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -249820,7 +249820,7 @@ let MANGA_DATA = [
     ],
     "description": "Nice to See You (Uncensored) Ko Ideum is a total shut in who knows how to do one thing, and one thing only: write passionate BL smut. There’s just one small problem: Ideum is a complete and total virgin. To try and stimulate his brain (among other things), Ideum takes to…well, “taking care of himself” in front of the window, imagining all sorts of sensual scenarios to jumpstart his creative juices. Sure, there may be an apartment right across from him, but nobody’s lived there for years…until now! Mid self-love session, he looks up to see a man staring at him from across the street – and not j",
     "descriptionPt": "",
-    "chaptersCount": 21,
+    "chaptersCount": 23,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -250680,7 +250680,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Crônicas do Soberano Preguiçoso, um manhwa em português.",
     "descriptionPt": "Leia Crônicas do Soberano Preguiçoso, um manhwa em português.",
-    "chaptersCount": 68,
+    "chaptersCount": 69,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250970,7 +250970,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Meu Louco Casamento de Fachada com Maddie, um manhwa em português.",
     "descriptionPt": "Leia Meu Louco Casamento de Fachada com Maddie, um manhwa em português.",
-    "chaptersCount": 53,
+    "chaptersCount": 55,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251270,7 +251270,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vingança do Cão de Caça dos Baskerville, um manhwa em português.",
     "descriptionPt": "Leia A Vingança do Cão de Caça dos Baskerville, um manhwa em português.",
-    "chaptersCount": 184,
+    "chaptersCount": 185,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251296,7 +251296,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Filho Caçula do Conde é um Jogador, um manhwa em português.",
     "descriptionPt": "Leia O Filho Caçula do Conde é um Jogador, um manhwa em português.",
-    "chaptersCount": 174,
+    "chaptersCount": 175,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251487,7 +251487,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Sou o Vilão Predestinado, um manhua em português.",
     "descriptionPt": "Leia Eu Sou o Vilão Predestinado, um manhua em português.",
-    "chaptersCount": 363,
+    "chaptersCount": 364,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253371,7 +253371,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Senhorita Pendleton, um manhwa em português.",
     "descriptionPt": "Leia Senhorita Pendleton, um manhwa em português.",
-    "chaptersCount": 65,
+    "chaptersCount": 67,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254514,7 +254514,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei O Mentor do Rei Demônio mais Fraco, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei O Mentor do Rei Demônio mais Fraco, um manhwa em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 42,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254558,7 +254558,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia despertando-o-trovao-roxo-no-inicio online em português.",
     "descriptionPt": "Leia despertando-o-trovao-roxo-no-inicio online em português.",
-    "chaptersCount": 95,
+    "chaptersCount": 97,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256161,7 +256161,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia F-Class Destiny Hunter, um manhwa em português.",
     "descriptionPt": "Leia F-Class Destiny Hunter, um manhwa em português.",
-    "chaptersCount": 92,
+    "chaptersCount": 95,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258054,7 +258054,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia genio-regressado-criador-de-itens-mitico online em português.",
     "descriptionPt": "Leia genio-regressado-criador-de-itens-mitico online em português.",
-    "chaptersCount": 57,
+    "chaptersCount": 59,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261972,7 +261972,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Por favor não morra!, um manhwa em português.",
     "descriptionPt": "Leia Por favor não morra!, um manhwa em português.",
-    "chaptersCount": 34,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262024,7 +262024,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Imperador da Espada Reencarnou em um Clã de Mestres da Espada, um manhwa em português.",
     "descriptionPt": "Leia O Imperador da Espada Reencarnou em um Clã de Mestres da Espada, um manhwa em português.",
-    "chaptersCount": 44,
+    "chaptersCount": 45,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262152,7 +262152,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Entomologista Do Clã Tang De Sichuan, um manhwa em português.",
     "descriptionPt": "Leia Entomologista Do Clã Tang De Sichuan, um manhwa em português.",
-    "chaptersCount": 107,
+    "chaptersCount": 109,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262719,7 +262719,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Debutar ou Morrer, um manhwa em português.",
     "descriptionPt": "Leia Debutar ou Morrer, um manhwa em português.",
-    "chaptersCount": 95,
+    "chaptersCount": 96,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263542,7 +263542,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-noiva-fantasma-do-principe-abandonado online em português.",
     "descriptionPt": "Leia a-noiva-fantasma-do-principe-abandonado online em português.",
-    "chaptersCount": 19,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263597,7 +263597,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Estratégia Para Fracos Dominar a Torre, um manhwa em português.",
     "descriptionPt": "Leia Estratégia Para Fracos Dominar a Torre, um manhwa em português.",
-    "chaptersCount": 49,
+    "chaptersCount": 51,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263867,7 +263867,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Filho Imprestável do Marquês, um manhwa em português.",
     "descriptionPt": "Leia O Filho Imprestável do Marquês, um manhwa em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 33,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265540,7 +265540,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Princesa que Mantém seu Fã-clube em Segredo, um manhwa em português.",
     "descriptionPt": "Leia A Princesa que Mantém seu Fã-clube em Segredo, um manhwa em português.",
-    "chaptersCount": 113,
+    "chaptersCount": 114,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265852,7 +265852,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Por que você não deveria entrar em uma casa mal-assombrada, um manhwa em português.",
     "descriptionPt": "Leia Por que você não deveria entrar em uma casa mal-assombrada, um manhwa em português.",
-    "chaptersCount": 13,
+    "chaptersCount": 16,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269820,7 +269820,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O puro amor do vilão, um manhwa em português.",
     "descriptionPt": "Leia O puro amor do vilão, um manhwa em português.",
-    "chaptersCount": 7,
+    "chaptersCount": 10,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273117,7 +273117,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Não Acredito Que Sou M*, um manhwa em português.",
     "descriptionPt": "Leia Não Acredito Que Sou M*, um manhwa em português.",
-    "chaptersCount": 4,
+    "chaptersCount": 5,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273713,7 +273713,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Extra Quer Escapar Do Protagonista Masculino Obsessivo, um manhwa em português.",
     "descriptionPt": "Leia A Extra Quer Escapar Do Protagonista Masculino Obsessivo, um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 5,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -275152,7 +275152,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Alerta de Tsunami, um manhwa em português.",
     "descriptionPt": "Leia Alerta de Tsunami, um manhwa em português.",
-    "chaptersCount": 3,
+    "chaptersCount": 4,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

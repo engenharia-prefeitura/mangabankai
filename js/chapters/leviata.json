@@ -24,6 +24,13 @@
       ]
     },
     {
+      "id": "leviata-chapter-1",
+      "number": 1,
+      "title": "Capítulo 1",
+      "date": "2026-10-20T13:20:14.114Z",
+      "pages": []
+    },
+    {
       "id": "leviata-chapter-2",
       "number": 2,
       "title": "Capítulo 2",
@@ -1426,6 +1433,62 @@
         "https://cdn.leituramanga.net/leviata/capitulo-199-fim/page-8-2.webp",
         "https://cdn.leituramanga.net/leviata/capitulo-199-fim/page-9.webp"
       ]
+    },
+    {
+      "id": "leviata-chapter-200",
+      "number": 200,
+      "title": "Capítulo 200",
+      "date": "2026-10-20T13:20:57.683Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-201",
+      "number": 201,
+      "title": "Capítulo 201",
+      "date": "2026-10-20T13:21:06.712Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-202",
+      "number": 202,
+      "title": "Capítulo 202",
+      "date": "2026-10-20T13:21:38.998Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-203",
+      "number": 203,
+      "title": "Capítulo 203",
+      "date": "2026-10-20T13:22:12.585Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-204",
+      "number": 204,
+      "title": "Capítulo 204",
+      "date": "2026-10-20T13:22:43.069Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-205",
+      "number": 205,
+      "title": "Capítulo 205",
+      "date": "2026-10-20T13:23:16.114Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-206",
+      "number": 206,
+      "title": "Capítulo 206",
+      "date": "2026-10-20T13:24:41.738Z",
+      "pages": []
+    },
+    {
+      "id": "leviata-chapter-207",
+      "number": 207,
+      "title": "Capítulo 207",
+      "date": "2026-10-20T13:25:41.765Z",
+      "pages": []
     }
   ]
 }

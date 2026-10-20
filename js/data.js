@@ -97938,7 +97938,7 @@ let MANGA_DATA = [
     ],
     "description": "The Saintess’s Petals Are Drenched (Uncensored) “Is that your wish?” When a casual wish for a reverse harem of gorgeous men backfires, Hong Minji, a modern woman with more-than-average sex drive, finds herself trapped in a hardcore smut as the main character, Saint Agnes. Surrounded by endless temptation, she must be careful not to fall into the traps of a bad ending. However… why not enjoy herself in the meantime?",
     "descriptionPt": "",
-    "chaptersCount": 21,
+    "chaptersCount": 25,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207335,7 +207335,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Solstício, um manhwa em português.",
     "descriptionPt": "Leia Solstício, um manhwa em português.",
-    "chaptersCount": 57,
+    "chaptersCount": 58,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207758,7 +207758,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A filha mais nova salva esta família, um manhwa em português.",
     "descriptionPt": "Leia A filha mais nova salva esta família, um manhwa em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250415,7 +250415,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-esposa-que-esperou-no-campo-de-trigo online em português.",
     "descriptionPt": "Leia a-esposa-que-esperou-no-campo-de-trigo online em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251487,7 +251487,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Sou o Vilão Predestinado, um manhua em português.",
     "descriptionPt": "Leia Eu Sou o Vilão Predestinado, um manhua em português.",
-    "chaptersCount": 364,
+    "chaptersCount": 365,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251515,7 +251515,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Reencarnei Como um Cirurgião Lendário, um manhwa em português.",
     "descriptionPt": "Leia Reencarnei Como um Cirurgião Lendário, um manhwa em português.",
-    "chaptersCount": 220,
+    "chaptersCount": 221,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251780,7 +251780,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei Um Homem Casado Em Outro Mundo, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei Um Homem Casado Em Outro Mundo, um manhwa em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252466,7 +252466,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Um Dia Eu Era Um Filhote, um manhwa em português.",
     "descriptionPt": "Leia Um Dia Eu Era Um Filhote, um manhwa em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255247,7 +255247,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Estou Apenas Aproveitando meu Tempo Limite, um manhwa em português.",
     "descriptionPt": "Leia Estou Apenas Aproveitando meu Tempo Limite, um manhwa em português.",
-    "chaptersCount": 61,
+    "chaptersCount": 63,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256320,6 +256320,7 @@ let MANGA_DATA = [
       "Comedy",
       "Drama",
       "Explicit Sex",
+      "Full Color",
       "Harem",
       "Nudity",
       "Romance",
@@ -256328,7 +256329,7 @@ let MANGA_DATA = [
     ],
     "description": "Love For Sale After his father’s death leaves him in crushing debt, Ian’s privileged life ends overnight. With no way out, he takes a mysterious job to repay what he owes.",
     "descriptionPt": "",
-    "chaptersCount": 13,
+    "chaptersCount": 20,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -257112,7 +257113,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Momento de Cura com Dubli, um manhwa em português.",
     "descriptionPt": "Leia Momento de Cura com Dubli, um manhwa em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 33,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259379,7 +259380,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Uma Princesa que Lê a Sorte, um manhwa em português.",
     "descriptionPt": "Leia Uma Princesa que Lê a Sorte, um manhwa em português.",
-    "chaptersCount": 171,
+    "chaptersCount": 172,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260584,7 +260585,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-casei-com-o-dragao-que-matei online em português.",
     "descriptionPt": "Leia me-casei-com-o-dragao-que-matei online em português.",
-    "chaptersCount": 20,
+    "chaptersCount": 21,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261392,7 +261393,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-segredo-do-senior-perfeito online em português.",
     "descriptionPt": "Leia o-segredo-do-senior-perfeito online em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263895,7 +263896,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Corporação Goblin, um manhwa em português.",
     "descriptionPt": "Leia Corporação Goblin, um manhwa em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264677,7 +264678,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Olá, Sr. Veterinário!, um manhwa em português.",
     "descriptionPt": "Leia Olá, Sr. Veterinário!, um manhwa em português.",
-    "chaptersCount": 54,
+    "chaptersCount": 55,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -267520,7 +267521,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia ENNEAD, um manhwa em português.",
     "descriptionPt": "Leia ENNEAD, um manhwa em português.",
-    "chaptersCount": 158,
+    "chaptersCount": 159,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269711,7 +269712,7 @@ let MANGA_DATA = [
     ],
     "description": "Hero/Secretary The Hero defeats the Demon King and saves the world! But finding an ordinary job turns out to be an even harder quest… Then, at his final job interview, he discovers that the company chairwoman is none other than the Demon King herself?!",
     "descriptionPt": "",
-    "chaptersCount": 2,
+    "chaptersCount": 7,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -269795,7 +269796,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Deus do Caos Todo Poderoso, um manhwa em português.",
     "descriptionPt": "Leia O Deus do Caos Todo Poderoso, um manhwa em português.",
-    "chaptersCount": 120,
+    "chaptersCount": 121,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -274720,7 +274721,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Dama Lixo Que Roubou a Primeira Noite do Duque, um manhwa em português.",
     "descriptionPt": "Leia A Dama Lixo Que Roubou a Primeira Noite do Duque, um manhwa em português.",
-    "chaptersCount": 3,
+    "chaptersCount": 4,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -275179,7 +275180,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Primeiro os Filhos, Depois o Amor, um manhwa em português.",
     "descriptionPt": "Leia Primeiro os Filhos, Depois o Amor, um manhwa em português.",
-    "chaptersCount": 3,
+    "chaptersCount": 5,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -275228,7 +275229,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Roubando o Coração da Ladra Fantasma, um manhwa em português.",
     "descriptionPt": "Leia Roubando o Coração da Ladra Fantasma, um manhwa em português.",
-    "chaptersCount": 9,
+    "chaptersCount": 11,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -276154,7 +276155,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Um Retrato do Orgulho, um manhwa em português.",
     "descriptionPt": "Leia Um Retrato do Orgulho, um manhwa em português.",
-    "chaptersCount": 4,
+    "chaptersCount": 6,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

@@ -104850,7 +104850,7 @@ let MANGA_DATA = [
     ],
     "description": "Player Who Returned 10,000 Years Later One day he suddenly found himself in hell. All he had was the desire to live and a predation ability. From the first to the ninth thousand circles of hell, he absorbed dozens, hundreds of thousands of demons. Even the seven great dukes of hell bowed down before him. Why would you wish to go back? Doesn’t his highness have everything that’s in Hell? What do I have? Nothing to eat, nothing to enjoy! The only things in Hell are the barren lands and terrible demons! “I’m going back.” After ten thousand years he returns to Earth.",
     "descriptionPt": "",
-    "chaptersCount": 163,
+    "chaptersCount": 164,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207994,7 +207994,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Veletric, um manhwa em português.",
     "descriptionPt": "Leia Veletric, um manhwa em português.",
-    "chaptersCount": 399,
+    "chaptersCount": 400,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231671,7 +231671,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Minhas Sete Noivas São Todas Vilãs, um manhua em português.",
     "descriptionPt": "Leia Minhas Sete Noivas São Todas Vilãs, um manhua em português.",
-    "chaptersCount": 76,
+    "chaptersCount": 78,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232920,7 +232920,7 @@ let MANGA_DATA = [
     ],
     "description": "Building My Roster Following an intense session of physical intimacy, Dojun is blindsided by a statement from his girlfriend that defies all logic and expectation. Instead of the usual post-coital whispers, she drops a bombshell that leaves him reeling in shock: “Babe, have you ever thought about getting a fuck-buddy?” Far from being a test or a trick, it turns out to be the opening act of an extraordinary “Harem Project” specifically designed to handle her boyfriend’s inexhaustible stamina and high libido. The ambitious goal is set: seven different women to fill every single day of the week, ",
     "descriptionPt": "",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -252712,7 +252712,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mestre Espadachim Criado Pelas Estrelas, um manhwa em português.",
     "descriptionPt": "Leia Mestre Espadachim Criado Pelas Estrelas, um manhwa em português.",
-    "chaptersCount": 142,
+    "chaptersCount": 143,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252737,7 +252737,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Melhor Homem no Comando, um manhwa em português.",
     "descriptionPt": "Leia O Melhor Homem no Comando, um manhwa em português.",
-    "chaptersCount": 210,
+    "chaptersCount": 211,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252762,7 +252762,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Regressando como o Bastardo do Clã da Espada, um manhwa em português.",
     "descriptionPt": "Leia Regressando como o Bastardo do Clã da Espada, um manhwa em português.",
-    "chaptersCount": 116,
+    "chaptersCount": 117,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253106,7 +253106,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Estilo de Vida de um Imortal, um manhwa em português.",
     "descriptionPt": "Leia O Estilo de Vida de um Imortal, um manhwa em português.",
-    "chaptersCount": 34,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256185,7 +256185,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia I Adopted a Villainous Dad, um manhwa em português.",
     "descriptionPt": "Leia I Adopted a Villainous Dad, um manhwa em português.",
-    "chaptersCount": 101,
+    "chaptersCount": 103,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258836,7 +258836,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Que se dane ser o Herdeiro, Eu vou Curar, um manhwa em português.",
     "descriptionPt": "Leia Que se dane ser o Herdeiro, Eu vou Curar, um manhwa em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260519,7 +260519,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-mestre-espadachim-devorador-de-espadas online em português.",
     "descriptionPt": "Leia o-mestre-espadachim-devorador-de-espadas online em português.",
-    "chaptersCount": 50,
+    "chaptersCount": 51,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262801,7 +262801,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Todos os Meus Avatares são Magnatas, um manhwa em português.",
     "descriptionPt": "Leia Todos os Meus Avatares são Magnatas, um manhwa em português.",
-    "chaptersCount": 101,
+    "chaptersCount": 103,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

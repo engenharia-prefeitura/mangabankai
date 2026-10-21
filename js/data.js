@@ -96141,7 +96141,7 @@ let MANGA_DATA = [
     ],
     "description": "I Obtained a Mythic Item Yggdrasil, the World Tree of Norse Mythology, suddenly appeared on Earth. And with it came demonic creatures that ravaged entire cities. Although not all hope is lost, due to the System that a few special humans had gained. In this new world where only the strong survived, Min JaeHyun scrapes by regretting the wrong choices he’d made in the past… when one day, he gains the only Mythic item in the world. How will this item help him? And can he change his wretched fate?",
     "descriptionPt": "",
-    "chaptersCount": 193,
+    "chaptersCount": 194,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97026,7 +97026,7 @@ let MANGA_DATA = [
     ],
     "description": "Seres’s Resolve: The Battle for Humanity I’ll never stop fighting tooth and nail to safeguard humanity and all people under heaven. It’s time to power up the system once more, ramping up its capabilities to meet this crucial challenge!",
     "descriptionPt": "",
-    "chaptersCount": 64,
+    "chaptersCount": 65,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -100294,7 +100294,7 @@ let MANGA_DATA = [
     ],
     "description": "Paws on Campus They might looks beastly, but inside they’re all softies. Step inside this furry campus, and find out what these college animals are up to!",
     "descriptionPt": "",
-    "chaptersCount": 40,
+    "chaptersCount": 51,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -276853,6 +276853,31 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "a-for-pleasure",
+    "slug": "a-for-pleasure",
+    "title": "A+ for Pleasure",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2026/05/a-for-pleasure-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2026/05/a-for-pleasure-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult",
+      "Seinen"
+    ],
+    "description": "She’s the perfect private tutor—smart, beautiful, and willing to offer more than just extra lessons. For her top-scoring students, the reward goes far beyond",
+    "descriptionEn": "She’s the perfect private tutor—smart, beautiful, and willing to offer more than just extra lessons. For her top-scoring students, the reward goes far beyond",
+    "chaptersCount": 34,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

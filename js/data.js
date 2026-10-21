@@ -232467,7 +232467,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Marido Que Eu Contratei Me Quer, um manhwa em português.",
     "descriptionPt": "Leia O Marido Que Eu Contratei Me Quer, um manhwa em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 46,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -233423,7 +233423,7 @@ let MANGA_DATA = [
     ],
     "description": "CCTV (Official) Spencer, who hates being bored, got a job in the security department of a college and started peeping girls through CCTV. One day, he sees a cowardly girl getting naked in public.",
     "descriptionPt": "",
-    "chaptersCount": 36,
+    "chaptersCount": 38,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -249347,7 +249347,7 @@ let MANGA_DATA = [
     ],
     "description": "A+ for Pleasure She’s the perfect private tutor—smart, beautiful, and willing to offer more than just extra lessons. For her top-scoring students, the reward goes far beyond grades… and once you get a taste, you’ll do anything to stay at the top of the class.",
     "descriptionPt": "",
-    "chaptersCount": 26,
+    "chaptersCount": 35,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -259380,7 +259380,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Uma Princesa que Lê a Sorte, um manhwa em português.",
     "descriptionPt": "Leia Uma Princesa que Lê a Sorte, um manhwa em português.",
-    "chaptersCount": 172,
+    "chaptersCount": 173,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261514,7 +261514,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Um Homem de Verdade, um manhwa em português.",
     "descriptionPt": "Leia Um Homem de Verdade, um manhwa em português.",
-    "chaptersCount": 63,
+    "chaptersCount": 72,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262929,7 +262929,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Não há lugar para falsificações, um manhwa em português.",
     "descriptionPt": "Leia Não há lugar para falsificações, um manhwa em português.",
-    "chaptersCount": 125,
+    "chaptersCount": 126,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265911,31 +265911,6 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
-  },
-  {
-    "id": "a-for-pleasure",
-    "slug": "a-for-pleasure",
-    "title": "A+ for Pleasure",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2026/05/a-for-pleasure-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2026/05/a-for-pleasure-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adult",
-      "Seinen"
-    ],
-    "description": "She’s the perfect private tutor—smart, beautiful, and willing to offer more than just extra lessons. For her top-scoring students, the reward goes far beyond",
-    "descriptionEn": "She’s the perfect private tutor—smart, beautiful, and willing to offer more than just extra lessons. For her top-scoring students, the reward goes far beyond",
-    "chaptersCount": 26,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
   },
   {
     "id": "a-amada-boneca-do-tirano",
@@ -276802,6 +276777,82 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "temporada-de-amor",
+    "slug": "temporada-de-amor",
+    "title": "Temporada de Amor",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/temporada-de-amor/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/temporada-de-amor/cover-md.webp",
+    "author": "HONGDUCK",
+    "artist": "HONGDUCK",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Manhwa",
+      "Escolar"
+    ],
+    "description": "Leia Temporada de Amor, um manhwa em português.",
+    "descriptionPt": "Leia Temporada de Amor, um manhwa em português.",
+    "chaptersCount": 8,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "inverno-antes-da-primavera",
+    "slug": "inverno-antes-da-primavera",
+    "title": "Inverno Antes da Primavera",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/inverno-antes-da-primavera/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/inverno-antes-da-primavera/cover-md.webp",
+    "author": "moonbun00",
+    "artist": "moonbun00",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Romance",
+      "Vida Escolar",
+      "Yuri",
+      "Moderno"
+    ],
+    "description": "Leia Inverno Antes da Primavera, um mangá em português.",
+    "descriptionPt": "Leia Inverno Antes da Primavera, um mangá em português.",
+    "chaptersCount": 62,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "tankouhentai-giji-sex-kyoudai",
+    "slug": "giji-sex-kyoudai",
+    "title": "Giji SEX Kyoudai",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/10/Giji-Sex-Kyoudai-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/10/Giji-Sex-Kyoudai-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Fence14",
+    "status": "completed",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Incesto",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 7,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

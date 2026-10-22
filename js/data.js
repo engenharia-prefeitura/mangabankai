@@ -260216,7 +260216,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Minha Caracol Sexy, um manhwa em português.",
     "descriptionPt": "Leia Minha Caracol Sexy, um manhwa em português.",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260541,7 +260541,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-transmissao-do-reino-demoniaco-do-demonio-celestial-rejuvenescido online em português.",
     "descriptionPt": "Leia a-transmissao-do-reino-demoniaco-do-demonio-celestial-rejuvenescido online em português.",
-    "chaptersCount": 23,
+    "chaptersCount": 24,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265043,7 +265043,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Aceitarei Este Casamento Desta Vez, um manhwa em português.",
     "descriptionPt": "Leia Aceitarei Este Casamento Desta Vez, um manhwa em português.",
-    "chaptersCount": 44,
+    "chaptersCount": 45,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265464,7 +265464,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vilã Está Com Sorte Ultimamente, um manhwa em português.",
     "descriptionPt": "Leia A Vilã Está Com Sorte Ultimamente, um manhwa em português.",
-    "chaptersCount": 63,
+    "chaptersCount": 64,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266374,7 +266374,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sobrevivendo no Jogo Como um Bárbaro, um manhwa em português.",
     "descriptionPt": "Leia Sobrevivendo no Jogo Como um Bárbaro, um manhwa em português.",
-    "chaptersCount": 162,
+    "chaptersCount": 163,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -268152,7 +268152,7 @@ let MANGA_DATA = [
     ],
     "description": "Off the Record (Uncensored) Nine years after disappearing from his life, Moh Chan-yeong’s first love moves in next door. Bolder, wilder, and now revealed to be Chan-yeong’s favorite author, Ryu Seok isn’t shy about using their past to get what he wants. He makes a direct proposal: he needs Chan-yeong’s body for creative inspiration. Can a devoted single dad resist the shameless ex who knows every single one of his weaknesses?",
     "descriptionPt": "",
-    "chaptersCount": 8,
+    "chaptersCount": 14,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -269949,7 +269949,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ressuscitei meu Marido por Acidente., um manhwa em português.",
     "descriptionPt": "Leia Ressuscitei meu Marido por Acidente., um manhwa em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273042,7 +273042,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Suavizando o jeito gangster do protagonista masculino, um manhwa em português.",
     "descriptionPt": "Leia Suavizando o jeito gangster do protagonista masculino, um manhwa em português.",
-    "chaptersCount": 51,
+    "chaptersCount": 55,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273455,7 +273455,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Monster Lady and the Paladin, um manhwa em português.",
     "descriptionPt": "Leia The Monster Lady and the Paladin, um manhwa em português.",
-    "chaptersCount": 63,
+    "chaptersCount": 64,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273479,7 +273479,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Mordomo Mais Forte Da Família Dos Vilões, um manhwa em português.",
     "descriptionPt": "Leia O Mordomo Mais Forte Da Família Dos Vilões, um manhwa em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -274809,7 +274809,7 @@ let MANGA_DATA = [
     ],
     "description": "In the Deep (Uncensored) It’s been years since Haemin first began craving blood…and only his brother’s will do. Something uncontrollable has called out to Haemin since he was a young boy: an animalistic urge that won’t quell until he’s had his share of blood. Despite this, his younger brother Dogun will do whatever is necessary to keep him safe…and that includes lending him a hand (or vein) whenever his thirst takes over. On top of this, as an elite agent, Dogun needs to fight off the mutants that have begun to invade the world. As the two brothers try to survive in a world full of ravenous be",
     "descriptionPt": "",
-    "chaptersCount": 92,
+    "chaptersCount": 93,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -276433,7 +276433,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Nós, Introvertidos, um manhwa em português.",
     "descriptionPt": "Leia Nós, Introvertidos, um manhwa em português.",
-    "chaptersCount": 48,
+    "chaptersCount": 53,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

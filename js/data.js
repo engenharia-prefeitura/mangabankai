@@ -207627,7 +207627,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Missões na Vida Real, um manhwa em português.",
     "descriptionPt": "Leia Missões na Vida Real, um manhwa em português.",
-    "chaptersCount": 228,
+    "chaptersCount": 229,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -233331,7 +233331,7 @@ let MANGA_DATA = [
     ],
     "description": "Matched with My Bully on Random Chat (Official) Daniel thinks the girl he matched with might be the same one who used to torment him. But this time, he’s the one holding the power, and with it, he plans to bring down his old bully, her friend… and even her family.",
     "descriptionPt": "",
-    "chaptersCount": 47,
+    "chaptersCount": 52,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -250943,7 +250943,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Caída no Paraíso, um manhwa em português.",
     "descriptionPt": "Leia Caída no Paraíso, um manhwa em português.",
-    "chaptersCount": 59,
+    "chaptersCount": 61,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251296,7 +251296,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Filho Caçula do Conde é um Jogador, um manhwa em português.",
     "descriptionPt": "Leia O Filho Caçula do Conde é um Jogador, um manhwa em português.",
-    "chaptersCount": 175,
+    "chaptersCount": 180,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251755,7 +251755,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Senhorita Celebridade, um manhwa em português.",
     "descriptionPt": "Leia Senhorita Celebridade, um manhwa em português.",
-    "chaptersCount": 91,
+    "chaptersCount": 92,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263946,7 +263946,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Pincel Divino de Hwarim, um manhwa em português.",
     "descriptionPt": "Leia O Pincel Divino de Hwarim, um manhwa em português.",
-    "chaptersCount": 15,
+    "chaptersCount": 16,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273663,7 +273663,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Não Confie Nele, Nem o Ame, um manhwa em português.",
     "descriptionPt": "Leia Não Confie Nele, Nem o Ame, um manhwa em português.",
-    "chaptersCount": 4,
+    "chaptersCount": 5,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273689,7 +273689,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Extra Quer Escapar Do Protagonista Masculino Obsessivo, um manhwa em português.",
     "descriptionPt": "Leia A Extra Quer Escapar Do Protagonista Masculino Obsessivo, um manhwa em português.",
-    "chaptersCount": 5,
+    "chaptersCount": 6,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -275229,7 +275229,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Escondendo Minha Identidade do Meu Marido, um manhwa em português.",
     "descriptionPt": "Leia Escondendo Minha Identidade do Meu Marido, um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 3,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

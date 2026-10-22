@@ -95993,7 +95993,7 @@ let MANGA_DATA = [
     ],
     "description": "Reformation of the Deadbeat Noble Irene Perreira is a boy who sleeps to run away from reality. People mocked him, calling him a ‘deadbeat’, but he had no wish to change. Until one day, he dreamt of a swordsman… It was a dream about a talentless man who had been training by swinging his sword for decades.",
     "descriptionPt": "",
-    "chaptersCount": 161,
+    "chaptersCount": 164,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97525,7 +97525,7 @@ let MANGA_DATA = [
     ],
     "description": "Jumping the Geon (Uncensored) From childhood, Sohm has always felt queasy and unsettled whenever he looks at Geon, a boy who is almost like him but somehow completely different. The two can never meet eyes without arguing, and when their parents remarry and they suddenly become family, strict rules are put in place to keep the peace. Rule One: Go to and from school together. Rule Two: Hug for thirty full seconds before entering the house. Forced into daily embraces, their unwanted closeness begins to change in ways neither expected. Geon’s teasing eventually leads to something far more risky t",
     "descriptionPt": "",
-    "chaptersCount": 62,
+    "chaptersCount": 64,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -98674,7 +98674,7 @@ let MANGA_DATA = [
     ],
     "description": "Lustful Games “A walk down memory lane of school memories filled with studying and bullying. After graduation, each student who was a senior of Class 5 receives a message to participate in an alumni reunion. No one knows who sent the message. A reward of $10,000 and the location is an abandoned island. Although there were some suspicious parts to the message, everyone participates, thinking that it’s a joke. In this event, everyone relives and faces their past self which they had buried for so long.”",
     "descriptionPt": "",
-    "chaptersCount": 145,
+    "chaptersCount": 153,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -276130,7 +276130,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Um Retrato do Orgulho, um manhwa em português.",
     "descriptionPt": "Leia Um Retrato do Orgulho, um manhwa em português.",
-    "chaptersCount": 10,
+    "chaptersCount": 12,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -276878,6 +276878,96 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "para-ser-uma-orquidea-unica",
+    "slug": "para-ser-uma-orquidea-unica",
+    "title": "Para ser uma Orquídea Única",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/para-ser-uma-orquidea-unica/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/para-ser-uma-orquidea-unica/cover-md.webp",
+    "author": "dikitalis",
+    "artist": "dikitalis",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Adulto",
+      "Slice of Life",
+      "+18",
+      "Manhwa",
+      "Opostos se atraem",
+      "Primeiro amor",
+      "Diferença de idade",
+      "Slow burn"
+    ],
+    "description": "Leia Para ser uma Orquídea Única, um manhwa em português.",
+    "descriptionPt": "Leia Para ser uma Orquídea Única, um manhwa em português.",
+    "chaptersCount": 6,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "panico-moral",
+    "slug": "panico-moral",
+    "title": "Pânico moral",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/panico-moral/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/panico-moral/cover-md.webp",
+    "author": "TTM",
+    "artist": "TTM",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Adulto",
+      "+18",
+      "Manhwa",
+      "Suspense",
+      "Slow burn",
+      "Enemies to lovers",
+      "Protagonista esperta"
+    ],
+    "description": "Leia Pânico moral, um manhwa em português.",
+    "descriptionPt": "Leia Pânico moral, um manhwa em português.",
+    "chaptersCount": 1,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "doce-ruina",
+    "slug": "doce-ruina",
+    "title": "Doce Ruína",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/doce-ruina/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/doce-ruina/cover-md.webp",
+    "author": "Chaeok",
+    "artist": "Chaeok",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Histórico",
+      "Josei",
+      "Ecchi",
+      "Adulto",
+      "Smut",
+      "Manhwa"
+    ],
+    "description": "Leia Doce Ruína, um manhwa em português.",
+    "descriptionPt": "Leia Doce Ruína, um manhwa em português.",
+    "chaptersCount": 2,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 
@@ -277002,7 +277092,7 @@ function filterManga(opts) {
   return results;
 }
 
-const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animais","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Casamento Arranjado","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Conto","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Doujinshi","Drama","Ecchi","Época","Erótico","Escolar","Escritório","Esporte","Esportes","Estratégia","Explicit Sex","Familia","Família","Família real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gore","Gyaru","Harem","Harém","Harém Reverso","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Horrow","Idol","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Máfia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","Older Woman","Omegaverse","One Shot","Outros gêneros","Parceria","Parody Anime","Parte da Vida","Person in a Strange World","Police","Policial","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragédia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vampiro","Vanilla","Viagem no tempo","Vida escolar","Vida Escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Younger Man","Yuri","Zombies","Zoofilia"];
+const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Angústia","Animais","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Casamento Arranjado","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Conto","Cooking","Coworkers","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Diferença de idade","Doujinshi","Drama","Ecchi","Enemies to lovers","Época","Erótico","Escolar","Escritório","Esporte","Esportes","Estratégia","Explicit Sex","Familia","Família","Família real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gay-Yaoi","Gender Bender","Ghosts","GL","Gore","Gyaru","Harem","Harém","Harém Reverso","Hentai","Hentai Anime","Historical","Historico","Histórico","Horror","Horrow","Idol","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Máfia","Magia","Magic","Magical Girl","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","OEL","Older Woman","Omegaverse","One Shot","Opostos se atraem","Outros gêneros","Parceria","Parody Anime","Parte da Vida","Person in a Strange World","Police","Policial","Primeiro amor","Protagonista esperta","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Slow burn","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragédia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vampiro","Vanilla","Viagem no tempo","Vida escolar","Vida Escolar","Vingança","Violence","Virtual Reality","Webtoon","Webtoons","Western","Work Life","Yaoi","Younger Man","Yuri","Zombies","Zoofilia"];
 
 var ADULT_GENRE_KW = ['hentai','adulto','adult','+18','18+','nsfw','ecchi','smut','mature','maduro','erotic','erótic','erotica','bdsm','futanari','loli','shota','inces','tentacul','tentácul','zoofilia','obsceno','sem censura','uncensor','censura','nudez','nudity','sexual','sexo','mindbreak','ahegao','netorare','fetich','fetish','omegaverse','vanilla','borderline h'];
 function isAdultGenre(g) {

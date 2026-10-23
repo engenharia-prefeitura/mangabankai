@@ -60580,7 +60580,7 @@ let MANGA_DATA = [
     ],
     "description": "One day, the dead broke Hoonsang receives a suspicious business card, which grants him a new life in a new city called Bannam-dong, the cheating city, as well",
     "descriptionEn": "One day, the dead broke Hoonsang receives a suspicious business card, which grants him a new life in a new city called Bannam-dong, the cheating city, as well",
-    "chaptersCount": 107,
+    "chaptersCount": 108,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

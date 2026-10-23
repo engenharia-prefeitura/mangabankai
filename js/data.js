@@ -95221,7 +95221,7 @@ let MANGA_DATA = [
     ],
     "description": "A Changed Man “If I can’t have you, no one can.” Hestia killed her beloved brother Ian with her own two hands. Three months later, he reappears in front of her seemingly unharmed; however, he has seemingly lost all his memories and become an almost completely different person. Everyone in the kingdom welcomes him back with open arms, but only Hestia suspects some foul play at work. Has her brother really changed? Or Ian not who he seems?",
     "descriptionPt": "",
-    "chaptersCount": 80,
+    "chaptersCount": 82,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97270,7 +97270,7 @@ let MANGA_DATA = [
     ],
     "description": "Lucia – Extended Lucia is an ordinary girl…except for the fact that she is actually Princess Vivian Hesse, who can predict her future through her dreams. Those dreams tell her that what inevitably waits her is a nightmarish marriage with a horrible man. Lucia’s only hope at changing this future is Hugo Taran, the nation’s dreaded “Black Lion of the Battlefield.” Desperate to escape the fate that awaits her, Lucia decides to strike an unconventional deal with Hugo. Little does she know that this deal could bring her and Hugo together in more ways than one…",
     "descriptionPt": "",
-    "chaptersCount": 11,
+    "chaptersCount": 18,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -266216,7 +266216,7 @@ let MANGA_DATA = [
     ],
     "description": "The Scarlet Bound (Uncensored) Rumor has it the local governor has a twisted taste for men, humiliating and breaking every criminal brought before him. When the poor bandit Hyeon is dragged into his court, he expects his life to end right then and there. But the young lord—a breathtakingly handsome, sharp-witted man—has bigger plans. Recognizing Hyeon’s fierce skills, he offers the young thief a choice: rot in a cell, or become his shadow, his right-hand man, and help him secretly purge the empire of corrupt nobles. Forced into a dangerous alliance with a magistrate who is as cunning as he is ",
     "descriptionPt": "",
-    "chaptersCount": 8,
+    "chaptersCount": 16,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -276130,7 +276130,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Um Retrato do Orgulho, um manhwa em português.",
     "descriptionPt": "Leia Um Retrato do Orgulho, um manhwa em português.",
-    "chaptersCount": 12,
+    "chaptersCount": 14,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -277169,6 +277169,30 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "tankouhentai-zombie-darake-no-kono-sekai-de-wa-sex-shinai-to-ikinokorenai",
+    "slug": "zombie-darake-no-kono-sekai-de-wa-sex-shinai-to-ikinokorenai",
+    "title": "Zombie Darake No Kono Sekai De Wa Sex Shinai To Ikinokorenai",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/10/Zombie-Darake-No-Kono-Sekai-De-Wa-Sex-Shinai-To-Ikinokorenai-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/10/Zombie-Darake-No-Kono-Sekai-De-Wa-Sex-Shinai-To-Ikinokorenai-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Hori Yusuke",
+    "status": "completed",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Vanilla",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 7,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

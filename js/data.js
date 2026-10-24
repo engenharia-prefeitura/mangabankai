@@ -3113,7 +3113,7 @@ let MANGA_DATA = [
       "Sports"
     ],
     "description": "The story starts with Japan's end from the 2018 FIFA World Cup, which prompts the Japanese Football Union to begin a program exploring secondary school players who will start preparing in anticipation of the 2022 Cup. Isagi Youichi, a forward, gets a solicitation to this program not long after his group loses the opportunity to go to Nationals since he went to his less-talented partner - who missed - without attempting to make the game-changing objective without anyone else. \r\n\r\nTheir mentor will be Ego Jinpachi, who plans to \"obliterate Japanese failure football\" by presenting a radical new preparing routine: confine 300 youthful advances in a jail like organization called \"Blue Lock\" and put them through thorough preparing planned for making \"the world's most noteworthy narcissist striker.\"",
-    "chaptersCount": 373,
+    "chaptersCount": 374,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -55296,7 +55296,7 @@ let MANGA_DATA = [
       "Manga"
     ],
     "description": "Leia Sakamoto Days online no MangaSurge.",
-    "chaptersCount": 279,
+    "chaptersCount": 280,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -55736,7 +55736,7 @@ let MANGA_DATA = [
       "Manga"
     ],
     "description": "Leia Shangri La Frontier online no MangaSurge.",
-    "chaptersCount": 283,
+    "chaptersCount": 284,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -115771,7 +115771,7 @@ let MANGA_DATA = [
     ],
     "description": "Best Teacher Baek Once the finest instructor in the Blood Cult, Suryong Baek is killed, only to to wake up in the body of someone who teaches martial arts at a small rural academy. His new body may be weak, but he knows how to fix it, and it’s not the first time that he’s found himself in a body that can’t access its inner power. Curing his body requires money, however, and Suryong decides that becoming the greatest instructor at a top academy is the best way to do it. Since he’ll be up against tough competition, Suryong will have to use everything he’s got to become a teaching superstar.",
     "descriptionPt": "",
-    "chaptersCount": 164,
+    "chaptersCount": 166,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -266612,7 +266612,7 @@ let MANGA_DATA = [
     ],
     "description": "Bubbling Up! (Uncensored) Dogeon moved into a shabby rooftop apartment with big dreams of making it as a musician, but harsh reality quickly crushed his spirits. Seeking a brief moment of peace, he opened his bathroom door, only to find an unexpected tenant swimming in his toilet: an Oranda goldfish. Living with a pet fish seemed simple enough at first. That is, until Dogeon woke up one night to a strangely damp sensation against his back. Sprawled on the floor beside his bed was a helpless stranger, flopping around on two new human legs and complaining that his body felt completely wrong. Wit",
     "descriptionPt": "",
-    "chaptersCount": 13,
+    "chaptersCount": 16,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -267496,7 +267496,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia ENNEAD, um manhwa em português.",
     "descriptionPt": "Leia ENNEAD, um manhwa em português.",
-    "chaptersCount": 160,
+    "chaptersCount": 161,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269949,7 +269949,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ressuscitei meu Marido por Acidente., um manhwa em português.",
     "descriptionPt": "Leia Ressuscitei meu Marido por Acidente., um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

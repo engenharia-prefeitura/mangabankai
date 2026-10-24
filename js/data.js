@@ -266190,7 +266190,7 @@ let MANGA_DATA = [
     ],
     "description": "FlashLight (Uncensored) Aaron Hunter’s got it all. Looks, talent, and he just won the award for best actor. He does have one issue though: trouble sleeping. The only thing that’ll get him to fall asleep is a certain song by a certain someone. And when they finally meet, this is Aaron’s chance to get him to write a new song. But will the mysterious singer accept this deal? And will past traumas become illuminated by their newfound relationship…?",
     "descriptionPt": "",
-    "chaptersCount": 69,
+    "chaptersCount": 76,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -273042,7 +273042,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Suavizando o jeito gangster do protagonista masculino, um manhwa em português.",
     "descriptionPt": "Leia Suavizando o jeito gangster do protagonista masculino, um manhwa em português.",
-    "chaptersCount": 55,
+    "chaptersCount": 56,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -276798,7 +276798,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Temporada de Amor, um manhwa em português.",
     "descriptionPt": "Leia Temporada de Amor, um manhwa em português.",
-    "chaptersCount": 8,
+    "chaptersCount": 10,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

@@ -92744,7 +92744,7 @@ let MANGA_DATA = [
     ],
     "description": "I’m a Vampire (Official) “It’s simple. Fuck them!” I became a vampire after a ridiculous accident. For better or worse, I didn’t need blood to survive. There’s only one way to survive. Become a predator and suck girls’ vital essence!",
     "descriptionPt": "",
-    "chaptersCount": 29,
+    "chaptersCount": 40,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -112997,7 +112997,7 @@ let MANGA_DATA = [
     ],
     "description": "No Man’s Land It was on a fateful day when ordinary guy, Lee Seon-woong, found himself transported to a mysterious new world. Initially excited to make his fantasy adventure debut, his hopes are quickly dashed when he discovers he was granted no special powers or blessings. Although Seon-woong is devastated by the news that he’ll have to navigate this no man’s land without any cheat codes, he soon realizes the term “no man’s land” means something more literal around these parts, and he has something special attached to him that no other inhabitant does…",
     "descriptionPt": "",
-    "chaptersCount": 97,
+    "chaptersCount": 100,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207310,7 +207310,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Minha família vilã é contra minha independência, um manhwa em português.",
     "descriptionPt": "Leia Minha família vilã é contra minha independência, um manhwa em português.",
-    "chaptersCount": 101,
+    "chaptersCount": 102,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253658,7 +253658,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Longe de estar Sóbrio, um manhwa em português.",
     "descriptionPt": "Leia Longe de estar Sóbrio, um manhwa em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 23,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255735,7 +255735,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Amor:Zero, um manhwa em português.",
     "descriptionPt": "Leia Amor:Zero, um manhwa em português.",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259535,7 +259535,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
     "descriptionPt": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
-    "chaptersCount": 34,
+    "chaptersCount": 36,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259690,7 +259690,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Era o Lixo, um manhwa em português.",
     "descriptionPt": "Leia Eu Era o Lixo, um manhwa em português.",
-    "chaptersCount": 44,
+    "chaptersCount": 45,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261780,7 +261780,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Cavaleiro Santo De Grau SSS, um manhua em português.",
     "descriptionPt": "Leia Cavaleiro Santo De Grau SSS, um manhua em português.",
-    "chaptersCount": 220,
+    "chaptersCount": 223,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265185,7 +265185,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Meu Caminho Simulado Rumo à Imortalidade, um manhua em português.",
     "descriptionPt": "Leia Meu Caminho Simulado Rumo à Imortalidade, um manhua em português.",
-    "chaptersCount": 85,
+    "chaptersCount": 89,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265541,7 +265541,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Princesa que Mantém seu Fã-clube em Segredo, um manhwa em português.",
     "descriptionPt": "Leia A Princesa que Mantém seu Fã-clube em Segredo, um manhwa em português.",
-    "chaptersCount": 114,
+    "chaptersCount": 115,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -270219,7 +270219,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Isabela, um manhwa em português.",
     "descriptionPt": "Leia Isabela, um manhwa em português.",
-    "chaptersCount": 5,
+    "chaptersCount": 7,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -271393,7 +271393,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Filha Mais Nova da Família Snake, um manhwa em português.",
     "descriptionPt": "Leia A Filha Mais Nova da Família Snake, um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 4,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -272835,32 +272835,6 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
-  },
-  {
-    "id": "no-man-s-land",
-    "slug": "no-man-s-land",
-    "title": "No Man’s Land",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2025/08/no-mans-land-01-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2025/08/no-mans-land-01-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adventure",
-      "Supernatural",
-      "Adult"
-    ],
-    "description": "It was on a fateful day when an ordinary guy, Lee Seon-Woong, found himself transported to a mysterious new world. Initially excited to make his fantasy",
-    "descriptionEn": "It was on a fateful day when an ordinary guy, Lee Seon-Woong, found himself transported to a mysterious new world. Initially excited to make his fantasy",
-    "chaptersCount": 93,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
   },
   {
     "id": "mangadistrict-the-kink-buffet-uncensored",
@@ -276640,7 +276614,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Os passes do meio-campista genial são especiais, um manhwa em português.",
     "descriptionPt": "Leia Os passes do meio-campista genial são especiais, um manhwa em português.",
-    "chaptersCount": 70,
+    "chaptersCount": 76,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -276964,7 +276938,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Doce Ruína, um manhwa em português.",
     "descriptionPt": "Leia Doce Ruína, um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 3,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

@@ -91467,7 +91467,7 @@ let MANGA_DATA = [
     ],
     "description": "Slaves of the Safe Zone (Official) After the zombie outbreak, the boss’s stuck-up daughters, who used to look down on him, showed up at his shelter.",
     "descriptionPt": "",
-    "chaptersCount": 50,
+    "chaptersCount": 58,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -231414,7 +231414,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromante do Clã da Espada, um manhwa em português.",
     "descriptionPt": "Leia Necromante do Clã da Espada, um manhwa em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 33,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231620,7 +231620,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Coração Ferido, um webtoon em português.",
     "descriptionPt": "Leia Coração Ferido, um webtoon em português.",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231968,7 +231968,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Professor Runebound, um webtoon em português.",
     "descriptionPt": "Leia O Retorno do Professor Runebound, um webtoon em português.",
-    "chaptersCount": 95,
+    "chaptersCount": 96,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232336,7 +232336,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Superação do Nobre Vagabundo, um manhwa em português.",
     "descriptionPt": "Leia A Superação do Nobre Vagabundo, um manhwa em português.",
-    "chaptersCount": 164,
+    "chaptersCount": 165,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -241756,7 +241756,7 @@ let MANGA_DATA = [
     "descriptionPt": "",
     "chaptersCount": 101,
     "lang": "en",
-    "hasPt": false,
+    "hasPt": true,
     "hasEn": true,
     "source": "mangadistrict"
   },
@@ -249454,7 +249454,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromante: Rei dos Mortos, um manhua em português.",
     "descriptionPt": "Leia Necromante: Rei dos Mortos, um manhua em português.",
-    "chaptersCount": 315,
+    "chaptersCount": 317,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251219,7 +251219,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Regressor da Família Caída, um manhwa em português.",
     "descriptionPt": "Leia O Regressor da Família Caída, um manhwa em português.",
-    "chaptersCount": 156,
+    "chaptersCount": 157,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254517,7 +254517,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei O Mentor do Rei Demônio mais Fraco, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei O Mentor do Rei Demônio mais Fraco, um manhwa em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254671,7 +254671,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia streaming-da-estrategia-oculta-do-retornado online em português.",
     "descriptionPt": "Leia streaming-da-estrategia-oculta-do-retornado online em português.",
-    "chaptersCount": 51,
+    "chaptersCount": 52,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255225,7 +255225,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Fui Jogado em uma História de Fantasmas, Mas Ainda Tenho que Trabalhar, um manhwa em português.",
     "descriptionPt": "Leia Fui Jogado em uma História de Fantasmas, Mas Ainda Tenho que Trabalhar, um manhwa em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256238,7 +256238,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Protagonista Masculino Está Obcecado Pela Minha Saúde, um manhwa em português.",
     "descriptionPt": "Leia O Protagonista Masculino Está Obcecado Pela Minha Saúde, um manhwa em português.",
-    "chaptersCount": 71,
+    "chaptersCount": 72,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257116,7 +257116,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Momento de Cura com Dubli, um manhwa em português.",
     "descriptionPt": "Leia Momento de Cura com Dubli, um manhwa em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264335,7 +264335,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Um Pintor Que Desenha Dungeons, um manhwa em português.",
     "descriptionPt": "Leia Um Pintor Que Desenha Dungeons, um manhwa em português.",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269185,7 +269185,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Nerd da Casa ao Lado é o Mestre da Torre Mágica?!, um manhwa em português.",
     "descriptionPt": "Leia O Nerd da Casa ao Lado é o Mestre da Torre Mágica?!, um manhwa em português.",
-    "chaptersCount": 7,
+    "chaptersCount": 8,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269749,7 +269749,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Caminho até Você, um manhwa em português.",
     "descriptionPt": "Leia O Caminho até Você, um manhwa em português.",
-    "chaptersCount": 4,
+    "chaptersCount": 5,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269952,7 +269952,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ressuscitei meu Marido por Acidente., um manhwa em português.",
     "descriptionPt": "Leia Ressuscitei meu Marido por Acidente., um manhwa em português.",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -272937,7 +272937,7 @@ let MANGA_DATA = [
     ],
     "description": "Live and Let Love (Uncensored) Returning student Huiram is ready to dive headfirst into college life, dreaming of late-night chats and hanging out with his new roommate. Instead, he arrives to a completely empty room – except for a stuffed doll of his absolute favorite anime character. Abandoned before the semester even starts, Huiram has no choice but to settle in. What starts as a bizarre arrangement quickly turns into the ultimate, unpredictable roomie experience with a giant stuffed companion.",
     "descriptionPt": "",
-    "chaptersCount": 8,
+    "chaptersCount": 12,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -273424,7 +273424,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Mordomo Mais Forte Da Família Dos Vilões, um manhwa em português.",
     "descriptionPt": "Leia O Mordomo Mais Forte Da Família Dos Vilões, um manhwa em português.",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

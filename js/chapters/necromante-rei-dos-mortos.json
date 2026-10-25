@@ -1,6 +1,13 @@
 {
   "pt": [
     {
+      "id": "necromante-rei-dos-mortos-chapter-0",
+      "number": 0,
+      "title": "Capítulo 0",
+      "date": "2026-10-25T15:51:31.062Z",
+      "pages": []
+    },
+    {
       "id": "necromante-rei-dos-mortos-chapter-1",
       "number": 1,
       "title": "Capítulo 1",
@@ -2272,6 +2279,13 @@
       "number": 315,
       "title": "Capítulo 315",
       "date": "2026-10-18T05:42:44.571Z",
+      "pages": []
+    },
+    {
+      "id": "necromante-rei-dos-mortos-chapter-316",
+      "number": 316,
+      "title": "Capítulo 316",
+      "date": "2026-10-25T15:51:41.701Z",
       "pages": []
     }
   ]

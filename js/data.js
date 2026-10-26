@@ -256238,7 +256238,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Protagonista Masculino Está Obcecado Pela Minha Saúde, um manhwa em português.",
     "descriptionPt": "Leia O Protagonista Masculino Está Obcecado Pela Minha Saúde, um manhwa em português.",
-    "chaptersCount": 72,
+    "chaptersCount": 73,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262398,7 +262398,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sussurros Fantasmas, um manhwa em português.",
     "descriptionPt": "Leia Sussurros Fantasmas, um manhwa em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269375,7 +269375,7 @@ let MANGA_DATA = [
     ],
     "description": "Ashes & Echoes (Uncensored) Desperate to support his grandmother, Jeong Taeju works every odd job imaginable until an unjust theft framed on him leaves him buried under astronomical loan shark debt. Coerced into working at the high-end host bar Maehwa, Taeju finds himself trapped in a dangerous underworld. A warning from the kitchen chef fails to stop Taeju from entering the notorious VVIP suite. Inside, amidst bloodied men and ruthless mobsters, sits Executive VP Gye Beomho. When a simple serving task earns Taeju a mind-blowing tip, a dangerous glimmer of hope takes hold. He thinks he can use",
     "descriptionPt": "",
-    "chaptersCount": 9,
+    "chaptersCount": 14,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -269717,7 +269717,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Esse Bebê não é Seu, um manhwa em português.",
     "descriptionPt": "Leia Esse Bebê não é Seu, um manhwa em português.",
-    "chaptersCount": 108,
+    "chaptersCount": 110,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269952,7 +269952,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ressuscitei meu Marido por Acidente., um manhwa em português.",
     "descriptionPt": "Leia Ressuscitei meu Marido por Acidente., um manhwa em português.",
-    "chaptersCount": 20,
+    "chaptersCount": 21,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273424,7 +273424,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Mordomo Mais Forte Da Família Dos Vilões, um manhwa em português.",
     "descriptionPt": "Leia O Mordomo Mais Forte Da Família Dos Vilões, um manhwa em português.",
-    "chaptersCount": 20,
+    "chaptersCount": 21,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -274176,7 +274176,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Sou a Verdadeira, um manhwa em português.",
     "descriptionPt": "Leia Eu Sou a Verdadeira, um manhwa em português.",
-    "chaptersCount": 150,
+    "chaptersCount": 154,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -277217,7 +277217,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Nossos Ancestrais Estão Olhando, um manhwa em português.",
     "descriptionPt": "Leia Nossos Ancestrais Estão Olhando, um manhwa em português.",
-    "chaptersCount": 4,
+    "chaptersCount": 5,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

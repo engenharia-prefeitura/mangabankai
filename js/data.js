@@ -95188,7 +95188,7 @@ let MANGA_DATA = [
     ],
     "description": "Accidental Baby (Uncensored) Doh Ihyeon is the ultimate corporate workaholic, but he hides two secrets: he’s a somewhat defective omega and he suffers from prosopagnosia—the inability to recognize faces. After a blurry, drunken one-night stand leads to an unexpected pregnancy, Ihyeon decides to keep the baby and brave single parenthood in secret. But his carefully constructed walls start to crumble when his superior, Seo Jeong-un, begins a relentless pursuit. Jeong-un is charming, persistent, and strangely familiar, but to a man who can’t recognize a face, his flirtations are just another work",
     "descriptionPt": "",
-    "chaptersCount": 32,
+    "chaptersCount": 34,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -99946,7 +99946,7 @@ let MANGA_DATA = [
     ],
     "description": "Dating After Work (Uncensored) Adam’s fake relationship with his boss was supposed to be mutually beneficial, so why is he so stressed out?",
     "descriptionPt": "",
-    "chaptersCount": 77,
+    "chaptersCount": 79,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207181,7 +207181,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Mansão Que aguarda A Primavera, um manhwa em português.",
     "descriptionPt": "Leia A Mansão Que aguarda A Primavera, um manhwa em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255148,7 +255148,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Superastro do 0, um manhwa em português.",
     "descriptionPt": "Leia Superastro do 0, um manhwa em português.",
-    "chaptersCount": 107,
+    "chaptersCount": 108,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265884,7 +265884,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Como Você Desejar, um manhwa em português.",
     "descriptionPt": "Leia Como Você Desejar, um manhwa em português.",
-    "chaptersCount": 14,
+    "chaptersCount": 16,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -272701,7 +272701,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Servo, um manhwa em português.",
     "descriptionPt": "Leia O Servo, um manhwa em português.",
-    "chaptersCount": 75,
+    "chaptersCount": 76,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -277621,6 +277621,41 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "mangadistrict-an-outsiders-way-in-uncensored",
+    "slug": "an-outsiders-way-in-uncensored",
+    "title": "[MOTION] An Outsider’s Way In (Uncensored)",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/an-outsiders-way-in-uncensored.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/an-outsiders-way-in-uncensored.webp",
+    "author": "IngSook",
+    "artist": "Momobird",
+    "status": "ongoing",
+    "year": 2022,
+    "rating": 0,
+    "genres": [
+      "Borderline H",
+      "Drama",
+      "Explicit Sex",
+      "Fetish",
+      "Full Color",
+      "Harem",
+      "Manhwa",
+      "Motion",
+      "Romance",
+      "School Life",
+      "Uncensored",
+      "Webtoons",
+      "Hentai"
+    ],
+    "description": "An Outsider’s Way In (Uncensored) Hi, I’m Kaleb, a freshmen in college. I have no friends so I joined a club with three other girls. I wonder how my life’ll be now…",
+    "descriptionPt": "",
+    "chaptersCount": 11,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
   }
 ];
 

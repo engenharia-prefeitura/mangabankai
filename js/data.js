@@ -91091,7 +91091,7 @@ let MANGA_DATA = [
     ],
     "description": "Tutor’s Efforts : A Million-Dollar Mission (Official) The teachers’ struggle to send SI-YOON MIN, the son of the chairman of the IR Group, to a prestigious university begins! With a $1 million performance bonus at stake, it’s no easy task due to SI-YOON’s indifference toward studying. In the end, the teachers dedicate themselves fully to the challenge. “SI-YOON, are you curious to see what’s underneath my panties…?”",
     "descriptionPt": "",
-    "chaptersCount": 90,
+    "chaptersCount": 97,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -101303,7 +101303,7 @@ let MANGA_DATA = [
     ],
     "description": "From Pauper to Prince Having lived in poverty all his life, Brian gets a second chance when he is offered the role of the sole heir to a conglomerate family’s enormous fortune.",
     "descriptionPt": "",
-    "chaptersCount": 75,
+    "chaptersCount": 76,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -101336,7 +101336,7 @@ let MANGA_DATA = [
     ],
     "description": "Who Cares if it’s a Lie? They live comfortably on small lies, because, really… who cares if it’s a lie?",
     "descriptionPt": "",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -250973,7 +250973,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Meu Louco Casamento de Fachada com Maddie, um manhwa em português.",
     "descriptionPt": "Leia Meu Louco Casamento de Fachada com Maddie, um manhwa em português.",
-    "chaptersCount": 55,
+    "chaptersCount": 56,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251351,7 +251351,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mordida pelo cão que eu abandonei, um manhwa em português.",
     "descriptionPt": "Leia Mordida pelo cão que eu abandonei, um manhwa em português.",
-    "chaptersCount": 128,
+    "chaptersCount": 129,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261186,7 +261186,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Preço é Tudo para Você, um manhwa em português.",
     "descriptionPt": "Leia O Preço é Tudo para Você, um manhwa em português.",
-    "chaptersCount": 81,
+    "chaptersCount": 82,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262670,7 +262670,7 @@ let MANGA_DATA = [
     ],
     "description": "Cherry on Top (Uncensored) Jurij Kiselyov has survived the absolute bottom of the underworld by keeping his head down and knowing his place. But protecting North American sports superstar Chariot “Cherry” Goodnight is a whole new kind of hazard. From the moment they meet, Cherry flirts relentlessly, up until he uncovers Jurij’s criminal past. Suddenly, the charm turns to sharp hostility, and the cold shoulder gets brutal. But when a deadly hit turns a personal grudge into a life-or-death protection job, hatred becomes the least of their problems. Cherry might despise the ground Jurij walks on,",
     "descriptionPt": "",
-    "chaptersCount": 9,
+    "chaptersCount": 13,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -272167,7 +272167,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sobre as Coisas que Ainda Não Aconteceram, um manhwa em português.",
     "descriptionPt": "Leia Sobre as Coisas que Ainda Não Aconteceram, um manhwa em português.",
-    "chaptersCount": 11,
+    "chaptersCount": 16,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -272987,7 +272987,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Suavizando o jeito gangster do protagonista masculino, um manhwa em português.",
     "descriptionPt": "Leia Suavizando o jeito gangster do protagonista masculino, um manhwa em português.",
-    "chaptersCount": 56,
+    "chaptersCount": 57,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -276378,7 +276378,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Nós, Introvertidos, um manhwa em português.",
     "descriptionPt": "Leia Nós, Introvertidos, um manhwa em português.",
-    "chaptersCount": 53,
+    "chaptersCount": 60,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -277595,6 +277595,32 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "o-cacador-de-classe-s-que-cura-monstros",
+    "slug": "o-cacador-de-classe-s-que-cura-monstros",
+    "title": "O Caçador de Classe S que Cura Monstros",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/o-cacador-de-classe-s-que-cura-monstros/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/o-cacador-de-classe-s-que-cura-monstros/cover-md.webp",
+    "author": "Dagi 205",
+    "artist": "Dagi 205",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Ação",
+      "Shounen",
+      "Fantasia",
+      "Aventura",
+      "Manhwa"
+    ],
+    "description": "Leia O Caçador de Classe S que Cura Monstros, um manhwa em português.",
+    "descriptionPt": "Leia O Caçador de Classe S que Cura Monstros, um manhwa em português.",
+    "chaptersCount": 54,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

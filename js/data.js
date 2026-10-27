@@ -103033,7 +103033,7 @@ let MANGA_DATA = [
     ],
     "description": "Perfect Half Once a world ruled by men, women stand up and fight to become men’s equal. Now, in a land that is equally divided up between man and woman, the battle of the sexes is on! Who’s going to win? But more importantly…what’s the name of the game?",
     "descriptionPt": "",
-    "chaptersCount": 216,
+    "chaptersCount": 217,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -109718,7 +109718,7 @@ let MANGA_DATA = [
     ],
     "description": "A Dangerous Deal, and the Woman Next Door (Animation) “My wife… once she’s naked, it’s really game over…” A glimpse at CCTV footage reveals the neighbor woman – completely nude. Wracked with guilt he shouldn’t feel, Scott is caught off guard when Harry makes a dangerous offer: “Wanna have her? On one condition… Do it right in front of me.”",
     "descriptionPt": "",
-    "chaptersCount": 3,
+    "chaptersCount": 7,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207338,7 +207338,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Solstício, um manhwa em português.",
     "descriptionPt": "Leia Solstício, um manhwa em português.",
-    "chaptersCount": 58,
+    "chaptersCount": 59,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -208072,7 +208072,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Retorno do Cavaleiro da Morte de Nível Apocalíptico, um manhwa em português.",
     "descriptionPt": "Leia Retorno do Cavaleiro da Morte de Nível Apocalíptico, um manhwa em português.",
-    "chaptersCount": 91,
+    "chaptersCount": 92,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259161,7 +259161,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia renasci-para-me-vingar-com-a-reversao-espelhada online em português.",
     "descriptionPt": "Leia renasci-para-me-vingar-com-a-reversao-espelhada online em português.",
-    "chaptersCount": 71,
+    "chaptersCount": 72,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -272167,7 +272167,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sobre as Coisas que Ainda Não Aconteceram, um manhwa em português.",
     "descriptionPt": "Leia Sobre as Coisas que Ainda Não Aconteceram, um manhwa em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -276075,7 +276075,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Um Retrato do Orgulho, um manhwa em português.",
     "descriptionPt": "Leia Um Retrato do Orgulho, um manhwa em português.",
-    "chaptersCount": 14,
+    "chaptersCount": 15,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -277192,7 +277192,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Lorde Blackwood prometeu me matar, um manhwa em português.",
     "descriptionPt": "Leia O Lorde Blackwood prometeu me matar, um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 3,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -277656,6 +277656,61 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "faca-me-ronronar",
+    "slug": "faca-me-ronronar",
+    "title": "Faça-Me Ronronar",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/faca-me-ronronar/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/faca-me-ronronar/cover-md.webp",
+    "author": "Gamong",
+    "artist": "Gamong",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Comédia",
+      "Romance",
+      "Josei",
+      "Adulto",
+      "Slice of Life",
+      "Smut"
+    ],
+    "description": "Leia Faça-Me Ronronar, um mangá em português.",
+    "descriptionPt": "Leia Faça-Me Ronronar, um mangá em português.",
+    "chaptersCount": 1,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "tankouhentai-jidaraku",
+    "slug": "jidaraku",
+    "title": "Jidaraku",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/10/Jidaraku-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/10/Jidaraku-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Nakamura Kafuka",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Bissexual",
+      "Gay-Yaoi",
+      "Incesto",
+      "Traição",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 2,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

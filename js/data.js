@@ -100671,7 +100671,7 @@ let MANGA_DATA = [
     ],
     "description": "Born to Bleed After a violent outburst in his first match, an amateur MMA fighter haunted by dreams of a past life as a gladiator is offered a chance to go pro, if he survives the fight. He’s untrained, unhinged, and utterly untamable.",
     "descriptionPt": "",
-    "chaptersCount": 58,
+    "chaptersCount": 60,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -252792,7 +252792,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Campo Esquecido, um manhwa em português.",
     "descriptionPt": "Leia O Campo Esquecido, um manhwa em português.",
-    "chaptersCount": 38,
+    "chaptersCount": 39,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256238,7 +256238,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Protagonista Masculino Está Obcecado Pela Minha Saúde, um manhwa em português.",
     "descriptionPt": "Leia O Protagonista Masculino Está Obcecado Pela Minha Saúde, um manhwa em português.",
-    "chaptersCount": 73,
+    "chaptersCount": 74,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260719,7 +260719,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Transformando o Tigre em Gatinho, um manhwa em português.",
     "descriptionPt": "Leia Transformando o Tigre em Gatinho, um manhwa em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 23,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261818,7 +261818,7 @@ let MANGA_DATA = [
     ],
     "description": "Four’s a Crowd (Uncensored) Living alone is tough, as it is… Living with a roommate could bring occasional problems… What if you bring three, four into the mix…?",
     "descriptionPt": "",
-    "chaptersCount": 12,
+    "chaptersCount": 34,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -271396,7 +271396,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Filha Mais Nova da Família Snake, um manhwa em português.",
     "descriptionPt": "Leia A Filha Mais Nova da Família Snake, um manhwa em português.",
-    "chaptersCount": 4,
+    "chaptersCount": 6,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -276880,7 +276880,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Pânico moral, um manhwa em português.",
     "descriptionPt": "Leia Pânico moral, um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 4,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

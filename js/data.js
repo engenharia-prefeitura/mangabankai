@@ -60460,7 +60460,7 @@ let MANGA_DATA = [
     ],
     "description": "After being caught while having an intimate encounter with other MILFS, Taeyang escaped to another world. Sharing a bed with a top-class MILF with an amazing",
     "descriptionEn": "After being caught while having an intimate encounter with other MILFS, Taeyang escaped to another world. Sharing a bed with a top-class MILF with an amazing",
-    "chaptersCount": 140,
+    "chaptersCount": 141,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -96319,7 +96319,7 @@ let MANGA_DATA = [
     ],
     "description": "Sinfully Sweet A pastry chef’s desserts stir cravings far beyond sugar and cream.",
     "descriptionPt": "",
-    "chaptersCount": 11,
+    "chaptersCount": 26,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207605,7 +207605,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Missões na Vida Real, um manhwa em português.",
     "descriptionPt": "Leia Missões na Vida Real, um manhwa em português.",
-    "chaptersCount": 229,
+    "chaptersCount": 230,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207840,7 +207840,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Me Escolhe!, um manhwa em português.",
     "descriptionPt": "Leia Me Escolhe!, um manhwa em português.",
-    "chaptersCount": 224,
+    "chaptersCount": 225,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232260,7 +232260,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Despertar em Tempo Integral, um manhua em português.",
     "descriptionPt": "Leia Despertar em Tempo Integral, um manhua em português.",
-    "chaptersCount": 167,
+    "chaptersCount": 168,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -234270,7 +234270,7 @@ let MANGA_DATA = [
     ],
     "description": "Part-time Partner (Uncensored) Kyuho has become smitten with new club member, Yoongun. Not only is Yoongun’s face gorgeous but there’s something about the way he stands his ground confidently. As the two classmates get to know each other, Kyuho starts falling for Yoongun even harder. But when, out of the blue, Yoongun says, “you’re not my style,” to Kyuho, the two start a love-hate relationship for the ages.",
     "descriptionPt": "",
-    "chaptersCount": 84,
+    "chaptersCount": 88,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -235066,7 +235066,7 @@ let MANGA_DATA = [
     ],
     "description": "Deja Vu and Domination (Uncensored) “One sunny day day, a portal burst open in the garden, and Kwon Jaejin got caught up in the chaos. His limbs were torn off, and he died… …Or so he thought. When he wakes up, he finds himself back on the first day of his captivity—with Seo Wui-wu between his legs, tugging at his pants. Jaejin stares down at the familiar face, one he had come to resent over the four agonizing years of his previous life. Back then, he had believed he was merely a victim, dragged into an unfamiliar place and forced into submission. But this time is different. Now, Jaejin knows e",
     "descriptionPt": "",
-    "chaptersCount": 72,
+    "chaptersCount": 73,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -253585,7 +253585,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Após a Refeição, um manhwa em português.",
     "descriptionPt": "Leia Após a Refeição, um manhwa em português.",
-    "chaptersCount": 28,
+    "chaptersCount": 29,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254328,7 +254328,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Demônio Supremo do Veneno, um manhwa em português.",
     "descriptionPt": "Leia O Demônio Supremo do Veneno, um manhwa em português.",
-    "chaptersCount": 38,
+    "chaptersCount": 39,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260519,7 +260519,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-transmissao-do-reino-demoniaco-do-demonio-celestial-rejuvenescido online em português.",
     "descriptionPt": "Leia a-transmissao-do-reino-demoniaco-do-demonio-celestial-rejuvenescido online em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261686,7 +261686,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Reencarnado, um manhwa em português.",
     "descriptionPt": "Leia Reencarnado, um manhwa em português.",
-    "chaptersCount": 155,
+    "chaptersCount": 157,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265046,7 +265046,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mestre Supremo da Maldição, um manhwa em português.",
     "descriptionPt": "Leia Mestre Supremo da Maldição, um manhwa em português.",
-    "chaptersCount": 69,
+    "chaptersCount": 89,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -267895,7 +267895,7 @@ let MANGA_DATA = [
     ],
     "description": "Bad Habits (Uncensored) Han Jitae is a naive twenty-year-old dominant Alpha caught between two possessive men: Ju Kangu, the older Omega lover who snatched his virginity, and Woo Hyeon-seung, the devoted Beta bodyguard who spent eight years watching over him before falling blindly in love. Hyeon-seung despises Kangu’s bad influence, Kangu hates Hyeon-seung’s interference, and both have secretly claimed Jitae’s body in a frenzy of jealousy. But Jitae isn’t planning on choosing between them. Now, two shameless men find themselves forced into a tangled, three-way dynamic where sharing is the only",
     "descriptionPt": "",
-    "chaptersCount": 8,
+    "chaptersCount": 16,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -277782,6 +277782,55 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "as-duas-faces-de-tamon",
+    "slug": "as-duas-faces-de-tamon",
+    "title": "As Duas Faces de Tamon",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/as-duas-faces-de-tamon/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/as-duas-faces-de-tamon/cover-md.webp",
+    "author": "Yuki Shiwasu",
+    "artist": "Yuki Shiwasu",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Comédia",
+      "Romance",
+      "Slice of Life"
+    ],
+    "description": "Leia As Duas Faces de Tamon, um mangá em português.",
+    "descriptionPt": "Leia As Duas Faces de Tamon, um mangá em português.",
+    "chaptersCount": 90,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "tankouhentai-seitei-gakuen-soccer-bu-no-nichijou-zenpen-kouhen",
+    "slug": "seitei-gakuen-soccer-bu-no-nichijou-zenpen-kouhen",
+    "title": "Seitei Gakuen Soccer-bu no Nichijou Zenpen ♡ + Kouhen",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/10/Seitei-Gakuen-Soccer-bu-no-Nichijou-Zenpen-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/10/Seitei-Gakuen-Soccer-bu-no-Nichijou-Zenpen-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Fetio",
+    "status": "completed",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Harém",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 2,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

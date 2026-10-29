@@ -97415,7 +97415,7 @@ let MANGA_DATA = [
     ],
     "description": "Double Down (Uncensored) Jihan’s carefully constructed life shatters over a single, misplaced secret. Caught harboring an unspoken crush, his downfall arrives in the form of Kim Sinu, part glittering celebrity, part masterful manipulator. Sinu offers a ruinous ultimatum: a sexual favor (or two), or total exposure. But when a lethal threat from a stalker forces Jihan out of the shadows and into Sinu’s penthouse as his personal bodyguard, the boundaries of their twisted contract blur. Trapped in the orbit of a beautiful tyrant who delights in breaking his stoicism, Jihan must survive a dangerous",
     "descriptionPt": "",
-    "chaptersCount": 24,
+    "chaptersCount": 26,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -251733,7 +251733,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Senhorita Celebridade, um manhwa em português.",
     "descriptionPt": "Leia Senhorita Celebridade, um manhwa em português.",
-    "chaptersCount": 92,
+    "chaptersCount": 93,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256114,7 +256114,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O gerente Kim odeia ídolos de K-Pop, um manhwa em português.",
     "descriptionPt": "Leia O gerente Kim odeia ídolos de K-Pop, um manhwa em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256163,7 +256163,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia I Adopted a Villainous Dad, um manhwa em português.",
     "descriptionPt": "Leia I Adopted a Villainous Dad, um manhwa em português.",
-    "chaptersCount": 103,
+    "chaptersCount": 105,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256371,7 +256371,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
     "descriptionPt": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
-    "chaptersCount": 72,
+    "chaptersCount": 73,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259358,7 +259358,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Uma Princesa que Lê a Sorte, um manhwa em português.",
     "descriptionPt": "Leia Uma Princesa que Lê a Sorte, um manhwa em português.",
-    "chaptersCount": 174,
+    "chaptersCount": 175,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

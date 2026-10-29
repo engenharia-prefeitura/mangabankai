@@ -99079,7 +99079,7 @@ let MANGA_DATA = [
     ],
     "description": "Blue Name Pressure (Uncensored) “How did I end up doing a strip show in front of a classmate I barely even know?” Baek Han-yeong has lived his whole life as a perfectly ordinary No-Namer, someone without the fated mark of destiny. That is, until he gets to college and meets Ryu Cheong-hyeon, a bold Namer with the name “Baek Han-yeong” etched right across his neck. Cheong-hyeon, convinced fate is at play, starts tailing Han-yeong everywhere, fascinated by the uncanny coincidence. Exhausted and desperate to prove he’s just a plain old No-Namer, Han-yeong blurts out the wildest challenge imaginab",
     "descriptionPt": "",
-    "chaptersCount": 33,
+    "chaptersCount": 41,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207893,7 +207893,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Limpeza inteligente A Regresão do Caçador Genial, um manhwa em português.",
     "descriptionPt": "Leia Limpeza inteligente A Regresão do Caçador Genial, um manhwa em português.",
-    "chaptersCount": 148,
+    "chaptersCount": 149,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231621,7 +231621,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Desejo do Diabo, um manhwa em português.",
     "descriptionPt": "Leia O Desejo do Diabo, um manhwa em português.",
-    "chaptersCount": 95,
+    "chaptersCount": 96,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252793,7 +252793,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Passarinho do Duque Sombrio, um manhwa em português.",
     "descriptionPt": "Leia O Passarinho do Duque Sombrio, um manhwa em português.",
-    "chaptersCount": 58,
+    "chaptersCount": 60,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254302,7 +254302,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Filho Adotivo em um Mundo de Supremacia de Linhagem, um mangá em português.",
     "descriptionPt": "Leia O Retorno do Filho Adotivo em um Mundo de Supremacia de Linhagem, um mangá em português.",
-    "chaptersCount": 57,
+    "chaptersCount": 59,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254558,7 +254558,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-tornei-um-mago-de-fantasia-medieval online em português.",
     "descriptionPt": "Leia me-tornei-um-mago-de-fantasia-medieval online em português.",
-    "chaptersCount": 43,
+    "chaptersCount": 45,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258251,7 +258251,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Querido, Por Que Não Nos Divorciamos?, um manhwa em português.",
     "descriptionPt": "Leia Querido, Por Que Não Nos Divorciamos?, um manhwa em português.",
-    "chaptersCount": 101,
+    "chaptersCount": 104,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259331,7 +259331,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia tropa-de-elite-fantastica online em português.",
     "descriptionPt": "Leia tropa-de-elite-fantastica online em português.",
-    "chaptersCount": 44,
+    "chaptersCount": 45,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263924,7 +263924,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Pincel Divino de Hwarim, um manhwa em português.",
     "descriptionPt": "Leia O Pincel Divino de Hwarim, um manhwa em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265442,7 +265442,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vilã Está Com Sorte Ultimamente, um manhwa em português.",
     "descriptionPt": "Leia A Vilã Está Com Sorte Ultimamente, um manhwa em português.",
-    "chaptersCount": 64,
+    "chaptersCount": 65,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269927,7 +269927,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ressuscitei meu Marido por Acidente., um manhwa em português.",
     "descriptionPt": "Leia Ressuscitei meu Marido por Acidente., um manhwa em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 23,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -272962,7 +272962,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Suavizando o jeito gangster do protagonista masculino, um manhwa em português.",
     "descriptionPt": "Leia Suavizando o jeito gangster do protagonista masculino, um manhwa em português.",
-    "chaptersCount": 57,
+    "chaptersCount": 58,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273375,7 +273375,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Monster Lady and the Paladin, um manhwa em português.",
     "descriptionPt": "Leia The Monster Lady and the Paladin, um manhwa em português.",
-    "chaptersCount": 64,
+    "chaptersCount": 65,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273399,7 +273399,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Mordomo Mais Forte Da Família Dos Vilões, um manhwa em português.",
     "descriptionPt": "Leia O Mordomo Mais Forte Da Família Dos Vilões, um manhwa em português.",
-    "chaptersCount": 21,
+    "chaptersCount": 22,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -276176,7 +276176,7 @@ let MANGA_DATA = [
     ],
     "description": "Know My Name (Uncensored) Unresolved emotions never fade away. Love turns into a wound, and the wound becomes a song, reappearing before him once again after seven years. Bae Yeon Woo, an Olympic silver medallist and professional tennis player. Silver, Song Hyun Seung, the lead vocalist of the top band NIGHTSOUL. Two boys who first met in an abandoned warehouse and became each other’s entire world. However, Yeon Woo, hounded by poverty, debt and violence, leaves South Korea, leaving behind his family, his love and everything else in pursuit of success. Seven years later. Both have reached the ",
     "descriptionPt": "",
-    "chaptersCount": 9,
+    "chaptersCount": 10,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -277192,7 +277192,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Nossos Ancestrais Estão Olhando, um manhwa em português.",
     "descriptionPt": "Leia Nossos Ancestrais Estão Olhando, um manhwa em português.",
-    "chaptersCount": 5,
+    "chaptersCount": 7,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

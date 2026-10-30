@@ -96372,7 +96372,7 @@ let MANGA_DATA = [
     ],
     "description": "Batsu-Hare Wakou Ichiro decides to return home early from work to celebrate his second anniversary with his wife. But, when he opens the door of his house…. He finds his wife cheating on him! Although the marriage was short-lived, his life changes again when suddenly, a certain woman appears in front of him?",
     "descriptionPt": "",
-    "chaptersCount": 213,
+    "chaptersCount": 217,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -101050,7 +101050,7 @@ let MANGA_DATA = [
     ],
     "description": "The Demon Leader’s Lover (Uncensored) Born under the ominous sign of “Ultimate Yang Obstruction,” Dang Soun faced a turbulent life from the outset, destined to die before the age of thirty. Abandoned by his father and orphaned, he endures harsh conditions, resorting to begging and eventually gambling for survival. Despite narrowly escaping death on numerous occasions, Soun’s fate takes a drastic turn when he is suddenly informed by his long-lost father and younger brother that he will become the concubine of the Demonic Sect. With his life constantly in jeopardy, survival becomes Soun’s sole f",
     "descriptionPt": "",
-    "chaptersCount": 54,
+    "chaptersCount": 56,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -231571,7 +231571,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Começando com 13 Traços Ocultos, um manhwa em português.",
     "descriptionPt": "Leia Começando com 13 Traços Ocultos, um manhwa em português.",
-    "chaptersCount": 52,
+    "chaptersCount": 53,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251961,7 +251961,7 @@ let MANGA_DATA = [
     ],
     "description": "The Swindler and the Fool A cynical swindler, a clueless country man, and a marriage contract born from desperation. Han I-ryeong thought she was the smartest player in Joseon until her gang stabbed her in the back, leaving her to face the executioner’s lash. Enter a massive, brawny oaf who volunteers to take her punishment in exchange for her hand in marriage. I-ryeong easily agrees, fully intending to rob him blind and vanish into the night. But her perfect escape plan crumbles in the bedroom. Beneath his sweet, dim-witted exterior lies a relentless, high-heat passion that leaves I-ryeong wr",
     "descriptionPt": "",
-    "chaptersCount": 20,
+    "chaptersCount": 21,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -253980,7 +253980,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Só Eu Tenho uma Invocação de Rank EX, um manhwa em português.",
     "descriptionPt": "Leia Só Eu Tenho uma Invocação de Rank EX, um manhwa em português.",
-    "chaptersCount": 44,
+    "chaptersCount": 45,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256371,7 +256371,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
     "descriptionPt": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
-    "chaptersCount": 74,
+    "chaptersCount": 75,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259513,7 +259513,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
     "descriptionPt": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
-    "chaptersCount": 37,
+    "chaptersCount": 38,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259738,7 +259738,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-santo-evolui-atraves-da-necromancia online em português.",
     "descriptionPt": "Leia o-santo-evolui-atraves-da-necromancia online em português.",
-    "chaptersCount": 44,
+    "chaptersCount": 45,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260694,7 +260694,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Transformando o Tigre em Gatinho, um manhwa em português.",
     "descriptionPt": "Leia Transformando o Tigre em Gatinho, um manhwa em português.",
-    "chaptersCount": 23,
+    "chaptersCount": 24,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261033,7 +261033,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Ídolo da Nossa Guilda, um manhwa em português.",
     "descriptionPt": "Leia O Ídolo da Nossa Guilda, um manhwa em português.",
-    "chaptersCount": 51,
+    "chaptersCount": 52,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266378,7 +266378,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A mãe reencarnada sempre precisa morrer?, um manhwa em português.",
     "descriptionPt": "Leia A mãe reencarnada sempre precisa morrer?, um manhwa em português.",
-    "chaptersCount": 40,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269515,7 +269515,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Flor que Empunha a Espada, um manhwa em português.",
     "descriptionPt": "Leia A Flor que Empunha a Espada, um manhwa em português.",
-    "chaptersCount": 54,
+    "chaptersCount": 58,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269927,7 +269927,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ressuscitei meu Marido por Acidente., um manhwa em português.",
     "descriptionPt": "Leia Ressuscitei meu Marido por Acidente., um manhwa em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -276050,7 +276050,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Um Retrato do Orgulho, um manhwa em português.",
     "descriptionPt": "Leia Um Retrato do Orgulho, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

@@ -102301,7 +102301,7 @@ let MANGA_DATA = [
     ],
     "description": "Double Play (MURATA Kouji) Having forgotten his keys, Tamao Hiroi a high-school student, returns home using the back entrance and is surprised to find a stranger in his bed… Soon he realizes this is no stranger but Ran Homura, one year younger, softball ace and one of the most beautiful girls at school! Hiroi watches her masturbating on his bed and instinctively does the same peeking through the glass door. He is soon found out though and a strange ‘master/slave’ relationship begins!",
     "descriptionPt": "",
-    "chaptersCount": 36,
+    "chaptersCount": 37,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -134934,7 +134934,7 @@ let MANGA_DATA = [
     ],
     "description": "Sensei No Koto, Kusugutte Ageru Shuuma Aguri isn’t like other high school boys. He doesn’t get into sexual talks with his friends, and he sits alone. While he does have a secret fetish, he keeps it to himself – after all, who would willingly talk to a guy with a tickle fetish? The only solace he has in his life is Anzu, a girl he met online who herself has a desire to be tickled. The two decide to meet up one day, only for Shuuma to find out that Anzu… is actually his teacher, Maiko Ogura?",
     "descriptionPt": "",
-    "chaptersCount": 39,
+    "chaptersCount": 42,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207500,7 +207500,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Descobri Que o Homem de Uma Noite Era Meu Noivo, um manhwa em português.",
     "descriptionPt": "Leia Descobri Que o Homem de Uma Noite Era Meu Noivo, um manhwa em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 29,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231414,7 +231414,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O sétimo príncipe quer escapar, um manhwa em português.",
     "descriptionPt": "Leia O sétimo príncipe quer escapar, um manhwa em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232235,7 +232235,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Crônicas da Facção Demoníaca, um manhwa em português.",
     "descriptionPt": "Leia Crônicas da Facção Demoníaca, um manhwa em português.",
-    "chaptersCount": 195,
+    "chaptersCount": 197,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232367,7 +232367,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Domínio Absoluto, um manhwa em português.",
     "descriptionPt": "Leia Domínio Absoluto, um manhwa em português.",
-    "chaptersCount": 115,
+    "chaptersCount": 116,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232420,7 +232420,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Puramente Delinquente, um manhwa em português.",
     "descriptionPt": "Leia Puramente Delinquente, um manhwa em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 34,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232728,7 +232728,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Renascimento de Um Mercenário Entre Nobres, um manhwa em português.",
     "descriptionPt": "Leia O Renascimento de Um Mercenário Entre Nobres, um manhwa em português.",
-    "chaptersCount": 54,
+    "chaptersCount": 55,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232807,7 +232807,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Recluso Supremo, um manhwa em português.",
     "descriptionPt": "Leia O Recluso Supremo, um manhwa em português.",
-    "chaptersCount": 102,
+    "chaptersCount": 103,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250578,7 +250578,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Deus Demônio, um manhwa em português.",
     "descriptionPt": "Leia O Deus Demônio, um manhwa em português.",
-    "chaptersCount": 54,
+    "chaptersCount": 55,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254602,7 +254602,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-tornei-um-ladrao-de-habilidades online em português.",
     "descriptionPt": "Leia me-tornei-um-ladrao-de-habilidades online em português.",
-    "chaptersCount": 47,
+    "chaptersCount": 48,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259760,7 +259760,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-governante-das-trevas online em português.",
     "descriptionPt": "Leia o-governante-das-trevas online em português.",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259782,7 +259782,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-rei-agiota-do-murim online em português.",
     "descriptionPt": "Leia o-rei-agiota-do-murim online em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260030,7 +260030,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-mundo-arruinado-foi-confundido-com-um-jogo online em português.",
     "descriptionPt": "Leia o-mundo-arruinado-foi-confundido-com-um-jogo online em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262698,7 +262698,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Debutar ou Morrer, um manhwa em português.",
     "descriptionPt": "Leia Debutar ou Morrer, um manhwa em português.",
-    "chaptersCount": 96,
+    "chaptersCount": 97,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265701,7 +265701,7 @@ let MANGA_DATA = [
     ],
     "description": "Mind Your Eyes, My Lady Chaehee, the cherished youngest daughter of the Minister of Rites, has led a sheltered, aristocratic life. Yet lately, her eyes keep wandering toward the family’s new hired hand, Seok. She can’t stop staring at his bursting thights beneath his pants, his bulging forearms flexing with every swing of the axe, and the defined abs exposed whenever his tunic slips up. ‘I am going to bed that man no matter what.’ Completely smitten, Chaehee plots to seduce him at every turn, only to be rejected time and again. However, the balance of power shifts when Seok approaches her with",
     "descriptionPt": "",
-    "chaptersCount": 12,
+    "chaptersCount": 17,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -278151,6 +278151,31 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "mestre-sombrio-a-lenda-do-poder-absoluto",
+    "slug": "mestre-sombrio-a-lenda-do-poder-absoluto",
+    "title": "Mestre Sombrio — A Lenda do Poder Absoluto",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/mestre-sombrio-a-lenda-do-poder-absoluto/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/mestre-sombrio-a-lenda-do-poder-absoluto/cover-md.webp",
+    "author": "TOHO",
+    "artist": "TOHO",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Ação",
+      "Shounen",
+      "Fantasia",
+      "Manhwa"
+    ],
+    "description": "Leia Mestre Sombrio — A Lenda do Poder Absoluto, um manhwa em português.",
+    "descriptionPt": "Leia Mestre Sombrio — A Lenda do Poder Absoluto, um manhwa em português.",
+    "chaptersCount": 27,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

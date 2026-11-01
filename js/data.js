@@ -92465,7 +92465,7 @@ let MANGA_DATA = [
     ],
     "description": "Love Quest (QRQ) (Official) Even at a game company drowning in overtime, these feelings just won’t stay buried! The office life of people who don’t wanna give up neither work nor love. “This is weird. Why can’t I stop thinking of him?”",
     "descriptionPt": "",
-    "chaptersCount": 28,
+    "chaptersCount": 29,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207156,7 +207156,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Mansão Que aguarda A Primavera, um manhwa em português.",
     "descriptionPt": "Leia A Mansão Que aguarda A Primavera, um manhwa em português.",
-    "chaptersCount": 40,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207761,7 +207761,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Morando com o Romeo, um manhwa em português.",
     "descriptionPt": "Leia Morando com o Romeo, um manhwa em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 42,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -233680,7 +233680,7 @@ let MANGA_DATA = [
     ],
     "description": "I Killed the Main Player Being a character of your favorite game is great! Sure, he’s just a minor NPC, but Corin knows this game like the back of his hand. With his knowledge and the main player Sihu’s abilities, everything’s going smoothly – until Corin discovers Sihu’s been murdering innocent NPCs and stealing their items. Horrified but powerless to stop him, Corin awaits the end of the game – only for Sihu to mysteriously fail at the last mission. Instantly, Corin travels three years back in time. Now, he’s determined to kill Sihu and take on his role – defeat the final boss and save the w",
     "descriptionPt": "",
-    "chaptersCount": 137,
+    "chaptersCount": 140,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -234532,7 +234532,7 @@ let MANGA_DATA = [
     ],
     "description": "Full Book (Uncensored) Choi Jaeseung has spent years indulging in one-night stands with BDSM partners, always as a willing masochist. But during a model casting, he suddenly comes face-to-face with the very person who awakened that desire in him: his high school senior, Min Hoyeon. After 13 years, Hoyeon has returned as Eli, a mysterious top model from the U.S. – and he wastes no time forcing his way back into Jaeseung’s body and life. What begins as unwanted contact spirals into a dangerous reunion where desire, power, and old wounds collide.",
     "descriptionPt": "",
-    "chaptersCount": 35,
+    "chaptersCount": 40,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -241731,7 +241731,7 @@ let MANGA_DATA = [
     "descriptionPt": "",
     "chaptersCount": 101,
     "lang": "en",
-    "hasPt": true,
+    "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
   },
@@ -251248,7 +251248,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vingança do Cão de Caça dos Baskerville, um manhwa em português.",
     "descriptionPt": "Leia A Vingança do Cão de Caça dos Baskerville, um manhwa em português.",
-    "chaptersCount": 186,
+    "chaptersCount": 187,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251465,7 +251465,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Sou o Vilão Predestinado, um manhua em português.",
     "descriptionPt": "Leia Eu Sou o Vilão Predestinado, um manhua em português.",
-    "chaptersCount": 366,
+    "chaptersCount": 367,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255713,7 +255713,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Amor:Zero, um manhwa em português.",
     "descriptionPt": "Leia Amor:Zero, um manhwa em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260497,7 +260497,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-mestre-espadachim-devorador-de-espadas online em português.",
     "descriptionPt": "Leia o-mestre-espadachim-devorador-de-espadas online em português.",
-    "chaptersCount": 52,
+    "chaptersCount": 53,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262003,7 +262003,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Imperador da Espada Reencarnou em um Clã de Mestres da Espada, um manhwa em português.",
     "descriptionPt": "Leia O Imperador da Espada Reencarnou em um Clã de Mestres da Espada, um manhwa em português.",
-    "chaptersCount": 46,
+    "chaptersCount": 47,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265519,7 +265519,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Princesa que Mantém seu Fã-clube em Segredo, um manhwa em português.",
     "descriptionPt": "Leia A Princesa que Mantém seu Fã-clube em Segredo, um manhwa em português.",
-    "chaptersCount": 115,
+    "chaptersCount": 116,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -278415,7 +278415,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Bem-vindo à Imobiliária Feliz!, um manhwa em português.",
     "descriptionPt": "Leia Bem-vindo à Imobiliária Feliz!, um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 3,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -278440,7 +278440,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Protagonista que Eu Criei Ficou Obcecado por Mim, um manhwa em português.",
     "descriptionPt": "Leia O Protagonista que Eu Criei Ficou Obcecado por Mim, um manhwa em português.",
-    "chaptersCount": 3,
+    "chaptersCount": 4,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -278467,7 +278467,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Vou Me Tornar a Ex-Esposa da Fera, um manhwa em português.",
     "descriptionPt": "Leia Vou Me Tornar a Ex-Esposa da Fera, um manhwa em português.",
-    "chaptersCount": 6,
+    "chaptersCount": 7,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -279044,6 +279044,32 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "15-minutes",
+    "slug": "15-minutes",
+    "title": "15 Minutes",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2024/08/15-minutes-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2024/08/15-minutes-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Psychological",
+      "Supernatural",
+      "Adult"
+    ],
+    "description": "You are now the protagonist! The secret of the 15 minutes is revealed. Am I in a dream? Can I really do whatever I want? When does the time stop for 15 minutes?",
+    "descriptionEn": "You are now the protagonist! The secret of the 15 minutes is revealed. Am I in a dream? Can I really do whatever I want? When does the time stop for 15 minutes?",
+    "chaptersCount": 36,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

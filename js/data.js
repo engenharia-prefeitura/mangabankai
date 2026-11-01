@@ -230805,7 +230805,7 @@ let MANGA_DATA = [
     ],
     "description": "8 / 100 Desenvolvido por Rank Math SEO",
     "descriptionPt": "8 / 100 Desenvolvido por Rank Math SEO",
-    "chaptersCount": 124,
+    "chaptersCount": 125,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false,
@@ -231595,7 +231595,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Coração Ferido, um webtoon em português.",
     "descriptionPt": "Leia Coração Ferido, um webtoon em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232496,7 +232496,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Adotada por uma Família de Duques Assassinos, um manhwa em português.",
     "descriptionPt": "Leia Adotada por uma Família de Duques Assassinos, um manhwa em português.",
-    "chaptersCount": 45,
+    "chaptersCount": 46,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -238529,7 +238529,7 @@ let MANGA_DATA = [
     ],
     "description": "Harem Camp! “Please do whatever you want with us.” The result of being glued to a group defenseless girls in a small tent is…",
     "descriptionPt": "",
-    "chaptersCount": 168,
+    "chaptersCount": 183,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -257278,7 +257278,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ela é a Irmã de um Merda, um manhwa em português.",
     "descriptionPt": "Leia Ela é a Irmã de um Merda, um manhwa em português.",
-    "chaptersCount": 98,
+    "chaptersCount": 99,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262373,7 +262373,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sussurros Fantasmas, um manhwa em português.",
     "descriptionPt": "Leia Sussurros Fantasmas, um manhwa em português.",
-    "chaptersCount": 26,
+    "chaptersCount": 27,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264208,7 +264208,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia As 100 Maldições da Casa Illeston, um manhwa em português.",
     "descriptionPt": "Leia As 100 Maldições da Casa Illeston, um manhwa em português.",
-    "chaptersCount": 44,
+    "chaptersCount": 55,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -267392,7 +267392,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Me Tornei a Família do Vilão, um manhwa em português.",
     "descriptionPt": "Leia Me Tornei a Família do Vilão, um manhwa em português.",
-    "chaptersCount": 158,
+    "chaptersCount": 162,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -270197,7 +270197,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Isabela, um manhwa em português.",
     "descriptionPt": "Leia Isabela, um manhwa em português.",
-    "chaptersCount": 7,
+    "chaptersCount": 16,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -276641,7 +276641,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Os Personagens Mais Fortes do Mundo Estão Obcecados Por Mim, um manhwa em português.",
     "descriptionPt": "Leia Os Personagens Mais Fortes do Mundo Estão Obcecados Por Mim, um manhwa em português.",
-    "chaptersCount": 152,
+    "chaptersCount": 160,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -278253,7 +278253,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Casal Não Oficial do Campus, um manhwa em português.",
     "descriptionPt": "Leia Casal Não Oficial do Campus, um manhwa em português.",
-    "chaptersCount": 1,
+    "chaptersCount": 2,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -278521,6 +278521,61 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "entrelacamento-quantico",
+    "slug": "entrelacamento-quantico",
+    "title": "Entrelaçamento Quântico",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/entrelacamento-quantico/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/entrelacamento-quantico/cover-md.webp",
+    "author": "Arts Angel",
+    "artist": "Arts Angel",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Comédia",
+      "Fantasia",
+      "Romance",
+      "Josei",
+      "Moderno",
+      "Webtoon",
+      "Ficção Científica"
+    ],
+    "description": "Leia Entrelaçamento Quântico, um webtoon em português.",
+    "descriptionPt": "Leia Entrelaçamento Quântico, um webtoon em português.",
+    "chaptersCount": 81,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "infortunio-de-trabalho",
+    "slug": "infortunio-de-trabalho",
+    "title": "Infortúnio de Trabalho",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/infortunio-de-trabalho/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/infortunio-de-trabalho/cover-md.webp",
+    "author": "Yeongha",
+    "artist": "Yeongha",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Comédia",
+      "Romance",
+      "Josei",
+      "Manhwa"
+    ],
+    "description": "Leia Infortúnio de Trabalho, um manhwa em português.",
+    "descriptionPt": "Leia Infortúnio de Trabalho, um manhwa em português.",
+    "chaptersCount": 56,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

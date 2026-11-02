@@ -79712,7 +79712,7 @@ let MANGA_DATA = [
     ],
     "description": "I was swung around in my past life but this time I’ll live the way I want to. I’ll fuck all the beautiful women, my female domination starts now!",
     "descriptionEn": "I was swung around in my past life but this time I’ll live the way I want to. I’ll fuck all the beautiful women, my female domination starts now!",
-    "chaptersCount": 105,
+    "chaptersCount": 106,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -92526,7 +92526,7 @@ let MANGA_DATA = [
     ],
     "description": "Moby Dick (Official) One day, a mysterious name card lands on HOON-SANG’s hand. The name card presents to him a new life in a new city, the haven of adultery, along with a significant sum of money in return for his physique. “You are a ‘gift’ to the VIPs. Make them unable to forget you, even if they try.”",
     "descriptionPt": "",
-    "chaptersCount": 102,
+    "chaptersCount": 105,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -93959,7 +93959,7 @@ let MANGA_DATA = [
     ],
     "description": "Save Yourself After challenging the official story of a conglomerate chairman’s suspicious death backfires, investigative journalist Gu Won is demoted to the entertainment desk. Now relegated to chasing celebrity gossip, he is assigned to dig up dirt on the nation’s top actor, Han Jihee. However, the hunter becomes the prey when a night of tailing ends in a blackout. Gu Won wakes up in the same bed as his target, met only with a cryptic promise of a reward once his memory finally returns.",
     "descriptionPt": "",
-    "chaptersCount": 34,
+    "chaptersCount": 40,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207736,7 +207736,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A filha mais nova salva esta família, um manhwa em português.",
     "descriptionPt": "Leia A filha mais nova salva esta família, um manhwa em português.",
-    "chaptersCount": 35,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231943,7 +231943,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Professor Runebound, um webtoon em português.",
     "descriptionPt": "Leia O Retorno do Professor Runebound, um webtoon em português.",
-    "chaptersCount": 96,
+    "chaptersCount": 97,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250526,7 +250526,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Devorador de Aço, um manhwa em português.",
     "descriptionPt": "Leia Devorador de Aço, um manhwa em português.",
-    "chaptersCount": 115,
+    "chaptersCount": 116,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251274,7 +251274,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Filho Caçula do Conde é um Jogador, um manhwa em português.",
     "descriptionPt": "Leia O Filho Caçula do Conde é um Jogador, um manhwa em português.",
-    "chaptersCount": 181,
+    "chaptersCount": 182,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254536,7 +254536,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia despertando-o-trovao-roxo-no-inicio online em português.",
     "descriptionPt": "Leia despertando-o-trovao-roxo-no-inicio online em português.",
-    "chaptersCount": 98,
+    "chaptersCount": 100,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258033,7 +258033,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia genio-regressado-criador-de-itens-mitico online em português.",
     "descriptionPt": "Leia genio-regressado-criador-de-itens-mitico online em português.",
-    "chaptersCount": 61,
+    "chaptersCount": 63,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261033,7 +261033,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Ídolo da Nossa Guilda, um manhwa em português.",
     "descriptionPt": "Leia O Ídolo da Nossa Guilda, um manhwa em português.",
-    "chaptersCount": 53,
+    "chaptersCount": 54,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261977,7 +261977,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Trascendência Devido a um Erro do Sistema, um manhwa em português.",
     "descriptionPt": "Leia Trascendência Devido a um Erro do Sistema, um manhwa em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 23,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262131,7 +262131,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Entomologista Do Clã Tang De Sichuan, um manhwa em português.",
     "descriptionPt": "Leia Entomologista Do Clã Tang De Sichuan, um manhwa em português.",
-    "chaptersCount": 109,
+    "chaptersCount": 111,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269376,7 +269376,7 @@ let MANGA_DATA = [
     ],
     "description": "Double X Date (Uncensored) Rule #1 of confessing to your crush: Make sure she isn’t gay first. When Jaewon’s plan to ask out his dream girl backfires as she suddenly comes out to him, he panics and rambles out an absolute lie: Actually, I’m gay too! Roped into an impossible double date, Jaewon begs his best friend, Yuwon, to play the ultimate loving boyfriend for just one night. The plan seems surprisingly foolproof—until the date actually begins. After overhearing a tense private moment between Yuwon and his crush’s new girlfriend, Hyeona, Jaewon makes a horrifying realization: his fake boyfr",
     "descriptionPt": "",
-    "chaptersCount": 8,
+    "chaptersCount": 13,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -269927,7 +269927,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ressuscitei meu Marido por Acidente., um manhwa em português.",
     "descriptionPt": "Leia Ressuscitei meu Marido por Acidente., um manhwa em português.",
-    "chaptersCount": 26,
+    "chaptersCount": 27,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -274097,7 +274097,7 @@ let MANGA_DATA = [
     ],
     "description": "A story about a childhood friend, who’s a forum admin, and her mother, who worries about her. The protagonist ends up tangled in a strange love triangle with",
     "descriptionEn": "A story about a childhood friend, who’s a forum admin, and her mother, who worries about her. The protagonist ends up tangled in a strange love triangle with",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -278630,7 +278630,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Te Devorarei à Noite, um manhwa em português.",
     "descriptionPt": "Leia Te Devorarei à Noite, um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 3,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -279127,6 +279127,30 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "tankouhentai-hahaue-mo-mesu-orc",
+    "slug": "hahaue-mo-mesu-orc",
+    "title": "Hahaue mo Mesu Orc",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/10/Hahaue-mo-Mesu-Orc-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/10/Hahaue-mo-Mesu-Orc-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Traição",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 2,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

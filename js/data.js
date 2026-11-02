@@ -98414,7 +98414,7 @@ let MANGA_DATA = [
     ],
     "description": "Not Sober (Uncensored) Baek Seongchan is a walking red flag. With his bleached blonde hair, rotating fleet of luxury cars, and drop-dead gorgeous looks, he lives at the center of the campus rumor mill. Everyone whispers about his wild lifestyle, but Yena couldn’t care less about the gossip. She just wants to check a very specific item off her bucket list: losing her virginity. When she asks him to sleep with her just because he’s the best-looking guy around, she flips his world upside down. Seongchan is used to girls chasing him for romance, but he’s never met anyone quite as deadpan and strai",
     "descriptionPt": "",
-    "chaptersCount": 22,
+    "chaptersCount": 26,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -98942,7 +98942,7 @@ let MANGA_DATA = [
     ],
     "description": "Eden (HOCCO) (Uncensored) Undercover NIS agent Park Seonwu is disguised as a café owner in an affluent neighborhood to investigate a drug ring. When he stumbles upon a lead about a drug-fueled party, he infiltrates it under the guise of delivering coffee. However, a lapse in judgement leads him to the brink of disaster until a cafe regular Seo Yohan rescues him. As the heat of the moment escalates, Seonwu and Yohan find themselves entwined in an unexpected physical connection. Realizing that Yohan might have crucial information about the case, Seonwu seeks his help. Yohan, attracted to Seonwu,",
     "descriptionPt": "",
-    "chaptersCount": 65,
+    "chaptersCount": 76,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -230089,7 +230089,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Olá, Griffin, o pássaro Fofinho!, um manhwa em português.",
     "descriptionPt": "Leia Olá, Griffin, o pássaro Fofinho!, um manhwa em português.",
-    "chaptersCount": 69,
+    "chaptersCount": 71,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230116,7 +230116,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O restaurante do arquimago, um manhwa em português.",
     "descriptionPt": "Leia O restaurante do arquimago, um manhwa em português.",
-    "chaptersCount": 156,
+    "chaptersCount": 157,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232527,7 +232527,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Providência de Alto Nível, um manhua em português.",
     "descriptionPt": "Leia Providência de Alto Nível, um manhua em português.",
-    "chaptersCount": 289,
+    "chaptersCount": 291,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249377,7 +249377,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Não confio na minha irmã gêmea (Manhwa), um manhwa em português.",
     "descriptionPt": "Leia Não confio na minha irmã gêmea (Manhwa), um manhwa em português.",
-    "chaptersCount": 81,
+    "chaptersCount": 82,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250686,7 +250686,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Lendário Cavaleiro da Lança, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Lendário Cavaleiro da Lança, um manhwa em português.",
-    "chaptersCount": 221,
+    "chaptersCount": 222,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253029,7 +253029,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
     "descriptionPt": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
-    "chaptersCount": 129,
+    "chaptersCount": 130,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255123,7 +255123,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Superastro do 0, um manhwa em português.",
     "descriptionPt": "Leia Superastro do 0, um manhwa em português.",
-    "chaptersCount": 108,
+    "chaptersCount": 109,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256422,7 +256422,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Realmente não sou o Lacaio do Deus Demônio, um manhua em português.",
     "descriptionPt": "Leia Eu Realmente não sou o Lacaio do Deus Demônio, um manhua em português.",
-    "chaptersCount": 206,
+    "chaptersCount": 207,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256587,7 +256587,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromante de Força Máxima, um manhua em português.",
     "descriptionPt": "Leia Necromante de Força Máxima, um manhua em português.",
-    "chaptersCount": 146,
+    "chaptersCount": 148,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256922,7 +256922,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Streaming do Arqueiro Genial, um manhwa em português.",
     "descriptionPt": "Leia Streaming do Arqueiro Genial, um manhwa em português.",
-    "chaptersCount": 113,
+    "chaptersCount": 114,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258055,7 +258055,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-deus-dos-improvisos online em português.",
     "descriptionPt": "Leia o-deus-dos-improvisos online em português.",
-    "chaptersCount": 40,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262373,7 +262373,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sussurros Fantasmas, um manhwa em português.",
     "descriptionPt": "Leia Sussurros Fantasmas, um manhwa em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263576,7 +263576,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Estratégia Para Fracos Dominar a Torre, um manhwa em português.",
     "descriptionPt": "Leia Estratégia Para Fracos Dominar a Torre, um manhwa em português.",
-    "chaptersCount": 52,
+    "chaptersCount": 53,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264310,7 +264310,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Um Pintor Que Desenha Dungeons, um manhwa em português.",
     "descriptionPt": "Leia Um Pintor Que Desenha Dungeons, um manhwa em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -277566,7 +277566,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Caçador de Classe S que Cura Monstros, um manhwa em português.",
     "descriptionPt": "Leia O Caçador de Classe S que Cura Monstros, um manhwa em português.",
-    "chaptersCount": 57,
+    "chaptersCount": 58,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -279070,6 +279070,63 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "mangadistrict-kims-general-store",
+    "slug": "kims-general-store",
+    "title": "Kim’s General Store",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/kims-general-store-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/kims-general-store-official.webp",
+    "author": "Kwak Junggwak",
+    "artist": "MOON",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Borderline H",
+      "Drama",
+      "Explicit Sex",
+      "Fetish",
+      "Full Color",
+      "Harem",
+      "Manhwa",
+      "Romance",
+      "Webtoons",
+      "Hentai"
+    ],
+    "description": "Kim’s General Store Welcome to Kim’s General Store, where everyday goods are sold by day and desires are fulfilled by night.",
+    "descriptionPt": "",
+    "chaptersCount": 5,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
+  },
+  {
+    "id": "mangadistrict-a-first-of-summers",
+    "slug": "a-first-of-summers",
+    "title": "A First of Summers",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/a-first-of-summers-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/a-first-of-summers-official.webp",
+    "author": "Pppanghouse",
+    "artist": "Pppanghouse",
+    "status": "ongoing",
+    "year": 2024,
+    "rating": 0,
+    "genres": [
+      "BL",
+      "Yaoi",
+      "Hentai"
+    ],
+    "description": "A First of Summers Lim Hyeonseon has lived an ordinary life, and now, as he reaches his forties, he feels an urge to start something new before it’s too late. He decides to take guitar lessons and joins a music academy. There, he meets Cha Yeoreum, a young and passionate guitar instructor. As their friendship grows, Hyeonseon begins to rediscover a sense of vitality and excitement in his life. But life is never without its surprises. When Yeoreum starts to reveal his tender affection for Hyeonseon, their relationship takes an unexpected turn, bringing new challenges and emotions to the surface",
+    "descriptionPt": "",
+    "chaptersCount": 65,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
   }
 ];
 

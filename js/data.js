@@ -234101,7 +234101,7 @@ let MANGA_DATA = [
     ],
     "description": "I’m your Masochistic Slave Is this a women-only massage shop…? This is my first time at a place like this… Please reject me harshly, like a hardcore course… …It hurts… but it feels good…! ♥♥♥",
     "descriptionPt": "",
-    "chaptersCount": 2,
+    "chaptersCount": 3,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -255768,7 +255768,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Novel’s Extra, um manhwa em português.",
     "descriptionPt": "Leia The Novel’s Extra, um manhwa em português.",
-    "chaptersCount": 179,
+    "chaptersCount": 180,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -278467,7 +278467,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Vou Me Tornar a Ex-Esposa da Fera, um manhwa em português.",
     "descriptionPt": "Leia Vou Me Tornar a Ex-Esposa da Fera, um manhwa em português.",
-    "chaptersCount": 10,
+    "chaptersCount": 13,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

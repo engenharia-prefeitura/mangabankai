@@ -97851,7 +97851,7 @@ let MANGA_DATA = [
     ],
     "description": "True or False? (Uncensored) Steamy stories that might be true…or totally fake. Hooking up with your married friend? A wild foursome out of nowhere? Who hasn’t fantasized about something a little out there? New episodes every day to tease your curiosity—until the big reveal. Can you tell what’s fact and what’s pure fantasy? Take your best guess…if you dare.",
     "descriptionPt": "",
-    "chaptersCount": 209,
+    "chaptersCount": 224,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207632,7 +207632,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Nano Máquina, um manhwa em português.",
     "descriptionPt": "Leia Nano Máquina, um manhwa em português.",
-    "chaptersCount": 336,
+    "chaptersCount": 337,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207840,7 +207840,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Me Escolhe!, um manhwa em português.",
     "descriptionPt": "Leia Me Escolhe!, um manhwa em português.",
-    "chaptersCount": 225,
+    "chaptersCount": 226,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207918,7 +207918,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Herdeiro Monstruoso da Família Chaebol, um manhwa em português.",
     "descriptionPt": "Leia O Herdeiro Monstruoso da Família Chaebol, um manhwa em português.",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230555,7 +230555,7 @@ let MANGA_DATA = [
     ],
     "description": "8 / 100 Desenvolvido por Rank Math SEO",
     "descriptionPt": "8 / 100 Desenvolvido por Rank Math SEO",
-    "chaptersCount": 68,
+    "chaptersCount": 71,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false,
@@ -254302,7 +254302,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Filho Adotivo em um Mundo de Supremacia de Linhagem, um mangá em português.",
     "descriptionPt": "Leia O Retorno do Filho Adotivo em um Mundo de Supremacia de Linhagem, um mangá em português.",
-    "chaptersCount": 59,
+    "chaptersCount": 60,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254328,7 +254328,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Demônio Supremo do Veneno, um manhwa em português.",
     "descriptionPt": "Leia O Demônio Supremo do Veneno, um manhwa em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254558,7 +254558,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-tornei-um-mago-de-fantasia-medieval online em português.",
     "descriptionPt": "Leia me-tornei-um-mago-de-fantasia-medieval online em português.",
-    "chaptersCount": 45,
+    "chaptersCount": 46,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255358,7 +255358,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Heavenly Path Is Not Stupid, um manhua em português.",
     "descriptionPt": "Leia The Heavenly Path Is Not Stupid, um manhua em português.",
-    "chaptersCount": 106,
+    "chaptersCount": 108,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256188,7 +256188,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Martial God who Regressed to Level 2, um manhwa em português.",
     "descriptionPt": "Leia The Martial God who Regressed to Level 2, um manhwa em português.",
-    "chaptersCount": 132,
+    "chaptersCount": 133,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256951,7 +256951,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Por que está tão obcecado em Rejeitar Afeto?, um manhwa em português.",
     "descriptionPt": "Leia Por que está tão obcecado em Rejeitar Afeto?, um manhwa em português.",
-    "chaptersCount": 70,
+    "chaptersCount": 71,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259331,7 +259331,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia tropa-de-elite-fantastica online em português.",
     "descriptionPt": "Leia tropa-de-elite-fantastica online em português.",
-    "chaptersCount": 45,
+    "chaptersCount": 46,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260086,7 +260086,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Marido Malvado, um manhwa em português.",
     "descriptionPt": "Leia O Marido Malvado, um manhwa em português.",
-    "chaptersCount": 52,
+    "chaptersCount": 53,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260694,7 +260694,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Transformando o Tigre em Gatinho, um manhwa em português.",
     "descriptionPt": "Leia Transformando o Tigre em Gatinho, um manhwa em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266352,7 +266352,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sobrevivendo no Jogo Como um Bárbaro, um manhwa em português.",
     "descriptionPt": "Leia Sobrevivendo no Jogo Como um Bárbaro, um manhwa em português.",
-    "chaptersCount": 163,
+    "chaptersCount": 164,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269324,7 +269324,7 @@ let MANGA_DATA = [
     ],
     "description": "The Bondservant When a near-accident involving her father and a servant boy brings a new face into the Evegenjya home, the last thing Sioanna is expecting is for a new servant in her ranks, let alone a friend. Étienne has learned the hard way to be quiet and reserved, but as his relationship with Sioanna blooms, the two begin to form a bond of affection, care…and obsession. Despite the deep hurt in both their lives, their ability to treat one another with gentleness and kindness proves to be just the remedy they both needed. But will it be enough to conquer the countless obstacles that stand i",
     "descriptionPt": "",
-    "chaptersCount": 72,
+    "chaptersCount": 79,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -271455,7 +271455,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Campo Esquecido [Novel], uma novel em português. Acompanhe os capítulos em texto com leitura confortável.",
     "descriptionPt": "Leia O Campo Esquecido [Novel], uma novel em português. Acompanhe os capítulos em texto com leitura confortável.",
-    "chaptersCount": 70,
+    "chaptersCount": 74,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -272753,7 +272753,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Como Sobreviver a Novel de Terror que Escrevi, um manhwa em português.",
     "descriptionPt": "Leia Como Sobreviver a Novel de Terror que Escrevi, um manhwa em português.",
-    "chaptersCount": 13,
+    "chaptersCount": 14,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -278630,7 +278630,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Te Devorarei à Noite, um manhwa em português.",
     "descriptionPt": "Leia Te Devorarei à Noite, um manhwa em português.",
-    "chaptersCount": 4,
+    "chaptersCount": 5,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

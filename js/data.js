@@ -94905,7 +94905,7 @@ let MANGA_DATA = [
     ],
     "description": "Peaches and Dream (Uncensored) Born and raised on a diet of peaches, a do-myeong named Seolwon was destined to become a courtesan of the highest class, an exquisite creation known as a jade feet. But when his incomplete body is deemed defective and dangerous, he’s cast aside as a failed product, discarded like broken porcelain. Before he can be sold off cheaply, a mysterious attack leaves him unconscious. When he wakes, he learns he’s already been bought, for a staggering sum, by an unknown master. His search for answers leads him to Dream Palace, a sprawling casino ruled by the enigmatic Jay,",
     "descriptionPt": "",
-    "chaptersCount": 55,
+    "chaptersCount": 57,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -113840,7 +113840,7 @@ let MANGA_DATA = [
     ],
     "description": "Hold Over You (Uncensored) Choi Kwon is haunted by nightmares and cursed to watch those he cares about face tragic fates. Wracked with guilt, he isolates himself, until one day he decides to take a chance – only to see his classmate get hit by a car right in front of him. Though Shin Yooyoung survives, he now claims they were married in a past life—and that breaking this curse is within Kwon’s reach. Faced with a strange new reality, Kwon must decide what to believe and just how far he’ll go to end his torment.",
     "descriptionPt": "",
-    "chaptersCount": 58,
+    "chaptersCount": 61,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -154227,7 +154227,7 @@ let MANGA_DATA = [
     "cover": "https://cdn.mangadistrict.com/thumbnail/mookhyang-the-origin.webp",
     "banner": "https://cdn.mangadistrict.com/thumbnail/mookhyang-the-origin.webp",
     "author": "Dong-Jo JEON",
-    "artist": "REDZIN",
+    "artist": "SILVA",
     "status": "ongoing",
     "year": 2021,
     "rating": 0,
@@ -207184,7 +207184,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Dama Bebê Controla O Mundo Com Dinheiro, um manhwa em português.",
     "descriptionPt": "Leia A Dama Bebê Controla O Mundo Com Dinheiro, um manhwa em português.",
-    "chaptersCount": 138,
+    "chaptersCount": 139,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207660,7 +207660,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Logando 10.000 Anos No Futuro, um manhua em português.",
     "descriptionPt": "Leia Logando 10.000 Anos No Futuro, um manhua em português.",
-    "chaptersCount": 346,
+    "chaptersCount": 366,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207972,7 +207972,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Veletric, um manhwa em português.",
     "descriptionPt": "Leia Veletric, um manhwa em português.",
-    "chaptersCount": 401,
+    "chaptersCount": 402,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251300,7 +251300,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Neste Mundo Não Existem Guerreiros Maus, um manhwa em português.",
     "descriptionPt": "Leia Neste Mundo Não Existem Guerreiros Maus, um manhwa em português.",
-    "chaptersCount": 94,
+    "chaptersCount": 96,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252663,7 +252663,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guarda Malandro em uma Fantasia Medieval, um manhwa em português.",
     "descriptionPt": "Leia Guarda Malandro em uma Fantasia Medieval, um manhwa em português.",
-    "chaptersCount": 54,
+    "chaptersCount": 56,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252740,7 +252740,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Regressando como o Bastardo do Clã da Espada, um manhwa em português.",
     "descriptionPt": "Leia Regressando como o Bastardo do Clã da Espada, um manhwa em português.",
-    "chaptersCount": 118,
+    "chaptersCount": 119,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256114,7 +256114,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O gerente Kim odeia ídolos de K-Pop, um manhwa em português.",
     "descriptionPt": "Leia O gerente Kim odeia ídolos de K-Pop, um manhwa em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258814,7 +258814,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Que se dane ser o Herdeiro, Eu vou Curar, um manhwa em português.",
     "descriptionPt": "Leia Que se dane ser o Herdeiro, Eu vou Curar, um manhwa em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 42,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259380,7 +259380,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia um-colega-de-classe-de-olhar-perspicaz online em português.",
     "descriptionPt": "Leia um-colega-de-classe-de-olhar-perspicaz online em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260030,7 +260030,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-mundo-arruinado-foi-confundido-com-um-jogo online em português.",
     "descriptionPt": "Leia o-mundo-arruinado-foi-confundido-com-um-jogo online em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261686,7 +261686,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Reencarnado, um manhwa em português.",
     "descriptionPt": "Leia Reencarnado, um manhwa em português.",
-    "chaptersCount": 157,
+    "chaptersCount": 159,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263874,7 +263874,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Corporação Goblin, um manhwa em português.",
     "descriptionPt": "Leia Corporação Goblin, um manhwa em português.",
-    "chaptersCount": 19,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263898,7 +263898,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Santo da Espada Reencarnou em uma Família Nobre de Magos, um mangá em português.",
     "descriptionPt": "Leia O Santo da Espada Reencarnou em uma Família Nobre de Magos, um mangá em português.",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265314,7 +265314,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Com Dinheiro, Comprarei O Poder Divino!, um manhwa em português.",
     "descriptionPt": "Leia Com Dinheiro, Comprarei O Poder Divino!, um manhwa em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269160,7 +269160,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Nerd da Casa ao Lado é o Mestre da Torre Mágica?!, um manhwa em português.",
     "descriptionPt": "Leia O Nerd da Casa ao Lado é o Mestre da Torre Mágica?!, um manhwa em português.",
-    "chaptersCount": 9,
+    "chaptersCount": 10,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269868,7 +269868,7 @@ let MANGA_DATA = [
     ],
     "description": "Bride-To-Be (Uncensored) What would you do if you came back home, only to see a girl living there? Cool… Now what the heck should I do?",
     "descriptionPt": "",
-    "chaptersCount": 23,
+    "chaptersCount": 25,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -273583,7 +273583,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Não Confie Nele, Nem o Ame, um manhwa em português.",
     "descriptionPt": "Leia Não Confie Nele, Nem o Ame, um manhwa em português.",
-    "chaptersCount": 5,
+    "chaptersCount": 7,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -278630,7 +278630,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Te Devorarei à Noite, um manhwa em português.",
     "descriptionPt": "Leia Te Devorarei à Noite, um manhwa em português.",
-    "chaptersCount": 3,
+    "chaptersCount": 4,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

@@ -86718,7 +86718,7 @@ let MANGA_DATA = [
     ],
     "description": "I just retired from the army and went back to school, and I was in a normal college life. If you can’t afford it, you’ll be able to apply for a lecture that",
     "descriptionEn": "I just retired from the army and went back to school, and I was in a normal college life. If you can’t afford it, you’ll be able to apply for a lecture that",
-    "chaptersCount": 38,
+    "chaptersCount": 54,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97877,7 +97877,7 @@ let MANGA_DATA = [
     ],
     "description": "Three Nights (Uncensored) Hangyeol loves music, but for some reason, he just cannot write love songs. Desperate for advice, he visits a fortune-teller, only to receive the strangest solution imaginable: “”If romance is too hard,”” the old man tells him, “”then at least try sleeping with someone. Anyone.”” Leaving with more questions than answers, a flustered Hangyeol somehow ends up surrounded by three very different men…in more ways than one. Caught between inspiration, temptation, and pure confusion, Hangyeol must figure out whether he can finally lose his innocence – and maybe find his muse",
     "descriptionPt": "",
-    "chaptersCount": 46,
+    "chaptersCount": 49,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -208047,7 +208047,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Retorno do Cavaleiro da Morte de Nível Apocalíptico, um manhwa em português.",
     "descriptionPt": "Leia Retorno do Cavaleiro da Morte de Nível Apocalíptico, um manhwa em português.",
-    "chaptersCount": 92,
+    "chaptersCount": 93,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249402,7 +249402,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Doce Salvadora da Besta Imoral, um manhwa em português.",
     "descriptionPt": "Leia A Doce Salvadora da Besta Imoral, um manhwa em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249962,7 +249962,7 @@ let MANGA_DATA = [
     ],
     "description": "Let’s Skip The Handshake Junwon is a perfectly ordinary office worker who values routine and predictability above all else. Because of this, he finds himself constantly aggravated by Yijae, a fellow colleague who joined the company at the exact same time. From their work ethics to their basic personalities, Yijae is the complete polar opposite of Junwon, making his very presence a daily source of intense frustration. One particular afternoon, the simmering tension between them boils over during a heated argument over a minor project detail. After a fierce clash of opinions, they are pressured ",
     "descriptionPt": "",
-    "chaptersCount": 22,
+    "chaptersCount": 27,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -250812,7 +250812,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Operação Coração Acelerado, um manhwa em português.",
     "descriptionPt": "Leia Operação Coração Acelerado, um manhwa em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 45,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251784,7 +251784,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Matei Um Jogador da Academia, um manhwa em português.",
     "descriptionPt": "Leia Eu Matei Um Jogador da Academia, um manhwa em português.",
-    "chaptersCount": 140,
+    "chaptersCount": 141,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252767,7 +252767,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Campo Esquecido, um manhwa em português.",
     "descriptionPt": "Leia O Campo Esquecido, um manhwa em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254006,7 +254006,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia I Was Born as the Second Daughter, um manhwa em português.",
     "descriptionPt": "Leia I Was Born as the Second Daughter, um manhwa em português.",
-    "chaptersCount": 86,
+    "chaptersCount": 88,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254492,7 +254492,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei O Mentor do Rei Demônio mais Fraco, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei O Mentor do Rei Demônio mais Fraco, um manhwa em português.",
-    "chaptersCount": 43,
+    "chaptersCount": 44,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256114,7 +256114,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O gerente Kim odeia ídolos de K-Pop, um manhwa em português.",
     "descriptionPt": "Leia O gerente Kim odeia ídolos de K-Pop, um manhwa em português.",
-    "chaptersCount": 26,
+    "chaptersCount": 27,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263846,7 +263846,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Filho Imprestável do Marquês, um manhwa em português.",
     "descriptionPt": "Leia O Filho Imprestável do Marquês, um manhwa em português.",
-    "chaptersCount": 34,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265314,7 +265314,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Com Dinheiro, Comprarei O Poder Divino!, um manhwa em português.",
     "descriptionPt": "Leia Com Dinheiro, Comprarei O Poder Divino!, um manhwa em português.",
-    "chaptersCount": 15,
+    "chaptersCount": 22,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -276641,7 +276641,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Onahole sem fio, um manhwa em português.",
     "descriptionPt": "Leia Onahole sem fio, um manhwa em português.",
-    "chaptersCount": 128,
+    "chaptersCount": 131,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -277166,7 +277166,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Nossos Ancestrais Estão Olhando, um manhwa em português.",
     "descriptionPt": "Leia Nossos Ancestrais Estão Olhando, um manhwa em português.",
-    "chaptersCount": 7,
+    "chaptersCount": 8,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -278390,7 +278390,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Em Louvor à sua Sobrevivência, um manhwa em português.",
     "descriptionPt": "Leia Em Louvor à sua Sobrevivência, um manhwa em português.",
-    "chaptersCount": 3,
+    "chaptersCount": 4,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -278467,7 +278467,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Vou Me Tornar a Ex-Esposa da Fera, um manhwa em português.",
     "descriptionPt": "Leia Vou Me Tornar a Ex-Esposa da Fera, um manhwa em português.",
-    "chaptersCount": 13,
+    "chaptersCount": 19,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -279554,6 +279554,32 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "eu-sou-uma-vila-mas-nao-vou-viver-como-uma",
+    "slug": "eu-sou-uma-vila-mas-nao-vou-viver-como-uma",
+    "title": "Eu Sou Uma Vilã, Mas Não Vou Viver Como Uma",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/eu-sou-uma-vila-mas-nao-vou-viver-como-uma/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/eu-sou-uma-vila-mas-nao-vou-viver-como-uma/cover-md.webp",
+    "author": "HWANG DoTol",
+    "artist": "HWANG DoTol",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Fantasia",
+      "Romance",
+      "Histórico",
+      "Josei"
+    ],
+    "description": "Leia Eu Sou Uma Vilã, Mas Não Vou Viver Como Uma, um mangá em português.",
+    "descriptionPt": "Leia Eu Sou Uma Vilã, Mas Não Vou Viver Como Uma, um mangá em português.",
+    "chaptersCount": 21,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

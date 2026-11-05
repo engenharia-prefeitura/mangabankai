@@ -207313,7 +207313,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Solstício, um manhwa em português.",
     "descriptionPt": "Leia Solstício, um manhwa em português.",
-    "chaptersCount": 59,
+    "chaptersCount": 60,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207605,7 +207605,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Missões na Vida Real, um manhwa em português.",
     "descriptionPt": "Leia Missões na Vida Real, um manhwa em português.",
-    "chaptersCount": 230,
+    "chaptersCount": 231,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -236142,7 +236142,7 @@ let MANGA_DATA = [
     ],
     "description": "Confessions of a Chambermaid (Uncensored) For her entire life in Joseon, Yun Jini believed there was only one man in the world, the king. As a newly appointed chambermaid guarding the royal bedchamber, she begins to awaken to forbidden desires she has never dared to name. But in a palace where love and freedom are luxuries no court lady can afford, her fate turns even darker. Accused of treason and forced to flee, Jini falls into a pond, sinking fast toward certain death. “I don’t want to die like this!” Her desperate plea is answered. The mysterious waters carry her not to the afterlife, but ",
     "descriptionPt": "",
-    "chaptersCount": 27,
+    "chaptersCount": 31,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -253636,7 +253636,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Longe de estar Sóbrio, um manhwa em português.",
     "descriptionPt": "Leia Longe de estar Sóbrio, um manhwa em português.",
-    "chaptersCount": 23,
+    "chaptersCount": 24,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254086,7 +254086,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Meu Corpo Foi Possuído por Alguém, um manhwa em português.",
     "descriptionPt": "Leia Meu Corpo Foi Possuído por Alguém, um manhwa em português.",
-    "chaptersCount": 105,
+    "chaptersCount": 106,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256371,7 +256371,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
     "descriptionPt": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
-    "chaptersCount": 75,
+    "chaptersCount": 76,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269515,7 +269515,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Flor que Empunha a Espada, um manhwa em português.",
     "descriptionPt": "Leia A Flor que Empunha a Espada, um manhwa em português.",
-    "chaptersCount": 63,
+    "chaptersCount": 64,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -278415,7 +278415,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Bem-vindo à Imobiliária Feliz!, um manhwa em português.",
     "descriptionPt": "Leia Bem-vindo à Imobiliária Feliz!, um manhwa em português.",
-    "chaptersCount": 3,
+    "chaptersCount": 4,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

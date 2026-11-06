@@ -92397,7 +92397,7 @@ let MANGA_DATA = [
     ],
     "description": "Mind Control (HO) (Official) Austin gets falsely accused and becomes a loner. One day, he gets to download a mysterious hypnosis app that lets him take revenge on the girls that looked down on him. “I’ll fuck all of you who looked down on me.”",
     "descriptionPt": "",
-    "chaptersCount": 24,
+    "chaptersCount": 36,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207761,7 +207761,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Morando com o Romeo, um manhwa em português.",
     "descriptionPt": "Leia Morando com o Romeo, um manhwa em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 44,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231389,7 +231389,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromante do Clã da Espada, um manhwa em português.",
     "descriptionPt": "Leia Necromante do Clã da Espada, um manhwa em português.",
-    "chaptersCount": 34,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254932,7 +254932,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Assassino Cruel, um manhwa em português.",
     "descriptionPt": "Leia Assassino Cruel, um manhwa em português.",
-    "chaptersCount": 155,
+    "chaptersCount": 156,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256922,7 +256922,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Streaming do Arqueiro Genial, um manhwa em português.",
     "descriptionPt": "Leia Streaming do Arqueiro Genial, um manhwa em português.",
-    "chaptersCount": 114,
+    "chaptersCount": 115,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259513,7 +259513,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
     "descriptionPt": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
-    "chaptersCount": 38,
+    "chaptersCount": 39,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260086,7 +260086,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Marido Malvado, um manhwa em português.",
     "descriptionPt": "Leia O Marido Malvado, um manhwa em português.",
-    "chaptersCount": 53,
+    "chaptersCount": 54,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262028,7 +262028,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Regra de Ouro de Han Serim, um manhwa em português.",
     "descriptionPt": "Leia A Regra de Ouro de Han Serim, um manhwa em português.",
-    "chaptersCount": 6,
+    "chaptersCount": 22,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266437,7 +266437,7 @@ let MANGA_DATA = [
     ],
     "description": "Secret Lessons James isn’t thrilled about having to retake the CSAT, but everything changes when he’s forced to attend cram school and meets his new teacher.",
     "descriptionPt": "",
-    "chaptersCount": 2,
+    "chaptersCount": 12,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -274298,7 +274298,7 @@ let MANGA_DATA = [
     ],
     "description": "Cheer Love (Official) “Let’s go! I’ll cheer you up with my body.” The secret private lives of a mascot part-timer who’s a former baseball player and cheerleaders. Do you wanna hear about them?",
     "descriptionPt": "",
-    "chaptersCount": 15,
+    "chaptersCount": 19,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -276803,7 +276803,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Pânico moral, um manhwa em português.",
     "descriptionPt": "Leia Pânico moral, um manhwa em português.",
-    "chaptersCount": 6,
+    "chaptersCount": 8,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -276832,7 +276832,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Doce Ruína, um manhwa em português.",
     "descriptionPt": "Leia Doce Ruína, um manhwa em português.",
-    "chaptersCount": 4,
+    "chaptersCount": 7,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -277603,7 +277603,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Faça-Me Ronronar, um mangá em português.",
     "descriptionPt": "Leia Faça-Me Ronronar, um mangá em português.",
-    "chaptersCount": 1,
+    "chaptersCount": 3,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

@@ -249166,7 +249166,7 @@ let MANGA_DATA = [
     ],
     "description": "The Price of Yes They joined for the money. The game will strip them bare. How far will they go to win?",
     "descriptionPt": "",
-    "chaptersCount": 32,
+    "chaptersCount": 35,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -249429,7 +249429,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromante: Rei dos Mortos, um manhua em português.",
     "descriptionPt": "Leia Necromante: Rei dos Mortos, um manhua em português.",
-    "chaptersCount": 318,
+    "chaptersCount": 320,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265519,7 +265519,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Princesa que Mantém seu Fã-clube em Segredo, um manhwa em português.",
     "descriptionPt": "Leia A Princesa que Mantém seu Fã-clube em Segredo, um manhwa em português.",
-    "chaptersCount": 116,
+    "chaptersCount": 117,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265991,7 +265991,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Princesa Marcou O Traidor, um manhwa em português.",
     "descriptionPt": "Leia A Princesa Marcou O Traidor, um manhwa em português.",
-    "chaptersCount": 129,
+    "chaptersCount": 130,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -276420,7 +276420,7 @@ let MANGA_DATA = [
     ],
     "description": "I Know Your Secret Jessica discovers her crush’s secret and finds the perfect way to use it to her advantage.",
     "descriptionPt": "",
-    "chaptersCount": 2,
+    "chaptersCount": 5,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -279947,6 +279947,32 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "a-midsummer-s-carol-uncensored",
+    "slug": "a-midsummer-s-carol-uncensored",
+    "title": "A Midsummer’s Carol (Uncensored)",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2026/05/a-midsummers-carol-uncensored-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2026/05/a-midsummers-carol-uncensored-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult",
+      "Josei",
+      "Uncensored"
+    ],
+    "description": "After failing at both love and work, Dokyung returns to the stillness of her hometown, Mooyung, where a chance encounter at her mother’s old corner store",
+    "descriptionEn": "After failing at both love and work, Dokyung returns to the stillness of her hometown, Mooyung, where a chance encounter at her mother’s old corner store",
+    "chaptersCount": 40,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

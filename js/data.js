@@ -21,7 +21,7 @@ let MANGA_DATA = [
       "Shounen"
     ],
     "description": "Seeking to be the greatest pirate in the world, young Monkey D. Luffy, endowed with stretching powers from the legendary \"Gomu Gomu\" Devil's fruit, travels towards the Grand Line in search of One Piece, the greatest treasure in the world.",
-    "chaptersCount": 1198,
+    "chaptersCount": 1199,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -94982,7 +94982,7 @@ let MANGA_DATA = [
     ],
     "description": "Kick Your Heart Jang Hyeokjun, the second son of a chaebol family, is infamous for scandals, nightlife disasters, and giving his father chronic headaches. Finally fed up, his father hires a personal monitor to keep him in line. But the man who shows up is the last person Hyeokjun ever expected, Choi Jeongheon, the ex who ghosted him four years ago and left him shattered. Hyeokjun is furious. If his father will not fire Jeongheon, then he will drive him out himself. He throws tantrums, picks fights, and schemes nonstop, but Jeongheon remains calm, unbothered, and frustratingly professional. Dig",
     "descriptionPt": "",
-    "chaptersCount": 46,
+    "chaptersCount": 48,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97965,7 +97965,7 @@ let MANGA_DATA = [
     ],
     "description": "The King of White Tigers (Uncensored) In the Kingdom of Ha, a land bordered by monster-infested wilds, an ancient law dictates that any Bearer. a male capable of conceiving the White Tiger’s heir, must be crowned King to prevent a seven-year famine. After decades of silence, Il-oh, a lowly slave, suddenly manifests as a Bearer. Following the omen, the former King abdicates, and the Crown Prince, Jang Woon, is demoted to a mere attendant tasked with serving the new, unwilling sovereign. Within the palace, a grim secret lingers: once a Bearer bears an heir at age twenty, he is destined for death",
     "descriptionPt": "",
-    "chaptersCount": 29,
+    "chaptersCount": 31,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207128,7 +207128,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Magic Emperor, um manhua em português.",
     "descriptionPt": "Leia Magic Emperor, um manhua em português.",
-    "chaptersCount": 935,
+    "chaptersCount": 936,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232311,7 +232311,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Superação do Nobre Vagabundo, um manhwa em português.",
     "descriptionPt": "Leia A Superação do Nobre Vagabundo, um manhwa em português.",
-    "chaptersCount": 166,
+    "chaptersCount": 167,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249325,7 +249325,7 @@ let MANGA_DATA = [
     ],
     "description": "A+ for Pleasure She’s the perfect private tutor—smart, beautiful, and willing to offer more than just extra lessons. For her top-scoring students, the reward goes far beyond grades… and once you get a taste, you’ll do anything to stay at the top of the class.",
     "descriptionPt": "",
-    "chaptersCount": 35,
+    "chaptersCount": 37,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -254602,7 +254602,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-tornei-um-ladrao-de-habilidades online em português.",
     "descriptionPt": "Leia me-tornei-um-ladrao-de-habilidades online em português.",
-    "chaptersCount": 48,
+    "chaptersCount": 49,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255713,7 +255713,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Amor:Zero, um manhwa em português.",
     "descriptionPt": "Leia Amor:Zero, um manhwa em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259240,7 +259240,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Segure-a Com Mais Força, um manhwa em português.",
     "descriptionPt": "Leia Segure-a Com Mais Força, um manhwa em português.",
-    "chaptersCount": 40,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265264,7 +265264,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Vampiro Encontrou A Caçadora, um manhwa em português.",
     "descriptionPt": "Leia O Vampiro Encontrou A Caçadora, um manhwa em português.",
-    "chaptersCount": 43,
+    "chaptersCount": 44,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -276723,31 +276723,6 @@ let MANGA_DATA = [
     "source": "tankouhentai"
   },
   {
-    "id": "a-for-pleasure",
-    "slug": "a-for-pleasure",
-    "title": "A+ for Pleasure",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2026/05/a-for-pleasure-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2026/05/a-for-pleasure-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adult",
-      "Seinen"
-    ],
-    "description": "She’s the perfect private tutor—smart, beautiful, and willing to offer more than just extra lessons. For her top-scoring students, the reward goes far beyond",
-    "descriptionEn": "She’s the perfect private tutor—smart, beautiful, and willing to offer more than just extra lessons. For her top-scoring students, the reward goes far beyond",
-    "chaptersCount": 34,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "para-ser-uma-orquidea-unica",
     "slug": "para-ser-uma-orquidea-unica",
     "title": "Para ser uma Orquídea Única",
@@ -276773,7 +276748,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Para ser uma Orquídea Única, um manhwa em português.",
     "descriptionPt": "Leia Para ser uma Orquídea Única, um manhwa em português.",
-    "chaptersCount": 9,
+    "chaptersCount": 10,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -277115,7 +277090,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Lorde Blackwood prometeu me matar, um manhwa em português.",
     "descriptionPt": "Leia O Lorde Blackwood prometeu me matar, um manhwa em português.",
-    "chaptersCount": 3,
+    "chaptersCount": 4,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

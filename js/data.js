@@ -97578,7 +97578,7 @@ let MANGA_DATA = [
     ],
     "description": "Courtside Courtship (Uncensored) Genius. Champion. National treasure. Nam Woojoon has always admired Seo Siwon, but only from afar. That is, until the night he woke to find his idol on top of him, completely lost in pleasure. Now, as the heat between them rises, Woojoon’s learning the rules of a new game, and he’s playing to win.",
     "descriptionPt": "",
-    "chaptersCount": 38,
+    "chaptersCount": 39,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -114654,7 +114654,7 @@ let MANGA_DATA = [
     ],
     "description": "Rakujitsu no Pathos What happens when next door to Fujiwara, an upcoming mangaka, moves Yuuki, who was his teacher back at high-school and first crush? Yuuki, a married woman now is starting a new life in the city but her husband is always away on business so she finds comfort in the company of her former student but what she doesn’t realise is that Fujiwara can listen to everything happening in her apartment through the building’s thin walls…",
     "descriptionPt": "",
-    "chaptersCount": 115,
+    "chaptersCount": 134,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207526,7 +207526,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Me Tornei A Líder De Um Girl Group Amaldiçoado, um manhwa em português.",
     "descriptionPt": "Leia Me Tornei A Líder De Um Girl Group Amaldiçoado, um manhwa em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 31,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207685,7 +207685,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Inimigo Me Engravidou, um manhwa em português.",
     "descriptionPt": "Leia O Inimigo Me Engravidou, um manhwa em português.",
-    "chaptersCount": 38,
+    "chaptersCount": 39,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231517,7 +231517,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Mago Negro Retorna Após 66666 Anos, um manhwa em português.",
     "descriptionPt": "Leia O Mago Negro Retorna Após 66666 Anos, um manhwa em português.",
-    "chaptersCount": 204,
+    "chaptersCount": 205,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232235,7 +232235,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Crônicas da Facção Demoníaca, um manhwa em português.",
     "descriptionPt": "Leia Crônicas da Facção Demoníaca, um manhwa em português.",
-    "chaptersCount": 197,
+    "chaptersCount": 198,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -233645,7 +233645,7 @@ let MANGA_DATA = [
     ],
     "description": "Tyrant of the Tower Defense Game “Protect the Empire” was considered unbeatable for over a decade until streamer extraordinaire “Mr. Gamer Geek” comes along and defeats the game on its hardest mode. But just when he’s about to rest on his laurels, he’s sucked into the world of the game by some mysterious figure and thrust into Prince Ash’s body! Ash now realizes that every click and command he had mindlessly sent out had real, gruesome costs – including his teammates’ lives that he sacrificed for the sake of victory. To make up for his previous actions, Ash promises to keep his whole team aliv",
     "descriptionPt": "",
-    "chaptersCount": 194,
+    "chaptersCount": 195,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -233773,7 +233773,7 @@ let MANGA_DATA = [
     ],
     "description": "Asmodeck: A Game of Desire When the manager brought in a dusty-looking board game, no one knew that… this is one game you can’t escape.",
     "descriptionPt": "",
-    "chaptersCount": 37,
+    "chaptersCount": 39,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -251355,7 +251355,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Imperador Solo, um manhwa em português.",
     "descriptionPt": "Leia Imperador Solo, um manhwa em português.",
-    "chaptersCount": 91,
+    "chaptersCount": 92,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251410,7 +251410,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia North Snow Love Story, um manhwa em português.",
     "descriptionPt": "Leia North Snow Love Story, um manhwa em português.",
-    "chaptersCount": 85,
+    "chaptersCount": 91,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252690,7 +252690,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mestre Espadachim Criado Pelas Estrelas, um manhwa em português.",
     "descriptionPt": "Leia Mestre Espadachim Criado Pelas Estrelas, um manhwa em português.",
-    "chaptersCount": 144,
+    "chaptersCount": 145,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253636,7 +253636,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Longe de estar Sóbrio, um manhwa em português.",
     "descriptionPt": "Leia Longe de estar Sóbrio, um manhwa em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254059,7 +254059,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Imperatriz Se Casou Novamente, um manhwa em português.",
     "descriptionPt": "Leia A Imperatriz Se Casou Novamente, um manhwa em português.",
-    "chaptersCount": 234,
+    "chaptersCount": 235,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254668,7 +254668,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia retorno-de-10000-vezes-irma-senior-por-favor-comporte-se online em português.",
     "descriptionPt": "Leia retorno-de-10000-vezes-irma-senior-por-favor-comporte-se online em português.",
-    "chaptersCount": 43,
+    "chaptersCount": 44,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254932,7 +254932,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Assassino Cruel, um manhwa em português.",
     "descriptionPt": "Leia Assassino Cruel, um manhwa em português.",
-    "chaptersCount": 156,
+    "chaptersCount": 157,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257117,7 +257117,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Atreva-se!, um manhwa em português.",
     "descriptionPt": "Leia Atreva-se!, um manhwa em português.",
-    "chaptersCount": 37,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259738,7 +259738,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-santo-evolui-atraves-da-necromancia online em português.",
     "descriptionPt": "Leia o-santo-evolui-atraves-da-necromancia online em português.",
-    "chaptersCount": 45,
+    "chaptersCount": 46,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261393,7 +261393,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-tornei-a-mestre-do-diabo online em português.",
     "descriptionPt": "Leia me-tornei-a-mestre-do-diabo online em português.",
-    "chaptersCount": 15,
+    "chaptersCount": 104,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262929,7 +262929,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia streamer-apos-a-reencarnacao online em português.",
     "descriptionPt": "Leia streamer-apos-a-reencarnacao online em português.",
-    "chaptersCount": 71,
+    "chaptersCount": 72,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -268559,7 +268559,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Tudo que eu quero é a casa dos meus sonhos, um manhwa em português.",
     "descriptionPt": "Leia Tudo que eu quero é a casa dos meus sonhos, um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 15,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -270252,7 +270252,7 @@ let MANGA_DATA = [
     ],
     "description": "My Slutty Sister (Uncensored) What does a good brother do when his sister slips into his bed at 3AM — half-naked, wet, begging him not to tell Mom? Our writer lived every filthy page. We’re still drawing it. You’ll read it soon",
     "descriptionPt": "",
-    "chaptersCount": 4,
+    "chaptersCount": 7,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -270644,7 +270644,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromancer Academy and the Genius Summoner, um manhwa em português.",
     "descriptionPt": "Leia Necromancer Academy and the Genius Summoner, um manhwa em português.",
-    "chaptersCount": 224,
+    "chaptersCount": 227,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273399,7 +273399,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Mordomo Mais Forte Da Família Dos Vilões, um manhwa em português.",
     "descriptionPt": "Leia O Mordomo Mais Forte Da Família Dos Vilões, um manhwa em português.",
-    "chaptersCount": 24,
+    "chaptersCount": 25,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -276615,7 +276615,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Onahole sem fio, um manhwa em português.",
     "descriptionPt": "Leia Onahole sem fio, um manhwa em português.",
-    "chaptersCount": 131,
+    "chaptersCount": 132,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -278523,7 +278523,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Quero Acabar com Esta Possessão, um manhwa em português.",
     "descriptionPt": "Leia Quero Acabar com Esta Possessão, um manhwa em português.",
-    "chaptersCount": 1,
+    "chaptersCount": 2,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -278579,7 +278579,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Te Devorarei à Noite, um manhwa em português.",
     "descriptionPt": "Leia Te Devorarei à Noite, um manhwa em português.",
-    "chaptersCount": 5,
+    "chaptersCount": 8,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -280160,6 +280160,37 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "feitico-da-lua",
+    "slug": "feitico-da-lua",
+    "title": "Feitiço da Lua",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/feitico-da-lua/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/feitico-da-lua/cover-md.webp",
+    "author": "jellyfish",
+    "artist": "jellyfish",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Fantasia",
+      "Romance",
+      "Josei",
+      "Sobrenatural",
+      "Adulto",
+      "Smut",
+      "+18",
+      "Manhwa",
+      "Erótico"
+    ],
+    "description": "Leia Feitiço da Lua, um manhwa em português.",
+    "descriptionPt": "Leia Feitiço da Lua, um manhwa em português.",
+    "chaptersCount": 17,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

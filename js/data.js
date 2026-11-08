@@ -207156,7 +207156,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Mansão Que aguarda A Primavera, um manhwa em português.",
     "descriptionPt": "Leia A Mansão Que aguarda A Primavera, um manhwa em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 42,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232703,7 +232703,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu só Preciso de um Filho do Duque, um manhwa em português.",
     "descriptionPt": "Leia Eu só Preciso de um Filho do Duque, um manhwa em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250686,7 +250686,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Retorno do Lendário Cavaleiro da Lança, um manhwa em português.",
     "descriptionPt": "Leia O Retorno do Lendário Cavaleiro da Lança, um manhwa em português.",
-    "chaptersCount": 222,
+    "chaptersCount": 223,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250921,7 +250921,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Caída no Paraíso, um manhwa em português.",
     "descriptionPt": "Leia Caída no Paraíso, um manhwa em português.",
-    "chaptersCount": 63,
+    "chaptersCount": 65,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251248,7 +251248,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vingança do Cão de Caça dos Baskerville, um manhwa em português.",
     "descriptionPt": "Leia A Vingança do Cão de Caça dos Baskerville, um manhwa em português.",
-    "chaptersCount": 187,
+    "chaptersCount": 188,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254059,7 +254059,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Imperatriz Se Casou Novamente, um manhwa em português.",
     "descriptionPt": "Leia A Imperatriz Se Casou Novamente, um manhwa em português.",
-    "chaptersCount": 235,
+    "chaptersCount": 236,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254536,7 +254536,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia despertando-o-trovao-roxo-no-inicio online em português.",
     "descriptionPt": "Leia despertando-o-trovao-roxo-no-inicio online em português.",
-    "chaptersCount": 100,
+    "chaptersCount": 101,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257278,7 +257278,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ela é a Irmã de um Merda, um manhwa em português.",
     "descriptionPt": "Leia Ela é a Irmã de um Merda, um manhwa em português.",
-    "chaptersCount": 99,
+    "chaptersCount": 100,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260497,7 +260497,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-mestre-espadachim-devorador-de-espadas online em português.",
     "descriptionPt": "Leia o-mestre-espadachim-devorador-de-espadas online em português.",
-    "chaptersCount": 53,
+    "chaptersCount": 54,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263846,7 +263846,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Filho Imprestável do Marquês, um manhwa em português.",
     "descriptionPt": "Leia O Filho Imprestável do Marquês, um manhwa em português.",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -275024,7 +275024,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Alerta de Tsunami, um manhwa em português.",
     "descriptionPt": "Leia Alerta de Tsunami, um manhwa em português.",
-    "chaptersCount": 5,
+    "chaptersCount": 6,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -277783,7 +277783,7 @@ let MANGA_DATA = [
     ],
     "description": "Subject to Contract (Uncensored) Desperate to support his daughter, single father Sujong accepts a lucrative offer from his former college hoobae, Wumin, to participate in a secret research trial. Blinded by the massive payout, Sujong signs the papers without reading the details. But the experiment isn’t just medical—it’s transformative. Waking up to discover his physical anatomy has been altered, Sujong realizes he has unknowingly contracted his body away to Wumin’s private experiments.",
     "descriptionPt": "",
-    "chaptersCount": 13,
+    "chaptersCount": 17,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -278392,7 +278392,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Vou Me Tornar a Ex-Esposa da Fera, um manhwa em português.",
     "descriptionPt": "Leia Vou Me Tornar a Ex-Esposa da Fera, um manhwa em português.",
-    "chaptersCount": 19,
+    "chaptersCount": 22,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -279665,7 +279665,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Coroa de Coral, um manhwa em português.",
     "descriptionPt": "Leia Coroa de Coral, um manhwa em português.",
-    "chaptersCount": 6,
+    "chaptersCount": 7,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -280353,7 +280353,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Focusing, um manhwa em português.",
     "descriptionPt": "Leia Focusing, um manhwa em português.",
-    "chaptersCount": 3,
+    "chaptersCount": 4,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -280573,6 +280573,32 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "os-protagonistas-masculinos-estao-presos-na-minha-casa",
+    "slug": "os-protagonistas-masculinos-estao-presos-na-minha-casa",
+    "title": "Os Protagonistas Masculinos Estão Presos na Minha Casa",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/os-protagonistas-masculinos-estao-presos-na-minha-casa/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/os-protagonistas-masculinos-estao-presos-na-minha-casa/cover-md.webp",
+    "author": "Kim Zia",
+    "artist": "Kim Zia",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Histórico",
+      "Manhwa"
+    ],
+    "description": "Leia Os Protagonistas Masculinos Estão Presos na Minha Casa, um manhwa em português.",
+    "descriptionPt": "Leia Os Protagonistas Masculinos Estão Presos na Minha Casa, um manhwa em português.",
+    "chaptersCount": 71,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

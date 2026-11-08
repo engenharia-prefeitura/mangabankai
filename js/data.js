@@ -92719,7 +92719,7 @@ let MANGA_DATA = [
     ],
     "description": "I’m a Vampire (Official) “It’s simple. Fuck them!” I became a vampire after a ridiculous accident. For better or worse, I didn’t need blood to survive. There’s only one way to survive. Become a predator and suck girls’ vital essence!",
     "descriptionPt": "",
-    "chaptersCount": 40,
+    "chaptersCount": 42,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97819,7 +97819,7 @@ let MANGA_DATA = [
     ],
     "description": "The White Pine Kim Jaehan, a brilliant and ambitious young magistrate newly appointed to the Sangju district, arrives with a hidden agenda that threatens the local status quo. Shortly after his arrival, he crosses paths with Choi Yeon-ho, the eldest son of the powerful and influential Choi clan. Despite his lineage, Yeon-ho lives a miserable existence as a social outcast held in utter contempt by his own family. Jaehan finds himself strangely drawn to the innocent, suffering soul hidden beneath Yeon-ho’s ragged exterior, and he begins to offer the young man a rare, genuine kindness. For Yeon-h",
     "descriptionPt": "",
-    "chaptersCount": 27,
+    "chaptersCount": 34,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207500,7 +207500,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Descobri Que o Homem de Uma Noite Era Meu Noivo, um manhwa em português.",
     "descriptionPt": "Leia Descobri Que o Homem de Uma Noite Era Meu Noivo, um manhwa em português.",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231414,7 +231414,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O sétimo príncipe quer escapar, um manhwa em português.",
     "descriptionPt": "Leia O sétimo príncipe quer escapar, um manhwa em português.",
-    "chaptersCount": 28,
+    "chaptersCount": 29,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232420,7 +232420,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Puramente Delinquente, um manhwa em português.",
     "descriptionPt": "Leia Puramente Delinquente, um manhwa em português.",
-    "chaptersCount": 34,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232527,7 +232527,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Providência de Alto Nível, um manhua em português.",
     "descriptionPt": "Leia Providência de Alto Nível, um manhua em português.",
-    "chaptersCount": 291,
+    "chaptersCount": 292,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232728,7 +232728,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Renascimento de Um Mercenário Entre Nobres, um manhwa em português.",
     "descriptionPt": "Leia O Renascimento de Um Mercenário Entre Nobres, um manhwa em português.",
-    "chaptersCount": 55,
+    "chaptersCount": 56,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250578,7 +250578,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Deus Demônio, um manhwa em português.",
     "descriptionPt": "Leia O Deus Demônio, um manhwa em português.",
-    "chaptersCount": 55,
+    "chaptersCount": 56,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257956,7 +257956,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Swordmaster’s Youngest Son, um manhwa em português.",
     "descriptionPt": "Leia Swordmaster’s Youngest Son, um manhwa em português.",
-    "chaptersCount": 219,
+    "chaptersCount": 220,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259136,7 +259136,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia renasci-para-me-vingar-com-a-reversao-espelhada online em português.",
     "descriptionPt": "Leia renasci-para-me-vingar-com-a-reversao-espelhada online em português.",
-    "chaptersCount": 72,
+    "chaptersCount": 73,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259358,7 +259358,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Uma Princesa que Lê a Sorte, um manhwa em português.",
     "descriptionPt": "Leia Uma Princesa que Lê a Sorte, um manhwa em português.",
-    "chaptersCount": 175,
+    "chaptersCount": 176,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259760,7 +259760,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-governante-das-trevas online em português.",
     "descriptionPt": "Leia o-governante-das-trevas online em português.",
-    "chaptersCount": 36,
+    "chaptersCount": 37,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259986,7 +259986,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-retorno-do-espadachim-negro online em português.",
     "descriptionPt": "Leia o-retorno-do-espadachim-negro online em português.",
-    "chaptersCount": 72,
+    "chaptersCount": 73,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261371,7 +261371,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-segredo-do-senior-perfeito online em português.",
     "descriptionPt": "Leia o-segredo-do-senior-perfeito online em português.",
-    "chaptersCount": 34,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261466,7 +261466,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Buraco de Serpente, um manhwa em português.",
     "descriptionPt": "Leia Buraco de Serpente, um manhwa em português.",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264310,7 +264310,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Um Pintor Que Desenha Dungeons, um manhwa em português.",
     "descriptionPt": "Leia Um Pintor Que Desenha Dungeons, um manhwa em português.",
-    "chaptersCount": 31,
+    "chaptersCount": 32,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -275686,7 +275686,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Curiosa Senhorita Elena, um manhwa em português.",
     "descriptionPt": "Leia A Curiosa Senhorita Elena, um manhwa em português.",
-    "chaptersCount": 5,
+    "chaptersCount": 7,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -276251,7 +276251,7 @@ let MANGA_DATA = [
     ],
     "description": "TRICK or LOVE! With nothing to his name but a drop-dead gorgeous face, Kim Moran finds himself about to hit the streets after getting dumped by his lover. Enter Kwon Hosu: a rich, ridiculously attractive younger guy who confesses his undying love and offers Moran a place to stay. Expecting a sweet, easygoing dynamic with a wealthy boyfriend, Moran moves in, only to be swept up in Hosu’s overwhelming, intoxicating devotion. But beneath Hosu’s adorable smile lies a side so intense, Moran can’t help but wonder what secrets his boyfriend is hiding.",
     "descriptionPt": "",
-    "chaptersCount": 10,
+    "chaptersCount": 13,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -277090,7 +277090,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Lorde Blackwood prometeu me matar, um manhwa em português.",
     "descriptionPt": "Leia O Lorde Blackwood prometeu me matar, um manhwa em português.",
-    "chaptersCount": 4,
+    "chaptersCount": 5,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -278389,7 +278389,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Protagonista que Eu Criei Ficou Obcecado por Mim, um manhwa em português.",
     "descriptionPt": "Leia O Protagonista que Eu Criei Ficou Obcecado por Mim, um manhwa em português.",
-    "chaptersCount": 4,
+    "chaptersCount": 5,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -278523,7 +278523,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Quero Acabar com Esta Possessão, um manhwa em português.",
     "descriptionPt": "Leia Quero Acabar com Esta Possessão, um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 7,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

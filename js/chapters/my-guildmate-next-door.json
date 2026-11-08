@@ -1,0 +1,473 @@
+{
+  "pt": [
+    {
+      "id": "my-guildmate-next-door-chapter-1",
+      "number": 1,
+      "title": "Capítulo 01",
+      "date": "2026-11-08T08:28:37.026Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-2",
+      "number": 2,
+      "title": "Capítulo 02",
+      "date": "2026-11-08T08:28:59.027Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-3",
+      "number": 3,
+      "title": "Capítulo 03",
+      "date": "2026-11-08T08:29:25.749Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-4",
+      "number": 4,
+      "title": "Capítulo 04",
+      "date": "2026-11-08T08:29:49.758Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-5",
+      "number": 5,
+      "title": "Capítulo 05",
+      "date": "2026-11-08T08:30:11.724Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-6",
+      "number": 6,
+      "title": "Capítulo 06",
+      "date": "2026-11-08T08:30:32.417Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-7",
+      "number": 7,
+      "title": "Capítulo 07",
+      "date": "2026-11-08T08:30:51.230Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-8",
+      "number": 8,
+      "title": "Capítulo 08",
+      "date": "2026-11-08T08:31:14.676Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-9",
+      "number": 9,
+      "title": "Capítulo 09",
+      "date": "2026-11-08T08:31:37.110Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-10",
+      "number": 10,
+      "title": "Capítulo 10",
+      "date": "2026-11-08T08:31:58.856Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-11",
+      "number": 11,
+      "title": "Capítulo 11",
+      "date": "2026-11-08T08:32:17.737Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-12",
+      "number": 12,
+      "title": "Capítulo 12",
+      "date": "2026-11-08T08:32:40.704Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-13",
+      "number": 13,
+      "title": "Capítulo 13",
+      "date": "2026-11-08T08:33:00.042Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-14",
+      "number": 14,
+      "title": "Capítulo 14",
+      "date": "2026-11-08T08:33:19.203Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-15",
+      "number": 15,
+      "title": "Capítulo 15",
+      "date": "2026-11-08T08:33:43.864Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-16",
+      "number": 16,
+      "title": "Capítulo 16",
+      "date": "2026-11-08T08:34:11.835Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-17",
+      "number": 17,
+      "title": "Capítulo 17",
+      "date": "2026-11-08T08:34:35.639Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-18",
+      "number": 18,
+      "title": "Capítulo 18",
+      "date": "2026-11-08T08:34:57.733Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-19",
+      "number": 19,
+      "title": "Capítulo 19",
+      "date": "2026-11-08T08:35:19.445Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-20",
+      "number": 20,
+      "title": "Capítulo 20",
+      "date": "2026-11-08T08:35:45.056Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-21",
+      "number": 21,
+      "title": "Capítulo 21",
+      "date": "2026-11-08T08:36:09.398Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-22",
+      "number": 22,
+      "title": "Capítulo 22",
+      "date": "2026-11-08T08:36:35.519Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-23",
+      "number": 23,
+      "title": "Capítulo 23",
+      "date": "2026-11-08T08:36:53.622Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-24",
+      "number": 24,
+      "title": "Capítulo 24",
+      "date": "2026-11-08T08:37:18.221Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-25",
+      "number": 25,
+      "title": "Capítulo 25",
+      "date": "2026-11-08T08:37:43.807Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-26",
+      "number": 26,
+      "title": "Capítulo 26",
+      "date": "2026-11-08T08:38:07.396Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-27",
+      "number": 27,
+      "title": "Capítulo 27",
+      "date": "2026-11-08T08:38:30.156Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-28",
+      "number": 28,
+      "title": "Capítulo 28",
+      "date": "2026-11-08T08:38:49.531Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-29",
+      "number": 29,
+      "title": "Capítulo 29",
+      "date": "2026-11-08T08:39:12.365Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-30",
+      "number": 30,
+      "title": "Capítulo 30",
+      "date": "2026-11-08T08:39:30.850Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-31",
+      "number": 31,
+      "title": "Capítulo 31",
+      "date": "2026-11-08T08:39:53.680Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-32",
+      "number": 32,
+      "title": "Capítulo 32",
+      "date": "2026-11-08T08:40:18.130Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-33",
+      "number": 33,
+      "title": "Capítulo 33",
+      "date": "2026-11-08T08:40:38.595Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-34",
+      "number": 34,
+      "title": "Capítulo 34",
+      "date": "2026-11-08T08:41:00.456Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-35",
+      "number": 35,
+      "title": "Capítulo 35",
+      "date": "2026-11-08T08:41:22.574Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-36",
+      "number": 36,
+      "title": "Capítulo 36",
+      "date": "2026-11-08T08:41:44.068Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-37",
+      "number": 37,
+      "title": "Capítulo 37",
+      "date": "2026-11-08T08:42:05.072Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-38",
+      "number": 38,
+      "title": "Capítulo 38",
+      "date": "2026-11-08T08:42:23.882Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-39",
+      "number": 39,
+      "title": "Capítulo 39",
+      "date": "2026-11-08T08:42:43.589Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-40",
+      "number": 40,
+      "title": "Capítulo 40",
+      "date": "2026-11-08T08:43:03.476Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-41",
+      "number": 41,
+      "title": "Capítulo 41",
+      "date": "2026-11-08T08:43:24.006Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-42",
+      "number": 42,
+      "title": "Capítulo 42",
+      "date": "2026-11-08T08:43:45.328Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-43",
+      "number": 43,
+      "title": "Capítulo 43",
+      "date": "2026-11-08T08:44:05.273Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-44",
+      "number": 44,
+      "title": "Capítulo 44",
+      "date": "2026-11-08T08:44:25.410Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-45",
+      "number": 45,
+      "title": "Capítulo 45",
+      "date": "2026-11-08T08:44:47.212Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-46",
+      "number": 46,
+      "title": "Capítulo 46",
+      "date": "2026-11-08T08:45:07.809Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-47",
+      "number": 47,
+      "title": "Capítulo 47",
+      "date": "2026-11-08T08:45:29.362Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-48",
+      "number": 48,
+      "title": "Capítulo 48",
+      "date": "2026-11-08T08:45:51.634Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-49",
+      "number": 49,
+      "title": "Capítulo 49",
+      "date": "2026-11-08T08:46:10.162Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-50",
+      "number": 50,
+      "title": "Capítulo 50 - Fim da Temporada",
+      "date": "2026-11-08T08:46:29.463Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-50.5",
+      "number": 50.5,
+      "title": "Capítulo 50.5 - Nota do Autor",
+      "date": "2026-11-08T08:46:53.821Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-50.9",
+      "number": 50.9,
+      "title": "Capítulo 50.9 - Prólogo",
+      "date": "2026-11-08T08:47:04.436Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-51",
+      "number": 51,
+      "title": "Capítulo 51",
+      "date": "2026-11-08T08:47:16.672Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-52",
+      "number": 52,
+      "title": "Capítulo 52",
+      "date": "2026-11-08T08:47:37.136Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-53",
+      "number": 53,
+      "title": "Capítulo 53",
+      "date": "2026-11-08T08:48:00.653Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-54",
+      "number": 54,
+      "title": "Capítulo 54",
+      "date": "2026-11-08T08:48:24.761Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-55",
+      "number": 55,
+      "title": "Capítulo 55",
+      "date": "2026-11-08T08:48:52.246Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-56",
+      "number": 56,
+      "title": "Capítulo 56",
+      "date": "2026-11-08T08:49:19.082Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-57",
+      "number": 57,
+      "title": "Capítulo 57",
+      "date": "2026-11-08T08:49:41.182Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-58",
+      "number": 58,
+      "title": "Capítulo 58",
+      "date": "2026-11-08T08:49:59.759Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-59",
+      "number": 59,
+      "title": "Capítulo 59",
+      "date": "2026-11-08T08:50:18.787Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-60",
+      "number": 60,
+      "title": "Capítulo 60",
+      "date": "2026-11-08T08:50:39.392Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-61",
+      "number": 61,
+      "title": "Capítulo 61",
+      "date": "2026-11-08T08:51:00.179Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-62",
+      "number": 62,
+      "title": "Capítulo 62",
+      "date": "2026-11-08T08:51:18.234Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-63",
+      "number": 63,
+      "title": "Capítulo 63",
+      "date": "2026-11-08T08:51:39.469Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-64",
+      "number": 64,
+      "title": "Capítulo 64",
+      "date": "2026-11-08T08:51:58.207Z",
+      "pages": []
+    },
+    {
+      "id": "my-guildmate-next-door-chapter-65",
+      "number": 65,
+      "title": "Capítulo 65",
+      "date": "2026-11-08T08:52:17.357Z",
+      "pages": []
+    }
+  ]
+}

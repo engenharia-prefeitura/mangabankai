@@ -92178,7 +92178,7 @@ let MANGA_DATA = [
     ],
     "description": "Not Interested (Official) “I won’t date anyone until I make it.” Gerald started work as the assistant to one of the most successful adult webtoon artists. He doesn’t want to date anyone, but women keep throwing themselves at him!",
     "descriptionPt": "",
-    "chaptersCount": 51,
+    "chaptersCount": 68,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -92209,7 +92209,7 @@ let MANGA_DATA = [
     ],
     "description": "My Girlfriend’s Corruption (Official) “I should never have looked at my girlfriend’s phone that day.” From a friend, I hear a strange rumor about my girlfriend, Olivia. “They said Olivia walked out of a motel. And… she wasn’t alone. She was with another guy.” I tell myself it must have been a mistake and try to brush it off, but the doubt takes root in the back of my mind. For the first time, and the last, I check my girlfriend’s phone. “What are you doing? Take it off. Everything. Your bra and panties too.”",
     "descriptionPt": "",
-    "chaptersCount": 28,
+    "chaptersCount": 32,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207313,7 +207313,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Solstício, um manhwa em português.",
     "descriptionPt": "Leia Solstício, um manhwa em português.",
-    "chaptersCount": 60,
+    "chaptersCount": 61,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232285,7 +232285,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia de Sobrevivência do Caçador de Bestas Demoníacas, um manhwa em português.",
     "descriptionPt": "Leia Guia de Sobrevivência do Caçador de Bestas Demoníacas, um manhwa em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249429,7 +249429,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromante: Rei dos Mortos, um manhua em português.",
     "descriptionPt": "Leia Necromante: Rei dos Mortos, um manhua em português.",
-    "chaptersCount": 320,
+    "chaptersCount": 322,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250393,7 +250393,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-esposa-que-esperou-no-campo-de-trigo online em português.",
     "descriptionPt": "Leia a-esposa-que-esperou-no-campo-de-trigo online em português.",
-    "chaptersCount": 36,
+    "chaptersCount": 37,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250658,7 +250658,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Crônicas do Soberano Preguiçoso, um manhwa em português.",
     "descriptionPt": "Leia Crônicas do Soberano Preguiçoso, um manhwa em português.",
-    "chaptersCount": 71,
+    "chaptersCount": 72,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251194,7 +251194,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Regressor da Família Caída, um manhwa em português.",
     "descriptionPt": "Leia O Regressor da Família Caída, um manhwa em português.",
-    "chaptersCount": 158,
+    "chaptersCount": 159,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251274,7 +251274,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Filho Caçula do Conde é um Jogador, um manhwa em português.",
     "descriptionPt": "Leia O Filho Caçula do Conde é um Jogador, um manhwa em português.",
-    "chaptersCount": 182,
+    "chaptersCount": 183,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254059,7 +254059,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Imperatriz Se Casou Novamente, um manhwa em português.",
     "descriptionPt": "Leia A Imperatriz Se Casou Novamente, um manhwa em português.",
-    "chaptersCount": 236,
+    "chaptersCount": 237,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254492,7 +254492,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei O Mentor do Rei Demônio mais Fraco, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei O Mentor do Rei Demônio mais Fraco, um manhwa em português.",
-    "chaptersCount": 44,
+    "chaptersCount": 45,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259402,7 +259402,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia um-dia-o-protagonista-masculino-caiu-na-minha-casa online em português.",
     "descriptionPt": "Leia um-dia-o-protagonista-masculino-caiu-na-minha-casa online em português.",
-    "chaptersCount": 15,
+    "chaptersCount": 16,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261212,7 +261212,7 @@ let MANGA_DATA = [
     ],
     "description": "Scene Stealer (Uncensored) Unknown actor Ku Jaehee just struck gold. Thanks to his breakout role in the smash-hit drama Second the Best, he went from nobody to superstar overnight with a massive 30% viewership rating. Now, movie offers, high-paying commercials, and reality show invites are flooding his inbox. He’s officially the nation’s newest obsession. But behind the flashing cameras and glamorous red carpets, Jaehee is hiding a chaotic, scandalous reality. What happens when the cameras stop rolling?",
     "descriptionPt": "",
-    "chaptersCount": 6,
+    "chaptersCount": 10,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -261631,7 +261631,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia estou-te-dizendo-so-tenho-olhos-para-voce online em português.",
     "descriptionPt": "Leia estou-te-dizendo-so-tenho-olhos-para-voce online em português.",
-    "chaptersCount": 36,
+    "chaptersCount": 37,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262003,7 +262003,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Imperador da Espada Reencarnou em um Clã de Mestres da Espada, um manhwa em português.",
     "descriptionPt": "Leia O Imperador da Espada Reencarnou em um Clã de Mestres da Espada, um manhwa em português.",
-    "chaptersCount": 47,
+    "chaptersCount": 48,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262373,7 +262373,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sussurros Fantasmas, um manhwa em português.",
     "descriptionPt": "Leia Sussurros Fantasmas, um manhwa em português.",
-    "chaptersCount": 28,
+    "chaptersCount": 29,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263576,7 +263576,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Estratégia Para Fracos Dominar a Torre, um manhwa em português.",
     "descriptionPt": "Leia Estratégia Para Fracos Dominar a Torre, um manhwa em português.",
-    "chaptersCount": 53,
+    "chaptersCount": 54,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264208,7 +264208,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia As 100 Maldições da Casa Illeston, um manhwa em português.",
     "descriptionPt": "Leia As 100 Maldições da Casa Illeston, um manhwa em português.",
-    "chaptersCount": 55,
+    "chaptersCount": 56,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -267057,7 +267057,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Noite na Encruzilhada, um manhwa em português.",
     "descriptionPt": "Leia Noite na Encruzilhada, um manhwa em português.",
-    "chaptersCount": 8,
+    "chaptersCount": 9,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269749,7 +269749,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Deus do Caos Todo Poderoso, um manhwa em português.",
     "descriptionPt": "Leia O Deus do Caos Todo Poderoso, um manhwa em português.",
-    "chaptersCount": 123,
+    "chaptersCount": 124,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -275662,7 +275662,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Curiosa Senhorita Elena, um manhwa em português.",
     "descriptionPt": "Leia A Curiosa Senhorita Elena, um manhwa em português.",
-    "chaptersCount": 7,
+    "chaptersCount": 8,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -277142,7 +277142,7 @@ let MANGA_DATA = [
     ],
     "description": "The 99th Planet (Uncensored) Year 2832. Earth has been reduced to ashes by nuclear war. Treated as an outcast within the research collective tasked with finding a new home for humanity, Chaeon is treated like an expendable card and dispatched alone to the unexplored “Planet 99.” Shortly after landing, he detects a brand-new life signal. But before he can celebrate finding humanity’s last beacon of hope, a terrifying, mysterious alien creature ambushes him. …Except instead of tearing him apart, the creature seems dangerously interested in probing his most sensitive spots! Pushed to the brink of",
     "descriptionPt": "",
-    "chaptersCount": 8,
+    "chaptersCount": 10,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -280353,7 +280353,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Focusing, um manhwa em português.",
     "descriptionPt": "Leia Focusing, um manhwa em português.",
-    "chaptersCount": 4,
+    "chaptersCount": 6,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -280623,6 +280623,33 @@ let MANGA_DATA = [
     "description": "Leia Taram Taram Taram, um manhwa em português.",
     "descriptionPt": "Leia Taram Taram Taram, um manhwa em português.",
     "chaptersCount": 69,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "castelo-selvagem",
+    "slug": "castelo-selvagem",
+    "title": "Castelo Selvagem",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/castelo-selvagem/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/castelo-selvagem/cover-md.webp",
+    "author": "Byeolbora",
+    "artist": "Byeolbora",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Josei",
+      "Adulto",
+      "Tragédia",
+      "Manhwa"
+    ],
+    "description": "Leia Castelo Selvagem, um manhwa em português.",
+    "descriptionPt": "Leia Castelo Selvagem, um manhwa em português.",
+    "chaptersCount": 9,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

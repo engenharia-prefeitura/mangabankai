@@ -4600,7 +4600,7 @@ let MANGA_DATA = [
       "Slice Of Life"
     ],
     "description": "The ace government operative codenamed  has gone through his days on covert missions, just for the fantasy of a superior world. Yet, at some point, he gets an especially troublesome new request from direction. For his strategic, must frame a transitory family and start another life?! A Spy/Action/Comedy around a unique family!",
-    "chaptersCount": 182,
+    "chaptersCount": 183,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -55296,7 +55296,7 @@ let MANGA_DATA = [
       "Manga"
     ],
     "description": "Leia Sakamoto Days online no MangaSurge.",
-    "chaptersCount": 282,
+    "chaptersCount": 283,
     "lang": "en",
     "hasPt": true,
     "latestChapter": null,
@@ -60312,7 +60312,7 @@ let MANGA_DATA = [
     ],
     "description": "“If you my take my wife’s clothes off, you’ll fuck her…” The naked body of the woman next door was seen on CCTV by chance… Sooheon felt a sense of guilt till",
     "descriptionEn": "“If you my take my wife’s clothes off, you’ll fuck her…” The naked body of the woman next door was seen on CCTV by chance… Sooheon felt a sense of guilt till",
-    "chaptersCount": 69,
+    "chaptersCount": 70,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -98157,7 +98157,7 @@ let MANGA_DATA = [
     ],
     "description": "Relative Sins (Uncensored) A prince with no claim to the throne, Yi Tae-rok lives a quiet life removed from power. At thirteen, he is entrusted with raising his nephew, Yi Nan-yeong, a gentle boy with no talent for the sword and no expectations placed upon him. At first, Tae-rok sees it only as duty. But Nan-yeong grows up looking only at him. What begins as admiration slowly shifts into something deeper, something neither of them can easily name. Tae-rok notices the change and chooses silence, drawing careful lines he refuses to cross. In the end, Nan-yeong seeks clarity in the only way he ca",
     "descriptionPt": "",
-    "chaptersCount": 31,
+    "chaptersCount": 37,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -231621,7 +231621,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Desejo do Diabo, um manhwa em português.",
     "descriptionPt": "Leia O Desejo do Diabo, um manhwa em português.",
-    "chaptersCount": 96,
+    "chaptersCount": 97,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231676,7 +231676,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Dama e a Besta, um manhwa em português.",
     "descriptionPt": "Leia A Dama e a Besta, um manhwa em português.",
-    "chaptersCount": 134,
+    "chaptersCount": 135,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254031,7 +254031,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Vilão, Eu Farei Tudo por Você Menos me Casar!, um manhwa em português.",
     "descriptionPt": "Leia Vilão, Eu Farei Tudo por Você Menos me Casar!, um manhwa em português.",
-    "chaptersCount": 15,
+    "chaptersCount": 16,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262801,7 +262801,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-noiva-sagrada-foi-vendida-para-o-principe-inimigo online em português.",
     "descriptionPt": "Leia a-noiva-sagrada-foi-vendida-para-o-principe-inimigo online em português.",
-    "chaptersCount": 8,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266352,7 +266352,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sobrevivendo no Jogo Como um Bárbaro, um manhwa em português.",
     "descriptionPt": "Leia Sobrevivendo no Jogo Como um Bárbaro, um manhwa em português.",
-    "chaptersCount": 164,
+    "chaptersCount": 168,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -276783,7 +276783,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Doce Ruína, um manhwa em português.",
     "descriptionPt": "Leia Doce Ruína, um manhwa em português.",
-    "chaptersCount": 7,
+    "chaptersCount": 8,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -280653,6 +280653,108 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "como-escapar-das-garras-do-sultao",
+    "slug": "como-escapar-das-garras-do-sultao",
+    "title": "Como Escapar das Garras do Sultão",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/como-escapar-das-garras-do-sultao/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/como-escapar-das-garras-do-sultao/cover-md.webp",
+    "author": "Ohcarrat",
+    "artist": "Ohcarrat",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Fantasia",
+      "Romance",
+      "Adulto",
+      "Smut",
+      "Manhwa"
+    ],
+    "description": "Leia Como Escapar das Garras do Sultão, um manhwa em português.",
+    "descriptionPt": "Leia Como Escapar das Garras do Sultão, um manhwa em português.",
+    "chaptersCount": 1,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "tankouhentai-onna-gal-joushi-to-furin-suru-hanashi",
+    "slug": "onna-gal-joushi-to-furin-suru-hanashi",
+    "title": "Onna Gal Joushi to Furin suru Hanashi",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/10/Onna-Gal-Joushi-to-Furin-suru-Hanashi-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/10/Onna-Gal-Joushi-to-Furin-suru-Hanashi-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Nakamo",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Traição",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 3,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
+  },
+  {
+    "id": "mangadistrict-eeny-meeny-miney-mo-uncensored",
+    "slug": "eeny-meeny-miney-mo-uncensored",
+    "title": "Eeny, Meeny, Miney, Mo (Uncensored)",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/eeny-meeny-miney-mo-uncensored-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/eeny-meeny-miney-mo-uncensored-official.webp",
+    "author": "Sando",
+    "artist": "Sando",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "BL",
+      "BL Uncensored",
+      "Yaoi",
+      "Hentai"
+    ],
+    "description": "Eeny, Meeny, Miney, Mo (Uncensored) At Wandol University, getting rejected is harder than getting in. That’s where Ko Hwansu ends up, alone in a small town far from home, while his older brothers at Hanguk University never let him forget it. Hwansu is set on retaking the college entrance exam and transferring out, but with zero support from his family or even his own school, he’s stuck catching naps in whatever corner of campus he can find. Which is how he gets caught crashing in the Literary Society club room. Kim Kiyun, the president, offers the homeless freshman a place to stay, on one cond",
+    "descriptionPt": "",
+    "chaptersCount": 1,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
+  },
+  {
+    "id": "mangadistrict-the-lecherous-literatus-uncensored",
+    "slug": "the-lecherous-literatus-uncensored",
+    "title": "The Lecherous Literatus (Uncensored)",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/the-lecherous-literatus-uncensored-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/the-lecherous-literatus-uncensored-official.webp",
+    "author": "Black Tea",
+    "artist": "DUKONG",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "BL",
+      "BL Uncensored",
+      "Yaoi",
+      "Hentai"
+    ],
+    "description": "The Lecherous Literatus (Uncensored) Lee Inwu lived a quiet, secluded life with his books until illicit desires breached his chamber doors. Helpless against the eager, wandering hands of his servant and the men who crave him, the sheltered literatus is driven to the brink of pure ecstasy. Once the innocence is gone, there is no turning back from the depraved pleasures of the flesh.",
+    "descriptionPt": "",
+    "chaptersCount": 8,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
   }
 ];
 

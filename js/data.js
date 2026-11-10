@@ -91316,7 +91316,7 @@ let MANGA_DATA = [
     ],
     "description": "The Annoying Older Girl Next Door (Official) Back when I was sick and my friends didn’t want to play with me, EUN-SEOL was the kind older girl who always took care of me and kept me company. The problem is, even now that I’m an adult, she still clings to me and treats me like a little kid. Because of her, even in college, I ended up with the nickname “Baby” and became a complete loner. Now, I have to make her see me as a man if I ever want to stop being treated like a child.",
     "descriptionPt": "",
-    "chaptersCount": 49,
+    "chaptersCount": 90,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -251681,7 +251681,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Evolução Infinita: Começando do Zero, um manhua em português.",
     "descriptionPt": "Leia Evolução Infinita: Começando do Zero, um manhua em português.",
-    "chaptersCount": 140,
+    "chaptersCount": 142,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252444,7 +252444,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Um Dia Eu Era Um Filhote, um manhwa em português.",
     "descriptionPt": "Leia Um Dia Eu Era Um Filhote, um manhwa em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 33,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259136,7 +259136,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia renasci-para-me-vingar-com-a-reversao-espelhada online em português.",
     "descriptionPt": "Leia renasci-para-me-vingar-com-a-reversao-espelhada online em português.",
-    "chaptersCount": 73,
+    "chaptersCount": 74,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262698,7 +262698,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Debutar ou Morrer, um manhwa em português.",
     "descriptionPt": "Leia Debutar ou Morrer, um manhwa em português.",
-    "chaptersCount": 97,
+    "chaptersCount": 98,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -266954,7 +266954,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Tamed a Blackened Slave Man, um manhwa em português.",
     "descriptionPt": "Leia Tamed a Blackened Slave Man, um manhwa em português.",
-    "chaptersCount": 72,
+    "chaptersCount": 80,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -278099,7 +278099,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Limpeza, um manhwa em português.",
     "descriptionPt": "Leia Limpeza, um manhwa em português.",
-    "chaptersCount": 45,
+    "chaptersCount": 46,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -279638,7 +279638,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Prova de Dignidade, um manhwa em português.",
     "descriptionPt": "Leia Prova de Dignidade, um manhwa em português.",
-    "chaptersCount": 8,
+    "chaptersCount": 14,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -280192,7 +280192,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eye of the Storm, um manhwa em português.",
     "descriptionPt": "Leia Eye of the Storm, um manhwa em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -280219,7 +280219,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia My Guildmate Next Door, um manhwa em português.",
     "descriptionPt": "Leia My Guildmate Next Door, um manhwa em português.",
-    "chaptersCount": 67,
+    "chaptersCount": 68,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -280248,7 +280248,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Kiss Me if You Can, um manhwa em português.",
     "descriptionPt": "Leia Kiss Me if You Can, um manhwa em português.",
-    "chaptersCount": 54,
+    "chaptersCount": 55,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

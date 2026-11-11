@@ -93708,7 +93708,7 @@ let MANGA_DATA = [
     ],
     "description": "Professor’s Alt Account Fresh out of the military and eager for a fresh start, Jiwoo returns to university, ready to slip back into the rhythm of normal campus life. His plans hit a sudden, unavoidable roadblock when he is forced to enroll in a course taught by Professor Ha-Yeong. Jiwoo absolutely dreads the prospect; he carries a deep-seated resentment toward her, stemming from a painful past where he was subjected to her blatant, unfair treatment. Forced to grit his teeth and endure her lectures, he prepares for a grueling semester of academic power games. However, the dynamic changes entire",
     "descriptionPt": "",
-    "chaptersCount": 30,
+    "chaptersCount": 35,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -98414,7 +98414,7 @@ let MANGA_DATA = [
     ],
     "description": "Not Sober (Uncensored) Baek Seongchan is a walking red flag. With his bleached blonde hair, rotating fleet of luxury cars, and drop-dead gorgeous looks, he lives at the center of the campus rumor mill. Everyone whispers about his wild lifestyle, but Yena couldn’t care less about the gossip. She just wants to check a very specific item off her bucket list: losing her virginity. When she asks him to sleep with her just because he’s the best-looking guy around, she flips his world upside down. Seongchan is used to girls chasing him for romance, but he’s never met anyone quite as deadpan and strai",
     "descriptionPt": "",
-    "chaptersCount": 26,
+    "chaptersCount": 27,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207761,7 +207761,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Morando com o Romeo, um manhwa em português.",
     "descriptionPt": "Leia Morando com o Romeo, um manhwa em português.",
-    "chaptersCount": 44,
+    "chaptersCount": 45,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207788,7 +207788,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Seus Pálidos Olhos Azuis, um manhwa em português.",
     "descriptionPt": "Leia Seus Pálidos Olhos Azuis, um manhwa em português.",
-    "chaptersCount": 18,
+    "chaptersCount": 23,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -207972,7 +207972,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Veletric, um manhwa em português.",
     "descriptionPt": "Leia Veletric, um manhwa em português.",
-    "chaptersCount": 402,
+    "chaptersCount": 403,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -208047,7 +208047,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Retorno do Cavaleiro da Morte de Nível Apocalíptico, um manhwa em português.",
     "descriptionPt": "Leia Retorno do Cavaleiro da Morte de Nível Apocalíptico, um manhwa em português.",
-    "chaptersCount": 93,
+    "chaptersCount": 94,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230037,7 +230037,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia F My Ex, um manhwa em português.",
     "descriptionPt": "Leia F My Ex, um manhwa em português.",
-    "chaptersCount": 57,
+    "chaptersCount": 67,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231777,7 +231777,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sob a Flor Caída, um manhwa em português.",
     "descriptionPt": "Leia Sob a Flor Caída, um manhwa em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 48,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232367,7 +232367,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Domínio Absoluto, um manhwa em português.",
     "descriptionPt": "Leia Domínio Absoluto, um manhwa em português.",
-    "chaptersCount": 116,
+    "chaptersCount": 117,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251112,7 +251112,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vida de uma Artista de Webtoon, um manhwa em português.",
     "descriptionPt": "Leia A Vida de uma Artista de Webtoon, um manhwa em português.",
-    "chaptersCount": 54,
+    "chaptersCount": 63,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251549,7 +251549,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Jardim de Maio, um manhwa em português.",
     "descriptionPt": "Leia Jardim de Maio, um manhwa em português.",
-    "chaptersCount": 34,
+    "chaptersCount": 35,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252740,7 +252740,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Regressando como o Bastardo do Clã da Espada, um manhwa em português.",
     "descriptionPt": "Leia Regressando como o Bastardo do Clã da Espada, um manhwa em português.",
-    "chaptersCount": 119,
+    "chaptersCount": 120,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252767,7 +252767,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Campo Esquecido, um manhwa em português.",
     "descriptionPt": "Leia O Campo Esquecido, um manhwa em português.",
-    "chaptersCount": 40,
+    "chaptersCount": 41,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253029,7 +253029,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
     "descriptionPt": "Leia Após Alcançar a Liberdade Financeira, Elas Ofereceram sua Lealdade, um manhua em português.",
-    "chaptersCount": 131,
+    "chaptersCount": 132,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253084,7 +253084,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Estilo de Vida de um Imortal, um manhwa em português.",
     "descriptionPt": "Leia O Estilo de Vida de um Imortal, um manhwa em português.",
-    "chaptersCount": 37,
+    "chaptersCount": 38,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253191,7 +253191,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Elegante Mar da Barbárie, um manhwa em português.",
     "descriptionPt": "Leia O Elegante Mar da Barbárie, um manhwa em português.",
-    "chaptersCount": 33,
+    "chaptersCount": 37,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254006,7 +254006,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia I Was Born as the Second Daughter, um manhwa em português.",
     "descriptionPt": "Leia I Was Born as the Second Daughter, um manhwa em português.",
-    "chaptersCount": 88,
+    "chaptersCount": 89,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254059,7 +254059,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Imperatriz Se Casou Novamente, um manhwa em português.",
     "descriptionPt": "Leia A Imperatriz Se Casou Novamente, um manhwa em português.",
-    "chaptersCount": 237,
+    "chaptersCount": 238,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255014,7 +255014,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Você Não Vai Fugir de Mim, um manhwa em português.",
     "descriptionPt": "Leia Você Não Vai Fugir de Mim, um manhwa em português.",
-    "chaptersCount": 76,
+    "chaptersCount": 82,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256536,7 +256536,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ainda Nem Era Noite, um manhwa em português.",
     "descriptionPt": "Leia Ainda Nem Era Noite, um manhwa em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256613,7 +256613,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Amor é uma Droga, um manhwa em português.",
     "descriptionPt": "Leia O Amor é uma Droga, um manhwa em português.",
-    "chaptersCount": 48,
+    "chaptersCount": 53,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258814,7 +258814,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Que se dane ser o Herdeiro, Eu vou Curar, um manhwa em português.",
     "descriptionPt": "Leia Que se dane ser o Herdeiro, Eu vou Curar, um manhwa em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 43,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260422,7 +260422,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia As Noites da Imperatriz, um manhwa em português.",
     "descriptionPt": "Leia As Noites da Imperatriz, um manhwa em português.",
-    "chaptersCount": 42,
+    "chaptersCount": 53,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260563,7 +260563,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-casei-com-o-dragao-que-matei online em português.",
     "descriptionPt": "Leia me-casei-com-o-dragao-que-matei online em português.",
-    "chaptersCount": 23,
+    "chaptersCount": 24,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260716,7 +260716,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia floricultura-s online em português.",
     "descriptionPt": "Leia floricultura-s online em português.",
-    "chaptersCount": 56,
+    "chaptersCount": 64,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261758,7 +261758,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Cavaleiro Santo De Grau SSS, um manhua em português.",
     "descriptionPt": "Leia Cavaleiro Santo De Grau SSS, um manhua em português.",
-    "chaptersCount": 232,
+    "chaptersCount": 235,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262395,7 +262395,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia alianca-de-cuidadores online em português.",
     "descriptionPt": "Leia alianca-de-cuidadores online em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263521,7 +263521,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia a-noiva-fantasma-do-principe-abandonado online em português.",
     "descriptionPt": "Leia a-noiva-fantasma-do-principe-abandonado online em português.",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265961,7 +265961,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Paraíso de Valentina, um manhwa em português.",
     "descriptionPt": "Leia O Paraíso de Valentina, um manhwa em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 44,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -268585,7 +268585,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Sobrevivendo como a Esposa de um Assassino em Série, um manhwa em português.",
     "descriptionPt": "Leia Sobrevivendo como a Esposa de um Assassino em Série, um manhwa em português.",
-    "chaptersCount": 16,
+    "chaptersCount": 17,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269692,7 +269692,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Esse Bebê não é Seu, um manhwa em português.",
     "descriptionPt": "Leia Esse Bebê não é Seu, um manhwa em português.",
-    "chaptersCount": 110,
+    "chaptersCount": 118,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -271455,7 +271455,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Campo Esquecido [Novel], uma novel em português. Acompanhe os capítulos em texto com leitura confortável.",
     "descriptionPt": "Leia O Campo Esquecido [Novel], uma novel em português. Acompanhe os capítulos em texto com leitura confortável.",
-    "chaptersCount": 74,
+    "chaptersCount": 77,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -272254,7 +272254,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Matei Meu Mardio e Herdei essa Mansão, um manhwa em português.",
     "descriptionPt": "Leia Matei Meu Mardio e Herdei essa Mansão, um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 3,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273711,7 +273711,7 @@ let MANGA_DATA = [
     ],
     "description": "Slam Dunk Desire (Uncensored) Jang Eun-gyeol finally lands a job as the manager of her favorite top-ranked basketball team. However, she soon learns that the team is on the verge of disbanding due to poor performance. Determined to raise the players’ morale, Eun-gyeol begins helping them fulfill their secret desires. Along the way, she finds herself confronting the hidden sides of her own sexuality. A high-heat romance featuring a wide range of fetishes!",
     "descriptionPt": "",
-    "chaptersCount": 7,
+    "chaptersCount": 12,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -277066,7 +277066,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Lorde Blackwood prometeu me matar, um manhwa em português.",
     "descriptionPt": "Leia O Lorde Blackwood prometeu me matar, um manhwa em português.",
-    "chaptersCount": 5,
+    "chaptersCount": 6,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -279611,7 +279611,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Armadilha do Primeiro Amor, um manhwa em português.",
     "descriptionPt": "Leia Armadilha do Primeiro Amor, um manhwa em português.",
-    "chaptersCount": 7,
+    "chaptersCount": 8,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -280595,7 +280595,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Os Protagonistas Masculinos Estão Presos na Minha Casa, um manhwa em português.",
     "descriptionPt": "Leia Os Protagonistas Masculinos Estão Presos na Minha Casa, um manhwa em português.",
-    "chaptersCount": 71,
+    "chaptersCount": 73,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -280755,6 +280755,116 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "uma-historia-de-amor-idiota",
+    "slug": "uma-historia-de-amor-idiota",
+    "title": "Uma História de Amor Idiota",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/uma-historia-de-amor-idiota/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/uma-historia-de-amor-idiota/cover-md.webp",
+    "author": "El",
+    "artist": "El",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Ecchi",
+      "Adulto",
+      "+18",
+      "Manhwa"
+    ],
+    "description": "Leia Uma História de Amor Idiota, um manhwa em português.",
+    "descriptionPt": "Leia Uma História de Amor Idiota, um manhwa em português.",
+    "chaptersCount": 2,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "brincando-com-o-papai",
+    "slug": "brincando-com-o-papai",
+    "title": "Brincando com o Papai",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/brincando-com-o-papai/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/brincando-com-o-papai/cover-md.webp",
+    "author": "Hyobin",
+    "artist": "Hyobin",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Adulto",
+      "Manhwa",
+      "Moderno",
+      "Dark Romance",
+      "Fetiche",
+      "Sem Censura",
+      "BDSM"
+    ],
+    "description": "Leia Brincando com o Papai, um manhwa em português.",
+    "descriptionPt": "Leia Brincando com o Papai, um manhwa em português.",
+    "chaptersCount": 45,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "um-vira-lata-esta-vivendo-no-jardim-do-palacio",
+    "slug": "um-vira-lata-esta-vivendo-no-jardim-do-palacio",
+    "title": "Um Vira Lata está vivendo no Jardim do Palácio",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/um-vira-lata-esta-vivendo-no-jardim-do-palacio/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/um-vira-lata-esta-vivendo-no-jardim-do-palacio/cover-md.webp",
+    "author": "Pinkie",
+    "artist": "Pinkie",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Romance",
+      "Josei",
+      "Adulto",
+      "Smut",
+      "Realeza",
+      "Maduro",
+      "Obsceno",
+      "Manhwa"
+    ],
+    "description": "Leia Um Vira Lata está vivendo no Jardim do Palácio, um manhwa em português.",
+    "descriptionPt": "Leia Um Vira Lata está vivendo no Jardim do Palácio, um manhwa em português.",
+    "chaptersCount": 94,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "my-slutty-sister-uncensored",
+    "slug": "my-slutty-sister-uncensored",
+    "title": "My Slutty Sister (Uncensored)",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2026/10/e682db4ef421d4f404d53ef027e5c480265e2b7f26f358a2de8dc75b8ebd6269.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2026/10/e682db4ef421d4f404d53ef027e5c480265e2b7f26f358a2de8dc75b8ebd6269.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Uncensored",
+      "Adult"
+    ],
+    "description": "What does a good brother do when his sister slips into his bed at 3 AM — half-naked, wet, begging him not to tell Mom?",
+    "descriptionEn": "What does a good brother do when his sister slips into his bed at 3 AM — half-naked, wet, begging him not to tell Mom?",
+    "chaptersCount": 6,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 
@@ -280879,7 +280989,7 @@ function filterManga(opts) {
   return results;
 }
 
-const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Amnésia","Angústia","Animais","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Casamento Arranjado","Casamento de fachada","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Conto","Cooking","Coworkers","Criança fofa","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Diferença de idade","Doujinshi","Drama","Ecchi","Enemies to lovers","Época","Erótico","Escolar","Escritório","Esporte","Esportes","Estratégia","Explicit Sex","Familia","Família","Família adotiva","Família real","Família Real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gângster","Gay-Yaoi","Gender Bender","Ghosts","GL","Gore","Gyaru","Harem","Harém","Harém Reverso","Hentai","Hentai Anime","Híbrido","Historical","Historico","Histórico","Horror","Horrow","Idol","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Máfia","Magia","Magic","Magical Girl","Mal-entendido","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Médico","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","Obsessão","OEL","Older Woman","Omegaverse","One Shot","Opostos se atraem","Outros gêneros","Parceria","Parody Anime","Parte da Vida","Person in a Strange World","Police","Policial","Primeiro amor","Protagonista esperta","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Segunda chance","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Slow burn","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragédia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Triângulo Amoroso","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vampiro","Vanilla","Viagem no tempo","Vida escolar","Vida Escolar","Vingança","Violence","Virtual Reality","Web Novels","Webtoon","Webtoons","Western","Work Life","Yaoi","Younger Man","Yuri","Zombies","Zoofilia"];
+const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Amnésia","Angústia","Animais","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Casamento Arranjado","Casamento de fachada","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Conto","Cooking","Coworkers","Criança fofa","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Diferença de idade","Doujinshi","Drama","Ecchi","Enemies to lovers","Época","Erótico","Escolar","Escritório","Esporte","Esportes","Estratégia","Explicit Sex","Familia","Família","Família adotiva","Família real","Família Real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gângster","Gay-Yaoi","Gender Bender","Ghosts","GL","Gore","Gyaru","Harem","Harém","Harém Reverso","Hentai","Hentai Anime","Híbrido","Historical","Historico","Histórico","Horror","Horrow","Idol","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Máfia","Magia","Magic","Magical Girl","Mal-entendido","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Médico","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","Obsceno","Obsessão","OEL","Older Woman","Omegaverse","One Shot","Opostos se atraem","Outros gêneros","Parceria","Parody Anime","Parte da Vida","Person in a Strange World","Police","Policial","Primeiro amor","Protagonista esperta","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Segunda chance","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Slow burn","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragédia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Triângulo Amoroso","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vampiro","Vanilla","Viagem no tempo","Vida escolar","Vida Escolar","Vingança","Violence","Virtual Reality","Web Novels","Webtoon","Webtoons","Western","Work Life","Yaoi","Younger Man","Yuri","Zombies","Zoofilia"];
 
 var ADULT_GENRE_KW = ['hentai','adulto','adult','+18','18+','nsfw','ecchi','smut','mature','maduro','erotic','erótic','erotica','bdsm','futanari','loli','shota','inces','tentacul','tentácul','zoofilia','obsceno','sem censura','uncensor','censura','nudez','nudity','sexual','sexo','mindbreak','ahegao','netorare','fetich','fetish','omegaverse','vanilla','borderline h'];
 function isAdultGenre(g) {

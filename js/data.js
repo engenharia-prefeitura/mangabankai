@@ -99713,7 +99713,7 @@ let MANGA_DATA = [
     ],
     "description": "What do I do now…? (Uncensored) Lucas Sylvia. A college student. One morning, he wakes up in a room with three girls. What happened, and what should he do now?",
     "descriptionPt": "",
-    "chaptersCount": 33,
+    "chaptersCount": 35,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207893,7 +207893,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Limpeza inteligente A Regresão do Caçador Genial, um manhwa em português.",
     "descriptionPt": "Leia Limpeza inteligente A Regresão do Caçador Genial, um manhwa em português.",
-    "chaptersCount": 149,
+    "chaptersCount": 150,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -249377,7 +249377,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Não confio na minha irmã gêmea (Manhwa), um manhwa em português.",
     "descriptionPt": "Leia Não confio na minha irmã gêmea (Manhwa), um manhwa em português.",
-    "chaptersCount": 82,
+    "chaptersCount": 83,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256188,7 +256188,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Martial God who Regressed to Level 2, um manhwa em português.",
     "descriptionPt": "Leia The Martial God who Regressed to Level 2, um manhwa em português.",
-    "chaptersCount": 133,
+    "chaptersCount": 134,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258055,7 +258055,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-deus-dos-improvisos online em português.",
     "descriptionPt": "Leia o-deus-dos-improvisos online em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 42,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263874,7 +263874,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Corporação Goblin, um manhwa em português.",
     "descriptionPt": "Leia Corporação Goblin, um manhwa em português.",
-    "chaptersCount": 20,
+    "chaptersCount": 21,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263924,7 +263924,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Pincel Divino de Hwarim, um manhwa em português.",
     "descriptionPt": "Leia O Pincel Divino de Hwarim, um manhwa em português.",
-    "chaptersCount": 17,
+    "chaptersCount": 18,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265163,7 +265163,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Meu Caminho Simulado Rumo à Imortalidade, um manhua em português.",
     "descriptionPt": "Leia Meu Caminho Simulado Rumo à Imortalidade, um manhua em português.",
-    "chaptersCount": 93,
+    "chaptersCount": 95,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265961,7 +265961,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Paraíso de Valentina, um manhwa em português.",
     "descriptionPt": "Leia O Paraíso de Valentina, um manhwa em português.",
-    "chaptersCount": 44,
+    "chaptersCount": 45,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

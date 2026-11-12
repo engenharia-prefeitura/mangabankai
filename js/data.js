@@ -90622,7 +90622,7 @@ let MANGA_DATA = [
     ],
     "description": "Boiling Frog Syndrome (Uncensored) Jeh Yillo has a highly specific, twisted fetish: he’s obsessed with guys who have terrible personalities and wear glasses. Enter Gwak Changhyeok, the school’s most hated grade-level head teacher. When Yillo accidentally witnesses the notoriously toxic teacher speaking softly to his girlfriend, his obsession ignites. He decides to reel him in like a frog in a pot, heating the water so slowly Changhyeok won’t even realize he’s being boiled alive…until Yillo has the opportunity to devour him whole.",
     "descriptionPt": "",
-    "chaptersCount": 23,
+    "chaptersCount": 24,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -94070,7 +94070,7 @@ let MANGA_DATA = [
     ],
     "description": "Purrfect Choice (Uncensored) Once the most popular guy in high school, Lim Sangho never expected to be attending college at 28. At a class reunion, he reconnects with Ko Yeongha, the underclassman who used to follow him everywhere – and who has somehow grown into an annoyingly-handsome adult. Bonding over their shared status as late-blooming college students, the two quickly fall back into old habits. But while feeding stray cats after the reunion, Yeongha drops a bombshell: his male boss seems to have a crush on him. Completely clueless about dating men, Yeongha turns to the openly gay Sangho",
     "descriptionPt": "",
-    "chaptersCount": 27,
+    "chaptersCount": 28,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207632,7 +207632,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Nano Máquina, um manhwa em português.",
     "descriptionPt": "Leia Nano Máquina, um manhwa em português.",
-    "chaptersCount": 337,
+    "chaptersCount": 338,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230089,7 +230089,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Olá, Griffin, o pássaro Fofinho!, um manhwa em português.",
     "descriptionPt": "Leia Olá, Griffin, o pássaro Fofinho!, um manhwa em português.",
-    "chaptersCount": 73,
+    "chaptersCount": 74,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -230555,7 +230555,7 @@ let MANGA_DATA = [
     ],
     "description": "8 / 100 Desenvolvido por Rank Math SEO",
     "descriptionPt": "8 / 100 Desenvolvido por Rank Math SEO",
-    "chaptersCount": 71,
+    "chaptersCount": 72,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false,
@@ -250632,7 +250632,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Segundo Eunuco Recupera Sua Masculinidade, um manhwa em português.",
     "descriptionPt": "Leia O Segundo Eunuco Recupera Sua Masculinidade, um manhwa em português.",
-    "chaptersCount": 110,
+    "chaptersCount": 114,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -252690,7 +252690,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Mestre Espadachim Criado Pelas Estrelas, um manhwa em português.",
     "descriptionPt": "Leia Mestre Espadachim Criado Pelas Estrelas, um manhwa em português.",
-    "chaptersCount": 145,
+    "chaptersCount": 146,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254059,7 +254059,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Imperatriz Se Casou Novamente, um manhwa em português.",
     "descriptionPt": "Leia A Imperatriz Se Casou Novamente, um manhwa em português.",
-    "chaptersCount": 238,
+    "chaptersCount": 239,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254558,7 +254558,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-tornei-um-mago-de-fantasia-medieval online em português.",
     "descriptionPt": "Leia me-tornei-um-mago-de-fantasia-medieval online em português.",
-    "chaptersCount": 46,
+    "chaptersCount": 47,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255225,7 +255225,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Estou Apenas Aproveitando meu Tempo Limite, um manhwa em português.",
     "descriptionPt": "Leia Estou Apenas Aproveitando meu Tempo Limite, um manhwa em português.",
-    "chaptersCount": 63,
+    "chaptersCount": 64,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257117,7 +257117,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Atreva-se!, um manhwa em português.",
     "descriptionPt": "Leia Atreva-se!, um manhwa em português.",
-    "chaptersCount": 43,
+    "chaptersCount": 44,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257278,7 +257278,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ela é a Irmã de um Merda, um manhwa em português.",
     "descriptionPt": "Leia Ela é a Irmã de um Merda, um manhwa em português.",
-    "chaptersCount": 100,
+    "chaptersCount": 101,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257303,7 +257303,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Não Diga que Me Ama, um manhua em português.",
     "descriptionPt": "Leia Não Diga que Me Ama, um manhua em português.",
-    "chaptersCount": 51,
+    "chaptersCount": 52,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -258867,7 +258867,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Teto x Egen: Vizinhos por Acaso, um manhwa em português.",
     "descriptionPt": "Leia Teto x Egen: Vizinhos por Acaso, um manhwa em português.",
-    "chaptersCount": 26,
+    "chaptersCount": 27,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259331,7 +259331,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia tropa-de-elite-fantastica online em português.",
     "descriptionPt": "Leia tropa-de-elite-fantastica online em português.",
-    "chaptersCount": 46,
+    "chaptersCount": 47,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269956,7 +269956,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Asha nas Fronteiras, um manhwa em português.",
     "descriptionPt": "Leia Asha nas Fronteiras, um manhwa em português.",
-    "chaptersCount": 23,
+    "chaptersCount": 24,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273376,7 +273376,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia The Monster Lady and the Paladin, um manhwa em português.",
     "descriptionPt": "Leia The Monster Lady and the Paladin, um manhwa em português.",
-    "chaptersCount": 66,
+    "chaptersCount": 67,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -279665,7 +279665,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Coroa de Coral, um manhwa em português.",
     "descriptionPt": "Leia Coroa de Coral, um manhwa em português.",
-    "chaptersCount": 7,
+    "chaptersCount": 10,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -280327,7 +280327,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Assim Me Tornei a Vilã, um manhwa em português.",
     "descriptionPt": "Leia Assim Me Tornei a Vilã, um manhwa em português.",
-    "chaptersCount": 2,
+    "chaptersCount": 3,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -280807,7 +280807,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Brincando com o Papai, um manhwa em português.",
     "descriptionPt": "Leia Brincando com o Papai, um manhwa em português.",
-    "chaptersCount": 45,
+    "chaptersCount": 46,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -281171,6 +281171,55 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "a-vila-mais-fofa",
+    "slug": "a-vila-mais-fofa",
+    "title": "A Vilã Mais Fofa",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-vila-mais-fofa/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-vila-mais-fofa/cover-md.webp",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Fantasia",
+      "Romance",
+      "Manhwa"
+    ],
+    "description": "Leia A Vilã Mais Fofa, um manhwa em português.",
+    "descriptionPt": "Leia A Vilã Mais Fofa, um manhwa em português.",
+    "chaptersCount": 43,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "i-love-you-very-much",
+    "slug": "i-love-you-very-much",
+    "title": "I Love You Very Much",
+    "altTitle": "",
+    "cover": "https://hentai20.io/wp-content/uploads/2026/09/i-love-you-very-much-193x278.jpg",
+    "banner": "https://hentai20.io/wp-content/uploads/2026/09/i-love-you-very-much-193x278.jpg",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Hentai",
+      "Adult"
+    ],
+    "description": "Jeongchan has long been in love with his best friend’s mother. Although his first confession is rejected, she gives him one condition if he wants to confess",
+    "descriptionEn": "Jeongchan has long been in love with his best friend’s mother. Although his first confession is rejected, she gives him one condition if he wants to confess",
+    "chaptersCount": 15,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "hentai20"
   }
 ];
 

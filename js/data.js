@@ -91346,7 +91346,7 @@ let MANGA_DATA = [
     ],
     "description": "Small Beast (Official) Jayden Cha, who has Highlander syndrome, always wanted to look more like an adult. But one day, he hears: “We gotta use the only advantage we’ve got – to pretend we’re kids!”",
     "descriptionPt": "",
-    "chaptersCount": 42,
+    "chaptersCount": 51,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -93643,7 +93643,7 @@ let MANGA_DATA = [
     ],
     "description": "A naughty girl (Official) “Does sex feel that good?” Amanda is a girl who is interested in sex. With the recommendation from her friend, she meets a guy through online chat. After having her first taste of a guy, her life becomes full of naughty days.",
     "descriptionPt": "",
-    "chaptersCount": 27,
+    "chaptersCount": 51,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -94905,7 +94905,7 @@ let MANGA_DATA = [
     ],
     "description": "Peaches and Dream (Uncensored) Born and raised on a diet of peaches, a do-myeong named Seolwon was destined to become a courtesan of the highest class, an exquisite creation known as a jade feet. But when his incomplete body is deemed defective and dangerous, he’s cast aside as a failed product, discarded like broken porcelain. Before he can be sold off cheaply, a mysterious attack leaves him unconscious. When he wakes, he learns he’s already been bought, for a staggering sum, by an unknown master. His search for answers leads him to Dream Palace, a sprawling casino ruled by the enigmatic Jay,",
     "descriptionPt": "",
-    "chaptersCount": 58,
+    "chaptersCount": 59,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -111225,7 +111225,7 @@ let MANGA_DATA = [
     ],
     "description": "Murim Login An era where hunters thrive on hunting monsters that come from Gates. Jin Tae-Kyung is a low-rank hunter who picks up a VR machine, and accidentally logs into the game, which is set in the world of Martial Arts. After many ups and downs, Tae-Kyung is able to escape this world. The strength and skills, which he received in the Murim were able to be carried over back to the real world. This allows him to continue making a living as a hunter… but he decides to return back to the world of Murim, out of care for his NPC friends.",
     "descriptionPt": "",
-    "chaptersCount": 252,
+    "chaptersCount": 254,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207128,7 +207128,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Magic Emperor, um manhua em português.",
     "descriptionPt": "Leia Magic Emperor, um manhua em português.",
-    "chaptersCount": 937,
+    "chaptersCount": 938,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -253980,7 +253980,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Só Eu Tenho uma Invocação de Rank EX, um manhwa em português.",
     "descriptionPt": "Leia Só Eu Tenho uma Invocação de Rank EX, um manhwa em português.",
-    "chaptersCount": 45,
+    "chaptersCount": 46,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259738,7 +259738,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-santo-evolui-atraves-da-necromancia online em português.",
     "descriptionPt": "Leia o-santo-evolui-atraves-da-necromancia online em português.",
-    "chaptersCount": 46,
+    "chaptersCount": 47,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260422,7 +260422,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia As Noites da Imperatriz, um manhwa em português.",
     "descriptionPt": "Leia As Noites da Imperatriz, um manhwa em português.",
-    "chaptersCount": 53,
+    "chaptersCount": 54,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261371,7 +261371,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-segredo-do-senior-perfeito online em português.",
     "descriptionPt": "Leia o-segredo-do-senior-perfeito online em português.",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265519,7 +265519,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Princesa que Mantém seu Fã-clube em Segredo, um manhwa em português.",
     "descriptionPt": "Leia A Princesa que Mantém seu Fã-clube em Segredo, um manhwa em português.",
-    "chaptersCount": 117,
+    "chaptersCount": 118,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -277491,7 +277491,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Caçador de Classe S que Cura Monstros, um manhwa em português.",
     "descriptionPt": "Leia O Caçador de Classe S que Cura Monstros, um manhwa em português.",
-    "chaptersCount": 58,
+    "chaptersCount": 59,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -281437,6 +281437,31 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "a-mao-de-ouro-da-bebe-pode-consertar-tudo",
+    "slug": "a-mao-de-ouro-da-bebe-pode-consertar-tudo",
+    "title": "A Mão de Ouro da Bebê Pode Consertar Tudo!",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/a-mao-de-ouro-da-bebe-pode-consertar-tudo/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/a-mao-de-ouro-da-bebe-pode-consertar-tudo/cover-md.webp",
+    "author": "Teava",
+    "artist": "Teava",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Manhwa"
+    ],
+    "description": "Leia A Mão de Ouro da Bebê Pode Consertar Tudo!, um manhwa em português.",
+    "descriptionPt": "Leia A Mão de Ouro da Bebê Pode Consertar Tudo!, um manhwa em português.",
+    "chaptersCount": 8,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

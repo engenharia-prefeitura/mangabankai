@@ -72238,7 +72238,7 @@ let MANGA_DATA = [
     ],
     "description": "Young yet old-fashioned Hojun becomes the team leader of a team of Gen Z employees. While he struggles to manage his picky and difficult team members, he ends",
     "descriptionEn": "Young yet old-fashioned Hojun becomes the team leader of a team of Gen Z employees. While he struggles to manage his picky and difficult team members, he ends",
-    "chaptersCount": 16,
+    "chaptersCount": 36,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -207128,7 +207128,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Magic Emperor, um manhua em português.",
     "descriptionPt": "Leia Magic Emperor, um manhua em português.",
-    "chaptersCount": 938,
+    "chaptersCount": 939,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231414,7 +231414,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O sétimo príncipe quer escapar, um manhwa em português.",
     "descriptionPt": "Leia O sétimo príncipe quer escapar, um manhwa em português.",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231491,7 +231491,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Deus Marcial Pay-to-Win, um manhwa em português.",
     "descriptionPt": "Leia Deus Marcial Pay-to-Win, um manhwa em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -231571,7 +231571,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Começando com 13 Traços Ocultos, um manhwa em português.",
     "descriptionPt": "Leia Começando com 13 Traços Ocultos, um manhwa em português.",
-    "chaptersCount": 54,
+    "chaptersCount": 55,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232235,7 +232235,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Crônicas da Facção Demoníaca, um manhwa em português.",
     "descriptionPt": "Leia Crônicas da Facção Demoníaca, um manhwa em português.",
-    "chaptersCount": 198,
+    "chaptersCount": 199,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232285,7 +232285,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia de Sobrevivência do Caçador de Bestas Demoníacas, um manhwa em português.",
     "descriptionPt": "Leia Guia de Sobrevivência do Caçador de Bestas Demoníacas, um manhwa em português.",
-    "chaptersCount": 43,
+    "chaptersCount": 44,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232527,7 +232527,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Providência de Alto Nível, um manhua em português.",
     "descriptionPt": "Leia Providência de Alto Nível, um manhua em português.",
-    "chaptersCount": 292,
+    "chaptersCount": 293,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232728,7 +232728,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Renascimento de Um Mercenário Entre Nobres, um manhwa em português.",
     "descriptionPt": "Leia O Renascimento de Um Mercenário Entre Nobres, um manhwa em português.",
-    "chaptersCount": 56,
+    "chaptersCount": 57,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232807,7 +232807,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Recluso Supremo, um manhwa em português.",
     "descriptionPt": "Leia O Recluso Supremo, um manhwa em português.",
-    "chaptersCount": 104,
+    "chaptersCount": 105,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250741,7 +250741,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Grande Colheita do Lorde das Trevas, um manhwa em português.",
     "descriptionPt": "Leia A Grande Colheita do Lorde das Trevas, um manhwa em português.",
-    "chaptersCount": 91,
+    "chaptersCount": 92,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254060,7 +254060,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Imperatriz Se Casou Novamente, um manhwa em português.",
     "descriptionPt": "Leia A Imperatriz Se Casou Novamente, um manhwa em português.",
-    "chaptersCount": 240,
+    "chaptersCount": 241,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254603,7 +254603,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia me-tornei-um-ladrao-de-habilidades online em português.",
     "descriptionPt": "Leia me-tornei-um-ladrao-de-habilidades online em português.",
-    "chaptersCount": 49,
+    "chaptersCount": 50,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256372,7 +256372,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
     "descriptionPt": "Leia Guia Para Rankers Viverem Uma Vida Comum, um manhwa em português.",
-    "chaptersCount": 77,
+    "chaptersCount": 81,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256537,7 +256537,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Ainda Nem Era Noite, um manhwa em português.",
     "descriptionPt": "Leia Ainda Nem Era Noite, um manhwa em português.",
-    "chaptersCount": 30,
+    "chaptersCount": 37,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259514,7 +259514,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
     "descriptionPt": "Leia meu-marido-era-definitivamente-um-paladino online em português.",
-    "chaptersCount": 39,
+    "chaptersCount": 40,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259783,7 +259783,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-rei-agiota-do-murim online em português.",
     "descriptionPt": "Leia o-rei-agiota-do-murim online em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 27,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259943,7 +259943,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Doentia Devoção, um manhwa em português.",
     "descriptionPt": "Leia Doentia Devoção, um manhwa em português.",
-    "chaptersCount": 62,
+    "chaptersCount": 63,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265992,7 +265992,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Princesa Marcou O Traidor, um manhwa em português.",
     "descriptionPt": "Leia A Princesa Marcou O Traidor, um manhwa em português.",
-    "chaptersCount": 130,
+    "chaptersCount": 131,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -267058,7 +267058,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Noite na Encruzilhada, um manhwa em português.",
     "descriptionPt": "Leia Noite na Encruzilhada, um manhwa em português.",
-    "chaptersCount": 9,
+    "chaptersCount": 10,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -270645,7 +270645,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Necromancer Academy and the Genius Summoner, um manhwa em português.",
     "descriptionPt": "Leia Necromancer Academy and the Genius Summoner, um manhwa em português.",
-    "chaptersCount": 227,
+    "chaptersCount": 228,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -271372,7 +271372,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Filha Mais Nova da Família Snake, um manhwa em português.",
     "descriptionPt": "Leia A Filha Mais Nova da Família Snake, um manhwa em português.",
-    "chaptersCount": 8,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -275663,7 +275663,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Curiosa Senhorita Elena, um manhwa em português.",
     "descriptionPt": "Leia A Curiosa Senhorita Elena, um manhwa em português.",
-    "chaptersCount": 9,
+    "chaptersCount": 10,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -281063,7 +281063,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Primeira Esposa, um manhwa em português.",
     "descriptionPt": "Leia A Primeira Esposa, um manhwa em português.",
-    "chaptersCount": 10,
+    "chaptersCount": 11,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -281459,7 +281459,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Mão de Ouro da Bebê Pode Consertar Tudo!, um manhwa em português.",
     "descriptionPt": "Leia A Mão de Ouro da Bebê Pode Consertar Tudo!, um manhwa em português.",
-    "chaptersCount": 8,
+    "chaptersCount": 20,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -281487,7 +281487,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia As Mentiras Te Consomem, um manhwa em português.",
     "descriptionPt": "Leia As Mentiras Te Consomem, um manhwa em português.",
-    "chaptersCount": 84,
+    "chaptersCount": 85,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -281514,6 +281514,57 @@ let MANGA_DATA = [
     "description": "Leia Inverter Tentativa, um manhwa em português.",
     "descriptionPt": "Leia Inverter Tentativa, um manhwa em português.",
     "chaptersCount": 7,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "cauda-de-sereia",
+    "slug": "cauda-de-sereia",
+    "title": "Cauda de Sereia",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/cauda-de-sereia/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/cauda-de-sereia/cover-md.webp",
+    "author": "Nightorange",
+    "artist": "Nightorange",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Fantasia",
+      "Romance",
+      "Josei",
+      "Adulto",
+      "Manhwa"
+    ],
+    "description": "Leia Cauda de Sereia, um manhwa em português.",
+    "descriptionPt": "Leia Cauda de Sereia, um manhwa em português.",
+    "chaptersCount": 10,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "estou-sendo-perseguida-pelo-meu-marido",
+    "slug": "estou-sendo-perseguida-pelo-meu-marido",
+    "title": "Estou Sendo Perseguida Pelo Meu Marido",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/estou-sendo-perseguida-pelo-meu-marido/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/estou-sendo-perseguida-pelo-meu-marido/cover-md.webp",
+    "author": "Yunajin",
+    "artist": "Yunajin",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Manhwa"
+    ],
+    "description": "Leia Estou Sendo Perseguida Pelo Meu Marido, um manhwa em português.",
+    "descriptionPt": "Leia Estou Sendo Perseguida Pelo Meu Marido, um manhwa em português.",
+    "chaptersCount": 32,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

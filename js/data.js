@@ -60410,7 +60410,7 @@ let MANGA_DATA = [
     ],
     "description": "Dae Ho, who became an orphan at the age of 13, was adopted by his father's friend. However, Dae Ho in adulthood knew nothing about the relationship between",
     "descriptionEn": "Dae Ho, who became an orphan at the age of 13, was adopted by his father's friend. However, Dae Ho in adulthood knew nothing about the relationship between",
-    "chaptersCount": 323,
+    "chaptersCount": 324,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -60460,7 +60460,7 @@ let MANGA_DATA = [
     ],
     "description": "After being caught while having an intimate encounter with other MILFS, Taeyang escaped to another world. Sharing a bed with a top-class MILF with an amazing",
     "descriptionEn": "After being caught while having an intimate encounter with other MILFS, Taeyang escaped to another world. Sharing a bed with a top-class MILF with an amazing",
-    "chaptersCount": 141,
+    "chaptersCount": 142,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -60508,7 +60508,7 @@ let MANGA_DATA = [
     ],
     "description": "“I’m considering sending you to join the female soldiers.” Jaejun is a participant in the . He transfers to a military base comprised entirely of female",
     "descriptionEn": "“I’m considering sending you to join the female soldiers.” Jaejun is a participant in the . He transfers to a military base comprised entirely of female",
-    "chaptersCount": 82,
+    "chaptersCount": 83,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -60604,7 +60604,7 @@ let MANGA_DATA = [
     ],
     "description": "Eunnam develops a sexual desire towards the mother of his best friend, Jidong! He then makes a rebellious bet with his stepmother on the line…",
     "descriptionEn": "Eunnam develops a sexual desire towards the mother of his best friend, Jidong! He then makes a rebellious bet with his stepmother on the line…",
-    "chaptersCount": 96,
+    "chaptersCount": 97,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -100083,7 +100083,7 @@ let MANGA_DATA = [
     ],
     "description": "Study Buddies (Official) Nathan ends up living with his two childhood friends after his dad asks one of them to tutor him for his college entrance exam.",
     "descriptionPt": "",
-    "chaptersCount": 113,
+    "chaptersCount": 120,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -115241,7 +115241,7 @@ let MANGA_DATA = [
     ],
     "description": "The Case of Doctor Agato (Uncensored) Five years after the war, peace has settled over the victorious nation of Formapolis…until a strange series of incidents threatens to shatter it. Corpses with grotesque modifications, known only as “specimens,” begin turning up in the capital.",
     "descriptionPt": "",
-    "chaptersCount": 32,
+    "chaptersCount": 33,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -231595,7 +231595,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Coração Ferido, um webtoon em português.",
     "descriptionPt": "Leia Coração Ferido, um webtoon em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 33,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -232260,7 +232260,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Despertar em Tempo Integral, um manhua em português.",
     "descriptionPt": "Leia Despertar em Tempo Integral, um manhua em português.",
-    "chaptersCount": 169,
+    "chaptersCount": 170,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251195,7 +251195,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Regressor da Família Caída, um manhwa em português.",
     "descriptionPt": "Leia O Regressor da Família Caída, um manhwa em português.",
-    "chaptersCount": 159,
+    "chaptersCount": 160,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -251356,7 +251356,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Imperador Solo, um manhwa em português.",
     "descriptionPt": "Leia Imperador Solo, um manhwa em português.",
-    "chaptersCount": 92,
+    "chaptersCount": 93,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254060,7 +254060,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Imperatriz Se Casou Novamente, um manhwa em português.",
     "descriptionPt": "Leia A Imperatriz Se Casou Novamente, um manhwa em português.",
-    "chaptersCount": 241,
+    "chaptersCount": 255,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -254669,7 +254669,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia retorno-de-10000-vezes-irma-senior-por-favor-comporte-se online em português.",
     "descriptionPt": "Leia retorno-de-10000-vezes-irma-senior-por-favor-comporte-se online em português.",
-    "chaptersCount": 44,
+    "chaptersCount": 45,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255580,7 +255580,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Tempo Extra Antes da Doença Terminal, um manhwa em português.",
     "descriptionPt": "Leia O Tempo Extra Antes da Doença Terminal, um manhwa em português.",
-    "chaptersCount": 90,
+    "chaptersCount": 121,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255855,7 +255855,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Sacerdotisa de Dahalen, um manhwa em português.",
     "descriptionPt": "Leia A Sacerdotisa de Dahalen, um manhwa em português.",
-    "chaptersCount": 6,
+    "chaptersCount": 8,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -257879,7 +257879,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Tenha um Caso Comigo, um manhwa em português.",
     "descriptionPt": "Leia Tenha um Caso Comigo, um manhwa em português.",
-    "chaptersCount": 21,
+    "chaptersCount": 22,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259642,7 +259642,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia uma-crianca-que-se-parece-comigo online em português.",
     "descriptionPt": "Leia uma-crianca-que-se-parece-comigo online em português.",
-    "chaptersCount": 41,
+    "chaptersCount": 61,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -259987,7 +259987,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia o-retorno-do-espadachim-negro online em português.",
     "descriptionPt": "Leia o-retorno-do-espadachim-negro online em português.",
-    "chaptersCount": 73,
+    "chaptersCount": 75,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -264311,7 +264311,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Um Pintor Que Desenha Dungeons, um manhwa em português.",
     "descriptionPt": "Leia Um Pintor Que Desenha Dungeons, um manhwa em português.",
-    "chaptersCount": 32,
+    "chaptersCount": 33,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -265164,7 +265164,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Meu Caminho Simulado Rumo à Imortalidade, um manhua em português.",
     "descriptionPt": "Leia Meu Caminho Simulado Rumo à Imortalidade, um manhua em português.",
-    "chaptersCount": 95,
+    "chaptersCount": 97,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -270611,7 +270611,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Babá da Máfia, um webtoon em português.",
     "descriptionPt": "Leia A Babá da Máfia, um webtoon em português.",
-    "chaptersCount": 101,
+    "chaptersCount": 102,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -273401,7 +273401,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Mordomo Mais Forte Da Família Dos Vilões, um manhwa em português.",
     "descriptionPt": "Leia O Mordomo Mais Forte Da Família Dos Vilões, um manhwa em português.",
-    "chaptersCount": 25,
+    "chaptersCount": 26,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -278556,7 +278556,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Te Devorarei à Noite, um manhwa em português.",
     "descriptionPt": "Leia Te Devorarei à Noite, um manhwa em português.",
-    "chaptersCount": 8,
+    "chaptersCount": 9,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -279718,7 +279718,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Monstro do Seu Armário, um manhwa em português.",
     "descriptionPt": "Leia O Monstro do Seu Armário, um manhwa em português.",
-    "chaptersCount": 1,
+    "chaptersCount": 2,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -281738,6 +281738,35 @@ let MANGA_DATA = [
     "hasPt": true,
     "hasEn": false,
     "source": "tankouhentai"
+  },
+  {
+    "id": "spare-me-great-lord",
+    "slug": "spare-me-great-lord",
+    "title": "Spare Me, Great Lord!",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/spare-me-great-lord/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/spare-me-great-lord/cover-md.webp",
+    "author": "The Speaking Pork Trotter",
+    "artist": "The Speaking Pork Trotter",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Ação",
+      "Comédia",
+      "Shounen",
+      "Fantasia",
+      "Mistério",
+      "Sobrenatural",
+      "Magia",
+      "Manhua"
+    ],
+    "description": "Leia Spare Me, Great Lord!, um manhua em português.",
+    "descriptionPt": "Leia Spare Me, Great Lord!, um manhua em português.",
+    "chaptersCount": 206,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 

@@ -93239,7 +93239,7 @@ let MANGA_DATA = [
     ],
     "description": "Cougar 101 (Official) Harem life begins for James, a returning college student, with a stable of foxy cougars! “Were older women supposed to be this sexy?!”",
     "descriptionPt": "",
-    "chaptersCount": 71,
+    "chaptersCount": 73,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -93335,7 +93335,7 @@ let MANGA_DATA = [
     ],
     "description": "College Coeds (Official) After years of being holed up in his room, Chris finally attends his first college outing, and by chance, he discovers a lewd secret hobby of his gorgeous classmate.",
     "descriptionPt": "",
-    "chaptersCount": 57,
+    "chaptersCount": 66,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -93708,7 +93708,7 @@ let MANGA_DATA = [
     ],
     "description": "Professor’s Alt Account Fresh out of the military and eager for a fresh start, Jiwoo returns to university, ready to slip back into the rhythm of normal campus life. His plans hit a sudden, unavoidable roadblock when he is forced to enroll in a course taught by Professor Ha-Yeong. Jiwoo absolutely dreads the prospect; he carries a deep-seated resentment toward her, stemming from a painful past where he was subjected to her blatant, unfair treatment. Forced to grit his teeth and endure her lectures, he prepares for a grueling semester of academic power games. However, the dynamic changes entire",
     "descriptionPt": "",
-    "chaptersCount": 35,
+    "chaptersCount": 36,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -94464,7 +94464,7 @@ let MANGA_DATA = [
     ],
     "description": "CHATTERBOX Seowu survives by selling information, living every day on edge. One day, a suspiciously friendly operative who leads with emotion instead of caution shows up at his door. Yijin is clearly dangerous, probably even from a rival organization. And yet… they talk far too easily. Between a high-strung informant and a disarmingly open operative, a risky connection forms… Is this pull part of the mission, or something dangerously real?",
     "descriptionPt": "",
-    "chaptersCount": 42,
+    "chaptersCount": 43,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -232311,7 +232311,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Superação do Nobre Vagabundo, um manhwa em português.",
     "descriptionPt": "Leia A Superação do Nobre Vagabundo, um manhwa em português.",
-    "chaptersCount": 167,
+    "chaptersCount": 168,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -250579,7 +250579,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Deus Demônio, um manhwa em português.",
     "descriptionPt": "Leia O Deus Demônio, um manhwa em português.",
-    "chaptersCount": 56,
+    "chaptersCount": 57,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -261978,7 +261978,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Trascendência Devido a um Erro do Sistema, um manhwa em português.",
     "descriptionPt": "Leia Trascendência Devido a um Erro do Sistema, um manhwa em português.",
-    "chaptersCount": 23,
+    "chaptersCount": 24,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262930,7 +262930,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia streamer-apos-a-reencarnacao online em português.",
     "descriptionPt": "Leia streamer-apos-a-reencarnacao online em português.",
-    "chaptersCount": 72,
+    "chaptersCount": 73,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -269377,7 +269377,7 @@ let MANGA_DATA = [
     ],
     "description": "Double X Date (Uncensored) Rule #1 of confessing to your crush: Make sure she isn’t gay first. When Jaewon’s plan to ask out his dream girl backfires as she suddenly comes out to him, he panics and rambles out an absolute lie: Actually, I’m gay too! Roped into an impossible double date, Jaewon begs his best friend, Yuwon, to play the ultimate loving boyfriend for just one night. The plan seems surprisingly foolproof—until the date actually begins. After overhearing a tense private moment between Yuwon and his crush’s new girlfriend, Hyeona, Jaewon makes a horrifying realization: his fake boyfr",
     "descriptionPt": "",
-    "chaptersCount": 13,
+    "chaptersCount": 15,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -281714,6 +281714,30 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "tankouhentai-anata-no-semen-kaishuu-shimasu",
+    "slug": "anata-no-semen-kaishuu-shimasu",
+    "title": "Anata no Semen Kaishuu Shimasu",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/11/Anata-no-Semen-Kaishuu-Shimasu-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/11/Anata-no-Semen-Kaishuu-Shimasu-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Sexo a Três",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 3,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

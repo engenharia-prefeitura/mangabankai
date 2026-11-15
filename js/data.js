@@ -90909,7 +90909,7 @@ let MANGA_DATA = [
     ],
     "description": "Veiled Desires (Official) “It’s okay if you try it… I promise it’ll taste good…” She had kept her sexual desires hidden, not wanting to disappoint the one she loved. But the more her husband cherished her, the harder it became to suppress her instincts. And when her pent-up lust finally exploded, it wasn’t directed at her husband, but at his secretary.",
     "descriptionPt": "",
-    "chaptersCount": 43,
+    "chaptersCount": 50,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -90944,7 +90944,7 @@ let MANGA_DATA = [
     ],
     "description": "This face genius is good at soccer (Official) One day a goddess asked to Bryce, who loved soccer and chased his dream harder than anyone else, but was left behind due to slow growth and an unimpressive appearance. “I’m the goddess of soccer. What is your wish?” “Sex” On that day, his ordinary life completely changed.",
     "descriptionPt": "",
-    "chaptersCount": 83,
+    "chaptersCount": 85,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -91316,7 +91316,7 @@ let MANGA_DATA = [
     ],
     "description": "The Annoying Older Girl Next Door (Official) Back when I was sick and my friends didn’t want to play with me, EUN-SEOL was the kind older girl who always took care of me and kept me company. The problem is, even now that I’m an adult, she still clings to me and treats me like a little kid. Because of her, even in college, I ended up with the nickname “Baby” and became a complete loner. Now, I have to make her see me as a man if I ever want to stop being treated like a child.",
     "descriptionPt": "",
-    "chaptersCount": 90,
+    "chaptersCount": 95,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -234030,7 +234030,7 @@ let MANGA_DATA = [
     ],
     "description": "Still, It Rains (Uncensored) While working undercover at Heaven’s Harvest Sect, a cult devoted to a so-called god of abundance, journalist Jang Gijun expects the usual lies and fanaticism. Instead, he finds Hui-sae, a young and eerily serene cult leader forced to “share blessings” through his own body, offering himself to frenzied followers in rituals disguised as salvation. Convinced he’s on to a bigger scoop that expected, Gijun watches the lines blur between devotion and exploitation, quickly realizing that the cult’s darkest secrets may lie not in its doctrine, but in what it demands of th",
     "descriptionPt": "",
-    "chaptersCount": 53,
+    "chaptersCount": 54,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -250245,7 +250245,7 @@ let MANGA_DATA = [
     ],
     "description": "Concubine (Palgak) (Uncensored) Born the cherished daughter of a noble family, Won’s life shatters when a sudden tragedy leaves her on the brink of being sold off as a courtesan. To make matters worse, the man behind her family’s downfall is none other than the father of her childhood friend, Wanhyeok. Just as she resigns herself to losing everything, Wanhyeok steps forward…paying the price of her freedom with his own two hands. Torn between a desire for revenge and love, does Won have what it takes to avenge her family’s name?",
     "descriptionPt": "",
-    "chaptersCount": 37,
+    "chaptersCount": 45,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -254493,7 +254493,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Me Tornei O Mentor do Rei Demônio mais Fraco, um manhwa em português.",
     "descriptionPt": "Leia Eu Me Tornei O Mentor do Rei Demônio mais Fraco, um manhwa em português.",
-    "chaptersCount": 45,
+    "chaptersCount": 46,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -255124,7 +255124,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Superastro do 0, um manhwa em português.",
     "descriptionPt": "Leia Superastro do 0, um manhwa em português.",
-    "chaptersCount": 109,
+    "chaptersCount": 110,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -262029,7 +262029,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Regra de Ouro de Han Serim, um manhwa em português.",
     "descriptionPt": "Leia A Regra de Ouro de Han Serim, um manhwa em português.",
-    "chaptersCount": 22,
+    "chaptersCount": 23,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -282013,6 +282013,137 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "uma-proposta-selvagem",
+    "slug": "uma-proposta-selvagem",
+    "title": "Uma Proposta Selvagem",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/uma-proposta-selvagem/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/uma-proposta-selvagem/cover-md.webp",
+    "author": "Lee Yun Ah",
+    "artist": "Lee Yun Ah",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Fantasia",
+      "Romance",
+      "Manhwa"
+    ],
+    "description": "Leia Uma Proposta Selvagem, um manhwa em português.",
+    "descriptionPt": "Leia Uma Proposta Selvagem, um manhwa em português.",
+    "chaptersCount": 115,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "um-romance-alem-das-fronteiras",
+    "slug": "um-romance-alem-das-fronteiras",
+    "title": "Um Romance Além Das Fronteiras",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/um-romance-alem-das-fronteiras/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/um-romance-alem-das-fronteiras/cover-md.webp",
+    "author": "Min Ji-an",
+    "artist": "Min Ji-an",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Josei",
+      "Manhwa"
+    ],
+    "description": "Leia Um Romance Além Das Fronteiras, um manhwa em português.",
+    "descriptionPt": "Leia Um Romance Além Das Fronteiras, um manhwa em português.",
+    "chaptersCount": 41,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "deusa-da-fortuna",
+    "slug": "deusa-da-fortuna",
+    "title": "Deusa da Fortuna",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/deusa-da-fortuna/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/deusa-da-fortuna/cover-md.webp",
+    "author": "Honey Bee",
+    "artist": "Honey Bee",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Fantasia",
+      "Romance",
+      "Vida Escolar",
+      "Manhwa"
+    ],
+    "description": "Leia Deusa da Fortuna, um manhwa em português.",
+    "descriptionPt": "Leia Deusa da Fortuna, um manhwa em português.",
+    "chaptersCount": 33,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "sou-a-filha-biologica-do-protagonista-masculino-mas-quero-viver-com-o-segundo-protagonista-masculino",
+    "slug": "sou-a-filha-biologica-do-protagonista-masculino-mas-quero-viver-com-o-segundo-protagonista-masculino",
+    "title": "Sou a filha biológica do protagonista masculino, mas quero viver com o segundo protagonista masculino!",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/sou-a-filha-biologica-do-protagonista-masculino-mas-quero-viver-com-o-segundo-protagonista-masculino/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/sou-a-filha-biologica-do-protagonista-masculino-mas-quero-viver-com-o-segundo-protagonista-masculino/cover-md.webp",
+    "author": "Q00",
+    "artist": "Q00",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Fantasia",
+      "Romance",
+      "Manhwa"
+    ],
+    "description": "Leia Sou a filha biológica do protagonista masculino, mas quero viver com o segundo protagonista masculino!, um manhwa em português.",
+    "descriptionPt": "Leia Sou a filha biológica do protagonista masculino, mas quero viver com o segundo protagonista masculino!, um manhwa em português.",
+    "chaptersCount": 24,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
+  },
+  {
+    "id": "encenacao",
+    "slug": "encenacao",
+    "title": "Encenação",
+    "altTitle": "",
+    "cover": "https://cdn.leituramanga.net/encenacao/cover-md.webp",
+    "banner": "https://cdn.leituramanga.net/encenacao/cover-md.webp",
+    "author": "Han Yi Rim",
+    "artist": "Han Yi Rim",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 7,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Josei",
+      "Adulto",
+      "Adaptação",
+      "Manhwa",
+      "Moderno",
+      "Casamento Arranjado"
+    ],
+    "description": "Leia Encenação, um manhwa em português.",
+    "descriptionPt": "Leia Encenação, um manhwa em português.",
+    "chaptersCount": 1,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false
   }
 ];
 
@@ -282137,7 +282268,7 @@ function filterManga(opts) {
   return results;
 }
 
-const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Amnésia","Angústia","Animais","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Casamento Arranjado","Casamento de fachada","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Conto","Cooking","Coworkers","Criança fofa","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Diferença de idade","Doujinshi","Drama","Ecchi","Enemies to lovers","Época","Erótico","Escolar","Escritório","Esporte","Esportes","Estratégia","Explicit Sex","Familia","Família","Família adotiva","Família real","Família Real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gângster","Gay-Yaoi","Gender Bender","Ghosts","GL","Gore","Gyaru","Harem","Harém","Harém Reverso","Hentai","Hentai Anime","Híbrido","Historical","Historico","Histórico","Horror","Horrow","Idol","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Máfia","Magia","Magic","Magical Girl","Mal-entendido","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Médico","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","Obsceno","Obsessão","OEL","Older Woman","Omegaverse","One Shot","Opostos se atraem","Outros gêneros","Parceria","Parody Anime","Parte da Vida","Person in a Strange World","Police","Policial","Primeiro amor","Protagonista esperta","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Segunda chance","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Slow burn","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragédia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Triângulo Amoroso","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vampiro","Vanilla","Viagem no tempo","Vida escolar","Vida Escolar","Vingança","Violence","Virtual Reality","Web Novels","Webtoon","Webtoons","Western","Work Life","Yaoi","Younger Man","Yuri","Zombies","Zoofilia"];
+const ALL_GENRES = ["+18","12+","14+","16+","18+","3D","3D Anime","Academia","Ação","Action","Adaptação","Adapted to Anime","Adult","Adulto","Adventure","AI Art","Aliens","Amigos de Infância","Amnésia","Angústia","Animais","Animal Characteristics","Animated","Animation","Artes Marciais","Aventura","Based on Another Work","BDSM","Bissexual","BL","BL Uncensored","Borderline H","Casamento Arranjado","Casamento de fachada","Cohabitation","Colegial","Collection of Stories","Comedia","Comédia","Comedy","Comics","Conto","Cooking","Coworkers","Criança fofa","Crime","Crossdressing","Dark Romance","Delinquents","Demônio","Demonios","Demons","Detectives","Diferença de idade","Doujinshi","Drama","Ecchi","Enemies to lovers","Época","Erótico","Escolar","Escritório","Esporte","Esportes","Estratégia","Explicit Sex","Familia","Família","Família adotiva","Família real","Família Real","Fantasia","Fantasy","Fetiche","Fetish","Ficção científica","Ficção Científica","Full Color","Furry","Futanari","Gângster","Gay-Yaoi","Gender Bender","Ghosts","GL","Gore","Gyaru","Harem","Harém","Harém Reverso","Hentai","Hentai Anime","Híbrido","Historical","Historico","Histórico","Horror","Horrow","Idol","Incest","Incesto","Isekai","Japanese Webtoons","Jogos","Josei","Kimono","Lésbicas-Yuri","Life","Light Novels","Luta","Maduro","Mafia","Máfia","Magia","Magic","Magical Girl","Mal-entendido","Manga","Manhua","Manhwa","Martial Arts","Mature","Mature Romance","Mecha","Medical","Médico","Military","Mistério","Mistério/Suspense","Moderno","Monster Girls","Monsters","Motion","Murim","Music","Mystery","Ninja","Nudity","Obsceno","Obsessão","OEL","Older Woman","Omegaverse","One Shot","Opostos se atraem","Outros gêneros","Parceria","Parody Anime","Parte da Vida","Person in a Strange World","Police","Policial","Primeiro amor","Protagonista esperta","Psicológico","Psychological","Raw","Realeza","Redenção","Reencarnação","Regressão","Reincarnation","Reverse Harem","Romance","Salaryman","Samurai","School","School Life","Sci Fi","Sci-Fi","Segunda chance","Seinen","Sem Censura","Sexo a Três","Sexual Abuse","Sexual Content","Shoujo","Shoujo Ai","Shoujo-ai","Shoujoai","Shounen","Shounen Ai","Shounen-ai","Shounenai","Siblings","Sistema","Slice of Life","Slice Of Life","Slow burn","Smut","Sobrenatural","Sobrevivencia","Sports","Stalker","Summoned Into Another World","Super Poderes","Super Power","Superheroes","Supernatural","Survival","Suspense","Tentáculos","Terror","Terror/Horror","Thriller","Time Travel","Tragedia","Tragédia","Tragedy","Traição","Transfer Students","Transmigração","Travesti","Triângulo Amoroso","Troca de Corpos","Uncensored","Uncensored Anime","Vampire","Vampires","Vampiro","Vanilla","Viagem no tempo","Vida escolar","Vida Escolar","Vingança","Violence","Virtual Reality","Web Novels","Webtoon","Webtoons","Western","Work Life","Yaoi","Younger Man","Yuri","Zombies","Zoofilia"];
 
 var ADULT_GENRE_KW = ['hentai','adulto','adult','+18','18+','nsfw','ecchi','smut','mature','maduro','erotic','erótic','erotica','bdsm','futanari','loli','shota','inces','tentacul','tentácul','zoofilia','obsceno','sem censura','uncensor','censura','nudez','nudity','sexual','sexo','mindbreak','ahegao','netorare','fetich','fetish','omegaverse','vanilla','borderline h'];
 function isAdultGenre(g) {

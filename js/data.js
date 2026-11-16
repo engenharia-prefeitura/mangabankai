@@ -60484,7 +60484,7 @@ let MANGA_DATA = [
     ],
     "description": "“The onahole… moved?!”",
     "descriptionEn": "“The onahole… moved?!”",
-    "chaptersCount": 125,
+    "chaptersCount": 126,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -95904,7 +95904,7 @@ let MANGA_DATA = [
     ],
     "description": "Return of The Legendary Spear Knight Unrivaled Spear Knight. The stereotype that knights must use swords is broken by the brightest star of a duke’s family. The hero that brought an end to the empire’s civil war. The name of that person is Joshua Sanders. Despite his reputation of being called the empire’s unrivaled spear, he was bleeding dark red blood. Not just anyone but by the hand of his own emperor, Kaiser… “Kaiser! Don’t think it will end like this!!” Moments before death, incurred by magic circle, the spear that spent its years together with him, ‘Lugia’, started to emit an enormous am",
     "descriptionPt": "",
-    "chaptersCount": 213,
+    "chaptersCount": 222,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -100808,7 +100808,7 @@ let MANGA_DATA = [
     ],
     "description": "You’re Coming With Me! Kwon Heemang is a jobless recluse living a shut-in lifestyle without a single friend to her name. Her mundane existence takes a supernatural turn after a freak accident grants her the ability to see ghosts, leading to a haunting encounter with Kim Sarang. The lingering spirit strikes a deal: she will leave Heemang alone only after fulfilling her final wish. Sarang died just one month into her first relationship, never having the chance to truly experience intimacy with her boyfriend. Before Heemang can protest, Sarang possesses her body and tracks down her ex, Choi Taemi",
     "descriptionPt": "",
-    "chaptersCount": 34,
+    "chaptersCount": 38,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -282223,6 +282223,32 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "tankouhentai-anedol-onee-chan-wa-idol",
+    "slug": "anedol-onee-chan-wa-idol",
+    "title": "AneDol ~Onee-chan wa Idol~",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/11/AneDol-Onee-chan-wa-Idol-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/11/AneDol-Onee-chan-wa-Idol-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Bissexual",
+      "Incesto",
+      "Lésbicas-Yuri",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 2,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

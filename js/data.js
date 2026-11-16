@@ -90718,7 +90718,7 @@ let MANGA_DATA = [
     ],
     "description": "A Dragon’s Love (Uncensored) On a stormy night, hardened mobster Cha San is limping home when he stumbles upon Shin Ro, a dragon bleeding out on the pavement. It’s love at first sight, pulling two entirely different worlds together in an instant. Fast forward to the present, and the unlikely couple is officially navigating newlyweds bliss. To support his beloved, Shin Ro hilariously adapts to human life by taking a job as a car salesman, while Cha San completely leaves his criminal syndicate behind to become a dedicated, apron-wearing stay-at-home husband. Relying entirely on each other, they ",
     "descriptionPt": "",
-    "chaptersCount": 19,
+    "chaptersCount": 21,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -233774,7 +233774,7 @@ let MANGA_DATA = [
     ],
     "description": "Asmodeck: A Game of Desire When the manager brought in a dusty-looking board game, no one knew that… this is one game you can’t escape.",
     "descriptionPt": "",
-    "chaptersCount": 39,
+    "chaptersCount": 41,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -251466,7 +251466,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Eu Sou o Vilão Predestinado, um manhua em português.",
     "descriptionPt": "Leia Eu Sou o Vilão Predestinado, um manhua em português.",
-    "chaptersCount": 369,
+    "chaptersCount": 370,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -256164,7 +256164,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia I Adopted a Villainous Dad, um manhwa em português.",
     "descriptionPt": "Leia I Adopted a Villainous Dad, um manhwa em português.",
-    "chaptersCount": 107,
+    "chaptersCount": 108,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -260087,7 +260087,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia O Marido Malvado, um manhwa em português.",
     "descriptionPt": "Leia O Marido Malvado, um manhwa em português.",
-    "chaptersCount": 54,
+    "chaptersCount": 55,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -263678,7 +263678,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Não me persiga Namjoon, um manhwa em português.",
     "descriptionPt": "Leia Não me persiga Namjoon, um manhwa em português.",
-    "chaptersCount": 43,
+    "chaptersCount": 45,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -272964,7 +272964,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Suavizando o jeito gangster do protagonista masculino, um manhwa em português.",
     "descriptionPt": "Leia Suavizando o jeito gangster do protagonista masculino, um manhwa em português.",
-    "chaptersCount": 58,
+    "chaptersCount": 60,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -275126,7 +275126,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Escondendo Minha Identidade do Meu Marido, um manhwa em português.",
     "descriptionPt": "Leia Escondendo Minha Identidade do Meu Marido, um manhwa em português.",
-    "chaptersCount": 4,
+    "chaptersCount": 5,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -276001,7 +276001,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia Um Retrato do Orgulho, um manhwa em português.",
     "descriptionPt": "Leia Um Retrato do Orgulho, um manhwa em português.",
-    "chaptersCount": 21,
+    "chaptersCount": 22,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
@@ -281193,7 +281193,7 @@ let MANGA_DATA = [
     ],
     "description": "Leia A Vilã Mais Fofa, um manhwa em português.",
     "descriptionPt": "Leia A Vilã Mais Fofa, um manhwa em português.",
-    "chaptersCount": 43,
+    "chaptersCount": 44,
     "lang": "pt",
     "hasPt": true,
     "hasEn": false

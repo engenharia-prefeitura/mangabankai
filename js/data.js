@@ -282198,6 +282198,31 @@ let MANGA_DATA = [
     "lang": "pt",
     "hasPt": true,
     "hasEn": false
+  },
+  {
+    "id": "mangadistrict-lucky-dice",
+    "slug": "lucky-dice",
+    "title": "Lucky Dice",
+    "altTitle": "",
+    "cover": "https://cdn.mangadistrict.com/thumbnail/lucky-dice-official.webp",
+    "banner": "https://cdn.mangadistrict.com/thumbnail/lucky-dice-official.webp",
+    "author": "BBIBBI",
+    "artist": "Suhyeon",
+    "status": "ongoing",
+    "year": 2025,
+    "rating": 0,
+    "genres": [
+      "BL",
+      "Yaoi",
+      "Hentai"
+    ],
+    "description": "Lucky Dice “I have erectile dysfunction.” Not exactly the kind of confession Woo Hyeonsoo ever planned to make, but a few too many drinks later, his biggest secret slips out to his classmate Ha Jeongyoon. Mortified, Hyeonsoo braces for pity or laughter… but Jeongyoon just grins. “Then why don’t we test it out? Who knows? Maybe I can fix you.” Wait, what?! Before Hyeonsoo can process what’s happening, he’s suddenly part of Jeongyoon’s “scientific experiment.” What started as drunken honesty turns into a very hands-on test of chemistry, curiosity, and terrible decisions. Now, every accidental to",
+    "descriptionPt": "",
+    "chaptersCount": 55,
+    "lang": "en",
+    "hasPt": false,
+    "hasEn": true,
+    "source": "mangadistrict"
   }
 ];
 

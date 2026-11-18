@@ -97363,7 +97363,7 @@ let MANGA_DATA = [
     ],
     "description": "Kiss the Scumbag Five years ago, Winston and Yujin fell deeply and irrevocably in love at first sight. But their passionate relationship shattered when Winston discovered the unthinkable truth: Yujin’s was having an affair with none other than his own father. Consumed by betrayal, Winston channeled the love he once cherished into resentment. Yet no matter how hard he tries, Winston cannot extinguish the pull he still feels. Now, reunited by fate and unresolved wounds, passion and scorn intertwine… But can either of them truly escape what they once meant to each other?",
     "descriptionPt": "",
-    "chaptersCount": 30,
+    "chaptersCount": 35,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

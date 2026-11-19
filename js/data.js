@@ -97965,7 +97965,7 @@ let MANGA_DATA = [
     ],
     "description": "The King of White Tigers (Uncensored) In the Kingdom of Ha, a land bordered by monster-infested wilds, an ancient law dictates that any Bearer. a male capable of conceiving the White Tiger’s heir, must be crowned King to prevent a seven-year famine. After decades of silence, Il-oh, a lowly slave, suddenly manifests as a Bearer. Following the omen, the former King abdicates, and the Crown Prince, Jang Woon, is demoted to a mere attendant tasked with serving the new, unwilling sovereign. Within the palace, a grim secret lingers: once a Bearer bears an heir at age twenty, he is destined for death",
     "descriptionPt": "",
-    "chaptersCount": 31,
+    "chaptersCount": 33,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -103796,7 +103796,7 @@ let MANGA_DATA = [
     ],
     "description": "Saturday’s Master (Uncensored) Thirteen. Thirteen weeks, and it would all be over… Lee Seo-dan is on the verge of resignation. Having reported his seniors at Raewon for internal corruption, he has been ostracized by all those around him. With no one to turn to, Seo-dan figures it would just be better to leave altogether – until he is presented with an opportunity for redemption. Han Juwon has been called many things by those around him: “Workaholic.” “Tyrant.” “Demon.” All titles earned for his reputation as one of Raewon’s toughest, yes, but also as the best in the business. So when the despe",
     "descriptionPt": "",
-    "chaptersCount": 73,
+    "chaptersCount": 75,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -269007,7 +269007,7 @@ let MANGA_DATA = [
     ],
     "description": "Love is in the Heir Born to inherit a hotel empire, Woo Myeong-seong was raised like a “perfect creation” by his controlling father. To the outside world, he has it all: brains, looks, wealth. But behind closed doors, he’s slowly burning out from a lifetime of pressure and expectation. One day, while listlessly going about his routine, he runs into Do Jeonsu, a high school classmate now working as a chicken delivery guy. Cheerful, awkward, and hopelessly inexperienced in love, Jeonsu is everything Myeong-seong isn’t. On a whim, Myeong-seong offers to teach Jeonsu the art of dating, but the les",
     "descriptionPt": "",
-    "chaptersCount": 86,
+    "chaptersCount": 90,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -274303,7 +274303,7 @@ let MANGA_DATA = [
     ],
     "description": "A Murderous Affair at 19 Sunset Street (Uncensored) A man is found murdered in an apartment at 19 sunset Street. the prime suspect is Leon Devonport, the victim’s lover, and all evidence found on the scene of the death seems to point to him. In order to prove his innocence, Leon seeks out Benjamin Wolf, a once-famous detective who has now retired from murder cases due to an incident in his past. Benjamin had long stepped away from murder cases, but at Leon’s desperate request, with a bit of flirting, he reluctantly takes the case and begins to investigate. As the investigation progresses, Benj",
     "descriptionPt": "",
-    "chaptersCount": 58,
+    "chaptersCount": 64,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -279903,32 +279903,6 @@ let MANGA_DATA = [
     "source": "mangadistrict"
   },
   {
-    "id": "a-midsummer-s-carol-uncensored",
-    "slug": "a-midsummer-s-carol-uncensored",
-    "title": "A Midsummer’s Carol (Uncensored)",
-    "altTitle": "",
-    "cover": "https://hentai20.io/wp-content/uploads/2026/05/a-midsummers-carol-uncensored-193x278.jpg",
-    "banner": "https://hentai20.io/wp-content/uploads/2026/05/a-midsummers-carol-uncensored-193x278.jpg",
-    "author": "Unknown",
-    "artist": "Unknown",
-    "status": "ongoing",
-    "year": 2026,
-    "rating": 0,
-    "genres": [
-      "Hentai",
-      "Adult",
-      "Josei",
-      "Uncensored"
-    ],
-    "description": "After failing at both love and work, Dokyung returns to the stillness of her hometown, Mooyung, where a chance encounter at her mother’s old corner store",
-    "descriptionEn": "After failing at both love and work, Dokyung returns to the stillness of her hometown, Mooyung, where a chance encounter at her mother’s old corner store",
-    "chaptersCount": 40,
-    "lang": "en",
-    "hasPt": false,
-    "hasEn": true,
-    "source": "hentai20"
-  },
-  {
     "id": "estou-tentando-me-tornar-parte-da-familia-do-duque-das-trevas",
     "slug": "estou-tentando-me-tornar-parte-da-familia-do-duque-das-trevas",
     "title": "Estou tentando me tornar parte da família do Duque das Trevas",
@@ -282328,6 +282302,30 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "tankouhentai-kouhai-no-tangan-chan",
+    "slug": "kouhai-no-tangan-chan",
+    "title": "Kouhai no Tangan-chan",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/11/Kouhai-no-Tangan-chan-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/11/Kouhai-no-Tangan-chan-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Vanilla",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 7,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

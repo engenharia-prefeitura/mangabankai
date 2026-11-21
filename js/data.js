@@ -93908,7 +93908,7 @@ let MANGA_DATA = [
     ],
     "description": "The Light I Give You (Uncensored) Once a promising athlete, Yoonbin is ready to give up after repeated injuries shatter his dreams. At his lowest point, a mysterious man with a tiger tattoo gives him the strength to stand again. Years later, after retiring as a gold medalist and becoming a taekwondo instructor, Yoonbin unexpectedly reunites with Kwon Young, an underworld boss and the man who saved his life. Haunted by his past, Young pushes Yoonbin away, convinced he brings only harm. But Yoonbin refuses to let go, because now it is his turn to become Young’s light.",
     "descriptionPt": "",
-    "chaptersCount": 46,
+    "chaptersCount": 50,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -97819,7 +97819,7 @@ let MANGA_DATA = [
     ],
     "description": "The White Pine Kim Jaehan, a brilliant and ambitious young magistrate newly appointed to the Sangju district, arrives with a hidden agenda that threatens the local status quo. Shortly after his arrival, he crosses paths with Choi Yeon-ho, the eldest son of the powerful and influential Choi clan. Despite his lineage, Yeon-ho lives a miserable existence as a social outcast held in utter contempt by his own family. Jaehan finds himself strangely drawn to the innocent, suffering soul hidden beneath Yeon-ho’s ragged exterior, and he begins to offer the young man a rare, genuine kindness. For Yeon-h",
     "descriptionPt": "",
-    "chaptersCount": 34,
+    "chaptersCount": 36,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -274277,7 +274277,7 @@ let MANGA_DATA = [
     ],
     "description": "Cheer Love (Official) “Let’s go! I’ll cheer you up with my body.” The secret private lives of a mascot part-timer who’s a former baseball player and cheerleaders. Do you wanna hear about them?",
     "descriptionPt": "",
-    "chaptersCount": 19,
+    "chaptersCount": 21,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -282469,6 +282469,30 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "mangadistrict"
+  },
+  {
+    "id": "tankouhentai-kangoku-academia-the-comic",
+    "slug": "kangoku-academia-the-comic",
+    "title": "Kangoku Academia THE COMIC",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/11/Kangoku-Academia-THE-COMIC-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/11/Kangoku-Academia-THE-COMIC-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "ongoing",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Vanilla",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 2,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

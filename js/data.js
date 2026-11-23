@@ -90976,7 +90976,7 @@ let MANGA_DATA = [
     ],
     "description": "Traded Lives (Official) Shay, the S-Class Hunter everyone dreams of becoming. But Dennis, a man with the power to switch bodies, sets his sights on stealing everything from him… by taking his body. “You want my body? You’d be better off chasing youth.”",
     "descriptionPt": "",
-    "chaptersCount": 53,
+    "chaptersCount": 58,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -96086,7 +96086,7 @@ let MANGA_DATA = [
     ],
     "description": "Nano Machine After being held in disdain and having his life put in danger, an orphan from the Demonic Cult, Cheon Yeo-Woon, has an unexpected visit from his descendant from the future who inserts a nano machine into Cheon Yeo-Woon’s body, which drastically changes Cheon Yeo-Woon’s life after its activation. The story of Cheon Yeo-Woon’s journey of bypassing the Demonic Cult and rising to become the best martial artist has just begun.",
     "descriptionPt": "",
-    "chaptersCount": 337,
+    "chaptersCount": 338,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -107440,7 +107440,7 @@ let MANGA_DATA = [
     ],
     "description": "The Liquid Medicine of Love Two strangers. One house. 100 days: A clinical trial where a magical medicine makes desire outrun reason… What will remain at the end?",
     "descriptionPt": "",
-    "chaptersCount": 29,
+    "chaptersCount": 30,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -112977,7 +112977,7 @@ let MANGA_DATA = [
     ],
     "description": "No Man’s Land It was on a fateful day when ordinary guy, Lee Seon-woong, found himself transported to a mysterious new world. Initially excited to make his fantasy adventure debut, his hopes are quickly dashed when he discovers he was granted no special powers or blessings. Although Seon-woong is devastated by the news that he’ll have to navigate this no man’s land without any cheat codes, he soon realizes the term “no man’s land” means something more literal around these parts, and he has something special attached to him that no other inhabitant does…",
     "descriptionPt": "",
-    "chaptersCount": 103,
+    "chaptersCount": 104,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
@@ -282660,6 +282660,30 @@ let MANGA_DATA = [
     "hasPt": false,
     "hasEn": true,
     "source": "hentai20"
+  },
+  {
+    "id": "tankouhentai-neutral-actor",
+    "slug": "neutral-actor",
+    "title": "NeuTRal Actor",
+    "altTitle": "",
+    "cover": "https://tankouhentai.com/wp-content/uploads/2026/11/NeuTRal-Actor-hentai-193x278.jpg",
+    "banner": "https://tankouhentai.com/wp-content/uploads/2026/11/NeuTRal-Actor-hentai-193x278.jpg",
+    "author": "Desconhecido",
+    "artist": "Desconhecido",
+    "status": "completed",
+    "year": 2026,
+    "rating": 0,
+    "genres": [
+      "Traição",
+      "Hentai"
+    ],
+    "description": "",
+    "descriptionPt": "",
+    "chaptersCount": 3,
+    "lang": "pt",
+    "hasPt": true,
+    "hasEn": false,
+    "source": "tankouhentai"
   }
 ];
 

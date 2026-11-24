@@ -264508,7 +264508,7 @@ let MANGA_DATA = [
     ],
     "description": "“Because we’re family now.”",
     "descriptionEn": "“Because we’re family now.”",
-    "chaptersCount": 29,
+    "chaptersCount": 35,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,

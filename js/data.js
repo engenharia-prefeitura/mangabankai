@@ -273107,7 +273107,7 @@ let MANGA_DATA = [
     ],
     "description": "For Better or Guess She wakes up in a locked room with no memory of how she got there. Then a voice gives her an impossible choice: identify her husband’s manhood from five anonymous contenders… or watch him die. How well do you really know the one you love?",
     "descriptionPt": "",
-    "chaptersCount": 7,
+    "chaptersCount": 10,
     "lang": "en",
     "hasPt": false,
     "hasEn": true,
